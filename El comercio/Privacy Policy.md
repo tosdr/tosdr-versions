@@ -31,23 +31,886 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¡Incendios! ¿Y el periodismo?
-=============================
+Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre
+===================================================================================
 
-¿Por qué no se colocan en el debate público las cifras de deforestación nacional y su relación directa con la sequía?
----------------------------------------------------------------------------------------------------------------------
+Cortes de luz en Quito y el resto del país se mantendrán.
+---------------------------------------------------------
 
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+![Cortes de luz seguirán en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/corte-de-luz-o.jpg)
 
-Entre la **indignación** y la **tristeza** de los **incendios** en **Quito**, cuyo olor a muerte aún penetra en la nariz, me pregunto: ¿dónde está el **periodismo**? Y no me refiero a los **reporteros**, llaneros solitarios, ellos y ellas, que van a las **zonas** de **desastre**, mientras enfrentan desde el rechazo de la gente hasta los peligros reales de los **riesgos** que cubren.
+Los **cortes de luz** en Quito y el resto de Ecuador se mantienen por las complicaciones en los embalses debido a la **sequía** que afronta el país[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
 
-Me refiero a los **editores** y **directores** de los **medios** de **comunicación**, cuya responsabilidad no termina en asignar los puntos de **cobertura**, sino que deben **procesar** los **reportes** y explicarlos para la gente que no tiene acceso a esa cantidad de **información** privilegiada.
+La comunidad puede consultar los **horarios** definidos para los apagones, tanto de **Quito** cuanto del resto del país, en el siguiente [enlace](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/).
 
-¿Se fueron a dormir? A la nueve de la noche del martes, mientras Quito ardía en llamas, unos pocos muchachos –unos **periodistas** y otros no– informaban en **redes sociales** lo que estaba sucediendo la ciudad. ¿La televisión? ¡Novelas! ¿La radio? ¡Música! ¿Por qué no hablamos de lo que está pasando? ¿Cómo podemos retirarnos de la **transmisión** sin decir una palabra mientras **Quito** es un **infierno**?
+### Más noticias
 
-¿Por qué no se colocan en el **debate público** las cifras de **deforestación nacional** y su relación directa con la **sequía**? ¿Por qué no se pone sobre la mesa la forma en que se queman los **pajonales**, que almacenan y recolectan el **agua** del **ecosistema andino**, para volverlos **zonas agrícolas** y de pastoreo? ¿Por qué no se habla de la tala de **bosques** hecha en Quito para favorecer grandes **proyectos inmobiliarios**?
+* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
+* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
+* [Cortes de luz en Quito interfieren en la movilidad](https://www.elcomercio.com/actualidad/quito/intersecciones-afectadas-cortes-luz-quito.html "Cortes de luz en Quito interfieren en la movilidad")
 
-Un **periodismo** declarativo, acostumbrado a recoger los dichos de las **autoridades** recibe sin inmutarse la afirmación de un **ministro** de **Energía** que al hablar de la **sequía** dice que “solo Dios sabe” cuándo se arreglará –con una **simplicidad** evangélica que raya en el **cinismo**– y otra del alcalde que califica a los **incendios** de “**actos terroristas** y **criminales**”, sin dar más explicaciones. Es trabajo del **periodismo** ir más allá de los decires y, con una **visión** amplia que no termina en la **declaración** del **político** de turno, explicar las causas del caos que vive el **país**.
+Cortes de luz en Quito
+----------------------
+
+La **Empresa Eléctrica Quito** cuenta con los horarios de la suspensión de energía eléctrica del lunes 30 de septiembre al domingo 6 de octubre de 2024.
+
+Hay varias franjas horarias contempladas para el racionamiento de **energía eléctrica**. Por ejemplo, entre las 00:00 y 05:00 y 12:00 y 17:00. Ese es el caso de sitios como **Conocoto y Miraflores**.
+
+En lo que se refiere a la movilidad, la **Agencia Metropolitana de Tránsito (AMT)** indicó que agentes estarán desplegados en las intersecciones semaforizadas. En Quito, hay más de 10 000 cruces.
+
+Las clases y los cortes
+-----------------------
+
+Los horarios de **clases** también tienen modificaciones debido a los cortes de luz. Así lo dispuso el Ministerio de Educación.
+
+* **Jornada matutina:** Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
+* **Jornada vespertina:** Este horario sí tendrá importantes cambios. Los estudiantes ingresarán a la hora habitual, sin embargo, saldrán a las 17:00.
+* **Jornada nocturna:** Este horario se mantendrá bajo la modalidad no presencial. El Ministerio solicitó a los profesores implementar recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
+
+> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
+
+Recomendaciones por cortes de luz
+---------------------------------
+
+Las **medidas de seguridad**, como mantenerse en los domicilios, son parte del panorama con los cortes de luz. El Ecu 911 sí atiende las emergencias que se reporten durante los racionamientos.
+
+Del mismo modo, es importante contar con **planes de seguridad** familiar y, de ser el caso, en urbanizaciones, edificios y condominios.
+
+Sobre los electrodomésticos es importante tener **precauciones**. En el caso del refrigerador, se puede abastecer de hielo o bolsas térmicas que mantienen los productos fríos.
+
+También es recomendable desconectar los **electrodomésticos** antes de los cortes de luz, con base en los horarios.
+
+La gata Catalina simboliza la esperanza en Colombia
+===================================================
+
+Catalina se convirtió en la mascota del Ejército en Arauca, Colombia. La gata sobrevivió a un ataque del ELN.
+-------------------------------------------------------------------------------------------------------------
+
+![Imagen tomada de El Tiempo de Bogotá. El hecho ocurrió en el Arauca.](https://www.elcomercio.com/wp-content/uploads/2024/09/gata-catalina-Colombia.jpg)
+
+**Catalina**, la gata que se ha convertido en un símbolo de resistencia y esperanza en **Colombia**, ha capturado la atención de muchos tras sobrevivir a un ataque del **Ejército de Liberación Nacional (ELN)** en **Arauca**. 
+
+La gata, que es considerada la mascota del **Ejército Nacional**, fue víctima de un atentado que dejó a más de 20 soldados heridos. A pesar de las adversidades, **Catalina** ha demostrado una notable capacidad de recuperación.
+
+### Más noticias
+
+* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
+* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
+
+El ataque y la supervivencia
+----------------------------
+
+El incidente ocurrió cuando un grupo armado del **ELN** atacó una base militar en **Arauca**. Durante el ataque, **Catalina** resultó gravemente herida por esquirlas en la cabeza y el cuello, además de sufrir una fractura.
+
+Inicialmente, los soldados creyeron que había fallecido debido a sus heridas. Sin embargo, su espíritu indomable le permitió luchar por su vida.
+
+Después de ser atendida por médicos veterinarios, **Catalina** comenzó su proceso de recuperación, lo que ha conmovido tanto a los militares como a la población civil.
+
+Un símbolo de esperanza
+-----------------------
+
+La historia de **Catalina** no solo es un relato de supervivencia; también representa la resiliencia del pueblo colombiano frente a la violencia y el conflicto armado.
+
+La gata ha sido adoptada como un símbolo por los soldados que la cuidan y protegen. Su presencia en la base militar ha servido para elevar la moral de las tropas y recordarles que incluso en los momentos más oscuros, hay espacio para la esperanza.
+
+Recuperación y cuidados
+-----------------------
+
+Desde su recuperación, Catalina ha estado bajo el cuidado constante de veterinarios y soldados. Los informes indican que está recibiendo tratamiento para sus heridas y se le proporciona un ambiente seguro y acogedor en la base militar.
+
+A medida que avanza su **rehabilitación**, se espera que Catalina pueda volver a ser una gata activa y juguetona, disfrutando de su vida en compañía de quienes han hecho todo lo posible por salvarla.
+
+Impacto en redes sociales
+-------------------------
+
+La historia de Catalina ha resonado profundamente en las redes sociales, donde numerosos usuarios han compartido su historia y expresado su apoyo.
+
+Las imágenes de la gata con sus cuidadores han circulado ampliamente, generando una ola de simpatía y solidaridad.
+
+Esta atención mediática no solo ha ayudado a visibilizar la situación del **conflicto armado en Colombia**, sino que también ha creado conciencia sobre el impacto que tiene en los seres vivos involucrados.
+
+Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso
+==================================================================
+
+Deportivo Quito y Santa Elena se enfrentan en el complejo de Independiente del Valle por el Torneo de Ascenso.
+--------------------------------------------------------------------------------------------------------------
+
+![Foto referencial del Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T125746.615.jpg)
+
+Así como la hinchada se hizo sentir, **Deportivo Quito** también cumplió en el campo, como en los viejos tiempos. La ‘AKD’ debutó con un triunfo en el **Torneo de Ascenso Nacional** este domingo 29 de septiembre.
+
+Los capitalinos golearon 3-0 a Santa Elena en el partido de ida de los 32 avos de final. Los goles fueron obra de **Jostin Chichande y José Luis Rivera**, quienes hicieron soñar a la afición azulgrana en el arranque del torneo.
+
+El partido de vuelta se disputará el 6 de octubre en Santa Elena, posiblemente en el **Estadio Reales Tamarindo**, en Portoviejo, debido a su mayor capacidad. El habitual estadio del equipo local, el Daring, es muy pequeño para un compromiso de esta magnitud.
+
+### Más noticias:
+
+* [Deportivo Quito debutará con casa llena en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-debutara-con-casa-llena-en-el-torneo-de-ascenso.html "Deportivo Quito debutará con casa llena en el Torneo de Ascenso")
+* [Deportivo Quito y su ruta para el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-su-ruta-para-el-ascenso-serie-b.html "Deportivo Quito y su ruta para el ascenso a la Serie B")
+* [E](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")l [Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
+
+Deportivo Quito toma la delantera
+---------------------------------
+
+Un golazo de tiro libre de la ‘AKD’ abrió el marcador.
+
+El remate tomó un desvío inesperado en plena trayectoria, dejando al guardameta confuso y sin reacción. **Jostin** **Chichande** fue el encargado de anotar a los 12 minutos.
+
+La escuadra capitalina continuó rondando el área rival durante el partido, pero faltó contundencia para hacer daño a Santa Elena, que nunca fue rival en la primera mitad.
+
+Al término de los primeros 45 minutos, el **marcador se mantenía 1-0,** y aunque Quito merecía más, se notó la inconsistencia en la parte ofensiva.
+
+Con un pie en la siguiente ronda
+--------------------------------
+
+Deportivo Quito continuó acechando el área rival tras la reanudación del cotejo, pero esta vez el ambiente era diferente. Con los gritos y el **apoyo incondicional de su hinchada**, parecía que la segunda anotación, la que traería la calma, estaba al caer.
+
+Y así fue: a los 55 minutos, un centro desde el sector derecho encontró a **José Luis Rivera**, quien voló en el área para alcanzar el esférico. Conectó de manera precisa y colocó el 2-0 parcial.
+
+Tras la anotación, el complejo de Independiente del Valle estalló en júbilo, llenándose de cánticos de la afición azulgrana, extasiada de ver a su equipo ganar nuevamente y con el sueño de regresar a la **Serie B**.
+
+Pocos minutos después del gol, **Rivera estuvo cerca de lograr su doblete** con un potente disparo desde el sector derecho, pero el balón se estrelló en la parte exterior de las redes.
+
+La escuadra azulgrana no bajó los brazos tras obtener la ventaja de dos goles y continuó generando ocasiones de peligro, con el objetivo de sentenciar la llave antes del partido de vuelta la próxima semana.
+
+En el ocaso del partido, Iker Morante, a los 82 minutos, conecte un cabezazo letal para sellar la goleada de la ‘AKD’
+
+Persona falleció en siniestro de tránsito en Quito
+==================================================
+
+Siniestro de tránsito en Quito dejó un saldo mortal, este 29 de septiembre.
+---------------------------------------------------------------------------
+
+![Personal del Cuerpo de Bomberos atendió a víctimas de un siniestro en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/siniestro.jpg)
+
+Un siniestro de tránsito en **Quito** dejó un saldo mortal. Este ocurrió la mañana de este domingo, 29 de septiembre de 2024.
+
+Personal del **Cuerpo de Bomberos** de Quito acudió al lugar de los hechos. La emergencia se reportó a las 10:09.
+
+### Más noticias
+
+* [La mayoría de siniestros en Quito se produce en estas vías](https://www.elcomercio.com/actualidad/quito/mayoria-siniestros-quito-produce-estas-vias.html)
+* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
+* [Av. Simón Bolívar, cerrada por siniestro de bus escolar](https://www.elcomercio.com/actualidad/quito/simon-bolivar-cerrada-siniestro-bus-escolar.html "Av. Simón Bolívar, cerrada por siniestro de bus escolar")
+
+> 💥🚙 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Se registra un siniestro de tránsito al interior del paso a desnivel de las avenidas 10 de Agosto y De La Prensa.  
+>   
+> 🚒 Nuestros paramédicos brindan atención prehospitalaria a una persona que resultó herida.  
+>   
+> 🖤 Lamentablemente una persona falleció.  
+>   
+> ⛔ Al momento… [pic.twitter.com/BoMq4rtDxs](https://t.co/BoMq4rtDxs)
+> 
+> — Bomberos Quito (@BomberosQuito) [September 29, 2024](https://twitter.com/BomberosQuito/status/1840421257830887865?ref_src=twsrc%5Etfw)
+
+Siniestro de tránsito en Quito
+------------------------------
+
+El siniestro de tránsito se produjo en las avenidas **De la Prensa y 10 de Agosto**. Inmediatamente se movilizó personal al sitio, así como una unidad de rescate y ambulancias.
+
+El hecho se dio entre un coche entre un bus y un patrullero. Paramédicos del **Cuerpo de Bomberos de Quito** brindaron la atención primaria prehospitalaria a dos personas adultas que resultaron heridas. Ambas fueron llevadas a casas de salud.
+
+En el siniestro, además, **una persona falleció**. Por seguridad se realizó el cierre momentáneo de la vía del corredor central América-La Prensa.
+
+Siniestros y las vías de mayor riesgo
+-------------------------------------
+
+En Ecuador, se registraron 20 994 siniestros de tránsito que provocaron 2 373 fallecidos, según los datos de la **Agencia Nacional de Tránsito (ANT)** en 2023. Esta cifra equivale a un fallecido cada cuatro horas en el país.
+
+Quito es el cantón que registró más fallecidos a causa de **siniestros de tránsito** en Ecuador en 2023, con 329 personas fallecidas.
+
+Con datos de enero a junio de 2024, entre las 10 vías con más siniestralidad registradas, se destaca en primer lugar la avenida **Simón Bolívar**, con 187 siniestros. Le sigue la av. Mariscal Sucre, con 172 siniestros.
+
+  
+
+La pobreza urbana en Argentina subió al 52,9 % en el primer semestre
+====================================================================
+
+En la comparación interanual, el índice de pobreza aumentó en el primer semestre del año 12,8 puntos porcentuales.
+------------------------------------------------------------------------------------------------------------------
+
+![Una persona en situación de calle descansa en un anden este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efeb23a819ecff0dc7d8653940333391f180cc5cd3bw.jpg)
+
+La pobreza en la **población urbana** de [Argentina](https://www.elcomercio.com/actualidad/mundo/argentina-prepara-cortes-voluntarios-energia-empresas-durante-verano.html "https://www.elcomercio.com/actualidad/mundo/argentina-prepara-cortes-voluntarios-energia-empresas-durante-verano.html") se situó en el **52,9 % en el primer semestre del año,** 11,2 puntos porcentuales por encima de la **tasa registrada** en la segunda mitad de 2023, informaron este jueves fuentes oficiales.
+
+![Una persona en situación de calle camina este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe49171a15fbfc90e3a6405c2075aa6df42bc95fcdw-1200x800.jpg)
+
+Según señaló el **Instituto Nacional de Estadística y Censos (Indec)** en un informe, el índice de indigencia se situó en el primer semestre del año en el 18,1 % de las personas, **6,2 puntos por encima** de la tasa registrada en el segundo semestre de 2023.
+
+![Fotografía de una calle en un barrio marginal este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efec7cbcfe08d9e69b0a5c60fcf60e2fec7b8c3e265w-1200x800.jpg)
+
+En la comparación interanual, el **índice de pobreza aumentó** en el primer semestre del año 12,8 puntos porcentuales, mientras que la tasa de indigencia subió 8,8 puntos.
+
+La población más afectada por la pobreza es la de los **niños de hasta 14 años**, grupo en el que la tasa de pobreza escala al 66,1 % y la tasa de indigencia es del 27 %.
+
+La medición tiene en cuenta el nivel de vida en los **31 centros urbanos más poblados del país**, lo que abarca a 29,6 millones de personas, sobre una población total en Argentina de unas 46 millones de personas.
+
+Según el informe, las **ciudades con mayor índice de pobreza son Resistencia (76,2 %),** en la provincia de Chaco, y la capital de la provincia de Formosa (67,6 %).
+
+El aumento de la pobreza en Argentina durante el primer semestre coincidió con una elevadísima inflación, que en la **primera mitad del año acumuló un alza del 79,8** %, con un fuerte impacto en el coste de la cesta básica de alimentos y servicios, cuyo valor marca la línea de la pobreza.
+
+La elevada inflación recortó fuertemente el **poder de compra de los ingresos de los hogares,** en el contexto del severo ajuste puesto en marcha desde finales de 2023 por el Gobierno de Javier Milei, con retracción de la actividad económica (-3,4 % de caída del PIB en el primer semestre) y destrucción de puestos de trabajo formales.
+
+Argentina registró su tasa máxima de pobreza en octubre de 2002, cuando el **índice trepó al 57,5%** tras el estallido de una de las más severas **crisis económicas** que recuerde el país.
+
+Dos detenidos por quemar llantas en el parque Metropolitano sur
+===============================================================
+
+Ambas personas fuero encontradas con 60 neumáticos en el bosque. Según ellos, quería obtener el alambre.
+--------------------------------------------------------------------------------------------------------
+
+![El hecho se registró la madrugada de este domingo 29 de septiembre de 2024. Cortesía: Cuerpo de Bomberos de Quito](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-Quito-2.jpg)
+
+El **Cuerpo de Bomberos de Quito** denunció que dos personas fue encontradas en el bosque junto al parque Metropolitano del sur.
+
+Fueron sorprendidos cuando realizaban la quema de aproximadamente **60 llantas para extraer alambre.**
+
+El hecho se registró la madrugada de este domingo 29 de septiembre de 2024.
+
+Los recordaron mediante su **cuenta de X**, que el miércoles 25 de septiembre, tuvieron que apagar un incendio forestal en este mismo lugar.
+
+### Más noticias
+
+* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
+* [Lluvias podrían generar riesgos en zonas donde hubo incendios forestales](https://www.elcomercio.com/actualidad/ecuador/lluvias-riesgos-zonas-incendios-forestales.html "Lluvias podrían generar riesgos en zonas donde hubo incendios forestales")
+* [Denuncia en Cuenca por intento de provocar un incendio forestal](https://www.elcomercio.com/actualidad/ecuador/investigacion-cuenca-intento-provocar-incendio-forestal.html "Denuncia en Cuenca por intento de provocar un incendio forestal")
+
+La denuncia ante las autoridades
+--------------------------------
+
+El **Cuerpo de Bombero de Quito** con la cooperación de la **Agencia Metropolitana de Control** y **Policía Nacional** tomaron el debido procedimiento.
+
+Ambas personas fuer puestas a las órdenes de la justicia para las investigaciones del caso.
+
+Los **bomberos** pidieron a la ciudadanía que si observan a alguien iniciando quemas que ponen en peligro, lo denuncien al **9-1-1.**
+
+Los incendios forestales en Quito
+---------------------------------
+
+Entre el 23 y 27 de septiembre, el **Cuerpo de Bomberos de Quito** atendió 12 incendios forestales y 91 quemas de desechos. En septiembre, se registraron 65 incendios forestales y 738 quemas de desechos.
+
+En agosto, se reportaron 95 incendios forestales y 791 quemas de desechos, mientras que en julio se contabilizaron 154 incendios forestales y 294 quemas de desechos.
+
+Estos incendios forestales dan un total de **1 999,95 hectáreas quemadas** en **Quito**.  
+
+  
+
+  
+
+¿Quién es Danilo Carrera Drouet?
+================================
+
+Danilo Carrera, empresario ecuatoriano, enfrenta arresto domiciliario por presunta corrupción en el caso Encuentro.
+-------------------------------------------------------------------------------------------------------------------
+
+![Danilo Carrera está vinculado al caso Encuentro que es investigado por la Fiscalía.](https://www.elcomercio.com/wp-content/uploads/2024/09/danilo.png)
+
+**Danilo Carrera Drouet** es un **economista y empresario ecuatoriano** con una amplia trayectoria en el **sector financiero y público**. Se graduó de la **Universidad de Guayaquil** y realizó estudios de postgrado en administración de empresas en la **Universidad de Houston**.
+
+### Más noticias
+
+* [Cronología del caso Encuentro investigado por Fiscalía, así va el juicio](https://www.elcomercio.com/actualidad/seguridad/cronologia-caso-encuentro-investigado-fiscalia.html "Cronología del caso Encuentro investigado por Fiscalía, así va el juicio")
+* [Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-deja-en-suspenso-decision-sobre-habeas-corpus-de-pablo-muentes.html "Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes")
+* [Primer día de juicio contra Danilo Carrera incluyó nueve testimonios](https://www.elcomercio.com/actualidad/seguridad/comienza-juicio-cunado-guillermo-lasso-caso-encuentro.html "Primer día de juicio contra Danilo Carrera incluyó nueve testimonios")
+
+A lo largo de su carrera, ocupó cargos importantes como presidente del **Colegio de Economistas de Guayaquil, gerente del Banco Central del Ecuador y presidente de la Junta Monetaria del mismo banco**. Además, tuvo un papel activo en la enseñanza, para la formación de economistas y administradores de negocios en Ecuador.
+
+En el ámbito deportivo, Carrera fue presidente del **Comité Olímpico Ecuatoriano entre 1997 y 2013**. En 2021, intentó volver a ocupar el cargo, pero la votación favoreció a otro candidato.
+
+Relación con el Banco Guayaquil
+-------------------------------
+
+[Danilo Carrera](https://es.wikipedia.org/wiki/Danilo_Carrera_Drouet "https://es.wikipedia.org/wiki/Danilo_Carrera_Drouet") fue una **figura clave en el Banco Guayaquil**, donde desempeñó el cargo de **presidente del directorio por más de tres décadas**. Esta relación con la entidad financiera se inició en 1984, cuando el grupo Finansur, del cual Carrera formaba parte, adquirió la mayoría de las acciones del banco.
+
+> En una entrevista exclusiva con RTP, Danilo Carrera Drouet se defendió afirmando: “Fui un chivo expiatorio, sacrificado por las circunstancias”.  
+>   
+> En enero de 2023, La Posta reveló audios que presuntamente exponen una red de corrupción en empresas estatales, vinculando a… [pic.twitter.com/i6c1bIOXql](https://t.co/i6c1bIOXql)
+> 
+> — RTP Ecuador 96.5 Fm (@RtpEcuador) [September 20, 2024](https://twitter.com/RtpEcuador/status/1837217177319133369?ref_src=twsrc%5Etfw)
+
+En 1993, Carrera fue nombrado presidente del directorio, mientras que **Guillermo Lasso asumió la presidencia ejecutiva de la entidad**.
+
+La alianza entre **Carrera y Lasso** fue fundamental en la evolución del Banco Guayaquil, una de las instituciones financieras más importantes del país.
+
+Carrera mantuvo su puesto como presidente del directorio desde entonces, mientras que **Lasso dejó el banco en 2012 para comenzar su carrera política**. A pesar de la salida de Lasso, Carrera continuó al frente del directorio del banco.
+
+Involucramiento en el caso Encuentro
+------------------------------------
+
+El 9 de enero de 2023, Danilo Carrera fue mencionado en una investigación periodística publicada por el portal La Posta, en la que se le vinculaba con una presunta red de corrupción en el gobierno de Guillermo Lasso.
+
+Según esta publicación, Carrera habría tenido **influencia sobre las decisiones relacionadas con las empresas públicas**, a pesar de no ocupar ningún cargo oficial en el gobierno. La investigación señaló a otras figuras, como **Hernán Luque y Leonardo Cortázar**, como parte de esta red de tráfico de influencias.
+
+> 🆘.[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) |  
+>   
+> ‼️Según la [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), Danilo Carrera Drouet cuñado del ex presidente [@LassoGuillermo](https://twitter.com/LassoGuillermo?ref_src=twsrc%5Etfw) sería el líder de la red de corrupción que operó en el sector eléctrico durante ese gobierno.  
+>   
+> ‼️Dentro del [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw) que investiga la Fiscalía, también es señalado… [pic.twitter.com/sKSFE5qVAC](https://t.co/sKSFE5qVAC)
+> 
+> — Tiempo Real (@TiempoRealEC) [September 23, 2024](https://twitter.com/TiempoRealEC/status/1838316801081369008?ref_src=twsrc%5Etfw)
+
+A raíz de esta información, la **Fiscalía General del Estado** inició una investigación que derivó en la unión de los casos conocidos como **León de Troya y Encuentro**. En estos casos, se investiga un esquema de corrupción en empresas públicas y en varias instituciones del Estado.
+
+Defensa y situación legal actual de Danilo Carrera
+--------------------------------------------------
+
+Danilo Carrera, ante las acusaciones, sostiene su inocencia y declaró que no existen pruebas que lo vinculen a los hechos investigados. El 24 de noviembre de 2023, la Fiscalía **solicitó prisión preventiva** para varios implicados, incluido Carrera.
+
+Sin embargo, debido a su edad, se le otorgó **arresto domiciliario**. Carrera, en comunicados públicos, reiteró que las acusaciones en su contra no tienen fundamento, y su equipo legal señaló que el proceso presenta irregularidades.
+
+En diciembre de 2023, la **defensa de Carrera** presentó una apelación para revocar el arresto domiciliario. Argumenta que no se le permite ejercer su derecho a la defensa de manera adecuada. Carrera sigue bajo arresto domiciliario mientras se desarrollan las investigaciones correspondientes.
+
+El proceso continúa, y Carrera es uno de los investigados dentro del **marco de esta investigación**. La Fiscalía pidió el pasado 26 de septiembre que **Danilo Carrera** sea condenado por delincuencia organizada.
+
+> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) concluye con su alegato de cierre y solicita que los 2 procesados sean sentenciados a la pena correspondiente por el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw), además del pago de una reparación material.  
+>   
+> Más información ⬇️ [pic.twitter.com/IPuEXzUKxG](https://t.co/IPuEXzUKxG)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 27, 2024](https://twitter.com/FiscaliaEcuador/status/1839477082545422543?ref_src=twsrc%5Etfw)
+
+Según informaron, se dará a conocer oportunamente la **fecha y hora de la reinstalación de la audienci**a. Posterior a esto se emitirá la **decisión final del caso**.
+
+Avanza inscripción de binomios para elecciones 2025, a tres días del fin del plazo
+==================================================================================
+
+El plazo para la inscripción de binomios de acorta. Lo propio para otras candidaturas.
+--------------------------------------------------------------------------------------
+
+![La consulta popular 2024 fue la última cita electoral en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/inscripcion.jpg)
+
+El **Consejo Nacional Electoral (CNE)** dio un nuevo reporte del proceso de inscripción de candidaturas para las **elecciones 2025**.
+
+El último corte se emitió la mañana de este domingo, 29 de septiembre de 2024. En este constan **cinco binomios** que postulan a la Presidencia y Vicepresidencia.
+
+### Más noticias
+
+* [Seis binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Seis binomios se inscribieron en el CNE para las elecciones 2025")
+* [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html "Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025")
+* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
+
+Binomios y las elecciones 2025
+------------------------------
+
+El proceso de **inscripción** de las candidaturas para los comicios que serán el 9 de febrero de 2025, empezó el 13 de septiembre y se extenderá hasta la 18:00 del 2 de octubre de 2024.
+
+A poco tiempo de completarse el paso, de los **16 binomios** que se habían anunciado. Hasta este domingo, solo se han inscrito cinco.
+
+De las 584 listas proclamadas en las primarias, solo 123 se han inscrito. Estas incluyen postulaciones para cinco puestos en el Parlamento Andino y **151 en la Asamblea Nacional**.
+
+> 🔴[#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Con corte a las 10h15 de este domingo, 29 de septiembre, 123 listas han solicitado su inscripción a través del sistema en línea del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 🇪🇨🗳️ Este hito del calendario electoral concluye a las 18h00 del 2 de octubre. [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/aOAOysHozF](https://t.co/aOAOysHozF)
+> 
+> — cnegobec (@cnegobec) [September 29, 2024](https://twitter.com/cnegobec/status/1840416388726263989?ref_src=twsrc%5Etfw)
+
+Los cuadros que ya constan
+--------------------------
+
+El primer binomio en apuntarse en el CNE fue el de Creo, integrado por Francesco Tabacchi y Blanca Sacancela.
+
+Le siguió el de Centro Democrático, con **Jimmy Jairala** y **Lucía Vallecilla**. De igual forma, Acción Democrática Nacional (ADN), con **Daniel Noboa** y **María José Pinto**.
+
+Del mismo modo, **Andrea González** y **Galo Moncayo** están por Sociedad Patriótica y **Jorge Escala** y **Pacha Terán** por Unidad Popular.
+
+La dupla de la Revolución Ciudadana, conformada por **Luisa González** y **Diego Borja**, aunque acudieron al CNE, este 28 de septiembre, hasta las 11:15 de este domingo, todavía no constaban en el registro.
+
+Las fuentes de la institución indicaron que mientras no se complete todo el trámite en línea, cualquier **inscripción** no se refleja en el registro.
+
+Es importante recordar que la **inscripción** es netamente en línea a través del sistema del organismo electoral. Los postulantes pueden ir a las instalaciones, pero, más allá de un acto simbólico, el trámite no es presencial.
+
+Las candidaturas en firme, tras el proceso de impugnación, se conocerán el **30 de diciembre**.
+
+Inscripciones unipersonales y en lista
+--------------------------------------
+
+En la convocatoria a elecciones lanzada por el **CNE** se define que las candidaturas para la Presidencia y sus binomios se consideran unipersonales. 
+
+Para **asambleístas nacionales**, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
+
+En el caso de parlamentarios andinos, las candidaturas son **pluripersonales** y se presentarán en listas completas, por cada candidato principal se presentarán dos suplentes. 
+
+Las listas se conformarán obligatoriamente cumpliendo con los principios de **equidad, paridad, alternancia y secuencialidad** entre mujeres y hombres, tanto para principales como para suplentes.
+
+Las lluvias en Cuenca mejoraron los caudales de dos ríos
+========================================================
+
+El Tomebamba y Machángara llegaron a los mejores niveles de los últimas dos semanas por las precipitaciones registradas el sábado 28 de septiembre.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El río Tomebamba fue el que más creció. Pasó de 1,30 a 2,33 metros cúbicos por segundo, según la Red Hidrometereológica de Cuenca. Giovanny Astudillo/EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-3.jpg)
+
+Los caudales de los ríos **Tomebamba y Machángara**, que atraviesan **Cuenca**, se recuperaron con las lluvias registradas la tarde y noche del sábado 28 de septiembre de 2024.
+
+El Tomebamba fue el que más creció. El caudal subió de 1,30 a 2,33 metros cúbicos por segundo, según la data de la **Red Hidrometereológica de la empresa Etapa, en Cuenca**.
+
+El **Machángara** subió a 1,28 a 1,91 metros cúbicos. Sin embargo, aún están en el nivel considerado como bajo.
+
+Los ríos **Tarqui y Yanuncay** prácticamente se mantuvieron. Este último se ubica en los 1,38 y el primero en 0,52.
+
+### Más noticias
+
+* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
+* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
+* [Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?](https://www.elcomercio.com/actualidad/ecuador/clases-presenciales-quito-retoman-cortes-luz.html "Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?")
+
+Los pronósticos para este domingo 29
+------------------------------------
+
+La **Red Hidrometereológica de Cuenca** ubicó las probabilidades de lluvia en un 70% para la tarde de este domingo 29 y para la noche baja al 44%.
+
+Pese a las lluvias registradas el sábado 28, esta Red sigue considerando que la región se mantiene en condiciones de sequía hidrológica, que empezó hace 79 días.
+
+Según el coordinador de la **Red Hidrometereológica de Etapa, Rigoberto Guerrero,** se requiere que, al menos, llueva durante 10 ó 15 días para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
+
+Además, que llueva durante, por lo menos, una hora y que caiga en las zonas de recarga hídrica. Eso significa que en los **páramos y humedales con cobertura vegetal** para que se almacene.
+
+La lluvia del sábado 28 fue más abundante en el norte de Cuenca, que en las zonas de recarga hídrica de los ríos **Yanuncay y Tomebamba**.
+
+Mafalda cumple 60 años de rebeldía y reflexión
+==============================================
+
+Mafalda, el icónico personaje de Quino, celebra 60 años. Su legado se conmemora con homenajes en diversas ciudades, reflejando su impacto cultural y social.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/PHOTO-2024-09-29-10-55-33.jpg)
+
+**Mafalda**, la célebre creación del humorista gráfico argentino **Quino**, cumple 60 años desde su primera aparición en la prensa el 29 de septiembre de 1964.
+
+Este personaje emblemático ha trascendido generaciones y fronteras, convirtiéndose en un símbolo de la crítica social y la reflexión sobre la humanidad.
+
+Con su mirada inquisitiva y su característico desprecio por las sopas, **Mafalda** ha capturado el corazón de millones alrededor del mundo.
+
+### Más noticias
+
+* [Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal](https://www.elcomercio.com/afull/pepe-aguilar-christian-nodal-cancion.html "Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal ")
+* [Cuida tu alimentación, ejercicios y emociones para preservar tu corazón](https://www.elcomercio.com/empresariales/cuida-alimentacion-ejercicios-emociones-preservar-corazon.html "Cuida tu alimentación, ejercicios y emociones para preservar tu corazón")
+* [WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’](https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html "WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’ ")
+
+Un viaje a través del tiempo
+----------------------------
+
+Desde su concepción, **Mafalda** ha sido un espejo de las inquietudes sociales y políticas de su época.
+
+Nacida en el seno de una familia de clase **media argentina**, la pequeña niña se ha posicionado como una voz crítica ante las injusticias del mundo.
+
+A lo largo de los años, sus **tiras cómicas** han abordado temas como la paz mundial, los derechos humanos y la lucha contra el machismo.
+
+Su creador, **Quino**, solía decir que Mafalda representa una aspiración idealista por un mundo mejor.
+
+Homenajes a en el mundo
+-----------------------
+
+La celebración del cumpleaños de Mafalda se ha llevado a cabo en diversas ciudades del mundo.
+
+En **Cádiz, España**, el Municipio organizó un emotivo homenaje que incluyó exposiciones y actividades culturales para recordar la relevancia del personaje en la sociedad actual.
+
+Los asistentes pudieron disfrutar de una serie de esculturas y proyecciones que resaltaron los momentos más icónicos de Mafalda y sus amigos.
+
+En **Argentina**, donde todo comenzó, los homenajes no se hicieron esperar. Los fanáticos se reunieron en diferentes puntos de **Buenos Aires** para rendir tributo a esta figura que ha marcado la infancia de muchos.
+
+En **San Telmo**, un barrio emblemático de la ciudad, turistas y locales se acercaron a las esculturas de Mafalda para tomarse fotografías y compartir anécdotas sobre cómo este personaje ha influido en sus vidas.
+
+El legado cultural de Mafalda
+-----------------------------
+
+A lo largo de seis décadas, **Mafalda** ha sido traducida a más de **30 idiomas** y ha llegado a ser un referente cultural no solo en **Latinoamérica** sino también en **Europa** y otras partes del mundo.
+
+La tira cómica ha sido utilizada en campañas educativas y sociales, reafirmando su papel como agente de cambio. En este sentido, **Mafalda** no solo es un personaje ficticio; es un símbolo que invita a la reflexión sobre temas cruciales que afectan a la humanidad.
+
+Tadej Pogacar conquista el Mundial de Ciclismo
+==============================================
+
+Tadej Pogacar solo confirmó que es el mejor ciclista del mundo y uno de los mejores de la historia.
+---------------------------------------------------------------------------------------------------
+
+![Tadej Pogacar es el nuevo campeón del mundo en ciclismo de ruta.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T102602.252.jpg)
+
+El esloveno no se cansa de hacer historia. Con un dominio absoluto y demostrando su mejor versión, **Tadej Pogacar** se consagró campeón del **Mundial de Ciclismo** en Ruta este domingo 29 de septiembre, dejando claro que no tiene rival a su altura.
+
+Este título era uno de los pocos que le faltaba al ‘nuevo caníbal’, una verdadera máquina sobre dos ruedas. Aunque antes no había tenido suerte en el **Mundial**, este año logró coronarse y completar una temporada memorable.
+
+### Más noticias:
+
+* [Las opciones de Ecuador en el Mundial de Ruta de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/opciones-de-ecuador-en-el-mundial-de-ruta-de-ciclismo.html "Las opciones de Ecuador en el Mundial de Ruta de Ciclismo")
+* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
+* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
+
+Así, Pogacar culmina una **campaña histórica**, en la que se impuso en el Giro de Italia, el **Tour de Francia** y ahora el Mundial de Ciclismo.
+
+Tadej Pogacar, el nuevo campeón del mundo
+-----------------------------------------
+
+La prueba de ruta se llevó a cabo el domingo 29 de septiembre, comenzando a las 03:30 (hora de Ecuador). El recorrido abarcó una distancia de 273,9 kilómetros, extendiéndose desde Winterthur hasta Zúrich.
+
+**Tadej** **Pogacar** comenzó a forjar su victoria desde las etapas iniciales de la competición. Eslovenia contaba con un gran equipo, con ‘Pogie’ como líder y Primož Roglič como un gregario de lujo, pero su estrategia de equipo se descompuso rápidamente.
+
+![Tadej Pogacar es el nuevo campeón del mundo en ciclismo de ruta.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T100325.077-1024x683.jpg)
+
+A 100 kilómetros de la meta, aprovechando las **falencias del equipo belga**, uno de los más fuertes, con **Remco** **Evenepoel** como figura destacada, Pogacar realizó un ataque arriesgado.
+
+Esto fue sorprendente, dada la distancia que aún faltaba, pero Pogacar confió en su capacidad, respaldada por todo lo que había demostrado durante el año. En el Mundial, no fue la excepción.
+
+Logró despegarse de sus rivales hasta cruzar la meta y **consagrarse campeón con un tiempo de 6:27:30** horas.
+
+El podio lo completaron Ben O’Connor, el australiano, en segundo lugar a 34 segundos del líder, y Mathieu van der Poel, que no pudo defender la corona y terminó en tercer lugar a 58 segundos.
+
+> HISTORIC 👑👑👑  
+>   
+> Men Elite UCI World Champion 🌈 for Tadej Pogačar,[#Zurich2024](https://twitter.com/hashtag/Zurich2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/TGJ4CLoiO1](https://t.co/TGJ4CLoiO1)
+> 
+> — UCI (@UCI\_cycling) [September 29, 2024](https://twitter.com/UCI_cycling/status/1840410810721378413?ref_src=twsrc%5Etfw)
+
+Ecuador en el Mundial
+---------------------
+
+Ecuador no tuvo suerte en este **Mundial**, ya que perdió a varios de sus integrantes antes de la competencia. Primero se bajó Jonathan Narváez por lesión y luego se sumó la principal figura, Richard **Carapaz**, por temas personales. A última hora, Jefferson Cepeda también fue baja tras dar positivo por COVID-19.
+
+Finalmente, solo compitieron Alexander Cepeda y Jonathan Caicedo. Ninguno terminó la competición.
+
+En el Día del Corazón conoce sobre salud cardiovascular y hábitos saludables 
+=============================================================================
+
+Conoce la importancia de la salud cardiovascular y cómo hábitos saludables pueden prevenir enfermedades.
+--------------------------------------------------------------------------------------------------------
+
+![Las enfermedades cardiovasculares son una de las principales causas de muerte a nivel mundial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-corazon.jpg)
+
+El **Día Mundial del Corazón** se conmemora el 29 de septiembre. Desde el año 2000, la **Federación Mundial del Corazón**, con el apoyo de la **Organización Mundial de la Salud** (OMS), estableció esta fecha.
+
+### Más noticias
+
+* [Celebremos el Día Mundial del Corazón con Girasol](https://www.elcomercio.com/empresariales/celebremos-dia-mundial-corazon-girasol.html "https://www.elcomercio.com/empresariales/celebremos-dia-mundial-corazon-girasol.html")
+* [Insuficiencia cardíaca congestiva: ¿cuáles son los síntomas y el tratamiento?](https://www.elcomercio.com/tendencias/salud/insuficiencia-cardiaca-congestiva-sintomas-tratamiento.html "https://www.elcomercio.com/tendencias/salud/insuficiencia-cardiaca-congestiva-sintomas-tratamiento.html")
+
+Su objetivo es concienciar sobre las **enfermedades cardiovasculares** y su prevención, control y tratamiento, según la página de [Salud Castilla y León](https://www.saludcastillayleon.es/AulaPacientes/es/dias-mundiales-relacionados-salud/dia-mundial-corazon#:~:text=El%20D%C3%ADa%20Mundial%20del%20Coraz%C3%B3n,su%20prevenci%C3%B3n%2C%20control%20y%20tratamiento. "https://www.saludcastillayleon.es/AulaPacientes/es/dias-mundiales-relacionados-salud/dia-mundial-corazon#:~:text=El%20D%C3%ADa%20Mundial%20del%20Coraz%C3%B3n,su%20prevenci%C3%B3n%2C%20control%20y%20tratamiento."). 
+
+**Afecciones al corazón** 
+--------------------------
+
+Siguiendo con la misma fuente, las **enfermedades cardiovasculares** representan la **principal causa de muerte a nivel global**. Cada año, más de 17 millones de personas pierden la vida por **infartos de miocardio y accidentes cerebrovasculares**. Esta cifra podría aumentar a 23 millones para el año 2030 si no se toman medidas adecuadas. 
+
+**Condiciones subyacentes** 
+----------------------------
+
+La mayoría de estas enfermedades están asociadas a **condiciones subyacentes**. Factores como **la diabetes, la obesidad, el tabaquismo, el alcoholismo y el estrés** son desencadenantes comunes. Por ello, es esencial comprender la importancia del corazón en nuestra vida y las **formas en que debemos cuidarlo**. 
+
+**La responsabilidad de cuidar el corazón** 
+--------------------------------------------
+
+Cuidar el corazón no es solo responsabilidad de quienes han sido diagnosticados con **afecciones cardíacas**. Este es un tema que concierne a todos. La **salud cardiovascular** está íntimamente relacionada con nuestro **estilo de vida**. Mantener **hábitos saludables** es fundamental para **proteger nuestro corazón**. 
+
+**La prevención es clave** 
+---------------------------
+
+La prevención es clave en la **lucha contra las enfermedades cardiovasculares** (ECV). Según **Vladimir Ullauri**, docente de la Escuela de Medicina de la UIDE, adoptar **hábitos saludables** reduce significativamente el riesgo de **sufrir infartos**, insuficiencia cardíaca o accidentes cerebrovasculares. 
+
+**Hábitos saludables** 
+-----------------------
+
+Ullauri es claro: una **alimentación balanceada y el ejercicio regular** son fundamentales. **Evitar el consumo de tabaco y alcohol** también contribuye a mantener un **corazón sano**. Además, es crucial controlar factores de riesgo como la hipertensión, la diabetes y el colesterol elevado. 
+
+**Importancia del diagnóstico precoz** 
+---------------------------------------
+
+De acuerdo  con Ullauri, el **diagnóstico precoz de las ECV** permite iniciar un tratamiento oportuno. Realizar **chequeos médicos periódicos** es esencial para detectar a tiempo cualquier signo de alarma. Prestar atención a factores como la hipertensión, el colesterol alto, la diabetes y la obesidad puede marcar la diferencia. 
+
+**Tratamiento integral y personalizado** 
+-----------------------------------------
+
+El **tratamiento de las ECV** debe ser integral y personalizado. Cada paciente necesita un enfoque que considere su condición médica y sus factores de riesgo específicos.  
+
+El **control estricto de la presión arterial**, los niveles de glucosa y colesterol, así como la adherencia a los tratamientos prescritos, son esenciales, indica Ullauri. Esto no solo mejora la calidad de vida, sino que también **previene complicaciones graves**. 
+
+**Una responsabilidad compartida** 
+-----------------------------------
+
+Cuidar nuestro corazón es una responsabilidad compartida. Adoptar un **estilo de vida saludable** y estar atentos a los riesgos son pasos vitales para mantener la **salud cardiovascular**. 
+
+La búsqueda de empleo se transforma con el ‘reverse recruiting’
+===============================================================
+
+¿En qué consiste esta metodología?
+----------------------------------
+
+![El reverse recruiting es una nueva modalidad de reclutamiento donde es la empresa. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio.jpg)
+
+El mercado laboral evoluciona y hay nuevas estrategias de reclutamiento. Una que se destaca en los últimos años es el **reverse recruiting**, que significa **contratación inversa.**
+
+Esta metodología implica que las empresas busquen de manera activa a candidatos, aquellos que no están en búsqueda activa de empleo, pero que podrían estar abiertos a una nueva oportunidad si se les presenta algo atractivo. En Ecuador esta forma de selección se encuentra en fase emergente.
+
+A diferencia del reclutamiento tradicional, que es reactivo, el **_reverse recruiting_** se caracteriza por ser proactivo, como explica José Hidalgo, docente de la [UISEK](https://uisek.edu.ec/?utm_source=google&utm_medium=campania_posicionamiento&utm_campaign=oct_2024&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1FrBpEjI9ZNqv4Od_xg0hWF8meAyfrCFhvMpsnEiP3Y0eWCSqN2xvxoC7FoQAvD_BwE "https://uisek.edu.ec/?utm_source=google&utm_medium=campania_posicionamiento&utm_campaign=oct_2024&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1FrBpEjI9ZNqv4Od_xg0hWF8meAyfrCFhvMpsnEiP3Y0eWCSqN2xvxoC7FoQAvD_BwE") & Business School.
+
+Según Hidalgo, este modelo permite a las organizaciones acercarse a perfiles que pueden estar trabajando en otras empresas. “A diferencia del reclutamiento tradicional, que espera que el candidato se acerque a la empresa, el _reverse recruiting_ va tras el candidato”, comenta.
+
+El concepto, si bien es emergente en Ecuador, ya ha sido adoptado por multinacionales, que han implementado programas de recolocación de empleados durante reorganizaciones internas.
+
+Ventajas y desventajas del _reverse recruiting_
+-----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio-2-1024x683.jpg)
+
+**Para los candidatos** representan o**portunidades de crecimiento profesional**. Además, las empresas buscan perfiles específicos. Eso permite que las propuestas sean más ajustadas a las habilidades y preferencias del candidato.
+
+Entre las **desventajas para los candidatos** están la posible **presión para cambiar de empleo.** Además, cambiar de empresa implica un proceso de adaptación a nuevas culturas y dinámicas de trabajo.
+
+**Para las empresas**, las ventajas son el a**cceso a talento altamente cualificado** y la **rápida cobertura de vacantes críticas**. Mientras las d**esventajas** serían m**ayor inversión de tiempo y recursos** y p**osible rechazo de candidatos no interesados**.
+
+Adaptación al mercado laboral actual
+------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio-1-1024x683.jpg)
+
+El **_reverse recruiting_** requiere un cambio en la manera en que las empresas se presentan a sus candidatos. Según Marta Carrión, gerente del Área de Empleo y UNIRalumni de la [UNIR](https://estudiar.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_LT_EC_X_X_X_X_X_MARCAPURA_X_LWEB_GLOB_EC_ALL_AO_GOOGLE-BUS_BUS_GEN_X_[Unir]&utm_content=EC_EC_X_X_X_X_X_MARCAPURA_BUSQ_[Unir]_TXT_CPC_GOOGLE-BUS_EX_X_X_X&bi_campaignid=16603757910&bi_adgroupid=137536304831&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1DQhWoAZHz0-uTGBiLidFR5xDUZwgX0BgGsxrUspyFPVQKRiHJ1ghBoCaxIQAvD_BwE "https://estudiar.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_LT_EC_X_X_X_X_X_MARCAPURA_X_LWEB_GLOB_EC_ALL_AO_GOOGLE-BUS_BUS_GEN_X_[Unir]&utm_content=EC_EC_X_X_X_X_X_MARCAPURA_BUSQ_[Unir]_TXT_CPC_GOOGLE-BUS_EX_X_X_X&bi_campaignid=16603757910&bi_adgroupid=137536304831&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1DQhWoAZHz0-uTGBiLidFR5xDUZwgX0BgGsxrUspyFPVQKRiHJ1ghBoCaxIQAvD_BwE"), “las empresas ya no pueden esperar a que los candidatos toquen a su puerta; tienen que salir a buscarlos y presentarles una oferta atractiva para captar su atención”.
+
+En este sentido, las empresas deben trabajar en fortalecer su **marca empleadora**, con una cultura organizacional que sea atractiva y que promueva el bienestar de los empleados.
+
+Además, el mercado laboral actual demanda flexibilidad, en horarios como en posibilidades de trabajo remoto. Este es uno de los factores clave que los candidatos consideran al evaluar una oferta laboral, junto con el salario, los beneficios de ley y las oportunidades de desarrollo profesional.
+
+Con el tiempo, se espera que más empresas en Ecuador adopten este tipo de estrategias, especialmente en sectores donde la competencia por el talento es alta.
+
+Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?
+=========================================================================
+
+El retorno a clases presenciales incluyen una medida tras los incendios en Quito,
+---------------------------------------------------------------------------------
+
+![Clases presenciales están previstas para este 30 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/clases-presenciales.jpg)
+
+La clases en **modalidad presencial** se suspendieron por los incendios registrados en Quito, en puntos como Guápulo, Bellavista y cerro Auqui[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
+
+La seguridad y la calidad del aire fueron los elementos que se analizaron desde el **[Ministerio de Educación](https://educacion.gob.ec/)** para las nuevas medidas. Están, además, incluyen los cortes de luz.
+
+### Más noticias
+
+* [Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?](https://www.elcomercio.com/actualidad/quito/disposicion-clases-quito-incendios-forestales.html "Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?")
+* [Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-educacion-anuncia-ajustes-horarios-clases-cortes-luz.html "Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz")
+* [Regreso a clases incluye programas de seguridad en escuelas con riesgos](https://www.elcomercio.com/actualidad/ecuador/regreso-a-clases-programas-seguridad-escuelas-riesgos.html "Regreso a clases incluye programas de seguridad en escuelas con riesgos")
+
+Clases presenciales y cortes de luz
+-----------------------------------
+
+Para la semana del lunes 30 de septiembre al viernes 04 de octubre de 2024, ya está definido el cronograma.
+
+Las instituciones **particulares, fiscomisionales y municipales** pueden adoptar las medidas o definir disposiciones propias.
+
+* **Jornada matutina:** las clases comenzarán en el horario habitual, según lo establecido por cada institución, la salida se mantiene sin cambios.
+* **Jornada vespertina:** el horario de ingreso se mantiene sin modificaciones, la salida se establece a las 17:00.
+* **Jornada nocturna:** Se mantiene la modalidad no presencial y se activan recursos académicos y guías pedagógicas. Es importante garantizar el acompañamiento educativo por varias vías alternativas de comunicación.
+
+> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
+
+La jornada en Quito
+-------------------
+
+En el caso de **Quito**, los estudiantes retomarán las actividades presenciales. Eso sí, el Ministerio de Educación recomendó el uso de mascarilla en espacios al aire libre.
+
+Según el informe de la **Secretaría de Ambiente del Municipio**, la calidad del aire regresa progresivamente a condiciones normales. 
+
+No obstante, aún se requieren precauciones por las concentraciones no saludables para grupos sensibles, como pacientes con **enfermedades crónicas**.
+
+Se debió a la generación de **ozono troposférico** por los **aerosoles** que quedaron en el ambiente. Estos, a su vez, reaccionaron con los gases de los vehículos y la radiación solar.
+
+El juramento a la bandera
+-------------------------
+
+En Quito, debido a la suspensión de la **jornada presencial**, los actos del juramento a la Bandera, previstos para el 26 de septiembre, se suspendieron.
+
+El **Ministerio de Educación** indicó que se retomarán una vez que las condiciones se presten. Aún no se ha hecho oficial la reprogramación.
+
+A escala nacional, estaba previsto que juren la **Bandera** 277 677 estudiantes de tercero de bachillerato. La mayoría de ellos asisten a instituciones educativas fiscales (207 973), seguidos de particulares (49 172), fiscomisionales (17 875) y municipales (2 657).
+
+Deportivo Quito debutará con casa llena en el Torneo de Ascenso
+===============================================================
+
+La fiel hinchada del Deportivo Quito no decepcionó en uno de los partidos más importantes del año.
+--------------------------------------------------------------------------------------------------
+
+![Hinchas del Deportivo Quito en un partido de la Segunda Categoría de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T093228.093.jpg)
+
+Este domingo 29 de septiembre, **Deportivo Quito** inicia su sueño de volver a la Serie B de Ecuador, un lugar donde su historia lo merece. En su partido debut, la pasión de su afición se hará sentir, ya que han agotado todas las entradas.
+
+A lo largo de los años, la **‘AKD’ ha sido reconocida por tener seguidores extremadamente fieles**, y esto se reflejará en el Torneo de Ascenso. Deportivo Quito jugará en el complejo de Independiente del Valle, y los gritos de su hinchada se escucharán con fuerza.
+
+### Más noticias:
+
+* [Deportivo Quito y su ruta para el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-su-ruta-para-el-ascenso-serie-b.html "Deportivo Quito y su ruta para el ascenso a la Serie B")
+* [Deportivo Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
+* [Deportivo Quito no jugará en el Atahualpa en Segunda Categoría](https://www.elcomercio.com/deportes/deportivo-quito-estadio-atahualpa-sede-segunda-categoria.html "Deportivo Quito no jugará en el Atahualpa en Segunda Categoría")
+
+El Deportivo Quito agotó las entradas
+-------------------------------------
+
+El jueves 26 de septiembre, durante el primer día de venta de boletos, se **formaron largas filas en los puntos de venta**. El club agradeció a sus aficionados a través de redes sociales por la masiva acogida, a pesar de una temporada irregular en lo deportivo.
+
+Aunque inicialmente solo se agotaron las entradas del sector de preferencia, en los días siguientes se vendieron todas las localidades del estadio de Independiente del Valle.
+
+La ‘**AKD**‘, orgullosa de su hinchada, agradeció el masivo apoyo con un video que mostraba a los aficionados en los estadios cantando sus clásicos cánticos de cancha.
+
+> ¿Ya cachan 💙❤️ el temita que elegimos hoy para nuestros posts? Dejaré esto por aquí para 👀 para verlo mil veces y combatir el insomnio 💤 [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) mi vida 😍  
+> 🎶 Va a volver, va a volver; la AKDemia va a volver 🎶 [pic.twitter.com/MoURodbvfj](https://t.co/MoURodbvfj)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 29, 2024](https://twitter.com/SDQuito_Oficial/status/1840201041930788982?ref_src=twsrc%5Etfw)
+
+Deportivo Quito busca el regreso a la Serie B
+---------------------------------------------
+
+El Deportivo Quito participará en el Torneo de Ascenso a la Serie B, su primer torneo de este tipo desde 2022.
+
+Su **debut en el Torneo de Ascenso será este domingo 29 de septiembre**, enfrentando a Santa Elena Sporting Club por la ida de los treintaidosavos de final, a las 12:00.
+
+El equipo no jugará en su tradicional casa, el Estadio Olímpico Atahualpa, sino que será local en el Complejo de Independiente del Valle, en Chillo Jijón.
+
+El partido de vuelta se disputará el 6 de octubre en Santa Elena, posiblemente en el Estadio Daring, donde Santa Elena SC suele jugar de local.
+
+Los horarios de los cortes de luz en Ecuador se reducen este domingo 29
+=======================================================================
+
+Las horas para cada sector son establecidas por cada una de las distribuidores que operan en cada región.
+---------------------------------------------------------------------------------------------------------
+
+![El Gobierno de Ecuador anunció una reducción de los racionamientos para este domingo 29. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-23.jpg)
+
+Las horas de **cortes de luz** para este domingo 29 de septiembre de redujeron en **Ecuador**. El **Ministerio de Energía y Minas** informó esta decisión mediante un comunicado.
+
+La causa fue el mejoramiento de las condiciones hidrológicas en **Coca Codo Sinclair**, que es la central hidroeléctrica más grande de Ecuador.
+
+“Las horas de suspensión del servicio eléctrico programadas para este domingo 29 de septiembre de 2024 se redujeron a escala nacional, dentro del período establecido en los cronogramas”.
+
+La decisión de reducir el horario de los cortes se adoptó en función de las evaluaciones realizadas por los técnicos del **Operador Nacional de Electricidad (Cenace).**
+
+### Más noticias
+
+* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
+* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
+* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
+
+El aporte de las hidroeléctricas
+--------------------------------
+
+**Coca Codo Sinclair** será el principal productos de energía este domingo 29 de septiembre con el 44%. Le siguen **San Francisco** y **Agoyán**, con el 8% y 6%, en ese orden, según el **Operador Nacional de Electricidad (Cenace).**
+
+Este programó que el complejo eléctrico **Mazar-Paute-Sopladora** aporte no supere el 3% de la generación hidroeléctrica que demandará Ecuador para este domingo 29.
+
+¿Cómo consultar los horarios de los cortes?
+-------------------------------------------
+
+El **Ministerio de Energía y Minas** habilitó el siguiente enlace para que los usuarios de todo el Ecuador puedan conocer los horarios de cortes de luz.
+
+A través de este link se puede acceder a cada una de las **empresas distribuidoras de energía** que operan en todo el territorio ecuatoriano.
+
+El acceso es el siguiente: [https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/")
+
+La situación del sector eléctrico ecuatoriano
+---------------------------------------------
+
+El viernes 27 de septiembre, el **ministro de Energía y Minas, Antonio Goncalves**, indicó que para esta nueva semana, el tiempo de suspensión del servicio podrían reducirse dentro del tiempo programado, debido a la mejora de condiciones hidrológicas en centrales de pasada, como **Coca Codo Sinclair.**
+
+“En este caso se aprovechará al máximo los recursos hídricos disponibles para generar energía”, dijo **Goncalves**.
+
+Según él, en la planificación de los nuevos horarios se ha priorizado minimizar el impacto en el sector productivo, con especial atención al sector industrial. “Al momento ya hemos trabajado con 205 empresas, para ajustar el horario a sus necesidades productivas, sin afectar a los hogares”.
+
+París 2024 reemplazará medallas de bronce deterioradas
+======================================================
+
+Ante quejas y videos burlándose del deterioro de las medallas de bronce, la organización de París 2024 decidió reemplazarlas.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Angie Palacios y Neisi Dájomes, deportistas ecuatorianas que ganaron la medalla de bronce en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T085459.822.jpg)
+
+Los **Juegos Olímpicos y Paralímpicos** de París, celebrados este verano, han tenido una falencia, a pesar de todo lo positivo que dejaron. Algunos atletas expresaron su descontento por la calidad de las medallas, específicamente las de bronce.
+
+El Comité de **Organización de París 2024** ha asegurado a EFE que reemplazará todas las preseas que se hayan estropeado o dañado en estas semanas post la cita deportiva.
+
+### Más noticias:
+
+* [Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos](https://www.elcomercio.com/deportes/casas-deportistas-juegos-olimpicos-ecuador.html "Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos")
+* [Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas](https://www.elcomercio.com/deportes/juegos-olimpicos/juegos-paralimpicos-paris2024-medallas-ecuador.html "Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas")
+* [Estefany López ganó la medalla de bronce en sus primeros Juegos Paralímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/estefany-lopez-gano-medalla-bronce-primeros-juegos-paralimpicos.html "Estefany López ganó la medalla de bronce en sus primeros Juegos Paralímpicos")
+
+Atletas descontentos con el bronce de París 2024
+------------------------------------------------
+
+Álvaro Martín, campeón olímpico de marcha en el relevo mixto junto con María Pérez, se llevó también a casa una **medalla de bronce.**
+
+“La de bronce **se me está descascarillando y parece que se está comiendo el color.** La tengo guardada en la caja que nos dieron para que se desgaste lo menos posible con el aire o con el oxígeno. No sé el motivo. Con la de oro no pasa, esa está perfectamente”, comenta a EFE el marchador extremeño.
+
+La controversia comenzó cuando algunos **deportistas empezaron a mostrar un rápido deterioro** de sus bronces recién colgados. Uno de los primeros fue el patinador de skate Nijah Houston.
+
+El estadounidense mostraba, el pasado 9 de agosto, un desgaste evidente del premio, sobre todo en el verso, donde está grabada la diosa de la Victoria, aunque tampoco saliera indemne la parte delantera, en la que está incrustado el famoso pedacito de la Torre Eiffel.
+
+“**Hay que mejorar un poco la calidad de las medallas**“, lamentaba en su post en las redes el skater.
+
+¿Cómo es la medalla de bronce?
+------------------------------
+
+Los **bronces** en cuestión tienen un diámetro de 85 milímetros, 9,2 mm de grosor y 455 gramos de peso y están hechos de una aleación de cobre, estaño y zinc.
+
+“Las **medallas son los objetos más deseados** y más preciosos para los deportistas. Las que estén estropeadas serán sistemáticamente reemplazadas por la Monnaie de París y acuñadas tal y como eran originalmente”, aclaró el Comité de París 2024.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T085512.206-1024x683.jpg)
+
+Ni este organismo ni la Monnaie de **París** han difundido, hasta el momento, cuántas preseas se han cambiado.
+
+Esta última institución pública, considerada la más antigua de Francia, ha sido la encargada de fabricar las 5.084 medallas de oro, plata y bronce que se han otorgado en los **Juegos** **Olímpicos** y **Paralímpicos** de la capital francesa.
+
+Este fue el aporte de las lluvias en Cuenca para Mazar
+======================================================
+
+El complejo hidroeléctrico Mazar-Paute-Sopladora aporta con menos del 3% de la generación hidroeléctrica. En condiciones normales bordea el 40%.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La capacidad total del embalse de Mazar es de 410 millones de metros cúbicos. Está ubicado en los límites de Azuay y Cañar. Cortesía: Presidente de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/05/Mazar-Ecuador-cortes-de-luz.jpg)
+
+Las dos turbinas de la **central hidroeléctrica Mazar** están apagadas desde el mediodía del viernes 27 de septiembre de 2024.
+
+La intención es evitar que el embalse llegue a los 2 114 metros sobre el nivel del mar, que el límite teme las autoridades eléctricas.
+
+A las 09:00 de este domingo 29 de septiembre, la cota se ubicó en los 2 117,15. Las lluvias registradas la tarde y noche en **Cuenca** no representaron un gran aporte para el **embalse de Mazar**.
+
+Entre el sábado 28 y el domingo 29, el crecimiento fue de apenas 30 centímetros, según la información publicada por la **Corporación Eléctrica del Ecuador (Celec)**.
+
+### Más noticias
+
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+* [El embalse de la hidroeléctrica Mazar subió un metro](https://www.elcomercio.com/actualidad/negocios/embalse-hidroelectrica-mazar-subio-metro.html "El embalse de la hidroeléctrica Mazar subió un metro")
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
+
+Las lluvias en Cuenca
+---------------------
+
+La **Red Hidrometereológica de Etapa** publicó la data sobre las lluvias registradas el sábado 28 en Cuenca.
+
+Las precipitaciones de la tarde duraron cerca de tres horas y tuvieron un máximo acumulado de 19 milímetros en el sector de Ucubamba. Es decir, al norte de la capital azuaya.
+
+Sin embargo, en las zonas de recarga hídrica de los ríos **Tomebamba y Manchángara** (donde son más importantes las lluvias), se acumularon entre siete y nueve milímetros.
+
+La noche del sábado se registraron precipitaciones en el **norte de Cuenca**.
+
+Las condiciones en el central Paute
+-----------------------------------
+
+La **central hidroeléctrica Paute,** que está ubicada aguas abajo del embalse de Mazar, funciona por horas. Las turbinas de la casa de máquinas solo se prenden en las noches para cubrir la demanda.
+
+Entre las 21:00 del sábado 28 y las 02:00 de este domingo 29 solo prendieron entre dos y tres turbinas de las 10 existentes.
+
+El embalse de **Paute** se ubica en los 1 984,65 metros sobre el nivel del mar. Es decir, a siete del máximo y a nueve del mínimo.
+
+La central Sopladora, que está aguas abajo de Paute, también operó en el mismo horario de **Paute-Molino**. Lo hizo porque ocupa las aguas turbinas de la segunda mayor hidroeléctrica del **Ecuador**. **Sopladora** no cuenta con un embalse.
+
+El aporte de Mazar, Paute y Sopladora
+-------------------------------------
+
+El **Operador Nacional de Electricidad (Cenace)** programó que el complejo eléctrico **Mazar-Paute-Sopladora** aporte no supere el 3% de la generación hidroeléctrica que demandará Ecuador para este domingo 29. En condiciones normales bordea el 40%.
+
+**Coca Codo Sinclair** será el principal aportante con el 44%. Le siguen **San Francisco** y **Agoyán**, con el 8% y 6%, en ese orden.  
 
 Turismo y remesas
 =================
@@ -66,44 +929,6 @@ La **migración masiva** que vive el Ecuador en estos momentos, tampoco es que i
 Ningún **partido** actual en **Ecuador** oferta beneficios para la **clase media** y el ser rico es un pecado imperdonable en todas nuestras **tendencias** políticas, a pesar de que todas las **dirigencias** partidistas están conformadas por personas de vidas muy cómodas, con visa americana, ropa de marca, vehículos de alta gama, cuyos seguidores ven la solución a sus **problemas económicos** en un **puesto público** donde se puedan enriquecer en no más de un año. Luego viene el: usted ya comió, deje espacio para que coma otro.
 
 Las **remesas** de **ecuatorianos** que jamás disfrutarán de las casas que aquí se construyen con su **esfuerzo** y sacrificio, aumentarán los próximos años, independientemente de quién gane las **elecciones** y cuando visiten **Ecuador** lo harán con **pasaporte extranjero** y los contabilizaremos como “**turistas**”.  
-
-Cartas a Quito / 29 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este domingo 29 de septiembre de 2024
----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Asamblea exige soluciones inmediatas a crisis energética
---------------------------------------------------------
-
-Ante la magnitud de la crisis energética, lo único que se le ocurre a la Asamblea _es exigir soluciones inmediatas_, sin detenerse a analizar, con algo de responsabilidad, las múltiples causas que originan la crisis para propiciar, dentro sus competencias, soluciones de corto, mediano y largo plazo.
-
-La Asamblea no se detiene a analizar la legislación que regula el funcionamiento de las ineficientes y corruptas empresas públicas relacionadas con la generación, distribución y comercialización de la energía eléctrica; el efecto negativo de los sindicatos en la gestión de las empresas y la necesidad de controlarlas legalmente; la apertura a la participación de la empresa privada como se realiza en Colombia por iniciativa de anteriores administraciones, que le ha permitido al gobierno de ese país atenuar la sequía que también afecta la operación de sus hidroeléctricas; la protección de los bosques, páramos, ríos, océanos con una visión global como exige los problemas del cambio climático. Eso es mucho pedir a la mayoría de asambleístas con mentalidad tan limitadas por su formación o por sus mezquinos intereses políticos, lo más fácil es exigir soluciones sin involucrarse o continuar con los innumerables juicios políticos, aunque desnuden sus falencias con actuaciones ridículas.
-
-El problema de la sequía no se resuelve con exigencias, y por ser un tema que compete a muchos actores nacionales e internacionales, requiere la participación de todos, lamentablemente, también de los asambleístas. Se conoce que más del 50% de los actuales asambleístas esperan ser reelegidos en las próximas elecciones de febrero de 2025. Suplico a mis compatriotas que voten con responsabilidad para evitar la presencia nociva de asambleístas sin ética ni competencias.
-
-Mario Andrade Trujillo
-
-Los derechos de la naturaleza: El caso del Valle de Uravía
-----------------------------------------------------------
-
-En esta época de grandes sequías y de voraces incendios forestales – como el ocurrido en estos días en el cerro Auqui, frente a la ciudad de Quito -, y pese a la alerta roja declarada en todo el territorio nacional por la grave crisis hídrica, ocasionada por la histórica baja de caudales de agua, la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS), contrariando la sana lógica y en oposición a toda norma ambiental, continúa realizando  los estudios para la construcción de una  planta de tratamiento de aguas residuales (PTAR) en el valle de Uravía, parroquia de Checa.
-
-El valle de Uravía cuenta con un uso de suelo de protección ecológica, al estar cubierto de abundantes humedales, fuentes de agua y “pogios”, como los llamaban nuestros ancestros, los que deben ser preservados en su integralidad, y que corren el riesgo de desaparecer si la EPMAPS insiste en la construcción de la PTAR sobre el milenario valle.
-
-A más de eso, el valle de Uravía se encuentra atravesado en toda su extensión por el río del mismo nombre, el que abastece del líquido vital a los barrios de la vecina población de Guayllabamba; y, por si fuera poco, cuenta con muchos árboles centenarios, higuerones, cococumbies, aguacates y un bosque seco de algarrobos, que se encuentran en proceso de ser declarados árboles patrimoniales por la Secretaría de Ambiente del DMQ.
-
-Al actuar de esta forma, la EPMAPS está violando flagrantemente los derechos de la naturaleza y la Pachamama, habiendo ya causado un grave daño ambiental con los estudios previos realizados en el sitio y que hasta hoy no han sido remediados; acción que debe ser sancionada drásticamente, conforme ordena el art. 397 de la Constitución del 2008.
-
-Al respecto, me permito transcribir la sentencia constitucional, dictada dentro del juicio no. 17250-2024-00087, de fecha 21 de agosto del 2024, que reconoce al río Machángara como sujeto de derechos y que, en la parte pertinente, dice:
-
-“Reconocer que el Río Machángara es sujeto y titular de los derechos reconocidos a la naturaleza y tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos (Constitución de la República, Art. 71 incisos 1°)… Declarar que el Municipio del Distrito Metropolitano de Quito vulneró los derechos del Río Machángara reconocidos en nuestra Constitución como ecosistema que forma parte de la naturaleza, derechos como: los derechos de la naturaleza y sus componentes, el derecho al agua, al ambiente sano, saneamiento y salud, y el derecho a la ciudad.”
-
-Esto es, existe abundante jurisprudencia constitucional que reconoce a la naturaleza como sujeto de derechos – por ejemplo, el Río Aquepi en la Provincia de Santo Domingo de los Tsáchilas, el Río Monjas en la ciudad de Quito, el Bosque Protector Los Cedros en Cotacachi, Imbabura, y últimamente, el Río Machángara en esta  ciudad de Quito -, por lo que, siguiendo la misma línea, se debe obligatoriamente reconocer también como sujeto de derechos al río y al valle de Uravía, como un ecosistema integral, al amparo de los derechos contemplados en los arts. 10, 71, 72, 73, 396, 397, 411, 412 y demás preceptos jurídicos pertinentes, de la Constitución de Montecristi.
-
-Alfonso López J.                                                         
 
 Cuando la naturaleza llora
 ==========================
@@ -132,892 +957,3 @@ Vaya mensaje de la **naturaleza**, toda vez que, la **escasez** del **líquido**
 **c3)** Momentos para no olvidar y siempre recordar, en el que, la **naturaleza** ha llorado, vehemente e incontrolablemente desde el fondo de su alma, emanando lágrimas secas, inundadas de dolor.
 
 _Padre, dígame ¿qué le han hecho al río, que ya no canta?…”_ J.M. Serrat.
-
-Nicolás Maduro aseguró que se posesionará el 10 de enero
-========================================================
-
-El Mandatario venezolano desestimó el reclamo del líder opositor Edmundo González.
-----------------------------------------------------------------------------------
-
-![El Consejo Nacional Electoral (CNE) proclamó a Nicolás Maduro como el ganador de los comicios presidenciales del pasado 28 de julio. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/maduro-detencion.jpg)
-
-El presidente de Venezuela, **Nicolás Maduro**, afirmó que se juramentará como mandatario el próximo 10 de enero por el período 2025-2031.
-
-Según él, lo hará luego de que el **Consejo Nacional Electoral (**CNE) lo proclamara como el ganador de los comicios del 28 de julio, un resultado cuestionado dentro y fuera del país.
-
-“El 10 de enero se va a juramentar el presidente **Nicolás Maduro Moros** con el pueblo en la calle, por millones, como manda la Constitución”, señaló el mandatario en una manifestación que celebró su controvertida reelección en el estado La Guaira (norte).
-
-### Más noticias
-
-* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
-* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
-
-El reclamo de Edmundo González
-------------------------------
-
-**Maduro** desestimó que el próximo enero el abanderado de la coalición opositora mayoritaria -Plataforma Unitaria Democrática (PUD)-, **Edmundo González Urrutia**, se juramente como el próximo presidente de Venezuela, pese a los reclamos de “fraude” electoral del antichavismo.
-
-“La Constitución es taxativa y dice que el presidente proclamado por los organismos correspondientes, en este caso el Poder Electoral, y ratificado por la auditoría de peritaje al 100 % de las actas (de votación), hecha por la **Sala Electoral (del Tribunal Supremo de Justicia**), se juramentará el día 10 de enero”, añadió.
-
-La proclamación del Consejo Nacional Electoral
-----------------------------------------------
-
-El **Consejo Nacional Electoral (CNE)** proclamó a Maduro como el ganador de los comicios presidenciales del pasado 28 de julio, pese a que, hasta la fecha, no ha publicado los resultados desagregados, como contempla el cronograma oficial.
-
-El oficialismo se apoya también en un fallo del Supremo -presidido por la chavista **Caryslia Rodríguez-** que convalidó el anuncio del CNE, mientras que la oposición sustenta su reclamo en el “83,5 % de las actas” recabadas por testigos y miembros de mesa, que reflejan -insiste- el triunfo de **González Urrutia,** exiliado en España desde el 8 de septiembre.
-
-Señales de la inseguridad se plasman en espacios de Ecuador
-===========================================================
-
-La Policía investiga señales que alertan sobre posibles hechos delictivos.
---------------------------------------------------------------------------
-
-![Los zapatos colgados en cables son una de las señales que motivan análisis de expertos y autoridades.](https://www.elcomercio.com/wp-content/uploads/2024/09/senales-de-inseguridad.jpg)
-
-La inseguridad en **Ecuador** da señales de evidencia en paredes, objetos ubicados en puntos específicos y otros elementos. Estos para, por ejemplo, delimitar territorios de grupos de delincuencia organizada[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Los códigos pueden ser visibles o sutiles, a vez, varían según la ubicación y las premisas de quienes cometen los delitos. Enviar un **mensaje de poder** suele ser una de las metas.
-
-### Más noticias
-
-* [Esmeraldas se sube al ‘top’ del turismo en Ecuador](https://www.elcomercio.com/actualidad/ecuador/esmeraldas-turismo-seguridad-violencia-militar-policia.html)
-* [Niños y adolescentes reclutados por GDO viven una ‘doble criminalización’](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-reclutados-gdo-ecuador.html)
-* [Niños y adolescentes en Ecuador interesan a grupos delictivos por estos motivos](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-ecuador-riesgo-grupos-delictivos.html)
-
-Los símbolos de la inseguridad son variados
--------------------------------------------
-
-En **Ecuador**, entre el 1 de enero de 2023 y el 31 de julio de 2024, la **Fiscalía**, a través de su web, reportó **145 830 robos**. En estos se incluyen dinero, domicilios, unidades económicas, etc. El denominado a personas es el que lidera la lista.
-
-Este es apenas uno de los **delitos** registrados por la institución y que experimenta la comunidad. Además, están las muertes violentas.
-
-Según la Policía, en cambio, en el **Distrito Metropolitano de Quito**, por ejemplo, se registró una reducción de muertes violentas en un **19% en lo que va de 2024**, respeto del mismo período de 2023.
-
-Las alertas de doble vía
-------------------------
-
-A las **señales de la delincuencia**, se suman las respuestas de la comunidad. En estas, se cuentan letreros con leyendas como “**barrio unido** **contra la delincuencia”**, “ladrón cogido será ajusticiado”, etc.
-
-En el **Centro Histórico de Quito**, en calles como la Mejía, en los locales comerciales, a través de carteles, advierten sobre la seguridad privada.
-
-A los textos, se suman alertas como una moto de un presunto **antisocial** quemada y colgada en un espacio público, como indicador de la unión de la vecindad contra la inseguridad. Eso ocurrió en un barrio de **Quito**.
-
-Las lecturas de las señales
----------------------------
-
-**Wilson Goyes**, experto en Riesgos, hizo un paneo por los distintivos comunes de organizaciones delictivas para marcar territorio.
-
-Entre las físicas están **gráficos** que suelen incluir el nombre del grupo, iniciales o números.
-
-No quedan fuera las e**tiquetas**, colocadas en lugares estratégicos como postes, paredes o mobiliario urbano.
-
- Se suman **colores** que pueden aparecer en los gráficos, ropa o, incluso, en objetos dejados en lugares estratégicos. 
-
-Rastros de hechos delictivos o anuncios
----------------------------------------
-
-El experto añadió objetos como **zapatos** **atados a cables**, botellas rotas, velas encendidas y hasta basura. Estos elementos también pueden usarse para marcar territorio o desafiar a otros grupos.
-
-El **calzado colgado** en los cables puede tener varios significados, entre ellos:  si están unidos por los cordones, podría significar en el sitio se venden drogas. A su vez, que una banda ha marcado su territorio.
-
-* Si los **cordones** cuelgan del cable y tienen más de un nudo, podría indicar que una banda ha marcado su territorio o ha reclutado a otros locales. 
-
-* Si hay más de un par, podría significar que **bandas locales** han sido reclutadas por una más grande.  
-
-* Los zapatos colgados podrían ser un tributo a alguien fallecido, como el **líder de una banda** que fue asesinado.  
-
-Caso en Quito
--------------
-
-En el sector **Comité del Pueblo**, en el norte de Quito, en junio de 2023, por ejemplo, en la calle Joaquín Pareja, una hilera de zapatos colgados de cables era el marco de una disputa entre presuntos antisociales y la comunidad.
-
-Los vecinos denunciaron que en el sitio se vendían sustancias sujetas a fiscalización. En el sitio, una persona murió y otra, fue detenida por la **Policía**.
-
-La última ya tenía antecedentes delictivos, fue encontrada con **sustancias sujetas a fiscalización** y un arma blanca.
-
-El trabajo de la Policía en los sectores
-----------------------------------------
-
-Desde la **Policía** **Nacional** alertaron que los elementos son subjetivos. Pero, claro, son pautas para el trabajo investigativo. Eso sí, aunque hay señales de alerta, no se debe dar paso al pánico o especulación.
-
-El general **Wilson Pavón**, inspector general de la Policía, detalló que el subsistema investigativo y de inteligencia trabaja en el territorio.
-
-Esas labores han servido para trabajos de prevención comunitaria. Esta es, dijo **Pavón**, la primera que va evidenciando los cambios en un barrio.
-
-Pavón detalló que el **eje investigativo** tiene mapeado los sectores y las señales han sido elementos para observar a grupos que se dedican a actividades ilícitas.
-
-En las jornadas, además, han retirado **gráficos con distintivos**, porque “el espacio es público y es para todos”.
-
-Él da fe que encontraron sectores, como en **barrios de Quito**, donde se expendían sustancias sujetas a fiscalización y había **zapatos** del alambrado público.
-
-Algunas alertas sujetas a investigación
----------------------------------------
-
-Los uniformados analizan murales o gráficos que aparecen en las áreas donde operan los **grupos delictivos**.
-
-Entre los distintivos han encontrado coronas, estrellas, dibujos de líderes, etc. Estas delimitaciones son muestras de **poder o estatus**.
-
-En lo que se refiere a la **identidad del grupo**, indicaron, como los tótems en las culturas indígenas, un animal puede servir como un emblema o símbolo que representa al grupo delictivo.
-
-Ese puede reflejar creencias o la filosofía compartida por los miembros de la organización. Pueden ser características como la lealtad, el coraje o la astucia.
-
-Los **tatuajes**, en cambio, pueden tener varios significados y representar el rango o jerarquía. En algunos grupos, una rosa puede significar que el miembro ha completado con éxito un asalto a sus “enemigos”.
-
-Por otro lado, algunos **grupos delictivos** utilizan señas de manos como una forma de comunicación secreta.
-
-Acciones que se vuelven señales
--------------------------------
-
-**Wilson Godoy** también habla de comportamientos que se pueden evidenciar en torno a organizaciones delictivas.  
-
-* **Patrullas:** integrantes que rondan regularmente su territorio para asegurarse de que no haya intrusos y para reforzar su presencia. 
-
-* **Reuniones:** en lugares específicos, como parques o esquinas, que sirven para demostrar control sobre el área. 
-
-* **Actos de vandalismo:** como romper ventanas, rayar vehículos o propiedad pública, pueden ser utilizados para intimidar a otros y demostrar fuerza. 
-
-* **Señas de mano:** muchos grupos tienen señas de mano específicas que utilizan para identificarse entre sí y para comunicarse con otros miembros. 
-
-* **Vestimenta:** la ropa, los accesorios y los tatuajes pueden ser utilizados para identificar a los miembros de una pandilla y para mostrar lealtad al grupo. 
-
-El **catedrático** deja claro que estas son solo algunas de las **señales más comunes**. Sin embargo, estas pueden variar significativamente y si la comunidad sospecha que hay actividades ilícitas, debe alertar a las autoridades.  
-
-La autopercepción femenina mejora con estos ejercicios
-======================================================
-
-¿Por qué creemos que no merecemos todo lo que queremos? es la pregunta a resolver para sanar
---------------------------------------------------------------------------------------------
-
-![La buena autopercepción femenina es clave para sanar.](https://www.elcomercio.com/wp-content/uploads/2024/09/autoestima-femenina.jpg)
-
-Uno de los problemas que afrontan las mujeres **en la mala percepción de sí mismas**. ¿Este aspecto pueden incidir en su éxito personal y profesional?
-
-### Más noticias
-
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-* [Muere Maggie Smith, reconocida actriz de Harry Potter](https://www.elcomercio.com/tendencias/entretenimiento/muere-maggie-smith-reconocida-actriz-de-harry-potter.html "Muere Maggie Smith, reconocida actriz de Harry Potter")
-* [‘Una casa bendecida’ apareció en el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-forestal-casa-bendecida-quito.html "‘Una casa bendecida’ apareció en el incendio forestal en Guápulo")
-
-Una mala autopercepción personal se combate desde el **autoconocimiento**, solo conociéndome podré mejorar los aspectos en los que fallo. **Alexandra Pumarejo,** conferencista y escritora, resalta que la clave está en saber que **soy suficiente** y esto tiene que ver con cómo me veo a mí misma.
-
-¿Cómo sé que no me siento suficiente?
--------------------------------------
-
-Entre las principales señales que me muestran que me percibo a mí misma como **no suficiente** están:
-
-* **Dificultad para poner límites:** se trata de no poder lidiar con la posibilidad de incomodar. Creer que dando gusto a los demás seré más aceptada
-* **Me comparo con los demás:** siento que la vida del resto es mejor que la mía
-* **Miedo a ser auténtica:** busco encajar en un círculo de tal modo que ya no soy yo misma
-* **Dificultad para tomar decisiones**: pienso que mis decisiones pueden valerme el rechazo de los demás. Temor ante las consecuencias
-* **No creo que alguien me ame:** si no me siento suficiente, dudo de que el amor de los demás hacia mí sea verdadero. De ahí vienen los celos e inseguridades.
-* **No dejo entrar el amor por miedo:** me blindo ante la posibilidad de que me hieran o rechacen
-* **Pongo las necesidades de los demás por encima de las propias:** no tengo tiempo para mí, pero sí para todos los demás. Cuando doy a los demás en exceso lo puedo estar haciendo desde la escasez y no desde la abundancia.
-* **Me conformo:** si me siento ‘defectuosa’ busco alguien igual de ‘defectuoso’ para no arriesgarme. Este aspecto es muy peligroso, pues me puede llevar a permanecer en malas relaciones.
-* **Ser perfeccionista**: puedo creer que solo llegando a la perfección puedo ser amada. Este aspecto me puede llevar a evitar cometer errores y esto a su vez a no aprender.
-* **Me tomo todo personal:** creo que todo lo que los demás hacen es contra mí.
-* **Busco mi valor en los demás:** por ejemplo, soy feliz por ser buena madre y que mis hijos sacan las mejores notas. Soy feliz porque le envío a mi esposo los almuerzos.
-* **Trato de ‘anestesiar’ lo que siento:** suplo mi malestar con comida, drogas, alcohol, compras, cirugías estéticas.
-
-La raíz de no sentirme suficiente
----------------------------------
-
-Según **Pumarejo**, si reconozco estas señales en mí misma puedo atacar la raíz y, de ese modo, sanar. Para ello se debe reconocer los problemas que me causaron la sensación de ‘no ser suficiente’. Entre las causas o ‘raíces’ están:
-
-* **Falta de atención en la niñez**. En esta etapa consolido que merezco el amor.
-* **De 0 a 7 años somos egocéntricos**. Aquí se desarrolla la personalidad de cada uno dependiendo del entorno y las circunstancias que vivo. Wendy Wunder, escritora y embajadora de las Naciones Unidas, señala que la normalidad se establece en esta etapa.
-* **Necesidad de la predictibilidad**. Prefiero una historia repetida que romper patrones y enfrentarme a lo nuevo.
-* **Creer que la suficiencia me la dan otras cosas.** Pienso que mi valor depende de situaciones externas, como la aceptación de las amigas, el amor de la pareja.
-* **Por las redes sociales:** me comparo con otras por lo que me ‘venden’ en redes o sus números.
-* **Por nuestro entorno:** somos el promedio de las cinco personas que tenemos a nuestro alrededor.
-* **Por creerles a nuestros pensamientos:** lo que nos decimos todos los días afecta lo que pienso y siento.
-
-Cómo sentirme suficiente
-------------------------
-
-Después de identificar la raíz de los problemas, **hay que trabajar en medidas** que me permitan sanar. Alexandra Pumarejo nos da las [siguientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
-
-* En vez de compararte, empodérate
-* Establece límites, estos son para protegerme no para cambiar al otro
-* No permitas que el trauma de otras personas sea una excusa para maltratarte
-* Suelta el pasado. Ten compasión por cada una de tus versiones anteriores. Tu versión anterior hizo lo mejor que pudo con las herramientas que tenía.
-* Atrévete a ser vulnerable y muéstrate como eres. El antídoto a la vergüenza es la vulnerabilidad
-* Cuestiona tus pensamientos
-* Date a ti misma lo que necesitas. Nadie te va a venir a rescatar o completar.
-* Haz afirmaciones positivas en el espejo, motívate
-* Aprende a confiar en ti. Cúmplete una promesa al día
-* Agradece cinco cosas todos los días
-* Reconoce y ama a tu niña interior
-
-Relaciones saludables
----------------------
-
-**Wendy Wunder**, escritora y ´speaker’, resalta que parte del éxito personal es concentrarse en el camino de cada uno y no comparar mi camino con el de los demás. Pero siempre apoyándome en mi equipo.
-
-Para ello se necesita una **mente abierta para reconocer que los demás son valiosos** aunque sean distintos a mí, Además, entender que el peor error es el miedo al fracaso.
-
-El amor propio y estudiarnos a nosotras mismas es la clave para crecer. Estar seguras de nuestro valor a pesar de lo que pueda decir nuestro entorno.
-
-Parte del fortalecimiento de la autoestima es establecer relaciones saludables. Para ello, Wunder nos da unas claves en torno al respeto:
-
-* Mantener una comunicación abierta, es decir, estar dispuestos a comunicar pero también a escuchar.
-* Establecer un equilibrio entre las emociones, el temperamento y el carácter.
-* Integración. Respetar los aportes y perspectivas de los demás.
-* Para lograr objetivos comunes es importante el trabajo en equipo, ya sea en el plano laboral o personal
-* Resolver los conflictos de manera constructiva, priorizando el bienestar de la relación
-
-WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’ 
-========================================================================
-
-Este ha sido uno de los más esperados y ya muchos quieren tenerlo en sus celulares.
------------------------------------------------------------------------------------
-
-![Los nuevos emoji. Foto: X @Emojipedia.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-emoji.jpg)
-
-Los **emojis** son una de las maneras más potentes de expresión a la hora de hablar por **mensaje de texto en WhataApp**, ya que son una forma de acompañar las palabras con un punto de expresividad que pone las cosas en su justo contexto, independientemente del idioma. 
-
-### Más noticias
-
-* [El emoji evoluciona para adaptarse al gusto interactivo de los más jóvenes](https://www.elcomercio.com/tecnologia/emoji-evoluciona-adaptarse-interactivo-mas-jovenes.html "https://www.elcomercio.com/tecnologia/emoji-evoluciona-adaptarse-interactivo-mas-jovenes.html")
-* [Los emojis más confusos y los preferidos por nuestra comunidad de WhatsApp](https://www.elcomercio.com/tecnologia/dia-emojis-internet-whatsapp-historia.html "https://www.elcomercio.com/tecnologia/dia-emojis-internet-whatsapp-historia.html") 
-
-**Nuevos emojis en camino para WhatsApp** 
-------------------------------------------
-
-En los últimos días, se han vuelto virales los **siete nuevos emojis** que estarán disponibles los próximos meses y el año que viene, y son muchas personas las que están emocionadas por tenerlas en sus dispositivos móviles. 
-
-**Los nuevos íconos** 
-----------------------
-
-Las **nuevas figuras** son una hortaliza, un arpa, un árbol sin hojas, una pala, una salpicadura morada, la bandera de la remota isla del canal de la Mancha llamada Sark, y el tan esperado emoji de ojeras, conocido como ‘estoy cansado, jefe’. 
-
-**Reconocimiento de Emojipedia** 
----------------------------------
-
-**‘Emojipedia’**, un popular sitio de **referencia de emojis**, publicó unas imágenes de muestra hace unos meses y recientemente, el **Consorcio Unicode**, la organización sin ánimo de lucro que se encarga de crear y mantener los iconos de una forma unitaria a escala global. 
-
-> Eight brand new emojis have been formally approved in today's [@unicode](https://twitter.com/unicode?ref_src=twsrc%5Etfw) Emoji Version 16.0 release 🆕[https://t.co/b2QD2bweRx](https://t.co/b2QD2bweRx) [pic.twitter.com/F1EegKi4cR](https://t.co/F1EegKi4cR)
-> 
-> — Emojipedia (@Emojipedia) [September 10, 2024](https://twitter.com/Emojipedia/status/1833528656289009804?ref_src=twsrc%5Etfw)
-
-**‘Estoy cansado, jefe’ en el podio** 
---------------------------------------
-
-La **‘Cara exhausta’** fue la ganadora entre los **emojis más anticipados en los últimos ‘Word Emoji Awards’**, consiguió un 60 por ciento de los votos, lo que la colocaba como la principal candidata a entrar a este selecto grupo. 
-
-**Representación de la cotidianidad** 
---------------------------------------
-
-Esta figura ha sido la más esperada por los usuarios durante años; **un rostro exhausto con ojeras es la representación fiel de la vida cotidiana**, así lo han catalogado varios internautas. 
-
-**El significado del emoji de ‘estoy cansado, jefe’** 
-------------------------------------------------------
-
-Este ícono **representa una expresión abatida y profundas ojeras**, el cansancio acumulado por largas jornadas laborales, noches sin suficiente descanso y la tensión emocional que a menudo acompaña la vida moderna. 
-
-**Conciencia sobre el cambio climático** 
------------------------------------------
-
-Por otro lado, **la salpicadura y la pala** quedaron en segundo y tercer lugar, respectivamente. Aunque puede parecer un poco simple, **el árbol sin hojas** pretende generar **conciencia sobre la sequía y el cambio climático**, según lo comentó **Brian Baihaki**, quien fue el encargado de presentarlo al **Consorcio Unicode**. 
-
-**Palabras de Brian Baihaki** 
-------------------------------
-
-“La **sequía** es una parte natural del **ciclo climático**. Durante millones de años, los árboles se han adaptado a estas duras condiciones. Pero el clima está cambiando; las sequías se hacen más frecuentes, severas e incluso se extienden a otros lugares en poco tiempo”, comentó Baihaki. 
-
-¿Qué es y cuándo ocurre el ‘cordonazo de San Francisco’? 
-=========================================================
-
-El ‘cordonazo de San Francisco’ marca el inicio de la temporada lluviosa.
--------------------------------------------------------------------------
-
-![San Francisco de Asís, quien dejó su carrera militar para convertirse en una figura emblemática del catolicismo. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo.jpg)
-
-Según la **creencia popular católica**, en los primeros días de octubre, **San Francisco suelta el cordón** de su sotana y **golpea las nubes del cielo quiteño para que la lluvia caiga** sobre la capital y **marque el final del verano**.  
-
-### Más noticias
-
-* [El ‘cordonazo’ de San Francisco tendrá este clima en Quito](https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html "https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html")
-* [¿El aguacero que cayó sobre Quito el lunes 19 de octubre fue el cordonazo de San Francisco?](https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html "https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html")
-
-**Esta fecha coincide con el inicio del invierno en Quito**, así que cuando las lluvias son intensas, la gente dice que es el ‘cordonazo de San Francisco’. 
-
-**Celebración del San Francisco** 
-----------------------------------
-
-Para que se considere un **‘cordonazo’**, debe coincidir con la **celebración de San Francisco de Asís**, el 4 de octubre. 
-
-**San Francisco de Asís** es una figura emblemática en la historia del catolicismo. Según [El Tiempo](https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia "https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia"), nació en el seno de una **familia acomodada**. A los 20 años, tomó una decisión importante y se unió al ejército, al buscar una carrera militar. Sin embargo, su vida dio un giro radical y lo llevó al camino de la fe y la santidad.  
-
-**Patrón de los animales** 
----------------------------
-
-**San Francisco es conocido como el patrón de los animales y los veterinarios**. Fundó la **orden franciscana**, que promueve valores como la pobreza y la sencillez. Este enfoque espiritual ha resonado a lo largo de los siglos y sigue como inspiración de millones. 
-
-**Legado y conexión con la naturaleza** 
-----------------------------------------
-
-Su legado es significativo. La **orden franciscana se ha expandido y adaptado a diferentes contextos a nivel mundial**. Los principios que San Francisco defendió perduran, se destaca la **conexión entre la humanidad y la naturaleza**. 
-
-**Cambio de clima en Ecuador** 
--------------------------------
-
-Los **fenómenos meteorológicos** marcan el fin de la **estación seca** y el inicio de la **estación lluviosa** en Ecuador. De acuerdo con [El Universal](https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco "https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco"), esta transición suele ser abrupta. **Las lluvias tienden a intensificarse cerca del equinoccio de septiembre**. 
-
-**Preparación ante las lluvias** 
----------------------------------
-
-Es importante estar preparado para las lluvias intensas. Los **pronósticos meteorológicos** pueden ayudar a **anticipar estos eventos**. Sin embargo, siempre existe un grado de incertidumbre. La **variabilidad del clima** hace que cada año resulte diferente. 
-
-**Inicio de la temporada lluviosa** 
-------------------------------------
-
-**Las lluvias han comenzado en Quito** después de un **periodo de seco**. Este **cambio de clima** se lo empezó a sentir con intensidad el jueves 26 de septiembre.  
-
-Según el **[Instituto Nacional de Meteorología e Hidrología](https://servicios.inamhi.gob.ec/clima/ "https://servicios.inamhi.gob.ec/clima/") (Inamhi)**, se prevé un **aumento en las precipitaciones para octubre**. Este incremento es notable en comparación con agosto y septiembre. 
-
-![Foto: Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo-1-1024x683.jpg)
-
-Foto: Inamhi.
-
-**Posibilidad del ‘cordonazo’** 
---------------------------------
-
-La **transición de la época seca a la época lluviosa** está en marcha. Este fenómeno puede indicar la posibilidad de experimentar el ‘cordonazo de San Francisco’.  
-
-Los **boletines meteorológicos del Inamhi** ofrecen información actualizada. Es fundamental estar **al tanto de las predicciones** para prepararse adecuadamente. Las lluvias intensas pueden afectar las actividades cotidianas en la capital. 
-
-Daniel Noboa se pronunció sobre cambio de sede de la Celec
-==========================================================
-
-El Mandatario decretó que la sede pasará de Cuenca a Quito. Autoridades cuencanas se reaccionaron ante el decreto ejecutivo.
-----------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa escribió sobre este tema en su cuenta de X. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-2.jpg)
-
-El **presidente de Ecuador, Daniel Noboa**, se pronunció sobre las reacciones que tuvieron las autoridades cuencanas por el cambio de sede de la **Corporación Eléctrica del Ecuador (Celec)**.
-
-Mediante un decreto ejecutivo, esta sede se cambió de Cuenca a Quito. Eso generó la reacciones del alcalde de Cuenca, **Cristián Zamora**, el prefecto de Azuay, **Juan Cristóbal Lloret** y el presidente de la **Asociación de Municipalidades del Ecuador**, Patricio Maldonado.
-
-**Noboa** escribió en su cuenta de X que “para todos los que tratan de ubicarme como centralista, un saludo grande a la provincia de Azuay. Nos vemos en Cuenca el 15 de noviembre en la Cumbre Iberoamericana con los jefes de Estado del continente. Una ciudad que siempre debió ser considerada y realzada con este tipo de eventos”.
-
-### Más noticias
-
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
-* [Cortes de luz en Quito interfieren en la movilidad](https://www.elcomercio.com/actualidad/quito/intersecciones-afectadas-cortes-luz-quito.html "Cortes de luz en Quito interfieren en la movilidad")
-
-La reacción de las autoridades en Azuay
----------------------------------------
-
-**Zamora** dijo en su cuenta de X que la decisión de trasladar la Celec de Cuenca a Quito “merece el rechazo como cuencanos y azuayos”.
-
-Dijo que solicitó a la **Presidencia de Ecuador** que revea esta decisión.
-
-El **presidente de la AME, Patricio Maldonado,** publicó un comunicado. En el documento dijo que “como azuayo, Presidente de la AME, conjuntamente con mis compañeros/as ediles de los territorios de las áreas de influencia de las Plantas Hidroeléctricas del Azuay, expresamos nuestra preocupación por el contenido del Decreto Ejecutivo Nro. 407”.
-
-Según él, los municipios defendemos por naturaleza: la autonomía y necesidad de acercar “el Estado al soberano, al pueblo, evitando cualquier acción que debilite, desde el ejercicio privativo de competencias, la transparencia y la Administración desconcentrada Estatal de aprovisionamiento de los servicios básicos”.
-
-Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal 
-=================================================================================
-
-Pepe Aguilar lanzó una canción en la que insta a su yerno, Christian Nodal, a cuidar de Ángela Aguilar.
--------------------------------------------------------------------------------------------------------
-
-![En su nueva canción, Pepe Aguilar expresa su sentir como padre. Foto: www.billboard.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/pepe-aguilar-christian-nodal.jpg)
-
-**Pepe Aguilar**, reconocido **cantante mexicano**, lanzó una nueva canción titulada Cuídamela bien, dedicada a su **yerno Christian Nodal**. Según [El Universal](https://www.eluniversal.com.mx/espectaculos/pepe-aguilar-dedica-cancion-a-nodal-sobre-su-union-con-angela-no-la-cambies-porque-se-te-da-muy-bien/ "https://www.eluniversal.com.mx/espectaculos/pepe-aguilar-dedica-cancion-a-nodal-sobre-su-union-con-angela-no-la-cambies-porque-se-te-da-muy-bien/"), el tema está inspirado en la reciente **boda de Nodal con Ángela Aguilar**, hija del intérprete, celebrada hace dos meses. 
-
-### Más noticias
-
-* [(Video) Christian Nodal explota contra la toxicidad de redes sociales](https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html "https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html")
-* [Christian Nodal recibe críticas por tacaño](https://www.elcomercio.com/afull/christian-nodal-tacano-boda-pepe-aguilar.html "https://www.elcomercio.com/afull/christian-nodal-tacano-boda-pepe-aguilar.html")
-
-**Pepe Aguilar: una confesión de padre a yerno** 
--------------------------------------------------
-
-Siguiendo con El Universal, la canción es una **emotiva confesión de un padre que “entrega” a su hija**, lo que expresa sus deseos de que la relación esté basada en el amor verdadero. En la letra, **Aguilar también hace advertencias dirigidas a Nodal**, al asegurar que desea lo mejor para su hija y que el amor los mantenga unidos. 
-
-**Una relación cercana entre Christian Nodal y Pepe Aguilar** 
---------------------------------------------------------------
-
-Desde hace tiempo, **Pepe Aguilar y Christian Nodal han mantenido una relación cercana** y cariñosa. Tras la boda, **Nodal se ha vuelto oficialmente parte de la familia**, lo que añade un toque más sentimental al tema. Aguilar, siguiendo con la fuente, confesó que **la canción nació desde el corazón**, siendo un reflejo de su sentir como padre. 
-
-**Un lanzamiento especial** 
-----------------------------
-
-“Es una **canción muy especial para mí**, de esas que **nacen desde el corazón** y reflejan el sentimiento de un padre. Espero que les guste, cuéntenme qué les pareció”, escribió Aguilar en la **descripción del video oficial en YouTube**, según El Universal. 
-
-**Referencias directas a Nodal y Ángela** 
-------------------------------------------
-
-A decir de [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2024/09/27/que-dice-la-nueva-cancion-de-pepe-aguilar-dedicada-a-nodal-y-angela/ "https://www.elfinanciero.com.mx/entretenimiento/2024/09/27/que-dice-la-nueva-cancion-de-pepe-aguilar-dedicada-a-nodal-y-angela/"), en la letra de Cuídamela bien se pueden leer **referencias claras a la relación de Ángela con Christian Nodal**. Aguilar le aconseja a su yerno que actúe correctamente y que, aunque él también ha enfrentado dificultades, ser un verdadero hombre significa permanecer y cuidar de su hija. 
-
-**Consejo sobre la relación pasada de Nodal** 
-----------------------------------------------
-
-Aguilar también parece hacer referencia a la **relación anterior de Nodal con la cantante Cazzu**, ya que su noviazgo con Ángela comenzó poco después de finalizar su romance anterior. **Le aconseja no repetir errores y valorar a Ángela**. 
-
-**Un mensaje de bendición** 
-----------------------------
-
-El tema concluye con un mensaje claro: “**Hazla tan feliz** como en la vida siempre quise hacerlo yo… por mi parte yo les doy la bendición y siempre desearé el bien a su relación”, versos que reafirman **los deseos de Pepe Aguilar para el futuro de la pareja**. 
-
-**Estreno viral en redes sociales** 
-------------------------------------
-
-**La canción fue estrenada el 27 de septiembre** y rápidamente se viralizó en redes sociales, al día de hoy cuenta con 786 024 vistas y consolida la relación cercana entre Pepe Aguilar y Christian Nodal. 
-
-Ecuador ofrece incentivos a pequeños generadores de energía
-===========================================================
-
-La Agencia de Regulación y Control de la Electricidad fijó los valores de compensación. Lo hizo en función del tipo de combustible que usen.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador soporta una de las peores sequías de la historia. El Gobierno busca sumar generación para enfrentar los cortes de luz. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/06/cortes-de-luz-malestar.jpg)
-
-La Agencia de Regulación y Control de la Electricidad modificó la regulación 003/24. Su intención es aumentar la mayor participación del sector privado en generación para reducir el impacto de la emergencia energética en Ecuador.
-
-Con este cambio, más generadores del sector privado puedan sumarse a la aportación de electricidad durante el **tiempo de estiaje.**
-
-Antes de la modificación, solo podían participar las empresas que contaban con generadores con un mínimo de 100 kilovatio.
-
-Ahora podrán hacerlo aquellos que dispongan de generadores desde 10 kilovatios.
-
-La Agencia de Regulación y Control de la Electricidad pretende i**ncorporar a generadores de emergencia de los sectores residenciales, pequeños comercios, zonas rurales** y propietarios de equipos de generación reducida.
-
-### Más noticias
-
-* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-
-Uso de otros combustibles
--------------------------
-
-Esta modificación, también, establece la inclusión de otros tipos de combustibles para la operatividad de los equipos de emergencia.
-
-En su texto original de la la regulación, solo se contemplaba al **diésel** como recurso para la generación.
-
-Con esta reforma se incorporan al **gas licuado de petróleo** (GLP) y al **Fuel Oil 4 y al Fuel Oil 6.** La intención es reducir los costos operativos.
-
-El proceso de acreditación en las distribuidoras
-------------------------------------------------
-
-Los propietarios de generadores privados pueden acreditarse presentando el formulario de calificación a las empresas eléctricas de distribución, según la zona de concesión. Y podrán acceder a los incentivos.
-
-Por ejemplo, la **Empresa Eléctrica Regional Centrosu**r habilitó el siguiente enlace para cumplir el trámite: [https://www.centrosur.gob.ec/electrogenos/](https://www.centrosur.gob.ec/electrogenos/)
-
-La **Empresa Eléctrica Quito** hizo lo mismo en este link [https://www.eeq.com.ec/gee](https://www.eeq.com.ec/gee)
-
-Y **Cenel EP** habilitó este acceso [https://serviciosenlinea.cnelep.gob.ec/portal/faces/public/login.xhtml](https://serviciosenlinea.cnelep.gob.ec/portal/faces/public/login.xhtml)
-
-Los incentivos para esta generación
------------------------------------
-
-El Gobierno estableció que las **empresas distribuidoras** realizarán un cálculo mensual de la energía generada por cada generador en funcionamiento.
-
-De esa forma se aplicará incentivos a través de compensaciones en la facturación de energía. Es decir, mediante el cruce de cuentas.
-
-El pasado 26 de septiembre, la Agencia de Regulación y Control de la Electricidad determinó el **rubro para esta compensación** por energía generada. Estableció el valor hasta el 11 de octubre de 2024.
-
-Quienes usen **diésel 1 y 2** tendrán un incentivo de 21,62 centavos de dólar por kilovatio cuando generen menos de 100 kilovatios y 25,77 centavos cuando sea más de 100 kilovatios.
-
-Si es **diésel premium** los valores son de 23,89 y 28,04, en el mismo orden.
-
-En el caso de usar **gas licuado de petróleo**, las compensaciones son de 28,54 y 32,69 cuando es menos de 100 kilovatios y más de 100 kilovatios.
-
-Finalmente, para **Fuel Oil 4 y 6**, estos incentivos se fijaron en 13,75 y 17,90.
-
-Venezolanos pidieron en Madrid la investidura de Edmundo González
-=================================================================
-
-La concentración se realizó en la céntrica plaza Puerta del Sol, en la capital española. Asistió Edmundo González.
-------------------------------------------------------------------------------------------------------------------
-
-![El opositor venezolano Edmundo González participa este sábado en una protesta contra el gobierno de Venezuela en Madrid. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Edmundo-Gonzalez-1.jpg)
-
-##### Agencia EFE
-
-Miles de **venezolanos** se concentraron este sábado 28 de septiembre de 2024 en la céntrica Puerta del Sol de Madrid.
-
-Fue una jornada de movilización en todo el mundo para reivindicar el triunfo del opositor **Edmundo González** en las elecciones del 28 de julio en **Venezuela** y exigir su investidura como presidente del país el próximo 10 de enero.
-
-Bajo el lema ‘**Gran protesta mundial por la libertad en Venezuela**‘, partidarios de **González** y de **María Corina Machado** salieron a la calle cuando se cumplen dos meses de las elecciones venezolanas.
-
-“Aquí hay que pasar de las declaraciones compasivas a las acciones efectivas”, afirmó Antonio Ledezma, exalcade de **Caracas**, en declaraciones a la prensa antes de comenzar el acto.
-
-### Más noticias
-
-* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
-* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
-* [En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal](https://www.elcomercio.com/actualidad/mundo/venezuela-1-867-presos-motivos-politicos-segun-ong-foro-penal.html "En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal")
-
-Él agradeció el apoyo recibido de parlamentos nacionales, como el de **España**, y de organismo internacionales como la **ONU**, o la **OEA**, pero insistió: “Ya es hora de hacer respetar la voluntad soberana que está siendo burlada por una dictadura”.
-
-**Ledezma**, coordinador del **Consejo Político Internacional de la líder opositora María Corina Machado**, afirmó que la comunidad internacional “tiene que hacerse presente con acciones contundentes para que este mal ejemplo que representa (el presidente Nicolás) Maduro no sea copiado por otros líderes populistas”.
-
-Edmundo González estuvo en la concentración en Madrid
------------------------------------------------------
-
-A la concentración asistió **Edmundo González**, candidato de la principal coalición opositora de **Venezuela**, la Plataforma Unitaria Democrática (PUD) en las elecciones presidenciales del pasado 28 de julio.
-
-**González**, que el 8 de septiembre llegó a **España** para pedir asilo, saludó a todos los asistentes, pero no pudo hablar porque, según dijo **Ledezma**, sufría afonía, y fue él quien se encargó de leer un mensaje suyo.
-
-En él insistió en que el 28 de julio el pueblo “dio un mandato soberano” a través de las urnas “por la paz y la democracia”, confió “en el poder de la verdad” y afirmó que están “muy cerca” de concretarlo.  
-También participó a través de internet Machado, quien en un emotico mensaje afirmó: “El final no es solo que **Maduro** deje el poder, eso va pasar, el final es la construcción de una Venezuela que se va a levantar”.
-
-Independiente del Valle ganó y aspira al título de Liga Pro de forma directa
-============================================================================
-
-Independiente del Valle no quiere jugar la final de la Liga Pro, sino ganarla de forma directa.
------------------------------------------------------------------------------------------------
-
-![Jeison Medina celebrando uno de los goles de Independiente del Valle contra Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T145501.904.jpg)
-
-**Independiente** **del** **Valle** venció 5-2 a Universidad Católica este sábado 28 de septiembre, en lo que fue el partido de la jornada de la Liga Pro, y que no decepcionó.
-
-Los ‘Rayados’ dieron una **auténtica cátedra en su casa**, demostrando un juego de elaboración y colectivo que les permitió vencer a uno de los mejores equipos del torneo y mantener vivo el sueño de ser campeones directos.
-
-### Más noticias:
-
-* [¿Quién juega hoy en la Liga Pro?](https://www.elcomercio.com/deportes/futbol/partidos-liga-pro-28-septiembre.html "¿Quién juega hoy en la Liga Pro?")
-* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
-* [Independiente del Valle se mete a semifinales en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/copa-ecuador-independiente-valle-guayaquil-city-semifinales.html "Independiente del Valle se mete a semifinales en Copa Ecuador")
-
-Con esta victoria, **IDV llegó a 16 puntos e igualó a Liga de Quito** en la punta de la tabla, aunque los albos se mantienen en el primer lugar por mejor gol diferencia y aún tienen un partido por jugar.
-
-Partidazo de ida y vuelta
--------------------------
-
-**Independiente** **del** **Valle** abrió el marcador en el amanecer del compromiso. **Jeison Medina**, el goleador de los ‘Rayados’, se juntó con Junior Sornoza para una jugada colectiva que culminó con el disparo del colombiano dentro del área, sorprendiendo a la Universidad Católica a los dos minutos.
-
-> Laboratorio [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw) 👨🏻‍🔬  
->   
-> Jugada preparada y gol de Jeison Medina en apenas dos minutos de partido.  
->   
-> Sigue la [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). ⚽️ [pic.twitter.com/q2dtsd3Dpw](https://t.co/q2dtsd3Dpw)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840098950763663730?ref_src=twsrc%5Etfw)
-
-A pesar de que IDV dominaba el juego, una desconcentración y una gran jugada colectiva de la Católica derivaron en una falta de **Guido Villar sobre José Fajardo**, que fue sancionada como penal. Luciano Vietto se encargó de ejecutar la **pena máxima** e igualó el marcador a los 19 minutos.
-
-> Penal, chequeo VAR y gol de [@UCatolicaEC](https://twitter.com/UCatolicaEC?ref_src=twsrc%5Etfw). 🫡  
->   
-> La visita iguala el partido con tanto de Luciano Nieto tras falta del arquero Guido Villar. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) 🤝🏻 [pic.twitter.com/HIDLOoLFty](https://t.co/HIDLOoLFty)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840102632763084800?ref_src=twsrc%5Etfw)
-
-**Universidad Católica se quedó con 10 hombres** poco después de la media hora de partido. Rafael Romo detuvo un ataque de Independiente del Valle con la mano fuera del área, lo que le valió la expulsión.
-
-Tras la revisión en el VAR, el juego se reanudó a los 42 minutos con un tiro libre para los locales, que terminó en gol del capitán **Junior Sornoza tras una jugada elaborada**.
-
-> Ejecución perfecta ✅  
->   
-> Segunda jugada preparada, segundo gol de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). Esta vez le tocó definir a Junior Sornoza. 🔥  
->   
-> Para aplaudir. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Ak7AzQIsfg](https://t.co/Ak7AzQIsfg)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840108581825212432?ref_src=twsrc%5Etfw)
-
-A pesar de la inferioridad numérica, Universidad Católica no bajó los brazos y encontró el gol del empate gracias a una gran acción de Fajardo. El panameño recibió el balón, aguantó en el área de IDV y esperó a que Alexander Alvarado se acercara para darle un pase. **Alvarado definió y envió el balón a las redes**.
-
-> PAR TI DA ZO 🤯  
->   
-> Arrancó la Pantera Fajardo y nadie pudo detenerlo antes de asistir a Alexander Alvarado para el 2-2.  
->   
-> Lo vives en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). 🥵 [pic.twitter.com/R37ViZmI5Q](https://t.co/R37ViZmI5Q)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840109858244219002?ref_src=twsrc%5Etfw)
-
-Una cátedra de Independiente del Valle
---------------------------------------
-
-El gol de Independiente del Valle a los 52 minutos fue clave para retomar la ventaja.
-
-Fue una anotación espectacular producto de un juego colectivo. Se realizaron cinco pases entre cuatro jugadores, culminando en gol de **Patrick Mercado** tras una asistencia de Kenny Arroyo.
-
-> Tiki taka 😮‍💨  
->   
-> Patrick Mercado y otro gran gol para [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). Lo ganan 3-2.[#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🤝🏻 [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/AlKdZaltWw](https://t.co/AlKdZaltWw)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840118620325552414?ref_src=twsrc%5Etfw)
-
-Para sentenciar el partido, los ‘Rayados’ marcaron otro golazo tras otra excelente serie de pases. Esta vez, **Kenny Arroyo**, en lugar de asistir, fue el encargado de anotar el cuarto tanto y asegurar la victoria de Independiente.
-
-> Ya es un festival 🥳  
->   
-> Keny Arroyo llegó y definió para prácticamente sentenciar el duelo en el estadio Banco Guayaquil.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) 🫡 [pic.twitter.com/RERGUXQAQX](https://t.co/RERGUXQAQX)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840119824015343814?ref_src=twsrc%5Etfw)
-
-En el ocaso del partido, **Michael Hoyos** puso la guinda del pastel y anotó el quinto y último gol del partido.
-
-Los precios de los alimentos subieron en los mercados
-=====================================================
-
-En Cuenca se registró una reducción en la oferta de hortalizas y frutas debido a la sequía prolongada. Los compradores reclaman.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Los vendedores en Cuenca indicaron que tienen problemas por la falta de agua para el riego de sus cultivos. EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/mercados-cuenca.jpg)
-
-El aumento de **precios** es constante en los mercados de **Ecuador**. La razón principal es la severa **sequía** se registra, que afecta a los **sistemas de riego** o a la **pérdida de los cultivos.**
-
-Esos fueron los argumentos que dieron los vendedores de la **Feria Agroecológica** que se realiza los sábados y domingos, en el norte de **Cuenca** y es organizada por el Gobierno Provincial de Azuay.
-
-El reclamos de los compradores fue una constante, al igual que el malestar de los vendedores, quienes repetían a cada rato la explicación para la subida de los precios.
-
-Una situación similar ocurrió en **Quito**. La falta de **lluvias** en **Ecuador** también es uno de los argumentos que dan comerciantes ante el incremento del precio de algunos productos. Ese es el caso de las papas. 
-
-Una vendedora tradicional del **barrio Las Casas**, quien ofrece tortillas con caucara, se lamentó por el alza, pues, aunque sin querer dar cifras, dijo, la ganancia es cada vez menor.
-
-El incremento de los precios
-----------------------------
-
-La compradora cuencana, Blanca Molina, indicó que hay vendedores que no salido con su productos, sobre todo, en legumbres y verduras. “Hay escazes de **toronjil, manzanilla, frutillas**… porque no hay agua el riego”.
-
-Según ella, incluso, hay vendedores que tuvieron que traer **manzanas** o **duraznos** desde el **Perú**.
-
-Algunos ejemplos de los incrementos. En **Cuenca**, el precio de la **libra de uva verde** pasó de 2,5 a 3,25 dólares. Un **aguacate** costaba de 50 centavos y este sábado 28 de septiembre de 2024 se consigue a 75 centavos o un dólar. 
-
-La semana anterior se compraba tres **manzanas verdes** por un dólar y ahora cada una vale 50 centavos, dijo la cuencana Anita Padilla. “Las **naranjas** se vendían a siete un dólar y ahora cuatro un dólar y los **huevos criollos** subieron de 25 a 35 centavos”. 
-
-La afectación a la economía
----------------------------
-
-Según el **analista económico, Rodrigo Mendiet**a, la sequía, que provoca los cortes de luz, representa una afectación directa a la economía nacional y de las familias.
-
-En marzo y abril de 2024 se contabilizaron pérdidas entre 7 millones y 11 millones por hora, dice Mendieta. Y ahora se repite la situación.
-
-Mendienta señala que el alza actual de los alimentos **no se debe a una especulación** sino más bien a la **caída por la oferta**. 
-
-Películas de salud mental que puedes ver en Netflix
-===================================================
-
-Estas producciones invitan a la reflexión y empatía.
-----------------------------------------------------
-
-![En streaming es posible encontrar películas de todos los géneros. Foto ilustrativa: Internet](https://www.elcomercio.com/wp-content/uploads/2024/09/salud-mental-netflix-El-comercio.jpg)
-
-El cine no solo es una forma de entretenimiento, también puede ser una herramienta poderosa para generar conciencia sobre temas importantes, como la **salud mental**.
-
-Alfonso Bravo, especialista en psiquiatría, propone una selección de **películas disponibles en Netflix** que abordan diferentes aspectos de la salud mental.
-
-### Más noticias
-
-* **[Netflix reaviva el interés en la denuncia de violación de un ex-Menudo](https://www.elcomercio.com/afull/hermanos-menendez-roy-rosello-menudo-serie-netflix.html "https://www.elcomercio.com/afull/hermanos-menendez-roy-rosello-menudo-serie-netflix.html")**
-* **[Netflix lanza un avance especial del ‘Juego del Calamar 2’](https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html "https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html")**
-
-Estas producciones ayudan a comprender mejor las complejidades de diversas **condiciones psicológicas**.
-
-### 1\. **El Padre (2021)**
-
-Esta película protagonizada por el **actor Anthony Hopkins** ofrece una poderosa representación del **alzhéimer**. A través de una narrativa que confunde y desorienta al espectador, la película busca sumergirnos en la mente de una persona que sufre esta enfermedad.
-
-Más allá de la actuación magistral de Hopkins, la película permite a los espectadores experimentar las sensaciones de angustia y pérdida de control que acompañan a los pacientes y a sus seres queridos. Mírala **[aquí](https://www.netflix.com/ec/title/80231331 "https://www.netflix.com/ec/title/80231331")**.
-
-### 2\. **El faro de las orcas (2016)**
-
-Basada en hechos reales, esta película narra la historia de **un niño diagnosticado con autismo** que establece una conexión con las orcas.
-
-La película refleja la importancia de la terapia con animales en el tratamiento de personas con **condiciones mentales complejas**. La producción muestra cómo la interacción con el entorno natural puede ser terapéutica. Disponible **[aquí](https://www.netflix.com/ec/title/80105690 "https://www.netflix.com/ec/title/80105690")**.
-
-### 3\. **El show de Truman (1998)**
-
-Este clásico protagonizado por **el actor Jim Carrey** explora las fronteras entre la realidad y la ficción. La película invita a cuestionar la presión social y la construcción de la realidad. La cinta hace reflexionar sobre la libertad individual frente a las expectativas externas. Mírala [aquí](https://www.netflix.com/ec/title/11819086 "https://www.netflix.com/ec/title/11819086").
-
-### 4\. **Hasta los huesos (2017)**
-
-Esta película, protagonizada por **la actriz de ‘Emily in Paris’, Lily Collins**, aborda los trastornos alimenticios de una forma cruda pero empática. La producción ofrece una visión realista de los desafíos que enfrentan las personas con esta condición, sin estigmatizar a los pacientes, pero mostrando las profundas luchas internas que suelen acompañar a estos trastornos. Disponible [aquí](https://www.netflix.com/ec/title/80171659 "https://www.netflix.com/ec/title/80171659").
-
-### 5\. **Stutz (2022)**
-
-Este documental dirigido por el también **actor Jonah Hill** presenta una conversación íntima entre el director y su terapeuta, Phil Stutz. Su enfoque poco convencional cuestiona los métodos tradicionales de terapia.
-
-Sin imponer un modelo único, **Stutz** invita a los espectadores a abrirse al diálogo sobre las múltiples formas en que se puede abordar la salud mental. Está disponible [aquí](https://www.netflix.com/ec/title/81387962 "https://www.netflix.com/ec/title/81387962").
-
-Estas películas no solo entretienen, sino que también educan sobre la importancia de empatizar y comprender las dificultades que enfrentan las personas con diferentes condiciones mentales.
-
-Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich
-=================================================================
-
-En el partidazo de la jornada de la Bundesliga, Bayer Múnich y Bayer Leverkusen no se hicieron daño.
-----------------------------------------------------------------------------------------------------
-
-![Piero Hincapié (d) peleando la posesión del balón con Jamal Musiala en el Bayern Múnich vs. Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T130547.178.jpg)
-
-El **Bayer Leverkusen de Piero Hincapié** rescató un valioso punto en su visita al Bayern Múnich este sábado 28 de septiembre, gracias a un empate 1-1 en la quinta fecha de la Bundesliga. El ecuatoriano fue titular.
-
-En un partido trabado y con pocas oportunidades, los dos aspirantes al título repartieron puntos y se mantienen en lo más alto de la tabla. El **Múnich sigue como líder con 13 puntos**, mientras que el equipo de la aspirina se encuentra tercero con 10.
-
-### Más noticias:
-
-* [Piero Hincapié está entre los mejores jugadores de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-bundesliga-alemania.html "Piero Hincapié está entre los mejores jugadores de Alemania")
-* [Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo](https://www.elcomercio.com/deportes/willian-pacho-piero-hincapie-mejores-mundo.html "Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo")
-* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
-
-**Hincapié**, quien es fundamental en el equipo de Xabi Alonso, tuvo una **actuación sólida en los duelos con Jamal Musiala,** su principal amenaza ofensiva. El ecuatoriano logró un despeje, un bloqueo y una intercepción.
-
-Golazos de ambos equipos
-------------------------
-
-El partido estuvo muy trabado en el inicio, con muchas faltas. El **Bayern Múnich se acercó al área** en los primeros minutos, pero con el paso del tiempo, el juego se equilibró.
-
-**Andrich** abrió el marcador para el Bayer Leverkusen a los 30 minutos con un bombazo desde los linderos del área. Manuel Neuer tardó en reaccionar y no pudo detener el disparo.
-
-> ¡GOLAZO DEL LEVERKUSEN! 🔥 [pic.twitter.com/zoz87hGTAY](https://t.co/zoz87hGTAY)
-> 
-> — ESPN Deportes (@ESPNDeportes) [September 28, 2024](https://twitter.com/ESPNDeportes/status/1840075210520723936?ref_src=twsrc%5Etfw)
-
-El Bayer Múnich respondió con otro golazo desde fuera del área. **Alexander Pavlovic** anotó a los 38 minutos con un excelso remate que se clavó en el ángulo.
-
-> ¡LO EMPATÓ EL BAYERN Y CON UN G-O-L-A-Z-O! 🤯🤯🤯  
->   
-> Don Pavlovic 🎩 [pic.twitter.com/KCQto5zFKx](https://t.co/KCQto5zFKx)
-> 
-> — ESPN Deportes (@ESPNDeportes) [September 28, 2024](https://twitter.com/ESPNDeportes/status/1840077045792964986?ref_src=twsrc%5Etfw)
-
-No hubo ganador
----------------
-
-En el segundo tiempo, el Bayer Múnich presionó y llegó con frecuencia al área del Leverkusen. **Serge Gnabry** tuvo una oportunidad de oro para la remontada, pero estrelló dos remates consecutivos en el poste.
-
-A lo largo de la segunda mitad, el Bayer Múnich mostró un mejor juego, mientras que el conjunto de **Xabi** **Alonso** aguardaba en su área, esperando un error del rival. A pesar de la insistencia de los locales en los minutos finales, no lograron anotar el gol de la victoria.
-
-El chef ecuatoriano Pachi Larrea conquista la alta pastelería mundial
-=====================================================================
-
-El ecuatoriano recibió el Premio Internacional de Alta Pastelería Paco Torreblanca, celebrado en la Feria Alicante Gastronómica.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El repostero ecuatoriano Pachi Larrea recibió el premio por su tarta de chocolate. Tomado de la cuenta de Instagram de Pachi Larrea](https://www.elcomercio.com/wp-content/uploads/2024/09/Pachi-Larrea.jpg)
-
-**Pachi Larrea**, un destacado chef ecuatoriano, ha alcanzado un hito significativo en el mundo de la alta pastelería.
-
-Él ganó la primera edición del **Premio Internacional de Alta Pastelería Paco Torreblanca**.
-
-Este concurso, celebrado en el marco de la **VI Feria Alicante Gastronómica**, se centra en la creación de la mejor tarta de chocolate del mundo.
-
-La victoria de Larrea no solo resalta su talento y creatividad, sino que también pone en el mapa a **Ecuador** como un país emergente en el ámbito de la gastronomía internacional.
-
-Ganó a la mejor **tarta de chocolate**. Hubo 10 finalistas seleccionados de 220 participantes de varios países.
-
-### Más noticias
-
-* [Arroz con camarones, un plato sabroso y rápido para disfrutar en casa](https://www.elcomercio.com/sabores/arroz-camarones-plato-sabroso.html)
-* [Ecuador se corona campeón en el Mundial de Asadores en Uruguay](https://www.elcomercio.com/tendencias/ecuador-mundial-asadores-uruguay.html)
-* [Lo que un neurólogo recomienda ponerle al café para cuidar el cerebro y la memoria](https://www.elcomercio.com/afull/lo-que-un-neurologo-recomienda-ponerle-al-cafe-para-cuidar-el-cerebro-y-la-memoria.html)
-
-¿Quién es Pachi Larrea?
------------------------
-
-Pachi Larrea es conocido por su enfoque innovador y su dedicación a la pastelería. Desde sus inicios, ha buscado combinar técnicas tradicionales con ingredientes locales, lo que le ha permitido desarrollar un estilo único que resuena con los paladares contemporáneos.
-
-Su formación y experiencia en diversas cocinas del mundo han sido fundamentales para su desarrollo como chef. 
-
-Larrea ha trabajado en varios restaurantes de renombre y ha participado en competiciones internacionales, donde ha demostrado su habilidad y pasión por la pastelería.
-
-Larrea está radicado en Castelldefels (**Barcelona**). Allí, tiene dos establecimientos y suma 20 años de experiencia en el mundo de la pastelería
-
-Premio Internacional de Alta Pastelería Paco Torreblanca
---------------------------------------------------------
-
-El **Premio Internacional de Alta Pastelería Paco Torreblanca** fue creado para honrar la excelencia en la pastelería y fomentar la innovación dentro del sector.
-
-Este concurso es una iniciativa de la **Escuela Internacional de Alta Pastelería** Torreblanca, fundada por el maestro pastelero **Paco Torreblanca**, reconocido como uno de los mejores pasteleros del mundo. 
-
-La primera edición del premio se realizó el 27 de septiembre de 2024, y reunió a talentosos chefs de diversas partes del mundo.
-
-Los criterios de evaluación
----------------------------
-
-Los participantes fueron evaluados en varios aspectos clave:
-
-* **Innovación**. Se valoró la originalidad de las recetas presentadas.
-* **Técnica**. La destreza y precisión en la elaboración fueron fundamentales.
-* **Sabor**. El equilibrio y la intensidad de los sabores fueron cruciales para el jurado.
-* **Presentación**. La estética del producto final también desempeñó un papel importante.
-
-El jurado, compuesto por expertos reconocidos en el ámbito de la pastelería, destacó la receta de **Larrea** por su “factura impecable” y “sabor intenso”, lo que le valió el reconocimiento como ganador.
-
-Fiscalía investigará incendio en parque Samanes
-===============================================
-
-Un incendio forestal en el parque Samanes, en Guayaquil, se produjo el 26 de septiembre de 2024. Además de áreas verdes afectadas, se consumieron varios vehículos. El Gobierno se pronunció y aseguró que empezó un proceso judicial relacionado al caso y, sobre todo, al punto referente a las cámaras de seguridad del lugar. Más noticias \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Incendio en el parque Samanes consumió varios vehículos.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-samanes.jpg)
-
-Un **incendio forestal** en el parque Samanes, en Guayaquil, se produjo el 26 de septiembre de 2024. Además de áreas verdes afectadas, se consumieron varios vehículos.
-
-El **Gobierno** se pronunció y aseguró que empezó un proceso judicial relacionado al caso y, sobre todo, al punto referente a las cámaras de seguridad del lugar.
-
-### Más noticias
-
-* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html)
-* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
-* [Calidad del aire en Quito tiene una nueva variación tras incendios](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-variacion-incendios.html "Calidad del aire en Quito tiene una nueva variación tras incendios")
-
-> 🧵| Nuestros bomberos trabajan arduamente para controlar la situación.[#EstamosAquí](https://twitter.com/hashtag/EstamosAqu%C3%AD?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/rSHQq7C8H7](https://t.co/rSHQq7C8H7)
-> 
-> — Bomberos Guayaquil (@BomberosGYE) [September 26, 2024](https://twitter.com/BomberosGYE/status/1839356829698253138?ref_src=twsrc%5Etfw)
-
-Procesos judicial por incendio en parque Samanes
-------------------------------------------------
-
-Ante la desconexión de cámaras durante el incendio en el **parque Samanes**, el Gobierno informó que desplegó operativo y presentó una denuncia.
-
-En un comunicado emitido por el **Ministerio del Interior** se indicó que el viceministro de Seguridad Ciudadana, Lyonel Calderón, realizó un informe técnico para comprender el alcance de la suspensión. Además, presentó una denuncia ante la Fiscalía General del Estado.
-
-En la demanda se pidió que se investigue la naturaleza de los hechos y la posibilidad de un presunto cometimiento de delitos de **sabotaje y terrorismo**.
-
-Los hechos
-----------
-
-En el comunicado, emitido este 27 de septiembre, se agregó que el incidente consumió **30 hectáreas**, causó daños materiales y puso en riesgo la vida de numerosas personas.
-
-El alcalde de Guayaquil, **Aquiles Alvarez**, informó que el incendio empezó a las 10:59 del jueves, 26 de septiembre.
-
-El **incendio**, que empezó como forestal, avanzó a un patio donde se encontraban carros  
-
-Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior
-=========================================================
-
-Vinícius Júnior lleva tres años siendo uno de los mejores jugadores y una de las grandes figuras del Real Madrid.
------------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior en un partido con el Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T122853.479.jpg)
-
-El entrenador del **Real Madrid, Carlo Ancelott**i, afirmó que el brasileño **Vinícius** Jr. debería ganar su primer **Balón de Oro** en 2024, destacando que lo merece más que cualquier otro jugador debido a su “efectividad” y a su papel fundamental en los logros del equipo.
-
-“Creo que sí merece ganarlo por lo que ha hecho el año pasado, por la efectividad que ha tenido, sobre todo en la **Champions** League, permitiendo ganarla marcando en la semifinal y la final”, manifestó.
-
-### Más noticias:
-
-* [Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-junior-entre-la-lucha-contra-el-racismo-y-el-balon-de-oro.html "Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro")
-* [Condenan a prisión a un hombre por insultos racistas a Vinicius](https://www.elcomercio.com/deportes/futbol/condenan-carcel-racismo-vinicius-madrid.html "Condenan a prisión a un hombre por insultos racistas a Vinicius")
-* [Aumenta el racismo contra futbolistas brasileños](https://www.elcomercio.com/deportes/futbol/aumenta-el-racismo-contra-futbolistas-brasilenos.html "Aumenta el racismo contra futbolistas brasileños")
-
-Aunque Ancelotti se mostró igual de convencido de que si se le escapa a ‘**Vini**‘ el galardón este año, acabará consiguiéndolo más pronto que tarde. “Creo que lo va a ganar y si no lo gana no pasa nada, seguimos y él sigue a por otro”.
-
-Vinícius Júnior, el favorito al Balón de Oro
---------------------------------------------
-
-El gran **favorito para ganar el Balón de Oro 2024** es Vinícius Júnior, gracias a su sobresaliente temporada con el Real Madrid. Según diversas filtraciones, el brasileño está muy cerca de convertirse en el primer jugador de su país en ganar este prestigioso galardón desde que Kaká lo hiciera en 2007.
-
-Entre otros nominados al Balón de Oro destacan Rodri, pieza fundamental del Manchester City y de la selección española, y **Jude** **Bellingham**, quien ha tenido un fantástico debut con el Real Madrid.
-
-Todo lo que debes saber del Balón de Oro 2024
----------------------------------------------
-
-La ceremonia del **Balón de Oro 2024** será la 68.ª edición de este prestigioso premio, organizado por la revista France Football. Al igual que en los últimos años, el premio se entregará en función de los resultados de la temporada regular, en lugar del año calendario.
-
-La gala se celebrará el **28 de octubre de 2024** en el Theatre du Chatelet en París y, en los días previos, se anunciarán los tres finalistas.
-
-¿Cómo se elige al ganador?
---------------------------
-
-La votación del Balón de Oro es un **proceso detallado y complejo**. Un jurado compuesto por **periodistas** de los 100 países mejor clasificados en el ranking FIFA es el encargado de la selección.
-
-Cada periodista elabora una lista con cinco candidatos. El jugador que colocan en el primer lugar recibe la mayor cantidad de puntos, mientras que los demás reciben una cantidad decreciente a medida que descienden en la lista.
-
-Al final, se suman todos los puntos, y el jugador con la puntuación más alta se corona como el **ganador del Balón de Oro**.
