@@ -1,7 +1,9 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave – Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+[![TherapyDave – Dave Lechnyr, LCSW](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20120'%3E%3C/svg%3E)
+
+![TherapyDave – Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
 
 TherapyDave - Dave Lechnyr, LCSW
 
@@ -150,7 +152,9 @@ _“Before therapy I thought I could change people with my love, affection, loya
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
- [![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
+  [![TherapyDave - Dave Lechnyr, LCSW](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20227%2085'%3E%3C/svg%3E)
+
+ ![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
 
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
