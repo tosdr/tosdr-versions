@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Lokpack 2](https://www.myabandonware.com/game/lokpack-2-s2t)
-* [Double Dragon II: The Revenge](https://www.myabandonware.com/game/double-dragon-ii-the-revenge-14u)
-* [Don Doko Don](https://www.myabandonware.com/game/don-doko-don-9t4)
-* [Double Dragon](https://www.myabandonware.com/game/double-dragon-jxx)
-* [Double Dragon 3: The Rosetta Stone](https://www.myabandonware.com/game/double-dragon-3-the-rosetta-stone-1e1)
+* [Ace](https://www.myabandonware.com/game/ace-sjx)
+* [Battle Arena Toshinden 2](https://www.myabandonware.com/game/battle-arena-toshinden-2-sjw)
+* [Amazing Maze](https://www.myabandonware.com/game/amazing-maze-sjv)
+* [005](https://www.myabandonware.com/game/005-sju)
+* [Altair](https://www.myabandonware.com/game/altair-sjt)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [3D Narrow Escape](https://www.myabandonware.com/game/3d-narrow-escape-que)
-* [Vandell: Knight of the Tortured Souls](https://www.myabandonware.com/game/vandell-knight-of-the-tortured-souls-gfl)
-* [Time](https://www.myabandonware.com/game/time-okf)
+* [MicroLeague Baseball 6.0](https://www.myabandonware.com/game/microleague-baseball-6-0-ig6)
+* [Street Fighter: The Movie](https://www.myabandonware.com/game/street-fighter-the-movie-rm7)
+* [Pedestrian Devastation](https://www.myabandonware.com/game/pedestrian-devastation-3og)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
