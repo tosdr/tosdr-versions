@@ -6,7 +6,7 @@
 
 Log in  Remember me
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 [](https://www.autismdate.com/austintrombone/photos "Austintrombone")[](https://www.autismdate.com/ammeir/photos "Ammeir")[](https://www.autismdate.com/ssibuya/photos "Ssibuya")[](https://www.autismdate.com/dave1979/photos "Dave1979")[](https://www.autismdate.com/joao/photos "Joao")
 
@@ -48,21 +48,21 @@ January February March April May June July August September October November Dec
 
 Man (looking for women) Woman (looking for men) Non-binair (looking for all genders) Man (looking for men) Woman (looking for women) Man (looking for all genders) Woman (looking for all genders) Non-binair (looking for women) Non-binair (looking for men)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
 Register now!
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 * * *
 
@@ -77,7 +77,7 @@ Forgot password?
 
 Log in
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=578959d8e26c3b261933b3b3c819da82&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=977f8a5282f909b8364119c4b7d2155f&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 Forgot password?
 
