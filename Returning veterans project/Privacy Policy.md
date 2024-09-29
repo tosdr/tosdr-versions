@@ -190,16 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-**In Honor of All the men and women that are serving or have served**  
-United States Air Force  
-United States Air National Guard  
-United States Army  
-United States Army National Guard  
+![Harlie E. Beal, Sr](https://cdn.returningveterans.org/images/honor/Harlie_E_Beal_Christina_Rose.jpg)  
+
+**In Memory of Harlie E. Beal, Sr**  
 United States Coast Guard  
-United States Navy  
-United States Reserves  
-United States Marine Corps  
-Submitted by Joseph Lee](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Christina Rose](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -244,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/29/24 - 8:28:30  
+Printed 9/29/24 - 2:27:20  
 © 2024 Returning Veterans Project
