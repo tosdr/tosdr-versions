@@ -11,7 +11,7 @@ Search Search
 
 * [MyPath](https://mypath.kctcs.edu/)
 * [Job Seekers](https://careers.kctcs.edu/home)
-* [Workforce Solutions](https://kctcs.edu/workforce-solutions/)
+* [Workforce Solutions](https://workforce.kctcs.edu/)
 * [Directory](https://kctcs.edu/faculty-staff-directory.aspx)
 * [Giving](https://kctcs.edu/giving/online-giving.aspx)
 * Quick Links
