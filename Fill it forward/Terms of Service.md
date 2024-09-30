@@ -1,5 +1,5 @@
 Fill it Forward Application Terms of Use
-----------------------------------------
+========================================
 
 Updated as of April 20, 2020
 
