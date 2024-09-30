@@ -142,6 +142,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 30, 2024
+
+> Very trusted and supportive
+
+> while i did not have any opportunity to meet you or know yiu personally or socially but your dealings on the matters in respect of communication and help needed gave me confidence and trust. Hope my tour that you are organising will be an enjoyable one. Thanks Shann and take care
+
+Mohammad Obaidur Rahman
+
+,
+
+AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 28, 2024
 
 > Excellent Experience with Shann
@@ -251,20 +265,6 @@ FE
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 24, 2024
-
-> Shann was incredibly polite
-
-> Shann was incredibly polite, easy to talk to
-
-Tlotlang Moletsang
-
-,
-
-ZA
 
 VIP service
 
