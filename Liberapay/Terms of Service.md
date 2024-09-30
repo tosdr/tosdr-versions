@@ -26,7 +26,7 @@
     * [Українська](https://uk.liberapay.com/about/legal)
     * [中文 (简体)](https://zh-hans.liberapay.com/about/legal)
     * [中文 (繁體)   (1% machine translated)](https://zh-hant.liberapay.com/about/legal)
-    * [日本語   (4% machine translated)](https://ja.liberapay.com/about/legal)
+    * [日本語   (3% machine translated)](https://ja.liberapay.com/about/legal)
     * [한국어   (30% machine translated)](https://ko.liberapay.com/about/legal)
     
     *  [Help us translate Liberapay](https://hosted.weblate.org/engage/liberapay/?utm_source=liberapay-navbar)
