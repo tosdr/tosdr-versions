@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_acoes_com_idosos_divulgacao_33ce0bf4e0.jpg)
+   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
+
+na ponta grossa
+
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
+
+Na Madrugada
+
+Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_dupla-invade-loja-centro_a3c41f2487.jpg)
+
+Dois foragidos
+
+Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-suspeita-de-furto-escala-muro-para-invadir-loja-no-centro-de-maceio/ "Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió")   [![Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+
+Suspeitos presos
+
+Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-contra-mulher-sao-registrados-no-intervalo-de-1h-em-al/ "Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL")   [![ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_acoes_com_idosos_divulgacao_33ce0bf4e0.jpg)
 
 EM MACEIÓ
 
-ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://www.tnh1.com.br/noticia/nid/ong-realiza-semana-de-acoes-em-comemoracao-ao-dia-do-idoso-saiba-como-ajudar/ "ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar")   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
+ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://www.tnh1.com.br/noticia/nid/ong-realiza-semana-de-acoes-em-comemoracao-ao-dia-do-idoso-saiba-como-ajudar/ "ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar")   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
 
 em recuperação
 
-HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")   [![Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_Mulher_encontrada_no_bairro_do_Prado_-_foto_Reproducao_2acc7e0576.jpg)
-
-62 anos
-
-Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://www.tnh1.com.br/noticia/nid/moradores-do-prado-tentam-localizar-familia-de-mulher-encontrada-com-sinais-de-desorientacao/ "Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação")   [![MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
-
-Maceió
-
-MPF vai investigar risco de desabamento e danos ambientais de emissário submarino](https://www.tnh1.com.br/noticia/nid/mpf-vai-investigar-risco-de-desabamento-e-danos-ambientais-de-emissario-submarino/ "MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ")   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
-
-guias disponíveis
-
-Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
-
-Maceió
-
-Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ") 
+HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento d
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia apreende adolescente com "pistola" artesanal em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_adolescente-e-apreendido-com-arma-artesanal-pela-pm-em-arapiraca_d6d1f11e1e.jpg)
+   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
 
-Interior
+na ponta grossa
 
-Polícia apreende adolescente com "pistola" artesanal em Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-apreende-adolescente-com-pistola-artesanal-em-arapiraca/ "Polícia apreende adolescente com "pistola" artesanal em Arapiraca")   [![PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_pm-al-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana_5e4e58a38c.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
 
-BALANÇO
+pontal do peba
 
-PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana/ "PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana")   [![Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_suspeito_preso_homicidio_agreste_bb42b54b32.jpg)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
 
-suspeitos presos
+Caminhão parado
 
-Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-mata-jovem-a-facadas-apos-suposta-ameaca-de-morte-no-agreste-de-alagoas/ "Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas")   [![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
 
-Polícia
+Na Madrugada
 
-Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")   [![Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/c/csm_Pelopes_-_foto_PMAL_2f66bc1ea2.jpeg)
+Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_pericia_nriga_74edc8ba7a.png)
 
-Agreste
+Polícia Científica
 
-Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustiveis-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustíveis é preso em Arapiraca")   [![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_5a945c78b1.jpeg)
+Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto](https://www.tnh1.com.br/noticia/nid/pericia-identifica-digitais-de-suspeito-em-briga-de-torcedores-que-terminou-com-um-morto/ "Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto")   [![Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_abordagem_capela_foto_reproducao_pm_57eb732a62.jpg)
 
-Polícia
+interior de alagoas
 
-Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")
+Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida](https://www.tnh1.com.br/noticia/nid/video-denuncia-de-som-alto-termina-com-empurroes-e-tiros-de-pms-mulher-e-detida/ "Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
-
-novidade
-
-novidade
-
-Entenda como Roberto Medina usará área do Rock in Rio para parque temático
-
-Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
+[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
 
 Brasil
 
@@ -214,7 +206,7 @@ Brasil
 
 Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
 
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_768a22f72e.jpg)
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_768a22f72e.jpg)
 
 Alagoas
 
@@ -222,49 +214,57 @@ Alagoas
 
 Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana
 
-Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")[![Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_marilia-gabriela-jpeg-reproducao-redes-sociais_49bb35b774.jpg)
-
-em entrevista
-
-em entrevista
-
-Marília Gabriela explica decisão de deixar de fazer sexo; entenda
-
-Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://www.tnh1.com.br/noticia/nid/marilia-gabriela-explica-decisao-de-deixar-de-fazer-sexo-entenda/ "Marília Gabriela explica decisão de deixar de fazer sexo; entenda")
-
-[![Homem é morto por segurança de casa de shows em festa em SP](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_Seguranca_morto_casa_de_show_7c96ffad36.jpg)
+Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")[![Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/3/csm_Dentista_Assassinada_57e9d471a5.jpg)
 
 Brasil
 
 Brasil
 
-Homem é morto por segurança de casa de shows em festa em SP
+Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina
 
-Homem é morto por segurança de casa de shows em festa em SP](https://www.tnh1.com.br/noticia/nid/homem-e-morto-por-seguranca-de-casa-de-shows-em-festa-em-sp/ "Homem é morto por segurança de casa de shows em festa em SP")[![Entenda técnica que faz mosquito levar larvicida a seus criadouros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/c/csm_Mosquitos_Aedes_aegypt__Divulgacao_-_World_Mosquito_Prog_6c52f36a32.jpg)
+Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-irma-a-facadas-se-entrega-a-policia-em-santa-catarina/ "Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina")[![Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_Rafa_Brites_reproducao_instagram_08053b23bd.jpg)
 
-Brasil
+Faturando
 
-Brasil
+Faturando
 
-Entenda técnica que faz mosquito levar larvicida a seus criadouros
+Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo
 
-Entenda técnica que faz mosquito levar larvicida a seus criadouros](https://www.tnh1.com.br/noticia/nid/entenda-tecnica-que-faz-mosquito-levar-larvicida-a-seus-criadouros/ "Entenda técnica que faz mosquito levar larvicida a seus criadouros")[![Estudo encontra chumbo no leite materno de mulheres de São Paulo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_young-tender-nude-mother-breastfeeding-hugging-her-newborn-baby-sitting-bed-morning_b5662ed9cb.jpg)
+Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo](https://www.tnh1.com.br/noticia/nid/apresentadora-diz-que-ganha-com-uma-postagem-nos-stories-o-valor-que-recebia-de-salario-na-globo/ "Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo")
 
-Saúde
+[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
 
-Saúde
+na ponta grossa
 
-Estudo encontra chumbo no leite materno de mulheres de São Paulo
+na ponta grossa
 
-Estudo encontra chumbo no leite materno de mulheres de São Paulo](https://www.tnh1.com.br/noticia/nid/estudo-encontra-chumbo-no-leite-materno-de-mulheres-de-sao-paulo/ "Estudo encontra chumbo no leite materno de mulheres de São Paulo")[![MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_MC_Rian_d7c3867685.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
 
-Gente Famosa
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
 
-Gente Famosa
+pontal do peba
 
-MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”
+pontal do peba
 
-MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”](https://www.tnh1.com.br/noticia/nid/mc-ryan-sp-se-pronuncia-sobre-caso-de-agressao-nao-fui-leal-a-minha-familia/ "MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”")
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL
+
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Portaria define regras do recessos de fim de ano para servidores federais; veja](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/d/csm_esplanada_brasilia_5119fe8dca.png)
+
+dois recessos
+
+dois recessos
+
+Portaria define regras do recessos de fim de ano para servidores federais; veja
+
+Portaria define regras do recessos de fim de ano para servidores federais; veja](https://www.tnh1.com.br/noticia/nid/portaria-define-regras-do-recessos-de-fim-de-ano-para-servidores-federais-veja/ "Portaria define regras do recessos de fim de ano para servidores federais; veja")[!['A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_a-fazenda-vanessa-choro_6ebe5deedf.jpg)
+
+Briga
+
+Briga
+
+'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo
+
+'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo](https://www.tnh1.com.br/noticia/nid/a-fazenda-16-babi-perde-a-paciencia-com-vanessa-e-discussao-esquenta-veja-motivo/ "'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
