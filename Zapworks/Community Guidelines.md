@@ -260,6 +260,7 @@ Zappar will assess complaints made under this Content Policy in accordance with 
     * [Advanced AR Training](https://zap.works/training/studio/)
     * [L&D AR Training](https://zap.works/training/learning-and-development/)
     * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+    * [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 * Legal
     
     * [T&C's](https://zap.works/terms/)
@@ -315,6 +316,7 @@ Zappar will assess complaints made under this Content Policy in accordance with 
 * [Advanced AR Training](https://zap.works/training/studio/)
 * [L&D AR Training](https://zap.works/training/learning-and-development/)
 * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+* [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 
 ### Legal
 
