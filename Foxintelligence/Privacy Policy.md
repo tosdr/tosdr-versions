@@ -524,9 +524,9 @@ I want to see
 
 Promote post
 
-[![pexels-googledeepmind-18069694](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/pexels-googledeepmind-18069694-scaled-qotghfkprq7g38046o7wha43viets8fdqhygkge1rw.jpg "pexels-googledeepmind-18069694")
+[![Webinar-travel](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/Webinar-travel-scaled-quvagjim2stzhnd5l7b3x20ce2vxnnynwr8eyew6t8.jpg "Webinar-travel")
 
-State of Ecommerce in Europe in 2024](https://www.foxintelligence.io/state-of-ecommerce-in-europe-in-2024/)
+Travel Industry Webinar: Summer Holidays and Olympic Games Impact](https://www.foxintelligence.io/travel-industry-webinar-summer-holidays-and-olympic-games-impact/)
 
 Book a demo
 
