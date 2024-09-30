@@ -262,7 +262,8 @@ _Last updated on July 17, 2024_
 
 Infosys Limited, its subsidiaries and branch operations hereinafter referred as ‘Infosys’, ‘we’, ‘us’ or ‘our’ is committed to respect your privacy and choices. The privacy statement (hereinafter “Privacy Statement” or “Statement”) highlights our privacy practices regarding Personal Information that we collect and process in compliance to applicable data privacy regulations.
 
-#### Objective:
+Objective:
+----------
 
 Through this privacy statement we intend to provide a synopsis of our privacy practices regarding Personal Information that we collect and process about you through various sources. Although the primary focus of this statement is on the data collected and processed through our websites, that link to this Privacy Statement, which include www.infosys.com, www.infosysbpm.com, www.infosysequinox.com, and their sub-domains such as blogs.infosys.com, abm.infosys.com, etc. (Collectively referred to as “Infosys Websites”), our adherence to the below mentioned principles remain across the organization towards personal data processing. Depending on the purposes of processing and your relationship with us as a data subject, we may provide additional customized privacy statements, more information on which can be found below.
 
@@ -270,7 +271,7 @@ The scope of this Statement covers the categories of personal data collected, ho
 
 Wherever we may have provided the translation of our Statement in local languages, as per applicability, in case of a conflict between the local language and the English version, the English version shall prevail.
 
-#### 1\. Personal Information that we process and use
+### 1\. Personal Information that we process and use
 
 **1.1 Personal Information that we process**
 
@@ -336,11 +337,11 @@ The applicable privacy and data protection laws provide for certain justifiable 
 
 **1.4.4** We may process your personal Information to comply with any Legal obligations on us, including to applicable laws and protecting our legal rights, seeking remedies, and defending against claims.
 
-#### 2\. Consequences of not providing Personal Information
+### 2\. Consequences of not providing Personal Information
 
 If you choose not to provide your Personal Information that is mandatory to process your request, we may not be able to fulfill the relevant purpose of processing, including provision of any services to you, if applicable.
 
-#### 3\. Data recipients, transfer, and disclosure of Personal Information:
+### 3\. Data recipients, transfer, and disclosure of Personal Information:
 
 **3.1 Infosys does not share your Personal Information with third parties for their direct marketing purposes.**
 
@@ -360,7 +361,7 @@ Where we may transfer the data outside your country or region of residence, we s
 
 Please contact us as set out below if you would like to obtain a copy of the methods used when executing such international transfer as per applicable laws. When required, Infosys may disclose Personal Information to external law enforcement bodies or regulatory authorities, in order to comply with legal obligations.
 
-#### 4\. Your Rights:
+### 4\. Your Rights:
 
 **4.1** Subject to the laws of your country, you may have certain rights as a data subject (including but not limited to right to information, access, rectification, erasure, object, restriction of processing, right to complain), relating to your Personal Information that we process. Where the data processing is based on your consent, you may withdraw your consent to the processing of any Personal Data at any time. This will not affect the lawfulness of any processing operation before your withdrawal.
 
@@ -370,31 +371,31 @@ Your rights as a data subject may differ based on your applicable jurisdiction. 
 
 **4.3** Preference Center: You can choose to update your Infosys Marketing communications preferences from our [Contact Preference center](https://marcom.infosys.com/infy/preference-center "Contact Preference center").
 
-#### 5\. Data security
+### 5\. Data security
 
 At Infosys, there exists a perfect balance between Governance, Process and Technology, the combination of which has established Infosys' commitment to its customers and stakeholders. Infosys adopts reasonable and appropriate security controls, practices and procedures including administrative, physical security, and technical controls in order to safeguard your Personal Information.
 
-#### 6\. Data retention
+### 6\. Data retention
 
 Personal Information will not be retained for a period more than necessary to fulfill the purposes outlined in this privacy statement unless a longer retention period is required by law or for directly related legitimate business purposes. Personal Data that is no longer required to be retained as per legal and business requirements will be disposed in a secure manner.
 
-#### 7\. Contact your Local Data Protection Authority
+### 7\. Contact your Local Data Protection Authority
 
 If you are unhappy with how we safeguard your personal data, depending on the laws of the countries where you reside, you have the right to bring a complaint to your local data protection authority.
 
-#### 8\. Linked websites
+### 8\. Linked websites
 
 Our privacy practices regarding Personal Information that we collect and store about you through our portals such as Recruitment and Global Alumni will be as per the privacy policy of those portals.
 
 Infosys provides links to third-party websites and services. However, Infosys is not responsible for the privacy statements, practices, or the contents of such third-party websites.
 
-#### 9\. Children’s Privacy
+### 9\. Children’s Privacy
 
 Infosys Websites, its associated products or services and hosted contents, are not intended for the use by children.
 
 As such we do not knowingly solicit or collect personally identifiable information online from children without prior verifiable parental consent. If Infosys Limited learns that a child has submitted personally identifiable information online without parental consent, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children, please email us at [privacy@infosys.com](mailto:privacy@infosys.com "privacy@infosys.com").
 
-#### 10\. How to contact us
+### 10\. How to contact us
 
 If you have any questions regarding our privacy practices or this privacy statement, or to request this privacy statement in another format, please contact us at:  
 Contact person: Srinivas P  
@@ -403,11 +404,12 @@ Road, Bangalore 560 100, India
 Phone: +91 80 2852 0261  
 Email: [privacy@infosys.com](mailto:privacy@infosys.com "privacy@infosys.com")
 
-#### 11\. Updates to this privacy statement
+### 11\. Updates to this privacy statement
 
 Infosys may change the data privacy practices and update this privacy statement as and when the need arises, and the same will be made available on the website. However, our commitment to protect the privacy of website users will continue to remain.
 
-### Privacy Statements for Other Categories of Data Subjects
+Privacy Statements for Other Categories of Data Subjects
+--------------------------------------------------------
 
 #### [Candidates and Interns](#collapse1)
 
@@ -545,7 +547,8 @@ Your data may be accessible to authorized Internal recipients within Infosys Ltd
 
 For reference to our additional privacy practices regarding data security, retention, transfers (if any), and helping you exercise your rights, as applicable, please refer to our Global Privacy Statement.
 
-### Privacy Statements for Region/Country specific
+Privacy Statements for Region/Country specific
+----------------------------------------------
 
 * [![Australia](/content/dam/infosys-web/en/australia-logo.png)Australia](https://www.infosys.com/privacy-statement/australian-privacy-policy.html "Australia")
 * [![Brazil](/content/dam/infosys-web/en/brazil-logo.png)Brazil](https://www.infosys.com/privacy-statement/brazil.html "Brazil")
