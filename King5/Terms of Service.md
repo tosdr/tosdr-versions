@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c/20240930T004751/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c/20240930T004751/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/mariners-fans-reflecting-disappointing-2024-season/281-deee1dcc-2479-4924-861c-c315cde55b3e)
+        
+        #### ['We're done:' Mariners fans disappointed after team misses postseason](https://www.king5.com/article/sports/mlb/mariners/mariners-fans-reflecting-disappointing-2024-season/281-deee1dcc-2479-4924-861c-c315cde55b3e)
+        
     *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
         
         #### [Cinco Cosas: Agresión sexual en Kent, advertencia sobre robo de coches y más noticias](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
-        
-        #### [WSDOT said this is the biggest weekend for road closures. Here's what roads will be closed](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+60°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
