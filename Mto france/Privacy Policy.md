@@ -178,6 +178,7 @@ PUBLIC - Menu burger
     * [Images Satellites](https://meteofrance.com/images-satellites "Animations Satellites")
 * [A propos de Météo-France](https://meteofrance.fr/ "Site institutionnel de Météo-France")
     * [Notre carte d'identité](https://meteofrance.com/carte-didentite-de-meteo-france "Carte d'identité de Météo-France")
+    * [Nous rejoindre](https://careers.flatchr.io/fr/company/meteofrance/)
     * [Espace Presse](https://meteofrance.fr/actualite/presse "Service Presse de Météo-France")
     * [Informations Environnementales](https://meteofrance.com/informations-environnementales "Informations Environnementales")
     * [Marchés Publics](https://meteofrance.com/marches-publics "Marchés Publics")
