@@ -6,7 +6,7 @@ Toggle navigation[![](/assets/images/elements/redash-logo.svg)](https://redash.i
 * [Community](https://redash.io/community/)
 * [Help](#)
     * [Knowledge Base](https://redash.io/help/)
-    * [Forum](https://github.com/getredash/redash/discussions)
+    * [GitHub Discussions](https://github.com/getredash/redash/discussions)
 
 * [Get Started](https://redash.io/help-onpremise/setup/setting-up-redash-instance.html)
 
@@ -84,7 +84,7 @@ If you feel your privacy was compromised, you can contact Redash’s privacy off
 ### Help
 
 * [Knowledge Base](https://redash.io/help/)
-* [Forum](https://github.com/getredash/redash/discussions)
+* [GitHub Discussions](https://github.com/getredash/redash/discussions)
 
 * [](https://github.com/getredash)
 * [](https://twitter.com/getredash)
