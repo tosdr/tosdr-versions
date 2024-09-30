@@ -36,6 +36,9 @@
         
         US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
     
+    * [![Windows 11 KB5043145 update causes reboot loops, blue screens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
     * [![Critical flaw in NVIDIA Container Toolkit allows full host takeover](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Critical flaw in NVIDIA Container Toolkit allows full host takeover](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/)
@@ -45,9 +48,6 @@
     * [![Ireland fines Meta €91 million for storing passwords in plaintext](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
-    * [![Pay once and never again in this Koofr lifetime 1TB cloud storage deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Pay once and never again in this Koofr lifetime 1TB cloud storage deal](https://www.bleepingcomputer.com/offer/deals/pay-once-and-never-again-in-this-koofr-lifetime-1tb-cloud-storage-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
