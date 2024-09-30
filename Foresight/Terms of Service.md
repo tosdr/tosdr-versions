@@ -130,7 +130,7 @@ We cannot accept returns for any reason. We do not offer refunds. In select case
 License [#](#license)
 ---------------------
 
-The license agreement for Products and Services we provide is at [foresight.is/license](https://foresight.is/license)
+The license agreement for Products and Services we provide is at [License](https://foresight.is/license/)
 
 Intellectual Property Rights [#](#intellectual-property-rights)
 ---------------------------------------------------------------
@@ -165,7 +165,7 @@ Any products provided by Foresight but purchased through third party websites ar
 Privacy [#](#privacy)
 ---------------------
 
-Your privacy is important to us - please see our full privacy policy at [foresight.is/privacy](https://foresight.is/privacy) to understand how we protect your personal information.
+Your privacy is important to us - please see our full privacy policy at [Privacy](https://foresight.is/privacy/) to understand how we protect your personal information.
 
 Children's Use of the Website [#](#childrens-use-of-the-website)
 ----------------------------------------------------------------
