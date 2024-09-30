@@ -117,7 +117,7 @@ Resourceschevron-down icon
 
 * [Events
     
-    Find out about upcoming events near you](https://events.asana.com/)
+    Find out about upcoming events near you](https://asana.com/events)
 * [Partners
     
     Learn more about our partner programs](https://asana.com/partners)
@@ -241,7 +241,7 @@ Connect
 
 * [Events
     
-    Find out about upcoming events near you](https://events.asana.com/)
+    Find out about upcoming events near you](https://asana.com/events)
 * [Partners
     
     Learn more about our partner programs](https://asana.com/partners)
@@ -466,6 +466,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * Asana
 * [Home](https://asana.com/?noredirect)
 * [Product](https://asana.com/product)
+* [What's New](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
 * [Starter](https://asana.com/plan/starter)
 * [Advanced](https://asana.com/plan/advanced)
@@ -485,7 +486,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/site-map)
+* [Sitemap](https://asana.com/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
@@ -508,7 +509,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Developers & API](https://developers.asana.com/docs/)
 * [Partners](https://asana.com/partners)
 * [Asana Community](https://asana.com/community)
-* [Events](https://events.asana.com/)
+* [Events](https://asana.com/events/)
 * [Asana for Nonprofits](https://asana.com/nonprofit)
 * [Asana for Education](https://asana.com/education)
 * [Accessibility](https://asana.com/accessibility)
