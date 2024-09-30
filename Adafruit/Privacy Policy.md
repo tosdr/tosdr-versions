@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I don't think there's anything like saving someone's life to bring you satisfaction and happiness”
+“ Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each”
 
-[Stephanie Kwolek](http://en.wikipedia.org/wiki/Stephanie_Kwolek)
+[Plato](http://en.wikipedia.org/wiki/Plato)
 
 [](https://www.adafruit.com/about)
 
