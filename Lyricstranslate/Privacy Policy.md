@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
+[![SiHo_92](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1367737-1664576535.jpg)](https://lyricstranslate.com/en/translator/siho92 "SiHo_92")
+
+New translation
+
+[The Carpenters - This Masquerade](https://lyricstranslate.com/en/carpenters-masquerade-german)
+
+English → German
+
+[![IsraelWu](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/israelwu "IsraelWu")
+
+New comment
+
+Hi Igor, How are you? I fully understand what ...  [more](https://lyricstranslate.com/en/comment/1167785#comment-1167785)
+
 [![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
-New translation
+Transcription request fulfilled
 
-[Joe Cocker - Space Captain](https://lyricstranslate.com/en/joe-cocker-space-captain-french)
-
-English → French
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[Mainy - Pa si move](https://lyricstranslate.com/en/mainy-pa-si-move-lyrics)
-
-Other
-
-[![Proshor Proshorov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1446931-1602434934.png)](https://lyricstranslate.com/en/translator/proshor-proshorov "Proshor Proshorov")
-
-New song
-
-[Oleg Anofriev - Спят усталые игрушки](https://lyricstranslate.com/en/oleg-anofriev-spyat-ustalyye-igrushki-lyrics)
-
-Russian
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
-New translation
-
-[Sylvie Vartan - La Maritza](https://lyricstranslate.com/en/sylvie-vartan-la-maritza-english-0)
-
-French → English
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Chris Brown - Residuals](https://lyricstranslate.com/en/chris-brown-residuals-lyrics)
+[Mama sure could swing a deal](https://lyricstranslate.com/en/magic-lanterns-mama-sure-could-swing-d-lyrics)
 
 English
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![vasan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1200737-1694515434.jpg)](https://lyricstranslate.com/en/translator/vasan "vasan")
 
 New song
 
-[Grupo Firme - El Beneficio De La Duda](https://lyricstranslate.com/en/grupo-firme-el-beneficio-de-la-duda-lyrics)
+[Papa Roach - Leave A Light On (Talk Away The Dark)](https://lyricstranslate.com/en/papa-roach-leave-light-talk-aw-lyrics)
 
-Spanish
+English
 
-[![yusuf x](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503520-1623218574.png)](https://lyricstranslate.com/en/translator/yusuf-x "yusuf x")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+
+New song
+
+[The Magic Lanterns - Mama sure could swing a deal](https://lyricstranslate.com/en/magic-lanterns-mama-sure-could-swing-d-lyrics)
+
+English
+
+[![inthemiddle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1630304-1726999748.jpg)](https://lyricstranslate.com/en/translator/inthemiddle "inthemiddle")
 
 New translation
 
-[The Irrepressibles - In This Shirt](https://lyricstranslate.com/en/shirt-di-ve-gomlege-de.html)
+[Ruslana (Ukraine) - Wild Dances (English Version)](https://lyricstranslate.com/en/ruslana-ukraine-wild-dances-english-vers-turkish)
 
-English → Kurdish (Kurmanji)
+English → Turkish
 
-[![victorianovak](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1274653-1638061224.jpg)](https://lyricstranslate.com/en/translator/victorianovak "victorianovak")
+[![Lightbee](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616265-1714037139.png)](https://lyricstranslate.com/en/translator/lightbee "Lightbee")
 
 New song
 
-[Kylie Minogue - Sweet music](https://lyricstranslate.com/en/kylie-minogue-sweet-music-lyrics)
+[Doe Maar - Macho](https://lyricstranslate.com/en/doe-maar-macho-lyrics)
 
-English
+Dutch
+
+[![LEELOO](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leeloo "LEELOO")
+
+New request
+
+[Jewel - Daddy](https://lyricstranslate.com/en/request/daddy-19)
+
+English → Polish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
