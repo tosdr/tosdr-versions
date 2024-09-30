@@ -259,12 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
 
-[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'")](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
 
@@ -275,12 +277,12 @@ Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
 [Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested after car stolen with teenage girl inside](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after car stolen with teenage girl inside")](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Man arrested after car stolen with woman inside](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Monday, 30th September 2024](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Kilrea](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 
@@ -291,21 +293,19 @@ Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
 [Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man arrested after car stolen with teenage girl inside](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after car stolen with teenage girl inside")](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man arrested after car stolen with woman inside](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says")](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
-
-Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
 
@@ -316,6 +316,13 @@ Derry City manager Ruaidhri Higgins watched his team fall to another disappointi
 [Ruaidhri Higgins - 'The title is there for the taking'](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man arrested in connection with criminal damage incident at ATM in Portstewart](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
 
 The ATM was damaged between Saturday and Sunday.
@@ -325,19 +332,14 @@ The ATM was damaged between Saturday and Sunday.
 [Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mary Lou McDonald ‘never considered’ stepping down](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mary Lou McDonald ‘never considered’ stepping down")](https://www.derrynow.com/news/northern-ireland/1617261/mary-lou-mcdonald-never-considered-stepping-down.html)
+[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
 
-[Mary Lou McDonald ‘never considered’ stepping down](https://www.derrynow.com/news/northern-ireland/1617261/mary-lou-mcdonald-never-considered-stepping-down.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +517,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+[![DAERA awards £450,000 to suppliers in attempt to find possible solutions to Blue Green Algae in Lough Neagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DAERA awards £450,000 to suppliers in attempt to find possible solutions to Blue Green Algae in Lough Neagh")](https://www.derrynow.com/news/county-derry-post/1617508/daera-awards-450-000-to-suppliers-in-attempt-to-find-possible-solutions-to-blue-green-algae-in-lough-neagh.html)
+
+The five successful suppliers of Phase one of the Lough Neagh: Blue Green Algae Small Business Research Initiative (SBRI) pictured with DAERA and SIB officials at the introductory meeting.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[DAERA awards £450,000 to suppliers in attempt to find possible solutions to Blue Green Algae in Lough Neagh](https://www.derrynow.com/news/county-derry-post/1617508/daera-awards-450-000-to-suppliers-in-attempt-to-find-possible-solutions-to-blue-green-algae-in-lough-neagh.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, 30th September 2024](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Joyce_Taggart_%28002%29-1727382943319.png--.png?1727382943576 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
 
 Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
 
@@ -524,7 +542,7 @@ Joyce Taggart passed away after her car was involved in a collision with a bus o
 [Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](https://www.derrynow.com/resizer/165/93/true/2024_09_25/haunted_ireland-_RGB-_for_online-1727256832258.jpg--.jpg?1727256832869 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
@@ -546,22 +564,6 @@ Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
 
 [Derry student leaders encourage further yLink uptake](https://www.derrynow.com/news/local-news/1615265/derry-student-leaders-encourage-further-ylink-uptake.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](https://www.derrynow.com/resizer/165/93/true/2024_09_29/87c889b3-e07d-447d-b3aa-7f164e9afd25-1727614937172.jpeg--.jpeg?1727614937458 "Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon")](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_6961960.jpg--.jpg "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
-
-The ATM was damaged between Saturday and Sunday.
-
-[Home](https://www.derrynow.com/)
-
-[Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
