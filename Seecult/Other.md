@@ -307,26 +307,24 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
-    [10:00 Zdravko Pečar, BG](javascript:void(0);)
+    [12:00 Marko Požlep, BG](javascript:void(0);)
     
-    **26.05.2024 | 10:00**
+    **06.06.2024 | 12:00**
     
-    Muzej afričke umetnosti, Andre Nikolića 14, Beograd
+    Galerija Hestia, Toličin venac 14/9, Beograd
     
-    **ZDRAVKO PEČAR: (AUTO)PORTRETI** - izložba (25.5.-29.9.2024.)
+    **MARKO POŽLEP** (Slovenija): **TRAJNI ODMOR / PERMANENT VACATION** - izložba crteža Jadranske magistrale (Trst-Ada Bojana) (5.6.-6.10.2024.)
     
-    Urednici kataloga i kustosi izložbe: dr Nemanja Radonjić, Emilia Epštajn, Ana Knežević
-    
-    [http://www.mau.rs/sr](http://www.mau.rs/sr)
+    [https://hestiabelgrade.com](https://hestiabelgrade.com/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/razno/witgenstein.jpg?itok=rIUBFK5c)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/45.jpg?itok=iGFBdpCp)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kraftwerkg.jpg?itok=N7X3ViA_)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/44-bitef/trib1.jpg?itok=7zitSR4Z)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/44-bitef)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -343,6 +341,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
 * [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
+* [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
 * [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
 * [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
 * [Svet u boji](http://seecult.org/vest/svet-u-boji)
@@ -351,7 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
 * [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
 * [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
-* [Perišić prvi laureat Otiska Gorana Paskaljevića](http://seecult.org/vest/perisic-prvi-laureat-otiska-gorana-paskaljevica)
 
 * [Konkursi](#tab1_1)
 
