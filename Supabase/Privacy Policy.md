@@ -2,6 +2,7 @@
 
 * Product
 * Developers
+* [Enterprise](https://supabase.io/enterprise)
 * [Pricing](https://supabase.io/pricing)
 * [Docs](https://supabase.io/docs)
 * [Blog](https://supabase.io/blog)
