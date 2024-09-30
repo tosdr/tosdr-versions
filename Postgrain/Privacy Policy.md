@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Notebook numa mesa com o nome AI na tela](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Tutorial-Crie-legendas-automaticas-com-a-IA-do-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12593)
+[![](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Agende-seus-conteudos-do-TikTok-no-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12618)
 
-[Tutorial: Crie legendas automáticas com a IA do Postgrain](https://postgrain.com/?post_type=post&p=12593)
+[Agende seus TikToks no Postgrain!](https://postgrain.com/?post_type=post&p=12618)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12593)
+[Leia mais](https://postgrain.com/?post_type=post&p=12618)
 
 Ilustração de um dos personagens do Postgrain
 
