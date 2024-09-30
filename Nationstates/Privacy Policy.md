@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess The AN Ideology based on their… (1,641)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,641 posts)")
-* [NS Cliches II: Re-Rebooted (9,607)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,607 posts)")
-* [Monthly Collection Contests - Hosted… (36)](https://forum.nationstates.net/viewtopic.php?t=547310&f=42&view=unread#unread ""Monthly Collection Contests - Hosted by TWP, Open to Anyone!" (36 posts)")
-* [LGBT Rights summary table in YN (76)](https://forum.nationstates.net/viewtopic.php?t=552313&f=23&view=unread#unread ""LGBT Rights summary table in YN" (76 posts)")
-* [How did YNs leader come to power? (187)](https://forum.nationstates.net/viewtopic.php?t=535265&f=23&view=unread#unread ""How did YNs leader come to power?" (187 posts)")
+* [Looking for cards that are black and… (1,563)](https://forum.nationstates.net/viewtopic.php?t=524352&f=42&view=unread#unread ""Looking for cards that are black and red and white" (1,563 posts)")
+* [\[R\] Flaming (2)](https://forum.nationstates.net/viewtopic.php?t=556273&f=16&view=unread#unread ""[R] Flaming" (2 posts)")
+* [\[SPOOKY DRAFT\] Ban on Demonic Possession (34)](https://forum.nationstates.net/viewtopic.php?t=556251&f=9&view=unread#unread ""[SPOOKY DRAFT] Ban on Demonic Possession" (34 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (903)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (903 posts)")
+* [\[IN QUEUE\] Civilian Air Compact (21)](https://forum.nationstates.net/viewtopic.php?t=554812&f=9&view=unread#unread ""[IN QUEUE] Civilian Air Compact" (21 posts)")
 
 Advertisement
 
