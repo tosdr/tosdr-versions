@@ -1,34 +1,14 @@
 [![logo](/img/logos/logo.png)](https://shortcutworld.com/)
 
 * [Shortcuts](https://shortcutworld.com/Shortcuts)
-* [Bookmarks](https://shortcutworld.com/Bookmarks)
-* [Add Page](https://shortcutworld.com/Edit/Add)
-* [How to Contribute](https://shortcutworld.com/Posts/How_to_Contribute)
-* [Request Shortcuts](https://shortcutworld.com/Posts/Request_Shortcuts)
-* [Feedback](https://shortcutworld.com/Posts/Feedback)
-* [FAQ](https://shortcutworld.com/Posts/FAQ)
-* [Login](https://shortcutworld.com/User/Login "Login")
-
-* [Register](https://shortcutworld.com/User/Register "Register")
 
 [![logo](/img/logos/logo.png)](https://shortcutworld.com/)
 
 * [Shortcuts](https://shortcutworld.com/Shortcuts)
-* [Bookmarks](https://shortcutworld.com/Bookmarks)
-* [Add Page](https://shortcutworld.com/Edit/Add)
 * [⋮](#)
-    * [How to Contribute](https://shortcutworld.com/Posts/How_to_Contribute)
-    * [Request Shortcuts](https://shortcutworld.com/Posts/Request_Shortcuts)
-    * [Feedback](https://shortcutworld.com/Posts/Feedback)
-    * [FAQ](https://shortcutworld.com/Posts/FAQ)
-    * [Login](https://shortcutworld.com/User/Login "Login")
-    
-    * [Register](https://shortcutworld.com/User/Register "Register")
     
 
  
-
-[Login](https://shortcutworld.com/User/Login)[Register](https://shortcutworld.com/User/Register)
 
 ShortcutWorld.com Terms and Conditions
 --------------------------------------
