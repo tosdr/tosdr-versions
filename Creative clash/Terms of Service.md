@@ -8,8 +8,6 @@
 
 * [Home](https://xcreativeclashx.net/ "Home")
 
-[Get ready to Clash!](https://xcreativeclashx.net/announcement/21-get-ready-to-clash/) [×](#)
-
 [Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
 
 Registration Terms
