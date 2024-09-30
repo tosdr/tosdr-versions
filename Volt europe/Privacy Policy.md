@@ -28,7 +28,7 @@ People
 
 News
 
-Events
+[Events](https://volteuropa.org/events)
 
 [Open positions at Volt Europa](https://www.volteuropa.org/vacancies) [Get involved](https://www.volteuropa.org/get-involved) [Volt in the News](https://www.volteuropa.org/volt-in-the-news) [European Election 2024](https://www.volteuropa.org/european-election-2024)
 
@@ -77,14 +77,6 @@ The EU can no longer stand aloof when it comes to Israeli occupation policies 11
 Volt Europa on the current escalation in the Middle East 8 Aug 2024](https://volteuropa.org/news/volt-europa-on-the-current-escalation-in-the-middle-east)
 
 [View more news](https://volteuropa.org/news)
-
-Back[![](/img/containers/assets/image_123650291.jpg/c59623a4faeae782db5ae7fe6e25c103.jpg)
-
-Engaging in Dialogue on Israel, Palestine and building bridges
-
-27 Sep 2024 Cafè Belcampo, Amsterdam (NL); Youtube (livestream);](https://volteuropa.org/events/engaging-in-dialogue-on-the-israel-palestine-conflict)
-
-[All events](https://volteuropa.org/events)
 
 Back
 
