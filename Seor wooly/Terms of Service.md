@@ -54,14 +54,14 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![The Billy & Gorro Winter Set: Scarf & Hat Combo](https://assets.senorwooly.com/uploads/210d807a-5b90-4370-bfd2-b7f1a54179b7.png)
+![Sr. Wooly Poster Collection](https://assets.senorwooly.com/uploads/636e4911-70ee-4a5d-bd34-2e36e8eb8931.png)
 
 On Sale
 =======
 
-15% off
+25% off
 
-The Billy & Gorro Winter Set: Scarf & Hat Combo ~$39.70~ $33.74 [Go to store](https://www.senorwooly.com/store/product/billy-y-gorro)
+Sr. Wooly Poster Collection ~$50.00~ $37.50 [Go to store](https://www.senorwooly.com/store/product/poster-collection)
 
 ![](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
@@ -145,13 +145,13 @@ We want you to be perfectly satisfied with your purchase. If you are not satisfi
 2. **Prorated Refunds:**
 
 * If you request a refund after the initial 14 days but before 50% of your subscription term has passed, your refund will be prorated based on the remaining time in your subscription term.
-* For a 1-year license, you have up to 6 months to request a prorated refund.
-* For multi-year licenses, you have up to 50% of the total subscription term to request a refund. For example, if you have a 6-year license, you may request a prorated refund within the first 3 years.
+* For a 1-year license, you have up to 3 months to request a prorated refund.
+* For multi-year licenses, you have up to 25% of the total subscription term to request a refund. For example, if you have a 4-year license, you may request a prorated refund within the first year.
 * Refunds will be calculated based on the remaining months (or partial months) of the subscription term. A 5% processing fee, based on the original purchase price, will be applied to all prorated refunds.
 
-3. **No Refunds** **After 50% of the Subscription Term:**
+3. **No Refunds** **After 25% of the Subscription Term:**
 
-* Please note that no refunds will be processed for requests made after 50% of the subscription term, regardless of the circumstances.
+* Please note that no refunds will be processed for requests made after 25% of the subscription term, regardless of the circumstances.
 
 4. **How to Request a Refund:**
 
