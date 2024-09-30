@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
+* [Meet Kris Kristofferson’s Devoted Wife Of...](https://classiccountrymusic.com/meet-kris-kristoffersons-devoted-wife-of-41-years-lisa-meyers/)
 * [Kris Kristofferson’s “A Star Is Born”...](https://classiccountrymusic.com/kris-kristoffersons-a-star-is-born-co-star-barbra-streisand-reacts-to-new-of-his-death/)
-* [Country Music Legend Kris Kristofferson Dies...](https://classiccountrymusic.com/country-music-legend-kris-kristofferson-dies-at-88/)
-* [Chris Stapleton Delivers “Brilliant” Cover Of...](https://classiccountrymusic.com/chris-stapleton-delivers-brilliant-cover-of-willie-nelsons-angel-flying-too-close-to-the-ground/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
+* [Meet Kris Kristofferson’s Devoted Wife Of...](https://classiccountrymusic.com/meet-kris-kristoffersons-devoted-wife-of-41-years-lisa-meyers/)
 * [Introducing Kris Kristofferson’s 8 Kids](https://classiccountrymusic.com/introducing-kris-kristoffersons-8-kids/)
-* [Rare Footage Of Waylon Jennings Singing...](https://classiccountrymusic.com/rare-footage-of-waylon-jennings-singing-im-a-ramblin-man-live/)
-* [Willie Nelson Teams Up With Kacey...](https://classiccountrymusic.com/willie-nelson-teams-up-with-kacey-musgraves-for-2019-cma-awards-performance-of-rainbow-connection/)
 
 Privacy Policy
 ==============
