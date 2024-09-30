@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/qBTWxex3)
+* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/8d3SU8ZV)
     
     Python | 1 sec ago | 0.30 KB
     
-* [Private guide](https://pastebin.com/sqpM2Kaj)
+* [1000$ Amazon Giftcards](https://pastebin.com/rDHpKnWg)
+    
+    JavaScript | 1 sec ago | 0.17 KB
+    
+* [Leaked by Zack](https://pastebin.com/M7AgMmdQ)
+    
+    JavaScript | 2 sec ago | 0.17 KB
+    
+* [Private guide](https://pastebin.com/nZK26nHx)
     
     JavaScript | 3 sec ago | 0.18 KB
     
-* [New free giftcards 0-day exploit](https://pastebin.com/KLS9LM6s)
+* [Leaked by Zack](https://pastebin.com/arZ3H2TT)
+    
+    JavaScript | 4 sec ago | 0.17 KB
+    
+* [New free giftcards 0-day exploit](https://pastebin.com/txhrGYBe)
     
     Python | 4 sec ago | 0.31 KB
     
-* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/1cnuQcgK)
+* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/uQzQGRJp)
     
-    JavaScript | 6 sec ago | 0.17 KB
+    JavaScript | 5 sec ago | 0.17 KB
     
-* [☀️ FREE voucher method latest ☀️](https://pastebin.com/tZdyZ39y)
+* [Private guide](https://pastebin.com/S6KD2nwV)
     
-    Python | 7 sec ago | 0.31 KB
-    
-* [HOW I MADE $5000 TODAY ⭐ GUIDE](https://pastebin.com/T6WVVjAZ)
-    
-    JavaScript | 7 sec ago | 0.20 KB
-    
-* [This method is now public](https://pastebin.com/W1mJyJv2)
-    
-    JavaScript | 9 sec ago | 0.20 KB
-    
-* [☀️ FREE GIFTCARDS method new ⭐](https://pastebin.com/50U8UJwx)
-    
-    Python | 10 sec ago | 0.30 KB
+    JavaScript | 5 sec ago | 0.18 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
