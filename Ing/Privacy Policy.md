@@ -318,15 +318,6 @@ Can we help? Close
     
     [Documents and forms](https://www.ing.com.au/help-and-support/documents-and-forms/insurance.html#Health-Insurance)
     
-    8 weeks free with  
-    ING Health Insurance
-    
-    Join now and get 8 weeks free when you take out a combined Hospital and Extras cover by 30 September 2024.
-    
-    T&Cs apply. See full terms and conditions.
-    
-    [Get a quote](https://healthquote.ing.com.au/join/welcome/?pid=vis:meganav:healthins:healthinsmenu)
-    
     ###### Your tools
     
     [Compare cover choices](https://www.ing.com.au/insurance/home-and-contents-insurance.html#ING-content-2)
@@ -521,7 +512,7 @@ _Regulatory and statutory reports and data requests from our regulators, law enf
 
 **To develop and improve our Products and Services.** We may use your personal information when analysing your visit to our website or app with the aim of improving these. We use cookies and comparable technologies for this. For more information, we refer to our Cookie notification as published on our site. We will furthermore ask you for your feedback on our current Products and Services or ask for your opinion on new product ideas. This can include recording conversations you have with us, but we will always inform you upfront about this.
 
-**To promote, offer and distribute to you our Products and Services.** We will process your personal information when informing you about Products and Services that we offer and/or distribute. We may also share your personal information with our partners to promote, offer and distribute ING-branded Products and Services. Of course, if you don’t want to receive these marketing communications you have the right to object or to opt-out. We understand you have changing needs. Therefore we strive to offer you a variety of services in order for you to select those that will best suit your specific situation. To improve our service offerings and our likelihood of presenting you with suitable options to select from, we may:
+**To promote, offer and distribute to you our Products and Services.** We will process your personal information when informing you about Products and Services that we or third parties offer and/or distribute. We may also share your personal information with our partners to promote, offer and distribute ING-branded Products and Services, or their products or services. Of course, if you don’t want to receive these marketing communications you have the right to object or to opt-out. We understand you have changing needs. Therefore we strive to offer you a variety of services in order for you to select those that will best suit your specific situation. To improve our service offerings and our likelihood of presenting you with suitable options to select from, we may:
 
 take into account your socio-demographic and financial data;
 
@@ -554,8 +545,6 @@ For certain types of personal information processing, we will provide you with s
 the use of biometric data such as face or fingerprints as authentication and/ or verification purposes such as for access to mobile apps.;
 
 recording of your conversations with us online, by telephone or in our branches and offices.;
-
-promotional activities where we inform you about products and services from partners of IBAL.;
 
 You may revoke your consent anytime as further detailed below.
 
@@ -717,11 +706,11 @@ Furthermore, we will assess on a case-by-case basis whether any organisational, 
 
   
 
-### 6\. Tranfer of credit information or credit eligibility information outside of Australia
+### 6\. Transfer of credit information or credit eligibility information outside of Australia
 
 We are unlikely to disclose your credit information or credit eligibility information to entities that do not have an Australian link.
 
-**Automated decision-making and profiling**
+### 7\. Automated decision-making and profiling
 
 Automated decision-making is when we make decisions by technological means without significant human involvement. Profiling involves the automated processing of personal information with a view to evaluating or predicting personal aspects such as the economic situation, reliability or likely behaviour of a person.
 
@@ -749,9 +738,9 @@ Being listed on an external referral register. Such external referral register i
 
 Being listed on any national or international sanctions lists.
 
-### 7\. Your rights and how we respect them
+### 8\. Your rights and how we respect them
 
-If your personal information is processed, you have privacy rights. Based on applicable laws, your privacy rights may vary from jurisdiction to jurisdiction. If you have questions about which rights apply to you, please get in touch with us through the email address mentioned in item 9.
+If your personal information is processed, you have privacy rights. Based on applicable laws, your privacy rights may vary from jurisdiction to jurisdiction. If you have questions about which rights apply to you, please get in touch with us through the email address mentioned below.
 
 You have the following rights:
 
@@ -877,27 +866,27 @@ If you have given your consent to us for specific processing of your personal in
 
 **Exercising your rights**
 
-To exercise any of the rights as set out above, please send your request using the contact details at paragraph 11 below.
+To exercise any of the rights as set out above, please send your request using the contact details at paragraph 12 below.
 
 When exercising your right, the more specific you are with your request, the better we can assist you. We may ask you for additional information to verify your identity. In some cases we may deny your request and, if permitted by law, we will notify you of the reason for denial of your request. If permitted by law, we may charge a reasonable fee for processing your request.
 
 We want to address your request as quickly as possible. However, based on your location and applicable laws, the response times may vary. Should we require more time (than what is normally permitted by law) to complete your request, we will notify you immediately and provide reasons for the delay.
 
-### 8\. Retention
+### 9\. Retention
 
 We do not store your personal information longer than we need to for the purposes (as set out in Section 3 (What do we do with your personal information)), for which we have processed it. This will be in most cases at least 7 years from the data of providing the relevant document except for customer verification records which are retained until the end of customer relationships. Sometimes we use different storage periods. For example, if the supervisory authority requires us to store certain personal information longer or if you have filed a complaint that makes it necessary to keep the underlying personal information for a longer period. If we no longer need your personal information as described above, we delete or anonymize the personal information, in accordance with regulatory provisions and applicable law.
 
-### 9\. How we protect your personal information
+### 10\. How we protect your personal information
 
 We take appropriate technical and organisational measures to ensure the availability, confidentiality and integrity of your personal information and the way it is processed. This includes state-of-the-art IT security, system and access controls, security monitoring, segregation of duties, etc. We apply an internal framework of policies and minimum standards across all our business to keep your personal information safe. These policies and standards are periodically reviewed to keep them up to date with regulations and market developments.
 
 In addition, IBAL employees are subject to confidentiality obligations and may not disclose your personal information unlawfully or unnecessarily. To help us continue to protect your personal information, you should always contact IBAL if you suspect that your personal information may have been compromised.
 
-### 10\. Changes to this Privacy Statement
+### 11\. Changes to this Privacy Statement
 
-We may amend this Privacy Statement to remain compliant with any changes in law and/or to reflect how our business processes personal information. This version was approved on 28 March 2024.
+We may amend this Privacy Statement to remain compliant with any changes in law and/or to reflect how our business processes personal information. This version was approved on 18 September 2024.
 
-### 11\. Contact and questions
+### 12\. Contact and questions
 
 To learn more about how we protect and use your personal information, you can send us an email to
 
