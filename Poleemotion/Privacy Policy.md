@@ -26,7 +26,7 @@ Pole-Emotion, c'est aussi pour toi !
 
 Bienvenue dans une école de danse pas comme les autres. Depuis 2005, nous accueillons toutes les femmes, venez comme vous êtes! et Oui, chez nous Chaque Femme à sa place.
 
-Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **42** types de cours qui sont pratiqués chez nous!
+Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **41** types de cours qui sont pratiqués chez nous!
 
 Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te feront vibrer, nous te proposons le [PASS découverte](https://app.pole-emotion.ch/pass-decouverte)!
 
@@ -37,7 +37,7 @@ Pole-Emotion, c'est aussi pour toi !
 
 Bienvenue dans une école de danse pas comme les autres. Depuis 2005, nous accueillons toutes les femmes, venez comme vous êtes! et Oui, chez nous Chaque Femme à sa place.
 
-Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **42** types de cours qui sont pratiqués chez nous!
+Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **41** types de cours qui sont pratiqués chez nous!
 
 Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te feront vibrer, nous te proposons le [PASS découverte](https://app.pole-emotion.ch/pass-decouverte)!
 
@@ -52,7 +52,7 @@ Pole-Emotion, c'est aussi pour toi !
 
 Bienvenue dans une école de danse pas comme les autres. Depuis 2005, nous accueillons toutes les femmes, venez comme vous êtes! et Oui, chez nous Chaque Femme à sa place.
 
-Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **42** types de cours qui sont pratiqués chez nous!
+Contrairement à ce que notre nom pourrait suggérer, nos cours ne se limitent pas à la Pole-dance, en effet, c'est pas moins de **41** types de cours qui sont pratiqués chez nous!
 
 Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te feront vibrer, nous te proposons le [PASS découverte](https://app.pole-emotion.ch/pass-decouverte)
 
@@ -86,7 +86,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 
 [](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=727122)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=035139)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
