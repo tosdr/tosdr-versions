@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. computer science
+1. excel
     
-2. French
+2. data science
     
-3. trading
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Digital Marketing
     
-    9,796 courses](https://www.classcentral.com/subject/ai)
+    5,790 courses](https://www.classcentral.com/subject/digital-marketing)
 2. [Psychology
     
     2,276 courses](https://www.classcentral.com/subject/psychology)
-3. [Web Development
+3. [Graphic Design
     
-    12,576 courses](https://www.classcentral.com/subject/web-development)
+    4,161 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Comprendere la filosofia
+1. [FinTech Foundations and Overview
     
-    University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
-2. [Perdón y reconciliación: cómo sanar heridas
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fintech-11193)
+2. [Understanding Dementia
     
-    The Pontificia Universidad Javeriana](https://www.classcentral.com/course/social-science-pontificia-universidad-javeriana-p-11475)
-3. [Arab-Islamic History: From Tribes to Empires
+    University of Tasmania](https://www.classcentral.com/course/independent-understanding-dementia-981)
+3. [How to Succeed at: Interviews
     
-    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
