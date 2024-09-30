@@ -34,15 +34,12 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What impression does AN's banner give… (323)](https://forum.nationstates.net/viewtopic.php?t=553826&f=25&view=unread#unread ""What impression does AN's banner give you?" (323 posts)")
-* [JEFF Rundown (48)](https://forum.nationstates.net/viewtopic.php?t=556221&f=41&view=unread#unread ""JEFF Rundown" (48 posts)")
-* [Lets be real (38)](https://forum.nationstates.net/viewtopic.php?t=556209&f=41&view=unread#unread ""Lets be real" (38 posts)")
-* [NDay11 Development Thread (50)](https://forum.nationstates.net/viewtopic.php?t=555725&f=15&view=unread#unread ""NDay11 Development Thread" (50 posts)")
-* [What was your favorite N-Day Faction?… (15)](https://forum.nationstates.net/viewtopic.php?t=556222&f=41&view=unread#unread ""What was your favorite N-Day Faction? It can’t be yours!" (15 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (887)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (887 posts)")
+* [What Music Are You Listening to? v18 (11,410)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,410 posts)")
+* [News Feed Socialist Republic Rugenia… (7)](https://forum.nationstates.net/viewtopic.php?t=555682&f=23&view=unread#unread ""News Feed Socialist Republic Rugenia (RTV1)" (7 posts)")
+* [The One Spacecraft \[Ooc\] \[Ft\] (63)](https://forum.nationstates.net/viewtopic.php?t=554746&f=31&view=unread#unread ""The One Spacecraft [Ooc] [Ft]" (63 posts)")
 
 Advertisement
-
-[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions) [1 Horsemen of the ...](https://www.nationstates.net/page=faction/fid=56) [2 Kingly Heathens ...](https://www.nationstates.net/page=faction/fid=11) [3 Jellyfish Elite ...](https://www.nationstates.net/page=faction/fid=4) [4 West Coast Coalition](https://www.nationstates.net/page=faction/fid=98) [5 European Defence...](https://www.nationstates.net/page=faction/fid=344) [6 RAILGUN](https://www.nationstates.net/page=faction/fid=8) [7 Trans Republic](https://www.nationstates.net/page=faction/fid=34) [8 Northern Kerbalia](https://www.nationstates.net/page=faction/fid=3) [9 Nova Arctic Republic](https://www.nationstates.net/page=faction/fid=245) [10 Grand Coalition](https://www.nationstates.net/page=faction/fid=7)
 
 Terms & Conditions of Use
 =========================
