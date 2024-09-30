@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/BB3-326x245.jpg)](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
+
+East Side
+
+### [Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
+
+[September 28, 2024 11:25 AM](https://cwbchicago.com/2024/09)
+
+A woman was found shot to death in a South Side alley on Saturday morning after a resident called 911 because her body had been in the same place for about two days.[](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/03/Generic-new-2023-edited-326x245.jpg)](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+
+West Loop
+
+### [In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+
+[September 28, 2024 10:19 AM](https://cwbchicago.com/2024/09)
+
+Yet another woman was targeted by a necklace-snatching robber downtown on Friday evening. About a dozen similar crimes have been reported over the past three weeks.[](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Jaquan-Dukes-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
 
 Englewood
@@ -252,27 +272,6 @@ Englewood
 [September 28, 2024 9:13 AM](https://cwbchicago.com/2024/09)
 
 Prosecutors are accusing a Chicago man of carjacking two women at gunpoint in under an hour.[](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/01/Buie-Johnson-Wade-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
-
-Citywide
-
-### [Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
-
-[September 28, 2024 7:41 AM](https://cwbchicago.com/2024/09)
-
-A group of Chicago men have been sentenced to 5 to 15 years in a Pennsylvania prison for running a catalytic converter theft ring. When they were charged in 2015 with similar crimes in Chicago, they got probation for misdemeanors.  
-[](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/summit-motel-326x245.jpg)](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
-
-Lincoln Square
-
-### [Man shot during argument on the North Side](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
-
-[September 28, 2024 6:57 AM](https://cwbchicago.com/2024/09)
-
-A man was shot during an argument in a North Side motel parking lot on Friday night, according to Chicago police.[](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
 
 Search
 
