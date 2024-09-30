@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/081/1.jpg "Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online")
+    
+    Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments)
+    
+* [![The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy](https://i.kym-cdn.com/featured_items/icons/wide/000/026/080/1.jpg "The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy")
+    
+    The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy](https://knowyourmeme.com/memes/beetlejuice-lips)
+    
+* [![Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/079/Elastigirl_skin_cover.jpg "Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media")
+    
+    Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media](https://knowyourmeme.com/memes/mrs-incredible-fortnite-skin)
+    
+* [![Here You Go Bro redraw meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/026/078/here_you_go_meme_cover.jpg "'Here You Go Bro': Girl Lifting Dumbbell Inspires Viral Redraw Trend")
+    
+    'Here You Go Bro': Girl Lifting Dumbbell Inspires Viral Redraw Trend](https://knowyourmeme.com/memes/here-you-go-bro)
+    
 * [![Ralph In Danger Becomes Fresh New Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/077/Screen_Shot_2018-03-30_at_11.34.27_AM.png "Ralph Has Been In Danger For Ten Years")
     
     Ralph Has Been In Danger For Ten Years](https://knowyourmeme.com/memes/ralph-in-danger-im-in-danger)
     
-* [!['Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years](https://i.kym-cdn.com/featured_items/icons/wide/000/026/076/cover2.jpg "'Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years")
-    
-    'Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years](https://knowyourmeme.com/memes/almost-friday-almost-paranoid)
-    
-* [![Dr. Phil, Quoting an Angry Teen, Demands $200 In His Latest Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/075/maxresdefault.jpg "Happy Anniversary To Dr. Phil Reading 'You're Ugly, You're Disgusting, Give Me $200.'")
-    
-    Happy Anniversary To Dr. Phil Reading 'You're Ugly, You're Disgusting, Give Me $200.'](https://knowyourmeme.com/memes/youre-ugly-youre-disgusting)
-    
-* [![Hopecore is a meme trend on TikTok that originated in late 2023 going into 2024. The aesthetic TikTok -core features feel-good or "hopeful" edits splicing together videos of people doing wholesome things. Early hopecore videos often revolved around sports clips and interviews, while later hopecore videos tended to be more wholesome, featuring animals and children. Later hopecore videos also often feature the phrase "life is beautiful" across each clip. Popular artists in the "hopecore" repertoire are Bob Marley, Neil Diamond, Frank Sinatra, and other older artists. The "hopecore" trend is similar to memes about the indomitable human spirit. Other "-core": trends on TikTok include stresscore, and pinkcore.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/074/core.jpg "'Hopecore' Is The Latest TikTok Video Editing Trend, Following In The Footsteps of Corecore and Pinkcore")
-    
-    'Hopecore' Is The Latest TikTok Video Editing Trend, Following In The Footsteps of Corecore and Pinkcore](https://knowyourmeme.com/memes/hopecore)
-    
-* [!["We Didn't Start The Fire" Parodies](https://i.kym-cdn.com/featured_items/icons/wide/000/026/073/snp32hxasxv3cxud2kgu.jpg "Happy Anniversary To 'We Didn't Start The Fire,' An Excellent Vehicle For Memes Regardless Of What You Think Of The Song")
-    
-    Happy Anniversary To 'We Didn't Start The Fire,' An Excellent Vehicle For Memes Regardless Of What You Think Of The Song](https://knowyourmeme.com/memes/we-didnt-start-the-fire)
-    
 
 ##### Also Trending:
 
-[Godot Engine User Blocking Controversy / #Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "Godot Engine User Blocking Controversy / #Wokot") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments")
+[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments") [Mrs. Incredible Fortnite Skin](https://knowyourmeme.com/memes/mrs-incredible-fortnite-skin "Mrs. Incredible Fortnite Skin")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
