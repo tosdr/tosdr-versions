@@ -22,7 +22,7 @@
 
 ![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
-[Nextcloud **Enterprise Day**](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
+[Nextcloud **Enterprise Day Frankfurt**](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
 [Register now](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
