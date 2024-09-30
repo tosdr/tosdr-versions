@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Sports](https://www.fox4news.com/sports)
 * [Good Day](https://www.fox4news.com/shows/good-day)
-* [State Fair of Texas](https://www.fox4news.com/shows/state-fair-of-texas)
+* [State Fair](https://www.fox4news.com/shows/state-fair-of-texas)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![How to help: Hurricane Helene relief](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.00.17.26.jpg?ve=1&tl=1)
+ [![Lake Dallas permanently closes its animal shelter](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-PB-LAKE-DALLAS-ANIMAL-SERVIES-CLOSES-BROLL_00.01.51.22.jpg?ve=1&tl=1)
 
- ![How to help: Hurricane Helene relief](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.00.17.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-help-hurrricane-helene)
+ ![Lake Dallas permanently closes its animal shelter](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-PB-LAKE-DALLAS-ANIMAL-SERVIES-CLOSES-BROLL_00.01.51.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lake-dallas-animal-shelter-closed)
 
-### [How to help: Hurricane Helene relief](https://www.fox4news.com/news/how-help-hurrricane-helene)
+### [Lake Dallas permanently closes its animal shelter](https://www.fox4news.com/news/lake-dallas-animal-shelter-closed)
 
- [![Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-CB-FW-MUSEUM-WAY-SHOOTING-FULL-RAW_00.00.39.38.jpg?ve=1&tl=1)
+ [![Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
 
- ![Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-CB-FW-MUSEUM-WAY-SHOOTING-FULL-RAW_00.00.39.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/homeowner-shoots-alleged-trespasser-after-rock-throwing-incident-fort-worth)
+ ![Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
-### [Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://www.fox4news.com/news/homeowner-shoots-alleged-trespasser-after-rock-throwing-incident-fort-worth)
+### [Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
- [![Pedestrian in wheelchair killed in Dallas hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-SH-DPD-Major-Crash-Fx-Abrams-Rd_KDFW6e5f_18_00.02.43.02.jpg?ve=1&tl=1)
+ [![Richland High School placed on lockdown after 'hoax' threat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-30T142510.787.jpg?ve=1&tl=1)
 
- ![Pedestrian in wheelchair killed in Dallas hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-SH-DPD-Major-Crash-Fx-Abrams-Rd_KDFW6e5f_18_00.02.43.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pedestrian-wheelchair-killed-dallas-hit-and-run)
+ ![Richland High School placed on lockdown after 'hoax' threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-30T142510.787.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richland-high-school-lockdown-threat)
 
-### [Pedestrian in wheelchair killed in Dallas hit-and-run](https://www.fox4news.com/news/pedestrian-wheelchair-killed-dallas-hit-and-run)
+### [Richland High School placed on lockdown after 'hoax' threat](https://www.fox4news.com/news/richland-high-school-lockdown-threat)
 
- [![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
+ [![Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/TESLA-HODGES-HOUSE-FIRE.jpg?ve=1&tl=1)
 
- ![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-shooting-lincoln-drive)
+ ![Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/TESLA-HODGES-HOUSE-FIRE.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/electric-vehicle-catches-fire-garage-destroys-home-during-hurricane-helene)
 
-### [2 men, 1 woman injured in Arlington apartment shooting](https://www.fox4news.com/news/arlington-apartment-shooting-lincoln-drive)
+### [Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://www.fox4news.com/news/electric-vehicle-catches-fire-garage-destroys-home-during-hurricane-helene)
 
- [![Texans working to help areas devastated by Helene](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.01.17.42.jpg?ve=1&tl=1)
+ [![Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/george-james.jpg?ve=1&tl=1)
 
- ![Texans working to help areas devastated by Helene](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.01.17.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
+ ![Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/george-james.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/east-oak-cliff-shooting-george-james-jr)
 
-### [Texans working to help areas devastated by Helene](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
+### [Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://www.fox4news.com/news/east-oak-cliff-shooting-george-james-jr)
 
 ###### [News](https://www.fox4news.com/news)
 
