@@ -205,23 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [Literotica](https://www.somethingawful.com/news/literotica/)
 * [Measurection](https://www.somethingawful.com/weekend-web/measurection/1/)
-* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
-* [Nintendo Forums, Mad Philosophers, and Snafu](https://www.somethingawful.com/weekend-web/nintendo-forums-mad/1/)
-* [Erotic Saturday Morning Cartoon Fanfic, Part 2](https://www.somethingawful.com/comedy-goldmine/erotic-saturday-morning-2/1/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [Men Going Their Own Way](https://www.somethingawful.com/weekend-web/mengoing-theirownway/)
 * [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I'm watching The Warriors](http://forums.somethingawful.com/showthread.php?threadid=4071476 "I'm watching The Warriors")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [songs that get stuck in your head when you hear a different song](http://forums.somethingawful.com/showthread.php?threadid=4071449 "songs that get stuck in your head when you hear a different song")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Best gluten free food ideas?](http://forums.somethingawful.com/showthread.php?threadid=4071472 "Best gluten free food ideas?")
 
 ### Random Articles
 
-* [Robowar](https://www.somethingawful.com/movie-reviews/robowar/1/)
-* [Warhamer 40,000: Rogue Trader (part two)](https://www.somethingawful.com/dungeons-and-dragons/rogue-trader-returns/1/)
-* [Ruin Online](https://www.somethingawful.com/mmo-roulette/ruin-online/1/)
-* [Fine Art Meets Awful Forum!](https://www.somethingawful.com/photoshop-phriday/fine-art-goons/1/)
-* [July 2, 2013](https://www.somethingawful.com/twitter-tuesday/tt07-02-13/)
+* [Donkey Kong 64 turned my sister onto Communism](https://www.somethingawful.com/comedy-goldmine/donkey-kong-communism/)
+* [Pregnant Men](https://www.somethingawful.com/awful-links/awful-link-2399/)
+* [Been noticing a whole lot of stuff since I stopped touching my genitals](https://www.somethingawful.com/comedy-goldmine/genius-without-touching/)
+* [Law and Order Up!](https://www.somethingawful.com/news/law-order-up/)
+* [Gaming Guyz 3](https://www.somethingawful.com/flash-tub/gaming-guyz-3/)
 
 [Random!](https://www.somethingawful.com/random/)
 
