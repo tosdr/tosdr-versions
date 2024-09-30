@@ -19,11 +19,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Deputy PM and Housing Secretary Angela Rayner MP.
-    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
-    
-    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
-    
     [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
     
     ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
@@ -35,6 +30,15 @@
     [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
     
     ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
+    [![Deputy PM and Housing Secretary Angela Rayner MP.
+    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
+    
+    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
+    
+    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
+    
+    ### [Four treated by paramedics in West Norwood house fire](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
     
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
@@ -51,10 +55,6 @@
     [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
     ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-    
-    [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-    
-    ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,11 +100,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Deputy PM and Housing Secretary Angela Rayner MP.
-    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
-    
-    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
-    
     [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
     
     ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
@@ -116,6 +111,15 @@ View All Result
     [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
     
     ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
+    [![Deputy PM and Housing Secretary Angela Rayner MP.
+    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
+    
+    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
+    
+    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
+    
+    ### [Four treated by paramedics in West Norwood house fire](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
     
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
@@ -132,10 +136,6 @@ View All Result
     [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
     ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-    
-    [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-    
-    ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,6 +232,13 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Andy Parsons 
+Photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/andy-parsons-1600-x-1200-1024x768-1-120x86.jpg)](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
+
+### [13 things to do in south London this October](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
+
+[30th September 2024](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
+
 [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-120x86.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
 
 ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
@@ -261,12 +268,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
 
 [29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-
-[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
 ### USEFUL PAGES
 
