@@ -150,6 +150,7 @@
 * [Web Application Deployment and Support](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
 * [Front End Web Development](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Back End Web Development](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
+* [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
 
 ##### 3rd Party Certifications
 
@@ -205,6 +206,7 @@
 * [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
 * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
+* [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
 
 ##### Courses
 
@@ -496,6 +498,7 @@ Online Degrees
         * [Web Application Deployment and Support](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
         * [Front End Web Development](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Back End Web Development](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
+        * [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
         
     * 3rd Party Certifications
         
@@ -559,6 +562,7 @@ Online Degrees
         * [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
         * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
+        * [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
         
     * Courses
         
