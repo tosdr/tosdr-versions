@@ -34,7 +34,7 @@ Subscribe
 * [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
 * [Hyogo governor](https://www.japantimes.co.jp/tag/motohiko-saito/ "Hyogo governor")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
-* [Deep Dive](https://www.japantimes.co.jp/about-us/privacy/podcast/deep-dive/ "Deep Dive")
+* [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
 [Today's print edition](https://epaper.japantimes.co.jp/ "Today's Print Edition")
 
@@ -475,13 +475,13 @@ Revised June 1, 2022
 
   [![Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424566.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ")](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
 
+[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+
+  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+
 [Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
   [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
-
-[Kei Nishikori advances to quarters at a Japan Open full of upsets](https://www.japantimes.co.jp/sports/2024/09/28/tennis/nishikori-japan-open/ "Kei Nishikori advances to quarters at a Japan Open full of upsets")
-
-  [![Kei Nishikori hits a return against Jordan Thompson during their second-round match at the Japan Open in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424570.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Kei Nishikori hits a return against Jordan Thompson during their second-round match at the Japan Open in Tokyo on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/28/tennis/nishikori-japan-open/ "Kei Nishikori advances to quarters at a Japan Open full of upsets")
 
 [NHK furthers global reach with Tiny Desk Concerts Japan](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
 
@@ -498,6 +498,10 @@ Revised June 1, 2022
 [Deadline approaches for free HPV vaccine 'catch-up' campaign](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
 
   [![A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424262.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.")](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
+
+[Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
+
+  [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
 
 Podcast
 -------
@@ -518,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -560,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[As Hezbollah threat loomed, Israel built up its spy agencies](https://www.japantimes.co.jp/news/2024/09/29/world/israel-built-up-spy-agencies/ "As Hezbollah threat loomed, Israel built up its spy agencies")
+[Opposition to Toyota’s chairman spreads among big shareholders](https://www.japantimes.co.jp/business/2024/09/30/companies/toyota-chairman-big-shareholders/ "Opposition to Toyota’s chairman spreads among big shareholders")
 
-10 hours ago
+21 mins ago
 
-[Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
+[China's factory and service sectors skid as stimulus calls grow](https://www.japantimes.co.jp/business/2024/09/30/economy/china-factory-service-stimulus/ "China's factory and service sectors skid as stimulus calls grow")
 
-[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+34 mins ago
 
-[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+[Three Palestinian leaders killed in Israel strike in Beirut](https://www.japantimes.co.jp/news/2024/09/30/world/politics/palestinian-leaders-killed-beirut/ "Three Palestinian leaders killed in Israel strike in Beirut")
 
-[SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
+48 mins ago
+
+[Japanese stocks tumble after Ishiba elected ruling party leader](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Japanese stocks tumble after Ishiba elected ruling party leader")
+
+52 mins ago
+
+[170 dead in Nepal floods following relentless monsoon rains](https://www.japantimes.co.jp/news/2024/09/30/asia-pacific/nepal-floods-monsoon-rains/ "170 dead in Nepal floods following relentless monsoon rains")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
