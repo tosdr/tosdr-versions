@@ -30,7 +30,6 @@
 * [Press](https://www.bellevuearts.org/about-us/press)
 * [Contact Us](https://www.bellevuearts.org/about-us/contact-us)
 * [Our Community](https://www.bellevuearts.org/about-us/our-community)
-* [Exhibition Proposals](https://www.bellevuearts.org/about-us/exhibition-proposals)
 * [IDEA](https://www.bellevuearts.org/about-us/idea)
 
 * [Private Events](https://www.bellevuearts.org/private-events)
@@ -50,7 +49,6 @@ Go
 * [About Us](https://www.bellevuearts.org/about-us)
 * [Private Events](https://www.bellevuearts.org/private-events)
 * [Arts Fair](https://www.bellevuearts.org/artsfair)
-* [Summer Camps](https://www.bellevuearts.org/bam-summer-camps)
 * [Menu](#)
 
 [_Bellevue Art Museum_](https://www.bellevuearts.org/)
@@ -62,7 +60,6 @@ Go
 * [About Us](https://www.bellevuearts.org/about-us)
 * [Private Events](https://www.bellevuearts.org/private-events)
 * [Arts Fair](https://www.bellevuearts.org/artsfair)
-* [Summer Camps](https://www.bellevuearts.org/bam-summer-camps)
 * [](#)
 
 Go
