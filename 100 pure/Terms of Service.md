@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5753 reviews (5755)
+5756 reviews (5756)
 
 $16.00 $29.00
 
@@ -417,6 +417,22 @@ ADD TO TOTE
 $25.00
 
 Default Title - $25
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
+
+[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
+
+![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
+
+### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
+
+1419 reviews (1419)
+
+$58.00
+
+Default Title - $58
 
 ADD TO TOTE
 
