@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Beer In MexicoKenny Chesney<br><br>5:38pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:35pm |
-| RelapseWarren Zeiders<br><br>5:32pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:29pm |
-| OutskirtsSam Hunt<br><br>5:26pm |
+| Dirt Road AnthemJason Aldean<br><br>11:39pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:36pm |
+| Devil You KnowTyler Braden<br><br>11:33pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>11:30pm |
+| One Man BandOld Dominion<br><br>11:27pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
