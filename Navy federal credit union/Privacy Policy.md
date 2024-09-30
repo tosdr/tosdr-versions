@@ -364,7 +364,7 @@ Navy Federal Information
 
 ### Mission Statement
 
-Since 1933, Navy Federal Credit Union has grown from 7 members to over 13 million members. And, since that time, our vision statement has remained focused on serving our unique field of membership: 
+Since 1933, Navy Federal Credit Union has grown from 7 members to over 14 million members. And, since that time, our vision statement has remained focused on serving our unique field of membership: 
 
 _"Be the most preferred and trusted financial institution serving the military and their families."_
 
