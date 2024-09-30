@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![В благотворительной акции «Единой России» «Лучший друг» приняли участие более 17 тысяч человек](https://cdn.er.ru/media/news/September2024/ale7u2ohUCGTWuuAoOcy-small.jpg)](https://er.ru/activity/news/v-blagotvoritelnoj-akcii-edinoj-rossii-luchshij-drug-prinyali-uchastie-bolee-17-tysyach-chelovek)
+[![Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://cdn.er.ru/media/news/September2024/o0Pb9uMMVfW0uCCHqt7F-small.jpg)](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
 
-[В благотворительной акции «Единой России» «Лучший друг» приняли участие более 17 тысяч человек](https://er.ru/activity/news/v-blagotvoritelnoj-akcii-edinoj-rossii-luchshij-drug-prinyali-uchastie-bolee-17-tysyach-chelovek)
+[Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [зооприют](https://er.ru/activity/news?tags%5B0%5D=153053) [#Лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=152557)
+[#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
-29.09.24
+Сегодня 12:19
 
-[![25 активистов «Молодой Гвардии Единой России» и «Волонтёрской Роты Боевого Братства» отправились добровольцами в зону СВО](https://cdn.er.ru/media/news/September2024/8RvuVTIZb5MmzpKwteV3-small.jpeg)](https://er.ru/activity/news/25-aktivistov-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-boevogo-bratstva-otpravilis-dobrovolcami-v-zonu-svo)
+[![Владимир Якушев: В Курскую область от реготделений «Единой России» поступило почти 1,5 тысячи тонн гуманитарной помощи](https://cdn.er.ru/media/news/September2024/vFJvIA0ZuCJUcbrAbNU4-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-kurskuyu-oblast-ot-regotdelenij-edinoj-rossii-postupilo-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi)
 
-[25 активистов «Молодой Гвардии Единой России» и «Волонтёрской Роты Боевого Братства» отправились добровольцами в зону СВО](https://er.ru/activity/news/25-aktivistov-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-boevogo-bratstva-otpravilis-dobrovolcami-v-zonu-svo)
+[Владимир Якушев: В Курскую область от реготделений «Единой России» поступило почти 1,5 тысячи тонн гуманитарной помощи](https://er.ru/activity/news/vladimir-yakushev-v-kurskuyu-oblast-ot-regotdelenij-edinoj-rossii-postupilo-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#зона СВО](https://er.ru/activity/news?tags%5B0%5D=1094837)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-29.09.24
+Сегодня 11:57
 
-[![«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://cdn.er.ru/media/news/September2024/4s7U1whZIQOVQfLIiPnp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
+[![«Единая Россия» передала более 11 тысяч писем в поддержку бойцов СВО, написанных участниками «Диктанта Победы»](https://cdn.er.ru/media/news/September2024/SxsIOpMoWsBIvuMEoXQT-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-11-tysyach-pisem-v-podderzhku-bojcov-svo-napisannyh-uchastnikami-diktanta-pobedy)
 
-[«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
+[«Единая Россия» передала более 11 тысяч писем в поддержку бойцов СВО, написанных участниками «Диктанта Победы»](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-11-tysyach-pisem-v-podderzhku-bojcov-svo-napisannyh-uchastnikami-diktanta-pobedy)
 
-[#Хохряков](https://er.ru/activity/news?tags%5B0%5D=796) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ханты-Мансийский автономный округ - Югра](https://er.ru/activity/news?tags%5B0%5D=118527) [#Кухарук](https://er.ru/activity/news?tags%5B0%5D=119725) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Волков](https://er.ru/activity/news?tags%5B0%5D=1201) [#Головин](https://er.ru/activity/news?tags%5B0%5D=11899) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#ПочтаРоссии](https://er.ru/activity/news?tags%5B0%5D=1092932) [#Минобороны](https://er.ru/activity/news?tags%5B0%5D=1918) [#Росгвардия](https://er.ru/activity/news?tags%5B0%5D=91543) [#ПисьмоГерою](https://er.ru/activity/news?tags%5B0%5D=1095439) [#ДиктантПобеды](https://er.ru/activity/news?tags%5B0%5D=128811) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
 
-28.09.24
+Сегодня 11:15
 
-[![В Москве при поддержке «Единой России» открылся VII Большой Детский фестиваль](https://cdn.er.ru/media/news/September2024/XNpP6mItJ58vAVvnhHNy-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-otkrylsya-vii-bolshoj-detskij-festival)
+[![«Единая Россия» внесла законопроект о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/September2024/61FFZoh7b7AyJsWU7YFV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
 
-[В Москве при поддержке «Единой России» открылся VII Большой Детский фестиваль](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-otkrylsya-vii-bolshoj-detskij-festival)
+[«Единая Россия» внесла законопроект о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
 
-[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Безруков](https://er.ru/activity/news?tags%5B0%5D=23287) [#БольшойДетскийФестиваль](https://er.ru/activity/news?tags%5B0%5D=1093399) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#открытие](https://er.ru/activity/news?tags%5B0%5D=36) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#культурамалойродины](https://er.ru/activity/news?tags%5B0%5D=114762)
+[#доверенности](https://er.ru/activity/news?tags%5B0%5D=31212) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#воинскаячасть](https://er.ru/activity/news?tags%5B0%5D=132156) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
-28.09.24
+Сегодня 11:08
 
-[![Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/September2024/NXPO56oJ2PSExn3OqpuC-small.jpg)](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
+[![Игорь Кастюкевич: Исторический выбор сотен тысяч людей, поддержанный Президентом Владимиром Путиным, изменил будущее всего мирового устройства](https://cdn.er.ru/media/news/September2024/TwCzhj02PKUHBok29sbW-small.jpg)](https://er.ru/activity/news/igor-kastyukevich-istoricheskij-vybor-soten-tysyach-lyudej-podderzhannyj-prezidentom-vladimirom-putinym-izmenil-budushee-vsego-mirovogo-ustrojstva)
 
-[Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
+[Игорь Кастюкевич: Исторический выбор сотен тысяч людей, поддержанный Президентом Владимиром Путиным, изменил будущее всего мирового устройства](https://er.ru/activity/news/igor-kastyukevich-istoricheskij-vybor-soten-tysyach-lyudej-podderzhannyj-prezidentom-vladimirom-putinym-izmenil-budushee-vsego-mirovogo-ustrojstva)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#визиты](https://er.ru/activity/news?tags%5B0%5D=71575)
+[#Кастюкевич](https://er.ru/activity/news?tags%5B0%5D=1092567) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-28.09.24
+Сегодня 10:46
 
-[![Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://cdn.er.ru/media/news/September2024/XcMvtyKmYluuDr09PoGC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
+[![Дарья Лантратова: Донбасс и Новороссия - неотъемлемая часть России, её истории и будущего](https://cdn.er.ru/media/news/September2024/doOMaRBpuTEZVVTrtUc6-small.jpg)](https://er.ru/activity/news/darya-lantratova-donbass-i-novorossiya-neotemlemaya-chast-rossii-eyo-istorii-i-budushego)
 
-[Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
+[Дарья Лантратова: Донбасс и Новороссия - неотъемлемая часть России, её истории и будущего](https://er.ru/activity/news/darya-lantratova-donbass-i-novorossiya-neotemlemaya-chast-rossii-eyo-istorii-i-budushego)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кировская область](https://er.ru/activity/news?tags%5B0%5D=6033) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) ["#съездЕР"](https://er.ru/activity/news?tags%5B0%5D=1092161) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Соколов](https://er.ru/activity/news?tags%5B0%5D=5287)
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#воссоединениесРоссией](https://er.ru/activity/news?tags%5B0%5D=129719) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#годовщина](https://er.ru/activity/news?tags%5B0%5D=2918)
 
-27.09.24
+Сегодня 09:30
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
