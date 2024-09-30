@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
+[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
+
+[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
 
 [Social Isolation May Transform Brain, Increase Stress](https://www.visitingangels.com/knowledge-center/why-in-home-care/social-isolation-may-transform-brain-increase-stress/376)
 
 [What to Look for at Your Parent’s House During the Holidays](https://www.visitingangels.com/knowledge-center/why-in-home-care/what-to-look-for-at-your-parents-house-during-the-holidays/331)
 
-[Memory Care Study Links Colorful Vegetables to Healthier Minds](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/memory-care-study-links-colorful-vegetables-to-healthier-minds/114)
-
-[5 Questions to Ask Before Starting Respite Care](https://www.visitingangels.com/knowledge-center/care-options/5-questions-to-ask-before-starting-respite-care/52)
+[Coordinating Family and Professional Care](https://www.visitingangels.com/knowledge-center/care-options/coordinating-family-and-professional-care/115)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
