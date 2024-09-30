@@ -1,3 +1,5 @@
+​
+
 [Skip to content](#skip-to-content)
 
 Menu
@@ -585,14 +587,13 @@ All other feedback, comments, requests for technical support and other communica
 
 Thank you for visiting ThoughtCo.
 
-[Home](https://www.thoughtco.com/)
+[ThoughtCo](https://www.thoughtco.com/)
 
 Follow Us
+---------
 
 * [](http://www.facebook.com/thoughtcodotcom)
 * [](https://flipboard.com/@thoughtco?utm_source=thoughtco&utm_medium=follow&utm_campaign=tools)
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=e166d0ee-e663-4ad0-9384-f5bd78093a89)
 
 * [Science, Tech, Math](https://www.thoughtco.com/sciences-math-4132465)
 * [Humanities](https://www.thoughtco.com/humanities-4133358)
@@ -606,9 +607,11 @@ Follow Us
 * [Editorial Guidelines](https://www.thoughtco.com/about-us-4779650#toc-editorial-guidelines)
 * [Contact](https://www.thoughtco.com/about-us-4779650#toc-contact-us)
 * [Terms of Service](https://www.dotdashmeredith.com/brands-termsofservice)
-* [Your Privacy Choices](#)
+* Your Privacy Choices  
+* [](https://privacy.truste.com/privacy-seal/validation?rid=e166d0ee-e663-4ad0-9384-f5bd78093a89)
+    
 
-ThoughtCo is part of the [Dotdash Meredith](https://www.dotdashmeredith.com/) publishing family.
+ThoughtCo is part of the [Dotdash Meredith](https://www.dotdashmeredith.com/) publishing family.
 
 By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 
