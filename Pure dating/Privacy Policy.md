@@ -4,12 +4,6 @@ SET YOUR DATING RULES
 
 [](https://pure.dating/content/en/journal)
 
-[![Что главное в знакомствах: сексуальные предпочтения и ожидания от свиданий](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Что главное в знакомствах: сексуальные предпочтения и ожидания от свиданий](https://pure-blog-production.soulplatform.com/article_preview_image_744x921_3_029f173f4a.webp)
-
-Music, Kissing & More. What does Every Turn-On on Pure Mean?](https://pure.dating/content/en/journal/pure-turnons-meaning)[What is?](https://pure.dating/content/en/journal/categories/what-is)
-
 [![Casual Dating Etiquette: 8 Do's and Don'ts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Casual Dating Etiquette: 8 Do's and Don'ts](https://pure-blog-production.soulplatform.com/Untitled_578_5b8af8eda0.png)
@@ -39,6 +33,12 @@ Third Ones's the Charm. Five Reasons to Try Unicorn Sex](https://pure.dating/con
 ![How to Seduce on a First Date?](https://pure-blog-production.soulplatform.com/Frame_20917467073_59c516845e.png)
 
 How to Seduce on a First Date?](https://pure.dating/content/en/journal/seduction-basics)
+
+[![Why do Young Men Like Mature Women and Vice Versa](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Why do Young Men Like Mature Women and Vice Versa](https://pure-blog-production.soulplatform.com/blog_index_5_99979b161d.png)
+
+Why do Young Men Like Mature Women and Vice Versa](https://pure.dating/content/en/journal/only-pleasure)
 
 Show more 6
 
