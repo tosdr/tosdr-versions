@@ -343,7 +343,7 @@ Any question regarding the implementation or administration of this policy shoul
 
 [U.S. PATENTS ISSUED TO REYNOLDS CONSUMER PRODUCTS LLC](#collapse-accordion-29-6)
 
-[Click here](https://www.reynoldsconsumerproducts.com/sites/default/files/2024-04/Patents%20List.pdf) for full list.
+[Click here](https://www.reynoldsconsumerproducts.com/sites/default/files/2024-09/Patents%20List%209-30-2024.pdf) for full list.
 
 [REYNOLDS CONSUMER PRODUCTS DOES NOT ACCEPT UNSOLICITED PRODUCT IDEAS](#collapse-accordion-29-7)
 
