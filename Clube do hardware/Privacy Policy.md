@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![katsuroko](https://www.clubedohardware.com.br/uploads/members/monthly_2017_06/f3e4b3aa5dadd8ac7e1f098abb22dbeb8385917f_full.jpg.3d6fc502480a623be51c246338512c2e.jpg)](https://www.clubedohardware.com.br/profile/771503-katsuroko/ "Ir ao perfil de katsuroko")
-        
-        0
-        
-        [Indicação de placa-mãe para Core I5 12400F com RTX 3070](https://www.clubedohardware.com.br/forums/topic/1698601-indica%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-core-i5-12400f-com-rtx-3070/?do=getNewComment "Indicação de placa-mãe para Core I5 12400F com RTX 3070")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [katsuroko](https://www.clubedohardware.com.br/profile/771503-katsuroko/ "Ir ao perfil de katsuroko")  
-        23 minutos atrás
-        
-    * [![Renanxbr](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1126768.thumb.jpeg.3ccd66dd9a43fc3f30492a29481794b8.jpeg)](https://www.clubedohardware.com.br/profile/1126768-renanxbr/ "Ir ao perfil de Renanxbr")
-        
-        3
-        
-        [Usar as saídas de vídeo da placa de vídeo e da placa-mãe ao mesmo tempo](https://www.clubedohardware.com.br/forums/topic/1698599-usar-as-sa%C3%ADdas-de-v%C3%ADdeo-da-placa-de-v%C3%ADdeo-e-da-placa-m%C3%A3e-ao-mesmo-tempo/?do=getNewComment "Usar as saídas de vídeo da placa de vídeo e da placa-mãe ao mesmo tempo")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Renanxbr](https://www.clubedohardware.com.br/profile/1126768-renanxbr/ "Ir ao perfil de Renanxbr")  
-        32 minutos atrás
-        
-    * [![Detetive Virtual de SSDs](https://www.clubedohardware.com.br/uploads/members/monthly_2023_08/Logo.thumb.jpg.f00758b570f4b57f5ab086c0a523fcf2.jpg)](https://www.clubedohardware.com.br/profile/778464-detetive-virtual-de-ssds/ "Ir ao perfil de Detetive Virtual de SSDs")
-        
-        0
-        
-        [Recomendação de Câmera Térmica](https://www.clubedohardware.com.br/forums/topic/1698598-recomenda%C3%A7%C3%A3o-de-c%C3%A2mera-t%C3%A9rmica/?do=getNewComment "Recomendação de Câmera Térmica")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Detetive Virtual de SSDs](https://www.clubedohardware.com.br/profile/778464-detetive-virtual-de-ssds/ "Ir ao perfil de Detetive Virtual de SSDs")  
-        41 minutos atrás
-        
-    * [![geovane 123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1045751.thumb.jpeg.737eced109fa6ce9f0cf8391b92f7369.jpeg)](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")
-        
-        3
-        
-        [Notebook trocar memória RAM](https://www.clubedohardware.com.br/forums/topic/1698597-notebook-trocar-mem%C3%B3ria-ram/?do=getNewComment "Notebook trocar memória RAM")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [geovane 123](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")  
-        43 minutos atrás
-        
-    * [![nicksxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/imported-photo-1238537.thumb.gif.570748907816baa4c18f75d45067cb10.gif)](https://www.clubedohardware.com.br/profile/1238537-nicksxd/ "Ir ao perfil de nicksxd")
-        
-        0
-        
-        [Indicação de placa de vídeo para CS2, Valorant e Lives](https://www.clubedohardware.com.br/forums/topic/1698596-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-cs2-valorant-e-lives/?do=getNewComment "Indicação de placa de vídeo para CS2, Valorant e Lives")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [nicksxd](https://www.clubedohardware.com.br/profile/1238537-nicksxd/ "Ir ao perfil de nicksxd")  
-        45 minutos atrás
-        
-    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
-        
-        3
-        
-        [Fonte de 550W suporta Core I5 12400F e GeFore RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1698595-fonte-de-550w-suporta-core-i5-12400f-e-gefore-rtx-4060/?do=getNewComment "Fonte de 550W suporta Core I5 12400F e GeFore RTX 4060?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
-        51 minutos atrás
-        
-    * [![silva14](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253840.thumb.jpeg.a06cb154b75c65a4f2b548e4a6ea8391.jpeg)](https://www.clubedohardware.com.br/profile/1253840-silva14/ "Ir ao perfil de silva14")
-        
-        0
-        
-        [Upgrade em computador DDR2 com Pentium E5200 para GTA V](https://www.clubedohardware.com.br/forums/topic/1698594-upgrade-em-computador-ddr2-com-pentium-e5200-para-gta-v/?do=getNewComment "Upgrade em computador DDR2  com Pentium E5200 para GTA V")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [silva14](https://www.clubedohardware.com.br/profile/1253840-silva14/ "Ir ao perfil de silva14")  
-        52 minutos atrás
-        
-    * [![lucao04591](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1139642.thumb.jpeg.bd05e619f6be1344d571a82caa1a1b46.jpeg)](https://www.clubedohardware.com.br/profile/1139642-lucao04591/ "Ir ao perfil de lucao04591")
-        
-        0
-        
-        [Recomeçar na Tecnologia - Estudos](https://www.clubedohardware.com.br/forums/topic/1698592-recome%C3%A7ar-na-tecnologia-estudos/?do=getNewComment "Recomeçar na Tecnologia - Estudos")
-        
-        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
-        Por [lucao04591](https://www.clubedohardware.com.br/profile/1139642-lucao04591/ "Ir ao perfil de lucao04591")  
-        1 hora atrás
-        
-    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
-        
-        1
-        
-        [Qual desses SSD Sata comprar](https://www.clubedohardware.com.br/forums/topic/1698591-qual-desses-ssd-sata-comprar/?do=getNewComment "Qual desses SSD Sata comprar")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
-        1 hora atrás
-        
-    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
+    * [![beri alem](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253850.thumb.jpeg.37893fb9cecd88d86502871bf6a6f57d.jpeg)](https://www.clubedohardware.com.br/profile/1253850-beri-alem/ "Ir ao perfil de beri alem")
         
         2
         
-        [Recomendação de Gabinete com espaço Grande](https://www.clubedohardware.com.br/forums/topic/1698590-recomenda%C3%A7%C3%A3o-de-gabinete-com-espa%C3%A7o-grande/?do=getNewComment "Recomendação de Gabinete com espaço Grande")
+        [Qual placa de vídeo eu escolho para um Core i5 4590?](https://www.clubedohardware.com.br/forums/topic/1698637-qual-placa-de-v%C3%ADdeo-eu-escolho-para-um-core-i5-4590/?do=getNewComment "Qual placa de vídeo eu escolho para um Core i5 4590?")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [beri alem](https://www.clubedohardware.com.br/profile/1253850-beri-alem/ "Ir ao perfil de beri alem")  
+        52 minutos atrás
+        
+    * [![Theusmh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253785.thumb.jpeg.0647a71dd027bf43f09fba95bc796827.jpeg)](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")
+        
+        1
+        
+        [Qual placa de vídeo eu escolho para usar com o Ryzen 5 5600?](https://www.clubedohardware.com.br/forums/topic/1698636-qual-placa-de-v%C3%ADdeo-eu-escolho-para-usar-com-o-ryzen-5-5600/?do=getNewComment "Qual placa de vídeo eu escolho para usar com o Ryzen 5 5600?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Theusmh](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")  
+        1 hora atrás
+        
+    * [![Leidedengo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253678.thumb.png.47cee127b025845f03e5010801d60cda.png)](https://www.clubedohardware.com.br/profile/1253678-leidedengo/ "Ir ao perfil de Leidedengo")
+        
+        0
+        
+        Excel [Como eu faço para alterar esses campos de lugar e criar esses novos campos](https://www.clubedohardware.com.br/forums/topic/1698635-como-eu-fa%C3%A7o-para-alterar-esses-campos-de-lugar-e-criar-esses-novos-campos/?do=getNewComment "Como eu faço para alterar esses campos de lugar e criar esses novos campos")
+        
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Leidedengo](https://www.clubedohardware.com.br/profile/1253678-leidedengo/ "Ir ao perfil de Leidedengo")  
+        1 hora atrás
+        
+    * [![Yonell](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2388c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EY%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253848-yonell/ "Ir ao perfil de Yonell")
+        
+        1
+        
+        [Opiniões e alternativas de preço similar para a minha configuração.](https://www.clubedohardware.com.br/forums/topic/1698634-opini%C3%B5es-e-alternativas-de-pre%C3%A7o-similar-para-a-minha-configura%C3%A7%C3%A3o/?do=getNewComment "Opiniões e alternativas de preço similar para a minha configuração.")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Yonell](https://www.clubedohardware.com.br/profile/1253848-yonell/ "Ir ao perfil de Yonell")  
+        1 hora atrás
+        
+    * [![Phelipe Mateus](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/imported-photo-1153528.thumb.jpeg.7d6f1bcc16091cf1b3883896c882c393.jpeg)](https://www.clubedohardware.com.br/profile/1153528-phelipe-mateus/ "Ir ao perfil de Phelipe Mateus")
+        
+        4
+        
+        [Opa beleza? Então eu estou com um notebook que o teclado dele não funciona](https://www.clubedohardware.com.br/forums/topic/1698633-opa-beleza-ent%C3%A3o-eu-estou-com-um-notebook-que-o-teclado-dele-n%C3%A3o-funciona/?do=getNewComment "Opa beleza? Então eu estou com um notebook que o teclado dele não funciona")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Phelipe Mateus](https://www.clubedohardware.com.br/profile/1153528-phelipe-mateus/ "Ir ao perfil de Phelipe Mateus")  
+        1 hora atrás
+        
+    * [![Taylan Santos](https://lh6.googleusercontent.com/-qbajbJzyYTg/AAAAAAAAAAI/AAAAAAAAAUo/anYMWUV0DEc/photo.jpg)](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")
+        
+        2
+        
+        [Fonte e placa de vídeo para usar com o Core I5 3470](https://www.clubedohardware.com.br/forums/topic/1698632-fonte-e-placa-de-v%C3%ADdeo-para-usar-com-o-core-i5-3470/?do=getNewComment "Fonte e placa de vídeo para usar com o Core I5 3470")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Taylan Santos](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")  
+        1 hora atrás
+        
+    * [![Taylan Santos](https://lh6.googleusercontent.com/-qbajbJzyYTg/AAAAAAAAAAI/AAAAAAAAAUo/anYMWUV0DEc/photo.jpg)](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")
+        
+        1
+        
+        [resolução diferente dois monitores Ubuntu 24.04.1 LTS](https://www.clubedohardware.com.br/forums/topic/1698631-resolu%C3%A7%C3%A3o-diferente-dois-monitores-ubuntu-24041-lts/?do=getNewComment "resolução diferente dois monitores Ubuntu 24.04.1 LTS")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Taylan Santos](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")  
+        2 horas atrás
+        
+    * [![OlivereoTree](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253847.thumb.jpeg.06a60b5df610820b4b60b11e08ddbb6c.jpeg)](https://www.clubedohardware.com.br/profile/1253847-olivereotree/ "Ir ao perfil de OlivereoTree")
+        
+        1
+        
+        [dispositivo com bluetooth 4.2 conecta com 5.2 ou superior?](https://www.clubedohardware.com.br/forums/topic/1698630-dispositivo-com-bluetooth-42-conecta-com-52-ou-superior/?do=getNewComment "dispositivo com bluetooth 4.2 conecta com 5.2 ou superior?")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [OlivereoTree](https://www.clubedohardware.com.br/profile/1253847-olivereotree/ "Ir ao perfil de OlivereoTree")  
+        2 horas atrás
+        
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+        
+        0
+        
+        [Flash NAND MLC retenção](https://www.clubedohardware.com.br/forums/topic/1698629-flash-nand-mlc-reten%C3%A7%C3%A3o/?do=getNewComment "Flash NAND MLC retenção")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        2 horas atrás
+        
+    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
+        
+        1
+        
+        [Fonte Cooler Master G600 é boa ou bomba?](https://www.clubedohardware.com.br/forums/topic/1698628-fonte-cooler-master-g600-%C3%A9-boa-ou-bomba/?do=getNewComment "Fonte Cooler Master G600 é boa ou bomba?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
         2 horas atrás
         
     
