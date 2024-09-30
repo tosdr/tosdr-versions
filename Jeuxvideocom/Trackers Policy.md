@@ -140,6 +140,45 @@ Lors de votre navigation sur nos sites web ou lorsque vous utilisez nos applicat
 
 Lors de votre navigation sur les sites du groupe Webedia, nous pouvons utiliser un identifiant personnalisé afin d’améliorer votre expérience de navigation sur le site, aussi bien pour la personnalisation du contenu que des publicités. Cet identifiant est stocké dans un cookie et est réglementé par les consentements donnés sur les sites d’un réseau d’éditeurs appartenant à l’initiative First-ID. Cet identifiant ne permet pas de vous identifier directement, mais permet de suivre votre navigation afin de mieux vous connaître. Vous pouvez vous opposer au traitement de vos données personnelles en refusant à tout moment de donner votre consentement en cliquant sur “Préférences cookies” en bas de chaque page.
 
+#### Notre utilisation de la technologie Utiq
+
+La technologie Utiq est fournie par Utiq SA/NV, une société européenne. Elle a été conçue pour la protection de vos données personnelles en vous offrant choix et contrôle, tout en facilitant les activités en ligne de sites web comme le nôtre.
+
+Utiq travaille avec des opérateurs télécoms partenaires (voir la liste ici) qui aide au fonctionnement de la technologie.
+
+Cette technologie est désactivée par défaut. Elle ne peut être activée que si vous y consentez et que vous utilisez une connexion internet compatible fournie par l’un des opérateurs télécom partenaires.
+
+Nous, Webedia SA (les responsables de traitements) utilisons la technologie Utiq sur nos sites web. Lorsque vous consentez à son activation Utiq nous fournit des identifiants marketing. Ils nous aident à comprendre vos habitudes de navigation et à relier vos visites sur nos sites web (seulement ceux pour lesquels vous consentez à l’utilisation de la technologie Utiq). Nous les utilisons pour nos activités digitales, telles que la personnalisation de pub ou de contenu et d’analyses sur nos sites web utilisant la technologie d’Utiq et sous réserve de vos consentements. Ces identifiants sont aussi partagés avec nos plateformes publicitaires lorsque nécessaire à nos activités de marketing et d’analyses.
+
+Si vous activez la technologie Utiq sur nos sites web (liste disponible sur les pages “Gérer Utiq” de chacun de nos sites web), nous pourrons l’utiliser pour comprendre vos habitudes de navigation sur ces sites (ceux pour lesquels vous avez donné votre consentement).
+
+La technologie Utiq est liée à la connexion internet.
+
+Ainsi, toutes les personnes utilisant la même connexion et ayant consenti se verront attribuer le même identifiant. En général :
+
+* **Pour une connexion foyer** (ex : Wi-Fi), la personnalisation sera basée sur la navigation des membres du foyer ayant consenti.
+* **Pour une connexion mobile**, la personnalisation sera basée uniquement sur la navigation du propriétaire du mobile.
+
+Nous Webedia SA agissons en tant que responsable de traitement conjoint avec Utiq pour certaines étapes de traitement. Dans le cadre de notre accord de responsables conjoints :
+
+* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
+* Nous mettons à votre disposition un lien dédié en bas de chacun de nos sites web (“Gérer Utiq”) afin de vous fournir des informations sur la technologie et les contrôles dont vous disposez.
+* Utiq met à votre disposition un portail (consenthub) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
+* Bien que vous puissiez exercer vos droits à l’égard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
+
+Vous pouvez révoquer les consentements\* Utiq de diverses manières :
+
+* **Sur le consenthub** : Pour révoquer tous les consentements Utiq sur l’ensemble des sites web utilisant la technologie Utiq, accédez au portail d’Utiq (“consenthub”)
+* **Sur les sites web partenaires** : où vous pouvez révoquer chaque consentement Utiq sur les sites web où vous l’avez donné, en visitant la page “Gérer Utiq” accessible au bas de chaque site web.
+
+La technologie Utiq est basée sur votre connexion internet. Ainsi, si vous utilisez d’autres connections, il vous faudra gérer les consentements sur chaque connexion séparément.
+
+Autrement, vous avez toujours la possibilité de supprimer votre historique et données de navigation via les paramètres de votre navigateur. Cela supprimera tous vos consentements Utiq de votre navigateur. Toutes vos données stockées dans la plateforme Utiq seront également supprimées dans la durée indiquée dans la Politique relative à l’utilisation des données personnelles d'Utiq.
+
+Pour plus d'informations, veuillez consulter la Politique relative à l’utilisation des données personnelles d'Utiq.
+
+_\*Cela comprend les consentements Utiq que vous avez donné, mais également, dans le cas d’une connexion internet partagée, ceux donnés par les membres de votre foyer._
+
 ### 4\. QUELS SONT VOS CHOIX CONCERNANT LES COOKIES ?
 
 Vous disposez de différents moyens pour faire vos choix en matière d’acceptation ou de refus des Cookies déposés sur votre terminal.
