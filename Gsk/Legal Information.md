@@ -46,8 +46,9 @@ Location
         Company [Vaccines](https://us.gsk.com/en-us/company/vaccines/)
         
         * [Flu](https://us.gsk.com/en-us/company/vaccines/flu/)
-        * [Shingles (Herpes Zoster)](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/)
         * [Meningitis](https://us.gsk.com/en-us/company/vaccines/meningitis/)
+        * [RSV (Respiratory Syncytial Virus)](https://us.gsk.com/en-us/company/vaccines/rsv-respiratory-syncytial-virus/)
+        * [Shingles (Herpes Zoster)](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/)
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
     
