@@ -185,9 +185,9 @@
             
             webcast
             
-            ##### Fortifying Your Inbox: Advanced Email Security with Check Point and LevelBlue
+            ##### Elevate Your GRC Game: A Collaborative Approach with LevelBlue and OneTrust
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/fortifying-email-security-with-check-point)
+            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
@@ -195,9 +195,9 @@
             
             Whitepaper
             
-            ##### Cyber Resilience is Mission Critical for Business
+            ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
+            [Learn more](https://cyber.levelblue.com/m/a307cf8c232b229/original/WP-Orgs-Prioritize-Incident-Response.pdf)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
