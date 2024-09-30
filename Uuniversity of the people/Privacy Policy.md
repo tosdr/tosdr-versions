@@ -376,5 +376,3 @@ Copyright © 2024 University of the People
 * [Privacy Policy](https://www.uopeople.edu/privacy-policy/)
 * [Terms of Service](https://www.uopeople.edu/terms-of-service/)
 * [Sitemap](https://www.uopeople.edu/sitemap/)
-
-* [](https://ar.uopeople.edu/)
