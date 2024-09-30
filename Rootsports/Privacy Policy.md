@@ -2,7 +2,7 @@
 
 [![](https://d2isblg909whrf.cloudfront.net/themes/root-sports/rootsports-logo-final.png)](https://northwest.rootsports.com/)
 
-[![Facebook](https://d2isblg909whrf.cloudfront.net/themes/root-sports/icon-facebook.png)](https://www.facebook.com/ROOTSPORTSNW)[![Twitter](https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/101/2023/11/14133820/twitter-x-black.png)](https://twitter.com/ROOTSPORTS_NW)[![Instagram](https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/101/2014/11/13133217/icon-instagram3.png)](http://instagram.com/rootsportsnw)
+[Subscribe](https://northwest.rootsports.com/feed/)
 
 * [Home](https://northwest.rootsports.com/)
 * [TV Schedule](https://northwest.rootsports.com/tv-schedule/)
