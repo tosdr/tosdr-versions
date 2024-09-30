@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![устим ладенко](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405401-1565787873.jpg)](https://lyricstranslate.com/en/translator/%D1%83%D1%81%D1%82%D0%B8%D0%BC-%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE "устим ладенко")
-
-New translation
-
-[The Kiffness - 鍘美案 (Chin Cheng Hanji)](https://lyricstranslate.com/en/kiffness-chin-cheng-hanji-ukrainian)
-
-English → Ukrainian
-
-[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1727491927.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
+[![dionysius](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1182697-1530558946.jpg)](https://lyricstranslate.com/en/translator/dionysius "dionysius")
 
 New song
 
-[BiS (Japan) - NO CHOiCE](https://lyricstranslate.com/en/bis-japan-no-choice-lyrics)
-
-Japanese
-
-[![stewpidstrawberrypoptart](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1622352-1726356229.png)](https://lyricstranslate.com/en/translator/stewpidstrawberrypoptart "stewpidstrawberrypoptart")
-
-New translation
-
-[Lana Del Rey - Television Heaven](https://lyricstranslate.com/en/lana-del-rey-television-heaven-turkish)
-
-English → Turkish
-
-[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
-
-New translation
-
-[Slam Dunk (OST) - ぜったいに誰も (Zettai ni dare mo)](https://lyricstranslate.com/en/slam-dunk-ost-zettai-ni-dare-mo-english)
-
-Japanese → English
-
-[![zra_Jouno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627863-1725446886.png)](https://lyricstranslate.com/en/translator/zrajouno "zra_Jouno")
-
-New translation
-
-[Yuu Miyashita - 狂おうぜ (Kuruou ze)](https://lyricstranslate.com/en/yuu-miyashita-kuruou-ze-transliteration)
-
-Japanese → Transliteration
-
-[![Диона Лове](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611432-1710010908.jpg)](https://lyricstranslate.com/en/translator/%D0%B4%D0%B8%D0%BE%D0%BD%D0%B0-%D0%BB%D0%BE%D0%B2%D0%B5 "Диона Лове")
-
-New song
-
-[POLKADOT STINGRAY - hide and seek](https://lyricstranslate.com/en/polkadot-stingray-hide-and-seek-lyrics)
+[Alice Deejay - Alice Deejay](https://lyricstranslate.com/en/alice-deejay-alice-deejay-lyrics)
 
 English
 
-[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727281598.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New song
+
+[Miki Kobayashi - 春の湖](https://lyricstranslate.com/en/miki-kobayashi-haru-no-mizumi-lyrics)
+
+Japanese
+
+[![dionysius](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1182697-1530558946.jpg)](https://lyricstranslate.com/en/translator/dionysius "dionysius")
+
+New song
+
+[Alice Deejay - Got To Get Away](https://lyricstranslate.com/en/alice-deejay-got-get-away-lyrics)
+
+English
+
+[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727623003.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
 
 New translation
 
-[Komuro Hitoshi - おしっこ (Oshikko)](https://lyricstranslate.com/en/komuro-hitoshi-oshikko-romanian)
+[Rammstein - Wo bist du?](https://lyricstranslate.com/en/rammstein-wo-bist-du-english)
 
-Japanese → Romanian
+German → English
 
-[![SeanNutz](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/seannutz "SeanNutz")
+[![Mara88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1589734-1692704142.png)](https://lyricstranslate.com/en/translator/mara88 "Mara88")
 
-New comment
+New translation
 
-Thanks for the translation! I was wondering: is ...  [more](https://lyricstranslate.com/en/comment/1167497#comment-1167497)
+[Anya Nami - Idea 22](https://lyricstranslate.com/en/anya-nami-idea-22-italian)
+
+English → Italian
+
+[![zsóhaj](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1630809-1727109582.jpg)](https://lyricstranslate.com/en/translator/zs%C3%B3haj "zsóhaj")
+
+New translation
+
+[Infected Rain - Pandemonium](https://lyricstranslate.com/en/infected-rain-pandemonium-hungarian)
+
+English → Hungarian
+
+[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1727697100.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
+
+New song
+
+[Konomi Suzuki - Beat your Heart](https://lyricstranslate.com/en/konomi-suzuki-beat-your-heart-lyrics)
+
+English
+
+[![MariusIonescu88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1340226-1506686878.jpg)](https://lyricstranslate.com/en/translator/mariusionescu88 "MariusIonescu88")
+
+New translation
+
+[Viktor Lazlo - Stories](https://lyricstranslate.com/en/viktor-lazlo-stories-romanian)
+
+English → Romanian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
