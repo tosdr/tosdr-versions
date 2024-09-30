@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [ELDEN RING Shadow of the Erdtree - Start Your New Adventure Right with These Essential Guides](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-start-your-new-adventure-right-these-essential)
 * [Boruto Uzumaki (Karma Progression) is now available in NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS](https://en.bandainamcoent.eu/naruto/news/boruto-uzumaki-karma-progression-now-available-naruto-x-boruto-ultimate-ninja-storm)
-* [DRAGON BALL Xenoverse 2 Reveals the Teaser Trailer of the FUTURE SAGA Chapter 2](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-xenoverse-2-reveals-the-teaser-trailer-of-the-future-saga-chapter-2)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
