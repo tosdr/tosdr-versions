@@ -206,7 +206,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Anti DDoS infrastructure](https://www.ovhcloud.com/en-ie/security/anti-ddos/) Keep your infrastructures protected against DDoS attacks
             * [Game DDoS Protection](https://www.ovhcloud.com/en-ie/security/game-ddos-protection/) Protect your gaming and e-sport business with best-in-class security solution
             * [DNSSEC](https://www.ovhcloud.com/en-ie/domains/dnssec/) Protect your data from DNS cache poisoning
-            * [SSL Gateway](https://www.ovh.ie/ssl-gateway/) Simplest way to enable security on your webpage. Without any effort!
+            * SSL Gateway Simplest way to enable security on your webpage. Without any effort!
     * Identity, Security & Operations
         * Back to menu
         * Identity, Security & Operations
@@ -215,6 +215,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
             * [Key Management Service (KMS) Beta](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one central place
+            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
     * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
         * Back to menu
         * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
@@ -319,6 +320,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
             * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one central place
+            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
 * [Public Cloud](https://www.ovhcloud.com/en-ie/public-cloud/)
     * Back to menu
     * [Public Cloud](https://www.ovhcloud.com/en-ie/public-cloud/)
@@ -467,6 +469,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * Identity and Access Management (IAM) Secure your access management and improve your productivity
             * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one central place
+            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
 * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
     * Back to menu
     * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
@@ -551,7 +554,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * [Anti-DDoS infrastructure](https://www.ovhcloud.com/en-ie/security/anti-ddos/) Keep your infrastructures protected against DDoS attacks
             * [DNSSEC](https://www.ovhcloud.com/en-ie/domains/dnssec/) Protect your data from DNS cache poisoning
-            * [SSL Gateway](https://www.ovh.ie/ssl-gateway/) Simplest way to enable security on your webpage. Without any effort!
+            * SSL Gateway Simplest way to enable security on your webpage. Without any effort!
     * Identity, Security & Operations
         * Back to menu
         * Identity, Security & Operations
@@ -560,6 +563,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and enhance your productivity
             * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one central place
+            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
 * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
     * Back to menu
     * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
