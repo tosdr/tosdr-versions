@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Juanetta Solomon](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Juanetta-Solomon-432x243.jpg)](https://lawandcrime.com/crime/fake-dentist-advertised-on-tiktok-used-chemicals-on-patient-making-her-so-dizzy-that-she-had-to-ask-the-defendant-to-stop-cops/)
+1. [![Eric Adams](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24272121019985-432x243.jpg)](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-hopes-scotus-decision-will-make-bribery-case-agianst-him-vanish/)
     
-    ### [Fake dentist advertised on TikTok, used chemicals on patient making 'her so dizzy that she had to ask the defendant to stop': Cops](https://lawandcrime.com/crime/fake-dentist-advertised-on-tiktok-used-chemicals-on-patient-making-her-so-dizzy-that-she-had-to-ask-the-defendant-to-stop-cops/)
+    ### ['Here goes the Department again': Eric Adams hopes Supreme Court decision in case of another mayor will tear DOJ's bribery case apart and doom indictment](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-hopes-scotus-decision-will-make-bribery-case-agianst-him-vanish/)
     
-2. [![Chevy Kyler Monaghan (Austin Police Department).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Chevy-Kyler-Monaghan-432x243.png)](https://lawandcrime.com/crime/as-grandparents-dead-inside-home-nonchalant-man-lit-marijuana-cigarette-while-talking-to-cops-police/)
+2. [![William Braddock and Anna Paulina Luna](https://am21.mediaite.com/lc/cnt/uploads/2024/09/William-Braddock-and-Anna-Paulina-Luna-432x243.jpg)](https://lawandcrime.com/crime/call-up-my-russian-ukrainian-hit-squad-former-republican-congressional-candidate-threatened-to-make-primary-opponent-disappear-feds-say/)
     
-    ### [As grandparents dead inside home, 'nonchalant' man lit marijuana cigarette while talking to cops: Police](https://lawandcrime.com/crime/as-grandparents-dead-inside-home-nonchalant-man-lit-marijuana-cigarette-while-talking-to-cops-police/)
+    ### ['Call up my Russian-Ukrainian hit squad:' Former Republican Congressional candidate threatened to make primary opponent 'disappear,' feds say](https://lawandcrime.com/crime/call-up-my-russian-ukrainian-hit-squad-former-republican-congressional-candidate-threatened-to-make-primary-opponent-disappear-feds-say/)
     
-3. [![Top left inset: Caden Smith (Indianapolis Metropolitan Police Department). Top right inset: Michael James (WXIN). Bottom left inset: Joseph Thomas (Indianapolis Metro Police Department). Background: The crime scene (WTTV).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/indianamurder-432x243.jpg)](https://lawandcrime.com/crime/teen-who-lured-3-men-to-a-field-to-show-them-how-a-glock-switch-worked-and-shot-them-to-death-gets-189-years-in-prison/)
+3. [![Former Mayor of New York Rudy Giuliani arrives at the federal courthouse in Washington, Wednesday, Dec. 13, 2023. The trial will determine how much Rudy Giuliani will have to pay two Georgia election workers who he falsely accused of fraud while pushing President Donald Trump's baseless claims after he lost the 2020 election.](https://am21.mediaite.com/lc/cnt/uploads/2023/12/Untitled-design-15-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-didnt-get-anywhere-close-to-major-discount-he-sought-even-after-the-judge-and-forensic-financial-advisor-reduced-bankruptcy-fees/)
+    
+    ### [Rudy Giuliani didn't get anywhere close to major discount he sought even after the judge and forensic financial advisor reduced bankruptcy fees](https://lawandcrime.com/high-profile/rudy-giuliani-didnt-get-anywhere-close-to-major-discount-he-sought-even-after-the-judge-and-forensic-financial-advisor-reduced-bankruptcy-fees/)
+    
+4. [![Top left inset: Caden Smith (Indianapolis Metropolitan Police Department). Top right inset: Michael James (WXIN). Bottom left inset: Joseph Thomas (Indianapolis Metro Police Department). Background: The crime scene (WTTV).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/indianamurder-432x243.jpg)](https://lawandcrime.com/crime/teen-who-lured-3-men-to-a-field-to-show-them-how-a-glock-switch-worked-and-shot-them-to-death-gets-189-years-in-prison/)
     
     ### [Teen who lured 3 men to a field to show them how a Glock switch worked and shot them to death gets 189 years in prison](https://lawandcrime.com/crime/teen-who-lured-3-men-to-a-field-to-show-them-how-a-glock-switch-worked-and-shot-them-to-death-gets-189-years-in-prison/)
     
-4. [![Daisy Zantjer appears against an image of her residence in Iowa.](https://am24.mediaite.com/lc/cnt/uploads/2024/08/Daisy-Zantjer-432x243.jpg)](https://lawandcrime.com/crime/join-me-in-being-toxic-free-blogger-focused-on-dangers-of-harmful-chemicals-and-other-toxins-admits-to-poisoning-husband/)
+5. [![Carly Gregg appears in a prison booking photo, inset; against. a still image of video camera footage after killing her mom.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Carly-Gregg-Dogs-Prison-432x243.jpg)](https://lawandcrime.com/high-profile/attorneys-for-teenage-girl-who-butchered-her-mom-and-tried-to-kill-her-stepfather-say-she-deserves-a-new-trial-because-she-was-in-horse-therapy-for-auditory-hallucinations/)
     
-    ### ['Join me in being toxic free': Blogger focused on dangers of 'harmful chemicals and other toxins' admits to poisoning husband](https://lawandcrime.com/crime/join-me-in-being-toxic-free-blogger-focused-on-dangers-of-harmful-chemicals-and-other-toxins-admits-to-poisoning-husband/)
-    
-5. [![Background: Former President Donald Trump motions as he returns to the courtroom after a break in his civil business fraud trial at New York Supreme Court, Wednesday, Oct. 25, 2023, in New York. The judge in Donald Trump's civil fraud trial has fined the former president $10,000. The judge says Trump violated a limited gag order barring personal attacks on court staffers.(AP Photo/Seth Wenig)/ Inset left: Special Counsel Jack Smith, AP Photo/J. Scott Applewhite, File)/Inset right: U.S. District Judge Tanya Chutkan. (Administrative Office of the U.S. Courts via AP, File)](https://am23.mediaite.com/lc/cnt/uploads/2023/11/trump-jack-tanya-432x243.jpg)](https://lawandcrime.com/high-profile/has-not-redacted-quotations-or-summaries-jack-smith-defeats-shroud-of-secrecy-in-trump-jan-6-case-with-help-from-judge-previews-key-details-of-immunity-brief/)
-    
-    ### ['Has not redacted quotations or summaries': Jack Smith defeats shroud of secrecy in Trump Jan. 6 case with help from judge, previews key details of immunity brief](https://lawandcrime.com/high-profile/has-not-redacted-quotations-or-summaries-jack-smith-defeats-shroud-of-secrecy-in-trump-jan-6-case-with-help-from-judge-previews-key-details-of-immunity-brief/)
+    ### [Attorneys for teenage girl who murdered her mom and tried to kill her stepfather say she deserves a new trial because she was in horse 'therapy' for 'auditory hallucinations'](https://lawandcrime.com/high-profile/attorneys-for-teenage-girl-who-butchered-her-mom-and-tried-to-kill-her-stepfather-say-she-deserves-a-new-trial-because-she-was-in-horse-therapy-for-auditory-hallucinations/)
     
 
 [](http://eepurl.com/c89Jdb)
