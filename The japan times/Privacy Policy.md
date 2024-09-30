@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -566,23 +566,15 @@ Latest News
 
 [Japan's children's agency looks to set up shelters for runaways](https://www.japantimes.co.jp/news/2024/09/30/japan/society/runaway-youths-shelters/ "Japan's children's agency looks to set up shelters for runaways")
 
-5 hours ago
+11 hours ago
 
 [Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-6 hours ago
-
 [Former Abe faction treasurer given suspended three-year prison term](https://www.japantimes.co.jp/news/2024/09/30/japan/crime-legal/ldp-political-funds-ruling/ "Former Abe faction treasurer given suspended three-year prison term")
-
-6 hours ago
 
 [Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
 
-6 hours ago
-
 [Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
