@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+    
+    ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+    
     [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
     
     ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
@@ -51,11 +55,6 @@
     [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
     
     ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-    
-    [![The public hearing at City Hall. 
-    Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
-    
-    ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+    
+    ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+    
     [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
     
     ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
@@ -133,11 +136,6 @@ View All Result
     [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
     
     ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-    
-    [![The public hearing at City Hall. 
-    Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
-    
-    ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -352,6 +350,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
+[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
+### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
+[29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
 [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
@@ -364,19 +368,19 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
-[![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-120x86.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+[![Femi Azeez. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/08/DSC_2624-2024-08-24T13_49_05.431-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
-### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+### [Millwall boss gives update on Femi Azeez ahead of Cardiff City clash](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
-[24th September 2024](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
-
-[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+[28th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
 ### Featured Articles
+
+[![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-120x86.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+
+### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
+
+[30th September 2024](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
 
 [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
 
@@ -407,12 +411,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
 
 [28th September 2024](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-
-[![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-
-### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-
-[28th September 2024](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
 
 ### USEFUL PAGES
 
