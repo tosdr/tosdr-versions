@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### In a race of razor thin margins, how the VP debate could make a difference](https://www.csmonitor.com/USA/2024/0930/walz-vance-vice-president-debate-election "In a race of razor thin margins, how the VP debate could make a difference")
+
+[### How did Austria’s far right win its first national election since World War II?](https://www.csmonitor.com/World/Europe/2024/0930/Austria-far-right-election-victory-world-war-II "How did Austria’s far right win its first national election since World War II?")
+
 [### Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.](https://www.csmonitor.com/World/Middle-East/2024/0928/Israel-kills-Hezbollah-s-leader.-Iranian-lawmakers-demand-strong-response "Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.")
-
-[### ‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?](https://www.csmonitor.com/USA/2024/0927/Trump-election-tariffs-tax-Mexico-China "‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?")
-
-[### Why are three of Brazil’s mega dams in the Amazon on the brink of failure?](https://www.csmonitor.com/World/Americas/2024/0926/Brazil-climate-change-drought-mega-dam "Why are three of Brazil’s mega dams in the Amazon on the brink of failure?")
 
 * * *
 
