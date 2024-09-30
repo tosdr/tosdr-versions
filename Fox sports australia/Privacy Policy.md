@@ -62,106 +62,16 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4 Session 2
+    Day 4
     
     |     |     |
     | --- | --- |
-    | IND |     |
-    | BAN | 233 |
+    | IND | 9 /285d |
+    | BAN | 233 & 2 /26 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [Men's ODI
-    
-    AUS won by 49 runs (DLS)
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 309 |
-    | AUS | 2 /165 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240705)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHI | 24  |
-    | LAR | 18  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250417)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TB  | 33  |
-    | PHI | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250421)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ATL | 26  |
-    | NO  | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250416)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | IND | 27  |
-    | PIT | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250419)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 24  |
-    | JAX | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250423)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYJ | 9   |
-    | DEN | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250420)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CAR | 24  |
-    | CIN | 34  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250422)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GB  | 29  |
-    | MIN | 31  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250418)
 * [NFL
     
     Full Time
@@ -226,16 +136,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MUN | 0   |
-    | TOT | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250603)
 * [Premier League
     
     1/10 5:00 AEST
