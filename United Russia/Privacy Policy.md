@@ -305,7 +305,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
 
-Сегодня 14:30
+30.09.24
 
 [![Евгений Ревенко: Проект федерального бюджета в полной мере соответствует приоритетам «Единой России»](https://cdn.er.ru/media/news/September2024/POUDsbLSZ6rcgGKbcY2c-small.jpg)](https://er.ru/activity/news/evgenij-revenko-proekt-federalnogo-byudzheta-v-polnoj-mere-sootvetstvuet-prioritetam-edinoj-rossii)
 
@@ -313,7 +313,7 @@
 
 [#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 13:10
+30.09.24
 
 [![Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://cdn.er.ru/media/news/September2024/o0Pb9uMMVfW0uCCHqt7F-small.jpg)](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
 
@@ -321,7 +321,7 @@
 
 [#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
-Сегодня 12:19
+30.09.24
 
 [![Владимир Якушев: В Курскую область от реготделений «Единой России» поступило почти 1,5 тысячи тонн гуманитарной помощи](https://cdn.er.ru/media/news/September2024/vFJvIA0ZuCJUcbrAbNU4-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-kurskuyu-oblast-ot-regotdelenij-edinoj-rossii-postupilo-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 11:57
+30.09.24
 
 [![«Единая Россия» передала более 11 тысяч писем в поддержку бойцов СВО, написанных участниками «Диктанта Победы»](https://cdn.er.ru/media/news/September2024/SxsIOpMoWsBIvuMEoXQT-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-11-tysyach-pisem-v-podderzhku-bojcov-svo-napisannyh-uchastnikami-diktanta-pobedy)
 
@@ -337,7 +337,7 @@
 
 [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Волков](https://er.ru/activity/news?tags%5B0%5D=1201) [#Головин](https://er.ru/activity/news?tags%5B0%5D=11899) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#ПочтаРоссии](https://er.ru/activity/news?tags%5B0%5D=1092932) [#Минобороны](https://er.ru/activity/news?tags%5B0%5D=1918) [#Росгвардия](https://er.ru/activity/news?tags%5B0%5D=91543) [#ПисьмоГерою](https://er.ru/activity/news?tags%5B0%5D=1095439) [#ДиктантПобеды](https://er.ru/activity/news?tags%5B0%5D=128811) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
 
-Сегодня 11:15
+30.09.24
 
 [![«Единая Россия» внесла законопроект о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/September2024/61FFZoh7b7AyJsWU7YFV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
 
@@ -345,7 +345,7 @@
 
 [#доверенности](https://er.ru/activity/news?tags%5B0%5D=31212) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#воинскаячасть](https://er.ru/activity/news?tags%5B0%5D=132156) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
-Сегодня 11:08
+30.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
