@@ -23,6 +23,7 @@ Parents and School Administrators >
                 * [Instructional Services](https://factsmgt.com/products/education-services/instructional-services/)
                 * [Learning Courses](https://factsmgt.com/products/education-services/learning-courses/)
                 * [Federal Funding Consulting](https://factsmgt.com/products/education-services/federal-funding-consulting/)
+                * [Global Credentialing & Professional Development](https://factsmgt.com/products/education-services/globaled/)
         * * [Financial Management](https://factsmgt.com/products/financial-management/)
                 * [Tuition Management](https://factsmgt.com/products/financial-management/tuition-management/)
                 * [Grant & Aid Assessment](https://factsmgt.com/products/financial-management/grant-aid-assessment/)
@@ -30,6 +31,7 @@ Parents and School Administrators >
                 * [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
                 * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
                 * [Giving](https://factsmgt.com/products/financial-management/giving/)
+                * [Payment Integration Partners](https://factsmgt.com/products/financial-management/payment-integration-partners/)
         * * ![Smiling person holding a tablet device](https://factsmgt.com/wp-content/uploads/Header-Featured-Circle.png)
                 
                 Elevating Education
