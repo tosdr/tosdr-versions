@@ -20,16 +20,16 @@ Monday, September 30 2024
 
 Latest
 
-* [Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
-* [How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
-* [Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
-* [Upgrade to Superior Pool Cleaning With the Revolutionary Degrii Zima Pro](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
-* [The NCSC and FBI just issued a major alert over a state-backed hacker group – here’s what you need to know](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
-* [Apple TV Plus top 10 shows — here’s the 3 worth watching now](https://digitpatrox.com/apple-tv-plus-top-10-shows-heres-the-3-worth-watching-now/)
-* [Epic is suing Google — again — and now Samsung too](https://digitpatrox.com/epic-is-suing-google-again-and-now-samsung-too/)
-* [I Tried Out ChatGPT Advanced Voice Mode, and It’s Not What OpenAI Demoed](https://digitpatrox.com/i-tried-out-chatgpt-advanced-voice-mode-and-its-not-what-openai-demoed/)
-* [The importance of supply chain resilience](https://digitpatrox.com/the-importance-of-supply-chain-resilience/)
-* [Wordle Answer for Today, September 30, 2024](https://digitpatrox.com/wordle-answer-for-today-september-30-2024/)
+* [Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
+* [A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
+* [The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
+* [Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
+* [Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
+* [DirecTV’s Merger With DISH Might Be a Good Thing](https://digitpatrox.com/directvs-merger-with-dish-might-be-a-good-thing/)
+* [DoiT: In the business of setting up your business for future success](https://digitpatrox.com/doit-in-the-business-of-setting-up-your-business-for-future-success/)
+* [Top 6 Mobile Payment Methods To Consider for Your Business](https://digitpatrox.com/top-6-mobile-payment-methods-to-consider-for-your-business/)
+* [I’ve been using a sunrise alarm clock for a week and it’s making early wake-ups way easier](https://digitpatrox.com/ive-been-using-a-sunrise-alarm-clock-for-a-week-and-its-making-early-wake-ups-way-easier/)
+* [How to order free rapid covid tests from the US government — again](https://digitpatrox.com/how-to-order-free-rapid-covid-tests-from-the-us-government-again/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Patelco-CU-data-breach-figure-increases-to-over-1M-people.jpg)](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
+* [![](https://cdn.mos.cms.futurecdn.net/rcggK9pkAbTthEnDrC7pPh-1200-80.jpg)](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
     
-    [Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
+    [Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
     
-    7 mins ago
+    3 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-blue-screen-death-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/2099381-0-24968200-1727714668-semiconductor_chips_manufacturing.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
     
-    [How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
+    [A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
     
-    19 mins ago
+    26 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1713971227/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-dishwasher-reliability-0424)](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
+* [![](https://lifehacker.com/imagery/articles/01HF2GZV06M141MP8CYJH6NNX6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
     
-    [Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
+    [The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
     
-    28 mins ago
+    50 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/17-1.jpg)](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Maui-health-clinic-notifies-124K-people-of-data-breach-claimed-by-LockBit.jpg)](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
     
-    [Upgrade to Superior Pool Cleaning With the Revolutionary Degrii Zima Pro](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
+    [Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
     
-    29 mins ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rfyesh66wgmmCbpkKKZrYW-1200-80.jpg)](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727104332/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Tesla-Cybertruck-f-driving-9-24)](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
     
-    [The NCSC and FBI just issued a major alert over a state-backed hacker group – here’s what you need to know](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
+    [Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
     
     1 hour ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 mins ago
+* [3 mins ago
     
-    ### Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
-* [19 mins ago
+    ### Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
+* [26 mins ago
     
-    ### How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
-* [28 mins ago
+    ### A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
+* [50 mins ago
     
-    ### Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
+    ### The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
 
 Most Popular Topics
 
-* [August 26, 2024
+* [2 days ago
     
-    ### Exchange Online mistakenly tags emails as malware](https://digitpatrox.com/exchange-online-mistakenly-tags-emails-as-malware/)
-* [August 23, 2024
+    ### What is a Router Firewall and How Does it Work?](https://digitpatrox.com/what-is-a-router-firewall-and-how-does-it-work/)
+* [August 12, 2024
     
-    ### How to Avoid Sounding Like AI in Your Writing](https://digitpatrox.com/how-to-avoid-sounding-like-ai-in-your-writing/)
-* [August 22, 2024
+    ### Evening Post Publishing Inc. notifies 15K people of data breach – SSNs & credit card info compromised](https://digitpatrox.com/evening-post-publishing-inc-notifies-15k-people-of-data-breach-ssns-credit-card-info-compromised/)
+* [August 14, 2024
     
-    ### Billons of Chrome users at risk from hacker attacks — severe flaw exploited](https://digitpatrox.com/billons-of-chrome-users-at-risk-from-hacker-attacks-severe-flaw-exploited/)
+    ### How to fix device encryption is temporarily suspended error on Windows](https://digitpatrox.com/how-to-fix-device-encryption-is-temporarily-suspended-error-on-windows/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### DoiT: In the business of setting up your business for future success](https://digitpatrox.com/doit-in-the-business-of-setting-up-your-business-for-future-success/)
+* [2 hours ago
+    
+    ### Top 6 Mobile Payment Methods To Consider for Your Business](https://digitpatrox.com/top-6-mobile-payment-methods-to-consider-for-your-business/)
 * [3 hours ago
     
-    ### Epic is suing Google — again — and now Samsung too](https://digitpatrox.com/epic-is-suing-google-again-and-now-samsung-too/)
-* [3 hours ago
-    
-    ### I Tried Out ChatGPT Advanced Voice Mode, and It’s Not What OpenAI Demoed](https://digitpatrox.com/i-tried-out-chatgpt-advanced-voice-mode-and-its-not-what-openai-demoed/)
-* [4 hours ago
-    
-    ### The importance of supply chain resilience](https://digitpatrox.com/the-importance-of-supply-chain-resilience/)
+    ### I’ve been using a sunrise alarm clock for a week and it’s making early wake-ups way easier](https://digitpatrox.com/ive-been-using-a-sunrise-alarm-clock-for-a-week-and-its-making-early-wake-ups-way-easier/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
