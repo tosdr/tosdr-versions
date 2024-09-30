@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Creativity
+[Resilience
 
-### In ‘The Wild Robot,’ a five-star fable for our AI age](https://www.csmonitor.com/The-Culture/Movies/2024/0927/the-wild-robot-lupita-nyongo "In ‘The Wild Robot,’ a five-star fable for our AI age")
-
-[Community
-
-### Five comedians walk into a barbershop. Why secret shows are selling out worldwide.](https://www.csmonitor.com/The-Culture/2024/0927/dont-tell-comedy-gen-z "Five comedians walk into a barbershop. Why secret shows are selling out worldwide.")
+### Inside battered Hezbollah, words of defiance: ‘All red lines are gone’](https://www.csmonitor.com/World/Middle-East/2024/0930/hezbollah-war-resistance-iran-israel-nasrallah "Inside battered Hezbollah, words of defiance: ‘All red lines are gone’")
 
 [Equality
 
-### Equality as ‘birthright’ in Myanmar](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0927/Equality-as-birthright-in-Myanmar "Equality as ‘birthright’ in Myanmar")
+### Democracy’s tail winds in Lebanon](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0930/Democracy-s-tail-winds-in-Lebanon "Democracy’s tail winds in Lebanon")
+
+[Transformation
+
+### How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics](https://www.csmonitor.com/World/Asia-South-Central/2024/0930/Kashmir-separatist-politics-local-election "How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 27, 2024
+September 30, 2024
 
-Look for the thought behind the news
+News at humanity’s doorstep
 
-Story Hinckley does something important in her article today. She looks not at an event or an idea, but at a trend in thought.Polls and research suggest a shift in how many American women view politics. Most news stories would summarize: “American women move left.” But it’s far more nuanced and interesting than that. The political change is one effect. The cause – the thought – is larger. Journalism that deals only with facts and events never gets to cause. Exploring changes in thought is one of the most powerful things journalism can do. Then, you’re not accumulating information, you’re gaining understanding. 
+Preparing the Daily means making decisions about story order that imply a kind of hierarchy. Some days that’s hard.Today, editors talked about Lebanon, where airstrikes have leveled residential towers, threatening to widen a conflict. About fast-rising waters in the mountains of the U.S. South. About stories we can’t yet get to, such as flooding in Nepal.It’s impossible to apportion empathy, or to rank where understanding is needed most. We do our best, over time. We strategize to get into position to report with care. There is no hierarchy of heart when all of humanity is close to home.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### In a race of razor thin margins, how the VP debate could make a difference](https://www.csmonitor.com/USA/2024/0930/walz-vance-vice-president-debate-election "In a race of razor thin margins, how the VP debate could make a difference")
+[### Inside battered Hezbollah, words of defiance: ‘All red lines are gone’](https://www.csmonitor.com/World/Middle-East/2024/0930/hezbollah-war-resistance-iran-israel-nasrallah "Inside battered Hezbollah, words of defiance: ‘All red lines are gone’")
 
-[### How did Austria’s far right win its first national election since World War II?](https://www.csmonitor.com/World/Europe/2024/0930/Austria-far-right-election-victory-world-war-II "How did Austria’s far right win its first national election since World War II?")
+[### Israel mulls Lebanon invasion. Hezbollah ‘coup de grâce’ or quagmire?](https://www.csmonitor.com/World/Middle-East/2024/0930/israel-hezbollah-assault-lebanon "Israel mulls Lebanon invasion. Hezbollah ‘coup de grâce’ or quagmire?")
 
-[### Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.](https://www.csmonitor.com/World/Middle-East/2024/0928/Israel-kills-Hezbollah-s-leader.-Iranian-lawmakers-demand-strong-response "Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.")
+[### How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics](https://www.csmonitor.com/World/Asia-South-Central/2024/0930/Kashmir-separatist-politics-local-election "How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics")
 
 * * *
 
