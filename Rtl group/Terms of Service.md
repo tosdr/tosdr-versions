@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Five questions for Balázs Szabó](/.galleries/images/Five-questions-for-Balazs-Szabo_16-9_final.png?__scale=undefined&description=)
+    
+    Five questions for Balázs Szabó
+    
+    27.09.2024
+    
+    “RTL Hungary made sporting history”, says Chief Content Management Officer Balázs Szabó about bringing the UEFA Champions League closer to Hungarian fans.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Five-questions-for-Balazs-Szabo/)
+    
 * [![slide-A new UFA unit](/.galleries/images/UFA-Mitte_16-9.png?__scale=undefined&description=)
     
     A new UFA unit
