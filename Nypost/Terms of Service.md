@@ -1,4 +1,4 @@
-![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                          
+![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                           
 
 Primary Menu Sections
 
@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Breaking News
 
-[I only bused migrants to NYC because Eric Adams opened his big mouth — and lied, Texas gov says](https://nypost.com/2024/09/30/us-news/greg-abbott-i-bused-migrant-to-nyc-because-of-mayor-adams/)
+[Death toll triples in Asheville area after Hurricane Helene guts North Carolina: 'There were bodies in the trees'](https://nypost.com/2024/09/30/us-news/death-toll-triples-in-asheville-area-after-hurricane-helene-guts-north-carolina/)
 
 Terms Of Use
 ============
