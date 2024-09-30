@@ -75,10 +75,6 @@ This page was last updated on May 2nd, 2024.
 _Margaret Fuller_
 -----------------
 
-### Affiliate Statement
-
-If you buy books linked to our site, we may earn a commission from Bookshop.org, whose fees support independent bookshops. As an Amazon Associate schoolreadinglist.co.uk earns from qualifying purchases. Additionally, this site may receive a commission if you decide to purchase a magazine or an online course.
-
 ![School Reading List logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "School Reading List")
 
 ![School Reading List logo](https://media.schoolreadinglist.co.uk/logo/square-logo-trans-cropped-50px.png "School Reading List")
