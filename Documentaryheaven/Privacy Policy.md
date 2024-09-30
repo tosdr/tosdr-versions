@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside The Mind Of Adolf Hitler](/wp-content/thumbnails/7901-100x70.jpg?x53432)
+* [![The Great Human Odyssey](/wp-content/thumbnails/12865-100x70.jpg?x53432)
     
-    Inside The Mind Of Adolf Hitler
+    The Great Human Odyssey
     
-    Inside The Mind Of Adolf Hitler is a documentary, with dramatised elements, looking at the psychological profile of Adolf Hitler compiled by a team of Harvard psychologists in 1943.The film interviews](https://documentaryheaven.com/inside-mind-adolf-hitler/ "Inside The Mind Of Adolf Hitler")
-* [![Coelacanth: The Fish That Time Forgot](/wp-content/thumbnails/6683-100x70.png?x53432)
+    It shouldn't have happened that Homo sapiens, our species, managed to survive and overcome the odd which have been against us for over 200,000 years. We are not indestructible and there are many evolu](https://documentaryheaven.com/great-human-odyssey/ "The Great Human Odyssey")
+* [![Dirty Gold War](/wp-content/thumbnails/13486-100x70.jpg?x53432)
     
-    Coelacanth: The Fish That Time Forgot
+    Dirty Gold War
     
-    Broadcast (2001) It was thriving long before the dinosaurs ruled the Earth, and scientists thought it had died out more than 65 million years ago. But in 1938, fishermen on a South African trawler net](https://documentaryheaven.com/coelacanth-the-fish-that-time-forgot/ "Coelacanth: The Fish That Time Forgot")
-* [![Trouble In Amish Paradise](/wp-content/thumbnails/10759-100x70.jpeg?x53432)
+    Dirty Gold War is a tale about the truths which lie behind the thriving industry of gold. On one side of it you have the end product which is associated with love, celebration and displays of wea](https://documentaryheaven.com/dirty-gold-war/ "Dirty Gold War")
+* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
     
-    Trouble In Amish Paradise
+    Reality and the Extended Mind
     
-    Just a few hours drive from the noisy streets of Philadelphia and New York, there is another world. It is a world that seems to be frozen in time, home to a people who's way of life has barely ch](https://documentaryheaven.com/trouble-in-amish-paradise/ "Trouble In Amish Paradise")
-* [![Children Full of Life](/wp-content/thumbnails/2648-100x70.jpg?x53432)
+    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
+* [![Between Life And Death](/wp-content/thumbnails/5950-100x70.jpg?x53432)
     
-    Children Full of Life
+    Between Life And Death
     
-    This is a very moving award-winning documentary from Japan NHK which follows the life of a class of 10 year old students through an academic year in which they learn more about the realities of life a](https://documentaryheaven.com/full-of-life/ "Children Full of Life")
-* [![Future Weapons: Future Combat S2/E12](/wp-content/thumbnails/1895-100x70.jpg?x53432)
+    Provocative documentary following the doctors who can now interrupt, and even reverse, the process of death. Filmed over six months in the country's leading brain injury unit (Addenbooke's Hospital,](https://documentaryheaven.com/between-life-and-death/ "Between Life And Death")
+* [![I Want My Sex Back!](/wp-content/thumbnails/14264-100x70.jpg?x53432)
     
-    Future Weapons: Future Combat S2/E12
+    I Want My Sex Back!
     
-    In this episode of Future Weapons Richard shows us the Active Denial System, a non-lethal way of protecting troops, the Crusher unmanned ground combat vehicle, and the US Army's Future Combat Systems](https://documentaryheaven.com/future-weapons-future-combat-s2e12/ "Future Weapons: Future Combat S2/E12")
+    I Want My Sex Back! is the personal tale of three men who went under the knife in order to change their sex but who now years latter regret the permanent procedure. Through a number of interviews we h](https://documentaryheaven.com/want-sex-back/ "I Want My Sex Back!")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
