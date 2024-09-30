@@ -178,6 +178,7 @@ Products
 Resources
 
 * [Blog](https://bell-sw.com/blog/)
+* [Docs](https://docs.bell-sw.com/)
 * [Unified Java Runtime](https://bell-sw.com/unified-java-runtime/)
 * [Liberica JDK Support Roadmap](https://bell-sw.com/support/#roadmap)
 * [Alpaquita Linux Support Roadmap](https://bell-sw.com/alpaquita-support/#roadmap)
