@@ -190,13 +190,13 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (48)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (49)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (10)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Favorites (41)](https://www.smithbrothersfarms.com/fall-favorites)
         
-    * [Milk & Cream (53)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -211,7 +211,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (14)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (15)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -236,7 +236,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (50)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (51)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (4)](https://www.smithbrothersfarms.com/blocks)
@@ -247,7 +247,7 @@ Hi
             
         * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (9)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (10)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (11)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
