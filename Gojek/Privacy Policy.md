@@ -32,11 +32,11 @@ GOJEK PRIVACY POLICY
 PRIVACY NOTICE
 --------------
 
-Effective Date: 14 August 2024
+Effective Date: 1 October 2024
 
 **INTRODUCTION**
 
-The following Privacy Notice will become effective on 14 August 2024.
+The following Privacy Notice will become effective on 1 October 2024.
 
 This Privacy Notice describes how We, PT GoTo Gojek Tokopedia Tbk and/or its affiliates (“**Gojek**”) obtain, collect, store, control, use, process, analyse, correct, update, display, publish, transfer, disclose and protect Your personal data ("**Processing of Personal Data**"). This Privacy Notice applies to all users and/or service providers (“**User**” or “**You**”) in Our mobile applications (including the Gojek, GoPartner, GoBiz-GoFood Merchant App, GoAgent), websites (including www.gojek.com and its derivative sites), features, services and products (collectively referred as the “**Applications**”), unless covered by a separate privacy notice.
 
@@ -314,9 +314,8 @@ In accordance with Applicable Laws, We reserve the right to charge an administra
 
 You may exercise Your right to delete Your account through Our Application. Should You encounter any difficulties during this process, including losing access to the Application, You may submit Your account deletion request:
 
-1. If Your account is registered with Our service in **Indonesia**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/3ffe4905-46be-4948-9e66-ba7278386c3e)
-2. If your account is registered with Our service in **Singapore**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/fae98f72-b296-4284-ba58-55e1f16e72c0) and/or
-3. If your account is registered with our service in **Vietnam**, You may submit Your request through [the following website.](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/aa52c6a3-5107-415a-85b3-6c70170646a5)
+1. If Your account is registered with Our service in **Indonesia**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/3ffe4905-46be-4948-9e66-ba7278386c3e) and/or
+2. If your account is registered with Our service in **Singapore**, You may submit Your request through [the following website;](https://goto-privacy.my.onetrust.com/webform/5dff103c-2a09-4851-a961-b111ef81c289/fae98f72-b296-4284-ba58-55e1f16e72c0)
 
 We may deny Your request based on reasons permitted under the Applicable Laws. This encompasses situations where we consider the request irrelevant, frivolous, or far-fetched, or if it relates to violations of the terms of use or any unlawful activity.
 
