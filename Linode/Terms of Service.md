@@ -22,7 +22,7 @@ English
 
 [![Akamai Logo](https://assets.linode.com/akamai-logo.svg)](https://www.linode.com/)
 
-* Why Choose Us
+* Explore
 * Products
 * Industries
 * [Marketplace](https://www.linode.com/marketplace/)
@@ -31,16 +31,14 @@ English
 * [Sign Up](https://login.linode.com/signup)
 * Mobile
 
-* Why Choose Us
-    * [Why Choose Us](https://www.linode.com/choosing-linode/)
-    * [Global Infrastructure](https://www.linode.com/global-infrastructure/)
-    * [Cloud Simplified](https://www.linode.com/cloud-simplified/)
-    * [Predictable Pricing](https://www.linode.com/predictable-pricing/)
+* Explore
+    * [Lower Costs](https://www.linode.com/reduce-cloud-costs/)
+    * [Lower Latency](https://www.linode.com/low-latency-applications/)
+    * [Cloud Portability](https://www.linode.com/cloud-portability/)
+    * [Global Scale](https://www.linode.com/cloud-global-scale/)
+    * [Our Platform](https://www.linode.com/global-infrastructure/)
     * [Support Experience](https://www.linode.com/support-experience/)
-    * [Free Bundled Services](https://www.linode.com/free-bundled-services/)
     * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-    * [Our Approach](https://www.linode.com/approach/)
-    * [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 * Products
     * [Products Overview](https://www.linode.com/products/)
     * Compute
@@ -50,21 +48,20 @@ English
         * [Premium CPU](https://www.linode.com/products/premium-cpu/)
         * [GPU](https://www.linode.com/products/gpu/)
         * [Kubernetes](https://www.linode.com/products/kubernetes/)
-        * [EdgeWorkers](https://www.linode.com/products/akamai-products-and-solutions/#edgeworkers)
     * Storage
         * [Block Storage](https://www.linode.com/products/block-storage/)
         * [Object Storage](https://www.linode.com/products/object-storage/)
         * [Backups](https://www.linode.com/products/backups/)
-    * Databases
-        * [Managed Databases](https://www.linode.com/products/databases/)
-    * Services
-        * [Managed](https://www.linode.com/products/managed/)
     * Networking
         * [Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
         * [DDoS Protection](https://www.linode.com/products/ddos/)
         * [DNS Manager](https://www.linode.com/products/dns-manager/)
         * [NodeBalancers](https://www.linode.com/products/nodebalancers/)
         * [Private Networking](https://www.linode.com/products/private-networking/)
+    * Databases
+        * [Managed Databases](https://www.linode.com/products/databases/)
+    * Services
+        * [Managed](https://www.linode.com/products/managed/)
     * Developer Tools
         * [Cloud Manager](https://www.linode.com/products/cloud-manager/)
         * [API](https://www.linode.com/products/linode-api/)
@@ -76,18 +73,6 @@ English
         * [StackScripts](https://www.linode.com/products/stackscripts/)
         * [Monitoring](https://www.linode.com/products/monitoring/)
         * [Users & Permissions](https://www.linode.com/products/users-permissions/)
-    * Delivery
-        * [Adaptive Media Delivery](https://www.linode.com/products/akamai-products-and-solutions/#adaptive-media-delivery)
-        * [Download Delivery](https://www.linode.com/products/akamai-products-and-solutions/#download-delivery)
-        * [Ion](https://www.linode.com/products/akamai-products-and-solutions/#ion)
-        * [Global Traffic](https://www.linode.com/products/akamai-products-and-solutions/#global-traffic-management)
-    * Security
-        * [Guardicore](https://www.linode.com/products/akamai-products-and-solutions/#guardicore-segmentation)
-        * [Kona Site Defender](https://www.linode.com/products/akamai-products-and-solutions/#kona-site-defender)
-        * [App & API Protector](https://www.linode.com/products/akamai-products-and-solutions/#app-api-protector)
-        * [Bot Manager](https://www.linode.com/products/akamai-products-and-solutions/#bot-manager)
-        * [Account Protector](https://www.linode.com/products/akamai-products-and-solutions/#account-protector)
-        * [EAA](https://www.linode.com/products/akamai-products-and-solutions/#enterprise-application-access)
 * Industries
     * [Digital Agencies](https://www.linode.com/digital-agencies-industry-solutions/)
     * [Ecommerce](https://www.linode.com/ecommerce-industry-solutions/)
@@ -139,17 +124,14 @@ Search
 * [Log In](https://login.linode.com/login)
 * [Sign Up](https://login.linode.com/signup)
 
-* [Why Choose Us](https://www.linode.com/choosing-linode/)
-* [Global Infrastructure](https://www.linode.com/global-infrastructure/)
-* [Cloud Simplified](https://www.linode.com/cloud-simplified/)
-* [Predictable Pricing](https://www.linode.com/predictable-pricing/)
-* [Support Experience](https://www.linode.com/support-experience/)
-* [Free Bundled Services](https://www.linode.com/free-bundled-services/)
+* [Lower Costs](https://www.linode.com/reduce-cloud-costs/)
+* [Lower Latency](https://www.linode.com/low-latency-applications/)
+* [Cloud Portability](https://www.linode.com/cloud-portability/)
+* [Global Scale](https://www.linode.com/cloud-global-scale/)
 
-* [About Us](https://www.linode.com/company/about/)
+* [Our Platform](https://www.linode.com/global-infrastructure/)
+* [Support Experience](https://www.linode.com/support-experience/)
 * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-* [Our Approach](https://www.linode.com/approach/)
-* [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 
 [View All Products](https://www.linode.com/products/)
 
@@ -161,17 +143,12 @@ Search
 * [Premium CPU](https://www.linode.com/products/premium-cpu/)
 * [GPU](https://www.linode.com/products/gpu/)
 * [Kubernetes](https://www.linode.com/products/kubernetes/)
-* [EdgeWorkers](https://www.linode.com/products/akamai-products-and-solutions/#edgeworkers)
 
 ###### Storage
 
 * [Block Storage](https://www.linode.com/products/block-storage/)
 * [Object Storage](https://www.linode.com/products/object-storage/)
 * [Backups](https://www.linode.com/products/backups/)
-
-###### Databases
-
-* [Managed Databases](https://www.linode.com/products/databases/)
 
 ###### Networking
 
@@ -180,6 +157,14 @@ Search
 * [DNS Manager](https://www.linode.com/products/dns-manager/)
 * [NodeBalancers](https://www.linode.com/products/nodebalancers/)
 * [Private Networking](https://www.linode.com/products/private-networking/)
+
+###### Databases
+
+* [Managed Databases](https://www.linode.com/products/databases/)
+
+###### Services
+
+* [Managed](https://www.linode.com/products/managed/)
 
 ###### Developer Tools
 
@@ -193,26 +178,6 @@ Search
 * [StackScripts](https://www.linode.com/products/stackscripts/)
 * [Monitoring](https://www.linode.com/products/monitoring/)
 * [Users & Permissions](https://www.linode.com/products/users-permissions/)
-
-###### Delivery
-
-* [Adaptive Media Delivery](https://www.linode.com/products/akamai-products-and-solutions/#adaptive-media-delivery)
-* [Download Delivery](https://www.linode.com/products/akamai-products-and-solutions/#download-delivery)
-* [Ion](https://www.linode.com/products/akamai-products-and-solutions/#ion)
-* [Global Traffic](https://www.linode.com/products/akamai-products-and-solutions/#global-traffic-management)
-
-###### Security
-
-* [Guardicore](https://www.linode.com/products/akamai-products-and-solutions/#guardicore-segmentation)
-* [Kona Site Defender](https://www.linode.com/products/akamai-products-and-solutions/#kona-site-defender)
-* [App & API Protector](https://www.linode.com/products/akamai-products-and-solutions/#app-api-protector)
-* [Bot Manager](https://www.linode.com/products/akamai-products-and-solutions/#bot-manager)
-* [Account Protector](https://www.linode.com/products/akamai-products-and-solutions/#account-protector)
-* [EAA](https://www.linode.com/products/akamai-products-and-solutions/#enterprise-application-access)
-
-###### Services
-
-* [Managed](https://www.linode.com/products/managed/)
 
 ###### Industries
 
@@ -341,17 +306,15 @@ All rights reserved.
 * [Legal Center](https://www.linode.com/legal/)
 * [System Status](https://status.linode.com/)
 
-#### Why Choose Us
+#### Explore
 
-* [Why Choose Us](https://www.linode.com/choosing-linode/)
-* [Global Infrastructure](https://www.linode.com/global-infrastructure/)
-* [Cloud Simplified](https://www.linode.com/cloud-simplified/)
-* [Predictable Pricing](https://www.linode.com/predictable-pricing/)
+* [Lower Costs](https://www.linode.com/reduce-cloud-costs/)
+* [Lower Latency](https://www.linode.com/low-latency-applications/)
+* [Cloud Portability](https://www.linode.com/cloud-portability/)
+* [Global Scale](https://www.linode.com/cloud-global-scale/)
+* [Our Platform](https://www.linode.com/global-infrastructure/)
 * [Support Experience](https://www.linode.com/support-experience/)
-* [Free Bundled Services](https://www.linode.com/free-bundled-services/)
 * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-* [Our Approach](https://www.linode.com/approach/)
-* [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 
 #### Company
 
