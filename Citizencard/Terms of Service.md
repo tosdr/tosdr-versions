@@ -74,11 +74,11 @@
 Terms and Conditions
 ====================
 
-Last Updated 28 May 2024 © CitizenCard Limited
+Last Updated 30 September 2024 © CitizenCard Limited
 
 The Terms and Conditions set out below are important and affect your rights as a customer of CitizenCard Limited. They apply to anyone applying for a CitizenCard.
 
-[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-28-may-2024.pdf "Download CitizenCard T&Cs")
+[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-30-september-2024.pdf "Download CitizenCard T&Cs")
 
 We draw your attention in particular to the fact that your purchase and payment is of our Application Processing and Validation Service. If you complete the Application process successfully we will issue you with a CitizenCard, subject to conditions of use, which remains at all times Our legal property.
 
@@ -218,7 +218,7 @@ CitizenCard, 7 Prescott Place, London SW4 6BS
 * Personal Data supplied by the Referee such as name, signature, occupation, work address and other contact details;
 * Personal Data supplied by the Applicant's parent or legal guardian such as name and signature.
 
-4.3 We provide Yoti, a digital identity company, and 1Account, an online identity verification company, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti or 1Account their consent to do this check.
+4.3 We provide Yoti, a digital identity company, 1Account, an online identity verification company, and Arissian, through their Luciditi digital identity platform, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti, 1Account or Arissian their consent to do this check.
 
 4.4 When using the e-IDVT process, the Applicant has to agree to their data (photo ID document, liveness check and selfies) being assessed by Yoti Identity Verification ([www.yoti.com/business/identity-verification](https://www.yoti.com/business/identity-verification/ "Yoti Identity Verification")) for the purpose of document and identity validation. Yoti Identity Verification can submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud.
 
