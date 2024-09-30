@@ -18,7 +18,7 @@ Services
 
 [Website Design](https://fruition.net/services/website-design)[Branding](https://fruition.net/services/branding)
 
-##### [AI Data & Analytics](https://fruition.net/services/creative)
+##### [AI Data & Analytics](https://fruition.net/services/ai-data-and-analytics)
 
 [AI Integrations](https://fruition.net/services/ai-integrations)[Analytics Solutions](https://fruition.net/services/analytics-solutions)[Google Analytics 4](https://fruition.net/services/ga4)
 
