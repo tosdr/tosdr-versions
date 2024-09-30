@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [D-Day](https://www.myabandonware.com/game/d-day-ged)
-* [Cue Brick](https://www.myabandonware.com/game/cue-brick-f8h)
-* [Crystal Castles](https://www.myabandonware.com/game/crystal-castles-4rf)
-* [Cruisin'](https://www.myabandonware.com/game/cruisin-9tg)
-* [Dangerous Seed](https://www.myabandonware.com/game/dangerous-seed-8dx)
+* [Virtua Striker 2002](https://www.myabandonware.com/game/virtua-striker-2002-sl9)
+* [Virtua NBA](https://www.myabandonware.com/game/virtua-nba-sl7)
+* [ZunZun Block](https://www.myabandonware.com/game/zunzun-block-sl5)
+* [Zombie Revenge](https://www.myabandonware.com/game/zombie-revenge-sl4)
+* [Zero Gunner](https://www.myabandonware.com/game/zero-gunner-sl3)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [MicroLeague Baseball 6.0](https://www.myabandonware.com/game/microleague-baseball-6-0-ig6)
-* [Street Fighter: The Movie](https://www.myabandonware.com/game/street-fighter-the-movie-rm7)
-* [Pedestrian Devastation](https://www.myabandonware.com/game/pedestrian-devastation-3og)
+* [Operation Wolf 3](https://www.myabandonware.com/game/operation-wolf-3-rt6)
+* [Axis and Allies](https://www.myabandonware.com/game/axis-and-allies-pm3)
+* [Bone: Act 1 & 2 Combo Pack](https://www.myabandonware.com/game/bone-act-1-2-combo-pack-o9q)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
