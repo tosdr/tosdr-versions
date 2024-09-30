@@ -718,6 +718,24 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![university student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-93-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
+    
+    [10 highest paying postgraduate certificates](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
+    -----------------------------------------------------------------------------------------------------------------------------
+    
+    Wondering which postgraduate certificates will lead to the highest paid careers? Keep reading to discover …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
+* [![masters student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-92-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-masters-degrees)
+    
+    [10 highest paying master’s degrees](https://www.futurelearn.com/info/blog/highest-paying-masters-degrees)
+    ----------------------------------------------------------------------------------------------------------
+    
+    Wondering which master’s degrees will lead to the highest paid careers? Keep reading to discover …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [FutureLearn Partners With Pion To Offer Exclusive Learner Discounts](https://www.futurelearn.com/info/press/futurelearn-partners-with-pion-to-offer-exclusive-learner-discounts)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -731,22 +749,6 @@ Powered By
     -----------------------------------------------------------------------------------------------------------------------------
     
     Thinking about taking an environmental science degree to learn specialist knowledge and improve your career …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [FutureLearn Launches Its B2B Social Campaign](https://www.futurelearn.com/info/press/futurelearn-launches-its-b2b-social-campaign)
-    -----------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the leading online learning platform, has launched a B2B social campaign to support FutureLearn …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![project manager at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-90-150x150.png)](https://www.futurelearn.com/info/blog/project-management-degree-guide)
-    
-    [A complete guide to project management degrees](https://www.futurelearn.com/info/blog/project-management-degree-guide)
-    -----------------------------------------------------------------------------------------------------------------------
-    
-    Are you a natural leader who enjoys the hustle and bustle of starting a new …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
