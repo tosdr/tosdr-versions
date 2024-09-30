@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/frostpunk-2-difficulty-guide/)
+    [](https://player.me/death-stranding-2-release-date-planned-for-2025/)
     
-    ![Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/frostpunk-2-difficulty-guide/)
+    [](https://player.me/death-stranding-2-release-date-planned-for-2025/)
     
-    ![Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know](https://player.me/wp-content/uploads/2024/09/NHL-25-Release-Date-Gameplay-Editions-and-Everything-You-Need-to-Know-1.png)
+
+[NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 30, 2024/
+
+EA SPORTS has officially unveiled NHL 25, marking the next chapter in the iconic hockey franchise with fresh gameplay innovations,…
+
+[Read More](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/)
+
+![Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](https://player.me/wp-content/uploads/2024/09/Death-Stranding-2-Release-Date-Announcement-Planned-for-2025-Confirmed-by-Hideo-Kojima.png)
+
+[Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](https://player.me/death-stranding-2-release-date-planned-for-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 30, 2024/
+
+Death Stranding 2: On The Beach has been one of the most anticipated games since its announcement in December 2022.…
+
+[Read More](https://player.me/death-stranding-2-release-date-planned-for-2025/)
+
 ![Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](https://player.me/wp-content/uploads/2024/09/Frostpunk-2-Difficulty-Guide——Is-the-Game-Really-Twice-as-Hard-Than-the-Original.png)
 
 [Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](https://player.me/frostpunk-2-difficulty-guide/)
@@ -218,32 +244,6 @@ September 25, 2024/
 Guerrilla Games has officially announced Horizon Zero Dawn Remastered, bringing the beloved 2017 action RPG to PlayStation 5 and PC.…
 
 [Read More](https://player.me/horizon-zero-dawn-remastered-releases-on-october-31/)
-
-![Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/wp-content/uploads/2024/09/Throne-and-Liberty-Global-Release-Date-Story-and-Everything-We-Know-So-Far.png)
-
-[Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 24, 2024/
-
-Throne and Liberty is an upcoming fantasy MMORPG (massively multiplayer online role-playing game) from renowned developer NCSoft, best known for…
-
-[Read More](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
-
-![Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/wp-content/uploads/2024/09/Fields-of-Mistria-Legendary-Fish-Guide.png)
-
-[Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/fields-of-mistria-legendary-fish-guide/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 24, 2024/
-
-Fishing in Fields of Mistria offers a relaxing way to spend time while working towards completing your Fish Wing collection…
-
-[Read More](https://player.me/fields-of-mistria-legendary-fish-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know](https://player.me/wp-content/uploads/2024/09/NHL-25-Release-Date-Gameplay-Editions-and-Everything-You-Need-to-Know-1.png)
+
+[NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 30, 2024/
+
+EA SPORTS has officially unveiled NHL 25, marking the next chapter in the iconic hockey franchise with fresh gameplay innovations,…
+
+[Read More](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/)
+
+![Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](https://player.me/wp-content/uploads/2024/09/Death-Stranding-2-Release-Date-Announcement-Planned-for-2025-Confirmed-by-Hideo-Kojima.png)
+
+[Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](https://player.me/death-stranding-2-release-date-planned-for-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 30, 2024/
+
+Death Stranding 2: On The Beach has been one of the most anticipated games since its announcement in December 2022.…
+
+[Read More](https://player.me/death-stranding-2-release-date-planned-for-2025/)
+
 ![Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](https://player.me/wp-content/uploads/2024/09/Frostpunk-2-Difficulty-Guide——Is-the-Game-Really-Twice-as-Hard-Than-the-Original.png)
 
 [Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](https://player.me/frostpunk-2-difficulty-guide/)
@@ -379,32 +405,6 @@ September 24, 2024/
 Fishing in Fields of Mistria offers a relaxing way to spend time while working towards completing your Fish Wing collection…
 
 [Read More](https://player.me/fields-of-mistria-legendary-fish-guide/)
-
-![Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/wp-content/uploads/2024/09/Tales-of-the-Shire-Release-Date-Set-For-March-25-2025-After-Minor-Delay.png)
-
-[Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 23, 2024/
-
-Fans of J.R.R. Tolkien’s Middle-earth have a new reason to get excited, as Private Division and Weta Workshop have confirmed…
-
-[Read More](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
-
-![Stardew Valley 1.6 Update on Consoles and Mobile Confirmed on November 4](https://player.me/wp-content/uploads/2024/09/Stardew-Valley-1.6-Update-on-Consoles-and-Mobile-Confirmed-on-November-4.png)
-
-[Stardew Valley 1.6 Update on Consoles and Mobile Confirmed on November 4](https://player.me/stardew-valley-1-6-on-consoles-and-mobile-confirmed/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 23, 2024/
-
-Fans of Stardew Valley, rejoice! The much-anticipated Stardew Valley 1.6 Update is officially arriving for consoles and mobile platforms on…
-
-[Read More](https://player.me/stardew-valley-1-6-on-consoles-and-mobile-confirmed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ A year after OpenAI shut down its AI classifier, a tool the company claimed to d
 
 player.me
 
+[](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/ "NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know")
+
+[NHL 25 Release Date, Gameplay, Editions and Everything You Need to Know](https://player.me/nhl-25-release-date-and-everything-you-need-to-know/)
+
+September 30, 2024
+
+[](https://player.me/death-stranding-2-release-date-planned-for-2025/ "Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima")
+
+[Death Stranding 2 Release Date Announcement Planned for 2025, Confirmed by Hideo Kojima](https://player.me/death-stranding-2-release-date-planned-for-2025/)
+
+September 30, 2024
+
 [](https://player.me/frostpunk-2-difficulty-guide/ "Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?")
 
 [Frostpunk 2 Difficulty Guide: Is the Game Really Twice as Hard Than the Original?](https://player.me/frostpunk-2-difficulty-guide/)
@@ -853,22 +865,10 @@ September 25, 2024
 
 September 25, 2024
 
-[](https://player.me/throne-and-liberty-release-date-and-everything-we-know/ "Throne and Liberty Global Release Date, Story and Everything We Know So Far")
-
-[Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
-
-September 24, 2024
-
-[](https://player.me/fields-of-mistria-legendary-fish-guide/ "Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish")
-
-[Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/fields-of-mistria-legendary-fish-guide/)
-
-September 24, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 568,433 times, 11 visit(s) today
+Visited 568,489 times, 67 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
