@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Kia dealer portal flaw could let attackers hack millions of cars](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Kia dealer portal flaw could let attackers hack millions of cars](https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/)
-    * [![MoneyGram confirms a cyberattack is behind dayslong outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        MoneyGram confirms a cyberattack is behind dayslong outage](https://www.bleepingcomputer.com/news/security/moneygram-confirms-a-cyberattack-is-behind-dayslong-outage/)
     * [![Microsoft: Windows Recall now can be removed, is more secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
-    * [![US sanctions crypto exchanges used by Russian ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Iranian hackers charged for ‘hack-and-leak’ plot to influence election](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
-    
+        Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
     * [![Windows 11 KB5043145 update causes reboot loops, blue screens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
-    * [![Critical flaw in NVIDIA Container Toolkit allows full host takeover](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![CUPS flaws enable Linux remote code execution, but there’s a catch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical flaw in NVIDIA Container Toolkit allows full host takeover](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/)
-    * [![A three-year subscription to WindScribe VPN is now down to $79](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
+    
+    * [![Man charged for selling forged license keys for network switches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        A three-year subscription to WindScribe VPN is now down to $79](https://www.bleepingcomputer.com/offer/deals/a-three-year-subscription-to-windscribe-vpn-is-now-down-to-79/)
-    * [![Ireland fines Meta €91 million for storing passwords in plaintext](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Man charged for selling forged license keys for network switches](https://www.bleepingcomputer.com/news/legal/man-charged-for-selling-forged-license-keys-for-network-switches/)
+    * [![Verizon outage: iPhones, Android devices stuck in SOS mode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
+        Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
+    * [![Media giant AFP hit by cyberattack impacting news delivery services](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Media giant AFP hit by cyberattack impacting news delivery services](https://www.bleepingcomputer.com/news/security/media-giant-afp-hit-by-cyberattack-impacting-news-delivery-services/)
+    * [![Windows 11 KB5043145 update causes reboot loops, blue screens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 KB5043145 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/)
+* [![Verizon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
 * [![Ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
-* [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
 
 ##### Follow us:
 
