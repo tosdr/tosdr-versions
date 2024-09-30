@@ -203,14 +203,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Michael Reagan Four More Years to Make America Safe Again](https://patriotpost.us/opinion/110636-four-more-years-to-make-america-safe-again-2024-09-28)
+*      [Matthew Continetti America Must Side With Israel Against Hezbollah](https://patriotpost.us/opinion/110635-america-must-side-with-israel-against-hezbollah-2024-09-28)
 *      [David Harsanyi Harris’ Attack on the Filibuster Is an Attack on the Constitutional Order](https://patriotpost.us/opinion/110600-harris-attack-on-the-filibuster-is-an-attack-on-the-constitutional-order-2024-09-27)
 *      [Erick Erickson Democrats Support Foreign Interference to Stop Trump](https://patriotpost.us/opinion/110598-democrats-support-foreign-interference-to-stop-trump-2024-09-27)
 *      [Victor Davis Hanson October/September Surprises!](https://patriotpost.us/opinion/110597-october-slash-september-surprises-2024-09-27)
 *      [Josh Hammer The Amy Wax Inflection Point for ‘Elite’ Higher Education](https://patriotpost.us/opinion/110596-the-amy-wax-inflection-point-for-elite-higher-education-2024-09-27)
 *      [Michael Barone The Harris Campaign Might Need to Change Its Strategy](https://patriotpost.us/opinion/110601-the-harris-campaign-might-need-to-change-its-strategy-2024-09-27)
 *      [Tim Young Illegal Immigrants Replacing Americans in the Job Market in Three Easy Steps](https://patriotpost.us/opinion/110588-illegal-immigrants-replacing-americans-in-the-job-market-in-three-easy-steps-2024-09-27)
-*      [Gary Bauer Biden Giving Aid and Comfort to Enemies](https://patriotpost.us/opinion/110602-biden-giving-aid-and-comfort-to-enemies-2024-09-27)
-*      [Tim Graham When Reporters Are Just Explainers, Not Investigators](https://patriotpost.us/opinion/110599-when-reporters-are-just-explainers-not-investigators-2024-09-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
