@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Air Force awards Lockheed $3.2B multiyear missile contract](https://www.defensenews.com/air/2024/09/30/air-force-awards-lockheed-32b-multiyear-missile-contract/)  
+    09/30/24 12:00pm  
+    
+    The JASSM and LRASM contract is part of a Pentagon effort to make multiyear procurements of key munitions. Here, a LRASM launches from an Air Force B-1B Lancer during flight testing in 2013. (DARPA)
+    
+* [Marines to receive new system for zapping drone swarms out of the sky](https://www.defensenews.com/news/your-marine-corps/2024/09/30/marines-to-receive-new-system-for-zapping-drone-swarms-out-of-the-sky/)  
+    09/30/24 10:58am  
+    
+    A mock-up of the recently announced Eprius counter-drone system that can zap swarms of enemy drones out of the sky. (Epirus)
+    
 * [The case for giving Ukraine long-range striking power in Russia](https://www.defensenews.com/opinion/2024/09/29/ukraine-needs-long-range-firepower-in-its-fight-against-russia/)  
     09/29/24 08:00am  
     
@@ -209,16 +219,6 @@ This document was last updated on January 1, 2014
     09/26/24 03:00pm  
     
     The U.S. Air Force's new physical training uniform includes a crewneck and hooded sweatshirt, among other garments. (Jon Simkins/Staff)
-    
-* [China test-fires intercontinental ballistic missile into Pacific Ocean](https://www.defensenews.com/global/asia-pacific/2024/09/25/china-test-fires-intercontinental-ballistic-missile-into-pacific-ocean/)  
-    09/25/24 06:30pm  
-    
-    Military vehicles carry nuclear ballistic missiles during a 2019 parade commemorating the founding of Communist China in Beijing. China test-fired an ICBM into the Pacific on Wednesday. (Mark Schiefelbein,/AP)
-    
-* [US missile system will remain in Philippines despite China’s alarm](https://www.defensenews.com/global/asia-pacific/2024/09/25/us-missile-system-will-remain-in-philippines-despite-chinas-alarm/)  
-    09/25/24 03:00pm  
-    
-    Philippine military chief Gen. Romeo Brawner Jr., center, listens to an exhibitor during an Asian defense industry exhibition Wednesday in Manila. Brawner Jr. has asked the U.S. to keep a U.S. missile system in the country to boost deterrence. (Aaron Favila/AP)
     
 
 Recent parts by keyword  
