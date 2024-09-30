@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Kris Kristofferson, country music pioneer, dead at 88](https://nypost.com/2024/09/29/entertainment/kris-kristofferson-country-music-pioneer-dead-at-87/)
+
 Terms Of Use
 ============
 
