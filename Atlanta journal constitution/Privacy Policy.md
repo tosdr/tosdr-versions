@@ -1,4 +1,4 @@
-[Breaking: Georgia students improve exam scores after overhaul of state math standards](https://www.ajc.com/education/georgia-students-improve-exam-scores-after-overhaul-of-state-math-standards/YR4D6F7FLZHU3NSAD2SIWOTNX4/)
+[Breaking: Helene aftermath: Ga. death toll at 25; more than 370K still without power](https://www.ajc.com/news/atlanta-news/helene-aftermath-more-than-370k-still-without-power/IEIOI6GZ7VGK5BY6N3ZLB25KSM/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
@@ -16,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-reeling-from-helene/EJZ26IXXL5E5RED4NDKCSZJKJM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
