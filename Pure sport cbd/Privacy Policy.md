@@ -28,7 +28,7 @@ Update
 
 Check out
 
-3 FOR 2 on all supplements. Invest in your long-term performance.
+3 FOR 2 on all supplements. Invest in your long-term performance. Auto-applied at checkout.
 
           
 
@@ -66,15 +66,15 @@ Check out
 
 * [ ]  [Supplements](https://puresportcbd.com/en-us/collections/all)
     
-    [![](//puresport.co/cdn/shop/files/St_Moritz_Day_3-93_18bfe499-bb8f-47ce-bd61-9109a17888f6.png?v=1723639998&width=900)](https://puresportcbd.com/en-us/collections/3-for-2)[![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[![](//puresport.co/cdn/shop/files/Untitled_design_21_60a0c5ea-2233-47bc-b368-66c684269b39.jpg?v=1724334260&width=900)](https://puresportcbd.com/en-us/collections/bundles)
+    [![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[![](//puresport.co/cdn/shop/files/Untitled_design_21_60a0c5ea-2233-47bc-b368-66c684269b39.jpg?v=1724334260&width=900)](https://puresportcbd.com/en-us/collections/bundles)[![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/en-us/collections/electrolytes)
     
     SHOP BY CATEGORY
     
-    [3 FOR 2](https://puresportcbd.com/en-us/collections/3-for-2) [Freeze Roll & Balms](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/en-us/collections/nootropics) [Functional Mushrooms](https://puresportcbd.com/en-us/collections/functional-mushrooms) [Shop All](https://puresportcbd.com/en-us/collections/all) [Bundles](https://puresportcbd.com/en-us/collections/bundles)
+    [Freeze Roll & Balms](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/en-us/collections/nootropics) [Functional Mushrooms](https://puresportcbd.com/en-us/collections/functional-mushrooms) [Shop All](https://puresportcbd.com/en-us/collections/all) [Bundles](https://puresportcbd.com/en-us/collections/bundles) [Electrolytes](https://puresportcbd.com/en-us/collections/electrolytes)
     
     SHOP BY GOAL
     
-    [Performance](https://puresportcbd.com/en-us/collections/nootropics) [Sleep](https://puresportcbd.com/en-us/collections/sleep) [Recovery](https://puresportcbd.com/en-us/collections/recovery) [Hormone Balance](https://puresportcbd.com/en-us/collections/hormone-support)
+    [Performance](https://puresportcbd.com/en-us/collections/nootropics) [Sleep](https://puresportcbd.com/en-us/collections/sleep) [Recovery](https://puresportcbd.com/en-us/collections/recovery) [Hormone Balance](https://puresportcbd.com/en-us/collections/hormone-support) [Hydration](https://puresportcbd.com/en-us/collections/electrolytes)
     
 
 * [ ]  [Apparel](https://puresportcbd.com/en-us/collections/shop-all-apparel)
@@ -87,9 +87,8 @@ Check out
     
     SHOP BY COLLECTION
     
-    [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel) [Performance Wear](https://puresportcbd.com/en-us/collections/performance-wear)
+    [Performance Wear](https://puresportcbd.com/en-us/collections/performance-wear) [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
-* [3 FOR 2](https://puresportcbd.com/en-us/collections/3-for-2)
 * [Community](https://puresportcbd.com/en-us/pages/community)
 * [Ambassadors](https://puresportcbd.com/en-us/pages/ambassadors)
 
