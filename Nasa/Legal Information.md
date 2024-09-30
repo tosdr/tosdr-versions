@@ -64,13 +64,13 @@ Suggested Searches
 
 ### Featured
 
-[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
 
-1 min read
+4 min read
 
-### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
+### NASA Astronaut Nick Hague Boosts Human Health Research in Space
 
-article3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article1 day ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
@@ -263,7 +263,13 @@ article 3 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Highlights
 
-[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
+
+4 min read
+
+### NASA Astronaut Nick Hague Boosts Human Health Research in Space
+
+article 1 day ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
 
 1 min read
 
@@ -275,13 +281,7 @@ article 3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa
 
 ### Educational Activities in Space
 
-article 5 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
-
-4 min read
-
-### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
-
-article 2 weeks ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)
+article 5 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 4 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -357,7 +357,7 @@ article 4 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Backyard Worlds: Cool Neighbors
 
-article 22 hours ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
+article 1 day ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
 
 2 min read
 
@@ -391,7 +391,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A re
 
 ### Students Soar at NASA Glenn’s Aviation Day
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
 
 ### Highlights
 
@@ -439,13 +439,13 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### Featured
 
-[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+[![Manufacturing equipment that will be used to build components for NASA’s SLS (Space Launch System) rocket for future Artemis missions is being installed at the agency’s Michoud Assembly Facility in New Orleans, Louisiana. The tooling will be used to produce the SLS rocket’s advanced exploration upper stage, or EUS, in the factory’s new manufacturing area, picture here.](https://www.nasa.gov/wp-content/uploads/2024/09/maf-20240916-ngb-01.jpg?w=1024)
 
-1 min read
+3 min read
 
-### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
+### NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
 
-article 3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
+article 4 days ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
 
 4 min read
 
