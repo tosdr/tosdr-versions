@@ -417,6 +417,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/phone-thief-london-caught.webp)](https://www.sickchirpse.com/phone-thief-caught-red-handed-hours-after-snatching-mobiles-in-london/)
+
+### [Phone Thief Caught Red-Handed Hours After Snatching Mobiles In London](https://www.sickchirpse.com/phone-thief-caught-red-handed-hours-after-snatching-mobiles-in-london/)
+
+[Read More »](https://www.sickchirpse.com/phone-thief-caught-red-handed-hours-after-snatching-mobiles-in-london/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/demi-moore-substance-film.webp)](https://www.sickchirpse.com/new-demi-moore-film-so-graphic-viewers-are-walking-out-of-the-cinema-before-finishing-the-film/)
+
+### [New Demi Moore Film So ‘Graphic’ Viewers Are Walking Out Of The Cinema Before Finishing The Film](https://www.sickchirpse.com/new-demi-moore-film-so-graphic-viewers-are-walking-out-of-the-cinema-before-finishing-the-film/)
+
+[Read More »](https://www.sickchirpse.com/new-demi-moore-film-so-graphic-viewers-are-walking-out-of-the-cinema-before-finishing-the-film/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/09/ellen-diddy.jpg)](https://www.sickchirpse.com/ellen-degeneres-creepy-post-paying-tribute-to-diddy-goes-viral-as-fans-notice-eerie-detail/)
 
 ### [Ellen DeGeneres’ Creepy Post Paying Tribute To Diddy Goes Viral As Fans Notice Eerie Detail](https://www.sickchirpse.com/ellen-degeneres-creepy-post-paying-tribute-to-diddy-goes-viral-as-fans-notice-eerie-detail/)
@@ -434,18 +446,6 @@ SEND
 ### [Costco Responds To Diddy’s Lawyer’s Claims That He May Have Bought His 1,000 Bottles Of Baby Oil From Their Stores](https://www.sickchirpse.com/costco-responds-to-diddys-lawyers-claims-that-he-may-have-bought-his-1000-bottles-of-baby-oil-from-their-stores/)
 
 [Read More »](https://www.sickchirpse.com/costco-responds-to-diddys-lawyers-claims-that-he-may-have-bought-his-1000-bottles-of-baby-oil-from-their-stores/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/soldier-spy-hearing-aid-equpment.webp)](https://www.sickchirpse.com/soldier-beat-woman-to-death-after-mistaking-hearing-aid-for-spy-equipment/)
-
-### [Soldier Beat Woman To Death After Mistaking Hearing Aid For ‘Spy Equipment’](https://www.sickchirpse.com/soldier-beat-woman-to-death-after-mistaking-hearing-aid-for-spy-equipment/)
-
-[Read More »](https://www.sickchirpse.com/soldier-beat-woman-to-death-after-mistaking-hearing-aid-for-spy-equipment/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/woman-stops-e-bike-thief-bike.webp)](https://www.sickchirpse.com/woman-stops-e-bike-thieves-by-yanking-one-off-moped-as-they-tried-to-speed-off/)
-
-### [Woman Stops E-Bike Thieves By Yanking One Off Moped As They Tried To Speed Off](https://www.sickchirpse.com/woman-stops-e-bike-thieves-by-yanking-one-off-moped-as-they-tried-to-speed-off/)
-
-[Read More »](https://www.sickchirpse.com/woman-stops-e-bike-thieves-by-yanking-one-off-moped-as-they-tried-to-speed-off/)
 
 #### trending post
 
