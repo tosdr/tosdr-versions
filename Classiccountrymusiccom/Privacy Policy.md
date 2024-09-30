@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Country Music Legend Kris Kristofferson Dies...](https://classiccountrymusic.com/country-music-legend-kris-kristofferson-dies-at-88/)
 * [Chris Stapleton Delivers “Brilliant” Cover Of...](https://classiccountrymusic.com/chris-stapleton-delivers-brilliant-cover-of-willie-nelsons-angel-flying-too-close-to-the-ground/)
 * [Flashback: George Jones’ Wife Accepts His...](https://classiccountrymusic.com/flashback-george-jones-wife-accepts-his-cma-award-while-hes-in-the-bathroom/)
-* [Beloved Hall Of Fame Songwriter Hugh...](https://classiccountrymusic.com/beloved-hall-of-fame-songwriter-hugh-prestwood-has-died-at-82/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Introducing Kris Kristofferson’s 8 Kids](https://classiccountrymusic.com/introducing-kris-kristoffersons-8-kids/)
 * [Rare Footage Of Waylon Jennings Singing...](https://classiccountrymusic.com/rare-footage-of-waylon-jennings-singing-im-a-ramblin-man-live/)
 * [Willie Nelson Teams Up With Kacey...](https://classiccountrymusic.com/willie-nelson-teams-up-with-kacey-musgraves-for-2019-cma-awards-performance-of-rainbow-connection/)
-* [Willie Nelson Announces New Album Created...](https://classiccountrymusic.com/willie-nelson-announces-new-album-created-and-produced-with-son-micah/)
 
 Privacy Policy
 ==============
