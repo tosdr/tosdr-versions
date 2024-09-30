@@ -224,6 +224,62 @@ out of 5 based on
 
 > Sep 30, 2024
 
+> Sara Van Coillie was awesome
+
+> Sara Van Coillie was awesome. She is very knowledgeable and planned a fantastic itinerary for us. We can't wait for our trip!
+
+Megan Whitmore
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 30, 2024
+
+> Amazing Experience working with Leigh-Ann Croeser
+
+> Amazing Experience working with Leigh-Ann. She was very informative and accommodating. This process was seamless and effortless. Thank you so much!
+
+Enel
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 30, 2024
+
+> Shann was really fast in answering and…
+
+> Shann was really fast in answering and give me exactly the information i requested. The booking went smoothly !
+
+Kunde
+
+,
+
+DE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 30, 2024
+
+> Very good and fast service at the…
+
+> Very good and fast service at the booking so far.
+
+Kunde
+
+,
+
+DE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 30, 2024
+
 > Very trusted and supportive
 
 > while i did not have any opportunity to meet you or know yiu personally or socially but your dealings on the matters in respect of communication and help needed gave me confidence and trust. Hope my tour that you are organising will be an enjoyable one. Thanks Shann and take care
@@ -285,62 +341,6 @@ ZA
 > Mel du Toit has the patience of a saint and answered every one of my many questions with detailed information. I felt confident in her expertise and she has assured me that I could count on her being available during every stage of my journey in Uganda. Thanks, Mel!
 
 Debra Lass
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 25, 2024
-
-> patient considerate trust worthy
-
-> I want everyone to know Nicole at Safari.com did a great job putting my vacation together. Nicole made sure I had the exact dates I wanted to stay at the lodges of my choice. Nicole answered everyone of my emails quickly. Nicole worked on my vacation plan after office hours from her home. She never once was upset with me if i changed any of my plan. Nicole is very patient .I am very thankful for Nicole. I will always use Safari.com
-
-Katherine Grimm
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 25, 2024
-
-> Anja helped us to craft our dream vacation
-
-> The reason why we used Safari.com was because of Anja. We really had no idea of what we wanted so we were not the easiest customers by a long stretch. With Anja’s help and patience we developed about 25 itineraries until we crafted our dream vacation that is taking us across 4 countries. It is an amazing itinerary and this was all possible because of Anja’s dedication to making our seemingly crazy ideas come to fruition in a manner that was realistic and met our budgetary requirements.
-
-AD and BD
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 25, 2024
-
-> Satisfied customers
-
-> We always use Dolan for our safari trips. He delivers world class service! All the lodges we’ve visited have been exquisite! Beautiful rooms, private splash pool and gourmet cuisine. The game drives are always spot on with extremely rare sightings. We will gladly recommend Dolan@Safari for all your safari trips.
-
-CHRISTO STONEHOUSE
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 24, 2024
-
-> I spent hours trying to book my own…
-
-> I spent hours trying to book my own reservation online, but Dolan came to the rescue and made the entire process seamless! His expertise and professionalism were a game-changer, and everything was booked without a hitch. As someone who considers themselves a seasoned traveler, Dolan's knowledge and service exceeded my expectations, showing me there’s always more to learn. Thank you so much for your outstanding customer service—it truly made a difference!
-
-FE
 
 ,
 
