@@ -262,6 +262,11 @@ IX. Zvláštní ujednání
 
 1. Na provozovaných mailserverch může provozovatel automaticky promazávat data v koši.
 
+### Stabilita a bezpečnost
+
+1. Základní správa serverů zahrnuje bezpečnostní aktualizace a minoritní aktualizace. Nadstandardní úpravy, jako jsou např. provoz vyšších verzí PHP, MySQL nebo [MariaDB](https://www.mydreams.cz/cz/wiki/492-mariadb-5-a-mariadb-10-porozumeni-hlavnim-rozdilum.html "MariaDB"), než doporučují vývojáři operačního systému, nejsou součástí správy a mohou být zpoplatněny.
+2. **Omezení odpovědnosti:** Za nestandardní úpravy (např. dopředná kompatibilita nebo povýšení verzí rozšířeních mimo doporučené verze) nenese provozovatel odpovědnost. Tyto zásahy mohou ovlivnit stabilitu a bezpečnost systému.
+
 X. NDA - Dodatek o mlčenlivosti
 -------------------------------
 
