@@ -128,28 +128,28 @@ Share & discover custom emojis to use on Discord, Slack, Twitch and more.
 * [](https://guilded.gg/emojis)
 * [](https://x.com/discordemoji)
 
-###### Resources
+Resources
 
 * [Custom Emojis](https://emoji.gg/)
 * [Emoji Meanings](https://emoji.gg/meanings)
 * [Emoji Maker](https://emoji.gg/maker)
 * [Emoji Packs](https://emoji.gg/packs)
 
-###### Popular
+Popular
 
 * [Pepe Emojis](https://emoji.gg/emojis/pepe)
 * [Anime Emojis](https://emoji.gg/emojis/anime)
 * [Valorant Emojis](https://emoji.gg/emojis/valorant)
 * [Role Icons](https://emoji.gg/emojis/role-icons)
 
-###### Other Assets
+Other Assets
 
 * [Discord Pfps](https://pfps.gg/)
 * [Discord Themes](https://discordthemes.com/)
 * [Discord Servers](https://disforge.com/)
 * [Discord Bots](https://disforge.com/bots)
 
-###### Emoji.gg Links
+Emoji.gg Links
 
 * [Developer API](https://emoji.gg/developer)
 * [Copyright/DMCA](https://emoji.gg/content)
