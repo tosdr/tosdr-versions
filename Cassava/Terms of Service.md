@@ -1,4 +1,4 @@
-[![Cassava Logo](https://assets.gocassava.com/assets/cassava-logo.png)](https://gocassava.com/)
+[![Cassava Logo](https://assets.gocassava.com/assets/cassava-transparent-logo.png)](https://gocassava.com/)
 
 Intelligent Workplace Training
 
@@ -11,6 +11,10 @@ Integrations
 [Pricing](https://gocassava.com/pricing) [Blog](https://gocassava.com/blog)
 
 [Register](https://gocassava.com/admin/register) [Sign in](https://gocassava.com/admin/sign-in)
+
+Theme  
+
+Light Dark System
 
 Terms of Service
 ================
@@ -196,15 +200,24 @@ If you have a question about any of the Terms of Service, please contact us.
 
 --------------------------------------------------------------------------------
 
-Loading
+  
+  
 
-v3.0.5.6d080f9© 2024 Cassavarose LLC. All rights reserved
+ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.
 
- [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
+Submit
 
- [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
+Submit
+
+[Back to top](#top)
+
+v3.1.0.5591ae8© 2024 Cassavarose LLC. All rights reserved
 
  [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
+
+ [![Why Compliance Training Sucks and How You can Fix It](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
+
+ [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
 
 Company
 
