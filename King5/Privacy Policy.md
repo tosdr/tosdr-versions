@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_360x203.jpg)](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
+    *  [![](https://media.king5.com/assets/KING/images/c25cf973-ca87-4827-9bc0-5330f1265e69/20240930T121200/c25cf973-ca87-4827-9bc0-5330f1265e69_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c25cf973-ca87-4827-9bc0-5330f1265e69/20240930T121200/c25cf973-ca87-4827-9bc0-5330f1265e69_360x203.jpg)](https://www.king5.com/article/news/local/everett/suspect-dead-police-pursuit-fatal-crash-everett/281-59e2ba64-6219-41ad-98fa-5bc732385c7c)
         
-        #### [No Internet, no computers: Hack of Highline Public Schools still impacting staff, students](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
+        #### [Suspect dead after police pursuit ends in fatal crash in Everett](https://www.king5.com/article/news/local/everett/suspect-dead-police-pursuit-fatal-crash-everett/281-59e2ba64-6219-41ad-98fa-5bc732385c7c)
         
-    *  [![](https://media.king5.com/assets/KING/images/5894e0d3-2393-4c04-b037-447afb25d778/20240930T051134/5894e0d3-2393-4c04-b037-447afb25d778_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5894e0d3-2393-4c04-b037-447afb25d778/20240930T051134/5894e0d3-2393-4c04-b037-447afb25d778_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-strike-continues-union-leadership-members-reject-offer/281-be435119-9165-4781-998f-e698387b9e93)
+    *  [![](https://media.king5.com/assets/KING/images/bed2989f-8804-4abc-87fc-7f3429610a6c/20240930T050940/bed2989f-8804-4abc-87fc-7f3429610a6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bed2989f-8804-4abc-87fc-7f3429610a6c/20240930T050940/bed2989f-8804-4abc-87fc-7f3429610a6c_360x203.jpg)](https://www.king5.com/article/news/local/1-killed-another-hospitalized-seatac-house-fire/281-865b7c5b-8ef6-42c7-b98c-013de5db836f)
         
-        #### [Boeing machinists reject 'best and final' offer from company, strike continues](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-strike-continues-union-leadership-members-reject-offer/281-be435119-9165-4781-998f-e698387b9e93)
+        #### [Officials investigating deadly SeaTac house fire that killed 1 resident](https://www.king5.com/article/news/local/1-killed-another-hospitalized-seatac-house-fire/281-865b7c5b-8ef6-42c7-b98c-013de5db836f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/90f7aef4-4037-467c-b001-772851037b26/20240930T052122/90f7aef4-4037-467c-b001-772851037b26_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90f7aef4-4037-467c-b001-772851037b26/20240930T052122/90f7aef4-4037-467c-b001-772851037b26_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
+        
+        #### [Cash, groceries and planes: How you can help after Hurricane Helene](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
+        
+    *  [![](https://media.king5.com/assets/KING/images/821a5e73-d4bd-41b6-b368-7c1b46549820/20240930T120202/821a5e73-d4bd-41b6-b368-7c1b46549820_16x9.jpg) ![](https://media.king5.com/assets/KING/images/821a5e73-d4bd-41b6-b368-7c1b46549820/20240930T120202/821a5e73-d4bd-41b6-b368-7c1b46549820_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
-        
-        #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+47°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
