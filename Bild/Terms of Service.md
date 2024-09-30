@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot
+
+Hollywood- und Country-Star Kris Kristofferson ist tot](https://www.bild.de/unterhaltung/stars-und-leute/hollywood-und-country-star-kris-kristofferson-ist-tot-66f9d850ee5af53f9b2063ac)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
