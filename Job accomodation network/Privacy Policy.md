@@ -7,7 +7,7 @@
 * [For Others](https://askjan.org/info-by-role.cfm#for-others)
 * [ADA Library](https://askjan.org/ADA-Library.cfm)
 * [A to Z Lists](https://askjan.org/a-to-z.cfm)
-* [Accommodation Search](https://askjan.org/soar.cfm)
+* [Situations & Soltuions](https://askjan.org/sitsol/index.cfm)
 * [Publications & Articles](https://askjan.org/publications/index.cfm)
 * [Training](https://askjan.org/events/Training.cfm)
 * [Events](https://askjan.org/events/index.cfm)
@@ -35,13 +35,13 @@
     Library](https://askjan.org/ADA-Library.cfm)
 * [A TO Z  
     LISTS](https://askjan.org/a-to-z.cfm)
-* [ACCOMMODATION  
-    SEARCH](https://askjan.org/soar.cfm)
+* [SITUATIONS  
+    & SOLUTIONS](https://askjan.org/sitsol/index.cfm)
+* [MyJAN](https://askjan.org/myjan/portal.cfm)
 * [PUBLICATIONS  
     & ARTICLES](https://askjan.org/publications/index.cfm)
 * [ABOUT  
     JAN](https://askjan.org/about-us/index.cfm)
-* [MyJAN](https://askjan.org/myjan/portal.cfm)
 
 [_Open Search__Close Search_](#)
 
