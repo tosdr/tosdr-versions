@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
+    
+    Sep 27, 2024 | 5:12 PM EDT
+    
+    ### [LG, Razer and MediaTek develop Bluetooth controller with Ultra-Low Latency](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
+    
     [](https://mobilesyrup.com/2024/09/26/starcraft-remastered-starcraft-ii-pc-game-pass-november/)
     
     Sep 26, 2024 | 4:03 PM EDT
@@ -46,13 +52,13 @@
     
     ### [Ubisoft Quebec’s Assassin’s Creed Shadows has been delayed to 2025](https://mobilesyrup.com/2024/09/25/ubisoft-quebec-assassins-creed-shadows-delay-2025/)
     
-    [](https://mobilesyrup.com/2024/09/24/playstation-state-of-play-september-2024-recap/)
-    
-    Sep 24, 2024 | 7:04 PM EDT
-    
-    ### [Here’s everything shown off during September’s PlayStation State of Play](https://mobilesyrup.com/2024/09/24/playstation-state-of-play-september-2024-recap/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
+        
+        Sep 27, 2024 | 5:12 PM EDT
+        
+        ### [LG, Razer and MediaTek develop Bluetooth controller with Ultra-Low Latency](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
         
         [](https://mobilesyrup.com/2024/09/26/starcraft-remastered-starcraft-ii-pc-game-pass-november/)
         
@@ -84,50 +90,44 @@
         
         ### [Ubisoft Quebec’s Assassin’s Creed Shadows has been delayed to 2025](https://mobilesyrup.com/2024/09/25/ubisoft-quebec-assassins-creed-shadows-delay-2025/)
         
-        [](https://mobilesyrup.com/2024/09/24/playstation-state-of-play-september-2024-recap/)
-        
-        Sep 24, 2024 | 7:04 PM EDT
-        
-        ### [Here’s everything shown off during September’s PlayStation State of Play](https://mobilesyrup.com/2024/09/24/playstation-state-of-play-september-2024-recap/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
+    
+    [](https://mobilesyrup.com/2024/09/30/spotify-french-language-music-streaming-report/)
+    
+    Sep 30, 2024 | 12:01 AM EDT
+    
+    ### [Spotify releases first-ever French-language music/podcast streaming report](https://mobilesyrup.com/2024/09/30/spotify-french-language-music-streaming-report/)
+    
+    [](https://mobilesyrup.com/2024/09/29/black-titanium-apple-watch-ultra-2-looks-extremely-sharp/)
+    
+    Sep 29, 2024 | 2:06 PM EDT
+    
+    ### [The Black Titanium Apple Watch Ultra 2 looks extremely sharp](https://mobilesyrup.com/2024/09/29/black-titanium-apple-watch-ultra-2-looks-extremely-sharp/)
+    
+    [](https://mobilesyrup.com/2024/09/28/ikea-new-brannboll-collection-hands-on/)
+    
+    Sep 28, 2024 | 11:32 AM EDT
+    
+    ### [Ikea’s new Brännboll collection is a welcome addition to my messy gaming setup](https://mobilesyrup.com/2024/09/28/ikea-new-brannboll-collection-hands-on/)
+    
+    [](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
+    
+    Sep 27, 2024 | 5:12 PM EDT
+    
+    ### [LG, Razer and MediaTek develop Bluetooth controller with Ultra-Low Latency](https://mobilesyrup.com/2024/09/27/lg-razer-bluetooth-controller-ultrw-low-latency/)
+    
+    [](https://mobilesyrup.com/2024/09/27/canada-watchos-11-new-sleep-apnea-detection/)
+    
+    Sep 27, 2024 | 2:58 PM EDT
+    
+    ### [Canada approves the WatchOS 11’s new Sleep Apnea detection feature](https://mobilesyrup.com/2024/09/27/canada-watchos-11-new-sleep-apnea-detection/)
     
     [](https://mobilesyrup.com/2024/09/27/microsoft-recall-enhanced-security/)
     
     Sep 27, 2024 | 1:22 PM EDT
     
     ### [Microsoft’s controversial Recall feature will get security improvements, can be uninstalled](https://mobilesyrup.com/2024/09/27/microsoft-recall-enhanced-security/)
-    
-    [](https://mobilesyrup.com/2024/09/27/google-gmail-smart-reply-gemini/)
-    
-    Sep 27, 2024 | 9:47 AM EDT
-    
-    ### [Google boosts Gmail smart replies with Gemini, for a price](https://mobilesyrup.com/2024/09/27/google-gmail-smart-reply-gemini/)
-    
-    [](https://mobilesyrup.com/2024/09/26/google-maps-crack-down-fake-reviews/)
-    
-    Sep 26, 2024 | 5:45 PM EDT
-    
-    ### [Google Maps working to crack down on fake reviews](https://mobilesyrup.com/2024/09/26/google-maps-crack-down-fake-reviews/)
-    
-    [](https://mobilesyrup.com/2024/09/26/starcraft-remastered-starcraft-ii-pc-game-pass-november/)
-    
-    Sep 26, 2024 | 4:03 PM EDT
-    
-    ### [StarCraft: Remastered and StarCraft II coming to PC Game Pass in November](https://mobilesyrup.com/2024/09/26/starcraft-remastered-starcraft-ii-pc-game-pass-november/)
-    
-    [](https://mobilesyrup.com/2024/09/26/google-gemini-older-pixel-buds-soon/)
-    
-    Sep 26, 2024 | 3:03 PM EDT
-    
-    ### [Google will bring Gemini to older Pixel Buds ‘soon’](https://mobilesyrup.com/2024/09/26/google-gemini-older-pixel-buds-soon/)
-    
-    [](https://mobilesyrup.com/2024/09/26/public-mobile-canada-us-calling-texting-data-30-35/)
-    
-    Sep 26, 2024 | 1:20 PM EDT
-    
-    ### [Public Mobile adds Canada/U.S. calling, texting, data to $30, $35 plans](https://mobilesyrup.com/2024/09/26/public-mobile-canada-us-calling-texting-data-30-35/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -397,6 +397,12 @@
         
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
         
+        [](https://mobilesyrup.com/2024/09/30/spotify-french-language-music-streaming-report/)
+        
+        Sep 30, 2024 | 12:01 AM EDT
+        
+        ### [Spotify releases first-ever French-language music/podcast streaming report](https://mobilesyrup.com/2024/09/30/spotify-french-language-music-streaming-report/)
+        
         [](https://mobilesyrup.com/2024/09/26/hbo-first-full-trailer-the-last-of-us-season-2/)
         
         Sep 26, 2024 | 12:38 PM EDT
@@ -426,12 +432,6 @@
         Sep 24, 2024 | 9:01 AM EDT
         
         ### [Roku Ultra + Voice Remote bundle is now available for pre-order](https://mobilesyrup.com/2024/09/24/roku-ultra-voice-remote-bundle/)
-        
-        [](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
-        
-        Sep 20, 2024 | 1:33 PM EDT
-        
-        ### [Arcane’s final season gets staggered release on Netflix in November](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
         
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
         
@@ -512,6 +512,12 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
+    
+    Sep 28, 2024 | 11:07 AM EDT
+    
+    ### [HP OmniBook X Review: My favourite Snapdragon X PC](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
+    
     [](https://mobilesyrup.com/2024/09/25/google-pixel-buds-pro-2-review/)
     
     Sep 25, 2024 | 1:00 PM EDT
@@ -541,12 +547,6 @@
     Sep 19, 2024 | 1:16 PM EDT
     
     ### [iPhone 16 series review: A camera built to give you control](https://mobilesyrup.com/2024/09/19/iphone-16-series-review-a-camera-built-to-give-you-control/)
-    
-    [](https://mobilesyrup.com/2024/09/18/iphone-16-pro-series-review-camera-photographer-focused/)
-    
-    Sep 18, 2024 | 9:28 PM EDT
-    
-    ### [iPhone 16 Pro series review in progress: Searching for the perfect shots](https://mobilesyrup.com/2024/09/18/iphone-16-pro-series-review-camera-photographer-focused/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -588,6 +588,12 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/reviews/reviews-tablets/)
         
+        [](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
+        
+        Sep 28, 2024 | 11:07 AM EDT
+        
+        ### [HP OmniBook X Review: My favourite Snapdragon X PC](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
+        
         [](https://mobilesyrup.com/2024/08/24/surface-pro-11th-edition-review/)
         
         Aug 24, 2024 | 11:03 AM EDT
@@ -617,12 +623,6 @@
         May 20, 2024 | 7:06 PM EDT
         
         ### [Hands-on with Microsoft’s Copilot + PC Surface Laptop and Pro](https://mobilesyrup.com/2024/05/20/hands-on-microsofts-copilot-pc-surface-laptop-pro/)
-        
-        [](https://mobilesyrup.com/2024/05/20/microsoft-announces-new-surface-latop-and-pro/)
-        
-        May 20, 2024 | 1:33 PM EDT
-        
-        ### [Microsoft announces new Surface devices, Copilot + PCs](https://mobilesyrup.com/2024/05/20/microsoft-announces-new-surface-latop-and-pro/)
         
     * [Smart Home](https://mobilesyrup.com/categories/reviews/reviews-smart-home/)
         
@@ -1163,6 +1163,12 @@
     
 * [Business](https://mobilesyrup.com/categories/business/)
     
+    [](https://mobilesyrup.com/2024/09/27/meta-fine-plain-text-password-storage/)
+    
+    Sep 27, 2024 | 4:08 PM EDT
+    
+    ### [Meta hit with $137 million fine over plain text password storage](https://mobilesyrup.com/2024/09/27/meta-fine-plain-text-password-storage/)
+    
     [](https://mobilesyrup.com/2024/09/27/intel-arm-product-division-purchase-report/)
     
     Sep 27, 2024 | 11:43 AM EDT
@@ -1192,12 +1198,6 @@
     Sep 18, 2024 | 3:49 PM EDT
     
     ### [SaskTel seeks judicial review of CRTC wholesale fibre access decision](https://mobilesyrup.com/2024/09/18/sasktel-judicial-review-crtc-wholesale-access-fibre-decision/)
-    
-    [](https://mobilesyrup.com/2024/09/18/statistics-canada-changes-wireless-pricing-tracking/)
-    
-    Sep 18, 2024 | 12:30 PM EDT
-    
-    ### [Statistics Canada changes how it tracks wireless pricing](https://mobilesyrup.com/2024/09/18/statistics-canada-changes-wireless-pricing-tracking/)
     
     * [General](https://mobilesyrup.com/categories/business/general/)
         
@@ -1277,6 +1277,12 @@
         
     * [Security & Privacy](https://mobilesyrup.com/categories/business/business-security/)
         
+        [](https://mobilesyrup.com/2024/09/27/meta-fine-plain-text-password-storage/)
+        
+        Sep 27, 2024 | 4:08 PM EDT
+        
+        ### [Meta hit with $137 million fine over plain text password storage](https://mobilesyrup.com/2024/09/27/meta-fine-plain-text-password-storage/)
+        
         [](https://mobilesyrup.com/2024/05/22/uk-ico-microsoft-recall-privacy-concerns/)
         
         May 22, 2024 | 12:22 PM EDT
@@ -1306,12 +1312,6 @@
         Apr 4, 2024 | 9:07 PM EDT
         
         ### [Google takes down 87 fake investment/crypto apps that scammed victims out of thousands](https://mobilesyrup.com/2024/04/04/google-play-store-fake-investment-crypto-apps/)
-        
-        [](https://mobilesyrup.com/2024/03/28/a-new-wave-of-apple-phishing-attack-is-targeting-users/)
-        
-        Mar 28, 2024 | 8:00 AM EDT
-        
-        ### [A new wave of Apple phishing attacks is targeting users](https://mobilesyrup.com/2024/03/28/a-new-wave-of-apple-phishing-attack-is-targeting-users/)
         
     * [5G & Infrastructure](https://mobilesyrup.com/categories/business/business-infrastructure/)
         
