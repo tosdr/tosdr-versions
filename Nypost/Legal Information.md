@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Israeli strikes kill Hamas leader in Lebanon and three Palestinian leaders in Beirut](https://nypost.com/2024/09/30/world-news/israeli-strikes-kill-hamas-leader-in-lebanon-and-three-palestinian-leaders-in-beirut/)
-
 Privacy Notice Highlights
 =========================
 
