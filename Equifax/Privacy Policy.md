@@ -7,6 +7,68 @@
 * [Personal](https://www.equifax.com/personal/)
 * [Business](https://www.equifax.com/business/)
 
+* [Credit Report Help](#)
+    
+    Close
+    
+    ##### Free Services for Consumers
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_annual.svg)
+    
+    [Get your free weekly credit report](https://www.annualcreditreport.com/)
+    
+    Access a free weekly credit report through www.annualcreditreport.com.
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_dispute.svg)
+    
+    [Dispute information on your Equifax credit report](https://www.equifax.com/personal/credit-report-services/credit-dispute/)
+    
+    Submit a dispute if you notice something is inaccurate or incomplete on your credit report.
+    
+    ![](https://assets.equifax.com/images/us/personal-icons/ucsc_core_credit_upsell_icon.svg)
+    
+    [Get your free credit score and report](https://www.equifax.com/personal/products/credit/free-credit-score/)
+    
+    A monthly free credit score is available as part of Equifax Core Credit™. You'll also receive a monthly Equifax credit report - no credit card required.
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_freeze.svg)
+    
+    [Place a security freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
+    
+    Place or manage a freeze to restrict access to your Equifax credit report, with certain exceptions.
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_free_report.svg)
+    
+    [Get my free Equifax credit report](https://www.equifax.com/personal/credit-report-services/free-credit-reports/)
+    
+    With a myEquifax account, you'll receive multiple Equifax credit reports each year. No credit card required!
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_fraud.svg)
+    
+    [Request a fraud or active duty alert](https://www.equifax.com/personal/credit-report-services/credit-fraud-alerts/)
+    
+    Place an alert on your credit reports to warn lenders that you may be a victim of fraud or on active military duty.
+    
+    ![](https://assets.equifax.com/images/us/personal-icons/kc-rearchitecture_navigation_learn_spanish_edu_55x55.svg)
+    
+    [Obtenga su informe crediticio gratuito de Equifax US en español](https://www.equifax.com/personal/servicios-de-informe-de-credito/reportes-de-credito-gratuito/)
+    
+    Ahora puede obtener su informe crediticio Equifax® de EE. UU. en español en línea o llamando al 1-888-EQUIFAX (presione 8 para hablar con un agente en español).
+    
+    ![](//assets.equifax.com/images/us/personal-icons/military_209x209.png)
+    
+    [Sign up for active duty credit monitoring](https://www.equifax.com/personal/military-credit-monitoring/)
+    
+    Get free credit monitoring if you are an active duty military or National Guard member.
+    
+    ![](//assets.equifax.com/images/us/personal-icons/icon_other_ways.svg)
+    
+    [Other ways to get additional free credit reports](https://www.equifax.com/personal/credit-report-services/multiple-free-credit-reports/)
+    
+    You may be entitled to additional free credit reports in certain circumstances, such as after placing a fraud alert, becoming unemployed or receiving public assistance, or being denied credit or insurance in the past 60 days.
+    
+    [Visit Consumer Services Center](https://www.equifax.com/personal/credit-report-services/)
+    
 * [Support](#)
     
     Close
@@ -474,68 +536,6 @@
     [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/)
     
     Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
-    
-* [Credit Report Help](#)
-    
-    Close
-    
-    ##### Free Services for Consumers
-    
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_annual.svg)
-    
-    [Get your free weekly credit report](https://www.annualcreditreport.com/)
-    
-    Access a free weekly credit report through www.annualcreditreport.com.
-    
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_dispute.svg)
-    
-    [Dispute information on your Equifax credit report](https://www.equifax.com/personal/credit-report-services/credit-dispute/)
-    
-    Submit a dispute if you notice something is inaccurate or incomplete on your credit report.
-    
-    ![](https://assets.equifax.com/images/us/personal-icons/ucsc_core_credit_upsell_icon.svg)
-    
-    [Get your free credit score and report](https://www.equifax.com/personal/products/credit/free-credit-score/)
-    
-    A monthly free credit score is available as part of Equifax Core Credit™. You'll also receive a monthly Equifax credit report - no credit card required.
-    
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_freeze.svg)
-    
-    [Place a security freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
-    
-    Place or manage a freeze to restrict access to your Equifax credit report, with certain exceptions.
-    
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_free_report.svg)
-    
-    [Get my free Equifax credit report](https://www.equifax.com/personal/credit-report-services/free-credit-reports/)
-    
-    With a myEquifax account, you'll receive multiple Equifax credit reports each year. No credit card required!
-    
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_fraud.svg)
-    
-    [Request a fraud or active duty alert](https://www.equifax.com/personal/credit-report-services/credit-fraud-alerts/)
-    
-    Place an alert on your credit reports to warn lenders that you may be a victim of fraud or on active military duty.
-    
-    ![](https://assets.equifax.com/images/us/personal-icons/kc-rearchitecture_navigation_learn_spanish_edu_55x55.svg)
-    
-    [Obtenga su informe crediticio gratuito de Equifax US en español](https://www.equifax.com/personal/servicios-de-informe-de-credito/reportes-de-credito-gratuito/)
-    
-    Ahora puede obtener su informe crediticio Equifax® de EE. UU. en español en línea o llamando al 1-888-EQUIFAX (presione 8 para hablar con un agente en español).
-    
-    ![](//assets.equifax.com/images/us/personal-icons/military_209x209.png)
-    
-    [Sign up for active duty credit monitoring](https://www.equifax.com/personal/military-credit-monitoring/)
-    
-    Get free credit monitoring if you are an active duty military or National Guard member.
-    
-    ![](//assets.equifax.com/images/us/personal-icons/icon_other_ways.svg)
-    
-    [Other ways to get additional free credit reports](https://www.equifax.com/personal/credit-report-services/multiple-free-credit-reports/)
-    
-    You may be entitled to additional free credit reports in certain circumstances, such as after placing a fraud alert, becoming unemployed or receiving public assistance, or being denied credit or insurance in the past 60 days.
-    
-    [Visit Consumer Services Center](https://www.equifax.com/personal/credit-report-services/)
     
 * [Log In](#) [Log In](#)
     
