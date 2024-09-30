@@ -31,6 +31,264 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La sequía impide el brote normal de las frutas en Ecuador
+=========================================================
+
+Además, de la falta de agua hay enfermedades como el moko que afecta al banano
+------------------------------------------------------------------------------
+
+![La producción de duraznos está afectada por las heladas y la época seca. Foto: Archivo EC](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-37-1.jpg)
+
+La sequía de los dos últimos meses ha afectado los cultivos de frutales, en Ecuador. El clima seco cambió drásticamente la brotación de las frutas. La falta de agua ha llevado a que no cuajen adecuadamente, lo que pone en riesgo la producción.
+
+Más noticias
+------------
+
+* [Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?")
+* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
+
+Esto se evidencia en cantones, como Cevallos, en Tungurahua, que se caracteriza por ser una zona rica en frutas.
+
+Avelino Ramírez, de la Asociación de Producción Alternativa, cuenta que la pera recién está empezando a querer brotar por la escasez de agua. Mientras que la manzana, que en 2023 tuvo una producción de 221 toneladas, tampoco está brotando como normalmente ocurre.
+
+Por un lado, este fruticultor explica que disminuyeron totalmente los caudales de agua y por otro no hay las horas frías necesarias para que broten como es debido. Esto ocurría entre junio y agosto.
+
+Los 20 miembros de esta Asociación están haciendo lo imposible para reactivar las plantas. Para esto recurren a abonos orgánicos, líquidos y sólidos.
+
+Las heladas golpean al durazno y la claudia
+-------------------------------------------
+
+Hay variedades de claudia que debían estar cerca de la cosecha y recién están queriendo brotar.  Con las pequeñas lloviznas de los últimos días se han recuperado un poco. 
+
+Pero el problema adicional es que en las madrugadas caen las heladas y luego-de forma brusca- el calor arremete con fuerza.
+
+La claudia de muchos agricultores prácticamente se ha quemado con las heladas. Y, al no contar con agua para regar se quedan sin una defensa húmeda frente a la helada. 
+
+Esto también afecta al durazno. La floración y los frutos cuajados sufren daños. En 2023, el INEC registra que 26 810 árboles de durazno produjeron 150 toneladas. Ahora, la falta de riego agrava la situación.
+
+Escasez de agua en las partes bajas y altas tres provincias
+-----------------------------------------------------------
+
+Los canales de riego, ya sea en las partes bajas como altas, no abastecen como antes a las zonas agrícolas de Tungurahua. Los nevados de El Carihuairazo y parte del Chimborazo, de donde proviene el agua, según los agricultores, están quedando solo piedra.
+
+Esta situación también afecta a los productores de las provincias de Chimborazo y Bolívar, en donde también se cultiva productos de ciclo corto, como el maíz suave.
+
+Pese a este panorama, los productores no pierden la esperanza de que las nuevas variedades de frutas tengan un buen cuajado y que pronto lleguen las lluvias.
+
+El Instituto Nacional de Meteorología e Hidrología (Inamhi) prevé una reactivación gradual de las lluvias en la Sierra y Amazonía en estos días y en octubre. Aunque al inicio serán de baja intensidad.
+
+Cosecha de claudia mango se adelantó
+------------------------------------
+
+Hay agricultores que decidieron adelantar la cosecha de claudia mango, pese a que el fruto no ha desarrollado como es debido. El resto de la cosecha está quedada.
+
+En el caso de la cosecha de la reina claudia, que generalmente, sale desde diciembre hasta abril, está quedada.
+
+La escasez de agua impide que los cultivos alcancen su peso y calidad óptimos. Las plantas requieren un nivel adecuado de humedad para desarrollarse correctamente; sin ella, los frutos pueden ser más pequeños y menos sabrosos. Esto, a su vez tiene un impacto en su valor en el mercado.
+
+La sequía y las enfermedades amenazan al banano
+-----------------------------------------------
+
+Los cultivos de banano también están en crisis. Franklin Torres, presidente de la **Federación Nacional de Bananeros**, señala que la reducción de la producción no se debe solo al clima, sino también a enfermedades como el moko, causada por la bacteria Ralstonia. Esta afectó a cerca de 30 mil hectáreas.
+
+La sequía golpea especialmente a las plantaciones de El Oro, que dependen de canales de riego que actualmente están secos debido a la falta de mantenimiento y al clima seco. Se calcula que 23 mil hectáreas en la provincia han sufrido por la escasez de agua.
+
+En respuesta, la [Asociación de Bananeros de El Oro](https://www.elcomercio.com/actualidad/negocios/bananeros-solicitan-la-declaratoria-de-emergencia-ante-efectos-de-la-sequia.html "Bananeros solicitan la declaratoria de emergencia ante efectos de la sequía") pidió al Gobierno la declaratoria de emergencia en el sector, exigiendo financiamiento para pozos y una reducción de los intereses de los créditos agrícolas.
+
+A pesar de estos desafíos, los precios de la caja de banano han mostrado un comportamiento inusual: el precio promedio de la caja spot supera los ocho dólares, mientras que el precio oficial es de 6,85. Se prevé que estos precios aumenten en los próximos seis meses por la creciente demanda de los países del hemisferio norte.
+
+Por otra parte, Torres destaca que los préstamos y kits agrícolas no llegan a quienes más los necesitan. Recientemente, se planteó al Ministerio de Agricultura un programa de ayuda para combatir la enfermedad del moko y la falta de producción. En una carta formal, solicitaron medidas para implementar microorganismos que ayuden a los productores, así como el apoyo para establecer laboratorios en cada asociación de productores.
+
+Tres provincias cacaoteras están afectadas por la sequía
+--------------------------------------------------------
+
+El sector del cacao también sufre las consecuencias de la sequía. Iván Ontaneda, presidente de Anecacao, informa que las afectaciones se han reportado en Esmeraldas, Manabí y Los Ríos. Las zonas de estribación son las más afectadas. Aunque se han implementado sistemas de riego, muchos productores aún carecen de ellos. Anecacao trabaja en diagnósticos y recomendaciones para el uso óptimo del agua.
+
+Se promueven buenas prácticas agrícolas para conservar la humedad en el suelo y preparar a las plantas para el estrés hídrico. Además, se están realizando ensayos con nuevas alternativas para mejorar la humedad en las fincas de cacao. La incertidumbre en el abastecimiento influye en la producción y, por ende, en los precios en el mercado internacional.
+
+Protagonistas y no cuotas electorales
+=====================================
+
+El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres en la política, para la paridad de género.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial con el prompt: mujeres celebran una victoria electoral.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-20.jpg)
+
+En **Ecuador**, la **paridad** **de** **género** en la **política** se ha convertido en una obligación legal, especialmente de cara a las elecciones de 2025. Sin embargo, la realidad muestra que, aunque la norma se cumple en términos formales, su aplicación práctica revela **profundas** **brechas** en la **participación** **femenina**[.](https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero "https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero")
+
+Este año, con el requisito de inscribir listas con un **50% de mujeres**, se busca corregir la desigualdad de género en la política como un fenómeno estructural. Pero ¿qué tan efectiva es esta medida sin un **cambio estructural** en los partidos y en la sociedad?
+
+> El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio.
+
+La **Constitución** del Ecuador es clara: nadie debe ser discriminado por su **género**. Además, el Código de la Democracia refuerza esta disposición al exigir que las listas de candidatos respeten los principios de equidad, paridad, alternancia y secuencialidad. En teoría, estas normas son un avance para la igualdad de **oportunidades**. No obstante, la falta de estructura interna en los **partidos políticos** y la débil promoción de liderazgos femeninos hacen que, en la práctica, la paridad sea más una **obligación** que un resultado tangible.
+
+El problema de fondo radica en la **ausencia de espacios reales de poder para las mujeres**. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio. Las mujeres que terminan como **candidatas** muchas veces no son militantes ni comparten los principios de los **partidos** que las postulan. Este vacío de formación política dentro de los partidos demuestra la debilidad estructural que atraviesa el sistema político ecuatoriano.
+
+Aunque en el papel se logra la [paridad](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html"), los puestos de poder son dominio de los hombres. De los 16 binomios presidenciales anunciados para las **primarias**, solo dos están encabezados por **mujeres**. Esta cifra es una muestra clara de que la paridad en Ecuador todavía no se traduce en una igualdad efectiva.
+
+Entonces, ¿es suficiente cumplir con la paridad legal para alcanzar la **equidad de género en la política**? La respuesta es no. La paridad, si bien es un avance, debe ir acompañada de una transformación en la cultura política del país. Los partidos y movimientos necesitan fortalecer sus **estructuras** **internas**. Deben promover la formación de liderazgos femeninos genuinos y garantizando que las mujeres tengan un rol activo en la toma de decisiones.
+
+El verdadero cambio vendrá si a las mujeres se las ve como protagonistas y no como cuotas electorales a cumplir. Mientras esto no suceda, la **paridad** seguirá siendo una **norma vacía**. Será una medida que, aunque cumple con los requisitos legales, no logra modificar las dinámicas de poder. Unas que históricamente han marginado a las mujeres de los espacios de decisión.
+
+Las elecciones de 2025 presentan una oportunidad para avanzar en la **equidad** de **género** en la política ecuatoriana, pero el desafío es enorme. Cumplir con la paridad en las listas es un primer paso, pero la verdadera transformación solo llegará cuando los **partidos** y la sociedad entiendan que las mujeres no son solo un número más, sino agentes esenciales para la construcción de un **país más inclusivo y democrático**.
+
+Cartas a Quito / 30 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este lunes 30 de septiembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Un plan maestro de electricidad
+-------------------------------
+
+A propósito de los apagones, se ha escuchado, con mucha frecuencia e intensidad, los reclamos de un sector político y su líder, la mención a un Plan Maestro de Electricidad que ellos dejaron hecho durante su gobierno que duró diez años.
+
+Yo tengo la certeza que un plan maestro, en el campo que sea, es una guía que se debe utilizar, y, que por supuesto, resultaría muy útil de poderlo implementar. Por supuesto que su contenido debería estar acorde a la realidad: necesidades futuras, etapas de implementación.
+
+Sería bastante bueno que no solamente se mencione la existencia de dicho plan, sino que, a grandes rasgos, se nos explique el contenido: ¿Qué construcciones se preveían en el plan?, ¿Cuánta cobertura tenía cada etapa?, ¿En dónde se proponía construir las diferentes etapas?
+
+Tenemos que, en la etapa ejecutada en el gobierno de Correa, se privilegió la construcción de centrales hidroeléctricas, principalmente en la cuenca oriental de la cordillera de los Andes. Un verdadero plan debería contemplar un balance de estas construcciones: ¿Se plantea en ese plan maestro la construcción de centrales hidroeléctricas en la cuenca occidental, como contraparte? ¿Se plantea la construcción de centrales con base en fuentes renovables? ¿Dónde?, ¿Cómo? ¿Cuáles fuentes no renovables?
+
+Nada de esto nos mencionan, y, tampoco, cuáles fueron los recursos asignados a esas construcciones, y el financiamiento para hacerlos, considerando que ese mismo gobierno dejó comprometidos los ingresos petroleros por lo menos hasta 2025. ¿Cómo se debía ejecutar el plan maestro? La única respuesta sería: aumentar impuestos o adquirir deudas para esas construcciones: ¿aguantaría la economía ecuatoriana estas medidas?
+
+Un plan, para que sea maestro, debe cubrir y responder, al menos, todas esas preguntas. Me encantaría que cuando se lo mencione se dé, de manera sucinta, todos los detalles que responden a las preguntas planteadas. Me gustaría unirme al coro de alabanzas a un plan maestro bien hecho.
+
+José M. Jalil Haas
+
+Los depredadores
+================
+
+Actuar con rebeldía e inteligencia contra la codicia de quienes dañan al país para limpiar su reputación.
+---------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+“En la **ecología** la **depredación** es un tipo de **interacción biológica** en la que el individuo de una especie animal caza al individuo de otra especie para subsistir” Es una norma común en el reino animal; pero entre **seres humanos** también hay **depredadores** y son aquellos **individuos violentos**, explotadores y abusivos de otras personas. Se encasillan en ese grupo los asesinos en serie, los violadores, los estafadores, los **terroristas** y los **abusadores infantiles**, tienen características comunes, pues son **engañadores**, **impulsivos**, agresivos y narcisistas.
+
+Nuestro **país** es **víctima** de **asesinatos**, grandes estafas y terrorismo y ha sufrido la **acción destructiva** de varios **depredadores humanos**. Imposible no recordar el “Estallido” de octubre del 2019 y la rebelión de junio del 2022, protagonizados por la Confederación de Nacionalidades Indígenas (CONAIE) y otras **organizaciones** de **indígenas** y campesinos, en las que se infiltraron hordas bolivarianas internacionales y miembros de los CDR (**comités** de la **revolución**) para cerrar carreteras, destruir las calles y las casas de la ciudad capital e incendiar edificios como el de la **Contraloría General** del **Estado**, para incinerar documentos y evidencias de los formidables atracos que se cometieron desde el poder. Las acciones **terroristas** contaron con el apoyo soterrado de dirigentes del **movimiento político** que más daño ha causado al **Ecuador**, pues ha conjuntado a **delincuentes** con narco-políticos y ha trastrocado la mente de la **juventud** que permanece adormecida y confundida, cuando mira como gente que miente y delinque se **enriquece** en forma **fraudulenta** y se mantiene obstinada en volver a dirigir al país para acrecentar su **mal habida riqueza**. El terror de los **habitantes** de la ciudad, al ser atacados, no encontró ni seguridad, ni consuelo en las **autoridades locales** y **provinciales**, pues estaban coligadas con los feroces **depredadores**.
+
+Ha transcurrido poco tiempo y sorpresivamente el **líder prófugo**, reaccionó ante la intervención legítima del gobierno para evitar la fuga del **exvicepresidente** a México desde la embajada de ese país, donde estaba refugiado ilegalmente, pues tenía sentencias por **corrupción** e **intimidación**. El expresidente pidió  a la **comunidad internacional** sanciones para el país que dirigió, su país, el Ecuador, en una vergonzosa actitud que originó una justa demanda de **traición** a la **patria**. Hace pocos días el exmandatario prófugo hizo un símil de la actuación de la CIA en Beirut y lo que podría suceder en **Ecuador**, sugirió atentados que podrían estar orientados a **detonar** varios **edificios** señalados en una lista en la que constan las **fiscalías** de **Quito** y **Guayaquil**, los principales hoteles de ambas ciudades y se podrían incendiar 20 gasolineras, difundir alertas de bombas en 20 centros comerciales, en los aeropuertos, en plantas de **generación eléctrica**, destruir el oleoducto, destruir torres eléctricas para provocar cortes de luz.
+
+Sorpresivamente, los días jueves y viernes de la semana anterior, por primera vez en la **historia nacional**, aparecen, con un inicio casi simultáneo, 7 focos de grandes **incendios** que acabaron con cientos de hectáreas de bosques, pulmones de la ciudad, con gigantescas lenguas de fuego que destruyeron algunas viviendas y exterminaron la **vegetación** y la **fauna silvestre**; mucha gente quedó en extrema **pobreza** y algunas personas sufrieron **síntomas respiratorios** severos. Las **autoridades** han capturado a algunas personas sospechosas de haber sido los **provocadores** de los **incendios**, aparentemente tres de ellos tienen nexos con el correísmo.
+
+Es altamente satisfactorio observar que **autoridades** gubernamentales, municipales y prefectura hayan unido **esfuerzos** para combatir el **avance** del fuego; pero es totalmente repulsivo que el prófugo de Bélgica aproveche la **tragedia** para incentivar a sus partidarios para que destaquen el accionar de su coideario, el alcalde de la ciudad, altamente criticado por su pobre realización, como si se tratase de la única autoridad que ha trabajado en esta noble causa.
+
+El **país** necesita que se efectúe una **investigación completa**, para determinar cuál es la **mente malévola** que ordenó prender el fuego, casi simultáneamente, en diversos sectores. Reaccionemos con **rebeldía** e **inteligencia**, no enfermemos nuestras almas, pero luchemos por terminar con la **codicia** y la **ambición** desmedida de quienes buscan limpiar sus indelebles y manchados nombres a cualquier precio, sin aquilatar el invalorable y múltiple daño, que por conseguirlo, ocasionan.
+
+Gustavo Alfaro anunció la lista de convocados para medir a Ecuador
+==================================================================
+
+El partido ante la Tri se jugará el próximo 10 de octubre, en Quito. Álex Arce, de Liga de Quito, está entre los llamados del técnico.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Gustavo Alfaro, técnico de Paraguay, presentó la lista de 27 convocados para medirse con Ecuador Y Venezuela. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/07/gustavo_alfaro_paraguay.jpg)
+
+### Agencia EFE
+
+El técnico de la selección de **Paraguay**, **Gustavo Alfaro,** difundió la lista de convocados del exterior. Volvió a apostar por **Julio Enciso y Miguel Almirón** de la liga inglesa y el mediocampista del Inter Miami Diego Gómez para los partidos de las Eliminatorias Sudamericanas ante **Ecuador** y Venezuela.
+
+La **Asociación Paraguaya de Fútbol (APF) i**nformó en la red social X que el entrenador argentino **eligió a 27 jugadores que militan en clubes extranjeros** para disputar el duelo contra Ecuador.
+
+El partido se realizará el próximo 10 de octubre en el estadio **Rodrigo Paz Delgado de Quito**, como parte de la novena fecha por las Eliminatorias al Mundial de 2026.
+
+La misma plantilla recibirá en la capital Asunción a la selección de Venezuela el 15 de octubre por la décima fecha.
+
+### Más noticias
+
+* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
+* [Liga de Quito cayó con Delfín y perdió el liderato de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-cayo-con-delfin-y-perdio-el-liderato-de-liga-pro.html "Liga de Quito cayó con Delfín y  perdió el liderato de Liga Pro")
+* [Independiente del Valle ganó y aspira al título de Liga Pro de forma directa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-gano-y-aspira-al-titulo-de-liga-pro-de-forma-directa.html "Independiente del Valle ganó y aspira al título de Liga Pro de forma directa")
+
+La lista de convocados para medir a la Tri
+------------------------------------------
+
+Entre las novedades destacan los jugadores de los clubes argentinos **Saúl Salced**o, el defensa central del **Newell´s Old Boys,** y **Agustín Sánchez, del Rosario Central,** que vestirá la camiseta de la Albirroja tras conseguir la nacionalidad paraguaya.  
+
+Otro nuevo nombre que sorprendió en el listado fue el de **Alfio Ovidio Ovie**do, delantero del Bolívar de La Paz, quien integrará la propuesta ofensiva de Paraguay. 
+
+Además, constan en esta convocatoria el centrocampista del Talleres de Córdoba argentino, **Mathías Galarza.**
+
+En la delantera, Paraguay contará con **Enciso**, el atacante del Brighton inglés; el goleador de la **Liga Deportiva Universitaria de Quito**, **Alex Arce**; Ángel Romero del Corinthians brasileño; Antonio Sanabria del Torino FC italiano; e Isidro Pitta del Cuiabá de Brasil.
+
+Alfaro optó para el medio campo, entre otros, por el extremo del Newcastle de Inglaterra Almirón; Ramón Sosa, que recientemente se unió al Nottingham Forest de la Premier League; Mathías Villasanti del Gremio de Brasil y Andrés Cubas del canadiense Vancouver Whitecaps.
+
+Los últimos resultados de Paraguay
+----------------------------------
+
+Además, volverán a disputar partidos de clasificación al Mundial Omar Alderete del español Getafe, **Fabián Balbuena** del Dinamo de Moscú y **Gustavo Gómez** del brasileño Palmeiras.
+
+Para defender la portería, el seleccionador convocó a **Carlos Coronel** del New York Red Bull de Estados Unidos; Roberto Fernández del Botafogo de Brasil; y Juan Espínoda del Belgrano argentino.
+
+La **Albirroja** viene de lograr un ansiado triunfo 1-0 contra **Brasil** el pasado 10 de septiembre y de empatar en un duelo previo 0-0 con **Uruguay**.
+
+Con estos resultados, **Paraguay** cosechó 9 puntos y ocupa el séptimo puesto de la clasificación sudamericana, que da derecho a jugar por una repesca.
+
+Multas por realizar campaña anticipada previo a las elecciones de 2025
+======================================================================
+
+En Ecuador, 16 precandidatos estarían en la papeleta para las elecciones presidenciales del 9 de febrero de 2025.
+-----------------------------------------------------------------------------------------------------------------
+
+![No se puede realizar campaña anticipada antes de lo establecido en el calendario electoral para las elecciones de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/multas.png)
+
+En Ecuador, **16 precandidatos se inscribieron para integrar la papeleta de las elecciones** presidenciales del 9 de febrero de 2025. A pesar de este número, las candidaturas aún pueden ser impugnadas, lo que podría cambiar la lista final de participantes. Existen distintas multas por realizar campaña anticipada.
+
+La **participación de los binomios se establecerá oficialmente el 30 de diciembre** de 2024, y la campaña electoral comenzará el 5 de enero de 2025.
+
+### Más noticias
+
+* [Consejera Elena Nájera y presidenta Diana Atamaint protagonizan altercado en el CNE](https://www.elcomercio.com/actualidad/politica/consejera-elena-najera-presidenta-diana-atamaint-altercado-cne.html "Consejera Elena Nájera y presidenta Diana Atamaint protagonizan altercado en el CNE")
+* [CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz](https://www.elcomercio.com/actualidad/pabel-munoz-revocatoria-alcalde-cne.html "CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz")
+* [Plazo para pagar multas electorales en el CNE termina](https://www.elcomercio.com/actualidad/politica/plazo-pagar-multas-electorales-cne.html "Plazo para pagar multas electorales en el CNE termina")
+
+El **artículo 208 del Código de la Democracia** menciona que, desde la convocatoria a elecciones hasta el inicio de la campaña electoral, las **organizaciones políticas** podrán realizar actividades para difundir su ideología, programas de **gobierno y planes de trabajo**.
+
+Esto siempre y cuando no implique la contratación en **prensa, radio, televisión, medios digitales y vallas publicitarias**. 
+
+Para esto, se deberá monitorear a más de **500 medios de comunicación a escala nacional** para verificar si una organización política infringió alguna normativa. La **campaña anticipada** es una infracción **electoral grave** que deberá pasar algunos filtros para validar si se incumplió algún artículo dentro del **Código de la Democracia**.
+
+Multas y prohibiciones
+----------------------
+
+De acuerdo con lo tipificado en el artículo **278 del Código de la Democracia**, las multas por infracciones electorales van desde los **11 Salarios Básicos Unificados (SBU)**, es decir, **5 060 dólares**, hasta los **20 SBU, que representan 9 020 dólares**.
+
+También menciona que de ser el caso se pueden **suspender o destituir de los derechos de partici­pación política** desde los **seis meses hasta los dos años**.
+
+> 🇪🇨 | [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) que, con corte a las 09h45 de este viernes 27 de septiembre, 4⃣2⃣ listas han solicitado la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 💻 Este hito del calendario electoral, que se efectúa en línea, concluye a las 18h00 del 2 de octubre.🗳️ [pic.twitter.com/NcCcB7jL4c](https://t.co/NcCcB7jL4c)
+> 
+> — cnegobec (@cnegobec) [September 27, 2024](https://twitter.com/cnegobec/status/1839708928193528129?ref_src=twsrc%5Etfw)
+
+Los candidatos también podrán realizar **impugnaciones** en el momento de ser notificados que fueron sancionados por una infracción electoral. Este proceso también se debe realizar a través del **TCE**.
+
+Se debe tomar en cuenta que con las reformas al Código de la Democracia hubo mucho cambio en las **infracciones electorales**. Ahora se determinan como **leves, graves y muy graves** y dependiendo del cometimiento de la infracción electoral, **el TCE determinará la sanción**.
+
+La imagen, voz y nombre de los candidatos no puede salir en ninguna inauguración de obras. En el caso de las personas que buscan una reelección, no podrán **incitar al voto por su movimiento polític**o. Antes de los plazos determinados no se puede **contratar publicidad electoral en ningún medio de comunicación**.
+
+Control de campaña anticipada en redes sociales
+-----------------------------------------------
+
+El Consejo Nacional Electoral (CNE) aún no supervisará el contenido de las redes sociales de los candidatos para las elecciones de 2025. **Diana Atamaint,** presidenta del CNE, explicó que solo se controlará el **gasto en publicidad, basándose en una sentencia del Tribunal Contencioso Electoral (TCE) de mayo**.
+
+La sentencia del TCE estableció que el control de **publicidad en redes sociales aplica únicamente a candidatos al Consejo de Participación Ciudadana (Cpccs)**. Atamaint aclaró que los demás candidatos, incluidos los presidenciales y legislativos, **no estarán sujetos a esta normativ**a.
+
+> 🪪 Obtén tu Certificado de Votación del [#ReferéndumYConsulta2024](https://twitter.com/hashtag/Refer%C3%A9ndumYConsulta2024?src=hash&ref_src=twsrc%5Etfw).⬇️  
+>   
+> 📍 De forma presencial en nuestras 24 Delegaciones Provinciales Electorales.  
+>   
+> 💻 En línea ingresando a: [https://t.co/7jydYZoM65](https://t.co/7jydYZoM65)  
+>   
+> 🚨 Para obtener el documento, [#PagaTusMultasEnLínea](https://twitter.com/hashtag/PagaTusMultasEnL%C3%ADnea?src=hash&ref_src=twsrc%5Etfw) en los puntos de [@FacilitoRed](https://twitter.com/FacilitoRed?ref_src=twsrc%5Etfw). [pic.twitter.com/Rtgzp6geT3](https://t.co/Rtgzp6geT3)
+> 
+> — cnegobec (@cnegobec) [September 25, 2024](https://twitter.com/cnegobec/status/1838944575982878917?ref_src=twsrc%5Etfw)
+
+**Enrique Pita**, vicepresidente del CNE, subrayó que estas **disposiciones no afectarán a las elecciones presidenciales**, de **asambleístas y parlamentarios andinos de 2025**.
+
+Se espera que en las elecciones de 2027 se implemente una nueva normativa para los vocales del Cpccs, basada en los fallos contra figuras políticas como **Alembert Vera y Pabel Muñoz**. Sin embargo, el CNE mantendrá la regulación de los gastos d**e propaganda en redes sociales, sin intervenir en los contenidos de las campañas**.  
+
 Choi Soon-Hwa, de 80 años, llegó a la final de Miss Universo Corea del Sur 
 ===========================================================================
 
@@ -753,339 +1011,4 @@ Entre el 23 y 27 de septiembre, el **Cuerpo de Bomberos de Quito** atendió 12 i
 
 En agosto, se reportaron 95 incendios forestales y 791 quemas de desechos, mientras que en julio se contabilizaron 154 incendios forestales y 294 quemas de desechos.
 
-Estos incendios forestales dan un total de **1 999,95 hectáreas quemadas** en **Quito**.  
-
-  
-
-  
-
-¿Quién es Danilo Carrera Drouet?
-================================
-
-Danilo Carrera, empresario ecuatoriano, enfrenta arresto domiciliario por presunta corrupción en el caso Encuentro.
--------------------------------------------------------------------------------------------------------------------
-
-![Danilo Carrera está vinculado al caso Encuentro que es investigado por la Fiscalía.](https://www.elcomercio.com/wp-content/uploads/2024/09/danilo.png)
-
-**Danilo Carrera Drouet** es un **economista y empresario ecuatoriano** con una amplia trayectoria en el **sector financiero y público**. Se graduó de la **Universidad de Guayaquil** y realizó estudios de postgrado en administración de empresas en la **Universidad de Houston**.
-
-### Más noticias
-
-* [Cronología del caso Encuentro investigado por Fiscalía, así va el juicio](https://www.elcomercio.com/actualidad/seguridad/cronologia-caso-encuentro-investigado-fiscalia.html "Cronología del caso Encuentro investigado por Fiscalía, así va el juicio")
-* [Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-deja-en-suspenso-decision-sobre-habeas-corpus-de-pablo-muentes.html "Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes")
-* [Primer día de juicio contra Danilo Carrera incluyó nueve testimonios](https://www.elcomercio.com/actualidad/seguridad/comienza-juicio-cunado-guillermo-lasso-caso-encuentro.html "Primer día de juicio contra Danilo Carrera incluyó nueve testimonios")
-
-A lo largo de su carrera, ocupó cargos importantes como presidente del **Colegio de Economistas de Guayaquil, gerente del Banco Central del Ecuador y presidente de la Junta Monetaria del mismo banco**. Además, tuvo un papel activo en la enseñanza, para la formación de economistas y administradores de negocios en Ecuador.
-
-En el ámbito deportivo, Carrera fue presidente del **Comité Olímpico Ecuatoriano entre 1997 y 2013**. En 2021, intentó volver a ocupar el cargo, pero la votación favoreció a otro candidato.
-
-Relación con el Banco Guayaquil
--------------------------------
-
-[Danilo Carrera](https://es.wikipedia.org/wiki/Danilo_Carrera_Drouet "https://es.wikipedia.org/wiki/Danilo_Carrera_Drouet") fue una **figura clave en el Banco Guayaquil**, donde desempeñó el cargo de **presidente del directorio por más de tres décadas**. Esta relación con la entidad financiera se inició en 1984, cuando el grupo Finansur, del cual Carrera formaba parte, adquirió la mayoría de las acciones del banco.
-
-> En una entrevista exclusiva con RTP, Danilo Carrera Drouet se defendió afirmando: “Fui un chivo expiatorio, sacrificado por las circunstancias”.  
->   
-> En enero de 2023, La Posta reveló audios que presuntamente exponen una red de corrupción en empresas estatales, vinculando a… [pic.twitter.com/i6c1bIOXql](https://t.co/i6c1bIOXql)
-> 
-> — RTP Ecuador 96.5 Fm (@RtpEcuador) [September 20, 2024](https://twitter.com/RtpEcuador/status/1837217177319133369?ref_src=twsrc%5Etfw)
-
-En 1993, Carrera fue nombrado presidente del directorio, mientras que **Guillermo Lasso asumió la presidencia ejecutiva de la entidad**.
-
-La alianza entre **Carrera y Lasso** fue fundamental en la evolución del Banco Guayaquil, una de las instituciones financieras más importantes del país.
-
-Carrera mantuvo su puesto como presidente del directorio desde entonces, mientras que **Lasso dejó el banco en 2012 para comenzar su carrera política**. A pesar de la salida de Lasso, Carrera continuó al frente del directorio del banco.
-
-Involucramiento en el caso Encuentro
-------------------------------------
-
-El 9 de enero de 2023, Danilo Carrera fue mencionado en una investigación periodística publicada por el portal La Posta, en la que se le vinculaba con una presunta red de corrupción en el gobierno de Guillermo Lasso.
-
-Según esta publicación, Carrera habría tenido **influencia sobre las decisiones relacionadas con las empresas públicas**, a pesar de no ocupar ningún cargo oficial en el gobierno. La investigación señaló a otras figuras, como **Hernán Luque y Leonardo Cortázar**, como parte de esta red de tráfico de influencias.
-
-> 🆘.[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> ‼️Según la [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), Danilo Carrera Drouet cuñado del ex presidente [@LassoGuillermo](https://twitter.com/LassoGuillermo?ref_src=twsrc%5Etfw) sería el líder de la red de corrupción que operó en el sector eléctrico durante ese gobierno.  
->   
-> ‼️Dentro del [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw) que investiga la Fiscalía, también es señalado… [pic.twitter.com/sKSFE5qVAC](https://t.co/sKSFE5qVAC)
-> 
-> — Tiempo Real (@TiempoRealEC) [September 23, 2024](https://twitter.com/TiempoRealEC/status/1838316801081369008?ref_src=twsrc%5Etfw)
-
-A raíz de esta información, la **Fiscalía General del Estado** inició una investigación que derivó en la unión de los casos conocidos como **León de Troya y Encuentro**. En estos casos, se investiga un esquema de corrupción en empresas públicas y en varias instituciones del Estado.
-
-Defensa y situación legal actual de Danilo Carrera
---------------------------------------------------
-
-Danilo Carrera, ante las acusaciones, sostiene su inocencia y declaró que no existen pruebas que lo vinculen a los hechos investigados. El 24 de noviembre de 2023, la Fiscalía **solicitó prisión preventiva** para varios implicados, incluido Carrera.
-
-Sin embargo, debido a su edad, se le otorgó **arresto domiciliario**. Carrera, en comunicados públicos, reiteró que las acusaciones en su contra no tienen fundamento, y su equipo legal señaló que el proceso presenta irregularidades.
-
-En diciembre de 2023, la **defensa de Carrera** presentó una apelación para revocar el arresto domiciliario. Argumenta que no se le permite ejercer su derecho a la defensa de manera adecuada. Carrera sigue bajo arresto domiciliario mientras se desarrollan las investigaciones correspondientes.
-
-El proceso continúa, y Carrera es uno de los investigados dentro del **marco de esta investigación**. La Fiscalía pidió el pasado 26 de septiembre que **Danilo Carrera** sea condenado por delincuencia organizada.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) concluye con su alegato de cierre y solicita que los 2 procesados sean sentenciados a la pena correspondiente por el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw), además del pago de una reparación material.  
->   
-> Más información ⬇️ [pic.twitter.com/IPuEXzUKxG](https://t.co/IPuEXzUKxG)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 27, 2024](https://twitter.com/FiscaliaEcuador/status/1839477082545422543?ref_src=twsrc%5Etfw)
-
-Según informaron, se dará a conocer oportunamente la **fecha y hora de la reinstalación de la audienci**a. Posterior a esto se emitirá la **decisión final del caso**.
-
-Avanza inscripción de binomios para elecciones 2025, a tres días del fin del plazo
-==================================================================================
-
-El plazo para la inscripción de binomios de acorta. Lo propio para otras candidaturas.
---------------------------------------------------------------------------------------
-
-![La consulta popular 2024 fue la última cita electoral en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/inscripcion.jpg)
-
-El **Consejo Nacional Electoral (CNE)** dio un nuevo reporte del proceso de inscripción de candidaturas para las **elecciones 2025**.
-
-El último corte se emitió la mañana de este domingo, 29 de septiembre de 2024. En este constan **cinco binomios** que postulan a la Presidencia y Vicepresidencia.
-
-### Más noticias
-
-* [Seis binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Seis binomios se inscribieron en el CNE para las elecciones 2025")
-* [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html "Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025")
-* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
-
-Binomios y las elecciones 2025
-------------------------------
-
-El proceso de **inscripción** de las candidaturas para los comicios que serán el 9 de febrero de 2025, empezó el 13 de septiembre y se extenderá hasta la 18:00 del 2 de octubre de 2024.
-
-A poco tiempo de completarse el paso, de los **16 binomios** que se habían anunciado. Hasta este domingo, solo se han inscrito cinco.
-
-De las 584 listas proclamadas en las primarias, solo 123 se han inscrito. Estas incluyen postulaciones para cinco puestos en el Parlamento Andino y **151 en la Asamblea Nacional**.
-
-> 🔴[#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Con corte a las 10h15 de este domingo, 29 de septiembre, 123 listas han solicitado su inscripción a través del sistema en línea del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 🇪🇨🗳️ Este hito del calendario electoral concluye a las 18h00 del 2 de octubre. [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/aOAOysHozF](https://t.co/aOAOysHozF)
-> 
-> — cnegobec (@cnegobec) [September 29, 2024](https://twitter.com/cnegobec/status/1840416388726263989?ref_src=twsrc%5Etfw)
-
-Los cuadros que ya constan
---------------------------
-
-El primer binomio en apuntarse en el CNE fue el de Creo, integrado por Francesco Tabacchi y Blanca Sacancela.
-
-Le siguió el de Centro Democrático, con **Jimmy Jairala** y **Lucía Vallecilla**. De igual forma, Acción Democrática Nacional (ADN), con **Daniel Noboa** y **María José Pinto**.
-
-Del mismo modo, **Andrea González** y **Galo Moncayo** están por Sociedad Patriótica y **Jorge Escala** y **Pacha Terán** por Unidad Popular.
-
-La dupla de la Revolución Ciudadana, conformada por **Luisa González** y **Diego Borja**, aunque acudieron al CNE, este 28 de septiembre, hasta las 11:15 de este domingo, todavía no constaban en el registro.
-
-Las fuentes de la institución indicaron que mientras no se complete todo el trámite en línea, cualquier **inscripción** no se refleja en el registro.
-
-Es importante recordar que la **inscripción** es netamente en línea a través del sistema del organismo electoral. Los postulantes pueden ir a las instalaciones, pero, más allá de un acto simbólico, el trámite no es presencial.
-
-Las candidaturas en firme, tras el proceso de impugnación, se conocerán el **30 de diciembre**.
-
-Inscripciones unipersonales y en lista
---------------------------------------
-
-En la convocatoria a elecciones lanzada por el **CNE** se define que las candidaturas para la Presidencia y sus binomios se consideran unipersonales. 
-
-Para **asambleístas nacionales**, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
-
-En el caso de parlamentarios andinos, las candidaturas son **pluripersonales** y se presentarán en listas completas, por cada candidato principal se presentarán dos suplentes. 
-
-Las listas se conformarán obligatoriamente cumpliendo con los principios de **equidad, paridad, alternancia y secuencialidad** entre mujeres y hombres, tanto para principales como para suplentes.
-
-Las lluvias en Cuenca mejoraron los caudales de dos ríos
-========================================================
-
-El Tomebamba y Machángara llegaron a los mejores niveles de los últimas dos semanas por las precipitaciones registradas el sábado 28 de septiembre.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El río Tomebamba fue el que más creció. Pasó de 1,30 a 2,33 metros cúbicos por segundo, según la Red Hidrometereológica de Cuenca. Giovanny Astudillo/EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-3.jpg)
-
-Los caudales de los ríos **Tomebamba y Machángara**, que atraviesan **Cuenca**, se recuperaron con las lluvias registradas la tarde y noche del sábado 28 de septiembre de 2024.
-
-El Tomebamba fue el que más creció. El caudal subió de 1,30 a 2,33 metros cúbicos por segundo, según la data de la **Red Hidrometereológica de la empresa Etapa, en Cuenca**.
-
-El **Machángara** subió a 1,28 a 1,91 metros cúbicos. Sin embargo, aún están en el nivel considerado como bajo.
-
-Los ríos **Tarqui y Yanuncay** prácticamente se mantuvieron. Este último se ubica en los 1,38 y el primero en 0,52.
-
-### Más noticias
-
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
-* [Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?](https://www.elcomercio.com/actualidad/ecuador/clases-presenciales-quito-retoman-cortes-luz.html "Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?")
-
-Los pronósticos para este domingo 29
-------------------------------------
-
-La **Red Hidrometereológica de Cuenca** ubicó las probabilidades de lluvia en un 70% para la tarde de este domingo 29 y para la noche baja al 44%.
-
-Pese a las lluvias registradas el sábado 28, esta Red sigue considerando que la región se mantiene en condiciones de sequía hidrológica, que empezó hace 79 días.
-
-Según el coordinador de la **Red Hidrometereológica de Etapa, Rigoberto Guerrero,** se requiere que, al menos, llueva durante 10 ó 15 días para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
-
-Además, que llueva durante, por lo menos, una hora y que caiga en las zonas de recarga hídrica. Eso significa que en los **páramos y humedales con cobertura vegetal** para que se almacene.
-
-La lluvia del sábado 28 fue más abundante en el norte de Cuenca, que en las zonas de recarga hídrica de los ríos **Yanuncay y Tomebamba**.
-
-Mafalda cumple 60 años de rebeldía y reflexión
-==============================================
-
-Mafalda, el icónico personaje de Quino, celebra 60 años. Su legado se conmemora con homenajes en diversas ciudades, reflejando su impacto cultural y social.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/PHOTO-2024-09-29-10-55-33.jpg)
-
-**Mafalda**, la célebre creación del humorista gráfico argentino **Quino**, cumple 60 años desde su primera aparición en la prensa el 29 de septiembre de 1964.
-
-Este personaje emblemático ha trascendido generaciones y fronteras, convirtiéndose en un símbolo de la crítica social y la reflexión sobre la humanidad.
-
-Con su mirada inquisitiva y su característico desprecio por las sopas, **Mafalda** ha capturado el corazón de millones alrededor del mundo.
-
-### Más noticias
-
-* [Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal](https://www.elcomercio.com/afull/pepe-aguilar-christian-nodal-cancion.html "Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal ")
-* [Cuida tu alimentación, ejercicios y emociones para preservar tu corazón](https://www.elcomercio.com/empresariales/cuida-alimentacion-ejercicios-emociones-preservar-corazon.html "Cuida tu alimentación, ejercicios y emociones para preservar tu corazón")
-* [WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’](https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html "WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’ ")
-
-Un viaje a través del tiempo
-----------------------------
-
-Desde su concepción, **Mafalda** ha sido un espejo de las inquietudes sociales y políticas de su época.
-
-Nacida en el seno de una familia de clase **media argentina**, la pequeña niña se ha posicionado como una voz crítica ante las injusticias del mundo.
-
-A lo largo de los años, sus **tiras cómicas** han abordado temas como la paz mundial, los derechos humanos y la lucha contra el machismo.
-
-Su creador, **Quino**, solía decir que Mafalda representa una aspiración idealista por un mundo mejor.
-
-Homenajes a en el mundo
------------------------
-
-La celebración del cumpleaños de Mafalda se ha llevado a cabo en diversas ciudades del mundo.
-
-En **Cádiz, España**, el Municipio organizó un emotivo homenaje que incluyó exposiciones y actividades culturales para recordar la relevancia del personaje en la sociedad actual.
-
-Los asistentes pudieron disfrutar de una serie de esculturas y proyecciones que resaltaron los momentos más icónicos de Mafalda y sus amigos.
-
-En **Argentina**, donde todo comenzó, los homenajes no se hicieron esperar. Los fanáticos se reunieron en diferentes puntos de **Buenos Aires** para rendir tributo a esta figura que ha marcado la infancia de muchos.
-
-En **San Telmo**, un barrio emblemático de la ciudad, turistas y locales se acercaron a las esculturas de Mafalda para tomarse fotografías y compartir anécdotas sobre cómo este personaje ha influido en sus vidas.
-
-El legado cultural de Mafalda
------------------------------
-
-A lo largo de seis décadas, **Mafalda** ha sido traducida a más de **30 idiomas** y ha llegado a ser un referente cultural no solo en **Latinoamérica** sino también en **Europa** y otras partes del mundo.
-
-La tira cómica ha sido utilizada en campañas educativas y sociales, reafirmando su papel como agente de cambio. En este sentido, **Mafalda** no solo es un personaje ficticio; es un símbolo que invita a la reflexión sobre temas cruciales que afectan a la humanidad.
-
-Tadej Pogacar conquista el Mundial de Ciclismo
-==============================================
-
-Tadej Pogacar solo confirmó que es el mejor ciclista del mundo y uno de los mejores de la historia.
----------------------------------------------------------------------------------------------------
-
-![Tadej Pogacar es el nuevo campeón del mundo en ciclismo de ruta.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T102602.252.jpg)
-
-El esloveno no se cansa de hacer historia. Con un dominio absoluto y demostrando su mejor versión, **Tadej Pogacar** se consagró campeón del **Mundial de Ciclismo** en Ruta este domingo 29 de septiembre, dejando claro que no tiene rival a su altura.
-
-Este título era uno de los pocos que le faltaba al ‘nuevo caníbal’, una verdadera máquina sobre dos ruedas. Aunque antes no había tenido suerte en el **Mundial**, este año logró coronarse y completar una temporada memorable.
-
-### Más noticias:
-
-* [Las opciones de Ecuador en el Mundial de Ruta de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/opciones-de-ecuador-en-el-mundial-de-ruta-de-ciclismo.html "Las opciones de Ecuador en el Mundial de Ruta de Ciclismo")
-* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
-* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
-
-Así, Pogacar culmina una **campaña histórica**, en la que se impuso en el Giro de Italia, el **Tour de Francia** y ahora el Mundial de Ciclismo.
-
-Tadej Pogacar, el nuevo campeón del mundo
------------------------------------------
-
-La prueba de ruta se llevó a cabo el domingo 29 de septiembre, comenzando a las 03:30 (hora de Ecuador). El recorrido abarcó una distancia de 273,9 kilómetros, extendiéndose desde Winterthur hasta Zúrich.
-
-**Tadej** **Pogacar** comenzó a forjar su victoria desde las etapas iniciales de la competición. Eslovenia contaba con un gran equipo, con ‘Pogie’ como líder y Primož Roglič como un gregario de lujo, pero su estrategia de equipo se descompuso rápidamente.
-
-![Tadej Pogacar es el nuevo campeón del mundo en ciclismo de ruta.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T100325.077-1024x683.jpg)
-
-A 100 kilómetros de la meta, aprovechando las **falencias del equipo belga**, uno de los más fuertes, con **Remco** **Evenepoel** como figura destacada, Pogacar realizó un ataque arriesgado.
-
-Esto fue sorprendente, dada la distancia que aún faltaba, pero Pogacar confió en su capacidad, respaldada por todo lo que había demostrado durante el año. En el Mundial, no fue la excepción.
-
-Logró despegarse de sus rivales hasta cruzar la meta y **consagrarse campeón con un tiempo de 6:27:30** horas.
-
-El podio lo completaron Ben O’Connor, el australiano, en segundo lugar a 34 segundos del líder, y Mathieu van der Poel, que no pudo defender la corona y terminó en tercer lugar a 58 segundos.
-
-> HISTORIC 👑👑👑  
->   
-> Men Elite UCI World Champion 🌈 for Tadej Pogačar,[#Zurich2024](https://twitter.com/hashtag/Zurich2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/TGJ4CLoiO1](https://t.co/TGJ4CLoiO1)
-> 
-> — UCI (@UCI\_cycling) [September 29, 2024](https://twitter.com/UCI_cycling/status/1840410810721378413?ref_src=twsrc%5Etfw)
-
-Ecuador en el Mundial
----------------------
-
-Ecuador no tuvo suerte en este **Mundial**, ya que perdió a varios de sus integrantes antes de la competencia. Primero se bajó Jonathan Narváez por lesión y luego se sumó la principal figura, Richard **Carapaz**, por temas personales. A última hora, Jefferson Cepeda también fue baja tras dar positivo por COVID-19.
-
-Finalmente, solo compitieron Alexander Cepeda y Jonathan Caicedo. Ninguno terminó la competición.
-
-En el Día del Corazón conoce sobre salud cardiovascular y hábitos saludables 
-=============================================================================
-
-Conoce la importancia de la salud cardiovascular y cómo hábitos saludables pueden prevenir enfermedades.
---------------------------------------------------------------------------------------------------------
-
-![Las enfermedades cardiovasculares son una de las principales causas de muerte a nivel mundial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-corazon.jpg)
-
-El **Día Mundial del Corazón** se conmemora el 29 de septiembre. Desde el año 2000, la **Federación Mundial del Corazón**, con el apoyo de la **Organización Mundial de la Salud** (OMS), estableció esta fecha.
-
-### Más noticias
-
-* [Celebremos el Día Mundial del Corazón con Girasol](https://www.elcomercio.com/empresariales/celebremos-dia-mundial-corazon-girasol.html "https://www.elcomercio.com/empresariales/celebremos-dia-mundial-corazon-girasol.html")
-* [Insuficiencia cardíaca congestiva: ¿cuáles son los síntomas y el tratamiento?](https://www.elcomercio.com/tendencias/salud/insuficiencia-cardiaca-congestiva-sintomas-tratamiento.html "https://www.elcomercio.com/tendencias/salud/insuficiencia-cardiaca-congestiva-sintomas-tratamiento.html")
-
-Su objetivo es concienciar sobre las **enfermedades cardiovasculares** y su prevención, control y tratamiento, según la página de [Salud Castilla y León](https://www.saludcastillayleon.es/AulaPacientes/es/dias-mundiales-relacionados-salud/dia-mundial-corazon#:~:text=El%20D%C3%ADa%20Mundial%20del%20Coraz%C3%B3n,su%20prevenci%C3%B3n%2C%20control%20y%20tratamiento. "https://www.saludcastillayleon.es/AulaPacientes/es/dias-mundiales-relacionados-salud/dia-mundial-corazon#:~:text=El%20D%C3%ADa%20Mundial%20del%20Coraz%C3%B3n,su%20prevenci%C3%B3n%2C%20control%20y%20tratamiento."). 
-
-**Afecciones al corazón** 
---------------------------
-
-Siguiendo con la misma fuente, las **enfermedades cardiovasculares** representan la **principal causa de muerte a nivel global**. Cada año, más de 17 millones de personas pierden la vida por **infartos de miocardio y accidentes cerebrovasculares**. Esta cifra podría aumentar a 23 millones para el año 2030 si no se toman medidas adecuadas. 
-
-**Condiciones subyacentes** 
-----------------------------
-
-La mayoría de estas enfermedades están asociadas a **condiciones subyacentes**. Factores como **la diabetes, la obesidad, el tabaquismo, el alcoholismo y el estrés** son desencadenantes comunes. Por ello, es esencial comprender la importancia del corazón en nuestra vida y las **formas en que debemos cuidarlo**. 
-
-**La responsabilidad de cuidar el corazón** 
---------------------------------------------
-
-Cuidar el corazón no es solo responsabilidad de quienes han sido diagnosticados con **afecciones cardíacas**. Este es un tema que concierne a todos. La **salud cardiovascular** está íntimamente relacionada con nuestro **estilo de vida**. Mantener **hábitos saludables** es fundamental para **proteger nuestro corazón**. 
-
-**La prevención es clave** 
----------------------------
-
-La prevención es clave en la **lucha contra las enfermedades cardiovasculares** (ECV). Según **Vladimir Ullauri**, docente de la Escuela de Medicina de la UIDE, adoptar **hábitos saludables** reduce significativamente el riesgo de **sufrir infartos**, insuficiencia cardíaca o accidentes cerebrovasculares. 
-
-**Hábitos saludables** 
------------------------
-
-Ullauri es claro: una **alimentación balanceada y el ejercicio regular** son fundamentales. **Evitar el consumo de tabaco y alcohol** también contribuye a mantener un **corazón sano**. Además, es crucial controlar factores de riesgo como la hipertensión, la diabetes y el colesterol elevado. 
-
-**Importancia del diagnóstico precoz** 
----------------------------------------
-
-De acuerdo  con Ullauri, el **diagnóstico precoz de las ECV** permite iniciar un tratamiento oportuno. Realizar **chequeos médicos periódicos** es esencial para detectar a tiempo cualquier signo de alarma. Prestar atención a factores como la hipertensión, el colesterol alto, la diabetes y la obesidad puede marcar la diferencia. 
-
-**Tratamiento integral y personalizado** 
------------------------------------------
-
-El **tratamiento de las ECV** debe ser integral y personalizado. Cada paciente necesita un enfoque que considere su condición médica y sus factores de riesgo específicos.  
-
-El **control estricto de la presión arterial**, los niveles de glucosa y colesterol, así como la adherencia a los tratamientos prescritos, son esenciales, indica Ullauri. Esto no solo mejora la calidad de vida, sino que también **previene complicaciones graves**. 
-
-**Una responsabilidad compartida** 
------------------------------------
-
-Cuidar nuestro corazón es una responsabilidad compartida. Adoptar un **estilo de vida saludable** y estar atentos a los riesgos son pasos vitales para mantener la **salud cardiovascular**.
+Estos incendios forestales dan un total de **1 999,95 hectáreas quemadas** en **Quito**.
