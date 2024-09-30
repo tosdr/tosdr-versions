@@ -10,7 +10,7 @@
 * [Tags](http://www.grannytube.net/tag-list/)
 * [Channels](http://www.grannytube.net/channel/)
 * [live cams](https://go.bbrdbr.com/?campaignId=videos&userId=5ee8cbf1f3533d9bcb51e292e0d02f5dc71df85d02842e5e92313215c4879235)
-* [dating](http://a.bestcontentprovider.top/loader?a=4791951&s=4780026&t=94&p=6127)
+* [dating](http://a.labadena.com/api/direct/482186?s1=%subid1%&kw=)
 * English
     
     * [English](http://www.grannytube.net/dmca/)
