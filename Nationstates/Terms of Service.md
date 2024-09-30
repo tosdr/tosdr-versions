@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (887)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (887 posts)")
-* [What Music Are You Listening to? v18 (11,410)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,410 posts)")
-* [News Feed Socialist Republic Rugenia… (7)](https://forum.nationstates.net/viewtopic.php?t=555682&f=23&view=unread#unread ""News Feed Socialist Republic Rugenia (RTV1)" (7 posts)")
-* [The One Spacecraft \[Ooc\] \[Ft\] (63)](https://forum.nationstates.net/viewtopic.php?t=554746&f=31&view=unread#unread ""The One Spacecraft [Ooc] [Ft]" (63 posts)")
+* [Guess The AN Ideology based on their… (1,641)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,641 posts)")
+* [NS Cliches II: Re-Rebooted (9,607)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,607 posts)")
+* [Monthly Collection Contests - Hosted… (36)](https://forum.nationstates.net/viewtopic.php?t=547310&f=42&view=unread#unread ""Monthly Collection Contests - Hosted by TWP, Open to Anyone!" (36 posts)")
+* [LGBT Rights summary table in YN (76)](https://forum.nationstates.net/viewtopic.php?t=552313&f=23&view=unread#unread ""LGBT Rights summary table in YN" (76 posts)")
+* [How did YNs leader come to power? (187)](https://forum.nationstates.net/viewtopic.php?t=535265&f=23&view=unread#unread ""How did YNs leader come to power?" (187 posts)")
 
 Advertisement
 
