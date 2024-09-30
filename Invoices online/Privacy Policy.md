@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=77023097)  
-Lizzy Pop PTY(Ltd)
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=40877078)  
+Import Maaw
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=65419742)  
-Cooper Power South Africa (Pty) LTD
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=45822011)  
+Waterfinatics Swim School
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=71500769)  
-van Schaik rentals
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=199982980)  
+NIMAWELL
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=160400763)  
-Frameless Fanatix (Pty) Ltd.
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=166514143)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=19101031)  
-Salvage Genie
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=172718311)  
+Immediate Health (pty)ltd
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=87967677)  
-United Paintball Federation
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=174183042)  
+Repairs In Motion
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=192168756)  
-APTV Telecoms CC
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=22851007)  
+Three Moons Emporium
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=37957694)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=60052372)  
+Lemba Truck Stop
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=63532287)  
-CBR Verwe/Paints
-
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=149910861)  
-Meyer Towing & Recovery
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=165207276)  
-SR Travel Services
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=117770836)  
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=108358880)  
 Forgotten Goods (Pty) Ltd
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=187343564)  
-VIR Electrical (PTY) LTD
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=146255501)  
+All Trucking Solutions
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=183082759)  
-MONSTER SECURITY GUARDING
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=152507424)  
+Nilbet T/A Waterman
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f117cf924cfb99ee28221d4c3be51ad9cef0dcb30a5d978d9dc26fe124efd0a4&c=173358635)  
-Website Café (PTY) LTD
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=52197511)  
+Iurus Inc
+
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=20163998)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=64432429)  
+Quad Biking Cape Town
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=108114626)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
