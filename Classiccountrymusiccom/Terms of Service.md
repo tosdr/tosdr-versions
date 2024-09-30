@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Kris Kristofferson’s “A Star Is Born”...](https://classiccountrymusic.com/kris-kristoffersons-a-star-is-born-co-star-barbra-streisand-reacts-to-new-of-his-death/)
 * [Country Music Legend Kris Kristofferson Dies...](https://classiccountrymusic.com/country-music-legend-kris-kristofferson-dies-at-88/)
 * [Chris Stapleton Delivers “Brilliant” Cover Of...](https://classiccountrymusic.com/chris-stapleton-delivers-brilliant-cover-of-willie-nelsons-angel-flying-too-close-to-the-ground/)
-* [Flashback: George Jones’ Wife Accepts His...](https://classiccountrymusic.com/flashback-george-jones-wife-accepts-his-cma-award-while-hes-in-the-bathroom/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
