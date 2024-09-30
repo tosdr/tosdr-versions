@@ -57,5 +57,3 @@ If you have any questions about our Website, please contact us at dataprotection
 
 * [Privacy Policy](https://skullcandyus.myshopify.com/policies/privacy-policy)
 * [Terms of Use](https://skullcandyus.myshopify.com/policies/terms-of-service)
-
-//
