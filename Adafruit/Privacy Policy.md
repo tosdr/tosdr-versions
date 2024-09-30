@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it”
+“ Mistakes are always forgivable, if one has the courage to admit them”
 
-[Annie Easley](http://en.wikipedia.org/wiki/Annie_Easley)
+[Bruce Lee](https://en.wikipedia.org/wiki/Bruce_Lee)
 
 [](https://www.adafruit.com/about)
 
