@@ -142,6 +142,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 28, 2024
+
+> Excellent Experience with Shann
+
+> Our experience with Safari.com was excellent. Shann was very helpful throughout the whole experience, from providing multiple options during the booking process to helping us during the trip if we ever had any questions. Everything was organised to perfection, and I would highly recommend Shann to anyone looking to book a holiday with Safari.com.
+
+Thomas Warren
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 27, 2024
 
 > Excellent service from Tracey-lee Losper
@@ -251,20 +265,6 @@ Tlotlang Moletsang
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 23, 2024
-
-> Highly Recommend - Thank you Nicole!
-
-> I recently booked a safari in South Africa through Safari.com, and I couldn't be more pleased with the experience. Nicole, who assisted me throughout the process, was an absolute delight to work with. She was not only extremely responsive but also highly professional and friendly, which made the entire booking experience smooth and stress-free. Thank you Nicole!
-
-Kimberley
-
-,
-
-AU
 
 VIP service
 
