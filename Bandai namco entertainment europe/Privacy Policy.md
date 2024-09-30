@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Boruto Uzumaki (Karma Progression) is now available in NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS](https://en.bandainamcoent.eu/naruto/news/boruto-uzumaki-karma-progression-now-available-naruto-x-boruto-ultimate-ninja-storm)
 * [DRAGON BALL Xenoverse 2 Reveals the Teaser Trailer of the FUTURE SAGA Chapter 2](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-xenoverse-2-reveals-the-teaser-trailer-of-the-future-saga-chapter-2)
-* [DRAGON BALL: Sparking! ZERO: Know Your Fighters!](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-know-your-fighters)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
