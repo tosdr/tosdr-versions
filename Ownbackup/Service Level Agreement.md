@@ -126,6 +126,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Shared Responsibility Model Part One: Six Quick Ways Salesforce Admins Can Improve Their Org’s Security Posture](https://www.ownbackup.com/blog/shared-responsibility-model-six-quick-ways-salesforce-admins-can-improve-their-orgs-security-posture)
+
 [Government
 
 Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Agencies](https://www.ownbackup.com/blog/ensuring-operational-continuity-creating-realistic-rto-rpo-for-government-agencies)
@@ -133,10 +137,6 @@ Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Age
 [On-Platform Development
 
 The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
-
-[Salesforce
-
-Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
 
 Company
 
@@ -348,6 +348,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Shared Responsibility Model Part One: Six Quick Ways Salesforce Admins Can Improve Their Org’s Security Posture](https://www.ownbackup.com/blog/shared-responsibility-model-six-quick-ways-salesforce-admins-can-improve-their-orgs-security-posture)
+
 [Government
 
 Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Agencies](https://www.ownbackup.com/blog/ensuring-operational-continuity-creating-realistic-rto-rpo-for-government-agencies)
@@ -355,10 +359,6 @@ Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Age
 [On-Platform Development
 
 The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
-
-[Salesforce
-
-Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
 
 Company
 
