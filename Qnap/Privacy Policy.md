@@ -502,7 +502,7 @@ QTS is the operating system for entry- and mid-level QNAP NAS. WIth Linux and ex
     * [Virtualization Station](https://www.qnap.com/go/software/virtualization-station)
 * ###### Storage Management
     
-    * [Overview](https://www.qnap.com/go/solution/storage-management/)
+    * [Storage & Snapshots](https://www.qnap.com/go/solution/storage-management/)
     * [DA Drive Analyzer](https://www.qnap.com/go/software/da-drive-analyzer)
     * [Qtier](https://www.qnap.com/go/solution/qtier)
     * [SSD Cache](https://www.qnap.com/go/solution/ssd-cache)
@@ -583,7 +583,7 @@ QuTS hero is the operating system for high-end and enterprise QNAP NAS models. W
 
 * [QuTS hero Overview](https://www.qnap.com/go/operating-system/quts-hero)
 * [h5.2 New Features](https://www.qnap.com/go/operating-system/quts-hero/5.2.0)
-* [Storage & Snapshot](https://www.qnap.com/go/solution/snapshots-protection-quts-hero/)
+* [Storage & Snapshot](https://www.qnap.com/go/solution/storage-management)
 * [Backup & Restore](https://www.qnap.com/go/solution/backup-and-restoration)
 * [Real-time SnapSync Disaster Recovery](https://www.qnap.com/go/solution/zfs-snapsync/)
 * [Network & Virtual Switch](https://www.qnap.com/go/software/network-virtual-switch)
@@ -612,6 +612,7 @@ QuTS hero is the operating system for high-end and enterprise QNAP NAS models. W
     * [Virtualization Station](https://www.qnap.com/go/software/virtualization-station)
 * ###### Storage Management
     
+    * [Storage & Snapshots](https://www.qnap.com/go/solution/storage-management)
     * [DA Drive Analyzer](https://www.qnap.com/go/software/da-drive-analyzer)
     * [SSD Cache](https://www.qnap.com/go/solution/ssd-cache)
     * [QuTS hero Snapshots](https://www.qnap.com/go/solution/snapshots-protection-quts-hero/)
