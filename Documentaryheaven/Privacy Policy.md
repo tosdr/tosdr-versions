@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Manchester The Night of The Bomb](/wp-content/thumbnails/14091-100x70.jpg?x53432)
+* [![The Race For The Future Car](/wp-content/thumbnails/2302-100x70.png?x53432)
     
-    Manchester The Night of The Bomb
+    The Race For The Future Car
     
-    On 22 May 2017, the deadliest terror attack in Britain since 7/7 took place. It was carried out by a man who himself was born and raised in very city he attacked. Salman Abedi detonated a homemade bom](https://documentaryheaven.com/manchester-night-of-bomb/ "Manchester The Night of The Bomb")
-* [![The Way of All Flesh](/wp-content/thumbnails/2339-100x70.jpg?x53432)
+    With rising temperatures and rising gas prices, cars need to become greener fast. And superficially, the large car manufacturers seem to work hard to improve the fuel efficiency of their products. But](https://documentaryheaven.com/the-race-for-the-future-car/ "The Race For The Future Car")
+* [![The Girls With Too Much Skin](/wp-content/thumbnails/6105-100x70.png?x53432)
     
-    The Way of All Flesh
+    The Girls With Too Much Skin
     
-    In 1951, a woman died in Baltimore, America. She was called Henrietta Lacks. These are cells from her body. They were taken from her just before she died. They have been growing and multiplying ever s](https://documentaryheaven.com/the-way-of-all-flesh/ "The Way of All Flesh")
-* [![Churchill: The Nation’s Farewell](/wp-content/thumbnails/9558-100x70.jpg?x53432)
+    Extraordinary People looks at sisters Lucy and Hannah Betts, and Dana and Lara Bowen, who have the genetic disorder Harlequin Ichthyosis, which makes their skin grow at an abnormal rate. This report f](https://documentaryheaven.com/the-girls-with-too-much-skin/ "The Girls With Too Much Skin")
+* [![Dr. Money And The Boy With No Penis](/wp-content/thumbnails/2917-100x70.jpg?x53432)
     
-    Churchill: The Nation’s Farewell
+    Dr. Money And The Boy With No Penis
     
-    On the night of the 29th of December 1940, German bombers struck London with a vengeance. At these darkest of hours Britain's   Prime Minister recognised the huge importance of saving one bu](https://documentaryheaven.com/churchill-nations-farewell/ "Churchill: The Nation’s Farewell")
-* [![What’s Killing Our Bees](/wp-content/thumbnails/7827-100x70.jpg?x53432)
+    This is a documentary about one of twin boys whose penis got burned off during circumcision. The boy would be scarred for life and would have to live with terrible psychological consequences… unless h](https://documentaryheaven.com/dr-money-and-the-boy-with-no-penis/ "Dr. Money And The Boy With No Penis")
+* [![Britain’s Secret Death Squad](/wp-content/thumbnails/8548-100x70.jpg?x53432)
     
-    What’s Killing Our Bees
+    Britain’s Secret Death Squad
     
-    Bill Turnbull investigates one of the biggest mysteries in the British countryside: what is killing our bees. It is a question that generates huge controversy. Changes in the weather, pesticides and e](https://documentaryheaven.com/whats-killing-our-bees/ "What’s Killing Our Bees")
-* [![Killing Gaza](/wp-content/thumbnails/16523-100x70.jpg?x53432)
+    BBC's Panorama set about investigating the story of a secret British army unit set up to deal with any enemies of the state, on the streets of the United Kingdom, primarily Northern Ireland during the](https://documentaryheaven.com/britains-secret-death-squad/ "Britain’s Secret Death Squad")
+* [![The Smash Brothers](/wp-content/thumbnails/8406-100x70.png?x53432)
     
-    Killing Gaza
+    The Smash Brothers
     
-    Killing Gaza is a film created by two independent journalists Max Blumenthal and Dan Cohen, it is a detailed account of Israel’s 2014 assault on Gaza, a conflict that lasted 7 weeks (8 July – 26 Aug](https://documentaryheaven.com/killing-gaza/ "Killing Gaza")
+    The Smash Brothers is a 9 episode documentary web series created by East Point Pictures, it explores the in depth competitive gaming world of Super Smash Bros Melee, interviewing some of the scenes to](https://documentaryheaven.com/smash-brothers/ "The Smash Brothers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
