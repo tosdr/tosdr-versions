@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/?language=en)
+    [Post](https://www.ofcom.org.uk/post/)
     
     Ofcom's job is to make sure there is a universal postal service.
     
@@ -135,9 +135,15 @@
 
 [![Young woman outdoors listening to a podcast on her smartphone](/siteassets/resources/images/-news-centre/thumbnail-images/radio/young-woman-outdoors-listening-to-a-podcast-on-her-smartphone.jpg?width=1920&height=1085&quality=80)
 
-### Top listening trends for World Podcast Day
+### Top listening trends for International Podcast Day
 
-30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-world-podcast-day/)
+30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-international-podcast-day/)
+
+[![Telegraph pole HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/telegraph-pole-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom investigates broadband network BRSK’s installation of telegraph poles
+
+30 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/)
 
 [![bbc ceefax web1](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ceefax-web1.jpg?width=1920&height=1085&quality=80)
 
@@ -150,12 +156,6 @@
 ### Ofcom sets gold medal standard at Paris Games
 
 18 September 2024](https://www.ofcom.org.uk/spectrum/frequencies/ofcom-sets-gold-medal-standard-at-paris-games/)
-
-[![Broadband-engineers laying fibre optic cable (1336 × 520px)](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/broadband-engineers-laying-fibre-optic-cable-1336--520px.jpg?width=1920&height=1085&quality=80)
-
-### Customers to get clearer broadband information
-
-16 September 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/customers-to-get-clearer-broadband-information/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
