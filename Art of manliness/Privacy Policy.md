@@ -272,6 +272,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Plan, Organize, and Execute a Convoy](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
+[![A green car driving down a hill, seemingly on the verge of plunging off a cliff.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-a-car-hanging-off-a-cliff/)
+
+[Skill of the Week: Escape a Car Hanging Off a Cliff](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-a-car-hanging-off-a-cliff/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
 
 [7 Ways to Help Your Kids Enjoy Hiking](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A man is digging a hole in the ground to make a fighting hole.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
 
 [Skill of the Week: Make a Marine Corps Fighting Hole](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
-
-[![How to survive a plunge in a pool.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
-
-[Skill of the Week: Survive a Plunge Down a Waterfall](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
