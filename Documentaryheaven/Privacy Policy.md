@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Race For The Future Car](/wp-content/thumbnails/2302-100x70.png?x53432)
+* [![Inside The Mind Of Adolf Hitler](/wp-content/thumbnails/7901-100x70.jpg?x53432)
     
-    The Race For The Future Car
+    Inside The Mind Of Adolf Hitler
     
-    With rising temperatures and rising gas prices, cars need to become greener fast. And superficially, the large car manufacturers seem to work hard to improve the fuel efficiency of their products. But](https://documentaryheaven.com/the-race-for-the-future-car/ "The Race For The Future Car")
-* [![The Girls With Too Much Skin](/wp-content/thumbnails/6105-100x70.png?x53432)
+    Inside The Mind Of Adolf Hitler is a documentary, with dramatised elements, looking at the psychological profile of Adolf Hitler compiled by a team of Harvard psychologists in 1943.The film interviews](https://documentaryheaven.com/inside-mind-adolf-hitler/ "Inside The Mind Of Adolf Hitler")
+* [![Coelacanth: The Fish That Time Forgot](/wp-content/thumbnails/6683-100x70.png?x53432)
     
-    The Girls With Too Much Skin
+    Coelacanth: The Fish That Time Forgot
     
-    Extraordinary People looks at sisters Lucy and Hannah Betts, and Dana and Lara Bowen, who have the genetic disorder Harlequin Ichthyosis, which makes their skin grow at an abnormal rate. This report f](https://documentaryheaven.com/the-girls-with-too-much-skin/ "The Girls With Too Much Skin")
-* [![Dr. Money And The Boy With No Penis](/wp-content/thumbnails/2917-100x70.jpg?x53432)
+    Broadcast (2001) It was thriving long before the dinosaurs ruled the Earth, and scientists thought it had died out more than 65 million years ago. But in 1938, fishermen on a South African trawler net](https://documentaryheaven.com/coelacanth-the-fish-that-time-forgot/ "Coelacanth: The Fish That Time Forgot")
+* [![Trouble In Amish Paradise](/wp-content/thumbnails/10759-100x70.jpeg?x53432)
     
-    Dr. Money And The Boy With No Penis
+    Trouble In Amish Paradise
     
-    This is a documentary about one of twin boys whose penis got burned off during circumcision. The boy would be scarred for life and would have to live with terrible psychological consequences… unless h](https://documentaryheaven.com/dr-money-and-the-boy-with-no-penis/ "Dr. Money And The Boy With No Penis")
-* [![Britain’s Secret Death Squad](/wp-content/thumbnails/8548-100x70.jpg?x53432)
+    Just a few hours drive from the noisy streets of Philadelphia and New York, there is another world. It is a world that seems to be frozen in time, home to a people who's way of life has barely ch](https://documentaryheaven.com/trouble-in-amish-paradise/ "Trouble In Amish Paradise")
+* [![Children Full of Life](/wp-content/thumbnails/2648-100x70.jpg?x53432)
     
-    Britain’s Secret Death Squad
+    Children Full of Life
     
-    BBC's Panorama set about investigating the story of a secret British army unit set up to deal with any enemies of the state, on the streets of the United Kingdom, primarily Northern Ireland during the](https://documentaryheaven.com/britains-secret-death-squad/ "Britain’s Secret Death Squad")
-* [![The Smash Brothers](/wp-content/thumbnails/8406-100x70.png?x53432)
+    This is a very moving award-winning documentary from Japan NHK which follows the life of a class of 10 year old students through an academic year in which they learn more about the realities of life a](https://documentaryheaven.com/full-of-life/ "Children Full of Life")
+* [![Future Weapons: Future Combat S2/E12](/wp-content/thumbnails/1895-100x70.jpg?x53432)
     
-    The Smash Brothers
+    Future Weapons: Future Combat S2/E12
     
-    The Smash Brothers is a 9 episode documentary web series created by East Point Pictures, it explores the in depth competitive gaming world of Super Smash Bros Melee, interviewing some of the scenes to](https://documentaryheaven.com/smash-brothers/ "The Smash Brothers")
+    In this episode of Future Weapons Richard shows us the Active Denial System, a non-lethal way of protecting troops, the Crusher unmanned ground combat vehicle, and the US Army's Future Combat Systems](https://documentaryheaven.com/future-weapons-future-combat-s2e12/ "Future Weapons: Future Combat S2/E12")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
