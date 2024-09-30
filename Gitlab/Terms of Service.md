@@ -1469,6 +1469,7 @@
         * [ ]  [Enterprise Applications READMEs](https://handbook.gitlab.com/handbook/business-technology/readmes/)
             * [ ]  [David Kim README](https://handbook.gitlab.com/handbook/business-technology/readmes/david-kim/)
             * [ ]  [Marc Di Sabatino's README](https://handbook.gitlab.com/handbook/business-technology/readmes/marc-disabatino/)
+            * [ ]  [Rey Manlangit's README](https://handbook.gitlab.com/handbook/business-technology/readmes/rey-manlangit/)
         * [ ]  [Infrastructure Reference Links](https://handbook.gitlab.com/handbook/business-technology/engineering/infrastructure/reference-links/)
         * [ ]  [Organizational Structure](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/)
             * [ ]  [Architecture & Integrations](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
