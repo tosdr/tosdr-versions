@@ -669,6 +669,8 @@ Company
 
 [Ethics and Compliance](https://www.pipefy.com/compliance/)
 
+[ESG Strategy](https://assets-site.staticpipefy.com/production/wp-content/uploads/2024/09/ESG-Report-2023-2024.pdf)
+
 Products
 
 [HR Service Delivery](https://www.pipefy.com/hr-service-delivery/)
