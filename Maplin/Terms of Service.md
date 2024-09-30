@@ -420,6 +420,7 @@ Browse
         * [Portable Speakers](https://www.maplin.co.uk/collections/portable-speakers)
         * [Speaker Drivers](https://www.maplin.co.uk/collections/speaker-drivers)
         * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
+        * [Radios](https://www.maplin.co.uk/collections/radios)
         
     * TV Brackets & Trolleys
         
@@ -1214,6 +1215,7 @@ Browse
     * [Portable Speakers](https://www.maplin.co.uk/collections/portable-speakers)
     * [Speaker Drivers](https://www.maplin.co.uk/collections/speaker-drivers)
     * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
+    * [Radios](https://www.maplin.co.uk/collections/radios)
     
     [TV Brackets & Trolleys](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
     
