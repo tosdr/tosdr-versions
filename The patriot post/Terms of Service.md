@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110619-mid-day-digest-2024-09-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110669-mid-day-digest-2024-09-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110619-mid-day-digest-2024-09-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110669-mid-day-digest-2024-09-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110634-know-2024-09-30)
+     [](https://patriotpost.us/memes/110665-visiting-the-crime-scene-2024-09-30)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34286)
+     [](https://patriotpost.us/cartoons/34292)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Hans von Spakovsky The Serious Charges Against New York Mayor Eric Adams](https://patriotpost.us/opinion/110650-the-serious-charges-against-new-york-mayor-eric-adams-2024-09-30)
+*      [Rich Lowry The Secret Service Is a National Embarrassment](https://patriotpost.us/opinion/110648-the-secret-service-is-a-national-embarrassment-2024-09-30)
+*      [Gary Bauer Ending Our Republic](https://patriotpost.us/opinion/110646-ending-our-republic-2024-09-30)
+*      [Jeff Jacoby Antisemitism and the Power of the Big Lie](https://patriotpost.us/opinion/110643-antisemitism-and-the-power-of-the-big-lie-2024-09-30)
+*      [The Institute for Faith & Freedom Jimmy Carter Turns 100](https://patriotpost.us/opinion/110645-jimmy-carter-turns-100-2024-09-30)
+*      [The Babylon Bee Kamala Announces Construction of ‘Murderers Only’ Express Lane at Southern Border](https://patriotpost.us/opinion/110647-kamala-announces-construction-of-murderers-only-express-lane-at-southern-border-2024-09-30)
 *      [Michael Reagan Four More Years to Make America Safe Again](https://patriotpost.us/opinion/110636-four-more-years-to-make-america-safe-again-2024-09-28)
 *      [Matthew Continetti America Must Side With Israel Against Hezbollah](https://patriotpost.us/opinion/110635-america-must-side-with-israel-against-hezbollah-2024-09-28)
-*      [David Harsanyi Harris’ Attack on the Filibuster Is an Attack on the Constitutional Order](https://patriotpost.us/opinion/110600-harris-attack-on-the-filibuster-is-an-attack-on-the-constitutional-order-2024-09-27)
-*      [Erick Erickson Democrats Support Foreign Interference to Stop Trump](https://patriotpost.us/opinion/110598-democrats-support-foreign-interference-to-stop-trump-2024-09-27)
-*      [Victor Davis Hanson October/September Surprises!](https://patriotpost.us/opinion/110597-october-slash-september-surprises-2024-09-27)
-*      [Josh Hammer The Amy Wax Inflection Point for ‘Elite’ Higher Education](https://patriotpost.us/opinion/110596-the-amy-wax-inflection-point-for-elite-higher-education-2024-09-27)
-*      [Michael Barone The Harris Campaign Might Need to Change Its Strategy](https://patriotpost.us/opinion/110601-the-harris-campaign-might-need-to-change-its-strategy-2024-09-27)
-*      [Tim Young Illegal Immigrants Replacing Americans in the Job Market in Three Easy Steps](https://patriotpost.us/opinion/110588-illegal-immigrants-replacing-americans-in-the-job-market-in-three-easy-steps-2024-09-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“If we resort for a criterion to the different principles on which different forms of government are established, we may define a republic to be, or at least may bestow that name on, a government which derives all its powers directly or indirectly from the great body of the people, and is administered by persons holding their offices during pleasure for a limited period, or during good behavior.” —James Madison (1788)
+“I would rather be exposed to the inconveniencies attending too much liberty than those attending too small a degree of it.” —Thomas Jefferson (1791)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
