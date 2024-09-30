@@ -26,17 +26,17 @@ Close Menu Main Menu
     
 * [WordPress](https://www.inmotionhosting.com/wordpress-hosting "WordPress")
     
-    [![WordPress on cPanel](https://www.inmotionhosting.com/dslib/assets/icons/custom/cpanel-wordpress.svg)
+    [![WordPress Logo](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/wordpress-black.svg)
     
-    WordPress on cPanelOptimized Shared Hosting](https://www.inmotionhosting.com/wordpress-hosting "WordPress on cPanel")
+    WordPress HostingClassic Hosting with Email and cPanel Included](https://www.inmotionhosting.com/wordpress-hosting "WordPress Hosting")
     
-    [![WordPress on cPanel](https://www.inmotionhosting.com/dslib/assets/icons/custom/platform-i-wordpress.svg)
+    [![WordPress Logo](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/wordpress-black.svg)
     
-    WordPress on Platform iNEWPurpose Built Cloud Servers](https://www.inmotionhosting.com/wordpress-hosting/platform-i "WordPress on Platform i")
+    Managed WordPressSuperior Speed for Mission-Critical Sites](https://www.inmotionhosting.com/wordpress-hosting/managed-wordpress "Managed WordPress")
     
     [![WooCommerce Hosting](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/woocommerce-size-a.svg)
     
-    WooCommerce HostingPlatform i plus Woo Optimizations](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
+    WooCommerce HostingEngineered for Performance and Security](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
     
 * [VPS Hosting](https://www.inmotionhosting.com/vps-hosting "VPS Hosting")
 * [Dedicated Servers](https://www.inmotionhosting.com/dedicated-servers "Dedicated Servers")
@@ -261,7 +261,7 @@ Virginia Beach, VA 23452
 
 * [Shared Hosting](https://www.inmotionhosting.com/shared-hosting)
 * [WordPress Hosting](https://www.inmotionhosting.com/wordpress-hosting)
-* [WordPress VPS](https://www.inmotionhosting.com/wordpress-vps)
+* [Managed WordPress](https://www.inmotionhosting.com/wordpress-hosting/managed-wordpress)
 * [VPS Hosting](https://www.inmotionhosting.com/vps-hosting)
 * [Cloud VPS](https://www.inmotionhosting.com/cloud-vps)
 * [Dedicated Server Hosting](https://www.inmotionhosting.com/dedicated-servers)
