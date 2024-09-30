@@ -362,7 +362,7 @@ Get AXA Car Insurance from as little as £289 (10% of AXA Comprehensive Car Insu
 
 [Get a quote for AXA Car Insurance](https://customer.axa.co.uk/car/get-quote/)[Manage your policy for AXA Car Insurance](https://customer.axa.co.uk/login/my-axa-account/) [Make a claim on your AXA Car Insurance policy](https://www.axa.co.uk/car-insurance/make-a-claim/)
 
-[Type of car insurance cover](https://www.axa.co.uk/car-insurance/types-of-car-insurance/)
+[Types of car insurance cover](https://www.axa.co.uk/car-insurance/types-of-car-insurance/)
 
 * [Car insurance](https://www.axa.co.uk/car-insurance/ "Car insurance")
 * [MultiCar insurance](https://www.axa.co.uk/car-insurance/multicar-insurance/ "MultiCar insurance")
@@ -408,7 +408,7 @@ Get AXA Home Insurance from as little as £193 (10% of AXA Plus Home Insurance c
 
 [Get a quote for AXA Home Insurance](https://customer.axa.co.uk/home/get-quote/)[Manage your policy for AXA Home Insurance](https://customer.axa.co.uk/login/my-axa-account/) [Make a claim on your AXA Home Insurance policy](https://www.axa.co.uk/home-insurance/make-a-claim/)
 
-Type of home insurance cover
+Types of home insurance cover
 
 * [Home insurance](https://www.axa.co.uk/home-insurance/)
 * [Buildings insurance](https://www.axa.co.uk/home-insurance/buildings-insurance/ "Buildings insurance")
