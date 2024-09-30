@@ -104,8 +104,6 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
-* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
-    
 
 [Book a meeting](https://www.watermarkinsights.com/request-demo/)
 
@@ -213,8 +211,6 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
-* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
-    
 
 * [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
 * [Book a meeting](https://www.watermarkinsights.com/request-demo/)
