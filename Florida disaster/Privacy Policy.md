@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, September 29, 2024**
+**Monday, September 30, 2024**
 
-**...Mostly Dry Conditions to Continue Across Panhandle and Big Bend; Possible Stray Showers or Thunderstorm This Afternoon and Evening...Steam of Tropical Moisture to Continue to Bring Scattered Showers and Thunderstorms Along Northern Peninsula and Towards I-4 Corridor Throughout the Day...Localized Flash Flooding Possible From Lower Suwannee Valley Through the I-4 Corridor...Temperatures and Heat Index Values Gradually Creeping Up for Big Bend and Nature Coast...Triple Digit Heat Index Values Throughout the Peninsula; Heat Advisories for Treasure Coast and Southeast Florida...Moderate to High Risk for Rip Currents Continues Statewide...Minor to Moderate Riverine Flooding Forecast or Ongoing Along Eastern Panhandle and Big Bend...National Hurricane Center Continues to Monitor Multiple Disturbances Within the Atlantic Basin...**
+**...Spotty Showers Continue Along the Florida Big Bend This Morning and Afternoon...Greater Rain Chances Expected Through the Florida Peninsula...A Thunderstorm or Two Could Produce Gusty Winds, Lightning, and Localized Downpour...Dangerous Heat and Humidity Continues for the Florida Peninsula; Heat Advisories in Effect with Heat Index Values Reaching 100 to 110-Degrees...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor to Moderate Flooding Ongoing or Forecast for Apalachicola and Ochlockonee Rivers...Moderate to High Risk of Rip Currents Continues Along Stateweide Beaches...Atlantic Basin Remains Active with Three (3) Named/Numbered Systems and Monitoring Two (2) Disturbances...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
