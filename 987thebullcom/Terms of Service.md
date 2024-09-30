@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Dirt Road AnthemJason Aldean<br><br>11:39pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:36pm |
-| Devil You KnowTyler Braden<br><br>11:33pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>11:30pm |
-| One Man BandOld Dominion<br><br>11:27pm |
+| Back Then Right NowTyler Hubbard<br><br>4:58am |
+| It Goes Like ThisThomas Rhett<br><br>4:55am |
+| Life Is A HighwayRascal Flatts<br><br>4:51am |
+| Single AgainJosh Ross<br><br>4:48am |
+| You ProofMorgan Wallen<br><br>4:45am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-News Talk • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
