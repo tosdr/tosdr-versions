@@ -118,31 +118,6 @@
         * [Meet our doctors](https://www.mskcc.org/doctors)
         * [Explore our locations](https://www.mskcc.org/locations)
     
-* [Refer a Patient](#)
-    
-    [Back](#)
-    
-    Refer a Patient
-    
-    * * Partner with us to treat your patient’s cancer.
-            -----------------------------------------------
-            
-            [Refer a patient](https://www.mskcc.org/appointments/refer-patient)
-            
-            ### CALL OUR DEDICATED CLINICIAN ACCESS NUMBER
-            
-            [646-677-7440](tel:6466777440)
-            
-            Monday through Friday, 8 a.m. to 6 p.m. (Eastern time)
-            
-    * * Clinical Resources
-        * [Our doctors](https://www.mskcc.org/doctors)
-        * [Physician relations](https://www.mskcc.org/referring-physicians/physician-relations-team)
-        * [Clinical updates & insights](https://www.mskcc.org/clinical-trials-updates/clinical-updates)
-        * [Prediction tools](https://www.mskcc.org/nomograms)
-        * [Clinical trials](https://www.mskcc.org/cancer-care/clinical-trials)
-        * [Continuing medical education (CME)](https://www.mskcc.org/hcp-education-training/cme)
-    
 * [Learn About Cancer & Treatment](#)
     
     [Back](#)
@@ -172,6 +147,31 @@
         * Cancer News & Discoveries
         * [Read the latest](https://www.mskcc.org/news/in-the-news)
         * [Sign up for our newsletter](https://c.mskinfo.org/subscriptionpreferencecenter)
+    
+* [For Physicians](#)
+    
+    [Back](#)
+    
+    For Physicians
+    
+    * * Partner with us to treat your patient’s cancer.
+            -----------------------------------------------
+            
+            [Refer a patient](https://www.mskcc.org/appointments/refer-patient)
+            
+            ### CALL OUR DEDICATED CLINICIAN ACCESS NUMBER
+            
+            [646-677-7440](tel:6466777440)
+            
+            Monday through Friday, 8 a.m. to 6 p.m. (Eastern time)
+            
+    * * Clinical Resources
+        * [Our doctors](https://www.mskcc.org/doctors)
+        * [Physician relations](https://www.mskcc.org/referring-physicians/physician-relations-team)
+        * [Clinical updates & insights](https://www.mskcc.org/clinical-trials-updates/clinical-updates)
+        * [Prediction tools](https://www.mskcc.org/nomograms)
+        * [Clinical trials](https://www.mskcc.org/cancer-care/clinical-trials)
+        * [Continuing medical education (CME)](https://www.mskcc.org/hcp-education-training/cme)
     
 * [About Us](#)
     
@@ -355,4 +355,4 @@ The information in Memorial Sloan Kettering Cancer Center’s website is not int
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44140.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
+* [Log in web-44142.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
