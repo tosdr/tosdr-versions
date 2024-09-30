@@ -243,35 +243,36 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/James-Myers-326x245.jpg)](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jaquan-Dukes-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+
+Englewood
+
+### [Chicago man carjacked 2 women in 30 minutes, officials say](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+
+[September 28, 2024 9:13 AM](https://cwbchicago.com/2024/09)
+
+Prosecutors are accusing a Chicago man of carjacking two women at gunpoint in under an hour.[](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/01/Buie-Johnson-Wade-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
 
 Citywide
 
-### [Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
+### [Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
 
-[September 27, 2024 5:56 PM](https://cwbchicago.com/2024/09)
+[September 28, 2024 7:41 AM](https://cwbchicago.com/2024/09)
 
-Prosecutors have charged a man with committing a string of residential burglaries on the North Side, including one while he was on pretrial release for yet another residential burglary.[](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
+A group of Chicago men have been sentenced to 5 to 15 years in a Pennsylvania prison for running a catalytic converter theft ring. When they were charged in 2015 with similar crimes in Chicago, they got probation for misdemeanors.  
+[](https://cwbchicago.com/2024/09/chicago-men-get-up-to-15-years-for-stealing-catalytic-converters-in-pennsylvania.html "Chicago men get up to 15 years for stealing catalytic converters in Pennsylvania")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Luis-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/summit-motel-326x245.jpg)](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
 
-Lakeview
+Lincoln Square
 
-### [Man gets 6 years for distributing cocaine while dressed like a banana](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
+### [Man shot during argument on the North Side](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
 
-[September 27, 2024 10:09 AM](https://cwbchicago.com/2024/09)
+[September 28, 2024 6:57 AM](https://cwbchicago.com/2024/09)
 
-A judge this week sentenced a man to 6 years in prison for distributing cocaine while dressed as a banana in River North.[](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jontae-Baker-326x245.jpg)](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
-
-Kenwood
-
-### [Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
-
-[September 27, 2024 9:03 AM](https://cwbchicago.com/2024/09)
-
-Prosecutors are accusing a man of working with two accomplices to carjack, kidnap, and rob a man this summer while he was on pretrial release for a felony theft case.[](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
+A man was shot during an argument in a North Side motel parking lot on Friday night, according to Chicago police.[](https://cwbchicago.com/2024/09/man-shot-during-argument-on-the-north-side.html "Man shot during argument on the North Side")
 
 Search
 
