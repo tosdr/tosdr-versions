@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [How Are Pronouns Processed in Our Brains?](https://www.sciencedaily.com/releases/2024/09/240927173201.htm)
-* [IVF and Heart Defect Risk](https://www.sciencedaily.com/releases/2024/09/240927173121.htm)
-* [How Killifish Regenerate Their Fins](https://www.sciencedaily.com/releases/2024/09/240926131936.htm)
-* [Return of the Elephants Seals](https://www.sciencedaily.com/releases/2024/09/240927173545.htm)
-* [Shrinking AR Displays Into Eyeglasses](https://www.sciencedaily.com/releases/2024/09/240925122923.htm)
-* [New Bacterium That Causes Gut Immunodeficiency](https://www.sciencedaily.com/releases/2024/09/240926144904.htm)
-* [Scientists Design New Drug to Fight Malaria](https://www.sciencedaily.com/releases/2024/09/240926144907.htm)
-* ['Weekend Warrior?' Protection Against Disease](https://www.sciencedaily.com/releases/2024/09/240926132037.htm)
-* [Pollution's Impact On Arctic Atmosphere](https://www.sciencedaily.com/releases/2024/09/240925143912.htm)
-* [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
+* [COVID: Protection from Severe Flu?](https://www.sciencedaily.com/releases/2024/09/240930160208.htm)
+* [Orbitronics Instead of Electronics?](https://www.sciencedaily.com/releases/2024/09/240927173115.htm)
+* [Coffee, Fizzy Drinks and Stroke Risk](https://www.sciencedaily.com/releases/2024/09/240930123035.htm)
+* [Vikings and Global Trading Network](https://www.sciencedaily.com/releases/2024/09/240930122949.htm)
+* [A River Is Pushing Up Mount Everest's Peak](https://www.sciencedaily.com/releases/2024/09/240930122712.htm)
+* [Unexpected Growth in Height After First Period](https://www.sciencedaily.com/releases/2024/09/240927173549.htm)
+* [Trigger of 1995 Kobe (Hyogo-Ken Nanbu) Quake](https://www.sciencedaily.com/releases/2024/09/240927173416.htm)
+* [A New Birthplace for Asteroid Ryugu](https://www.sciencedaily.com/releases/2024/09/240927173222.htm)
+* [Earth's Deep Secrets: Sunken Seafloor](https://www.sciencedaily.com/releases/2024/09/240927173212.htm)
+* [Asteroid Ceres: Ocean World to Big Icy Blob](https://www.sciencedaily.com/releases/2024/09/240927173206.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Teen Health](https://www.sciencedaily.com/news/health_medicine/teen_health/)
 
-[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
-
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
-
-[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
-
 [Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
   
 
