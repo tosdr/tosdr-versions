@@ -162,11 +162,11 @@ Poland
 
 [+48 502 148 260](tel:+48502148260)
 
-* [About us](https://www.revas.online/en/about-us/)
+* [About us](https://www.revas.online/en/about-us/ "About")
 
-* [Help](https://www.revas.online/en/help/)
+* [Help](https://www.revas.online/en/help/ "Help")
 
-* [Privacy Policy](https://www.revas.online/en/privacy-policy/)
+* [Privacy Policy](https://www.revas.online/en/privacy-policy/ "Privacy Policy")
 
 © 2024 Revas. All Rights Reserved.
 
@@ -200,95 +200,84 @@ Our website has plugins of social networking websites that can use cookies. If y
 
 SAVE & ACCEPT
 
-* ##### Leave your contact details and we will set up an online meeting with a simulation expert.
-    
-      
-    
-* name \*
-    
-* email\_address \*
-    
-* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
-    
-* agreePrivatePolicy \*
-    
-     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
-    
-     *     
+Watch the video
 
 ×
 
-Leave us your contact details  
-and we will send you the pricing structure
+I thought the „Electronic Store“ simulation would be great to implement during the processes of onboarding and training of new entry level employees who haven’t had any experience in the given field. It was great helping everyone with their decisions and how invested they all became in the game. Some players stuck to one strategy that proved to be successful, while others decided to experiment. Given the fact everyone was competing against each other in the same market, the players had to study their competition’s strategies and try to think one that would help their business grow. Every round was different and exciting. I would definitely recommend this simulation, or any other simulation by Revas, for education or training of employees. It has been a great pleasure to work with the Revas team and I hope we will work together again in the near future.
 
-* name \*
-    
-* email\_address \*
-    
-* institution \*
-    
-* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
-    
-* agreePrivatePolicy \*
-    
-     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
-    
-     *     
+![](/wp-content/uploads/2019/10/r-sygnet.jpg)
 
-Or, if you don’t want to wait…  
-call us!
+Ivana Maja Milicevic
 
-Ela and Marzena will gladly  
-answer all your questions.
+Human Resources Associate  
+M SAN Grupa
 
-![Ela Szczepaniak](/wp-content/uploads/2019/10/ela_kontakt-2.jpg)
+×
 
-Ela Szczepaniak
+I think Revas Business Simulation Games gives a fantastic opportunity for youngsters to apply all the concepts that they are learning or have learnt in their classrooms. We as teachers talk about real life situations and try to give students a feel through case studies. This, however, is way beyond any of that! My students’ understanding of the concepts has improved so much. Thank you Revas!
 
-t.[(48) 502 148 260](tel:+48502148260)
+![](/wp-content/uploads/2019/10/r-sygnet.jpg)
 
-![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png)
+Dhanya Seshan
 
-Marzena Karpiak
+IBDP Business Management Facilitator  
+International School of Budapest
 
-t.[(48) 536 488 306](tel:+48536488306)
+×
 
-X
+The game itself is very well developed keeping in mind the work-from-home nature that pre-exists in current times. While some can pass it off as just a game, the insight attained from it is invaluable, especially when money is a constraint as it very much is in the real world and failure is not an option. Everything in the simulation is in the right place and the progression of the levels make logical sense even in a virtual scenario. We highly appreciated the fact that the game catered to ALL the scenarios that concern a business; financial, strategy, marketing, human resources and even supply chain to a limited extent.
 
-Leave us your contact details  
-and we will send you the pricing structure
+![](/wp-content/uploads/2019/10/r-sygnet.jpg)
 
-* name \*
-    
-* email\_address \*
-    
-* institution \*
-    
-* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
-    
-* agreePrivatePolicy \*
-    
-     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
-    
-     *     
+Rhys Pereira
 
-Or, if you don’t want to wait…  
-call us!
+Student  
+EDHEC Business School
 
-Ela and Marzena will gladly  
-answer all your questions.
+×
 
-![Ela Szczepaniak](/wp-content/uploads/2019/10/ela_kontakt-2.jpg)
+The Revas software flexible solutions, possible combinations and a well-chosen method of analyzing the output data, for which the game participant is responsible, indicate that this tool should be more widely used not only in secondary education, but above all in universities, where each participant, even tangibly will be able to observe what are the effects of business operations of virtual companies.  
+I have seen many similar solutions, but the quality of REVAS software should be a specific reference as a great example of product accuracy.
 
-Ela Szczepaniak
+![](/wp-content/uploads/2019/10/piotr-zawada.jpg)
 
-t.[(48) 502 148 260](tel:+48502148260)
+Piotr Zawada Associate Professor
 
-![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png)
+Lecturer  
+Cardinal Stefan Wyszyński University in Warsaw
 
-Marzena Karpiak
+×
 
-t.[(48) 536 488 306](tel:+48536488306)
+We loved the opportunity to apply our business knowledge in a real world context. By analyzing our results from previous rounds, we have learned to maximize our profits as well as how to take care of customer and employee satisfaction. It was great how realistic the simulation was and how many variables were taken into account.
+
+![](/wp-content/uploads/2019/10/r-sygnet.jpg)
+
+Jakub Lal
+
+Student  
+University of Information Technology and Management in Rzeszow
+
+×
+
+Choose a simulation
+-------------------
+
+![logo - Beauty salon](/wp-content/uploads/2021/08/Salon_Kosmetyczny_Poziome_Logo-01_EN.svg "Beauty salon - simulation")
+
+[Beauty salon](https://demo-games.revas.online/demo/beauty)
+
+![logo - Car repair shop](/wp-content/uploads/2021/08/Warsztat_Poziome_Logo-01_EN.svg "Car repair shop - simulation")
+
+[Car repair shop](https://demo-games.revas.online/demo/mechanik_en_6)
+
+![logo - Travel agency](/wp-content/uploads/2021/08/Biuro_Podrozy_Poziome_Logo-01_EN.svg "Travel agency - simulation")
+
+[Travel agency](https://demo-games.revas.online/demo/travel_en)
+
+![logo - IT services](/wp-content/uploads/2021/08/Serwis_IT_Poziome_Logo-01_EN.svg "IT service - simulation")
+
+[IT services](https://demo-games.revas.online/demo/itservice_en_5)
 
 X
 
@@ -338,81 +327,6 @@ Event agency](https://demo-games.revas.online/demo/event_en_6/return-url)
 
 ×
 
-Choose a simulation
--------------------
-
-![logo - Beauty salon](/wp-content/uploads/2021/08/Salon_Kosmetyczny_Poziome_Logo-01_EN.svg "Beauty salon - simulation")
-
-[Beauty salon](https://demo-games.revas.online/demo/beauty)
-
-![logo - Car repair shop](/wp-content/uploads/2021/08/Warsztat_Poziome_Logo-01_EN.svg "Car repair shop - simulation")
-
-[Car repair shop](https://demo-games.revas.online/demo/mechanik_en_6)
-
-![logo - Travel agency](/wp-content/uploads/2021/08/Biuro_Podrozy_Poziome_Logo-01_EN.svg "Travel agency - simulation")
-
-[Travel agency](https://demo-games.revas.online/demo/travel_en)
-
-![logo - IT services](/wp-content/uploads/2021/08/Serwis_IT_Poziome_Logo-01_EN.svg "IT service - simulation")
-
-[IT services](https://demo-games.revas.online/demo/itservice_en_5)
-
-X
-
-We are available online from Monday to Friday, from 8 am to 4 pm (CEST). You can contact us through an email or through Live Chat. We will reply as soon as possible 🙂  
-
-      
-
-Phone number
-
-\* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in accordance with [Privacy Policy](https://www.revas.online/en/privacy-policy/).
-
-×
-
-We loved the opportunity to apply our business knowledge in a real world context. By analyzing our results from previous rounds, we have learned to maximize our profits as well as how to take care of customer and employee satisfaction. It was great how realistic the simulation was and how many variables were taken into account.
-
-![](/wp-content/uploads/2019/10/r-sygnet.jpg)
-
-Jakub Lal
-
-Student  
-University of Information Technology and Management in Rzeszow
-
-×
-
-The game itself is very well developed keeping in mind the work-from-home nature that pre-exists in current times. While some can pass it off as just a game, the insight attained from it is invaluable, especially when money is a constraint as it very much is in the real world and failure is not an option. Everything in the simulation is in the right place and the progression of the levels make logical sense even in a virtual scenario. We highly appreciated the fact that the game catered to ALL the scenarios that concern a business; financial, strategy, marketing, human resources and even supply chain to a limited extent.
-
-![](/wp-content/uploads/2019/10/r-sygnet.jpg)
-
-Rhys Pereira
-
-Student  
-EDHEC Business School
-
-×
-
-I thought the „Electronic Store“ simulation would be great to implement during the processes of onboarding and training of new entry level employees who haven’t had any experience in the given field. It was great helping everyone with their decisions and how invested they all became in the game. Some players stuck to one strategy that proved to be successful, while others decided to experiment. Given the fact everyone was competing against each other in the same market, the players had to study their competition’s strategies and try to think one that would help their business grow. Every round was different and exciting. I would definitely recommend this simulation, or any other simulation by Revas, for education or training of employees. It has been a great pleasure to work with the Revas team and I hope we will work together again in the near future.
-
-![](/wp-content/uploads/2019/10/r-sygnet.jpg)
-
-Ivana Maja Milicevic
-
-Human Resources Associate  
-M SAN Grupa
-
-×
-
-I think Revas Business Simulation Games gives a fantastic opportunity for youngsters to apply all the concepts that they are learning or have learnt in their classrooms. We as teachers talk about real life situations and try to give students a feel through case studies. This, however, is way beyond any of that! My students’ understanding of the concepts has improved so much. Thank you Revas!
-
-![](/wp-content/uploads/2019/10/r-sygnet.jpg)
-
-Dhanya Seshan
-
-IBDP Business Management Facilitator  
-International School of Budapest
-
-×
-
 Did you like what you saw?
 
 ![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png "Marzena Karpiak")
@@ -426,57 +340,7 @@ Marzena Karpiak
 
 ![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
 
-### Szkolne Mistrzostwa Menedżerskie
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-Liczba uczestników: 100Symulacja: Biuro podróży
-
-×
-
-![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
-
-### Wirtualny Menedżer
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-Liczba uczestników: 100Symulacja: Biuro podróży
-
-×
-
-![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
-
-### Konkurs Manager Roku
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-Liczba uczestników: 100Symulacja: Biuro podróży
-
-×
-
-![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
-
-### Podkarpackie Mistrzostwa Przedsiębiorczości Społecznej
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-Liczba uczestników: 100Symulacja: Biuro podróży
-
-×
-
-![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
-
-### Pomorskie Mistrzostwa Wirtualnej Przedsiębiorczości
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-Liczba uczestników: 100Symulacja: Biuro podróży
-
-×
-
-![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
-
-### Rozgrywki o Puchar Rektora UP
+### Warszawskie Mistrzostwa Startup Jump
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
 
@@ -506,7 +370,7 @@ Liczba uczestników: 100Symulacja: Biuro podróży
 
 ![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
 
-### Warszawskie Mistrzostwa Startup Jump
+### Rozgrywki o Puchar Rektora UP
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
 
@@ -514,7 +378,155 @@ Liczba uczestników: 100Symulacja: Biuro podróży
 
 ×
 
-Watch the video
+![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
+
+### Pomorskie Mistrzostwa Wirtualnej Przedsiębiorczości
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+
+Liczba uczestników: 100Symulacja: Biuro podróży
+
+×
+
+![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
+
+### Podkarpackie Mistrzostwa Przedsiębiorczości Społecznej
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+
+Liczba uczestników: 100Symulacja: Biuro podróży
+
+×
+
+![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
+
+### Konkurs Manager Roku
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+
+Liczba uczestników: 100Symulacja: Biuro podróży
+
+×
+
+![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
+
+### Wirtualny Menedżer
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+
+Liczba uczestników: 100Symulacja: Biuro podróży
+
+×
+
+![REVAS](/wp-content/uploads/2021/11/favicon-revas.png)
+
+### Szkolne Mistrzostwa Menedżerskie
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+
+Liczba uczestników: 100Symulacja: Biuro podróży
+
+×
+
+Leave us your contact details  
+and we will send you the pricing structure
+
+* name \*
+    
+* email\_address \*
+    
+* institution \*
+    
+* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
+    
+* agreePrivatePolicy \*
+    
+     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
+    
+     *     
+
+Or, if you don’t want to wait…  
+call us!
+
+Ela and Marzena will gladly  
+answer all your questions.
+
+![Ela Szczepaniak](/wp-content/uploads/2019/10/ela_kontakt-2.jpg)
+
+Ela Szczepaniak
+
+t.[(48) 502 148 260](tel:+48502148260)
+
+![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png)
+
+Marzena Karpiak
+
+t.[(48) 536 488 306](tel:+48536488306)
+
+X
+
+Leave us your contact details  
+and we will send you the pricing structure
+
+* name \*
+    
+* email\_address \*
+    
+* institution \*
+    
+* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
+    
+* agreePrivatePolicy \*
+    
+     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
+    
+     *     
+
+Or, if you don’t want to wait…  
+call us!
+
+Ela and Marzena will gladly  
+answer all your questions.
+
+![Ela Szczepaniak](/wp-content/uploads/2019/10/ela_kontakt-2.jpg)
+
+Ela Szczepaniak
+
+t.[(48) 502 148 260](tel:+48502148260)
+
+![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png)
+
+Marzena Karpiak
+
+t.[(48) 536 488 306](tel:+48536488306)
+
+X
+
+* ##### Leave your contact details and we will set up an online meeting with a simulation expert.
+    
+      
+    
+* name \*
+    
+* email\_address \*
+    
+* This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
+    
+* agreePrivatePolicy \*
+    
+     \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in order to get more information about the simulations and their pricing [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.
+    
+     *     
+
+×
+
+We are available online from Monday to Friday, from 8 am to 4 pm (CEST). You can contact us through an email or through Live Chat. We will reply as soon as possible 🙂  
+
+      
+
+Phone number
+
+\* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in accordance with [Privacy Policy](https://www.revas.online/en/privacy-policy/).
 
 ×
 
@@ -530,7 +542,7 @@ E-mail\*
 
 Phone number\*
 
-Time zone\*Choose your time zone(UTC-11:00) Midway(UTC-11:00) Niue(UTC-11:00) Pago\_Pago(UTC-10:00) Honolulu(UTC-10:00) Rarotonga(UTC-10:00) Tahiti(UTC-09:00) Adak(UTC-09:00) Gambier(UTC-09:30) Marquesas(UTC-08:00) Anchorage(UTC-08:00) Juneau(UTC-08:00) Metlakatla(UTC-08:00) Nome(UTC-08:00) Pitcairn(UTC-08:00) Sitka(UTC-08:00) Yakutat(UTC-07:00) Creston(UTC-07:00) Dawson(UTC-07:00) Dawson\_Creek(UTC-07:00) Fort\_Nelson(UTC-07:00) Hermosillo(UTC-07:00) Los\_Angeles(UTC-07:00) Mazatlan(UTC-07:00) Phoenix(UTC-07:00) Tijuana(UTC-07:00) Vancouver(UTC-07:00) Whitehorse(UTC-06:00) Bahia\_Banderas(UTC-06:00) Belize(UTC-06:00) Boise(UTC-06:00) Cambridge\_Bay(UTC-06:00) Chihuahua(UTC-06:00) Ciudad\_Juarez(UTC-06:00) Costa\_Rica(UTC-06:00) Denver(UTC-06:00) Edmonton(UTC-06:00) El\_Salvador(UTC-06:00) Galapagos(UTC-06:00) Guatemala(UTC-06:00) Inuvik(UTC-06:00) Managua(UTC-06:00) Merida(UTC-06:00) Mexico\_City(UTC-06:00) Monterrey(UTC-06:00) Regina(UTC-06:00) Swift\_Current(UTC-06:00) Tegucigalpa(UTC-05:00) Atikokan(UTC-05:00) Beulah(UTC-05:00) Bogota(UTC-05:00) Cancun(UTC-05:00) Cayman(UTC-05:00) Center(UTC-05:00) Chicago(UTC-05:00) Easter(UTC-05:00) Eirunepe(UTC-05:00) Guayaquil(UTC-05:00) Jamaica(UTC-05:00) Knox(UTC-05:00) Lima(UTC-05:00) Matamoros(UTC-05:00) Menominee(UTC-05:00) New\_Salem(UTC-05:00) Ojinaga(UTC-05:00) Panama(UTC-05:00) Rankin\_Inlet(UTC-05:00) Resolute(UTC-05:00) Rio\_Branco(UTC-05:00) Tell\_City(UTC-05:00) Winnipeg(UTC-04:00) Anguilla(UTC-04:00) Antigua(UTC-04:00) Aruba(UTC-04:00) Asuncion(UTC-04:00) Barbados(UTC-04:00) Blanc-Sablon(UTC-04:00) Boa\_Vista(UTC-04:00) Campo\_Grande(UTC-04:00) Caracas(UTC-04:00) Cuiaba(UTC-04:00) Curacao(UTC-04:00) Detroit(UTC-04:00) Dominica(UTC-04:00) Grand\_Turk(UTC-04:00) Grenada(UTC-04:00) Guadeloupe(UTC-04:00) Guyana(UTC-04:00) Havana(UTC-04:00) Indianapolis(UTC-04:00) Iqaluit(UTC-04:00) Kralendijk(UTC-04:00) La\_Paz(UTC-04:00) Louisville(UTC-04:00) Lower\_Princes(UTC-04:00) Manaus(UTC-04:00) Marengo(UTC-04:00) Marigot(UTC-04:00) Martinique(UTC-04:00) Monticello(UTC-04:00) Montserrat(UTC-04:00) Nassau(UTC-04:00) New\_York(UTC-04:00) Petersburg(UTC-04:00) Port-au-Prince(UTC-04:00) Port\_of\_Spain(UTC-04:00) Porto\_Velho(UTC-04:00) Puerto\_Rico(UTC-04:00) Santo\_Domingo(UTC-04:00) St\_Barthelemy(UTC-04:00) St\_Kitts(UTC-04:00) St\_Lucia(UTC-04:00) St\_Thomas(UTC-04:00) St\_Vincent(UTC-04:00) Toronto(UTC-04:00) Tortola(UTC-04:00) Vevay(UTC-04:00) Vincennes(UTC-04:00) Winamac(UTC-03:00) Araguaina(UTC-03:00) Bahia(UTC-03:00) Belem(UTC-03:00) Bermuda(UTC-03:00) Buenos\_Aires(UTC-03:00) Catamarca(UTC-03:00) Cayenne(UTC-03:00) Cordoba(UTC-03:00) Fortaleza(UTC-03:00) Glace\_Bay(UTC-03:00) Goose\_Bay(UTC-03:00) Halifax(UTC-03:00) Jujuy(UTC-03:00) La\_Rioja(UTC-03:00) Maceio(UTC-03:00) Mendoza(UTC-03:00) Moncton(UTC-03:00) Montevideo(UTC-02:30) St\_Johns(UTC-03:00) Palmer(UTC-03:00) Paramaribo(UTC-03:00) Punta\_Arenas(UTC-03:00) Recife(UTC-03:00) Rio\_Gallegos(UTC-03:00) Rothera(UTC-03:00) Salta(UTC-03:00) San\_Juan(UTC-03:00) San\_Luis(UTC-03:00) Santarem(UTC-03:00) Santiago(UTC-03:00) Sao\_Paulo(UTC-03:00) Stanley(UTC-03:00) Thule(UTC-03:00) Tucuman(UTC-03:00) Ushuaia(UTC-02:00) Miquelon(UTC-02:00) Noronha(UTC-02:00) South\_Georgia(UTC-01:00) Cape\_Verde(UTC-01:00) Nuuk(UTC-01:00) Scoresbysund(UTC+00:00) Abidjan(UTC+00:00) Accra(UTC+00:00) Azores(UTC+00:00) Bamako(UTC+00:00) Banjul(UTC+00:00) Bissau(UTC+00:00) Conakry(UTC+00:00) Dakar(UTC+00:00) Danmarkshavn(UTC+00:00) Freetown(UTC+00:00) Lome(UTC+00:00) Monrovia(UTC+00:00) Nouakchott(UTC+00:00) Ouagadougou(UTC+00:00) Reykjavik(UTC+00:00) Sao\_Tome(UTC+00:00) St\_Helena(UTC+00:00) UTC(UTC+01:00) Algiers(UTC+01:00) Bangui(UTC+01:00) Brazzaville(UTC+01:00) Canary(UTC+01:00) Casablanca(UTC+01:00) Douala(UTC+01:00) Dublin(UTC+01:00) El\_Aaiun(UTC+01:00) Faroe(UTC+01:00) Guernsey(UTC+01:00) Isle\_of\_Man(UTC+01:00) Jersey(UTC+01:00) Kinshasa(UTC+01:00) Lagos(UTC+01:00) Libreville(UTC+01:00) Lisbon(UTC+01:00) London(UTC+01:00) Luanda(UTC+01:00) Madeira(UTC+01:00) Malabo(UTC+01:00) Ndjamena(UTC+01:00) Niamey(UTC+01:00) Porto-Novo(UTC+01:00) Tunis(UTC+02:00) Amsterdam(UTC+02:00) Andorra(UTC+02:00) Belgrade(UTC+02:00) Berlin(UTC+02:00) Blantyre(UTC+02:00) Bratislava(UTC+02:00) Brussels(UTC+02:00) Budapest(UTC+02:00) Bujumbura(UTC+02:00) Busingen(UTC+02:00) Ceuta(UTC+02:00) Copenhagen(UTC+02:00) Gaborone(UTC+02:00) Gibraltar(UTC+02:00) Harare(UTC+02:00) Johannesburg(UTC+02:00) Juba(UTC+02:00) Kaliningrad(UTC+02:00) Khartoum(UTC+02:00) Kigali(UTC+02:00) Ljubljana(UTC+02:00) Longyearbyen(UTC+02:00) Lubumbashi(UTC+02:00) Lusaka(UTC+02:00) Luxembourg(UTC+02:00) Madrid(UTC+02:00) Malta(UTC+02:00) Maputo(UTC+02:00) Maseru(UTC+02:00) Mbabane(UTC+02:00) Monaco(UTC+02:00) Oslo(UTC+02:00) Paris(UTC+02:00) Podgorica(UTC+02:00) Prague(UTC+02:00) Rome(UTC+02:00) San\_Marino(UTC+02:00) Sarajevo(UTC+02:00) Skopje(UTC+02:00) Stockholm(UTC+02:00) Tirane(UTC+02:00) Tripoli(UTC+02:00) Troll(UTC+02:00) Vaduz(UTC+02:00) Vatican(UTC+02:00) Vienna(UTC+02:00) Warsaw(UTC+02:00) Windhoek(UTC+02:00) Zagreb(UTC+02:00) Zurich(UTC+03:00) Addis\_Ababa(UTC+03:00) Aden(UTC+03:00) Amman(UTC+03:30) Tehran(UTC+03:00) Antananarivo(UTC+03:00) Asmara(UTC+03:00) Athens(UTC+03:00) Baghdad(UTC+03:00) Bahrain(UTC+03:00) Beirut(UTC+03:00) Bucharest(UTC+03:00) Cairo(UTC+03:00) Chisinau(UTC+03:00) Comoro(UTC+03:00) Damascus(UTC+03:00) Dar\_es\_Salaam(UTC+03:00) Djibouti(UTC+03:00) Famagusta(UTC+03:00) Gaza(UTC+03:00) Hebron(UTC+03:00) Helsinki(UTC+03:00) Istanbul(UTC+03:00) Jerusalem(UTC+03:00) Kampala(UTC+03:00) Kirov(UTC+03:00) Kuwait(UTC+03:00) Kyiv(UTC+03:00) Mariehamn(UTC+03:00) Mayotte(UTC+03:00) Minsk(UTC+03:00) Mogadishu(UTC+03:00) Moscow(UTC+03:00) Nairobi(UTC+03:00) Nicosia(UTC+03:00) Qatar(UTC+03:00) Riga(UTC+03:00) Riyadh(UTC+03:00) Simferopol(UTC+03:00) Sofia(UTC+03:00) Syowa(UTC+03:00) Tallinn(UTC+03:00) Vilnius(UTC+03:00) Volgograd(UTC+04:00) Astrakhan(UTC+04:00) Baku(UTC+04:00) Dubai(UTC+04:30) Kabul(UTC+04:00) Mahe(UTC+04:00) Mauritius(UTC+04:00) Muscat(UTC+04:00) Reunion(UTC+04:00) Samara(UTC+04:00) Saratov(UTC+04:00) Tbilisi(UTC+04:00) Ulyanovsk(UTC+04:00) Yerevan(UTC+05:00) Almaty(UTC+05:00) Aqtau(UTC+05:00) Aqtobe(UTC+05:00) Ashgabat(UTC+05:00) Atyrau(UTC+05:00) Dushanbe(UTC+05:00) Karachi(UTC+05:00) Mawson(UTC+05:30) Colombo(UTC+05:45) Kathmandu(UTC+05:30) Kolkata(UTC+05:00) Kerguelen(UTC+05:00) Maldives(UTC+05:00) Oral(UTC+05:00) Qostanay(UTC+05:00) Qyzylorda(UTC+05:00) Samarkand(UTC+05:00) Tashkent(UTC+05:00) Vostok(UTC+05:00) Yekaterinburg(UTC+06:00) Bishkek(UTC+06:00) Chagos(UTC+06:00) Dhaka(UTC+06:00) Omsk(UTC+06:00) Thimphu(UTC+06:00) Urumqi(UTC+07:00) Bangkok(UTC+07:00) Barnaul(UTC+07:00) Christmas(UTC+07:00) Davis(UTC+07:00) Ho\_Chi\_Minh(UTC+07:00) Hovd(UTC+07:00) Jakarta(UTC+07:00) Krasnoyarsk(UTC+07:00) Novokuznetsk(UTC+07:00) Novosibirsk(UTC+07:00) Phnom\_Penh(UTC+07:00) Pontianak(UTC+07:00) Tomsk(UTC+07:00) Vientiane(UTC+06:30) Cocos(UTC+06:30) Yangon(UTC+08:00) Brunei(UTC+08:00) Casey(UTC+08:00) Choibalsan(UTC+08:00) Hong\_Kong(UTC+08:00) Irkutsk(UTC+08:00) Kuala\_Lumpur(UTC+08:00) Kuching(UTC+08:00) Macau(UTC+08:00) Makassar(UTC+08:00) Manila(UTC+08:00) Perth(UTC+08:00) Shanghai(UTC+08:00) Singapore(UTC+08:00) Taipei(UTC+08:00) Ulaanbaatar(UTC+09:00) Chita(UTC+09:00) Dili(UTC+09:00) Jayapura(UTC+09:00) Khandyga(UTC+09:00) Yakutsk(UTC+09:30) Adelaide(UTC+10:00) Brisbane(UTC+09:30) Broken\_Hill(UTC+09:00) Palau(UTC+09:00) Pyongyang(UTC+09:00) Seoul(UTC+09:00) Tokyo(UTC+10:00) Chuuk(UTC+10:00) DumontDUrville(UTC+09:30) Darwin(UTC+08:45) Eucla(UTC+10:00) Guam(UTC+10:00) Hobart(UTC+10:00) Lindeman(UTC+10:00) Macquarie(UTC+10:00) Melbourne(UTC+10:00) Port\_Moresby(UTC+10:00) Saipan(UTC+10:00) Sydney(UTC+10:00) Ust-Nera(UTC+10:00) Vladivostok(UTC+11:00) Bougainville(UTC+11:00) Efate(UTC+11:00) Guadalcanal(UTC+11:00) Kosrae(UTC+11:00) Magadan(UTC+11:00) Norfolk(UTC+11:00) Noumea(UTC+11:00) Pohnpei(UTC+11:00) Sakhalin(UTC+11:00) Srednekolymsk(UTC+10:30) Lord\_Howe(UTC+12:00) Anadyr(UTC+12:00) Auckland(UTC+12:45) Chatham(UTC+12:00) Fiji(UTC+12:00) Funafuti(UTC+12:00) Kamchatka(UTC+12:00) Kwajalein(UTC+12:00) Majuro(UTC+12:00) McMurdo(UTC+12:00) Nauru(UTC+12:00) Tarawa(UTC+12:00) Wake(UTC+12:00) Wallis(UTC+13:00) Apia(UTC+13:00) Fakaofo(UTC+13:00) Kanton(UTC+13:00) Tongatapu(UTC+14:00) Kiritimati
+Time zone\*Choose your time zone(UTC-11:00) Midway(UTC-11:00) Niue(UTC-11:00) Pago\_Pago(UTC-10:00) Honolulu(UTC-10:00) Rarotonga(UTC-10:00) Tahiti(UTC-09:00) Adak(UTC-09:00) Gambier(UTC-09:30) Marquesas(UTC-08:00) Anchorage(UTC-08:00) Juneau(UTC-08:00) Metlakatla(UTC-08:00) Nome(UTC-08:00) Pitcairn(UTC-08:00) Sitka(UTC-08:00) Yakutat(UTC-07:00) Creston(UTC-07:00) Dawson(UTC-07:00) Dawson\_Creek(UTC-07:00) Fort\_Nelson(UTC-07:00) Hermosillo(UTC-07:00) Los\_Angeles(UTC-07:00) Mazatlan(UTC-07:00) Phoenix(UTC-07:00) Tijuana(UTC-07:00) Vancouver(UTC-07:00) Whitehorse(UTC-06:00) Bahia\_Banderas(UTC-06:00) Belize(UTC-06:00) Boise(UTC-06:00) Cambridge\_Bay(UTC-06:00) Chihuahua(UTC-06:00) Ciudad\_Juarez(UTC-06:00) Costa\_Rica(UTC-06:00) Denver(UTC-06:00) Edmonton(UTC-06:00) El\_Salvador(UTC-06:00) Galapagos(UTC-06:00) Guatemala(UTC-06:00) Inuvik(UTC-06:00) Managua(UTC-06:00) Merida(UTC-06:00) Mexico\_City(UTC-06:00) Monterrey(UTC-06:00) Regina(UTC-06:00) Swift\_Current(UTC-06:00) Tegucigalpa(UTC-05:00) Atikokan(UTC-05:00) Beulah(UTC-05:00) Bogota(UTC-05:00) Cancun(UTC-05:00) Cayman(UTC-05:00) Center(UTC-05:00) Chicago(UTC-05:00) Easter(UTC-05:00) Eirunepe(UTC-05:00) Guayaquil(UTC-05:00) Jamaica(UTC-05:00) Knox(UTC-05:00) Lima(UTC-05:00) Matamoros(UTC-05:00) Menominee(UTC-05:00) New\_Salem(UTC-05:00) Ojinaga(UTC-05:00) Panama(UTC-05:00) Rankin\_Inlet(UTC-05:00) Resolute(UTC-05:00) Rio\_Branco(UTC-05:00) Tell\_City(UTC-05:00) Winnipeg(UTC-04:00) Anguilla(UTC-04:00) Antigua(UTC-04:00) Aruba(UTC-04:00) Asuncion(UTC-04:00) Barbados(UTC-04:00) Blanc-Sablon(UTC-04:00) Boa\_Vista(UTC-04:00) Campo\_Grande(UTC-04:00) Caracas(UTC-04:00) Cuiaba(UTC-04:00) Curacao(UTC-04:00) Detroit(UTC-04:00) Dominica(UTC-04:00) Grand\_Turk(UTC-04:00) Grenada(UTC-04:00) Guadeloupe(UTC-04:00) Guyana(UTC-04:00) Havana(UTC-04:00) Indianapolis(UTC-04:00) Iqaluit(UTC-04:00) Kralendijk(UTC-04:00) La\_Paz(UTC-04:00) Louisville(UTC-04:00) Lower\_Princes(UTC-04:00) Manaus(UTC-04:00) Marengo(UTC-04:00) Marigot(UTC-04:00) Martinique(UTC-04:00) Monticello(UTC-04:00) Montserrat(UTC-04:00) Nassau(UTC-04:00) New\_York(UTC-04:00) Petersburg(UTC-04:00) Port-au-Prince(UTC-04:00) Port\_of\_Spain(UTC-04:00) Porto\_Velho(UTC-04:00) Puerto\_Rico(UTC-04:00) Santo\_Domingo(UTC-04:00) St\_Barthelemy(UTC-04:00) St\_Kitts(UTC-04:00) St\_Lucia(UTC-04:00) St\_Thomas(UTC-04:00) St\_Vincent(UTC-04:00) Toronto(UTC-04:00) Tortola(UTC-04:00) Vevay(UTC-04:00) Vincennes(UTC-04:00) Winamac(UTC-03:00) Araguaina(UTC-03:00) Bahia(UTC-03:00) Belem(UTC-03:00) Bermuda(UTC-03:00) Buenos\_Aires(UTC-03:00) Catamarca(UTC-03:00) Cayenne(UTC-03:00) Cordoba(UTC-03:00) Fortaleza(UTC-03:00) Glace\_Bay(UTC-03:00) Goose\_Bay(UTC-03:00) Halifax(UTC-03:00) Jujuy(UTC-03:00) La\_Rioja(UTC-03:00) Maceio(UTC-03:00) Mendoza(UTC-03:00) Moncton(UTC-03:00) Montevideo(UTC-02:30) St\_Johns(UTC-03:00) Palmer(UTC-03:00) Paramaribo(UTC-03:00) Punta\_Arenas(UTC-03:00) Recife(UTC-03:00) Rio\_Gallegos(UTC-03:00) Rothera(UTC-03:00) Salta(UTC-03:00) San\_Juan(UTC-03:00) San\_Luis(UTC-03:00) Santarem(UTC-03:00) Santiago(UTC-03:00) Sao\_Paulo(UTC-03:00) Stanley(UTC-03:00) Thule(UTC-03:00) Tucuman(UTC-03:00) Ushuaia(UTC-02:00) Miquelon(UTC-02:00) Noronha(UTC-02:00) South\_Georgia(UTC-01:00) Cape\_Verde(UTC-01:00) Nuuk(UTC-01:00) Scoresbysund(UTC+00:00) Abidjan(UTC+00:00) Accra(UTC+00:00) Azores(UTC+00:00) Bamako(UTC+00:00) Banjul(UTC+00:00) Bissau(UTC+00:00) Conakry(UTC+00:00) Dakar(UTC+00:00) Danmarkshavn(UTC+00:00) Freetown(UTC+00:00) Lome(UTC+00:00) Monrovia(UTC+00:00) Nouakchott(UTC+00:00) Ouagadougou(UTC+00:00) Reykjavik(UTC+00:00) Sao\_Tome(UTC+00:00) St\_Helena(UTC+00:00) UTC(UTC+01:00) Algiers(UTC+01:00) Bangui(UTC+01:00) Brazzaville(UTC+01:00) Canary(UTC+01:00) Casablanca(UTC+01:00) Douala(UTC+01:00) Dublin(UTC+01:00) El\_Aaiun(UTC+01:00) Faroe(UTC+01:00) Guernsey(UTC+01:00) Isle\_of\_Man(UTC+01:00) Jersey(UTC+01:00) Kinshasa(UTC+01:00) Lagos(UTC+01:00) Libreville(UTC+01:00) Lisbon(UTC+01:00) London(UTC+01:00) Luanda(UTC+01:00) Madeira(UTC+01:00) Malabo(UTC+01:00) Ndjamena(UTC+01:00) Niamey(UTC+01:00) Porto-Novo(UTC+01:00) Tunis(UTC+02:00) Amsterdam(UTC+02:00) Andorra(UTC+02:00) Belgrade(UTC+02:00) Berlin(UTC+02:00) Blantyre(UTC+02:00) Bratislava(UTC+02:00) Brussels(UTC+02:00) Budapest(UTC+02:00) Bujumbura(UTC+02:00) Busingen(UTC+02:00) Ceuta(UTC+02:00) Copenhagen(UTC+02:00) Gaborone(UTC+02:00) Gibraltar(UTC+02:00) Harare(UTC+02:00) Johannesburg(UTC+02:00) Juba(UTC+02:00) Kaliningrad(UTC+02:00) Khartoum(UTC+02:00) Kigali(UTC+02:00) Ljubljana(UTC+02:00) Longyearbyen(UTC+02:00) Lubumbashi(UTC+02:00) Lusaka(UTC+02:00) Luxembourg(UTC+02:00) Madrid(UTC+02:00) Malta(UTC+02:00) Maputo(UTC+02:00) Maseru(UTC+02:00) Mbabane(UTC+02:00) Monaco(UTC+02:00) Oslo(UTC+02:00) Paris(UTC+02:00) Podgorica(UTC+02:00) Prague(UTC+02:00) Rome(UTC+02:00) San\_Marino(UTC+02:00) Sarajevo(UTC+02:00) Skopje(UTC+02:00) Stockholm(UTC+02:00) Tirane(UTC+02:00) Tripoli(UTC+02:00) Troll(UTC+02:00) Vaduz(UTC+02:00) Vatican(UTC+02:00) Vienna(UTC+02:00) Warsaw(UTC+02:00) Windhoek(UTC+02:00) Zagreb(UTC+02:00) Zurich(UTC+03:00) Addis\_Ababa(UTC+03:00) Aden(UTC+03:00) Amman(UTC+03:30) Tehran(UTC+03:00) Antananarivo(UTC+03:00) Asmara(UTC+03:00) Athens(UTC+03:00) Baghdad(UTC+03:00) Bahrain(UTC+03:00) Beirut(UTC+03:00) Bucharest(UTC+03:00) Cairo(UTC+03:00) Chisinau(UTC+03:00) Comoro(UTC+03:00) Damascus(UTC+03:00) Dar\_es\_Salaam(UTC+03:00) Djibouti(UTC+03:00) Famagusta(UTC+03:00) Gaza(UTC+03:00) Hebron(UTC+03:00) Helsinki(UTC+03:00) Istanbul(UTC+03:00) Jerusalem(UTC+03:00) Kampala(UTC+03:00) Kirov(UTC+03:00) Kuwait(UTC+03:00) Kyiv(UTC+03:00) Mariehamn(UTC+03:00) Mayotte(UTC+03:00) Minsk(UTC+03:00) Mogadishu(UTC+03:00) Moscow(UTC+03:00) Nairobi(UTC+03:00) Nicosia(UTC+03:00) Qatar(UTC+03:00) Riga(UTC+03:00) Riyadh(UTC+03:00) Simferopol(UTC+03:00) Sofia(UTC+03:00) Syowa(UTC+03:00) Tallinn(UTC+03:00) Vilnius(UTC+03:00) Volgograd(UTC+04:00) Astrakhan(UTC+04:00) Baku(UTC+04:00) Dubai(UTC+04:30) Kabul(UTC+04:00) Mahe(UTC+04:00) Mauritius(UTC+04:00) Muscat(UTC+04:00) Reunion(UTC+04:00) Samara(UTC+04:00) Saratov(UTC+04:00) Tbilisi(UTC+04:00) Ulyanovsk(UTC+04:00) Yerevan(UTC+05:00) Almaty(UTC+05:00) Aqtau(UTC+05:00) Aqtobe(UTC+05:00) Ashgabat(UTC+05:00) Atyrau(UTC+05:00) Dushanbe(UTC+05:00) Karachi(UTC+05:00) Mawson(UTC+05:30) Colombo(UTC+05:45) Kathmandu(UTC+05:30) Kolkata(UTC+05:00) Kerguelen(UTC+05:00) Maldives(UTC+05:00) Oral(UTC+05:00) Qostanay(UTC+05:00) Qyzylorda(UTC+05:00) Samarkand(UTC+05:00) Tashkent(UTC+05:00) Vostok(UTC+05:00) Yekaterinburg(UTC+06:00) Bishkek(UTC+06:00) Chagos(UTC+06:00) Dhaka(UTC+06:00) Omsk(UTC+06:00) Thimphu(UTC+06:00) Urumqi(UTC+07:00) Bangkok(UTC+07:00) Barnaul(UTC+07:00) Christmas(UTC+07:00) Davis(UTC+07:00) Ho\_Chi\_Minh(UTC+07:00) Hovd(UTC+07:00) Jakarta(UTC+07:00) Krasnoyarsk(UTC+07:00) Novokuznetsk(UTC+07:00) Novosibirsk(UTC+07:00) Phnom\_Penh(UTC+07:00) Pontianak(UTC+07:00) Tomsk(UTC+07:00) Vientiane(UTC+06:30) Cocos(UTC+06:30) Yangon(UTC+08:00) Brunei(UTC+08:00) Casey(UTC+08:00) Choibalsan(UTC+08:00) Hong\_Kong(UTC+08:00) Irkutsk(UTC+08:00) Kuala\_Lumpur(UTC+08:00) Kuching(UTC+08:00) Macau(UTC+08:00) Makassar(UTC+08:00) Manila(UTC+08:00) Perth(UTC+08:00) Shanghai(UTC+08:00) Singapore(UTC+08:00) Taipei(UTC+08:00) Ulaanbaatar(UTC+09:00) Chita(UTC+09:00) Dili(UTC+09:00) Jayapura(UTC+09:00) Khandyga(UTC+09:00) Yakutsk(UTC+09:30) Adelaide(UTC+10:00) Brisbane(UTC+09:30) Broken\_Hill(UTC+09:00) Palau(UTC+09:00) Pyongyang(UTC+09:00) Seoul(UTC+09:00) Tokyo(UTC+10:00) Chuuk(UTC+10:00) DumontDUrville(UTC+09:30) Darwin(UTC+08:45) Eucla(UTC+10:00) Guam(UTC+10:00) Hobart(UTC+10:00) Lindeman(UTC+10:00) Macquarie(UTC+10:00) Melbourne(UTC+10:00) Port\_Moresby(UTC+10:00) Saipan(UTC+10:00) Sydney(UTC+10:00) Ust-Nera(UTC+10:00) Vladivostok(UTC+11:00) Bougainville(UTC+11:00) Efate(UTC+11:00) Guadalcanal(UTC+11:00) Kosrae(UTC+11:00) Magadan(UTC+11:00) Norfolk(UTC+11:00) Noumea(UTC+11:00) Pohnpei(UTC+11:00) Sakhalin(UTC+11:00) Srednekolymsk(UTC+10:30) Lord\_Howe(UTC+12:00) Anadyr(UTC+12:00) Fiji(UTC+12:00) Funafuti(UTC+12:00) Kamchatka(UTC+12:00) Kwajalein(UTC+12:00) Majuro(UTC+12:00) Nauru(UTC+12:00) Tarawa(UTC+12:00) Wake(UTC+12:00) Wallis(UTC+13:00) Apia(UTC+13:00) Auckland(UTC+13:00) Fakaofo(UTC+13:00) Kanton(UTC+13:00) McMurdo(UTC+13:45) Chatham(UTC+13:00) Tongatapu(UTC+14:00) Kiritimati
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Service](https://policies.google.com/terms?hl=en) apply.
 
@@ -589,18 +601,6 @@ And we will call you back as soon as possible
 Phone number
 
 \* I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in accordance with [Privacy Policy](https://www.revas.online/en/privacy-policy/).
-
-×
-
-The Revas software flexible solutions, possible combinations and a well-chosen method of analyzing the output data, for which the game participant is responsible, indicate that this tool should be more widely used not only in secondary education, but above all in universities, where each participant, even tangibly will be able to observe what are the effects of business operations of virtual companies.  
-I have seen many similar solutions, but the quality of REVAS software should be a specific reference as a great example of product accuracy.
-
-![](/wp-content/uploads/2019/10/piotr-zawada.jpg)
-
-Piotr Zawada Associate Professor
-
-Lecturer  
-Cardinal Stefan Wyszyński University in Warsaw
 
 ×
 
@@ -795,8 +795,8 @@ The privacy policy can be changed. The most current version of the policy will g
 
 x
 
-![](/wp-content/uploads/2022/06/calendar-svgrepo-com.svg)
+![book a demo](/wp-content/uploads/2022/06/calendar-svgrepo-com.svg)
 
-[![](/wp-content/uploads/2022/06/phone.svg)](tel:+48536488306)
+[![phone number](/wp-content/uploads/2022/06/phone.svg)](tel:+48536488306)
 
-![](/wp-content/uploads/2022/06/chat-svgrepo-com.svg)
+![chat icon](/wp-content/uploads/2022/06/chat-svgrepo-com.svg)
