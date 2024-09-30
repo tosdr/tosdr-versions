@@ -171,6 +171,8 @@ Are you ready to start facing your fear and living your bucket list?
 
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
 
+![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
+
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
 ###### **Hey Bucket Listers!**  
@@ -226,6 +228,35 @@ Whatcha Looking for?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-© BUCKET LIST JOURNEY 2024 | ALL RIGHTS RESERVED | [GET IN TOUCH](https://bucketlistjourney.net/advertisesponsor__trashed/contact/) | [LEGAL](https://bucketlistjourney.net/terms/)
+* [Instagram](https://www.instagram.com/bucketlistjourney/)
+* [Facebook](https://www.facebook.com/BucketListJourney)
+* [Pinterest](https://www.pinterest.com/bucketlistjrny)
+* [TikTok](https://www.tiktok.com/@msannettewhite)
+
+### ABOUT
+
+[About Annette](https://bucketlistjourney.net/about/)  
+[My Bucket List](https://bucketlistjourney.net/my-bucket-list/)  
+[Work With Me](https://bucketlistjourney.net/media-kit/)  
+[Contact](https://bucketlistjourney.net/contact/)
+
+### rESOURCES
+
+[Start a Bucket List](https://bucketlistjourney.net/start-your-bucket-list/)  
+[Shop buck & co.](https://buckandco.net/)
+
+### ON THE BLOG
+
+[Bucket List Ideas](https://bucketlistjourney.net/category/bucket-list-ideas/)  
+[Travel Tips](https://bucketlistjourney.net/category/travel-tips/)  
+[Motivation](https://bucketlistjourney.net/category/motivation/)
+
+### DESTINATIONS
+
+[World Travel](https://bucketlistjourney.net/category/destinations/)  
+[USA Travel](https://bucketlistjourney.net/category/north-america-travel/)  
+[California](https://bucketlistjourney.net/category/california-travel/)
+
+© BUCKET LIST JOURNEY 2024 | ALL RIGHTS RESERVED | [GET IN TOUCH](https://bucketlistjourney.net/advertisesponsor__trashed/contact/) | [PRIVACY POLICY](https://bucketlistjourney.net/terms/)
 
 [](# "Scroll back to top")
