@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5a8788b08ec5ca6f65e3cc05c544f119
+a6c2cb8bcfbb124470fb2390c71632ae
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage ridged two-hole bright turquoise beads](https://sojourner.biz/images/cache/glass/VB0016front.200.jpg)](https://sojourner.biz/beads/glass/vintage-ridged-two-hole-bright-turquoise-beads.html "Vintage ridged two-hole bright turquoise beads")
+[![Round pink crystal clasp](https://sojourner.biz/images/cache/SKU0085front.200.jpg)](https://sojourner.biz/clasps/glass/round-pink-crystal-clasp.html "Round pink crystal clasp")
 
-#### [Vintage ridged two-hole bright turquoise beads](https://sojourner.biz/beads/glass/vintage-ridged-two-hole-bright-turquoise-beads.html "Vintage ridged two-hole bright turquoise beads")
+#### [Round pink crystal clasp](https://sojourner.biz/clasps/glass/round-pink-crystal-clasp.html "Round pink crystal clasp")
 
-$5.00
+$23.00
 
 ### Best Sellers
 
