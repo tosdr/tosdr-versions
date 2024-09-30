@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup the Favorites folder](https://www.backup4all.com/backup-the-favorites-folder-kb.html)  
+* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
     
-* [What is a Full Backup?](https://www.backup4all.com/full-backup-kb.html)  
+* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
     
-* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
+* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
     
-* [Using Backup4all - FAQ 10](https://www.backup4all.com/using-backup4all-faq-10-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
+* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
     
 
 Choose language:
