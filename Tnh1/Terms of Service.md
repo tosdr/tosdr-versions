@@ -14,9 +14,99 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
+Últimas de Maceió
+
+[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
+
+   [![ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_acoes_com_idosos_divulgacao_33ce0bf4e0.jpg)
+
+EM MACEIÓ
+
+ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://www.tnh1.com.br/noticia/nid/ong-realiza-semana-de-acoes-em-comemoracao-ao-dia-do-idoso-saiba-como-ajudar/ "ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar")   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
+
+em recuperação
+
+HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")   [![Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_Mulher_encontrada_no_bairro_do_Prado_-_foto_Reproducao_2acc7e0576.jpg)
+
+62 anos
+
+Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://www.tnh1.com.br/noticia/nid/moradores-do-prado-tentam-localizar-familia-de-mulher-encontrada-com-sinais-de-desorientacao/ "Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação")   [![MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
+
+Maceió
+
+MPF vai investigar risco de desabamento e danos ambientais de emissário submarino](https://www.tnh1.com.br/noticia/nid/mpf-vai-investigar-risco-de-desabamento-e-danos-ambientais-de-emissario-submarino/ "MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ")   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
+
+guias disponíveis
+
+Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
+
+Maceió
+
+Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ") 
+
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
+
+Alagoas
+
+Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")   [![Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_Alagoas_Da_sorte_a028d21f0c.jpg)
+
+Alagoas
+
+Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://www.tnh1.com.br/noticia/nid/confira-o-resultado-do-sorteio-do-alagoas-da-sorte-deste-domingo-29/ "Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29")   [![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_c935190793.jpg)
+
+Alagoas
+
+Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
+
+inadimplentes
+
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
+
+Alagoas
+
+Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")   [![Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_Dia_Nacional_do_Surdo_-_Cordial__2__146a958d8b.jpeg)
+
+Alagoas
+
+Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://www.tnh1.com.br/noticia/nid/inclusao-na-saude-colaboradores-sao-capacitados-em-libras-para-atendimento-da-comunidade-surda/ "Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Polícia apreende adolescente com "pistola" artesanal em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_adolescente-e-apreendido-com-arma-artesanal-pela-pm-em-arapiraca_d6d1f11e1e.jpg)
+
+Interior
+
+Polícia apreende adolescente com "pistola" artesanal em Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-apreende-adolescente-com-pistola-artesanal-em-arapiraca/ "Polícia apreende adolescente com "pistola" artesanal em Arapiraca")   [![PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_pm-al-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana_5e4e58a38c.jpg)
+
+BALANÇO
+
+PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana/ "PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana")   [![Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_suspeito_preso_homicidio_agreste_bb42b54b32.jpg)
+
+suspeitos presos
+
+Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-mata-jovem-a-facadas-apos-suposta-ameaca-de-morte-no-agreste-de-alagoas/ "Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas")   [![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+
+Polícia
+
+Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")   [![Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/c/csm_Pelopes_-_foto_PMAL_2f66bc1ea2.jpeg)
+
+Agreste
+
+Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustiveis-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustíveis é preso em Arapiraca")   [![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_5a945c78b1.jpeg)
+
+Polícia
+
+Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -25,6 +115,16 @@
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+
+Pessoas & Negócios
+
+Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -98,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
+[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
 
 NO DF
 
@@ -106,65 +206,65 @@ NO DF
 
 Empresário morre após tiro acidental de espingarda na própria perna
 
-Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_Policial_que_prendeu_assassino_do_pai_25_anos_depois_teve_crise_de_choro_apos_prisao_-_foto_PC_b1a4c48009.jpeg)
+Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
 
-Boa Vista
+novidade
 
-Boa Vista
+novidade
 
-Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão
+Entenda como Roberto Medina usará área do Rock in Rio para parque temático
 
-Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://www.tnh1.com.br/noticia/nid/policial-que-prendeu-assassino-do-pai-25-anos-depois-teve-crise-de-choro-apos-prisao/ "Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão")[![Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_Secretaria_do_Trabalho_divulga_novas_741_vagas_de_emprego_para_diversas_areas_em_Maceio_e_no_interior_-_foto__Fotos_Mariel_Mathias__Fernanda_Fernandes_-_Ascom_SETEQ_eac6560d4e.jpg)
-
-veja cargos
-
-veja cargos
-
-Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior
-
-Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/sine-al-divulga-novas-741-vagas-de-emprego-para-areas-em-maceio-e-no-interior/ "Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior")[![Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Mario_Marroquim__presidente_do_CRB_-_Foto_Reproducao_-_CRB_Cast_ca41e10dbd.jpg)
-
-Série B
-
-Série B
-
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB
-
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB](https://www.tnh1.com.br/noticia/nid/troca-de-comando-psicologico-premiacao-e-mais-veja-exclusiva-com-presidente-do-crb/ "Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ")
-
-[![Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/3/csm_Dentista_Assassinada_57e9d471a5.jpg)
+Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
 
 Brasil
 
 Brasil
 
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
 
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-irma-a-facadas-se-entrega-a-policia-em-santa-catarina/ "Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina")[![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_ce7e3ddafa.jpg)
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_1d390650ba.jpg)
 
-Alagoas
+inadimplentes
 
-Alagoas
+inadimplentes
 
-Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento
 
-Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")[![Homem é preso por agredir cadela da raça chow-chow na zona norte do Rio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Cadela_Nina_f13f712390.jpg)
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")
 
-Brasil
-
-Brasil
-
-Homem é preso por agredir cadela da raça chow-chow na zona norte do Rio
-
-Homem é preso por agredir cadela da raça chow-chow na zona norte do Rio](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-agredir-cadela-da-raca-chow-chow-na-zona-norte-do-rio/ "Homem é preso por agredir cadela da raça chow-chow na zona norte do Rio")[![Polícia apreende “superfuzil” adulterado com maior poder de tiro no RJ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/5/csm_Superfuzil_9bb66fb666.jpg)
+[![Homem é morto por segurança de casa de shows em festa em SP](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_Seguranca_morto_casa_de_show_7c96ffad36.jpg)
 
 Brasil
 
 Brasil
 
-Polícia apreende “superfuzil” adulterado com maior poder de tiro no RJ
+Homem é morto por segurança de casa de shows em festa em SP
 
-Polícia apreende “superfuzil” adulterado com maior poder de tiro no RJ](https://www.tnh1.com.br/noticia/nid/policia-apreende-superfuzil-adulterado-com-maior-poder-de-tiro-no-rj/ "Polícia apreende “superfuzil” adulterado com maior poder de tiro no RJ")
+Homem é morto por segurança de casa de shows em festa em SP](https://www.tnh1.com.br/noticia/nid/homem-e-morto-por-seguranca-de-casa-de-shows-em-festa-em-sp/ "Homem é morto por segurança de casa de shows em festa em SP")[![Entenda técnica que faz mosquito levar larvicida a seus criadouros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/c/csm_Mosquitos_Aedes_aegypt__Divulgacao_-_World_Mosquito_Prog_6c52f36a32.jpg)
+
+Brasil
+
+Brasil
+
+Entenda técnica que faz mosquito levar larvicida a seus criadouros
+
+Entenda técnica que faz mosquito levar larvicida a seus criadouros](https://www.tnh1.com.br/noticia/nid/entenda-tecnica-que-faz-mosquito-levar-larvicida-a-seus-criadouros/ "Entenda técnica que faz mosquito levar larvicida a seus criadouros")[![Estudo encontra chumbo no leite materno de mulheres de São Paulo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_young-tender-nude-mother-breastfeeding-hugging-her-newborn-baby-sitting-bed-morning_b5662ed9cb.jpg)
+
+Saúde
+
+Saúde
+
+Estudo encontra chumbo no leite materno de mulheres de São Paulo
+
+Estudo encontra chumbo no leite materno de mulheres de São Paulo](https://www.tnh1.com.br/noticia/nid/estudo-encontra-chumbo-no-leite-materno-de-mulheres-de-sao-paulo/ "Estudo encontra chumbo no leite materno de mulheres de São Paulo")[![MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_MC_Rian_d7c3867685.jpg)
+
+Gente Famosa
+
+Gente Famosa
+
+MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”
+
+MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”](https://www.tnh1.com.br/noticia/nid/mc-ryan-sp-se-pronuncia-sobre-caso-de-agressao-nao-fui-leal-a-minha-familia/ "MC Ryan SP se pronuncia sobre caso de agressão: “Não fui leal à minha família”")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
