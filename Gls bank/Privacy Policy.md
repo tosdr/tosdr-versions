@@ -1282,8 +1282,3 @@ Sozial-ökologisch seit 1974
 * [AGB](https://www.gls.de/agb/)
 * [Konditionen & Preise](https://www.gls.de/konditionen-preise/)
 * Cookies
-
-Wartungsarbeiten Kontoeröffnung
--------------------------------
-
-Wir machen Deine Daten noch sicherer. Eine Kontoeröffnung für Neukund\*innen ist deswegen ab 14 Uhr für ca. 2 Stunden nicht möglich. Das Onlinebanking ist davon nicht betroffen.
