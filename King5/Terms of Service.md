@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c/20240930T004751/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c/20240930T004751/c5f9aaa8-49f4-4eec-b1dd-e32aaf44846c_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/mariners-fans-reflecting-disappointing-2024-season/281-deee1dcc-2479-4924-861c-c315cde55b3e)
+    *  [![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_360x203.jpg)](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
         
-        #### ['We're done:' Mariners fans disappointed after team misses postseason](https://www.king5.com/article/sports/mlb/mariners/mariners-fans-reflecting-disappointing-2024-season/281-deee1dcc-2479-4924-861c-c315cde55b3e)
+        #### [No Internet, no computers: Hack of Highline Public Schools still impacting staff, students](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
         
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
+    *  [![](https://media.king5.com/assets/KING/images/5894e0d3-2393-4c04-b037-447afb25d778/20240930T051134/5894e0d3-2393-4c04-b037-447afb25d778_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5894e0d3-2393-4c04-b037-447afb25d778/20240930T051134/5894e0d3-2393-4c04-b037-447afb25d778_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-strike-continues-union-leadership-members-reject-offer/281-be435119-9165-4781-998f-e698387b9e93)
         
-        #### [Cinco Cosas: Agresión sexual en Kent, advertencia sobre robo de coches y más noticias](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
+        #### [Boeing machinists reject 'best and final' offer from company, strike continues](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-strike-continues-union-leadership-members-reject-offer/281-be435119-9165-4781-998f-e698387b9e93)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/90f7aef4-4037-467c-b001-772851037b26/20240930T052122/90f7aef4-4037-467c-b001-772851037b26_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90f7aef4-4037-467c-b001-772851037b26/20240930T052122/90f7aef4-4037-467c-b001-772851037b26_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
         
         #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
-        
-    *  [![](https://media.king5.com/assets/KING/images/692614ec-49b2-46c0-8eb0-3c908eca5824/20240929T152702/692614ec-49b2-46c0-8eb0-3c908eca5824_16x9.jpg) ![](https://media.king5.com/assets/KING/images/692614ec-49b2-46c0-8eb0-3c908eca5824/20240929T152702/692614ec-49b2-46c0-8eb0-3c908eca5824_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
