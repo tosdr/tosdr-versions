@@ -26,9 +26,9 @@ Popular tools
 
 AI](https://namegenerator.com/people/username)[City Names
 
-AI](https://namegenerator.com/place/city)[God Names
+AI](https://namegenerator.com/place/city)[Last Names](https://namegenerator.com/people/last)[God Names
 
-AI](https://namegenerator.com/fiction/god)[Last Names](https://namegenerator.com/people/last)[Brand Names
+AI](https://namegenerator.com/fiction/god)[Brand Names
 
 AI](https://namegenerator.com/business/brand)[Clan Names
 
