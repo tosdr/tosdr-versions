@@ -1,4 +1,4 @@
-![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                          
+![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                           
 
 Primary Menu Sections
 
@@ -75,6 +75,10 @@ Search [Email](https://email.nypost.com/?c=20fcghruiewhihiwh)
 Search 
 
 Search
+
+#### Breaking News
+
+[Death toll triples in Asheville area after Hurricane Helene guts North Carolina: 'There were bodies in the trees'](https://nypost.com/2024/09/30/us-news/death-toll-triples-in-asheville-area-after-hurricane-helene-guts-north-carolina/)
 
 Privacy Notice Highlights
 =========================
