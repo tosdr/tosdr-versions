@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WFAA/images/be0fb8df-d447-4c9a-9b5d-2421335976fd/20240927T020503/be0fb8df-d447-4c9a-9b5d-2421335976fd_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/be0fb8df-d447-4c9a-9b5d-2421335976fd/20240927T020503/be0fb8df-d447-4c9a-9b5d-2421335976fd_360x203.jpg)](https://www.kagstv.com/article/news/local/mansfield-texas-drone-show-guinness-world-record-sky-elements-display/287-a03f5178-feea-43ca-9e06-7e5a5ae2a099)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/bed48a9a-9433-46cb-b049-de1b32eab457/20240930T172704/bed48a9a-9433-46cb-b049-de1b32eab457_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bed48a9a-9433-46cb-b049-de1b32eab457/20240930T172704/bed48a9a-9433-46cb-b049-de1b32eab457_360x203.jpg)](https://www.kagstv.com/article/sports/local-sports/former-bryan-high-school-football-coach-merrill-green-passes-away-on-sept-29-2024-at-94/500-391dc332-582d-4a99-b149-b5485923c2da)
         
-        #### [Thousands of drones | North Texas town officially breaks Guinness World Record for largest remote-operated drones launching fireworks simultaneously](https://www.kagstv.com/article/news/local/mansfield-texas-drone-show-guinness-world-record-sky-elements-display/287-a03f5178-feea-43ca-9e06-7e5a5ae2a099)
+        #### [Former Bryan High School football coach Merrill Green dies at 94](https://www.kagstv.com/article/sports/local-sports/former-bryan-high-school-football-coach-merrill-green-passes-away-on-sept-29-2024-at-94/500-391dc332-582d-4a99-b149-b5485923c2da)
         
-    *  [![](https://media.kagstv.com/assets/WXIA/images/fc7105a3-4e2c-44f3-b331-7fce500fb76f/20240929T195444/fc7105a3-4e2c-44f3-b331-7fce500fb76f_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/fc7105a3-4e2c-44f3-b331-7fce500fb76f/20240929T195444/fc7105a3-4e2c-44f3-b331-7fce500fb76f_360x203.jpg)](https://www.kagstv.com/article/news/local/conyers-georgia-chemical-fire-evacuations-what-we-know/85-f49ac202-98d0-4374-bfd7-3ff532393cde)
+    *  [![](https://media.kagstv.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-tx-southgate-village-apartment-shooting-sept-29-2024/500-30acf5b9-6c5e-4118-b418-ae26e215ad56)
         
-        #### [What we know about BioLab fire in Conyers: Nearly 17,000 in evacuation zone; Newton schools closed Monday](https://www.kagstv.com/article/news/local/conyers-georgia-chemical-fire-evacuations-what-we-know/85-f49ac202-98d0-4374-bfd7-3ff532393cde)
+        #### [No injuries reported in shooting at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-tx-southgate-village-apartment-shooting-sept-29-2024/500-30acf5b9-6c5e-4118-b418-ae26e215ad56)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -54,9 +54,9 @@ Navigation
         
         #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
-    *  [![](https://media.kagstv.com/assets/CCT/images/c3895b07-67e5-4b5c-98ed-2317f7f51cd3/20240930T111456/c3895b07-67e5-4b5c-98ed-2317f7f51cd3_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/c3895b07-67e5-4b5c-98ed-2317f7f51cd3/20240930T111456/c3895b07-67e5-4b5c-98ed-2317f7f51cd3_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
+    *  [![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
-        #### [After Hurricane Helene, a logistical nightmare for supplies in eastern states](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
+        #### [Hurricane Helene aftermath: Death toll passes 100, supplies rushed to isolated communities](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-80°
+95°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
