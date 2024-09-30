@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design](https://s1.cdn.autoevolution.com/images/news/mesmerizingly-beautiful-camper-van-has-an-earthy-spanish-architecture-inspired-design-240501-5.jpg "Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design")
+[![1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine](https://s1.cdn.autoevolution.com/images/news/1970-cuda-340-won-t-start-shocked-mechanic-drains-three-gallons-of-gas-from-the-block-240572-5.jpg "1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine")
 
-Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design](https://www.autoevolution.com/news/mesmerizingly-beautiful-camper-van-has-an-earthy-spanish-architecture-inspired-design-240501.html)
+1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine](https://www.autoevolution.com/news/1970-cuda-340-won-t-start-shocked-mechanic-drains-three-gallons-of-gas-from-the-engine-240572.html)
 
 how-to \_
 
