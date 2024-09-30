@@ -175,7 +175,7 @@ Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicate
     Personal information sales opt-out and opt-in rights
     ----------------------------------------------------
     
-    If you are sixteen (16) years of age or older, you have the right to direct us to not sell your personal information at any time (the “right to opt-out”). We do not sell the personal information of individuals we actually know are less than sixteen (16) years of age. To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by visiting the following page: Do Not Sell My Personal Information.
+    If you are sixteen (16) years of age or older, you have the right to direct us to not sell your personal information at any time (the “right to opt-out”). We do not sell the personal information of individuals we actually know are less than sixteen (16) years of age. To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by clicking the following link: Do Not Sell My Personal Information.
     
     Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize personal information sales.
     
