@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-de003561d7f88fb89d0c9b3aefe0ce58
+3a4b1e4840f19d31d7b979cbc0337e4b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm faceted peridot diamond beads](https://www.sojourner.biz/images/cache/peridot/PER001.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
+[![Petite cameo pendant](https://www.sojourner.biz/images/cache/C0007.200.jpg)](https://www.sojourner.biz/components/petite-cameo-pendant.html "Petite cameo pendant")
 
-#### [6 mm faceted peridot diamond beads](https://www.sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
+#### [Petite cameo pendant](https://www.sojourner.biz/components/petite-cameo-pendant.html "Petite cameo pendant")
 
-$18.00
+$22.00
 
 ### Best Sellers
 
