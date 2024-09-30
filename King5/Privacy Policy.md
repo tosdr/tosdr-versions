@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c25cf973-ca87-4827-9bc0-5330f1265e69/20240930T121200/c25cf973-ca87-4827-9bc0-5330f1265e69_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c25cf973-ca87-4827-9bc0-5330f1265e69/20240930T121200/c25cf973-ca87-4827-9bc0-5330f1265e69_360x203.jpg)](https://www.king5.com/article/news/local/everett/suspect-dead-police-pursuit-fatal-crash-everett/281-59e2ba64-6219-41ad-98fa-5bc732385c7c)
+    *  [![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_360x203.jpg)](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
         
-        #### [Suspect dead after police pursuit ends in fatal crash in Everett](https://www.king5.com/article/news/local/everett/suspect-dead-police-pursuit-fatal-crash-everett/281-59e2ba64-6219-41ad-98fa-5bc732385c7c)
+        #### [No Internet, no computers: Hack of Highline Public Schools still impacting staff, students](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
         
-    *  [![](https://media.king5.com/assets/KING/images/bed2989f-8804-4abc-87fc-7f3429610a6c/20240930T050940/bed2989f-8804-4abc-87fc-7f3429610a6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bed2989f-8804-4abc-87fc-7f3429610a6c/20240930T050940/bed2989f-8804-4abc-87fc-7f3429610a6c_360x203.jpg)](https://www.king5.com/article/news/local/1-killed-another-hospitalized-seatac-house-fire/281-865b7c5b-8ef6-42c7-b98c-013de5db836f)
+    *  [![](https://media.king5.com/assets/KING/images/472745834/472745834_16x9.jpg) ![](https://media.king5.com/assets/KING/images/472745834/472745834_360x203.jpg)](https://www.king5.com/article/life/food/chilis-new-location-seattle/281-95c29e8b-c10a-4117-bb46-d3f49af2deaa)
         
-        #### [Officials investigating deadly SeaTac house fire that killed 1 resident](https://www.king5.com/article/news/local/1-killed-another-hospitalized-seatac-house-fire/281-865b7c5b-8ef6-42c7-b98c-013de5db836f)
+        #### [Chili's to open new location in western Washington. Here's where](https://www.king5.com/article/life/food/chilis-new-location-seattle/281-95c29e8b-c10a-4117-bb46-d3f49af2deaa)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/ad83ab15-4d57-40b8-9abb-16829a55a6ee/20240930T193359/ad83ab15-4d57-40b8-9abb-16829a55a6ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad83ab15-4d57-40b8-9abb-16829a55a6ee/20240930T193359/ad83ab15-4d57-40b8-9abb-16829a55a6ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
         
         #### [Cash, groceries and planes: How you can help after Hurricane Helene](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
-        
-    *  [![](https://media.king5.com/assets/KING/images/821a5e73-d4bd-41b6-b368-7c1b46549820/20240930T120202/821a5e73-d4bd-41b6-b368-7c1b46549820_16x9.jpg) ![](https://media.king5.com/assets/KING/images/821a5e73-d4bd-41b6-b368-7c1b46549820/20240930T120202/821a5e73-d4bd-41b6-b368-7c1b46549820_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-47°
+62°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
