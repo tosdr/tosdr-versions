@@ -658,8 +658,8 @@ No results found
 * [Devices](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation)
 * [Contact us](https://www.vodafone.com/news/contact-us)
 
-©2024 Vodafone Group
-
 Vodafone Group Plc. Registered Office: Vodafone House. The Connection, Newbury, Berkshire RG14 2FN. Registered in England No 1833679
 
 We use cookies to improve your experience on this site. [Read our policy](https://www.vodafone.com/cookie-policies)
+
+©2024 Vodafone Group
