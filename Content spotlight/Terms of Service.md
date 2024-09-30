@@ -4,9 +4,7 @@
 * [+91-9831405832](tel: +91-9831405832)
 * [info@contentspotlight.org](mailto:info@contentspotlight.org)
 
-[![Content Spotlight - A Keyword Research SEO company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://contentspotlight.org/)
+[![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://contentspotlight.org/)
 
 [CONTENT SPOTLIGHT](https://contentspotlight.org/)
 ==================================================
@@ -22,13 +20,14 @@ A KEYWORD RESEARCH SEO COMPANY
     * [SEO in India | Search Engine rankings matter](https://contentspotlight.org/seo-in-india-search-engine-rankings-matter/)
     * [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
     * [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
-* [Content Writing](https://contentspotlight.org/content-writing/)
+* [Content](https://contentspotlight.org/content/)
     * [Content Writing Agency in India | Premium writing services](https://contentspotlight.org/content-writing-agency-in-india-premium-writing-services/)
     * [Content Writing Company in India | Premium Copywriting agency](https://contentspotlight.org/content-writing-company-in-india-premium-copywriting-agency/)
     * [Content writing agency in Kolkata | Premium writing services](https://contentspotlight.org/content-writing-agency-in-kolkata-premium-writing-services/)
     * [Content Writing company in Kolkata | Best writing agency](https://contentspotlight.org/content-writing-company-in-kolkata-best-writing-agency/)
     * [Content Writing Services in India | Trustworthy Editorial services](https://contentspotlight.org/content-writing-services-in-india-trustworthy-editorial-services/)
     * [Content Writing Services in Kolkata | Best Copywriting Agency](https://contentspotlight.org/content-writing-services-in-kolkata-best-copywriting-agency/)
+* [Why Work with Us](https://contentspotlight.org/why-work-with-us/)
 
 TERMS OF USE
 ------------
@@ -54,9 +53,7 @@ By accessing ‘www.contentspotlight.org’, you consent to the use of the below
 
 Like Loading...
 
-[![DMCA.com Protection Status](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![DMCA.com Protection Status](https://i0.wp.com/images.dmca.com/Badges/dmca_protected_sml_120g.png?w=640&ssl=1)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
+[![DMCA.com Protection Status](https://i0.wp.com/images.dmca.com/Badges/dmca_protected_sml_120g.png?w=640&ssl=1)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
 
 Copyright © Content Spotlight 2023
 ----------------------------------
@@ -147,6 +144,22 @@ Copyright © Content Spotlight 2024 All Rights Reserved.
 
 [Link Exchange](https://linked.mywebtraffic.co.uk/ "Link Exchange")  
 [Gd M9 Blog](https://gd-m9.blogspot.com/ "Gd M9 Blog")[Free SEO Backlinks](https://www.websquash.com/)[Get SEO Backlinks](https://www.websquash.com/)
+
+![Accessibility](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+
+![Accessibility](https://contentspotlight.org/wp-content/plugins/wp-accessibility-helper/assets/images/accessibility-48.jpg)
+
+Close
+
+Font Resize
+
+A- A+
+
+Clear cookies
+
+Close
+
+[Accessibility by WAH](https://accessibility-helper.co.il/ "Accessibility by WP Accessibility Helper Team")
 
 error: Content is protected !!
 
