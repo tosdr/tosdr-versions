@@ -503,6 +503,7 @@ Resources
 * [Best practices](https://www.figma.com/best-practices/)
 * [Color wheel](https://www.figma.com/color-wheel/)
 * [Colors](https://www.figma.com/colors/)
+* [Color picker](https://www.figma.com/color-picker/)
 * [Templates](https://www.figma.com/templates/)
 * [Developers](https://www.figma.com/developers)
 * [Integrations](https://www.figma.com/product-integrations/)
