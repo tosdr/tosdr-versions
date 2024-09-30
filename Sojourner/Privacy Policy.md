@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3a4b1e4840f19d31d7b979cbc0337e4b
+fbdd03af45fbed04e77d927aca95a86d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Petite cameo pendant](https://www.sojourner.biz/images/cache/C0007.200.jpg)](https://www.sojourner.biz/components/petite-cameo-pendant.html "Petite cameo pendant")
+[![5 mm round Czech glass beads](https://www.sojourner.biz/images/cache/glass/GL0234.200.jpg)](https://www.sojourner.biz/beads/glass/5-mm-round-czech-glass-beads.html "5 mm round Czech glass beads")
 
-#### [Petite cameo pendant](https://www.sojourner.biz/components/petite-cameo-pendant.html "Petite cameo pendant")
+#### [5 mm round Czech glass beads](https://www.sojourner.biz/beads/glass/5-mm-round-czech-glass-beads.html "5 mm round Czech glass beads")
 
-$22.00
+$2.00
 
 ### Best Sellers
 
