@@ -400,6 +400,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![How to help: Hurricane Helene relief](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.00.17.26.jpg?ve=1&tl=1)
+
+ ![How to help: Hurricane Helene relief](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.00.17.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-help-hurrricane-helene)
+
+### [How to help: Hurricane Helene relief](https://www.fox4news.com/news/how-help-hurrricane-helene)
+
+ [![Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-CB-FW-MUSEUM-WAY-SHOOTING-FULL-RAW_00.00.39.38.jpg?ve=1&tl=1)
+
+ ![Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-CB-FW-MUSEUM-WAY-SHOOTING-FULL-RAW_00.00.39.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/homeowner-shoots-alleged-trespasser-after-rock-throwing-incident-fort-worth)
+
+### [Homeowner shoots alleged trespasser after rock-throwing incident in Fort Worth](https://www.fox4news.com/news/homeowner-shoots-alleged-trespasser-after-rock-throwing-incident-fort-worth)
+
+ [![Pedestrian in wheelchair killed in Dallas hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-SH-DPD-Major-Crash-Fx-Abrams-Rd_KDFW6e5f_18_00.02.43.02.jpg?ve=1&tl=1)
+
+ ![Pedestrian in wheelchair killed in Dallas hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-SH-DPD-Major-Crash-Fx-Abrams-Rd_KDFW6e5f_18_00.02.43.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pedestrian-wheelchair-killed-dallas-hit-and-run)
+
+### [Pedestrian in wheelchair killed in Dallas hit-and-run](https://www.fox4news.com/news/pedestrian-wheelchair-killed-dallas-hit-and-run)
+
  [![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
 
  ![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-shooting-lincoln-drive)
@@ -411,24 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Texans working to help areas devastated by Helene](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.01.17.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
 
 ### [Texans working to help areas devastated by Helene](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
-
- [![Nathan Eovaldi and Dustin Harris power Rangers to 8-0, season-ending sweep of Angels](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2175530948.jpg?ve=1&tl=1)
-
- ![Nathan Eovaldi and Dustin Harris power Rangers to 8-0, season-ending sweep of Angels](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175530948.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nathan-eovaldi-dustin-harris-power-rangers-8-0-season-ending-sweep-angels)
-
-### [Nathan Eovaldi and Dustin Harris power Rangers to 8-0, season-ending sweep of Angels](https://www.fox4news.com/sports/nathan-eovaldi-dustin-harris-power-rangers-8-0-season-ending-sweep-angels)
-
- [![Amber Guyger now eligible for parole in Botham Jean's murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/10/32/18/Amber-Guyger-prison-photo-1.jpg?ve=1&tl=1)
-
- ![Amber Guyger now eligible for parole in Botham Jean's murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/10/32/18/592/333/Amber-Guyger-prison-photo-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-guyger-now-eligible-parole-botham-jeans-murder)
-
-### [Amber Guyger now eligible for parole in Botham Jean's murder](https://www.fox4news.com/news/amber-guyger-now-eligible-parole-botham-jeans-murder)
-
- [![Former Gov. Rick Perry on new advisory role with Speaker Phelan | Texas: The Issue Is](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/Sequence-01.00_04_09_35.Still005.jpg?ve=1&tl=1)
-
- ![Former Gov. Rick Perry on new advisory role with Speaker Phelan | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/592/333/Sequence-01.00_04_09_35.Still005.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-the-issue-is-former-gov-rick-perry-senior-advisor-speaker-dade-phelan)
-
-### [Former Gov. Rick Perry on new advisory role with Speaker Phelan | Texas: The Issue Is](https://www.fox4news.com/news/texas-the-issue-is-former-gov-rick-perry-senior-advisor-speaker-dade-phelan)
 
 ###### [News](https://www.fox4news.com/news)
 
