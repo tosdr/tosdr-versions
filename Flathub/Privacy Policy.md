@@ -8,7 +8,7 @@ Search apps
 
 Open Menu
 
-[Publish](https://docs.flathub.org/docs/for-app-authors/submission)[Forum](https://discourse.flathub.org/)[About](https://flathub.org/about)[Log In](https://flathub.org/login)
+[Publish](https://docs.flathub.org/docs/for-app-authors/submission)[Forum](https://discourse.flathub.org/)[About](https://flathub.org/about)[Log In](https://flathub.org/login?returnTo=%2Fprivacy-policy)
 
 Privacy Policy for Flathub
 ==========================
