@@ -117,9 +117,9 @@ Contribute to a more sustainable experience by switching to dark mode. [Find out
 
 Sort by
 
-Most Relevant
+ Most Relevant
 
-Last Updated
+ Last Updated
 
 Search
 
@@ -176,10 +176,10 @@ Main navigation
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 * [Our Stories](https://privacy.nestleusa.com/stories)
     
@@ -204,10 +204,10 @@ Main navigation
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 * [Innovation](https://privacy.nestleusa.com/innovation)
     
@@ -247,10 +247,10 @@ Main navigation
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 * [Brands](https://privacy.nestleusa.com/brands)
     
@@ -329,10 +329,10 @@ Main navigation
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 * [Ask Nestlé](https://privacy.nestleusa.com/ask-nestle)
     
@@ -350,10 +350,10 @@ Main navigation
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 
 Secondary menu
@@ -393,17 +393,17 @@ Secondary menu
     
     * [Contact Us
         
-        ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+        ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
     * [Tell Us
         
-        ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+        ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
     
 
 Sort by
 
-Most Relevant
+ Most Relevant
 
-Last Updated
+ Last Updated
 
 Search
 
@@ -414,10 +414,10 @@ Header persistent submenu
 
 * [Contact Us
     
-    ![Contact Us](/sites/g/files/pydnoa536/files/2019-06/icon-contact-yellow.png)](https://privacy.nestleusa.com/info/contact-us-landing)
+    ![Contact Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-contact-yellow.png.webp?itok=qIH6lK99)](https://privacy.nestleusa.com/info/contact-us-landing)
 * [Tell Us
     
-    ![Tell Us](/sites/g/files/pydnoa536/files/2019-06/icon-tellus-teal.png)](https://www.nestleusa.com/about-us/report_your_concerns)
+    ![Tell Us](/sites/g/files/pydnoa536/files/styles/webp_image/public/2019-06/icon-tellus-teal.png.webp?itok=LXOnSvpv)](https://www.nestleusa.com/about-us/report_your_concerns)
 
 1. [Home](https://privacy.nestleusa.com/)
 2. Nestlé USA Privacy Policy
