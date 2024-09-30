@@ -1,4 +1,4 @@
- [![](/var/de/storage/images/_aliases/site_logo_medium/9/5/7/9/139759-5-ger-DE/brand-new.webp?asset-version=1727635189)](https://www.ruhrtalradweg.de/de/)
+ [![](/var/de/storage/images/_aliases/site_logo_medium/9/5/7/9/139759-5-ger-DE/brand-new.webp?asset-version=1727635207)](https://www.ruhrtalradweg.de/de/)
 
 * [Der RuhrtalRadweg](https://www.ruhrtalradweg.de/de/der-ruhrtalradweg)
     * [Zahlen, Daten, Fakten](https://www.ruhrtalradweg.de/de/der-ruhrtalradweg/zahlen-daten-fakten)
