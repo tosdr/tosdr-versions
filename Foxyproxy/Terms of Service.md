@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I only had 2 hours downtime for the entire 90 days of my subscription. I'm going to signup again. Thanks FoxyProxy!
+I used FoxyProxy throughout the years I was living outside of the UK, and found it an absolutely brilliant service and excellent value, moved back to the UK a month or two back and at the moment have little or no need to use it, but would not hesitate to sign up again should the need arise.
 
-Alblarion155
+Tim May
