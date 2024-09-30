@@ -1,6 +1,6 @@
 <img src="https://secure.7-companycompany.com/796156.png" style="display:none;">        
 
-[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
+[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en)
 
 * Products
     
@@ -70,7 +70,7 @@ Legislation & Compliance 
 
 ### [License Information ->](https://wire.com/en/license-information)
 
-[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
+[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en)
 
 [](https://www.linkedin.com/company/wire-secure-communication)[](https://github.com/wireapp)
 
