@@ -1,4 +1,4 @@
-Important Reminder: Never accept a friend request from a financial institution or provide private information. Financial institutions will NEVER send social media requests and will NEVER contact you to request personal information.
+Our Livonia Newburgh ATM is currently unavailable. Please visit ZealCU.org/Locations to locate the closest Zeal and network ATMs.
 
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 
@@ -549,9 +549,9 @@ Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
 E-mail: [\[email protected\]](https://www.zealcu.org/cdn-cgi/l/email-protection)
 
-##### Important Information:
+##### Our Newburgh location ATM is currently unavailable.
 
-Important Reminder: Never accept a friend request from a financial institution or provide private information. Financial institutions will NEVER send social media requests and will NEVER contact you to request personal information.
+Our Livonia Newburgh ATM is currently unavailable. Please visit ZealCU.org/Locations to locate the closest Zeal and network ATMs.
 
 ##### Leaving This Site
 
@@ -587,6 +587,8 @@ download our mobile app
 We do business in accordance with the Fair Housing Law and Equal Opportunity Credit Act.
 
 **Your savings is federally insured to at least $250,000 and backed by the full faith and credit of the United States Government.**
+
+    
 
   
 
