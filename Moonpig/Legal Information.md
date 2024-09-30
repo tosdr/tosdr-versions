@@ -254,7 +254,7 @@ Menu
     
     * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
     * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
-    * [Entertainer](https://www.moonpig.com/uk/gifts/the-entertainer/)
+    * [The Entertainer](https://www.moonpig.com/uk/gifts/the-entertainer/)
     * [Early Learning Centre](https://www.moonpig.com/uk/gifts/early-learning-centre/)
     * [Buyagift](https://www.moonpig.com/uk/gifts/experience-gifts/buy-a-gift/)
     * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/)
@@ -265,33 +265,9 @@ Menu
     * [Disney](https://www.moonpig.com/uk/disney/)
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/)
     
-* Open Balloons dropdown[![Balloons](https://static.web-explore.prod.moonpig.net/_next/static/images/balloons-ede525326ffc97c5100878fbf7305677.svg)
+* [![Alcohol](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
     
-    Balloons](https://www.moonpig.com/uk/gifts/balloons/)
-    
-    ### Shop by Recipient
-    
-    * [For Her](https://www.moonpig.com/uk/gifts/balloons/for-her/)
-    * [For Him](https://www.moonpig.com/uk/gifts/balloons/for-him/)
-    * [For Kids](https://www.moonpig.com/uk/gifts/balloons/for-kids/)
-    * [For Teens](https://www.moonpig.com/uk/gifts/balloons/for-teens/)
-    
-    ### Shop by Occasion
-    
-    * [Birthday](https://www.moonpig.com/uk/gifts/balloons/birthday/)
-    * [Anniversary](https://www.moonpig.com/uk/gifts/balloons/anniversary/)
-    * [Congratulations](https://www.moonpig.com/uk/gifts/balloons/congratulations/)
-    * [New Baby](https://www.moonpig.com/uk/gifts/balloons/new-baby/)
-    * [Thinking of You](https://www.moonpig.com/uk/gifts/balloons/thinking-of-you/)
-    * [Wedding](https://www.moonpig.com/uk/gifts/balloons/wedding/)
-    
-    ### Shop by Type
-    
-    * [Single Balloons](https://www.moonpig.com/uk/gifts/balloons/single/)
-    * [Gift Sets](https://www.moonpig.com/uk/gifts/balloons/gift-sets/)
-    * [Balloon Bouquets](https://www.moonpig.com/uk/gifts/balloons/bouquets/)
-    * [Number Balloons](https://www.moonpig.com/uk/gifts/balloons/number-balloons/)
-    * [Letterbox Balloons](https://www.moonpig.com/uk/gifts/balloons/letterbox/)
+    Alcohol](https://www.moonpig.com/uk/gifts/alcohol/all/)
     
 * Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
