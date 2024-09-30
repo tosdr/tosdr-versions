@@ -1128,7 +1128,7 @@ Free standard shipping on any $35 purchase
 * [Home](https://www.ulta.com/)
 * Terms and Conditions
 
-LAST UPDATED DECEMBER 14, 2023
+LAST UPDATED September 30, 2024
 
 Terms and Conditions
 ====================
@@ -1319,6 +1319,14 @@ In addition, the browser-based Virtual Beauty Program powered by Perfect Corp. a
 
 By using the Virtual Beauty Programs, you represent and warrant that you are either (i) the person in the photo or video that you provide to the Virtual Beauty Programs, or (ii) the legally authorized representative of the person in that photo or video. Furthermore, you agree to indemnify Ulta Beauty for and hold Ulta Beauty harmless from any claims that arise because you were not the person in the photo or video or you were not the authorized representative of the person in the photo or video.
 
+Ulta Beauty Community
+
+The Ulta Beauty Community (“Community”) is an online social community made available through Ulta’s website and mobile application that allows Ulta Beauty members to engage with other Ulta Beauty members, submit content, and further explore the Ulta Beauty brand. You must be at least 16 years or older to participate in the Community. If you’re between the ages of 16 and 18 (or the age of consent where you live), you must get your parent or legal guardian’s consent before accepting this Agreement or participating in the Community. To become a Community member, you must register for an Ulta account. The Community is provided and managed by a third-party service provider. To learn more about this service provider, including how it processes your personal information, please send an e-mail to [legal@ulta.com](mailto:legal@ulta.com). By participating in the Community, you agree that Ulta Beauty may be making available your information to this third-party service provider. To learn more about how Ulta Beauty handles your information submitted through the Community, please see our Privacy Policy. After you become a Community member, some of the information associated with your Community membership and content you post through the Community will be visible to others. To learn more about how we handle your personal information through the Community, please see our [Privacy Policy](https://www.ulta.com/company/privacy/)
+
+* To make your profile private, you may delete your profile.
+
+All Community members must abide by the Ulta Beauty Community Guidelines. Ulta reserves the right and discretion to remove any Community members from the Community if they violate those guidelines or this Agreement at any time.
+
 Severability
 
 If any provision of this Agreement is found to be contrary to law, the remainder of that provision (if any) and the remaining provisions of this Agreement will remain in full force and effect.
@@ -1366,7 +1374,7 @@ The Program collects information about you and your device, including device loc
 
 Changes
 
-These \[Ulta Beauty Messenger\] Terms are subject to change at any time without notice.
+These Ulta Beauty Messenger Terms and Conditions are subject to change at any time without notice.
 
 ![the possibilities are beautiful](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
