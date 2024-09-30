@@ -20,13 +20,14 @@ A KEYWORD RESEARCH SEO COMPANY
     * [SEO in India | Search Engine rankings matter](https://contentspotlight.org/seo-in-india-search-engine-rankings-matter/)
     * [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
     * [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
-* [Content Writing](https://contentspotlight.org/content-writing/)
+* [Content](https://contentspotlight.org/content/)
     * [Content Writing Agency in India | Premium writing services](https://contentspotlight.org/content-writing-agency-in-india-premium-writing-services/)
     * [Content Writing Company in India | Premium Copywriting agency](https://contentspotlight.org/content-writing-company-in-india-premium-copywriting-agency/)
     * [Content writing agency in Kolkata | Premium writing services](https://contentspotlight.org/content-writing-agency-in-kolkata-premium-writing-services/)
     * [Content Writing company in Kolkata | Best writing agency](https://contentspotlight.org/content-writing-company-in-kolkata-best-writing-agency/)
     * [Content Writing Services in India | Trustworthy Editorial services](https://contentspotlight.org/content-writing-services-in-india-trustworthy-editorial-services/)
     * [Content Writing Services in Kolkata | Best Copywriting Agency](https://contentspotlight.org/content-writing-services-in-kolkata-best-copywriting-agency/)
+* [Why Work with Us](https://contentspotlight.org/why-work-with-us/)
 
 PRIVACY POLICY
 --------------
@@ -162,6 +163,22 @@ Copyright © Content Spotlight 2024 All Rights Reserved.
 
 [Link Exchange](https://linked.mywebtraffic.co.uk/ "Link Exchange")  
 [Gd M9 Blog](https://gd-m9.blogspot.com/ "Gd M9 Blog")[Free SEO Backlinks](https://www.websquash.com/)[Get SEO Backlinks](https://www.websquash.com/)
+
+![Accessibility](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+
+![Accessibility](https://contentspotlight.org/wp-content/plugins/wp-accessibility-helper/assets/images/accessibility-48.jpg)
+
+Close
+
+Font Resize
+
+A- A+
+
+Clear cookies
+
+Close
+
+[Accessibility by WAH](https://accessibility-helper.co.il/ "Accessibility by WP Accessibility Helper Team")
 
 error: Content is protected !!
 
