@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Rallin MM-sarja](https://yle.fi/a/74-20114175)[Abitreenit](https://yle.fi/a/74-20103465)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)[Abitreenit](https://yle.fi/a/74-20103465)
 
 [Hae](https://haku.yle.fi/)
 
@@ -14,9 +14,8 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Rallin MM-sarja](https://yle.fi/a/74-20114175)
-* [Abitreenit](https://yle.fi/a/74-20103465)
 * [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
+* [Abitreenit](https://yle.fi/a/74-20103465)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
@@ -406,7 +405,7 @@ Users of an Yle service have the right
 * To lodge a complaint with the supervising authority.
     
 
-To exercise your rights, please send us a request via the Yle Privacy website at [https://yle.fi/tietosuoja](https://yle.fi/tietosuoja) (in Finnish).
+To exercise your rights, please send us a request via the Yle Privacy website at [https://yle.fi/aihe/s/yleisradio/tiedosta-oikeutesi](https://yle.fi/aihe/s/yleisradio/tiedosta-oikeutesi) (in Finnish).
 
 Some of our services allow you to revoke your consent for the processing of personal data using, for example, the settings of a device, service or application.
 
