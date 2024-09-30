@@ -390,6 +390,7 @@ Resources
 
 * [Legal Disclaimer](https://charitableallies.org/legal-disclaimer/)
 * [Practice of Law](https://charitableallies.org/practice-of-law/)
+* [Accessibility Statement](https://charitableallies.org/accessibility-statement/)
 
 Explore
 
