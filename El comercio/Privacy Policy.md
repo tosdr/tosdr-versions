@@ -31,6 +31,221 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Av. Simón Bolívar está cerrada por choque con heridos, en Quito
+===============================================================
+
+La AMT gestiona el flujo vehicular en la Simón Bolívar mientras las instituciones de socorro atienden esta emergencia en el sector de Monjas
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Cinco vehículos colisionaron a la altura de Monjas.](https://www.elcomercio.com/wp-content/uploads/2024/09/choque-Simon-Bolivar.jpg)
+
+El ECU 911 informó sobre una emergencia registrada en la **av. Simón Bolívar** este lunes 30 de septiembre de 2024 en Quito.
+
+### Más noticias
+
+* [Siete personas fallecieron en ataque armado en una gallera](https://www.elcomercio.com/actualidad/seguridad/siete-personas-fallecieron-en-ataque-armado-en-una-gallera.html "Siete personas fallecieron en ataque armado en una gallera")
+* [La autopercepción femenina mejora con estos ejercicios](https://www.elcomercio.com/tendencias/autopercepcion-femenina-mejora-con-estos-ejercicios.html "La autopercepción femenina mejora con estos ejercicios")
+* [Así funciona el Pico y placa en Quito este lunes 30 de septiembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-30-de-septiembre.html "Así funciona el Pico y placa en Quito este lunes 30 de septiembre")
+
+El choque en la Simón Bolívar
+-----------------------------
+
+El Servicio de Emergencias recibió la alerta a las 06:27 que reportaba un choque entre cinco vehículos en la intersección de la **Simón Bolívar y Autopista General Rumiñahui,** a la altura de la gasolinera del sector Monjas.
+
+En las fotos compartidas se puede ver que entre los **vehículos colisionados** está una buseta escolar, un Fiat gris, un camión y un vehículo tipo SUB.
+
+La atención de esta **emergencia en Quito** se coordinó con el Cuerpo de Bomberos Quito, Ministerio de Salud Pública, Agencia Metropolitana de Tránsito (AMT) y Policía Nacional.
+
+Varias ambulancias y **otros equipos logísticos** llegaron al sitio para brindar ayuda a las personas afectadas.
+
+Según información preliminar, **nueve personas resultaron heridas** en este siniestro de tránsito, quienes reciben atención de primeros auxilios por parte de los paramédicos.
+
+La AMT gestiona el **flujo vehicular** en el lugar mientras se ejecutan las tareas de atención a esta emergencia en la vía. El carril derecho en sentido sur-norte está cerrado al tránsito.
+
+El ECU911 informó que, mediante las cámaras de videovigilancia, se **constata alta congestión** vehicular en el sitio.
+
+Si necesitas circular por este sector, toma las siguientes **rutas alternas:**
+
+* Av. Maldonado
+* Av. Mariscal Sucre
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Autopista General Rumiñahui  
+> 🚧 Cierre: av. Simón Bolívar  
+> 🛣️ Carriles cerrados: carril derecho en sentido sur-norte.  
+>   
+> 👆🏼 Con precaución y atención en las vías  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gMBeyRFUEX](https://t.co/gMBeyRFUEX)
+> 
+> — AMTQuito (@AMT\_Quito) [September 30, 2024](https://twitter.com/AMT_Quito/status/1840719052831961481?ref_src=twsrc%5Etfw)
+
+Cierre vehicular en el Centro Histórico
+---------------------------------------
+
+La AMT informó este lunes 30 de septiembre sobre **otro cierre en una vía de Quito**, esta vez en el Centro Histórico.
+
+Debido a un **trolebús averiado** se cerró el carril derecho en sentido sur norte, a la altura de la av. **Maldonado y Rocafuerte.**
+
+Agentes metropolitanos de tránsito asisten en la zona para ayudar con el tránsito.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Centro Histórico  
+> 🚧 Cierre: av. Maldonado y Rocafuerte  
+> 🛣️ Carriles cerrados: carril derecho en sentido sur-norte.  
+> ❌ Motivo: Trolebús averiado  
+>   
+> 👆🏼 Con precaución y atención en las vías  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kPnAMY0kjp](https://t.co/kPnAMY0kjp)
+> 
+> — AMTQuito (@AMT\_Quito) [September 30, 2024](https://twitter.com/AMT_Quito/status/1840713389410037764?ref_src=twsrc%5Etfw)
+
+Siete personas fallecieron en ataque armado en una gallera
+==========================================================
+
+La Policía Nacional desplegó sus unidades hacia el lugar para realizar investigaciones que permitan esclarecer el crimen en Samborondón
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Efectivos de la Policía acudieron al sitio para recabar información.](https://www.elcomercio.com/wp-content/uploads/2024/09/Policia-1.jpg)
+
+En la noche del domingo 29 de septiembre de 2024, un **ataque armado** se registró en una **gallera** en el recinto **Guachapelí,** cantón Samborondón.
+
+### Más noticias
+
+* [(Video) Policía fue atropellado en el norte de Quito](https://www.elcomercio.com/actualidad/quito/video-policia-fue-atropellado-en-el-norte-de-quito.html "(Video) Policía fue atropellado en el norte de Quito")
+* [Policía desarticuló banda que adulteraba alcohol en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-banda-adulteraba-alcohol-guayaquil.html "Policía desarticuló banda que adulteraba alcohol en Guayaquil")
+* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos") [](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")[detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
+
+El crimen en Guachapelí
+-----------------------
+
+Un grupo de sicarios habría llegado **a una gallera alrededor de las 19:00** del domingo. Los sujetos entraron disparando, según las versiones de los testigos.
+
+La Policía Nacional confirmó el **fallecimiento de siete personas** en este hecho violento. Las unidades especializadas acudieron al lugar para realizar las pericias necesarias para esclarecer el crimen.
+
+Unidades de Criminalística y Medicina Legal **acudieron a la emergencia** para los procedimientos de ley.
+
+Preliminarmente, se conoce que **más de 10 personas resultaron heridas.**
+
+Videos compartidos en **redes sociales** muestran a los fallecidos sobre el suelo mientras los testigos trataban de ayudarlos.
+
+Algunos trataron de llevarlos a hospitales **mientras la ayuda llegaba**; sin embargo, las víctimas fallecieron.
+
+El ataque se habría registrado antes de las 19:00. **Algunos de los fallecidos** tendrían múltiples impactos de bala.
+
+El ECU911 informó que recibieron **la alerta en la noche del domingo** alrededor de las 19:00 y se coordinó el auxilio inmediato con la Policía Nacional. La institución no ha ofrecido aún más información del hecho.
+
+> [#INFORMAMOS](https://twitter.com/hashtag/INFORMAMOS?src=hash&ref_src=twsrc%5Etfw) ||  
+> Ante un evento ocurrido en Samborondón, en el que se registró el fallecimiento de 7 personas, nuestras unidades especializadas se encuentran en el lugar investigando, con el fin de esclarecer las causas y capturar a los responsables de este hecho.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/O2zPS3JZCm](https://t.co/O2zPS3JZCm)
+> 
+> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [September 30, 2024](https://twitter.com/PoliciaDMGZona8/status/1840600008707498347?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este lunes 30 de septiembre
+=================================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento del Pico y placa en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-lunes.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+Más noticias
+------------
+
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
+* [Lluvias vuelven a Quito luego de 48 días de sequía](https://www.elcomercio.com/actualidad/quito/lluvias-caen-en-quito-luego-de-48-dias-de-sequia.html "Lluvias vuelven a Quito luego de 48 días de sequía")
+* [Muere Maggie Smith, reconocida actriz de Harry Potter](https://www.elcomercio.com/tendencias/entretenimiento/muere-maggie-smith-reconocida-actriz-de-harry-potter.html "Muere Maggie Smith, reconocida actriz de Harry Potter")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
+Cartas a Quito / 30 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este lunes 30 de septiembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Un plan maestro de electricidad
+-------------------------------
+
+A propósito de los apagones, se ha escuchado, con mucha frecuencia e intensidad, los reclamos de un sector político y su líder, la mención a un Plan Maestro de Electricidad que ellos dejaron hecho durante su gobierno que duró diez años.
+
+Yo tengo la certeza que un plan maestro, en el campo que sea, es una guía que se debe utilizar, y, que por supuesto, resultaría muy útil de poderlo implementar. Por supuesto que su contenido debería estar acorde a la realidad: necesidades futuras, etapas de implementación.
+
+Sería bastante bueno que no solamente se mencione la existencia de dicho plan, sino que, a grandes rasgos, se nos explique el contenido: ¿Qué construcciones se preveían en el plan?, ¿Cuánta cobertura tenía cada etapa?, ¿En dónde se proponía construir las diferentes etapas?
+
+Tenemos que, en la etapa ejecutada en el gobierno de Correa, se privilegió la construcción de centrales hidroeléctricas, principalmente en la cuenca oriental de la cordillera de los Andes. Un verdadero plan debería contemplar un balance de estas construcciones: ¿Se plantea en ese plan maestro la construcción de centrales hidroeléctricas en la cuenca occidental, como contraparte? ¿Se plantea la construcción de centrales con base en fuentes renovables? ¿Dónde?, ¿Cómo? ¿Cuáles fuentes no renovables?
+
+Nada de esto nos mencionan, y, tampoco, cuáles fueron los recursos asignados a esas construcciones, y el financiamiento para hacerlos, considerando que ese mismo gobierno dejó comprometidos los ingresos petroleros por lo menos hasta 2025. ¿Cómo se debía ejecutar el plan maestro? La única respuesta sería: aumentar impuestos o adquirir deudas para esas construcciones: ¿aguantaría la economía ecuatoriana estas medidas?
+
+Un plan, para que sea maestro, debe cubrir y responder, al menos, todas esas preguntas. Me encantaría que cuando se lo mencione se dé, de manera sucinta, todos los detalles que responden a las preguntas planteadas. Me gustaría unirme al coro de alabanzas a un plan maestro bien hecho.
+
+José M. Jalil Haas
+
+Protagonistas y no cuotas electorales
+=====================================
+
+El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres en la política, para la paridad de género.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial con el prompt: mujeres celebran una victoria electoral.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-20.jpg)
+
+En **Ecuador**, la **paridad** **de** **género** en la **política** se ha convertido en una obligación legal, especialmente de cara a las elecciones de 2025. Sin embargo, la realidad muestra que, aunque la norma se cumple en términos formales, su aplicación práctica revela **profundas** **brechas** en la **participación** **femenina**[.](https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero "https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero")
+
+Este año, con el requisito de inscribir listas con un **50% de mujeres**, se busca corregir la desigualdad de género en la política como un fenómeno estructural. Pero ¿qué tan efectiva es esta medida sin un **cambio estructural** en los partidos y en la sociedad?
+
+> El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio.
+
+La **Constitución** del Ecuador es clara: nadie debe ser discriminado por su **género**. Además, el Código de la Democracia refuerza esta disposición al exigir que las listas de candidatos respeten los principios de equidad, paridad, alternancia y secuencialidad. En teoría, estas normas son un avance para la igualdad de **oportunidades**. No obstante, la falta de estructura interna en los **partidos políticos** y la débil promoción de liderazgos femeninos hacen que, en la práctica, la paridad sea más una **obligación** que un resultado tangible.
+
+El problema de fondo radica en la **ausencia de espacios reales de poder para las mujeres**. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio. Las mujeres que terminan como **candidatas** muchas veces no son militantes ni comparten los principios de los **partidos** que las postulan. Este vacío de formación política dentro de los partidos demuestra la debilidad estructural que atraviesa el sistema político ecuatoriano.
+
+Aunque en el papel se logra la [paridad](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html"), los puestos de poder son dominio de los hombres. De los 16 binomios presidenciales anunciados para las **primarias**, solo dos están encabezados por **mujeres**. Esta cifra es una muestra clara de que la paridad en Ecuador todavía no se traduce en una igualdad efectiva.
+
+Entonces, ¿es suficiente cumplir con la paridad legal para alcanzar la **equidad de género en la política**? La respuesta es no. La paridad, si bien es un avance, debe ir acompañada de una transformación en la cultura política del país. Los partidos y movimientos necesitan fortalecer sus **estructuras** **internas**. Deben promover la formación de liderazgos femeninos genuinos y garantizando que las mujeres tengan un rol activo en la toma de decisiones.
+
+El verdadero cambio vendrá si a las mujeres se las ve como protagonistas y no como cuotas electorales a cumplir. Mientras esto no suceda, la **paridad** seguirá siendo una **norma vacía**. Será una medida que, aunque cumple con los requisitos legales, no logra modificar las dinámicas de poder. Unas que históricamente han marginado a las mujeres de los espacios de decisión.
+
+Las elecciones de 2025 presentan una oportunidad para avanzar en la **equidad** de **género** en la política ecuatoriana, pero el desafío es enorme. Cumplir con la paridad en las listas es un primer paso, pero la verdadera transformación solo llegará cuando los **partidos** y la sociedad entiendan que las mujeres no son solo un número más, sino agentes esenciales para la construcción de un **país más inclusivo y democrático**.
+
 La sequía impide el brote normal de las frutas en Ecuador
 =========================================================
 
@@ -105,57 +320,6 @@ Tres provincias cacaoteras están afectadas por la sequía
 El sector del cacao también sufre las consecuencias de la sequía. Iván Ontaneda, presidente de Anecacao, informa que las afectaciones se han reportado en Esmeraldas, Manabí y Los Ríos. Las zonas de estribación son las más afectadas. Aunque se han implementado sistemas de riego, muchos productores aún carecen de ellos. Anecacao trabaja en diagnósticos y recomendaciones para el uso óptimo del agua.
 
 Se promueven buenas prácticas agrícolas para conservar la humedad en el suelo y preparar a las plantas para el estrés hídrico. Además, se están realizando ensayos con nuevas alternativas para mejorar la humedad en las fincas de cacao. La incertidumbre en el abastecimiento influye en la producción y, por ende, en los precios en el mercado internacional.
-
-Protagonistas y no cuotas electorales
-=====================================
-
-El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres en la política, para la paridad de género.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial con el prompt: mujeres celebran una victoria electoral.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-20.jpg)
-
-En **Ecuador**, la **paridad** **de** **género** en la **política** se ha convertido en una obligación legal, especialmente de cara a las elecciones de 2025. Sin embargo, la realidad muestra que, aunque la norma se cumple en términos formales, su aplicación práctica revela **profundas** **brechas** en la **participación** **femenina**[.](https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero "https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero")
-
-Este año, con el requisito de inscribir listas con un **50% de mujeres**, se busca corregir la desigualdad de género en la política como un fenómeno estructural. Pero ¿qué tan efectiva es esta medida sin un **cambio estructural** en los partidos y en la sociedad?
-
-> El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio.
-
-La **Constitución** del Ecuador es clara: nadie debe ser discriminado por su **género**. Además, el Código de la Democracia refuerza esta disposición al exigir que las listas de candidatos respeten los principios de equidad, paridad, alternancia y secuencialidad. En teoría, estas normas son un avance para la igualdad de **oportunidades**. No obstante, la falta de estructura interna en los **partidos políticos** y la débil promoción de liderazgos femeninos hacen que, en la práctica, la paridad sea más una **obligación** que un resultado tangible.
-
-El problema de fondo radica en la **ausencia de espacios reales de poder para las mujeres**. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio. Las mujeres que terminan como **candidatas** muchas veces no son militantes ni comparten los principios de los **partidos** que las postulan. Este vacío de formación política dentro de los partidos demuestra la debilidad estructural que atraviesa el sistema político ecuatoriano.
-
-Aunque en el papel se logra la [paridad](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html"), los puestos de poder son dominio de los hombres. De los 16 binomios presidenciales anunciados para las **primarias**, solo dos están encabezados por **mujeres**. Esta cifra es una muestra clara de que la paridad en Ecuador todavía no se traduce en una igualdad efectiva.
-
-Entonces, ¿es suficiente cumplir con la paridad legal para alcanzar la **equidad de género en la política**? La respuesta es no. La paridad, si bien es un avance, debe ir acompañada de una transformación en la cultura política del país. Los partidos y movimientos necesitan fortalecer sus **estructuras** **internas**. Deben promover la formación de liderazgos femeninos genuinos y garantizando que las mujeres tengan un rol activo en la toma de decisiones.
-
-El verdadero cambio vendrá si a las mujeres se las ve como protagonistas y no como cuotas electorales a cumplir. Mientras esto no suceda, la **paridad** seguirá siendo una **norma vacía**. Será una medida que, aunque cumple con los requisitos legales, no logra modificar las dinámicas de poder. Unas que históricamente han marginado a las mujeres de los espacios de decisión.
-
-Las elecciones de 2025 presentan una oportunidad para avanzar en la **equidad** de **género** en la política ecuatoriana, pero el desafío es enorme. Cumplir con la paridad en las listas es un primer paso, pero la verdadera transformación solo llegará cuando los **partidos** y la sociedad entiendan que las mujeres no son solo un número más, sino agentes esenciales para la construcción de un **país más inclusivo y democrático**.
-
-Cartas a Quito / 30 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este lunes 30 de septiembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Un plan maestro de electricidad
--------------------------------
-
-A propósito de los apagones, se ha escuchado, con mucha frecuencia e intensidad, los reclamos de un sector político y su líder, la mención a un Plan Maestro de Electricidad que ellos dejaron hecho durante su gobierno que duró diez años.
-
-Yo tengo la certeza que un plan maestro, en el campo que sea, es una guía que se debe utilizar, y, que por supuesto, resultaría muy útil de poderlo implementar. Por supuesto que su contenido debería estar acorde a la realidad: necesidades futuras, etapas de implementación.
-
-Sería bastante bueno que no solamente se mencione la existencia de dicho plan, sino que, a grandes rasgos, se nos explique el contenido: ¿Qué construcciones se preveían en el plan?, ¿Cuánta cobertura tenía cada etapa?, ¿En dónde se proponía construir las diferentes etapas?
-
-Tenemos que, en la etapa ejecutada en el gobierno de Correa, se privilegió la construcción de centrales hidroeléctricas, principalmente en la cuenca oriental de la cordillera de los Andes. Un verdadero plan debería contemplar un balance de estas construcciones: ¿Se plantea en ese plan maestro la construcción de centrales hidroeléctricas en la cuenca occidental, como contraparte? ¿Se plantea la construcción de centrales con base en fuentes renovables? ¿Dónde?, ¿Cómo? ¿Cuáles fuentes no renovables?
-
-Nada de esto nos mencionan, y, tampoco, cuáles fueron los recursos asignados a esas construcciones, y el financiamiento para hacerlos, considerando que ese mismo gobierno dejó comprometidos los ingresos petroleros por lo menos hasta 2025. ¿Cómo se debía ejecutar el plan maestro? La única respuesta sería: aumentar impuestos o adquirir deudas para esas construcciones: ¿aguantaría la economía ecuatoriana estas medidas?
-
-Un plan, para que sea maestro, debe cubrir y responder, al menos, todas esas preguntas. Me encantaría que cuando se lo mencione se dé, de manera sucinta, todos los detalles que responden a las preguntas planteadas. Me gustaría unirme al coro de alabanzas a un plan maestro bien hecho.
-
-José M. Jalil Haas
 
 Los depredadores
 ================
@@ -747,6 +911,55 @@ De igual manera, decomisaron 750 cilindros de heroína; 17 paquetes de marihuana
 
 La Policía dijo que con “este golpe se ha logrado reducir las muertes violentas, bajo la modalidad de sicariato y posibles atentados en contra de terceras personas, ataques terroristas, entre otras actividades ilícitas”.
 
+La gata Catalina simboliza la esperanza en Colombia
+===================================================
+
+Catalina se convirtió en la mascota del Ejército en Arauca, Colombia. La gata sobrevivió a un ataque del ELN.
+-------------------------------------------------------------------------------------------------------------
+
+![Imagen tomada de El Tiempo de Bogotá. El hecho ocurrió en el Arauca.](https://www.elcomercio.com/wp-content/uploads/2024/09/gata-catalina-Colombia.jpg)
+
+**Catalina**, la gata que se ha convertido en un símbolo de resistencia y esperanza en **Colombia**, ha capturado la atención de muchos tras sobrevivir a un ataque del **Ejército de Liberación Nacional (ELN)** en **Arauca**. 
+
+La gata, que es considerada la mascota del **Ejército Nacional**, fue víctima de un atentado que dejó a más de 20 soldados heridos. A pesar de las adversidades, **Catalina** ha demostrado una notable capacidad de recuperación.
+
+### Más noticias
+
+* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
+* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
+
+El ataque y la supervivencia
+----------------------------
+
+El incidente ocurrió cuando un grupo armado del **ELN** atacó una base militar en **Arauca**. Durante el ataque, **Catalina** resultó gravemente herida por esquirlas en la cabeza y el cuello, además de sufrir una fractura.
+
+Inicialmente, los soldados creyeron que había fallecido debido a sus heridas. Sin embargo, su espíritu indomable le permitió luchar por su vida.
+
+Después de ser atendida por médicos veterinarios, **Catalina** comenzó su proceso de recuperación, lo que ha conmovido tanto a los militares como a la población civil.
+
+Un símbolo de esperanza
+-----------------------
+
+La historia de **Catalina** no solo es un relato de supervivencia; también representa la resiliencia del pueblo colombiano frente a la violencia y el conflicto armado.
+
+La gata ha sido adoptada como un símbolo por los soldados que la cuidan y protegen. Su presencia en la base militar ha servido para elevar la moral de las tropas y recordarles que incluso en los momentos más oscuros, hay espacio para la esperanza.
+
+Recuperación y cuidados
+-----------------------
+
+Desde su recuperación, Catalina ha estado bajo el cuidado constante de veterinarios y soldados. Los informes indican que está recibiendo tratamiento para sus heridas y se le proporciona un ambiente seguro y acogedor en la base militar.
+
+A medida que avanza su **rehabilitación**, se espera que Catalina pueda volver a ser una gata activa y juguetona, disfrutando de su vida en compañía de quienes han hecho todo lo posible por salvarla.
+
+Impacto en redes sociales
+-------------------------
+
+La historia de Catalina ha resonado profundamente en las redes sociales, donde numerosos usuarios han compartido su historia y expresado su apoyo.
+
+Las imágenes de la gata con sus cuidadores han circulado ampliamente, generando una ola de simpatía y solidaridad.
+
+Esta atención mediática no solo ha ayudado a visibilizar la situación del **conflicto armado en Colombia**, sino que también ha creado conciencia sobre el impacto que tiene en los seres vivos involucrados.
+
 Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre
 ===================================================================================
 
@@ -798,55 +1011,6 @@ Sobre los electrodomésticos es importante tener **precauciones**. En el caso de
 
 También es recomendable desconectar los **electrodomésticos** antes de los cortes de luz, con base en los horarios.
 
-La gata Catalina simboliza la esperanza en Colombia
-===================================================
-
-Catalina se convirtió en la mascota del Ejército en Arauca, Colombia. La gata sobrevivió a un ataque del ELN.
--------------------------------------------------------------------------------------------------------------
-
-![Imagen tomada de El Tiempo de Bogotá. El hecho ocurrió en el Arauca.](https://www.elcomercio.com/wp-content/uploads/2024/09/gata-catalina-Colombia.jpg)
-
-**Catalina**, la gata que se ha convertido en un símbolo de resistencia y esperanza en **Colombia**, ha capturado la atención de muchos tras sobrevivir a un ataque del **Ejército de Liberación Nacional (ELN)** en **Arauca**. 
-
-La gata, que es considerada la mascota del **Ejército Nacional**, fue víctima de un atentado que dejó a más de 20 soldados heridos. A pesar de las adversidades, **Catalina** ha demostrado una notable capacidad de recuperación.
-
-### Más noticias
-
-* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
-* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
-
-El ataque y la supervivencia
-----------------------------
-
-El incidente ocurrió cuando un grupo armado del **ELN** atacó una base militar en **Arauca**. Durante el ataque, **Catalina** resultó gravemente herida por esquirlas en la cabeza y el cuello, además de sufrir una fractura.
-
-Inicialmente, los soldados creyeron que había fallecido debido a sus heridas. Sin embargo, su espíritu indomable le permitió luchar por su vida.
-
-Después de ser atendida por médicos veterinarios, **Catalina** comenzó su proceso de recuperación, lo que ha conmovido tanto a los militares como a la población civil.
-
-Un símbolo de esperanza
------------------------
-
-La historia de **Catalina** no solo es un relato de supervivencia; también representa la resiliencia del pueblo colombiano frente a la violencia y el conflicto armado.
-
-La gata ha sido adoptada como un símbolo por los soldados que la cuidan y protegen. Su presencia en la base militar ha servido para elevar la moral de las tropas y recordarles que incluso en los momentos más oscuros, hay espacio para la esperanza.
-
-Recuperación y cuidados
------------------------
-
-Desde su recuperación, Catalina ha estado bajo el cuidado constante de veterinarios y soldados. Los informes indican que está recibiendo tratamiento para sus heridas y se le proporciona un ambiente seguro y acogedor en la base militar.
-
-A medida que avanza su **rehabilitación**, se espera que Catalina pueda volver a ser una gata activa y juguetona, disfrutando de su vida en compañía de quienes han hecho todo lo posible por salvarla.
-
-Impacto en redes sociales
--------------------------
-
-La historia de Catalina ha resonado profundamente en las redes sociales, donde numerosos usuarios han compartido su historia y expresado su apoyo.
-
-Las imágenes de la gata con sus cuidadores han circulado ampliamente, generando una ola de simpatía y solidaridad.
-
-Esta atención mediática no solo ha ayudado a visibilizar la situación del **conflicto armado en Colombia**, sino que también ha creado conciencia sobre el impacto que tiene en los seres vivos involucrados.
-
 Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso
 ==================================================================
 
@@ -892,123 +1056,3 @@ Pocos minutos después del gol, **Rivera estuvo cerca de lograr su doblete** con
 La escuadra azulgrana no bajó los brazos tras obtener la ventaja de dos goles y continuó generando ocasiones de peligro, con el objetivo de sentenciar la llave antes del partido de vuelta la próxima semana.
 
 En el ocaso del partido, Iker Morante, a los 82 minutos, conecte un cabezazo letal para sellar la goleada de la ‘AKD’
-
-Persona falleció en siniestro de tránsito en Quito
-==================================================
-
-Siniestro de tránsito en Quito dejó un saldo mortal, este 29 de septiembre.
----------------------------------------------------------------------------
-
-![Personal del Cuerpo de Bomberos atendió a víctimas de un siniestro en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/siniestro.jpg)
-
-Un siniestro de tránsito en **Quito** dejó un saldo mortal. Este ocurrió la mañana de este domingo, 29 de septiembre de 2024.
-
-Personal del **Cuerpo de Bomberos** de Quito acudió al lugar de los hechos. La emergencia se reportó a las 10:09.
-
-### Más noticias
-
-* [La mayoría de siniestros en Quito se produce en estas vías](https://www.elcomercio.com/actualidad/quito/mayoria-siniestros-quito-produce-estas-vias.html)
-* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
-* [Av. Simón Bolívar, cerrada por siniestro de bus escolar](https://www.elcomercio.com/actualidad/quito/simon-bolivar-cerrada-siniestro-bus-escolar.html "Av. Simón Bolívar, cerrada por siniestro de bus escolar")
-
-> 💥🚙 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Se registra un siniestro de tránsito al interior del paso a desnivel de las avenidas 10 de Agosto y De La Prensa.  
->   
-> 🚒 Nuestros paramédicos brindan atención prehospitalaria a una persona que resultó herida.  
->   
-> 🖤 Lamentablemente una persona falleció.  
->   
-> ⛔ Al momento… [pic.twitter.com/BoMq4rtDxs](https://t.co/BoMq4rtDxs)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 29, 2024](https://twitter.com/BomberosQuito/status/1840421257830887865?ref_src=twsrc%5Etfw)
-
-Siniestro de tránsito en Quito
-------------------------------
-
-El siniestro de tránsito se produjo en las avenidas **De la Prensa y 10 de Agosto**. Inmediatamente se movilizó personal al sitio, así como una unidad de rescate y ambulancias.
-
-El hecho se dio entre un coche entre un bus y un patrullero. Paramédicos del **Cuerpo de Bomberos de Quito** brindaron la atención primaria prehospitalaria a dos personas adultas que resultaron heridas. Ambas fueron llevadas a casas de salud.
-
-En el siniestro, además, **una persona falleció**. Por seguridad se realizó el cierre momentáneo de la vía del corredor central América-La Prensa.
-
-Siniestros y las vías de mayor riesgo
--------------------------------------
-
-En Ecuador, se registraron 20 994 siniestros de tránsito que provocaron 2 373 fallecidos, según los datos de la **Agencia Nacional de Tránsito (ANT)** en 2023. Esta cifra equivale a un fallecido cada cuatro horas en el país.
-
-Quito es el cantón que registró más fallecidos a causa de **siniestros de tránsito** en Ecuador en 2023, con 329 personas fallecidas.
-
-Con datos de enero a junio de 2024, entre las 10 vías con más siniestralidad registradas, se destaca en primer lugar la avenida **Simón Bolívar**, con 187 siniestros. Le sigue la av. Mariscal Sucre, con 172 siniestros.
-
-  
-
-La pobreza urbana en Argentina subió al 52,9 % en el primer semestre
-====================================================================
-
-En la comparación interanual, el índice de pobreza aumentó en el primer semestre del año 12,8 puntos porcentuales.
-------------------------------------------------------------------------------------------------------------------
-
-![Una persona en situación de calle descansa en un anden este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efeb23a819ecff0dc7d8653940333391f180cc5cd3bw.jpg)
-
-La pobreza en la **población urbana** de [Argentina](https://www.elcomercio.com/actualidad/mundo/argentina-prepara-cortes-voluntarios-energia-empresas-durante-verano.html "https://www.elcomercio.com/actualidad/mundo/argentina-prepara-cortes-voluntarios-energia-empresas-durante-verano.html") se situó en el **52,9 % en el primer semestre del año,** 11,2 puntos porcentuales por encima de la **tasa registrada** en la segunda mitad de 2023, informaron este jueves fuentes oficiales.
-
-![Una persona en situación de calle camina este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni
-](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe49171a15fbfc90e3a6405c2075aa6df42bc95fcdw-1200x800.jpg)
-
-Según señaló el **Instituto Nacional de Estadística y Censos (Indec)** en un informe, el índice de indigencia se situó en el primer semestre del año en el 18,1 % de las personas, **6,2 puntos por encima** de la tasa registrada en el segundo semestre de 2023.
-
-![Fotografía de una calle en un barrio marginal este jueves en la ciudad de Buenos Aires (Argentina). EFE/Juan Ignacio Roncoroni
-](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efec7cbcfe08d9e69b0a5c60fcf60e2fec7b8c3e265w-1200x800.jpg)
-
-En la comparación interanual, el **índice de pobreza aumentó** en el primer semestre del año 12,8 puntos porcentuales, mientras que la tasa de indigencia subió 8,8 puntos.
-
-La población más afectada por la pobreza es la de los **niños de hasta 14 años**, grupo en el que la tasa de pobreza escala al 66,1 % y la tasa de indigencia es del 27 %.
-
-La medición tiene en cuenta el nivel de vida en los **31 centros urbanos más poblados del país**, lo que abarca a 29,6 millones de personas, sobre una población total en Argentina de unas 46 millones de personas.
-
-Según el informe, las **ciudades con mayor índice de pobreza son Resistencia (76,2 %),** en la provincia de Chaco, y la capital de la provincia de Formosa (67,6 %).
-
-El aumento de la pobreza en Argentina durante el primer semestre coincidió con una elevadísima inflación, que en la **primera mitad del año acumuló un alza del 79,8** %, con un fuerte impacto en el coste de la cesta básica de alimentos y servicios, cuyo valor marca la línea de la pobreza.
-
-La elevada inflación recortó fuertemente el **poder de compra de los ingresos de los hogares,** en el contexto del severo ajuste puesto en marcha desde finales de 2023 por el Gobierno de Javier Milei, con retracción de la actividad económica (-3,4 % de caída del PIB en el primer semestre) y destrucción de puestos de trabajo formales.
-
-Argentina registró su tasa máxima de pobreza en octubre de 2002, cuando el **índice trepó al 57,5%** tras el estallido de una de las más severas **crisis económicas** que recuerde el país.
-
-Dos detenidos por quemar llantas en el parque Metropolitano sur
-===============================================================
-
-Ambas personas fuero encontradas con 60 neumáticos en el bosque. Según ellos, quería obtener el alambre.
---------------------------------------------------------------------------------------------------------
-
-![El hecho se registró la madrugada de este domingo 29 de septiembre de 2024. Cortesía: Cuerpo de Bomberos de Quito](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-Quito-2.jpg)
-
-El **Cuerpo de Bomberos de Quito** denunció que dos personas fue encontradas en el bosque junto al parque Metropolitano del sur.
-
-Fueron sorprendidos cuando realizaban la quema de aproximadamente **60 llantas para extraer alambre.**
-
-El hecho se registró la madrugada de este domingo 29 de septiembre de 2024.
-
-Los recordaron mediante su **cuenta de X**, que el miércoles 25 de septiembre, tuvieron que apagar un incendio forestal en este mismo lugar.
-
-### Más noticias
-
-* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
-* [Lluvias podrían generar riesgos en zonas donde hubo incendios forestales](https://www.elcomercio.com/actualidad/ecuador/lluvias-riesgos-zonas-incendios-forestales.html "Lluvias podrían generar riesgos en zonas donde hubo incendios forestales")
-* [Denuncia en Cuenca por intento de provocar un incendio forestal](https://www.elcomercio.com/actualidad/ecuador/investigacion-cuenca-intento-provocar-incendio-forestal.html "Denuncia en Cuenca por intento de provocar un incendio forestal")
-
-La denuncia ante las autoridades
---------------------------------
-
-El **Cuerpo de Bombero de Quito** con la cooperación de la **Agencia Metropolitana de Control** y **Policía Nacional** tomaron el debido procedimiento.
-
-Ambas personas fuer puestas a las órdenes de la justicia para las investigaciones del caso.
-
-Los **bomberos** pidieron a la ciudadanía que si observan a alguien iniciando quemas que ponen en peligro, lo denuncien al **9-1-1.**
-
-Los incendios forestales en Quito
----------------------------------
-
-Entre el 23 y 27 de septiembre, el **Cuerpo de Bomberos de Quito** atendió 12 incendios forestales y 91 quemas de desechos. En septiembre, se registraron 65 incendios forestales y 738 quemas de desechos.
-
-En agosto, se reportaron 95 incendios forestales y 791 quemas de desechos, mientras que en julio se contabilizaron 154 incendios forestales y 294 quemas de desechos.
-
-Estos incendios forestales dan un total de **1 999,95 hectáreas quemadas** en **Quito**.
