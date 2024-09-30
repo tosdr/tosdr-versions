@@ -20,16 +20,16 @@ Monday, September 30 2024
 
 Latest
 
+* [The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
+* [New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
+* [Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
+* [The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
+* [The Best Halloween Horror Movies You Can Stream Right Now](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
+* [Dyson OnTrac Headphones Review – Consumer Reports](https://digitpatrox.com/dyson-ontrac-headphones-review-consumer-reports/)
+* [How to Move Your Windows 11 Installation to a New Drive](https://digitpatrox.com/how-to-move-your-windows-11-installation-to-a-new-drive/)
+* [NYT Connections today hints and answers — Monday, September 30 (#477)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-30-477/)
 * [California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
 * [NYT Connections Today: Hints and Answers for September 30, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-30-2024/)
-* [Why You Should Incorporate Smaller Races Into Your Marathon Training](https://digitpatrox.com/why-you-should-incorporate-smaller-races-into-your-marathon-training/)
-* [Leasing vs. Buying a New Car](https://digitpatrox.com/leasing-vs-buying-a-new-car/)
-* [Yes, You Can Get the Epic Games Store on Your Linux PC. Here’s How](https://digitpatrox.com/yes-you-can-get-the-epic-games-store-on-your-linux-pc-heres-how/)
-* [Bournemouth v Southampton live streams Premier League 24/25](https://digitpatrox.com/bournemouth-v-southampton-live-streams-premier-league-24-25/)
-* [Razer leans into haptics with a new gaming cushion and vibrating headphones](https://digitpatrox.com/razer-leans-into-haptics-with-a-new-gaming-cushion-and-vibrating-headphones/)
-* [NYT Strands Today: Hints, Answers & Spangram for September 30](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-30/)
-* [Eliminate ‘Delayed Decisions’ to Declutter Long-Term](https://digitpatrox.com/eliminate-delayed-decisions-to-declutter-long-term/)
-* [How to Paint a Bathroom for Lasting Appeal](https://digitpatrox.com/how-to-paint-a-bathroom-for-lasting-appeal/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/qBF-VPP0j9fO1UEdhRo9_Dj24kU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg)](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
+* [![](https://cdn.mos.cms.futurecdn.net/SRBrHvHJLs4K7c6zPDPvVU-1200-80.jpg)](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
     
-    [California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
+    [The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
     
-    28 mins ago
+    22 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-30-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/5hRcycNRCD2dR8sBc3DKMQ-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
     
-    [NYT Connections Today: Hints and Answers for September 30, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-30-2024/)
+    [New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
     
-    41 mins ago
+    40 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J8T1V7PM44J1JV7M77CRFS6Q/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/why-you-should-incorporate-smaller-races-into-your-marathon-training/)
+* [![](https://cdn.vox-cdn.com/thumbor/1KREUR6hxO_30cRP4GHixXI0Phs=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25649745/2089852195.jpg)](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
     
-    [Why You Should Incorporate Smaller Races Into Your Marathon Training](https://digitpatrox.com/why-you-should-incorporate-smaller-races-into-your-marathon-training/)
+    [Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1609866107/prod/content/dam/CRO-Images-2021/Cars/01Jan/CR-Cars-InlineHero-Should-You-Buy-Lease-01-21)](https://digitpatrox.com/leasing-vs-buying-a-new-car/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/The-Penguin-Episode-2-Who-is-Julian-Rush-is-He-a-Batman-Villain-.jpg)](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/)
     
-    [Leasing vs. Buying a New Car](https://digitpatrox.com/leasing-vs-buying-a-new-car/)
+    [The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/epic-games-logo-next-to-the-linux-mascot.jpg)](https://digitpatrox.com/yes-you-can-get-the-epic-games-store-on-your-linux-pc-heres-how/)
+* [![](https://lifehacker.com/imagery/articles/01J8QH83H87XZ8QTANKSFA44W7/hero-image.fill.size_1200x675.webp)](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
     
-    [Yes, You Can Get the Epic Games Store on Your Linux PC. Here’s How](https://digitpatrox.com/yes-you-can-get-the-epic-games-store-on-your-linux-pc-heres-how/)
+    [The Best Halloween Horror Movies You Can Stream Right Now](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
     
-    3 hours ago
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [28 mins ago
+* [22 mins ago
     
-    ### California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
-* [41 mins ago
+    ### The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
+* [40 mins ago
     
-    ### NYT Connections Today: Hints and Answers for September 30, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-30-2024/)
-* [3 hours ago
+    ### New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
+* [1 hour ago
     
-    ### Why You Should Incorporate Smaller Races Into Your Marathon Training](https://digitpatrox.com/why-you-should-incorporate-smaller-races-into-your-marathon-training/)
+    ### Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
 
 Most Popular Topics
 
-* [1 day ago
+* [4 weeks ago
     
-    ### Razer Is Making a Gaming Haptic Pad for Your Chair](https://digitpatrox.com/razer-is-making-a-gaming-haptic-pad-for-your-chair/)
-* [August 29, 2024
+    ### NYT Connections Today: Hints and Answers for September 2, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-2-2024/)
+* [4 weeks ago
     
-    ### How to enable Preload Page to speed up web browsing in Google Chrome](https://digitpatrox.com/how-to-enable-preload-page-to-speed-up-web-browsing-in-google-chrome/)
-* [August 28, 2024
+    ### Apple MDM vendor Mosyle gets into asset management – Computerworld](https://digitpatrox.com/apple-mdm-vendor-mosyle-gets-into-asset-management-computerworld/)
+* [August 12, 2024
     
-    ### Talking Cars 452: Best Used Cars of the Year—10 Top Picks](https://digitpatrox.com/talking-cars-452-best-used-cars-of-the-year-10-top-picks/)
+    ### New Windows vulnerability could repeatedly trigger the blue screen of death on millions of devices](https://digitpatrox.com/new-windows-vulnerability-could-repeatedly-trigger-the-blue-screen-of-death-on-millions-of-devices/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [4 hours ago
     
-    ### Razer leans into haptics with a new gaming cushion and vibrating headphones](https://digitpatrox.com/razer-leans-into-haptics-with-a-new-gaming-cushion-and-vibrating-headphones/)
+    ### How to Move Your Windows 11 Installation to a New Drive](https://digitpatrox.com/how-to-move-your-windows-11-installation-to-a-new-drive/)
 * [6 hours ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 30](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-30/)
-* [8 hours ago
+    ### NYT Connections today hints and answers — Monday, September 30 (#477)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-30-477/)
+* [6 hours ago
     
-    ### Eliminate ‘Delayed Decisions’ to Declutter Long-Term](https://digitpatrox.com/eliminate-delayed-decisions-to-declutter-long-term/)
+    ### California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
