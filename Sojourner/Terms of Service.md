@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a6c2cb8bcfbb124470fb2390c71632ae
+9792be43b712cc9800f1cd63064866e4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Round pink crystal clasp](https://sojourner.biz/images/cache/SKU0085front.200.jpg)](https://sojourner.biz/clasps/glass/round-pink-crystal-clasp.html "Round pink crystal clasp")
+[![Trojan clasp](https://sojourner.biz/images/cache/SKU0211front.200.jpg)](https://sojourner.biz/clasps/cameo/intaglio/trojan-clasp.html "Trojan clasp")
 
-#### [Round pink crystal clasp](https://sojourner.biz/clasps/glass/round-pink-crystal-clasp.html "Round pink crystal clasp")
+#### [Trojan clasp](https://sojourner.biz/clasps/cameo/intaglio/trojan-clasp.html "Trojan clasp")
 
-$23.00
+$31.00
 
 ### Best Sellers
 
