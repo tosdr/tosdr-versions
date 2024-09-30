@@ -116,7 +116,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -448,91 +447,83 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 1. \-76%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
+1.    [![Starfield PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/i/hidden-deep-early-access-pc-game-steam-cover_4_.jpg)   No 1. \-43%](https://www.cdkeys.com/pc/starfield-pc-steam)
     
-    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
+    **[Starfield PC](https://www.cdkeys.com/pc/starfield-pc-steam "Starfield PC")**
     
-    Special Price $16.09 RRP $66.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Dead by Daylight PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/godlike-burger-button-01-1612374917359_5_.jpg)   No 2. \-58%](https://www.cdkeys.com/pc/dead-by-daylight-pc-steam-cd-key)
-    
-    **[Dead by Daylight PC](https://www.cdkeys.com/pc/dead-by-daylight-pc-steam-cd-key "Dead by Daylight PC")**
-    
-    Special Price $8.39 RRP $20.09
+    Special Price $45.59 RRP $80.39
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoft_-flight-_simulator_-standard-windows-10_1.jpg)   No 3. \-57%](https://www.cdkeys.com/pc/microsoft-flight-simulator-windows-10-pc)
+2.    [![Starfield - Shattered Space PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/t/strfldsp-steam.jpg)   No 2. \-23%
     
-    **[Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S](https://www.cdkeys.com/pc/microsoft-flight-simulator-windows-10-pc "Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S")**
+    DLC](https://www.cdkeys.com/pc/starfield-shattered-space-pc-dlc-steam)
     
-    Special Price $34.79 RRP $80.39
+    **[Starfield - Shattered Space PC - DLC](https://www.cdkeys.com/pc/starfield-shattered-space-pc-dlc-steam "Starfield - Shattered Space PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
-    
-    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
-    
-    Special Price $17.39 RRP $46.89
+    Special Price $26.79 RRP $34.79
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Dark Souls III 3 Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/s/ds3-deluxe.jpg)   No 5. \-55%](https://www.cdkeys.com/pc/dark-souls-iii-3-deluxe-edition-pc-cd-key-steam)
+3.    [![Hogwarts Legacy Deluxe Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/capsule_616x353_1__1_3_1_1.jpg)   No 3. \-77%](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww)
     
-    **[Dark Souls III 3 Deluxe Edition PC](https://www.cdkeys.com/pc/dark-souls-iii-3-deluxe-edition-pc-cd-key-steam "Dark Souls III 3 Deluxe Edition PC")**
+    **[Hogwarts Legacy Deluxe Edition PC (WW)](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww "Hogwarts Legacy Deluxe Edition PC (WW)")**
     
-    Special Price $36.19 RRP $80.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 6. \-57%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
-    
-    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
-    
-    Special Price $24.09 RRP $56.29
+    Special Price $18.79 RRP $80.39
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![EA Sports FC 25 - 12000 FC Points Xbox (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/c/fc_25_12000.jpg)   No 7. \-30%](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-12000-fc-points-xbox-ww)
+4.    [![Balatro PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-02-14t133713.448.jpg)   No 4. \-51%](https://www.cdkeys.com/pc/balatro-pc-steam)
     
-    **[EA Sports FC 25 - 12000 FC Points Xbox (WW)](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-12000-fc-points-xbox-ww "EA Sports FC 25 - 12000 FC Points Xbox (WW)")**
+    **[Balatro PC](https://www.cdkeys.com/pc/balatro-pc-steam "Balatro PC")**
     
-    Special Price $82.99 RRP $117.89
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/a/ea_sports_fc_25_ultimate_edition.png)   No 8. \-26%](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-ultimate-edition-xbox-one-xbox-series-x-s-us)
-    
-    **[EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-ultimate-edition-xbox-one-xbox-series-x-s-us "EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)")**
-    
-    Special Price $76.39 RRP $103.29
+    Special Price $9.39 RRP $18.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-72%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+5.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 5. \-65%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
     
-    **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
+    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
     
-    Special Price $9.39 RRP $33.49
+    Special Price $18.79 RRP $53.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![The Forever Winter PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_forever_winter.png)   No 6. \-40%](https://www.cdkeys.com/pc/the-forever-winter-pc-steam)
+    
+    **[The Forever Winter PC](https://www.cdkeys.com/pc/the-forever-winter-pc-steam "The Forever Winter PC")**
+    
+    Special Price $20.09 RRP $33.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 7. \-65%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
+    
+    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
+    
+    Special Price $18.79 RRP $53.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-12t171950.016.jpg)   No 8. \-62%](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam)
+    
+    **[Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam "Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC")**
+    
+    Special Price $37.49 RRP $99.19
     
     [Add to Wish List](# "Add to Wish List")
     
