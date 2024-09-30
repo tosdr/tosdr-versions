@@ -51,8 +51,8 @@
 * [INFORMATION](https://www.weather.gov/informationcenter)
     
     * [Wireless Emergency Alerts](https://www.weather.gov/wrn/wea)
-    * [Weather-Ready Nation](https://www.weather.gov/wrn)
     * [Brochures](https://www.weather.gov/owlie/publication_brochures)
+    * [Weather-Ready Nation](https://www.weather.gov/wrn)
     * [Cooperative Observers](https://www.weather.gov/coop)
     * [Daily Briefing](https://www.weather.gov/briefing)
     * [Damage/Fatality/Injury Statistics](https://www.weather.gov/hazstat)
