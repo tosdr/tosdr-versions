@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
-
-NO DF
-
-NO DF
-
-Empresário morre após tiro acidental de espingarda na própria perna
-
-Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
+[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
 
 novidade
 
@@ -214,7 +206,7 @@ novidade
 
 Entenda como Roberto Medina usará área do Rock in Rio para parque temático
 
-Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
+Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
 
 Brasil
 
@@ -222,15 +214,23 @@ Brasil
 
 Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
 
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_1d390650ba.jpg)
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_768a22f72e.jpg)
 
-inadimplentes
+Alagoas
 
-inadimplentes
+Alagoas
 
-Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento
+Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana
 
-Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")
+Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")[![Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_marilia-gabriela-jpeg-reproducao-redes-sociais_49bb35b774.jpg)
+
+em entrevista
+
+em entrevista
+
+Marília Gabriela explica decisão de deixar de fazer sexo; entenda
+
+Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://www.tnh1.com.br/noticia/nid/marilia-gabriela-explica-decisao-de-deixar-de-fazer-sexo-entenda/ "Marília Gabriela explica decisão de deixar de fazer sexo; entenda")
 
 [![Homem é morto por segurança de casa de shows em festa em SP](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_Seguranca_morto_casa_de_show_7c96ffad36.jpg)
 
