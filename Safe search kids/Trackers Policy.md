@@ -635,7 +635,7 @@ Share This Article
 
  
 
-[![parental control software](https://www.safesearchkids.com/wp-content/uploads/2021/11/parental-controls-safety-security.jpg)](https://www.safesearchkids.com/best-parental-control-app)
+[![parental control software](https://www.safesearchkids.com/wp-content/uploads/2021/02/best-parental-control-app.jpg)](https://www.safesearchkids.com/best-parental-control-app)
 
 ### 
 
