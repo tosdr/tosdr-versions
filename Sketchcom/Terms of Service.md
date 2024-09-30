@@ -49,7 +49,6 @@ Menu
     * [Sketch 101](https://www.sketch.com/courses/sketch-101/)
     * [Sketch 102](https://www.sketch.com/courses/sketch-102/)
     
-* [Apps](https://www.sketch.com/apps/)
 * [Pricing](https://www.sketch.com/pricing/)
 * Help
     
@@ -61,10 +60,8 @@ Menu
     * [Service Status](https://status.sketch.com/)
     
 
- [![Sketch Mac app icon](/images/icons/custom/72x72/mac.app@2x.png) Download](https://www.sketch.com/downloads/mac/)
-
 * [Sign In](https://www.sketch.com/signin/)
-* [Get started](https://www.sketch.com/signup/)
+* [Get started Download](https://www.sketch.com/downloads/mac/)
 
 icon-close
 
@@ -82,7 +79,6 @@ icon-close
     * [Libraries](https://www.sketch.com/libraries/)
     * [Smart Layout](https://www.sketch.com/smart-layout/)
     * [Symbols](https://www.sketch.com/symbols/)
-    * [Apps](https://www.sketch.com/apps/)
     * [Pricing](https://www.sketch.com/pricing/)
     * [All Features](https://www.sketch.com/features/)
 * * Learn
@@ -99,7 +95,7 @@ icon-close
     * [Community Forum](https://forum.sketch.com/)
     * [Service Status](https://status.sketch.com/)
 
-* [Get started for free](https://www.sketch.com/signup/)
+* [](https://www.sketch.com/downloads/mac/)
 
 [Legal](https://www.sketch.com/legal/)
 
@@ -528,7 +524,7 @@ Email  Sign up
 ### Company
 
 * [About Us](https://www.sketch.com/about-us/)
-* [Careers](https://www.sketch.com/about-us/#careers)
+* [Careers](https://www.sketch.com/careers/)
 * [Partners](https://www.sketch.com/partners/)
 * [Security](https://www.sketch.com/security/)
 * [Terms & Policies](https://www.sketch.com/legal/)
