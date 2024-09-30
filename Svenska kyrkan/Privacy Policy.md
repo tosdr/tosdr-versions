@@ -1,9 +1,6 @@
 Till innehållet Till undermeny
 
-[Svenska kyrkan
-==============
-
-Svenska kyrkan Svenska kyrkan](https://www.svenskakyrkan.se/)
+[Svenska kyrkan Svenska kyrkan](https://www.svenskakyrkan.se/)
 
 Sök Meny
 
