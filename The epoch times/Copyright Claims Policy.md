@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
+    
+    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732343-helenecleanup5-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
+* [Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://www.theepochtimes.com/article/day-in-photos-floods-in-nepal-handbike-marathon-and-a-tribute-to-philippine-5732039)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732286-GettyImages-2174650547-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-floods-in-nepal-handbike-marathon-and-a-tribute-to-philippine-5732039)
+* [Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://www.theepochtimes.com/article/canada-banned-certain-guns-but-cant-figure-out-how-to-collect-them-5729228)
+    
+    5hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
+    
+    [![Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732278-GettyImages-1228476508-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/canada-banned-certain-guns-but-cant-figure-out-how-to-collect-them-5729228)
 * [Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732321-Chemical-Plant-Fire-AP24273728356033-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
+    ![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732376-Chemical-Plant-Fire-AP24273728356033-LSedit-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
 * [Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
+    ![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732348-Trump-Harris-v2-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
 * [China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
     
-    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732339-GettyImages-1175318267-sb-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
 * [Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://www.theepochtimes.com/china/blinken-beijings-stance-on-ukraine-doesnt-add-up-5732257)
     
-    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732340-GettyImages-2173268290-Antony-Blinken.jpg-LSedit-sb-205x123.jpg)](https://www.theepochtimes.com/china/blinken-beijings-stance-on-ukraine-doesnt-add-up-5732257)
-* [North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
+    ![Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732340-GettyImages-2173268290-Antony-Blinken.jpg-LSedit-sb-205x123.jpg.webp)](https://www.theepochtimes.com/china/blinken-beijings-stance-on-ukraine-doesnt-add-up-5732257)
+* [Federal Major Disaster Declared for North Carolina, Florida After Helene](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Major Disaster Declared for North Carolina, Florida After Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732261-Hurricane-Helene-AP24272667422265-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
+    ![Federal Major Disaster Declared for North Carolina, Florida After Helene](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732261-Hurricane-Helene-AP24272667422265-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
 * [US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://www.theepochtimes.com/world/us-strikes-kill-isis-operatives-other-terrorists-in-syria-5732154)
     
-    4hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    10hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732264-Syria-US-troops-GettyImages-1320354789-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-strikes-kill-isis-operatives-other-terrorists-in-syria-5732154)
 * [Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://www.theepochtimes.com/health/natures-skin-saving-super-ingredient-is-found-in-plants-5717760)
     
-    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
+    12hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
     
     [![Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731506-shutterstock_2073488675-205x123.jpg.webp)](https://www.theepochtimes.com/health/natures-skin-saving-super-ingredient-is-found-in-plants-5717760)
-* [US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
-    
-    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732273-Maritime-Exercises-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
-* [Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://www.theepochtimes.com/world/israel-kills-another-senior-hezbollah-leader-after-taking-out-nasrallah-5732112)
-    
-    9hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732137-Hezbollah-Israel-strike-AP24273337856156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-kills-another-senior-hezbollah-leader-after-taking-out-nasrallah-5732112)
-* [Do Vice Presidential Debates Really Matter?](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
-    
-    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732143-Vance-Walz-205x123.jpg.webp)](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
