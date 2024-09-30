@@ -186,21 +186,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
+            ### [Betelgeuse has a tiny companion star hidden in plain sight](https://www.sciencenews.org/article/betelgeuse-hidden-companion-star)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")6 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
             ### [Starlink satellites’ leaky radio waves obscure the cosmos](https://www.sciencenews.org/article/starlink-satellites-radio-waves)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")2 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")8 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
-            
-        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-            
-            ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")September 23, 2024
             
 
 Terms of Service
