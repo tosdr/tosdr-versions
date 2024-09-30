@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://www.theepochtimes.com/us/iran-is-hacking-us-officials-and-political-campaigns-security-advisory-5732617)
+* [You Can Get a Healthier McDonald’s in the UK](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![You Can Get a Healthier McDonald’s in the UK](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://img.theepochtimes.com/assets/uploads/2024/04/19/id5632829-VDH-20240418-231000-205x123.jpeg.webp)](https://www.theepochtimes.com/us/iran-is-hacking-us-officials-and-political-campaigns-security-advisory-5732617)
-* [FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://www.theepochtimes.com/us/fema-chief-warns-of-complicated-recovery-process-after-helene-hammers-5-states-5732612)
+    ![You Can Get a Healthier McDonald’s in the UK](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732948-shutterstock_2384976221_new_africa_mcdonald_fries_chips_fastfood-205x123.jpg)](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
+* [Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
+    
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732946-Trump-visits-Georgia-AP24274684474994-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
+* [NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
     
     1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731939-3.download-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-chief-warns-of-complicated-recovery-process-after-helene-hammers-5-states-5732612)
-* [DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://www.theepochtimes.com/business/directv-to-acquire-longtime-satellite-tv-rival-dish-network-5732613)
+    ![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732905-uspspasdpuaspdsaudpsaduasdpu-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
+* [Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://www.theepochtimes.com/us/federal-judge-strikes-down-texas-anti-ballot-harvesting-provision-5732791)
     
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732693-DirecTV-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/directv-to-acquire-longtime-satellite-tv-rival-dish-network-5732613)
-* [France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://www.theepochtimes.com/world/frances-le-pen-and-26-others-on-trial-over-misuse-of-eu-funds-5732546)
+    ![Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732904-voting-texas-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-strikes-down-texas-anti-ballot-harvesting-provision-5732791)
+* [US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://www.theepochtimes.com/world/us-aware-of-limited-operations-by-israeli-forces-inside-lebanon-state-department-5732774)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://img.theepochtimes.com/assets/uploads/2024/06/01/id5678153-Le-Pen-GettyImages-2159348417-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/frances-le-pen-and-26-others-on-trial-over-misuse-of-eu-funds-5732546)
-* [What You Need to Know About the Vance–Walz Debate](https://www.theepochtimes.com/us/what-you-need-to-know-about-the-vance-walz-debate-5728695)
+    ![US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729955-ISRAEL-PALESTINIANS-LEBANON-1-LS-205x123.webp)](https://www.theepochtimes.com/world/us-aware-of-limited-operations-by-israeli-forces-inside-lebanon-state-department-5732774)
+* [Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://www.theepochtimes.com/us/fed-chair-powell-indicates-more-rate-cuts-could-be-coming-5732809)
     
-    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![What You Need to Know About the Vance–Walz Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What You Need to Know About the Vance–Walz Debate](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732715-vance-walz-LSedit-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-you-need-to-know-about-the-vance-walz-debate-5728695)
-* [In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
+    ![Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732884-Jerome-Powell-GettyImages-2172944676-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fed-chair-powell-indicates-more-rate-cuts-could-be-coming-5732809)
+* [Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://www.theepochtimes.com/us/only-2-5-percent-of-homes-changed-hands-so-far-in-2024-lowest-in-30-years-5732786)
     
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732623-GettyImages-2174055692.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
-* [Israeli Strikes Kill Hamas Leader in Lebanon](https://www.theepochtimes.com/world/israeli-strikes-kill-hamas-leader-in-lebanon-and-3-terrorist-leaders-in-beirut-5732534)
+    ![Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/only-2-5-percent-of-homes-changed-hands-so-far-in-2024-lowest-in-30-years-5732786)
+* [NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://www.theepochtimes.com/sports/nba-hall-of-famer-dikembe-mutombo-dies-at-58-post-5732737)
     
-    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    4hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
     
-    [![Israeli Strikes Kill Hamas Leader in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israeli Strikes Kill Hamas Leader in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732598-GettyImages-2174756649-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-strikes-kill-hamas-leader-in-lebanon-and-3-terrorist-leaders-in-beirut-5732534)
-* [Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://www.theepochtimes.com/us/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill-5732485)
+    ![NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732806-GettyImages-516160962-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/nba-hall-of-famer-dikembe-mutombo-dies-at-58-post-5732737)
+* [Thousands of Port Workers Poised to Strike at Midnight](https://www.theepochtimes.com/business/thousands-of-port-workers-poised-to-strike-at-midnight-5732760)
     
-    12hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
+    5hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Thousands of Port Workers Poised to Strike at Midnight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732719-Gavin-Newsom-2_JF_09252024-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill-5732485)
-* [Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://www.theepochtimes.com/entertainment/country-music-star-a-star-is-born-lead-man-kris-kristofferson-dies-at-88-post-5732462)
+    ![Thousands of Port Workers Poised to Strike at Midnight](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732810-GettyImages-1319047576-LSedit-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/thousands-of-port-workers-poised-to-strike-at-midnight-5732760)
+* [Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://www.theepochtimes.com/us/shelter-in-place-advisory-extended-indefinitely-over-georgia-chemical-plant-fire-5732738)
     
-    13hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732625-GettyImages-865150942.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/country-music-star-a-star-is-born-lead-man-kris-kristofferson-dies-at-88-post-5732462)
-* [After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
-    
-    16hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732626-helenecleanup5.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
+    ![Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://img.theepochtimes.com/assets/uploads/2024/09/id5732823-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/shelter-in-place-advisory-extended-indefinitely-over-georgia-chemical-plant-fire-5732738)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
