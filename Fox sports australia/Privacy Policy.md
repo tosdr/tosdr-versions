@@ -46,18 +46,6 @@ FOX SCORES
     | NTD | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/state-championships/match-centre/NSC20240101)
-* AFL
-    
-* [AFL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | SYD | 9.6.60 |
-    | BRI | 18.12.120 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * Cricket
     
 * [Men's Test
@@ -74,76 +62,46 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    1/10 9:30 AEST
     
     |     |     |
     | --- | --- |
-    | ARI | 14  |
-    | WAS | 42  |
+    | MIA | –   |
+    | TEN | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250424)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250429)
 * [NFL
     
-    Full Time
+    1/10 10:15 AEST
     
     |     |     |
     | --- | --- |
-    | SF  | 30  |
-    | NE  | 13  |
+    | DET | –   |
+    | SEA | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250425)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LV  | 20  |
-    | CLE | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250426)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAC | 10  |
-    | KC  | 17  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250427)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BAL | 35  |
-    | BUF | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250428)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250430)
 * Motorsport
     
 * [MotoGP
     
-    Complete
+    4/10 11:45 AEST
     
     |     |
     | --- |
-    | Indonesian GP |
+    | Japan GP |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=711)
 * Football
     
 * [Premier League
     
-    1/10 5:00 AEST
+    1st Half
     
     |     |     |
     | --- | --- |
-    | BOU | –   |
-    | SOU | –   |
+    | BOU | 3   |
+    | SOU | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250607)
 
