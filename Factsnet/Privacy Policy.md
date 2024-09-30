@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Glucose ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-glucose/)
+[![35 Facts About Three Christs ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-three-christs/)
 
-Chemistry
+Psychology
 
-29 Sep 2024
+30 Sep 2024
 
-[50 Facts About Glucose](https://facts.net/science/chemistry/50-facts-about-glucose/)
+[35 Facts About Three Christs](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-three-christs/)
 
-[![35 Facts About Norse Gods ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/culture/35-facts-about-norse-gods/)
+[![45 Facts About Alice Evans ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/45-facts-about-alice-evans/)
 
-Culture
+Celebrity
 
-29 Sep 2024
+30 Sep 2024
 
-[35 Facts About Norse Gods](https://facts.net/history/culture/35-facts-about-norse-gods/)
+[45 Facts About Alice Evans](https://facts.net/celebrity/45-facts-about-alice-evans/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
