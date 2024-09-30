@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 135 utilisateurs actifs
+##### 640 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Comment vider le cache dans le navigateur Edge ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-edge.html)
 * [Comment vider le cache dans le navigateur Firefox ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-firefox.html) 
 * [Paint 3D, c’est fini : Microsoft met fin à l’application qui devait remplacer Paint](https://lecrabeinfo.net/paint-3d-cest-fini-microsoft-met-fin-a-lapplication-qui-devait-remplacer-paint.html)
-* [Windows Recall : les dernières nouvelles sur la fonctionnalité controversée de Microsoft](https://lecrabeinfo.net/windows-recall-les-dernieres-nouvelles-sur-la-fonctionnalite-controversee-de-microsoft.html) 
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 523 membres
-* 904 articles
+* 905 articles
 * 26 601 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
