@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Kris Kristofferson, country music pioneer, dead at 88](https://nypost.com/2024/09/29/entertainment/kris-kristofferson-country-music-pioneer-dead-at-87/)
+[Israeli strikes kill Hamas leader in Lebanon and three Palestinian leaders in Beirut](https://nypost.com/2024/09/30/world-news/israeli-strikes-kill-hamas-leader-in-lebanon-and-three-palestinian-leaders-in-beirut/)
 
 Privacy Notice Highlights
 =========================
