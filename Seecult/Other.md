@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezi/erotic-drawings/erotski2.jpg?itok=HzFamFuj)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezierotic-drawings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/fortuna/fortuna-transformacija.jpg?itok=bq3XH17N)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/fortuna)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/noc-muzeja/noc-muzeja-46.jpg?itok=86gZPOcF)](http://seecult.org/galerija/foto-galerija/foto-arhiva/noc-muzeja)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/anderzvski.jpg?itok=bG57OsJf)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
