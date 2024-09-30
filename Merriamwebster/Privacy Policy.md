@@ -419,11 +419,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![cow coming home](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![spelunker-silhouette ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Farm Idioms Quiz If you've got a pig in a poke - what exactly is a...
+People of Interest Quiz Can you tell the "sommeliers" from the "spelunkers"?
 
-Take the quiz](https://www.merriam-webster.com/games/farm-words)
+Take the quiz](https://www.merriam-webster.com/games/people-interest-quiz)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
