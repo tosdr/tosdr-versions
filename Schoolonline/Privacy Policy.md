@@ -27,7 +27,6 @@
     * [Our Board](https://www.schoolonline.co.uk/about-schoolonline/our-board/)
     * [Our Partners](https://www.schoolonline.co.uk/about-schoolonline/our-partners-2/)
     * [Free Resources](https://www.schoolonline.co.uk/free-resources/ "Free Resources")
-    * [Blog](https://www.schoolonline.co.uk/blog/)
     * [Careers](https://www.schoolonline.co.uk/about-schoolonline/careers/ "Careers")
 
 Menu
@@ -55,7 +54,6 @@ Menu
     * [Our Board](https://www.schoolonline.co.uk/about-schoolonline/our-board/)
     * [Our Partners](https://www.schoolonline.co.uk/about-schoolonline/our-partners-2/)
     * [Free Resources](https://www.schoolonline.co.uk/free-resources/ "Free Resources")
-    * [Blog](https://www.schoolonline.co.uk/blog/)
     * [Careers](https://www.schoolonline.co.uk/about-schoolonline/careers/ "Careers")
 
 [Login](https://www.schoolonline.co.uk/login/)
@@ -240,7 +238,6 @@ Any dispute or claim arising from the above shall be governed by the laws of the
     * [Our Board](https://www.schoolonline.co.uk/about-schoolonline/our-board/)
     * [Our Partners](https://www.schoolonline.co.uk/about-schoolonline/our-partners-2/)
     * [Free Resources](https://www.schoolonline.co.uk/free-resources/ "Free Resources")
-    * [Blog](https://www.schoolonline.co.uk/blog/)
     * [Careers](https://www.schoolonline.co.uk/about-schoolonline/careers/ "Careers")
 
 [Login](https://www.schoolonline.co.uk/login/)
