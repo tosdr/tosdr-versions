@@ -28,21 +28,29 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 249 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 168 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 250 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 175 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 89 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
 * [H D Moore](https://packetstormsecurity.com/files/authors/219) 31 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 25 files
 * [Karn Ganeshen](https://packetstormsecurity.com/files/authors/7832) 23 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[WMDDH Discloses Data Breach Impacting 127,000](https://packetstormsecurity.com/news/view/36410/WMDDH-Discloses-Data-Breach-Impacting-127-000.html)
+
+Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:14 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36410/) | [View](https://www.securityweek.com/accounting-firm-wmddh-discloses-data-breach-impacting-127000/)
 
 [Critical Nvidia Bug Allows Container Escape, Host Takeover](https://packetstormsecurity.com/news/view/36406/Critical-Nvidia-Bug-Allows-Container-Escape-Host-Takeover.html)
 
@@ -59,6 +67,38 @@ Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [canada](https://packetstormsecurity.com/news/tags/canada), [britain](https://packetstormsecurity.com/news/tags/britain), [australia](https://packetstormsecurity.com/news/tags/australia), [new zealand](https://packetstormsecurity.com/news/tags/new_zealand)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36405/) | [View](https://www.securityweek.com/five-eyes-agencies-release-guidance-on-detecting-active-directory-intrusions/)
+
+[EU Privacy Regulator Fines Meta 91 Million Euros Over Password Storage](https://packetstormsecurity.com/news/view/36404/EU-Privacy-Regulator-Fines-Meta-91-Million-Euros-Over-Password-Storage.html)
+
+Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [password](https://packetstormsecurity.com/news/tags/password), [facebook](https://packetstormsecurity.com/news/tags/facebook), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36404/) | [View](https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-91-million-euros-over-password-storage-2024-09-27/)
+
+[Ransomware Gang Using Stolen MS Entra ID Creds To Bust Into Cloud](https://packetstormsecurity.com/news/view/36403/Ransomware-Gang-Using-Stolen-MS-Entra-ID-Creds-To-Bust-Into-Cloud.html)
+
+Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [password](https://packetstormsecurity.com/news/tags/password), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36403/) | [View](https://www.theregister.com/2024/09/27/microsoft_storm_0501/)
+
+[HPE Patches Three Critical Security Holes In Aruba PAPI](https://packetstormsecurity.com/news/view/36402/HPE-Patches-Three-Critical-Security-Holes-In-Aruba-PAPI.html)
+
+Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36402/) | [View](https://www.theregister.com/2024/09/26/hpe_aruba_patch_papi/)
+
+[Millions Of Kia Cars Were Vulnerable To Remote Hacking](https://packetstormsecurity.com/news/view/36401/Millions-Of-Kia-Cars-Were-Vulnerable-To-Remote-Hacking.html)
+
+Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:14 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36401/) | [View](https://www.securityweek.com/millions-of-kia-cars-were-vulnerable-to-remote-hacking-researchers/)
 
 [Ivanti vTM Flaw Added To Known Exploited Vulnerabilities Catalog](https://packetstormsecurity.com/news/view/36400/Ivanti-vTM-Flaw-Added-To-Known-Exploited-Vulnerabilities-Catalog.html)
 
@@ -83,46 +123,6 @@ Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [britain](https://packetstormsecurity.com/news/tags/britain), [wireless](https://packetstormsecurity.com/news/tags/wireless)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36398/) | [View](https://www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/)
-
-[NIST Proposes Barring Some Of The Most Nonsensical Password Rules](https://packetstormsecurity.com/news/view/36397/NIST-Proposes-Barring-Some-Of-The-Most-Nonsensical-Password-Rules.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:50:12 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36397/) | [View](https://arstechnica.com/security/2024/09/nist-proposes-barring-some-of-the-most-nonsensical-password-rules/)
-
-[Cisco Patches High Severity Vulnerabilities In IOS](https://packetstormsecurity.com/news/view/36396/Cisco-Patches-High-Severity-Vulnerabilities-In-IOS.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:50:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [cisco](https://packetstormsecurity.com/news/tags/cisco)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36396/) | [View](https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-ios-software-2/)
-
-[China's Salt Typhoon Cyber Spies Are Deep Inside US ISPs](https://packetstormsecurity.com/news/view/36395/Chinas-Salt-Typhoon-Cyber-Spies-Are-Deep-Inside-US-ISPs.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:49:52 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [china](https://packetstormsecurity.com/news/tags/china), [botnet](https://packetstormsecurity.com/news/tags/botnet), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36395/) | [View](https://www.theregister.com/2024/09/25/chinas_salt_typhoon_cyber_spies/)
-
-[Remote Code Execution, DoS Vulnerabilities Patched In OpenPLC](https://packetstormsecurity.com/news/view/36394/Remote-Code-Execution-DoS-Vulnerabilities-Patched-In-OpenPLC.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:49:39 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [cisco](https://packetstormsecurity.com/news/tags/cisco), [scada](https://packetstormsecurity.com/news/tags/scada)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36394/) | [View](https://www.securityweek.com/remote-code-execution-dos-vulnerabilities-patched-in-openplc/)
-
-[Deloitte Says No Threat To Sensitive Data After Hacker Claims Breach](https://packetstormsecurity.com/news/view/36393/Deloitte-Says-No-Threat-To-Sensitive-Data-After-Hacker-Claims-Breach.html)
-
-Posted [Sep 25, 2024](https://packetstormsecurity.com/news/date/2024-09-25/ "18:30:30 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36393/) | [View](https://www.securityweek.com/deloitte-says-no-threat-to-sensitive-data-after-hacker-claims-server-breach/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1215445358&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1215445358.1727686512.1727686512.1727686512.1%3B%2B__utmz%3D32867617.1727686512.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1666110651&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1666110651.1727709267.1727709267.1727709267.1%3B%2B__utmz%3D32867617.1727709267.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
