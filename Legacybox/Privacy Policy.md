@@ -1,10 +1,10 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                   
+                    
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
-FLASH SALE – 50% OFF LEGACYBOX FLASH SALE – 50% OFF LEGACYBOX Plus, get an extra 10% off with code GETLB10
+BEAT THE HOLIDAY RUSH... 50% OFF LEGACYBOX WITH CODE: JINGLE Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,7 +14,7 @@ FLASH SALE – 50% OFF LEGACYBOX FLASH SALE – 50% OFF LEGACYBOX Plus, get an e
 
 00 SEC
 
-DIGITIZE TODAY FOR JUST $36 Plus, get an extra 10% off with code GETLB10
+AND GET 50% OFF LEGACYBOX NOW WITH CODE: JINGLE! Plus, get an extra 10% off with code GETLB10
 
 [SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit)
 
