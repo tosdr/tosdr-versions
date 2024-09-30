@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 Pro sale](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Gt-5-Pro-1-400x240.jpg)
+        
+        Huawei Watch GT 5 Pro wearable begins first sale](https://www.huaweicentral.com/huawei-watch-gt-5-pro-wearable-begins-first-sale/)
     * [![Huawei Watch GT 5 faces](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-2-400x240.jpg)
         
         Huawei Watch GT 5 series brings innovative customizable watch faces](https://www.huaweicentral.com/huawei-watch-gt-5-series-brings-innovative-customizable-watch-faces/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 Pro specifications](https://www.huaweicentral.com/wp-content/uploads/2024/09/GT-5-Pro-img-400x240.jpg)
         
         Huawei Watch GT 5 Pro: Specifications, Features, and Price](https://www.huaweicentral.com/huawei-watch-gt-5-pro-specifications-features-and-price/)
-    * [![Huawei Watch GT 5 Specifications](https://www.huaweicentral.com/wp-content/uploads/2024/09/GT-5-standard-400x240.jpg)
-        
-        Huawei Watch GT 5: Specifications, Features, and Price](https://www.huaweicentral.com/huawei-watch-gt-5-specifications-features-and-price/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
