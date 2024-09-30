@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Андрей Исаев: Все обязательства, которые государство взяло на себя, обеспечены в бюджете в полном объёме](https://cdn.er.ru/media/news/September2024/ZlPvrGgaBySW7jXAPuc6-small.jfif)](https://er.ru/activity/news/andrej-isaev-vse-obyazatelstva-kotorye-gosudarstvo-vzyalo-na-sebya-obespecheny-v-byudzhete-v-polnom-obyome)
+
+[Андрей Исаев: Все обязательства, которые государство взяло на себя, обеспечены в бюджете в полном объёме](https://er.ru/activity/news/andrej-isaev-vse-obyazatelstva-kotorye-gosudarstvo-vzyalo-na-sebya-obespecheny-v-byudzhete-v-polnom-obyome)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
+
+Сегодня 14:30
+
+[![Евгений Ревенко: Проект федерального бюджета в полной мере соответствует приоритетам «Единой России»](https://cdn.er.ru/media/news/September2024/POUDsbLSZ6rcgGKbcY2c-small.jpg)](https://er.ru/activity/news/evgenij-revenko-proekt-federalnogo-byudzheta-v-polnoj-mere-sootvetstvuet-prioritetam-edinoj-rossii)
+
+[Евгений Ревенко: Проект федерального бюджета в полной мере соответствует приоритетам «Единой России»](https://er.ru/activity/news/evgenij-revenko-proekt-federalnogo-byudzheta-v-polnoj-mere-sootvetstvuet-prioritetam-edinoj-rossii)
+
+[#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+
+Сегодня 13:10
+
 [![Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://cdn.er.ru/media/news/September2024/o0Pb9uMMVfW0uCCHqt7F-small.jpg)](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
 
 [Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
@@ -330,22 +346,6 @@
 [#доверенности](https://er.ru/activity/news?tags%5B0%5D=31212) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#воинскаячасть](https://er.ru/activity/news?tags%5B0%5D=132156) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
 Сегодня 11:08
-
-[![Игорь Кастюкевич: Исторический выбор сотен тысяч людей, поддержанный Президентом Владимиром Путиным, изменил будущее всего мирового устройства](https://cdn.er.ru/media/news/September2024/TwCzhj02PKUHBok29sbW-small.jpg)](https://er.ru/activity/news/igor-kastyukevich-istoricheskij-vybor-soten-tysyach-lyudej-podderzhannyj-prezidentom-vladimirom-putinym-izmenil-budushee-vsego-mirovogo-ustrojstva)
-
-[Игорь Кастюкевич: Исторический выбор сотен тысяч людей, поддержанный Президентом Владимиром Путиным, изменил будущее всего мирового устройства](https://er.ru/activity/news/igor-kastyukevich-istoricheskij-vybor-soten-tysyach-lyudej-podderzhannyj-prezidentom-vladimirom-putinym-izmenil-budushee-vsego-mirovogo-ustrojstva)
-
-[#Кастюкевич](https://er.ru/activity/news?tags%5B0%5D=1092567) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-Сегодня 10:46
-
-[![Дарья Лантратова: Донбасс и Новороссия - неотъемлемая часть России, её истории и будущего](https://cdn.er.ru/media/news/September2024/doOMaRBpuTEZVVTrtUc6-small.jpg)](https://er.ru/activity/news/darya-lantratova-donbass-i-novorossiya-neotemlemaya-chast-rossii-eyo-istorii-i-budushego)
-
-[Дарья Лантратова: Донбасс и Новороссия - неотъемлемая часть России, её истории и будущего](https://er.ru/activity/news/darya-lantratova-donbass-i-novorossiya-neotemlemaya-chast-rossii-eyo-istorii-i-budushego)
-
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#воссоединениесРоссией](https://er.ru/activity/news?tags%5B0%5D=129719) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#годовщина](https://er.ru/activity/news?tags%5B0%5D=2918)
-
-Сегодня 09:30
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
