@@ -586,7 +586,7 @@ In addition to what is described above under “Opt Out of Cookie and Device Inf
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/64e981dd4c3a30b406c4d91d_twitter-logo-wht.svg)](https://twitter.com/PenskeMedia)[![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a41ca92a77c_Vector-1.svg)](https://www.facebook.com/penskemediacorp/)[![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a026392a766_Group%202.svg)](https://www.instagram.com/penskemedia/?hl=en)[![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a589392a77d_Vector-2.svg)](https://www.linkedin.com/company/penske-media-corporation/)[![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a334292a77e_icon.svg)](https://www.glassdoor.com/Overview/Working-at-Penske-Media-EI_IE472810.11,23.htm)
 
-Copyright © 2023 Penske Media Corporation. All Rights Reserved.
+Copyright © 2024 Penske Media Corporation. All Rights Reserved.
 
 OUR SITES
 
