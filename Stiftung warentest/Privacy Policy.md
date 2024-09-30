@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
 
 Service Stiftung Warentest
 
