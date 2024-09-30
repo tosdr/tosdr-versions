@@ -2,7 +2,7 @@
 
 English
 
-[English](https://legal.jagex.com/docs/policies/privacy?fallback=true)[Deutsch](https://legal.jagex.com/v/de-de/docs/policies/privacy?fallback=true)[Français](https://legal.jagex.com/v/fr-fr/docs/policies/privacy?fallback=true)[Português do Brasil](https://legal.jagex.com/v/pt-br/docs/policies/privacy?fallback=true)[中國](https://legal.jagex.com/v/zh-cn/docs/policies/privacy?fallback=true)[日本人](https://legal.jagex.com/v/ja-jp/docs/policies/privacy?fallback=true)[한국어](https://legal.jagex.com/v/ko-kr/docs/policies/privacy?fallback=true)[Polski](https://legal.jagex.com/v/pl-pl/docs/policies/privacy?fallback=true)[Italiano](https://legal.jagex.com/v/it-it/docs/policies/privacy?fallback=true)[Português](https://legal.jagex.com/v/pt-pt/docs/policies/privacy?fallback=true)[Русский](https://legal.jagex.com/v/ru-ru/docs/policies/privacy?fallback=true)[Español](https://legal.jagex.com/v/es-es/docs/policies/privacy?fallback=true)[繁體中文](https://legal.jagex.com/v/zh-cht/docs/policies/privacy?fallback=true)[Türkçe](https://legal.jagex.com/v/tr-tr/docs/policies/privacy?fallback=true)[български](https://legal.jagex.com/v/bg-bg/docs/policies/privacy?fallback=true)[Ελληνικά](https://legal.jagex.com/v/el-gr/docs/policies/privacy?fallback=true)[українська](https://legal.jagex.com/v/uk-ua/docs/policies/privacy?fallback=true)[Español (MX)](https://legal.jagex.com/v/es-mx/docs/policies/privacy?fallback=true)
+[English](https://legal.jagex.com/docs/policies/privacy?fallback=true)[Deutsch](https://legal.jagex.com/de-de/docs/policies/privacy?fallback=true)[Français](https://legal.jagex.com/fr-fr/docs/policies/privacy?fallback=true)[Português do Brasil](https://legal.jagex.com/pt-br/docs/policies/privacy?fallback=true)[中國](https://legal.jagex.com/zh-cn/docs/policies/privacy?fallback=true)[日本人](https://legal.jagex.com/ja-jp/docs/policies/privacy?fallback=true)[한국어](https://legal.jagex.com/ko-kr/docs/policies/privacy?fallback=true)[Polski](https://legal.jagex.com/pl-pl/docs/policies/privacy?fallback=true)[Italiano](https://legal.jagex.com/it-it/docs/policies/privacy?fallback=true)[Português](https://legal.jagex.com/pt-pt/docs/policies/privacy?fallback=true)[Русский](https://legal.jagex.com/ru-ru/docs/policies/privacy?fallback=true)[Español](https://legal.jagex.com/es-es/docs/policies/privacy?fallback=true)[繁體中文](https://legal.jagex.com/zh-cht/docs/policies/privacy?fallback=true)[Türkçe](https://legal.jagex.com/tr-tr/docs/policies/privacy?fallback=true)[български](https://legal.jagex.com/bg-bg/docs/policies/privacy?fallback=true)[Ελληνικά](https://legal.jagex.com/el-gr/docs/policies/privacy?fallback=true)[українська](https://legal.jagex.com/uk-ua/docs/policies/privacy?fallback=true)[Español (MX)](https://legal.jagex.com/es-mx/docs/policies/privacy?fallback=true)
 
 More
 
@@ -974,7 +974,7 @@ Policies and procedures are reviewed and compared to the requirements of applica
 
 _END OF POLICY_
 
-Last updated 24 days ago
+Last updated 25 days ago
 
 ![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
 
