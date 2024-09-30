@@ -26,16 +26,6 @@ FOX SCORES
     | PEN | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243101)
-* [National SC
-    
-    6/10 14:20 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NWT | –   |
-    | NTD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/state-championships/match-centre/NSC20240101)
 * [NRL Women's
     
     6/10 15:55 AEST
@@ -46,6 +36,16 @@ FOX SCORES
     | CRO | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241101)
+* [National SC
+    
+    6/10 13:20 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NWT | –   |
+    | NTD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/state-championships/match-centre/NSC20240101)
 * AFL
     
 * [AFL
@@ -62,44 +62,14 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3
+    Day 4 Session 2
     
     |     |     |
     | --- | --- |
     | IND |     |
-    | BAN | 3 /107 |
+    | BAN | 233 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [Men's T20I
-    
-    UAE won by 40 runs
-    
-    |     |     |
-    | --- | --- |
-    | NAM | 8 /205 |
-    | UAE | 2 /245 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20242001)
-* [Men's T20I
-    
-    IRL won by 10 runs
-    
-    |     |     |
-    | --- | --- |
-    | IRL | 6 /195 |
-    | RSA | 9 /185 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241802)
-* [Men's T20I
-    
-    NEP won by 37 runs
-    
-    |     |     |
-    | --- | --- |
-    | NEP | 6 /176 |
-    | OMA | 139 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241902)
 * [Men's ODI
     
     AUS won by 49 runs (DLS)
@@ -234,12 +204,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250427)
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BAL | 21  |
-    | BUF | 3   |
+    | BAL | 35  |
+    | BUF | 10  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250428)
 * Motorsport
@@ -262,20 +232,20 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | IPS | 2   |
-    | AVL | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250610)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | MUN | 0   |
     | TOT | 3   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250603)
+* [Premier League
+    
+    1/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BOU | –   |
+    | SOU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250607)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
