@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry](https://s1.cdn.autoevolution.com/images/news/jeremy-clarkson-and-i-share-a-bad-feeling-about-modern-cars-and-the-auto-industry-240470-5.jpg "Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry")
+[![I 100% Completed Sweden's Air Tech Tree in War Thunder, Here's Why I'll Never Play Again](https://s1.cdn.autoevolution.com/images/news/i-100-completed-sweden-s-air-tech-tree-in-war-thunder-here-s-why-i-ll-never-play-again-240573-5.jpg "I 100% Completed Sweden's Air Tech Tree in War Thunder, Here's Why I'll Never Play Again")
 
-#### Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry](https://www.autoevolution.com/news/jeremy-clarkson-and-i-share-a-bad-feeling-about-modern-cars-and-the-auto-industry-240470.html "Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry")
+#### I 100% Completed Sweden's Air Tech Tree in War Thunder, Here's Why I'll Never Play Again](https://www.autoevolution.com/news/i-100-completed-sweden-s-air-tech-tree-in-war-thunder-here-s-why-i-ll-never-play-again-240573.html "I 100% Completed Sweden's Air Tech Tree in War Thunder, Here's Why I'll Never Play Again")
 
 coverstory \_
 
-[![1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine](https://s1.cdn.autoevolution.com/images/news/1970-cuda-340-won-t-start-shocked-mechanic-drains-three-gallons-of-gas-from-the-block-240572-5.jpg "1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine")
+[![$300M Golden Odyssey Megayacht Is Back on the Market After Seizure and Forced Sale](https://s1.cdn.autoevolution.com/images/news/300m-golden-odyssey-megayacht-is-back-on-the-market-after-seizure-and-forced-sale-240575-5.jpg "$300M Golden Odyssey Megayacht Is Back on the Market After Seizure and Forced Sale")
 
-1970 'Cuda 340 Won't Start; Shocked Mechanic Drains Three Gallons of Gas From the Engine](https://www.autoevolution.com/news/1970-cuda-340-won-t-start-shocked-mechanic-drains-three-gallons-of-gas-from-the-engine-240572.html)
+$300M Golden Odyssey Megayacht Is Back on the Market After Seizure and Forced Sale](https://www.autoevolution.com/news/300m-golden-odyssey-megayacht-is-back-on-the-market-after-seizure-and-forced-sale-240575.html)
 
 how-to \_
 
