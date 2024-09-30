@@ -295,6 +295,7 @@ We may change this Privacy Notice from time to time. Any updates will be made av
     * [Advanced AR Training](https://zap.works/training/studio/)
     * [L&D AR Training](https://zap.works/training/learning-and-development/)
     * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+    * [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 * Legal
     
     * [T&C's](https://zap.works/terms/)
@@ -350,6 +351,7 @@ We may change this Privacy Notice from time to time. Any updates will be made av
 * [Advanced AR Training](https://zap.works/training/studio/)
 * [L&D AR Training](https://zap.works/training/learning-and-development/)
 * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+* [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 
 ### Legal
 
