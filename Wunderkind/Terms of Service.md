@@ -173,6 +173,17 @@ These Terms of Use constitute the entire agreement between the user and Wunderki
 
 [This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine-readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.  
 
+Ask our AI mascot anything, get an answer
+-----------------------------------------
+
+![Mascot Avatar](/images/how-it-works/avatar-mascot-wiseox.svg)
+
+![Send Message](/images/how-it-works/chevron-right.svg)
+
+![Mascot Avatar](/images/how-it-works/avatar-mascot-wiseox.svg)Ask WunderBot
+
+Hide
+
 ![](https://wkd.wpengine.com/wp-content/uploads/2020/04/logo-black.svg)
 
 * [About Us](https://www.wunderkind.co/about-us)
