@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 30, 2024](https://www.japantimes.co.jp/archive/2024/09/30/ "archive page")
+[October 01, 2024](https://www.japantimes.co.jp/archive/2024/10/01/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Ishiba gets down to the business of forming new administration](https://www.japantimes.co.jp/news/2024/09/28/japan/politics/ldp-ishiba-cabinet-administration/ "Ishiba gets down to the business of forming new administration")
-
-  [![Shigeru Ishiba, the newly elected leader of Japan's ruling Liberal Democratic Party holds a news conference after the LDP leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424530.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of Japan's ruling Liberal Democratic Party holds a news conference after the LDP leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/28/japan/politics/ldp-ishiba-cabinet-administration/ "Ishiba gets down to the business of forming new administration")
-
 [Japan and U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
 
   [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+
+[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+
+  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
 [Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
   [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
+[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+
+  [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+
 [Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
   [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
-
-[Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
-
-  [![Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424566.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ")](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
 
 [What’s a mother to do when your non-Japanese child is bullied in school?](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
 
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan's children's agency looks to set up shelters for runaways](https://www.japantimes.co.jp/news/2024/09/30/japan/society/runaway-youths-shelters/ "Japan's children's agency looks to set up shelters for runaways")
+
+5 hours ago
+
 [Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-21 mins ago
+6 hours ago
 
 [Former Abe faction treasurer given suspended three-year prison term](https://www.japantimes.co.jp/news/2024/09/30/japan/crime-legal/ldp-political-funds-ruling/ "Former Abe faction treasurer given suspended three-year prison term")
 
-29 mins ago
+6 hours ago
 
 [Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
 
-39 mins ago
+6 hours ago
 
 [Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
-57 mins ago
-
-[Ex-police chief jailed 3 years over deadly South Korea crowd crush](https://www.japantimes.co.jp/news/2024/09/30/asia-pacific/crime-legal/police-chief-jailed-south-korea-crush/ "Ex-police chief jailed 3 years over deadly South Korea crowd crush")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
