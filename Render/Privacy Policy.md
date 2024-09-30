@@ -51,7 +51,7 @@ Runtimes
 
 [Get Started](https://dashboard.render.com/register)
 
-[Terms of Service](https://render.com/terms)[Shared Responsibility Model](https://render.com/shared-responsibility-model)[Privacy Policy](https://render.com/privacy)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
+[Shared Responsibility Model](https://render.com/shared-responsibility-model)[Terms of Service](https://render.com/terms)[Privacy Policy](https://render.com/privacy)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
 
 Render Services, Inc. Privacy Policy
 ====================================
