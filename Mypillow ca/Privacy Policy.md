@@ -81,8 +81,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Beach Towels](https://www.mypillow.com/bath/beach-towels)
 * [Pet](https://www.mypillow.com/pet)
     * [Pet Blanket](https://www.mypillow.ca/pet/pet-blanket)
-    * [Dog Beds](https://www.mypillow.ca/mypillow-for-pets-extravaganza)
-    * [Limited Edition Dog Bed](https://www.mypillow.com/limited-edition-dog-beds)
+    * [Dog Beds](https://www.mypillow.ca/mypillow-for-pets)
 * [Clearance](https://www.mypillow.com/clearance-page)
 * [MyCoffee](https://www.mypillow.com/mycoffee-options)
 * [MyGummies](https://www.mypillow.com/mystore-gummies)
@@ -99,15 +98,15 @@ Apply
 
 [](https://www.mypillow.com/mycoffee-options)
 
-[](https://www.mypillow.com/tv-specials)
-
 [](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
+
+[](https://www.mypillow.ca/mystore-general-redirect)
 
    [](https://www.mypillow.com/25-extravaganza-new)
 
    [](https://www.mypillow.com/the-classic-collection)
 
-   [](https://www.mypillow.com/bath/bath-towels)
+   [](https://www.mypillow.com/bath)
 
    [](https://www.mypillow.com/bedding)
 
