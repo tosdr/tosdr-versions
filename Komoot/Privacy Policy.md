@@ -611,8 +611,6 @@ Unser Angebot
 
 [Presse](https://newsroom.komoot.com/de)
 
-[Team](https://www.komoot.de/de-de/team)
-
 [Jobs](https://www.komoot.de/de-de/jobs)
 
 Erfahr mehr
