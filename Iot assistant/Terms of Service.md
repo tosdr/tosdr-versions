@@ -1,14 +1,14 @@
 We use cookies to improve your user experience and combat abuse. [Learn more](https://www.iotprivacy.io/privacy-policy) I Agree
 
-[](https://www.iotprivacy.io/)
+[](https://iotprivacy.io/)
 
-* [Publishing IoT Resources](https://www.iotprivacy.io/publishing-iot)
-* [Discovering IoT Resources](https://www.iotprivacy.io/discovering-iot)
-* [FAQ](https://www.iotprivacy.io/faq)
+* [Publishing IoT Resources](https://iotprivacy.io/publishing-iot)
+* [Discovering IoT Resources](https://iotprivacy.io/discovering-iot)
+* [FAQ](https://iotprivacy.io/faq)
 * About
     
-    * [About the IoT Privacy Infrastructure](https://www.iotprivacy.io/about)
-    * [About our Logo](https://www.iotprivacy.io/about-logo)
+    * [About the IoT Privacy Infrastructure](https://iotprivacy.io/about)
+    * [About our Logo](https://iotprivacy.io/about-logo)
     
     * * *
     
@@ -16,10 +16,10 @@ We use cookies to improve your user experience and combat abuse. [Learn more](ht
     * [Terms of Use (IoT Portal)](https://www.iotprivacy.io/terms-of-use)
     * [End User License Agreement (IoTA app)](https://www.iotprivacy.io/end-user-license-agreement)
     
-* [Login](https://www.iotprivacy.io/login)
-* [Register](https://www.iotprivacy.io/register)
+* [Login](https://iotprivacy.io/login)
+* [Register](https://iotprivacy.io/register)
 
-[![](https://www.iotprivacy.io/img/logo_nav-bar.png)](https://www.iotprivacy.io/)
+[![](https://djiku4uwrgj3y.cloudfront.net/e3d82e96-414e-4b02-9a86-a8fe6714c241/img/logo_nav-bar.png)](https://www.iotprivacy.io/)
 
    
 Carnegie Mellon University Internet of Things Privacy Infrastructure Website
