@@ -2,7 +2,7 @@
 
 Clemson University
 
-[**EMERGENCY ALERT:**  Clemson University’s main campus closed, classes cancelled through Friday Sept. 27.](https://alerts.clemson.edu/) close
+[**EMERGENCY ALERT:**  Clemson University’s main campus closed, classes cancelled through Monday Sept. 30.](https://alerts.clemson.edu/2024/09/29/university-closed-classes-cancelled-on-monday/) close
 
 [Clemson University](https://www.clemson.edu/)
 
