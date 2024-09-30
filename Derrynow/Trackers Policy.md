@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-29 Sept 2024
+30 Sept 2024
 
 * [Home
     
@@ -275,14 +275,12 @@ Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
 [Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+[![Man arrested after car stolen with teenage girl inside](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after car stolen with teenage girl inside")](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
 
-Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested after car stolen with woman inside](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Kilrea](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 
@@ -293,26 +291,21 @@ Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
 [Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested after car stolen with teenage girl inside](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after car stolen with teenage girl inside")](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man arrested after car stolen with woman inside](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who is the best rated Derry City player on FC25?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who is the best rated Derry City player on FC25?")](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Who is the best rated Derry City player on FC25?](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says")](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+
+Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
 
@@ -332,14 +325,19 @@ The ATM was damaged between Saturday and Sunday.
 [Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+[![Mary Lou McDonald ‘never considered’ stepping down](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mary Lou McDonald ‘never considered’ stepping down")](https://www.derrynow.com/news/northern-ireland/1617261/mary-lou-mcdonald-never-considered-stepping-down.html)
 
-Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Mary Lou McDonald ‘never considered’ stepping down](https://www.derrynow.com/news/northern-ireland/1617261/mary-lou-mcdonald-never-considered-stepping-down.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
