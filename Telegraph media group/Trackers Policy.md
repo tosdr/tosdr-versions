@@ -24,7 +24,7 @@ Your privacy is important to us. If you are visiting our Service from the United
 
 **About us**
 
-The Telegraph Media Group is comprised of Telegraph Media Group Limited, Press Acquisitions Limited, and each of their respective subsidiaries. You can find our contact information [here](https://www.telegraph.co.uk/contact-us/).   The Chelsea Magazine Company Ltd (“**CMC**”)  is also part of Telegraph Media Group of companies, and you can visit their dedicated privacy policy [here](https://www.chelseamagazines.com/the-chelsea-magazine-company-privacy-policy/)
+The Telegraph Media Group is comprised of Telegraph Media Group Holdings Limited, Press Acquisitions Limited, and each of their respective subsidiaries. You can find our contact information [here](https://www.telegraph.co.uk/contact-us/).   The Chelsea Magazine Company Ltd (“**CMC**”)  is also part of Telegraph Media Group of companies, and you can visit their dedicated privacy policy [here](https://www.chelseamagazines.com/the-chelsea-magazine-company-privacy-policy/)
 
 Telegraph Media Group is also responsible for our website www.telegraph.co.uk, and whether you browse as a guest or register with us we will collect different types of information about you: for example, for website functionality; to provide improved or personalised services to you; to help decide what kind of advertising you will see on the site; and, in accordance with your chosen preferences, to market goods or services to you. Please also see our website terms and conditions.
 
@@ -291,7 +291,7 @@ N.B. Telegraph Travel also uses the services of smaller organisations and indivi
 
 **Effective Date: December 20, 2023** 
 
-Your privacy is important to us. Telegraph Media Group Limited, Press Acquisitions Limited, and each of their respective subsidiaries (collectively, “Telegraph Media Group”, “we”, or “us” or “our”) created this Privacy Policy to inform you about how we collect, use, disclose, share, and protect Personally Identifiable Information (or “PII”, defined below) and otherwise comply with applicable U.S. consumer privacy laws.  We encourage you to read this Privacy Policy in its entirety before using [https://www.telegraph.co.uk/](https://www.telegraph.co.uk/) or any other online service (e.g., website or mobile app) that posts a link to this Privacy Policy, opening our e-mails or otherwise submitting PII to us (collective the “Service”).
+Your privacy is important to us. Telegraph Media Group Holdings Limited, Press Acquisitions Limited, and each of their respective subsidiaries (collectively, “Telegraph Media Group”, “we”, or “us” or “our”) created this Privacy Policy to inform you about how we collect, use, disclose, share, and protect Personally Identifiable Information (or “PII”, defined below) and otherwise comply with applicable U.S. consumer privacy laws.  We encourage you to read this Privacy Policy in its entirety before using [https://www.telegraph.co.uk/](https://www.telegraph.co.uk/) or any other online service (e.g., website or mobile app) that posts a link to this Privacy Policy, opening our e-mails or otherwise submitting PII to us (collective the “Service”).
 
 This Privacy Policy applies to visitors of our Service (defined below) in the United States.  If you are visiting the Service from another country, please refer to our [General Privacy Policy.](#UK)
 
@@ -589,7 +589,7 @@ To learn more about how you can exercise certain choices regarding Cross-device 
 
 This U.S. State Privacy Notice (“Notice”) applies to “Consumers” as defined under the California Consumer Privacy Act, including as amended by the California Privacy Rights Act, Colorado Privacy Act (effective July 1, 2023), and all laws implementing, supplementing or amending the foregoing, including regulations promulgated thereunder (together, the “CCPA”), and Chapter 603A of the Nevada Revised Statutes (collectively, “U.S. Privacy Laws”).  Capitalized terms used but not defined in this Notice shall have the meanings given to them under the CCPA. 
 
-This Notice is designed to meet our obligations under U.S. Privacy Laws and supplements the [U.S. Privacy Policy](#US) of Telegraph Media Group Limited. In the event of a conflict between any other Telegraph Media Group policy, notice, or statement and this Notice, this Notice will prevail as to Consumers unless stated otherwise.   
+This Notice is designed to meet our obligations under U.S. Privacy Laws and supplements the [U.S. Privacy Policy](#US) of Telegraph Media Group Holdings Limited. In the event of a conflict between any other Telegraph Media Group policy, notice, or statement and this Notice, this Notice will prevail as to Consumers unless stated otherwise.   
 
 _**Applicability**_**:**
 
