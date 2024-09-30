@@ -255,7 +255,7 @@ EUR
     
     Information[#### Custom Buttons](https://www.jukeboxprint.com/custom-buttons)[Elevate your brand with custom buttons. Available in super gloss or matte finishes with a fast turnaround of just 1 business day. Get noticed with style.](https://www.jukeboxprint.com/custom-buttons)
     
-    Information[#### Foam Board Sign](https://www.jukeboxprint.com/foam-board-signs)[Get custom foam board printing with any shape, super matte or gloss finish, and quick turnaround. Perfect for events, displays, and more. Durable and lightweight!](https://www.jukeboxprint.com/foam-board-signs)
+    Information[#### Foam Board Signs](https://www.jukeboxprint.com/foam-board-signs)[Get custom foam board printing with any shape, super matte or gloss finish, and quick turnaround. Perfect for events, displays, and more. Durable and lightweight!](https://www.jukeboxprint.com/foam-board-signs)
     
 * [Invitations & Stationery](#)
 * * [Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
