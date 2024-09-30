@@ -207,13 +207,13 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://imgs2.dab3games.com/hide-the-doge44.png) Animal Games409 games](https://lagged.com/en/animal "Animal Games")
+*  [![Animal Games](https://imgs2.dab3games.com/hide-the-doge44.png) Animal Games414 games](https://lagged.com/en/animal "Animal Games")
 *  [![Arcade Games](https://imgs2.dab3games.com/ice-cream-stack-run29.png) Arcade Games1,606 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://imgs2.dab3games.com/traffic-run-game.png) Car Games401 games](https://lagged.com/en/car "Car Games")
+*  [![Car Games](https://imgs2.dab3games.com/traffic-run-game.png) Car Games405 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://imgs2.dab3games.com/volley-master-2024-ft525.png) Football Games64 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games787 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games764 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,296 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games789 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games765 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,299 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/emoji-tripeaks32.png) Solitaire Games58 games](https://lagged.com/en/solitaire "Solitaire Games")
 *  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games313 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://imgs2.dab3games.com/screamers-2263.png) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
