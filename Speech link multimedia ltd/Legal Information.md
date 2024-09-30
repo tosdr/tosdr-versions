@@ -149,7 +149,7 @@ Our speech and language courses will give your staff the skills they need to imp
 
 ### New Podcasts Coming Soon
 
-Our new "Talk-Aways" podcast series is launching soon. Featuring our therapists Juliet and Alison, they're all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community
+Our new "Talk Aways: The Teacher Talk Podcast" is launching soon. Featuring our therapists Juliet and Alison, they're all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community.
 
 [Join The Link Community today](https://speechandlanguage.info/the-link-community/)
 
