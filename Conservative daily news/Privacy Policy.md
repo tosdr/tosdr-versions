@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
+    
+    [A Fitting End](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
+    
+    September 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Stars-night-sky-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-free-fun-family-outing-of-stargazing/)
+    
+    [A Free Fun Family Outing of Stargazing](https://www.conservativedailynews.com/2024/09/a-free-fun-family-outing-of-stargazing/)
+    
+    September 30, 2024
+    
 * [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
     
     [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
@@ -162,21 +174,10 @@ Recent Posts
     
     September 29, 2024
     
-* [![Joe Biden Kamala Harris border crisis policy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/open/)
-    
-    [Open](https://www.conservativedailynews.com/2024/09/open/)
-    
-    September 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-walzwreck-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hitchhiker/)
-    
-    [Hitchhiker](https://www.conservativedailynews.com/2024/09/hitchhiker/)
-    
-    September 29, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida city illegally bans firearm and ammunition sales, CCW during Hurricane Helene](https://www.thegunpage.com/florida-city-illegally-bans-firearm-and-ammunition-sales-ccw-during-hurricane-helene/10610888)
 * [5 Suppressors Under $500](https://www.thegunpage.com/5-suppressors-under-500/10610884)
 * [NRA Asks Supreme Court To Consider AWB Case](https://www.thegunpage.com/nra-asks-supreme-court-to-consider-awb-case/10610882)
 * [From Steyr to Glock: Austria's Military Pistol History](https://www.thegunpage.com/from-steyr-to-glock-austrias-military-pistol-history/10610885)
@@ -186,7 +187,6 @@ Recent Posts
 * [TFB Review: TYPE A M110 Restomod](https://www.thegunpage.com/tfb-review-type-a-m110-restomod/10610873)
 * [Routh’s Rifle… Pul-lease](https://www.thegunpage.com/rouths-rifle-pul-lease/10610871)
 * [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
-* [POTD: Chilean Special Forces With Colt M5s](https://www.thegunpage.com/potd-chilean-special-forces-with-colt-m5s/10610867)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
