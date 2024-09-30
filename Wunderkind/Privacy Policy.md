@@ -293,6 +293,17 @@ General Manager, EMEA
 
 Email: privacyrequests@wunderkind.co
 
+Ask our AI mascot anything, get an answer
+-----------------------------------------
+
+![Mascot Avatar](/images/how-it-works/avatar-mascot-wiseox.svg)
+
+![Send Message](/images/how-it-works/chevron-right.svg)
+
+![Mascot Avatar](/images/how-it-works/avatar-mascot-wiseox.svg)Ask WunderBot
+
+Hide
+
 ![](https://wkd.wpengine.com/wp-content/uploads/2020/04/logo-black.svg)
 
 * [About Us](https://www.wunderkind.co/about-us)
