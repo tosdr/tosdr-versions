@@ -97,11 +97,11 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Meta Connect 2024](https://techcrunch.com/2024/09/23/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event/)
-* [CloudKitchens Lawsuit](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/)
-* [OpenAI CTO Mira Murati](https://techcrunch.com/2024/09/25/openai-cto-mira-murati-says-shes-leaving-the-company/)
-* [Orion Glasses](https://techcrunch.com/2024/09/25/meta-teases-orion-brain-powered-true-ar-glasses-in-a-tiny-package/)
-* [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
+* [SpaceX’s Grounds Falcon 9](https://techcrunch.com/2024/09/30/after-delivering-astronauts-to-iss-spacexs-falcon-9-grounded-after-third-anomaly-in-three-months/)
+* [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
+* [VPNs](https://techcrunch.com/2024/09/30/we-are-skeptical-of-vpn-providers-and-you-should-be-too/)
+* [Lex Acquisition](https://techcrunch.com/2024/09/30/queer-social-app-lex-acquired-by-the-former-musical-ly-ceos-conglomerate/)
+* [X’s Valuation](https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/)
 * [Tech Layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
