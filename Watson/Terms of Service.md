@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)15°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)19°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
-* [Israël](https://www.watson.ch/fr/israel/)
-* [Iran](https://www.watson.ch/fr/iran/)
-* [Travail](https://www.watson.ch/fr/travail/)
 * [People](https://www.watson.ch/fr/people/)
+* [Travail](https://www.watson.ch/fr/travail/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [commerce](https://www.watson.ch/fr/commerce/)
+* [Décès](https://www.watson.ch/fr/deces/)
 * [Promotion](https://www.watson.ch/fr/promotion/)
-* [Tennis](https://www.watson.ch/fr/tennis/)
+* [Police](https://www.watson.ch/fr/police/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Palestine](https://www.watson.ch/fr/palestine/)
-* [ATP](https://www.watson.ch/fr/atp/)
-* [hezbollah](https://www.watson.ch/fr/hezbollah/)
+* [Incendie](https://www.watson.ch/fr/incendie/)
+* [Extrême droite](https://www.watson.ch/fr/extreme-droite/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [Mode](https://www.watson.ch/fr/mode/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Zurich](https://www.watson.ch/fr/zurich/)
-* [Liban](https://www.watson.ch/fr/liban/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
