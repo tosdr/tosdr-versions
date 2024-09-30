@@ -247,9 +247,9 @@ Main navigation
             
             * [Burberry](https://www.usertesting.com/resources/customers/burberry)
                 
-            * [Costa Coffee](https://www.usertesting.com/resources/customers/costa-coffee)
+            * [Costa Coffee](https://www.usertesting.com/resources/customers/costa-coffee-usertesting)
                 
-            * [EssilorLuxottica](https://www.usertesting.com/resources/customers/essilorluxottica)
+            * [EssilorLuxottica](https://www.usertesting.com/resources/customers/essilorluxottica-usertesting)
                 
             * [Panera Bread](https://www.usertesting.com/resources/customers/panera-bread-usertesting)
                 
