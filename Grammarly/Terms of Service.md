@@ -37,7 +37,7 @@
         * [Customer Stories](https://www.grammarly.com/business/customer-stories)
         * [Business Events & Resources](https://www.grammarly.com/business/events-resources)
         * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
-        * [Support Center](https://support.grammarly.com/)
+        * [Help Center](https://support.grammarly.com/hc/en-us)
     * Tools
         * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
@@ -47,9 +47,9 @@
         * [Citation Generator](https://www.grammarly.com/citations)
     
 
-[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
+[Contact Sales](https://www.grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
-[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
+[Contact Sales](https://www.grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
 [Grammarly Home](https://www.grammarly.com/)
 
@@ -90,7 +90,7 @@
         * [Customer Stories](https://www.grammarly.com/business/customer-stories)
         * [Business Events & Resources](https://www.grammarly.com/business/events-resources)
         * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
-        * [Support Center](https://support.grammarly.com/)
+        * [Help Center](https://support.grammarly.com/hc/en-us)
     * Tools
         * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
@@ -100,7 +100,7 @@
         * [Citation Generator](https://www.grammarly.com/citations)
     
 
-[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
+[Contact Sales](https://www.grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
 Effective as of September 4, 2024 | Posted: September 4, 2024
 
@@ -415,7 +415,7 @@ Company
 
 Connect
 
-* [Help Center](https://support.grammarly.com/)
+* [Help Center](https://support.grammarly.com/hc/en-us)
 * [Contact Us](https://www.grammarly.com/contact)
 * [Facebook](https://www.facebook.com/grammarly)
 * [Instagram](https://www.instagram.com/grammarly/)
