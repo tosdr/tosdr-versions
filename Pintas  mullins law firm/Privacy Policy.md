@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is worse, asbestos or smoking?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-worse-asbestos-or-smoking.jpg "What Is Worse, Asbestos or Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/ "What Is Worse, Asbestos or Smoking?")
+[![How do you get cancer from talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-cancer-from-talcum-powder.jpg "How Do You Get Cancer from Talcum Powder?")](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/ "How Do You Get Cancer from Talcum Powder?")
 
-[#### What Is Worse, Asbestos or Smoking?](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/)
+[#### How Do You Get Cancer from Talcum Powder?](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/)
 
-[![What are the symptoms of asbestos lung cancer?](https://www.pintas.com/wp-content/uploads/2020/03/mesothelioma-lawsuit-lawyer-what-are-the-symptoms-of-asbestos-lung-cancer.jpg "What Are the Symptoms of Asbestos Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer "What Are the Symptoms of Asbestos Lung Cancer?")
+[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
 
-[#### What Are the Symptoms of Asbestos Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer)
+[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
 
-[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
+[![Is talc-free powder safe?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-is-talc-free-powder-safe-scaled.jpg "Is Talc-Free Powder Safe?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/ "Is Talc-Free Powder Safe?")
 
-[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
+[#### Is Talc-Free Powder Safe?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
