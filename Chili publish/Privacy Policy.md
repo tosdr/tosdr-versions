@@ -67,7 +67,7 @@ By Job Role
 
 [Marketing Operations Director](https://www.chili-publish.com/solution/job-role/marketing-operations-director/)
 
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAACU0lEQVQoUzWTv27UQBCHv9ld3/lyd7kckEAk/kggKio6ylQoDeIZaCjyFjwDTwBvQE9Fg0BCQhQR6BASUBBQlKC7s322d3fQ2kHWT+Oxdmd+O/5W3kwennlh3gp4o7SAF2j/y/SxuVDKG1FaUWojRGAWoBYobL8GOHe5MvcoVgWvgjXQ5+AAF7SPFrKL4q5rIFgLswgmCmurqID2RuZuEMGKYJNjwMbkXLBlpGkr3NUxDsH+3uBmGdnMkfnYOZy2yk6A0kCUZFVR+twNFbyCkdQgSWlXgfzwFrtPHtMUJWYyRo3QbmratiWbbbM8+cPp0Qt0Z9CdnW4E0pVOxd1ABFM1GCLBDvoGaXJVQ328IFpLA9RFiWaONgQ0H5IvC3YGGWUd0UxQD1GV2ET0ssUNKk/26C5xPqF+/RlbRMLeCHWW6tkrPIEWxZPTUOLZwt0eM93fJr+eo1WAysPUYq+NGe1NOX37EznhQIcvjwirAnNjH3VZ5yx6jy8r1scLtu7fQ43Bty31co358o35wQOCMTR1g4+RaA3VumB19pcPT5/jXBrC+0+otfjjr+hsShgO8NUGX9Vke5eo3n0kpBFMtrCLH+S/zimqGj/MsHduslp8px1mbOqG5ckpEzNClu5Qgy8JKAEIBGJ3dNMpkOO7EaRfEtglJwFYdw9siDQoFcoGwwZLfWWEs0ERM8JAL0noaEdIwqxD0EywKPMgDCPURkHGPQmS9tMp7e3eveISXpJwQ3oiFIIKIS0SxSRqFMYqTIMSRMiikD5qXxlU6a6gAU1RhH+9PzEn3QfsTgAAAABJRU5ErkJggg==)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAlNJREFUKFM1k79u1EAQh7/ZXd/5cne5HJBAJP5IICoqOspUKA3iGWgo8hY8A08Ab0BPRYNAQkIUEegQElAQUJSgu7N9tnd30NpB1k/jsXZnfjv+Vt5MHp55Yd4KeKO0gBdo/8v0sblQyhtRWlFqI0RgFqAWKGy/Bjh3uTL3KFYFr4I10OfgABe0jxayi+KuayBYC7MIJgprq6iA9kbmbhDBimCTY8DG5FywZaRpK9zVMQ7B/t7gZhnZzJH52DmctspOgNJAlGRVUfrcDRW8gpHUIElpV4H88Ba7Tx7TFCVmMkaN0G5q2rYlm22zPPnD6dELdGfQnZ1uBNKVTsXdQARTNRgiwQ76BmlyVUN9vCBaSwPURYlmjjYENB+SLwt2BhllHdFMUA9RldhE9LLFDSpP9ugucT6hfv0ZW0TC3gh1lurZKzyBFsWT01Di2cLdHjPd3ya/nqNVgMrD1GKvjRntTTl9+xM54UCHL48IqwJzYx91Wecseo8vK9bHC7bu30ONwbct9XKN+fKN+cEDgjE0dYOPkWgN1bpgdfaXD0+f41wawvtPqLX446/obEoYDvDVBl/VZHuXqN59JKQRTLawix/kv84pqho/zLB3brJafKcdZmzqhuXJKRMzQpbuUIMvCSgBCARid3TTKZDjuxGkXxLYJScBWHcPbIg0KBXKBsMGS31lhLNBETPCQC9J6GhHSMKsQ9BMsCjzIAwj1EZBxj0JkvbTKe3t3r3iEl6ScEN6IhSCCiEtEsUkahTGKkyDEkTIopA+al8ZVOmuoAFNUYR/vT8xJ90H7E4AAAAASUVORK5CYII=)
 
 ![](https://www.datocms-assets.com/11099/1669045657-agency-white-paper.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
 
@@ -109,13 +109,13 @@ Explore how automation, AI, and personalization are transforming creative workfl
 
 Read Brandwidth 2025 Report](https://www.chili-publish.com/research/brandwith-2024/unlock/)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAfZJREFUKFNdk71uE0EUhb87HuOsyZ8lYyHLQoiCgjZNOjrIK1BR8xq8AiUlNSVvgARCQogCIUWiQEThJxEBEja7Oz8XzYyNnRRHM6PVnnPmnDvy+uq9n14YOYElFGeW51agNiAC4wiTCJtBsEAj8Nsq3yx8TqsBhRNbRUZeoH+BWHBaBBoDQ2CnFm7UwiZgNP9MJwWtCK2B075yWCkfKkZ2LQpelERuLwm0RpidKredsk5NHG/jjx0OcEboTLlNFjBktUktbDRg1xQ8gk/rikDCrXNhNqtgtoE+foS+/4Q+eY4/87hjnwlX4yvukyGwg1hIvCwFnFGmNVyfXiE+2CWOR/SmM/hzhj68Szj4Tvf0Lc72lp3MBfItEnFfoQf0tAikj1tOmIgQDlvis1foQUPc/0K8c5P2xRuadyc4TCmYZdGJsOSuyKm5rwEIUiDAthcMgbh7Dd3bgWpA+HpE9+MXbjjI5dYv92k/ntFVy6xT0Y0phVs7dxwSFCpNpBARNETUebRn8KMtwvoQ//ecYC3OSnErUrLNEZScE6RjT1WUmOOQLJL2aiDGQKTBEWgxdBnQoXRmLbvNZV1ymx0nIp27nE9MRlRFxeBlWIpZeTCp3FzUfJYXbv+LpKmCkmtCJkyraN6nSVk0feFVrsxuJp2P2uKcHP8DKa0mw5duaGEAAAAASUVORK5CYII=)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAfZJREFUKFNdk71uE0EUhb87HuOsyZ8lYyHLQoiCgjZNOjrIK1BR8xq8AiUlNSVvgARCQogCIUWiQEThJxEBEja7Oz8XzYyNnRRHM6PVnnPmnDvy+uq9n14YOYElFGeW51agNiAC4wiTCJtBsEAj8Nsq3yx8TqsBhRNbRUZeoH+BWHBaBBoDQ2CnFm7UwiZgNP9MJwWtCK2B075yWCkfKkZ2LQpelERuLwm0RpidKredsk5NHG/jjx0OcEboTLlNFjBktUktbDRg1xQ8gk/rikDCrXNhNqtgtoE+foS+/4Q+eY4/87hjnwlX4yvukyGwg1hIvCwFnFGmNVyfXiE+2CWOR/SmM/hzhj68Szj4Tvf0Lc72lp3MBfItEnFfoQf0tAikj1tOmIgQDlvis1foQUPc/0K8c5P2xRuadyc4TCmYZdGJsOSuyKm5rwEIUiDAthcMgbh7Dd3bgWpA+HpE9+MXbjjI5dYv92k/ntFVy6xT0Y0phVs7dxwSFCpNpBARNETUebRn8KMtwvoQ//ecYC3OSnErUrLNEZScE6RjT1WUmOOQLJL2aiDGQKTBEWgxdBnQoXRmLbvNZV1ymx0nIp27nE9MRlRFxeBlWIpZeTCp3FzUfJYXbv+LpKmCkmtCJkyraN6nSVk0feFVrsxuJp2P2uKcHP8DKa0mw5duaGEAAAAASUVORK5CYII=)
 
 ![](https://www.datocms-assets.com/11099/1678827170-general-3x.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
 
 Tune in to CHILIpulse, your go-to channel for the latest CHILI GraFx updates. Pick up new tips and tricks, get direc access to our product organization and use HCILI GraFx to drive more value for your design team.
 
-Listen now
+Listen now](https://www.chili-publish.com/chilipulse/)
 
 Company
 
@@ -123,7 +123,7 @@ Company
 
 [Press](https://www.chili-publish.com/press/)[Latest press releases](https://www.chili-publish.com/press/)[Contact us](https://www.chili-publish.com/contact-sales/)[Get in touch - we want to hear from you!](https://www.chili-publish.com/contact-sales/)
 
-[Trust & Security](https://www.chili-publish.com/trust/)[Compliance & stuff](https://www.chili-publish.com/trust/)
+[Trust & Security](https://www.chili-publish.com/trust/)[Compliance](https://www.chili-publish.com/trust/)
 
 [Request a demo](https://www.chili-publish.com/request-a-demo/)[Login to CHILI GraFx](https://login.chiligrafx.com/)
 
