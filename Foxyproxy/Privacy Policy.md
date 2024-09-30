@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Was very happy with service. I cancelled subscription because I am no longer living outside the UK.
+You have one of the best support teams I have ever communicated with!
 
-Sarah MacDonald
+Petar Yankov
