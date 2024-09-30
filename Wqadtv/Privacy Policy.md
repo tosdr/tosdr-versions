@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536/20240927T231919/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536/20240927T231919/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536_360x203.jpg)](https://www.wqad.com/article/life/people/polio-survivor-shares-story-elementary-students-davenport/526-713cd8ab-9a01-4ae8-a8d4-d74597938b1c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [Davenport fourth graders learn about polio from 95-year-old survivor](https://www.wqad.com/article/life/people/polio-survivor-shares-story-elementary-students-davenport/526-713cd8ab-9a01-4ae8-a8d4-d74597938b1c)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/21968834-81a1-41cc-8e22-5884e49ec1b6/20240925T231520/21968834-81a1-41cc-8e22-5884e49ec1b6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21968834-81a1-41cc-8e22-5884e49ec1b6/20240925T231520/21968834-81a1-41cc-8e22-5884e49ec1b6_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/400th-wheelchair-ramp-henry-county-illinois-rebuilding-together/526-c754d99e-dfcb-44c3-a2e7-f36a0e92eaeb)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9c9e181-f5f3-4511-8aff-539e219bb5ee/20240930T152426/d9c9e181-f5f3-4511-8aff-539e219bb5ee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9c9e181-f5f3-4511-8aff-539e219bb5ee/20240930T152426/d9c9e181-f5f3-4511-8aff-539e219bb5ee_360x203.jpg)](https://www.wqad.com/article/about-us/team-bios/ava-hedges-wqad-news-8-quad-cities/526-f8554932-3ab0-4e9d-8308-8a8b6c9a685c)
         
-        #### [Group of volunteers build their 400th wheelchair ramp in Henry County, Illinois](https://www.wqad.com/article/life/people/hard-work-determination/400th-wheelchair-ramp-henry-county-illinois-rebuilding-together/526-c754d99e-dfcb-44c3-a2e7-f36a0e92eaeb)
+        #### [Ava Hedges](https://www.wqad.com/article/about-us/team-bios/ava-hedges-wqad-news-8-quad-cities/526-f8554932-3ab0-4e9d-8308-8a8b6c9a685c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/03d2e2dd-7a28-4404-a5c9-c29fe67dc532/20240929T231747/03d2e2dd-7a28-4404-a5c9-c29fe67dc532_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/03d2e2dd-7a28-4404-a5c9-c29fe67dc532/20240929T231747/03d2e2dd-7a28-4404-a5c9-c29fe67dc532_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cd913f57-a8e2-4cc7-93cc-5ea64d22a796/20240930T124716/cd913f57-a8e2-4cc7-93cc-5ea64d22a796_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cd913f57-a8e2-4cc7-93cc-5ea64d22a796/20240930T124716/cd913f57-a8e2-4cc7-93cc-5ea64d22a796_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [September’s end will stay warm and dry](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [September ends on a dry and summer-like note](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_360x203.jpg)](https://www.wqad.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9f3e9520-5c66-440e-a516-594665343b27/20240927T220006/9f3e9520-5c66-440e-a516-594665343b27_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9f3e9520-5c66-440e-a516-594665343b27/20240927T220006/9f3e9520-5c66-440e-a516-594665343b27_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-helene-death-toll-climbing-buncombe-county-asheville-north-carolina/275-e7178fd6-4cf1-46cd-9a2f-f2bedd505f30)
         
-        #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.wqad.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
+        #### [Supplies rushed to communities isolated by Helene as death toll rises to nearly 100](https://www.wqad.com/article/news/national/hurricane-helene-death-toll-climbing-buncombe-county-asheville-north-carolina/275-e7178fd6-4cf1-46cd-9a2f-f2bedd505f30)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+76°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
