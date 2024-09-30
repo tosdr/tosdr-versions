@@ -4,7 +4,7 @@
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
 
-[![bms](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/ "bms") [Skip to main content](#main-content)
+[![bms](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/) [Skip to main content](#main-content)
 
 [Contact us](https://www.bms.com/about-us/contact-us.html) [Careers](https://careers.bms.com/)
 
@@ -204,7 +204,7 @@ _Previous Page Icon_
 
 Our Medicines
 
-Patients & caregivers _Next Page Icon_
+Patients & caregivers
 
 [Patients & caregivers](https://www.bms.com/patient-and-caregivers.html)
 
@@ -230,7 +230,7 @@ Related links
 
 [Psoriasis around the world](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources/psoriasis-around-the-world.html)
 
-Healthcare providers _Next Page Icon_
+Healthcare providers
 
 [Healthcare providers](https://www.bms.com/healthcare-providers.html)
 
@@ -250,7 +250,7 @@ Related links
 
 [Post study drug access request system](https://www.bms.com/healthcare-providers/post-study-drug-access/post-study-drug-access-request-system.html)
 
-Researchers _Next Page Icon_
+Researchers
 
 [Researchers](https://www.bms.com/researchers-and-partners.html)
 
@@ -278,7 +278,7 @@ Related links
 
 [Translational medicine](https://www.bms.com/researchers-and-partners/translational-medicine.html)
 
-Investors _Next Page Icon_
+Investors
 
 [Investors](https://www.bms.com/investors.html)
 
@@ -306,7 +306,7 @@ Related links
 
 [Quarterly results](https://www.bms.com/investors/financial-reporting/quarterly-results.html)
 
-Business development _Next Page Icon_
+Business development
 
 [Business development](https://www.bms.com/business-development.html)
 
@@ -328,7 +328,7 @@ Related links
 
 [Doing business with us as a supplier](https://www.bms.com/about-us/our-company/doing-business-with-us-as-a-supplier.html)
 
-News _Next Page Icon_
+News
 
 [News](https://www.bms.com/media.html)
 
@@ -348,7 +348,7 @@ Related links
 
 [Corporate publications](https://www.bms.com/media.html#publications)
 
-About us _Next Page Icon_
+About us
 
 [About us](https://www.bms.com/about-us.html)
 
