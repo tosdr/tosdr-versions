@@ -146,7 +146,7 @@
 * [Miss Peaches x Muck Boot Clogs](https://store.barstoolsports.com/products/miss-peaches-x-muckster-lite-clogs)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
 * [Barstool Sports x Muck Boot Clogs](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs)
-* [Presidents Cup Collection](https://store.barstoolsports.com/collections/barstool-golf-x-presidents-cup)
+* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 
 Privacy Policy
 ==============
