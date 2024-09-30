@@ -400,6 +400,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
+
+ ![2 men, 1 woman injured in Arlington apartment shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-shooting-lincoln-drive)
+
+### [2 men, 1 woman injured in Arlington apartment shooting](https://www.fox4news.com/news/arlington-apartment-shooting-lincoln-drive)
+
+ [![Texans working to help areas devastated by Helene](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.01.17.42.jpg?ve=1&tl=1)
+
+ ![Texans working to help areas devastated by Helene](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-AJ-NTX-HURRICANE-HELENE-HELP-PKG-JB_KDFW6df_00.01.17.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
+
+### [Texans working to help areas devastated by Helene](https://www.fox4news.com/news/helene-aftermath-texas-crews-helping)
+
  [![Nathan Eovaldi and Dustin Harris power Rangers to 8-0, season-ending sweep of Angels](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2175530948.jpg?ve=1&tl=1)
 
  ![Nathan Eovaldi and Dustin Harris power Rangers to 8-0, season-ending sweep of Angels](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175530948.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nathan-eovaldi-dustin-harris-power-rangers-8-0-season-ending-sweep-angels)
@@ -417,18 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Former Gov. Rick Perry on new advisory role with Speaker Phelan | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/592/333/Sequence-01.00_04_09_35.Still005.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-the-issue-is-former-gov-rick-perry-senior-advisor-speaker-dade-phelan)
 
 ### [Former Gov. Rick Perry on new advisory role with Speaker Phelan | Texas: The Issue Is](https://www.fox4news.com/news/texas-the-issue-is-former-gov-rick-perry-senior-advisor-speaker-dade-phelan)
-
- [![Dallas shooting: One killed at apartment, no arrests announced](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DPD-SHOOTING-THE-MALL-CEDAR-SPRINGS-PLACE-6A_00.00.13.32.jpg?ve=1&tl=1)
-
- ![Dallas shooting: One killed at apartment, no arrests announced](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DPD-SHOOTING-THE-MALL-CEDAR-SPRINGS-PLACE-6A_00.00.13.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-one-killed-apartment-no-arrests-announced)
-
-### [Dallas shooting: One killed at apartment, no arrests announced](https://www.fox4news.com/news/dallas-shooting-one-killed-apartment-no-arrests-announced)
-
- [![Kris Kristofferson, country music legend and actor, dies at 88](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1153273265-scaled.jpg?ve=1&tl=1)
-
- ![Kris Kristofferson, country music legend and actor, dies at 88](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1153273265-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kris-kristofferson-dead-country-music)
-
-### [Kris Kristofferson, country music legend and actor, dies at 88](https://www.fox4news.com/news/kris-kristofferson-dead-country-music)
 
 ###### [News](https://www.fox4news.com/news)
 
