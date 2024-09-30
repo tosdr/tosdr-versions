@@ -101,69 +101,93 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Microbiology
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/nature-of-calling)
+[![](/i/Main%20Stage%20-%201400x1050/God_Viruses_1400x1050.jpg)](https://www.icr.org/article/god-bacteria-and-viruses)
 
-[The Nature of Our Calling](https://www.icr.org/article/nature-of-calling/)
+[God, Bacteria, and Viruses](https://www.icr.org/article/god-bacteria-and-viruses/)
 
-“Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given...
+People will often ask, "Why would a good and perfect God allow bad things to happen?" This question seems all the more relevant today as all...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BENJAMIN TROTMAN](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=244)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/water-blood)
+[![](/i/Main%20Stage%20-%201400x1050/Ocean_Viruses_1400x1050.jpg)](https://www.icr.org/article/an-ocean-of-viruses)
 
-[Water and Blood](https://www.icr.org/article/water-blood/)
+[An Ocean of Viruses](https://www.icr.org/article/an-ocean-of-viruses/)
 
-“This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness,...
+A virus is a very tiny structure. In its simplest definition, a virus is some nucleic acid (either DNA or RNA) packed inside a protein coat. It is designed...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/fellowship-with-father)
+[![](/i/Main%20Stage%20-%201400x1050/Viruses_Food_Sea_1400x1050.jpg)](https://www.icr.org/article/viruses-make-good-food-for-sea-creatures)
 
-[Fellowship with the Father](https://www.icr.org/article/fellowship-with-father/)
+[Viruses Make Good Food For Sea Creatures](https://www.icr.org/article/viruses-make-good-food-for-sea-creatures/)
 
-“...and truly our fellowship is with the Father, and with his Son Jesus Christ.” (1 John 1:3) One marvelous reason for which God...
+In the midst of this current coronavirus crisis, we would like to remind our readers that although we live in a fallen and corrupted creation where many...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+More Back to Genesis
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowBatWings.jpg)](https://www.icr.org/article/how-bat-get-its-wings)
+
+[How Did the Bat Get Its Wings?](https://www.icr.org/article/how-bat-get-its-wings/)
+
+Where did bats come from? Evolutionists presuppose that some kind of rodent received just the right mutations to over “a few million years”...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/claims_100myo_bacteria.jpg)](https://www.icr.org/article/claims-of-100-million-year-old-bacteria-unfounded)
+
+[Claims of 100-Million-Year-Old Bacteria Unfounded](https://www.icr.org/article/claims-of-100-million-year-old-bacteria-unfounded/)
+
+Evolutionary scientists recently claimed to have discovered bacteria that are 101.5 million years old. In 2010 researchers collected deep-sea sediment...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/building_flying_machine.jpg)](https://www.icr.org/article/building-a-perfectly-optimal-flying-machine)
+
+[Building a Perfectly Optimal Flying Machine](https://www.icr.org/article/building-a-perfectly-optimal-flying-machine/)
+
+For thousands of years, people have dreamed of flying because they witnessed birds and knew it was possible. Inspired by a study of birds, the Wright...
+
+BY: [MICHAEL STAMP](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=220)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005666/file.jpg)
 
-Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
+Science, Scripture, & Salvation Vol 2](https://store.icr.org/mr-frank-sherwin-science-scripture-salvation-vol-2.html)
 
 $1.99
 
 $3.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
 
-Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
 
-$2.99
+$16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
 
-The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
 
-$14.99
+$4.99
 
-$49.99
+$9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37284168/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
 
-5 Razones Para Creer En La Creación Reciente (Spanish)](https://store.icr.org/cinco-razones-para-creer-en-la-creacion-reciente-s.html)
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
 
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/152997/file.jpg)
+$9.99
 
-The Book of Beginnings](https://store.icr.org/dr-henry-morris-iii-the-book-of-beginnings.html)
+[](https://store.icr.org/.html)
 
-$22.99
-
-$49.99
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
