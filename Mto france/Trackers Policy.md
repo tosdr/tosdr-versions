@@ -178,6 +178,7 @@ PUBLIC - Menu burger
     * [Images Satellites](https://meteofrance.com/images-satellites "Animations Satellites")
 * [A propos de Météo-France](https://meteofrance.fr/ "Site institutionnel de Météo-France")
     * [Notre carte d'identité](https://meteofrance.com/carte-didentite-de-meteo-france "Carte d'identité de Météo-France")
+    * [Nous rejoindre](https://careers.flatchr.io/fr/company/meteofrance/)
     * [Espace Presse](https://meteofrance.fr/actualite/presse "Service Presse de Météo-France")
     * [Informations Environnementales](https://meteofrance.com/informations-environnementales "Informations Environnementales")
     * [Marchés Publics](https://meteofrance.com/marches-publics "Marchés Publics")
@@ -204,7 +205,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-29/09/2024
+30/09/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
