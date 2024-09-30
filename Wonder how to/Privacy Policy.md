@@ -289,7 +289,7 @@ If You have any questions about this Privacy Policy, the practices of this Websi
 
 [](#)
 
-[![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
+[![TechnologyAdvice logo](https://assets.technologyadvice.com/uploads/technologyadvice_logo_final.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
 [](https://www.facebook.com/techadvice)
 
