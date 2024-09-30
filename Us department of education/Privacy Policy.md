@@ -50,7 +50,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     
     [Veterans](https://www2.ed.gov/higher-education/veterans-and-military-families)
     
-    * [Information for Military Families and Veterans](https://www2.ed.gov/higher-education/veterans-and-military-families/information-for-military-families-and-veterans)
+    * [Information for Military Families and Veterans](https://www2.ed.gov/higher-education/veterans-and-military-families/education-benefits)
     * [8 Keys to Veteran Success](https://www2.ed.gov/higher-education/veterans-and-military-families/_-keys-to-veterans-success-sites)
     
 * Adult Programs
@@ -198,7 +198,7 @@ Breadcrumb
 2. [About Us](https://www2.ed.gov/about)
 3. [An Overview of The Department of Education](https://www2.ed.gov/about/ed-overview)
 4. [Required Notices](https://www2.ed.gov/about/ed-overview/required-notices)
-5. Privacy
+5. [Privacy Program](https://www2.ed.gov/about/ed-overview/required-notices/privacy)
 
 Privacy Policy
 ==============
