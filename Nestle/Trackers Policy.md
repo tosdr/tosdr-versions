@@ -117,9 +117,9 @@ Contribute to a more sustainable experience by switching to dark mode. [Find out
 
 Sort by
 
-Most Relevant
+ Most Relevant
 
-Last Updated
+ Last Updated
 
 Search
 
@@ -300,13 +300,13 @@ Main navigation
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 * [Our stories](https://www.nestle.com/stories#/category/featured-stories/1)
     
@@ -719,13 +719,13 @@ Main navigation
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 * [Sustainability](https://www.nestle.com/sustainability)
     
@@ -1242,13 +1242,13 @@ Main navigation
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 * [Nutrition](https://www.nestle.com/nutrition-health)
     
@@ -1355,13 +1355,13 @@ Main navigation
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 
 Secondary menu
@@ -1496,13 +1496,13 @@ Secondary menu
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 * [Investors](https://www.nestle.com/investors)
     
@@ -1804,13 +1804,13 @@ Secondary menu
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 * [Media](https://www.nestle.com/media)
     
@@ -1876,20 +1876,20 @@ Secondary menu
     
     * [Contact us
         
-        ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+        ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
     * [Sign up
         
-        ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+        ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
     * [Speak Up
         
-        ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+        ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
     
 
 Sort by
 
-Most Relevant
+ Most Relevant
 
-Last Updated
+ Last Updated
 
 Search
 
@@ -1900,13 +1900,13 @@ Header persistent submenu
 
 * [Contact us
     
-    ![Contact us](/sites/default/files/2019-05/icon-contact-yellow_0.png)](https://www.nestle.com/info/contactus/contactus)
+    ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
 * [Sign up
     
-    ![Sign up](/sites/default/files/2019-05/icon-signup-green_0.png)](https://www.nestle.com/info/sign-me-up)
+    ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
 * [Speak Up
     
-    ![Speak Up](/sites/default/files/2019-05/icon-tellus-teal_0.png)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+    ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
 
 1. [Home](https://www.nestle.com/)
 2. How Nestlé uses cookies and other tracking technology
