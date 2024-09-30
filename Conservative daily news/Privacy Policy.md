@@ -111,15 +111,15 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
+* [![Kamala Harris Tim Walz 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/mrz082324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
+    
+    [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
+    
+    September 29, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Israeli-airstrike-in-Gaza-220x150.jpg)](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
     
     [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
-    
-    September 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/atom-bomb-pic.jpg)](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
-    
-    [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
     
     September 28, 2024
     
@@ -229,7 +229,6 @@ Contact Us
 Recent Comments
 
 * [Bill](http://conservativedailynews.com/) on [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/#comment-782365)
-* Senaida Collee on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782352)
 * WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
 * Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
@@ -237,6 +236,7 @@ Recent Comments
 * Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
 * KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
+* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 
 [Close](#)
 
