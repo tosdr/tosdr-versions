@@ -62,7 +62,6 @@
     
     * [Take Part](https://www.channel4.com/4viewers/take-part)
         
-        * [Bake Off: The Professionals](https://www.channel4.com/4viewers/take-part/Bake-off-the-professionals)
         * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
