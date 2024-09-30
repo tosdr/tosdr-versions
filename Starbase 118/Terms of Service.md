@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-christopher-caldwell-uss-astraeus-pilots-sextant-helm/)
+
+### [Award Winner – Christopher Caldwell, USS Astraeus (Pilot’s Sextant-Helm)](https://www.starbase118.net/2024/award-winner-christopher-caldwell-uss-astraeus-pilots-sextant-helm/)
+
+docaharford September 30, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-christopher-caldwell-uss-astraeus-pilots-sextant-helm/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
 
 ### [USS Kitty Hawk saucer section crashes on Luna during Frontier Day](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
@@ -368,8 +380,6 @@ SOL SECTOR — The USS Kitty Hawk narrowly avoided destruction during the Borg a
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
 
 ### [It’s time to chat! Join us today for our Annual Trivia Challenge!](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
@@ -379,20 +389,6 @@ Serala September 29, 2024
 Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
 
 [Read More »](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
-
-### [Join us for our Annual Fleetwide Trivia Challenge this coming Sunday, September 29th!](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
-
-Serala September 28, 2024
-
-Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
-
-[Read More »](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
 
 Ready to get started?
 ---------------------
