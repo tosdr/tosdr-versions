@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
+
+### [USS Kitty Hawk saucer section crashes on Luna during Frontier Day](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
+
+Federation News Service September 29, 2024
+
+SOL SECTOR — The USS Kitty Hawk narrowly avoided destruction during the Borg assault on Frontier Day as its saucer section crash landed on Earth’s
+
+[Read More »](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
@@ -381,18 +393,6 @@ Serala September 28, 2024
 Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
 
 [Read More »](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
-
-### [Denali Station crew returns from alternate dimension after perilous escape.](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
-
-Federation News Service September 27, 2024
-
-DENALI STATION – After a harrowing battle in an alternate reality, the crew of Denali Station successfully return home. The crew of Denali Station faced
-
-[Read More »](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
 
 Ready to get started?
 ---------------------
