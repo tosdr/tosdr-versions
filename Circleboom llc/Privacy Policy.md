@@ -166,7 +166,7 @@ By using this site, you consent to the collection and use of this information by
 
 ##### Circleboom, Boom your social circle!
 
-* [Twitter](https://twitter.com/circleboom)
+* [](https://twitter.com/circleboom)
 * [Pinterest](https://pinterest.com/circleboom)
 * [Facebook](https://www.facebook.com/circleboomcom/)
 * [YouTube](https://www.youtube.com/@circleboom)
