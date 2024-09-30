@@ -51,8 +51,7 @@ The Godot team recognizes that it can be difficult to come forward in cases of a
 * Julian Murgia, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (he/him)
     * GitHub / Contributors Chat / Discord/ Reddit: _StraToN_ – Twitter: _TheStraToN_
     * Languages: English, French
-* Lara Herzog, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (she/her)
-    * GitHub / Discord: _cuddlefishie_ – Contributors Chat: _cuddlefish_ – Twitter: _cuddlefishiiie_
+* Lara, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (she/her)
     * Languages: English, German
 * Rémi Verschelde, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (he/him)
     * GitHub / Reddit: _akien-mga_ – Contributors Chat / Discord / Twitter: _Akien_
