@@ -175,21 +175,21 @@ Are you ready to start facing your fear and living your bucket list?
 
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
-###### **Hey Bucket Listers!**  
-**I'm Annette**.
+###### Visit My Shop!  
+**buck & co**.
 
-I’m a goal obsessed mid-lifer, traveler, experience collector, fear crusher, digital marketer and author with big bucket list dreams. Let's Connect!
+[buck & co.](https://buckandco.net/) has the tools, resources and inspirational products to help every dreamer start living their bucket list—one checkmark at a time.
 
-[INSTAGRAM](https://www.instagram.com/bucketlistjourney/)
+[PRINTABLES](https://buckandco.net/collections/printables)
 
-[FACEBOOK](https://www.facebook.com/BucketListJourney)
+[WORKSHEETS](https://buckandco.net/collections/printables/Planners-and-Bundles)
 
-[PINTEREST](https://www.pinterest.com/bucketlistjrny/)
+[PACKING LISTS](https://buckandco.net/collections/printables/Packing-Lists)
 
-[BLOG](https://bucketlistjourney.net/blog/)
+[TEES & TANKS](https://buckandco.net/collections/tees/Tees-and-Tanks)
 
-**GET MY 2,000 free bucket list ideas**
----------------------------------------
+**GET 2,000 free bucket list ideas**
+------------------------------------
 
 Jump right in and you will get your printable ideas by email:
 
@@ -204,29 +204,73 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
-Whatcha Looking for?
+[🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
+(💫 SAVE for planning your trip to Northern #California💫)
+1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
+2️⃣ Go to @boringfarm to pick some raspberries. It’s a do-it-yourself place, so grab your box and load up. Plus, don’t skip the raspberry popsicle!  PS: this is the last weekend of the season, so make sure to grab your spot online.
+3️⃣ Stroll down Florence Avenue to check out the quirky junk art—seriously, every few houses has its own little masterpiece. 
+4️⃣ Grab lunch @handline.sebastopol—it’s a casual coastal-centric restaurant that has great tacos and soft serve ice cream 🌮
+5️⃣ Wine lovers, @drinkregion is a MUST. They have over 50 self-serve wines—you can taste or go all in for a full glass! 🍷
+6️⃣ Explore and shopping @thebarlow707—a 12-acre open-air market district.
+Here’s some of my favorite shops: 
+@acorn.shop: cute home goods and gifts
+@rustboutique: women’s clothes & jewelry
+@jgswitzer: Fiber art & felted fabrics for the home
+@indigenousdesigns: : Beautiful organic and fair trade fashion
+7️⃣ Play some pinball at @therewindarcade. Load up your playing card and go wild with so many retro games!
+8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
+9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
+1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
+@sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
 
-[Home](https://bucketlistjourney.net/)  
-  
-[About](https://bucketlistjourney.net/about/)  
-  
-[Blog](https://bucketlistjourney.net/blog/)  
-  
-[The Shop](https://buckandco.net/)  
-  
-[Partnerships](https://bucketlistjourney.net/advertisesponsor__trashed/media-kit/)  
-  
-[Contact](https://bucketlistjourney.net/advertisesponsor__trashed/contact/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
+(💫 SAVE for planning your trip to Northern #California💫)
+1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
+2️⃣ Go to @boringfarm to pick some raspberries. It’s a do-it-yourself place, so grab your box and load up. Plus, don’t skip the raspberry popsicle!  PS: this is the last weekend of the season, so make sure to grab your spot online.
+3️⃣ Stroll down Florence Avenue to check out the quirky junk art—seriously, every few houses has its own little masterpiece. 
+4️⃣ Grab lunch @handline.sebastopol—it’s a casual coastal-centric restaurant that has great tacos and soft serve ice cream 🌮
+5️⃣ Wine lovers, @drinkregion is a MUST. They have over 50 self-serve wines—you can taste or go all in for a full glass! 🍷
+6️⃣ Explore and shopping @thebarlow707—a 12-acre open-air market district.
+Here’s some of my favorite shops: 
+@acorn.shop: cute home goods and gifts
+@rustboutique: women’s clothes & jewelry
+@jgswitzer: Fiber art & felted fabrics for the home
+@indigenousdesigns: : Beautiful organic and fair trade fashion
+7️⃣ Play some pinball at @therewindarcade. Load up your playing card and go wild with so many retro games!
+8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
+9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
+1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
+@sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYyXDyP3js/) 
 
-[Bucket List Ideas](https://bucketlistjourney.net/category/bucket-list-ideas/)  
-  
-[World Travel](https://bucketlistjourney.net/category/destinations/)  
-  
-[California Travel](https://bucketlistjourney.net/category/california-travel/)  
-  
+[Did you know the average person has only been to 5 ![Did you know the average person has only been to 5 of these iconic places? 🌍
+Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
+Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
+#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Did you know the average person has only been to 5 of these iconic places? 🌍
+Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
+Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
+#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ3j4qv_9e/) 
+
+[Penguins don’t just hang out in Antarctica—you ![Penguins don’t just hang out in Antarctica—you can find them in the Falkland Islands too-LOTS of them!!! 🐧 @ilovethefalklands 
+#falklandislands #falklands  #KingPenguin  #penguin #penguins #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #birdsofinstagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Penguins don’t just hang out in Antarctica—you can find them in the Falkland Islands too-LOTS of them!!! 🐧 @ilovethefalklands 
+#falklandislands #falklands  #KingPenguin  #penguin #penguins #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #birdsofinstagram](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGhOnMvuUB/) 
+
+[Just checked making a free throw basket off my buc ![Just checked making a free throw basket off my bucket list 😁
+Here’s your reminder that no goal is too small to go after. EVERY checkmark counts, whether it’s shooting hoops or conquering the world!
+👉 Have you tried something new today? 
+#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #freethrow #basketball](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Just checked making a free throw basket off my bucket list 😁
+Here’s your reminder that no goal is too small to go after. EVERY checkmark counts, whether it’s shooting hoops or conquering the world!
+👉 Have you tried something new today? 
+#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #freethrow #basketball](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_5pfenPHao/) 
+
+[Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
+
+* * *
 
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Facebook](https://www.facebook.com/BucketListJourney)
@@ -243,7 +287,8 @@ Whatcha Looking for?
 ### rESOURCES
 
 [Start a Bucket List](https://bucketlistjourney.net/start-your-bucket-list/)  
-[Shop buck & co.](https://buckandco.net/)
+[Shop buck & co.](https://buckandco.net/)  
+[2,000 Bucket List Ideas](https://forms.aweber.com/form/62/250872262.htm)
 
 ### ON THE BLOG
 
