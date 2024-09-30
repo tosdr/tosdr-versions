@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/ook-canada-waarschuwt-voor-gsm-straling/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-geneeskracht-van-licht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
