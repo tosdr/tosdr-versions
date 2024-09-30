@@ -515,7 +515,7 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
 
 Fußbereich
 
@@ -2437,7 +2437,7 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -2849,7 +2849,7 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3296,7 +3296,7 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3312,7 +3312,7 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
 
 Service Stiftung Warentest
 
