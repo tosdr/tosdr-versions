@@ -1,6 +1,6 @@
-5.38.13
+5.38.15
 
-1727641651305
+1727663462126
 
                                              
 
@@ -12,17 +12,17 @@ en
 
 3.15.0
 
-1727642337498
+1727663462126
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
-5.38.13
+5.38.15
 
 cutaway22
 
-1727642323738
+1727663462203
 
 You need to enable JavaScript to run this app.
 
@@ -2552,7 +2552,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727641616156
+1727663462224
 
 ### Our Social Networks
 
