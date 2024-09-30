@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Virtua Striker 2002](https://www.myabandonware.com/game/virtua-striker-2002-sl9)
-* [Virtua NBA](https://www.myabandonware.com/game/virtua-nba-sl7)
-* [ZunZun Block](https://www.myabandonware.com/game/zunzun-block-sl5)
-* [Zombie Revenge](https://www.myabandonware.com/game/zombie-revenge-sl4)
-* [Zero Gunner](https://www.myabandonware.com/game/zero-gunner-sl3)
+* [Cobra Command](https://www.myabandonware.com/game/cobra-command-9tj)
+* [WWF Royal Rumble](https://www.myabandonware.com/game/wwf-royal-rumble-sli)
+* [Wild Riders](https://www.myabandonware.com/game/wild-riders-slh)
+* [WaveRunner](https://www.myabandonware.com/game/waverunner-slg)
+* [Wave Shark](https://www.myabandonware.com/game/wave-shark-slf)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
