@@ -1,5 +1,11 @@
 [To the page content](#main)
 
+[![seventy years logo](https://thumbs.static-thomann.de/thumb//thumb130/pics/images/special/70years/70-without-flare.png)
+
+Join Thomann's Anniversary! We reward your loyalty with special offers! Get your deals
+
+Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
+
 * [Service](https://www.thomannmusic.com/helpdesk_service.html)
 * [Contact us](https://www.thomann.de/intl/compinfo_contact.html)
 * [About Us](https://www.thomannmusic.com/compinfo.html)
@@ -14,8 +20,8 @@
 
 search  
 
-* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
+* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
 
