@@ -85,7 +85,7 @@ Best Selling Items
 
 [View all collections](https://www.rangextd.com/collections/best-selling-items) 
 
-* [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
+* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     Quantity  Add to cart
     
@@ -93,11 +93,11 @@ Best Selling Items
     
     Next day delivery
     
-    $69.99
+    $169.99 $69.99
     
     Quantity  Add to cart
     
-* [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
+* Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
     
     Quantity  Add to cart
     
@@ -105,11 +105,11 @@ Best Selling Items
     
     Next day delivery
     
-    $139.98
+    $179.99 $89.99
     
     Quantity  Add to cart
     
-* [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=645)](https://www.rangextd.com/products/mindinsole)
+* Sale -58% [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=645)](https://www.rangextd.com/products/mindinsole)
     
     Quantity  Add to cart
     
@@ -117,11 +117,11 @@ Best Selling Items
     
     Next day delivery
     
-    $39.98
+    $119.99 $49.99
     
     Quantity  Add to cart
     
-* [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
+* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
     
     Quantity  Add to cart
     
@@ -129,11 +129,11 @@ Best Selling Items
     
     Next day delivery
     
-    $55.98
+    $110.99 $55.99
     
     Quantity  Add to cart
     
-* [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
+* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
     
     Quantity  Add to cart
     
@@ -141,11 +141,11 @@ Best Selling Items
     
     Next day delivery
     
-    $99.98
+    $110.99 $59.99
     
     Quantity  Add to cart
     
-* [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=645)](https://www.rangextd.com/products/korescale)
+* Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=645)](https://www.rangextd.com/products/korescale)
     
     Quantity  Add to cart
     
@@ -153,7 +153,7 @@ Best Selling Items
     
     Next day delivery
     
-    $159.98
+    $218.99 $109.99
     
     Quantity  Add to cart
     
@@ -189,7 +189,7 @@ Discover the hottest items flying off the shelves.
 
 [Top 100 most sold](https://www.rangextd.com/) 
 
-* [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=645)](https://www.rangextd.com/products/starscope-ver-3)
+* Sale -50% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=645)](https://www.rangextd.com/products/starscope-ver-3)
     
     Quantity  Add to cart
     
@@ -197,11 +197,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $99.90
+    $159.99 $79.99
     
     Quantity  Add to cart
     
-* [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
+* Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
     
     Quantity  Add to cart
     
@@ -209,11 +209,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $139.98
+    $179.99 $89.99
     
     Quantity  Add to cart
     
-* [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=645)](https://www.rangextd.com/products/smart-pet-qr-tag)
+* Sale -49% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=645)](https://www.rangextd.com/products/smart-pet-qr-tag)
     
     Quantity  Add to cart
     
@@ -221,11 +221,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $31.98
+    $62.99 $31.99
     
     Quantity  Add to cart
     
-* [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=645)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
+* Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=645)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
     Quantity  Add to cart
     
@@ -233,11 +233,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $49.98
+    $110.99 $49.99
     
     Quantity  Add to cart
     
-* [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=645)](https://www.rangextd.com/products/compression-socks)
+* Sale -52% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=645)](https://www.rangextd.com/products/compression-socks)
     
     Quantity  Add to cart
     
@@ -245,14 +245,14 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $47.98
+    $99.99 $47.98
     
     Quantity  Add to cart
     
 
 [Top 100 most sold](https://www.rangextd.com/) 
 
-* [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
+* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     Quantity  Add to cart
     
@@ -260,11 +260,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $69.99
+    $169.99 $69.99
     
     Quantity  Add to cart
     
-* [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
+* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
     
     Quantity  Add to cart
     
@@ -272,11 +272,11 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $99.98
+    $188.99 $99.98
     
     Quantity  Add to cart
     
-* [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
+* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
     
     Quantity  Add to cart
     
@@ -284,7 +284,7 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $99.98
+    $110.99 $59.99
     
     Quantity  Add to cart
     
@@ -342,6 +342,14 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
+* ![The Best Way to Stay Clean Anywhere: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux_Bidet.gif?v=1727433163)
+    
+    ### The Best Way to Stay Clean Anywhere: Blaux Portable Bidet
+    
+    Have you ever found yourself in a less-than-ideal bathroom situation? Maybe the toilet paper ran out, or the restroom looked like it hadn't been cleaned...
+    
+    [Read more](https://www.rangextd.com/blogs/news/the-best-way-to-stay-clean-anywhere-blaux-portable-bidet) 
+    
 * ![Stay Fresh and Clean Anywhere with the Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux_Bidet_df6e2139-ec83-4df3-9ddd-3bcc25082a25.gif?v=1727433822)
     
     ### Stay Fresh and Clean Anywhere with the Blaux Portable Bidet
