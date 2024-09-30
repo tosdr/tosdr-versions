@@ -211,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Good genes are nice, but joy is better** Harvard study, almost 80 years old, has proved that embracing community helps us live longer, and be happier](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
-        2. [**Eat this. Take that. Get skinny. Trust us.** Popularity of newest diet drugs fuel ‘dumpster fire’ of risky knock-offs, questionable supplements, food products, experts warn](https://news.harvard.edu/gazette/story/2024/09/eat-this-take-that-get-skinny-trust-us/)
-        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
+        1. [**Consumers to see benefits of Fed rate cut, but how much and when are less clear** Jason Furman looks at decision, considers what it means to economy, both Wall Street and Main Street](https://news.harvard.edu/gazette/story/2024/09/consumers-to-see-benefits-of-fed-rate-cut-but-how-much-and-when-is-less-clear/)
+        2. [**So why does Mr. Whiskers meow?** It may not be for the reasons you think, says evolutionary biologist, whose new book explores how our feline friends came to be](https://news.harvard.edu/gazette/story/2024/09/so-why-does-mr-whiskers-meow/)
+        3. [**How well do you know your dog?** Take our quiz based on new Netflix documentary featuring Harvard researcher](https://news.harvard.edu/gazette/story/2024/09/how-well-do-you-know-your-dog/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
