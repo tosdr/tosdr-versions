@@ -54,7 +54,7 @@ You can do the following at any time by contacting us via the email address or p
 
 Funding Level
 
-10%
+11%
 
 [What Does This Mean?](https://www.darebee.com/funding.html)
 
