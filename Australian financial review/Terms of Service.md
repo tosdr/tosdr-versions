@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3344%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ab66f0a8292bf815d6696cbae9b9f04ba0a03187)](https://www.afr.com/life-and-luxury/fashion-and-style/are-capri-pants-really-back-20240916-p5kaxm)
+[![Approaching Madeira, a volcanic island with a mountains and caves.](https://static.ffx.io/images/$zoom_0.1629%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b3bc8821413884e2a2a24dd4f3b1f93083e570b6)](https://www.afr.com/life-and-luxury/travel/small-ship-big-adventures-island-hopping-in-portugal-and-spain-20240909-p5k95p)
 
-### [Are capri pants really back?](https://www.afr.com/life-and-luxury/fashion-and-style/are-capri-pants-really-back-20240916-p5kaxm)
+### [Small ship, big adventures: Island-hopping in Portugal and Spain](https://www.afr.com/life-and-luxury/travel/small-ship-big-adventures-island-hopping-in-portugal-and-spain-20240909-p5k95p)
 
-* Lauren Sams
+* Tim Johnson
 
-* ### [How this Sydney chef has won a cult following – without a restaurant](https://www.afr.com/life-and-luxury/food-and-wine/how-this-sydney-chef-has-won-a-cult-following-without-a-restaurant-20240723-p5jvqy)
+* ### [Heading to Hokkaido? The Nikka distillery is a must](https://www.afr.com/life-and-luxury/food-and-wine/heading-to-hokkaido-the-nikka-distillery-is-a-must-20240905-p5k86r)
     
-* ### [The perfect autumn weekend in London](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
+* ### [This really was a discovery expedition](https://www.afr.com/life-and-luxury/travel/this-really-was-a-discovery-expedition-20240816-p5k30h)
     
 
 [Rich List](https://www.afr.com/rich-list)
