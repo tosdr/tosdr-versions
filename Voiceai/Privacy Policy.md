@@ -1,12 +1,12 @@
 [](https://voice.ai/)
 
-[AI Voice Changer](https://voice.ai/ai-voice-changer) [Soundboard](https://voice.ai/soundboard) [AI Voices](https://voice.ai/ai-voice) [Supported Apps](https://voice.ai/apps) [Platforms](https://voice.ai/platforms) [Online Tools](https://voice.ai/tools/)
+[Text to Speech](https://voice.ai/text-to-speech) [AI Voice Changer](https://voice.ai/ai-voice-changer) [Soundboard](https://voice.ai/soundboard) [AI Voices](https://voice.ai/ai-voice) [Supported Apps](https://voice.ai/apps) [Platforms](https://voice.ai/platforms) [Online Tools](https://voice.ai/tools/)
 
 Pro
 
 Online Tools Voice Universe Account Logout
 
-[](https://voice.ai/)The Most Powerful AI Voice Changer Get Started for Free AI Voice Changer Soundboard AI Voices Apps Platforms Soundboard Support Online Tools Voice Universe Account Log out Sign up
+[](https://voice.ai/)The Most Powerful AI Voice Changer Get Started for Free Text to Speech AI Voice Changer Soundboard AI Voices Apps Platforms Soundboard Support Online Tools Voice Universe Account Log out Sign up
 
 Already user? [Login now](https://voice.ai/login)
 
