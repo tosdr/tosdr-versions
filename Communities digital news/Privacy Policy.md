@@ -64,17 +64,17 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Sen. Rick Scott caves to CNN talking points on Hurricane Helene but it’s not enough to stop leftist hate](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
+### [Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
 
-### [Mayor Adams issues order regarding top deputy’s duties if she’s ‘unable to perform such functions’](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
+### [‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
 
-### [Outkick founder goes toe-to-toe with Dem strategist: ‘Dumbest argument ever made in the history of Fox News’](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
+### [Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
 
-### [Podcaster says racists are posing as Caitlin Clark fans to ‘terrorize’ WNBA’s black players](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
+### [Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
 
-### [California man allegedly throws explosive at courthouse over unregistered firearm charge](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
+### [Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
 
-### [Scott Jennings likens Kamala’s border visit to an ‘arsonist’ returning to the crime scene](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
+### [North Carolina scrubs 747,000 from voter rolls amid GOP lawsuit](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -89,6 +89,44 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wefkerry-1200-x-628-220x180.jpg)](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
 
 [‘We need to win’: John Kerry cries 1A a ‘major block’ in controlling social media, disinformation](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wilmore-williams-spacex-220x180.jpg)](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
+
+[‘Elon to the rescue!’ SpaceX launches mission to get stranded astronauts home](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpal-trumpga-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-gets-a-rousing-welcome-at-alabama-georgia-game-while-kamalas-sad-stunt-fizzles/)
+
+[Trump gets a rousing welcome at Alabama-Georgia game while Kamala’s sad stunt fizzles](https://americanwirenews.com/trump-gets-a-rousing-welcome-at-alabama-georgia-game-while-kamalas-sad-stunt-fizzles/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rick-scott-vs-ron-desantis-220x180.jpg)](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
+
+[Sen. Rick Scott caves to CNN talking points on Hurricane Helene but it’s not enough to stop leftist hate](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wright-adams-220x180.jpg)](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
+
+[Mayor Adams issues order regarding top deputy’s duties if she’s ‘unable to perform such functions’](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-clay-travis-on-fox-news-220x180.jpg)](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
+
+[Outkick founder goes toe-to-toe with Dem strategist: ‘Dumbest argument ever made in the history of Fox News’](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wrightpod-1200-x-628-220x180.jpg)](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
+
+[Podcaster says racists are posing as Caitlin Clark fans to ‘terrorize’ WNBA’s black players](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-sg-mcguire-220x180.jpg)](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
+
+[California man allegedly throws explosive at courthouse over unregistered firearm charge](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
+
+Image via Santa Barbara County Sheriff's Office
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennings_kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
+
+[Scott Jennings likens Kamala’s border visit to an ‘arsonist’ returning to the crime scene](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-volleyball-player-220x180.jpg)](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
+
+[Women’s volleyball team refuses to play against team with reported trans player](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-adams-lewismartin-220x180.jpg)](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
 
@@ -137,44 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rizzler-cringe-220x180.jpg)](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
 
 [Dem congressperson lets Gen Z staffers write script, produces PURE cringe](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-220x180.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
-
-[Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173926361-1-220x180.jpg)](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
-
-[‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
-
-(Photo by Alex Kent/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-dan-bongino-220x180.jpg)](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
-
-[Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-220x180.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
-
-[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-220x180.jpg)](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
-
-[Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-karen-brinson-bell-220x180.png)](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
-
-[North Carolina scrubs 747,000 from voter rolls amid GOP lawsuit](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-kamalaphilly1-1200-x-628-220x180.jpg)](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
-
-[Voter registration swing spells bad news for Democrats](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/state-of-california-220x180.jpg)](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
-
-[Newsom signs reparations bill as California formally apologizes for slavery](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-republican-vs-democrat-children-220x180.jpg)](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
-
-[Kids from Republican homes more inclusive and less politically agitated than Dem counterparts, study finds](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
