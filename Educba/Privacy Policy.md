@@ -196,6 +196,14 @@ By signing up, you agree to our [Terms of Use](https://www.educba.com/terms-and-
 
 X
 
+Let’s Get Started
+
+Email ID \*   
+
+By signing up, you agree to our [Terms of Use](https://www.educba.com/terms-and-conditions/) and [Privacy Policy](https://www.educba.com/privacy-policy/).
+
+X
+
 x
 
 ![EDUCBA](https://cdn.educba.com/images/website_logo_transparent_background.png)
