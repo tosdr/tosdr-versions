@@ -1,6 +1,6 @@
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
- [![](https://www.mypillow.com/media/logo/default/site-logo.png)](https://www.mypillow.com/)
+ [![](https://www.mypillow.com/media/logo/stores/1/websitelogo.png)](https://www.mypillow.com/)
 
 [Skip to Content](#contentarea)
 
