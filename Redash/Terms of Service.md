@@ -6,7 +6,7 @@ Toggle navigation[![](/assets/images/elements/redash-logo.svg)](https://redash.i
 * [Community](https://redash.io/community/)
 * [Help](#)
     * [Knowledge Base](https://redash.io/help/)
-    * [Forum](https://github.com/getredash/redash/discussions)
+    * [GitHub Discussions](https://github.com/getredash/redash/discussions)
 
 * [Get Started](https://redash.io/help-onpremise/setup/setting-up-redash-instance.html)
 
@@ -204,7 +204,7 @@ The laws of the state of Israel shall govern your use of the Services and these 
 ### Help
 
 * [Knowledge Base](https://redash.io/help/)
-* [Forum](https://github.com/getredash/redash/discussions)
+* [GitHub Discussions](https://github.com/getredash/redash/discussions)
 
 * [](https://github.com/getredash)
 * [](https://twitter.com/getredash)
