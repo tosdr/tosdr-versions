@@ -579,9 +579,9 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 Past 24 Hours: 30
 
-Past 7 Days: 144
+Past 7 Days: 119
 
-Past 30 Days: 590
+Past 30 Days: 560
 
 All Time: 82,081
 
