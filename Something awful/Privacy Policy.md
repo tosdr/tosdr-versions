@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [AD&D 2nd Edition Planescape Monstrous Compendium Appendix III (1998)](https://www.somethingawful.com/dungeons-and-dragons/planescape-inner-planes/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Draw Dogs with Your Eyes Closed!](https://www.somethingawful.com/comedy-goldmine/eyes-closed-dogs/1/)
 * [Literotica](https://www.somethingawful.com/news/literotica/)
-* [Measurection](https://www.somethingawful.com/weekend-web/measurection/1/)
-* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
-* [Men Going Their Own Way](https://www.somethingawful.com/weekend-web/mengoing-theirownway/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Dennis the Rude Horse Learns a Lesson!](https://www.somethingawful.com/comedy-goldmine/dennis-horse-downunder/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I'm watching The Warriors](http://forums.somethingawful.com/showthread.php?threadid=4071476 "I'm watching The Warriors")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [songs that get stuck in your head when you hear a different song](http://forums.somethingawful.com/showthread.php?threadid=4071449 "songs that get stuck in your head when you hear a different song")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I'm watching The Warriors](http://forums.somethingawful.com/showthread.php?threadid=4071476 "I'm watching The Warriors")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Best gluten free food ideas?](http://forums.somethingawful.com/showthread.php?threadid=4071472 "Best gluten free food ideas?")
 
 ### Random Articles
 
-* [Donkey Kong 64 turned my sister onto Communism](https://www.somethingawful.com/comedy-goldmine/donkey-kong-communism/)
-* [Pregnant Men](https://www.somethingawful.com/awful-links/awful-link-2399/)
-* [Been noticing a whole lot of stuff since I stopped touching my genitals](https://www.somethingawful.com/comedy-goldmine/genius-without-touching/)
-* [Law and Order Up!](https://www.somethingawful.com/news/law-order-up/)
-* [Gaming Guyz 3](https://www.somethingawful.com/flash-tub/gaming-guyz-3/)
+* [Incredulous Ideas](https://www.somethingawful.com/flash-tub/incredulous-ideas/)
+* [Stalking the Wild Taboo](https://www.somethingawful.com/awful-links/awful-link-3986/)
+* [Gun Safety Tips](https://www.somethingawful.com/news/gun-safety-tips/)
+* [AwfullyLiveJournal](https://www.somethingawful.com/news/awfullylivejournal/)
+* [Seatbelt Tanlines](https://www.somethingawful.com/mooflogs/seatbelt-tanlines/)
 
 [Random!](https://www.somethingawful.com/random/)
 
