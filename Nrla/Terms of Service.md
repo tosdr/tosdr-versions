@@ -1,235 +1,132 @@
-![](//bat.bing.com/action/0?ti=5216026&Ver=2)               
+![](//bat.bing.com/action/0?ti=5216026&Ver=2)               [skip to content](#site-content)
 
 This website uses cookies to ensure you get the best experience on our website, [read about our cookie policy](https://www.nrla.org.uk/about-us/cookie-policy).
 
-Accept Cookies
+Accept Cookies Reject Cookies
 
-Reject Cookies
+[](https://www.nrla.org.uk/)
 
-[![National Residential Landlords Association](/images/nrla-logo.png)](https://www.nrla.org.uk/ "National Residential Landlords Association")
+[](https://www.nrla.org.uk/services/portfolio)[Login](https://www.nrla.org.uk/login) [Join us](https://www.nrla.org.uk/join)
 
-[Home](https://www.nrla.org.uk/) [My Account](https://www.nrla.org.uk/account) [My Portfolio](https://www.nrla.org.uk/services/portfolio)
+Advice & Guidance
 
-[Join Us](https://www.nrla.org.uk/join) [Log In](https://www.nrla.org.uk/login)
+Our Partners
 
-[](#)
+Training
 
-* [Join Us](https://www.nrla.org.uk/join) [Log In](https://www.nrla.org.uk/login)
-    
-* My Portfolio
-    
-    * * [Log in to Portfolio](https://www.nrla.org.uk/services/portfolio)
-    
-* Advice
-    
-    * Landlord Support
-        
-        * [Landlord Support Team](https://www.nrla.org.uk/advice/meet-the-team)
-        * [Contact Landlord Support](https://www.nrla.org.uk/advice/contact-landlord-support)
-        * [FAQs](https://www.nrla.org.uk/advice/faq)
-        * [External Resources](https://www.nrla.org.uk/advice/external-resources)
-    * Forum
-        
-        * [Members Forum](https://www.nrla.org.uk/advice/member-forum)
-    
-* Resources
-    
-    * Documents & Guides
-        
-        * [Introduction](https://www.nrla.org.uk/resources/introduction)
-        * [Pre-tenancy](https://www.nrla.org.uk/resources/pre-tenancy)
-        * [Creating Your Tenancy](https://www.nrla.org.uk/resources/creating-your-tenancy)
-        * [Managing Your Tenancy](https://www.nrla.org.uk/resources/managing-your-tenancy)
-        * [Ending Your Tenancy](https://www.nrla.org.uk/resources/ending-your-tenancy)
-        * [Looking After Your Property](https://www.nrla.org.uk/resources/looking-after-your-property)
-        * [Licensing & Local Government](https://www.nrla.org.uk/resources/licensing-and-local-gov)
-        * [Energy Efficiency](https://www.nrla.org.uk/resources/energy-efficiency)
-        * [Tax & Benefits](https://www.nrla.org.uk/resources/tax)
-        * [Wales](https://www.nrla.org.uk/resources/wales)
-    * Getting Started
-        
-        * [Landlord Starter Pack](https://www.nrla.org.uk/resources/landlord-starter-pack)
-        * [Checklist - Starting your tenancy](https://www.nrla.org.uk/resources/starting-your-tenancy-checklist)
-        * [Which Tenancy Do You Need?](https://www.nrla.org.uk/resources/creating-your-tenancy/getting-started)
-    * Recently Updated
-        
-        * [Assured Shorthold Tenancy Agreement](https://www.nrla.org.uk/resources/starting-a-tenancy-assured-shorthold-tenancy-agreement)
-        * [Tenant Fee Ban](https://www.nrla.org.uk/resources/pre-tenancy/tenant-fee-ban-toolkit-england)
-        * [Electrical Safety Inspections](https://www.nrla.org.uk/resources/looking-after-your-property/electrical-safety-inspections)
-        * [Minimum Energy Efficiency Standards](https://www.nrla.org.uk/resources/energy-efficiency/minimum-energy-efficiency-standards)
-    
-* Services
-    
-    * Property Services
-        
-        * [NRLA Portfolio Property Management](https://www.nrla.org.uk/services/portfolio)
-        * [Safe2 - Compliance Certificates](https://www.nrla.org.uk/services/property-compliance/safe2)
-        * [Insurance](https://www.nrla.org.uk/services/insurance)
-        * [Mortgages](https://www.nrla.org.uk/services/mortgages)
-        * [Tax Services & Investment Support](https://www.nrla.org.uk/services/tax)
-        * [Emergency Repair Cover](https://www.nrla.org.uk/services/yourrepair)
-        * [Utilities](https://www.nrla.org.uk/services/utilities)
-        * [Lettings](https://www.nrla.org.uk/services/lettings/leaders-romans-group)
-        * [Property Fraud](https://www.nrla.org.uk/services/titleguardian)
-        * [Sales & Auctions](https://www.nrla.org.uk/services/sdl-property-auctions)
-    * Pre Tenancy Services
-        
-        * [Advertising & Viewings](https://www.nrla.org.uk/services/advertising-and-viewings)
-        * [Tenant Referencing](https://www.nrla.org.uk/services/tenant-checks)
-        * [Deposits](https://www.nrla.org.uk/services/deposit-protection)
-        * [Inventories](https://www.nrla.org.uk/services/inventories)
-    * Support Services
-        
-        * [Mediation Services](https://www.nrla.org.uk/services/mediation)
-        * [Solicitors & Paralegal Services](https://www.nrla.org.uk/services/solicitors-and-paralegal)
-        * [Licensing Support](https://www.nrla.org.uk/services/licensing-support)
-        * [Business Support](https://www.nrla.org.uk/services/business-support)
-        * [Data Reporting Support](https://www.nrla.org.uk/services/data-reporting-support)
-        * [Currency Exchange](https://www.nrla.org.uk/services/smartcurrency)
-    * Trade & Retail
-        
-        * [TradePoint (B&Q)](https://www.nrla.org.uk/services/tradepoint)
-        * [Currys Business](https://www.nrla.org.uk/services/currys)
-        * [LOFT Furniture](https://www.nrla.org.uk/services/appliances-and-furniture/loft)
-        * [Retailers](https://www.nrla.org.uk/services/retailers)
-        * [Services Directory](https://www.nrla.org.uk/services/directory)
-    
-* Training
-    
-    * Overview
-        
-        * [Introduction and Search](https://www.nrla.org.uk/training-academy)
-        * [Training & Events Dashboard](https://www.nrla.org.uk/account/training-and-events)
-        * [Local Authorities](https://www.nrla.org.uk/training-academy/local-authorities)
-        * [Social Housing Courses](https://www.nrla.org.uk/training-academy/social-housing-courses)
-    * Categories
-        
-        * [Core Courses](https://www.nrla.org.uk/training-academy/core-courses)
-        * [Safety & Hazards](https://www.nrla.org.uk/training-academy/safety-and-hazards)
-        * [Compliance](https://www.nrla.org.uk/training-academy/compliance)
-        * [Tax & Finance](https://www.nrla.org.uk/training-academy/tax-and-finance)
-        * [Property Investment](https://www.nrla.org.uk/training-academy/property-investment)
-        * [Qualifications](https://www.nrla.org.uk/training-academy/qualifications)
-    * Course Type
-        
-        * [eLearning (self-study)](https://www.nrla.org.uk/training-academy/elearning)
-        * [eClassroom (trainer-led)](https://www.nrla.org.uk/training-academy/eclassroom)
-        * [Classroom](https://www.nrla.org.uk/training-academy/classroom)
-        * [Mix, Match & Save](https://www.nrla.org.uk/training-academy/mix-match-save)
-    * Info & Accreditation
-        
-        * [Accreditation Overview](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/accreditation-overview)
-        * [How Does It Work](https://www.nrla.org.uk/training-academy/accreditation/how-does-it-work)
-        * [Terms & Conditions](https://www.nrla.org.uk/training-academy/accreditation/termsandconditions)
-        * [Accreditation Dashboard](https://www.nrla.org.uk/training-academy/accreditation)
-        * [Core CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/core-cpd-guide)
-        * [Standard CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/standard-cpd-guide)
-        * [Accreditation Preferences](https://www.nrla.org.uk/training-academy/accreditation/preferences)
-        * [Log CPD](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/add)
-    
-* Wales
-    
-    * Overview
-        
-        * [Introduction](https://www.nrla.org.uk/wales)
-    * Resources
-        
-        * [Rent Smart Wales](https://www.nrla.org.uk/resources/licensing-and-local-gov/rent-smart-wales)
-        * [Renting Homes Wales Act](https://www.nrla.org.uk/wales/renting-homes-wales-act)
-        * [Occupation Contracts](https://www.nrla.org.uk/resources/wales/standard-occupation-contracts)
-        * [Further Resources](https://www.nrla.org.uk/resources/wales)
-        * [Frequently Asked Questions](https://www.nrla.org.uk/wales/faqs)
-    * Training
-        
-        * [National Wales Webinars](https://www.nrla.org.uk/wales/renting-homes-wales-webinars)
-        * [Rent Smart Wales Landlord Training](https://www.nrla.org.uk/training-academy/core-courses/rent-smart-wales-landlords)
-        * [Rent Smart Wales Agent Training](https://www.nrla.org.uk/training-academy/core-courses/rent-smart-wales-agents)
-        * [Renting Homes Wales Act Training](https://www.nrla.org.uk/training-academy/core-courses/renting-homes-wales)
-    
-* Campaigns
-    
-    * Major Campaigns
-        
-        * [Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill)
-        * [General Election](https://www.nrla.org.uk/campaigns/general-election)
-        * [Adaptations](https://www.nrla.org.uk/campaigns/adaptations)
-        * [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency)
-        * [Homelessness](https://www.nrla.org.uk/campaigns/homelessness)
-    * Key Issues
-        
-        * [Standards & Quality](https://www.nrla.org.uk/campaigns/standards-and-quality)
-        * [Justice](https://www.nrla.org.uk/campaigns/justice)
-        * [Managing Tenancies](https://www.nrla.org.uk/campaigns/managing-tenancies)
-        * [Tax & Finance](https://www.nrla.org.uk/campaigns/tax-and-finance)
-        * [Welfare](https://www.nrla.org.uk/campaigns/welfare)
-        * [Improving Access to the PRS](https://www.nrla.org.uk/campaigns/improving-access-to-prs)
-        * [Our Successes](https://www.nrla.org.uk/campaigns/our-successes)
-        * [Local Government](https://www.nrla.org.uk/campaigns/local-government)
-    
-* Research
-    
-    * Data Observatory
-        
-        * [Growth & the PRS](https://www.nrla.org.uk/research/data-observatory-growth-and-the-prs)
-        * [Lending & Housebuilding](https://www.nrla.org.uk/research/data-observatory-lending-and-housebuilding)
-        * [PRS Households](https://www.nrla.org.uk/research/data-observatory-prs-households)
-        * [PRS Rent Levels](https://www.nrla.org.uk/research/data-observatory-prs-rent-levels)
-        * [Regional Snapshot](https://www.nrla.org.uk/research/data-observatory-regional-prs-data)
-        * [Possession Claims](https://www.nrla.org.uk/research/data-observatory-possession-claims)
-        * [Housing Standards](https://www.nrla.org.uk/research/data-observatory-housing-standards)
-    * Confidence Index
-        
-        * [Landlord Confidence Index](https://www.nrla.org.uk/research/landlord-confidence-index)
-        * [Landlord Confidence Index Regional Overview](https://www.nrla.org.uk/research/landlord-confidence-index-regional-overview)
-        * [Archive](https://www.nrla.org.uk/research/archive)
-    * Reports & Insight
-        
-        * [Quarterly Reports](https://www.nrla.org.uk/research/quarterly-reports)
-        * [Special Reports](https://www.nrla.org.uk/research/special-reports)
-        * [Deep Insight](https://www.nrla.org.uk/research/deep-insight)
-    
-* Events
-    
-    * Events
-        
-        * [Events Calendar](https://www.nrla.org.uk/events/meetings)
-        * [Landlord Conference](https://www.nrla.org.uk/events/landlord-conference-2024)
-        * [Local Events](https://www.nrla.org.uk/events/local-events)
-        * [National Events](https://www.nrla.org.uk/events/national-events)
-    * Webinars
-        
-        * [Previous Webinars](https://www.nrla.org.uk/events/previous-webinars)
-    * Local Reps
-        
-        * [Local Reps](https://www.nrla.org.uk/events/regional-meetings)
-    
-* News
-    
-    * Articles
-        
-        * [Latest Articles](https://www.nrla.org.uk/news/latest-articles)
-        * [Industry News](https://www.nrla.org.uk/news/industry-news)
-        * [Regional News](https://www.nrla.org.uk/news/regional-news)
-        * [Helpful Tips](https://www.nrla.org.uk/news/helpful-tips)
-        * [Partners & Suppliers](https://www.nrla.org.uk/news/partners-and-suppliers)
-        * [Calls of the Week](https://www.nrla.org.uk/news/calls-of-the-week)
-        * [Expert Insight & Opinion](https://www.nrla.org.uk/news/expert-opinion)
-        * [Member Stories](https://www.nrla.org.uk/news/member-stories)
-        * [Wales](https://www.nrla.org.uk/news/wales)
-    * Publications
-        
-        * [Bulletin](https://www.nrla.org.uk/news/monthly-bulletin)
-        * [Property Magazine](https://www.nrla.org.uk/news/property-magazine)
-        * [Podcast](https://www.nrla.org.uk/news/listen-up-landlords-podcast)
-        * [Events](https://www.nrla.org.uk/news/events)
-    * Media
-        
-        * [Press Releases](https://www.nrla.org.uk/news/press-releases)
-        * [Media Contacts](https://www.nrla.org.uk/news/media-contacts)
-        * [Our Authors](https://www.nrla.org.uk/news/our-authors)
-        * [Our Spokespeople](https://www.nrla.org.uk/news/our-spokespeople)
-    
-* [0300 131 6400](tel:03001316400)
+News & Events
+
+Policy & Research
+
+About Us
+
+[Portfolio](https://www.nrla.org.uk/portfolio) [Login](https://www.nrla.org.uk/login) [Join us](https://www.nrla.org.uk/join)
+
+Getting Started
+
+[Landlord Starter Pack](https://www.nrla.org.uk/resources/landlord-starter-pack) [Starting your tenancy checklist](https://www.nrla.org.uk/resources/starting-your-tenancy-checklist) [Which Tenancy Do You Need?](https://www.nrla.org.uk/resources/creating-your-tenancy/getting-started)
+
+Documents & Guides
+
+[Introduction](https://www.nrla.org.uk/resources/introduction) [Pre-tenancy](https://www.nrla.org.uk/resources/pre-tenancy) [Creating Your Tenancy](https://www.nrla.org.uk/resources/creating-your-tenancy) [Managing Your Tenancy](https://www.nrla.org.uk/resources/managing-your-tenancy) [Ending Your Tenancy](https://www.nrla.org.uk/resources/ending-your-tenancy) [Looking After Your Property](https://www.nrla.org.uk/resources/looking-after-your-property) [Licensing & Local Government](https://www.nrla.org.uk/resources/licensing-and-local-gov) [Energy Efficiency](https://www.nrla.org.uk/resources/energy-efficiency) [Tax & Benefits](https://www.nrla.org.uk/resources/tax) [Wales](https://www.nrla.org.uk/resources/wales)
+
+Landlord Support
+
+[Landlord Support Team](https://www.nrla.org.uk/advice/meet-the-team) [Contact Landlord Support](https://www.nrla.org.uk/advice/contact-landlord-support) [FAQs](https://www.nrla.org.uk/advice/faq) [External Resources](https://www.nrla.org.uk/advice/external-resources)
+
+Landlord Community
+
+[Members Forum](https://www.nrla.org.uk/advice/member-forum)
+
+Property Services
+
+[NRLA Portfolio Property Management](https://www.nrla.org.uk/services/portfolio) [Safe2 - Compliance Certificates](https://www.nrla.org.uk/services/property-compliance/safe2) [Insurance](https://www.nrla.org.uk/services/insurance) [Mortgages](https://www.nrla.org.uk/services/mortgages) [Tax Services & Investment Support](https://www.nrla.org.uk/services/tax) [Emergency Repair Cover](https://www.nrla.org.uk/services/yourrepair) [Utilities](https://www.nrla.org.uk/services/utilities) [Lettings](https://www.nrla.org.uk/services/lettings/leaders-romans-group) [Property Fraud](https://www.nrla.org.uk/services/titleguardian) [Sales & Auctions](https://www.nrla.org.uk/services/sdl-property-auctions)
+
+Pre Tenancy Services
+
+[Advertising & Viewings](https://www.nrla.org.uk/services/advertising-and-viewings) [Tenant Referencing](https://www.nrla.org.uk/services/tenant-checks) [Deposits](https://www.nrla.org.uk/services/deposit-protection) [Inventories](https://www.nrla.org.uk/services/inventories)
+
+Support Services
+
+[Mediation Services](https://www.nrla.org.uk/services/mediation) [Solicitors & Paralegal Services](https://www.nrla.org.uk/services/solicitors-and-paralegal) [Licensing Support](https://www.nrla.org.uk/services/licensing-support) [Business Support](https://www.nrla.org.uk/services/business-support) [Currency Exchange](https://www.nrla.org.uk/services/smartcurrency)
+
+Trade & Retail
+
+[TradePoint (B&Q)](https://www.nrla.org.uk/services/tradepoint) [Currys Business](https://www.nrla.org.uk/services/currys) [LOFT Furniture](https://www.nrla.org.uk/services/appliances-and-furniture/loft) [Retailers](https://www.nrla.org.uk/services/retailers) [Services Hub](https://www.nrla.org.uk/services)
+
+Overview
+
+[Introduction and Search](https://www.nrla.org.uk/training-academy) [Training & Events Dashboard](https://www.nrla.org.uk/account/training-and-events) [Local Authorities](https://www.nrla.org.uk/training-academy/local-authorities) [Social Housing Courses](https://www.nrla.org.uk/training-academy/social-housing-courses) [Mix, Match & Save](https://www.nrla.org.uk/training-academy/mix-match-save)
+
+Categories
+
+[Core Courses](https://www.nrla.org.uk/training-academy/core-courses) [Safety & Hazards](https://www.nrla.org.uk/training-academy/safety-and-hazards) [Compliance](https://www.nrla.org.uk/training-academy/compliance) [Tax & Finance](https://www.nrla.org.uk/training-academy/tax-and-finance) [Property Investment](https://www.nrla.org.uk/training-academy/property-investment) [Qualifications](https://www.nrla.org.uk/training-academy/qualifications)
+
+Course Type
+
+[eLearning (self study)](https://www.nrla.org.uk/training-academy/elearning) [eClassroom (trainer-led)](https://www.nrla.org.uk/training-academy/eclassroom) [Classroom](https://www.nrla.org.uk/training-academy/classroom)
+
+Accreditation
+
+[Accreditation Overview](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/accreditation-overview) [How Does It Work](https://www.nrla.org.uk/training-academy/accreditation/how-does-it-work) [Terms & Conditions](https://www.nrla.org.uk/training-academy/accreditation/termsandconditions) [Accreditation Dashboard](https://www.nrla.org.uk/training-academy/accreditation) [Core CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/core-cpd-guide) [Standard CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/standard-cpd-guide) [Accreditation Preferences](https://www.nrla.org.uk/training-academy/accreditation/preferences) [Log CPD](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/add)
+
+Events
+
+[Events Calendar](https://www.nrla.org.uk/events/meetings) [Landlord Conference](https://www.nrla.org.uk/events/landlord-conference-2024) [National Events](https://www.nrla.org.uk/events/national-events) [Previous Webinars](https://www.nrla.org.uk/events/previous-webinars)
+
+Articles
+
+[Latest Articles](https://www.nrla.org.uk/news/latest-articles) [Industry News](https://www.nrla.org.uk/news/industry-news) [Regional News](https://www.nrla.org.uk/news/regional-news) [Helpful Tips](https://www.nrla.org.uk/news/helpful-tips) [Partners & Suppliers](https://www.nrla.org.uk/news/partners-and-suppliers) [Expert Insight & Opinion](https://www.nrla.org.uk/news/expert-opinion) [Member Stories](https://www.nrla.org.uk/news/member-stories) [Wales](https://www.nrla.org.uk/news/wales)
+
+Publications
+
+[Property Magazine](https://www.nrla.org.uk/news/property-magazine) [Podcast](https://www.nrla.org.uk/news/listen-up-landlords-podcast) [Events](https://www.nrla.org.uk/news/events)
+
+Media
+
+[Press Releases](https://www.nrla.org.uk/news/press-releases) [Media Contacts](https://www.nrla.org.uk/news/media-contacts) [Our Authors](https://www.nrla.org.uk/news/our-authors) [Our Spokespeople](https://www.nrla.org.uk/news/our-spokespeople)
+
+Campaigns
+
+[Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill) [General Election](https://www.nrla.org.uk/campaigns/general-election) [Adaptations](https://www.nrla.org.uk/campaigns/adaptations) [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency) [Homelessness](https://www.nrla.org.uk/campaigns/homelessness)
+
+Key Issues
+
+[Standards & Quality](https://www.nrla.org.uk/campaigns/standards-and-quality) [Justice](https://www.nrla.org.uk/campaigns/justice) [Managing Tenancies](https://www.nrla.org.uk/campaigns/managing-tenancies) [Tax & Finance](https://www.nrla.org.uk/campaigns/tax-and-finance) [Welfare](https://www.nrla.org.uk/campaigns/welfare) [Improving Access to the PRS](https://www.nrla.org.uk/campaigns/improving-access-to-prs) [Our Successes](https://www.nrla.org.uk/campaigns/our-successes) [Local Government](https://www.nrla.org.uk/campaigns/local-government)
+
+Data Observatory
+
+[Growth & the PRS](https://www.nrla.org.uk/research/data-observatory-growth-and-the-prs) [Lending & Housebuilding](https://www.nrla.org.uk/research/data-observatory-lending-and-housebuilding) [PRS Households](https://www.nrla.org.uk/research/data-observatory-prs-households) [PRS Rent Levels](https://www.nrla.org.uk/research/data-observatory-prs-rent-levels) [Regional Snapshot](https://www.nrla.org.uk/research/data-observatory-regional-prs-data) [Possession Claims](https://www.nrla.org.uk/research/data-observatory-possession-claims) [Housing Standards](https://www.nrla.org.uk/research/data-observatory-housing-standards)
+
+Confidence Index
+
+[Landlord Confidence Index](https://www.nrla.org.uk/research/landlord-confidence-index) [Archive](https://www.nrla.org.uk/research/archive)
+
+Reports & Insight
+
+[Quarterly Reports](https://www.nrla.org.uk/research/quarterly-reports) [Special Reports](https://www.nrla.org.uk/research/special-reports) [Deep Insight](https://www.nrla.org.uk/research/deep-insight)
+
+Who We Are
+
+[Our Story](https://www.nrla.org.uk/about-us) [Governance](https://www.nrla.org.uk/about-us/governance) [The Board](https://www.nrla.org.uk/about-us/who-we-are) [Our Authors](https://www.nrla.org.uk/news/our-authors) [Vision, Mission, Values](https://www.nrla.org.uk/about-us/our-values) [Sitemap](https://www.nrla.org.uk/sitemap)
+
+Working For Us
+
+[Working At The NRLA](https://www.nrla.org.uk/about-us/working-for-us) [LinkedIn](https://www.linkedin.com/company/nrlassociation/mycompany/) [Data Protection & Cybersecurity](https://www.nrla.org.uk/about-us/data-protection-cyber-security)
+
+Legal Information
+
+[Terms & Conditions](https://www.nrla.org.uk/about-us/legal-information) [Code of Practice](https://www.nrla.org.uk/about-us/code-of-practice) [Complaints & Feedback](https://www.nrla.org.uk/about-us/complaints-and-feedback)
+
+Contact Us
+
+[Contact Us](https://www.nrla.org.uk/about-us/contact-us)
+
+Press & Media
+
+[Press Releases](https://www.nrla.org.uk/news/press-releases) [Media Contacts](https://www.nrla.org.uk/news/media-contacts) [Our Spokespeople](https://www.nrla.org.uk/news/our-authors)
+
+Search
 
 Membership Terms
 ================
@@ -506,35 +403,40 @@ For queries or comments about NRLA Membership and our services, please contact u
 | 1.2 | Changes to Who We Are section to include addition of Safe2 and change of registered address | 02.04.2024 |
 
 [NRLA Membership Terms
----------------------
 
-Last updated: 26/09/2024 at 14:41 - 220.25 KB
+220.25 KB
 
-Download](https://www.nrla.org.uk/download?document=1020 "NRLA Membership Terms")
+26/09/2024
+
+Download](https://www.nrla.org.uk/download?document=1020)
+
+About us
 
 * [About us](https://www.nrla.org.uk/about-us)
 * [Who we are](https://www.nrla.org.uk/about-us/who-we-are)
-* [Vision, Mission & Values](https://www.nrla.org.uk/about-us/our-values)
+* [Vision, mission & values](https://www.nrla.org.uk/about-us/our-values)
 * [Working for us](https://www.nrla.org.uk/about-us/working-for-us)
-* [Code of Practice](https://www.nrla.org.uk/about-us/code-of-practice)
+* [Code of practice](https://www.nrla.org.uk/about-us/code-of-practice)
 * [Governance](https://www.nrla.org.uk/about-us/governance)
-* [Complaints and Feedback](https://www.nrla.org.uk/about-us/complaints-and-feedback)
-* [Legal Information](https://www.nrla.org.uk/about-us/legal-information)
-* [Contact Us](https://www.nrla.org.uk/about-us/contact-us)
+* [Complaints and feedback](https://www.nrla.org.uk/about-us/complaints-and-feedback)
+* [Legal information](https://www.nrla.org.uk/about-us/legal-information)
+* [Contact us](https://www.nrla.org.uk/about-us/contact-us)
 
-The home for landlords
-----------------------
+![National Residential Landlords Associate](\images\nrla-logo.svg "National Residential Landlords Associate")
 
-* [Home](https://www.nrla.org.uk/)
-* [Join Us](https://www.nrla.org.uk/join)
-* [About Us](https://www.nrla.org.uk/about-us)
+championing a  
+responsible rental sector
 
-* [Contact Us](https://www.nrla.org.uk/about-us/contact-us)
-* [Advertise with Us](https://www.nrla.org.uk/advertise-with-us)
-* [Sitemap](https://www.nrla.org.uk/sitemap)
+[![](/images/trustpilot.svg)](https://uk.trustpilot.com/review/nrla.org.uk)
 
-* [Privacy](https://www.nrla.org.uk/about-us/privacy-notice-member)
-* [Terms and Conditions](https://www.nrla.org.uk/about-us/terms-and-conditions)
-* [Cookies](https://www.nrla.org.uk/about-us/cookie-policy)
+[Home](https://www.nrla.org.uk/) [Join Us](https://www.nrla.org.uk/join) [About Us](https://www.nrla.org.uk/about-us)
 
-[](https://www.facebook.com/NRLANews/)[](https://twitter.com/NRLAssociation)[](https://www.linkedin.com/company/nrlassociation)[](https://www.instagram.com/nrla_news/)[](https://www.youtube.com/channel/UCq0GyQVlSuEupGKxFUqqWbw)
+[Contact Us](https://www.nrla.org.uk/about-us/contact-us) [Advertise with Us](https://www.nrla.org.uk/advertise-with-us) [Sitemap](https://www.nrla.org.uk/sitemap)
+
+[Privacy](https://www.nrla.org.uk/about-us/privacy-notice-member) [Terms and Conditions](https://www.nrla.org.uk/about-us/legal-information) [Cookies](https://www.nrla.org.uk/about-us/cookie-policy)
+
+[Portfolio](https://www.nrla.org.uk/services/portfolio) [Safe2](https://www.nrla.org.uk/services/property-compliance/safe2) [Service Directory](https://www.nrla.org.uk/services/directory)
+
+[![](/images/nrla-advice-icon.svg)Get Advice](https://www.nrla.org.uk/advice/contact-landlord-support)
+
+[](https://www.facebook.com/NRLANews/ "Follow us on Facebook")[](https://x.com/NRLAssociation "Follow us on X")[](https://www.linkedin.com/company/nrlassociation "Follow us on LinkedIn")[](https://www.instagram.com/nrla_news/ "Follow us on Instagram")[](https://www.youtube.com/channel/UCq0GyQVlSuEupGKxFUqqWbw "Follow us on YouTube")
