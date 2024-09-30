@@ -50,31 +50,31 @@ HGE procura familiares de paciente sem identificação resgatado no Centro de Ma
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
+   [![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_2cc6bf0a41.jpg)
+
+administrativo
+
+Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
 
 Alagoas
 
-Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")   [![Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_Alagoas_Da_sorte_a028d21f0c.jpg)
+Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")   [![Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_Alagoas_Da_sorte_a028d21f0c.jpg)
 
 Alagoas
 
-Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://www.tnh1.com.br/noticia/nid/confira-o-resultado-do-sorteio-do-alagoas-da-sorte-deste-domingo-29/ "Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29")   [![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_c935190793.jpg)
+Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://www.tnh1.com.br/noticia/nid/confira-o-resultado-do-sorteio-do-alagoas-da-sorte-deste-domingo-29/ "Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29")   [![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_c935190793.jpg)
 
 Alagoas
 
-Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
+Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
 
 inadimplentes
 
-Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
 
 Alagoas
 
-Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")   [![Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_Dia_Nacional_do_Surdo_-_Cordial__2__146a958d8b.jpeg)
-
-Alagoas
-
-Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://www.tnh1.com.br/noticia/nid/inclusao-na-saude-colaboradores-sao-capacitados-em-libras-para-atendimento-da-comunidade-surda/ "Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda")
+Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento d
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
+   [![Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/d/csm_adriano_farias_blogueiro_junqueiro_066e994484.jpg)
+
+Investigações
+
+Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-segundo-preso-suspeito-de-participar-da-execucao-de-blogueiro-em-junqueiro/ "Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ")   [![Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Lei_Seca_Alagoas_-_foto_Fellipe_Yuri_-_Ascom_Detran_4ce702e0f1.jpg)
+
+fiscalização
+
+Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://www.tnh1.com.br/noticia/nid/lei-seca-recupera-motocicleta-roubada-durante-operacao-no-fim-de-semana/ "Lei Seca recupera motocicleta roubada durante operação no fim de semana")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
 
 na ponta grossa
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
 
 pontal do peba
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
 
 Caminhão parado
 
-Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
+Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
 
 Na Madrugada
 
-Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_pericia_nriga_74edc8ba7a.png)
-
-Polícia Científica
-
-Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto](https://www.tnh1.com.br/noticia/nid/pericia-identifica-digitais-de-suspeito-em-briga-de-torcedores-que-terminou-com-um-morto/ "Perícia identifica digitais de suspeito em briga de torcedores que terminou com um morto")   [![Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_abordagem_capela_foto_reproducao_pm_57eb732a62.jpg)
-
-interior de alagoas
-
-Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida](https://www.tnh1.com.br/noticia/nid/video-denuncia-de-som-alto-termina-com-empurroes-e-tiros-de-pms-mulher-e-detida/ "Vídeo: denúncia de som alto termina com empurrões e tiros de PMs; mulher é detida")
+Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,41 +206,7 @@ Brasil
 
 Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
 
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_768a22f72e.jpg)
-
-Alagoas
-
-Alagoas
-
-Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana
-
-Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")[![Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/3/csm_Dentista_Assassinada_57e9d471a5.jpg)
-
-Brasil
-
-Brasil
-
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina
-
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-irma-a-facadas-se-entrega-a-policia-em-santa-catarina/ "Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina")[![Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_Rafa_Brites_reproducao_instagram_08053b23bd.jpg)
-
-Faturando
-
-Faturando
-
-Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo
-
-Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo](https://www.tnh1.com.br/noticia/nid/apresentadora-diz-que-ganha-com-uma-postagem-nos-stories-o-valor-que-recebia-de-salario-na-globo/ "Apresentadora diz que ganha com uma postagem nos stories o valor que recebia de salário na Globo")
-
-[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
-
-na ponta grossa
-
-na ponta grossa
-
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
-
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
 
 pontal do peba
 
@@ -248,23 +214,57 @@ pontal do peba
 
 Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Portaria define regras do recessos de fim de ano para servidores federais; veja](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/d/csm_esplanada_brasilia_5119fe8dca.png)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
 
-dois recessos
+na ponta grossa
 
-dois recessos
+na ponta grossa
 
-Portaria define regras do recessos de fim de ano para servidores federais; veja
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
 
-Portaria define regras do recessos de fim de ano para servidores federais; veja](https://www.tnh1.com.br/noticia/nid/portaria-define-regras-do-recessos-de-fim-de-ano-para-servidores-federais-veja/ "Portaria define regras do recessos de fim de ano para servidores federais; veja")[!['A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_a-fazenda-vanessa-choro_6ebe5deedf.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/3/csm_Dentista_Assassinada_57e9d471a5.jpg)
 
-Briga
+Brasil
 
-Briga
+Brasil
 
-'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo
+Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina
 
-'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo](https://www.tnh1.com.br/noticia/nid/a-fazenda-16-babi-perde-a-paciencia-com-vanessa-e-discussao-esquenta-veja-motivo/ "'A Fazenda 16': Babi perde a paciência com Vanessa e discussão esquenta; veja motivo")
+Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-irma-a-facadas-se-entrega-a-policia-em-santa-catarina/ "Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina")
+
+[![Quem é a brasileira que namora filho de Victoria Beckham](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/a/csm_brasileira-namorada-flho-victoria-beckham_d181b7a826.png)
+
+28 anos
+
+28 anos
+
+Quem é a brasileira que namora filho de Victoria Beckham
+
+Quem é a brasileira que namora filho de Victoria Beckham](https://www.tnh1.com.br/noticia/nid/quem-e-a-brasileira-que-namora-filho-de-victoria-beckham/ "Quem é a brasileira que namora filho de Victoria Beckham")[![Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_Av._Assis_Chateaubriand_tera_trecho_interditado_para_recapeamento_-_foto_Assessoria_f3ed43ef54.jpg)
+
+recapeamento
+
+recapeamento
+
+Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira
+
+Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira](https://www.tnh1.com.br/noticia/nid/avenida-assis-chateaubriand-tera-trecho-interditado-a-partir-de-quarta-feira/ "Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira")[!["Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_gusttavo-advogado-reproducao-redes-sociais_e6125eae99.jpg)
+
+Gente Famosa
+
+Gente Famosa
+
+"Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo
+
+"Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo](https://www.tnh1.com.br/noticia/nid/estou-mais-tranquilo-que-pai-de-mulher-feia-diz-gusttavo-lima-sobre-acusacoes-veja-video/ ""Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo ")[![Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/9/csm_Criminosos_atiraram_pelo_menos_37_vezes_em_carro_blindado_de_empresario_morto_-_foto_Reproducao_efce84e070.jpg)
+
+66 anos
+
+66 anos
+
+Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto
+
+Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto](https://www.tnh1.com.br/noticia/nid/criminosos-atiraram-pelo-menos-37-vezes-em-carro-blindado-de-empresario-morto/ "Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
