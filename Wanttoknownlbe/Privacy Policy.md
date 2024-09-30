@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/november-2012-bijzondere-licht-ufos-op-tenerife/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/franse-rechter-verwijder-smart-meter/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
