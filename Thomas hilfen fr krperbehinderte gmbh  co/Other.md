@@ -1,28 +1,21 @@
 Impressum
 =========
 
-Angaben gemäß § 5 TMG:
-
-Thomas Hilfen für Körperbehinderte GmbH & Co. Medico KG  
-Walkmühlenstraße 1  
+Thomas Hilfen für Körperbehinderte GmbH  
+Walkmühlenstr. 1  
 27432 Bremervörde
 
+  
 **Vertreten durch:**
 
-Thomas Holding GmbH  
-Geschäftsführer: Pirka von der Wense, Gunnar Thomas
+Geschäftsführer Gunnar Thomas & Pirka von der Wense  
+Eingetragen im Handelsregister des Amtsgerichts Tostedt unter HRB 100754
 
 **Kontakt:**
 
 Telefon: 04761 8860  
 Telefax: 04761 886-19  
 E-Mail: Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein.
-
-**Registereintrag:**
-
-Eintragung im Handelsregister.  
-Registergericht:Tostedt  
-Registernummer: HRA 100703
 
 **Umsatzsteuer-ID:**
 
