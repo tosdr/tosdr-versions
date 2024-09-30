@@ -33,6 +33,7 @@
                 
                 Need a little something extra? Find it here.
                 
+            * [AI for Small Business](https://www.thryv.com/features/ai-for-small-businesses/)
             * [Signatures](https://www.thryv.com/features/electronic-signatures/)
             * [Marketplace](https://www.thryv.com/marketplace/)
         
@@ -283,6 +284,7 @@ Click the link below for the terms that apply to your purchase
 * [Partners](https://www.thryv.com/partners/)
 * [Affiliates](https://www.thryv.com/partners/affiliates/)
 * [Investors](https://investor.thryv.com/overview/default.aspx)
+* [Newsroom](https://www.thryv.com/newsroom/)
 
 ### Other Brands & Services
 
