@@ -322,15 +322,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-April 27, 2011 – The first trailer for Harry Potter and the Deathly Hallows – Part 2 is released worldwide.
+December 10, 2013 – The Lumos Maxima charm bracelet, handcrafted by Edinbugh jeweler Hamilton & Inches, sells at Sotheby’s London for £20,000. The proceeds were donated to Lumos.
 
 ### Potter Quote
 
-“Potter, this is Oliver Wood. Wood — I’ve found you a Seeker.”
+“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
 
 [](#)
 
