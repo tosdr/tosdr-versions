@@ -31,6 +31,464 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Choi Soon-Hwa, de 80 años, llegó a la final de Miss Universo Corea del Sur 
+===========================================================================
+
+La participación de Choi en Miss Universo Corea del Sur es un símbolo de empoderamiento.
+----------------------------------------------------------------------------------------
+
+![Choi Soon-Hwa ha capturado la atención mundial al convertirse en modelo a los 80 años. Foto: Dailymotion.](https://www.elcomercio.com/wp-content/uploads/2024/09/Choi-Soon-Hwa-miss-universo-corea-del-sur.jpg)
+
+**Choi Soon-Hwa**, de 80 años, ha hecho historia en **Miss Universo Corea del Sur**. Según [La Nación de Costa Rica](https://www.nacion.com/viva/farandula/modelo-de-80-anos-aposto-todo-para-ser-miss/HZG3Y5DE2BGCHOAWE5EAUSQ3CQ/story/ "https://www.nacion.com/viva/farandula/modelo-de-80-anos-aposto-todo-para-ser-miss/HZG3Y5DE2BGCHOAWE5EAUSQ3CQ/story/"), se convirtió en la **participante de mayor edad** en llegar a la final del concurso de belleza que selecciona a la representante del país para **Miss Universo**. Su logro demuestra que la belleza y el modelaje no tienen edad. 
+
+### Más noticias
+
+* [Una ‘miss’ que lucha por cuidar su salud](https://www.elcomercio.com/tendencias/miss-ecuador-cristina-hidalgo-salud.html "https://www.elcomercio.com/tendencias/miss-ecuador-cristina-hidalgo-salud.html")
+* [Una mujer es la paciente cero de un tratamiento revolucionario para la longevidad](https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html "https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html") 
+
+**¿Quién es Choi Soon-Hwa?** 
+-----------------------------
+
+Originaria de **Seúl**, Choi nació durante la **Segunda Guerra Mundial**. Vivió la difícil época de la **guerra de Corea** entre 1950 y 1953. En una entrevista con The Washington Post, citada por La Nación, comentó: “Nací y crecí en una época muy difícil y todavía tengo esa resiliencia para luchar, para sobrevivir a mis propias batallas. La generación joven no tiene idea”. 
+
+**Carrera en Enfermería** 
+--------------------------
+
+**Choi Soon-Hwa** eligió la profesión de enfermería. **Es madre de dos hijos y abuela de tres nietos**. Sin embargo, su pasión por el modelaje floreció a los 76 años, cuando pisó una pasarela por primera vez. Su historia inspira a muchas personas, al mostrar que nunca es tarde para perseguir los sueños. 
+
+**El impulso de un paciente** 
+------------------------------
+
+De acuerdo con [CNN](https://cnnespanol.cnn.com/video/mujer-80-miss-universo-corea-trax/ "https://cnnespanol.cnn.com/video/mujer-80-miss-universo-corea-trax/"), fue uno de sus **pacientes quien la animó a seguir su sueño**. Desde niña, **Choi mostró interés por** **la moda y la actuación**, pero las complicaciones de la vida la llevaron a dejar esas pasiones atrás. Sin embargo, el aliento de su paciente reavivó su deseo de ser modelo. 
+
+**El camino hacia Miss Universo Corea del Sur** 
+------------------------------------------------
+
+La **historia de Choi** dio un giro cuando vio a una **modelo adulta mayor** en un programa de televisión. Inspirada, contactó al canal para obtener el nombre de la **agencia de modelos**. “Nunca había caminado en línea recta hasta mis 70 años. Modelar, posar y sonreír eran tareas difíciles para mí. Practiqué cada noche, desde la medianoche hasta la 1:30 am, durante dos años”, reveló Choi, citada por CNN. 
+
+**Cambios en el certamen** 
+---------------------------
+
+Su participación en Miss Universo Corea del Sur fue posible gracias a la **eliminación del límite de edad para las participantes**. Además, el certamen internacional de **Miss Universo**, que se celebrará en noviembre, permite a **mujeres de todas las edades y estados civiles participar**. Este cambio abre las puertas a una mayor diversidad en la belleza. 
+
+**Un mensaje inspirador** 
+--------------------------
+
+El **mensaje de Choi Soon-Hwa** es claro: **las personas adultas mayores deben perseguir sus sueños**. “Tienes que hacer lo que siempre quisiste hacer, las cosas que sacrificaste por criar a tus hijos. Tienes que hacerlo cuando seas viejo y, cuando lo hagas, serás muy feliz y encontrarás la felicidad en todo momento”, explicó a CNN. 
+
+Su historia no solo inspira a quienes la rodean, sino que también **desafía las normas sobre la edad y la belleza**. Choi Soon-Hwa es un ejemplo vivo de que nunca es tarde para realizar nuestros sueños. 
+
+Una mujer es la paciente cero de un tratamiento revolucionario para la longevidad 
+==================================================================================
+
+Liz Parrish busca ser la prueba de que las terapias génicas son la clave para combatir el envejecimiento biológico.
+-------------------------------------------------------------------------------------------------------------------
+
+![Así luce la paciente 0. Foto: Instagram @lizlparrish.](https://www.elcomercio.com/wp-content/uploads/2024/09/longevidad-paciente-cero.jpg)
+
+En la búsqueda de **extender la calidad y duración de vida** de las personas alrededor del mundo, se han creado diferentes experimentos e investigaciones para combatir el envejecimiento y tratar de alcanzar la longevidad. 
+
+### Más noticias
+
+* [Ecuatoriana Ada Ávila, la cuarta persona más longeva en Estados Unidos, falleció a sus 113 años](https://www.elcomercio.com/actualidad/mundo/ecuatoriana-ada-avila-cuarta-persona-longeva-estados-unidos-fallecio-113.html "https://www.elcomercio.com/actualidad/mundo/ecuatoriana-ada-avila-cuarta-persona-longeva-estados-unidos-fallecio-113.html")
+* [Con 121 años, Marcelino Abad recibió la vacuna contra el covid-19](https://www.elcomercio.com/actualidad/mundo/hombre-longevo-vacuna-covid19-peru.html "https://www.elcomercio.com/actualidad/mundo/hombre-longevo-vacuna-covid19-peru.html")
+
+**Liz Parrish en busca de la longevidad** 
+------------------------------------------
+
+**Liz Parrish** (53 años), CEO de la **biofarmacéutica BioViva** y pionera en el campo de la **terapia génica enfocada en la longevidad**, es la **paciente cero** en algunos tratamientos experimentales de **rejuvenecimiento celular**, que la hacen aparentar como si fuera una persona de 25 años. 
+
+**Foro Mundial de Longevidad** 
+-------------------------------
+
+Los próximos 17 y 18 de octubre, Liz será una de las **participantes destacadas** en la tercera edición del **Foro Mundial de Longevidad Alicante**. 
+
+En este evento internacional se reunirán a científicos, expertos y tecnólogos de diferentes áreas para **tratar los avances más recientes** que se han hecho en la búsqueda de una vida mejor y más larga. 
+
+**Experiencia de Parrish** 
+---------------------------
+
+**Parrish estará en el congreso como panelista** y hablará acerca de su experiencia con los tratamientos que le están aplicando. Su empresa, **BioViva**, es pionera en el **uso de tecnologías avanzadas** para desarrollar tratamientos que puedan **revertir los efectos del envejecimiento a nivel celular**, lo que ha generado un debate global en torno a los límites y posibilidades de estas innovaciones. 
+
+**Voluntaria desde 2015** 
+--------------------------
+
+Desde el 2015, **Liz fue noticia mundial por ponerse a sí misma como voluntaria** para ser tratada con dichos experimentos. 
+
+A pesar de que los resultados clínicos de estos tratamientos aún están en evaluación científica, dan paso al cuestionamiento: **¿es posible revertir el envejecimiento biológico?** 
+
+**Importancia de su participación** 
+------------------------------------
+
+Los organizadores del evento aseguran que la participación de Parrish como panelista es clave para hacer evidencia de cómo la **ingeniería genética** puede ser el secreto para asegurar la **extensión de la vida**. 
+
+**Futuro de las terapias génicas** 
+-----------------------------------
+
+El trabajo de Liz ahora se enfocará en demostrar que **las terapias génicas pueden ser el primer paso para combatir el envejecimiento**. 
+
+El punto de vista de ella como **paciente cero** de dichos tratamientos podrá complementar de manera adecuada el **enfoque científico** del congreso al brindar su perspectiva en carne propia y así dar un testimonio más íntimo y personal. 
+
+**Debates sobre el futuro** 
+----------------------------
+
+De esta manera, se asegura que su participación en el evento será **punto clave para generar debates acerca del futuro de cada investigación** que tenga como objetivo contribuir a una sociedad que quiera poder vivir más y mejor. 
+
+ERIKA LUCIA IBAÑEZ GARCIA   
+REDACCIÓN ALCANCE DIGITAL   
+EL TIEMPO 
+
+Un estudio advierte que el ‘escroleo’ en redes sociales puede causar aburrimiento  
+===================================================================================
+
+Un estudio revela que el 'escroleo' no solo capta la atención, sino que también intensifica el aburrimiento.
+------------------------------------------------------------------------------------------------------------
+
+![Limitar el tiempo en redes sociales mejora el bienestar y reduce la fatiga digital. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/redes-sociales-escroleo.jpg)
+
+El **‘scroll infinito’, o ‘escroleo’**, es la acción de deslizarse continuamente por el **contenido de redes sociales** como Instagram, TikTok y YouTube. Esta práctica, según [Eco News](https://econews.global/scrolleo-infinito-redes-sociales-aburrimiento/ "https://econews.global/scrolleo-infinito-redes-sociales-aburrimiento/"), está diseñada para **captar y mantener la atención de los usuarios**. Sin embargo, el consumo constante e ininterrumpido de contenido puede tener efectos negativos. 
+
+### Más noticias
+
+* [WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’](https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html "https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html") 
+* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
+
+**‘Escroleo’: El ciclo del aburrimiento en redes sociales** 
+------------------------------------------------------------
+
+Aunque estas **redes sociales** parecen ofrecer una **solución rápida al aburrimiento**, en realidad **intensifican esa sensación**. Al consumir información de manera excesiva y poco consciente, **muchas personas experimentan fatiga e insatisfacción**. 
+
+**Mantener un equilibrio digital** 
+-----------------------------------
+
+Mantener un equilibrio en el **uso de redes sociales** es clave para evitar estos efectos. **Limitar el tiempo de desplazamiento en las plataformas** puede mejorar el bienestar y reducir la **fatiga digital**. 
+
+**La ciencia del aburrimiento digital** 
+----------------------------------------
+
+En la era de las **redes sociales y los teléfonos inteligentes**, el aburrimiento parece ser más frecuente que nunca. Aunque estas tecnologías **pueden hacer la vida más entretenida**, la ciencia muestra lo contrario. Según un estudio publicado en la revista de la Asociación Estadounidense de Psicología, citado por [El País](https://elpais.com/tecnologia/2024-09-25/el-escroleo-infinito-en-redes-sociales-aumenta-el-aburrimiento.html "https://elpais.com/tecnologia/2024-09-25/el-escroleo-infinito-en-redes-sociales-aumenta-el-aburrimiento.html"), **consumir contenido de manera voraz**, al saltar de un video a otro, **intensifica el aburrimiento**. 
+
+**Resultados del estudio sobre el consumo digital** 
+----------------------------------------------------
+
+La investigación, citada por El País, siguió a 1 200 personas durante siete experimentos. Los resultados mostraron que **quienes navegaban libremente por redes sociales experimentaban mayores niveles de aburrimiento** y menor satisfacción que aquellos que miraban un solo video durante 10 minutos.  
+
+**Katy Tam**, investigadora de la Universidad de Toronto, explica que **el aburrimiento surge cuando no estamos lo suficientemente comprometidos con una actividad**. Buscamos novedad en las redes, pero rara vez logramos involucrarnos con el contenido. 
+
+**El aburrimiento como fenómeno evolutivo** 
+--------------------------------------------
+
+El **aumento del aburrimiento** no es un fenómeno reciente. Según encuestas en EE. UU., a decir de la misma fuente, la **sensación de aburrimiento ha crecido entre los jóvenes** entre 2008 y 2020. Además, el interés por el estudio del aburrimiento también ha crecido.  
+
+La filósofa **Josefa Ros Velasco**, fundadora de la Sociedad Internacional de Estudios del Aburrimiento, señala que **esta emoción tiene una función evolutiva**. En palabras del filósofo **Hans Blumenberg**, el aburrimiento ha sido una fuerza motriz que ha impulsado al ser humano a buscar nuevas actividades y a explorar otros nichos. 
+
+**La visión del neurocientífico James Danckert** 
+-------------------------------------------------
+
+Siguiendo con El País, el **neurocientífico James Danckert**, quien dirige el único laboratorio del mundo dedicado a **estudiar el aburrimiento en Canadá**, indica que esta sensación no es ni buena ni mala. Su propósito es empujarnos a explorar y encontrar actividades más significativas. 
+
+**Estrategias para combatir el aburrimiento** 
+----------------------------------------------
+
+Para **combatir el aburrimiento de manera saludable**, los expertos sugieren **prestar atención a las actividades que realizamos**, incluso dentro de las redes sociales. **Ros Velasco** recomienda “atreverse a pensar” y conocerse a uno mismo para ampliar las opciones personales con las que lidiar con esta sensación.  
+
+Aunque no hay una solución rápida, el aburrimiento puede ser una oportunidad para reflexionar y encontrar alternativas más duraderas y satisfactorias. 
+
+Ministro de Energía, Antonio Goncalves, explica la razón de los cortes de luz irregulares 
+==========================================================================================
+
+Las variaciones en los cortes de luz se deben a fluctuaciones en las condiciones hídricas.
+------------------------------------------------------------------------------------------
+
+![El ministro Goncalves aclara que los cortes de luz pueden variar según las mejoras en la situación hídrica. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-2.jpg)
+
+El **ministro de Energía de Ecuador, Antonio Goncalves**, explicó a la ciudadanía las **razones detrás de las variaciones en los cortes de luz** programados en varias ciudades del país.  
+
+### Más noticias
+
+* [Cortes de luz se retoman en Quito este 27 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html "https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html")
+* [Antonio Gonçalves informó cómo está la situación energética en Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-luz-mazar-agua-dependencia-ministro.html "https://www.elcomercio.com/actualidad/negocios/cortes-luz-mazar-agua-dependencia-ministro.html")
+
+A través de su **cuenta de X** (anteriormente Twitter), Goncalves detalló que **estos cambios responden a las fluctuaciones en las condiciones hídricas** y de generación eléctrica. 
+
+**Variación en los cortes de luz**  
+------------------------------------
+
+En un **fragmento de rueda de prensa**, el ministro Goncalves explicó que el **cronograma de cortes de luz**, aunque previamente anunciado, puede experimentar modificaciones debido a **mejoras en la situación hídrica**. “Es importante aclararles dos cosas”, señaló Goncalves. “Si, por ejemplo, la **situación hídrica mejora** (…) de que puede haber más lluvias y Coca Codo Sinclair está produciendo más, si bien anunciamos **los cortes**, podríamos decir en una ciudad o en un cantón, estas 4 horas puede ser que no sean las 4 horas, sino 2 horas”. 
+
+> A continuación, la explicación que dimos en nuestra primera rueda de prensa sobre por qué a veces la energía llega antes de lo anunciado o a veces no se produce el corte. [pic.twitter.com/BJGZf4XCcj](https://t.co/BJGZf4XCcj)
+> 
+> — Antonio Goncalves (@Antonio\_GoncalS) [September 29, 2024](https://twitter.com/Antonio_GoncalS/status/1840498760008257615?ref_src=twsrc%5Etfw)
+
+**Inquietud ciudadana por los cortes** 
+---------------------------------------
+
+**Esta explicación** responde a las **inquietudes de muchos ciudadanos** que han notado **discrepancias entre los cortes** anunciados y la duración real de las interrupciones eléctricas. Según el Ministro, esto ocurre cuando **las condiciones de generación mejoran**, lo que permite que **algunas áreas tengan cortes de menor duración** o, en algunos casos, se suspendan. 
+
+**Impacto de las centrales hidroeléctricas** 
+---------------------------------------------
+
+La **capacidad de las centrales hidroeléctricas en Ecuador**, especialmente las más grandes como **Coca Codo Sinclair**, depende de los **niveles de agua en los embalses**. La situación hídrica, especialmente durante las **temporadas de sequía**, puede **alterar la programación de los cortes**. 
+
+**Reanudación de los cortes de luz**  
+--------------------------------------
+
+Si bien el **Gobierno de Ecuador** informó que los **cortes de luz** en Quito fueron suspendidos temporalmente debido al **incendio forestal** que afectó al **sector de Guápulo**, desde el 24 de septiembre de 2024, los **cortes de electricidad** se reanudaron en la ciudad el viernes 27 de septiembre, a partir de las 18:00, siguiendo el **cronograma de racionamiento previamente anunciado**. 
+
+**Nuevo cronograma de cortes** 
+-------------------------------
+
+La **planificación vigente** cubre desde el lunes 23 hasta el domingo 29 de septiembre de 2024, y el **calendario de racionamiento** para la próxima semana, del 30 de septiembre al 6 de octubre, ya está disponible para consulta pública en la **[página web del Ministerio de Energía](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/")**. 
+
+**Consulta de horarios de cortes** 
+-----------------------------------
+
+En este portal, los ciudadanos pueden **acceder a los horarios de cortes** establecidos por cada una de las empresas distribuidoras de electricidad en el país, con el fin de tomar las **medidas necesarias** para enfrentar los racionamientos. 
+
+**Esperanzas por aumento de lluvias** 
+--------------------------------------
+
+A pesar de la situación crítica, este domingo 29 de septiembre de 2024, **se registraron lluvias en la ciudad de Cuenca**, lo que provocó un **aumento del caudal en el río Tomebamba**, uno de los **afluentes que alimenta las hidroeléctricas de la región**. Este incremento del flujo de agua genera esperanzas de una **mejora temporal en la capacidad de generación energética**. 
+
+**Llamado a la población** 
+---------------------------
+
+A pesar de los esfuerzos del Gobierno por **mitigar los efectos de la crisis eléctrica**, la situación sigue siendo complicada. El Gobierno ha **instado a la población a mantenerse informada sobre los cronogramas** y a tomar las medidas necesarias para afrontar los cortes de luz programados.  
+
+La **escasez de agua en los embalses hidroeléctricos** y la inestabilidad del clima plantean un reto importante para el sistema energético del Ecuador. 
+
+Liga de Quito cayó con Delfín y perdió el liderato de Liga Pro
+==============================================================
+
+Liga de Quito sigue dejando puntos en el camino en la segunda etapa de la Liga Pro.
+-----------------------------------------------------------------------------------
+
+![Liga de Quito perdió con Delfín en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T164804.392.jpg)
+
+Por tercer partido consecutivo, **Liga de Quito no logró ganar** en la Liga Pro. La ‘U’ perdió 3-2 en su visita al **Delfín** este domingo 29 de septiembre, en la octava jornada.
+
+Los albos solo **han sumado 2 de 9 puntos posibles** en los últimos tres juegos, lo que ha permitido que sus rivales se aproximen, reduciendo su ventaja en la cima del torneo.
+
+### Más noticias:
+
+* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
+* [Independiente del Valle ganó y aspira al título de Liga Pro de forma directa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-gano-y-aspira-al-titulo-de-liga-pro-de-forma-directa.html "Independiente del Valle ganó y aspira al título de Liga Pro de forma directa")
+* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
+
+Liga de Quito perdió el liderato. Independiente del Valle es el nuevo monarca, con 16 unidades, los mismos que la ‘U’, pero está por encima los ‘Rayados’ por la cantidad de goles a favor.
+
+Liga de Quito sacó ventaja
+--------------------------
+
+Pese a un mal inicio del conjunto de **Pablo ‘Vitamina’ Sánchez**, Liga de Quito encontró el gol en una jugada inesperada.
+
+Un rebote tras un córner en los linderos del área fue suficiente para que **Ezequiel** **Piovi** sacara un bombazo que terminó en las redes a los 10 minutos.
+
+> Piovi y el primero para [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw). 🫡  
+>   
+> Revive el tanto que abrió el marcador en el Jocay. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wFu3UfVyBN](https://t.co/wFu3UfVyBN)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840495862960574828?ref_src=twsrc%5Etfw)
+
+La alegría no duró mucho para la visita, ya que 10 minutos después, José Quintero cometió un penal. Ricardo Phillips se hizo cargo de la pena máxima y, aunque falló el remate, logró anotar en el rebote.
+
+Liga de Quito, que sufría en el Jocay de Manta, se marchó al descanso ganando con un gol de Alex Arce, el goleador del campeonato ecuatoriano, que llevaba varios partidos sin marcar.
+
+Bryan Ramírez robó un balón en la mitad del campo, emprendió carrera y descargó para Luis Estupíñán, quien sacó un centro que el ‘Toro’ reventó en el arco. La jugada fue revisada por el VAR por una posible posición adelantada, pero se convalidó la anotación.
+
+> Tranquilidad del goleador. 😮‍💨  
+>   
+> Álex Arce, previo al descanso, puso en ventaja nuevamente a [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw).  
+>   
+> Lo vives en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/EwOkinsqBu](https://t.co/EwOkinsqBu)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840497346771050564?ref_src=twsrc%5Etfw)
+
+Delfín amargó a Liga
+--------------------
+
+En el segundo tiempo, Delfín continuó proponiendo, mientras que Liga sufría en defensa.
+
+El esfuerzo de los ‘Cetáceos’ tuvo su recompensa a los 72 minutos. Una **falta infantil de Ricardo Adé** sobre José Angulo provocó otro penal para los locales.
+
+**Ricardo** **Phillips** se hizo cargo y esta vez sí anotó su penal, logrando así su doblete.
+
+> Phillips x2 🫨  
+>   
+> Dos penales, dos goles para el atacante de [@DelfinSC](https://twitter.com/DelfinSC?ref_src=twsrc%5Etfw). Se igualan las cosas en Manta.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tuAPEltNTR](https://t.co/tuAPEltNTR)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840507439805862157?ref_src=twsrc%5Etfw)
+
+En el cierre del partido, **otro penal, el tercero del partido** y de Delfín, provocó la remontada del cuadro local. Otra vez fue **Adé** el causante de la falta.
+
+**José** **Angulo** hizo efectiva la pena máxima.
+
+Inundaciones y ríos crecidos en Cuenca debido a las intensas lluvias
+====================================================================
+
+En sectores como la Feria Libre, Medio Ejido y Carmen de Guzho y en el centro de la ciudad se reportaron emergencias.
+---------------------------------------------------------------------------------------------------------------------
+
+![El río Tomebamba aumentó su caudal de forma abrupta la tarde este domingo 29 de septiembre. Giovanny Astudillo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-.jpg)
+
+La tarde de este domingo 29 de septiembre llueve con intensidad en **Cuenca**. Las lluvias empezaron pasadas las 14:30.
+
+La **Red Hidrometereológica** de la empresa municipal **Etapa** publicó el reporte de caudales de los ríos **Tomebamba**, **Yanuncay**, **Tarqui** y **Machángara** con corte a las 17:30. Este último afluente aumentó de 1,91 a 4,30 metros cúbicos por segundo.
+
+El **Tomebamba** pasó de 2,33 a 5,53 y el **Tarqui** de 0,52 a 4,33. El **Yanuncay** fue el que más creció al subir de 1,38 a 7,58 metros cúbicos. Todos salieron del nivel considerado bajo y de estiaje.
+
+Según el coordinador de la **Red Hidrometereológica**, Rigoberto Guerrero, hasta las 17:00 hubo un acumulado de 20 milímetros de lluvias.
+
+“La lluvia se registró en las zonas medias y bajas, lo que significa que cayó en zonas impermeabilizadas (sobre casas y calles). Eso ocasionó la escorrentía directa y el aumento súbito de los caudales”, dijo **Guerrero**.
+
+La **Red Hidrometereológica** pronosticó que lloverá en el **Austro** entre el lunes 30 de septiembre y el miércoles 2 de octubre. **Guerrero** insistió que se requieren entre **10 y 15 días de lluvias** para que la región salga de la **sequía hidrológica.**
+
+Él pidió que la ciudadanía se mantenga alejada de las **orillas de los cuatro ríos** para evitar accidentes.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca--1-1024x683.jpg)
+
+Tras **79 días de sequía hidrológica**, estas precipitaciones son las más intensas registradas en el Austro en este período de estiaje que ocasionó **cortes de luz en Ecuador.**
+
+### Más noticias
+
+* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
+* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
+
+Inundaciones en sectores de Cuenca
+----------------------------------
+
+En la zona del **Medio Ejido**, ubicado en el suroeste de **Cuenca**, se registraron inundaciones, reportó la **Empresa Municipal Etapa.**
+
+Lo mismo ocurrió en otros sectores como **Carmen de Guzho** y la **Feria Libre de El Arenal**. Hubo reportes de problemas en la circulación vehicular en la avenida de Las Américas.
+
+En este mismo sector, el tranvía dejó de operar unos minutos debido a la emergencia. El personal de la empresa municipal **Etapa** realizó la limpieza de sumideros para que el agua desfogue y reanudar las operaciones del este transporte público. 
+
+> Precaución por inundaciones en las vías 🌧️  
+> Debido a las fuertes lluvias, varias vías en la ciudad presentan inundaciones. Conduce con precaución, evita cruzar zonas anegadas y reduce la velocidad. Mantente informado sobre las condiciones del tránsito. [#Inundaciones](https://twitter.com/hashtag/Inundaciones?src=hash&ref_src=twsrc%5Etfw) [#CuencaSegura](https://twitter.com/hashtag/CuencaSegura?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oEQtRP03FX](https://t.co/oEQtRP03FX)
+> 
+> — Consejo de Seguridad Ciudadana de Cuenca (@CSC\_CUENCA) [September 29, 2024](https://twitter.com/CSC_CUENCA/status/1840505511575175474?ref_src=twsrc%5Etfw)
+
+El **Cuerpo de Bomberos de Cuenca** rescató a una persona que quedó atrapada en una isla del río **Tomebamba**. El hecho ocurrió en el sector de la avenida 12 de abril frente al Colegio Sagrados Corazones, en el centro de la urbe.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
+> Personal de Bomberos [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw) rescató a una persona que quedó atrapada en la isla del río Tomebamba, en la Av Doce de Abril, frente al colegio Sagrados Corazones, debido al repentino crecimiento del caudal del río. [#AccionesInmediatas](https://twitter.com/hashtag/AccionesInmediatas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jfhuDeoWYP](https://t.co/jfhuDeoWYP)
+> 
+> — Bomberos Cuenca (@Bomberos\_Cuenca) [September 29, 2024](https://twitter.com/Bomberos_Cuenca/status/1840506662869725332?ref_src=twsrc%5Etfw)
+
+El ciudadano quedó atrapado debido al repentino crecimiento del **río Tomebamba**.
+
+El trabajo de los bomberos cuencanos
+------------------------------------
+
+Los bomberos también atendieron otras emergencias como tres inundaciones en viviendas, la caída de un alero y de árboles, entre otras. El alero pertenece a un inmueble ubicado en el Centro Histórico.
+
+Además, debido a la acumulación de agua en el sector del parque Miraflores , el personal de la E**mpresa Municipal de Movilidad (EMOV)** decidió cerrar el tráfico en la intersección de las avenidas de Las Américas y Turuhuayco.
+
+La **Dirección de Gestión de Riesgos de Cuenca** reportó un deslizamiento en el sector de San Joaquín. La limpieza la realizó el equipo de Obras Públicas municipales.
+
+Real Madrid empata en un controvertido derbi ante el Atlético
+=============================================================
+
+Real Madrid no acortó la brecha con el FC Barcelona en la tabla de posiciones de La Liga.
+-----------------------------------------------------------------------------------------
+
+![Atlético Madrid y Real Madrid igualaron en el derbi de La Liga.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T161444.847.jpg)
+
+El **Real Madrid igualó 1-1 al Atlético de Madrid** en su visita al Cívitas Metropolitano este domingo 29 de septiembre de 2024, en partido correspondiente a la octava jornada de La Liga de España.
+
+El encuentro, disputado en la casa de los colchoneros, rompió un **récord de asistencia**, con más de 70,000 aficionados presenciando el derbi madrileño. Este nuevo registro supera al anterior récord de poco más de 69,000, establecido en un partido de la Champions League.
+
+### Más noticias:
+
+* [Real Madrid acrecenta un récord con gol de Mbappé](https://www.elcomercio.com/deportes/kylian-mbappe-real-madrid-alves-record.html "Real Madrid acrecenta un récord con gol de Mbappé")
+* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
+* [Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior](https://www.elcomercio.com/deportes/futbol/carlo-ancelotti-pide-el-balon-de-oro-para-vinicius-junior.html "Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior")
+
+Sin goles en la primera parte
+-----------------------------
+
+**Atlético y Real Madrid** se fueron al descanso sin goles tras un primer tiempo marcado por el respeto entre ambos equipos más que por las ocasiones de peligro.
+
+A los 9 minutos, **Julián Álvarez** generó la primera gran oportunidad del encuentro, pero Thibaut Courtois le negó el gol tras escaparse de Antonio Rüdiger.
+
+Fede Valverde respondió para el Real Madrid a los 17 minutos con un potente disparo que fue controlado por Jan Oblak. El arquero del Atlético también detuvo un remate raso de **Jude Bellingham** a los 36 minutos, sellando una primera parte sin grandes emociones.
+
+Ambos equipos intercambiaron el dominio a lo largo del partido, pero ni los colchoneros ni los merengues pudieron romper el empate en un clásico madrileño sin goles, pero lleno de tensión.
+
+Goles y partido suspendido
+--------------------------
+
+En la segunda mitad, no hubo mucha acción, aunque el **Real Madrid** se aproximó con peligro. Los locales también llegaban al área rival, pero fallaban en el último pase, sin lograr concretar sus jugadas.
+
+El único gol del encuentro llegó tras una jugada rápida de tiro libre. **Vinícius Júnior** desbordó por la banda izquierda y lanzó un centro al área, donde **Eder Militao** apareció para rematar con potencia y vencer a Jan Oblak a los 64 minutos.
+
+> VINI ELUDIÓ A DE PAUL, MILITAO REMATÓ Y REAL MADRID 1-0 ATLÉTICO DE MADRID EN EL METROPOLITANO.  
+>   
+> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oAYOOvI6bg](https://t.co/oAYOOvI6bg)
+> 
+> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840487797905334600?ref_src=twsrc%5Etfw)
+
+Después del gol, el partido se suspendió durante varios minutos debido a que los aficionados del Atlético de Madrid comenzaron a lanzar objetos hacia la portería defendida por **Thibaut Courtois.**
+
+A pesar de las advertencias del árbitro, los incidentes continuaron, lo que llevó a la **suspensión temporal** del encuentro para calmar la situación, antes de reanudar el juego.
+
+> Fuertísima imagen en España: Josema Giménez, Koke y Simeone, hablando CARA A CARA con los ultras de Atlético de Madrid.  
+>   
+> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/hzAS3lGjLU](https://t.co/hzAS3lGjLU)
+> 
+> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840490814910124097?ref_src=twsrc%5Etfw)
+
+Después de poco más de 20 minutos de pausa, los jugadores **regresaron al terreno de juego**, pero con la condición de que el partido se suspendería definitivamente si continuaban lanzando objetos al campo.
+
+**Vinícius** Júnior, que estaba enchufado, protagonizó una gran jugada eludiendo a varios rivales. A los 72 minutos, intentó un disparo de media distancia, pero Jan Oblak logró desviar su potente remate.
+
+**Courtois**, que no tuvo mucha acción a lo largo del partido, realizó una gran atajada a los 81 minutos tras un potente remate de Samu Lino a quemarropa.
+
+En los minutos finales del compromiso, Ángel Correa igualó el partido en una jugada fortuita.
+
+> ¡¡GOLAZO DE CORREA!! ¡¡ATLÉTICO DE MADRID 1-1 REAL MADRID!!  
+>   
+> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EsPg58C189](https://t.co/EsPg58C189)
+> 
+> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840500329927897486?ref_src=twsrc%5Etfw)
+
+Granadas, dinamita y armas fueron decomisadas en Guayaquil
+==========================================================
+
+La Policía realizó allanamientos en el sector del Centenario. Una persona fue aprehendida para investigaciones.
+---------------------------------------------------------------------------------------------------------------
+
+![La Policía señaló que los inmuebles se usaban como centros de acopio para el abastecimiento de droga, almacenamiento y distribución de armas de fuego, municiones y explosivos. Cortesía: Policía de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/Policia-Guayaquil.jpg)
+
+##### Agencia EFE
+
+La **Policía** **ecuatoriana** informó este domingo 29 sobre el decomiso de f**usiles, granadas de mano, dinamita, alimentados y miles de cartuchos.**
+
+Los uniformados realizaron allanamientos en dos inmuebles en Guayaquil. Los operativos se cumplieron como parte de la operación denominada **Renacer 27** ejecutada en el sector **Centenario**.
+
+La **Policía** señala que los inmuebles se usaban como centros de acopio para el **abastecimiento de dro**ga, **almacenamiento y distribución de armas de fuego, municiones y explosivos**.
+
+Ese material servía para “los diferentes integrantes de los grupos armados organizados, quienes estarían generando temor mediante el incremento de los índices de muertes violentas, **sicariatos**, extorsiones, entre otros delitos”.
+
+### Más noticias
+
+* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
+* [Dos detenidos por quemar llantas en el parque Metropolitano sur](https://www.elcomercio.com/actualidad/quito/dos-detenidos-quemar-llantas-parque-metropolitano-sur.html "Dos detenidos por quemar llantas en el parque Metropolitano sur")
+* [Persona falleció en siniestro de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/persona-fallecio-siniestro-transito-quito.html "Persona falleció en siniestro de tránsito en Quito")
+
+Los decomisos en los operativos
+-------------------------------
+
+En el operativo se aprehendió a una posible implicada en el hecho delictivo. Es una ecuatoriana de 34 años, quien no posee antecedentes penales.
+
+Entre los indicios incautados figuran **dos armas de fuego tipo fusil** calibre 7.62×39Ñ 30 000 cartuchos calibre 5.56-7.62-9MM y cartuchos para escopeta; 620 alimentadoras; siete cápsulas de explosivo C4; ocho mechas detonantes; 15 granadas de mano y ocho tacos de dinamita.
+
+Además un vehículo de alta gama, reportado como robado en 2023, en **Quito**. Y dos motocicletas, una de ellas de alta gama, también con reporte de robo.
+
+De igual manera, decomisaron 750 cilindros de heroína; 17 paquetes de marihuana y 8 paquetes de cocaína, indicó la **Policía** en un comunicado, en el que no detalló el peso de la droga.
+
+La Policía dijo que con “este golpe se ha logrado reducir las muertes violentas, bajo la modalidad de sicariato y posibles atentados en contra de terceras personas, ataques terroristas, entre otras actividades ilícitas”.
+
 Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre
 ===================================================================================
 
@@ -630,330 +1088,4 @@ El **control estricto de la presión arterial**, los niveles de glucosa y colest
 **Una responsabilidad compartida** 
 -----------------------------------
 
-Cuidar nuestro corazón es una responsabilidad compartida. Adoptar un **estilo de vida saludable** y estar atentos a los riesgos son pasos vitales para mantener la **salud cardiovascular**. 
-
-La búsqueda de empleo se transforma con el ‘reverse recruiting’
-===============================================================
-
-¿En qué consiste esta metodología?
-----------------------------------
-
-![El reverse recruiting es una nueva modalidad de reclutamiento donde es la empresa. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio.jpg)
-
-El mercado laboral evoluciona y hay nuevas estrategias de reclutamiento. Una que se destaca en los últimos años es el **reverse recruiting**, que significa **contratación inversa.**
-
-Esta metodología implica que las empresas busquen de manera activa a candidatos, aquellos que no están en búsqueda activa de empleo, pero que podrían estar abiertos a una nueva oportunidad si se les presenta algo atractivo. En Ecuador esta forma de selección se encuentra en fase emergente.
-
-A diferencia del reclutamiento tradicional, que es reactivo, el **_reverse recruiting_** se caracteriza por ser proactivo, como explica José Hidalgo, docente de la [UISEK](https://uisek.edu.ec/?utm_source=google&utm_medium=campania_posicionamiento&utm_campaign=oct_2024&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1FrBpEjI9ZNqv4Od_xg0hWF8meAyfrCFhvMpsnEiP3Y0eWCSqN2xvxoC7FoQAvD_BwE "https://uisek.edu.ec/?utm_source=google&utm_medium=campania_posicionamiento&utm_campaign=oct_2024&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1FrBpEjI9ZNqv4Od_xg0hWF8meAyfrCFhvMpsnEiP3Y0eWCSqN2xvxoC7FoQAvD_BwE") & Business School.
-
-Según Hidalgo, este modelo permite a las organizaciones acercarse a perfiles que pueden estar trabajando en otras empresas. “A diferencia del reclutamiento tradicional, que espera que el candidato se acerque a la empresa, el _reverse recruiting_ va tras el candidato”, comenta.
-
-El concepto, si bien es emergente en Ecuador, ya ha sido adoptado por multinacionales, que han implementado programas de recolocación de empleados durante reorganizaciones internas.
-
-Ventajas y desventajas del _reverse recruiting_
------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio-2-1024x683.jpg)
-
-**Para los candidatos** representan o**portunidades de crecimiento profesional**. Además, las empresas buscan perfiles específicos. Eso permite que las propuestas sean más ajustadas a las habilidades y preferencias del candidato.
-
-Entre las **desventajas para los candidatos** están la posible **presión para cambiar de empleo.** Además, cambiar de empresa implica un proceso de adaptación a nuevas culturas y dinámicas de trabajo.
-
-**Para las empresas**, las ventajas son el a**cceso a talento altamente cualificado** y la **rápida cobertura de vacantes críticas**. Mientras las d**esventajas** serían m**ayor inversión de tiempo y recursos** y p**osible rechazo de candidatos no interesados**.
-
-Adaptación al mercado laboral actual
-------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/reverse-recruiting-El-comercio-1-1024x683.jpg)
-
-El **_reverse recruiting_** requiere un cambio en la manera en que las empresas se presentan a sus candidatos. Según Marta Carrión, gerente del Área de Empleo y UNIRalumni de la [UNIR](https://estudiar.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_LT_EC_X_X_X_X_X_MARCAPURA_X_LWEB_GLOB_EC_ALL_AO_GOOGLE-BUS_BUS_GEN_X_[Unir]&utm_content=EC_EC_X_X_X_X_X_MARCAPURA_BUSQ_[Unir]_TXT_CPC_GOOGLE-BUS_EX_X_X_X&bi_campaignid=16603757910&bi_adgroupid=137536304831&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1DQhWoAZHz0-uTGBiLidFR5xDUZwgX0BgGsxrUspyFPVQKRiHJ1ghBoCaxIQAvD_BwE "https://estudiar.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_LT_EC_X_X_X_X_X_MARCAPURA_X_LWEB_GLOB_EC_ALL_AO_GOOGLE-BUS_BUS_GEN_X_[Unir]&utm_content=EC_EC_X_X_X_X_X_MARCAPURA_BUSQ_[Unir]_TXT_CPC_GOOGLE-BUS_EX_X_X_X&bi_campaignid=16603757910&bi_adgroupid=137536304831&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1DQhWoAZHz0-uTGBiLidFR5xDUZwgX0BgGsxrUspyFPVQKRiHJ1ghBoCaxIQAvD_BwE"), “las empresas ya no pueden esperar a que los candidatos toquen a su puerta; tienen que salir a buscarlos y presentarles una oferta atractiva para captar su atención”.
-
-En este sentido, las empresas deben trabajar en fortalecer su **marca empleadora**, con una cultura organizacional que sea atractiva y que promueva el bienestar de los empleados.
-
-Además, el mercado laboral actual demanda flexibilidad, en horarios como en posibilidades de trabajo remoto. Este es uno de los factores clave que los candidatos consideran al evaluar una oferta laboral, junto con el salario, los beneficios de ley y las oportunidades de desarrollo profesional.
-
-Con el tiempo, se espera que más empresas en Ecuador adopten este tipo de estrategias, especialmente en sectores donde la competencia por el talento es alta.
-
-Clases presenciales en Quito se retoman, ¿y los cortes de luz en el país?
-=========================================================================
-
-El retorno a clases presenciales incluyen una medida tras los incendios en Quito,
----------------------------------------------------------------------------------
-
-![Clases presenciales están previstas para este 30 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/clases-presenciales.jpg)
-
-La clases en **modalidad presencial** se suspendieron por los incendios registrados en Quito, en puntos como Guápulo, Bellavista y cerro Auqui[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
-
-La seguridad y la calidad del aire fueron los elementos que se analizaron desde el **[Ministerio de Educación](https://educacion.gob.ec/)** para las nuevas medidas. Están, además, incluyen los cortes de luz.
-
-### Más noticias
-
-* [Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?](https://www.elcomercio.com/actualidad/quito/disposicion-clases-quito-incendios-forestales.html "Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?")
-* [Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-educacion-anuncia-ajustes-horarios-clases-cortes-luz.html "Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz")
-* [Regreso a clases incluye programas de seguridad en escuelas con riesgos](https://www.elcomercio.com/actualidad/ecuador/regreso-a-clases-programas-seguridad-escuelas-riesgos.html "Regreso a clases incluye programas de seguridad en escuelas con riesgos")
-
-Clases presenciales y cortes de luz
------------------------------------
-
-Para la semana del lunes 30 de septiembre al viernes 04 de octubre de 2024, ya está definido el cronograma.
-
-Las instituciones **particulares, fiscomisionales y municipales** pueden adoptar las medidas o definir disposiciones propias.
-
-* **Jornada matutina:** las clases comenzarán en el horario habitual, según lo establecido por cada institución, la salida se mantiene sin cambios.
-* **Jornada vespertina:** el horario de ingreso se mantiene sin modificaciones, la salida se establece a las 17:00.
-* **Jornada nocturna:** Se mantiene la modalidad no presencial y se activan recursos académicos y guías pedagógicas. Es importante garantizar el acompañamiento educativo por varias vías alternativas de comunicación.
-
-> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
-
-La jornada en Quito
--------------------
-
-En el caso de **Quito**, los estudiantes retomarán las actividades presenciales. Eso sí, el Ministerio de Educación recomendó el uso de mascarilla en espacios al aire libre.
-
-Según el informe de la **Secretaría de Ambiente del Municipio**, la calidad del aire regresa progresivamente a condiciones normales. 
-
-No obstante, aún se requieren precauciones por las concentraciones no saludables para grupos sensibles, como pacientes con **enfermedades crónicas**.
-
-Se debió a la generación de **ozono troposférico** por los **aerosoles** que quedaron en el ambiente. Estos, a su vez, reaccionaron con los gases de los vehículos y la radiación solar.
-
-El juramento a la bandera
--------------------------
-
-En Quito, debido a la suspensión de la **jornada presencial**, los actos del juramento a la Bandera, previstos para el 26 de septiembre, se suspendieron.
-
-El **Ministerio de Educación** indicó que se retomarán una vez que las condiciones se presten. Aún no se ha hecho oficial la reprogramación.
-
-A escala nacional, estaba previsto que juren la **Bandera** 277 677 estudiantes de tercero de bachillerato. La mayoría de ellos asisten a instituciones educativas fiscales (207 973), seguidos de particulares (49 172), fiscomisionales (17 875) y municipales (2 657).
-
-Deportivo Quito debutará con casa llena en el Torneo de Ascenso
-===============================================================
-
-La fiel hinchada del Deportivo Quito no decepcionó en uno de los partidos más importantes del año.
---------------------------------------------------------------------------------------------------
-
-![Hinchas del Deportivo Quito en un partido de la Segunda Categoría de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T093228.093.jpg)
-
-Este domingo 29 de septiembre, **Deportivo Quito** inicia su sueño de volver a la Serie B de Ecuador, un lugar donde su historia lo merece. En su partido debut, la pasión de su afición se hará sentir, ya que han agotado todas las entradas.
-
-A lo largo de los años, la **‘AKD’ ha sido reconocida por tener seguidores extremadamente fieles**, y esto se reflejará en el Torneo de Ascenso. Deportivo Quito jugará en el complejo de Independiente del Valle, y los gritos de su hinchada se escucharán con fuerza.
-
-### Más noticias:
-
-* [Deportivo Quito y su ruta para el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-su-ruta-para-el-ascenso-serie-b.html "Deportivo Quito y su ruta para el ascenso a la Serie B")
-* [Deportivo Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
-* [Deportivo Quito no jugará en el Atahualpa en Segunda Categoría](https://www.elcomercio.com/deportes/deportivo-quito-estadio-atahualpa-sede-segunda-categoria.html "Deportivo Quito no jugará en el Atahualpa en Segunda Categoría")
-
-El Deportivo Quito agotó las entradas
--------------------------------------
-
-El jueves 26 de septiembre, durante el primer día de venta de boletos, se **formaron largas filas en los puntos de venta**. El club agradeció a sus aficionados a través de redes sociales por la masiva acogida, a pesar de una temporada irregular en lo deportivo.
-
-Aunque inicialmente solo se agotaron las entradas del sector de preferencia, en los días siguientes se vendieron todas las localidades del estadio de Independiente del Valle.
-
-La ‘**AKD**‘, orgullosa de su hinchada, agradeció el masivo apoyo con un video que mostraba a los aficionados en los estadios cantando sus clásicos cánticos de cancha.
-
-> ¿Ya cachan 💙❤️ el temita que elegimos hoy para nuestros posts? Dejaré esto por aquí para 👀 para verlo mil veces y combatir el insomnio 💤 [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) mi vida 😍  
-> 🎶 Va a volver, va a volver; la AKDemia va a volver 🎶 [pic.twitter.com/MoURodbvfj](https://t.co/MoURodbvfj)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [September 29, 2024](https://twitter.com/SDQuito_Oficial/status/1840201041930788982?ref_src=twsrc%5Etfw)
-
-Deportivo Quito busca el regreso a la Serie B
----------------------------------------------
-
-El Deportivo Quito participará en el Torneo de Ascenso a la Serie B, su primer torneo de este tipo desde 2022.
-
-Su **debut en el Torneo de Ascenso será este domingo 29 de septiembre**, enfrentando a Santa Elena Sporting Club por la ida de los treintaidosavos de final, a las 12:00.
-
-El equipo no jugará en su tradicional casa, el Estadio Olímpico Atahualpa, sino que será local en el Complejo de Independiente del Valle, en Chillo Jijón.
-
-El partido de vuelta se disputará el 6 de octubre en Santa Elena, posiblemente en el Estadio Daring, donde Santa Elena SC suele jugar de local.
-
-Los horarios de los cortes de luz en Ecuador se reducen este domingo 29
-=======================================================================
-
-Las horas para cada sector son establecidas por cada una de las distribuidores que operan en cada región.
----------------------------------------------------------------------------------------------------------
-
-![El Gobierno de Ecuador anunció una reducción de los racionamientos para este domingo 29. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-23.jpg)
-
-Las horas de **cortes de luz** para este domingo 29 de septiembre de redujeron en **Ecuador**. El **Ministerio de Energía y Minas** informó esta decisión mediante un comunicado.
-
-La causa fue el mejoramiento de las condiciones hidrológicas en **Coca Codo Sinclair**, que es la central hidroeléctrica más grande de Ecuador.
-
-“Las horas de suspensión del servicio eléctrico programadas para este domingo 29 de septiembre de 2024 se redujeron a escala nacional, dentro del período establecido en los cronogramas”.
-
-La decisión de reducir el horario de los cortes se adoptó en función de las evaluaciones realizadas por los técnicos del **Operador Nacional de Electricidad (Cenace).**
-
-### Más noticias
-
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
-
-El aporte de las hidroeléctricas
---------------------------------
-
-**Coca Codo Sinclair** será el principal productos de energía este domingo 29 de septiembre con el 44%. Le siguen **San Francisco** y **Agoyán**, con el 8% y 6%, en ese orden, según el **Operador Nacional de Electricidad (Cenace).**
-
-Este programó que el complejo eléctrico **Mazar-Paute-Sopladora** aporte no supere el 3% de la generación hidroeléctrica que demandará Ecuador para este domingo 29.
-
-¿Cómo consultar los horarios de los cortes?
--------------------------------------------
-
-El **Ministerio de Energía y Minas** habilitó el siguiente enlace para que los usuarios de todo el Ecuador puedan conocer los horarios de cortes de luz.
-
-A través de este link se puede acceder a cada una de las **empresas distribuidoras de energía** que operan en todo el territorio ecuatoriano.
-
-El acceso es el siguiente: [https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/")
-
-La situación del sector eléctrico ecuatoriano
----------------------------------------------
-
-El viernes 27 de septiembre, el **ministro de Energía y Minas, Antonio Goncalves**, indicó que para esta nueva semana, el tiempo de suspensión del servicio podrían reducirse dentro del tiempo programado, debido a la mejora de condiciones hidrológicas en centrales de pasada, como **Coca Codo Sinclair.**
-
-“En este caso se aprovechará al máximo los recursos hídricos disponibles para generar energía”, dijo **Goncalves**.
-
-Según él, en la planificación de los nuevos horarios se ha priorizado minimizar el impacto en el sector productivo, con especial atención al sector industrial. “Al momento ya hemos trabajado con 205 empresas, para ajustar el horario a sus necesidades productivas, sin afectar a los hogares”.
-
-París 2024 reemplazará medallas de bronce deterioradas
-======================================================
-
-Ante quejas y videos burlándose del deterioro de las medallas de bronce, la organización de París 2024 decidió reemplazarlas.
------------------------------------------------------------------------------------------------------------------------------
-
-![Angie Palacios y Neisi Dájomes, deportistas ecuatorianas que ganaron la medalla de bronce en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T085459.822.jpg)
-
-Los **Juegos Olímpicos y Paralímpicos** de París, celebrados este verano, han tenido una falencia, a pesar de todo lo positivo que dejaron. Algunos atletas expresaron su descontento por la calidad de las medallas, específicamente las de bronce.
-
-El Comité de **Organización de París 2024** ha asegurado a EFE que reemplazará todas las preseas que se hayan estropeado o dañado en estas semanas post la cita deportiva.
-
-### Más noticias:
-
-* [Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos](https://www.elcomercio.com/deportes/casas-deportistas-juegos-olimpicos-ecuador.html "Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos")
-* [Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas](https://www.elcomercio.com/deportes/juegos-olimpicos/juegos-paralimpicos-paris2024-medallas-ecuador.html "Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas")
-* [Estefany López ganó la medalla de bronce en sus primeros Juegos Paralímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/estefany-lopez-gano-medalla-bronce-primeros-juegos-paralimpicos.html "Estefany López ganó la medalla de bronce en sus primeros Juegos Paralímpicos")
-
-Atletas descontentos con el bronce de París 2024
-------------------------------------------------
-
-Álvaro Martín, campeón olímpico de marcha en el relevo mixto junto con María Pérez, se llevó también a casa una **medalla de bronce.**
-
-“La de bronce **se me está descascarillando y parece que se está comiendo el color.** La tengo guardada en la caja que nos dieron para que se desgaste lo menos posible con el aire o con el oxígeno. No sé el motivo. Con la de oro no pasa, esa está perfectamente”, comenta a EFE el marchador extremeño.
-
-La controversia comenzó cuando algunos **deportistas empezaron a mostrar un rápido deterioro** de sus bronces recién colgados. Uno de los primeros fue el patinador de skate Nijah Houston.
-
-El estadounidense mostraba, el pasado 9 de agosto, un desgaste evidente del premio, sobre todo en el verso, donde está grabada la diosa de la Victoria, aunque tampoco saliera indemne la parte delantera, en la que está incrustado el famoso pedacito de la Torre Eiffel.
-
-“**Hay que mejorar un poco la calidad de las medallas**“, lamentaba en su post en las redes el skater.
-
-¿Cómo es la medalla de bronce?
-------------------------------
-
-Los **bronces** en cuestión tienen un diámetro de 85 milímetros, 9,2 mm de grosor y 455 gramos de peso y están hechos de una aleación de cobre, estaño y zinc.
-
-“Las **medallas son los objetos más deseados** y más preciosos para los deportistas. Las que estén estropeadas serán sistemáticamente reemplazadas por la Monnaie de París y acuñadas tal y como eran originalmente”, aclaró el Comité de París 2024.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T085512.206-1024x683.jpg)
-
-Ni este organismo ni la Monnaie de **París** han difundido, hasta el momento, cuántas preseas se han cambiado.
-
-Esta última institución pública, considerada la más antigua de Francia, ha sido la encargada de fabricar las 5.084 medallas de oro, plata y bronce que se han otorgado en los **Juegos** **Olímpicos** y **Paralímpicos** de la capital francesa.
-
-Este fue el aporte de las lluvias en Cuenca para Mazar
-======================================================
-
-El complejo hidroeléctrico Mazar-Paute-Sopladora aporta con menos del 3% de la generación hidroeléctrica. En condiciones normales bordea el 40%.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La capacidad total del embalse de Mazar es de 410 millones de metros cúbicos. Está ubicado en los límites de Azuay y Cañar. Cortesía: Presidente de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/05/Mazar-Ecuador-cortes-de-luz.jpg)
-
-Las dos turbinas de la **central hidroeléctrica Mazar** están apagadas desde el mediodía del viernes 27 de septiembre de 2024.
-
-La intención es evitar que el embalse llegue a los 2 114 metros sobre el nivel del mar, que el límite teme las autoridades eléctricas.
-
-A las 09:00 de este domingo 29 de septiembre, la cota se ubicó en los 2 117,15. Las lluvias registradas la tarde y noche en **Cuenca** no representaron un gran aporte para el **embalse de Mazar**.
-
-Entre el sábado 28 y el domingo 29, el crecimiento fue de apenas 30 centímetros, según la información publicada por la **Corporación Eléctrica del Ecuador (Celec)**.
-
-### Más noticias
-
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-* [El embalse de la hidroeléctrica Mazar subió un metro](https://www.elcomercio.com/actualidad/negocios/embalse-hidroelectrica-mazar-subio-metro.html "El embalse de la hidroeléctrica Mazar subió un metro")
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-
-Las lluvias en Cuenca
----------------------
-
-La **Red Hidrometereológica de Etapa** publicó la data sobre las lluvias registradas el sábado 28 en Cuenca.
-
-Las precipitaciones de la tarde duraron cerca de tres horas y tuvieron un máximo acumulado de 19 milímetros en el sector de Ucubamba. Es decir, al norte de la capital azuaya.
-
-Sin embargo, en las zonas de recarga hídrica de los ríos **Tomebamba y Manchángara** (donde son más importantes las lluvias), se acumularon entre siete y nueve milímetros.
-
-La noche del sábado se registraron precipitaciones en el **norte de Cuenca**.
-
-Las condiciones en el central Paute
------------------------------------
-
-La **central hidroeléctrica Paute,** que está ubicada aguas abajo del embalse de Mazar, funciona por horas. Las turbinas de la casa de máquinas solo se prenden en las noches para cubrir la demanda.
-
-Entre las 21:00 del sábado 28 y las 02:00 de este domingo 29 solo prendieron entre dos y tres turbinas de las 10 existentes.
-
-El embalse de **Paute** se ubica en los 1 984,65 metros sobre el nivel del mar. Es decir, a siete del máximo y a nueve del mínimo.
-
-La central Sopladora, que está aguas abajo de Paute, también operó en el mismo horario de **Paute-Molino**. Lo hizo porque ocupa las aguas turbinas de la segunda mayor hidroeléctrica del **Ecuador**. **Sopladora** no cuenta con un embalse.
-
-El aporte de Mazar, Paute y Sopladora
--------------------------------------
-
-El **Operador Nacional de Electricidad (Cenace)** programó que el complejo eléctrico **Mazar-Paute-Sopladora** aporte no supere el 3% de la generación hidroeléctrica que demandará Ecuador para este domingo 29. En condiciones normales bordea el 40%.
-
-**Coca Codo Sinclair** será el principal aportante con el 44%. Le siguen **San Francisco** y **Agoyán**, con el 8% y 6%, en ese orden.  
-
-Turismo y remesas
-=================
-
-El impacto de la migración y las remesas de los ecuatorianos en el extranjero.
-------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Si asumimos que cada **venezolano** en el **exilio** envía 100 dólares mensuales a sus familias en **Venezuela**, los 7 millones que abandonaron su **patria**, reportan un ingreso superior a los 8 mil millones de dólares anuales. Si la diáspora continúa y se duplica, podremos presumir unos 16 mil millones anuales que ingresarían al país “bolivariano” que suplirán el papel del Estado en la reducción de la **pobreza**, **inversiones locales**, creación de empleo, **estabilidad** macroeconómica y **bienestar** en general, para aquellos que tienen el **privilegio** de recibir un billete verde que se convierte en miles de monedas locales.
-
-Esto lo tiene bien claro la izquierda, por lo que quebrar un país no necesariamente es malo, al contrario, obliga a su **población laboral** a migrar, trabajar en **países extranjeros** y enviar dólares para fortalecer la **reserva monetaria**, que pueden ser incautados a un cambio “oficial”; además que facilita el manejo perpetuo del poder, mantener una **burocracia celestial** y el usufructo de las **riquezas** de la **nación** gracias a un **ejército** completamente mixturado con la **delincuencia**.
-
-La **migración masiva** que vive el Ecuador en estos momentos, tampoco es que importe al resto de **partidos políticos** que no se declaran de izquierda, pero tampoco son de derecha, **tendencia política** que en Ecuador está vedada, ya que se ha catequizado por todos los medios existentes y por décadas, que esta tendencia está ligada al **machismo patriarcal**, al **neoliberalismo**, el **capitalismo** depredador, el **imperialismo**; acusaciones que nadie está dispuesto a desvirtuar, ya que es más rentable electoralmente disfrazarse de izquierda y “gobernar para los pobres” que crecen en grandes masas de **votantes** que son mimadas, cuidadas y consentidas. En Europa a los **partidos** de **derecha** les tildan de nacionalistas de extrema derecha conformada por **racistas**, supremacistas que vienen a destruir la **democracia**, lo que permite a la **derecha** y a la **izquierda** alternarse en el poder sin dejar espacio a otras **tendencias**.
-
-Ningún **partido** actual en **Ecuador** oferta beneficios para la **clase media** y el ser rico es un pecado imperdonable en todas nuestras **tendencias** políticas, a pesar de que todas las **dirigencias** partidistas están conformadas por personas de vidas muy cómodas, con visa americana, ropa de marca, vehículos de alta gama, cuyos seguidores ven la solución a sus **problemas económicos** en un **puesto público** donde se puedan enriquecer en no más de un año. Luego viene el: usted ya comió, deje espacio para que coma otro.
-
-Las **remesas** de **ecuatorianos** que jamás disfrutarán de las casas que aquí se construyen con su **esfuerzo** y sacrificio, aumentarán los próximos años, independientemente de quién gane las **elecciones** y cuando visiten **Ecuador** lo harán con **pasaporte extranjero** y los contabilizaremos como “**turistas**”.  
-
-Cuando la naturaleza llora
-==========================
-
-Momentos para reflexionar sobre la importancia de la unión y la solidaridad en momentos difíciles, destacando la labor de héroes locales y cuerpos especializados.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-**Introducción:** Buscando inspiración en las musas del **paisaje**, en el que, en buena hora, las **nubes** un tanto cargadas se comienzan a divisar; y, teniendo como música de fondo a las Cuatro Estaciones de Vivaldi, en las que, a ratos el **violín** parecería llorar, pienso que es buen momento para un alto al enfoque de **reflexión** política constante en esta columna, para dar paso, si me permiten amables lectores, para reflexionar acerca de la **Naturaleza**.
-
-**a.-** ¿**Qué está pasando?, a.1)** Vaya semana, sobre todo para **Quito** y Cotopaxi, por el tenaz azote de **incendios**, focos incendiarios dados también infortunadamente en Guayaquil y en el sur del país; los mismos que, por sus características, parecerían ser fruto no de la **casualidad**, ni del descuido, peor aún de la mente de un **pirómano**; sino, más bien, de la coordinada planificación.  De ser cierta esta premisa, ¿cuál es el móvil de los **incendiarios**, ya sean **autores intelectuales** y/o **materiales**?  ¿Acaso, tendrían **connotaciones políticas** o de otra índole? Lo cierto es que, llama la atención, que aquellos que han sido identificados como responsables de **incendios** anteriores, han salido en libertad a los pocos días, generándose una suerte de burla a la sociedad, estimulando a terceros, que tengan su minuto de fama y triste notoriedad.
-
-**a.2)** Otro **fenómeno**, cada vez menos tal, debido a su **presencia** constante que lo volvería casi “normal”, es el **calentamiento global**, lo cual ha provocado cambios dramáticos en el **comportamiento** del **clima** y de la **naturaleza**, que este año se ha empeñado en esta parte del **continente**, al punto que, habría diluido la presencia de **El Niño**, contribuyendo a la **intensidad** de la **sequía**.
-
-**a.3)** El común denominador al respecto, por un lado, y desde la **perspectiva** micro, es la **intervención** del mal hombre ya sea para **violentar** cruel y miserablemente la **naturaleza**, incendiándola, y con ello afectando la **flora** y **fauna** y, sin duda exponiendo no solo el **patrimonio** de los ciudadanos, sino su **integridad** y **vida**, incluida la de  los valerosos cuerpos de rescate; así, como, en la **perspectiva** macro,  el constante irrespeto a la **naturaleza** vía **contaminación**, vía uso **indiscriminado** de plásticos, emisión de gases a la atmósfera, **contaminación** en ríos, **minería ilegal**, etc., esto es, dándose un flagrante divorcio del hombre con la esencia propia de su **naturaleza**, contaminado  su alma – escaza de amor – de maldad y **mezquindad**, mirando indiferente a la grave afectación a la madre naturaleza. Y, por otro lado, de este denominador común, está el **Agua**, poderoso líquido, sin el cual, simplemente la vida, por más millones y oro almacenados, no podría existir; el cual, en estos días, nos ha indicado cuan necesaria e indispensable es… O, es que acaso, alguien ¿aún tiene duda al respecto?
-
-Vaya mensaje de la **naturaleza**, toda vez que, la **escasez** del **líquido** vital en nuestros cielos y ríos ha sido suficiente, para quedar a ciegas ante la **oscuridad** por la falta de **energía eléctrica**; con preocupación al ver que nuestra tierra agrietada y seca, se resiste a ser sembrada; y, con miedo y dolor, al ver impávidos como las llamas del incontrolable fuego, ante la ausencia de agua, nos amenazaba con devorarnos en minutos, desnudando la **fragilidad** del sentido de **seguridad**.
-
-**b.- La bella armonía del bosque:** Si observamos las **montañas**, **bosques** y **selvas vírgenes**, en donde el hombre no ha entrado, podremos sentir y encontrar silencio, paz, orden, limpieza, pureza, acompañada quizás en ciertos momentos de la noble **amenaza salvaje**, que a la final conduce al **equilibrio** natural; pero, no hallaremos **contaminación**, basura, ni ruido, ya que, curiosa y paradójicamente sus habitantes no están “dotados de la razón”. Lugares en los cuales, están las reservas más importantes y valiosas para la **humanidad**, es decir, las **fuentes** y **manantiales** de agua pura y oxígeno. Reflexión que, por cierto, no pretende avalar el resultado de la consulta en lo referente al Yasuní, valga la digresión.
-
-**c.- Momentos: c1)** Es momento de pararnos a **reflexionar**, a entender la necesidad de la unión como **sociedad**;  y, de  manera especial,  momento para agradecer y aplaudir de pie  a aquellos héroes de casaca, de diversas localidades del país, junto con cuerpos especializados de militares y policías, que hicieron frente a esta terrible circunstancia que vivió Quito en particular; momentos en los que, nuevamente se hizo presente, el verdadero sentido de la **solidaridad humana**, la misma que no proviene ni del **mandato legal**, ni de la obligación social, sino de la manifestación en Libertad  del emocionado corazón inundado de agradecimiento.
-
-**c2)** Momentos en el que, la **naturaleza** nos ha hablado, indicando la necesidad de cuidarla y protegerla, mediante la **protección** de ríos, mares y **medio ambiente**, así como la necesidad de **reforestar**, entendiendo con humildad, que el hombre es solamente un inquilino temporal en esta, que es su única casa.
-
-**c3)** Momentos para no olvidar y siempre recordar, en el que, la **naturaleza** ha llorado, vehemente e incontrolablemente desde el fondo de su alma, emanando lágrimas secas, inundadas de dolor.
-
-_Padre, dígame ¿qué le han hecho al río, que ya no canta?…”_ J.M. Serrat.
+Cuidar nuestro corazón es una responsabilidad compartida. Adoptar un **estilo de vida saludable** y estar atentos a los riesgos son pasos vitales para mantener la **salud cardiovascular**.
