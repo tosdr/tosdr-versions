@@ -253,6 +253,90 @@ find us on:
 
 v2.08 – © Nerdist All Rights Reserved
 
+#### It looks like you have an adblocker enabled.
+
+Hey reader! We’re delighted you enjoying pursuing our site for all your nerdy news. We'd wholeheartedly appreciate you enabling ads as that keeps this content free.
+
+Allow ads on Nerdist Continue without supporting Nerdist
+
+← Back
+
+### Choose your Ads blocker:
+
+* Adblock Plus
+* AdBlock
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblocker-ultimate-logo.png)
+    
+    AdBlocker Ultimate
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock_unlimited_logo.png)
+    
+    AdBlock Unlimited
+* Ghostery Tracker and Ad Blocker
+* uBlock Origin
+* uBlock
+* Adguard Extension
+* Brave
+* Opera
+* Others
+
+### Turn off Adblock Plus
+
+1. Click the AdBlock Plus icon () in the extension bar.
+2. Beneath “Block ads on”, click the large blue toggle next to “This website“.
+3. Refresh the page.
+
+### Turn off Adblock
+
+1. Click the Adblock icon () in the extension bar.
+2. Click "Pause on this site".
+
+### Turn off AdBlocker Ultimate
+
+1. Click the AdBlocker Ultimate icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblocker-ultimate-logo.png)) in the extension bar.
+2. Click to turn off "Enable on this site".
+
+### Turn off AdBlock Unlimited
+
+1. Click the AdBlock Unlimited icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock_unlimited_logo.png)) in the extension bar.
+2. Click to turn off "On".
+
+### Turn off Ghostery Tracker and Ad Blocker
+
+1. Click the AdBlock Unlimited icon () in the extension bar.
+2. Trust this site" dropdown, choose "Always".
+
+### Turn off uBlock Origin
+
+1. Click the uBlock Origin icon () in the extension bar.
+2. Click on the big, blue power button.
+3. Refresh the webpage.
+
+### Turn off uBlock
+
+1. To the right of the address bar, click the uBlock icon ().
+2. Click the button “Allow ads on this site”.
+
+### Turn off AdGuard extension
+
+1. Click on the green AdGuard icon () in the extension bar.
+2. Click the large green toggle to turn it off.
+
+### Turn off Brave's ad blocker
+
+1. Click on the orange lion icon () in the extension bar.
+2. Toggle Brave Shields form UP to DOWN.
+
+### Turn off Opera's ad blocker
+
+1. To the right of the address bar, click the shield icon ().
+2. Turn off “Ad Blocker” and “Tracker Blocker”.
+
+### Turn off the other ad blocker
+
+1. Click the icon of the ad blocker extension installed in your browser. Usually, you will find this icon in the top right corner of your screen. There may be more than one ad blocker installed.
+2. Follow the instructions to disable the ad blocker on the site you are viewing. You may need to select a menu option or click a button.
+3. Refresh the page, either by following the prompts or by clicking the "refresh" or "reload" button on your browser."
+
 [](https://nerdist.com/ "Link to Home")
 
 Close menu
