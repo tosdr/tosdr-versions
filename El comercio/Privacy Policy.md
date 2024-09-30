@@ -31,1028 +31,1104 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Av. Simón Bolívar está cerrada por choque con heridos, en Quito
-===============================================================
-
-La AMT gestiona el flujo vehicular en la Simón Bolívar mientras las instituciones de socorro atienden esta emergencia en el sector de Monjas
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Cinco vehículos colisionaron a la altura de Monjas.](https://www.elcomercio.com/wp-content/uploads/2024/09/choque-Simon-Bolivar.jpg)
-
-El ECU 911 informó sobre una emergencia registrada en la **av. Simón Bolívar** este lunes 30 de septiembre de 2024 en Quito.
-
-### Más noticias
-
-* [Siete personas fallecieron en ataque armado en una gallera](https://www.elcomercio.com/actualidad/seguridad/siete-personas-fallecieron-en-ataque-armado-en-una-gallera.html "Siete personas fallecieron en ataque armado en una gallera")
-* [La autopercepción femenina mejora con estos ejercicios](https://www.elcomercio.com/tendencias/autopercepcion-femenina-mejora-con-estos-ejercicios.html "La autopercepción femenina mejora con estos ejercicios")
-* [Así funciona el Pico y placa en Quito este lunes 30 de septiembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-30-de-septiembre.html "Así funciona el Pico y placa en Quito este lunes 30 de septiembre")
-
-El choque en la Simón Bolívar
------------------------------
-
-El Servicio de Emergencias recibió la alerta a las 06:27 que reportaba un choque entre cinco vehículos en la intersección de la **Simón Bolívar y Autopista General Rumiñahui,** a la altura de la gasolinera del sector Monjas.
-
-En las fotos compartidas se puede ver que entre los **vehículos colisionados** está una buseta escolar, un Fiat gris, un camión y un vehículo tipo SUB.
-
-La atención de esta **emergencia en Quito** se coordinó con el Cuerpo de Bomberos Quito, Ministerio de Salud Pública, Agencia Metropolitana de Tránsito (AMT) y Policía Nacional.
-
-Varias ambulancias y **otros equipos logísticos** llegaron al sitio para brindar ayuda a las personas afectadas.
-
-Según información preliminar, **nueve personas resultaron heridas** en este siniestro de tránsito, quienes reciben atención de primeros auxilios por parte de los paramédicos.
-
-La AMT gestiona el **flujo vehicular** en el lugar mientras se ejecutan las tareas de atención a esta emergencia en la vía. El carril derecho en sentido sur-norte está cerrado al tránsito.
-
-El ECU911 informó que, mediante las cámaras de videovigilancia, se **constata alta congestión** vehicular en el sitio.
-
-Si necesitas circular por este sector, toma las siguientes **rutas alternas:**
-
-* Av. Maldonado
-* Av. Mariscal Sucre
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Autopista General Rumiñahui  
-> 🚧 Cierre: av. Simón Bolívar  
-> 🛣️ Carriles cerrados: carril derecho en sentido sur-norte.  
->   
-> 👆🏼 Con precaución y atención en las vías  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gMBeyRFUEX](https://t.co/gMBeyRFUEX)
-> 
-> — AMTQuito (@AMT\_Quito) [September 30, 2024](https://twitter.com/AMT_Quito/status/1840719052831961481?ref_src=twsrc%5Etfw)
-
-Cierre vehicular en el Centro Histórico
----------------------------------------
-
-La AMT informó este lunes 30 de septiembre sobre **otro cierre en una vía de Quito**, esta vez en el Centro Histórico.
-
-Debido a un **trolebús averiado** se cerró el carril derecho en sentido sur norte, a la altura de la av. **Maldonado y Rocafuerte.**
-
-Agentes metropolitanos de tránsito asisten en la zona para ayudar con el tránsito.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Centro Histórico  
-> 🚧 Cierre: av. Maldonado y Rocafuerte  
-> 🛣️ Carriles cerrados: carril derecho en sentido sur-norte.  
-> ❌ Motivo: Trolebús averiado  
->   
-> 👆🏼 Con precaución y atención en las vías  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kPnAMY0kjp](https://t.co/kPnAMY0kjp)
-> 
-> — AMTQuito (@AMT\_Quito) [September 30, 2024](https://twitter.com/AMT_Quito/status/1840713389410037764?ref_src=twsrc%5Etfw)
-
-Siete personas fallecieron en ataque armado en una gallera
-==========================================================
-
-La Policía Nacional desplegó sus unidades hacia el lugar para realizar investigaciones que permitan esclarecer el crimen en Samborondón
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. Efectivos de la Policía acudieron al sitio para recabar información.](https://www.elcomercio.com/wp-content/uploads/2024/09/Policia-1.jpg)
-
-En la noche del domingo 29 de septiembre de 2024, un **ataque armado** se registró en una **gallera** en el recinto **Guachapelí,** cantón Samborondón.
-
-### Más noticias
-
-* [(Video) Policía fue atropellado en el norte de Quito](https://www.elcomercio.com/actualidad/quito/video-policia-fue-atropellado-en-el-norte-de-quito.html "(Video) Policía fue atropellado en el norte de Quito")
-* [Policía desarticuló banda que adulteraba alcohol en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-banda-adulteraba-alcohol-guayaquil.html "Policía desarticuló banda que adulteraba alcohol en Guayaquil")
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos") [](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")[detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-
-El crimen en Guachapelí
------------------------
-
-Un grupo de sicarios habría llegado **a una gallera alrededor de las 19:00** del domingo. Los sujetos entraron disparando, según las versiones de los testigos.
-
-La Policía Nacional confirmó el **fallecimiento de siete personas** en este hecho violento. Las unidades especializadas acudieron al lugar para realizar las pericias necesarias para esclarecer el crimen.
-
-Unidades de Criminalística y Medicina Legal **acudieron a la emergencia** para los procedimientos de ley.
-
-Preliminarmente, se conoce que **más de 10 personas resultaron heridas.**
-
-Videos compartidos en **redes sociales** muestran a los fallecidos sobre el suelo mientras los testigos trataban de ayudarlos.
-
-Algunos trataron de llevarlos a hospitales **mientras la ayuda llegaba**; sin embargo, las víctimas fallecieron.
-
-El ataque se habría registrado antes de las 19:00. **Algunos de los fallecidos** tendrían múltiples impactos de bala.
-
-El ECU911 informó que recibieron **la alerta en la noche del domingo** alrededor de las 19:00 y se coordinó el auxilio inmediato con la Policía Nacional. La institución no ha ofrecido aún más información del hecho.
-
-> [#INFORMAMOS](https://twitter.com/hashtag/INFORMAMOS?src=hash&ref_src=twsrc%5Etfw) ||  
-> Ante un evento ocurrido en Samborondón, en el que se registró el fallecimiento de 7 personas, nuestras unidades especializadas se encuentran en el lugar investigando, con el fin de esclarecer las causas y capturar a los responsables de este hecho.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/O2zPS3JZCm](https://t.co/O2zPS3JZCm)
-> 
-> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [September 30, 2024](https://twitter.com/PoliciaDMGZona8/status/1840600008707498347?ref_src=twsrc%5Etfw)
-
-Así funciona el Pico y placa en Quito este lunes 30 de septiembre
-=================================================================
-
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento del Pico y placa en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-lunes.jpg)
-
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
-
-Más noticias
-------------
-
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-* [Lluvias vuelven a Quito luego de 48 días de sequía](https://www.elcomercio.com/actualidad/quito/lluvias-caen-en-quito-luego-de-48-dias-de-sequia.html "Lluvias vuelven a Quito luego de 48 días de sequía")
-* [Muere Maggie Smith, reconocida actriz de Harry Potter](https://www.elcomercio.com/tendencias/entretenimiento/muere-maggie-smith-reconocida-actriz-de-harry-potter.html "Muere Maggie Smith, reconocida actriz de Harry Potter")
-
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
-
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
-
-Horarios del Pico y placa
--------------------------
-
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
-
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
-
-Multas por infringir la medida
-------------------------------
-
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
-
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
-
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-Cartas a Quito / 30 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este lunes 30 de septiembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Un plan maestro de electricidad
--------------------------------
-
-A propósito de los apagones, se ha escuchado, con mucha frecuencia e intensidad, los reclamos de un sector político y su líder, la mención a un Plan Maestro de Electricidad que ellos dejaron hecho durante su gobierno que duró diez años.
-
-Yo tengo la certeza que un plan maestro, en el campo que sea, es una guía que se debe utilizar, y, que por supuesto, resultaría muy útil de poderlo implementar. Por supuesto que su contenido debería estar acorde a la realidad: necesidades futuras, etapas de implementación.
-
-Sería bastante bueno que no solamente se mencione la existencia de dicho plan, sino que, a grandes rasgos, se nos explique el contenido: ¿Qué construcciones se preveían en el plan?, ¿Cuánta cobertura tenía cada etapa?, ¿En dónde se proponía construir las diferentes etapas?
-
-Tenemos que, en la etapa ejecutada en el gobierno de Correa, se privilegió la construcción de centrales hidroeléctricas, principalmente en la cuenca oriental de la cordillera de los Andes. Un verdadero plan debería contemplar un balance de estas construcciones: ¿Se plantea en ese plan maestro la construcción de centrales hidroeléctricas en la cuenca occidental, como contraparte? ¿Se plantea la construcción de centrales con base en fuentes renovables? ¿Dónde?, ¿Cómo? ¿Cuáles fuentes no renovables?
-
-Nada de esto nos mencionan, y, tampoco, cuáles fueron los recursos asignados a esas construcciones, y el financiamiento para hacerlos, considerando que ese mismo gobierno dejó comprometidos los ingresos petroleros por lo menos hasta 2025. ¿Cómo se debía ejecutar el plan maestro? La única respuesta sería: aumentar impuestos o adquirir deudas para esas construcciones: ¿aguantaría la economía ecuatoriana estas medidas?
-
-Un plan, para que sea maestro, debe cubrir y responder, al menos, todas esas preguntas. Me encantaría que cuando se lo mencione se dé, de manera sucinta, todos los detalles que responden a las preguntas planteadas. Me gustaría unirme al coro de alabanzas a un plan maestro bien hecho.
-
-José M. Jalil Haas
-
-Protagonistas y no cuotas electorales
-=====================================
-
-El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres en la política, para la paridad de género.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial con el prompt: mujeres celebran una victoria electoral.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-20.jpg)
-
-En **Ecuador**, la **paridad** **de** **género** en la **política** se ha convertido en una obligación legal, especialmente de cara a las elecciones de 2025. Sin embargo, la realidad muestra que, aunque la norma se cumple en términos formales, su aplicación práctica revela **profundas** **brechas** en la **participación** **femenina**[.](https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero "https://es.wikipedia.org/wiki/Igualdad_de_g%C3%A9nero")
-
-Este año, con el requisito de inscribir listas con un **50% de mujeres**, se busca corregir la desigualdad de género en la política como un fenómeno estructural. Pero ¿qué tan efectiva es esta medida sin un **cambio estructural** en los partidos y en la sociedad?
-
-> El problema de fondo radica en la ausencia de espacios reales de poder para las mujeres. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio.
-
-La **Constitución** del Ecuador es clara: nadie debe ser discriminado por su **género**. Además, el Código de la Democracia refuerza esta disposición al exigir que las listas de candidatos respeten los principios de equidad, paridad, alternancia y secuencialidad. En teoría, estas normas son un avance para la igualdad de **oportunidades**. No obstante, la falta de estructura interna en los **partidos políticos** y la débil promoción de liderazgos femeninos hacen que, en la práctica, la paridad sea más una **obligación** que un resultado tangible.
-
-El problema de fondo radica en la **ausencia de espacios reales de poder para las mujeres**. A pesar de la obligatoriedad de la paridad, los partidos siguen viendo a las mujeres como una cuota que cumplir y no como agentes de cambio. Las mujeres que terminan como **candidatas** muchas veces no son militantes ni comparten los principios de los **partidos** que las postulan. Este vacío de formación política dentro de los partidos demuestra la debilidad estructural que atraviesa el sistema político ecuatoriano.
-
-Aunque en el papel se logra la [paridad](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html"), los puestos de poder son dominio de los hombres. De los 16 binomios presidenciales anunciados para las **primarias**, solo dos están encabezados por **mujeres**. Esta cifra es una muestra clara de que la paridad en Ecuador todavía no se traduce en una igualdad efectiva.
-
-Entonces, ¿es suficiente cumplir con la paridad legal para alcanzar la **equidad de género en la política**? La respuesta es no. La paridad, si bien es un avance, debe ir acompañada de una transformación en la cultura política del país. Los partidos y movimientos necesitan fortalecer sus **estructuras** **internas**. Deben promover la formación de liderazgos femeninos genuinos y garantizando que las mujeres tengan un rol activo en la toma de decisiones.
-
-El verdadero cambio vendrá si a las mujeres se las ve como protagonistas y no como cuotas electorales a cumplir. Mientras esto no suceda, la **paridad** seguirá siendo una **norma vacía**. Será una medida que, aunque cumple con los requisitos legales, no logra modificar las dinámicas de poder. Unas que históricamente han marginado a las mujeres de los espacios de decisión.
-
-Las elecciones de 2025 presentan una oportunidad para avanzar en la **equidad** de **género** en la política ecuatoriana, pero el desafío es enorme. Cumplir con la paridad en las listas es un primer paso, pero la verdadera transformación solo llegará cuando los **partidos** y la sociedad entiendan que las mujeres no son solo un número más, sino agentes esenciales para la construcción de un **país más inclusivo y democrático**.
-
-La sequía impide el brote normal de las frutas en Ecuador
-=========================================================
-
-Además, de la falta de agua hay enfermedades como el moko que afecta al banano
-------------------------------------------------------------------------------
-
-![La producción de duraznos está afectada por las heladas y la época seca. Foto: Archivo EC](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-37-1.jpg)
-
-La sequía de los dos últimos meses ha afectado los cultivos de frutales, en Ecuador. El clima seco cambió drásticamente la brotación de las frutas. La falta de agua ha llevado a que no cuajen adecuadamente, lo que pone en riesgo la producción.
-
-Más noticias
-------------
-
-* [Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-
-Esto se evidencia en cantones, como Cevallos, en Tungurahua, que se caracteriza por ser una zona rica en frutas.
-
-Avelino Ramírez, de la Asociación de Producción Alternativa, cuenta que la pera recién está empezando a querer brotar por la escasez de agua. Mientras que la manzana, que en 2023 tuvo una producción de 221 toneladas, tampoco está brotando como normalmente ocurre.
-
-Por un lado, este fruticultor explica que disminuyeron totalmente los caudales de agua y por otro no hay las horas frías necesarias para que broten como es debido. Esto ocurría entre junio y agosto.
-
-Los 20 miembros de esta Asociación están haciendo lo imposible para reactivar las plantas. Para esto recurren a abonos orgánicos, líquidos y sólidos.
-
-Las heladas golpean al durazno y la claudia
--------------------------------------------
-
-Hay variedades de claudia que debían estar cerca de la cosecha y recién están queriendo brotar.  Con las pequeñas lloviznas de los últimos días se han recuperado un poco. 
-
-Pero el problema adicional es que en las madrugadas caen las heladas y luego-de forma brusca- el calor arremete con fuerza.
-
-La claudia de muchos agricultores prácticamente se ha quemado con las heladas. Y, al no contar con agua para regar se quedan sin una defensa húmeda frente a la helada. 
-
-Esto también afecta al durazno. La floración y los frutos cuajados sufren daños. En 2023, el INEC registra que 26 810 árboles de durazno produjeron 150 toneladas. Ahora, la falta de riego agrava la situación.
-
-Escasez de agua en las partes bajas y altas tres provincias
------------------------------------------------------------
-
-Los canales de riego, ya sea en las partes bajas como altas, no abastecen como antes a las zonas agrícolas de Tungurahua. Los nevados de El Carihuairazo y parte del Chimborazo, de donde proviene el agua, según los agricultores, están quedando solo piedra.
-
-Esta situación también afecta a los productores de las provincias de Chimborazo y Bolívar, en donde también se cultiva productos de ciclo corto, como el maíz suave.
-
-Pese a este panorama, los productores no pierden la esperanza de que las nuevas variedades de frutas tengan un buen cuajado y que pronto lleguen las lluvias.
-
-El Instituto Nacional de Meteorología e Hidrología (Inamhi) prevé una reactivación gradual de las lluvias en la Sierra y Amazonía en estos días y en octubre. Aunque al inicio serán de baja intensidad.
-
-Cosecha de claudia mango se adelantó
-------------------------------------
-
-Hay agricultores que decidieron adelantar la cosecha de claudia mango, pese a que el fruto no ha desarrollado como es debido. El resto de la cosecha está quedada.
-
-En el caso de la cosecha de la reina claudia, que generalmente, sale desde diciembre hasta abril, está quedada.
-
-La escasez de agua impide que los cultivos alcancen su peso y calidad óptimos. Las plantas requieren un nivel adecuado de humedad para desarrollarse correctamente; sin ella, los frutos pueden ser más pequeños y menos sabrosos. Esto, a su vez tiene un impacto en su valor en el mercado.
-
-La sequía y las enfermedades amenazan al banano
------------------------------------------------
-
-Los cultivos de banano también están en crisis. Franklin Torres, presidente de la **Federación Nacional de Bananeros**, señala que la reducción de la producción no se debe solo al clima, sino también a enfermedades como el moko, causada por la bacteria Ralstonia. Esta afectó a cerca de 30 mil hectáreas.
-
-La sequía golpea especialmente a las plantaciones de El Oro, que dependen de canales de riego que actualmente están secos debido a la falta de mantenimiento y al clima seco. Se calcula que 23 mil hectáreas en la provincia han sufrido por la escasez de agua.
-
-En respuesta, la [Asociación de Bananeros de El Oro](https://www.elcomercio.com/actualidad/negocios/bananeros-solicitan-la-declaratoria-de-emergencia-ante-efectos-de-la-sequia.html "Bananeros solicitan la declaratoria de emergencia ante efectos de la sequía") pidió al Gobierno la declaratoria de emergencia en el sector, exigiendo financiamiento para pozos y una reducción de los intereses de los créditos agrícolas.
-
-A pesar de estos desafíos, los precios de la caja de banano han mostrado un comportamiento inusual: el precio promedio de la caja spot supera los ocho dólares, mientras que el precio oficial es de 6,85. Se prevé que estos precios aumenten en los próximos seis meses por la creciente demanda de los países del hemisferio norte.
-
-Por otra parte, Torres destaca que los préstamos y kits agrícolas no llegan a quienes más los necesitan. Recientemente, se planteó al Ministerio de Agricultura un programa de ayuda para combatir la enfermedad del moko y la falta de producción. En una carta formal, solicitaron medidas para implementar microorganismos que ayuden a los productores, así como el apoyo para establecer laboratorios en cada asociación de productores.
-
-Tres provincias cacaoteras están afectadas por la sequía
---------------------------------------------------------
-
-El sector del cacao también sufre las consecuencias de la sequía. Iván Ontaneda, presidente de Anecacao, informa que las afectaciones se han reportado en Esmeraldas, Manabí y Los Ríos. Las zonas de estribación son las más afectadas. Aunque se han implementado sistemas de riego, muchos productores aún carecen de ellos. Anecacao trabaja en diagnósticos y recomendaciones para el uso óptimo del agua.
-
-Se promueven buenas prácticas agrícolas para conservar la humedad en el suelo y preparar a las plantas para el estrés hídrico. Además, se están realizando ensayos con nuevas alternativas para mejorar la humedad en las fincas de cacao. La incertidumbre en el abastecimiento influye en la producción y, por ende, en los precios en el mercado internacional.
-
-Los depredadores
-================
-
-Actuar con rebeldía e inteligencia contra la codicia de quienes dañan al país para limpiar su reputación.
----------------------------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-“En la **ecología** la **depredación** es un tipo de **interacción biológica** en la que el individuo de una especie animal caza al individuo de otra especie para subsistir” Es una norma común en el reino animal; pero entre **seres humanos** también hay **depredadores** y son aquellos **individuos violentos**, explotadores y abusivos de otras personas. Se encasillan en ese grupo los asesinos en serie, los violadores, los estafadores, los **terroristas** y los **abusadores infantiles**, tienen características comunes, pues son **engañadores**, **impulsivos**, agresivos y narcisistas.
-
-Nuestro **país** es **víctima** de **asesinatos**, grandes estafas y terrorismo y ha sufrido la **acción destructiva** de varios **depredadores humanos**. Imposible no recordar el “Estallido” de octubre del 2019 y la rebelión de junio del 2022, protagonizados por la Confederación de Nacionalidades Indígenas (CONAIE) y otras **organizaciones** de **indígenas** y campesinos, en las que se infiltraron hordas bolivarianas internacionales y miembros de los CDR (**comités** de la **revolución**) para cerrar carreteras, destruir las calles y las casas de la ciudad capital e incendiar edificios como el de la **Contraloría General** del **Estado**, para incinerar documentos y evidencias de los formidables atracos que se cometieron desde el poder. Las acciones **terroristas** contaron con el apoyo soterrado de dirigentes del **movimiento político** que más daño ha causado al **Ecuador**, pues ha conjuntado a **delincuentes** con narco-políticos y ha trastrocado la mente de la **juventud** que permanece adormecida y confundida, cuando mira como gente que miente y delinque se **enriquece** en forma **fraudulenta** y se mantiene obstinada en volver a dirigir al país para acrecentar su **mal habida riqueza**. El terror de los **habitantes** de la ciudad, al ser atacados, no encontró ni seguridad, ni consuelo en las **autoridades locales** y **provinciales**, pues estaban coligadas con los feroces **depredadores**.
-
-Ha transcurrido poco tiempo y sorpresivamente el **líder prófugo**, reaccionó ante la intervención legítima del gobierno para evitar la fuga del **exvicepresidente** a México desde la embajada de ese país, donde estaba refugiado ilegalmente, pues tenía sentencias por **corrupción** e **intimidación**. El expresidente pidió  a la **comunidad internacional** sanciones para el país que dirigió, su país, el Ecuador, en una vergonzosa actitud que originó una justa demanda de **traición** a la **patria**. Hace pocos días el exmandatario prófugo hizo un símil de la actuación de la CIA en Beirut y lo que podría suceder en **Ecuador**, sugirió atentados que podrían estar orientados a **detonar** varios **edificios** señalados en una lista en la que constan las **fiscalías** de **Quito** y **Guayaquil**, los principales hoteles de ambas ciudades y se podrían incendiar 20 gasolineras, difundir alertas de bombas en 20 centros comerciales, en los aeropuertos, en plantas de **generación eléctrica**, destruir el oleoducto, destruir torres eléctricas para provocar cortes de luz.
-
-Sorpresivamente, los días jueves y viernes de la semana anterior, por primera vez en la **historia nacional**, aparecen, con un inicio casi simultáneo, 7 focos de grandes **incendios** que acabaron con cientos de hectáreas de bosques, pulmones de la ciudad, con gigantescas lenguas de fuego que destruyeron algunas viviendas y exterminaron la **vegetación** y la **fauna silvestre**; mucha gente quedó en extrema **pobreza** y algunas personas sufrieron **síntomas respiratorios** severos. Las **autoridades** han capturado a algunas personas sospechosas de haber sido los **provocadores** de los **incendios**, aparentemente tres de ellos tienen nexos con el correísmo.
-
-Es altamente satisfactorio observar que **autoridades** gubernamentales, municipales y prefectura hayan unido **esfuerzos** para combatir el **avance** del fuego; pero es totalmente repulsivo que el prófugo de Bélgica aproveche la **tragedia** para incentivar a sus partidarios para que destaquen el accionar de su coideario, el alcalde de la ciudad, altamente criticado por su pobre realización, como si se tratase de la única autoridad que ha trabajado en esta noble causa.
-
-El **país** necesita que se efectúe una **investigación completa**, para determinar cuál es la **mente malévola** que ordenó prender el fuego, casi simultáneamente, en diversos sectores. Reaccionemos con **rebeldía** e **inteligencia**, no enfermemos nuestras almas, pero luchemos por terminar con la **codicia** y la **ambición** desmedida de quienes buscan limpiar sus indelebles y manchados nombres a cualquier precio, sin aquilatar el invalorable y múltiple daño, que por conseguirlo, ocasionan.
-
-Gustavo Alfaro anunció la lista de convocados para medir a Ecuador
-==================================================================
-
-El partido ante la Tri se jugará el próximo 10 de octubre, en Quito. Álex Arce, de Liga de Quito, está entre los llamados del técnico.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Gustavo Alfaro, técnico de Paraguay, presentó la lista de 27 convocados para medirse con Ecuador Y Venezuela. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/07/gustavo_alfaro_paraguay.jpg)
-
-### Agencia EFE
-
-El técnico de la selección de **Paraguay**, **Gustavo Alfaro,** difundió la lista de convocados del exterior. Volvió a apostar por **Julio Enciso y Miguel Almirón** de la liga inglesa y el mediocampista del Inter Miami Diego Gómez para los partidos de las Eliminatorias Sudamericanas ante **Ecuador** y Venezuela.
-
-La **Asociación Paraguaya de Fútbol (APF) i**nformó en la red social X que el entrenador argentino **eligió a 27 jugadores que militan en clubes extranjeros** para disputar el duelo contra Ecuador.
-
-El partido se realizará el próximo 10 de octubre en el estadio **Rodrigo Paz Delgado de Quito**, como parte de la novena fecha por las Eliminatorias al Mundial de 2026.
-
-La misma plantilla recibirá en la capital Asunción a la selección de Venezuela el 15 de octubre por la décima fecha.
-
-### Más noticias
-
-* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
-* [Liga de Quito cayó con Delfín y perdió el liderato de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-cayo-con-delfin-y-perdio-el-liderato-de-liga-pro.html "Liga de Quito cayó con Delfín y  perdió el liderato de Liga Pro")
-* [Independiente del Valle ganó y aspira al título de Liga Pro de forma directa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-gano-y-aspira-al-titulo-de-liga-pro-de-forma-directa.html "Independiente del Valle ganó y aspira al título de Liga Pro de forma directa")
-
-La lista de convocados para medir a la Tri
-------------------------------------------
-
-Entre las novedades destacan los jugadores de los clubes argentinos **Saúl Salced**o, el defensa central del **Newell´s Old Boys,** y **Agustín Sánchez, del Rosario Central,** que vestirá la camiseta de la Albirroja tras conseguir la nacionalidad paraguaya.  
-
-Otro nuevo nombre que sorprendió en el listado fue el de **Alfio Ovidio Ovie**do, delantero del Bolívar de La Paz, quien integrará la propuesta ofensiva de Paraguay. 
-
-Además, constan en esta convocatoria el centrocampista del Talleres de Córdoba argentino, **Mathías Galarza.**
-
-En la delantera, Paraguay contará con **Enciso**, el atacante del Brighton inglés; el goleador de la **Liga Deportiva Universitaria de Quito**, **Alex Arce**; Ángel Romero del Corinthians brasileño; Antonio Sanabria del Torino FC italiano; e Isidro Pitta del Cuiabá de Brasil.
-
-Alfaro optó para el medio campo, entre otros, por el extremo del Newcastle de Inglaterra Almirón; Ramón Sosa, que recientemente se unió al Nottingham Forest de la Premier League; Mathías Villasanti del Gremio de Brasil y Andrés Cubas del canadiense Vancouver Whitecaps.
-
-Los últimos resultados de Paraguay
-----------------------------------
-
-Además, volverán a disputar partidos de clasificación al Mundial Omar Alderete del español Getafe, **Fabián Balbuena** del Dinamo de Moscú y **Gustavo Gómez** del brasileño Palmeiras.
-
-Para defender la portería, el seleccionador convocó a **Carlos Coronel** del New York Red Bull de Estados Unidos; Roberto Fernández del Botafogo de Brasil; y Juan Espínoda del Belgrano argentino.
-
-La **Albirroja** viene de lograr un ansiado triunfo 1-0 contra **Brasil** el pasado 10 de septiembre y de empatar en un duelo previo 0-0 con **Uruguay**.
-
-Con estos resultados, **Paraguay** cosechó 9 puntos y ocupa el séptimo puesto de la clasificación sudamericana, que da derecho a jugar por una repesca.
-
-Multas por realizar campaña anticipada previo a las elecciones de 2025
-======================================================================
-
-En Ecuador, 16 precandidatos estarían en la papeleta para las elecciones presidenciales del 9 de febrero de 2025.
------------------------------------------------------------------------------------------------------------------
-
-![No se puede realizar campaña anticipada antes de lo establecido en el calendario electoral para las elecciones de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/multas.png)
-
-En Ecuador, **16 precandidatos se inscribieron para integrar la papeleta de las elecciones** presidenciales del 9 de febrero de 2025. A pesar de este número, las candidaturas aún pueden ser impugnadas, lo que podría cambiar la lista final de participantes. Existen distintas multas por realizar campaña anticipada.
-
-La **participación de los binomios se establecerá oficialmente el 30 de diciembre** de 2024, y la campaña electoral comenzará el 5 de enero de 2025.
-
-### Más noticias
-
-* [Consejera Elena Nájera y presidenta Diana Atamaint protagonizan altercado en el CNE](https://www.elcomercio.com/actualidad/politica/consejera-elena-najera-presidenta-diana-atamaint-altercado-cne.html "Consejera Elena Nájera y presidenta Diana Atamaint protagonizan altercado en el CNE")
-* [CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz](https://www.elcomercio.com/actualidad/pabel-munoz-revocatoria-alcalde-cne.html "CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz")
-* [Plazo para pagar multas electorales en el CNE termina](https://www.elcomercio.com/actualidad/politica/plazo-pagar-multas-electorales-cne.html "Plazo para pagar multas electorales en el CNE termina")
-
-El **artículo 208 del Código de la Democracia** menciona que, desde la convocatoria a elecciones hasta el inicio de la campaña electoral, las **organizaciones políticas** podrán realizar actividades para difundir su ideología, programas de **gobierno y planes de trabajo**.
-
-Esto siempre y cuando no implique la contratación en **prensa, radio, televisión, medios digitales y vallas publicitarias**. 
-
-Para esto, se deberá monitorear a más de **500 medios de comunicación a escala nacional** para verificar si una organización política infringió alguna normativa. La **campaña anticipada** es una infracción **electoral grave** que deberá pasar algunos filtros para validar si se incumplió algún artículo dentro del **Código de la Democracia**.
-
-Multas y prohibiciones
-----------------------
-
-De acuerdo con lo tipificado en el artículo **278 del Código de la Democracia**, las multas por infracciones electorales van desde los **11 Salarios Básicos Unificados (SBU)**, es decir, **5 060 dólares**, hasta los **20 SBU, que representan 9 020 dólares**.
-
-También menciona que de ser el caso se pueden **suspender o destituir de los derechos de partici­pación política** desde los **seis meses hasta los dos años**.
-
-> 🇪🇨 | [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) que, con corte a las 09h45 de este viernes 27 de septiembre, 4⃣2⃣ listas han solicitado la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 💻 Este hito del calendario electoral, que se efectúa en línea, concluye a las 18h00 del 2 de octubre.🗳️ [pic.twitter.com/NcCcB7jL4c](https://t.co/NcCcB7jL4c)
-> 
-> — cnegobec (@cnegobec) [September 27, 2024](https://twitter.com/cnegobec/status/1839708928193528129?ref_src=twsrc%5Etfw)
-
-Los candidatos también podrán realizar **impugnaciones** en el momento de ser notificados que fueron sancionados por una infracción electoral. Este proceso también se debe realizar a través del **TCE**.
-
-Se debe tomar en cuenta que con las reformas al Código de la Democracia hubo mucho cambio en las **infracciones electorales**. Ahora se determinan como **leves, graves y muy graves** y dependiendo del cometimiento de la infracción electoral, **el TCE determinará la sanción**.
-
-La imagen, voz y nombre de los candidatos no puede salir en ninguna inauguración de obras. En el caso de las personas que buscan una reelección, no podrán **incitar al voto por su movimiento polític**o. Antes de los plazos determinados no se puede **contratar publicidad electoral en ningún medio de comunicación**.
-
-Control de campaña anticipada en redes sociales
------------------------------------------------
-
-El Consejo Nacional Electoral (CNE) aún no supervisará el contenido de las redes sociales de los candidatos para las elecciones de 2025. **Diana Atamaint,** presidenta del CNE, explicó que solo se controlará el **gasto en publicidad, basándose en una sentencia del Tribunal Contencioso Electoral (TCE) de mayo**.
-
-La sentencia del TCE estableció que el control de **publicidad en redes sociales aplica únicamente a candidatos al Consejo de Participación Ciudadana (Cpccs)**. Atamaint aclaró que los demás candidatos, incluidos los presidenciales y legislativos, **no estarán sujetos a esta normativ**a.
-
-> 🪪 Obtén tu Certificado de Votación del [#ReferéndumYConsulta2024](https://twitter.com/hashtag/Refer%C3%A9ndumYConsulta2024?src=hash&ref_src=twsrc%5Etfw).⬇️  
->   
-> 📍 De forma presencial en nuestras 24 Delegaciones Provinciales Electorales.  
->   
-> 💻 En línea ingresando a: [https://t.co/7jydYZoM65](https://t.co/7jydYZoM65)  
->   
-> 🚨 Para obtener el documento, [#PagaTusMultasEnLínea](https://twitter.com/hashtag/PagaTusMultasEnL%C3%ADnea?src=hash&ref_src=twsrc%5Etfw) en los puntos de [@FacilitoRed](https://twitter.com/FacilitoRed?ref_src=twsrc%5Etfw). [pic.twitter.com/Rtgzp6geT3](https://t.co/Rtgzp6geT3)
-> 
-> — cnegobec (@cnegobec) [September 25, 2024](https://twitter.com/cnegobec/status/1838944575982878917?ref_src=twsrc%5Etfw)
-
-**Enrique Pita**, vicepresidente del CNE, subrayó que estas **disposiciones no afectarán a las elecciones presidenciales**, de **asambleístas y parlamentarios andinos de 2025**.
-
-Se espera que en las elecciones de 2027 se implemente una nueva normativa para los vocales del Cpccs, basada en los fallos contra figuras políticas como **Alembert Vera y Pabel Muñoz**. Sin embargo, el CNE mantendrá la regulación de los gastos d**e propaganda en redes sociales, sin intervenir en los contenidos de las campañas**.  
-
-Choi Soon-Hwa, de 80 años, llegó a la final de Miss Universo Corea del Sur 
-===========================================================================
-
-La participación de Choi en Miss Universo Corea del Sur es un símbolo de empoderamiento.
-----------------------------------------------------------------------------------------
-
-![Choi Soon-Hwa ha capturado la atención mundial al convertirse en modelo a los 80 años. Foto: Dailymotion.](https://www.elcomercio.com/wp-content/uploads/2024/09/Choi-Soon-Hwa-miss-universo-corea-del-sur.jpg)
-
-**Choi Soon-Hwa**, de 80 años, ha hecho historia en **Miss Universo Corea del Sur**. Según [La Nación de Costa Rica](https://www.nacion.com/viva/farandula/modelo-de-80-anos-aposto-todo-para-ser-miss/HZG3Y5DE2BGCHOAWE5EAUSQ3CQ/story/ "https://www.nacion.com/viva/farandula/modelo-de-80-anos-aposto-todo-para-ser-miss/HZG3Y5DE2BGCHOAWE5EAUSQ3CQ/story/"), se convirtió en la **participante de mayor edad** en llegar a la final del concurso de belleza que selecciona a la representante del país para **Miss Universo**. Su logro demuestra que la belleza y el modelaje no tienen edad. 
-
-### Más noticias
-
-* [Una ‘miss’ que lucha por cuidar su salud](https://www.elcomercio.com/tendencias/miss-ecuador-cristina-hidalgo-salud.html "https://www.elcomercio.com/tendencias/miss-ecuador-cristina-hidalgo-salud.html")
-* [Una mujer es la paciente cero de un tratamiento revolucionario para la longevidad](https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html "https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html") 
-
-**¿Quién es Choi Soon-Hwa?** 
------------------------------
-
-Originaria de **Seúl**, Choi nació durante la **Segunda Guerra Mundial**. Vivió la difícil época de la **guerra de Corea** entre 1950 y 1953. En una entrevista con The Washington Post, citada por La Nación, comentó: “Nací y crecí en una época muy difícil y todavía tengo esa resiliencia para luchar, para sobrevivir a mis propias batallas. La generación joven no tiene idea”. 
-
-**Carrera en Enfermería** 
---------------------------
-
-**Choi Soon-Hwa** eligió la profesión de enfermería. **Es madre de dos hijos y abuela de tres nietos**. Sin embargo, su pasión por el modelaje floreció a los 76 años, cuando pisó una pasarela por primera vez. Su historia inspira a muchas personas, al mostrar que nunca es tarde para perseguir los sueños. 
-
-**El impulso de un paciente** 
-------------------------------
-
-De acuerdo con [CNN](https://cnnespanol.cnn.com/video/mujer-80-miss-universo-corea-trax/ "https://cnnespanol.cnn.com/video/mujer-80-miss-universo-corea-trax/"), fue uno de sus **pacientes quien la animó a seguir su sueño**. Desde niña, **Choi mostró interés por** **la moda y la actuación**, pero las complicaciones de la vida la llevaron a dejar esas pasiones atrás. Sin embargo, el aliento de su paciente reavivó su deseo de ser modelo. 
-
-**El camino hacia Miss Universo Corea del Sur** 
-------------------------------------------------
-
-La **historia de Choi** dio un giro cuando vio a una **modelo adulta mayor** en un programa de televisión. Inspirada, contactó al canal para obtener el nombre de la **agencia de modelos**. “Nunca había caminado en línea recta hasta mis 70 años. Modelar, posar y sonreír eran tareas difíciles para mí. Practiqué cada noche, desde la medianoche hasta la 1:30 am, durante dos años”, reveló Choi, citada por CNN. 
-
-**Cambios en el certamen** 
----------------------------
-
-Su participación en Miss Universo Corea del Sur fue posible gracias a la **eliminación del límite de edad para las participantes**. Además, el certamen internacional de **Miss Universo**, que se celebrará en noviembre, permite a **mujeres de todas las edades y estados civiles participar**. Este cambio abre las puertas a una mayor diversidad en la belleza. 
-
-**Un mensaje inspirador** 
---------------------------
-
-El **mensaje de Choi Soon-Hwa** es claro: **las personas adultas mayores deben perseguir sus sueños**. “Tienes que hacer lo que siempre quisiste hacer, las cosas que sacrificaste por criar a tus hijos. Tienes que hacerlo cuando seas viejo y, cuando lo hagas, serás muy feliz y encontrarás la felicidad en todo momento”, explicó a CNN. 
-
-Su historia no solo inspira a quienes la rodean, sino que también **desafía las normas sobre la edad y la belleza**. Choi Soon-Hwa es un ejemplo vivo de que nunca es tarde para realizar nuestros sueños. 
-
-Una mujer es la paciente cero de un tratamiento revolucionario para la longevidad 
-==================================================================================
-
-Liz Parrish busca ser la prueba de que las terapias génicas son la clave para combatir el envejecimiento biológico.
--------------------------------------------------------------------------------------------------------------------
-
-![Así luce la paciente 0. Foto: Instagram @lizlparrish.](https://www.elcomercio.com/wp-content/uploads/2024/09/longevidad-paciente-cero.jpg)
-
-En la búsqueda de **extender la calidad y duración de vida** de las personas alrededor del mundo, se han creado diferentes experimentos e investigaciones para combatir el envejecimiento y tratar de alcanzar la longevidad. 
-
-### Más noticias
-
-* [Ecuatoriana Ada Ávila, la cuarta persona más longeva en Estados Unidos, falleció a sus 113 años](https://www.elcomercio.com/actualidad/mundo/ecuatoriana-ada-avila-cuarta-persona-longeva-estados-unidos-fallecio-113.html "https://www.elcomercio.com/actualidad/mundo/ecuatoriana-ada-avila-cuarta-persona-longeva-estados-unidos-fallecio-113.html")
-* [Con 121 años, Marcelino Abad recibió la vacuna contra el covid-19](https://www.elcomercio.com/actualidad/mundo/hombre-longevo-vacuna-covid19-peru.html "https://www.elcomercio.com/actualidad/mundo/hombre-longevo-vacuna-covid19-peru.html")
-
-**Liz Parrish en busca de la longevidad** 
-------------------------------------------
-
-**Liz Parrish** (53 años), CEO de la **biofarmacéutica BioViva** y pionera en el campo de la **terapia génica enfocada en la longevidad**, es la **paciente cero** en algunos tratamientos experimentales de **rejuvenecimiento celular**, que la hacen aparentar como si fuera una persona de 25 años. 
-
-**Foro Mundial de Longevidad** 
--------------------------------
-
-Los próximos 17 y 18 de octubre, Liz será una de las **participantes destacadas** en la tercera edición del **Foro Mundial de Longevidad Alicante**. 
-
-En este evento internacional se reunirán a científicos, expertos y tecnólogos de diferentes áreas para **tratar los avances más recientes** que se han hecho en la búsqueda de una vida mejor y más larga. 
-
-**Experiencia de Parrish** 
----------------------------
-
-**Parrish estará en el congreso como panelista** y hablará acerca de su experiencia con los tratamientos que le están aplicando. Su empresa, **BioViva**, es pionera en el **uso de tecnologías avanzadas** para desarrollar tratamientos que puedan **revertir los efectos del envejecimiento a nivel celular**, lo que ha generado un debate global en torno a los límites y posibilidades de estas innovaciones. 
-
-**Voluntaria desde 2015** 
---------------------------
-
-Desde el 2015, **Liz fue noticia mundial por ponerse a sí misma como voluntaria** para ser tratada con dichos experimentos. 
-
-A pesar de que los resultados clínicos de estos tratamientos aún están en evaluación científica, dan paso al cuestionamiento: **¿es posible revertir el envejecimiento biológico?** 
-
-**Importancia de su participación** 
-------------------------------------
-
-Los organizadores del evento aseguran que la participación de Parrish como panelista es clave para hacer evidencia de cómo la **ingeniería genética** puede ser el secreto para asegurar la **extensión de la vida**. 
-
-**Futuro de las terapias génicas** 
------------------------------------
-
-El trabajo de Liz ahora se enfocará en demostrar que **las terapias génicas pueden ser el primer paso para combatir el envejecimiento**. 
-
-El punto de vista de ella como **paciente cero** de dichos tratamientos podrá complementar de manera adecuada el **enfoque científico** del congreso al brindar su perspectiva en carne propia y así dar un testimonio más íntimo y personal. 
-
-**Debates sobre el futuro** 
-----------------------------
-
-De esta manera, se asegura que su participación en el evento será **punto clave para generar debates acerca del futuro de cada investigación** que tenga como objetivo contribuir a una sociedad que quiera poder vivir más y mejor. 
-
-ERIKA LUCIA IBAÑEZ GARCIA   
-REDACCIÓN ALCANCE DIGITAL   
-EL TIEMPO 
-
-Un estudio advierte que el ‘escroleo’ en redes sociales puede causar aburrimiento  
-===================================================================================
-
-Un estudio revela que el 'escroleo' no solo capta la atención, sino que también intensifica el aburrimiento.
-------------------------------------------------------------------------------------------------------------
-
-![Limitar el tiempo en redes sociales mejora el bienestar y reduce la fatiga digital. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/redes-sociales-escroleo.jpg)
-
-El **‘scroll infinito’, o ‘escroleo’**, es la acción de deslizarse continuamente por el **contenido de redes sociales** como Instagram, TikTok y YouTube. Esta práctica, según [Eco News](https://econews.global/scrolleo-infinito-redes-sociales-aburrimiento/ "https://econews.global/scrolleo-infinito-redes-sociales-aburrimiento/"), está diseñada para **captar y mantener la atención de los usuarios**. Sin embargo, el consumo constante e ininterrumpido de contenido puede tener efectos negativos. 
-
-### Más noticias
-
-* [WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’](https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html "https://www.elcomercio.com/tecnologia/whatsapp-emojis-estoy-cansado-jefe.html") 
-* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
-
-**‘Escroleo’: El ciclo del aburrimiento en redes sociales** 
-------------------------------------------------------------
-
-Aunque estas **redes sociales** parecen ofrecer una **solución rápida al aburrimiento**, en realidad **intensifican esa sensación**. Al consumir información de manera excesiva y poco consciente, **muchas personas experimentan fatiga e insatisfacción**. 
-
-**Mantener un equilibrio digital** 
------------------------------------
-
-Mantener un equilibrio en el **uso de redes sociales** es clave para evitar estos efectos. **Limitar el tiempo de desplazamiento en las plataformas** puede mejorar el bienestar y reducir la **fatiga digital**. 
-
-**La ciencia del aburrimiento digital** 
-----------------------------------------
-
-En la era de las **redes sociales y los teléfonos inteligentes**, el aburrimiento parece ser más frecuente que nunca. Aunque estas tecnologías **pueden hacer la vida más entretenida**, la ciencia muestra lo contrario. Según un estudio publicado en la revista de la Asociación Estadounidense de Psicología, citado por [El País](https://elpais.com/tecnologia/2024-09-25/el-escroleo-infinito-en-redes-sociales-aumenta-el-aburrimiento.html "https://elpais.com/tecnologia/2024-09-25/el-escroleo-infinito-en-redes-sociales-aumenta-el-aburrimiento.html"), **consumir contenido de manera voraz**, al saltar de un video a otro, **intensifica el aburrimiento**. 
-
-**Resultados del estudio sobre el consumo digital** 
-----------------------------------------------------
-
-La investigación, citada por El País, siguió a 1 200 personas durante siete experimentos. Los resultados mostraron que **quienes navegaban libremente por redes sociales experimentaban mayores niveles de aburrimiento** y menor satisfacción que aquellos que miraban un solo video durante 10 minutos.  
-
-**Katy Tam**, investigadora de la Universidad de Toronto, explica que **el aburrimiento surge cuando no estamos lo suficientemente comprometidos con una actividad**. Buscamos novedad en las redes, pero rara vez logramos involucrarnos con el contenido. 
-
-**El aburrimiento como fenómeno evolutivo** 
---------------------------------------------
-
-El **aumento del aburrimiento** no es un fenómeno reciente. Según encuestas en EE. UU., a decir de la misma fuente, la **sensación de aburrimiento ha crecido entre los jóvenes** entre 2008 y 2020. Además, el interés por el estudio del aburrimiento también ha crecido.  
-
-La filósofa **Josefa Ros Velasco**, fundadora de la Sociedad Internacional de Estudios del Aburrimiento, señala que **esta emoción tiene una función evolutiva**. En palabras del filósofo **Hans Blumenberg**, el aburrimiento ha sido una fuerza motriz que ha impulsado al ser humano a buscar nuevas actividades y a explorar otros nichos. 
-
-**La visión del neurocientífico James Danckert** 
--------------------------------------------------
-
-Siguiendo con El País, el **neurocientífico James Danckert**, quien dirige el único laboratorio del mundo dedicado a **estudiar el aburrimiento en Canadá**, indica que esta sensación no es ni buena ni mala. Su propósito es empujarnos a explorar y encontrar actividades más significativas. 
-
-**Estrategias para combatir el aburrimiento** 
-----------------------------------------------
-
-Para **combatir el aburrimiento de manera saludable**, los expertos sugieren **prestar atención a las actividades que realizamos**, incluso dentro de las redes sociales. **Ros Velasco** recomienda “atreverse a pensar” y conocerse a uno mismo para ampliar las opciones personales con las que lidiar con esta sensación.  
-
-Aunque no hay una solución rápida, el aburrimiento puede ser una oportunidad para reflexionar y encontrar alternativas más duraderas y satisfactorias. 
-
-Ministro de Energía, Antonio Goncalves, explica la razón de los cortes de luz irregulares 
-==========================================================================================
-
-Las variaciones en los cortes de luz se deben a fluctuaciones en las condiciones hídricas.
-------------------------------------------------------------------------------------------
-
-![El ministro Goncalves aclara que los cortes de luz pueden variar según las mejoras en la situación hídrica. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-2.jpg)
-
-El **ministro de Energía de Ecuador, Antonio Goncalves**, explicó a la ciudadanía las **razones detrás de las variaciones en los cortes de luz** programados en varias ciudades del país.  
-
-### Más noticias
-
-* [Cortes de luz se retoman en Quito este 27 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html "https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html")
-* [Antonio Gonçalves informó cómo está la situación energética en Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-luz-mazar-agua-dependencia-ministro.html "https://www.elcomercio.com/actualidad/negocios/cortes-luz-mazar-agua-dependencia-ministro.html")
-
-A través de su **cuenta de X** (anteriormente Twitter), Goncalves detalló que **estos cambios responden a las fluctuaciones en las condiciones hídricas** y de generación eléctrica. 
-
-**Variación en los cortes de luz**  
-------------------------------------
-
-En un **fragmento de rueda de prensa**, el ministro Goncalves explicó que el **cronograma de cortes de luz**, aunque previamente anunciado, puede experimentar modificaciones debido a **mejoras en la situación hídrica**. “Es importante aclararles dos cosas”, señaló Goncalves. “Si, por ejemplo, la **situación hídrica mejora** (…) de que puede haber más lluvias y Coca Codo Sinclair está produciendo más, si bien anunciamos **los cortes**, podríamos decir en una ciudad o en un cantón, estas 4 horas puede ser que no sean las 4 horas, sino 2 horas”. 
-
-> A continuación, la explicación que dimos en nuestra primera rueda de prensa sobre por qué a veces la energía llega antes de lo anunciado o a veces no se produce el corte. [pic.twitter.com/BJGZf4XCcj](https://t.co/BJGZf4XCcj)
-> 
-> — Antonio Goncalves (@Antonio\_GoncalS) [September 29, 2024](https://twitter.com/Antonio_GoncalS/status/1840498760008257615?ref_src=twsrc%5Etfw)
-
-**Inquietud ciudadana por los cortes** 
----------------------------------------
-
-**Esta explicación** responde a las **inquietudes de muchos ciudadanos** que han notado **discrepancias entre los cortes** anunciados y la duración real de las interrupciones eléctricas. Según el Ministro, esto ocurre cuando **las condiciones de generación mejoran**, lo que permite que **algunas áreas tengan cortes de menor duración** o, en algunos casos, se suspendan. 
-
-**Impacto de las centrales hidroeléctricas** 
----------------------------------------------
-
-La **capacidad de las centrales hidroeléctricas en Ecuador**, especialmente las más grandes como **Coca Codo Sinclair**, depende de los **niveles de agua en los embalses**. La situación hídrica, especialmente durante las **temporadas de sequía**, puede **alterar la programación de los cortes**. 
-
-**Reanudación de los cortes de luz**  
---------------------------------------
-
-Si bien el **Gobierno de Ecuador** informó que los **cortes de luz** en Quito fueron suspendidos temporalmente debido al **incendio forestal** que afectó al **sector de Guápulo**, desde el 24 de septiembre de 2024, los **cortes de electricidad** se reanudaron en la ciudad el viernes 27 de septiembre, a partir de las 18:00, siguiendo el **cronograma de racionamiento previamente anunciado**. 
-
-**Nuevo cronograma de cortes** 
--------------------------------
-
-La **planificación vigente** cubre desde el lunes 23 hasta el domingo 29 de septiembre de 2024, y el **calendario de racionamiento** para la próxima semana, del 30 de septiembre al 6 de octubre, ya está disponible para consulta pública en la **[página web del Ministerio de Energía](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/")**. 
-
-**Consulta de horarios de cortes** 
------------------------------------
-
-En este portal, los ciudadanos pueden **acceder a los horarios de cortes** establecidos por cada una de las empresas distribuidoras de electricidad en el país, con el fin de tomar las **medidas necesarias** para enfrentar los racionamientos. 
-
-**Esperanzas por aumento de lluvias** 
---------------------------------------
-
-A pesar de la situación crítica, este domingo 29 de septiembre de 2024, **se registraron lluvias en la ciudad de Cuenca**, lo que provocó un **aumento del caudal en el río Tomebamba**, uno de los **afluentes que alimenta las hidroeléctricas de la región**. Este incremento del flujo de agua genera esperanzas de una **mejora temporal en la capacidad de generación energética**. 
-
-**Llamado a la población** 
----------------------------
-
-A pesar de los esfuerzos del Gobierno por **mitigar los efectos de la crisis eléctrica**, la situación sigue siendo complicada. El Gobierno ha **instado a la población a mantenerse informada sobre los cronogramas** y a tomar las medidas necesarias para afrontar los cortes de luz programados.  
-
-La **escasez de agua en los embalses hidroeléctricos** y la inestabilidad del clima plantean un reto importante para el sistema energético del Ecuador. 
-
-Liga de Quito cayó con Delfín y perdió el liderato de Liga Pro
+Antoine Griezmann anuncia su retirada de la selección francesa
 ==============================================================
 
-Liga de Quito sigue dejando puntos en el camino en la segunda etapa de la Liga Pro.
------------------------------------------------------------------------------------
+Antoine Griezmann se formó en la Real Sociedad de España. De ahí dio el salto a la élite mundial.
+-------------------------------------------------------------------------------------------------
 
-![Liga de Quito perdió con Delfín en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T164804.392.jpg)
+![Griezmann, con la Copa del Mundo de Rusia 2018. EFE/EPA/PETER POWELL](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efed6387e19fa6f0be37e3e11a68e45584d30589384w.jpg)
 
-Por tercer partido consecutivo, **Liga de Quito no logró ganar** en la Liga Pro. La ‘U’ perdió 3-2 en su visita al **Delfín** este domingo 29 de septiembre, en la octava jornada.
+**Antoine Griezmann**, delantero del Atlético de Madrid, anunció este lunes 30 de septiembre de 2024, “con profunda emoción”, su retirada de la selección francesa, sorprendiendo a sus connacionales.
 
-Los albos solo **han sumado 2 de 9 puntos posibles** en los últimos tres juegos, lo que ha permitido que sus rivales se aproximen, reduciendo su ventaja en la cima del torneo.
+Defendiendo la camiseta de Francia, Antoine Griezmann se proclamó campeón del mundo en Rusia 2018 y con la que **disputó 137 partidos, con 44 goles y 33 asistencias**, según comunicó en su mensaje a través de sus redes sociales oficiales.
 
 ### Más noticias:
 
-* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
 * [Independiente del Valle ganó y aspira al título de Liga Pro de forma directa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-gano-y-aspira-al-titulo-de-liga-pro-de-forma-directa.html "Independiente del Valle ganó y aspira al título de Liga Pro de forma directa")
-* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
+* [París 2024 reemplazará medallas de bronce deterioradas](https://www.elcomercio.com/deportes/juegos-olimpicos/paris-2024-reemplazara-medallas-de-bronce-deterioradas.html "París 2024 reemplazará medallas de bronce deterioradas")
+* [Deportivo Quito debutará con casa llena en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-debutara-con-casa-llena-en-el-torneo-de-ascenso.html "Deportivo Quito debutará con casa llena en el Torneo de Ascenso")
 
-Liga de Quito perdió el liderato. Independiente del Valle es el nuevo monarca, con 16 unidades, los mismos que la ‘U’, pero está por encima los ‘Rayados’ por la cantidad de goles a favor.
+“Hoy, con profunda emoción, **anuncio mi retirada como jugador de la selección francesa de Francia**. Después de 10 años increíbles, marcados por desafíos, éxitos y momentos inolvidables, es hora de pasar página y dejar paso a la nueva generación”, expresó el atacante de 33 años.
 
-Liga de Quito sacó ventaja
---------------------------
+**Griezmann**, que debutó con la absoluta el 5 de marzo de 2014, a las órdenes de Didier Deschamps, con una victoria por 2-0 contra Países Bajos.
 
-Pese a un mal inicio del conjunto de **Pablo ‘Vitamina’ Sánchez**, Liga de Quito encontró el gol en una jugada inesperada.
+“Vestir esta camiseta ha sido un honor y un privilegio. Desde marzo de 2014 y hasta el pasado mes de septiembre, tuve la oportunidad de vivir momentos increíbles junto a compañeros de equipo excepcionales. **Compartimos victorias que quedarán grabadas para siempre en nuestra memoria**“, añadió Griezmann.
 
-Un rebote tras un córner en los linderos del área fue suficiente para que **Ezequiel** **Piovi** sacara un bombazo que terminó en las redes a los 10 minutos.
+El delantero alternó la suplencia y la titularidad en la última Eurocopa disputada en Alemania, donde Francia fue eliminada en las semifinales.
 
-> Piovi y el primero para [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw). 🫡  
->   
-> Revive el tanto que abrió el marcador en el Jocay. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wFu3UfVyBN](https://t.co/wFu3UfVyBN)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840495862960574828?ref_src=twsrc%5Etfw)
+El pasado 9 de septiembre, también como reserva, fue su **último encuentro internacional con la selección francesa ante Bélgica**, en la victoria por 2-0 en Lyon, en la que entró en el minuto 69 en sustitución de Mattéo Guendouzi.
 
-La alegría no duró mucho para la visita, ya que 10 minutos después, José Quintero cometió un penal. Ricardo Phillips se hizo cargo de la pena máxima y, aunque falló el remate, logró anotar en el rebote.
+![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/09/antoine_francia_1-1024x683.jpg)
 
-Liga de Quito, que sufría en el Jocay de Manta, se marchó al descanso ganando con un gol de Alex Arce, el goleador del campeonato ecuatoriano, que llevaba varios partidos sin marcar.
+Foto: Instagram del futbolista.
 
-Bryan Ramírez robó un balón en la mitad del campo, emprendió carrera y descargó para Luis Estupíñán, quien sacó un centro que el ‘Toro’ reventó en el arco. La jugada fue revisada por el VAR por una posible posición adelantada, pero se convalidó la anotación.
-
-> Tranquilidad del goleador. 😮‍💨  
->   
-> Álex Arce, previo al descanso, puso en ventaja nuevamente a [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw).  
->   
-> Lo vives en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/EwOkinsqBu](https://t.co/EwOkinsqBu)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840497346771050564?ref_src=twsrc%5Etfw)
-
-Delfín amargó a Liga
---------------------
-
-En el segundo tiempo, Delfín continuó proponiendo, mientras que Liga sufría en defensa.
-
-El esfuerzo de los ‘Cetáceos’ tuvo su recompensa a los 72 minutos. Una **falta infantil de Ricardo Adé** sobre José Angulo provocó otro penal para los locales.
-
-**Ricardo** **Phillips** se hizo cargo y esta vez sí anotó su penal, logrando así su doblete.
-
-> Phillips x2 🫨  
->   
-> Dos penales, dos goles para el atacante de [@DelfinSC](https://twitter.com/DelfinSC?ref_src=twsrc%5Etfw). Se igualan las cosas en Manta.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tuAPEltNTR](https://t.co/tuAPEltNTR)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 29, 2024](https://twitter.com/zapping_ecu/status/1840507439805862157?ref_src=twsrc%5Etfw)
-
-En el cierre del partido, **otro penal, el tercero del partido** y de Delfín, provocó la remontada del cuadro local. Otra vez fue **Adé** el causante de la falta.
-
-**José** **Angulo** hizo efectiva la pena máxima.
-
-Inundaciones y ríos crecidos en Cuenca debido a las intensas lluvias
-====================================================================
-
-En sectores como la Feria Libre, Medio Ejido y Carmen de Guzho y en el centro de la ciudad se reportaron emergencias.
----------------------------------------------------------------------------------------------------------------------
-
-![El río Tomebamba aumentó su caudal de forma abrupta la tarde este domingo 29 de septiembre. Giovanny Astudillo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-.jpg)
-
-La tarde de este domingo 29 de septiembre llueve con intensidad en **Cuenca**. Las lluvias empezaron pasadas las 14:30.
-
-La **Red Hidrometereológica** de la empresa municipal **Etapa** publicó el reporte de caudales de los ríos **Tomebamba**, **Yanuncay**, **Tarqui** y **Machángara** con corte a las 17:30. Este último afluente aumentó de 1,91 a 4,30 metros cúbicos por segundo.
-
-El **Tomebamba** pasó de 2,33 a 5,53 y el **Tarqui** de 0,52 a 4,33. El **Yanuncay** fue el que más creció al subir de 1,38 a 7,58 metros cúbicos. Todos salieron del nivel considerado bajo y de estiaje.
-
-Según el coordinador de la **Red Hidrometereológica**, Rigoberto Guerrero, hasta las 17:00 hubo un acumulado de 20 milímetros de lluvias.
-
-“La lluvia se registró en las zonas medias y bajas, lo que significa que cayó en zonas impermeabilizadas (sobre casas y calles). Eso ocasionó la escorrentía directa y el aumento súbito de los caudales”, dijo **Guerrero**.
-
-La **Red Hidrometereológica** pronosticó que lloverá en el **Austro** entre el lunes 30 de septiembre y el miércoles 2 de octubre. **Guerrero** insistió que se requieren entre **10 y 15 días de lluvias** para que la región salga de la **sequía hidrológica.**
-
-Él pidió que la ciudadanía se mantenga alejada de las **orillas de los cuatro ríos** para evitar accidentes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca--1-1024x683.jpg)
-
-Tras **79 días de sequía hidrológica**, estas precipitaciones son las más intensas registradas en el Austro en este período de estiaje que ocasionó **cortes de luz en Ecuador.**
-
-### Más noticias
-
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-
-Inundaciones en sectores de Cuenca
-----------------------------------
-
-En la zona del **Medio Ejido**, ubicado en el suroeste de **Cuenca**, se registraron inundaciones, reportó la **Empresa Municipal Etapa.**
-
-Lo mismo ocurrió en otros sectores como **Carmen de Guzho** y la **Feria Libre de El Arenal**. Hubo reportes de problemas en la circulación vehicular en la avenida de Las Américas.
-
-En este mismo sector, el tranvía dejó de operar unos minutos debido a la emergencia. El personal de la empresa municipal **Etapa** realizó la limpieza de sumideros para que el agua desfogue y reanudar las operaciones del este transporte público. 
-
-> Precaución por inundaciones en las vías 🌧️  
-> Debido a las fuertes lluvias, varias vías en la ciudad presentan inundaciones. Conduce con precaución, evita cruzar zonas anegadas y reduce la velocidad. Mantente informado sobre las condiciones del tránsito. [#Inundaciones](https://twitter.com/hashtag/Inundaciones?src=hash&ref_src=twsrc%5Etfw) [#CuencaSegura](https://twitter.com/hashtag/CuencaSegura?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oEQtRP03FX](https://t.co/oEQtRP03FX)
-> 
-> — Consejo de Seguridad Ciudadana de Cuenca (@CSC\_CUENCA) [September 29, 2024](https://twitter.com/CSC_CUENCA/status/1840505511575175474?ref_src=twsrc%5Etfw)
-
-El **Cuerpo de Bomberos de Cuenca** rescató a una persona que quedó atrapada en una isla del río **Tomebamba**. El hecho ocurrió en el sector de la avenida 12 de abril frente al Colegio Sagrados Corazones, en el centro de la urbe.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
-> Personal de Bomberos [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw) rescató a una persona que quedó atrapada en la isla del río Tomebamba, en la Av Doce de Abril, frente al colegio Sagrados Corazones, debido al repentino crecimiento del caudal del río. [#AccionesInmediatas](https://twitter.com/hashtag/AccionesInmediatas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jfhuDeoWYP](https://t.co/jfhuDeoWYP)
-> 
-> — Bomberos Cuenca (@Bomberos\_Cuenca) [September 29, 2024](https://twitter.com/Bomberos_Cuenca/status/1840506662869725332?ref_src=twsrc%5Etfw)
-
-El ciudadano quedó atrapado debido al repentino crecimiento del **río Tomebamba**.
-
-El trabajo de los bomberos cuencanos
-------------------------------------
-
-Los bomberos también atendieron otras emergencias como tres inundaciones en viviendas, la caída de un alero y de árboles, entre otras. El alero pertenece a un inmueble ubicado en el Centro Histórico.
-
-Además, debido a la acumulación de agua en el sector del parque Miraflores , el personal de la E**mpresa Municipal de Movilidad (EMOV)** decidió cerrar el tráfico en la intersección de las avenidas de Las Américas y Turuhuayco.
-
-La **Dirección de Gestión de Riesgos de Cuenca** reportó un deslizamiento en el sector de San Joaquín. La limpieza la realizó el equipo de Obras Públicas municipales.
-
-Real Madrid empata en un controvertido derbi ante el Atlético
-=============================================================
-
-Real Madrid no acortó la brecha con el FC Barcelona en la tabla de posiciones de La Liga.
------------------------------------------------------------------------------------------
-
-![Atlético Madrid y Real Madrid igualaron en el derbi de La Liga.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T161444.847.jpg)
-
-El **Real Madrid igualó 1-1 al Atlético de Madrid** en su visita al Cívitas Metropolitano este domingo 29 de septiembre de 2024, en partido correspondiente a la octava jornada de La Liga de España.
-
-El encuentro, disputado en la casa de los colchoneros, rompió un **récord de asistencia**, con más de 70,000 aficionados presenciando el derbi madrileño. Este nuevo registro supera al anterior récord de poco más de 69,000, establecido en un partido de la Champions League.
-
-### Más noticias:
-
-* [Real Madrid acrecenta un récord con gol de Mbappé](https://www.elcomercio.com/deportes/kylian-mbappe-real-madrid-alves-record.html "Real Madrid acrecenta un récord con gol de Mbappé")
-* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
-* [Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior](https://www.elcomercio.com/deportes/futbol/carlo-ancelotti-pide-el-balon-de-oro-para-vinicius-junior.html "Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior")
-
-Sin goles en la primera parte
------------------------------
-
-**Atlético y Real Madrid** se fueron al descanso sin goles tras un primer tiempo marcado por el respeto entre ambos equipos más que por las ocasiones de peligro.
-
-A los 9 minutos, **Julián Álvarez** generó la primera gran oportunidad del encuentro, pero Thibaut Courtois le negó el gol tras escaparse de Antonio Rüdiger.
-
-Fede Valverde respondió para el Real Madrid a los 17 minutos con un potente disparo que fue controlado por Jan Oblak. El arquero del Atlético también detuvo un remate raso de **Jude Bellingham** a los 36 minutos, sellando una primera parte sin grandes emociones.
-
-Ambos equipos intercambiaron el dominio a lo largo del partido, pero ni los colchoneros ni los merengues pudieron romper el empate en un clásico madrileño sin goles, pero lleno de tensión.
-
-Goles y partido suspendido
---------------------------
-
-En la segunda mitad, no hubo mucha acción, aunque el **Real Madrid** se aproximó con peligro. Los locales también llegaban al área rival, pero fallaban en el último pase, sin lograr concretar sus jugadas.
-
-El único gol del encuentro llegó tras una jugada rápida de tiro libre. **Vinícius Júnior** desbordó por la banda izquierda y lanzó un centro al área, donde **Eder Militao** apareció para rematar con potencia y vencer a Jan Oblak a los 64 minutos.
-
-> VINI ELUDIÓ A DE PAUL, MILITAO REMATÓ Y REAL MADRID 1-0 ATLÉTICO DE MADRID EN EL METROPOLITANO.  
->   
-> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oAYOOvI6bg](https://t.co/oAYOOvI6bg)
-> 
-> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840487797905334600?ref_src=twsrc%5Etfw)
-
-Después del gol, el partido se suspendió durante varios minutos debido a que los aficionados del Atlético de Madrid comenzaron a lanzar objetos hacia la portería defendida por **Thibaut Courtois.**
-
-A pesar de las advertencias del árbitro, los incidentes continuaron, lo que llevó a la **suspensión temporal** del encuentro para calmar la situación, antes de reanudar el juego.
-
-> Fuertísima imagen en España: Josema Giménez, Koke y Simeone, hablando CARA A CARA con los ultras de Atlético de Madrid.  
->   
-> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/hzAS3lGjLU](https://t.co/hzAS3lGjLU)
-> 
-> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840490814910124097?ref_src=twsrc%5Etfw)
-
-Después de poco más de 20 minutos de pausa, los jugadores **regresaron al terreno de juego**, pero con la condición de que el partido se suspendería definitivamente si continuaban lanzando objetos al campo.
-
-**Vinícius** Júnior, que estaba enchufado, protagonizó una gran jugada eludiendo a varios rivales. A los 72 minutos, intentó un disparo de media distancia, pero Jan Oblak logró desviar su potente remate.
-
-**Courtois**, que no tuvo mucha acción a lo largo del partido, realizó una gran atajada a los 81 minutos tras un potente remate de Samu Lino a quemarropa.
-
-En los minutos finales del compromiso, Ángel Correa igualó el partido en una jugada fortuita.
-
-> ¡¡GOLAZO DE CORREA!! ¡¡ATLÉTICO DE MADRID 1-1 REAL MADRID!!  
->   
-> 📺 Mirá la [#LaLiga](https://twitter.com/hashtag/LaLiga?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EsPg58C189](https://t.co/EsPg58C189)
-> 
-> — SportsCenter (@SC\_ESPN) [September 29, 2024](https://twitter.com/SC_ESPN/status/1840500329927897486?ref_src=twsrc%5Etfw)
-
-Granadas, dinamita y armas fueron decomisadas en Guayaquil
-==========================================================
-
-La Policía realizó allanamientos en el sector del Centenario. Una persona fue aprehendida para investigaciones.
----------------------------------------------------------------------------------------------------------------
-
-![La Policía señaló que los inmuebles se usaban como centros de acopio para el abastecimiento de droga, almacenamiento y distribución de armas de fuego, municiones y explosivos. Cortesía: Policía de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/Policia-Guayaquil.jpg)
-
-##### Agencia EFE
-
-La **Policía** **ecuatoriana** informó este domingo 29 sobre el decomiso de f**usiles, granadas de mano, dinamita, alimentados y miles de cartuchos.**
-
-Los uniformados realizaron allanamientos en dos inmuebles en Guayaquil. Los operativos se cumplieron como parte de la operación denominada **Renacer 27** ejecutada en el sector **Centenario**.
-
-La **Policía** señala que los inmuebles se usaban como centros de acopio para el **abastecimiento de dro**ga, **almacenamiento y distribución de armas de fuego, municiones y explosivos**.
-
-Ese material servía para “los diferentes integrantes de los grupos armados organizados, quienes estarían generando temor mediante el incremento de los índices de muertes violentas, **sicariatos**, extorsiones, entre otros delitos”.
-
-### Más noticias
-
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-* [Dos detenidos por quemar llantas en el parque Metropolitano sur](https://www.elcomercio.com/actualidad/quito/dos-detenidos-quemar-llantas-parque-metropolitano-sur.html "Dos detenidos por quemar llantas en el parque Metropolitano sur")
-* [Persona falleció en siniestro de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/persona-fallecio-siniestro-transito-quito.html "Persona falleció en siniestro de tránsito en Quito")
-
-Los decomisos en los operativos
--------------------------------
-
-En el operativo se aprehendió a una posible implicada en el hecho delictivo. Es una ecuatoriana de 34 años, quien no posee antecedentes penales.
-
-Entre los indicios incautados figuran **dos armas de fuego tipo fusil** calibre 7.62×39Ñ 30 000 cartuchos calibre 5.56-7.62-9MM y cartuchos para escopeta; 620 alimentadoras; siete cápsulas de explosivo C4; ocho mechas detonantes; 15 granadas de mano y ocho tacos de dinamita.
-
-Además un vehículo de alta gama, reportado como robado en 2023, en **Quito**. Y dos motocicletas, una de ellas de alta gama, también con reporte de robo.
-
-De igual manera, decomisaron 750 cilindros de heroína; 17 paquetes de marihuana y 8 paquetes de cocaína, indicó la **Policía** en un comunicado, en el que no detalló el peso de la droga.
-
-La Policía dijo que con “este golpe se ha logrado reducir las muertes violentas, bajo la modalidad de sicariato y posibles atentados en contra de terceras personas, ataques terroristas, entre otras actividades ilícitas”.
-
-La gata Catalina simboliza la esperanza en Colombia
-===================================================
-
-Catalina se convirtió en la mascota del Ejército en Arauca, Colombia. La gata sobrevivió a un ataque del ELN.
--------------------------------------------------------------------------------------------------------------
-
-![Imagen tomada de El Tiempo de Bogotá. El hecho ocurrió en el Arauca.](https://www.elcomercio.com/wp-content/uploads/2024/09/gata-catalina-Colombia.jpg)
-
-**Catalina**, la gata que se ha convertido en un símbolo de resistencia y esperanza en **Colombia**, ha capturado la atención de muchos tras sobrevivir a un ataque del **Ejército de Liberación Nacional (ELN)** en **Arauca**. 
-
-La gata, que es considerada la mascota del **Ejército Nacional**, fue víctima de un atentado que dejó a más de 20 soldados heridos. A pesar de las adversidades, **Catalina** ha demostrado una notable capacidad de recuperación.
-
-### Más noticias
-
-* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
-* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
-
-El ataque y la supervivencia
+Deschamps elogia a Griezmann
 ----------------------------
 
-El incidente ocurrió cuando un grupo armado del **ELN** atacó una base militar en **Arauca**. Durante el ataque, **Catalina** resultó gravemente herida por esquirlas en la cabeza y el cuello, además de sufrir una fractura.
+Didier Deschamps, actual seleccionador francés que **hizo debutar a Antoine Griezmann en 2014**, consideró que el jugador del Atlético de Madrid, es “un monumento del fútbol francés”.
 
-Inicialmente, los soldados creyeron que había fallecido debido a sus heridas. Sin embargo, su espíritu indomable le permitió luchar por su vida.
+“Aunque su carrera en el club todavía no haya terminado, Antoine ha sido y será un monumento del fútbol francés, uno de los mayores jugadores de su historia. Aparte de los 44 goles y 30 asistencias, **me quedo con la implicación que ha tenido en los resultados que hemos logrado en el último decenio**“, dijo Deschamps en una declaración.
 
-Después de ser atendida por médicos veterinarios, **Catalina** comenzó su proceso de recuperación, lo que ha conmovido tanto a los militares como a la población civil.
+La marcha de Griezmann significa también un cambio de era en el combinado de Deschamps, tras la retirada internacional de **Lloris, Olivier Giroud, Raphäel Varane** y la dura sanción por dopaje que pesa sobre Paul Pogba. Todos ellos, junto a Kylian Mbappé (hoy capitán), fueron la columna vertebral de la victoria mundial en 2018.
 
-Un símbolo de esperanza
------------------------
+‘Grizou’ fue el mejor asistente de la historia de la selección francesa, **con 30 pases de gol, y cuarto mejor goleador de ‘Les Bleus’**, con 44 tantos, quedando detrás de Kylian Mbappé (48), Thierry Henry (51) y Olivier Giroud (57).
 
-La historia de **Catalina** no solo es un relato de supervivencia; también representa la resiliencia del pueblo colombiano frente a la violencia y el conflicto armado.
+Según ‘L’Équipe’, Griezmann ya meditaba su retirada de la selección al menos desde la derrota en la última Eurocopa de Alemania 2024 en las semifinales frente a España –**torneo en el que su condición de titular fue puesta en entredicho**\-. La decisión la fue madurando tras pedir consejo a sus dos confidentes: su hermana y su mujer.
 
-La gata ha sido adoptada como un símbolo por los soldados que la cuidan y protegen. Su presencia en la base militar ha servido para elevar la moral de las tropas y recordarles que incluso en los momentos más oscuros, hay espacio para la esperanza.
+El diario recuerda que uno de los primeros factores que le empujó a dejar el maillot de Francia fue que, tras la retirada de Lloris en 2023, **el brazalete de capitán lo portó Kylian Mbappé y no a él**, que quedó como subcapitán, a pesar de tener más experiencia internacional que el delantero del Real Madrid. 
 
-Recuperación y cuidados
------------------------
+No te pierdas – El Confesionario
+--------------------------------
 
-Desde su recuperación, Catalina ha estado bajo el cuidado constante de veterinarios y soldados. Los informes indican que está recibiendo tratamiento para sus heridas y se le proporciona un ambiente seguro y acogedor en la base militar.
+Pablo Muentes tuvo una respuesta de la CNJ sobre su habeas corpus
+=================================================================
 
-A medida que avanza su **rehabilitación**, se espera que Catalina pueda volver a ser una gata activa y juguetona, disfrutando de su vida en compañía de quienes han hecho todo lo posible por salvarla.
+La Corte Nacional de Justicia de manera unánime tomó una resolución sobre el habeas corpus presentado por Pablo Muentes.
+------------------------------------------------------------------------------------------------------------------------
 
-Impacto en redes sociales
--------------------------
+![Audiencia para determinar si se vulneró el derecho a la integridad personal de Pablo Muentes.](https://www.elcomercio.com/wp-content/uploads/2024/09/cnj-1.png)
 
-La historia de Catalina ha resonado profundamente en las redes sociales, donde numerosos usuarios han compartido su historia y expresado su apoyo.
-
-Las imágenes de la gata con sus cuidadores han circulado ampliamente, generando una ola de simpatía y solidaridad.
-
-Esta atención mediática no solo ha ayudado a visibilizar la situación del **conflicto armado en Colombia**, sino que también ha creado conciencia sobre el impacto que tiene en los seres vivos involucrados.
-
-Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre
-===================================================================================
-
-Cortes de luz en Quito y el resto del país se mantendrán.
----------------------------------------------------------
-
-![Cortes de luz seguirán en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/corte-de-luz-o.jpg)
-
-Los **cortes de luz** en Quito y el resto de Ecuador se mantienen por las complicaciones en los embalses debido a la **sequía** que afronta el país[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
-
-La comunidad puede consultar los **horarios** definidos para los apagones, tanto de **Quito** cuanto del resto del país, en el siguiente [enlace](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/).
+La **Corte Nacional de Justicia (CNJ)** rechazó de manera unánime el **habeas corpus correctivo solicitado por Pablo Muentes**, exasambleísta del Partido Social Cristiano (PSC) y procesado en el **caso Purga**.
 
 ### Más noticias
 
-* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
-* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
-* [Cortes de luz en Quito interfieren en la movilidad](https://www.elcomercio.com/actualidad/quito/intersecciones-afectadas-cortes-luz-quito.html "Cortes de luz en Quito interfieren en la movilidad")
+* [Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-deja-en-suspenso-decision-sobre-habeas-corpus-de-pablo-muentes.html "Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes")
+* [Diana Salazar estuvo presente en la audiencia del caso Purga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-audiencia-caso-purga.html "Diana Salazar estuvo presente en la audiencia del caso Purga")
+* [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
 
-Cortes de luz en Quito
+Los jueces **Diego Gordillo (ponente), Rosana Morales y Gustavo Durango**, negaron la petición que buscaba la liberación de Muentes de la cárcel de máxima seguridad **La Roca, en Guayaqui**l.
+
+Argumentos de la defensa y solicitud del habeas corpus
+------------------------------------------------------
+
+La defensa de Muentes, liderada por el abogado **Diego Chimbo**, planteó el recurso de habeas corpus para que su c**liente pudiera salir de la prisión bajo una medida alternativa a la prisión preventiva**. El exasambleísta se encuentra procesado por el delito de delincuencia organizada en el caso Purga, en el cual están **involucradas otras 24 personas**.
+
+Chimbo alegó que la vida de su cliente estaba en **riesgo por amenazas dentro del centro penitenciario**.
+
+No obstante, el tribunal rechazó la solicitud, al considerar que las denuncias de amenazas no contaban con un respaldo suficiente. Se explicó que para que este tipo de recurso prospere es necesario demostrar la inminencia y gravedad de los riesgos denunciados.
+
+Detalles de las amenazas
+------------------------
+
+Muentes declaró ante la Corte que, dentro de La Roca, lo han amenazado de muerte en varias ocasiones. Aseguró que algunos internos le exigieron dinero para **no atentar contra su vida**. Según su testimonio, incluso miembros de la Infantería de Marina, responsables de la seguridad en la prisión, escucharon dichas amenazas.
+
+> 🟣[#SalaTributariaCNJ](https://twitter.com/hashtag/SalaTributariaCNJ?src=hash&ref_src=twsrc%5Etfw) | Dr. Diego Gordillo (ponente), Dr. Gustavo Durango y Dra. Rosana Morales reinstalan audiencia. [pic.twitter.com/nni4VPJMtB](https://t.co/nni4VPJMtB)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [September 30, 2024](https://twitter.com/CorteNacional/status/1840773372508078105?ref_src=twsrc%5Etfw)
+
+El exasambleísta también explicó que su situación se agravó luego de que su partido, el PSC, decidiera **votar por el archivo de los juicios políticos c**ontra la fiscal general, Diana Salazar. Muentes señaló que **bandas criminales** en la cárcel lo acusaban de haber negociado con la Fiscalía General y que, como resultado de esto, su vida estaba en riesgo.
+
+Resolución de la Corte
 ----------------------
 
-La **Empresa Eléctrica Quito** cuenta con los horarios de la suspensión de energía eléctrica del lunes 30 de septiembre al domingo 6 de octubre de 2024.
+El juez Gordillo, quien actuó como ponente, explicó que **no se pudo demostrar que las amenazas en contra de Muentes** fueran lo suficientemente concretas.
 
-Hay varias franjas horarias contempladas para el racionamiento de **energía eléctrica**. Por ejemplo, entre las 00:00 y 05:00 y 12:00 y 17:00. Ese es el caso de sitios como **Conocoto y Miraflores**.
+Además, no se acreditó que el exlegislador padeciera una **enfermedad grave o terminal que pudiera agravar su situación en prisió**n. Por esta razón, no fue considerado como un factor clave para negar el recurso.
 
-En lo que se refiere a la movilidad, la **Agencia Metropolitana de Tránsito (AMT)** indicó que agentes estarán desplegados en las intersecciones semaforizadas. En Quito, hay más de 10 000 cruces.
+La Corte también subrayó que **no existen elementos que permitan concluir que las amenazas** estén relacionadas con su participación en el PSC o con su papel en el caso de los juicios políticos.
 
-Las clases y los cortes
------------------------
-
-Los horarios de **clases** también tienen modificaciones debido a los cortes de luz. Así lo dispuso el Ministerio de Educación.
-
-* **Jornada matutina:** Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
-* **Jornada vespertina:** Este horario sí tendrá importantes cambios. Los estudiantes ingresarán a la hora habitual, sin embargo, saldrán a las 17:00.
-* **Jornada nocturna:** Este horario se mantendrá bajo la modalidad no presencial. El Ministerio solicitó a los profesores implementar recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
-
-> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
-
-Recomendaciones por cortes de luz
+Medidas de protección adicionales
 ---------------------------------
 
-Las **medidas de seguridad**, como mantenerse en los domicilios, son parte del panorama con los cortes de luz. El Ecu 911 sí atiende las emergencias que se reporten durante los racionamientos.
+A pesar de negar el habeas corpus, la CNJ instó a las autoridades del **SNAI** y **La Roca** a reforzar las medidas de seguridad para garantizar la **protección** de Muentes.
 
-Del mismo modo, es importante contar con **planes de seguridad** familiar y, de ser el caso, en urbanizaciones, edificios y condominios.
+También se dispuso que el exasambleísta reciba **atención médica** adecuada, en conformidad con las disposiciones constitucionales y los tratados internacionales suscritos por Ecuador.
 
-Sobre los electrodomésticos es importante tener **precauciones**. En el caso del refrigerador, se puede abastecer de hielo o bolsas térmicas que mantienen los productos fríos.
+Mushuc Runa busca hacerse con la punta de la Liga Pro
+=====================================================
 
-También es recomendable desconectar los **electrodomésticos** antes de los cortes de luz, con base en los horarios.
+Mushuc Runa puede lograr el primer puesto de la Liga Pro si vence a Técnico Universitario y dar la sorpresa en la etapa.
+------------------------------------------------------------------------------------------------------------------------
 
-Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso
-==================================================================
+![Jugadores de Mushuc Runa en un partido de la Liga Pro antes de enfrentar a Técnico Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-30T140216.963.jpg)
 
-Deportivo Quito y Santa Elena se enfrentan en el complejo de Independiente del Valle por el Torneo de Ascenso.
---------------------------------------------------------------------------------------------------------------
+**Mushuc Runa** asombra en el fútbol ecuatoriano y ha sido una de las revelaciones tanto en la Liga Pro como en la **Copa Ecuador**. El conjunto de Tungurahua tiene la oportunidad de ser líder de la etapa del campeonato ecuatoriano y en el certamen copero está en semifinales.
 
-![Foto referencial del Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-29T125746.615.jpg)
-
-Así como la hinchada se hizo sentir, **Deportivo Quito** también cumplió en el campo, como en los viejos tiempos. La ‘AKD’ debutó con un triunfo en el **Torneo de Ascenso Nacional** este domingo 29 de septiembre.
-
-Los capitalinos golearon 3-0 a Santa Elena en el partido de ida de los 32 avos de final. Los goles fueron obra de **Jostin Chichande y José Luis Rivera**, quienes hicieron soñar a la afición azulgrana en el arranque del torneo.
-
-El partido de vuelta se disputará el 6 de octubre en Santa Elena, posiblemente en el **Estadio Reales Tamarindo**, en Portoviejo, debido a su mayor capacidad. El habitual estadio del equipo local, el Daring, es muy pequeño para un compromiso de esta magnitud.
+De la mano de **Ever Hugo Almeida**, el ‘Ponchito’ ha logrado repotenciarse y elevar su nivel en el segundo semestre de este 2024. Tras el arribo del entrenador, la escuadra se mantiene en alza y este lunes 30 de septiembre tiene la posibilidad de alcanzar una de sus cumbres.
 
 ### Más noticias:
 
-* [Deportivo Quito debutará con casa llena en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-debutara-con-casa-llena-en-el-torneo-de-ascenso.html "Deportivo Quito debutará con casa llena en el Torneo de Ascenso")
-* [Deportivo Quito y su ruta para el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-su-ruta-para-el-ascenso-serie-b.html "Deportivo Quito y su ruta para el ascenso a la Serie B")
-* [E](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")l [Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
+* [Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva](https://www.elcomercio.com/deportes/mushuc-runa-semifinales-libertda-copa-ecuador-cuartos.html "Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva")
+* [El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro](https://www.elcomercio.com/deportes/mushuc-runa-revelacion-ever-hugo-almeida.html "El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro")
+* [Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro](https://www.elcomercio.com/deportes/futbol/universidad-catolica-no-tuvo-piedad-con-mushuc-runa-liga-pro.html "Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro")
 
-Deportivo Quito toma la delantera
----------------------------------
+A las 15:30, **Mushuc Runa** se enfrentará a **Técnico Universitario** en el cierre de la octava fecha de la Liga Pro. Con los otros siete partidos de la jornada ya disputados, el equipo sabe sus posibilidades y a lo que puede aspirar.
 
-Un golazo de tiro libre de la ‘AKD’ abrió el marcador.
+El ‘Ponchito’ cuenta con un contexto favorable para un choque en el que, de ganar, cerraría la fecha como líder absoluto. La escuadra se ubica en la cuarta posición con 14 puntos y a falta de su choque contra el ‘**Rodillo Rojo**‘.
 
-El remate tomó un desvío inesperado en plena trayectoria, dejando al guardameta confuso y sin reacción. **Jostin** **Chichande** fue el encargado de anotar a los 12 minutos.
+Si el conjunto de Almeida vence y se hace con las tres unidades, en total sumaría 17 y superaría a los tres clubes que lo sobrepasan e igualan en puntaje. De tal forma, este quedaría como líder en solitario y a un punto de **Independiente del Valle, Liga de Quito y Orense**[.](https://en.wikipedia.org/wiki/Mushuc_Runa_S.C. "https://en.wikipedia.org/wiki/Mushuc_Runa_S.C.")
 
-La escuadra capitalina continuó rondando el área rival durante el partido, pero faltó contundencia para hacer daño a Santa Elena, que nunca fue rival en la primera mitad.
+¿Quién juega hoy? Detalles de Mushuc Runa vs. Técnico Universitario
+-------------------------------------------------------------------
 
-Al término de los primeros 45 minutos, el **marcador se mantenía 1-0,** y aunque Quito merecía más, se notó la inconsistencia en la parte ofensiva.
+El compromiso entre **Mushuc Runa y Técnico Universitario** será el único que se celebre en el fútbol ecuatoriano durante este 30 de septiembre. Pese a ello, en la semana que inicia en tal fecha habrán cotejos que correspondan a la Copa Ecuador.
 
-Con un pie en la siguiente ronda
+**Partido**: Mushuc Runa vs. Técnico Universitario.
+
+**Fecha**: 30 de septiembre del 2024.
+
+**Hora**: 15:30
+
+**Estadio**: Bellavista de Ambato.
+
+Mushu Runa también busca la Copa Ecuador
+----------------------------------------
+
+El buen nivel de **Mushuc Runa** no solo se ha manifestado dentro de la Liga Pro, sino también dentro de la Copa Ecuador. Antes de medirse a Técnico Universitario, el equipo consiguió alcanzar las semifinales del certamen y espera rival.
+
+Los de Ever Hugo Almeida se impusieron por un marcador de 2-1 sobre Libertad de Loja. Con aquel triunfo, el equipo obtuvo su pase para enfrentar en la siguiente ronda a **El Nacional o Liga de Quito**.
+
+Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea
+==============================================================================
+
+Mónica Palencia y Gian Carlo Loffredo estaban convocados a la Asamblea por acciones del Bloque de Seguridad.
+------------------------------------------------------------------------------------------------------------
+
+![Ministros del Interior y de Defensa en reunión del Bloque de Seguridad.](https://www.elcomercio.com/wp-content/uploads/2024/09/Monica-Palencia-1.jpg)
+
+El Pleno de la **Asamblea Nacional** convocó a los ministros del Interior, **Mónica Palencia**, y de **Defensa, Gian Carlo Loffredo**. La premisa era conocer los avances de las acciones del Bloque de Seguridad.
+
+Este lunes, 30 de septiembre de 2024, los **funcionarios** debían comparecer en la sesión que, esta vez, se instaló de forma virtual.
+
+### Más noticias
+
+* [Binomios presidenciales se suman a las elecciones 2025, faltan dos días](http://Binomios presidenciales se suman a las elecciones 2025, faltan dos días)
+* [Juicio político a Mónica Palencia se retomó en la Asamblea, este 30 de septiembre](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-asamblea-30-septiembre.html "Juicio político a Mónica Palencia se retomó en la Asamblea, este 30 de septiembre")
+* [Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html "Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro")
+
+Bloque de Seguridad y la Asamblea Nacional
+------------------------------------------
+
+El **Bloque de Seguridad** opera en las provincias declaradas en estado de excepción. Estas son Guayas, El Oro, Santa Elena, Manabí, Los Ríos, Sucumbíos y Orellana.
+
+El motivo de la convocatoria fue para que los Funcionarios detallen los resultados de la agrupación, conformada por la **Policía Nacional y Fuerzas Armadas**.
+
+En el caso de **Mónica Palencia**, este mismo 30 de septiembre, también fue convocada a la **Comisión de Fiscalización y Control Político**.
+
+En esa se presentó el cronograma tentativo del **juicio político** que se lleva a cabo a la **Funcionaria**.
+
+Comparecencias en el Pleno
+--------------------------
+
+Luego de constatado el quorum en la sesión del Pleno del Legislativo, se verificó la conexión de los ministros Mónica Palencia y **Gian Carlo Loffredono**.
+
+No obstante, se corroboró que los funcionarios no se conectaron a la reunión virtual del **Legislativo**.
+
+El Bloque de Seguridad
+----------------------
+
+El 16 de septiembre de 2024, **Mónica Palencia**, ministra del Interior, en rueda de prensa, informó que, desde la intervención del Bloque de Seguridad, a escala nacional, hay una baja del 17% en homicidios intencionales.
+
+Kendry Páez pierde protagonismo en Independiente del Valle
+==========================================================
+
+Kendry Páez dejará Independiente del Valle para el segundo semestre de 2025 para unirse al Chelsea de Inglaterra.
+-----------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez con Independiente del Valle en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/paez_idv_1.jpg)
+
+Kendry Páez está en plena cuenta regresiva para dejar la disciplina de **Independiente del Valle y unirse al Chelsea de Inglaterra**, club que lo contrató como una de los talentos más prometedores de Sudamérica.
+
+Con 17 años, Kendry Páez ha tenido un meteórico ascenso en su carrera con **Independiente del Valle y con la Selección de Ecuador**, desde las categorías juveniles hasta ser uno de los fijos en las convocatorias de la absoluta.
+
+### Más noticias:
+
+* [Óscar Zambrano anotó su primer gol con el Hull City](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-anoto-su-primer-gol-con-el-hull-city.html "Óscar Zambrano anotó su primer gol con el Hull City")
+* [Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior](https://www.elcomercio.com/deportes/futbol/carlo-ancelotti-pide-el-balon-de-oro-para-vinicius-junior.html "Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior")
+* [Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-igualo-bayern-munich.html "Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich")
+
+Páez debutó con Independiente el 25 de febrero de 2023 en una **victoria de 3-1 ante Mushuc Runa en el estadio La Cocha** de Latacunga, con un golazo suyo incluido, que marcó el inicio de su carrera como profesional.
+
+El debut fue con 15 años, nueve meses, y 21 días. En su palmarés consta haber ganador una Copa Sudamericana (2022), **una Recopa Sudamericana (2023)** y una Supercopa Ecuador (2023).
+
+Según Transfermarkt, entre Liga Pro, Supercopa Ecuador, Copa Libertadores, Copa Sudamericana y Copa Ecuador, **jugó 65 partidos, anotó 13 goles, asistió ocho veces**, fue amonestado con tarjeta amarilla en ocho ocasiones y en cancha acumula 3 798 minutos.
+
+En el 2023 en 29 presencias con Independiente, fue titular en 16 ocasiones, bajo la dirección técnica del argentino Martín Anselmi, que lo consolidó de menos a manos en el equipo principal.
+
+Tuvo que alternar convocatorias con las selecciones sub-17 **(clasificó al Mundial de Indonesia que no jugó)**, sub-20 (Copa del Mundo de Argentina) y absoluta (eliminatorias al Mundial 2026); más la Copa Libertadores sub-20 en Chile en la que se quedaron con el segundo puesto.
+
+![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/09/paez_idv_2-1024x683.jpg)
+
+Foto: Instagram del futbolista.
+
+Kendry Páez y un 2024 inestable
+-------------------------------
+
+En lo que va del 2024, **Páez jugó 31 encuentros con Independiente del Valle** en los que fue titular en  
+22 ocasiones, anotó siete goles, asistió cinco, recibió cuatro amarillas y tiene 1 951 minutos en  
+cancha.
+
+Esos buenos números del primer semestre han ido decreciendo en el segundo, con tres titularidades y dos goles.
+
+Ante Libertad, en el empate 1-1 en el Reina del Cisne en Loja, y en la **victoria 5-2 contra Universidad Católica** en Chillo-Jijón, sumó 26 minutos.
+
+Las dos últimas titularidades fueron en la cuarta y quinta jornada ante Técnico Universitario y Aucas, respectivamente, en donde alcanzó los 152 minutos.
+
+En lo que va de la segunda etapa de la **Liga Pro no jugó en ninguna de las ocho fechas los 90 minutos**, algo que en la primera etapa lo hizo cuatro veces.
+
+En cuanto a goles, le anotó a **Barcelona SC en el Monumental, desde el punto penal**, y a Cumbayá, siempre entrando desde el banco de suplentes y jugando menos de 30 minutos, lo que también pone en evidencia la rápida injerencia que tiene en su equipo.
+
+En las últimas horas, el nombre de **Kendry Páez fue tendencia en redes sociales tras haberse publicado** un video en donde se lo observa en un concierto en Guayaquil, con un vaper en una de sus manos, mientras escucha al artista de turno.
+
+No te pierdas – El Confesionario
 --------------------------------
 
-Deportivo Quito continuó acechando el área rival tras la reanudación del cotejo, pero esta vez el ambiente era diferente. Con los gritos y el **apoyo incondicional de su hinchada**, parecía que la segunda anotación, la que traería la calma, estaba al caer.
+Una equivocación hizo millonaria a una mujer
+============================================
 
-Y así fue: a los 55 minutos, un centro desde el sector derecho encontró a **José Luis Rivera**, quien voló en el área para alcanzar el esférico. Conectó de manera precisa y colocó el 2-0 parcial.
+María entregó dos billetes de dos mil pesos y, sin saberlo, se marchaba con un ticket que cambiaría su vida.
+------------------------------------------------------------------------------------------------------------
 
-Tras la anotación, el complejo de Independiente del Valle estalló en júbilo, llenándose de cánticos de la afición azulgrana, extasiada de ver a su equipo ganar nuevamente y con el sueño de regresar a la **Serie B**.
+![Zharit Acosta vendedora del premio millonario.](https://www.elcomercio.com/wp-content/uploads/2024/09/chica-vendedora-el-tiempo.jpg)
 
-Pocos minutos después del gol, **Rivera estuvo cerca de lograr su doblete** con un potente disparo desde el sector derecho, pero el balón se estrelló en la parte exterior de las redes.
+María\* llegó el pasado viernes al punto de **SuperGiroseen e**l barrio Betania, de Barranquilla, como lo hacía cada semana. El propósito era claro: **sellar su Miloto, un juego de azar similar al Baloto,** pero con menos combinaciones y un **premio acumulado** que la hizo millonaria[.](https://es.wikipedia.org/wiki/Loter%C3%ADa "https://es.wikipedia.org/wiki/Loter%C3%ADa")
 
-La escuadra azulgrana no bajó los brazos tras obtener la ventaja de dos goles y continuó generando ocasiones de peligro, con el objetivo de sentenciar la llave antes del partido de vuelta la próxima semana.
+### Más noticias
 
-En el ocaso del partido, Iker Morante, a los 82 minutos, conecte un cabezazo letal para sellar la goleada de la ‘AKD’
+* [Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla](https://www.elcomercio.com/deportes/copa-america/cleber-chala-chilena-chile-barranquilla.html "Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla")
+* [La gata Catalina simboliza la esperanza en Colombia](https://www.elcomercio.com/actualidad/mundo/gata-catalina-simboliza-esperanza-colombia.html "La gata Catalina simboliza la esperanza en Colombia")
+* [Un error hizo millonaria a una apostadora de Colombia y esta es su historia](https://www.elcomercio.com/tendencias/trending/millonaria-apostadora-colombia-miloto.html "Un error hizo millonaria a una apostadora de Colombia y esta es su historia ")
+
+Al acercarse al mostrador, María le pidió a **Zharit Acosta, la asesora de confianza** en quien siempre depositaba su fe, que sellara su boleto con los números que ella misma había seleccionado. 
+
+Sin embargo, un pequeño error de Zharit alteraría el destino de María para siempre. **Al ingresar los números, en lugar de teclear el 09 en la tercera balota, digitó el número 10.**
+
+El número que la hizo millonaria
+--------------------------------
+
+“Déjelo así, no lo cambie, ese es el número de la suerte”, le dijo Zharit a María cuando esta notó el error en el boleto impreso. La apostadora, **confiada en la recomendación de la asesora**, decidió mantener la combinación. 
+
+Un ticket cambió su vida
+------------------------
+
+De manera manual y no automática, como ocurre en otras modalidades de juego, los números fueron sellados: 03, 06, 10 (en vez de 09), 18 y 33. **María entregó dos billetes de dos mil pesos** y, sin saberlo, se marchaba con un ticket que cambiaría su vida.
+
+El premio
+---------
+
+La mañana del sábado trajo consigo una noticia que pocos llegan a experimentar. **María había ganado el acumulado del Miloto: 530 millones de pesos.** Aunque 20% del premio se destinaría a impuestos para el sistema de salud en el país, su **fortuna era innegable**. Sin el error de Zharit, María solo habría acertado cuatro de los cinco números, llevándose un premio mucho menor de 600 mil pesos.
+
+Premio para colaboradores
+-------------------------
+
+La alegría no solo invadió a María. SuperGiros, fiel a su política de premiar a los colaboradores que venden boletos ganadores, r**ecompensará a Zharit con tres millones de pesos como incentivo.** En casos como el Baloto, la cifra puede ascender hasta los 15 millones. “Le haré el cumpleaños de sirenita a mi hija, con payasos, brincabrinca y pudín”, expresó emocionada Zharit, al anunciar cómo invertiría su premio.
+
+**Este premio es el segundo más alto otorgado por Miloto** desde que inició operaciones en Colombia el 20 de octubre de 2023. El mayor premio, de 550 millones de pesos, fue entregado el pasado 15 de agosto en Puerto Gaitán, Meta.
+
+Sorteos y premios
+-----------------
+
+Desde su lanzamiento, Miloto realizó 197 sorteos y entregado 19 premios que, en total, suman cerca de cinco mil millones de pesos. Todo esto a **afortunados como María,** quienes con una modesta inversión de cuatro mil pesos **han visto sus vidas transformadas.**
+
+Concurso de Fiscal General tiene nuevos ajustes en su reglamento
+================================================================
+
+El Cpccs prohíbe la postulación a Fiscal General de procesados por delitos de corrupción o crimen organizado.
+-------------------------------------------------------------------------------------------------------------
+
+![Pleno del Cpccs en la sesión extraordinaria número 44 este 30 de septiembre de 2024](https://www.elcomercio.com/wp-content/uploads/2024/09/cpccs.png)
+
+El **Consejo de Participación Ciudadana y Control Social (Cpcss)** anunció este 30 de septiembre de 2024 reformas en el proceso de designación del **Fiscal General del Estado**. Entre las nuevas disposiciones, se incluye la **prohibición de postularse** para aquellos ciudadanos que se encuentren procesados por delitos relacionados con **corrupción o crimen organizado**.
+
+### Más noticias
+
+* [El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/politica/cpccs-continua-concurso-fiscal-general-motivo.html "El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?")
+* [Fiscalía abre investigación previa por incendios en Quito; autoridades hablan de terrorismo](https://www.elcomercio.com/actualidad/quito/fiscalia-abre-investigacion-previa-incendios-quito-terrorismo.html "Fiscalía abre investigación previa por incendios en Quito; autoridades hablan de terrorismo")
+* [Cpccs aprobó reglamento del concurso para Fiscal General del Estado](https://www.elcomercio.com/actualidad/politica/cpccs-aprobo-reglamento-concurso-fiscal-general-estado.html "Cpccs aprobó reglamento del concurso para Fiscal General del Estado")
+
+Esta medida se implementa para **evitar posibles conflictos de interés** y garantizar que el nuevo titular del cargo no esté involucrado en **actividades ilícitas o compromisos con grupos delictivos**.
+
+Las reformas se apegan al **Código Orgánico de la Función Judicial**, que establece estrictos requisitos para quienes aspiren a servir en este tipo de funciones.
+
+Ajustes clave en el reglamento de designación del nuevo fiscal
+--------------------------------------------------------------
+
+Las modificaciones incluyen dos **causales fundamentales**. Primero, no podrán postularse aquellas personas que estén procesadas o llamadas a juicio por **delitos relacionados con corrupción o crimen organizado**, siempre que el proceso penal se encuentre en trámite.
+
+Segundo, se excluye a quienes hayan sido **defensores de personas vinculadas a estructuras criminales** y que hayan sido llamadas a juicio o **condenadas por delitos como terrorismo, tráfico de drogas, armas, y delincuencia organizada en los últimos diez años**.
+
+> Acompáñanos en la Sesión Extraordinaria N.44.  
+>   
+> 🔷El Pleno del CPCCS conocerá el Reglamento del concurso de Fiscal General.  
+>   
+> 🔴En vivo👇[https://t.co/Bv29sdmeRU](https://t.co/Bv29sdmeRU) [pic.twitter.com/WLRVHgsFgr](https://t.co/WLRVHgsFgr)
+> 
+> — Participa Ecuador (@CpccsEc) [September 30, 2024](https://twitter.com/CpccsEc/status/1840782867359482125?ref_src=twsrc%5Etfw)
+
+Estas prohibiciones buscan fortalecer la integridad del **proceso de selección y asegurar que el Fiscal General** tenga un historial ético. Además, se busca que tenga una trayectoria **libre de vínculos con actividades ilícitas**.
+
+Principios de transparencia y meritocracia
+------------------------------------------
+
+El presidente del Cpccs, Andrés Fantoni, subrayó que el **reglamento de designación** se fundamenta en tres principios esenciales: **transparencia, meritocracia y participación ciudadan**a.
+
+Según Fantoni, es fundamental que la **designación del próximo Fiscal General** se realice sin presiones políticas **ni intereses particulares**. Esto servirá para garantizar la independencia del **sistema de justici**a.
+
+Además, se aclaró que las acciones afirmativas, determinadas por la **Constitución y las normativas específicas**, se calificarán con un solo punto, respetando el límite total en la fase de méritos.
+
+Así serán los cortes de luz en Guayaquil este lunes 30 de septiembre
+====================================================================
+
+Los racionamientos abarcan un promedio de ocho y diez horas sin luz a lo largo del día. Revisa el cronograma.
+-------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil abarcan hasta 10 horas distribuidas en el día.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-Guayaquil.jpg)
+
+Este **lunes 30 de septiembre de 2024** se aplicarán los **horarios de cortes de luz** publicados por el Ministerio de Energía y Minas la semana pasada.
+
+### Más noticias
+
+* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
+* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
+* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
+
+Esto como consecuencia de la **crisis energética que atraviesa Ecuador** a causa de la sequía que ocasionó que los embalses disminuyeran su caudal.
+
+Para ello, el Gobierno Nacional tomó medidas como un **cronograma de cortes de luz** que abarca más de 10 horas en algunas provincias.
+
+Horarios de cortes de luz en Guayaquil
+--------------------------------------
+
+La empresa distribuidora de energía eléctrica CNEL dio a conocer la semana anterior el cronograma de cortes de luz previstos **para la semana entre el 30 de septiembre y el 6 de octubre**.
+
+Estos horarios contemplan la **suspensión del suministro de energía** en rangos de dos, tres y cuatro bloques de cortes aplicados durante la noche y el día.
+
+La suspensión se aplicará **durante ocho y diez horas**, dependiendo del sector.
+
+Los cortes arranca**n a partir de las 00:00 durante dos o tres horas**. En algunos sitios van de 02:00 a 06:00. El segundo corte se inicia en horas de la mañana, entre las 06:00 y las 08:00 y se pueden extender hasta el mediodía.
+
+En la tarde, otro bloque va **entre las 14:00 y las 17:00** y va hasta la noche. Por último, los cortes de luz de la noche arrancan desde las 18:00 y llegan hasta las 24:00.
+
+Este es el **cronograma de cortes de luz** en Guayaquil, por sectores.
+
+Las horas sin luz podrían reducirse
+-----------------------------------
+
+El ministro de Energía y Minas, **Antonio Goncalves,** informó la tarde del domingo 29 de septiembre que **debido a las lluvias** que se han registrado en el país en las últimas horas**, los cortes podrían variar**.
+
+Gracias al aumento **del caudal en Coca Codo**, las horas de suspensión pueden reducirse pese a que ya se establecieron unos horarios de cortes. El Ministro aclara que **ante las dudas de la ciudadanía** en cuanto al cumplimiento de los cortes, se trata de disminuir el impacto de la crisis conforme lo permitan los caudales de las [hidroeléctricas](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
+
+Un tronco conservado miles de años aporta claves de solución climática
+======================================================================
+
+Este hallazgo podría mejorar las bóvedas de madera como solución climática, al evitar la liberación de dióxido de carbono y ayudar a mitigar el cambio climático.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los investigadores dicen que un suelo arcilloso de baja permeabilidad contribuyó a la notable conservación de este antiguo tronco.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo.jpg)
+
+Un nuevo estudio publicado en la revista Science sugiere que un tronco viejo y corriente puede ayudar a refinar nuevas estrategias naturales para abordar el cambio climático.
+
+Un equipo de investigadores dirigido por el profesor de Ciencias Atmosféricas y Oceánicas de la Universidad de Maryland Ning Zeng analizó un tronco de 3.775 años de antigüedad y el suelo del que fue excavado. Su análisis reveló que el tronco había perdido menos del 5% de dióxido de carbono de su estado original gracias al suelo arcilloso de baja permeabilidad que lo cubría.
+
+“La madera es bonita y sólida; probablemente se podría hacer un mueble con ella”, señaló Zeng en un comunicado.
+
+### Más noticias:
+
+* [¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?](https://www.elcomercio.com/actualidad/negocios/ecuador-crecimiento-economico-pobreza-politicas-cambio-climatico.html "¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?")
+* [Centroamérica debe aprovechar tecnología para adaptarse a crisis climática](https://www.elcomercio.com/actualidad/mundo/centroamerica-debe-aprovechar-tecnologia-adaptarse-crisis-climatica.html "Centroamérica debe aprovechar tecnología para adaptarse a crisis climática")
+* [Los impactos reales de la sequía aún estamos por descubrir](https://www.elcomercio.com/opinion/editorial/reales-impactos-sequia-estamos-descubrir.html "Los impactos reales de la sequía aún estamos por descubrir")
+
+Comprender los factores ambientales únicos que mantuvieron ese tronco antiguo en perfecto estado podría ayudar a los investigadores a perfeccionar una solución climática emergente conocida como “bóveda de madera”, que implica tomar madera que no es comercialmente viable (como árboles destruidos por enfermedades o incendios forestales, muebles viejos o materiales de construcción sin usar) y enterrarla para detener su descomposición.
+
+Los árboles secuestran de forma natural el dióxido de carbono (un potente gas que calienta el planeta) durante toda su vida, lo que hace que los proyectos de plantación de árboles sean un método popular para mitigar el cambio climático. Pero, por otro lado, cuando los árboles mueren y se descomponen, ese gas de efecto invernadero se libera de nuevo a la atmósfera, lo que contribuye al calentamiento global.
+
+“La gente tiende a pensar: ‘¿Quién no sabe cómo cavar un hoyo y enterrar un poco de madera?'”, dijo Zeng. “Pero piense en cuántos ataúdes de madera se enterraron en la historia de la humanidad. ¿Cuántos de ellos sobrevivieron? Para una escala de tiempo de cientos o miles de años, necesitamos las condiciones adecuadas”.
+
+Un hallazgo clave para la conservación de madera antigua
+--------------------------------------------------------
+
+En 2013, mientras realizaba un proyecto piloto de bóvedas de madera en Quebec, Canadá, Zeng descubrió el tronco de 3.775 años que se convirtió en el foco del estudio, un encuentro casual que para Zeng fue “algo milagroso”. Mientras cavaban una zanja para enterrar madera fresca, Zeng y otros investigadores vieron el tronco a unos 2 metros por debajo de la superficie.
+
+“Cuando la excavadora sacó un tronco del suelo y nos lo arrojó, los tres ecologistas que había invitado de la Universidad McGill lo identificaron inmediatamente como cedro rojo del este”, recordó Zeng. “Se notaba lo bien conservado que estaba. Recuerdo que me quedé allí pensando: ‘Vaya, aquí está la prueba que necesitamos'”.
+
+Si bien los estudios anteriores han analizado muestras antiguas de madera preservada, tendieron a pasar por alto las condiciones del suelo circundante, según Zeng.
+
+“Existe mucha evidencia geológica y arqueológica de madera preservada de cientos a millones de años atrás, pero el enfoque de esos estudios no era ‘¿Cómo podemos diseñar una bóveda de madera para preservar esa madera?'”, dijo Zeng. “Y el problema con el diseño de un nuevo experimento es que no podemos esperar 100 años para obtener los resultados”.
+
+El papel del suelo arcilloso en la preservación y su potencial para combatir el cambio climático
+------------------------------------------------------------------------------------------------
+
+Poco después de la excavación de Quebec, los colaboradores de la UMD en MAPAQ, un ministerio gubernamental en Montreal, realizaron la datación por carbono para determinar la edad del tronco. Luego, en 2021, el distinguido profesor universitario Liangbing Hu, del Departamento de Ciencia e Ingeniería de Materiales de la UMD, ayudó a Zeng a analizar la estructura microscópica, la composición química, la resistencia mecánica y la densidad de la muestra de 3.775 años de antigüedad. Luego compararon esos resultados con los de un tronco de cedro rojo del este recién cortado, que reveló que la muestra más antigua había perdido muy poco dióxido de carbono.
+
+El tipo de suelo que cubría el tronco fue la razón clave de su notable conservación. El suelo arcilloso de esa parte de Quebec tenía una permeabilidad especialmente baja, lo que significa que impedía o ralentizaba drásticamente la llegada de oxígeno al tronco y, al mismo tiempo, mantenía alejados a los hongos y los insectos, los descomponedores que se encuentran típicamente en el suelo.
+
+Debido a que el suelo arcilloso es común, las bóvedas de madera podrían convertirse en una opción viable y de bajo costo en muchas partes del mundo. Como solución climática, Zeng señaló que las bóvedas de madera se combinan mejor con otras tácticas para frenar el calentamiento global, incluida la reducción de las emisiones de gases de efecto invernadero.
+
+Mientras él y sus colegas continúan optimizando las bóvedas de madera, espera poner en práctica lo que han aprendido para ayudar a frenar el cambio climático.
+
+“Es un descubrimiento muy emocionante”, dijo Zeng sobre este último estudio. “La urgencia del cambio climático se ha convertido en un problema tan importante, por lo que hubo aún más motivación para poner en marcha este análisis”.
+
+‘Dibu’ Martínez ofrece disculpas por polémicos actos con Argentina
+==================================================================
+
+El arquero Emiliano 'Dibu' Martínez reaccionó tras la sanción de la FIFA y pidió disculpas a raíz de sus acciones con la Selección de Argentina.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Emiliano 'Dibu' Martínez, arquero de la Selección de Argentina, en un partido del Aston Villa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Snapinsta.app_461651473_2066699763751886_4611724277384225252_n_1080.jpg)
+
+**Emiliano ‘Dibu’ Martínez** se pronunció con respecto a sus polémicos actos en festejos y tras agredir a un camarógrafo en la última fecha de eliminatorias. El arquero de la Selección de Argentina se disculpó por sus actos y se comprometió a concentrarse en su fútbol.
+
+A raíz de lo suscitado en la pasada jornada de los cotejos internacionales, el guardameta que milita en el **Aston Villa** sufrió una sanción de parte de la FIFA. El ente rector del fútbol consideró que el guardameta tuvo conductas ofensivas e infringió los principios de juego.
+
+### Más noticias:
+
+* [(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina](https://www.elcomercio.com/deportes/seleccion-ecuador-incidentes-violencia-argentina-sub-16.html "(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina")
+* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
+* [Lewis Hamilton revela problemas de salud mental desde la niñez](https://www.elcomercio.com/deportes/lewis-hamilton-problemas-salud-mental.html "Lewis Hamilton revala problemas de salud mental desde la niñez")
+
+La sanción de **Martínez** aplica para los siguientes compromisos de clasificación hacia el **Mundial de 2026**. Allí, la Selección de Argentina se enfrentará a los combinados de Venezuela, como local, y Bolivia, como visitantes.
+
+Aunque la **Asociación de Fútbol Argentino (AFA)** señaló que intentó apelar la suspensión del guardameta, aquello no resultó en la FIFA. A raíz de ello, la reacción de ‘Dibu’ Martínez se dio por medio de sus redes sociales.
+
+Las disculpas de Emiliano ‘Dibu’ Martínez
+-----------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAiTg16KEq2/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Emi Martinez (@emi\_martinez26)](https://www.instagram.com/p/DAiTg16KEq2/?utm_source=ig_embed&utm_campaign=loading)
+
+En su cuenta de instagram, **Martínez** agregó una foto suya junto a una de las mascotas que saltaron a la cancha en las eliminatorias. Allí, el arquero adjuntó un texto en el cual se refirió a la sanción y dejó un mensaje sobre su comportamiento y su fútbol.
+
+“**Acepto la sanción de la FIFA y pido disculpas si ofendí a alguien, el momento de celebración es para hacer sonreír a muchos chicos y no faltar el respeto a nadie.** Apoyaré a mis amigos en esa fecha FIFA con el dolor de no poder estar”, manifestó el golero.
+
+Dentro del texto, ‘Dibu’ Martínez afirmó que nunca tuvo intenciones de faltar el respeto. A su vez, señaló que tampoco se había dado cuenta de que su gesto podía ser ofensivo. “**Trataré de no ofender más a nadie y solo enfocarme en ganar títulos con Argentina y el Aston Villa**“, agregó.
+
+La agresión de Martínez en Colombia vs. Argentina
+-------------------------------------------------
+
+El acto que le llevó a **Emiliano ‘Dibu’ Martínez** a su suspensión, en concreto, fue una acción al finalizar el compromiso contra alguien de la transmisión. Un **camarógrafo** se acercó al arquero y este último lo agredió al momento en que lo filmaba.
+
+El suceso quedó registrado dado que se produjo en vivo. A su vez, tras ello el involucrado se alejó del portero de **Argentina**.
+
+Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025
+=============================================================================
+
+El CNE regula el uso del fondo de promoción electoral 2025 para asegurar la equidad en la campaña y control del gasto.
+----------------------------------------------------------------------------------------------------------------------
+
+![CNE en la aprobación de la convocatoria para las elecciones generales 2025 el pasado 11 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/cne.png)
+
+En las **elecciones de 2025**, la **publicidad electoral y la distribución de recursos para las campañas** de los candidatos juegan un rol fundamental en la transparencia y equidad del proceso electoral.
+
+### Más noticias
+
+* [Más binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Más binomios se inscribieron en el CNE para las elecciones 2025")
+* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html "Multas por realizar campaña anticipada a las elecciones de 2025")
+* [CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz](https://www.elcomercio.com/actualidad/pabel-munoz-revocatoria-alcalde-cne.html "CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz")
+
+El **Fondo de Promoción Electoral** es un mecanismo regulado por el **Consejo Nacional Electoral (CNE)** y forma parte del **sistema de control sobre el uso de recursos en campañas**. Este proceso sirve para asegurar que se cumplan los límites establecidos para la **promoción electoral**.
+
+Definición del Fondo de Promoción Electoral
+-------------------------------------------
+
+El **Fondo de Promoción Electoral** es un recurso económico asignado por el **Estado ecuatoriano** a los candidatos y las **organizaciones políticas** que participan en las elecciones.
+
+> 🔴 AHORA  
+> Se reinstala la Sesión Ordinaria No. 83 del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Sigue la transmisión a través de nuestro canal en [#Youtube](https://twitter.com/hashtag/Youtube?src=hash&ref_src=twsrc%5Etfw) ⬇️📽️[https://t.co/ALhlTMEFAf](https://t.co/ALhlTMEFAf)
+> 
+> — cnegobec (@cnegobec) [September 29, 2024](https://twitter.com/cnegobec/status/1840514200587915275?ref_src=twsrc%5Etfw)
+
+Su **propósito es financiar**, de manera parcial, la difusión de propuestas y mensajes electorales en medios de comunicación autorizados. Esto con el fin de **garantizar la equidad en la contienda electoral y permitir que los ciudadanos reciban información relevante**.
+
+Asignación del fondo en el proceso electoral de 2025
+----------------------------------------------------
+
+De acuerdo con el **calendario electoral 2025** aprobado por el CNE, la determinación del **fondo de promoción electoral** se realizará en dos momentos.
+
+Para la **primera vuelta electoral**, la aprobación del fondo será entre e**l 31 de diciembre de 2024 y el 4 de enero de 2025**. En el caso de que sea necesaria una **segunda vuelta presidencial**, se contempla un nuevo proceso para aprobar el fondo, el cual se desarrollará el **23 de marzo de 2025,** días antes del inicio de la campaña para esta fase del proceso.
+
+Este fondo tiene como objetivo cubrir los **costos relacionados con la promoción electoral**, tales como la **contratación de espacios en medios de comunicación** tanto nacionales como internacionales (en el caso de ecuatorianos residentes en el extranjero).
+
+> A las 18h00 de este miércoles, 2 de octubre, concluye el plazo para la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw). 🗳️🇪🇨  
+>   
+> Infórmate de la coyuntura electoral con nuestro Resumen Semanal ⬇️📽️ [pic.twitter.com/OxEPdvVVje](https://t.co/OxEPdvVVje)
+> 
+> — cnegobec (@cnegobec) [September 29, 2024](https://twitter.com/cnegobec/status/1840410579741073766?ref_src=twsrc%5Etfw)
+
+Los gastos se deben realizar c**onforme a las directrices del CNE y dentro de los límites de gasto electoral** establecidos para cada dignidad en disputa.
+
+Límite del gasto electoral y control del uso de recursos
+--------------------------------------------------------
+
+En el contexto de las elecciones generales, el **CNE fija un límite de gasto electoral**, con base en lo estipulado en el **Código de la Democracia**.
+
+Esta medida tiene como finalidad **evitar un uso excesivo de recursos económicos** que pueda influir en el resultado electoral o crear una desigualdad entre los competidores. El límite de gasto electoral se define, tomando en cuenta variables, como el **número de electores y la naturaleza de la dignidad que se elige**; en esta segunda variables están la Presidencia, la Vicepresidencia, la Asamblea Nacional o el Parlamento Andino.
+
+Una vez determinado el límite, las organizaciones políticas y candidatos deben **ajustarse a este techo** en la ejecución de sus **campañas publicitarias**.
+
+El CNE, a través de su **Unidad de Fiscalización del Gasto Electoral**, supervisa el cumplimiento de estos límites. Esta fiscalización incluye la revisión de informes de gastos de campaña y la verificación del uso del fondo estatal.
+
+Medios autorizados para la promoción electoral
+----------------------------------------------
+
+Los medios de comunicación que participen en la difusión de propaganda electoral deben estar registrados ante el CNE. Esto incluyen **medios televisivos, radiales, impresos y digitales, tanto dentro como fuera del país,** para garantizar la cobertura de la población ecuatoriana que reside en el extranjero. El CNE supervisa que los **precios de los espacios publicitarios sean justos** y equivalentes para todos los actores políticos, evitando con esto ventajas indebidas.
+
+La **contratación de publicidad** fuera de los medios autorizados constituye una infracción electoral y puede acarrear sanciones a las organizaciones políticas y candidatos involucrados.
+
+Por esta razón, es esencial que las **campañas se mantengan dentro del marco legal** establecido. Asimismo, que la distribución de los **fondos públicos** se lleve a cabo de manera **transparente y auditada**.
+
+Campaña y silencio electoral
+----------------------------
+
+La campaña electoral para la **primera vuelta de las elecciones de 2025** comenzará el 5 de enero de 2025 hasta el **6 de febrero**. Durante este periodo, los candidatos podrán utilizar el **Fondo de Promoción Electoral** para promover sus propuestas.
+
+En cuanto a la **segunda vuelta** (si es necesaria), la campaña electoral se llevará a cabo del **24 de marzo al 10 de abril de 2025**. Como en la **primera vuelta**, se deberán cumplir las normativas del CNE, ajustándose a los límites establecidos para cada etapa del proceso.
+
+El **silencio electoral** comenzará un día después del cierre de la campaña en ambas vueltas. Es decir, el **7 de febrero para la primera vuelta y el 11 de abril para la segunda vuelta**. Durante este tiempo, la difusión de propaganda electoral está **prohibida en los medios de comunicación y otros espacio**s. Con la finalidad de permitir que los ciudadanos reflexionen sobre su voto sin influencia de campañas.
+
+Binomios presidenciales se suman a las elecciones 2025, faltan dos días
+=======================================================================
+
+El último corte de inscripciones del CNE aún no contiene ni la mitad de binomios anunciados.
+--------------------------------------------------------------------------------------------
+
+![Las votaciones generales en Ecuador serán el 9 de febrero de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/binomios-corte.jpg)
+
+Faltan apenas dos días para que se cierren las inscripciones rumbo a las **elecciones 2025** en Ecuador. Este plazo culminará a las 18:00 de este 2 de octubre[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+
+La mañana de este lunes, 30 de septiembre, el **Consejo Nacional Electoral (CNE)** dio un nuevo reporte de las listas que ya se han registrado.
+
+### Más noticias
+
+* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html)
+* [Avanza inscripción de binomios para elecciones 2025, a tres días del fin del plazo](https://www.elcomercio.com/actualidad/politica/avanza-inscripcion-binomios-elecciones-2025-tres-dias-fin-plazo.html "Avanza inscripción de binomios para elecciones 2025, a tres días del fin del plazo")
+* [Paridad es un requisito para la inscripción en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "Paridad es un requisito para la inscripción en las elecciones 2025")
+
+> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨 | Los ecuatorianos en el exterior 🌐 votarán de manera presencial, indica el [@CNEVice](https://twitter.com/CNEVice?ref_src=twsrc%5Etfw). El órgano electoral coordina con [@CancilleriaEc](https://twitter.com/CancilleriaEc?ref_src=twsrc%5Etfw) las actividades necesarias para el sufragio de los compatriotas, menciona. [pic.twitter.com/0pchQw1rMs](https://t.co/0pchQw1rMs)
+> 
+> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840758003533832445?ref_src=twsrc%5Etfw)
+
+Binomios para las elecciones 2025, en la recta final
+----------------------------------------------------
+
+El **[CNE](https://www.cne.gob.ec/)** detalló que de las 584 listas proclamadas tras el proceso de **primarias**, que culminó en agosto de 2024, 155 completaron el registro.
+
+En lo que se refiere a los **binomios presidenciales**, apenas siete de los 16 binomios anunciados para la Presidencia y Vicepresidencia constan en el registro.
+
+Las votaciones generales se realizarán el 9 de febrero de 2025. Según **Enrique Pita**, vicepresidente del **CNE**, Los ecuatorianos en el exterior ejercerán el derecho al voto de forma presencial, para lo cual coordinan con la Cancillería.
+
+Para las elecciones 2025 en Ecuador, **`13` 279 829 personas** se encuentran habilitadas para votar en territorio nacional y 456 485, en el exterior.
+
+> [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) 📢 | Con corte a las 06h45 de hoy, lunes 30 de septiembre, 155 listas han solicitado su [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) a través del sistema informático del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 🇪🇨🗳️ Esta etapa, que se desarrolla únicamente en línea, concluye a las 18h00 del miércoles 2 de octubre. [pic.twitter.com/ESkgy1Byvn](https://t.co/ESkgy1Byvn)
+> 
+> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840733199900545531?ref_src=twsrc%5Etfw)
+
+Inscripciones y los parámetros
+------------------------------
+
+Las candidaturas para la **Presidencia** y sus binomios se consideran unipersonales. 
+
+Para **asambleístas nacionales**, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
+
+En el caso de parlamentarios andinos, las **candidaturas** son pluripersonales y se presentarán en listas completas, por cada candidato principal se presentarán dos suplentes. 
+
+Las listas se conformarán obligatoriamente cumpliendo con los principios de **equidad, paridad, alternancia y secuencialidad** entre mujeres y hombres, tanto para principales como para suplentes.
+
+Las candidaturas en firme
+-------------------------
+
+La inscripción de **candidaturas** no garantiza la participación. El proceso, además, incluye un plazo para objeciones e impugnaciones.
+
+Una vez recibidas las inscripciones, el **CNE** notificará las listas de candidaturas a los actores políticos el 3 de octubre de 2024. A partir de ese momento, comenzará un período de objeciones.
+
+La etapa de cuestionamientos empezará del 5 al 10 de octubre de 2024. Cualquier **actor político** podrá presentar el pedido, con sustentos legales.
+
+Las candidaturas objetadas tendrán un día para recibir la notificación y dos para presentar su contestación.
+
+Luego de esos pasos, el 30 de diciembre se conocerán los cuadros que, finalmente, correrán por la **Presidencia, Vicepresidencia, Asamblea y Parlamento Andino**.
+
+Binomios que se apuntaron
+-------------------------
+
+Por Creo, el binomio está integrado por **Francesco Tabacchi y Blanca Sacancela**. Este fue el primero en registrarse en el CNE.
+
+Centro Democrático, en cambio, apostó por **Jimmy Jairala y Lucía Vallecilla**. Acción Democrática Nacional (ADN) buscará quedarse en el Palacio de Carondelet, con la participación de **Daniel Noboa** y **María José Pinto**.
+
+**Andrea González y Galo Moncayo** corren por Sociedad Patriótica y **Jorge Escala y Pacha Terán** por Unidad Popular.
+
+La dupla de la **Revolución Ciudadana** está conformada por Luisa González y Diego Borja, aunque acudieron al CNE el 28 de septiembre, apenas en el corte de este lunes aparecieron en el corte del **CNE.**
+
+Eso porque la **inscripción** es netamente en línea a través del sistema del organismo electoral. Los postulantes pueden ir a las instalaciones, sin embargo, más allá de un acto simbólico, el trámite no es presencial.
+
+Lo mismo que con Revolución Ciudadana pasó con el partido Socialista Ecuatoriano. Este binomio está constituido por **Pedro Granja y Verónica Silva**.
+
+Listas para asambleístas
+------------------------
+
+Para **asambleístas nacionales**, a poco de cerrarse el plazo, solo una de las 16 proclamadas en las primarias se encuentra en el registro. Para el exterior, van nueve de 40.
+
+En lo que a listas para **legisladores provinciales** y por circunscripción, van 136 de 496.
+
+Ariel Holan se consuela con la ‘irregularidad’ del torneo
+=========================================================
+
+Ariel Holan llegó a Barcelona Sporting Club para reemplazar a Diego López. Los resultados no son los esperados.
+---------------------------------------------------------------------------------------------------------------
+
+![Janner Corozo en el estadio Monumental en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/barcelona_sc_1.jpg)
+
+**Ariel Holan y su Barcelona Sporting Club** sumaron una nueva decepción para sus hinchas tras el empate 0-0 ante Libertad en el estadio Monumental, en la octava fecha de la segunda etapa de la Liga Pro.
+
+Los hinchas presentes en el Monumental le **hicieron llegar su descontento a Ariel Holan** que no termina de convencer con sus planteamientos, cambios en el equipo y menos con el pobre funcionamiento de sus dirigidos.
+
+### Más noticias:
+
+* [Kylian Mbappé y el PSG se reencontrarán](https://www.elcomercio.com/deportes/kylian-mbappe-psg-real-madrid.html "Kylian Mbappé y el PSG se reencontrarán")
+* [(Video) Willian Pacho desata la emoción en la afición de PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-aficion.html "(Video) Willian Pacho desata la emoción en la afición de PSG")
+* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
+
+Ante Libertad, el último de la tabla y el equipo **segundo equipo que más goles recibió en la temporada con 36**, solo superado por Imbabura que tiene 40; los de Holan solo remataron tres veces al arco con cierto peligro.
+
+El argentino tras este empate compareció ante los medios de comunicación y no tuvo reparo en encontrar **‘consuelo’ por el mal momento de su equipo, con la ‘irregularidad’** que marca el desarrollo de la Liga Pro en su segundo semestre.
+
+“Sin haber conseguido lo que buscábamos y el resultado del partido, **el equipo está a tres puntos de la punta**. Es una cosa que marca la irregularidad del torneo”, dijo el entrenador argentino con una sonrisa dibujada en su rostro.
+
+Calificó a esa realidad como un “baño de realidad” y agregó que el “**equipo que logre regularizar su rendimiento** y resultados se llevará el torneo para llegar a la final”, para disputarle el título a Independiente del Valle, el primer finalista.
+
+En la tabla de posiciones de la segunda etapa, BSC marcha en la séptima posición con 13 puntos y 0 de gol diferencia.
+
+**Independiente del Valle, Liga de Quito y Orense**, en ese orden, son los líderes de la tabla con 16 puntos.
+
+Mushuc Runa puede tomar la punta su derrota a **Técnico Universitario en el cierre de la octava fecha**. Al momento tiene 14 unidades.
+
+El sábado 5 de octubre el **cuadro amarillo viajará a Quito para visitar a El Nacional** en el estadio Olímpico Atahualpa. El juego arrancará desde las 19:00.
+
+> ‼️🟡⚫️“ESTAMOS IRREGULARES, PERO NO ES EL ÚNICO EQUIPO QUE LO ESTÁ, EL EQUIPO QUE LOGRE REGULARIZAR SUS RENDIMIENTOS Y RESULTADOS SERÁ EL QUE SE LLEVE LA ETAPA”  
+>   
+> – Ariel Holan, DT de Barcelona en rueda de prensa luego del empate ante Libertad  
+>   
+> Informa: [@IvanMatuteC](https://twitter.com/IvanMatuteC?ref_src=twsrc%5Etfw) [pic.twitter.com/1cGXjADhb6](https://t.co/1cGXjADhb6)
+> 
+> — Área Deportiva FM 📻🎙 (@AreaDeportivaFM) [September 30, 2024](https://twitter.com/AreaDeportivaFM/status/1840583594189758873?ref_src=twsrc%5Etfw)
+
+Ariel Holan y su rendimiento con Barcelona
+------------------------------------------
+
+El rendimiento de Ariel Holan en **Barcelona Sporting Club es del 53%**, sumando los partidos de Copa Libertadores, Sudamericana, Copa Ecuador y Liga Pro.
+
+En esos cuatro torneos son 21 los encuentros dirigidos con un saldo de **10 victorias, cuatro empates y siete derrotas**. Marcó 28 goles y recibió 24 para un gol diferencia positivo de +4.
+
+Sus derrotas han sido en momentos claves de la temporada: 3-1 ante Talleres en la Libertadores; 1-0 ante Mushuc Runa en el cierre de la primera etapa de la Liga Pro; 3-2 con Bragantino en la Sudamericana; **2-0 con Independiente Juniors en la Copa Ecuador**; y 3-0 y 1-0 con LDU y Deportivo Cuenca, mermándole opciones en la Liga Pro.
+
+En su estadística personal se cuenta la eliminación de la Copa Libertadores; **eliminación de los play-off de octavos de final de la Copa Sudamericana**; y eliminación en los dieciseisavos de final de la Copa Ecuador.
+
+En la primera etapa de la **Liga Pro terminó en el segundo lugar con 31 puntos** y no le alcanzó para clasificarse a las finales de diciembre.
+
+En la segunda etapa todo apunta que seguirá el mismo camino y cerrará un año sin títulos, justo en la previa que el club cumpla 100 años de fundación.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/barcelona_sc_2-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+El México que deja López Obrador y recibe Claudia Sheinbaum
+===========================================================
+
+El gobernante mexicano resaltó que el producto interior bruto (PIB) es 4,5 % mayor al que recibió en el último trimestre de 2018.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Claudia Sheinbaum durante uno de sus discursos.](https://www.elcomercio.com/wp-content/uploads/2024/09/claudia-candidata-mexico-efe.jpg)
+
+El presidente mexicano, [Andrés Manuel López Obrador](https://www.elcomercio.com/actualidad/mundo/andres-lopez-obrador-movimiento-contra-bloqueo-cuba.html "https://www.elcomercio.com/actualidad/mundo/andres-lopez-obrador-movimiento-contra-bloqueo-cuba.html"), se despidió este lunes 30 de septiembre de 2024, del Gobierno con su **última conferencia ‘mañanera**‘, su controversial rueda de prensa matutina, en la que declaró que se retira **“muy satisfecho”** con su mandato y por entregarle el cargo a Claudia Sheinbaum.
+
+### Más noticias
+
+* [Sánchez califica de ‘inaceptable’ la exclusión del rey de la toma de posesión de Sheinbaum](https://www.elcomercio.com/actualidad/mundo/sanchez-califica-inaceptable-exclusion-rey-toma-posesion-sheinbaum.html "Sánchez califica de ‘inaceptable’ la exclusión del rey de la toma de posesión de Sheinbaum")
+* [Claudia Sheinbaum confirma los seis primeros nombres de su gabinete](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-primeros-nombres-gabinete.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-primeros-nombres-gabinete.html")
+* [Claudia Sheinbaum insiste en que no busca el poder absoluto](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-poder-absoluto-sector-privado.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-poder-absoluto-sector-privado.html")
+
+“Este diálogo circular hoy concluye. Me da **muchísimo gusto** que continúe este ejercicio de auténtica comunicación, de **mensajes de ida y vuelta**, como lo ofreció la presidenta electa, Claudia Sheinbaum. No puedo dejar de decir que me voy muy satisfecho por e**l cariño de muchos mexicanos**“, expresó el mandatario saliente.
+
+Estadísticas económicas
+-----------------------
+
+Al ofrecer una **lista de estadísticas socioeconómicas,** el gobernante mexicano destacó como principal logro la **salida de 9,5 millones de personas de la pobreza,** según datos del Banco Mundial.
+
+También resaltó que el **producto interior bruto (PIB)** es 4,5 % mayor al que recibió en el último trimestre de 2018, cuando asumió la presidencia, con lo que la economía de México escaló dos puestos a la posición 12 mundial.
+
+Y mencionó **un aumento récord del 110 %** en el salario mínimo en términos reales, mientras el último dato de agosto establece una tasa de inflación general de 4,99 %.
+
+“Llevamos a la práctica nuestro principio de que: **por el bien de todos, primero los pobres.** Y no solo fue una proclama, no solo fue un lema, se convirtió en una realidad porque logramos, y eso es otro timbre de orgullo, reducir la pobreza y la desigualdad en nuestro país”, manifestó.
+
+Combate al narcotráfico
+-----------------------
+
+El Gobierno del presidente de México, Andrés Manuel López Obrador, (2018-2024) concluye septiembre, con un total de 12 319 miembros del crimen organizado detenidos, casi 2.600 laboratorios del narcotráfico destruidos y la caída del 19 % en la cifra mensual de homicidios, aseguró este martes su último Informe de Seguridad.
+
+Como muestra del combate al narcotráfico, Rodríguez enunció en la conferencia matutina del Palacio Nacional la destrucción de 2 593 laboratorios clandestinos para la producción de drogas sintéticas durante los últimos seis años.
+
+Los agentes mexicanos, detalló, confiscaron más de 95 000 kilogramos de sustancias químicas y más de 44.000 kilogramos de drogas.
+
+De esta cantidad, destacó la incautación de 795 toneladas de marihuana, 205 toneladas de cocaína, 775 toneladas de metanfetamina, 1 616 kilogramos de heroína y 1 338 kilogramos de goma de opio, así como la destrucción de 11.000 hectáreas de marihuana, 66 000 de amapola y 70 de hoja de coca.
+
+Desaparecidos en México
+-----------------------
+
+La desaparición de personas es un drama que aqueja a América desde hace décadas. Durante la conmemoración del **Día Internacional de las Víctimas de Desaparición Forzada** se dio a conocer que México es el país de la región en donde el **drama es más preocupante**.
+
+Más de 115 500 víctimas figuran en el **Registro Nacional de Personas Desaparecidas** y No Localizadas (RNPDNO), mientras que el proyecto **‘¿A dónde van los desaparecidos?’** detalló que cerca de 50 000 desaparecieron durante la presidencia de Andrés Manuel López Obrador.
+
+Por ello, la **Red Nacional de Organismos Civiles de Derechos Humanos ‘Todos los Derechos para Todas, Todos y Todes’** (Red TDT) expresó que le preocupa “que los **Gobiernos no reconozcan la continuidad de esta grave violación a los derechos humanos**” y, por el contrario, “se cuestione e invisibilice esta problemática”, manteniendo en la impunidad a los responsables de cometer estos crímenes.
+
+Reformas para militarizar la Guardia Nacional 
+----------------------------------------------
+
+Andrés Manuel López Obrador **promulgó las reformas constitucionales** para militarizar la Guardia Nacional y **reconocer los derechos de los pueblos indígena**s, por lo que serán las últimas iniciativas decretadas en su Gobierno, que concluye este lunes.
+
+“Yo quiero para terminar firmar aquí frente a ustedes las **publicaciones de dos reformas constitucionales** de las 20 iniciativas de reforma que envié al Congreso (el 5 de febrero pasado)”, expresó el mandatario en su última **conferencia matutina** en el Palacio Nacional.
+
+La primera reforma, la más controvertida, cede al Ejército el control de la Guardia Nacional, un c**uerpo de seguridad creado en 2019 por López Obrador**, quien había prometido mantenerlo civil.
+
+El gobernante mexicano defendió que “es una institución para **garantizar la seguridad pública** y esta institución ya tiene **130 000 elementos** y se **construyeron 500 instalaciones**, cuarteles, y es una institución acreditada para **proteger a los ciudadanos**“.
+
+La **oposición, asociaciones civiles y organismos internacionales** alertaron durante la discusión de la iniciativa, aprobada la semana pasada, de **“una militarización”** de la vida pública de México con posibles **violaciones de derechos humanos.**
+
+Pero López Obrador argumentó ahora que el **control del Ejército** sobre la Guardia Nacional permitirá **mantener “la frontera”** entre autoridades y crimen organizado.
+
+“Se logró con esta reforma que **(la Guardia Nacional)** pase a formar parte de la Secretaría de la Defensa Nacional, lo cual le va a da**r solidez, permanencia, disciplina y manejo honesto,** sobre todo el que no se vincule a la delincuencia organizada ni a la delincuencia de cuello blanco”, expuso el mandatario.
+
+La segunda iniciativa reconoce por primera vez a los **68 pueblos originarios** como sujetos de derecho público con **personalidad jurídica y patrimonio propio,** obliga a hacer consultas sobre proyectos que afecten sus comunidades y declara como **“nación multiétnica”** a México, donde 23 millones de personas son indígenas.
+
+Salario mínimo del país
+-----------------------
+
+Este es el segundo año consecutivo en el que el salario mínimo sube un 20 % y, desde 2019, el primer año completo de la Presidencia de López Obrador, el salario mínimo ha presentado aumentos anuales de doble dígito, primero de 16 %, luego un 20 % en 2020, un 15 % en 2021, otro 22% en 2022, y el 20 % en 2023.
+
+Con ello, el poder adquisitivo del sueldo básico ha subido un 87 % desde 2018, cuando López Obrador asumió la presidencia en diciembre de 2018 y recordó que a su llegada al poder el salario mínimo era de 88 pesos diarios (5,2 dólares), 2.687 pesos (160 dólares) mensuales, y a partir del 1 de enero va a ser de 248,93 pesos diarios (14,7 dólares), 7.508 pesos (445 dólares) mensuales.
+
+Sheinbaum asumirá como presidenta
+---------------------------------
+
+La presidenta electa de México, **Claudia Sheinbaum**, asumirá su cargo este martes 1 de octubre con el **63 % de opinión favorable** entre los mexicanos, según reveló este lunes una encuesta de la firma Poligrama.
+
+De acuerdo con el sondeo, el 30,2 % de los encuestados dijo tener **una opinión “muy buena”** de la exjefa de Gobierno de Ciudad de México (2018-2023), mientras que 33,1 % aseveró que su opinión sobre Sheinbaum es “buena”.
+
+En contraste, el **24,7 % de los participantes dijeron tener una opinión “mala” de Sheinbaum** y el 12 % “muy mala”.
+
+En tanto, la mayoría de los entrevistados (40,5 %) consideraron que la presidenta electa deberá enfocarse en la **seguridad del país como prioridad.**
+
+El 25,6 % dijo que debe **centrarse en la economía**; 12,1 % en salud; 10 % en educación y 11,8 % en otros temas.
+
+La encuesta también reveló que, en el fin del Gobierno del presidente Andrés Manuel López Obrador (2018-2024), el 65,5 % de las personas aprueba su gestión, mientras que el 34,5 % la reprueba.
+
+Asimismo, señalaron que el principal logro de la Administración del mandatario, que este 30 de septiembre concluye su mandato que inició el 1 de diciembre de 2018, fue la **reducción de la pobreza** y **apoyos sociales** (43,1 %).
+
+El segundo mayor hito fue el **combate a la corrupción** (20,6 %); seguido de grandes proyectos como el Tren Maya (14,2 %), el combate a la inseguridad (6,3 %), otros (5,7 %) y el 10,1 % de los entrevistados dijo que “no sabe”.
+
+Para la encuesta se realizaron **1 000 entrevistas vía telefónica a nivel nacional** el pasado 27 de septiembre, con un nivel de confianza del 95 % y un margen de error de más o menos 3,10 puntos porcentuales. 
+
+Pequeña empresa propone cambios en jornadas laborales por cortes de luz
+=======================================================================
+
+La Capeipi propone reorganizar las jornadas laborales, para minimizar el impacto de los corrtes de luz en el sector productivo
+------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Vergara es el presidente de la Cámara de la Pequeña y Mediana Empresa de Pichincha. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/francisco-vergara.jpg)
+
+**Francisco Vergara**, presidente de la Cámara de la Pequeña y Mediana Empresa de Pichincha (**Capeipi**), habló este lunes 30 de septiembre de 2024 sobre los **cortes de luz** y sus efectos en el **sector productivo** del **Ecuador**. Además, presentó una propuesta de **racionamientos eléctricos** al presidente **Daniel Noboa**.
+
+### Más noticias
+
+* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
+* [Ministro de Energía, Antonio Goncalves, explica la razón de los cortes de luz irregulares](https://www.elcomercio.com/actualidad/negocios/cortes-luz-antonio-goncalves-ministerio-energia.html "Ministro de Energía, Antonio Goncalves, explica la razón de los cortes de luz irregulares ")
+* [Cortes de luz en Quito interfieren en la movilidad](https://www.elcomercio.com/actualidad/quito/intersecciones-afectadas-cortes-luz-quito.html "Cortes de luz en Quito interfieren en la movilidad")
+
+Jornada laboral y cortes de luz
+-------------------------------
+
+La iniciativa se denomina **Pico Placa Eléctrico** y busca gestionar la **demanda de electricidad** en medio de la crisis eléctrica que vive el país. Según Vergara, se pretende minimizar el impacto de los **cortes de energía** en el sector productivo y en la población.
+
+La **Capeipi** plantea un modelo de trabajo por turnos. El 50% de la población laboral trabajaría de **lunes a jueves**, en horarios de 07:00 a 17:00, aprovechando la luz del día. Mientras que el otro 50% laboraría de jueves a domingo, en el mismo horario.
+
+Esto permitiría un descanso adicional de tres días consecutivos por semana, para facilitar la planificación tanto para los trabajadores como para las empresas, señaló Vergara en una entrevista en el canal Teleamazonas.
+
+Para ello, se debe reorganizar la demanda en **dos áreas eléctricas equilibradas** de aproximadamente 15 000 GWh. Se tomará en consideración las áreas de concesión de las empresas distribuidoras de energía, agregó.
+
+Asimismo, es imprescindible modificar las **jornadas laborales**, respetando las 40 horas de trabajo semanales. Además, se debe ajustar la **normativa legal vigente** y realizar una declaratoria de un **estado de excepción** según el artículo 164 de la **Constitución** para su implementación.
+
+Con este **cambio de jornada** se busca reducir la **incertidumbre** que genera la **crisis energética actual**. Se garantiza que tanto las pymes como el s**ector productivo en general** puedan operar de manera más eficiente, mientras se toman las acciones necesarias para incrementar la generación eléctrica, señaló Vergara.
+
+Esta propuesta se hizo a través de una carta dirigida al presidente de la República, **Daniel Noboa**, con fecha 25 de septiembre de 2024.
+
+La Cámara de la Pequeña y Mediana Empresa de Pichincha presentó la iniciativa en representación del 90% de las empresas ecuatorianas y que genera el 80% del empleo. [Lea la propuesta completa](https://issuu.com/capeipiecuador/docs/oficio_capeipi_mapa_energ_tico "https://issuu.com/capeipiecuador/docs/oficio_capeipi_mapa_energ_tico").
+
+(Video) Carrera de coches de madera deja heridos en Chimborazo
+==============================================================
+
+La Municipalidad de Pallatanga realizó la convocatoria en el marco de sus fiestas patronales
+--------------------------------------------------------------------------------------------
+
+![El percance en la vía dejó personas heridas.](https://www.elcomercio.com/wp-content/uploads/2024/09/coches-de-madera.jpg)
+
+El sábado 28 de septiembre de 2024, **una carrera de coches de madera** se realizó en Pallatanga, provincia de Chimborazo, en el marco de las fiestas patronales.
+
+### Más noticias
+
+* [Lluvias están previstas en Quito para la tarde de este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/lluvias-previstas-quito-para-tarde-de-este-30-de-septiembre.html "Lluvias están previstas en Quito para la tarde de este 30 de septiembre")
+* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
+* [Siete personas fallecieron en ataque armado en una gallera](https://www.elcomercio.com/actualidad/seguridad/siete-personas-fallecieron-en-ataque-armado-en-una-gallera.html "Siete personas fallecieron en ataque armado en una gallera")
+
+La competencia
+--------------
+
+La **tradicional carrera de coches de madera** se realizó en la vía estatal Trigoloma- Pallatanga desde las 09:00 del sábado. Fue convocada por la Municipalidad de Pallatanga.
+
+Esta competencia tuvo **varias categorías:**
+
+* Llanta de aire con volante
+* Llantas de aire tradicional
+* Llantas de madera
+
+Parte de las actividades por las **fiestas patronales** fue también una ‘Pamplonada’, que consiste en soltar un toro por las calles de la ciudad para que los aficionados lo toreen.
+
+La carrera no salió bien
+------------------------
+
+A poco de haber arrancado la carrera, **uno de los coches perdió el control** del vehículo y se golpeó contra la valla de protección.
+
+Debido a la velocidad, los pilotos siguientes **no pudieron controlar los coches** y terminaron impactándose unos contra otros.
+
+En los videos que circulan en **redes sociales** se puede ver a los ocupantes de un coche rojo volcarse y encunetarse, luego, otro coche los embiste a gran velocidad.
+
+Se pueden escuchar los gritos de los asistentes y los movimientos de mano para tratar de avisar a los coches que se **aproximaban sobre el percance,** esto debido a que estaban en plena curva.
+
+Más abajo se puede ver que otro **coche pierde el control** e impacta contra un vehículo que bajaba por la vía. Su copiloto sale volando y termina en el pavimento. Logra incorporarse y caminar hasta el costado de la carretera.
+
+Algunos de los piloto**s lograron esquivar a sus contrincantes** y siguieron la marcha. Según información difundida, al menos seis personas resultaron heridas y necesitaron [atención médica](https://es.wikipedia.org/wiki/Cant%C3%B3n_Pallatanga "https://es.wikipedia.org/wiki/Cant%C3%B3n_Pallatanga").
+
+Los espectadores **saltaron la valla** y acudieron en ayuda de las personas afectadas.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAjInq0p22d/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAjInq0p22d/?utm_source=ig_embed&utm_campaign=loading)
+
+Deportivo Quito, en racha, visitará a Santa Elena en Samborondón
+================================================================
+
+El partido de vuelta entre Santa Elena y Deportivo Quito se jugará en Samborondón. La 'AKD' llega con ventaja.
+--------------------------------------------------------------------------------------------------------------
+
+![Deportivo Quito y Santa Elena definirán una de las llaves de 32avos en el Ascenso Nacional de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/DeportivoQuitoSantaElena.jpg)
+
+**Deportivo Quito** se prepara para enfrentar a **Santa Elena** en el partido de vuelta de los **32avos** de final del **Nacional de Ascenso**, tras lograr una impresionante victoria de 3-0 en el partido de ida.
+
+Este emocionante encuentro se llevará a cabo en **Samborondón**, provincia de Guayas, el domingo 6 de octubre del 2024.
+
+### Más noticias:
+
+* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
+* [Deportivo Quito y su ruta para el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-su-ruta-para-el-ascenso-serie-b.html "Deportivo Quito y su ruta para el ascenso a la Serie B")
+* [Ministerio del Deporte registró el Directorio del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/directorio-del-deportivo-quito-registrado-ministerio-deporte.html "Ministerio del Deporte registró el Directorio del Deportivo Quito")
+
+Desde la directiva del **Deportivo Quito** se ha confirmado que el cotejo será en el **Estadio Samborondón Arena**, con horario aún por confirmar, aunque se estima que podría comenzar a las 12:30.
+
+Los **hinchas chullas** tienen planificado acudir con varios buses llenos para alentar al cuadro de la **Plaza del Teatro**.
+
+El escenario tiene una capacidad de 2200 personas.
+
+Deportivo Quito goleó
+---------------------
+
+La **‘AKD’** llega con la moral alta tras su reciente debut triunfal en el torneo.
+
+En un partido lleno de emoción, los capitalinos demostraron su calidad y ganaron 3-0 con goles de Jostin Chichande, José Luis Rivera e **Iker Morante.**
+
+El primer gol llegó a los 12 minutos, cuando Chichande ejecutó un tiro libre que tomó un desvío inesperado, dejando al portero rival completamente desorientado.
+
+A partir de ahí, Deportivo Quito mantuvo la presión constante sobre Santa Elena, pero aunque generaron varias oportunidades, la falta de contundencia en el ataque les impidió aumentar la ventaja en la primera mitad.
+
+En la segunda mitad, la energía del público se hizo sentir y, a los 55 minutos**, José Luis Rivera** conectó un preciso cabezazo tras un centro desde la derecha, poniendo el marcador 2-0. La afición celebró a lo grande, soñando con el regreso a la Serie B.
+
+**Deportivo Quito** no se detuvo ahí y continuó buscando más goles.
+
+**Iker Morante** selló la victoria con un cabezazo devastador a los 82 minutos. Con el 3-0 en el global, la ‘Academia’ queda a un paso de avanzar a los 16avos, confiando en su capacidad para cerrar la serie y seguir en la lucha por el ascenso.
+
+Un error hizo millonaria a una apostadora de Colombia y esta es su historia 
+============================================================================
+
+Un error en la digitación de un número cambió el destino de una apostadora, llevándose un premio de 530 millones de pesos en Miloto.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Zharit Acosta vendedora del premio millonario. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/millonaria-Colombia.jpg)
+
+María (nombre simulado para proteger la identidad de la ganadora), **una apostadora**, llegó el pasado viernes al punto de **SuperGiros** en el barrio Betania, de **Barranquilla-Colombia**, como lo hacía cada semana.
+
+### Más noticias
+
+* [Ecuatorianos entran en disputa por los 398 millones de dólares de la lotería de EE.UU.](https://www.elcomercio.com/empresariales/ecuatorianos-entran-disputa-398-millones-dolares-loteria-ee-uu.html "https://www.elcomercio.com/empresariales/ecuatorianos-entran-disputa-398-millones-dolares-loteria-ee-uu.html")
+* [La lotería más grande del mundo acumula 251 millones de dólares](https://www.elcomercio.com/empresariales/la-loteria-mas-grande-del-mundo-acumula-251-millones-de-dolares.html "https://www.elcomercio.com/empresariales/la-loteria-mas-grande-del-mundo-acumula-251-millones-de-dolares.html")
+
+El propósito era claro: **sellar su Miloto**, un juego de azar similar al **Baloto**, pero con menos combinaciones y un premio acumulado que ha cambiado la vida de 19 personas en su año de existencia en el país. 
+
+**El error en los números la hizo millonaria**  
+------------------------------------------------
+
+Al acercarse al mostrador, María le pidió a **Zharit Acosta**, la asesora de confianza en quien siempre depositaba su fe, que s**ellara su boleto con los números que ella misma había seleccionado**. Sin embargo, un pequeño error de Zharit alteraría el destino de María para siempre. Al ingresar los números, **en lugar de teclear el 9 en la tercera balota, digitó el número 10**. 
+
+**Una decisión clave** 
+-----------------------
+
+“Déjelo así, no lo cambie, ese es el número de la suerte”, le dijo Zharit a María cuando esta notó el **error en el boleto impreso**. La **apostadora**, confiada en la recomendación de la asesora, decidió mantener la combinación. 
+
+**El boleto ganador** 
+----------------------
+
+De manera manual y no automática, como ocurre en otras modalidades de juego, **los números fuero**n sellados: 3, 6, 10 (en vez de 9), 18 y 33. María entregó dos billetes de 2 mil pesos (0,48 dólares) y, sin saberlo, se marchaba con **un ticket que cambiaría su vida**. 
+
+**El gran premio** 
+-------------------
+
+La mañana del sábado trajo consigo una noticia que pocos llegan a experimentar. **María había ganado el acumulado del Miloto**: 530 millones de pesos (**126 946 dólares**). Aunque 20% del premio se destinaría a impuestos para el **sistema de salud en el país**, su fortuna era innegable. Sin el error de Zharit, María solo habría acertado cuatro de los cinco números, llevándose un premio mucho menor de 600 mil pesos (143,71 dólares). 
+
+**La recompensa para Zharit** 
+------------------------------
+
+La alegría no solo invadió a María. **SuperGiros**, fiel a su política de **premiar a los colaboradores que venden boletos ganadores**, recompensará a Zharit con 3 millones de pesos como incentivo (718,56  dólares).  
+
+En casos como el **Baloto**, la cifra puede ascender hasta los 15 millones (3 592 dóalres). “Le haré el cumpleaños de sirenita a mi hija, con payasos, brincabrinca y pudín”, expresó emocionada Zharit, al anunciar cómo invertiría su premio. 
+
+**Un récord en Miloto** 
+------------------------
+
+Este premio es el **segundo más alto otorgado por Miloto** desde que inició operaciones en Colombia el 20 de octubre de 2023. El mayor premio, de 550 millones de pesos (131 736 dólares), fue entregado el pasado 15 de agosto en Puerto Gaitán, Meta. 
+
+**Un juego de suerte que transforma vidas** 
+--------------------------------------------
+
+Desde su lanzamiento, **Miloto** ha realizado 197 sorteos y entregado 19 premios que, en total, suman cerca de 5 mil millones de pesos (1 197,608 dólares). Todo esto a afortunados como María, quienes con una modesta inversión de 4 mil pesos (0,96  dóalres) han visto sus **vidas transformadas**. 
+
+Gonzalo Plata será dirigido en Flamengo por Filipe Luis
+=======================================================
+
+Gonzalo Plata llegó a Flamengo para el segundo semestre de 2024 con la aprobación de Tite, ahora su exentrenador.
+-----------------------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata (d) con Flamengo en la Copa Libertadores 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/plata_tite_1.jpg)
+
+**Gonzalo Plata** fue contratado por el Flamengo para el segundo semestre de 2024 con la aprobación de Tite, entrenador brasileño que no consiguió los resultados esperados y fue despedido del cargo.
+
+Con Tite como entrenador, **Gonzalo Plata jugó cuatro partidos: dos del Brasileirao** (empate con Flamengo y victoria ante Atlético Paranaense) y dos de la Copa Libertadores (eliminados en cuartos de final ante Peñarol).
+
+### Más noticias:
+
+* [Denil Castillo, una de las opciones de Beccacece para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/denil-castillo-opciones-beccacece-para-seleccion-de-ecuador.html "Denil Castillo, una de las opciones de Beccacece para la Selección de Ecuador")
+* [(Video) Willian Pacho desata la emoción en la afición de PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-aficion.html "(Video) Willian Pacho desata la emoción en la afición de PSG")
+* [Leonardo Campana con opciones de estar en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-con-opciones-de-estar-en-la-seleccion-de-ecuador.html "Leonardo Campana con opciones de estar en la Selección de Ecuador")
+
+Esta eliminación en la **Libertadores apresuró la salida del DT que estuvo con Brasil en Catar 2022**, donde también fue eliminado en cuartos de final ante Croacia en la tanda de penales, lo que también puso fin a su ciclo de seis años.
+
+Flamengo anunció el despido de Tite este lunes 30 de septiembre, tras los múltiples cuestionamientos por parte de dirigentes e hinchas que no estaban contentos por los resultados obtenidos por un plantel armado para estar en las etapas finales.
+
+Las millonarias contrataciones de los últimos meses, como la del uruguayo **Nico de la Cruz, el argentino Carlos Alcaraz, el ecuatoriano Gonzalo Plata** y el brasileño Alex Sandro, confirmaron al Flamengo como el equipo con la nómina más valiosa de Brasil, pero las inversiones no garantizaron buenos resultados.
+
+Gonzalo Plata será dirigido por Filipe Luis
+-------------------------------------------
+
+El club carioca informó en un escueto mensaje en sus redes sociales que el exseleccionador brasileño “**no comanda más el elenco**” y que su cargo será asumido interinamente por el exfutbolista del Atlético de Madrid Filipe Luis, actualmente técnico del equipo sub-20 del Flamengo.
+
+El anuncio se produjo un día después de que el **conjunto se impusiese por 1-0 sobre el Atlético Paranaense** con grandes dificultades y que permaneciese en cuarto lugar en la clasificación del Campeonato Brasileño, aunque a once puntos del líder Botafogo.
+
+Con la eliminación de la Copa Libertadores tras caer en cuartos de final ante el **Peñarol uruguayo y la cada vez más difícil disputa por el título en la Liga**, al Flamengo solo le resta la Copa do Brasil, en la que clasificó a semifinales, para salvar el año.
+
+Adenor Leonardo Bacchi ‘Tite’, que comandó la selección brasileña entre junio de 2016 y diciembre de 2022 y alcanzó importantes resultados como entrenador del Corinthians, asumió el comando del Flamengo en octubre de 2023, por lo que no alcanzó a completar un año frente al equipo.
+
+Ante la falta de un fútbol convincente, **el entrenador venía siendo presionado desde hacía varios días**, incluso con insultos pintados en los muros de la sede del club. En el partido del domingo en el Maracaná destacaron más los abucheos dirigidos a Tite que el gol salvador de Gerson en los últimos minutos.
+
+El exseleccionador brasileño comandó el Flamengo en 70 partidos, en los que cosechó 42 victorias, 12 empates y 16 derrotas.
+
+Bajo el comando de Tite, **el club más popular de Brasil tan solo conquistó un título**, el del campeonato regional de Río de Janeiro este año.
+
+Filipe Luis, el mundialista de 39 años, **que se retiró de las canchas en diciembre de 2023 cuando jugaba para el Flamengo**, tendrá su primer desafío como técnico interino del club el miércoles, cuando el conjunto carioca se medirá al Corinthians en el partido de ida por semifinales de la Copa do Brasil.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/plata_tite_2-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Lluvias están previstas en Quito para la tarde de este 30 de septiembre
+=======================================================================
+
+El Inamhi prevé precipitaciones y tormentas. Toma precauciones, pues el tránsito puede complicarse en la tarde por los apagones y las lluvias
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Inamhi prevé presencia de lluvias durante la tarde de este lunes 30 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/lluvias-1.jpg)
+
+El **Instituto Nacional de Meteorología** e Hidrología (Inamhi) publicó l**as previsiones para el clima** de Quito este lunes 30 de septiembre de 2024.
+
+### Más noticias
+
+* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
+* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
+* [Siete personas fallecieron en ataque armado en una gallera](https://www.elcomercio.com/actualidad/seguridad/siete-personas-fallecieron-en-ataque-armado-en-una-gallera.html "Siete personas fallecieron en ataque armado en una gallera")
+
+Advertencia de lluvias
+----------------------
+
+El Inamhi mantiene activa la **advertencia meteorológica 51** para el período entre el 26 de septiembre y el 1 de octubre. En este lapso, se pronostica presencia de e**ventos de lluvia de intensidad considerable** en la Amazonía, Sierra y norte del Litoral.
+
+La presencia de vientos se mantiene. Los días en los que se prevé **lluvias más intensas** son el 26, 27, 29 y 30 de septiembre.
+
+Ante estas previsiones es importante que tomes **las siguientes precauciones**:
+
+* Si las autoridades lo indican, evacúa lo más pronto posible
+* Aléjate de los cables de electricidad y desconecta los aparatos electrónicos
+* No camines cerca del agua ni intentes cruzar ríos
+* No te refugies bajo los árboles ni manipules herramientas u objetos metálicos durante las tormentas
+
+> Advertencia Meteorológica Importante #51⚠⛈🌧☔  
+> Del 26 de septiembre al 01 de octubre empezarán a registrarse eventos de lluvia de intensidad considerable en Amazonía, Sierra y norte del Litoral.  
+>   
+> Tome precauciones y manténgase informado en nuestros canales. [pic.twitter.com/ccjSSF7tOl](https://t.co/ccjSSF7tOl)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 26, 2024](https://twitter.com/inamhi_ec/status/1839434376482078803?ref_src=twsrc%5Etfw)
+
+El clima este lunes
+-------------------
+
+Este lunes 30 de septiembre de 2024, el Inamhi informó que se prevé **un cielo parcialmente nublado** con incremento de nubosidad. Así mismo, **se esperan lluvias con tormentas** en horas de la tarde y noche.
+
+Entre las **07:00 y las 19:00** las temperaturas previstas serán de entre 21 y **24 grados centígrados**.
+
+Durante la **noche de este lunes y la madrugada** del 1 de octubre, el Instituto prevé un descenso de temperatura de entre 9 y 12 grados centígrados.
+
+La**s lluvias podrían continuar durante la noche**. Toma precauciones, pues además están previstos apagones en la ciudad.
+
+Procura llevar **siempre tu paraguas, ropa abrigada** y salir con tiempo, pues podría haber congestión en las vías debido a la falta de semáforos.
+
+> 🌤️ [#ElClimaEnQuito](https://twitter.com/hashtag/ElClimaEnQuito?src=hash&ref_src=twsrc%5Etfw) | Este 30 de septiembre, según [@inamhi\_ec](https://twitter.com/inamhi_ec?ref_src=twsrc%5Etfw):  
+>   
+> 📈 Temperaturas: 21°C – 24°C  
+> ⚠️ Radiación UV: Muy alta  
+> 🌤️ En la mañana habrá un cielo parcial nublado y por la tarde lluvia con tormentas aisladas.  
+>   
+> ⚱️Usa protector solar e hidrátate.  
+> ☔No olvides llevar tu paraguas. [pic.twitter.com/QHBUS3hHvh](https://t.co/QHBUS3hHvh)
+> 
+> — COE Quito (@coequito) [September 30, 2024](https://twitter.com/coequito/status/1840754736573587733?ref_src=twsrc%5Etfw)
+
+Radiación en niveles ‘muy altos’
+--------------------------------
+
+El **Instituto de Meteorología** también publicó las previsiones para **los índices de radiación** UV este lunes 30 de septiembre.
+
+Informó que durante las horas de la mañana se registrarán **niveles ‘muy altos’** de radiación ultravioleta y en la tarde bajarán a ‘muy altos’ debido al [aumento de nubosidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+**Consejos para protegerte de la radiación:**
+
+* Evitar la exposición prolongada al sol, al menos hasta las 15:00.
+* Usar siempre protector solar.
+* Llevar un paraguas o sombrilla para protegerse del sol.
+* Usar gafas con protección UV.
+* Vestir ropa con mangas largas que cubran la piel.
+* Las gorras también son artículos prácticos para proteger la cara y cabeza del sol.
+* Consuma agua constantemente.
+
+> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el lunes , 30 de septiembre de 2024 entre Moderado y Alto ☁️  
+> Los indices Muy Altos se presentaran en horas de la mañana ☀️🌤️ [pic.twitter.com/5h7VOIse7D](https://t.co/5h7VOIse7D)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 29, 2024](https://twitter.com/inamhi_ec/status/1840471393575608583?ref_src=twsrc%5Etfw)
