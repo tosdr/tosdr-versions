@@ -132,8 +132,6 @@ Sub Menu
 
 search
 
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
-
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -866,14 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darrell was great!!!
-
-Cecilia Shure LA Metro 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Mikey and Chaz are awesome, came to Ave Maria, and cleared everything out quick! 10/10 service !
 
 Brandon Diaz Naples 21/09/2024
@@ -898,6 +888,14 @@ Kelbey Berry Columbus 21/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Marcel and Pablo were great. Courteous and quick. Thanks guys!
+
+Terry Hecker Seattle 21/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 The gentleman we had were friendly and quick to get our junk out. We're super appreciative of their help and professionalism!
 
 Aaron Oakland Madison 21/09/2024
@@ -906,9 +904,9 @@ Aaron Oakland Madison 21/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Marcel and Pablo were great. Courteous and quick. Thanks guys!
+Darrell was great!!!
 
-Terry Hecker Seattle 21/09/2024
+Cecilia Shure LA Metro 21/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -962,17 +960,17 @@ Emily Spjut Austin 20/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Paris and Justin are the best!!! 6 out of 5 stars if possible.
+Luis and Jordan did a great job !!!
 
-Susan Bolich Cincinnati 20/09/2024
+Daniel Rosen Naples 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luis and Jordan did a great job !!!
+Paris and Justin are the best!!! 6 out of 5 stars if possible.
 
-Daniel Rosen Naples 20/09/2024
+Susan Bolich Cincinnati 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
