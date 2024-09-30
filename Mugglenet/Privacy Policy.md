@@ -312,6 +312,20 @@ Recurs yearly
 
 1995
 
+#### Sun, Oct 6
+
+Harry Potter and the Philosopher's/Sorcerer's Stone Illustrated Edition
+
+Recurs yearly
+
+2015
+
+Scarlett Byrne's birthday
+
+Recurs yearly
+
+Pansy Parkinson (HBP, DH1, DH2)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -322,15 +336,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
 
 ### Potter History
 
-December 10, 2013 – The Lumos Maxima charm bracelet, handcrafted by Edinbugh jeweler Hamilton & Inches, sells at Sotheby’s London for £20,000. The proceeds were donated to Lumos.
+August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
 
 ### Potter Quote
 
-“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
+“Potter, this is Oliver Wood. Wood — I’ve found you a Seeker.”
 
 [](#)
 
