@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Skeeter](https://www.somethingawful.com/movie-reviews/skeeter/1/)
-* [Edjucatun First](https://www.somethingawful.com/email-pranks/email-spam-edjucatun/1/)
-* [Hey you fuckin' ass trolls!](https://www.somethingawful.com/awfulvision/ghost-dad-brony/1/)
+* [Make Poverty History - Part One](https://www.somethingawful.com/comedy-goldmine/make-poverty-history/1/)
+* [The Free iPhone App Roundup](https://www.somethingawful.com/news/free-iphone-apps/1/)
+* [The Simcity Board of Advisors Return](https://www.somethingawful.com/news/simcity-advisors-return/1/)
+* [Why Damned XCOM is Abolished From Nigeria](https://www.somethingawful.com/feature-articles/xcom-nigeria-panic/)
+* [That Insidious Beast: Counterprogramming](https://www.somethingawful.com/news/insidious-beast-interrogation/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [songs that get stuck in your head when you hear a different song](http://forums.somethingawful.com/showthread.php?threadid=4071449 "songs that get stuck in your head when you hear a different song")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [some juggalos made a movie and it's actually not terrible](http://forums.somethingawful.com/showthread.php?threadid=4071518 "some juggalos made a movie and it's actually not terrible")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I'm watching The Warriors](http://forums.somethingawful.com/showthread.php?threadid=4071476 "I'm watching The Warriors")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Best gluten free food ideas?](http://forums.somethingawful.com/showthread.php?threadid=4071472 "Best gluten free food ideas?")
 
 ### Random Articles
 
-* [Which Collector's Edition Bonuses Are Worth Buying + Star Citizen Progress Report](https://www.somethingawful.com/video-game-article/collector-edition-bonus/)
-* [Adam and Andy](https://www.somethingawful.com/awful-links/awful-link-1927/)
-* [Supervillains in Politics!](https://www.somethingawful.com/photoshop-phriday/supervillain-politicians/1/)
-* [311](https://www.somethingawful.com/garbage-day/uplifter-311/1/)
-* [Duke Nukem Forever Castrates the Male Ideal](https://www.somethingawful.com/video-game-article/duke-nukem-feminism/)
+* [This Was All According To My Plan](https://www.somethingawful.com/news/puppetmaster-villain-captured/)
+* [APURU FOORU](https://www.somethingawful.com/news/april-fools-tokyo/1/)
+* [June 4, 2007](https://www.somethingawful.com/forum-fridays/ff06-04-07/1/)
+* [The Magic Of Household Items: A Rainy Day Fun Guide](https://www.somethingawful.com/news/magic-household-items/)
+* [The Porn Conformity Law](https://www.somethingawful.com/news/porn-conformity-law/)
 
 [Random!](https://www.somethingawful.com/random/)
 
