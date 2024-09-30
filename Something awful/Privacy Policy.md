@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AD&D 2nd Edition Planescape Monstrous Compendium Appendix III (1998)](https://www.somethingawful.com/dungeons-and-dragons/planescape-inner-planes/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Draw Dogs with Your Eyes Closed!](https://www.somethingawful.com/comedy-goldmine/eyes-closed-dogs/1/)
-* [Literotica](https://www.somethingawful.com/news/literotica/)
-* [Dennis the Rude Horse Learns a Lesson!](https://www.somethingawful.com/comedy-goldmine/dennis-horse-downunder/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Skeeter](https://www.somethingawful.com/movie-reviews/skeeter/1/)
+* [Edjucatun First](https://www.somethingawful.com/email-pranks/email-spam-edjucatun/1/)
+* [Hey you fuckin' ass trolls!](https://www.somethingawful.com/awfulvision/ghost-dad-brony/1/)
 
 ### Popular Threads
 
@@ -219,11 +219,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Incredulous Ideas](https://www.somethingawful.com/flash-tub/incredulous-ideas/)
-* [Stalking the Wild Taboo](https://www.somethingawful.com/awful-links/awful-link-3986/)
-* [Gun Safety Tips](https://www.somethingawful.com/news/gun-safety-tips/)
-* [AwfullyLiveJournal](https://www.somethingawful.com/news/awfullylivejournal/)
-* [Seatbelt Tanlines](https://www.somethingawful.com/mooflogs/seatbelt-tanlines/)
+* [Which Collector's Edition Bonuses Are Worth Buying + Star Citizen Progress Report](https://www.somethingawful.com/video-game-article/collector-edition-bonus/)
+* [Adam and Andy](https://www.somethingawful.com/awful-links/awful-link-1927/)
+* [Supervillains in Politics!](https://www.somethingawful.com/photoshop-phriday/supervillain-politicians/1/)
+* [311](https://www.somethingawful.com/garbage-day/uplifter-311/1/)
+* [Duke Nukem Forever Castrates the Male Ideal](https://www.somethingawful.com/video-game-article/duke-nukem-feminism/)
 
 [Random!](https://www.somethingawful.com/random/)
 
