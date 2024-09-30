@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [The differences between First-, (& Zero-), Second-, & Third-party data](https://www.onetrust.com/resources/the-differences-between-first-zero-second-and-third-party-data-infographic/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
-* [Privacy automation 101: Simplifying data mapping and risk assessments](https://www.onetrust.com/resources/privacy-automation-101-simplifying-data-mapping-and-risk-assessments-webinar/)
 
 ### Platform
 
