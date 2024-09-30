@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/dr-qual-e-la-malattia-piu-rara-del-mondo/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/la-casa-senza-uscita-parte-ii-maggie-house/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
