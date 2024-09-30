@@ -248,13 +248,3 @@ Layer 1 IP
 This website uses cookies to enhance your experience.
 
 Accept
-
-Cyber Autumn promotion ends in
-
-12 days : 00 hours : 00 minutes : 00 seconds
-
-[Grab -75% Now](https://whoer.net/vpn/buy)
-
-\-75% OFF for VPN till 30.09
-
-[Grab it now](https://whoer.net/vpn/buy)
