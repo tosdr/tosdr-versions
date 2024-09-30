@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66f46f164d94ba848cd11c3d_clearco-nyc-connect.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66fab29e3c22d7d50b55e8bc_clearco-inaugural-ecommerce-awards.png)
 
-###### Clearco’s Fashionably Funded NYC Cocktail Hour: A Fashion Week Success
+###### Calling All Top Ecommerce Merchants and Stores: Apply for Clearco’s Inaugural Ecommerce Awards
 
-[Read now >](https://clear.co/blog/clearco-nyc-connect)
+[Read now >](https://clear.co/blog/clearco-inaugural-ecommerce-awards)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
