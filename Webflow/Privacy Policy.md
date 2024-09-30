@@ -238,7 +238,7 @@ This Global Privacy Policy (“**Policy**”) explains how we collect, use, disc
 
 Capitalized terms that are not defined in this Policy have the meaning given them in our [Terms of Service](https://webflow.com/legal/terms) including any relevant agreement, policy, or addendum incorporated therein and any amendments or modifications thereto.
 
-By accessing and using our Platform, you signify your acceptance to the terms of this Privacy Policy. If you do not agree with or you are not comfortable with any aspect of this Privacy Policy, you should
+By accessing and using our Platform, you signify your acceptance to the terms of this Privacy Policy. If you do not agree with or you are not comfortable with any aspect of this Privacy Policy, you should immediately discontinue access or use of our Platform.
 
 > **HI THERE**  
 >   
