@@ -178,6 +178,14 @@ EU-US Data Privacy Framework, as set forth by the US Department of Commerce. [R
 
 Specific chapters under this policy address additional disclosures related to our processing and use of Personal Information under the European Union data protection laws and the United States consumer privacy laws, applicable specifically for residents of the EU or US. [Read More ->](https://cloudinary.com/privacy#section8)
 
+### Data Privacy Framework Notice
+
+We participate in the EU-US Data Privacy Framework, the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework, as set forth by the US Department of Commerce. [Read More ->](https://cloudinary.com/privacy#dpf)
+
+### Your Choice
+
+We provide you with choice and control on how we use personal information. [Read More ->](https://cloudinary.com/privacy#your-choice)
+
 ### Contact Us
 
 If you have any questions about this policy or believe that your privacy rights are compromised, please contact us at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com).
@@ -250,7 +258,9 @@ As part of our business and Services operations, we de-identify Personal Informa
 
 ### Your Choice
 
-We provide you with choice and control on how we use Personal Information in connection with various aspect of our processing, as follows:
+If personal data covered by this Privacy Policy is to be used for a new purpose that is materially different from that for which the personal data was originally collected or subsequently authorized, or is to be disclosed to a third party in a manner not described in this Policy, we will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of personal data should be sent to us to [privacy@cloudinary.com](mailto:privacy@cloudinary.com).
+
+Further, we provide you with choice and control on how we use Personal Information in connection with various aspect of our processing, as follows:
 
 Please contact us at [privacy@cloudinary.com](mailto:privacy@cloudinary.com) if you would like to stop receiving our newsletter or marketing emails.
 
@@ -306,21 +316,19 @@ We have certified to the US Department of Commerce that we adhere to the Swiss-U
 
 If there is any conflict between the terms in this notice or our policy with the EU-US DPF Principles (including the UK Extension) or the Swiss-US DPF Principles, the Principles will govern. To learn more about the Data Privacy Framework (“**DPF**”) program, visit the data privacy framework website [here](https://www.dataprivacyframework.gov/s/).
 
-In accordance with the EU-US DPF, we commit to resolve DPF Principles-related complaints about our collection and use of Personal Information related to you. If you have any inquiries or complaints about our handling of Personal Information received in reliance on the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF (as applicable), please contact us at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com). We will do our best to respond to your inquiry as soon as we can.
+In accordance with the EU-US DPF, the UK Extension and the Swiss-US DPF, we commit to resolve DPF Principles-related complaints about our collection and use of Personal Information related to you. If you have any inquiries or complaints about our handling of Personal Information received in reliance on the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF (as applicable), please contact us at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com). We will do our best to respond to your inquiry as soon as we can.
 
 In accordance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, we commit to cooperate (respectively) with the advice of the panel established by the EU data protection authorities (“**DPAs**”), the UK Information Commissioner’s Office (“**ICO**”) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (“**FDPIC**”), as applicable, with regard to unresolved complaints concerning our handling of Personal Information received in reliance on the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF.
 
-You may also decide to involve the binding arbitration option under the DPF, under certain conditions detailed [here](https://www.dataprivacyframework.gov/s/article/C-Pre-Arbitration-Requirements-dpf?tabset-35584=2).
+You may also decide to involve the binding arbitration option under the EU-US DPF, UK Extension and the Swiss-US DPF, under certain conditions detailed [here](https://www.dataprivacyframework.gov/s/article/C-Pre-Arbitration-Requirements-dpf?tabset-35584=2).
 
 As explained under the section titled “Sharing Personal Information with Others” in our policy, we share Personal Information with third parties to perform services on our behalf.
 
-When we share Personal Information received under the Data Privacy Framework with a third party, the third party’s access to, and use and disclosure of such Personal Information must also comply with our obligations under the Data Privacy Framework. We will remain liable under the Data Privacy Framework for any failure to do so by such a third party, unless we can demonstrate that we are not responsible for the event giving rise to the damage.
+When we share Personal Information received under the EU-US DPF, UK Extension and the Swiss-US DPF. with a third party, the third party’s access to, and use and disclosure of such Personal Information must also comply with our obligations under the Data Privacy Framework. We will remain liable under the Data Privacy Framework for any failure to do so by such a third party, unless we can demonstrate that we are not responsible for the event giving rise to the damage.
 
 We are subject to the investigatory and enforcement powers of the Federal Trade Commission (“**FTC**”).
 
 Note that we may be required to disclose Personal Information related to you in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-We already adhere to the required commitments under the UK Extension to the EU-US Data Privacy Framework and the Swiss-US Data Privacy Framework. We will rely on the UK Extension and the Swiss-US Data Privacy framework for applicable data transfers as of the date that they take effect.
 
 ### Information Security
 
@@ -505,7 +513,7 @@ The response we provide will also explain the reasons for our inability to compl
 
 We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded.  If we determine that the request warrants a fee, we will inform you of the reasons for such decision and provide you with a cost estimate before processing further your request.
 
-Last updated: April 18, 2024
+Last updated: September 30, 2024
 
 [Cloudinary Logo](https://cloudinary.com/)
 
