@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
+    
+    Leveraging Session Recordings: A Game-Changer for Conversion Rate Optimization](https://vwo.com/blog/session-recordings-for-conversion-rate-optimization/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-CRO-Perspectives-Chester-Ong.jpg?tr=w-60,h-50)
     
     Balancing UX and CRO Necessary for Product Improvement & Impactful Results](https://vwo.com/blog/balancing-ux-cro/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Women-in-CRO_-Expert-Insights-from-Abi-Hough-Director-at-UU3-Limited@2x.jpg?tr=w-60,h-50)
     
     Women in CRO: Expert Insights from Abi Hough, Director at UU3 Limited](https://vwo.com/blog/women-in-cro-insights-from-abi-hough/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Ilan-Hurwitz.jpg?tr=w-60,h-50)
-    
-    AI to Accelerate Research, Enabling Greater Focus on Strategy and Implementation](https://vwo.com/blog/cro-insights-ilan-hurwitz/)
     
     Featured Blogs
     
