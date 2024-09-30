@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
+* [Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://www.theepochtimes.com/us/iran-is-hacking-us-officials-and-political-campaigns-security-advisory-5732617)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731756-GettyImages-2174055692-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
+    ![Iran Is Hacking US Officials and Political Campaigns: Security Advisory](https://img.theepochtimes.com/assets/uploads/2024/04/19/id5632829-VDH-20240418-231000-205x123.jpeg.webp)](https://www.theepochtimes.com/us/iran-is-hacking-us-officials-and-political-campaigns-security-advisory-5732617)
+* [FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://www.theepochtimes.com/us/fema-chief-warns-of-complicated-recovery-process-after-helene-hammers-5-states-5732612)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Chief Warns of ‘Complicated’ Recovery Process After Helene Hammers 5 States](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731939-3.download-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-chief-warns-of-complicated-recovery-process-after-helene-hammers-5-states-5732612)
+* [DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://www.theepochtimes.com/business/directv-to-acquire-longtime-satellite-tv-rival-dish-network-5732613)
+    
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DirecTV to Acquire Longtime Satellite TV Rival Dish Network](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732693-DirecTV-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/directv-to-acquire-longtime-satellite-tv-rival-dish-network-5732613)
+* [France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://www.theepochtimes.com/world/frances-le-pen-and-26-others-on-trial-over-misuse-of-eu-funds-5732546)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![France’s Le Pen and 26 Others on Trial Over Misuse of EU Funds](https://img.theepochtimes.com/assets/uploads/2024/06/01/id5678153-Le-Pen-GettyImages-2159348417-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/frances-le-pen-and-26-others-on-trial-over-misuse-of-eu-funds-5732546)
 * [What You Need to Know About the Vance–Walz Debate](https://www.theepochtimes.com/us/what-you-need-to-know-about-the-vance-walz-debate-5728695)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![What You Need to Know About the Vance–Walz Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What You Need to Know About the Vance–Walz Debate](https://img.theepochtimes.com/assets/uploads/2024/08/11/id5703884-vance-walz-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-you-need-to-know-about-the-vance-walz-debate-5728695)
+    ![What You Need to Know About the Vance–Walz Debate](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732715-vance-walz-LSedit-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-you-need-to-know-about-the-vance-walz-debate-5728695)
+* [In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
+    
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Michigan, Trump Says He Will ‘Reclaim America’s Manufacturing Power’](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732623-GettyImages-2174055692.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-will-reclaim-americas-manufacturing-power-in-michigan-events-5731760)
+* [Israeli Strikes Kill Hamas Leader in Lebanon](https://www.theepochtimes.com/world/israeli-strikes-kill-hamas-leader-in-lebanon-and-3-terrorist-leaders-in-beirut-5732534)
+    
+    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![Israeli Strikes Kill Hamas Leader in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israeli Strikes Kill Hamas Leader in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732598-GettyImages-2174756649-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-strikes-kill-hamas-leader-in-lebanon-and-3-terrorist-leaders-in-beirut-5732534)
 * [Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://www.theepochtimes.com/us/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill-5732485)
     
-    6hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
+    12hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
     
     [![Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730126-Gavin-Newsom-2_JF_09252024-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill-5732485)
+    ![Newsom Vetoes California’s Hotly Debated Artificial Intelligence Bill](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732719-Gavin-Newsom-2_JF_09252024-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill-5732485)
 * [Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://www.theepochtimes.com/entertainment/country-music-star-a-star-is-born-lead-man-kris-kristofferson-dies-at-88-post-5732462)
     
-    6hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
+    13hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
     
     [![Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732403-GettyImages-865150942-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/country-music-star-a-star-is-born-lead-man-kris-kristofferson-dies-at-88-post-5732462)
+    ![Country Singer-Songwriter, Actor Kris Kristofferson Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732625-GettyImages-865150942.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/country-music-star-a-star-is-born-lead-man-kris-kristofferson-dies-at-88-post-5732462)
 * [After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
     
-    10hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    16hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732343-helenecleanup5-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
-* [Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://www.theepochtimes.com/article/day-in-photos-floods-in-nepal-handbike-marathon-and-a-tribute-to-philippine-5732039)
-    
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Floods in Nepal, Handbike Marathon, and a Tribute to Philippine](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732286-GettyImages-2174650547-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-floods-in-nepal-handbike-marathon-and-a-tribute-to-philippine-5732039)
-* [Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://www.theepochtimes.com/article/canada-banned-certain-guns-but-cant-figure-out-how-to-collect-them-5729228)
-    
-    11hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
-    
-    [![Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Canada Banned Certain Guns, but Can’t Figure Out How to Collect Them](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732278-GettyImages-1228476508-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/canada-banned-certain-guns-but-cant-figure-out-how-to-collect-them-5729228)
-* [Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
-    
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732376-Chemical-Plant-Fire-AP24273728356033-LSedit-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
-* [Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
-    
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732348-Trump-Harris-v2-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
-* [China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
-    
-    14hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732339-GettyImages-1175318267-sb-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
+    ![After Helene, Tampa Bay Starts Recovery From Historic Storm Surge](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732626-helenecleanup5.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-helene-tampa-bay-starts-recovery-from-historic-storm-surge-5732238)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
