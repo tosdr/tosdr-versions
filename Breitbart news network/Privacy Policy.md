@@ -54,10 +54,10 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Helene Destruction](https://www.breitbart.com/tag/hurricane/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
-* [Hurricane Helene](https://www.breitbart.com/tag/hurricane/)
+* [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
 * [Eric Adams](https://www.breitbart.com/tag/eric-adams/)
-* [2nd Attempt](https://www.breitbart.com/tag/ryan-wesley-routh/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
 * [Google Ad Trial](https://www.breitbart.com/tag/google/)
 
