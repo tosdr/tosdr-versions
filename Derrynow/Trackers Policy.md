@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Annual Foyle Hospice Men's Walk / Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Foyle Hospice Men's Walk / Run")](https://www.derrynow.com/story-telling/pictures---videos/1617784/in-pictures-annual-foyle-hospice-men-s-walk-run.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Foyle Hospice Men's Walk / Run](https://www.derrynow.com/story-telling/pictures---videos/1617784/in-pictures-annual-foyle-hospice-men-s-walk-run.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: Arc Fitness Recovery Walk NI 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Arc Fitness Recovery Walk NI 2024")](https://www.derrynow.com/story-telling/pictures---videos/1617781/in-pictures-arc-fitness-recovery-walk-ni-2024.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -289,30 +296,21 @@ Derry Magistrate's Court
 [Derry Death Notices - Monday, 30th September 2024](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
-
-Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'")](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
-
-Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
-
-[DerryNow](https://www.derrynow.com/section/971/derrynow)
-
-[Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with one punch assault refused bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with one punch assault refused bail")](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry man charged with one punch assault refused bail](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with series of drugs offences jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
+
+Derry Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with series of drugs offences jailed](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal charged with rape returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal charged with rape returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
 
@@ -321,27 +319,41 @@ Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
 [Donegal man charged with rape returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Calling all Halloween lovers - check out the top things to do this spooky season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Calling all Halloween lovers - check out the top things to do this spooky season")](https://www.derrynow.com/news/what-s-on/1617334/calling-all-halloween-lovers-check-out-the-top-things-to-do-this-spooky-season.html)
+[![68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
 
-Calling all Halloween lovers - check out the top things to do this spooky season
+[Local News](https://www.derrynow.com/section/975/news)
 
-[What's On](https://www.derrynow.com/section/997/cookie-policy)
+[68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Calling all Halloween lovers - check out the top things to do this spooky season](https://www.derrynow.com/news/what-s-on/1617334/calling-all-halloween-lovers-check-out-the-top-things-to-do-this-spooky-season.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry woman praises Foyle Hospice whose mother received the ‘best care’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman praises Foyle Hospice whose mother received the ‘best care’")](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
 
-[![IN PICTURES: MacMillan Cancer Support coffee morning in Derry's Foyle Arena](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: MacMillan Cancer Support coffee morning in Derry's Foyle Arena")](https://www.derrynow.com/story-telling/pictures---videos/1617783/in-pictures-macmillan-cancer-support-coffee-morning-in-derry-s-foyle-arena.html)
+Gerladine Ferguson with her mother Donna
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: MacMillan Cancer Support coffee morning in Derry's Foyle Arena](https://www.derrynow.com/story-telling/pictures---videos/1617783/in-pictures-macmillan-cancer-support-coffee-morning-in-derry-s-foyle-arena.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman praises Foyle Hospice whose mother received the ‘best care’](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Hurt open new state-of-the-art premises in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hurt open new state-of-the-art premises in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Hurt open new state-of-the-art premises in Derry](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: First day at school for Hollybush PS Primary 1's](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: First day at school for Hollybush PS Primary 1's")](https://www.derrynow.com/story-telling/pictures---videos/1618146/in-pictures-first-day-at-school-for-hollybush-ps-primary-1-s.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: First day at school for Hollybush PS Primary 1's](https://www.derrynow.com/story-telling/pictures---videos/1618146/in-pictures-first-day-at-school-for-hollybush-ps-primary-1-s.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1617785/in-pictures-martin-mcguinness-chieftain-gaelic-games-at-celtic-park.html)
 
@@ -398,20 +410,6 @@ Multimedia
 
 [PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1615902/in-pictures-mayor-attends-women-s-health-check-event-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1615902/in-pictures-mayor-attends-women-s-health-check-event-in-derry-s-guildhall.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: St Joseph's Boys School Senior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Joseph's Boys School Senior Prizegiving")](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: St Joseph's Boys School Senior Prizegiving](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,49 +511,59 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![‘Questions for SF leadership’ on press team departures over McMonagle references](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Questions for SF leadership’ on press team departures over McMonagle references")](https://www.derrynow.com/news/local-news/1617965/questions-for-sf-leadership-on-press-team-departures-over-mcmonagle-references.html)
+[![Caolan McCourt of @notoriousstreet serves up cookery masterclass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Caolan McCourt of @notoriousstreet serves up cookery masterclass")](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
+
+Sabrina Lynch, Programme Manager, Old Library Trust lets staff members Wendy McLaughlin and Kathleen McNaught sample some of the delicious dishes. (Photo: Jim McCafferty Photography)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[‘Questions for SF leadership’ on press team departures over McMonagle references](https://www.derrynow.com/news/local-news/1617965/questions-for-sf-leadership-on-press-team-departures-over-mcmonagle-references.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Caolan McCourt of Notorious Street Food serves up cookery masterclass](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
+[![Search operation taking place for 23-year-old man who entered River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search operation taking place for 23-year-old man who entered River Foyle")](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with one punch assault refused bail](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man charged with one punch assault refused bail")](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
+Donal Armstrong has been missing since Saturday
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with one punch assault refused bail](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Search operation taking place for 23-year-old man who entered River Foyle](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Four Recycling Centres in Council district to revert to winter opening hours](https://www.derrynow.com/resizer/165/93/true/2024_09_30/Recycling_Centres-1727698850028.jpg--.jpg?1727698850314 "Four Recycling Centres in Council district to revert to winter opening hours")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1617924/four-recycling-centres-in-council-district-to-revert-to-winter-opening-hours.html)
+[![Jack Magee on the Voice](https://www.derrynow.com/resizer/165/93/true/2024_09_30/The_Voice-1727698781432.PNG--.PNG?1727698781479 "Jack Magee on the Voice")](https://www.derrynow.com/news/derry-news/1617925/county-derry-singer-s-unique-voice-impresses-on-the-voice-judges.html)
 
-[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
-
-[Four Recycling Centres in Council district to revert to winter opening hours](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1617924/four-recycling-centres-in-council-district-to-revert-to-winter-opening-hours.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![SDLP leader Colum Eastwood and former Taoiseach Leo Varadkar with local pupils](https://www.derrynow.com/resizer/165/93/true/2024_09_30/IDNM_30-9-23_Leo_Varadkar_visit_PA-1727693059917.jpg--.jpg?1727693059945 "SDLP leader Colum Eastwood and former Taoiseach Leo Varadkar with local pupils")](https://www.derrynow.com/news/derry-news/1617830/former-taoiseach-calls-for-more-shared-island-funding-to-help-boost-derry-university.html)
-
-SDLP leader Colum Eastwood and former Taoiseach Leo Varadkar with local pupils
+Jack Magee on the Voice
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Former Taoiseach calls for more Shared Island funding to help boost Derry University](https://www.derrynow.com/news/derry-news/1617830/former-taoiseach-calls-for-more-shared-island-funding-to-help-boost-derry-university.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry singer's 'unique voice' impresses on The Voice judges](https://www.derrynow.com/news/derry-news/1617925/county-derry-singer-s-unique-voice-impresses-on-the-voice-judges.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal charged with rape returned for trial to Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Donegal charged with rape returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
+[![Derry woman praises Foyle Hospice whose mother received the ‘best care’](https://www.derrynow.com/resizer/165/93/true/2024_09_30/Gerladine_and_mother_Donna-1727705070803.png--.png?1727705070862 "Derry woman praises Foyle Hospice whose mother received the ‘best care’")](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
+
+Gerladine Ferguson with her mother Donna
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal man charged with rape returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman praises Foyle Hospice whose mother received the ‘best care’](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The White Butterfly Foundation](https://www.derrynow.com/resizer/165/93/true/2024_09_30/452099652_3978364359050561_6965868004632340259_n-1727699264013.jpg--.jpg?1727699264115 "The White Butterfly Foundation")](https://www.derrynow.com/news/county-derry-post/1617937/the-white-butterfly-foundation-set-for-official-launch-in-derry-s-guildhall.html)
+
+The White Butterfly Foundation
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[The White Butterfly Foundation set for Official Launch in Derry's Guildhall](https://www.derrynow.com/news/county-derry-post/1617937/the-white-butterfly-foundation-set-for-official-launch-in-derry-s-guildhall.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with series of drugs offences jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
+
+Derry Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with series of drugs offences jailed](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
