@@ -438,7 +438,7 @@ Hamburger Menu
 
 * [Business](https://www.lenovo.com/us/en/business/benefits/)
     
-    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Lenovo for Startups](https://www.lenovo.com/us/en/startups/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/)
+    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Lenovo for Startups](https://www.lenovo.com/us/en/startups/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/) [Professional Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
     * Explore
         
         [AI Laptops](https://www.lenovo.com/us/en/business/ai-laptops/) [Windows 11 Pro](https://www.lenovo.com/us/en/business/windows-11/) [Small Business Solutions](https://www.lenovo.com/us/en/solutions-for-smb/) [Legion PC's for Business](https://www.lenovo.com/us/en/gaming-and-work-laptops/) [Business Community](https://smbcommunity.lenovo.com/)
@@ -447,7 +447,7 @@ Hamburger Menu
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/) [Student Creator](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
     * Best Selling Laptops
         
         [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-14-inch-intel/len101t0083) [Legion Pro 5i Gaming](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Yoga 7 2-in-1](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(14-inch-amd)/len101y0046) [IdeaPad Pro 5i](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(14-inch-intel)/len101i0102) [ThinkBook 16 Gen 7](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-7-16-inch-intel/len101b0045)
@@ -458,7 +458,7 @@ Hamburger Menu
         
         Gaming By Brand
         
-        [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/)
+        [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/) [Gaming Content Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
     * [Best Selling](https://www.lenovo.com/us/en/gaming/store/) [Legion Pro 5i 16"](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Legion Tower 7i](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-intel/len102g0007) [Legion Go](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001)
         
         Quick Links
@@ -867,7 +867,7 @@ skip to main content
     
 * [AI](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
     
-    * [Explore AI PCs](https://www.lenovo.com/us/en/ai-pcs/) [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [Inclusive AI](https://www.lenovo.com/us/en/solutions/inclusive-ai/)
+    * [Explore AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Shop AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3ACopilot%252B%2520PC)
     * AI PCs
         
         [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
