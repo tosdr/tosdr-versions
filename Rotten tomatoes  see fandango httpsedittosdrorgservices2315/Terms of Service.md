@@ -17,13 +17,11 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Transformers One on Fandango!
 
 Go to next offer
 
@@ -56,6 +54,14 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0be73d50-7d34-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-applepay-week13-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
+    
+    ### APPLE PAY WEDNESDAY
+    
+    Get $5 off ticket orders made on Wednesday, 10/2 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    
 * [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
     
     ### Save 50% off on Terrifier 2
@@ -71,14 +77,6 @@ Offers
     Buy a ticket for yourself and everyone else you want to share The Forge with through The Kingdom Builders Gifted Ticket Program.
     
     [LEARN MORE](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer)
-    
-* [ROTTEN TOMATOES HONORS AUDIENCE FAVORITES image link ![ROTTEN TOMATOES HONORS AUDIENCE FAVORITES](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/606114c0-5e7e-11ef-a07e-5b03d6159fe4--rt-vh-globalofferunit-292x118-v1.png)](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer) 
-    
-    ### ROTTEN TOMATOES HONORS AUDIENCE FAVORITES
-    
-    The new Verified Hot designation showcases films that achieve a high Verified Audience Score. Check out the first fan-favorite movies to get this designation!
-    
-    [LEARN MORE](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer)
     
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
@@ -185,16 +183,6 @@ New & Coming soon
 
 © 2024 Fandango
 
-### Apple Pay Wednesday
-
-Close
-
-![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/6aab7830-77ab-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week12-tickets-343x362.png)
-
-#### Today only! Save $5 off your order with Apple Pay.
-
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 9/25/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 9/25/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
-
 ### Special Offer
 
 Close
@@ -203,7 +191,7 @@ Close
 
 #### Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
 
-\*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Terrifier 3’ between 9:00am PT on 9/23/24 and 11:59pm PT on 10/25/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for 50% off the purchase (and not the rental) of Terrifier 2 in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 10/30/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_promomodule)
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Terrifier 3’ between 9:00am PT on 9/23/24 and 11:59pm PT on 10/25/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for 50% off the purchase (and not the rental) of Terrifier 2 in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 10/30/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_promomodule)
 
 ### Fandango offer: Gift, Give or Receive a ticket to The Forge
 
@@ -238,13 +226,3 @@ Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are
 ### Rediscover the magic of Hogwarts!
 
 Close
-
-### Special Offer
-
-Close
-
-![Buy select titles on Fandango at Home](https://images.fandango.com/cms/assets/341a2270-61a9-11ef-a588-3b078e6b3d8a--fan-globalnavbar-transformersone-mto-343x362.jpg)
-
-#### Save on select movies and get up to $5.00 towards a movie ticket\* to see Transformers One in theaters.
-
-\*Purchase any of the titles (in any format) listed at https://www.vudu.com/content/movies/uxrow/collection/22178 on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 8/27/2024 and 11:59 pm PT on 9/23/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $5 total ticket price and associated fees and charges) to see Transformers One at Fandango partner theaters in the US. Code is void if not redeemed by 10/7/24 or when Transformers One is no longer in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/transformersone/?cmp=TARS~FANDANGO~RewardsT1Promo_GlobalNav)
