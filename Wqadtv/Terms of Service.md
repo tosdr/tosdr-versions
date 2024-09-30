@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536/20240927T231919/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536/20240927T231919/0f2abb36-e4fe-48ef-8adf-5fd3a7a5f536_360x203.jpg)](https://www.wqad.com/article/life/people/polio-survivor-shares-story-elementary-students-davenport/526-713cd8ab-9a01-4ae8-a8d4-d74597938b1c)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Davenport fourth graders learn about polio from 95-year-old survivor](https://www.wqad.com/article/life/people/polio-survivor-shares-story-elementary-students-davenport/526-713cd8ab-9a01-4ae8-a8d4-d74597938b1c)
         
-    *  [![](https://media.tegna-media.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-teen-reported-missing-keokuk-endangered-person-advisory/526-8205751c-b114-49f3-9e54-ac0e6d93decc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/21968834-81a1-41cc-8e22-5884e49ec1b6/20240925T231520/21968834-81a1-41cc-8e22-5884e49ec1b6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21968834-81a1-41cc-8e22-5884e49ec1b6/20240925T231520/21968834-81a1-41cc-8e22-5884e49ec1b6_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/400th-wheelchair-ramp-henry-county-illinois-rebuilding-together/526-c754d99e-dfcb-44c3-a2e7-f36a0e92eaeb)
         
-        #### [Teenager missing out of Keokuk, Iowa found safe](https://www.wqad.com/article/news/local/public-safety/iowa-teen-reported-missing-keokuk-endangered-person-advisory/526-8205751c-b114-49f3-9e54-ac0e6d93decc)
+        #### [Group of volunteers build their 400th wheelchair ramp in Henry County, Illinois](https://www.wqad.com/article/life/people/hard-work-determination/400th-wheelchair-ramp-henry-county-illinois-rebuilding-together/526-c754d99e-dfcb-44c3-a2e7-f36a0e92eaeb)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-66°
+57°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
