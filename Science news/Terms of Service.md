@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [Starlink satellites’ leaky radio waves obscure the cosmos](https://www.sciencenews.org/article/starlink-satellites-radio-waves)
+            
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")2 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
             By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")September 23, 2024
-            
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 20, 2024
             
 
 Terms of Service
