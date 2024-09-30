@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Hugo van Sittert
+Henry Venter
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=40877078)  
-Import Maaw
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=182480067)  
+IYD
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=45822011)  
-Waterfinatics Swim School
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=175924437)  
+CLEVER STUDENTS
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=199982980)  
-NIMAWELL
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=207561110)  
+Vplay Letsheng Mall
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=166514143)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=2586859)  
+Wiselink Broadband Pty Ltd
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=172718311)  
-Immediate Health (pty)ltd
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=58267565)  
+Tagline Brands
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=174183042)  
-Repairs In Motion
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=108938988)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=22851007)  
-Three Moons Emporium
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=200829526)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=60052372)  
-Lemba Truck Stop
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=7939188)  
+KTEN PARTS
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=108358880)  
-Forgotten Goods (Pty) Ltd
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=162354441)  
+Mountain Lion Properties
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=146255501)  
-All Trucking Solutions
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=206413260)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=152507424)  
-Nilbet T/A Waterman
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=10326919)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=52197511)  
-Iurus Inc
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=58393672)  
+Redlum Group (Pty) Ltd
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=20163998)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=16935625)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=64432429)  
-Quad Biking Cape Town
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=4351000)  
+Kainos (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1099ab382bc05cbcacd83755dd7154f6f85bf43ab784ab408fe2a0a3b854cac3&c=108114626)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=c36ddb79d513cc3c58615ceff7c76c214cd050c809571d94b9f3607052d27393&c=127712367)  
+SAUL ATHOL ACRES RENTAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
