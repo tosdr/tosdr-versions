@@ -1,5 +1,3 @@
-[Breaking: Conyers chemical plant fire leads to evacuation of 17,000](https://www.ajc.com/news/crime/residents-evacuated-after-fire-at-conyers-chemical-plant-officials-say/NLTZ6RLMIZCERF76B7FHUQFRYE/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
