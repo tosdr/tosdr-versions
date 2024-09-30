@@ -92,7 +92,7 @@ Contact Us
 
 [APPLY NOW](https://mynextpay.ca/apply-now/)
 
-Phone : [+1 844-882-7435](tel:+1%20844-882-7435)
+Phone : (514)344-1499
 
 Email: [info@mynextpay.ca](mailto:info@mynextpay.ca)
 
