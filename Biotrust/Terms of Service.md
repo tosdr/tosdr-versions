@@ -19,6 +19,7 @@
 * [BLOG](https://www.biotrust.com/blog/)
 * [QUALITY](https://www.biotrust.com/pages/quality)
 * [MISSION](https://www.biotrust.com/pages/charity)
+* [Refer A Friend](https://www.biotrust.com/pages/refer-a-friend)
 * #BIOTRUST
     
     expand
@@ -50,6 +51,7 @@
     * [Forgot Password](https://www.biotrust.com/account/login#recover)
     * [Create Account](https://www.biotrust.com/account/register)
     * [Customer Support](https://helpcenter.biotrust.com/en-US)
+    * [BioTRUST Cash](https://www.biotrust.com/account)
 * Proteins
     
     expand
@@ -159,6 +161,7 @@
 * [Purchase History](https://www.biotrust.com/account)
 * [Manage Subscriptions](https://www.biotrust.com/account)
 * [Track My Order](https://www.biotrust.com/account)
+* [BioTRUST Cash](https://www.biotrust.com/account)
 * [Forgot Password](https://www.biotrust.com/account/login#recover)
 * [Create Account](https://www.biotrust.com/account/register)
 * [Customer Support](https://helpcenter.biotrust.com/en-US)
@@ -186,6 +189,8 @@ SHOP expand
 [QUALITY](https://www.biotrust.com/pages/quality)
 
 [MISSION](https://www.biotrust.com/pages/charity)
+
+[Refer A Friend](https://www.biotrust.com/pages/refer-a-friend)
 
 #BIOTRUST expand
 
