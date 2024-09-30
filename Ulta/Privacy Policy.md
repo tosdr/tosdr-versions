@@ -1128,16 +1128,16 @@ Free standard shipping on any $35 purchase
 * [Home](https://www.ulta.com/)
 * Privacy Policy
 
-LAST UPDATED JUNE 19, 2024
+LAST UPDATED SEPTEMBER 30, 2024
 
 Privacy Policy
 ==============
 
 Welcome to Ulta Beauty! This Privacy Policy helps explain how Ulta Salon, Cosmetics & Fragrance, Inc. (“**Ulta Beauty**”) collects, uses, stores, and shares your information when:
 
-* You visit Ulta Beauty’s website at [www.ulta.com](http://www.ulta.com/), its mobile application, use its WiFi services, or visit any other digital platform where this Privacy Policy is posted (“**Sites**”);
+* You visit Ulta Beauty’s website at [www.ulta.com](https://www.ulta.com/), its mobile application, use its WiFi services, or visit any other digital platform where this Privacy Policy is posted (“**Sites**”);
 * You visit and shop at our physical stores (“**Stores**”);
-* You purchase our products and services (“**Products**”);
+* You purchase of and/or access to our products and services (“Products”);
 * You communicate with us by e-mail, text or telephone (“**Communications**”); and
 * We interact with service providers, partners, governmental agencies, and other third parties to collect and otherwise process your information (“**Third Parties**”).
 
@@ -1147,7 +1147,7 @@ To learn more about how our Sites, Products, and Communications use cookies and 
 
 If you are a resident of California, please see our [California Privacy Notice](https://www.ulta.com/company/privacy#california-policy) below.
 
-If you are a resident of Virginia, Colorado, Connecticut, or Utah please see our [Virginia, Colorado, Connecticut, and Utah Privacy Notice](https://www.ulta.com/company/privacy#va-co-ct-ut-privacy) below.
+If you are a resident of Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana, -please see our [Virginia, Colorado, Connecticut, Utah,Texas, Oregon, and Montana -Privacy Notice](https://www.ulta.com/company/privacy#va-co-ct-ut-privacy) below.
 
 If you are a resident of Nevada, please see our [Nevada Privacy Notice](https://www.ulta.com/company/privacy#nevada-policy) below.
 
@@ -1158,25 +1158,25 @@ If you are a resident of Washington, please see our [Washington Health Privacy N
 
 #### Information we collect directly from you
 
-We collect information about you when you use our Sites, visit our Stores, purchase our Products, and engage in Communications with us, including when you register an account, update your profile, access our content, make a purchase, participate in a promotion or incentive program, participate in our loyalty program, or engage in our customer support. This information includes:
+We collect information about you when you use our Sites, visit our Stores, purchase our Products, and engage in Communications with us, including when you register an account, update your profile, access our Products, make a purchase, participate in the Ulta Beauty Community (“Community”), participate in a promotion or incentive program, participate in our loyalty program, or engage in our customer support. The information we collect includes:
 
 * **Basic Identifying Information.** Information such as your full name, signature, postal address, e-mail address, phone number, account name, username, and other similar identifiers.
     
 * **Device Identifier and other Unique Identifiers**. Information we collect automatically when you engage with our Sites and Products, or engage in Communications with us, such as your device identifier, internet protocol (IP) address, cookies, beacons, pixel tags, mobile ad identifier, and other unique identifiers. For more information, see [Cookies and Related Tracking Technologies](https://www.ulta.com/company/privacy#2--cookies-and-related-tracking-technologies).
     
-* **Health Information**. Information such as your skin condition, scalp condition, and related information.
+* **Health Information**. Information such as your skin condition, scalp condition, and any other health related information you may share with us or through the Community.
     
-* **Payment Information**. Information such as your payment information, credit card information, and other forms of payment to permit you to purchase our Products. We may collect this information directly from you and from our Third Party partners.
+* **Payment Information**. Information such as your payment information, credit card information, and other forms of payment to permit you to purchase our Products. We may collect this information directly from you and from our Third Party partners, any other health related information you may share with us or through the Community.
     
-* **Internet or Other Network Activity**. Information such as your browsing or search history, and other information regarding your interactions with our Sites, emails, and advertisements. We gather this information automatically from your devices, from you directly, and from our Third Party partners.
+* **Internet or Other Network Activity**. Information such as your browsing or search history, engagement with the Community, and other information regarding your interactions with our Sites, Products, emails, and advertisements. We gather this information automatically from your devices, from you directly, and from our Third Party partners.
     
-* **Geolocation Information**. Information that permits us to determine your general location, such as zip code, so that we can best determine the closest Store to your location, or where to ship our Products. We gather this information directly from you when you engage with our Sites.
+* **Geolocation Information**. Information that permits us to determine your general location, such as zip code, so that we can best determine the closest Store to your location, or where to ship our Products, or what Products to offer you. We gather this information directly from you when you engage with our Sites.
     
-* **Commercial Information**. Information such as the nature of the Products you’ve considered on our Sites and in our Stores, your preferences, your purchase history, your loyalty account history, and related information concerning your commercial activity. We obtain this information directly from you when you engage with our Stores, Sites, and Products.
+* **Commercial Information**. Information such as the nature of the Products you’ve considered on our Sites and in our Stores, your preferences, your purchase history, your loyalty account history, your engagement with the Community, and related information concerning your commercial activity. We obtain this information directly from you when you engage with our Stores, Sites, and Products.
     
 * **Demographic Information**. Information such as number of members in your household, age, gender, and related demographic information. We obtain this information directly from you and from our Third Party partners.\*
     
-* **User Content**. Information such as your Communications with us and any other content you provide, such as social media profiles, photographs, images, videos, survey responses, comments, product reviews, testimonials, and other content.
+* **User Content**. nformation such as your Communications with us and any other content you provide, such as social media profiles, engagement with the Community, photographs, images, videos, survey responses, comments, product reviews, testimonials, and other content.
     
 * **Biometric Information**. Information such as your facial geometry when you use our Virtual Beauty Try-On feature or related features through our Sites, Stores, or Products. We obtain this information directly from you and from our Third Party partners.
     
@@ -1189,17 +1189,11 @@ We collect information about you when you use our Sites, visit our Stores, purch
 
 When you use our Sites, Products, and engage in Communications with us, we may collect certain information from you automatically, including:
 
-* **Usage Information**. Information such as the features you use on our Sites, the links you click and the items you view, pages you visit, emails and advertisements you view, Products you view and purchase, the time of day you browse, and your referring and exiting pages. We may collect this information through a variety of tools, including but not limited to session replay software.
+* **Usage Information**. Information such as the features you use on our Sites, the links you click and the items you view, pages you visit, emails and advertisements you view, Products you view and purchase, the time of day you browse, and your referring and exiting pages. We may collect this information through a variety of tools, including but not limited to session replay software, third-party pixels, and other tracking technologies. This information may also be shared with those parties.
     
 * **Device Data**. Information about the device you are using, including but not limited to the type of device you use, the temporary or persistent unique device identifier (UDID) placed by us or our service providers, the IP address of your device, your operating system, the type of browser you use, and data from the way you use our Sites.
     
 * **Location Data**. Information such as imprecise location data (such as location derived from an IP address or data that indicates a city or postal code level). Our Sites may also collect information about the location of your device. Your device should require you to provide permission before our Sites obtain precise geolocation information from a browser's geolocation API or from technologies like GPS, WiFi, and/or cell towers. We and our service providers may use this approximate location and/or precise geolocation information, along with other information submitted by you, to provide you with location-based services like local Store information, search results, special offers, and other personalized content. Most browsers and mobile devices allow users to enable or disable precise geolocation using pop-ups or controls located in the settings menu.
-    
-* **Cookies**. Cookies are small data files stored on your device that act as a unique tag to identify your browser. We use two types of cookies on our Sites: session cookies and persistent cookies. Session cookies make it easier for you to navigate our Sites and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Sites. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings.
-    
-* **Pixels (also known as web beacons)**. This is a type of code that is embedded in a website, video, email, or advertisement that sends information about your use to a server. There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from separate entities that allow us to track our communications, bring you advertising both on and off the Sites, and provide you with additional functionality, such as the ability to connect our Sites with your social media account.
-    
-* **App Technologies**. Information concerning technologies included in our mobile applications and Sites that are not browser-based like cookies and cannot be controlled by browser settings. For example, our Sites may include SDKs, which is code that sends information about your use to a server. These SDKs allow us to track our Communications, bring you advertising both on and off the Sites, and provide you with additional functionality, such as the ability to connect our Sites with your social media account.
     
 
 #### Information we collect from our Third Party partners
@@ -1210,19 +1204,24 @@ From time to time, we may collect information about you from Third Parties, incl
     
 * **Publicly available sources**, such as data in the public domain and through widely available media sources.
     
-* **Service providers**, such as those who performance services on our behalf for advertising, analytics, payment processing, delivery, fulfillment, fraud prevention and security, and other related services.
+* **Service providers**, such as those who performance services on our behalf for advertising, analytics, payment processing, delivery, data augmentation, data sourcing, fulfillment, fraud prevention and security, cybersecurity, payment processing, and other related services.
     
 
 2\. Cookies and Related Tracking Technologies
 ---------------------------------------------
 
-Cookies help us improve the Sites by providing us with information about which parts of the Sites are most popular, enabling us to analyze technical and navigational information about the Sites, and helping us to detect and prevent fraud. We also use cookies and other data collection tools (such as web beacons and server logs) to help improve your experience with the Sites. For example, we use analytic service providers to help analyze how users use the Sites. These tools use cookies to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the Sites (including IP address) is transmitted to our data collection tool service providers. This information is then used by us to evaluate visitors’ use of the Sites.
+Our Sites use a variety of third-party cookies and other related tracking technologies. Those technologies include:
 
-We use analytics services, such as Google Analytics, to help us understand how users access and use the Sites, as well as help us understand market trends and popularity of our products and services. As part of this process, we may incorporate tracking technologies into our own Sites, and some of our Communications. You can learn more about Google Analytics by visiting [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+* Cookies. Cookies are small data files stored on your device that act as a unique tag to identify your browser. We use two types of cookies on our Sites: session cookies and persistent cookies. Session cookies make it easier for you to navigate our Sites and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Sites. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings. Persistent cookies can be both first-party and third-party managed, meaning your data may be sent to third-parties through these tools.
+    
+* Pixels (also known as web beacons). This is a type of code that is embedded in a website, video, email, or advertisement that sends information about your use to a server. There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a third party to collect data through your device and browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from separate entities that allow us to track our communications, bring you advertising both on and off the Sites, and provide you with additional functionality, such as the ability to connect our Sites with your social media account.
+    
+* App Technologies. This includes technologies included in our mobile applications and Sites that are not browser-based like cookies and cannot be controlled by browser settings. For example, our Sites may include software development kits (SDKs), which is code that sends information about your use to a server. These SDKs allow us to track our Communications, bring you advertising both on and off the Sites, and provide you with additional functionality, such as the ability to connect our Sites with your social media account.
+    
+* Third Party Analytics Service Providers. We work with companies and analytics systems such as use Abobe Google Analytics to help us understand how users access and use the Sites, as well as help us understand market trends and popularity of our Products. As part of this process, we may incorporate analytics and tracking technologies into our own Sites, and some of our Communications such as e-mails. You can learn more about Google Analytics by visiting How Google uses information from sites or apps that use our services.
+    
 
-**Session Replay**
-
-Our Sites may, from time to time, utilize technology often known as “session replay” technology that allows Ulta Beauty to understand how users interact with the Sites, including replays of their interaction with our Sites. By using our Sites, you represent you have read this disclaimer and understand that Ulta Beauty may use this session replay technology to record how you interact with our Sites, which may be used by Ulta Beauty for its own internal analytical purposes, and to improve and enhance our Sites.
+Session Replay. Our Sites may, from time to time, utilize technology often known as “session replay” technology that allows Ulta Beauty to understand how users interact with the Sites, including replays of their interaction with our Sites. By using our Sites, you represent you have read this disclaimer and understand that Ulta Beauty may use this session replay technology to record how you interact with our Sites, which may be used by Ulta Beauty for its own internal analytical purposes, and to improve and enhance our Sites
 
 3\. How we use your information?
 --------------------------------
@@ -1235,8 +1234,9 @@ We use your information to:
 * Provide the Sites and Stores to you;
 * Improve our Sites, Products, and Stores;
 * Maintain your Ulta Beauty account and Loyalty Program membership;
+* Provide you access to the Ulta Beauty Community;
 * Improve our marketing and promotions;
-* Statistically analyze the usage of our Sites, Communications, and Stores;
+* Statistically analyze the usage of our Sites, Products, Communications, and Stores;
 * Contact you;
 * Resolve disputes, investigate problems, and enforce our terms;
 * Help diagnose problems with our server, manage our Sites, and to enhance our Products; and
@@ -1252,6 +1252,8 @@ We may disclose your information in the following circumstances:
 * **With Service Providers & Business Partners**. We may disclose or make available your information with Third Parties, such as service providers, affiliates and subsidiaries, business partners, credit / debit card processing partners, partners that facilitate billing, shipping, and customer service, third-party auditors and law firms, marketing and advertising networks (including those that provide ad measurement services), internet service providers, data analytics providers, companies that help debug and identify and repair errors that may impair the functionality of our Sites, and third parties that help protect against malicious, deceptive, fraudulent, or illegal activity. We may also disclose your information in connection with financial products or services related to our business, such as private label credit cards. We may also disclose your information in connection with co-branded Product offerings.
     
 * **In A Business Transfer**. We may disclose or make available your information as part of a business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third parties as a business asset in the transaction.
+    
+* **In Public Forums.** Some of our Sites allow you the ability to post content in a public forum, such as the Community. If you decide to submit information in these public forums, that information will be publicly available.
     
 * **For Legal Process & Protection**. We may disclose or make available your information to satisfy any law, regulation, legal process, governmental request, or where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (1) enforce or apply agreements, or initiate, render, or bill for use of the Sites; (2) protect our rights or interests, property or safety or that of others; (3) in connection with claims, disputes, or litigation - in court or elsewhere; (4) protect users of our Sites and other carriers, providers, or partners from fraudulent, abusive, unlawful, or otherwise improper use of our Sites; (5) facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government.
     
@@ -1276,12 +1278,12 @@ Our Sites may include links to websites/applications that are owned or operated 
 8\. Do Not Track
 ----------------
 
-Our Sites may, from time to time, collect information about your online activities, over time and across our different websites. When you use our Sites, third parties may also collect information about your online activities, over time and across different internet websites, online or cloud computing services, online applications, or mobile applications. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Sites do not currently change the way they operate based upon detection of a “Do Not Track” or similar signal. Our Sites do, however, recognize a global privacy signal, as outlined in [Your Choices](https://www.ulta.com/company/privacy#your-choices) below.
+Our Sites may, from time to time, collect information about your online activities, over time and across our different websites. When you use our Sites or engage with our Products or Communications, third parties may also collect information about your online activities, over time and across different internet websites, online or cloud computing services, online applications, or mobile applications. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Sites do not currently change the way they operate based upon detection of a “Do Not Track” or similar signal. Our Sites do, however, recognize a global privacy signal, as outlined in [Your Choices](https://www.ulta.com/company/privacy#your-choices) below.
 
-9\. Social Media Widgets and Single Sign-On Services
-----------------------------------------------------
+10\. Social Media Widgets and Single Sign-On Services
+-----------------------------------------------------
 
-Our Sites use third-party social media widgets such as buttons or similar mechanisms from Facebook, Twitter, Instagram, Pinterest, YouTube, and/or FourSquare. Such third-party features may collect information about you, like your IP address and the page(s) you visit on our Sites. They may also place cookies on your device. These social media widgets are either hosted by a Third Party or by our Sites. Your interactions with those features are governed by the privacy policies of the third-party social media networks that provide them.
+Our Sites use third-party social media widgets such as buttons or similar mechanisms from Facebook, Instagram, Pinterest, TikTok, Threads, X (formerly Twitter), and YouTube. Such third-party features may collect information about you, like your IP address and the page(s) you visit on our Sites. They may also place cookies on your device. These social media widgets are either hosted by a Third Party or by our Sites. Your interactions with those features are governed by the privacy policies of the third-party social media networks that provide them.
 
 10\. Virtual Beauty Information
 -------------------------------
@@ -1293,7 +1295,7 @@ The collection of “Virtual Beauty Information” is governed by the Virtual Be
 
 Our Sites are directed to adults and we do not knowingly collect the personal information from children under the age of 13. If you are the parent or guardian of a child under the age of 13, and you believe your child has provided their personal information to us, please contact us.
 
-12\. Your Choices
+13\. Your Choices
 -----------------
 
 **US State Rights**
@@ -1328,6 +1330,8 @@ Depending on where you live, you may have the following rights:
 * **Opt-Out of Precise Geolocation**. Most browsers and mobile devices allow users to enable or disable precise geolocation using pop-ups or controls located in the settings menu. Regardless of where you live, if you have permitted Ulta Beauty to access your precise geolocation data, you may at any time opt-out from further allowing Ulta Beauty to access your precise geolocation data by adjusting the permissions in your browser or device.
     
 * **Uninstall the Mobile Application**. Regardless of where you live, you can uninstall the Ulta Beauty mobile application at any time. You may use the standard uninstall process available as part of your mobile device, or via the mobile application marketplace or network. If you uninstall the mobile application from your device, the Ulta Beauty unique identifier associated with your device will continue to be stored. If you re-install the application on the same device, Ulta Beauty will be able to re-associate this identifier to your previous transactions and activities.
+    
+* **Removing Content From The Community**. You can request that we remove content or information you have posted through the Community by submitting a request on [https://ulta.ws/community-feedback](https://ulta.ws/community-feedback). Please note that even if we remove your content, historical copies of the content may remain on Ulta’s systems.
     
 * **Delete Your Ulta Beauty Account on the iPhone**. Regardless of where you live, you may delete your Ulta Beauty account at any time from your Ulta Beauty application. We will email you instructions to confirm your identity and finalize your deletion after you submit your account deletion request. Please note: deleting your account will result in the loss of any points associated with your loyalty account. Ulta Beauty may still retain certain information connected to your purchase history as required under applicable law.
     
