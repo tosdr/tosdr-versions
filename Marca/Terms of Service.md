@@ -1,7 +1,8 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zvm7fwoAAhQAAABib78)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvoN9AoAAhQAAABiDP0)
 
 * Es noticia:
 * [Atlético - Real Madrid](https://www.marca.com/futbol/laliga-ea-sports/atletico-r-madrid/2024/09/29/01_0101_20240929_175_186-directo.html)
+* [Correa](https://www.marca.com/futbol/primera-division/cronica/2024/09/29/66f9b36fca4741ad6e8b459c.html)
 * [Vinicius](https://www.marca.com/futbol/real-madrid/2024/09/29/66f9ae0622601d4a418b459a.html)
 * [Coruña - Real Madrid](https://www.marca.com/baloncesto/acb/2024/09/29/leyma-coruna-arma-debut-acb-tumbando-real-madrid-3-1-recuerdo.html)
 * [Atlético - Real Madrid dónde ver](https://www.marca.com/futbol/primera-division/2024/09/29/66f9037fca4741202c8b457b.html)
