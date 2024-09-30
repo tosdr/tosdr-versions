@@ -2,7 +2,7 @@
 
 10% off $100!+\* [Download & Open App to Get Code](https://www.zappos.com/c/apps)
 
-Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
+Birkenstock for fall and beyond. [Shop Birkenstock](https://www.zappos.com/c/birkenstock-fashion)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
