@@ -248,13 +248,13 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/en_us/business/products/hybrid-cloud.html)
                 
-        * [Attack Surface Risk Management for Cloud](https://www.trendmicro.com/en_us/business/products/detection-response/attack-surface-management.html)
+        * [Attack Surface Risk Management for Cloud](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)
             
             * Attack Surface Risk Management for Cloud
                 
                 Cloud asset discovery, vulnerability prioritization, Cloud Security Posture Management, and Attack Surface Management all in one
                 
-                [Learn more](https://www.trendmicro.com/en_us/business/products/detection-response/attack-surface-management.html)
+                [Learn more](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)
                 
         * [XDR for Cloud](https://www.trendmicro.com/en_us/business/products/detection-response/xdr.html)
             
