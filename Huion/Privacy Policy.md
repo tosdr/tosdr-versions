@@ -298,6 +298,7 @@ As the scope of services on the website is extending, we may from time to time u
 * [About us](https://www.huion.com/about_us.html)
 * [News](https://www.huion.com/news/)
 * [Contact us](https://www.huion.com/contact_us.html)
+* [Dealer Locator](https://huion.com/dealer-search)
 
 ​
 
