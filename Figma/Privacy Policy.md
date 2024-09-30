@@ -246,9 +246,9 @@ Privacy Policy
 
 Effective Date
 
-September 26, 2024
+September 27, 2024
 
-See all versionsSeptember 26, 2024September 12, 2024August 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
+See all versionsSeptember 27, 2024September 26, 2024September 26, 2024September 26, 2024September 12, 2024August 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
 
 [1\. ABOUT](#_1-about)
 ----------------------
@@ -451,9 +451,9 @@ You can access Standard Contractual Clauses implemented into Figma's Customer DP
 [7\. E.U. – U.S. DATA PRIVACY FRAMEWORK, UK EXTENSION AND SWISS – U.S. DATA PRIVACY FRAMEWORK](#_7-e-u-u-s-data-privacy-framework-uk-extension)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Figma, Inc. (for the purposes of this section, “Figma”, “we”, or “us”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Figma has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Figma has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+Figma, Inc. (for the purposes of this section, “Figma”, “we”, or “us”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Figma has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Figma has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
-The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF, and to view our certifications, please [visit the Data Privacy Framework Program's website](https://www.dataprivacyframework.gov/s/).
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
 The types of personal information we receive in the U.S., as well as the purposes for which we collect and use it, are set out in Section 3 and 4 above. We will give you an opportunity to opt out where personal information we control about you is to be disclosed to an independent third party, or is to be used for a purpose that is materially different from those set out in this Privacy Policy. If you otherwise wish to limit the use or disclosure of your personal information, please contact us via the contact details set out below.
 
@@ -730,6 +730,7 @@ Resources
 * [Best practices](https://www.figma.com/best-practices/)
 * [Color wheel](https://www.figma.com/color-wheel/)
 * [Colors](https://www.figma.com/colors/)
+* [Color picker](https://www.figma.com/color-picker/)
 * [Templates](https://www.figma.com/templates/)
 * [Developers](https://www.figma.com/developers)
 * [Integrations](https://www.figma.com/product-integrations/)
