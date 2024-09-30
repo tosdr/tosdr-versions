@@ -56,7 +56,7 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -70,9 +70,9 @@ This field is for validation purposes and should be left unchanged.
 
 * [How it Works](#)
     
-    * [For Schools](https://xello.world/en-gb/xello-for-schools/)
-    * [For Academy Trusts](https://xello.world/en-gb/xello-for-academy-trusts/)
-    * [For Local Authorities](https://xello.world/en-gb/xello-for-local-authorities/)
+    * [For Schools](https://xello.world/en-gb/for-schools/)
+    * [For Academy Trusts](https://xello.world/en-gb/for-academy-trusts/)
+    * [For Local Authorities](https://xello.world/en-gb/for-local-authorities/)
     * [Features Gallery](https://xello.world/en-gb/features-gallery/)
     * [Take a Tour](https://xello.world/en-gb/product-tour/)
     
@@ -374,9 +374,9 @@ If you have any questions regarding this Privacy Policy, please email us at [pri
 ![xello_wordmark](//xello.world/wp-content/uploads/2018/12/xello_wordmark.svg)](https://xello.world/en-gb/)
 
 * [How it Works](#)
-    * [For Schools](https://xello.world/en-gb/xello-for-schools/)
-    * [For Academy Trusts](https://xello.world/en-gb/xello-for-academy-trusts/)
-    * [For Local Authorities](https://xello.world/en-gb/xello-for-local-authorities/)
+    * [For Schools](https://xello.world/en-gb/for-schools/)
+    * [For Academy Trusts](https://xello.world/en-gb/for-academy-trusts/)
+    * [For Local Authorities](https://xello.world/en-gb/for-local-authorities/)
     * [Features Gallery](https://xello.world/en-gb/features-gallery/)
     * [Request a Demo](https://xello.world/en-gb/demorequest/)
     * [Take a Tour](https://xello.world/en-gb/product-tour/)
