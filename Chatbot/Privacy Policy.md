@@ -1,389 +1,447 @@
-Help customers instantly with an AI-driven chatbot
-==================================================
+Help, convert, and sell with a data-driven AI chatbot
+=====================================================
 
-ChatBot scans your website, help center, or other designated resource to provide quick and accurate AI-generated answers to customer questions.
+ChatBot instantly helps your customers using AI-generated responses. Get **24/7 support** and **ultra-high** satisfaction rates.
 
     Sign up free
 
 Free 14-day trial No credit card required
 
-![](/home-blur-1.e6d879ae6bcad1f444593d276fd5f656c9ba9d86b54007e13a3b3f3ce7f18fc9.png) ![](/home-blur-2.e6d879ae6bcad1f444593d276fd5f656c9ba9d86b54007e13a3b3f3ce7f18fc9.png)
+![A woman smiling and holding a smartphone.](/home__hero-mobile.af5365788b40743d583e272a7b5d956ac5c24cc7ad79e7f460a574affcbb57ad.png)
 
-![](/icon-video-tick.cf9424193ed9736fb946dcae15628f7722b5692da95932d12d9211459ee9195e.png)
-
-Set up your chatbot
-
-![](/icon-video-website.e01e58c8ad1041ddec792c1faf89d620dfc546d820d456dbb826e09d26485850.png) Website
-
-Crawl your website’s content to get answers to popular user questions.
-
- Train chatbot
-
-By sharing your URL, you are confirming that you have the necessary rights to share the content at this URL.
-
-![](/video-dashboard-bg-blur.d0a225b397c59535ee273e280a98b42ed333a285229202c8f5ae81e763ff8a6f.png)
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support Bot
-
-Online
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support Bot
-
-👋 Welcome to Support Bot. I'm ChatBot, your AI assistant. Let me know how I can help you.
-
-FAQ
-
-About Us
-
-Online store
-
-Contact us
-
-Customer
+Debra
 
 How much time do I have for my order return?
 
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
+![Customer avatar in chat bot conversation](home__chat-avatar-debra.png)
 
-Support Bot
+![ChatBot avatar in chat bot conversation](home__chat-avatar-bot.png)
 
-You can return your items within 30 days of receiving your package from the store.
+ChatBot
 
-Customer
+Hi Debra! You can return your purchase within 7 days.
 
-How long does it take to get a refund?
+Debra
 
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
+That’s what I needed! Thx
 
-Support Bot
+![Customer avatar in chat bot conversation](home__chat-avatar-debra.png)
 
-Return processing takes up to 5 days, and your payment will be refunded within the following 10 days.
+![A woman smiling and holding a smartphone.](/home__hero.543d7765daa7e932b6e6acbc83f75bbda23f39eb6fd02e67c7a4f4ea059bb6d6.jpg) ![A woman smiling and holding a smartphone.](/home__hero-lg.15470f267371d22f99fe203779f96c0ca9e88ca9e642e1404ad8b1aec329dd33.jpg)
 
-Customer
+![Support icon.](/home__icon-support.4abeaaa839284a063f6edf0ce7d1439322de727ed412b7b86d55efeb0551c9df.svg) AI-powered customer service
 
-Thank you!
+![Circle tick icon.](/home__icon-check-circle.8fa78fb1c7671dcaab02fa4f0674c5e9932f2c155e5c3637d4ab903ee118d26c.svg) Instant AI chatbot setup
 
-![](/video-bg-blur.b4c8e34c58a495d4f299de554a1bbcb8025020065d10fd9d61a784bd196d6701.png)
+![Messages icon.](/home__icon-messages.fb4cbfcfef6077c9cf3c91e9932b23c5dd1d3a777d8385e0633e22639b5c5a86.svg) Multichannel communication
 
-![The process of creating an AI chatbot widget in ChatBot software. Data from a website is scanned to provide the knowledge needed to allow the bot to host conversations with customers. The created bot can simulate chats hosted by a real person.](/hero-widget-mobile.29e0eea6179128929e8a7d9428cc3c057828c51a3c3c4588b1074514dac553d4.png)
+![Sparkles icon.](/home__icon-sparkles.a0eefc7e13aa091c4f5dc19ebb0ca5c446d6e5c03958c821c927809cfefc013f.svg) AI-generated replies
 
-Empowering companies to stand out with customer experience
-----------------------------------------------------------
+![Training icon.](/home__icon-message-circle.4e675f7a2d5d4201bd72e005b7247c7f8bb4befd3a3ee00ea8bb0ae7c249673f.svg) Advanced AI training
 
-![Companies using ChatBot.com](/companies-using-chatbot.1aea2db354f89bb66b598b9696549fe4fbcabb870f156188ec8a0e6f6520da8d.png) ![Companies using ChatBot.com](/companies-using-chatbot-mobile.6b75b3793311dec71d096608635147139be3b112d13fd35d3f8b6d5156ef6bbd.png)
+![Support icon.](/home__icon-support.4abeaaa839284a063f6edf0ce7d1439322de727ed412b7b86d55efeb0551c9df.svg) AI-powered customer service
 
-![ChatBot logo](/chatbot-ai-assist.d97fd6781d5adc0555046148733f2c09fb0a2114251276fcb575cef5765b25c2.png)
+![Circle tick icon.](/home__icon-check-circle.8fa78fb1c7671dcaab02fa4f0674c5e9932f2c155e5c3637d4ab903ee118d26c.svg) Instant AI chatbot setup
 
-ChatBot AI Assist
------------------
+![Messages icon.](/home__icon-messages.fb4cbfcfef6077c9cf3c91e9932b23c5dd1d3a777d8385e0633e22639b5c5a86.svg) Multichannel communication
 
-Your own generative AI Large Language Model framework, designed and launched in minutes without coding, based on your resources.
+![Sparkles icon.](/home__icon-sparkles.a0eefc7e13aa091c4f5dc19ebb0ca5c446d6e5c03958c821c927809cfefc013f.svg) AI-generated replies
 
-![Comparison of ChatBot's AI Assist technology to others - OpenAI ChatGPT, Google Bard, Bing AI, and ChatSonic.](/no-dependencies.6db198eae0d797458511302605cc8810c3a6c5b1d18c66259da5c33405fbe279.png)
+![Training icon.](/home__icon-message-circle.4e675f7a2d5d4201bd72e005b7247c7f8bb4befd3a3ee00ea8bb0ae7c249673f.svg) Advanced AI training
 
-### Standalone AI
+ Scan  Tune  Resolve  Analyze
 
-No dependencies on third-party providers like OpenAI, Google Bard or Bing AI.
+![ChatBot software interface view with Set up your chatbot section, showing an AI chatbot training based on the provided website address. Use your website or other resources to make ChatBot an expert in your field. Select specific pages for precise AI model training. Instantly create your custom generative AI chatbot.](/home__scan.1fbaac4d90134147476da5ac9d9b6d1706919e2cd24f006bfe3da28dac6c2e6a.png) ![ChatBot software interface view with Set up your chatbot section, showing an AI chatbot training based on the provided website address. Use your website or other resources to make ChatBot an expert in your field. Select specific pages for precise AI model training. Instantly create your custom generative AI chatbot.](/home__scan-mobile.5d69339daad6e8d3e3c65b81df8a9b1cf9531ac116db791c229daf6c492470ce.png)
 
-![Customers' queries resolved by an AI chatbot](/right-answers-in-a-flash.2264c410fc9f871ace88d6aa7a0798ae88bc85b6414a9b555144af781e6329d8.png) ![Customers' queries resolved by an AI chatbot](/right-answers-in-a-flash-mobile.1c69bd49cc3e3e28afe9705bc8fa4bc2dd0bb0407cf569ac12ca56c4bede25cf.png)
+![ChatBot app interface with a chatbot diagram including elements like Start point, Welcome message, AI Assist, Default fallback, User input, Shopify and HelpDesk actions, next to other Interactions and Actions available in the ChatBot's Visual Builder, AI Knowledge and Training sections, and Test your bot and Publish buttons. Fine-tune your custom AI model by adding more resources and custom answers. Drag and drop blocks to easily customize your AI chatbot flow.](/home__tune.10ba77ce089df5c4ae59585e95b9dfa08906e62c50c38ae912ea8c1eb37cc07e.png) ![ChatBot app interface with a chatbot diagram including elements like Start point, Welcome message, AI Assist, Default fallback, User input, Shopify and HelpDesk actions, next to other Interactions and Actions available in the ChatBot's Visual Builder, AI Knowledge and Training sections, and Test your bot and Publish buttons. Fine-tune your custom AI model by adding more resources and custom answers. Drag and drop blocks to easily customize your AI chatbot flow.](/home__tune-mobile.1aa5f65449029dce3d621b425bec14288a6ae47ff43eabdd3d58f5784a6e3c89.png)
 
-### The right answers in a flash
+![An ecommerce website interface featuring an AI chatbot widget, displaying a customer's question and an AI-generated response. The response includes a rich chatbot message in the form of an image carousel with recommended products. Enrich your website with an AI chatbot to instantly interact with customers.](/home__resolve.9fabcb128bcbb691f494bcb1220d4516af7e4913e89a186a7c14b2c8be424d68.png) ![An ecommerce website interface featuring an AI chatbot widget, displaying a customer's question and an AI-generated response. The response includes a rich chatbot message in the form of an image carousel with recommended products. Enrich your website with an AI chatbot to instantly interact with customers.](/home__resolve-mobile.320205629a32512b6e187a3315fa967a4b09c74848c88421277e91ab1a0d7c0b.png)
 
-Much faster than comparable solutions, replies immediately, and hosts human-like conversations.
+![The Reports section in the ChatBot app displaying a report including the number of total chats and the average number of chats in a given period. Track trends in chats and visitor activity. Discover how visitors interact with your chatbot.](/home__analyze.269e4f524c55f5b3b1692758909354bc0e773ab8f78a3353c9d1e30237d5b953.png) ![The Reports section in the ChatBot app displaying a report including the number of total chats and the average number of chats in a given period. Track trends in chats and visitor activity. Discover how visitors interact with your chatbot.](/home__analyze-mobile.17b5a3c96c5f1eb41d742ca478f05abac6c6c29e8e60f9b10ce843f7b0c81bf3.png)
 
-![ChatBot AI Assist sources: websites, Zendesk help center, KnowledgeBase help center, articles.](/multiple-data-sources.ebede9d38b227957d16c9e86a96a565e7be5204f3bca06bbcb609594b9c6a7fa.png) ![ChatBot AI Assist sources: websites, Zendesk help center, KnowledgeBase help center, articles.](/multiple-data-sources-mobile.60b2085cf81142ad7ae16950490894b3c2261b938860c5b4f82a8212a6cf0600.png)
+Empowering **thousands** of companies. [Join them](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-logos&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-### Multiple data sources
+![Logos of ChatBot software customers, including Unilever, UEFA, BASF, Danone and more.](/home__companies.9039c7f6d7a10b39f30ebd1d5792798da99f5e3b81ae1356f4b04a05722f5bc0.png) ![Logos of ChatBot software customers, including Unilever, UEFA, BASF, Danone and more.](/home__companies-mobile.4100605cf9ea0477ef3b6309fd111e9d156325e208708ad34d751c89ed4b76b6.png)
 
-Can be trained by multiple sources like websites, help center or text documents. Update your data sources at any time.
+![Questions from customers posted across different communication channels: Shopify, Messenger, Slack, and LiveChat.](/home__multiple-channels-mobile.aef7125f6470dd3f1dda62f8bbfc0d9aff1792198042e8bb5bde4e1dc3b28067.png) ![Questions from customers posted across different communication channels: Shopify, Messenger, Slack, and LiveChat.](/home__multiple-channels.5cdb5b636f77455f00a5e2c1a3f1d0aab5ab7e28cf5465165206be919fa63f84.png)
 
-![Data security in ChatBot software](/data-secured.0558c4151054ab174d81a79563494dd19ac4b47529c2247e401aaf37adc3b4fd.png) ![Data security in ChatBot software](/data-secured-mobile.ecaf0509689567c45d97b1736c64c1243cd2daeab8787850e34cbf682b5f4d96.png)
+![Icons of ChatBot integrations, including Facebook Messenger, LiveChat, WordPress, Shopify, BigCommerce, Slack, Webflow, Squarespace, and Wix.](/home__multiple-channels-logos.0d6761c88aec5ee5d0f603921245b938e0fa8ff859d7be811d3bfc6e7f826e25.png)
 
-### Data secured
+Support customers on multiple channels
+--------------------------------------
 
-All data is processed and hosted only in the ChatBot platform.
+Add an AI chatbot to your website, LiveChat, Messenger, or Slack to handle all support cases automatically, 24/7.
 
-Driven by data, powered by AI, controlled by you
-------------------------------------------------
+[Sign up free](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-support-customers&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-![Data management for AI chatbot communication](/manage-all-your-AI-data-sources.5547258eef4c0b0268f728f9317791f582e758765b093132b3fcc30e8d31f212.png)
+Show offers to boost sales
+--------------------------
 
-### Manage all your AI data sources
+Proactively reach website visitors with product recommendations to increase engagement and conversions.
 
-Switch on/off website URLs, help center articles, and text snippets to select sources currently utilized by your AI bot.
+[Sign up free](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-show-offers&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-![ChatBot's FAQ module](/control-your-bot-responses.15dda6149108bb338876c6ef8700909dbab9687aae6cf50a17228f6d69e32a08.png)
+![Customer support chatbot presenting personalized product recommendations for a customer.](/home__show-offers.f0cc2e20c30c8d1c5f74e2c09faed22ad933d958279a206b919a44f7c3aea57b.png) ![Customer support chatbot presenting personalized product recommendations for a customer.](/home__show-offers-mobile.585ff841538979ff94ed1e2f3f959e995a31808b84f0ad7aea3426f70cbebb58.png)
 
-### Control your bot responses
+![AI chatbot answering customer's question about verification code expiration.](/home__deliver-ai.8e66d1b484a2e9fb002fb04db28d22dd07c0eb54e8d1dae00d12be5bc093b391.png)
 
-The FAQ module has priority over AI Assist, giving you power over the collected questions and answers used as bot responses.
+Deliver on-point answers with AI automation
+-------------------------------------------
 
-![ChatBot's attributes used for personalized communication](/collect-company-data.be5720b358e709805c8af44d6fb698e939a0262e01bd466a5197109579e4e79a.png)
+Ensure continuous customer engagement and human-like support without expanding your team.
 
-### Collect all company data automatically
+[Sign up free](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-deliver-AI-answers&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-Effortlessly gather crucial company details and use them to supercharge your customer's experience during the chat.
+![Rasmus Serup](/home__testimonial-author.a9fd60b8ec7a74c81a2527d48540bac05b0267dfc5d2c393458d78f181a530f0.png)
 
-![An example of an e-commerce AI bot providing automated online customer communication. The bot is customized based on the industry and specific business needs of the company.](/ready-to-start-chatting.a49c0851505f6d0b0c81fceacb60a3d5b32730c7d5bc66542d61b9725ab7cdc0.png)
+“ChatBot is really great with customization and scalability. We use it on all of our 13 domains with +800k unique monthly visitors, and personalize the experience depending on the language.”
 
-### Ready to start chatting just like that
+**Rasmus Serup**, CEO of Hairlust
 
-Engage visitors with ChatBot's quick responses and personalized greetings, fueled by your data.
+[Sign up free](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-case-study&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-[Create your AI chatbot now](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-create-ai-bot&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
+Flexible ways to build your all-in-one AI chatbot
+-------------------------------------------------
 
-Create customer service that sells
+### Scanning with AI Assist
+
+Train your website or other resources to get an AI model based on your business expertise. Let your AI chatbot deliver accurate customer support using the collected data.
+
+[Learn more](https://www.chatbot.com/ai/)
+
+![AI ChatBot app scanning sources like websites, articles, or knowledge bases for bot training. Data is scanned to provide the knowledge needed for the bot to host conversations with customers and simulate chats like a real person.](/home__scanning-ai.978c40d39a7ec222ec08dab825570a4dda2c68ef4840b50c11c30228fc19af44.png)
+
+### One-click templates
+
+Kickstart with predefined flows to handle specific chatbot skills, such as suggesting products, offering discounts, or collecting leads.
+
+[Learn more](https://www.chatbot.com/chatbot-templates/)
+
+![Adding Customer Service chatbot template in the ChatBot software.](/home__one-click.01ee1934571958045de1ae47d95f0b0a5886a28527a0aadb2b74ba6fef0851da.png)
+
+### Visual Builder
+
+Create and adjust your chatbot's flow using an intuitive drag-and-drop builder, all without any coding. Add, move, and edit blocks to customize your chatbot.
+
+[Learn more](https://www.chatbot.com/features/visual-builder/)
+
+![Adding a Bot Response block to the AI chatbot in the ChatBot app's Visual Builder.](/home__visualbuilder.5da079d1547d8bc5c6bc5dd491e6c8833826f24871afc0c9e5eaaefb33ae26e3.png)
+
+Handover to live agents seamlessly
 ----------------------------------
 
-Help your business grow with the best chatbot app by combining automated AI answers with dedicated flows.
+Combine AI efficiency with human expertise. Let AI resolve most queries automatically so your team can focus on top-tier clients.
 
-### Engage
+[Add live agents to ChatBot](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-add-livechat&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
-Reach out to visitors proactively using personalized chatbot greetings. Turn website visits into sales opportunities.
+![AI chatbot transferring a chat from an AI bot to an agent using LiveChat integration, with two people smiling and standing next to the chat interface.](/home__livechat.499ad51945668fe154fc7c7a7da81a3b3053c94ba0845a4152c14912f656c3a2.png) ![AI chatbot transferring a chat from an AI bot to an agent using LiveChat integration, with two people smiling and standing next to the chat interface.](/home__livechat-mobile.76116543a46b4a26b00ef0361038bec127756ec291697504bb712da2891e04d3.png)
 
-![AI chat bots to generate leads on your website](/widget-engage.a9438e174329ec0e185d4731373c4eb75cc1152b32cc7a50f4017c4882ac04c3.jpg)
-
-### Nurture
-
-Lead customers to a sale through recommended purchases and tailored offerings.
-
-![Nurture leads with an AI chat bot](/widget-nurture.8738a786d845bf811e605060b91e30d28c79bb2201cf76bbabc018892861ed86.jpg)
-
-### Qualify
-
-Generate and qualify prospects automatically. Transfer high-intent leads to your sales reps in real time to shorten the sales cycle.
-
-![Conversational AI to qualify sales leads](/widget-qualify.87817214aebe00cc284feb2d1a9a2c23bd17bdc21963b92b4342193dff5663d0.jpg)
-
-### Convert
-
-Boost sales by letting customers purchase, order, or schedule meetings easily using a smart chatbot.
-
-![Convert leads with AI chat bot](/widget-convert.d317312371f1667e0f67a0b8a7494d6e598a98645f52a81a775c0e7b1b63826b.jpg)
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-Online
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-Hi! 👋 How can I help you today?
-
-Services
-
-Solutions
-
-Book a call
-
-Leave a message
-
-User
-
-Services
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-![](/carousel-arrow.36b8b3f6d6407f1afb754a7c607c835b2419d72bd00a6aa04c687cd7237ead61.svg)
-
-![](/carousel-arrow.36b8b3f6d6407f1afb754a7c607c835b2419d72bd00a6aa04c687cd7237ead61.svg)
-
-![](/elements/widget/widget-card-1.png)
-
-Digital Transformation
-
-Digitize your business to increase revenue.
-
-Learn more
-
-Book a call
-
-![](/elements/widget/widget-card-2.png)
-
-Machine Learning
-
-Personalize your customer experience.
-
-Learn more
-
-Book a call
-
-![](/elements/widget/widget-card-3.png)
-
-Business Intelligence
-
-Transform data into business decisions.
-
-Learn more
-
-Book a call
-
-User
-
-Book a call
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-Awesome! How big is your team?
-
-1-10
-
-10-50
-
-50-100
-
-100+
-
-User
-
-50-100
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-We have a lot of experience in working with companies of your size!
-
-When would you like to talk to our team?
-
-Mon, Feb 4 at 10:00 a.m.
-
-Mon, Feb 4 at 11:00 a.m.
-
-Tue, Feb 5 at 9 a.m.
-
-Choose a different date
-
-User
-
-Mon, Fab 4 at 11:00
-
-![](/chatbot-widget-avatar.60cf31f33b5a9aeb17d50a1dd1049bb65f6aadfa07683b3b477207cb7bbc3bbf.svg)
-
-Support ChatBot
-
-We need your email address to send you a confirmation.
-
-User
-
-tom@examplecompany.com
-
-Send a message... ![](/send.85f6eb6de7a66cfeb5cec33967e0f1baa1b84c7183404fa126da4ccc1773f87e.svg)
-
-Cover all customer journey touchpoints automatically
-----------------------------------------------------
-
-Now your customer relations can focus on optimization, scale up through automation, and manage top-tier clients.
-
-![](/home-blur-2.e6d879ae6bcad1f444593d276fd5f656c9ba9d86b54007e13a3b3f3ce7f18fc9.png) ![](/home-blur-2.e6d879ae6bcad1f444593d276fd5f656c9ba9d86b54007e13a3b3f3ce7f18fc9.png)[![](/t-icon-support.00b25a50c629dc6e7ce565e1b81423707d4c1a493f953ccf9ef132db24f1eaf5.svg)
-
-Support
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Answer common questions with a virtual agent
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Resolve customers' problems
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Create support tickets
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Send links to help center articles or other educational content
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Transfer to live agents
-
-Hire ChatBot as Support Agent](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=support-cta&source_type=website)[![](/t-icon-marketing.d7b1c8db6aa4dbd0c30baea22d5da9ab75f7349e9867c5275dd5e0374634b441.svg)
-
-Marketing
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Initiate conversations proactively with greetings
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Educate about products and services
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Collect leads and pass them to email marketing lists
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Launch AI bots on landing pages to boost conversion
-
-Hire ChatBot as Marketer](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=marketing-cta&source_type=website)[![](/t-icon-sales.46dddb887bfa47f3d60b9af8f42342c84a73ef6c57ee4578a5ca0b6e13e96ec1.svg)
-
-Sales
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Qualify and segment leads
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Create personalized sales offers
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Pass leads to CRM
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Transfer qualified chats to sales representatives
-
-![](/t-icon-tick.a0f36c10d3fbde47a0d3a8b01ee4fdb945735bd619a26fd5cc62d29d51eca47b.svg)
-
-Schedule meetings
-
-Hire ChatBot as Sales Rep](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=sales-cta&source_type=website)
-
-Get more value from your favorite tools
+Get more value from your favorite tools
 ---------------------------------------
 
-Enhance your AI chatbot with new features, workflows, and automations through plug-and-play integrations.
+Enhance your AI chatbot with more features, workflows, and automations through plug-and-play integrations.
 
-![ChatBot's integrations: tools increasing operational efficiency, making the work easier, and supporting multi-channel virtual communication. Examples: messaging apps like Facebook Messenger or LiveChat; platforms for selling online such as Shopify, Magento, or Salesforce; unlimited use cases with Zapier API; multi-channel virtual communication platforms like Twilio and MailChimp; support ticketing systems for managing scaled-up incoming communication like HelpDesk, Zendesk, or Freshdesk; and more.](/chatbot-integrations.c7f3fd77ca1f8a863c9abeda08d7a1ad19ff9e93612f8b002811b1cd9321b75a.png) ![ChatBot's integrations: tools increasing operational efficiency, making the work easier, and supporting multi-channel virtual communication. Examples: messaging apps like Facebook Messenger or LiveChat; platforms for selling online such as Shopify, Magento, or Salesforce; unlimited use cases with Zapier API; multi-channel virtual communication platforms like Twilio and MailChimp; support ticketing systems for managing scaled-up incoming communication like HelpDesk, Zendesk, or Freshdesk; and more.](/chatbot-integrations-mobile.8af4d113f80b24c3b8aeb96657ae6b6e406081671231593ccca635ed8a6ec2d6.png)
+[See all integrations](https://www.chatbot.com/integrations/)
 
-“We've seen our online ordering increase by 300% after customizing ChatBot software for our restaurant and it was seamless to get started. We are now implementing it for our other restaurants and hotels.”
+![](/home__tools-mobile.de6708f5e85e236db3001c6cfec0ff2115d63a8778aad8ed367ca662d4c86504.png)
 
-![Chris Wilson](/testimonial-next-door-burger.c37e0d8084c8515489d33d0be62f8331a78b36f43d3b7ddfff14a8aa6f34af8c.png)
+![ChatBot connecting with tools like Zendesk, Shopify, LiveChat, and more, to create custom workflows such as generating a support ticket, adding a contact to CRM software, transferring to a live agent, showing product recommendations, or updating a spreadsheet.](/home__tools-connector.75e0f2387203863d8a0e0e862004901d56438e5b1cda6c361309a554b31b00d7.png)
 
-Chris Wilson
+![](/images/home/home__icon-zendesk.png) Create support ticket
 
-CEO of Next Door Burger Bar
+![](/images/home/home__icon-livechat.png) Transfer to live agent
 
-“The ChatBot platform has become a key part of our proposition. It's fully flexible and has allowed us to drive 30% more leads while dramatically reducing our cost to serve.”
+![](/images/home/home__icon-shopify.png) Show products
 
-![Joe Bush](/testimonial-the-chat-shop.d405661e369c8ed0dddfb4c2ace381489f5c551c5c0fbe5adeabeb6e787e7afb.png)
+![](/images/home/home__icon-helpdesk.png) Create support ticket
 
-Joe Bush
+![](/images/home/home__icon-googlecalendar.png) Create meeting
 
-Co-founder of The Chat Shop
+![](/images/home/home__icon-freshdesk.png) Create support ticket
 
-Resolve up to 80% of customer questions with AI
+![](/images/home/home__icon-salesforce.png) Create a lead
+
+![](/images/home/home__icon-hubspot.png) Add contacts
+
+![](/images/home/home__icon-shopify.png) Show requested products
+
+![](/images/home/home__icon-googlesheets.png) Update spreadsheet
+
+![](/images/home/home__icon-zapier.png) Add custom flows
+
+![](/images/home/home__icon-shopify.png) Check order status
+
+![](/images/home/home__icon-mailchimp.png) Add subscriber
+
+Join our AI-delighted customers
+-------------------------------
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+Great interface, fantastic product, thanks!
+
+Tatiana T.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+I like it gets to do the less complex things without the need of individual having to chat and is helpful in pointing to the needful resources to gather the information needed.
+
+Vidya D.
+
+![](/images/home/home__icon-capterra.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It's a great platform, much better than others we have used. We have built and deployed a bot in far less time than we anticipated and **the bot is 1000% better** than our previous one too - we're getting good user feedback :-)
+
+Adam H.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+ChatBot helps you have human-like conversations with clients and customers. Using a chatbot can eliminate main office tasks. It can be the voice of the company and handle multiple work sessions.
+
+Pedro A.
+
+![](/images/home/home__icon-capterra.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+Much easier to use than I expected.
+
+Marlon G.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+The program works as advertised and runs smooth without any lag. I'm very satisfied with ChatBot.
+
+Barry E.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+Amazing no code chatbot tool with multi integration support.
+
+Chandan M.
+
+![](/images/home/home__icon-g2.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+Chatbot is simply awesome. It gets the job done without a lot of complexity. The UI is simple and straightforward to use. It helped my team setting up a chat system that works with AI.
+
+Jelle D.
+
+![](/images/home/home__icon-capterra.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It was very good. The onboarding process was easy. We've been using chatbot for a number of years with hardly any issues. The team at chatbot resolves everything.
+
+Gabriel T.
+
+![](/images/home/home__icon-getapp.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+The overall experience with Chatbot has been all positive. I only wish we would have launched it earlier.
+
+Tara F.
+
+![](/images/home/home__icon-getapp.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It's a fantastic tool!
+
+Auerlio M.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It is very easy to navigate, and the chat support is brilliant.
+
+Petra K.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+This has been a complete instrument of knowledge and understanding and work made easy.
+
+Thomas A.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It saves us time, makes our actual activities easier, allows us to improve the quality of service, provides direct user feedback, and helps us improve at every opportunity.
+
+Mariflor R.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-high.png)
+
+Great experience with this tool and welcomes intro into AI.
+
+Anthony S.
+
+![](/images/home/home__icon-g2.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+This tool is just amazing. Very easy to use, very intuitive and user-friendly.
+
+Aaron S.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It was very good. The onboarding process was easy. We've been using chatbot for a number of years with hardly any issues. The team at chatbot resolves everything.
+
+Gabriel T.
+
+![](/images/home/home__icon-getapp.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It's a great platform, much better than others we have used. We have built and deployed a bot in far less time than we anticipated and the bot is 1000% better than our previous one too - we're getting good user feedback :-)
+
+Adam H.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+ChatBot helps you have human-like conversations with clients and customers. Using a chatbot can eliminate main office tasks. It can be the voice of the company and handle multiple work sessions.
+
+Pedro A.
+
+![](/images/home/home__icon-getapp.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+This has been a complete instrument of knowledge and understanding and work made easy.
+
+Thomas A.
+
+![](/images/home/home__icon-delighted.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+Great experience with this tool and welcomes intro into AI.
+
+Anthony S.
+
+![](/images/home/home__icon-g2.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+I like it gets to do the less complex things without the need of individual having to chat and is helpful in pointing to the needful resources to gather the information needed.
+
+Vidya D.
+
+![](/images/home/home__icon-capterra.png)
+
+![](/images/home/home__icon-rate-veryhigh.png)
+
+It saves us time, makes our actual activities easier, allows us to improve the quality of service, provides direct user feedback, and helps us improve at every opportunity.
+
+Mariflor R.
+
+![](/images/home/home__icon-capterra.png)
+
+Get a free ChatBot trial and become one of them
 -----------------------------------------------
 
     Sign up free
 
 Free 14-day trial No credit card required
 
-![ChatBot application interface, containing modules for easy AI chatbot development, such as AI Knowledge module, FAQ module, and Traning module; chatbot widget containing user query and a reply from the bot, which can imitate natural language conversations.](/footer-dashboard.e2ed3cddddfa86ed26f6536077626981330bb505c06f4efaccba0f8155efe9ba.png)
+Frequently Asked Questions
+--------------------------
+
+### Can I test ChatBot for free?
+
+Yes! [Create your account](https://accounts.chatbot.com/signup) to start a 14-day free trial.
+
+### Does installing ChatBot on a website require coding?
+
+No, installing ChatBot on a website does not require coding or advanced technical skills. To add ChatBot to your website, you simply need to [copy and paste a code snippet](https://www.chatbot.com/help/install-chatbot/widget-installation/). You can also use [WordPress](https://www.chatbot.com/help/integrations/wordpress-integration/) or [Shopify](https://www.chatbot.com/help/shopify-integration/how-to-integrate-chatbot-with-shopify/) integration to connect ChatBot with your website or online store.
+
+### Are technical skills required to create an advanced chatbot?
+
+No, creating an AI bot in ChatBot is quick and simple. Provide your website URL, knowledge base link, or other text content to automatically build [your custom AI model](https://www.chatbot.com/ai/) for customer service. You can fine-tune your chatbot in a simple drag-and-drop editor and train it with additional data or add custom answers to specific questions.
+
+### What is a generative AI chatbot?
+
+A generative AI chatbot is an advanced type of chatbot that uses artificial intelligence to create dynamic, human-like responses in real time rather than relying solely on predefined scripts or answers. Unlike rule-based bots, which can only respond with pre-programmed replies, a generative AI chatbot understands the context and meaning behind a user’s input, and generates new and unique responses based on the conversation.
+
+### How can AI chatbots improve customer service?
+
+AI chatbots significantly enhance customer service by providing instant, automated responses to customer queries. Customer service chatbots can handle multiple conversations simultaneously, reduce wait times, and improve response accuracy. An artificial intelligence chatbot can help customers with FAQs, troubleshoot issues, and escalate complex matters to human agents if needed. Using artificial intelligence can improve customer experience and satisfaction while reducing operational costs​.
+
+### How do AI chatbots benefit customer support?
+
+AI customer support chatbots can create quick, automated responses to user queries and allow for faster issue resolution. They can handle common inquiries, such as order tracking or account management, and provide 24/7 support.
+
+### What is the most advanced AI chatbot for customer service?
+
+The most advanced AI chatbots for customer service leverage generative AI and natural language processing to offer seamless, human-like interactions. These AI-powered customer service bots can understand complex queries, provide accurate answers, and learn from previous interactions. Many of these enterprise AI chatbot solutions are designed to integrate with customer service platforms, offering a full suite of tools to automate and enhance support operations​.
+
+### What is the best AI chatbot for customer service?
+
+The best AI chat bot for customer service is one that meets your specific business needs, offers seamless integration with your existing customer service platforms, and provides advanced features like AI-powered chat and generative AI responses. Many top solutions also include customizable workflows and analytics, making it easier to monitor and optimize customer interactions. If you're looking for the best chatbot for customer service, we recommend [starting a 14-day free trial](https://accounts.chatbot.com/signup) of the ChatBot app.
+
+### What role do chatbots play in sales processes?
+
+In sales, chatbots are instrumental in qualifying and segmenting leads, ensuring that sales teams focus on high-potential prospects. They create personalized sales offers based on user input, pass qualified leads directly to CRM systems, and even transfer live chats to sales representatives when needed. Additionally, chatbots can schedule meetings, ensuring that prospects are always engaged and that no sales opportunity is missed. This automation streamlines the sales process, making it more efficient and effective.
+
+### How do chatbots assist in qualifying and converting leads?
+
+Chatbots automate the process of qualifying leads by asking targeted questions to identify high-intent prospects. Once qualified, these leads can be seamlessly transferred to sales representatives in real-time, ensuring that no opportunity is missed. Additionally, chatbots can facilitate conversions by allowing customers to easily purchase products, place orders, or schedule meetings directly through the chat interface. This streamlined process shortens the sales cycle and improves conversion rates, making it easier for businesses to close deals efficiently.
+
+### Can ChatBot be integrated with LiveChat?
+
+Yes, ChatBot and LiveChat can be easily integrated and work seamlessly together. Visit the [LiveChat installation guidelines](https://www.chatbot.com/help/livechat-integration/livechat-installation/) to learn more.
+
+### Can one chatbot be connected with multiple channels?
+
+Yes! One chatbot can be connected to multiple channels, such as [any website or online store](https://www.chatbot.com/integrations/chat-widget/), [Shopify](https://www.chatbot.com/integrations/shopify/), [LiveChat](https://www.chatbot.com/integrations/livechat/), [Slack](https://www.chatbot.com/integrations/slack/), and [Facebook Messenger](https://www.chatbot.com/integrations/facebook-messenger/).
+
+### What is a chatbot?
+
+A chatbot is a digital tool designed to simulate human conversation, often through text-based interactions. It can be powered by AI and handle user queries, automate responses, and assist in tasks like customer support or sales. The AI chat bot uses technologies like natural language processing (NLP), machine learning, and generative AI to understand user inputs and provide relevant, human-like responses.
+
+### How does a generative AI chatbot work?
+
+A generative AI chatbot uses advanced technology to understand and respond to user inputs in a human-like way. It employs Natural Language Processing (NLP) to interpret text and identify intent, while machine learning allows it to improve its responses over time based on past interactions. Generative models enable the chatbot to generate relevant responses in real-time, rather than relying on pre-set scripts. These chatbots can personalize replies based on user behavior or preferences, making them ideal for customer support, marketing, and sales.
+
+### I've made changes to my bot, but the old version is still showing in the widget. What's happening?
+
+You probably didn't publish your changes in the chatbot. Go to the ChatBot dashboard, select your chatbot, and click on the “Publish” button in the top right corner of your screen. The newest version will be applied in the next chat with the bot.
+
+### How do AI chatbots handle customer interactions?
+
+AI chatbots manage customer interactions by using conversational AI to understand and respond to user queries in real time. These AI-powered chatbots can be integrated into websites, apps, or messaging platforms to provide reliable customer support. They can resolve customer issues, assist with troubleshooting, or provide information such as order status. AI bots are designed to handle repetitive tasks while improving the overall customer experience through personalized, context-aware conversations.
+
+### What are AI-powered customer service bots?
+
+AI-powered customer service bots are automated systems that use artificial intelligence to manage customer interactions. These bots provide quick and accurate responses, handle multiple requests simultaneously, and work around the clock. These bots also continuously learn and adapt, making them highly effective tools for generative AI customer support.
+
+### How do chatbots contribute to marketing efforts?
+
+Chat bots can proactively initiate conversations with customers, making them a powerful tool for marketing. They educate users about products and services through interactive dialogues, collect leads by engaging visitors, and pass these leads to email marketing lists. Furthermore, chatbots can be deployed on landing pages to boost conversion rates by guiding users through the buying process or answering any questions they might have. This personalized approach helps businesses build stronger relationships with potential customers and improves the effectiveness of their marketing campaigns.
+
+### How can chatbots help in engaging potential customers?
+
+Chatbots can proactively engage potential customers by using personalized greetings tailored to their behavior on your website. By initiating conversations at the right moment, such as when a visitor appears interested in a particular service or product, chatbots can turn casual browsing into meaningful interactions. This not only captures the visitor's attention but also converts these interactions into sales opportunities, ultimately boosting engagement and increasing conversion rates.
