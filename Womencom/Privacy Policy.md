@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727202485.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+*  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
-    ==================================================================================================================
+    [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    ==================================================================================================================================
     
-    TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
+    Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+    By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
-* *  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+* *  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727709841.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+        
+        TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+        
+    *  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
         
-    *  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [The Celeb-Approved Early Aughts Skinny Scarf Trend Is Officially Back](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-        
-        Whether you love the skinny scarf like Kate Moss or feel it's your duty to at least try it out, you'll need some inspiration before stocking up.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-        
 
 More Stories
 ------------
 
+*  [![Taylor Swift Travis Kelce](https://www.women.com/img/gallery/5-taylor-swift-game-day-outfits-that-serve-ultimate-wag-glam/intro-1727455446.jpg)](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Taylor Swift Game Day Outfits That Serve Ultimate WAG Glam](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+    
+    Taylor Swift treats football games like runways, chilling VIP in everything from vintage merch to pricey designer brands. And long may it continue.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+    
 *  [![Kylie Jenner posing](https://www.women.com/img/gallery/kylie-jenners-style-transformation-from-blue-hair-to-british-vogue/intro-1727285832.jpg)](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -93,6 +105,18 @@ More Stories
     Kylie Jenner's 2024 British Vogue cover marks a significant change from her ultra-glam, grungy, and girly looks of years past.
     
     By Emily Hutchinson [Read More](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
+    
+*  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The Celeb-Approved Early Aughts Skinny Scarf Trend Is Officially Back](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
+    
+    Whether you love the skinny scarf like Kate Moss or feel it's your duty to at least try it out, you'll need some inspiration before stocking up.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
     
 *  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
     
@@ -381,30 +405,6 @@ More Stories
     You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
     
     By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-    
-*  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
-    There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
-*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
     
 
 Back
