@@ -23,21 +23,21 @@ Privacy Notice
 
 **Overview**
 
-The University of Maryland recognizes and values the privacy of university community members and its guests and strives to be leaders and set the standard in which we manage personal information. 
+The University of Maryland (UMD) recognizes and values the privacy of its community members and guests. We strive to be leaders and set the standard in managing your personal information, ensuring transparency about what information we collect, how we use it, and when we share it.
 
-In principle, the University of Maryland strives to:
+The University of Maryland strives to:
 
 * Collect, store, and use the minimum amount of personal information necessary for its legitimate business purposes, and to comply with legal obligations.
-* Take reasonable steps to ensure the personal information managed is accurate and up-to-date.
-* Limit who has access to personal information in our possession to only those who need it for a legitimate, specific purpose.
-* Protect personal information through appropriate physical and technical security measures tailored to the sensitivity of the personal data we hold. Communicate with our students, faculty, employees, suppliers, partners, and others about how we use personal information in our day-to-day operations.  
-* Transparency is one of our core principles for using personal information for the purposes for which it was collected
-* Provide opportunities to control personal information, as permitted by applicable United States and other laws.
+* Take reasonable steps to ensure the personal information managed is accurate, relevant, complete and up-to-date.
+* Prohibit the access and disclosure of personal information to third parties, except for those parties processing personal information on behalf of UMD with a legitimate, specific purpose.
+* Protect personal information through appropriate physical and technical security measures tailored to the sensitivity of the personal data we hold. Communicate with our students, faculty, employees, suppliers, partners, and others about how we use personal information in our day-to-day operations.
+* Use personal information for the purposes for which it was collected, in accordance with our commitment to the core principle of transparency.
+* Take reasonable steps to ensure that requests to access, modify, or delete information and requests to opt out of the sharing of information with third parties are legitimate, made by the subject of the personally identifiable information or the subject's agent.
 * Integrate privacy in the design of our activities when that involves the use of personal data.
 
 **Scope**
 
-This scope of this notice applies to our practices for gathering and disseminating information related to the University of Maryland main website (umd.edu). It is meant to provide an overview of our activities that require the processing of personal information and our approach to protecting privacy. Please be advised that specific schools, departments, units, clubs, and other groups may have specific privacy notices for their activities related to their collection and processing of your personal information.
+The scope of this notice applies to our practices for gathering and disseminating information related to the University of Maryland main website ([umd.edu](https://umd.edu/umd.edu)). It is meant to provide an overview of our activities that require the processing of personal information and our approach to protecting privacy. Please be advised that specific schools, departments, units, clubs, and other groups may have specific privacy notices for their activities related to their collection and processing of your personal information.
 
 **Our Accountability**
 
@@ -45,9 +45,9 @@ At the University of Maryland, we strive to appropriately manage, secure, and ke
 
 **Contact Us**
 
-If you have any inquiries or requests, please write to [umd-privacy@umd.edu](mailto:umd-privacy@umd.edu).
+We respect your rights regarding how your personally identifiable information (PII) is held and processed by UMD. You have the right to access your information, request corrections, resolve disagreements over information accuracy, and request deletion of information. If you have any concerns or questions about how your personal data is used, please contact our Privacy Office at [umd-privacy@umd.edu](mailto:umd-privacy@umd.edu).
 
-In order to be able to reply to requests for the exercise of rights, and if we are not certain of your identity, we may need to ask you for further identification data to be used only for the purposes of replying to your request.
+We are committed to working with you to obtain a fair resolution of any complaint or concern about your privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you may have the right to make a complaint to the appropriate data protection authority.
 
 * [Collection & Use of Information](https://umd.edu/privacy-notice/collection-use-information)
 * [Security & Retention of Information](https://umd.edu/privacy-notice/security-retention-information)
