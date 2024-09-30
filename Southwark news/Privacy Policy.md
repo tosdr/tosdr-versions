@@ -19,6 +19,23 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Deputy PM and Housing Secretary Angela Rayner MP.
+    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
+    
+    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
+    
+    [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
+    
+    ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
+    
+    [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+    
+    ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+    
+    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
+    ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
     ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
@@ -38,23 +55,6 @@
     [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
     
     ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-    
-    [![Residents of Nine Albert Embankment pose for photos outside their apartment. 
-    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Residents-of-the-apartment-block-360x180.jpg)](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
-    
-    ### [Residents slam millionaire hotel owner’s late night bar plan](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-    
-    ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-    
-    [![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-    
-    ### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-    
-    [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-    
-    ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,23 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Deputy PM and Housing Secretary Angela Rayner MP.
+    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
+    
+    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
+    
+    [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
+    
+    ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
+    
+    [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+    
+    ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+    
+    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
+    ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+    
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
     ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
@@ -119,23 +136,6 @@ View All Result
     [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
     
     ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-    
-    [![Residents of Nine Albert Embankment pose for photos outside their apartment. 
-    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Residents-of-the-apartment-block-360x180.jpg)](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
-    
-    ### [Residents slam millionaire hotel owner’s late night bar plan](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-    
-    ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-    
-    [![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-    
-    ### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-    
-    [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-    
-    ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -344,17 +344,17 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [28th September 2024](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
 
-[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
 [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
 
 ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
 
 [29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
+[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
 [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
@@ -375,6 +375,18 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 [28th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
 ### Featured Articles
+
+[![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-120x86.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+
+### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+
+[30th September 2024](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
+
+[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+
+### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+
+[30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
 
 [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-120x86.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
 
@@ -399,18 +411,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
 [29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-[![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-120x86.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-
-### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-
-[29th September 2024](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-
-### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
-
-[28th September 2024](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
 
 ### USEFUL PAGES
 
