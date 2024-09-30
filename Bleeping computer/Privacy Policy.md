@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 KB5043145 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/)
 * [![Ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
+* [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
 
 ##### Follow us:
 
