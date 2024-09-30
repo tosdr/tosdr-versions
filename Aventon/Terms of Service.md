@@ -1,6 +1,6 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[Free Extra Battery with Aventure Purchase](https://www.aventon.com/products/aventure2-ebike)
+[EXTENDED FOR 1 MORE DAY - Free Extra Battery with Aventure Purchase](https://www.aventon.com/products/aventure2-ebike)
 
 ——
 
