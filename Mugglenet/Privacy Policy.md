@@ -336,15 +336,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Dementors don’t breed but grow, like fungus, where there is decay.
+Sybill Trelawney’s middle name is Patricia.
 
 ### Potter History
 
-February 7, 2006 – Filming begins on Harry Potter and the Order of the Phoenix.
+May 29, 2007 – Warner Bros. announces that Harry Potter and the Order of the Phoenix will be released two days earlier (July 11) than originally scheduled.
 
 ### Potter Quote
 
-“I ain’t got the brains to make this up.”
+“Only here shall you know freedom, only here shall you know yourself.”
 
 [](#)
 
