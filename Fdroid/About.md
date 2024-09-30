@@ -180,34 +180,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/v4lpt.vpt.pwg/en-US/icon_zNhsX0Hxb2T_cdJMt42yWcAB2O0IhzLxXWLYm5IDluI=.png)
+[![](https://f-droid.org/repo/se.arctosoft.vault/en-US/icon_O-U3JRoNgZ4gL272ZdZJ---yZfQ32Lwn4ZoOxhl_Lz0=.png)
 
-#### Valentin's PowerTools #002 - Passwords to remember
+#### Valv
 
-Generates human speakable and readable passwords](https://f-droid.org/en/packages/v4lpt.vpt.pwg/)[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
+An encrypted gallery vault for Android devices](https://f-droid.org/en/packages/se.arctosoft.vault/)[![](https://f-droid.org/repo/player.efis.pfd/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png)
 
-#### Valentin's PowerTools #036 - Ease The Waiting
+#### Kwik EFIS
 
-A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/ua.acclorite.book_story/en-US/icon_22AqdYWuhRrzTD7lWKdEQKGTSPoJj97bjvdEu9Ofj5g=.png)
+Glass Cockpit / Electronic Flight Information System](https://f-droid.org/en/packages/player.efis.pfd/)[![](https://f-droid.org/repo/net.ibbaa.keepitup/en-US/icon_GNqHXLJRV7i1DLHBE-FFFbEpervoBYhTXNnkvjjoCQM=.png)
 
-#### Book's Story
+#### Keep it up
 
-Dive into the world of adventure as you discover your favorite book's story!](https://f-droid.org/en/packages/ua.acclorite.book_story/)
+Simple network monitoring](https://f-droid.org/en/packages/net.ibbaa.keepitup/)
 
-### جدیدترین برنامه‌ها
+### Latest Apps
 
-[![](https://f-droid.org/repo/com.marktka.calculatorYou/en-US/icon_hs5M_Cc4qQp2KgLtI2F8AkH8syZGIupNUgnjsaGyqxo=.png)
+[![](https://f-droid.org/repo/io.gitlab.coolreader_ng.lxreader.fdroid/en-US/icon_HtbU1wbPCe4V2yi0qXe5nCdLtou3Q8olszbmLwXhB1U=.png)
 
-#### Calculator You: Math & Units
+#### LxReader
 
-Calculator You is a beautiful calculator for solving simple tasks.](https://f-droid.org/en/packages/com.marktka.calculatorYou/)[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
+E-book reader](https://f-droid.org/en/packages/io.gitlab.coolreader_ng.lxreader.fdroid/)[![](https://f-droid.org/repo/dev.jdtech.jellyfin/en-US/icon_8s2ojVlZrNHg-zHCEN7YKjoI98lcglyEJw0qVbYBnsM=.png)
 
-#### Podcini
+#### Findroid
 
-مدیر و پخش‌کنندهٔ پادکست، با کاربری آسان، منعطف و متن‌باز](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/io.github.devhyper.openvideoeditor/en-US/icon_N3hNF_DMk7m9oZRTibM-jra2Es4DheP-okWhvLYqFLs=.png)
+Third-party native Jellyfin app](https://f-droid.org/en/packages/dev.jdtech.jellyfin/)[![](https://f-droid.org/repo/com.labnex.app/en-US/icon_qwVP-JgIQn-pF42-5cYGLV709rWjhZWvBWDsvsp6OG0=.png)
 
-#### Open Video Editor
+#### LabNex
 
-ویرایشگر ویدئو متن باز، ساخته شده با Media3 و Jetpack Compose.](https://f-droid.org/en/packages/io.github.devhyper.openvideoeditor/)
+Android app for GitLab](https://f-droid.org/en/packages/com.labnex.app/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-28, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-30, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
