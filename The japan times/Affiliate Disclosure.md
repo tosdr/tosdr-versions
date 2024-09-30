@@ -138,17 +138,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
 
+[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+
+  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+
+[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+
+  [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+
 [Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
 
   [![Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424566.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ")](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
-
-[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
-
-  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
-
-[Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
-
-  [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
 Editors' Picks
 --------------
@@ -169,27 +169,25 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+
+  [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424566.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ")](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
-
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
-
-  [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
 Podcast
 -------
@@ -210,9 +208,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Opposition to Toyota’s chairman spreads among big shareholders](https://www.japantimes.co.jp/business/2024/09/30/companies/toyota-chairman-big-shareholders/ "Opposition to Toyota’s chairman spreads among big shareholders")
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
 21 mins ago
 
-[China's factory and service sectors skid as stimulus calls grow](https://www.japantimes.co.jp/business/2024/09/30/economy/china-factory-service-stimulus/ "China's factory and service sectors skid as stimulus calls grow")
+[Former Abe faction treasurer given suspended three-year prison term](https://www.japantimes.co.jp/news/2024/09/30/japan/crime-legal/ldp-political-funds-ruling/ "Former Abe faction treasurer given suspended three-year prison term")
 
-34 mins ago
+29 mins ago
 
-[Three Palestinian leaders killed in Israel strike in Beirut](https://www.japantimes.co.jp/news/2024/09/30/world/politics/palestinian-leaders-killed-beirut/ "Three Palestinian leaders killed in Israel strike in Beirut")
+[Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
 
-48 mins ago
+39 mins ago
 
-[Japanese stocks tumble after Ishiba elected ruling party leader](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Japanese stocks tumble after Ishiba elected ruling party leader")
+[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
-52 mins ago
+57 mins ago
 
-[170 dead in Nepal floods following relentless monsoon rains](https://www.japantimes.co.jp/news/2024/09/30/asia-pacific/nepal-floods-monsoon-rains/ "170 dead in Nepal floods following relentless monsoon rains")
+[Ex-police chief jailed 3 years over deadly South Korea crowd crush](https://www.japantimes.co.jp/news/2024/09/30/asia-pacific/crime-legal/police-chief-jailed-south-korea-crush/ "Ex-police chief jailed 3 years over deadly South Korea crowd crush")
 
-1 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
