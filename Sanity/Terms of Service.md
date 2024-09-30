@@ -279,7 +279,7 @@ These Subscription Terms and Conditions (“**Terms**”), and any Order incorpo
 Product
 -------
 
-[Sanity Studio](https://www.sanity.io/studio)[APIs](https://www.sanity.io/developer-experience)[Content Lake](https://www.sanity.io/content-lake)[AI Assist](https://www.sanity.io/ai-assist)[Security & Compliance](https://www.sanity.io/security)[Compare Sanity](https://www.sanity.io/compare-sanity)[Industries](https://www.sanity.io/industry-cms)
+[Sanity Studio](https://www.sanity.io/studio)[APIs](https://www.sanity.io/developer-experience)[Content Lake](https://www.sanity.io/content-lake)[AI Assist](https://www.sanity.io/ai-assist)[Security & Compliance](https://www.sanity.io/security)[Compare Sanity](https://www.sanity.io/compare-sanity)[Use Cases](https://www.sanity.io/industry-cms)
 
 Resources
 ---------
