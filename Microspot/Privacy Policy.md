@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/9910.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8970.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -77,6 +77,10 @@ Visitez l'une de nos quelques environ
 [![Notebook](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2FKachel-860x484-Intel-FR.png%3Fcontext%3DbWFzdGVyfGNtc3wxMDg4Njh8aW1hZ2UvcG5nfGFEUXhMMmd3TVM5TFlXTm9aV3hmT0RZd2VEUTRORjlKYm5SbGJGOUdVbDlXTWpNekxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOUxZV05vWld4Zk9EWXdlRFE0TkY5SmJuUmxiRjlHVWw5V01qTXpMbkJ1WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxkOGJhNjFmYjUwNTdjZGNiYTdjMDZkOTQ4ZDhkZjNkOGUzNmViMDAyNzhmMTkyMzk2ZDAwM2Q0OGE1MDc1NDBl&w=2360&q=75)
 
 20%de rabais sur les produits ACER](https://www.microspot.ch/fr/brand/acer)
+
+[![SAMSUNG Actions](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0618-CM1-div-promos.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDQxMHxpbWFnZS9qcGVnfGFEUmlMMmhpTlM4NE5qQjRORGcwWDBreU5GOHdOakU0WDBOTk1WOWthWFpmY0hKdmJXOXpMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY4d05qRTRYME5OTVY5a2FYWmZjSEp2Ylc5ekxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGU0NjM4ZGE5ZDcwYTU1N2M5NDQ0MmI2MzViMDM4ZjM5NGI3ZDgzZTIxN2VmZWE1NTYxNDc2NjJiZGFmZTU5MTU&w=2360&q=75)
+
+ACTIONBest of SAMSUNG](https://www.microspot.ch/fr/cms/samsung-promotion)
 
 [![Rasoir pour homme et brosse à dents](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0645-CM3-Beauty-Promo-KW39.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODA1N3xpbWFnZS9qcGVnfGFEVTBMMmd5T1M4NE5qQjRORGcwWDBreU5GOHdOalExWDBOTk0xOUNaV0YxZEhsZlVISnZiVzlmUzFjek9TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURZME5WOURUVE5mUW1WaGRYUjVYMUJ5YjIxdlgwdFhNemt1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDA1NTRkZjg2OTkwOWZlM2FhZWVkZGQxMzg5M2MyNzFjODA2ZmY1NDRmYWI0MzMxMTBhMzBkNTFmMmEyMTU3NGM&w=2360&q=75)
 
@@ -92,26 +96,49 @@ ACTIONGaming Special + Précommande PS5 Pro](https://www.microspot.ch/fr/cms/act
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0688-CM2-PS5-Pro-DE.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNDQ0OTl8aW1hZ2UvanBlZ3xhR1EzTDJnMVppODROakI0TkRnMFgwa3lORjh3TmpnNFgwTk5NbDlRVXpWZlVISnZYMFJGTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOHdOamc0WDBOTk1sOVFVelZmVUhKdlgwUkZMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxlNGFjMGU4ZWIwMzA3NzMzMDQ2MTAyZWYwOTIxOGQ3YTVlMWE2OTcxZjEzN2VlYzVmNzhiODVhMWJkMzdiYjlj&w=2360&q=75)
 
-NEWSONY PlayStation 5 Pro 2000 GB - Disponible à partir du 07.11.2024](https://www.microspot.ch/de/product/sony-playstation-5-pro-2000-gb-0014196596)
+NEWSONY PlayStation 5 Pro 2000 GB - Disponible à partir du 07.11.2024](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
 
 Autres actions ici
 
 [Profiter](https://www.microspot.ch/fr/promotions)
 
+Nos univers thématiques
+-----------------------
+
+[![80x80_Icon_AI-chip.png](/medias/80x80-Icon-AI-chip.png?context=bWFzdGVyfGNtc3w2NTZ8aW1hZ2UvcG5nfGFHTTJMMmd5T1M4NE1IZzRNRjlKWTI5dVgwRkpMV05vYVhBdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZRVWt0WTJocGNDNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXxhOTQwNjVjY2VmNWFjMDkwYzFhM2MyODc3MDEzMjM2NTYxYzQ0ZTZjZDgxMDA4MzMzZjMyNWY3ZDZkYzViMzQ0)
+
+NPU explique : Le moteur de l'IA](https://www.microspot.ch/fr/cms/npu-explique)
+
+[![80x80_Icon_Gaming.png](/medias/80x80-Icon-Gaming.png?context=bWFzdGVyfGNtc3w0OTB8aW1hZ2UvcG5nfGFEbGpMMmhtTWk4NE1IZzRNRjlKWTI5dVgwZGhiV2x1Wnk1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1dOdmJsOUhZVzFwYm1jdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w4M2UyNjM4ZjE5NjgzYjI2MDA0MTJhY2NhNDRkN2YwNWQ2YjM0M2Q3MTYwYzVkNzU2NzhjNWRhNjE2Y2YzYjMz)
+
+Gaming](https://www.microspot.ch/fr/cms/gaming)
+
+[![80x80_I24_Icons_009_CM1_Icons_New5.png](/medias/80x80-I24-Icons-009-CM1-Icons-New5.png?context=bWFzdGVyfGNtc3w0ODV8aW1hZ2UvcG5nfGFHUXlMMmd3Wmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NWUwYzg2ZWE1ZmFmY2RlODM0ZGIxZjIwNjE1NmZlYWZlNzZiMDAwZmY3NGQxOTY3YTQ5ZTk2NmVjYTg5YzJiNA)
+
+Trade-In Service](https://www.microspot.ch/fr/cms/trade-in)
+
+[![300x150_I24_Icons_005_CM2_divers4.png](/medias/300x150-I24-Icons-005-CM2-divers4.png?context=bWFzdGVyfGNtc3w5NDV8aW1hZ2UvcG5nfGFEYzNMMmd6TVM4ek1EQjRNVFV3WDBreU5GOUpZMjl1YzE4d01EVmZRMDB5WDJScGRtVnljelF1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrTHpNd01IZ3hOVEJmU1RJMFgwbGpiMjV6WHpBd05WOURUVEpmWkdsMlpYSnpOQzV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F8YjliZGUyZTNmZTJlOTBjNzgzY2Q2ZDRjNGFjYjFhMmQxNjRkNGY3MjMzMDBhNjhhZDE5YTFiZjA0NTg1ZmQ0Nw)
+
+Nouveautés](https://www.microspot.ch/fr/cms/nouveautes)
+
+[![80x80_Icon_Gadgets.png](/medias/80x80-Icon-Gadgets.png?context=bWFzdGVyfGNtc3w0Mjd8aW1hZ2UvcG5nfGFEZGxMMmhoWWk4NE1IZzRNRjlKWTI5dVgwZGhaR2RsZEhNdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZSMkZrWjJWMGN5NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw5ZGY3Y2EyNmFkOTZhZDdiODJjYzc5NzVjOGJkNTY5ZjMwOTdkNWIwNWM1MjEyMWE5NzE1YjI4ZWRiZTJlNGI1)
+
+Gadgets](https://www.microspot.ch/fr/cms/gadget)
+
+[![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
+
+Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
+
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0644-CM3-Supercash-P102.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzI1Nzh8aW1hZ2UvanBlZ3xhR1UzTDJobVlpOHhNVGd3ZURNMU1GOUpNalJmTURZME5GOURUVE5mVTNWd1pYSmpZWE5vWDFBeE1ESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qUTBYME5OTTE5VGRYQmxjbU5oYzJoZlVERXdNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZmM5ODU2OGI5MTYyZjZlZjdkOThiMGE1YTgyZGY4NzMxZjMwZGQ4MWE3ZWQxM2NkZjQ0M2VlNWM5NWY3MDY1Mw&w=2360&q=75)](https://www.microspot.ch/fr/cms/supercard)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0687-CM2-Playstation-Anniversary-DE-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3w5MjkyMnxpbWFnZS9qcGVnfGFHVXdMMmd3Tnk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk0TjE5RFRUSmZVR3hoZVhOMFlYUnBiMjVmUVc1dWFYWmxjbk5oY25sZlJFVmZRMVJCTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk0TjE5RFRUSmZVR3hoZVhOMFlYUnBiMjVmUVc1dWFYWmxjbk5oY25sZlJFVmZRMVJCTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NjY2ODg4YTRjNzEwNWRmMjM3YzI5MWIzZDdhNDU3MmE2NTM0Njk3NTM5NGZiNjVlOTViY2Y3ODUyMzViOGI2NA&w=2360&q=75)](https://www.microspot.ch/fr/cms/actions-jeux)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-10-P10-Glu-cksrad-Herbst2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4OTQ3NnxpbWFnZS9qcGVnfGFEQTNMMmhrWXk4eE1UZ3dlRE0xTUY5Sk1qUmZNVEJmVURFd1gwZHNkY3lJWTJ0emNtRmtYMGhsY21KemRESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4eE1GOVFNVEJmUjJ4MXpJaGphM055WVdSZlNHVnlZbk4wTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDZjY2U2YWFlNTc4ZWExNjJjYTZhMjNkNDEzMTcwZjBlMDRhYjhkNzVlYzA3MmNlMzVlMmU0YjU0ZTdlM2ZjMjc&w=2360&q=75)](https://gagner.interdiscount.ch/?ref=online_homepage)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0630-PopCon2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3MzMwM3xpbWFnZS9qcGVnfGFHTXpMMmhqWlM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFl6TUY5UWIzQkRiMjR5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFl6TUY5UWIzQkRiMjR5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NGE0ZDk2ODc1YzY5N2JiY2NiYmJmOGYwYzcwOTZjYTEzMmIyOTEyODIxOTU5MDQ5ODg1ODNlMDQwNWZhN2YwZQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/gaming)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F7450-40-PH-OneBlade-Icon-League-MobileContentAd-Banner-1180x350-FR-RZ-CR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzQ1NTJ8aW1hZ2UvanBlZ3xhRE0yTDJobE5TODNORFV3TFRRd1gxQklYMDl1WlVKc1lXUmxYMGxqYjI1ZlRHVmhaM1ZsWDAxdlltbHNaVU52Ym5SbGJuUkJaRjlDWVc1dVpYSmZNVEU0TUhnek5UQmZSbEpmVWxwZlExSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemMwTlRBdE5EQmZVRWhmVDI1bFFteGhaR1ZmU1dOdmJsOU1aV0ZuZFdWZlRXOWlhV3hsUTI5dWRHVnVkRUZrWDBKaGJtNWxjbDh4TVRnd2VETTFNRjlHVWw5U1dsOURVaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NTY0YmQ3YmU0ODhkYTA0YTk3YmY3ZTk3ZjY4NDM1NDEwNjZkOTMwMzY4YjcxNWFmNjI4MDc0YWNkNzU2MGY1Yw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F7450-40-PH-OneBlade-Icon-League-MobileContentAd-Banner-1180x350-FR-RZ-CR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzQ1NTJ8aW1hZ2UvanBlZ3xhRE0yTDJobE5TODNORFV3TFRRd1gxQklYMDl1WlVKc1lXUmxYMGxqYjI1ZlRHVmhaM1ZsWDAxdlltbHNaVU52Ym5SbGJuUkJaRjlDWVc1dVpYSmZNVEU0TUhnek5UQmZSbEpmVWxwZlExSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemMwTlRBdE5EQmZVRWhmVDI1bFFteGhaR1ZmU1dOdmJsOU1aV0ZuZFdWZlRXOWlhV3hsUTI5dWRHVnVkRUZrWDBKaGJtNWxjbDh4TVRnd2VETTFNRjlHVWw5U1dsOURVaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NTY0YmQ3YmU0ODhkYTA0YTk3YmY3ZTk3ZjY4NDM1NDEwNjZkOTMwMzY4YjcxNWFmNjI4MDc0YWNkNzU2MGY1Yw&w=2360&q=75)](https://www.microspot.ch/fr/product/philips-oneblade-pro-360-qp6552-15-0014110029)
 
 Testé pour vous
 ---------------
-
-[![80x80_I24_SoMe_Blog_Garmin_Edge.jpg](/medias/80x80-I24-SoMe-Blog-Garmin-Edge.jpg?context=bWFzdGVyfGNtc3wzNzc0fGltYWdlL2pwZWd8YUdVM0wyZzRNUzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBkaGNtMXBibDlGWkdkbExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZVMjlOWlY5Q2JHOW5YMGRoY20xcGJsOUZaR2RsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MDI0NjY4NGViNzZjNzNkOWU0MThkMDk5YjkyNGE1Y2VkNGRiY2ViMTczYzZiNWE1ODNiODkyNDc0MGUwOTI4Yw)
-
-GARMIN
-
-Edge 540](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
 
 [![80x80_I24_Icons_013_Blog10.png](/medias/80x80-I24-Icons-013-Blog10.png?context=bWFzdGVyfGNtc3w1ODc1fGltYWdlL3BuZ3xhREk1TDJnNVpTODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE1DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UQXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWU2YmEwZGFkM2EzMzRjZDI2MzYzOTg4YzM5NGU1ZGQxNTgzZWY0MGIyMGRiZjUzODM2YmRjMDJjZWMzZTkwMw)
 
@@ -125,14 +152,20 @@ EMPORIA
 
 ME6](https://www.microspot.ch/fr/cms/blog/conseils/emporia-me6)
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Samsung-Watch-Ultra.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDcyNnxpbWFnZS9qcGVnfGFHUXhMMmhqT0M4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMkZ0YzNWdVoxOVhZWFJqYUY5VmJIUnlZUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxTmhiWE4xYm1kZlYyRjBZMmhmVld4MGNtRXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YWMzMjEwZDhhNzM4NDJlN2IzYWRhNGQ0NmY0N2UyNzE1NjgzMmQxNjVjM2EzODEyN2E1YjJkODQ4ZDI5ZmE2OQ&w=2360&q=75)
+[![80x80_I24_SoMe_Blog_Kenwood.jpg](/medias/80x80-I24-SoMe-Blog-Kenwood.jpg?context=bWFzdGVyfGNtc3w1MTQ3fGltYWdlL2pwZWd8YUdRMEwyZ3pNeTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDB0bGJuZHZiMlF1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnd2VEZ3dYMGt5TkY5VGIwMWxYMEpzYjJkZlMyVnVkMjl2WkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRiOWMyOWExYjE5ZWRmZTFmOGVjZWVhYWJkNTU5MWFjMTBjMzY4N2RiYjE4Yzg5ZDExZjFmM2JmYjM0ODBiNzQ)
 
-[Test: Samsung Galaxy Watch Ultra](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-watch-ultra)
-------------------------------------------------------------------------------------------------------------
+KENWOOD
 
-La nouvelle Samsung Galaxy Watch Ultra est arrivée et se distingue de la gamme actuelle des smartwatches Samsung par son design résolument sportif. J'ai examiné la montre minutieusement pour toi.
+Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chef-xl)
 
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-watch-ultra)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Garmin-Edge.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MDEzM3xpbWFnZS9qcGVnfGFEQTVMMmc1TXk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZSMkZ5YldsdVgwVmtaMlV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpreE5YZzFNVFZmU1RJMFgxTnZUV1ZmUW14dloxOUhZWEp0YVc1ZlJXUm5aUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGQ5YmFmZDNjYmI4OTE4YTdjYzc1Nzg2ODQ5NjRhM2JjZGI0ZjJjMzdlNzZkNzRjZGI0NzA4NTA2NWU1NzgyYQ&w=2360&q=75)
+
+[Test: GARMIN Edge 540](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
+--------------------------------------------------------------------------------------
+
+Si vous êtes à la recherche d'un compteur de vélo compact, facile à utiliser et fiable, vous ne pouvez pas vous tromper avec le GARMIN Edge 540.
+
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
 
 Nos opérateurs
 --------------
@@ -176,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
+[Garantie Plus
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
