@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Young woman outdoors listening to a podcast on her smartphone](/siteassets/resources/images/-news-centre/thumbnail-images/radio/young-woman-outdoors-listening-to-a-podcast-on-her-smartphone.jpg?width=1920&height=1085&quality=80)
+
+### Top listening trends for World Podcast Day
+
+30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-world-podcast-day/)
+
 [![bbc ceefax web1](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ceefax-web1.jpg?width=1920&height=1085&quality=80)
 
 ### Marking 50 years since Ceefax - the ‘horse-drawn internet’ - was launched
@@ -150,12 +156,6 @@
 ### Customers to get clearer broadband information
 
 16 September 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/customers-to-get-clearer-broadband-information/)
-
-[![woman holding tv remote and mug with pet on her lap.](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/woman-holding-tv-remote-and-mug-with-pet-on-her-lap-web.jpg?width=1920&height=1085&quality=80)
-
-### New ten-year public service broadcast licences for Channel 3 and Channel 5
-
-12 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-psb-licences-for-c3-and-c5/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
