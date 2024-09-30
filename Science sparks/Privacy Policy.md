@@ -64,7 +64,7 @@ Menu
     * [Easter Science](https://www.science-sparks.com/category/holiday-science/easter-science/)
 * [Storybook Themed Science Experiments](https://www.science-sparks.com/storybook-themed-science-experiments/)
 * [Wonderful Women in STEM](https://www.science-sparks.com/wonderful-women-in-stem/)
-* [FREE Resources](https://www.science-sparks.com/science-resources-for-home-and-school/)
+* [FREE Science Resources](https://www.science-sparks.com/science-resources-for-home-and-school/)
 
 [menu icon](#feastmobilemenu)
 
