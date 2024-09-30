@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/design-rebel-prints-feature.jpg)
+
+[](https://theinspirationgrid.com/rebel-prints-the-poster-rex-manifesto-by-markus-lange-lars-harmsen/)
+
+### Rebel Prints: The Poster Rex Manifesto by Markus Lange & Lars Harmsen
+
+![](https://inspgr.id/app/uploads/2024/09/3d-cesc-grane-feature.jpg)
+
+[](https://theinspirationgrid.com/quirky-playful-3d-characters-by-cesc-grane/)
+
+### Quirky & Playful 3D Characters by Cesc Grané
+
 ![](https://inspgr.id/app/uploads/2024/09/art-book-master-feature.jpg)
 
 [](https://theinspirationgrid.com/amazing-pop-culture-inspired-book-sculptures-by-book-master/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/altar-i-keyboard-by-electronic-materials-office/)
 
 ### Altar I Keyboard by Electronic Materials Office
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-andrius-banelis-feature.jpg)
-
-[](https://theinspirationgrid.com/clever-editorial-illustrations-by-andrius-banelis/)
-
-### Clever Editorial Illustrations by Andrius Banelis
-
-![](https://inspgr.id/app/uploads/2024/09/photography-aleksei-boiko-24-feature.jpg)
-
-[](https://theinspirationgrid.com/the-art-of-growing-food-photos-by-aleksei-boiko/)
-
-### The Art of Growing Food: Photos by Aleksei Boiko
 
 Awesome products for creatives
 ------------------------------
