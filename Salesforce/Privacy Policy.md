@@ -179,13 +179,10 @@ Effective as of July 24, 2023.
 
 At Salesforce, trust is our #1 value. This Privacy Statement describes how Salesforce collects, uses, shares or otherwise processes information relating to individuals (“Personal Data”) and the rights associated with that processing.
 
-[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-verified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
-
-[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)
-
-[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec-privacy.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=06c32bdf-edf6-4937-b29d-bcf8db992eb3)
-
-[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-certified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
+* [![TRUSTe](//hostedseal.trustarc.com/privacy-seal/seal?rid=06c32bdf-edf6-4937-b29d-bcf8db992eb3)](https://privacy.trustarc.com/privacy-seal/validation?rid=06c32bdf-edf6-4937-b29d-bcf8db992eb3)
+* [![TRUSTe](//hostedseal.trustarc.com/privacy-seal/seal?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)](https://privacy.trustarc.com/privacy-seal/validation?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)
+* [![TRUSTe](//hostedseal.trustarc.com/privacy-seal/seal?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)](https://privacy.trustarc.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
+* [![TRUSTe](//hostedseal.trustarc.com/privacy-seal/seal?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)](https://privacy.trustarc.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
 1\. Responsible Salesforce entity
 ---------------------------------
