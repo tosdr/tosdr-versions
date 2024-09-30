@@ -170,7 +170,7 @@ Failure to meet one or more of the following requirements may lead to a denial 
 
 [](#)
 
-[![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
+[![TechnologyAdvice logo](https://assets.technologyadvice.com/uploads/technologyadvice_logo_final.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
 [](https://www.facebook.com/techadvice)
 
