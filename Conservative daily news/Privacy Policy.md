@@ -2,14 +2,14 @@ Monday, September 30 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Monday, September 30, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 9/30/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
 * [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
 * [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
 * [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
 * [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
 * [President Joe Biden’s Schedule for Sunday, September 29, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
 * [Time For An Honest Government That Acknowledges The Reality Of Economic Hardship](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
-* [Strengthening The Border Is My Priority](https://www.conservativedailynews.com/2024/09/strengthening-the-border-is-my-priority/)
-* [Trump, Harris Locked In Dead Heat In Major Battleground States, Poll Shows](https://www.conservativedailynews.com/2024/09/trump-harris-locked-in-dead-heat-in-major-battleground-states-poll-shows/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,30 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris criminal illegal aliens border crisis](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
+    
+    [Kamala’s Creation](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
+    
+    September 30, 2024
+    
+* [![Iran Hezbollah Nasrallah](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/wicked/)
+    
+    [Wicked](https://www.conservativedailynews.com/2024/09/wicked/)
+    
+    September 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-6-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, September 30, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
+    
+    September 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
+    
+    [White House Press Briefing with Karine Jean-Pierre – 9/30/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
+    
+    September 30, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
     
     [A Fitting End](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
@@ -150,43 +174,19 @@ Recent Posts
     
     September 29, 2024
     
-* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
-    
-    [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
-    
-    September 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/03/National-Review-Logo.png)](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
-    
-    [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
-    
-    September 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-return-to-White-House-marine-one-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
-    
-    [President Joe Biden’s Schedule for Sunday, September 29, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
-    
-    September 29, 2024
-    
-* [![Bidenomics inflation economy](https://www.conservativedailynews.com/wp-content/uploads/2024/04/05-ss-bidenom-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
-    
-    [Time For An Honest Government That Acknowledges The Reality Of Economic Hardship](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
-    
-    September 29, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Finally! A Reporter Actually Presses Harris on Her Stance on Guns](https://www.thegunpage.com/finally-a-reporter-actually-presses-harris-on-her-stance-on-guns/10610897)
+* [TFB Review: Marlin 1895 Dark 45-70: A Modern Take on a Classic](https://www.thegunpage.com/tfb-review-marlin-1895-dark-45-70-a-modern-take-on-a-classic/10610899)
+* [Bill Introduced to Ban Federal Contracts with Gun Dealers Linked to Violent Crime](https://www.thegunpage.com/bill-introduced-to-ban-federal-contracts-with-gun-dealers-linked-to-violent-crime/10610893)
+* [TFB Weekly Web Deals 108: Deals for September 30th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-108-deals-for-september-30th-2024/10610891)
+* [Kamala Harris Calls Safety a Civil Right While Pushing Gun Restrictions, Highlighting a Contradiction in Approach](https://www.thegunpage.com/kamala-harris-calls-safety-a-civil-right-while-pushing-gun-restrictions-highlighting-a-contradiction-in-approach/10610890)
 * [Florida city illegally bans firearm and ammunition sales, CCW during Hurricane Helene](https://www.thegunpage.com/florida-city-illegally-bans-firearm-and-ammunition-sales-ccw-during-hurricane-helene/10610888)
 * [5 Suppressors Under $500](https://www.thegunpage.com/5-suppressors-under-500/10610884)
 * [NRA Asks Supreme Court To Consider AWB Case](https://www.thegunpage.com/nra-asks-supreme-court-to-consider-awb-case/10610882)
 * [From Steyr to Glock: Austria's Military Pistol History](https://www.thegunpage.com/from-steyr-to-glock-austrias-military-pistol-history/10610885)
 * [Gallery: 2024 America Match At NRA Whittington Center](https://www.thegunpage.com/gallery-2024-america-match-at-nra-whittington-center/10610878)
-* [Silencer Saturday #348: Suppressing The Uzi](https://www.thegunpage.com/silencer-saturday-348-suppressing-the-uzi/10610876)
-* [Lauryl Akenhead Claims Ladies Title At 2024 International Precision Rifle Federation Centerfire World Championship](https://www.thegunpage.com/lauryl-akenhead-claims-ladies-title-at-2024-international-precision-rifle-federation-centerfire-world-championship/10610874)
-* [TFB Review: TYPE A M110 Restomod](https://www.thegunpage.com/tfb-review-type-a-m110-restomod/10610873)
-* [Routh’s Rifle… Pul-lease](https://www.thegunpage.com/rouths-rifle-pul-lease/10610871)
-* [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* Richard McDonough on [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/#comment-782382)
+* Stanley Warner on [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/#comment-782381)
+* Stanley Warner on [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/#comment-782380)
 * [Bill](http://conservativedailynews.com/) on [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/#comment-782365)
 * WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
 * Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
 * Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
 * Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
-* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
-* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
-* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 
 [Close](#)
 
