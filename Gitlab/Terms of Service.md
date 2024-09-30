@@ -626,7 +626,7 @@
         * [ ]  [compensation-roadmaps](https://handbook.gitlab.com/handbook/engineering/compensation-roadmaps/)
         * [ ]  [Core Development Department](https://handbook.gitlab.com/handbook/engineering/core-development/)
         * [ ]  [Cross Functional Prioritization](https://handbook.gitlab.com/handbook/engineering/cross-functional-prioritization/)
-        * [ ]  [CTO Staff](https://handbook.gitlab.com/handbook/engineering/cto-staff/)
+        * [ ]  [CTO Leadership Team](https://handbook.gitlab.com/handbook/engineering/cto-leadership-team/)
         * [ ]  [Deployments and Releases](https://handbook.gitlab.com/handbook/engineering/deployments-and-releases/)
             * [ ]  [Deployments](https://handbook.gitlab.com/handbook/engineering/deployments-and-releases/deployments/)
         * [ ]  [Developer Onboarding](https://handbook.gitlab.com/handbook/engineering/developer-onboarding/)
