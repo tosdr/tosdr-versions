@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: UGA drops in AP Top 25, Coaches Poll rankings after Alabama loss](https://www.ajc.com/sports/georgia-bulldogs/georgia-drops-in-ap-top-25-rankings-as-alabama-grabs-no-1-spot/PQKSV5KMLZDULHT7222AQW6C3A/)
+[Breaking: Conyers chemical plant fire leads to evacuation of 17,000](https://www.ajc.com/news/crime/residents-evacuated-after-fire-at-conyers-chemical-plant-officials-say/NLTZ6RLMIZCERF76B7FHUQFRYE/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
