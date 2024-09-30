@@ -117,6 +117,7 @@
     * [Online Campus](https://my.uopeople.edu/login/index.php)
 * [EN](https://www.uopeople.edu/privacy-policy/ "EN")
     
+    * [ES](https://www.uopeople.edu/es/ "ES")
     * [AR](https://ar.uopeople.edu/ "AR")
 
 * [Search](#)
