@@ -1,26 +1,26 @@
 * [Бързи връзки](#)
     
-    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=1a071803919f11cb8ff34f23b5dcaf6f)
-    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=1a071803919f11cb8ff34f23b5dcaf6f)
+    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=049a153518bb93cb2f4e6be14256ddf5)
+    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=049a153518bb93cb2f4e6be14256ddf5)
     
-    * [Търсене](https://grysti.com/community/search.php?sid=1a071803919f11cb8ff34f23b5dcaf6f)
+    * [Търсене](https://grysti.com/community/search.php?sid=049a153518bb93cb2f4e6be14256ddf5)
     
-* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=1a071803919f11cb8ff34f23b5dcaf6f "Често задавани въпроси")
-* [Правила](https://grysti.com/community/app.php/rules?sid=1a071803919f11cb8ff34f23b5dcaf6f "Виж Правилата на този форум")
-* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=1a071803919f11cb8ff34f23b5dcaf6f "Влез")
-* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=1a071803919f11cb8ff34f23b5dcaf6f)
+* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=049a153518bb93cb2f4e6be14256ddf5 "Често задавани въпроси")
+* [Правила](https://grysti.com/community/app.php/rules?sid=049a153518bb93cb2f4e6be14256ddf5 "Виж Правилата на този форум")
+* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=049a153518bb93cb2f4e6be14256ddf5 "Влез")
+* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=049a153518bb93cb2f4e6be14256ddf5)
 * [](#)
 
-[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=1a071803919f11cb8ff34f23b5dcaf6f "#БГКоноп Българският форум за отглеждане на канабис")
+[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=049a153518bb93cb2f4e6be14256ddf5 "#БГКоноп Българският форум за отглеждане на канабис")
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=1a071803919f11cb8ff34f23b5dcaf6f) [Правила](https://grysti.com/community/app.php/rules?sid=1a071803919f11cb8ff34f23b5dcaf6f)
-* [Търсене](https://grysti.com/community/search.php?sid=1a071803919f11cb8ff34f23b5dcaf6f "Виж разширено търсене")
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=049a153518bb93cb2f4e6be14256ddf5) [Правила](https://grysti.com/community/app.php/rules?sid=049a153518bb93cb2f4e6be14256ddf5)
+* [Търсене](https://grysti.com/community/search.php?sid=049a153518bb93cb2f4e6be14256ddf5 "Виж разширено търсене")
 
 [![](https://grysti.com/community/mars-hydro.gif)](http://bit.ly/3akg4pC)
 
 **Ad blocker detected:** Our website is made possible by displaying online advertisements to our visitors. Please consider supporting us by disabling your ad blocker on our website.
 
-[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=1a071803919f11cb8ff34f23b5dcaf6f "Close announcement")
+[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=049a153518bb93cb2f4e6be14256ddf5 "Close announcement")
 
 **Добре дошли! Моля запознайте се с нашите [ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ](https://grysti.com/community/viewtopic.php?f=2&t=309) и [УСЛОВИЯ ЗА ПОЛЗВАНЕ](https://grysti.com/community/viewtopic.php?f=2&t=310)  
 **преди да продължите!  
@@ -609,11 +609,11 @@
 
 [](https://facebook.com/grysticom/)[](https://www.instagram.com/bulgariancannabis)[](https://www.youtube.com/channel/UCApyxIGyKsO0HFMTqu8COeg)
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=1a071803919f11cb8ff34f23b5dcaf6f)
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=049a153518bb93cb2f4e6be14256ddf5)
 * Часовете са според зоната UTC+03:00 Europe/Sofia
-* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=1a071803919f11cb8ff34f23b5dcaf6f)
-* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=1a071803919f11cb8ff34f23b5dcaf6f "Поверителност")
-* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=1a071803919f11cb8ff34f23b5dcaf6f "Условия")
+* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=049a153518bb93cb2f4e6be14256ddf5)
+* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=049a153518bb93cb2f4e6be14256ddf5 "Поверителност")
+* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=049a153518bb93cb2f4e6be14256ddf5 "Условия")
 
 [](#)
 
@@ -621,7 +621,5 @@
 
 Powered by [phpBB](http://www.phpbb.com/)™ • Design by [PlanetStyles](http://www.planetstyles.net/)  
 Този сайт и неговите собственици, модератори и администратори не възхваляват употребата, разпространението, продажбата, размяната, притежанието на наркотици, като не се ограничават до избороените, вместо това правят опити да предостави важна и живото спасяваща информация на неговите потребители! Информацията може да бъде представена, като и не се ограничава до развлекателни матеряли, учебни матеряли, снимки, видео, аудио и други електронни носители на информация. Отказ от отговорност: Нракотик е потенциално незаконно вещество и ние не насърчаваме, възхваляваме, подтикваме, склоняваме или оправдаваме употребата на това вещество, когато това е против закона. Ние обаче приемаме, че се случва незаконна употреба на наркотици и вярваме, че предлагането на информация за отговорно намаляване на вредата е наложително за опазване на хората. Поради тази причина съдържанието на този сайт е предназначено да гарантира безопасността на тези, които решат да използват веществото. Всяка информация, която предоставяме, е само за образование и информация. Този сайт не е предназначен да замести професионални медицински съвети, диагноза или лечение. Винаги потърсете съветите на вашия лекар или друг квалифициран доставчик на здравеопазване с въпроси, които може да имате по отношение на медицинско състояние. Този сайт и неговите собственици, модератори и администратори НЕ носят отговорнос за съдържание генерирано от неговите потребители!
-
-![cron](/community/app.php/cron/cron.task.core.tidy_warnings?sid=1a071803919f11cb8ff34f23b5dcaf6f)
 
 [](#)
