@@ -74,7 +74,7 @@
 Privacy Policy
 ==============
 
-Last Updated 17 July 2024
+Last Updated 30 September 2024
 
 We are committed to safeguarding the privacy of our website visitors. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website or purchasing our services you agree to this Privacy Policy in addition to CitizenCard [Terms and Conditions](https://www.citizencard.com/terms-and-conditions).
 
@@ -133,7 +133,7 @@ CitizenCard may use information that we collect about you to:
 
 We may share your personal data with third parties only in the ways that are described in this Privacy Policy:
 
-* we provide [Yoti](https://www.yoti.com/business/identity-verification/), a digital identity company, and [1Account](https://www.1account.net/), an online age verification company, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti or 1Account their consent to this
+* we provide [Yoti](https://www.yoti.com/business/identity-verification/), a digital identity company, [1Account](https://www.1account.net/), an online age verification company, and Arissian, through their [Luciditi](https://luciditi.co.uk/) digital identity platform, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti, 1Account or Arissian their consent to this
 * we use [Yoti Identity Verification](https://www.yoti.com/business/identity-verification/) to power our e-IDVT (Electronic ID Validation Technology) service which enables Yoti to submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud
 * we provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card
 * we use Google Cloud Vision API together with our own machine learning technology to make sure a photo you upload to support your online application complies with passport quality standards; Google does not use an anonymous photo it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done
