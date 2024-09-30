@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9792be43b712cc9800f1cd63064866e4
+764d258b82fa29dc6cf2a7a207e62121
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Trojan clasp](https://sojourner.biz/images/cache/SKU0211front.200.jpg)](https://sojourner.biz/clasps/cameo/intaglio/trojan-clasp.html "Trojan clasp")
+[![Carved jasper beads](https://sojourner.biz/images/cache/stone/STN075.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/carved-jasper-beads.html "Carved jasper beads")
 
-#### [Trojan clasp](https://sojourner.biz/clasps/cameo/intaglio/trojan-clasp.html "Trojan clasp")
+#### [Carved jasper beads](https://sojourner.biz/beads/stone-m-z/other-stones/carved-jasper-beads.html "Carved jasper beads")
 
-$31.00
+$19.00
 
 ### Best Sellers
 
