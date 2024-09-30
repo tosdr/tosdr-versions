@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/a49a659f-84ea-4d26-92fe-65ea7ac17f8a/20240927T163140/a49a659f-84ea-4d26-92fe-65ea7ac17f8a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a49a659f-84ea-4d26-92fe-65ea7ac17f8a/20240927T163140/a49a659f-84ea-4d26-92fe-65ea7ac17f8a_360x203.jpg)](https://www.kagstv.com/article/news/crime/harvey-stockton-sentenced-to-51-years-in-prison-for-8th-domestic-violence-conviction/500-7bff27ca-2c3d-4e1c-bb97-1fba21e3ef81)
+    *  [![](https://media.kagstv.com/assets/WFAA/images/be0fb8df-d447-4c9a-9b5d-2421335976fd/20240927T020503/be0fb8df-d447-4c9a-9b5d-2421335976fd_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/be0fb8df-d447-4c9a-9b5d-2421335976fd/20240927T020503/be0fb8df-d447-4c9a-9b5d-2421335976fd_360x203.jpg)](https://www.kagstv.com/article/news/local/mansfield-texas-drone-show-guinness-world-record-sky-elements-display/287-a03f5178-feea-43ca-9e06-7e5a5ae2a099)
         
-        #### [College Station man sentenced to 51 years in eighth domestic violence conviction](https://www.kagstv.com/article/news/crime/harvey-stockton-sentenced-to-51-years-in-prison-for-8th-domestic-violence-conviction/500-7bff27ca-2c3d-4e1c-bb97-1fba21e3ef81)
+        #### [Thousands of drones | North Texas town officially breaks Guinness World Record for largest remote-operated drones launching fireworks simultaneously](https://www.kagstv.com/article/news/local/mansfield-texas-drone-show-guinness-world-record-sky-elements-display/287-a03f5178-feea-43ca-9e06-7e5a5ae2a099)
         
-    *  [![](https://media.kagstv.com/assets/WTLV/images/2a276ea8-77c9-4130-9967-bb0aaf70dd8d/2a276ea8-77c9-4130-9967-bb0aaf70dd8d_16x9.png) ![](https://media.kagstv.com/assets/WTLV/images/2a276ea8-77c9-4130-9967-bb0aaf70dd8d/2a276ea8-77c9-4130-9967-bb0aaf70dd8d_360x203.png)](https://www.kagstv.com/article/news/crime/navasota-pd-arrest-juveniles-for-social-media-threats/500-e3a6011c-8bf5-41b8-be63-f026cbf23759)
+    *  [![](https://media.kagstv.com/assets/WXIA/images/fc7105a3-4e2c-44f3-b331-7fce500fb76f/20240929T195444/fc7105a3-4e2c-44f3-b331-7fce500fb76f_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/fc7105a3-4e2c-44f3-b331-7fce500fb76f/20240929T195444/fc7105a3-4e2c-44f3-b331-7fce500fb76f_360x203.jpg)](https://www.kagstv.com/article/news/local/conyers-georgia-chemical-fire-evacuations-what-we-know/85-f49ac202-98d0-4374-bfd7-3ff532393cde)
         
-        #### [Two juveniles charged with state jail felonies for social media threats in Navasota](https://www.kagstv.com/article/news/crime/navasota-pd-arrest-juveniles-for-social-media-threats/500-e3a6011c-8bf5-41b8-be63-f026cbf23759)
+        #### [What we know about BioLab fire in Conyers: Nearly 17,000 in evacuation zone; Newton schools closed Monday](https://www.kagstv.com/article/news/local/conyers-georgia-chemical-fire-evacuations-what-we-know/85-f49ac202-98d0-4374-bfd7-3ff532393cde)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+    *  [![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
-        #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.kagstv.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+        #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
-    *  [![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+    *  [![](https://media.kagstv.com/assets/CCT/images/c3895b07-67e5-4b5c-98ed-2317f7f51cd3/20240930T111456/c3895b07-67e5-4b5c-98ed-2317f7f51cd3_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/c3895b07-67e5-4b5c-98ed-2317f7f51cd3/20240930T111456/c3895b07-67e5-4b5c-98ed-2317f7f51cd3_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
-        #### [Helene makes landfall in northwestern Florida as a Category 4 hurricane](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+        #### [After Hurricane Helene, a logistical nightmare for supplies in eastern states](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-71°
+80°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
