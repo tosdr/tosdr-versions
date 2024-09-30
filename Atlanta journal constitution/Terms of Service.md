@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Georgia students improve exam scores after overhaul of state math standards](https://www.ajc.com/education/georgia-students-improve-exam-scores-after-overhaul-of-state-math-standards/YR4D6F7FLZHU3NSAD2SIWOTNX4/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-reeling-from-helene/EJZ26IXXL5E5RED4NDKCSZJKJM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
