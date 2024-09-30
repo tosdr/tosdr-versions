@@ -49,7 +49,7 @@ Euractiv+](https://www.euractiv.com/euractiv-plus)
 Euractiv Pro](https://www.euractiv.com/euractiv-pro)
 
 * [Podcasts](https://www.euractiv.com/podcast)
-* [Eventss](https://events.euractiv.com/)
+* [Events](https://events.euractiv.com/)
 * [Newsletters](https://www.euractiv.com/account)
 * [Jobs](https://jobs.euractiv.com/)
 * [Euractiv Intelligence](https://intelligence.euractiv.com/)
