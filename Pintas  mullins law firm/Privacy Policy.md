@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you get cancer from talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-cancer-from-talcum-powder.jpg "How Do You Get Cancer from Talcum Powder?")](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/ "How Do You Get Cancer from Talcum Powder?")
+[![Can you carry asbestos on your clothes?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-you-carry-asbestos-on-your-clothes.jpg "Can You Carry Asbestos on Your Clothes?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-carry-asbestos-on-your-clothes/ "Can You Carry Asbestos on Your Clothes?")
 
-[#### How Do You Get Cancer from Talcum Powder?](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/)
+[#### Can You Carry Asbestos on Your Clothes?](https://www.pintas.com/practice-areas/lung-cancer/can-you-carry-asbestos-on-your-clothes/)
 
-[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
+[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
 
-[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
+[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
 
-[![Is talc-free powder safe?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-is-talc-free-powder-safe-scaled.jpg "Is Talc-Free Powder Safe?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/ "Is Talc-Free Powder Safe?")
+[![Can peritoneal mesothelioma spread to the lungs?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-peritoneal-mesothelioma-spread-to-the-lungs-scaled.jpg "Can Peritoneal Mesothelioma Spread to the Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs "Can Peritoneal Mesothelioma Spread to the Lungs?")
 
-[#### Is Talc-Free Powder Safe?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/)
+[#### Can Peritoneal Mesothelioma Spread to the Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs)
 
 ### Injured?  
 Tell Us What Happened.
