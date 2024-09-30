@@ -2,7 +2,7 @@
 
 [](https://www.spiceworks.com/)
 
-[**ZD $48.63** ▼\-0.45%](http://investor.ziffdavis.com/ "Minimum 20 minute delay.")
+[**ZD $48.66** ▼\-0.39%](http://investor.ziffdavis.com/ "Minimum 20 minute delay.")
 
 Minimum 20 minute delay.
 
