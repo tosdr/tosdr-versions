@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 29, 2024**
+**September 30, 2024**
 
 * * *
 
@@ -230,15 +230,15 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
-
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
-
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
+
+[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
 [Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
@@ -246,9 +246,9 @@ this week
 
 [Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
