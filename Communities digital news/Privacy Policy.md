@@ -26,69 +26,117 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-asheville-1200x630.jpg)](https://americanwirenews.com/gop-asheville-nc-a-catastrophe-and-bidens-at-the-beach-kamala-too-busy-to-notice/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-harris-helene-1200x630.jpg)](https://americanwirenews.com/trump-announces-stop-to-aid-hurricane-victims-where-is-kamala-where-is-biden/)
 
-[GOP: Asheville, NC a ‘catastrophe’ and Biden’s at the beach, Kamala ‘too busy to notice’](https://americanwirenews.com/gop-asheville-nc-a-catastrophe-and-bidens-at-the-beach-kamala-too-busy-to-notice/)
+[Trump announces stop to deliver aid to hurricane victims. Where is Kamala? Where is Biden?](https://americanwirenews.com/trump-announces-stop-to-aid-hurricane-victims-where-is-kamala-where-is-biden/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-khamenei-lebanon-1200x630.jpg)](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-pa-1200x630.png)](https://americanwirenews.com/crime-of-the-century-trump-calls-for-kamala-harris-to-be-impeached-and-prosecuted-over-border/)
 
-[‘Shortest tenure as head of a terrorist org’: IDF says new leader of Hezbollah taken out](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
+[‘Crime of the Century’: Trump calls for Kamala Harris to be ‘impeached and prosecuted’ over border](https://americanwirenews.com/crime-of-the-century-trump-calls-for-kamala-harris-to-be-impeached-and-prosecuted-over-border/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-erietrump-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-suggests-innovative-way-to-send-a-message-to-criminals/)
 
-[Ryan Routh has ‘disappeared from the public media consciousness’](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
+[Trump suggests innovative way to send a message to criminals](https://americanwirenews.com/trump-suggests-innovative-way-to-send-a-message-to-criminals/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harrisaz-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mpd-1200x630.jpg)](https://americanwirenews.com/minneapolis-adds-first-non-citizen-police-officer/)
 
-[‘Middle class’ Kamala rocks $62K Tiffany necklace during ‘staged’ border visit: report](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
+[Minneapolis adds first ‘non-citizen’ police officer](https://americanwirenews.com/minneapolis-adds-first-non-citizen-police-officer/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-young-trump-supporters-1200x630.jpg)](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-1-1200x630.png)](https://americanwirenews.com/what-a-class-act-walz-appears-to-flip-a-bird-to-a-pro-trump-michigan-fan/)
 
-[Poll shows younger voters skewing to the right: ‘They think of Trump as an anti-hero, not a villian’](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
+[‘What a class act’: Walz appears to flip a bird to a pro-Trump Michigan fan](https://americanwirenews.com/what-a-class-act-walz-appears-to-flip-a-bird-to-a-pro-trump-michigan-fan/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-djtprairieduchien-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyt-hezbollah-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/new-york-times-gushes-that-dead-hezbollah-leader-was-a-towering-figure-who-wanted-religious-equality/)
 
-[Trump rips Fox News over Kamala’s ‘bullsh\*t’ border remarks: ‘It all stops the moment I take the oath’](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
+[New York Times gushes that dead Hezbollah leader was a ‘towering figure’ who wanted religious ‘equality’](https://americanwirenews.com/new-york-times-gushes-that-dead-hezbollah-leader-was-a-towering-figure-who-wanted-religious-equality/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-franl-1200-x-628-1200x630.jpg)](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-calvin-robinson-1200x630.jpg)](https://americanwirenews.com/british-priest-has-grave-warning-for-america/)
 
-[Radical lesbian essayist Fran Lebowitz wants Biden to ‘dissolve the Supreme Court’](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
+[British priest has grave warning for America](https://americanwirenews.com/british-priest-has-grave-warning-for-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-elon-musk-2-1200x630.jpg)](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wisconsin-woman-1200x630.png)](https://americanwirenews.com/wisconsin-woman-says-shes-voting-for-trump-because-she-felt-safer-under-him/)
 
-[Elon Musk explains why this will be ‘last election’ if Trump is NOT elected](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
+[Wisconsin woman says she’s voting for Trump because she felt safer under him](https://americanwirenews.com/wisconsin-woman-says-shes-voting-for-trump-because-she-felt-safer-under-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-snl-1200x630.png)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jd-walz-split-1200-x-628-1200x630.jpg)
 
-### ‘SNL’ mocks deadly Trump assassination attempt in a ‘disgusting’ new low](https://americanwirenews.com/snl-mocks-deadly-trump-assassination-attempt-in-a-disgusting-new-low/)
+### ‘Tampon Tim’ reportedly has a serious case of pre-debate jitters](https://americanwirenews.com/tampon-tim-reportedly-has-a-serious-case-of-pre-debate-jitters/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
+### [NYC mayor’s chief adviser hit with federal subpoena, has cell phone seized](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
 
-### [‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
+### [Small business owners struggling to ‘keep up’ under Harris-Biden economy as election looms](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
 
-### [Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
+### [Republicans cry foul, urge probe into Biden-Harris admin over Medicare premium offset plan](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
 
-### [Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+### [Border Patrol union and others rip into Harris for ‘completely staged’ border visit](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
 
-### [Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
+### [‘Bad Blood’: Republican, independent support for Taylor Swift drops following Kamala endorsement](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
 
-### [North Carolina scrubs 747,000 from voter rolls amid GOP lawsuit](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
+### [Mark Cuban, Riley Gaines go rounds over Harris’s border record: ‘We might have different standards’](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump1-kamalah-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-gets-unexpected-backup-not-backing-down-after-calling-kamala-mentally-impaired/)
+
+[Trump gets unexpected backup, not backing down after calling Kamala ‘mentally impaired’](https://americanwirenews.com/trump-gets-unexpected-backup-not-backing-down-after-calling-kamala-mentally-impaired/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-zachary-levi-220x180.png)](https://americanwirenews.com/hollywood-actor-defies-colleagues-endorses-trump-were-going-to-take-back-this-country/)
+
+[Hollywood actor defies colleagues, endorses Trump: ‘We’re going to take back this country’](https://americanwirenews.com/hollywood-actor-defies-colleagues-endorses-trump-were-going-to-take-back-this-country/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-vance-primanti-220x180.jpg)](https://americanwirenews.com/kamala-gloats-after-jd-vance-is-barred-from-entering-primanti-bros/)
+
+[Kamala gloats after JD Vance is barred from entering Primanti Bros restaurant](https://americanwirenews.com/kamala-gloats-after-jd-vance-is-barred-from-entering-primanti-bros/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-reid-220x180.jpg)](https://americanwirenews.com/peak-example-of-state-media-propaganda-joy-reid-blasted-after-covering-for-criminal-aliens/)
 
 [‘Peak example of state media propaganda’: Joy Reid blasted after covering for criminal aliens](https://americanwirenews.com/peak-example-of-state-media-propaganda-joy-reid-blasted-after-covering-for-criminal-aliens/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-asheville-220x180.jpg)](https://americanwirenews.com/gop-asheville-nc-a-catastrophe-and-bidens-at-the-beach-kamala-too-busy-to-notice/)
+
+[GOP: Asheville, NC a ‘catastrophe’ and Biden’s at the beach, Kamala ‘too busy to notice’](https://americanwirenews.com/gop-asheville-nc-a-catastrophe-and-bidens-at-the-beach-kamala-too-busy-to-notice/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jeffery-220x180.jpg)](https://americanwirenews.com/lefty-journo-mocked-after-equating-a-blessed-day-nod-to-creeping-christian-nationalism/)
 
 [Lefty journo mocked after equating a ‘blessed’ day nod to ‘creeping Christian nationalism’](https://americanwirenews.com/lefty-journo-mocked-after-equating-a-blessed-day-nod-to-creeping-christian-nationalism/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-elon-musk-2-220x180.jpg)](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
+
+[Elon Musk explains why this will be ‘last election’ if Trump is NOT elected](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-snl-220x180.png)](https://americanwirenews.com/snl-mocks-deadly-trump-assassination-attempt-in-a-disgusting-new-low/)
+
+[‘SNL’ mocks deadly Trump assassination attempt in a ‘disgusting’ new low](https://americanwirenews.com/snl-mocks-deadly-trump-assassination-attempt-in-a-disgusting-new-low/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-khamenei-lebanon-220x180.jpg)](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
+
+[‘Shortest tenure as head of a terrorist org’: IDF says new leader of Hezbollah taken out](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
+
+[Ryan Routh has ‘disappeared from the public media consciousness’](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wefkerry-1200-x-628-220x180.jpg)](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
 
 [‘We need to win’: John Kerry cries 1A a ‘major block’ in controlling social media, disinformation](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-franl-1200-x-628-220x180.jpg)](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
+
+[Radical lesbian essayist Fran Lebowitz wants Biden to ‘dissolve the Supreme Court’](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-djtprairieduchien-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
+
+[Trump rips Fox News over Kamala’s ‘bullsh\*t’ border remarks: ‘It all stops the moment I take the oath’](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-young-trump-supporters-220x180.jpg)](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
+
+[Poll shows younger voters skewing to the right: ‘They think of Trump as an anti-hero, not a villian’](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harrisaz-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
+
+[‘Middle class’ Kamala rocks $62K Tiffany necklace during ‘staged’ border visit: report](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wilmore-williams-spacex-220x180.jpg)](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
 
@@ -127,54 +175,6 @@ Image via Santa Barbara County Sheriff's Office
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-volleyball-player-220x180.jpg)](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
 
 [Women’s volleyball team refuses to play against team with reported trans player](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-adams-lewismartin-220x180.jpg)](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
-
-[NYC mayor’s chief adviser hit with federal subpoena, has cell phone seized](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-smallbizfox-1200-x-628-1200-x-628-220x180.jpg)](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
-
-[Small business owners struggling to ‘keep up’ under Harris-Biden economy as election looms](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/RF-Harris-Biden-220x180.jpg)](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
-
-[Republicans cry foul, urge probe into Biden-Harris admin over Medicare premium offset plan](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalaborder-1200-x-628-220x180.jpg)](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
-
-[Border Patrol union and others rip into Harris for ‘completely staged’ border visit](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-swift-220x180.jpg)](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
-
-[‘Bad Blood’: Republican, independent support for Taylor Swift drops following Kamala endorsement](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-sg-riley-gaines-220x180.jpg)](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
-
-[Mark Cuban, Riley Gaines go rounds over Harris’s border record: ‘We might have different standards’](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-netanyahu-220x180.jpg)](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
-
-[Netanyahu delivers EPIC tongue lashing to anti-Semitic ‘UN house of darkness’](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-google-search-220x180.jpg)](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
-
-[Trump slams Google for ‘blatant interference’ and vows ‘prosecution’ if he wins](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpwarrenmi-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
-
-[Trump hammers Kamala over criminal illegal ‘killing machine’](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-honeybadger-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
-
-[Bannon rallies the MAGA troops in fiery message from behind prison walls](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--220x180.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
-
-[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rizzler-cringe-220x180.jpg)](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
-
-[Dem congressperson lets Gen Z staffers write script, produces PURE cringe](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -236,9 +236,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-coffeejoint-1200-x-628-1200x630.jpg)](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-1200x630.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
 
-[Pro-cop coffee shop owner awarded $4 million in free speech lawsuit against university](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
+[Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-220x180.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
+
+[Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-coffeejoint-1200-x-628-220x180.jpg)](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
 
@@ -256,10 +260,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-panty-dropper-ad-220x180.jpg)](https://americanwirenews.com/president-of-wild-willies-beard-oil-defends-panty-dropper-ad-after-outrage-our-humors-not-for-everyone/)
-
-[President of Wild Willie’s beard oil defends ‘panty dropper’ ad after outrage: ‘Our humor’s not for everyone’](https://americanwirenews.com/president-of-wild-willies-beard-oil-defends-panty-dropper-ad-after-outrage-our-humors-not-for-everyone/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-primanti-1200x630.jpg)](https://americanwirenews.com/vance-denied-entry-at-primanti-bros-in-pennsylvania-iconic-chains-cleanup-disputed/)
@@ -274,17 +274,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Mehdi Hasan accuses Trump of quoting Hitler, spits venom at Piers Morgan for pushing back](https://americanwirenews.com/mehdi-hasan-accuses-trump-of-quoting-hitler-spits-venom-at-piers-morgan-for-pushing-back/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-comer-z-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-netanyahu-220x180.jpg)](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
 
-[House GOP to probe Zelenskyy’s campaigning for Kamala on the taxpayer dime](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
+[Netanyahu delivers EPIC tongue lashing to anti-Semitic ‘UN house of darkness’](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-goldberg-biden-220x180.jpg)](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-google-search-220x180.jpg)](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
 
-[Whoopi compares Trump to insect, Biden responds by pretending to kill bug on table](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
+[Trump slams Google for ‘blatant interference’ and vows ‘prosecution’ if he wins](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plaskett-fbi-doj-220x180.jpg)](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpwarrenmi-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
 
-[‘The best argument yet for dismantling’: Del. Plaskett has a creative opinion of the purpose of FBI, DOJ](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
+[Trump hammers Kamala over criminal illegal ‘killing machine’](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -326,18 +326,16 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Kamala-backing rock diva says new pro-abortion anthem ‘may be the most important thing I ever do’](https://americanwirenews.com/kamala-backing-rock-diva-says-new-pro-abortion-anthem-may-be-the-most-important-thing-i-ever-do/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ice-arrest-migrant-220x180.jpg)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-220x180.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
-[Wealthy blue city sees four ICE arrests in two days on child sex allegations
+[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
-(Image: ICE)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-blasts-declared-highest-paid-female-ceo-in-america-he-climbed-none-of-the-mountains-we-did/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-favre-sterger-220x180.jpg)](https://americanwirenews.com/karma-brett-favre-accuser-has-no-sympathy-over-parkinsons-disease-revelation/)
+[Megyn Kelly blasts declared ‘highest paid female CEO in America’: ‘He climbed none of the mountains we did’](https://americanwirenews.com/megyn-kelly-blasts-declared-highest-paid-female-ceo-in-america-he-climbed-none-of-the-mountains-we-did/)
 
-[‘Karma’: Brett Favre accuser has no sympathy over Parkinson’s disease revelation](https://americanwirenews.com/karma-brett-favre-accuser-has-no-sympathy-over-parkinsons-disease-revelation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-mother-at-disneyland-split-220x180.jpg)](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-yt-sarco-pod-220x180.jpg)](https://americanwirenews.com/sleek-aerodynamic-suicide-pod-comes-complete-with-chilling-eight-word-message/)
-
-[Sleek, aerodynamic suicide pod comes complete with chilling eight-word message](https://americanwirenews.com/sleek-aerodynamic-suicide-pod-comes-complete-with-chilling-eight-word-message/)
+[Sad scene when mom tries to scam Disneyland, gets hauled off in cuffs with crying kids in tow](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
 
 © 2024. All Rights Reserved. American Wire News
