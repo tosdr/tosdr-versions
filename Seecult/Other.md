@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/slava-je-spora.jpg?itok=VTVeb4fg)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezi/erotic-drawings/erotski2.jpg?itok=HzFamFuj)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezierotic-drawings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/balkanopolis-sade.jpg?itok=sXMbUFs7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/noc-muzeja/noc-muzeja-46.jpg?itok=86gZPOcF)](http://seecult.org/galerija/foto-galerija/foto-arhiva/noc-muzeja)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
