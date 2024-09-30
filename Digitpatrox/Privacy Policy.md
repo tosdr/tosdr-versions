@@ -20,16 +20,16 @@ Monday, September 30 2024
 
 Latest
 
-* [The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
-* [New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
-* [Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
-* [The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
-* [The Best Halloween Horror Movies You Can Stream Right Now](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
-* [Dyson OnTrac Headphones Review – Consumer Reports](https://digitpatrox.com/dyson-ontrac-headphones-review-consumer-reports/)
-* [How to Move Your Windows 11 Installation to a New Drive](https://digitpatrox.com/how-to-move-your-windows-11-installation-to-a-new-drive/)
-* [NYT Connections today hints and answers — Monday, September 30 (#477)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-30-477/)
-* [California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
-* [NYT Connections Today: Hints and Answers for September 30, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-30-2024/)
+* [Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
+* [How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
+* [Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
+* [Upgrade to Superior Pool Cleaning With the Revolutionary Degrii Zima Pro](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
+* [The NCSC and FBI just issued a major alert over a state-backed hacker group – here’s what you need to know](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
+* [Apple TV Plus top 10 shows — here’s the 3 worth watching now](https://digitpatrox.com/apple-tv-plus-top-10-shows-heres-the-3-worth-watching-now/)
+* [Epic is suing Google — again — and now Samsung too](https://digitpatrox.com/epic-is-suing-google-again-and-now-samsung-too/)
+* [I Tried Out ChatGPT Advanced Voice Mode, and It’s Not What OpenAI Demoed](https://digitpatrox.com/i-tried-out-chatgpt-advanced-voice-mode-and-its-not-what-openai-demoed/)
+* [The importance of supply chain resilience](https://digitpatrox.com/the-importance-of-supply-chain-resilience/)
+* [Wordle Answer for Today, September 30, 2024](https://digitpatrox.com/wordle-answer-for-today-september-30-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/SRBrHvHJLs4K7c6zPDPvVU-1200-80.jpg)](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Patelco-CU-data-breach-figure-increases-to-over-1M-people.jpg)](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
     
-    [The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
+    [Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
     
-    22 mins ago
+    7 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/5hRcycNRCD2dR8sBc3DKMQ-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-blue-screen-death-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
     
-    [New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
+    [How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
     
-    40 mins ago
+    19 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/1KREUR6hxO_30cRP4GHixXI0Phs=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25649745/2089852195.jpg)](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1713971227/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-dishwasher-reliability-0424)](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
     
-    [Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
+    [Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
+    
+    28 mins ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/17-1.jpg)](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
+    
+    [Upgrade to Superior Pool Cleaning With the Revolutionary Degrii Zima Pro](https://digitpatrox.com/upgrade-to-superior-pool-cleaning-with-the-revolutionary-degrii-zima-pro/)
+    
+    29 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/rfyesh66wgmmCbpkKKZrYW-1200-80.jpg)](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
+    
+    [The NCSC and FBI just issued a major alert over a state-backed hacker group – here’s what you need to know](https://digitpatrox.com/the-ncsc-and-fbi-just-issued-a-major-alert-over-a-state-backed-hacker-group-heres-what-you-need-to-know/)
     
     1 hour ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/09/The-Penguin-Episode-2-Who-is-Julian-Rush-is-He-a-Batman-Villain-.jpg)](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/)
-    
-    [The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J8QH83H87XZ8QTANKSFA44W7/hero-image.fill.size_1200x675.webp)](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
-    
-    [The Best Halloween Horror Movies You Can Stream Right Now](https://digitpatrox.com/the-best-halloween-horror-movies-you-can-stream-right-now/)
-    
-    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 mins ago
+* [7 mins ago
     
-    ### The evolution of SASE and its importance in zero trust](https://digitpatrox.com/the-evolution-of-sase-and-its-importance-in-zero-trust/)
-* [40 mins ago
+    ### Patelco Credit Union increases ransomware data breach figure to over 1M people](https://digitpatrox.com/patelco-credit-union-increases-ransomware-data-breach-figure-to-over-1m-people/)
+* [19 mins ago
     
-    ### New on Netflix: 5 movies and shows to watch this week (Sept 30-Oct 6)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-sept-30-oct-6/)
-* [1 hour ago
+    ### How to resolve any Blue Screen of Death (BSOD) issue on Windows 11](https://digitpatrox.com/how-to-resolve-any-blue-screen-of-death-bsod-issue-on-windows-11/)
+* [28 mins ago
     
-    ### Marvel and DC lose ‘SUPER HERO’ trademarks](https://digitpatrox.com/marvel-and-dc-lose-super-hero-trademarks/)
+    ### Most and Least Reliable Dishwasher Brands](https://digitpatrox.com/most-and-least-reliable-dishwasher-brands/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [August 26, 2024
     
-    ### NYT Connections Today: Hints and Answers for September 2, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-2-2024/)
-* [4 weeks ago
+    ### Exchange Online mistakenly tags emails as malware](https://digitpatrox.com/exchange-online-mistakenly-tags-emails-as-malware/)
+* [August 23, 2024
     
-    ### Apple MDM vendor Mosyle gets into asset management – Computerworld](https://digitpatrox.com/apple-mdm-vendor-mosyle-gets-into-asset-management-computerworld/)
-* [August 12, 2024
+    ### How to Avoid Sounding Like AI in Your Writing](https://digitpatrox.com/how-to-avoid-sounding-like-ai-in-your-writing/)
+* [August 22, 2024
     
-    ### New Windows vulnerability could repeatedly trigger the blue screen of death on millions of devices](https://digitpatrox.com/new-windows-vulnerability-could-repeatedly-trigger-the-blue-screen-of-death-on-millions-of-devices/)
+    ### Billons of Chrome users at risk from hacker attacks — severe flaw exploited](https://digitpatrox.com/billons-of-chrome-users-at-risk-from-hacker-attacks-severe-flaw-exploited/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Epic is suing Google — again — and now Samsung too](https://digitpatrox.com/epic-is-suing-google-again-and-now-samsung-too/)
+* [3 hours ago
+    
+    ### I Tried Out ChatGPT Advanced Voice Mode, and It’s Not What OpenAI Demoed](https://digitpatrox.com/i-tried-out-chatgpt-advanced-voice-mode-and-its-not-what-openai-demoed/)
 * [4 hours ago
     
-    ### How to Move Your Windows 11 Installation to a New Drive](https://digitpatrox.com/how-to-move-your-windows-11-installation-to-a-new-drive/)
-* [6 hours ago
-    
-    ### NYT Connections today hints and answers — Monday, September 30 (#477)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-30-477/)
-* [6 hours ago
-    
-    ### California governor vetoes major AI safety bill](https://digitpatrox.com/california-governor-vetoes-major-ai-safety-bill/)
+    ### The importance of supply chain resilience](https://digitpatrox.com/the-importance-of-supply-chain-resilience/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
