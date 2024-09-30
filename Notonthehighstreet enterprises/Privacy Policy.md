@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-Hunker down with our brand-new Autumn Shop. [Start exploring](https://www.notonthehighstreet.com/campaign/autumn-shop)
+Embrace spooky season with our scarily good Halloween collection. [Shop now.](https://www.notonthehighstreet.com/halloween)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
