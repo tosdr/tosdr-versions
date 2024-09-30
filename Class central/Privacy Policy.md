@@ -1,6 +1,6 @@
- [### ![](/images/promobar/cc-badge-white.svg) 3000+ Courses from California Community Colleges
+ [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses For October
 
-View](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
+View](https://www.classcentral.com/report/most-popular-october-2024/)
 
 Close
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. excel
+1. hacking
     
-2. data science
+2. web development
     
-3. finance
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Digital Marketing
+1. [Web Development
     
-    5,790 courses](https://www.classcentral.com/subject/digital-marketing)
-2. [Psychology
+    12,584 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
     
-    2,276 courses](https://www.classcentral.com/subject/psychology)
-3. [Graphic Design
+    7,759 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
-    4,161 courses](https://www.classcentral.com/subject/graphic-design)
+    5,792 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [FinTech Foundations and Overview
+1. [Machine Learning for Musicians and Artists
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fintech-11193)
-2. [Understanding Dementia
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+2. [Extreme Geological Events
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-dementia-981)
-3. [How to Succeed at: Interviews
+    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
+3. [Industrial Pharmacy-I
     
-    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
+    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-industrial-pharmacy-i-14123)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
