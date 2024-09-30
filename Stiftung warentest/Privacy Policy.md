@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Service Stiftung Warentest
 
