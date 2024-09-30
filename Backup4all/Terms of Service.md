@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from HiDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hidrive-using-backup4all-kb.html)  
+* [How to back up data files from Azure using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-azure-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 8](https://www.backup4all.com/using-backup4all-faq-8-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to restore a backup to OneDrive](https://www.backup4all.com/how-to-restore-a-backup-to-onedrive-kb.html)  
+* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
     
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
+* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
     
-* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
+* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
     
 
 Choose language:
