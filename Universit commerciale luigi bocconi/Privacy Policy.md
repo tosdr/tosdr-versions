@@ -129,6 +129,10 @@ Menu Close
 * [For Alumni](https://bocconialumni.it/en/home/)
 * [Contact us](https://www.unibocconi.eu/en/contact-us)
 
+* * *
+
+* [Erasmus+ Scholarship: Before Mobility](https://www.unibocconi.eu/en/erasmus-scholarship-mobility)
+
 [Login](https://www.unibocconi.eu/en/reserved-area "Login")
 
 Languages
@@ -286,7 +290,6 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
-* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
