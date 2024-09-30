@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=18326610)  
-NIMAWELL
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=143227086)  
+West Coast Horse Trails
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=128595596)  
-Digifax Pty) Ltd t/a Findfish
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=25008806)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=116192476)  
-Vplay Grafix
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=191190395)  
+NWET Pty LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=49130690)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=186908719)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=28296240)  
-Depot Diesel (Pty) Ltd
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=125981742)  
+Forgotten Goods (Pty) Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=7092019)  
-OXYAIDER (PTY) LTD
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=207341160)  
+#DiGi3 Marketing & Design
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=103284863)  
-Prosper Park
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=52159672)  
+OrgChart Hosting Pty Ltd
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=40816997)  
-Cpower Projects t/a Pro Pure Water
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=87269632)  
+Itroniq (Pty) Ltd
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=43734913)  
-VA AND M DEBT-AID (PTY) LTD
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=22356247)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=187282038)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=56701927)  
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=3243669)  
 Frequency Fanatics (Pty) Ltd
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=176605002)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=9897238)  
+Lion Software Develepment
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=29765099)  
-Moving Made Easy (PTY) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=95347530)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=fd78b0faca95f8659225be48a3e6a9a1031589c916a5bd3c41561cc1118b656e&c=204059612)  
-MR Compressors& Industrial Supplies
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=137055005)  
+CLEVER STUDENTS
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=173311919)  
+National Elite Security Services (PTY) LTD
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=3964395)  
+Import Maaw
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=3685204f8fd58ff127aaeb1eb31a529a842e598d7f6290bebb7b2e73ffb78c3e&c=28714691)  
+Bloem Rugby Academy PTY (Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
