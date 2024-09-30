@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/david-icke-fascistische-dictatuur-nabij/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-terugkeer-van-de-goden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
