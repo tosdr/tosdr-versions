@@ -339,6 +339,7 @@ If you have any questions about our use of cookies, please contact us at [contac
     * [Advanced AR Training](https://zap.works/training/studio/)
     * [L&D AR Training](https://zap.works/training/learning-and-development/)
     * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+    * [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 * Legal
     
     * [T&C's](https://zap.works/terms/)
@@ -394,6 +395,7 @@ If you have any questions about our use of cookies, please contact us at [contac
 * [Advanced AR Training](https://zap.works/training/studio/)
 * [L&D AR Training](https://zap.works/training/learning-and-development/)
 * [Mattercraft for Unity developers](https://zap.works/mattercraft-for-unity-developers/)
+* [Mattercraft for Spark Creators](https://zap.works/mattercraft-for-spark-ar/)
 
 ### Legal
 
