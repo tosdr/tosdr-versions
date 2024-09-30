@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
 * [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
     Books Bans Are on the Rise in America
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
     
-    Audiobooks for Kids
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
-
-* * *
-
-* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
-    
-    A Guide to Truman Capote Books
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
 
 * <
     
