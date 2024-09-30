@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [How Are Pronouns Processed in Our Brains?](https://www.sciencedaily.com/releases/2024/09/240927173201.htm)
+* [IVF and Heart Defect Risk](https://www.sciencedaily.com/releases/2024/09/240927173121.htm)
 * [How Killifish Regenerate Their Fins](https://www.sciencedaily.com/releases/2024/09/240926131936.htm)
 * [Return of the Elephants Seals](https://www.sciencedaily.com/releases/2024/09/240927173545.htm)
 * [Shrinking AR Displays Into Eyeglasses](https://www.sciencedaily.com/releases/2024/09/240925122923.htm)
@@ -237,8 +239,6 @@ this hour
 * ['Weekend Warrior?' Protection Against Disease](https://www.sciencedaily.com/releases/2024/09/240926132037.htm)
 * [Pollution's Impact On Arctic Atmosphere](https://www.sciencedaily.com/releases/2024/09/240925143912.htm)
 * [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
-* [Earth, 8 Billion Years from Now](https://www.sciencedaily.com/releases/2024/09/240926132019.htm)
-* [Most Detailed Infrared Map of Our Milky Way](https://www.sciencedaily.com/releases/2024/09/240926131953.htm)
 
 Trending Topics
 ---------------
@@ -269,7 +269,7 @@ this week
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
