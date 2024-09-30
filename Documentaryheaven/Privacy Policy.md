@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Living Earth](/wp-content/thumbnails/6736-100x70.png?x53432)
+* [![Manchester The Night of The Bomb](/wp-content/thumbnails/14091-100x70.jpg?x53432)
     
-    The Living Earth
+    Manchester The Night of The Bomb
     
-    Over the past 4 billion years, life has evolved from simple single celled organisms into the tremendous variety of plants and animals that exist today. As scientists learn more about the Earth’s histo](https://documentaryheaven.com/the-living-earth/ "The Living Earth")
-* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
+    On 22 May 2017, the deadliest terror attack in Britain since 7/7 took place. It was carried out by a man who himself was born and raised in very city he attacked. Salman Abedi detonated a homemade bom](https://documentaryheaven.com/manchester-night-of-bomb/ "Manchester The Night of The Bomb")
+* [![The Way of All Flesh](/wp-content/thumbnails/2339-100x70.jpg?x53432)
     
-    Soldier Child
+    The Way of All Flesh
     
-    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
-* [![Swaziland: Gold Mine of Marijuana](/wp-content/thumbnails/8486-100x70.jpg?x53432)
+    In 1951, a woman died in Baltimore, America. She was called Henrietta Lacks. These are cells from her body. They were taken from her just before she died. They have been growing and multiplying ever s](https://documentaryheaven.com/the-way-of-all-flesh/ "The Way of All Flesh")
+* [![Churchill: The Nation’s Farewell](/wp-content/thumbnails/9558-100x70.jpg?x53432)
     
-    Swaziland: Gold Mine of Marijuana
+    Churchill: The Nation’s Farewell
     
-    In this edition of Hamilton Morris' "Pharmacopeia‎" vice show, Hamilton and his team pay a visit to the landlocked Kingdom of Swaziland, which is completely surrounded by South Africa and Mozambique a](https://documentaryheaven.com/swaziland-gold-mine-marijuana/ "Swaziland: Gold Mine of Marijuana")
-* [![Who is Nelson Mandela?](/wp-content/thumbnails/8358-100x70.jpg?x53432)
+    On the night of the 29th of December 1940, German bombers struck London with a vengeance. At these darkest of hours Britain's   Prime Minister recognised the huge importance of saving one bu](https://documentaryheaven.com/churchill-nations-farewell/ "Churchill: The Nation’s Farewell")
+* [![What’s Killing Our Bees](/wp-content/thumbnails/7827-100x70.jpg?x53432)
     
-    Who is Nelson Mandela?
+    What’s Killing Our Bees
     
-    For many people, Nelson Mandela was the greatest human to be alive in their lifetime. Everyone, including the most famous celebrities, wanted to get close to him. So who was Nelson Mandela? Born in So](https://documentaryheaven.com/who-nelson-mandela/ "Who is Nelson Mandela?")
-* [![Stanley Kubrick: A Life in Pictures](/wp-content/thumbnails/6136-100x70.jpg?x53432)
+    Bill Turnbull investigates one of the biggest mysteries in the British countryside: what is killing our bees. It is a question that generates huge controversy. Changes in the weather, pesticides and e](https://documentaryheaven.com/whats-killing-our-bees/ "What’s Killing Our Bees")
+* [![Killing Gaza](/wp-content/thumbnails/16523-100x70.jpg?x53432)
     
-    Stanley Kubrick: A Life in Pictures
+    Killing Gaza
     
-    Stanley Kubrick: A Life in Pictures is a 2001 documentary about the life and work of Stanley Kubrick, famed film director, made by his long-time assistant Jan Harlan. 135 minutes long, it consists of](https://documentaryheaven.com/stanley-kubrick-a-life-in-pictures/ "Stanley Kubrick: A Life in Pictures")
+    Killing Gaza is a film created by two independent journalists Max Blumenthal and Dan Cohen, it is a detailed account of Israel’s 2014 assault on Gaza, a conflict that lasted 7 weeks (8 July – 26 Aug](https://documentaryheaven.com/killing-gaza/ "Killing Gaza")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
