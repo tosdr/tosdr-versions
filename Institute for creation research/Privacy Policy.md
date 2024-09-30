@@ -103,63 +103,67 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/taste-goodness)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/nature-of-calling)
 
-[Taste the Goodness](https://www.icr.org/article/taste-goodness/)
+[The Nature of Our Calling](https://www.icr.org/article/nature-of-calling/)
 
-“O taste and see that the LORD is good: blessed is the man that trusteth in him. O fear the LORD, ye his saints: for there is no want to them...
-
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/cain-abel)
-
-[Cain and Abel](https://www.icr.org/article/cain-abel/)
-
-“Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14022)
-
-[The Father's Love for the Son](https://www.icr.org/article/14022/)
-
-“And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.” (Matthew 3:17) In this remarkable verse,...
+“Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/water-blood)
+
+[Water and Blood](https://www.icr.org/article/water-blood/)
+
+“This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness,...
+
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/fellowship-with-father)
+
+[Fellowship with the Father](https://www.icr.org/article/fellowship-with-father/)
+
+“...and truly our fellowship is with the Father, and with his Son Jesus Christ.” (1 John 1:3) One marvelous reason for which God...
+
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
 
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
+
+$1.99
+
+$3.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+
+Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
+
+The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
 
 $14.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+$49.99
 
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37284168/file.jpg)
 
-$16.99
+5 Razones Para Creer En La Creación Reciente (Spanish)](https://store.icr.org/cinco-razones-para-creer-en-la-creacion-reciente-s.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+$7.99
 
-The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/152997/file.jpg)
 
-$12.99
+The Book of Beginnings](https://store.icr.org/dr-henry-morris-iii-the-book-of-beginnings.html)
 
-$16.99
+$22.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
-
-The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
-
-$9.99
+$49.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
