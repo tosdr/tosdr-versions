@@ -51,7 +51,7 @@ End User Terms
 
 Customer Terms
 
-Last updated: 24 June 2024
+Valid until: 1 November 2024
 
 1\. Introduction
 ----------------
@@ -438,7 +438,7 @@ If any provision of these Terms is determined to be illegal, invalid or otherwis
   
 ‍**you** and **your** means the Authorised User who is using the Storypark Service and has accepted these Terms.
 
-Last updated: 24 June 2024
+Valid until: 1 November 2024
 
 1\. Definition and Interpretation
 ---------------------------------
