@@ -184,8 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**September 29, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/september-29-2024-pbs-news-weekend-full-episode-1727626985?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Nissan Z NISMO & 2025 Mazda CX-70** | MotorWeek](https://video.nhpbs.org/video/2024-nissan-z-nismo-2025-mazda-cx-70-l9sqgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What to know about Israel's killing of Hezbollah's leader** | PBS News Hour](https://video.nhpbs.org/video/targeting-hezbollah-1727553580?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of Dracula's Hidden Kingdom** | Nature](https://video.nhpbs.org/video/about-draculas-hidden-kingdom?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Craig Morgan performs "That's What I Love About Sunday"** | Salute to Service: A Veterans Day Celebration](https://video.nhpbs.org/video/craig-morgan-performs-thats-what-i-love-about-sunday-joqaqq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Renegades: Five people with disabilities who changed history** | American Masters](https://video.nhpbs.org/video/renegades-five-people-with-disabilities-who-changed-history-zqhv3o?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
