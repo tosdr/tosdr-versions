@@ -109,7 +109,7 @@ In interacting with you, our customers, we will at times collect and process var
 
   
 
-The following data protection information will inform you about the nature and scope of the processing of your personal data by Lidl Great Britain Limited (hereafter referred to as Lidl).
+The following data protection information will inform you about the nature and scope of the processing of your personal data by Lidl Stiftung & Co. KG & Lidl Great Britain Limited (hereafter referred to as Lidl).
 
   
 
