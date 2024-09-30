@@ -240,10 +240,12 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
+#### Ready to get started?
 
   
-[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+Sign up for a free dynamic DNS account, no credit card needed  
+  
+[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
   
 
 ### News
