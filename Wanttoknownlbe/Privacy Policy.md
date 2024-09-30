@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kamp-kankerverwekkend-glyfosaat-10-jaar-weer-akkoord/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/artabana-zorgverzekering-jij-betaalt-dus-jij-bepaalt/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
