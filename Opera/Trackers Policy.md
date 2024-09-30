@@ -8,7 +8,7 @@
 Cookie Policy
 =============
 
-_Last updated: June 26, 2024_
+_Last updated: September 30, 2024_
 
 1\. Introduction
 ----------------
@@ -25,6 +25,8 @@ A cookie is a small file sent from a website and stored on your computer or mobi
 **Marketing campaign performance.** This involves measuring how successful our marketing campaigns are in attracting more new users.
 
 **Device data and preferences.** This includes the visitor’s device, IP address, settings, and preferences like language.
+
+**Data collected to provide website functionality.** This includes data necessary to fill, save and checkout your cart in order to enable you to make purchases on our online store called “GX.gear”.
 
 3\. Why we use cookies
 ----------------------
@@ -46,6 +48,10 @@ We use some cookies to promote our products and measure the effectiveness of mar
 3.3. **Statistics and analytics**
 
 We use some cookies to compile statistical reports and analytics, which we use to improve our websites and services. For example, we use Google Analytics to optimize our websites. Google Analytics uses cookies to analyze how our webpages are used, generating statistics about the total number of visitors to our websites, what pages are visited most, what webpage they are coming from, and at what time the webpages are visited the most. This is possible by establishing a unique Analytics ID for your device, the first time you visit our pages. This information can also be used for marketing campaigns.
+
+3.4. **Provision of our other services**
+
+In addition to our browser we may also offer other services, some of which may require collection of cookies. Within our online store called ‘GX.gear’, cookies necessary for the store to function are collected by the operator of the platform where the shop is hosted (Shopify Inc.). Such cookies are needed for instance in order to enable you to fill and check out your cart. [Here](https://www.shopify.com/legal/cookies) you may learn more about the necessary cookies for GX.gear store. These cookies are also essential for you to make a purchase, and we will ask you to accept them within the cookie dialog when you enter the GX.gear website. The other types of cookies, like Personalisation, Marketing, and Analytics cookies, are optional. If you choose to accept a collection of such cookies, we would use them for personalisation of your next visit, optimization of marketing activities, and to analyze and understand how you interact with our website. You can manage your preferences as to the optional cookies.
 
 4\. Who is processing the data in addition to Opera
 ---------------------------------------------------
@@ -72,6 +78,7 @@ Our websites may set cookies from the following partners:
 * [Vimeo](https://vimeo.com/privacy)
 * [Yahoo](https://legal.yahoo.com/)
 * [Youtube](https://www.google.com/policies/privacy)
+* [Shopify](https://www.shopify.com/legal/cookies)
 
 Remember, you may configure a browser to reject third-party cookies via the settings menu.
 
