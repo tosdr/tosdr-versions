@@ -1,6 +1,6 @@
 5.38.15
 
-1727685260241
+1727708496725
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727684849317
+1727708581153
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727685672644
+1727706932402
 
 You need to enable JavaScript to run this app.
 
@@ -58,9 +58,9 @@ Search product or brand
 * [boys](https://www.next.co.uk/boys "BOYS")
 * [girls](https://www.next.co.uk/girls "GIRLS")
 * [home](https://www.next.co.uk/homeware "HOME")
-* [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
 * [baby](https://www.next.co.uk/newborn "BABY")
 * [autumn](https://www.next.co.uk/shop/promotion-autumnessentials-0 "AUTUMN")
+* [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
 * [brands](https://www.next.co.uk/branded "BRANDS")
 * [furniture](https://www.next.co.uk/furniture "FURNITURE")
 * [gifts](https://www.next.co.uk/gift-ideas "GIFTS")
@@ -625,13 +625,6 @@ Offer applies while stocks last.
 14. The promoter is Next Retail Limited , Desford Road, Enderby, Leicester, LE19 4AT.
 15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
-### 3 wick candles for £20 Selected Bath and Body Works Promotion
-
-* Selected Bath and Body Works 3 wick candles for £20
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
-
 ### Free Delivery Promotional Offer
 
 1. Offer available to selected customers, criteria predefined by Next Retail Limited.
@@ -682,13 +675,6 @@ This offer is not available to staff.
 Offer applies while stocks last.  
   
 
-### Save up to £45 on Selected Babyliss Promotion
-
-* Up to £45 off on selected Babyliss products.
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
-
 ### Prada Promotion
 
 The Prada Gift will be automatically added to bag when you buy one selected Prada product. The Prada Gift contains: Prada Paradoxe Virtual Flower Eau de Parfum 7ml
@@ -711,21 +697,6 @@ The Iconic London Gift will be automatically added to bag when you buy two selec
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
   
 The Iconic London Gift will be automatically added once 2 qualifying Iconic London products have been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
-
-### Bath & Body Works Promotion
-
-The Bath & Body Works Gift will be automatically added to bag when you buy two selected Bath & Body Works products. The Bath & Body Works Gift contains: Bath & Body Works Gingham Shower Gel Free Gift
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Bath & Body Works Gift will be automatically added once 2 qualifying Bath & Body Works products have been added to the bag on either the Product or Shopping Bag Pages.  
   
 The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
   
@@ -2552,7 +2523,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727684334147
+1727707220276
 
 ### Our Social Networks
 
