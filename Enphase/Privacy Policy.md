@@ -2,10 +2,6 @@
 
 [Next](#) ![Dismiss](/themes/custom/smalcode/dist/images/dismiss.svg)
 
-[](javascript:void(0);)
-
-[Cancel](javascript:void(0);)
-
  [![Enphase logo default](/themes/custom/smalcode/dist/images/logo-white.svg) ![Enphase logo white](/themes/custom/smalcode/dist/images/logo-white.svg)](https://enphase.com/)
 
 [](javascript:void(0);)[](javascript:void(0);)
@@ -15,10 +11,75 @@
 [](https://enphase.com/)
 
 * [Homeowners](https://enphase.com/homeowners)
+    
+    Explore
+    
+    [Enphase for home](https://enphase.com/homeowners) [Enphase App](https://enphase.com/homeowners/enphase-app) [Microinverters](https://enphase.com/homeowners/home-solar-systems) [Batteries](https://enphase.com/homeowners/home-solar-batteries) [EV chargers](https://enphase.com/ev-chargers/home)
+    
+    Get Enphase
+    
+    [Get home solar](https://start.enphase.com/form-enph/?referrerPath=/&referrerQuery=&lsid=692) [Find an installer](https://enphase.com/installer-locator) [Find an EV charger](https://enphase.com/ev-chargers/find-an-ev-charger) [Design my system](https://estimator.enphase.com/) [Upgrade my system](https://enphase.com/homeowners/home-solar-upgrade-program)
+    
+    Resources
+    
+    [Support](https://enphase.com/support/homeowners) [Community](https://support.enphase.com/s/community-home) [Learn](https://enphase.com/homeowners/learn)
+    
 * [Business owners](https://enphase.com/business-owners)
+    
+    Explore
+    
+    [Enphase for business](https://enphase.com/business-owners) [EV chargers](https://enphase.com/ev-chargers/business)
+    
+    Get Enphase
+    
+    [Find an installer](https://enphase.com/installer-locator) [Commercial EV chargers](https://energy.enphase.com/evse)
+    
+    RESOURCES
+    
+    [Support](https://enphase.com/support) [Community](https://support.enphase.com/s/community-home) [Case studies](https://enphase.com/business-owners/case-studies)
+    
 * [Installers](https://enphase.com/installers)
+    
+    EXPLORE
+    
+    [Microinverters](https://enphase.com/installers/microinverters) [Batteries](https://enphase.com/installers/storage) [Communication](https://enphase.com/installers/communication) [EV chargers](https://enphase.com/ev-chargers) [Commercial](https://enphase.com/installers/commercial) [Accessories](https://enphase.com/installers/accessories) [Apps](https://enphase.com/installers/apps)
+    
+    SERVICES
+    
+    [Solargraf](https://enphase.com/installers/platform) [Labor protection](https://enphase.com/installers/services/lpp) [SGIP applications](https://enphase.com/installers/services/sgip) [Leads program](https://start.enphase.com/leads-program-signup/) [Enphase Installer Network](https://enphase.com/installers/resources/ein)
+    
+    RESOURCES
+    
+    [Support](https://enphase.com/support/installers) [Community](https://support.enphase.com/s/community) [Newsletters](https://enphase.com/installers/news) [System builder](https://enphase.com/installers/systems) [Module compatbility](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup) [How to buy](https://enphase.com/installers/resources/buy)
+    
 * [Store](https://enphase.com/store)
+    
+    EXPLORE
+    
+    [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [AC Modules](https://enphase.com/store/modules-ac) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
+    
+    ACCOUNT
+    
+    [My account](https://store.enphase.com/storefront/en-us/customer/account/) [Orders](https://store.enphase.com/storefront/en-us/sales/order/history/) [Returns and exchanges](https://enphase.com/store/how-return) [Terms of sale](https://enphase.com/store/terms-of-sales) [Terms of shipping](https://enphase.com/store/terms-shipping)
+    
+    RESOURCES
+    
+    [Module compatbility](https://enphase.com/installers/microinverters/calculator) [Find an EV charger](https://enphase.com/installers/ev-chargers)
+    
 * [Support](https://enphase.com/support)
+    
+    EXPLORE
+    
+    [Homeowners](https://enphase.com/support/homeowners) [Installers](https://enphase.com/support/installers) [Sunpower](https://enphase.com/support/sunpower)
+    
+    RESOURCES
+    
+    [Critical updates for homeowners](https://enphase.com/homeowners/updates) [Critical updates for installers](https://enphase.com/installers/updates) [Documentation](https://enphase.com/installers/resources/documentation) [Training](https://enphase.com/installers/training/events) [Community](https://support.enphase.com/s/community-home) [Warranty](https://enphase.com/installers/resources/warranty)
+    
+    CONTACT
+    
+    [Live chat](https://support.enphase.com/s/contact-us) [Talk to us](https://enphase.com/contact) [Email us](https://support.enphase.com/s/contact-us)
+    
 * Get started
     
     For homeowners
@@ -27,13 +88,15 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
 * [ClipperCreek Landing Page](https://enphase.com/ev-chargers/clippercreek)
 
-[](#)
+[](javascript:void(0);)
+
+[Cancel](javascript:void(0);)
 
 Enphase legal notices and policies
 ----------------------------------
@@ -657,7 +720,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage/gen2)
+    * [Storage](https://enphase.com/installers/storage)
     
 * Support
     
