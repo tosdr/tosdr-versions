@@ -39,11 +39,11 @@ Search
 Gen Mobile Consumer Protection Policies
 =======================================
 
- 
+  
 
 **GEN MOBILE CONSUMER POLICIES & PRIVACY NOTICE**
 
-Version July 2024
+Version October 2024
 
 This Consumer Policies & Privacy Notice provide information about consumer protection, which includes Gen Mobile’s Privacy Notice, California Specific Privacy Policies, California Prepaid Mobile Telephony Service Surcharge, if applicable, and Customer Proprietary Network Information (“CPNI”) Policy (collectively, the “Notice”).
 
@@ -86,7 +86,7 @@ We collect the categories of personal information (as defined in the California 
 
 As further described in this Notice, we generally collect and use the above-listed categories of personal information to provide and manage the Services and achieve legitimate business or commercial purposes.
 
-As noted in the table above, we “sell” or “share” (as these terms are defined in the CCPA) certain categories of personal information, and you may exercise your right to opt out of such disclosures by following the instructions provided in the footer link at https://www.genmobile.com/pages/your-privacy-choice.
+As noted in the table above, we “sell” or “share” (as these terms are defined in the CCPA) certain categories of personal information, and you may exercise your right to opt out of such disclosures by following the instructions provided in the footer link at [](https://www.dish.com/yourprivacychoices/)https://www.genmobile.com/pages/your-privacy-choice.
 
 We retain each category of personal information that we collect for as long as necessary to fulfill the purposes described in this Notice, including to satisfy legal or reporting requirements.
 
@@ -188,9 +188,9 @@ Gen Mobile follows the CCWS established by the Cellular Telecommunications & Int
 
 **STATE PRIVACY RIGHTS**
 
-**California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia**
+**California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia**
 
-California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure, correction, deletion, and sale or sharing of personal information.
+California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure, correction, deletion, and sale or sharing of personal information.
 
 **Categories of personal information collected:**
 
@@ -220,10 +220,13 @@ We sell or share the following categories of personal information: identifiers, 
 
 We collect the personal information identified in the chart above from the following categories of sources:
 
-* From you and your transactions with us, such as when you request a product or service, or give us your contact information
-* From our affiliates
-* From others, including consumer reporting agencies and third parties that provide us with demographic and other information
-* From publicly available sources
+●      From you and your transactions with us, such as when you request a product or service, or give us your contact information
+
+●      From our affiliates
+
+●      From others, including consumer reporting agencies and third parties that provide us with demographic and other information
+
+●      From publicly available sources
 
 **Personal information we disclose for a business purpose:**
 
@@ -231,13 +234,17 @@ There are a number of circumstances where we disclose personal information to co
 
 **Your Data Rights:**
 
-Residents of California, Colorado, Connecticut, Oregon, Texas, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
+Residents of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
 
-* Request that we disclose what categories and specific pieces of personal information we collected about you in the preceding 12 months, the business purposes for such collection, the categories of sources from which we collected the information, the categories of personal information we sold or disclosed for a business purpose, and the categories of recipients of such information
-* Request deletion of any personal information about you that we have collected from you subject to certain legal exceptions
-* Correct inaccuracies of any personal information about you we have collected from you
-* Opt-out of the sale or sharing of your personal information, or of targeted advertising
-* Appeal the denial of any of your access requests
+●      Request that we disclose what categories and specific pieces of personal information we collected about you in the preceding 12 months, the business purposes for such collection, the categories of sources from which we collected the information, the categories of personal information we sold or disclosed for a business purpose, and the categories of recipients of such information
+
+●      Request deletion of any personal information about you that we have collected from you subject to certain legal exceptions
+
+●      Correct inaccuracies of any personal information about you we have collected from you
+
+●      Opt-out of the sale or sharing of your personal information, or of targeted advertising
+
+●      Appeal the denial of any of your access requests
 
 Residents of Oregon may request a list of specific third parties with which we have shared any personal data.
 
@@ -285,22 +292,31 @@ Effective January 1, 2019, telephone corporations providing prepaid wireless tel
 
 The surcharges and user fee are adjusted periodically and applicable to the sale price of intrastate prepaid wireless services as follows:
 
-* Universal Lifeline Telephone Service (ULTS) – Resolution T-17519
-* Deaf and Disabled Telecommunications Program (DDTP) – Resolution T-17458
-* California High Cost Fund-A (CHCF-A) – Resolution T-17453
-* California High Cost Fund-B (CHCF-B) – Resolution T-17417
-* California Teleconnect Fund (CTF) – Resolution T-17606
-* California Advanced Services Fund (CASF) – Resolution T-17593
-* California Public Utilities Commission User Fee – Resolution M-4832
-* California 911 Emergency Telephone Users Surcharge – Revenue and Taxation Code section 41001
-* Local Prepaid Mobile Telephony Services (LPMTS) Surcharge – Revenue and Taxation Code section 42100
+●      Universal Lifeline Telephone Service (ULTS) – Resolution T-17519
+
+●      Deaf and Disabled Telecommunications Program (DDTP) – Resolution T-17458
+
+●      California High Cost Fund-A (CHCF-A) – Resolution T-17453
+
+●      California High Cost Fund-B (CHCF-B) – Resolution T-17417
+
+●      California Teleconnect Fund (CTF) – Resolution T-17606
+
+●      California Advanced Services Fund (CASF) – Resolution T-17593
+
+●      California Public Utilities Commission User Fee – Resolution M-4832
+
+●      California 911 Emergency Telephone Users Surcharge – Revenue and Taxation Code section 41001
+
+●      Local Prepaid Mobile Telephony Services (LPMTS) Surcharge – Revenue and Taxation Code section 42100
 
 Each surcharge and user fee will be listed on your receipt and will vary based on your location because certain cities and counties may or may not implement different LPMTS surcharge rates.  
 
 To better understand your total charges since the invalidation of the Act, here are some examples where you purchase a $25 Gen Mobile Plan (Plan) and are located where the total rate of the surcharges and user fee are 10.0% (these do not include the calculation of LPMTS):
 
-* Before January 1, 2019, the surcharges and user fee collected under the $25 Plan is $25 x 10% = $2.50, for a total charge of $27.50.
-* On and after January 1, 2019, the surcharges and user fee collected under the $25 Plan is $5 (voice portion) x 62.9% (inverse of federal safe harbor percentage) x 10% = $0.31, for a total charge of $25.31.
+●      Before January 1, 2019, the surcharges and user fee collected under the $25 Plan is $25 x 10% = $2.50, for a total charge of $27.50.
+
+●      On and after January 1, 2019, the surcharges and user fee collected under the $25 Plan is $5 (voice portion) x 62.9% (inverse of federal safe harbor percentage) x 10% = $0.31, for a total charge of $25.31.
 
 For more information please go to the [CDTFA’s website](https://www.cdtfa.ca.gov/industry/prepaid-mts-surcharge.htm) or you may contact Customer Care by calling at 833-528-1380 or dialing 611 from your device on the Gen Mobile network.
 
