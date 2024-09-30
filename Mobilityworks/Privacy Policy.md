@@ -404,12 +404,6 @@ Ok Deny View preferences Save preferences [View preferences](#)
 
 Manage consent
 
-[![Upgrade Your Ride BA-1200 X 1200](https://www.mobilityworks.com/wp-content/uploads/Upgrade-Your-Ride-BA-1200-X-1200.jpg "Upgrade Your Ride BA-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
-
-[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
-
-X
-
 Disclosures
 
 **Prices**  
@@ -443,11 +437,8 @@ Disclosures
 **Buy Now – 5-Day Money Back Guarantee**  
 (16) The 5-day period begins the day the vehicle is delivered and ends at 5:00 PM Central on the fifth day. Program availability may be subject to credit prequalification and all may not qualify. Additional program limitations, terms and conditions apply.
 
-**BraunAbility Summer Savings – Toyota – Rates as Low as 5.99% APR for 72 Months**  
-(17) Promotional rates available only on new Toyota Sienna LE wheelchair accessible vehicle from BraunAbility purchased from July 1, 2024 – September 30, 2024. Promotional rates are subject to credit approval and vehicle availability. Not all buyers will qualify for financing. Promotional rates are for well-qualified borrowers only in BraunAbility’s sole discretion. Cost of vehicle, and loan terms, may vary based on actual vehicle, model and options selected. Prices and payments do not include tax, title, transportation, license & fees. Must purchase qualifying vehicle and apply for promotion by September 30, 2024. The offer applies exclusively through BraunAbility Finance and is not valid in conjunction with other promotional offers. Maximum note amount of $70,000. The special finance offer only applies to vehicles financed through BraunAbility Finance and details described above are provided for illustration purposes only; actual offer may vary based on options selected, buyer credit qualifications, and other factors in Braun’s sole discretion.  Available only at participating BraunAbility dealers in the United States only. Not all that apply will be approved. Rates subject to change.
-
-**Toyota Sienna Hybrid Model Year-End Closeout Choose Your Savings**  
-(19) Financing promotion valid through September 30, 2024. Must take delivery of vehicle by September 30, 2024. Promotion valid on 2024 Toyota Sienna Hybrid AWD XSE, XSE Plus and Platinum with Vantage Mobility Northstar Conversion. Rates As Low As: 5.99% for Up to 72 Months-FICO 740+ or 6.99% for Up to 72 Months – FICO 700+ or 7.99% for Up to 72 Months – FICO 680. Monthly payments are based on the price of the vehicle, down payment, and approved credit. Not all that apply will be approved. Approval based on a credit score of 680 or above with a maximum loan value of $70,000 and minimum loan value of $8,000. Excludes Commercial clients.
+**Rates Starting at 2.99% APR for up to 72 Months on Accessible Chrysler Pacificas and Toyota Siennas** **with New BraunAbility or Vantage Mobility Conversions**  
+(17) Financing promotion valid through October 31, 2024. Must take delivery of vehicle by October 31, 2024. Promotion valid on Chrysler Pacificas and Toyota Siennas with new BraunAbility or Vantage Mobility conversions and requires a cash or trade-in equity equal to 20% of total price. Rates starting at 2.99% for Up to 72 Months-FICO 740+ or 5.99% for Up to 72 Months – FICO 700+ or 7.99% for Up to 72 Months – FICO 680. Monthly payments are based on the price of the vehicle, down payment, and approved credit. Not all that apply will be approved. Approval based on a credit score of 680 or above with a maximum loan value of $70,000 and minimum loan value of $8,000. Excludes Commercial clients.
 
 **FSA or HSA Eligible**  
 (21) Not all medical equipment expenses at MobilityWorks are FSA or HSA eligible. MobilityWorks does not accept HSA or FSA cards as payment. Customer’s must request reimbursement from their plan administrator. Contact your plan administrator or employer for more information on how to provide the appropriate documentation for reimbursement and what medical care expenses are covered.
@@ -461,53 +452,50 @@ Disclosures
 **10% off Your Rental- Book Online**  
 (24) Subject to availability. Reservation must be booked online in order to receive discount. One-time use. Cannot be combined with other offers. Offer expires 12/31/2024. Promotional Code: ONLINE10
 
-**BraunAbility Model Year-End Closeout – Toyota – $3,000 Off BraunAbility Cash Rebate**  
-(25)When qualified buyers opt not to pursue potential promotional financing rates during the promotional period in connection with their purchase of a new 2024 Toyota Sienna LE Hybrid with Power XT Conversion, BraunAbility will provide such buyers’ dealers $3000 in dealer cash, which dealers may pass along to buyers in the form of a discount, rebate, or credit in the dealers’ discretion. Ask your dealer for details. Terms of promotion subject to change in BraunAbility’s discretion, and other terms and conditions may apply.
-
 **Prepaid Maintenance**  
 (26) Cannot be combined with other offers. Taxes and shop fees additional. Vehicles requiring synthetic oil will have an additional $20 charge added to the promotional price.
 
 **Rental- Newer model vehicles with both side and rear-entry ramps available**  
 (27) At select locations
 
-**Toyota Sienna Hybrid Model Year-End Closeout**  
-(28) Dealer savings can be used on 2024 Toyota Sienna Hybrid AWD XSE, XSE Plus and Platinum with Vantage Mobility Northstar Conversion. Cannot be combined with any other offer. Offer valid 9/1/2024 – 9/30/2024. Prior sales excluded.
-
 **Referral Coupon**  
 (30) Must present referral code prior to purchase. Offer valid up to 365 days from receipt of emailed coupon.
 
-**$6,000 in Dealer Savings on the 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or $7,000 in Dealer Savings on the 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion**  
-(32) Dealer savings can only be used on the 2023 or Newer Chrysler Pacifica Touring or Touring L with brand new Flex Series Conversion. Cannot be combined with any other offer. Offer valid 6/19/2024 – 9/30/2024. Prior sales excluded.
-
-**$3,000 in Dealer Savings on the 2023 Accessible Chevrolet Traverse -with Complimentary Leather Seating**  
-(33) Dealer savings can only be used on 2023 Accessible Chevrolet Traverse with brand new BraunAbility conversion. Cannot be combined with any other offer. Offer valid 5/23/2024 – 9/30/2024. Prior sales excluded.
+**$67,995 on the 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or $69.995  on the 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion  
+**(32) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, and any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or on the 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31, 2024.
 
 **The Accessible 2022 Toyota Sienna-Spacious and Fuel Efficient – BraunAbility**  
 (34) EPA-estimated 36 city/36 hwy/36 combined mpg rating for 2023 Sienna FWD models;35 city/36 hwy/35 combined mpg rating for 2023 Sienna AWD models. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle’s condition and how/where you drive. See www.fueleconomy.gov.
 
 **FLEX Lease Option on Driverge Quiet Ride- $367 per month**  
-(36) Closed-End Lease on Pre-Owned 2019 or newer Dodge Grand Caravan SXT or GTS with brand new Driverge Quiet Ride Conversion with mileage of 50,000 or more. For well qualified lessees through Banclease Acceptance Corporation. Adding options increases payment. $367 per month for 39 months. $11,793.75 down. First month’s payment, plus fees, taxes, title, NMEDA charge, any emission testing charge, and license fees extra. Security deposit waived. Lessee responsible for maintenance, insurance, payment, delinquency charges, and excess wear and tear. Mileage charge of .45/mile over 5,000 miles/year. Actual net capitalized cost $31,996.25. Net capitalized cost includes $1,295 acquisition fee. Total monthly payments $14,313 plus tax. Residual value is $29,390.50. Disposition fee of $995. No penalty for early termination. Option to purchase at lease end is $29,390.50. May not be combined with other offers. Must take delivery of vehicle by September 30, 2024.
+(36) Closed-End Lease on Pre-Owned 2019 or newer Dodge Grand Caravan SXT or GTS with brand new Driverge Quiet Ride Conversion with mileage of 50,000 or more. For well qualified lessees through Banclease Acceptance Corporation. Adding options increases payment. $367 per month for 39 months. $11,793.75 down. First month’s payment, plus fees, taxes, title, NMEDA charge, any emission testing charge, and license fees extra. Security deposit waived. Lessee responsible for maintenance, insurance, payment, delinquency charges, and excess wear and tear. Mileage charge of .45/mile over 5,000 miles/year. Actual net capitalized cost $31,996.25. Net capitalized cost includes $1,295 acquisition fee. Total monthly payments $14,313 plus tax. Residual value is $29,390.50. Disposition fee of $995. No penalty for early termination. Option to purchase at lease end is $29,390.50. May not be combined with other offers. Must take delivery of vehicle by October 31, 2024.
 
 **Driverge Warranty**  
 (37) Factory inspection, powertrain and consumer conversion warranty provided by Driverge Vehicle Innovations.
 
 **$44,995 Driverge Quiet Ride**  
-(39) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, and any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2019 or newer Pre-Owned Dodge Grand Caravan with new Driverge Quiet Ride conversion. All vehicles offered with mileage of 50,000 or more. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends September 30, 2024.
+(39) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, and any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2019 or newer Pre-Owned Dodge Grand Caravan with new Driverge Quiet Ride conversion. All vehicles offered with mileage of 50,000 or more. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31, 2024.
 
-**$49,995 – 2021 or Newer Pre-Owned Chrysler Pacifica Touring L with Brand New Driverge® Patriot Conversion**  
-(40) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2021 or newer pre-owned Chrysler Pacifica Touring L with brand new Driverge® Patriot conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends August 31, 2024. Must take delivery of vehicle by September 30, 2024.
+**$49,995 – 2021 or Newer Pre-Owned Chrysler Pacifica Touring L with Brand New Driverge® Patriot Conversion  
+**(40) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2021 or newer pre-owned Chrysler Pacifica Touring L with brand new Driverge® Patriot conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31, 2024. Must take delivery of vehicle by October 31, 2024.
 
 **$485 Per Month – 2021 or Newer Pre-Owned Chrysler Pacifica Touring L with Brand New Driverge® Patriot Conversion**  
-(42) Financing promotion require 20% cash down and 120 payments of $485 a month. 7.99% APR (Annual Percentage Rate) for 120 months. Monthly payments are based on sale price of $49.995, down payment and approved credit. Not all buyers will qualify for offer. Approval is based on a credit score of 760 or higher. Must take delivery by September 30, 2024
+(42) Financing promotion require 20% cash down and 120 payments of $485 a month. 7.99% APR (Annual Percentage Rate) for 120 months. Monthly payments are based on sale price of $49.995, down payment and approved credit. Not all buyers will qualify for offer. Approval is based on a credit score of 760 or higher. Must take delivery by October 31, 2024
 
 **2024 Chrysler Pacifica Touring with Brand New Driverge Patriot Conversion for $59,995 and 2024 Chrysler Pacifica Touring L with Brand New Driverge Patriot Conversion for $64,995**  
-(43) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2024 Chrysler Pacifica Touring and Touring L with Brand New Driverge Patriot Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends August 31, 2024. Must take delivery of vehicle by August 31, 2024.
+(43) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2024 Chrysler Pacifica Touring and Touring L with Brand New Driverge Patriot Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31,2024. Must take delivery of vehicle by October 31, 2024.
 
 **$6,700 in Dealer Savings on the 2024 Chrysler Pacifica Touring with Brand New Driverge Patriot Conversion or $5,360 in Dealer Savings on the 2024 Chrysler Pacifica Touring L with Brand New Driverge Patriot Conversion**  
-(44) Dealer savings can only be used on the 2024 Chrysler Pacifica Touring or Touring L with Brand New Driverge Patriot Conversion. Cannot be combined with any other offer. Offer valid 8/1/2024 – 9/30/2024. Prior sales excluded.
+(44) Dealer savings can only be used on the 2024 Chrysler Pacifica Touring or Touring L with Brand New Driverge Patriot Conversion. Cannot be combined with any other offer. Offer valid 8/1/2024 – 10/31/2024. Prior sales excluded.
 
 **Upgrade Your Ride Trade-In Event**  
-(45) To qualify for the bonus the wheelchair accessible vehicle must be appraised for a value of $10,000 or more. Use the $2,000 accessible trade-in bonus on the purchase of any wheelchair accessible vehicle (including pre-owned and promotionally priced) as dealer savings or receive a check from MobilityWorks for the agreed upon price for your wheelchair accessible vehicle plus bonus following an appraisal. Prior trade-in excluded. Bonus must be redeemed by September 30, 2024. Cannot be combined with any other offers. Final appraisal must take place at a MobilityWorks location.
+(45) To qualify for the bonus the wheelchair accessible vehicle must be appraised for a value of $10,000 or more. Use the $2,000 accessible trade-in bonus on the purchase of any wheelchair accessible vehicle (including pre-owned and promotionally priced) as dealer savings or receive a check from MobilityWorks for the agreed upon price for your wheelchair accessible vehicle plus bonus following an appraisal. Prior trade-in excluded. Bonus must be redeemed by October 31, 2024. Cannot be combined with any other offers. Final appraisal must take place at a MobilityWorks location.
+
+X
+
+[![Upgrade Your Ride BA-1200 X 1200](https://www.mobilityworks.com/wp-content/uploads/Upgrade-Your-Ride-BA-1200-X-1200.jpg "Upgrade Your Ride BA-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
+
+[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
 
 X
 
