@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![arthportela](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248378.thumb.jpeg.268bb7643bbf15e614e4bf3159b0a7ba.jpeg)](https://www.clubedohardware.com.br/profile/1248378-arthportela/ "Ir ao perfil de arthportela")
+    * [![katsuroko](https://www.clubedohardware.com.br/uploads/members/monthly_2017_06/f3e4b3aa5dadd8ac7e1f098abb22dbeb8385917f_full.jpg.3d6fc502480a623be51c246338512c2e.jpg)](https://www.clubedohardware.com.br/profile/771503-katsuroko/ "Ir ao perfil de katsuroko")
         
         0
         
-        [BIOS Placa Mãe RS9 chip h87.](https://www.clubedohardware.com.br/forums/topic/1698586-bios-placa-m%C3%A3e-rs9-chip-h87/?do=getNewComment "BIOS Placa  Mãe RS9 chip h87.")
+        [Indicação de placa-mãe para Core I5 12400F com RTX 3070](https://www.clubedohardware.com.br/forums/topic/1698601-indica%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-core-i5-12400f-com-rtx-3070/?do=getNewComment "Indicação de placa-mãe para Core I5 12400F com RTX 3070")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [arthportela](https://www.clubedohardware.com.br/profile/1248378-arthportela/ "Ir ao perfil de arthportela")  
-        32 minutos atrás
+        Por [katsuroko](https://www.clubedohardware.com.br/profile/771503-katsuroko/ "Ir ao perfil de katsuroko")  
+        23 minutos atrás
         
-    * [![Kaynan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253831.thumb.png.74d36135926a6fff18d2086eeb2ae5d3.png)](https://www.clubedohardware.com.br/profile/1253831-kaynan/ "Ir ao perfil de Kaynan")
-        
-        0
-        
-        [Como resfriar a VRM?](https://www.clubedohardware.com.br/forums/topic/1698585-como-resfriar-a-vrm/?do=getNewComment "Como resfriar a VRM?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Kaynan](https://www.clubedohardware.com.br/profile/1253831-kaynan/ "Ir ao perfil de Kaynan")  
-        46 minutos atrás
-        
-    * [![Kaynan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253831.thumb.png.74d36135926a6fff18d2086eeb2ae5d3.png)](https://www.clubedohardware.com.br/profile/1253831-kaynan/ "Ir ao perfil de Kaynan")
-        
-        0
-        
-        [Falta de Som no Race Driver Grid](https://www.clubedohardware.com.br/forums/topic/1698584-falta-de-som-no-race-driver-grid/?do=getNewComment "Falta de Som no Race Driver Grid")
-        
-        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
-        Por [Kaynan](https://www.clubedohardware.com.br/profile/1253831-kaynan/ "Ir ao perfil de Kaynan")  
-        51 minutos atrás
-        
-    * [![Dalilein](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253810.thumb.jpeg.22a822980cadbbe170c7a458ae97c3f5.jpeg)](https://www.clubedohardware.com.br/profile/1253810-dalilein/ "Ir ao perfil de Dalilein")
-        
-        0
-        
-        [Compatibilidade do SSD com o notebook](https://www.clubedohardware.com.br/forums/topic/1698583-compatibilidade-do-ssd-com-o-notebook/?do=getNewComment "Compatibilidade do SSD com o notebook")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Dalilein](https://www.clubedohardware.com.br/profile/1253810-dalilein/ "Ir ao perfil de Dalilein")  
-        2 horas atrás
-        
-    * [![sejumilde](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250065.thumb.jpeg.5a27b495b5a04e0478d9c8936be676e1.jpeg)](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")
-        
-        0
-        
-        [2 SSDs NVMe reduzem o desempenho da placa de vídeo?](https://www.clubedohardware.com.br/forums/topic/1698582-2-ssds-nvme-reduzem-o-desempenho-da-placa-de-v%C3%ADdeo/?do=getNewComment "2 SSDs NVMe reduzem o desempenho da placa de vídeo?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [sejumilde](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")  
-        3 horas atrás
-        
-    * [![ROGÉRIOFFTS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253826.thumb.jpeg.10ebe4ec13e4dbb820bb9ebb9997a8ce.jpeg)](https://www.clubedohardware.com.br/profile/1253826-rog%C3%A9rioffts/ "Ir ao perfil de ROGÉRIOFFTS")
-        
-        0
-        
-        [hd pode congelar o pc?](https://www.clubedohardware.com.br/forums/topic/1698581-hd-pode-congelar-o-pc/?do=getNewComment "hd pode congelar o pc?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [ROGÉRIOFFTS](https://www.clubedohardware.com.br/profile/1253826-rog%C3%A9rioffts/ "Ir ao perfil de ROGÉRIOFFTS")  
-        3 horas atrás
-        
-    * [![Lulu95](https://www.clubedohardware.com.br/uploads/members/monthly_2022_05/imported-photo-1193869.thumb.png.bb447b98d8cc247fd68272b148d6af03.png)](https://www.clubedohardware.com.br/profile/1193869-lulu95/ "Ir ao perfil de Lulu95")
-        
-        0
-        
-        [Fonte cooler master G450M aguenta meu pc? R52600 rx480 8gb.](https://www.clubedohardware.com.br/forums/topic/1698580-fonte-cooler-master-g450m-aguenta-meu-pc-r52600-rx480-8gb/?do=getNewComment "Fonte  cooler master G450M aguenta meu pc? R52600 rx480 8gb.")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Lulu95](https://www.clubedohardware.com.br/profile/1193869-lulu95/ "Ir ao perfil de Lulu95")  
-        4 horas atrás
-        
-    * [![Marvins01](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626cc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1130537-marvins01/ "Ir ao perfil de Marvins01")
-        
-        0
-        
-        [Notebook Avell com incompatibilidade ao usar Windows ?](https://www.clubedohardware.com.br/forums/topic/1698579-notebook-avell-com-incompatibilidade-ao-usar-windows/?do=getNewComment "Notebook Avell com incompatibilidade ao usar Windows ?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Marvins01](https://www.clubedohardware.com.br/profile/1130537-marvins01/ "Ir ao perfil de Marvins01")  
-        4 horas atrás
-        
-    * [![Leobaldo72](https://www.clubedohardware.com.br/uploads/members/monthly_2019_06/IMG_20190508_225357_013.thumb.jpg.c827834836d3461add69607e73e066ac.jpg)](https://www.clubedohardware.com.br/profile/663327-leobaldo72/ "Ir ao perfil de Leobaldo72")
-        
-        1
-        
-        [Disjuntor desarmou após instalação do chuveiro](https://www.clubedohardware.com.br/forums/topic/1698578-disjuntor-desarmou-ap%C3%B3s-instala%C3%A7%C3%A3o-do-chuveiro/?do=getNewComment "Disjuntor desarmou após instalação do chuveiro")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Leobaldo72](https://www.clubedohardware.com.br/profile/663327-leobaldo72/ "Ir ao perfil de Leobaldo72")  
-        4 horas atrás
-        
-    * [![Sasagawa](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-708928.jpg)](https://www.clubedohardware.com.br/profile/708928-sasagawa/ "Ir ao perfil de Sasagawa")
+    * [![Renanxbr](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1126768.thumb.jpeg.3ccd66dd9a43fc3f30492a29481794b8.jpeg)](https://www.clubedohardware.com.br/profile/1126768-renanxbr/ "Ir ao perfil de Renanxbr")
         
         3
         
-        [Erro Gigabyte GA-G31M-ES2C disk boot failure insert system disk and press enter](https://www.clubedohardware.com.br/forums/topic/1698577-erro-gigabyte-ga-g31m-es2c-disk-boot-failure-insert-system-disk-and-press-enter/?do=getNewComment "Erro Gigabyte GA-G31M-ES2C disk boot failure insert system disk and press enter")
+        [Usar as saídas de vídeo da placa de vídeo e da placa-mãe ao mesmo tempo](https://www.clubedohardware.com.br/forums/topic/1698599-usar-as-sa%C3%ADdas-de-v%C3%ADdeo-da-placa-de-v%C3%ADdeo-e-da-placa-m%C3%A3e-ao-mesmo-tempo/?do=getNewComment "Usar as saídas de vídeo da placa de vídeo e da placa-mãe ao mesmo tempo")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Sasagawa](https://www.clubedohardware.com.br/profile/708928-sasagawa/ "Ir ao perfil de Sasagawa")  
-        5 horas atrás
+        Por [Renanxbr](https://www.clubedohardware.com.br/profile/1126768-renanxbr/ "Ir ao perfil de Renanxbr")  
+        32 minutos atrás
+        
+    * [![Detetive Virtual de SSDs](https://www.clubedohardware.com.br/uploads/members/monthly_2023_08/Logo.thumb.jpg.f00758b570f4b57f5ab086c0a523fcf2.jpg)](https://www.clubedohardware.com.br/profile/778464-detetive-virtual-de-ssds/ "Ir ao perfil de Detetive Virtual de SSDs")
+        
+        0
+        
+        [Recomendação de Câmera Térmica](https://www.clubedohardware.com.br/forums/topic/1698598-recomenda%C3%A7%C3%A3o-de-c%C3%A2mera-t%C3%A9rmica/?do=getNewComment "Recomendação de Câmera Térmica")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Detetive Virtual de SSDs](https://www.clubedohardware.com.br/profile/778464-detetive-virtual-de-ssds/ "Ir ao perfil de Detetive Virtual de SSDs")  
+        41 minutos atrás
+        
+    * [![geovane 123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1045751.thumb.jpeg.737eced109fa6ce9f0cf8391b92f7369.jpeg)](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")
+        
+        3
+        
+        [Notebook trocar memória RAM](https://www.clubedohardware.com.br/forums/topic/1698597-notebook-trocar-mem%C3%B3ria-ram/?do=getNewComment "Notebook trocar memória RAM")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [geovane 123](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")  
+        43 minutos atrás
+        
+    * [![nicksxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/imported-photo-1238537.thumb.gif.570748907816baa4c18f75d45067cb10.gif)](https://www.clubedohardware.com.br/profile/1238537-nicksxd/ "Ir ao perfil de nicksxd")
+        
+        0
+        
+        [Indicação de placa de vídeo para CS2, Valorant e Lives](https://www.clubedohardware.com.br/forums/topic/1698596-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-cs2-valorant-e-lives/?do=getNewComment "Indicação de placa de vídeo para CS2, Valorant e Lives")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [nicksxd](https://www.clubedohardware.com.br/profile/1238537-nicksxd/ "Ir ao perfil de nicksxd")  
+        45 minutos atrás
+        
+    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
+        
+        3
+        
+        [Fonte de 550W suporta Core I5 12400F e GeFore RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1698595-fonte-de-550w-suporta-core-i5-12400f-e-gefore-rtx-4060/?do=getNewComment "Fonte de 550W suporta Core I5 12400F e GeFore RTX 4060?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
+        51 minutos atrás
+        
+    * [![silva14](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253840.thumb.jpeg.a06cb154b75c65a4f2b548e4a6ea8391.jpeg)](https://www.clubedohardware.com.br/profile/1253840-silva14/ "Ir ao perfil de silva14")
+        
+        0
+        
+        [Upgrade em computador DDR2 com Pentium E5200 para GTA V](https://www.clubedohardware.com.br/forums/topic/1698594-upgrade-em-computador-ddr2-com-pentium-e5200-para-gta-v/?do=getNewComment "Upgrade em computador DDR2  com Pentium E5200 para GTA V")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [silva14](https://www.clubedohardware.com.br/profile/1253840-silva14/ "Ir ao perfil de silva14")  
+        52 minutos atrás
+        
+    * [![lucao04591](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1139642.thumb.jpeg.bd05e619f6be1344d571a82caa1a1b46.jpeg)](https://www.clubedohardware.com.br/profile/1139642-lucao04591/ "Ir ao perfil de lucao04591")
+        
+        0
+        
+        [Recomeçar na Tecnologia - Estudos](https://www.clubedohardware.com.br/forums/topic/1698592-recome%C3%A7ar-na-tecnologia-estudos/?do=getNewComment "Recomeçar na Tecnologia - Estudos")
+        
+        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
+        Por [lucao04591](https://www.clubedohardware.com.br/profile/1139642-lucao04591/ "Ir ao perfil de lucao04591")  
+        1 hora atrás
+        
+    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
+        
+        1
+        
+        [Qual desses SSD Sata comprar](https://www.clubedohardware.com.br/forums/topic/1698591-qual-desses-ssd-sata-comprar/?do=getNewComment "Qual desses SSD Sata comprar")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
+        1 hora atrás
+        
+    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
+        
+        2
+        
+        [Recomendação de Gabinete com espaço Grande](https://www.clubedohardware.com.br/forums/topic/1698590-recomenda%C3%A7%C3%A3o-de-gabinete-com-espa%C3%A7o-grande/?do=getNewComment "Recomendação de Gabinete com espaço Grande")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
+        2 horas atrás
         
     
 
