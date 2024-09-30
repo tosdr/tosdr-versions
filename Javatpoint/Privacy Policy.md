@@ -8,7 +8,7 @@
 
 [Python](https://www.javatpoint.com/python-tutorial) [Django](https://www.javatpoint.com/django-tutorial) [Numpy](https://www.javatpoint.com/numpy-tutorial) [Pandas](https://www.javatpoint.com/python-pandas) [Tkinter](https://www.javatpoint.com/python-tkinter) [Pytorch](https://www.javatpoint.com/pytorch) [Flask](https://www.javatpoint.com/flask-tutorial) [OpenCV](https://www.javatpoint.com/opencv)
 
-### AI,ML and Data Science
+### AI, ML and Data Science
 
 [Artificial Intelligence](https://www.javatpoint.com/artificial-intelligence-ai) [Machine Learning](https://www.javatpoint.com/machine-learning) [Data Science](https://www.javatpoint.com/data-science) [Deep Learning](https://www.javatpoint.com/deep-learning) [TensorFlow](https://www.javatpoint.com/tensorflow) [Artificial Neural Network](https://www.javatpoint.com/artificial-neural-network) [Matplotlib](https://www.javatpoint.com/matplotlib) [Python Scipy](https://www.javatpoint.com/python-scipy)
 
@@ -86,11 +86,6 @@ Privacy
 -------
 
 * [Privacy Policy](https://www.javatpoint.com/privacy-policy)
-
-Ezoic Services
-==============
-
-This website uses the services of Ezoic Inc. (“Ezoic”). Ezoic’s privacy policy is [here](https://www.ezoic.com/privacy-policy/). Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoic’s advertising partners, please see Ezoic’s Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
 
 Privacy Policy
 ==============
