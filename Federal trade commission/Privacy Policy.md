@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Statement on Memorandum of Understanding Related to Antitrust Review of Labor Issues in Merger Investigations](https://www.ftc.gov/news-events/news/press-releases/2024/09/statement-memorandum-understanding-related-antitrust-review-labor-issues-merger-investigations)
+    ### [FTC Order Bans Hess CEO from Chevron Board in Chevron-Hess Deal](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-order-bans-hess-ceo-chevron-board-chevron-hess-deal)
     
-    September 27, 2024
+    September 30, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
