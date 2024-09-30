@@ -92,6 +92,7 @@ Primary Navigation
         * [Mitigation assistance](https://www.sba.gov/funding-programs/disaster-assistance/mitigation-assistance)
         * [Economic Injury Disaster Loans](https://www.sba.gov/funding-programs/disaster-assistance/economic-injury-disaster-loans)
         * [Military reservist loan](https://www.sba.gov/funding-programs/disaster-assistance/military-reservist-loan)
+        * [Hurricane Helene](https://www.sba.gov/funding-programs/disaster-assistance/hurricane-helene)
         * [Hawaii wildfires](https://www.sba.gov/hawaii-wildfires)
     * [Surety bonds](https://www.sba.gov/funding-programs/surety-bonds)
         * [Surety bond agency directory](https://www.sba.gov/funding-programs/surety-bonds/surety-bond-agency-directory)
