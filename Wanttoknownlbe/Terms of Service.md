@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/valse-goeroes-en-dito-profeten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/vergiftigingspoging-president-trump/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
