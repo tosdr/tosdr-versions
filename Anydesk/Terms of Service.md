@@ -8,7 +8,7 @@
 
  [![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo") ![](/_static/img/logos/anydesk-logo-c0861c.png "AnyDesk logo")](https://anydesk.com/en)
 
-* [Why AnyDesk![](/_static/icons/white/bold/arrow-down-1-040bdd.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
+* [Why AnyDesk![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Benefits
     
