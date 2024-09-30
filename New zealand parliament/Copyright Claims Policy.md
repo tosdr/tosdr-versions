@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_07416_2016/7416-2016-eugenie-sage-to-the-minister-for-primary-industries/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_07416_2016/7416-2016-eugenie-sage-to-the-minister-for-primary-industries/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
