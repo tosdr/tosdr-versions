@@ -123,7 +123,7 @@ Violation of any of the terms below will result in the termination of your Accou
 
 ##### Circleboom, Boom your social circle!
 
-* [Twitter](https://twitter.com/circleboom)
+* [](https://twitter.com/circleboom)
 * [Pinterest](https://pinterest.com/circleboom)
 * [Facebook](https://www.facebook.com/circleboomcom/)
 * [YouTube](https://www.youtube.com/@circleboom)
