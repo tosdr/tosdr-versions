@@ -19,7 +19,7 @@
         * [Update my email subscription](https://schoop.co.uk/#schoolEmailStep1)
         * [Unsubscribe](https://schoop.co.uk/#schoolUnEmail)
     
-* [Book a demo](https://www.schoop.co.uk/find-out-more/)
+* [Book a Demo](https://calendly.com/schoop-book-a-demo/30min)
 * [Customers](#)
     
     * Sectors
