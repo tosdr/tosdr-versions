@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
+    
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718109-GettyImages-1066101390-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
+* [US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730839-09192024-DSC09513-Now-hiring-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
+* [Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701465-Unknown-7-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
+* [Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
+    
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://img.theepochtimes.com/assets/uploads/2023/10/05/id5504703-GettyImages-1683466575-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
+* [Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/uploads/2023/08/30/id5483781-GettyImages-1244781462-205x123.jpg.webp)](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
+* [Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://www.theepochtimes.com/world/shigeru-ishiba-is-formally-anointed-as-japans-new-prime-minister-5733124)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731549-GettyImages-2173881676KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/shigeru-ishiba-is-formally-anointed-as-japans-new-prime-minister-5733124)
 * [UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://www.theepochtimes.com/world/ccp-backed-united-nations-pact-for-the-future-draws-global-criticism-5731676)
     
-    NEW By [Alex Newman](https://www.theepochtimes.com/author/alex-newman)
+    7hr By [Alex Newman](https://www.theepochtimes.com/author/alex-newman)
     
     [![UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728812-CP1717910151-205x123.jpg.webp)](https://www.theepochtimes.com/world/ccp-backed-united-nations-pact-for-the-future-draws-global-criticism-5731676)
 * [What to Expect From Tuesday Night’s VP Debate](https://www.theepochtimes.com/us/what-to-expect-from-tuesday-nights-vp-debate-5733059)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![What to Expect From Tuesday Night’s VP Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Expect From Tuesday Night’s VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732143-Vance-Walz-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-expect-from-tuesday-nights-vp-debate-5733059)
+    ![What to Expect From Tuesday Night’s VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5733075-Vance-Walz-AP24269032985904-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-expect-from-tuesday-nights-vp-debate-5733059)
 * [Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://www.theepochtimes.com/us/tens-of-thousands-of-port-workers-strike-billions-in-trade-expected-to-be-impacted-5733035)
     
-    5hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733100-GettyImages-2175709221-205x123.jpg.webp)](https://www.theepochtimes.com/us/tens-of-thousands-of-port-workers-strike-billions-in-trade-expected-to-be-impacted-5733035)
+    ![Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tens-of-thousands-of-port-workers-strike-billions-in-trade-expected-to-be-impacted-5733035)
 * [Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
     
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    13hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732962-EpochImages-9168368004-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
-* [Biden to Visit North Carolina This Week to Survey Storm Damage](https://www.theepochtimes.com/us/biden-to-visit-north-carolina-this-week-to-survey-storm-damage-5732920)
-    
-    8hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Biden to Visit North Carolina This Week to Survey Storm Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden to Visit North Carolina This Week to Survey Storm Damage](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5733041-Biden-GettyImages-2175049609-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-visit-north-carolina-this-week-to-survey-storm-damage-5732920)
-* [IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://www.theepochtimes.com/us/irs-extends-tax-relief-for-drought-stricken-farmers-and-ranchers-in-41-states-5732840)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://img.theepochtimes.com/assets/uploads/2024/01/02/id5556987-GettyImages-1234580662-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-extends-tax-relief-for-drought-stricken-farmers-and-ranchers-in-41-states-5732840)
-* [Healthier McDonald’s Options Available in Europe, But Not in the US](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
-    
-    12hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Healthier McDonald’s Options Available in Europe, But Not in the US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Healthier McDonald’s Options Available in Europe, But Not in the US](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732975-shutterstock_2384976221_new_africa_mcdonald_fries_chips_fastfoodKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
-* [Federal Government Tightens Asylum Restrictions at Border](https://www.theepochtimes.com/us/federal-government-tightens-asylum-restrictions-at-border-5732855)
-    
-    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Federal Government Tightens Asylum Restrictions at Border](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Government Tightens Asylum Restrictions at Border](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5670597-GettyImages-1246095870-205x123.webp)](https://www.theepochtimes.com/us/federal-government-tightens-asylum-restrictions-at-border-5732855)
-* [Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
-    
-    13hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732946-Trump-visits-Georgia-AP24274684474994-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
-* [NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
-    
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732905-uspspasdpuaspdsaudpsaduasdpu-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
