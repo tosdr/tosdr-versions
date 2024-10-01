@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
+    
+    ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
+    
     [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
     
     ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
@@ -51,10 +55,6 @@
     [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
     
     ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-    
-    [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-    
-    ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
+    
+    ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
+    
     [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
     
     ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
@@ -132,10 +136,6 @@ View All Result
     [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
     
     ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-    
-    [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-    
-    ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -356,6 +356,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
+[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+
+### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+
+[30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
+
 [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-120x86.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
 ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
@@ -367,12 +373,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Millwall boss gives update on Femi Azeez ahead of Cardiff City clash](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
 [28th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
-
-[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 ### Featured Articles
 
