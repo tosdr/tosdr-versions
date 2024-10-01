@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Enhancing Cyber Resilience in Manufacturing Organizations
+            ##### People Know Their Data Rights, and They’re Here to Play Ball
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-manufacturing-organizations)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/people-know-their-data-rights-and-theyre-here-to-play-ball)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -401,13 +401,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Katrina Thompson](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### Katrina Thompson
 
-Sep 25, 2024
+Oct 1, 2024
 
-### [Enhancing Cyber Resilience in Manufacturing Organizations](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-manufacturing-organizations)
+### [People Know Their Data Rights, and They’re Here to Play Ball](https://cybersecurity.att.com/blogs/security-essentials/people-know-their-data-rights-and-theyre-here-to-play-ball)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
