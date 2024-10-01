@@ -555,22 +555,26 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 1, 2024
+    
+    [Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia](https://home.treasury.gov/news/press-releases/jy2623)
+    
+    October 1, 2024
+    
+    [Treasury Designates Extremist Settler Group in West Bank](https://home.treasury.gov/news/press-releases/jy2622)
+    
     September 27, 2024
     
     [Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections](https://home.treasury.gov/news/press-releases/jy2621)
-    
-    September 26, 2024
-    
-    [Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency Exchanges and Cybercrime Facilitator](https://home.treasury.gov/news/press-releases/jy2616)
-    
-    September 25, 2024
-    
-    [Treasury Sanctions Former Haitian Politician and Gang Leader for Their Connections to Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2612)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    October 1, 2024
+    
+    [Remarks by Assistant Secretary for International Finance Brent Neiman on IMF Governance](https://home.treasury.gov/news/press-releases/jy2624)
     
     September 26, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     September 26, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the 2024 U.S. Treasury Market Conference](https://home.treasury.gov/news/press-releases/jy2618)
-    
-    September 25, 2024
-    
-    [Remarks by Under Secretary for Domestic Finance Nellie Liang on Voluntary Carbon Market Integrity](https://home.treasury.gov/news/press-releases/jy2614)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
