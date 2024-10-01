@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_16x9.jpeg) ![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_360x203.jpeg)](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
+        
+        #### [Frank Fritz, 'American Pickers' star, dies at 60](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_360x203.jpg)](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
         
         #### [McManus Orthodontics Coloring Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/mcmanus-orthodontics-coloring-sweepstakes-official-rules/526-399b9035-00a4-4f6c-b0ad-cd99697739b1)
-        
-        #### [McManus Orthodontics Coloring Sweepstakes OFFICIAL RULES](https://www.wqad.com/article/news/local/contests/contest-rules/mcmanus-orthodontics-coloring-sweepstakes-official-rules/526-399b9035-00a4-4f6c-b0ad-cd99697739b1)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/f4a8141a-ed38-4862-8afa-ca77aa2366bf/20241001T131411/f4a8141a-ed38-4862-8afa-ca77aa2366bf_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f4a8141a-ed38-4862-8afa-ca77aa2366bf/20241001T131411/f4a8141a-ed38-4862-8afa-ca77aa2366bf_360x203.jpg)](https://www.wqad.com/article/news/nation-world/desperation-exhaustion-in-north-carolinas-mountains-days-after-helene/507-9829790f-8639-43da-b50e-b29ea0e400ac)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/28a41cb6-4bf3-47f7-af72-02d9447c8e56/20241001T212925/28a41cb6-4bf3-47f7-af72-02d9447c8e56_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/28a41cb6-4bf3-47f7-af72-02d9447c8e56/20241001T212925/28a41cb6-4bf3-47f7-af72-02d9447c8e56_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Desperation and exhaustion in North Carolina's mountains days after Helene's deluge](https://www.wqad.com/article/news/nation-world/desperation-exhaustion-in-north-carolinas-mountains-days-after-helene/507-9829790f-8639-43da-b50e-b29ea0e400ac)
+        #### [A swing in temperatures in the days ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3121b83d-2262-499d-ab07-972083ce3ff1/20241001T121541/3121b83d-2262-499d-ab07-972083ce3ff1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3121b83d-2262-499d-ab07-972083ce3ff1/20241001T121541/3121b83d-2262-499d-ab07-972083ce3ff1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WBIR/images/f6e6bee3-b239-4bdc-8b83-4010281eb132/20240930T023611/f6e6bee3-b239-4bdc-8b83-4010281eb132_16x9.jpg) ![](https://media.tegna-media.com/assets/WBIR/images/f6e6bee3-b239-4bdc-8b83-4010281eb132/20240930T023611/f6e6bee3-b239-4bdc-8b83-4010281eb132_360x203.jpg)](https://www.wqad.com/article/news/national/erwin-police-department-k-9-officer-dead-missing-unicoi-co-flood/51-3e0e6fb8-7ca6-4f0f-99b8-aa507bbd1650)
         
-        #### [October comes in on a windy and cooler note](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Tennessee police K-9 found dead after going missing in Hurricane Helene flooding](https://www.wqad.com/article/news/national/erwin-police-department-k-9-officer-dead-missing-unicoi-co-flood/51-3e0e6fb8-7ca6-4f0f-99b8-aa507bbd1650)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-63°
+66°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
