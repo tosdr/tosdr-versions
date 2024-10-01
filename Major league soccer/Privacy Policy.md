@@ -901,6 +901,14 @@ Attention: Privacy Administrator/Legal Department
 * [Kids](https://www.mlsstore.com/kids/ga-25+z-803070096-3471709361)
 * [Clearance](https://www.mlsstore.com/sale-items/os-23+z-9231196011-2402405417)
 
+* League Reports
+* [Competition Guidelines](https://www.mlssoccer.com/league-reports/competition-guidelines/)
+* [Postponement Policy](https://www.mlssoccer.com/league-reports/postponement-policy/)
+* [All Transfers](https://www.mlssoccer.com/league-reports/all-transfers/)
+* [Player Availability Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
+* [Disciplinary Summary](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
+* [Send-off Review Procedure](https://www.mlssoccer.com/league-reports/send-off-review-procedure/)
+
 * About MLS
     
     * [Fact & Record Book](https://www.mlssoccer.com/about/fact-and-record-book)
@@ -942,6 +950,15 @@ Attention: Privacy Administrator/Legal Department
     * [Women](https://www.mlsstore.com/women/ga-35+z-9067915505-848410017)
     * [Kids](https://www.mlsstore.com/kids/ga-25+z-803070096-3471709361)
     * [Clearance](https://www.mlsstore.com/sale-items/os-23+z-9231196011-2402405417)
+
+* League Reports
+    
+    * [Competition Guidelines](https://www.mlssoccer.com/league-reports/competition-guidelines/)
+    * [Postponement Policy](https://www.mlssoccer.com/league-reports/postponement-policy/)
+    * [All Transfers](https://www.mlssoccer.com/league-reports/all-transfers/)
+    * [Player Availability Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
+    * [Disciplinary Summary](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
+    * [Send-off Review Procedure](https://www.mlssoccer.com/league-reports/send-off-review-procedure/)
 
 Club Sites
 
