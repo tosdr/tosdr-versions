@@ -388,9 +388,9 @@
 
 * [Sign In](https://www.varsitytutors.com/login)
 
-Get Started [We're Open, Call Now Call Now **(888) 888-0446**](tel:+18888880446)
+Get Started [Call Now Call Now **(888) 888-0446**](tel:+18888880446)
 
-[We're open! Call now: (888) 888-0446](tel:+18888880446)
+[Call now: (888) 888-0446](tel:+18888880446)
 
 Get Started
 
@@ -399,7 +399,7 @@ Privacy Notice
 
 EFFECTIVE: Jan 3 2024
 
-This Privacy Notice (the “Privacy Notice”) governs the manner in which Varsity Tutors LLC, and its related and affiliated entities, unless otherwise stated or otherwise governed by such entity’s own privacy notice (“Varsity Tutors”) collects, uses, maintains, and discloses information collected from users (each, a “User”) of its [www.varsitytutors.com](https://www.varsitytutors.com/) website, applications, and technology platform, and any derivative or affiliated websites on which this Privacy Notice is posted, linked, or referenced (collectively, the “Site”). The Site is owned and operated by Varsity Tutors. Please note that this Privacy Notice covers Varsity Tutors’ practices regarding information collected from/through its Site. Please read this Privacy Notice carefully to understand how we handle your information. By using the Site, you agree to the terms of this Privacy Notice. You shouldn’t use the Site if you don’t agree with this Privacy Notice or any other agreement that governs your use of the Site.
+This Privacy Notice (the “Privacy Notice”) governs the manner in which Varsity Tutors LLC and its related and affiliated entities, unless otherwise stated or otherwise governed by such entity’s own privacy notice (“Varsity Tutors”) collects, uses, maintains, and discloses information collected from users (each, a “User”) of its [www.varsitytutors.com](https://www.varsitytutors.com/) website, applications, and technology platform, and any derivative or affiliated websites on which this Privacy Notice is posted, linked, or referenced (collectively, the “Site”). The Site is owned and operated by Varsity Tutors. Please note that this Privacy Notice covers Varsity Tutors’ practices regarding information collected from/through its Site. Please read this Privacy Notice carefully to understand how we handle your information. By using the Site, you agree to the terms of this Privacy Notice. You shouldn’t use the Site if you don’t agree with this Privacy Notice or any other agreement that governs your use of the Site.
 
 The Information Varsity Tutors Collects and Receives
 ----------------------------------------------------
