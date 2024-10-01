@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/excessive-alcohol-higher-risk-of-cancer-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/weekend-warrior-physical-activity-may-help-diseases-1440x810.jpg)
 
-Drinking Alcohol Increases the Risk of 6 Types of Cancer](https://www.everydayhealth.com/cancer/drinking-alcohol-increases-the-risk-of-six-types-of-cancer/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+‘Weekend Warrior’ Workouts Boost Health as Much as Exercise Throughout the Week](https://www.everydayhealth.com/fitness/weekend-warrior-workouts-boost-health/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/1-in-3-americans-may-be-iron-deficient-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/brett-favre-has-parkinsons-1440x810.jpg)
 
-Nearly 1 in 3 Americans May Have Undetected Iron Deficiency](https://www.everydayhealth.com/blood-disorders/one-in-three-americans-may-have-undetected-iron-deficiency/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Brett Favre’s Parkinson’s Reveal Puts Football Risks in the Spotlight](https://www.everydayhealth.com/brain-health/brett-favres-parkinsons-reveal-puts-football-risks-in-spotlight/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
