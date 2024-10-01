@@ -130,7 +130,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Read the Docs Terms of Service
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/terms-of-service.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/terms-of-service.rst)
 
 * * *
 
@@ -585,6 +585,6 @@ Questions about the Terms of Service? [Get in touch](mailto:support%40readthedoc
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
+© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
