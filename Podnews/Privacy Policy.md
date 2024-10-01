@@ -29,14 +29,14 @@ Search[](https://podnews.net/search)
 About this website
 ==================
 
-Jul 16, 2024 · First published August 23 2018 · By [![James Cridland](https://podnews.net/static/authors/james-cridland.jpg)](https://james.cridland.net/) [James Cridland](https://james.cridland.net/) · 5.2 minutes to read
+Oct 1, 2024 · First published August 23 2018 · By [![James Cridland](https://podnews.net/static/authors/james-cridland.jpg)](https://james.cridland.net/) [James Cridland](https://james.cridland.net/) · 5 minutes to read
 
 This website, our newsletter and our podcast are intended to be a quick, daily update with global news for those involved in podcasting and on-demand audio. It launched in May 2017.
 
 * [Here’s how to submit a news story to us](https://podnews.net/article/submissions-and-disclosures), and our relevant editorial disclosures.
 * [Here’s how to submit a podcast for news coverage](https://podnews.net/article/submit-a-podcast-to-us).
 
-As of October 1, 2024, we have **32,298** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**77,235** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **1,865,160** times over the past 30 days.
+As of October 1, 2024, we have **32,302** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**77,235** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **1,865,160** times over the past 30 days.
 
 Our [privacy-aware](https://podnews.net/privacy) website achieves a carbon rating of A+, and in May 2024 was cleaner than [93%](https://www.websitecarbon.com/website/podnews-net/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) of webpages globally.
 
@@ -82,7 +82,7 @@ This website is published by Podnews LLC (“us”, “we”). We are grateful t
 Our editorial policy on AI
 --------------------------
 
-We are using FastGPT by [Kagi](https://kagi.com/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) to summarise our own work, which we use in the “description” metadata for our newsletter - that’s the short description of story 2,3 and 4 which you’ll see in the HTML, possibly in links to us on social media, our podcast description, and on [our archive page](https://podnews.net/archive) for the latest edition.
+We occasionally use FastGPT by [Kagi](https://kagi.com/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) or similar tools to summarise our own work - you’ll see this most often in podcast descriptions for Podnews Extra.
 
 We don’t use AI otherwise, nor do we use AI photography tools, with the exception of when we’re writing some stories specifically about AI. We’ll credit the AI tool used if that’s the case.
 
@@ -154,4 +154,5 @@ About Podnews
 
 [News](https://podnews.net/archive) · [Jobs](https://podnews.net/jobs) · [Events](https://podnews.net/events) · [Articles](https://podnews.net/articles) · [Directory](https://podnews.net/directory) · [Press Releases](https://podnews.net/press-releases) · [Advertise](https://podnews.net/article/advertising) · [About](https://podnews.net/about) · [Privacy](https://podnews.net/privacy)  
 [Contact Podnews](https://podnews.net/contact-us) · [Status](https://stats.uptimerobot.com/E36JBCIw7g) · © 2017-2024 Podnews LLC  
-[](https://go.podnews.net/miscreant.php)
+
+[storybook-overwhelming](https://go.podnews.net/miscreant.php)
