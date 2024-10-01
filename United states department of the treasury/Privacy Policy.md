@@ -557,15 +557,15 @@ MENU MENU
     
     October 1, 2024
     
+    [U.S. Department of the Treasury Announces More Than $2 Billion in Upfront Savings for Consumers on Electric and Plug-In Hybrid Vehicle Sales Under Biden-Harris Administration’s Inflation Reduction Act](https://home.treasury.gov/news/press-releases/jy2626)
+    
+    October 1, 2024
+    
     [Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia](https://home.treasury.gov/news/press-releases/jy2623)
     
     October 1, 2024
     
     [Treasury Designates Extremist Settler Group in West Bank](https://home.treasury.gov/news/press-releases/jy2622)
-    
-    September 27, 2024
-    
-    [Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections](https://home.treasury.gov/news/press-releases/jy2621)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
@@ -574,15 +574,15 @@ MENU MENU
     
     October 1, 2024
     
+    [Remarks by Aviva Aron-Dine, Performing the Duties of Assistant Secretary for Tax Policy, on Phase Four of Implementation of the Inflation Reduction Act’s Clean Energy Provisions](https://home.treasury.gov/news/press-releases/jy2625)
+    
+    October 1, 2024
+    
     [Remarks by Assistant Secretary for International Finance Brent Neiman on IMF Governance](https://home.treasury.gov/news/press-releases/jy2624)
     
     September 26, 2024
     
     [Remarks by Acting Assistant Secretary of Financial Institutions Laurie Schaffer at the Electronic Transaction Association’s Annual Fintech Policy Forum](https://home.treasury.gov/news/press-releases/jy2620)
-    
-    September 26, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the 2024 U.S. Treasury Market Conference](https://home.treasury.gov/news/press-releases/jy2618)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
