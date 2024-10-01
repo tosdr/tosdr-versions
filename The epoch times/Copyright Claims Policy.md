@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [You Can Get a Healthier McDonald’s in the UK](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
+* [Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
     
-    NEW By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![You Can Get a Healthier McDonald’s in the UK](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![You Can Get a Healthier McDonald’s in the UK](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732948-shutterstock_2384976221_new_africa_mcdonald_fries_chips_fastfood-205x123.jpg)](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
+    ![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732962-EpochImages-9168368004-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
+* [Biden to Visit North Carolina This Week to Survey Storm Damage](https://www.theepochtimes.com/us/biden-to-visit-north-carolina-this-week-to-survey-storm-damage-5732920)
+    
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Biden to Visit North Carolina This Week to Survey Storm Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden to Visit North Carolina This Week to Survey Storm Damage](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5733041-Biden-GettyImages-2175049609-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-visit-north-carolina-this-week-to-survey-storm-damage-5732920)
+* [IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://www.theepochtimes.com/us/irs-extends-tax-relief-for-drought-stricken-farmers-and-ranchers-in-41-states-5732840)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![IRS Extends Tax Relief for Drought-Stricken Farmers and Ranchers in 41 States](https://img.theepochtimes.com/assets/uploads/2024/01/02/id5556987-GettyImages-1234580662-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-extends-tax-relief-for-drought-stricken-farmers-and-ranchers-in-41-states-5732840)
+* [Healthier McDonald’s Options Available in Europe, But Not in the US](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
+    
+    6hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![Healthier McDonald’s Options Available in Europe, But Not in the US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Healthier McDonald’s Options Available in Europe, But Not in the US](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732975-shutterstock_2384976221_new_africa_mcdonald_fries_chips_fastfoodKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/you-can-get-a-healthier-mcdonalds-in-the-uk-food-advocate-5731851)
+* [Federal Government Tightens Asylum Restrictions at Border](https://www.theepochtimes.com/us/federal-government-tightens-asylum-restrictions-at-border-5732855)
+    
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Federal Government Tightens Asylum Restrictions at Border](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Government Tightens Asylum Restrictions at Border](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5670597-GettyImages-1246095870-205x123.webp)](https://www.theepochtimes.com/us/federal-government-tightens-asylum-restrictions-at-border-5732855)
 * [Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
     
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Visits Southern Georgia With Fuel and Aid, Gets Briefed on Helene Damage](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732946-Trump-visits-Georgia-AP24274684474994-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-visits-southern-georgia-with-fuel-and-aid-gets-briefed-on-helene-damage-5732815)
 * [NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NORAD Shows Dramatic Video of Russian Fighter Jet Flying Close to Aircraft Off Alaska](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732905-uspspasdpuaspdsaudpsaduasdpu-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/norad-shows-dramatic-video-of-russian-fighter-jet-flying-close-to-aircraft-off-alaska-5732843)
 * [Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://www.theepochtimes.com/us/federal-judge-strikes-down-texas-anti-ballot-harvesting-provision-5732791)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Judge Strikes Down Texas Anti-Ballot-Harvesting Provision](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732904-voting-texas-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-strikes-down-texas-anti-ballot-harvesting-provision-5732791)
-* [US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://www.theepochtimes.com/world/us-aware-of-limited-operations-by-israeli-forces-inside-lebanon-state-department-5732774)
+* [Israeli Forces Conducting ‘Limited, Localized’ Raids on Hezbollah Inside Lebanon: IDF](https://www.theepochtimes.com/world/israeli-forces-conducting-limited-localized-raids-on-hezbollah-inside-lebanon-idf-5732774)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israeli Forces Conducting ‘Limited, Localized’ Raids on Hezbollah Inside Lebanon: IDF](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Aware of ‘Limited Operations’ by Israeli Forces Inside Lebanon: State Department](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729955-ISRAEL-PALESTINIANS-LEBANON-1-LS-205x123.webp)](https://www.theepochtimes.com/world/us-aware-of-limited-operations-by-israeli-forces-inside-lebanon-state-department-5732774)
+    ![Israeli Forces Conducting ‘Limited, Localized’ Raids on Hezbollah Inside Lebanon: IDF](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5733007-Israel-Raid-Hezbollah-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-forces-conducting-limited-localized-raids-on-hezbollah-inside-lebanon-idf-5732774)
 * [Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://www.theepochtimes.com/us/fed-chair-powell-indicates-more-rate-cuts-could-be-coming-5732809)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Fed Chair Powell Indicates More Rate Cuts Could Be Coming](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732884-Jerome-Powell-GettyImages-2172944676-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fed-chair-powell-indicates-more-rate-cuts-could-be-coming-5732809)
-* [Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://www.theepochtimes.com/us/only-2-5-percent-of-homes-changed-hands-so-far-in-2024-lowest-in-30-years-5732786)
-    
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Only 2.5 Percent of Homes Changed Hands So Far in 2024, Lowest in 30 Years](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/only-2-5-percent-of-homes-changed-hands-so-far-in-2024-lowest-in-30-years-5732786)
-* [NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://www.theepochtimes.com/sports/nba-hall-of-famer-dikembe-mutombo-dies-at-58-post-5732737)
-    
-    4hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
-    
-    [![NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NBA Hall-of-Famer Dikembe Mutombo Dies at 58](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732806-GettyImages-516160962-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/nba-hall-of-famer-dikembe-mutombo-dies-at-58-post-5732737)
-* [Thousands of Port Workers Poised to Strike at Midnight](https://www.theepochtimes.com/business/thousands-of-port-workers-poised-to-strike-at-midnight-5732760)
-    
-    5hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Thousands of Port Workers Poised to Strike at Midnight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Thousands of Port Workers Poised to Strike at Midnight](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732810-GettyImages-1319047576-LSedit-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/thousands-of-port-workers-poised-to-strike-at-midnight-5732760)
-* [Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://www.theepochtimes.com/us/shelter-in-place-advisory-extended-indefinitely-over-georgia-chemical-plant-fire-5732738)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Shelter-in-Place Advisory Extended Indefinitely Over Georgia Chemical Plant Fire](https://img.theepochtimes.com/assets/uploads/2024/09/id5732823-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/shelter-in-place-advisory-extended-indefinitely-over-georgia-chemical-plant-fire-5732738)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
