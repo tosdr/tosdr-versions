@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/BB3-326x245.jpg)](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
-
-East Side
-
-### [Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
-
-[September 28, 2024 11:25 AM](https://cwbchicago.com/2024/09)
-
-A woman was found shot to death in a South Side alley on Saturday morning after a resident called 911 because her body had been in the same place for about two days.[](https://cwbchicago.com/2024/09/woman-dead-for-at-least-a-day-found-murdered-in-alley-previously-served-by-shotspotter.html "Woman, dead for at least a day, found murdered in alley previously served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/03/Generic-new-2023-edited-326x245.jpg)](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Terriontay-Brown-326x245.jpg)](https://cwbchicago.com/2024/09/man-who-robbed-victim-near-uic-campus-already-had-2-robbery-cases-pending-prosecutors-say.html "Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say")
 
 West Loop
 
-### [In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+### [Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say](https://cwbchicago.com/2024/09/man-who-robbed-victim-near-uic-campus-already-had-2-robbery-cases-pending-prosecutors-say.html "Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say")
 
-[September 28, 2024 10:19 AM](https://cwbchicago.com/2024/09)
+[September 29, 2024 9:45 AM](https://cwbchicago.com/2024/09)
 
-Yet another woman was targeted by a necklace-snatching robber downtown on Friday evening. About a dozen similar crimes have been reported over the past three weeks.[](https://cwbchicago.com/2024/09/in-the-west-loop-another-womans-necklace-is-snatched-as-weeks-long-crime-pattern-grows.html "In the West Loop, another woman’s necklace is snatched as weeks-long crime pattern grows")
+An 18-year-old man with two robbery cases pending in juvenile court is now charged as an adult with robbing yet another victim near the UIC campus.[](https://cwbchicago.com/2024/09/man-who-robbed-victim-near-uic-campus-already-had-2-robbery-cases-pending-prosecutors-say.html "Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jaquan-Dukes-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/MALIK-WILLIAMS--326x245.jpg)](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
 
 Englewood
 
-### [Chicago man carjacked 2 women in 30 minutes, officials say](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+### [Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
 
-[September 28, 2024 9:13 AM](https://cwbchicago.com/2024/09)
+[September 29, 2024 7:41 AM](https://cwbchicago.com/2024/09)
 
-Prosecutors are accusing a Chicago man of carjacking two women at gunpoint in under an hour.[](https://cwbchicago.com/2024/09/chicago-man-carjacked-2-women-in-30-minutes-prosecutors-say.html "Chicago man carjacked 2 women in 30 minutes, officials say")
+A Cook County judge rejected a prosecution request to keep a man in jail as a public safety risk for allegedly shooting at an occupied car while Chicago police officers looked on.[](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Gabriel-Blakemore-326x245.jpg)](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
+
+Austin
+
+### [Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
+
+[September 29, 2024 7:06 AM](https://cwbchicago.com/2024/09)
+
+Two men who were dating the same woman agreed to settle their differences by meeting for a fistfight—a plan that went sideways when one of them showed up with a gun, officials say.[](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
 
 Search
 
