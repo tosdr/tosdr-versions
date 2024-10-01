@@ -455,6 +455,8 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 
  [](https://www.facebook.com/ADT "FaceBook")[](https://twitter.com/ADT "Twitter")[](https://www.pinterest.com/adtstaysafe/pins/ "Pinterest")[](https://www.instagram.com/adtsecurity/ "Instagram")[](http://www.youtube.com/adt "Youtube")
 
+[Español](https://www.adt.com/es)
+
 Accessibility
 
 © 2024 ADT. All rights reserved. The product/service names listed in this document are marks and/or registered marks of their respective owners and used under license. Unauthorized use strictly prohibited. Google Nest products and services are trademarks of Google LLC. Google Nest products and services featured are not designed specifically for life-sustaining or safety-critical use cases. These products and services are compatible with the ADT Self Setup System, and depend upon working internet, Wi-Fi, and, in some cases, the service availability from ADT and/or Google. To learn more, please visit g.co/nest/TOS.
@@ -463,7 +465,7 @@ Accessibility
 
 [Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use "Terms of Use") [Advertising Choice](https://preferences-mgr.truste.com/?pid=adt01&aid=adt01&type=adt "Advertising Choice")
 
-[Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy "Privacy Policy") [En Español](https://www.adt.com/alarmas?cid=alarmas001 "En Español") [Licenses](https://www.adt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.adt.com/sitemap "Sitemap") Bug Reporting
+[Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy "Privacy Policy") [Licenses](https://www.adt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.adt.com/sitemap "Sitemap") Bug Reporting
 
 [](https://www.bbb.org/us/fl/boca-raton/profile/burglar-alarm-systems/adt-security-services-0633-30001337#bbbseal "ADT Security Services, Burglar Alarm Systems, Boca Raton, FL")
 
