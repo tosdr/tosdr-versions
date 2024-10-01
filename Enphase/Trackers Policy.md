@@ -22,7 +22,7 @@
     
     Resources
     
-    [Support](https://enphase.com/support/homeowners) [Community](https://support.enphase.com/s/community-home) [Learn](https://enphase.com/homeowners/learn)
+    [Support](https://enphase.com/support/homeowners) [Community](https://support.enphase.com/s/community-home) [Learn](https://enphase.com/blog)
     
 * [Business owners](https://enphase.com/business-owners)
     
