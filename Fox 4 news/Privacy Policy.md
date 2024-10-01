@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![MLB hit king Pete Rose dies at 83](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/GettyImages-1007885572.jpg?ve=1&tl=1)
+ [![Shots fired at Rockwall County deputies during high-speed chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/V-ROCKWALL-CO-PURSUIT-AND-CRASH-4A_00.00.06.34.jpg?ve=1&tl=1)
 
- ![MLB hit king Pete Rose dies at 83](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/GettyImages-1007885572.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
+ ![Shots fired at Rockwall County deputies during high-speed chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/V-ROCKWALL-CO-PURSUIT-AND-CRASH-4A_00.00.06.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-rockwall-county-deputies-during-high-speed-chase)
 
-### [MLB hit king Pete Rose dies at 83](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
+### [Shots fired at Rockwall County deputies during high-speed chase](https://www.fox4news.com/news/shots-fired-rockwall-county-deputies-during-high-speed-chase)
 
- [![Coppell ISD school board votes to close Pinkerton Elementary School](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-AMELIA-COPPELL-ISD-CLOSURES-9P_00.00.08.00.jpg?ve=1&tl=1)
+ [![Temporary student loan benefits ending this week – what borrowers should know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1447412841.jpg?ve=1&tl=1)
 
- ![Coppell ISD school board votes to close Pinkerton Elementary School](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-AMELIA-COPPELL-ISD-CLOSURES-9P_00.00.08.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/coppell-isd-considers-closing-elementary-school)
+ ![Temporary student loan benefits ending this week – what borrowers should know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1447412841.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/on-ramp-period-student-loan-missed-payment-late-what-to-know)
 
-### [Coppell ISD school board votes to close Pinkerton Elementary School](https://www.fox4news.com/news/coppell-isd-considers-closing-elementary-school)
+### [Temporary student loan benefits ending this week – what borrowers should know](https://www.fox4news.com/news/on-ramp-period-student-loan-missed-payment-late-what-to-know)
 
- [![Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-DAVID-FW-2020-MURDER-PLEA-DEAL-9P_00.00.15.46.jpg?ve=1&tl=1)
+ [![Dallas street parking increases to minimum $1 hourly rate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/parking.jpg?ve=1&tl=1)
 
- ![Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-DAVID-FW-2020-MURDER-PLEA-DEAL-9P_00.00.15.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jesus-rios-murder-guilty-plea-fernando-mendoza-mayra-guerra-victims-fort-worth-case)
+ ![Dallas street parking increases to minimum $1 hourly rate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/parking.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-parking-meter-fare-increases-october-1)
 
-### [Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://www.fox4news.com/news/jesus-rios-murder-guilty-plea-fernando-mendoza-mayra-guerra-victims-fort-worth-case)
+### [Dallas street parking increases to minimum $1 hourly rate](https://www.fox4news.com/news/dallas-parking-meter-fare-increases-october-1)
 
- [![Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/glendale-murder.jpg?ve=1&tl=1)
+ [![It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/V-FW-ZOO-BABY-MANDRILL-6P_00.00.53.10.jpg?ve=1&tl=1)
 
- ![Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/glendale-murder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizona-mother-decapitated-her-son-hours-before-her-surprise-birthday-party-police-say)
+ ![It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/V-FW-ZOO-BABY-MANDRILL-6P_00.00.53.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-zoo-baby-mandrill)
 
-### [Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://www.fox4news.com/news/arizona-mother-decapitated-her-son-hours-before-her-surprise-birthday-party-police-say)
+### [It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://www.fox4news.com/news/fort-worth-zoo-baby-mandrill)
 
- [![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
+ [![Strike at ports update: 45,000 stop work along East Coast, Gulf docks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175197766.jpg?ve=1&tl=1)
 
- ![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+ ![Strike at ports update: 45,000 stop work along East Coast, Gulf docks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175197766.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-2024-latest-deal-union-ila-oct-1)
 
-### [Verizon outage update: Service 'fully restored' after network disruptions](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+### [Port strike: 45,000 stop work along East Coast, Gulf docks – how it could impact you](https://www.fox4news.com/news/port-strike-2024-latest-deal-union-ila-oct-1)
 
 ###### [News](https://www.fox4news.com/news)
 
