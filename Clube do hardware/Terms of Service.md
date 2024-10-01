@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1316246865_menu)
+ [Compartilhar](#elShareItem_601400271_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1038318345_menu)
+ [Compartilhar](#elShareItem_1370743209_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![rikawa](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/cute-ninja-cartoon-mascot-character-design-vector-48705759.thumb.jpg.a3c1b837652f4562457684e8510095ac.jpg)](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")
+    * [![1lokos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/avatar_1lks.thumb.jpg.4f67152c1510b1983b5d387ae66401ae.jpg)](https://www.clubedohardware.com.br/profile/1135974-1lokos/ "Ir ao perfil de 1lokos")
         
         0
         
-        [WiFi 5ghz capado em 230Mb/s da TV (TCL C845 75"), como melhorar?](https://www.clubedohardware.com.br/forums/topic/1698685-wifi-5ghz-capado-em-230mbs-da-tv-tcl-c845-75-como-melhorar/?do=getNewComment "WiFi 5ghz capado em 230Mb/s da TV (TCL C845 75"), como melhorar?")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [rikawa](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")  
-        15 minutos atrás
-        
-    * [![vtrx](https://www.clubedohardware.com.br/uploads/members/profile/photo-525252.jpg)](https://www.clubedohardware.com.br/profile/525252-vtrx/ "Ir ao perfil de vtrx")
-        
-        2
-        
-        [placa-mãe A320M-E Ryzen 5](https://www.clubedohardware.com.br/forums/topic/1698684-placa-m%C3%A3e-a320m-e-ryzen-5/?do=getNewComment "placa-mãe A320M-E Ryzen 5")
+        [placa-mãe Pichau B550M-K-1P x Gigabyte B550M-K](https://www.clubedohardware.com.br/forums/topic/1698712-placa-m%C3%A3e-pichau-b550m-k-1p-x-gigabyte-b550m-k/?do=getNewComment "placa-mãe Pichau B550M-K-1P x Gigabyte B550M-K")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [vtrx](https://www.clubedohardware.com.br/profile/525252-vtrx/ "Ir ao perfil de vtrx")  
-        1 hora atrás
+        Por [1lokos](https://www.clubedohardware.com.br/profile/1135974-1lokos/ "Ir ao perfil de 1lokos")  
+        5 minutos atrás
         
-    * [![Felipe Sak](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462be%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1210240-felipe-sak/ "Ir ao perfil de Felipe Sak")
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+        
+        0
+        
+        [Cabo HDMI de marca famosa e boa qualidade tem muita diferença em audio e Vídeo?](https://www.clubedohardware.com.br/forums/topic/1698711-cabo-hdmi-de-marca-famosa-e-boa-qualidade-tem-muita-diferen%C3%A7a-em-audio-e-v%C3%ADdeo/?do=getNewComment "Cabo HDMI de marca famosa e boa qualidade tem muita diferença em audio e Vídeo?")
+        
+        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        16 minutos atrás
+        
+    * [![Gabriel mateushj](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-1176187.thumb.png.cfe5ecd6ddc44db559e85e27d3838bdc.png)](https://www.clubedohardware.com.br/profile/1176187-gabriel-mateushj/ "Ir ao perfil de Gabriel mateushj")
         
         1
         
-        [Quanto está valendo a GeForce GTX 1050 2gb?](https://www.clubedohardware.com.br/forums/topic/1698683-quanto-est%C3%A1-valendo-a-geforce-gtx-1050-2gb/?do=getNewComment "Quanto está valendo a GeForce GTX 1050 2gb?")
+        [Protetor elétrico começou a sair um cheiro de queimado](https://www.clubedohardware.com.br/forums/topic/1698709-protetor-el%C3%A9trico-come%C3%A7ou-a-sair-um-cheiro-de-queimado/?do=getNewComment "Protetor elétrico começou a sair um cheiro de queimado")
         
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Felipe Sak](https://www.clubedohardware.com.br/profile/1210240-felipe-sak/ "Ir ao perfil de Felipe Sak")  
-        1 hora atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Gabriel mateushj](https://www.clubedohardware.com.br/profile/1176187-gabriel-mateushj/ "Ir ao perfil de Gabriel mateushj")  
+        31 minutos atrás
         
-    * [![Wandtcg](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253578.thumb.jpeg.0681db553d243311c55b276d3c953daf.jpeg)](https://www.clubedohardware.com.br/profile/1253578-wandtcg/ "Ir ao perfil de Wandtcg")
+    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
         
-        8
+        0
         
-        [PC não liga quando coloco duas memórias RAM.](https://www.clubedohardware.com.br/forums/topic/1698681-pc-n%C3%A3o-liga-quando-coloco-duas-mem%C3%B3rias-ram/?do=getNewComment "PC não liga quando coloco duas memórias RAM.")
+        [Meu controle de Xbox 360 não conecta ao Windows 10](https://www.clubedohardware.com.br/forums/topic/1698708-meu-controle-de-xbox-360-n%C3%A3o-conecta-ao-windows-10/?do=getNewComment "Meu controle de Xbox 360 não conecta ao Windows 10")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Wandtcg](https://www.clubedohardware.com.br/profile/1253578-wandtcg/ "Ir ao perfil de Wandtcg")  
-        2 horas atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
+        35 minutos atrás
         
-    * [![udanznh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233457.thumb.jpeg.a8a5720a41a31cdd2724e6dcc105dea3.jpeg)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
-        
-        6
-        
-        [Indicação de placa-mãe, memória RAM e fonte](https://www.clubedohardware.com.br/forums/topic/1698680-indica%C3%A7%C3%A3o-de-placa-m%C3%A3e-mem%C3%B3ria-ram-e-fonte/?do=getNewComment "Indicação de placa-mãe, memória RAM e fonte")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
-        2 horas atrás
-        
-    * [![NovatoEmTI](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/imported-photo-1068856.thumb.png.80d60ed34cf37d96d8b23195c8a1139f.png)](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")
+    * [![TxZeref](https://www.clubedohardware.com.br/uploads/members/monthly_2018_12/imported-photo-975257.thumb.jpeg.e1521cfe9fa181ed11207e532ca1a783.jpeg)](https://www.clubedohardware.com.br/profile/975257-txzeref/ "Ir ao perfil de TxZeref")
         
         3
         
-        [GeForce RTX 3050 da superframe vale a pena por R$ 1.000?](https://www.clubedohardware.com.br/forums/topic/1698679-geforce-rtx-3050-da-superframe-vale-a-pena-por-r-1000/?do=getNewComment "GeForce RTX 3050 da superframe vale a pena por R$ 1.000?")
+        [Water cooler para Core I7 12700k](https://www.clubedohardware.com.br/forums/topic/1698707-water-cooler-para-core-i7-12700k/?do=getNewComment "Water cooler para Core I7 12700k")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [NovatoEmTI](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")  
-        4 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [TxZeref](https://www.clubedohardware.com.br/profile/975257-txzeref/ "Ir ao perfil de TxZeref")  
+        1 hora atrás
         
-    * [![Sklep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253727.thumb.png.acb7061fec986791ccb1dd40fec45158.png)](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")
+    * [![brasileiro1011](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253893.thumb.png.b2829cdc9eca56d25b40052250e570ce.png)](https://www.clubedohardware.com.br/profile/1253893-brasileiro1011/ "Ir ao perfil de brasileiro1011")
         
-        2
+        3
         
-        [Uma chave de ativação do Windows 11 pode ser usada em mais de um dispositivo?](https://www.clubedohardware.com.br/forums/topic/1698678-uma-chave-de-ativa%C3%A7%C3%A3o-do-windows-11-pode-ser-usada-em-mais-de-um-dispositivo/?do=getNewComment "Uma chave de ativação do Windows 11 pode ser usada em mais de um dispositivo?")
+        [Aplicativos desconhecidos na parte de inicialização do gerenciador de tarefas](https://www.clubedohardware.com.br/forums/topic/1698706-aplicativos-desconhecidos-na-parte-de-inicializa%C3%A7%C3%A3o-do-gerenciador-de-tarefas/?do=getNewComment "Aplicativos desconhecidos na parte de inicialização do gerenciador de tarefas")
         
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [Sklep](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")  
-        4 horas atrás
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [brasileiro1011](https://www.clubedohardware.com.br/profile/1253893-brasileiro1011/ "Ir ao perfil de brasileiro1011")  
+        1 hora atrás
         
-    * [![Luigorkazama](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253875.thumb.jpeg.966ff45db6264419631fddce4bf1fd95.jpeg)](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")
+    * [![Barbara Duarte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253889.thumb.jpeg.b6e38dfb34b9b89b07916be95d22b9f1.jpeg)](https://www.clubedohardware.com.br/profile/1253889-barbara-duarte/ "Ir ao perfil de Barbara Duarte")
+        
+        4
+        
+        [Recomendação de PC Gamer completo até R$10.000,00](https://www.clubedohardware.com.br/forums/topic/1698705-recomenda%C3%A7%C3%A3o-de-pc-gamer-completo-at%C3%A9-r1000000/?do=getNewComment "Recomendação de PC Gamer completo até R$10.000,00")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Barbara Duarte](https://www.clubedohardware.com.br/profile/1253889-barbara-duarte/ "Ir ao perfil de Barbara Duarte")  
+        1 hora atrás
+        
+    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
         
         5
         
-        [Comprei as peças do pc e na hora de ligar fica na luz vermelha do VGA](https://www.clubedohardware.com.br/forums/topic/1698677-comprei-as-pe%C3%A7as-do-pc-e-na-hora-de-ligar-fica-na-luz-vermelha-do-vga/?do=getNewComment "Comprei as peças do pc e na hora de ligar fica na luz vermelha do VGA")
+        [Gigabyte Radeon RX 7700 XT Gaming OC por R$ 2.900,00 compensa?](https://www.clubedohardware.com.br/forums/topic/1698704-gigabyte-radeon-rx-7700-xt-gaming-oc-por-r-290000-compensa/?do=getNewComment "Gigabyte Radeon RX 7700 XT Gaming OC por R$ 2.900,00 compensa?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Luigorkazama](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")  
-        6 horas atrás
+        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
+        1 hora atrás
         
-    * [![LerabraG](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253874.thumb.png.d6dc551127593783da617714b2790f26.png)](https://www.clubedohardware.com.br/profile/1253874-lerabrag/ "Ir ao perfil de LerabraG")
+    * [![davianchor](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253891.thumb.jpeg.374d9eeedab4374c57786e6f88108e20.jpeg)](https://www.clubedohardware.com.br/profile/1253891-davianchor/ "Ir ao perfil de davianchor")
+        
+        2
+        
+        [USB do painel frontal do meu gabinete não possui entrada na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1698703-usb-do-painel-frontal-do-meu-gabinete-n%C3%A3o-possui-entrada-na-placa-m%C3%A3e/?do=getNewComment "USB do painel frontal do meu gabinete não possui entrada na placa-mãe")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [davianchor](https://www.clubedohardware.com.br/profile/1253891-davianchor/ "Ir ao perfil de davianchor")  
+        1 hora atrás
+        
+    * [![CaptaAngolan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/da0af8ca728c17ecd70c8851924f99e7.thumb.jpg.c8202ef45c6e90f66b800617c0992653.jpg)](https://www.clubedohardware.com.br/profile/1237192-captaangolan/ "Ir ao perfil de CaptaAngolan")
         
         1
         
-        [Minha memória RAM nova está com defeito?](https://www.clubedohardware.com.br/forums/topic/1698676-minha-mem%C3%B3ria-ram-nova-est%C3%A1-com-defeito/?do=getNewComment "Minha memória RAM nova está com defeito?")
+        [Celular custo-benefício em 2024](https://www.clubedohardware.com.br/forums/topic/1698702-celular-custo-benef%C3%ADcio-em-2024/?do=getNewComment "Celular custo-benefício em 2024")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [LerabraG](https://www.clubedohardware.com.br/profile/1253874-lerabrag/ "Ir ao perfil de LerabraG")  
-        9 horas atrás
-        
-    * [![jplopx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/n4w3HOmA_400x400.thumb.jpg.3aa22ba1c9cfc70d1e447ec0a5f378e0.jpg)](https://www.clubedohardware.com.br/profile/1248173-jplopx/ "Ir ao perfil de jplopx")
-        
-        6
-        
-        [Placa-mãe para Ryzen 5 5600X](https://www.clubedohardware.com.br/forums/topic/1698675-placa-m%C3%A3e-para-ryzen-5-5600x/?do=getNewComment "Placa-mãe para Ryzen 5 5600X")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [jplopx](https://www.clubedohardware.com.br/profile/1248173-jplopx/ "Ir ao perfil de jplopx")  
-        10 horas atrás
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [CaptaAngolan](https://www.clubedohardware.com.br/profile/1237192-captaangolan/ "Ir ao perfil de CaptaAngolan")  
+        1 hora atrás
         
     
 
