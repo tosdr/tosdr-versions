@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Demo Shot of the Lego Slide Switch.](https://cdn-shop.adafruit.com/230x173/6053-00.jpg)[Slide Switch Mount for LEGO-Compatible Brick Systems
+    
+    $0.95](https://www.adafruit.com/product/6053)
+    
     ![Angled shot of LED strip in a spiral, emitting pink and blue colors.](https://cdn-shop.adafruit.com/230x173/6016-00.jpg)[Adafruit NeoPixel Silicone Bead LED Strip - 180 LEDs per Meter
     
     $24.95](https://www.adafruit.com/product/6016)
@@ -83,13 +87,9 @@ Search
     
     $29.50](https://www.adafruit.com/product/5985)
     
-    ![Angled shot of white, square-shaped dev board.](https://cdn-shop.adafruit.com/230x173/6042-00.jpg)[LANA TNY - CH32V203 mini microcontroller board by PHVX BV
+    ![Angled shot of white, square-shaped dev board.](https://cdn-shop.adafruit.com/230x173/6042-00.jpg)[LANA TNY - CH32V203 mini microcontroller board by Phyx
     
     $6.50](https://www.adafruit.com/product/6042)
-    
-    ![Angled shot of black, rectangle-shaped USB C breakout board.](https://cdn-shop.adafruit.com/230x173/6050-00.jpg)[Adafruit Sunken USB Type C Breakout Board
-    
-    $2.95](https://www.adafruit.com/product/6050)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ How wonderful it is that nobody need wait a single moment before starting to improve the world”
+“ Failing to prepare is preparing to fail ”
 
-[Anne Frank](http://en.wikipedia.org/wiki/Anne_Frank)
+[Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
 
 [](https://www.adafruit.com/about)
 
