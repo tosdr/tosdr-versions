@@ -314,8 +314,8 @@ Please refer to [https://www.taxact.com/support/request](https://www.taxact.com
 
 ### Stay Connected
 
-* [Facebook](http://www.facebook.com/pages/TaxAct/56510866520)
-* [Twitter](http://www.twitter.com/TaxAct)
+* [Facebook](https://www.facebook.com/TaxAct/)
+* [Twitter](https://x.com/TaxAct)
 * [Instagram](https://www.instagram.com/taxact/)
 * [YouTube](https://www.youtube.com/taxact)
 
