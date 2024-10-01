@@ -46,12 +46,6 @@ Ville, code postal...
     
 * [En continu](https://www.leparisien.fr/actualites-en-continu/)
     
-* [JO Paris 2024](https://www.leparisien.fr/jo-paris-2024/)
-    
-    * [Tableau des médailles](https://www.leparisien.fr/jo-paris-2024/tableau-des-medailles/)
-    * [Résultats par discipline](https://www.leparisien.fr/jo-paris-2024/resultats-par-discipline/)
-    * [Équipe de France olympique](https://www.leparisien.fr/jo-paris-2024/equipe-de-france/)
-    
 * [Paris & Île-de-France](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
     
     * [Paris](https://www.leparisien.fr/paris-75/)
@@ -96,6 +90,7 @@ Ville, code postal...
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
     * [Hippisme](https://www.leparisien.fr/sports/hippisme/)
     * [MMA - Arts martiaux mixtes](https://www.leparisien.fr/sports/mma/)
+    * [JO Paris 2024](https://www.leparisien.fr/jo-paris-2024/)
     
 * [Économie](https://www.leparisien.fr/economie/)
     
@@ -828,9 +823,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=738)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=739)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=738)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=739)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
