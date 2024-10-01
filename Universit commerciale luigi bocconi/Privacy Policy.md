@@ -290,6 +290,7 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
+* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
@@ -367,7 +368,7 @@ Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=YA9axCUDY6syYJFR_Mt1XSJVsjkmJXuc&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
