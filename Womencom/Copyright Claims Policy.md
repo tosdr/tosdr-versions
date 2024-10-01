@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+*  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
     
-    [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-    ==================================================================================================================================
+    [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
+    ========================================================================================================================================
     
-    Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
+    People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
     
-    By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
     
-* *  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727709841.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+* *  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
         [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+        ### [5 Spicy Meghan Markle Outfits She Never Could Have Worn As A Royal](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
-        TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
+        From cutouts to trend dressing, now that she's no longer a working royal, Meghan Markle's spiciest ensembles let her true personality shine.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+        By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
-    *  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+    *  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
         
-        ### [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+        ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
         
-        We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
+        Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+        By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
         
 
 More Stories
@@ -94,6 +94,18 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
     
+*  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727709841.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+    
+    TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+    
 *  [![Kylie Jenner posing](https://www.women.com/img/gallery/kylie-jenners-style-transformation-from-blue-hair-to-british-vogue/intro-1727285832.jpg)](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -105,6 +117,18 @@ More Stories
     Kylie Jenner's 2024 British Vogue cover marks a significant change from her ultra-glam, grungy, and girly looks of years past.
     
     By Emily Hutchinson [Read More](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
+    
+*  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+    
+    We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
     
 *  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
     
@@ -382,30 +406,6 @@ More Stories
     
     By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
     
-*  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-    
-    Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-    
-*  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-    
-    You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-    
 
 Back
 
@@ -417,6 +417,6 @@ Back
 
 More From Static Media
 
-[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Garden Guides](https://www.gardenguides.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[Sciencing](https://www.sciencing.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
+[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
 
 ![Women](https://www.women.com/img/Women-com-Icon-Pink-RGB-V2.svg)
