@@ -195,7 +195,6 @@ You’ll find answers to most questions on our [FAQ's page](https://keyme.zendes
 
 * [Press](https://key.me/press)
 * [Article](https://key.me/article)
-* [Careers](https://key.me/careers)
 * [Terms](https://key.me/terms)
 * [Privacy](https://key.me/privacy)
 * [About Us](https://key.me/about-us)
