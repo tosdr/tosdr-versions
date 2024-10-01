@@ -1,6 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187170019277)                                                   
-
-TODAY ONLY—$6 WORKBOOKS! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/workbooks/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187182760838)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
@@ -175,6 +173,7 @@ Search  search
         * [Social Emotional Learning](https://www.carsondellosa.com/school-solutions/our-school-solutions/social-emotional-learning/)
         * [Bargain Bookshop](https://www.carsondellosa.com/school-solutions/our-school-solutions/bargain-bookshop/)
     * [How We Can Help Your School](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/)
+        * [Conferences & Events](https://www.carsondellosa.com/school-solutions/how-we-can-help-your-school/conferences-events/)
         * [How to Contact Us](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/how-to-contact-us/)
         * [Purchase Order FAQ's](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/purchase-order-faqs/)
     * [![School Solutions](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
@@ -355,6 +354,7 @@ Search  search
         * [Shop All](https://www.carsondellosa.com/school-orders/)
     * [How We Can Help Your School](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/)
         * Back
+        * [Conferences & Events](https://www.carsondellosa.com/school-solutions/how-we-can-help-your-school/conferences-events/)
         * [How to Contact Us](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/how-to-contact-us/)
         * [Purchase Order FAQ's](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/purchase-order-faqs/)
         * [Shop All](https://www.carsondellosa.com/school-orders/)
