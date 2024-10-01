@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Iran planning to fire missile attack on Israel 'imminently,' US prepares to help shoot down: report](https://nypost.com/2024/10/01/world-news/iran-planning-imminent-missile-attack-on-israel-us-prepares-to-help-shoot-down-report/)
-
 Privacy Notice Highlights
 =========================
 
