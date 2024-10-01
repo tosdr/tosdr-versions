@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Possible Future Climate Scenarios](https://www.sciencedaily.com/releases/2024/10/241001124656.htm)
+* [Meet Our New Neighbor: Exoplanet Next Door](https://www.sciencedaily.com/releases/2024/10/241001114845.htm)
+* [Feet First: How Infants Connect With Their World](https://www.sciencedaily.com/releases/2024/10/241001114836.htm)
+* [Temp-Controlled Clothing: Squid-Inspired Fabric](https://www.sciencedaily.com/releases/2024/10/241001114730.htm)
+* [Pluto's Moon Charon: Record of Ancient Processes](https://www.sciencedaily.com/releases/2024/10/241001114722.htm)
 * [What Triggered Tongan Volcanic Eruption?](https://www.sciencedaily.com/releases/2024/09/240930212840.htm)
 * [New Perspective On Supermassive Black Holes](https://www.sciencedaily.com/releases/2024/09/240930160219.htm)
 * [Watch Water Form out of Thin Air](https://www.sciencedaily.com/releases/2024/09/240930160507.htm)
 * [COVID: Protection from Severe Flu?](https://www.sciencedaily.com/releases/2024/09/240930160208.htm)
 * [Speeding Up PFAS Decontamination](https://www.sciencedaily.com/releases/2024/09/240930122931.htm)
-* [Orbitronics Instead of Electronics?](https://www.sciencedaily.com/releases/2024/09/240927173115.htm)
-* [Coffee, Fizzy Drinks and Stroke Risk](https://www.sciencedaily.com/releases/2024/09/240930123035.htm)
-* [Vikings and Global Trading Network](https://www.sciencedaily.com/releases/2024/09/240930122949.htm)
-* [A River Is Pushing Up Mount Everest's Peak](https://www.sciencedaily.com/releases/2024/09/240930122712.htm)
-* [Unexpected Growth in Height After First Period](https://www.sciencedaily.com/releases/2024/09/240927173549.htm)
 
 Trending Topics
 ---------------
@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
-
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+
+[Kuiper Belt](https://www.sciencedaily.com/news/space_time/kuiper_belt/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
