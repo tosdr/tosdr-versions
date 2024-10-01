@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA Astronaut Nick Hague Boosts Human Health Research in Space
 
-article2 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article3 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -269,13 +269,13 @@ article 5 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Station Science Top News: Sept. 27, 2024
 
-article 12 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
+article 21 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
 
 4 min read
 
 ### NASA Astronaut Nick Hague Boosts Human Health Research in Space
 
-article 2 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
 
 1 min read
 
@@ -285,29 +285,35 @@ article 5 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa
 
 ### Highlights
 
-[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+
+4 min read
+
+### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
+
+article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 11 min read
 
 ### NASA’s Eyes for Museums
 
-article 5 days ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
-
-5 min read
-
-### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
-
-article 6 days ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)
+article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Highlights
 
-[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+
+4 min read
+
+### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
+
+article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 3 min read
 
@@ -319,13 +325,7 @@ article 5 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-sola
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 5 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
-
-11 min read
-
-### NASA’s Eyes for Museums
-
-article 5 days ago](https://science.nasa.gov/eyes/museums/)
+article 5 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)
 
 ### Featured
 
@@ -347,29 +347,29 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-
 
 ### NASA’s Eyes for Museums
 
-article 5 days ago](https://science.nasa.gov/eyes/museums/)
+article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Highlights
 
-[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
+[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+
+4 min read
+
+### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
+
+article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
 
 2 min read
 
 ### Eclipsing Binary Patrol
 
-article 10 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
+article 19 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Sept. 27, 2024
 
-article 12 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![Summary of the 10th SWOT Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.png)
-
-21 min read
-
-### Summary of the 10th SWOT Applications Workshop
-
-article 14 hours ago](https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-swot-applications-workshop/)
+article 21 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 7 days ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-f
 
 ### ARMD Solicitations
 
-article 1 week ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
 
 1 min read
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 3 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
@@ -413,7 +413,7 @@ article 6 days ago](https://www.nasa.gov/directorates/somd/space-communications-
 
 ### Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update
 
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
+article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
 
 ### Featured
 
@@ -445,19 +445,19 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
 
-article 5 days ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
+article 6 days ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
 
 4 min read
 
 ### Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
 
 3 min read
 
 ### NASA Relaunches Art Program with Space-Themed Murals
 
-article 6 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
+article 7 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
 
 ### Highlights
 
