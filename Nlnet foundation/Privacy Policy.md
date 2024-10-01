@@ -1,6 +1,6 @@
 [To main content](#main)
 
-**[Send in your ideas. Deadline October 1, 2024](https://nlnet.nl/news/2024/20240601-call.html)**
+**[Send in your ideas. Deadline December 1, 2024](https://nlnet.nl/news/2024/20241201-call.html)**
 
 [![NLnet logo](/logo/banner.svg)](https://nlnet.nl/)
 
@@ -118,6 +118,8 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 ### News
 
+[Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241201-call.html) 2024-12-01
+
 [NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
 
 [Meet the Projects Receiving NGI Taler grants](https://nlnet.nl/news/2024/20240806-Taler-selection.html) 2024-08-06
@@ -125,8 +127,6 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 [45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html) 2024-06-18
 
 [node-oidc-provider Wins BlueHats Prize for FOSS maintainers](https://nlnet.nl/news/2024/20240610-Winner-of-2nd-BlueHatsPrize.html) 2024-06-10
-
-[Apply before October 1st 2024](https://nlnet.nl/news/2024/20240601-call.html) 2024-06-01
 
 * [More news](https://nlnet.nl/news)
 
