@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Irish Enterprise South: Dundalk To Dublin](https://www.myabandonware.com/game/irish-enterprise-south-dundalk-to-dublin-s3n)
+* [Crossbow](https://www.myabandonware.com/game/crossbow-ml)
+* [Crazy Climber](https://www.myabandonware.com/game/crazy-climber-9tt)
 * [Commando](https://www.myabandonware.com/game/commando-5l)
 * [Continental Circus](https://www.myabandonware.com/game/continental-circus-4ql)
-* [Cobra Command](https://www.myabandonware.com/game/cobra-command-9tj)
-* [WWF Royal Rumble](https://www.myabandonware.com/game/wwf-royal-rumble-sli)
-* [Wild Riders](https://www.myabandonware.com/game/wild-riders-slh)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
