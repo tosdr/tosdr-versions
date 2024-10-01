@@ -164,22 +164,6 @@ Copyright © Content Spotlight 2024 All Rights Reserved.
 [Link Exchange](https://linked.mywebtraffic.co.uk/ "Link Exchange")  
 [Gd M9 Blog](https://gd-m9.blogspot.com/ "Gd M9 Blog")[Free SEO Backlinks](https://www.websquash.com/)[Get SEO Backlinks](https://www.websquash.com/)
 
-![Accessibility](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
-
-![Accessibility](https://contentspotlight.org/wp-content/plugins/wp-accessibility-helper/assets/images/accessibility-48.jpg)
-
-Close
-
-Font Resize
-
-A- A+
-
-Clear cookies
-
-Close
-
-[Accessibility by WAH](https://accessibility-helper.co.il/ "Accessibility by WP Accessibility Helper Team")
-
 error: Content is protected !!
 
 Manage Cookie Consent
