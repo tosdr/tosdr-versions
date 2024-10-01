@@ -144,6 +144,20 @@ out of 5 based on
 
 > Oct 1, 2024
 
+> Easy booking process and efficient
+
+> Easy booking process and efficient
+
+Colin
+
+,
+
+MG
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 1, 2024
+
 > Mel de Toit is definitely worthy of…
 
 > Mel de Toit is definitely worthy of FIVE stars. She has helped us put together a trip of a lifetime. Our first safari is at Simbavati and the second is at Chief's Camp, in the Okavanga Delta. In addition she has arranged flights to various destinations and a wonderful stay with various side trips in Cape Town. We can't wait to start our journey and know that thanks to Mel, it will be the trip of a lifetime!
@@ -245,20 +259,6 @@ GB
 > Excellent service from Tracey-lee Losper
 
 > Excellent service received from Tracey-lee Losper! From the first interaction that I had with Tracey, she was professional and willing to answer every question that I had, even over a period of days. She was always helpful, and patient and I never felt that I am only a number. Thank you, Tracey! I will definitely make use of Safari.com again!
-
-Elrina Oelofse
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 27, 2024
-
-> Enjoyable experience!
-
-> I can just smile about my entire experience with Safari.com. From the moment when I had my first contact with Tracey wrt the prize that I won, it was an enjoyment, as my questions were answered promptly and effectively. Thank you so much for this opportunity!
 
 Elrina Oelofse
 
