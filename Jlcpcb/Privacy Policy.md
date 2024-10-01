@@ -3,11 +3,11 @@ This website requires JavaScript.
 Privacy Policy
 ==============
 
-[](https://jlcpcb.com/es/)
+[](https://jlcpcb.com/)
 
-[Help Center](https://jlcpcb.com/help) [Q&A](https://jlcpcb.com/help/answers) [News](https://jlcpcb.com/help/news) [Blog](https://jlcpcb.com/es/blog) [Contact](https://jlcpcb.com/help/contact)
+[Help Center](https://jlcpcb.com/help) [Q&A](https://jlcpcb.com/help/answers) [News](https://jlcpcb.com/help/news) [Blog](https://jlcpcb.com/blog) [Contact](https://jlcpcb.com/help/contact)
 
-[Order now](https://cart.jlcpcb.com/es/quote)
+[Order now](https://cart.jlcpcb.com/quote)
 
 Sign in
 
@@ -348,12 +348,12 @@ We will review your requests as soon as possible and respond to you after verify
 Last updated on Mar 26, 2024
 
 * Company
-* [About JLCPCB](https://jlcpcb.com/es/aboutUs)
+* [About JLCPCB](https://jlcpcb.com/aboutUs)
 * [News](https://jlcpcb.com/help/news)
-* [Blog](https://jlcpcb.com/es/blog)
-* [How we work](https://jlcpcb.com/es/aboutUs/howWorks)
-* [Quality Management](https://jlcpcb.com/es/aboutUs/qualityControl)
-* [Security](https://jlcpcb.com/es/aboutUs/security)
+* [Blog](https://jlcpcb.com/blog)
+* [How we work](https://jlcpcb.com/aboutUs/howWorks)
+* [Quality Management](https://jlcpcb.com/aboutUs/qualityControl)
+* [Security](https://jlcpcb.com/aboutUs/security)
 * [Certifications](https://jlcpcb.com/help/article/26-Certifications)
 
 * Support
@@ -362,15 +362,15 @@ Last updated on Mar 26, 2024
 * [How To Order](https://jlcpcb.com/help/catalog/11-How-To-Order)
 * [How To Track](https://jlcpcb.com/help/article/51-How-to-Track-My-Order)
 * [Contact Us](https://jlcpcb.com/help/contact)
-* [Support Team](https://jlcpcb.com/es/ourTeam)
+* [Support Team](https://jlcpcb.com/ourTeam)
 
 * NETWORK SITES
 * [EasyEDA - PCB Design Tool](https://easyeda.com/)
-* [JLC3DP - 3D Printing&CNC Machining](https://jlc3dp.com/es/?source=jlcpcb-footer)
+* [JLC3DP - 3D Printing&CNC Machining](https://jlc3dp.com/?source=jlcpcb-footer)
 * [JLCMC - Mechatronic Parts](https://jlcmc.com/?href=jlc-footer&source=jlc)
 * [OSHWLAB - Open Source Hardware](https://oshwlab.com/?source=jlcpcb-footer)
 
-[](https://jlcpcb.com/es/)
+[](https://jlcpcb.com/)
 
 Connect with us
 
