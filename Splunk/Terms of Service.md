@@ -728,7 +728,7 @@ Splunk Websites Terms and Conditions of Use
 
 LAST UPDATED: May 8, 2024  
   
-Splunk LLC, a Delaware corporation with a principal place of business at 250 Brannan Street, San Francisco, California, and its affiliates and subsidiaries (collectively, **“Splunk”**) makes information, products, and services available on this website (the **“Site”**), subject to the following terms and conditions of use (**“Terms”**). Before using this Site, please read these Terms carefully. Throughout these Terms, “we”, “us” and “our” refer to Splunk, and “you” or “your” refer to you personally (i.e., the individual who reads and agrees to be bound by these Terms), and, if you access this Site on behalf of a corporation or other legal entity, you and such corporation or other legal entity on whose behalf you access the Site. If you have entered into another agreement with us concerning specific services or products, then the terms of that agreement control where it conflicts with these Terms.  
+Splunk LLC, a Delaware corporation with an office at 3098 Olsen Drive, San Jose, California 95128, and its affiliates and subsidiaries (collectively, **“Splunk”**) makes information, products, and services available on this website (the **“Site”**), subject to the following terms and conditions of use (**“Terms”**). Before using this Site, please read these Terms carefully. Throughout these Terms, “we”, “us” and “our” refer to Splunk, and “you” or “your” refer to you personally (i.e., the individual who reads and agrees to be bound by these Terms), and, if you access this Site on behalf of a corporation or other legal entity, you and such corporation or other legal entity on whose behalf you access the Site. If you have entered into another agreement with us concerning specific services or products, then the terms of that agreement control where it conflicts with these Terms.  
   
 1\. ACCEPTANCE OF TERMS  
   
@@ -825,8 +825,8 @@ Splunk respects the intellectual property rights of others and asks that you do 
   
 Copyright Agent  
 Splunk LLC  
-250 Brannan St  
-San Francisco, CA 94107  
+3098 Olsen Drive,  
+San Jose, California 95128  
 [dmca@splunk.com](mailto:dmca@splunk.com)  
 +1 415.848.8400  
   
@@ -846,7 +846,7 @@ Neither party or its affiliates, subsidiaries, officers, directors, employees, a
   
 18\. CONTACT; NOTICES  
   
-If you have any general question, comment or complaint regarding the Site, please send an e-mail to [sitefeedback@splunk.com](mailto:sitefeedback@splunk.com). Formal notices to Splunk under these Terms (including a report of any violation of these Terms by any user) shall be sufficient only if in writing and transmitted via personal delivery or delivered by a major commercial rapid delivery courier service or by certified or registered mail, return receipt requested, to: Splunk LLC, Attention: Legal Department, 250 Brannan Street, San Francisco, California 94107, with a copy to [legal@splunk.com](mailto:legal@splunk.com). Notices to you may be made via posting to the Site, by email, or by regular mail, in Splunk's discretion. Without limitation, you agree that a printed version of these Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+If you have any general question, comment or complaint regarding the Site, please send an e-mail to [sitefeedback@splunk.com](mailto:sitefeedback@splunk.com). Formal notices to Splunk under these Terms (including a report of any violation of these Terms by any user) shall be sufficient only if in writing and transmitted via personal delivery or delivered by a major commercial rapid delivery courier service or by certified or registered mail, return receipt requested, to: Splunk LLC, Attention: Legal Department, 3098 Olsen Drive, San Jose, California 95128, with a copy to [legal@splunk.com](mailto:legal@splunk.com). Notices to you may be made via posting to the Site, by email, or by regular mail, in Splunk's discretion. Without limitation, you agree that a printed version of these Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
 SERVICE SPECIFIC RULES: SPLUNK SEARCH POWERED BY AI (“AI SEARCH”) ​​
 
