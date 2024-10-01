@@ -48,16 +48,14 @@ Toggle navigation
 
 * Resources
 * Research tools
-* Who's Who Legal
+* Lexology Index
     
-    * [Find an expert](https://www.lexology.com/wwl)
-    * [Reports](https://www.lexology.com/wwl/reports)
-    * [Thought Leaders](https://www.lexology.com/wwl/thoughtleaders)
-    * [Performance Index](https://www.lexology.com/wwl/performance-index)
-    * [Research methodology](https://www.lexology.com/wwl/methodology)
-    * [Submissions](https://www.lexology.com/wwl/submissions)
+    * [Find an expert](https://www.lexology.com/index)
+    * [Reports](https://www.lexology.com/index/reports)
+    * [Research methodology](https://www.lexology.com/index/methodology)
+    * [Submissions](https://www.lexology.com/index/submissions)
     
-* [Who's Who Legal](https://www.lexology.com/wwl)
+* [Lexology Index](https://www.lexology.com/index)
 * Learn
     
     * [All](https://www.lexology.com/learn/content/all)
@@ -268,14 +266,12 @@ Resources
 * [Lexy: AI search](https://www.lexology.com/lexy)
 * [Scanner](https://www.lexology.com/scanner)
 
-Who's Who Legal
+Lexology Index
 
-* [Find an expert](https://www.lexology.com/wwl)
-* [Reports](https://www.lexology.com/wwl/reports)
-* [Thought Leaders](https://www.lexology.com/wwl/thoughtleaders)
-* [Performance Index](https://www.lexology.com/wwl/performance-index)
-* [Research methodology](https://www.lexology.com/wwl/methodology)
-* [Submissions](https://www.lexology.com/wwl/submissions)
+* [Find an expert](https://www.lexology.com/index)
+* [Reports](https://www.lexology.com/index/reports)
+* [Research methodology](https://www.lexology.com/index/methodology)
+* [Submissions](https://www.lexology.com/index/submissions)
 * [Instruct Counsel](https://www.lexology.com/instructcounsel/find)
 
 More
