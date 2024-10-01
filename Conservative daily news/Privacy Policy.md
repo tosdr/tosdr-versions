@@ -2,6 +2,7 @@ Tuesday, October 1 2024
 
 Breaking News
 
+* [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
 * [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
 * [Rural South Decimated By Hurricane Helene As Death Toll Rises Above 130](https://www.conservativedailynews.com/2024/10/rural-south-decimated-by-hurricane-helene-as-death-toll-rises-above-130/)
 * [We Can Take Our Country Back From The Deep State](https://www.conservativedailynews.com/2024/10/we-can-take-our-country-back-from-the-deep-state/)
@@ -9,7 +10,6 @@ Breaking News
 * [Steve Kornacki Drops Bombshell As Dems’ Hold On Key Voting Bloc Crumbles](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
 * [Americans More Reliant On Government Spending Than Ever As Debt Deluge Continues With No End In Sight](https://www.conservativedailynews.com/2024/10/americans-more-reliant-on-government-spending-than-ever-as-debt-deluge-continues-with-no-end-in-sight/)
 * [Biden Admin Relies On Elon Musk’s Starlink To Restore Internet After Previously Rejecting Its Bid For Award](https://www.conservativedailynews.com/2024/10/biden-admin-relies-on-elon-musks-starlink-to-restore-internet-after-previously-rejecting-its-bid-for-award/)
-* [Joe And Kamala, You’re Fired](https://www.conservativedailynews.com/2024/10/joe-and-kamala-youre-fired/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5624-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
+    
+    [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
+    
+    October 1, 2024
+    
 * [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
     [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
@@ -166,25 +172,19 @@ Recent Posts
     
     October 1, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Kamala-losing-share-of-hispanic-voters-220x150.jpg)](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
-    
-    [Steve Kornacki Drops Bombshell As Dems’ Hold On Key Voting Bloc Crumbles](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
-    
-    October 1, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [My Bad: City Officials Now Claim Emergency Order Banning Guns was a Mistake](https://www.thegunpage.com/my-bad-city-officials-now-claim-emergency-order-banning-guns-was-a-mistake/10610923)
+* [C&G Holsters Improved Gen6 Concealment Holsters](https://www.thegunpage.com/cg-holsters-improved-gen6-concealment-holsters/10610924)
+* [Gun Owners Urged to Register and VOTE](https://www.thegunpage.com/gun-owners-urged-to-register-and-vote/10610920)
+* [Ukraine's Border Guards Discover WW1 Weapons Cache](https://www.thegunpage.com/ukraines-border-guards-discover-ww1-weapons-cache/10610917)
+* [Florida City Illegally Bans Guns and Ammo Sales During Hurricane Helene](https://www.thegunpage.com/florida-city-illegally-bans-guns-and-ammo-sales-during-hurricane-helene/10610915) 
+* [AK-Compatible Forced Reset Trigger – Trigger Empire KONO](https://www.thegunpage.com/ak-compatible-forced-reset-trigger-trigger-empire-kono/10610918)
+* [Heckler & Koch Launches HK USA to Meet Growing U.S. Demand](https://www.thegunpage.com/heckler-koch-launches-hk-usa-to-meet-growing-u-s-demand/10610913)
+* [10 Great Photos From The 2024 NRA National Smallbore Rifle Championships](https://www.thegunpage.com/10-great-photos-from-the-2024-nra-national-smallbore-rifle-championships/10610919)
+* [New: Magpul AMAG 15 SG9 Metal Magazines For SIG P320 Compact Pistols](https://www.thegunpage.com/new-magpul-amag-15-sg9-metal-magazines-for-sig-p320-compact-pistols/10610914)
 * [New: XS Sights Pre-Drilled Sights For Smith & Wesson, Ruger Revolvers](https://www.thegunpage.com/new-xs-sights-pre-drilled-sights-for-smith-wesson-ruger-revolvers/10610912)
-* [TFB Review: FN 545 vs FNX-45 Tactical](https://www.thegunpage.com/tfb-review-fn-545-vs-fnx-45-tactical/10610911)
-* [7 Longest Confirmed Sniper Kills: When Man And Rifle Become One](https://www.thegunpage.com/7-longest-confirmed-sniper-kills-when-man-and-rifle-become-one/10610908)
-* [POTD: The Moose Hunt – Savage 110 Ultralite](https://www.thegunpage.com/potd-the-moose-hunt-savage-110-ultralite/10610909)
-* [The Rimfire Report: NAA Sentinel + Federal 22 WMR Punch Test](https://www.thegunpage.com/the-rimfire-report-naa-sentinel-federal-22-wmr-punch-test/10610910)
-* [Range Essentials: Shellshock Protection Premium Eyes & Ears Combo](https://www.thegunpage.com/range-essentials-shellshock-protection-premium-eyes-ears-combo/10610905)
-* [P7Pro – The Legendary P7 Reborn in The USA](https://www.thegunpage.com/p7pro-the-legendary-p7-reborn-in-the-usa/10610902)
-* [Buying Your First Suppressor: What You Need to Know](https://www.thegunpage.com/buying-your-first-suppressor-what-you-need-to-know/10610900)
-* [TFB Review: FN 502 MRD And 502T](https://www.thegunpage.com/tfb-review-fn-502-mrd-and-502t/10610904)
-* [Finally! A Reporter Actually Presses Harris on Her Stance on Guns](https://www.thegunpage.com/finally-a-reporter-actually-presses-harris-on-her-stance-on-guns/10610897)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
