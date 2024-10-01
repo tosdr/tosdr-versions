@@ -2,89 +2,89 @@
 
 * English
     
-    * [Albanian](https://dumpoir.com/sq)
-    
-    * [Portuguese](https://dumpoir.com/pt)
-    
-    * [Icelandic](https://dumpoir.com/is)
-    
-    * [Azerbaijani](https://dumpoir.com/az)
-    
-    * [Hungarian](https://dumpoir.com/hu)
-    
-    * [Estonian](https://dumpoir.com/et)
-    
-    * [Dutch](https://dumpoir.com/nl)
-    
-    * [Lithuanian](https://dumpoir.com/lt)
-    
-    * [Danish](https://dumpoir.com/da)
-    
-    * [Swedish](https://dumpoir.com/sv)
-    
-    * [Spanish](https://dumpoir.com/es)
-    
-    * [Japanese](https://dumpoir.com/ja)
-    
-    * [Armenian](https://dumpoir.com/hy)
-    
-    * [Croatian](https://dumpoir.com/hr)
-    
-    * [Georgian](https://dumpoir.com/ka)
-    
-    * [Belorussian](https://dumpoir.com/be)
-    
-    * [French](https://dumpoir.com/fr)
-    
-    * [Slovak](https://dumpoir.com/sk)
-    
-    * [English](https://dumpoir.com/en)
-    
-    * [Slovenian](https://dumpoir.com/sl)
-    
-    * [Korean](https://dumpoir.com/ko)
-    
-    * [Thai](https://dumpoir.com/th)
-    
-    * [Kazakh](https://dumpoir.com/kk)
-    
-    * [Italian](https://dumpoir.com/it)
-    
-    * [Chinese](https://dumpoir.com/zh)
-    
-    * [Greek](https://dumpoir.com/el)
-    
-    * [German](https://dumpoir.com/de)
-    
-    * [Latvian](https://dumpoir.com/lv)
-    
     * [Irish](https://dumpoir.com/ga)
-    
-    * [Czech](https://dumpoir.com/cs)
-    
-    * [Kyrgyz](https://dumpoir.com/ky)
-    
-    * [Bulgarian](https://dumpoir.com/bg)
-    
-    * [Norwegian](https://dumpoir.com/no)
-    
-    * [Hindi](https://dumpoir.com/hi)
-    
-    * [Vietnamese](https://dumpoir.com/vi)
-    
-    * [Serbian](https://dumpoir.com/sr)
-    
-    * [Romanian](https://dumpoir.com/ro)
     
     * [Polish](https://dumpoir.com/pl)
     
+    * [Hungarian](https://dumpoir.com/hu)
+    
+    * [Chinese](https://dumpoir.com/zh)
+    
+    * [Azerbaijani](https://dumpoir.com/az)
+    
+    * [Greek](https://dumpoir.com/el)
+    
+    * [Romanian](https://dumpoir.com/ro)
+    
+    * [Croatian](https://dumpoir.com/hr)
+    
+    * [Slovenian](https://dumpoir.com/sl)
+    
     * [Finnish](https://dumpoir.com/fi)
+    
+    * [Japanese](https://dumpoir.com/ja)
+    
+    * [Spanish](https://dumpoir.com/es)
+    
+    * [Vietnamese](https://dumpoir.com/vi)
+    
+    * [Georgian](https://dumpoir.com/ka)
+    
+    * [Portuguese](https://dumpoir.com/pt)
+    
+    * [Swedish](https://dumpoir.com/sv)
+    
+    * [Estonian](https://dumpoir.com/et)
+    
+    * [Armenian](https://dumpoir.com/hy)
+    
+    * [Thai](https://dumpoir.com/th)
+    
+    * [Kyrgyz](https://dumpoir.com/ky)
+    
+    * [English](https://dumpoir.com/en)
+    
+    * [Latvian](https://dumpoir.com/lv)
+    
+    * [Kazakh](https://dumpoir.com/kk)
+    
+    * [Slovak](https://dumpoir.com/sk)
+    
+    * [Bulgarian](https://dumpoir.com/bg)
+    
+    * [Belorussian](https://dumpoir.com/be)
+    
+    * [Hindi](https://dumpoir.com/hi)
     
     * [Arabic](https://dumpoir.com/ar)
     
-    * [Turkish](https://dumpoir.com/tr)
+    * [Albanian](https://dumpoir.com/sq)
+    
+    * [Lithuanian](https://dumpoir.com/lt)
     
     * [Russian](https://dumpoir.com/ru)
+    
+    * [Serbian](https://dumpoir.com/sr)
+    
+    * [Italian](https://dumpoir.com/it)
+    
+    * [Norwegian](https://dumpoir.com/no)
+    
+    * [French](https://dumpoir.com/fr)
+    
+    * [German](https://dumpoir.com/de)
+    
+    * [Icelandic](https://dumpoir.com/is)
+    
+    * [Turkish](https://dumpoir.com/tr)
+    
+    * [Korean](https://dumpoir.com/ko)
+    
+    * [Danish](https://dumpoir.com/da)
+    
+    * [Dutch](https://dumpoir.com/nl)
+    
+    * [Czech](https://dumpoir.com/cs)
     
     * [Indonesian](https://dumpoir.com/id)
     
@@ -140,5 +140,3 @@ This product uses the Instagram API but is not endorsed or certified by Instagra
 [About Us](https://dumpoir.com/page/about) [Privacy Policy](https://dumpoir.com/page/privacy) [Remove Profile](https://dumpoir.com/page/remove)
 
 ![](https://mc.yandex.ru/watch/98371444)
-
-[instagram story viewer](https://greatfon.com/)
