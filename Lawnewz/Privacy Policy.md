@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Eric Adams](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24272121019985-432x243.jpg)](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-hopes-scotus-decision-will-make-bribery-case-agianst-him-vanish/)
+1. [![FILE - Hunter Biden departs from federal court June 11, 2024, in Wilmington, Del. (AP Photo/Matt Slocum)](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Hunter-Biden-24248537937022-432x243.jpg)](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
     
-    ### ['Here goes the Department again': Eric Adams hopes Supreme Court decision in case of another mayor will tear DOJ's bribery case apart and doom indictment](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-hopes-scotus-decision-will-make-bribery-case-agianst-him-vanish/)
+    ### [IRS fails to get rid of Hunter Biden lawsuit over leaked tax returns](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
     
-2. [![William Braddock and Anna Paulina Luna](https://am21.mediaite.com/lc/cnt/uploads/2024/09/William-Braddock-and-Anna-Paulina-Luna-432x243.jpg)](https://lawandcrime.com/crime/call-up-my-russian-ukrainian-hit-squad-former-republican-congressional-candidate-threatened-to-make-primary-opponent-disappear-feds-say/)
+2. [![Background: Ysgol Dyffryn Aman, Ammanford, Wales (Sky News/YouTube). Inset, left to right: Fiona Elias, Liz Hopkin (Dyfed-Powys police).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Ysgol-Dyffryn-Aman-Fiona-Elias-Liz-Hopkin-432x243.jpg)](https://lawandcrime.com/crime/i-stabbed-her-oopsies-13-year-old-girl-with-sinister-eyes-allegedly-stabbed-2-teachers-student-with-fishing-multi-tool-then-joked-about-becoming-a-celebrity/)
     
-    ### ['Call up my Russian-Ukrainian hit squad:' Former Republican Congressional candidate threatened to make primary opponent 'disappear,' feds say](https://lawandcrime.com/crime/call-up-my-russian-ukrainian-hit-squad-former-republican-congressional-candidate-threatened-to-make-primary-opponent-disappear-feds-say/)
+    ### ['I stabbed her — oopsies': 13-year-old girl with 'sinister eyes' allegedly stabbed 2 teachers, student with 'fishing multi-tool' then joked about becoming 'a celebrity'](https://lawandcrime.com/crime/i-stabbed-her-oopsies-13-year-old-girl-with-sinister-eyes-allegedly-stabbed-2-teachers-student-with-fishing-multi-tool-then-joked-about-becoming-a-celebrity/)
     
-3. [![Former Mayor of New York Rudy Giuliani arrives at the federal courthouse in Washington, Wednesday, Dec. 13, 2023. The trial will determine how much Rudy Giuliani will have to pay two Georgia election workers who he falsely accused of fraud while pushing President Donald Trump's baseless claims after he lost the 2020 election.](https://am21.mediaite.com/lc/cnt/uploads/2023/12/Untitled-design-15-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-didnt-get-anywhere-close-to-major-discount-he-sought-even-after-the-judge-and-forensic-financial-advisor-reduced-bankruptcy-fees/)
+3. [![Nathaniel Lee Edmonds](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Nathaniel-Lee-Edmonds-432x243.jpg)](https://lawandcrime.com/crime/using-both-of-his-hands-for-minutes-father-choked-1-year-old-son-to-death-because-the-boy-was-not-listening-and-he-couldnt-take-it-anymore-police-say/)
     
-    ### [Rudy Giuliani didn't get anywhere close to major discount he sought even after the judge and forensic financial advisor reduced bankruptcy fees](https://lawandcrime.com/high-profile/rudy-giuliani-didnt-get-anywhere-close-to-major-discount-he-sought-even-after-the-judge-and-forensic-financial-advisor-reduced-bankruptcy-fees/)
+    ### ['Using both of his hands for minutes': Father choked 1-year-old son to death because the boy 'was not listening and he couldn't take it anymore,' police say](https://lawandcrime.com/crime/using-both-of-his-hands-for-minutes-father-choked-1-year-old-son-to-death-because-the-boy-was-not-listening-and-he-couldnt-take-it-anymore-police-say/)
     
-4. [![Top left inset: Caden Smith (Indianapolis Metropolitan Police Department). Top right inset: Michael James (WXIN). Bottom left inset: Joseph Thomas (Indianapolis Metro Police Department). Background: The crime scene (WTTV).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/indianamurder-432x243.jpg)](https://lawandcrime.com/crime/teen-who-lured-3-men-to-a-field-to-show-them-how-a-glock-switch-worked-and-shot-them-to-death-gets-189-years-in-prison/)
+4. [![Inset: Russell Valleau (Farmington Hill (Mich.) Police Department). Background: The neighborhood where Valleau allegedly attacked a mail carrier (Google Maps).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Russell-Valleau-432x243.jpg)](https://lawandcrime.com/crime/man-fed-up-over-receiving-kamala-harris-flyers-knife-attacks-mail-carrier-who-is-forced-to-use-pepper-spray-to-defend-himself-police/)
     
-    ### [Teen who lured 3 men to a field to show them how a Glock switch worked and shot them to death gets 189 years in prison](https://lawandcrime.com/crime/teen-who-lured-3-men-to-a-field-to-show-them-how-a-glock-switch-worked-and-shot-them-to-death-gets-189-years-in-prison/)
+    ### [Man fed up over receiving Kamala Harris flyers knife-attacks mail carrier who is forced to use pepper spray to defend himself: Police](https://lawandcrime.com/crime/man-fed-up-over-receiving-kamala-harris-flyers-knife-attacks-mail-carrier-who-is-forced-to-use-pepper-spray-to-defend-himself-police/)
     
-5. [![Carly Gregg appears in a prison booking photo, inset; against. a still image of video camera footage after killing her mom.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Carly-Gregg-Dogs-Prison-432x243.jpg)](https://lawandcrime.com/high-profile/attorneys-for-teenage-girl-who-butchered-her-mom-and-tried-to-kill-her-stepfather-say-she-deserves-a-new-trial-because-she-was-in-horse-therapy-for-auditory-hallucinations/)
+5. [![Then President Donald Trump arrives to speak at a rally in Washington, on Jan. 6, 2021.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/AP24114860745677-432x243.jpg)](https://lawandcrime.com/high-profile/judges-revelation-of-impermissible-support-for-trump-on-jan-6-has-him-out-of-a-job-now-and-at-any-time-in-the-future/)
     
-    ### [Attorneys for teenage girl who murdered her mom and tried to kill her stepfather say she deserves a new trial because she was in horse 'therapy' for 'auditory hallucinations'](https://lawandcrime.com/high-profile/attorneys-for-teenage-girl-who-butchered-her-mom-and-tried-to-kill-her-stepfather-say-she-deserves-a-new-trial-because-she-was-in-horse-therapy-for-auditory-hallucinations/)
+    ### [Judge's revelation of 'impermissible' support for Trump on Jan. 6 has him out of a job now and 'at any time in the future'](https://lawandcrime.com/high-profile/judges-revelation-of-impermissible-support-for-trump-on-jan-6-has-him-out-of-a-job-now-and-at-any-time-in-the-future/)
     
 
 [](http://eepurl.com/c89Jdb)
