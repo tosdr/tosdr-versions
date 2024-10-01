@@ -358,6 +358,16 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
+[![Maximizing Efficiency and Security: The Art of Safe Automation](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp?width=500&height=190&name=newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp)
+
+Posted on October 1, 2024 by TK Keanini
+
+ **
+
+Maximizing Efficiency and Security: The Art of Safe Automation
+
+**](https://www.dnsfilter.com/blog/the-art-of-safe-automation)
+
 [![Ensuring Safety from Digital Threats in Educational Environments](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_ensuringsafetyfromdigitalthreatsineducationalenvironments1.webp?width=500&height=190&name=newsroom_ensuringsafetyfromdigitalthreatsineducationalenvironments1.webp)
 
 Posted on September 18, 2024 by Kory Underdown
@@ -377,16 +387,6 @@ Posted on August 13, 2024 by TK Keanini
 Creating an Over-the-Counter Cyber Defense Program
 
 **](https://www.dnsfilter.com/blog/creating-an-over-the-counter-cyber-defense-program)
-
-[![Fool me once, shame on not using DNS protection](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp)
-
-Posted on July 24, 2024 by TK Keanini
-
- **
-
-Fool me once, shame on not using DNS protection
-
-**](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
