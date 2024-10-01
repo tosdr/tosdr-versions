@@ -82,31 +82,31 @@ Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas]
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/d/csm_adriano_farias_blogueiro_junqueiro_066e994484.jpg)
+   [![MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_csm_Kleber-malaquias_0dff5d9c72_733f9e984a_6298925b94.jpg)
+
+Polícia
+
+MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/mpal-pede-prisao-preventiva-de-pm-acusado-de-fraudar-processo-do-caso-kleber-malaquias/ "MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias")   [![Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/d/csm_adriano_farias_blogueiro_junqueiro_066e994484.jpg)
 
 Investigações
 
-Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-segundo-preso-suspeito-de-participar-da-execucao-de-blogueiro-em-junqueiro/ "Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ")   [![Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Lei_Seca_Alagoas_-_foto_Fellipe_Yuri_-_Ascom_Detran_4ce702e0f1.jpg)
+Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-segundo-preso-suspeito-de-participar-da-execucao-de-blogueiro-em-junqueiro/ "Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ")   [![Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_Lei_Seca_Alagoas_-_foto_Fellipe_Yuri_-_Ascom_Detran_4ce702e0f1.jpg)
 
 fiscalização
 
-Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://www.tnh1.com.br/noticia/nid/lei-seca-recupera-motocicleta-roubada-durante-operacao-no-fim-de-semana/ "Lei Seca recupera motocicleta roubada durante operação no fim de semana")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
+Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://www.tnh1.com.br/noticia/nid/lei-seca-recupera-motocicleta-roubada-durante-operacao-no-fim-de-semana/ "Lei Seca recupera motocicleta roubada durante operação no fim de semana")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
 
 na ponta grossa
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
 
 pontal do peba
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
 
 Caminhão parado
 
-Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
-
-Na Madrugada
-
-Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")
+Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,15 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
+[![Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/7/csm_principe-William-reproducao-redes-sociais_d0a0c4b0c7.jpg)
 
-Brasil
+Revelações
 
-Brasil
+Revelações
 
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
+Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry
 
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
+Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry](https://www.tnh1.com.br/noticia/nid/principe-william-teria-exigido-para-avo-que-nao-autorizasse-meghan-a-usar-nenhuma-joia-real-em-casamento-com-harry/ "Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
 
 pontal do peba
 
@@ -214,7 +214,15 @@ pontal do peba
 
 Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
+
+Brasil
+
+Brasil
+
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
+
+Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
 
 na ponta grossa
 
@@ -222,49 +230,41 @@ na ponta grossa
 
 Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/3/csm_Dentista_Assassinada_57e9d471a5.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")
 
-Brasil
+[![Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Ozempic_-_foto_Divulgacao_0b070f88a1.jpeg)
 
-Brasil
+Emagrecedor
 
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina
+Emagrecedor
 
-Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-irma-a-facadas-se-entrega-a-policia-em-santa-catarina/ "Suspeito de matar irmã a facadas se entrega à polícia em Santa Catarina")
+Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido
 
-[![Quem é a brasileira que namora filho de Victoria Beckham](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/a/csm_brasileira-namorada-flho-victoria-beckham_d181b7a826.png)
+Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido](https://www.tnh1.com.br/noticia/nid/efeito-ozempic-como-medicamento-transformou-vida-da-pequena-cidade-dinamarquesa-onde-e-produzido/ "Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido")[![Rio Negro pode passar por pior seca da história ainda esta semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/5/csm_rio-negro-seca-reproducao-agencia-brasil_1fc4ec0d96.jpg)
 
-28 anos
+seca história
 
-28 anos
+seca história
 
-Quem é a brasileira que namora filho de Victoria Beckham
+Rio Negro pode passar por pior seca da história ainda esta semana
 
-Quem é a brasileira que namora filho de Victoria Beckham](https://www.tnh1.com.br/noticia/nid/quem-e-a-brasileira-que-namora-filho-de-victoria-beckham/ "Quem é a brasileira que namora filho de Victoria Beckham")[![Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_Av._Assis_Chateaubriand_tera_trecho_interditado_para_recapeamento_-_foto_Assessoria_f3ed43ef54.jpg)
+Rio Negro pode passar por pior seca da história ainda esta semana](https://www.tnh1.com.br/noticia/nid/rio-negro-pode-passar-por-pior-seca-da-historia-ainda-esta-semana/ "Rio Negro pode passar por pior seca da história ainda esta semana")[![Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_beyonce-reproducao-redes-sociais_32218113cf.jpg)
 
-recapeamento
+afetou imagem
 
-recapeamento
+afetou imagem
 
-Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira
+Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy
 
-Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira](https://www.tnh1.com.br/noticia/nid/avenida-assis-chateaubriand-tera-trecho-interditado-a-partir-de-quarta-feira/ "Avenida Assis Chateaubriand terá trecho interditado a partir de quarta-feira")[!["Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_gusttavo-advogado-reproducao-redes-sociais_e6125eae99.jpg)
+Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy](https://www.tnh1.com.br/noticia/nid/beyonce-perde-quase-1-milhao-de-seguidores-apos-ser-associada-p-diddy-1/ "Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy")[![Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/1/csm_samuel-eto-reproducao-youtube_5099c3ed7e.jpg)
 
-Gente Famosa
+Futebol Internacional
 
-Gente Famosa
+Futebol Internacional
 
-"Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo
+Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda
 
-"Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo](https://www.tnh1.com.br/noticia/nid/estou-mais-tranquilo-que-pai-de-mulher-feia-diz-gusttavo-lima-sobre-acusacoes-veja-video/ ""Estou mais tranquilo que pai de mulher feia", diz Gusttavo Lima sobre acusações; veja vídeo ")[![Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/9/csm_Criminosos_atiraram_pelo_menos_37_vezes_em_carro_blindado_de_empresario_morto_-_foto_Reproducao_efce84e070.jpg)
-
-66 anos
-
-66 anos
-
-Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto
-
-Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto](https://www.tnh1.com.br/noticia/nid/criminosos-atiraram-pelo-menos-37-vezes-em-carro-blindado-de-empresario-morto/ "Criminosos atiraram pelo menos 37 vezes em carro blindado de empresário morto")
+Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda](https://www.tnh1.com.br/noticia/nid/samuel-etoo-e-suspenso-pela-fifa-por-indisciplina-entenda/ "Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
