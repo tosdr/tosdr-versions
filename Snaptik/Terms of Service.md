@@ -131,6 +131,7 @@ These Terms of Service may be amended by SnapTik at any time upon notice provide
 
 #### Tools
 
+* [Download photo TikTok Notes](https://snaptik.app/tiktok-notes-downloader)
 * [Download video Douyin](https://snaptik.app/douyin-downloader)
 * [Download Tiktok Slide](https://snaptik.app/download-tiktok-slide)
 * [Download Tiktok Story](https://snaptik.app/download-story-tiktok)
