@@ -298,13 +298,6 @@ Donal Armstrong has been missing since Saturday
 [Search operation taking place for 23-year-old man who entered River Foyle](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 30th September 2024](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with series of drugs offences jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
 
 Derry Court
@@ -334,6 +327,13 @@ Derry Court
 
 [IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1617785/in-pictures-martin-mcguinness-chieftain-gaelic-games-at-celtic-park.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal charged with rape returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal charged with rape returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal man charged with rape returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +511,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 1 2024](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Caolan McCourt of @notoriousstreet serves up cookery masterclass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Caolan McCourt of @notoriousstreet serves up cookery masterclass")](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
 
 Sabrina Lynch, Programme Manager, Old Library Trust lets staff members Wendy McLaughlin and Kathleen McNaught sample some of the delicious dishes. (Photo: Jim McCafferty Photography)
@@ -520,7 +527,7 @@ Sabrina Lynch, Programme Manager, Old Library Trust lets staff members Wendy McL
 [Caolan McCourt of Notorious Street Food serves up cookery masterclass](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Search operation taking place for 23-year-old man who entered River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search operation taking place for 23-year-old man who entered River Foyle")](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
+[![Search operation taking place for 23-year-old man who entered River Foyle](https://www.derrynow.com/resizer/165/93/true/2024_09_30/461392222_948491293978037_7975959460415546664_n-1727721151350.jpg--.jpg?1727721151388 "Search operation taking place for 23-year-old man who entered River Foyle")](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
 
 Donal Armstrong has been missing since Saturday
 
@@ -555,15 +562,6 @@ The White Butterfly Foundation
 
 [The White Butterfly Foundation set for Official Launch in Derry's Guildhall](https://www.derrynow.com/news/county-derry-post/1617937/the-white-butterfly-foundation-set-for-official-launch-in-derry-s-guildhall.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with series of drugs offences jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with series of drugs offences jailed](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
