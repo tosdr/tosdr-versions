@@ -5546,11 +5546,9 @@ Print
   
 
 [Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/Digital-Activation-Offer-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/Digital-Activation-Offer-T-and-C.pdf") Digital Activation Offer T&C  
-​​​​​​​  
+​​​​​​​
 
-[Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/august/Monsoon-Offer-Booklet-Saving-New-Aug-20-206873.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/august/Monsoon-Offer-Booklet-Saving-New-Aug-20-206873.pdf") Savings Account Offer Booklet  
   
-[Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/august/Monsoon-Salary-Booklet-New-Aug-20-206874.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/august/Monsoon-Salary-Booklet-New-Aug-20-206874.pdf") Salary Account Offer Booklet
 
   
 
