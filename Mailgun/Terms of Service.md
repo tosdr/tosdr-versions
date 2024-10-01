@@ -274,9 +274,6 @@ This app works best with JavaScript enabled.
         * [Document icon
             
             Case studies](https://www.mailgun.com/resources/case-studies/)
-        * [Businessman icon
-            
-            Our customers](https://www.mailgun.com/resources/success-stories/our-customers/)
     
     Solutions
     
@@ -310,9 +307,6 @@ This app works best with JavaScript enabled.
         * [Document icon
             
             Case studies](https://www.mailgun.com/resources/case-studies/)
-        * [Businessman icon
-            
-            Our customers](https://www.mailgun.com/resources/success-stories/our-customers/)
     
 * Developer
     
@@ -683,9 +677,6 @@ Back to main menu
         * [Document icon
             
             Case studies](https://www.mailgun.com/resources/case-studies/)
-        * [Businessman icon
-            
-            Our customers](https://www.mailgun.com/resources/success-stories/our-customers/)
     
     Solutions
     
@@ -719,9 +710,6 @@ Back to main menu
         * [Document icon
             
             Case studies](https://www.mailgun.com/resources/case-studies/)
-        * [Businessman icon
-            
-            Our customers](https://www.mailgun.com/resources/success-stories/our-customers/)
     
 * Developer
     
@@ -1034,9 +1022,6 @@ Back to main menu
     * [Document icon
         
         Case studies](https://www.mailgun.com/resources/case-studies/)
-    * [Businessman icon
-        
-        Our customers](https://www.mailgun.com/resources/success-stories/our-customers/)
 
 * [Badge question icon
     
