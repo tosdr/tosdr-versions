@@ -229,10 +229,10 @@ Open Search
 [Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=bf90a71bac&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
 
 * [Home](https://www.beano.com/)
-* [Quizzes](https://www.beano.com/categories/quizzes)
-* [Games](https://www.beano.com/categories/games)
-* [Jokes](https://www.beano.com/categories/jokes)
-* [Subscribe](https://www.beano.com/subscribe)
+* [Quizzes](https://www.beano.com/quiz)
+* [Games](https://www.beano.com/games)
+* [Jokes](https://www.beano.com/jokes)
+* [Comic](https://www.beano.com/comic)
 
 Cookie Policy
 =============
