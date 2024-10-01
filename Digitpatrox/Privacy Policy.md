@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, September 30 2024
+Tuesday, October 1 2024
 
 Latest
 
-* [Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
-* [A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
-* [The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
-* [Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
-* [Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
-* [DirecTV’s Merger With DISH Might Be a Good Thing](https://digitpatrox.com/directvs-merger-with-dish-might-be-a-good-thing/)
-* [DoiT: In the business of setting up your business for future success](https://digitpatrox.com/doit-in-the-business-of-setting-up-your-business-for-future-success/)
-* [Top 6 Mobile Payment Methods To Consider for Your Business](https://digitpatrox.com/top-6-mobile-payment-methods-to-consider-for-your-business/)
-* [I’ve been using a sunrise alarm clock for a week and it’s making early wake-ups way easier](https://digitpatrox.com/ive-been-using-a-sunrise-alarm-clock-for-a-week-and-its-making-early-wake-ups-way-easier/)
-* [How to order free rapid covid tests from the US government — again](https://digitpatrox.com/how-to-order-free-rapid-covid-tests-from-the-us-government-again/)
+* [Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
+* [Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
+* [Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
+* [Best Dash Cams – Consumer Reports](https://digitpatrox.com/best-dash-cams-consumer-reports/)
+* [Mozilla Thunderbird for Android Is Finally Here](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
+* [A time bomb for tech: The risks of legacy technology for your business](https://digitpatrox.com/a-time-bomb-for-tech-the-risks-of-legacy-technology-for-your-business/)
+* [Best UCaaS Providers of 2024](https://digitpatrox.com/best-ucaas-providers-of-2024/)
+* [New on Peacock in October 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-peacock-in-october-2024-all-the-movies-and-shows-to-watch/)
+* [YouTube’s missing hits will come back now that it has a deal with SESAC](https://digitpatrox.com/youtubes-missing-hits-will-come-back-now-that-it-has-a-deal-with-sesac/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-1/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/rcggK9pkAbTthEnDrC7pPh-1200-80.jpg)](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
+* [![](https://cdn.mos.cms.futurecdn.net/GgpnAkuw5B39s3TY8aNh7a-1200-80.jpg)](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
     
-    [Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
+    [Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
     
-    3 mins ago
+    27 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/2099381-0-24968200-1727714668-semiconductor_chips_manufacturing.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542749-0-23180200-1727713602-original.jpg?quality=50&strip=all&w=800)](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
     
-    [A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
-    
-    26 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HF2GZV06M141MP8CYJH6NNX6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
-    
-    [The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
+    [Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
     
     50 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Maui-health-clinic-notifies-124K-people-of-data-breach-claimed-by-LockBit.jpg)](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
+* [![](https://lifehacker.com/imagery/articles/01J92C527FBM3SD5MZVYAANJGY/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
     
-    [Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727104332/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Tesla-Cybertruck-f-driving-9-24)](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
-    
-    [Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
+    [Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
     
     1 hour ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1685991322/prod/content/dam/CRO-Images-2023/06June/Rapid-Response/CR-AG-InlineHero-Best-Dash-Cams-0623)](https://digitpatrox.com/best-dash-cams-consumer-reports/)
+    
+    [Best Dash Cams – Consumer Reports](https://digitpatrox.com/best-dash-cams-consumer-reports/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/mozilla-thunderbird-1-1.jpg)](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
+    
+    [Mozilla Thunderbird for Android Is Finally Here](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [27 mins ago
     
-    ### Waving goodbye to downtime and hello to future success](https://digitpatrox.com/waving-goodbye-to-downtime-and-hello-to-future-success/)
-* [26 mins ago
-    
-    ### A timeline of grants to chipmakers – Computerworld](https://digitpatrox.com/a-timeline-of-grants-to-chipmakers-computerworld/)
+    ### Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
 * [50 mins ago
     
-    ### The Best Ways to Clean Dirty Grout](https://digitpatrox.com/the-best-ways-to-clean-dirty-grout/)
+    ### Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
+* [1 hour ago
+    
+    ### Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
 
 Most Popular Topics
 
-* [2 days ago
+* [5 days ago
     
-    ### What is a Router Firewall and How Does it Work?](https://digitpatrox.com/what-is-a-router-firewall-and-how-does-it-work/)
-* [August 12, 2024
+    ### Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
+* [2 weeks ago
     
-    ### Evening Post Publishing Inc. notifies 15K people of data breach – SSNs & credit card info compromised](https://digitpatrox.com/evening-post-publishing-inc-notifies-15k-people-of-data-breach-ssns-credit-card-info-compromised/)
-* [August 14, 2024
+    ### Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
+* [August 23, 2024
     
-    ### How to fix device encryption is temporarily suspended error on Windows](https://digitpatrox.com/how-to-fix-device-encryption-is-temporarily-suspended-error-on-windows/)
+    ### How Apple can fight the tyranny of ‘choice’ – Computerworld](https://digitpatrox.com/how-apple-can-fight-the-tyranny-of-choice-computerworld/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### DoiT: In the business of setting up your business for future success](https://digitpatrox.com/doit-in-the-business-of-setting-up-your-business-for-future-success/)
-* [2 hours ago
-    
-    ### Top 6 Mobile Payment Methods To Consider for Your Business](https://digitpatrox.com/top-6-mobile-payment-methods-to-consider-for-your-business/)
 * [3 hours ago
     
-    ### I’ve been using a sunrise alarm clock for a week and it’s making early wake-ups way easier](https://digitpatrox.com/ive-been-using-a-sunrise-alarm-clock-for-a-week-and-its-making-early-wake-ups-way-easier/)
+    ### Best UCaaS Providers of 2024](https://digitpatrox.com/best-ucaas-providers-of-2024/)
+* [3 hours ago
+    
+    ### New on Peacock in October 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-peacock-in-october-2024-all-the-movies-and-shows-to-watch/)
+* [4 hours ago
+    
+    ### YouTube’s missing hits will come back now that it has a deal with SESAC](https://digitpatrox.com/youtubes-missing-hits-will-come-back-now-that-it-has-a-deal-with-sesac/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
