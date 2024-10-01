@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. digital marketing
     
-2. computer science
+2. hacking
     
-3. html
+3. harvard
     
 
 Popular subjects
@@ -427,25 +427,25 @@ Popular subjects
 1. [Communication Skills
     
     3,904 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Computer Science
+2. [Project Management
     
-    33,315 courses](https://www.classcentral.com/subject/cs)
-3. [Graphic Design
+    3,754 courses](https://www.classcentral.com/subject/project-management)
+3. [Web Development
     
-    4,161 courses](https://www.classcentral.com/subject/graphic-design)
+    12,590 courses](https://www.classcentral.com/subject/web-development)
 
 Popular courses
 ---------------
 
-1. [Introduction to Psychology
+1. [Learn to Program: The Fundamentals
     
-    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
-2. [Inspiring Leadership through Emotional Intelligence
+    University of Toronto](https://www.classcentral.com/course/programming1-385)
+2. [Machine Learning for Musicians and Artists
     
-    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
-3. [Paleontology: Theropod Dinosaurs and the Origin of Birds
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+3. [Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry
     
-    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
+    Wageningen University](https://www.classcentral.com/course/fashion-wageningen-university-research-circular-f-17080)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
