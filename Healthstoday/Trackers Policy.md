@@ -7,7 +7,6 @@
 * [Home](https://healthstoday.com/)
 * [Diet](https://healthstoday.com/category/diet/)
 * [Exercise](https://healthstoday.com/category/exercise/)
-    * [Spiritual Health](https://healthstoday.com/category/spiritual-health/)
 * [General Health](https://healthstoday.com/category/general-health/)
     * [Cholesterol](https://healthstoday.com/category/cholesterol/)
     * [Dental Health](https://healthstoday.com/category/dental-health/)
@@ -19,10 +18,6 @@
     * [Women’s Health](https://healthstoday.com/category/general-health/womens-health/)
     * [Allergies](https://healthstoday.com/category/allergies/)
 * [Family](https://healthstoday.com/category/family/)
-    * [Children’s Health](https://healthstoday.com/category/general-health/childrenshealth/)
-    * [Home improvement](https://healthstoday.com/category/homeimprovement/)
-    * [Fashion](https://healthstoday.com/category/fashion/)
-* [Personal Finance](https://healthstoday.com/category/finance/)
 * [Pets](https://healthstoday.com/category/pets/)
 
 Search 
@@ -34,7 +29,6 @@ Search
 * [Home](https://healthstoday.com/)
 * [Diet](https://healthstoday.com/category/diet/)
 * [Exercise](https://healthstoday.com/category/exercise/)
-    * [Spiritual Health](https://healthstoday.com/category/spiritual-health/)
 * [General Health](https://healthstoday.com/category/general-health/)
     * [Cholesterol](https://healthstoday.com/category/cholesterol/)
     * [Dental Health](https://healthstoday.com/category/dental-health/)
@@ -78,10 +72,6 @@ Search
             [](#)[](#)
             
 * [Family](https://healthstoday.com/category/family/)
-    * [Children’s Health](https://healthstoday.com/category/general-health/childrenshealth/)
-    * [Home improvement](https://healthstoday.com/category/homeimprovement/)
-    * [Fashion](https://healthstoday.com/category/fashion/)
-* [Personal Finance](https://healthstoday.com/category/finance/)
 * [Pets](https://healthstoday.com/category/pets/)
 
 [](#)[](#)
