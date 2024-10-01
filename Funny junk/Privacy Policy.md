@@ -123,15 +123,6 @@ Children's Privacy
 
 We do not knowingly collect PII from, and do not create user segments targeted for children under 13 years of age. If you believe your child or someone else has provided ZZB, LLC with PII about your child and you would like to have the information removed, please contact us and we will use reasonable efforts to remove such information from our records.
 
-How to Contact Us
------------------
-
-If you have any questions or concerns about ZZB, LLC's Privacy Policy, you may contact us at this email address: [fjprivacy@gmail.com](mailto:fjprivacy@gmail.com), or you can send correspondence to the following address:
-
-ZZB, LLC  
-335 Hudson, 11th Floor, #232  
-New York, New York 10014
-
 Changes to this Privacy Policy and Additional Information
 ---------------------------------------------------------
 
