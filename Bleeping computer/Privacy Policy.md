@@ -36,18 +36,18 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
-    * [![Try 20+ Adobe Creative Cloud apps for 3 months for $75](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Get Office apps, OneDrive, and more with 42% off Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Try 20+ Adobe Creative Cloud apps for 3 months for $75](https://www.bleepingcomputer.com/offer/deals/try-20-plus-adobe-creative-cloud-apps-for-3-months-for-75/)
-    * [![The Playstation Network is down in a global outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get Office apps, OneDrive, and more with 42% off Microsoft 365](https://www.bleepingcomputer.com/offer/deals/get-office-apps-onedrive-and-more-with-42-percent-off-microsoft-365/)
+    * [![Ransomware attack forces UMC Health System to divert some patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
-    * [![Hacker charged for breaching 5 companies for insider trading](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ransomware attack forces UMC Health System to divert some patients](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-umc-health-system-to-divert-some-patients/)
+    * [![Evil Corp hit with new sanctions, BitPaymer ransomware charges](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Hacker charged for breaching 5 companies for insider trading](https://www.bleepingcomputer.com/news/security/hacker-charged-for-breaching-5-companies-for-insider-trading/)
-    * [![Microsoft overhauls security for publishing Edge extensions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Evil Corp hit with new sanctions, BitPaymer ransomware charges](https://www.bleepingcomputer.com/news/security/evil-corp-hit-with-new-sanctions-bitpaymer-ransomware-charges/)
+    * [![Police arrest four suspects linked to LockBit ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft overhauls security for publishing Edge extensions](https://www.bleepingcomputer.com/news/microsoft/microsoft-overhauls-security-for-publishing-edge-extensions/)
+        Police arrest four suspects linked to LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Playstation controller](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
-* [![Verizon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
 * [![BGP Routing Outage Networking](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Man charged for selling forged license keys for network switches](https://www.bleepingcomputer.com/news/legal/man-charged-for-selling-forged-license-keys-for-network-switches/)
+* [![Verizon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
 
 ##### Follow us:
 
