@@ -97,7 +97,6 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     
     [Safe Learning Environments](https://www2.ed.gov/teaching-and-administration/safe-learning-environments)
     
-    * [Disaster and Emergency Response](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/natural-disaster-resources)
     * [School Safety and Security](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/school-safety-and-security)
     
     [Supporting Students](https://www2.ed.gov/teaching-and-administration/supporting-students)
