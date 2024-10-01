@@ -37,7 +37,7 @@ Main Content
 Best Buy Privacy Hub
 ====================
 
-[View page as printable PDF](https://files.bbystatic.com/99271e866b68e1b3a95bf0e40d31ec4d/file_by_path/BestBuy_US/dam/Best-Buy-Privacy-Hub-240901-964f6c25-e730-4209-9280-bc5fbb2f2719.pdf)
+[View page as printable PDF](https://files.bbystatic.com/8b1b54c067add97428fa52dfe919ff4b/file_by_path/BestBuy_US/dam/Best-Buy-Privacy-Hub-241001-18df5ae8-8737-4c88-b3a0-95007de44b36.pdf)
 
 ![Privacy discussion](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-32416-pm-privacy-190303_der-67672.jpg)
 
@@ -84,22 +84,7 @@ Customer privacy is a major priority at Best Buy, and we take great care to prot
 
 This website is a one-stop national resource to understand how to avoid identity theft — and learn what to do if your identity is stolen.
 
-We updated our privacy policy.
-------------------------------
-
-Our updates are intended to make the policy easier to read, inform you about new personal information options, and reflect changes to our information-sharing practices after September 1, 2024.
-
-The language around privacy has changed. A lot.
------------------------------------------------
-
-Over a dozen states have recently enacted new privacy laws, with new terms and new definitions. We also offer consumers personal information options that didn’t exist until recently. As a result, we made changes so that our updated privacy policy provides a refreshed and revised description of how we will collect, use, and share personal information and the personal information options we offer. We also provide a [State Privacy Rights page](https://www.bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063) to supplement our privacy policy with the specific requirements of state laws.
-
-We changed our information-sharing practices.
----------------------------------------------
-
-At Best Buy, our purpose is to enrich lives through technology. To do that we try to ensure our customers receive relevant, personalized information and experiences no matter how they shop with us. As described below, we are going to share personal information regarding consumer purchases made after September 1, with select partners to help better ensure we’re delivering relevant information and experiences and measuring how well we’re doing. Some of those partners may use the shared information to improve their interest-based advertising, independent of Best Buy.
-
-See below regarding “Advertising Opt-Outs” to learn more about asking us to limit this type of sharing for advertising purposes (referred to as a “sale” by some state laws).
+Effective 9/1/2024
 
 Best Buy Privacy Policy
 -----------------------
@@ -309,6 +294,11 @@ Nevada residents:
 
 If you are a Nevada resident, you have the right to request that Best Buy not sell your personal information to third parties. To submit this request, please send us an email at [EnterprisePrivacy@BestBuy.com](mailto:EnterprisePrivacy@BestBuy.com). However, please note that Best Buy does not sell personal information about you to third parties as defined under Nevada law.
 
+Montana residents:
+------------------
+
+If you are a Montana resident and would like to learn more about your rights under Montana's laws, or review a privacy policy and notice consistent with the same, visit our [State Privacy Rights page](https://www.bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063).
+
 Oregon residents:
 -----------------
 
@@ -329,7 +319,7 @@ Virginia residents:
 
 If you are a Virginia resident and would like to learn more about your rights under Virginia’s laws, or review a privacy policy and notice consistent with the same, visit our [State Privacy Rights page](https://www.bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063).
 
-**Last Updated:** August 1, 2024
+**Last Updated:** 10/1/24
 
 Sponsored
 
