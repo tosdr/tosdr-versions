@@ -1,6 +1,6 @@
 5.38.15
 
-1727750478094
+1727771396978
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727750478054
+1727771339655
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727750478539
+1727771079801
 
 You need to enable JavaScript to run this app.
 
@@ -501,6 +501,24 @@ The available credit shown in marketing material is correct at the time it was c
 ### Check Your Eligibility
 
 There will be a soft search made on your credit file to determine if you would be successful in an application for a Next credit account. A soft search is not visible to other companies and will not impact your credit score or future applications for credit. Existing customer details will be used to check eligibility. For further information please see our [Privacy & Cookie Policy](https://www.next.co.uk/privacy).
+
+### £10 off first order
+
+1. Offer available to selected customers, criteria predefined by Next Retail Limited.
+2. Your unique discount code will be provided to you via email.
+3. The discount entitles you to £10 off your order. The discount will only be valid on orders over £30 after other discounts have been applied.
+4. Between 00:01 on 01/10/2024 until 23:59 on 31/12/2024 enter the discount code into www.next.co.uk/epin to redeem the discount.
+5. You must be logged into your customer account to redeem the offer. The discount can only be used by the account holder.
+6. The offer can only be used once per customer.
+7. The offer is for online purchases only.
+8. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+9. The promotion discount applied will be apportioned across all qualifying items.
+10. If you have more than one unused promotion against your account, please note that only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
+11. The discount cannot be exchanged for cash.
+12. Usual delivery times, methods, charges and returns policies apply.
+13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
+15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### 10% off Credit Welcome Offer
 
@@ -1409,16 +1427,6 @@ D. Share to their stories for an extra entry
 34. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
 
 Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
-
-### NEXT UK - Shop the app and get £5 off
-
-1. The offer to receive a £5 reward when you shop the Next app is an online offer only. To be eligible for this promotional offer, you must have placed an order on the Next app by 28/11/2023 Only one available per customer. Open to UK, Channel Islands and Isle of Man, residents over 18 years old (excluding employees of Next PLC).
-2. You will receive your £5 reward/promotional offer within 2 working days of your purchase made on the Next app. This will be loaded automatically to your account and applied at checkout on your next purchase. We will also send a notification of this adjustment to your account via email as well as a push notification if enabled on your device.
-3. The £5 reward is redeemable on all online orders over £5.01 after other discounts have been applied and excludes deliveries.
-4. If you return items included in the order for a refund, in line with our Returns Policy, we may deduct some or all of the £5 applied to your account if the value of the items you keep is less than the minimum order value (£5.01).
-5. The £5 reward applied to your account will only be valid for use until 20/12/23 after which it will be removed from your account.
-6. The £5 reward, once added to your account, will be automatically applied on your next purchase. This offer is a personalised promotion unique to customers who have met the criteria defined by Next.
-7. To be eligible for this promotional offer, you must have placed an order on the Next app by 11:59 28/11/2023.
 
 ### Next Android App Competition
 
@@ -2523,7 +2531,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727750478170
+1727772125760
 
 ### Our Social Networks
 
