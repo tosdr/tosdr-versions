@@ -4,37 +4,37 @@
 
 [![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/)
 
-* [For Consumer](https://www.bitdefender.com/solutions/)
+* [For Consumer](https://www.bitdefender.com/consumer/)
     
     * All-in-one plans
         
         All-in-One Plans
         
-        * [Ultimate Security](https://www.bitdefender.com/solutions/ultimate-security.html)
-        * [Premium Security](https://www.bitdefender.com/solutions/premium-security.html)
-        * [Ultimate Small Business Security](https://www.bitdefender.com/solutions/small-business-security.html)
+        * [Ultimate Security](https://www.bitdefender.com/consumer/ultimate-security.html)
+        * [Premium Security](https://www.bitdefender.com/consumer/premium-security.html)
+        * [Ultimate Small Business Security](https://www.bitdefender.com/consumer/small-business-security.html)
         * [Security for Creators](https://www.bitdefender.com/en-us/consumer/security-for-creators)
         
         View All
         
         Device Security
         
-        * [Total Security](https://www.bitdefender.com/solutions/total-security.html)
-        * [Internet Security](https://www.bitdefender.com/solutions/internet-security.html)
-        * [Antivirus Plus](https://www.bitdefender.com/solutions/antivirus.html)
-        * [Antivirus for Mac](https://www.bitdefender.com/solutions/antivirus-for-mac.html)
-        * [Mobile Security for Android](https://www.bitdefender.com/solutions/mobile-security-android.html)
-        * [Mobile Security for iOS](https://www.bitdefender.com/solutions/mobile-security-ios.html)
-        * [Family Pack](https://www.bitdefender.com/solutions/family-pack.html)
-        * [Small Office Security](https://www.bitdefender.com/solutions/small-office-security.html)
+        * [Total Security](https://www.bitdefender.com/consumer/total-security.html)
+        * [Internet Security](https://www.bitdefender.com/consumer/internet-security.html)
+        * [Antivirus Plus](https://www.bitdefender.com/consumer/antivirus.html)
+        * [Antivirus for Mac](https://www.bitdefender.com/consumer/antivirus-for-mac.html)
+        * [Mobile Security for Android](https://www.bitdefender.com/consumer/mobile-security-android.html)
+        * [Mobile Security for iOS](https://www.bitdefender.com/consumer/mobile-security-ios.html)
+        * [Family Pack](https://www.bitdefender.com/consumer/family-pack.html)
+        * [Small Office Security](https://www.bitdefender.com/consumer/small-office-security.html)
         
         View All
         
         Try Bitdefender
         
-        * [Scamio - Scam Detector](https://www.bitdefender.com/solutions/scamio.html) _AI Powered_
-        * [Antivirus Free](https://www.bitdefender.com/solutions/free.html)
-        * [Antivirus Free for Android](https://www.bitdefender.com/solutions/antivirus-free-for-android.html)
+        * [Scamio - Scam Detector](https://www.bitdefender.com/consumer/scamio.html) _AI Powered_
+        * [Antivirus Free](https://www.bitdefender.com/consumer/free.html)
+        * [Antivirus Free for Android](https://www.bitdefender.com/consumer/antivirus-free-for-android.html)
         * [Trial Downloads](https://www.bitdefender.com/Downloads/)
         * [Free Tools](https://www.bitdefender.com/toolbox/)
         
@@ -55,13 +55,13 @@
         
         Privacy
         
-        * [Premium VPN](https://www.bitdefender.com/solutions/vpn.html)
-        * [Password Manager](https://www.bitdefender.com/solutions/password-manager.html)
+        * [Premium VPN](https://www.bitdefender.com/consumer/vpn.html)
+        * [Password Manager](https://www.bitdefender.com/consumer/password-manager.html)
         
         Identity Protection
         
-        * [Digital Identity Protection](https://www.bitdefender.com/solutions/digital-identity-protection.html)
-        * [Identity Theft Protection](https://www.bitdefender.com/solutions/identity-theft-protection.html)
+        * [Digital Identity Protection](https://www.bitdefender.com/consumer/digital-identity-protection.html)
+        * [Identity Theft Protection](https://www.bitdefender.com/consumer/identity-theft-protection.html)
         
     
 * [For Small Business](https://www.bitdefender.com/small-business/)
@@ -451,7 +451,7 @@ Bitdefender participates in the Adobe Marketing Cloud Device Cooperative to bett
 
 [![Bitdefender Cybersecurity](/content/experience-fragments/bitdefender/language_master/en/footer-fragment-v1/master/_jcr_content/root/footer/footer-image.coreimg.png/1713254456402/white-logo.png)](https://www.bitdefender.com/)
 
-* [For Consumer](https://www.bitdefender.com/solutions/)
+* [For Consumer](https://www.bitdefender.com/consumer/)
 * [For Small Business](https://www.bitdefender.com/small-business/)
 * [For Enterprise](https://www.bitdefender.com/business/)
 * [For Partners](https://www.bitdefender.com/partners/)
@@ -493,24 +493,52 @@ Quick Links
 Choose Your Country
 
 * [Australia - English](https://www.bitdefender.com.au/)
+* [België - Nederlands](https://www.bitdefender.com/content/bitdefender/be/fr-BE/)
 * [België - Nederlands](https://www.bitdefender.be/)
-* [Belgique - Français](https://www.bitdefender.fr/)
+* [Belice - Español](https://www.bitdefender.com/content/bitdefender/bz/es-BZ/)
+* [Belize - English](https://www.bitdefender.com/content/bitdefender/bz/en-BZ/)
 * [Brasil - Português](https://www.bitdefender.com.br/)
+* [Bulgaria - English](https://www.bitdefender.com/content/bitdefender/bg/en-BG/)
 * [Canada - English](https://www.bitdefender.com/content/bitdefender/ca/en-CA/)
+* [Chile - English](https://www.bitdefender.com/content/bitdefender/cl/en-CL/)
+* [Chile - Español](https://www.bitdefender.com/content/bitdefender/cl/es-CL/)
+* [Colombia - Español](https://www.bitdefender.com/content/bitdefender/co/es-CO/)
+* [Denmark - English](https://www.bitdefender.com/content/bitdefender/dk/en-DK/)
 * [Deutschland - Deutsch](https://www.bitdefender.de/)
 * [España - Español](https://www.bitdefender.es/)
 * [France - Français](https://www.bitdefender.fr/)
 * [Hong Kong - China](https://www.bitdefender.com/zh-hk/)
+* [Hungary - English](https://www.bitdefender.com/content/bitdefender/hu/en-HU/)
+* [India - English](https://www.bitdefender.com/content/bitdefender/in/en-IN/)
+* [Indonesia - English](https://www.bitdefender.com/content/bitdefender/id/en-ID/)
+* [Israel - English](https://www.bitdefender.com/content/bitdefender/il/en-IL/)
 * [Italia - Italiano](https://www.bitdefender.it/)
+* [Jamaica - English](https://www.bitdefender.com/content/bitdefender/jm/en-JM/)
+* [Latvia - English](https://www.bitdefender.com/content/bitdefender/lv/en-LV/)
+* [Malaysia - English](https://www.bitdefender.com/content/bitdefender/my/en-MY/)
+* [Malta - English](https://www.bitdefender.com/content/bitdefender/mt/en-MT/)
+* [México - Español](https://www.bitdefender.com/content/bitdefender/mx/es-MX/)
 * [Nederland - Nederlands](https://www.bitdefender.nl/)
-* [Österreich - Deutsch](https://www.bitdefender.de/)
+* [New Zealand - English](https://www.bitdefender.com/content/bitdefender/nz/en-NZ/)
+* [Norway - English](https://www.bitdefender.com/content/bitdefender/no/en-NO/)
+* [Österreich - Deutsch](https://www.bitdefender.com/content/bitdefender/at/de-AT/)
+* [Perú - Español](https://www.bitdefender.com/content/bitdefender/pe/es-PE/)
+* [Philippines - English](https://www.bitdefender.com/content/bitdefender/ph/en-PH/)
+* [Poland - English](https://www.bitdefender.com/content/bitdefender/pl/en-PL/)
 * [Portugal - Português](https://www.bitdefender.pt/)
 * [România - Română](https://www.bitdefender.ro/)
+* [Saudi Arabia - English](https://www.bitdefender.com/content/bitdefender/sa/en-SA/)
+* [Schweiz - Deutsch](https://www.bitdefender.com/content/bitdefender/ch/de-CH/)
+* [Singapore - English](https://www.bitdefender.com/content/bitdefender/sg/en-SG/)
+* [South Africa - English](https://www.bitdefender.com/content/bitdefender/za/en-ZA/)
+* [South Korea - English](https://www.bitdefender.com/content/bitdefender/kr/en-KR/)
+* [Sudan - English](https://www.bitdefender.com/content/bitdefender/sd/en-SD/)
 * [Sverige - Svenska](https://www.bitdefender.se/)
 * [Taiwan - 台灣](https://www.bitdefender.com/zh-tw/)
+* [Thailand - English](https://www.bitdefender.com/content/bitdefender/th/en-TH/)
+* [United Arab Emirates - English](https://www.bitdefender.com/content/bitdefender/ae/en-AE/)
 * [United Kingdom - English](https://www.bitdefender.co.uk/)
 * [United States - English](https://www.bitdefender.com/)
-* [WorldWide - English](https://www.bitdefender.com/)
 * [日本 - 日本語](https://bitdefender.co.jp/)
 
 Follow Bitdefender
