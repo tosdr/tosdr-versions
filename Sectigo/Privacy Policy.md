@@ -138,15 +138,15 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
+* [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 426: Expired Certificate Takes Down Bank of England](https://www.sectigo.com/resource-library/root-causes-426-expired-certificate-takes-down-bank-of-england)
 * [Root Causes 425: PQC Requirements for Voting Systems](https://www.sectigo.com/resource-library/root-causes-425-pqc-requirements-for-voting-systems)
 * [Root Causes 424: Using LoRA IoT Protocol for Clandestine Communication](https://www.sectigo.com/resource-library/root-causes-424-using-lora-iot-protocol-for-clandestine-communication)
 * [Root Causes 423: Is a Certificate Software or a Service?](https://www.sectigo.com/resource-library/root-causes-423-is-a-certificate-software-or-a-service)
 * [Root Causes 422: New Date for Entrust Distrust](https://www.sectigo.com/resource-library/root-causes-422-new-date-for-entrust-distrust)
-* [Root Causes 421: FIDO 2 Implementation Problems](https://www.sectigo.com/resource-library/root-causes-421-fido-2-implementation-problems)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -233,13 +233,13 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
+    * [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 426: Expired Certificate Takes Down Bank of England](https://www.sectigo.com/resource-library/root-causes-426-expired-certificate-takes-down-bank-of-england)
     * [Root Causes 425: PQC Requirements for Voting Systems](https://www.sectigo.com/resource-library/root-causes-425-pqc-requirements-for-voting-systems)
     * [Root Causes 424: Using LoRA IoT Protocol for Clandestine Communication](https://www.sectigo.com/resource-library/root-causes-424-using-lora-iot-protocol-for-clandestine-communication)
     * [Root Causes 423: Is a Certificate Software or a Service?](https://www.sectigo.com/resource-library/root-causes-423-is-a-certificate-software-or-a-service)
     * [Root Causes 422: New Date for Entrust Distrust](https://www.sectigo.com/resource-library/root-causes-422-new-date-for-entrust-distrust)
-    * [Root Causes 421: FIDO 2 Implementation Problems](https://www.sectigo.com/resource-library/root-causes-421-fido-2-implementation-problems)
     
 
 *  #}
