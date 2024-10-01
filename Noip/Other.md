@@ -562,7 +562,7 @@ Resources
                 
             * [Registry Agreements Archive](https://www.icann.org/resources/pages/archive-54-2012-02-25-en)
                 
-                * [Proof of Concept Reports](https://www.icann.org/resources/pages/poc-2012-02-25-en)
+                * [Proof of Concept Reports](https://www.icann.org/resources)
                     
             * [Terminated Registry Agreements](https://www.icann.org/resources/pages/terminated-registry-agreements-2016-03-02-en)
                 
