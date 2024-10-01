@@ -97,12 +97,12 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [SpaceX’s Grounds Falcon 9](https://techcrunch.com/2024/09/30/after-delivering-astronauts-to-iss-spacexs-falcon-9-grounded-after-third-anomaly-in-three-months/)
+* [OpenAI’s Dev Day](https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/)
+* [Microsoft Copilot](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/)
 * [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
-* [VPNs](https://techcrunch.com/2024/09/30/we-are-skeptical-of-vpn-providers-and-you-should-be-too/)
-* [Lex Acquisition](https://techcrunch.com/2024/09/30/queer-social-app-lex-acquired-by-the-former-musical-ly-ceos-conglomerate/)
-* [X’s Valuation](https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/)
-* [Tech Layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
+* [Sonos](https://techcrunch.com/2024/10/01/sonos-outlines-turnaround-plan-following-app-disaster/)
+* [Ford BlueCruise](https://techcrunch.com/2024/10/01/ford-cuts-price-bluecruise-hands-free-driving/)
+* [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
