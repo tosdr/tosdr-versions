@@ -127,50 +127,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=182302043)  
-van Schaik rentals
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=190542246)  
+Immediate Health (pty)ltd
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=156105726)  
-Vplay Grafix
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=75102843)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=40285512)  
-Brilliant Roof Products
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=24400578)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=183380548)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=134375037)  
+Alliance Energy
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=34532426)  
-Calonet
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=206146040)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=5425878)  
-FX ACCOUNTING
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=202397890)  
+AFS Electrical
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=51714278)  
-Mountain Lion Properties
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=207010104)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=134428295)  
-Secunda Signs T/A Local Print and Signs
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=100913511)  
+LEO DEVELOPMENT GROUP
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=214003808)  
-kidoscabbie
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=132779467)  
+Goju Ryu Karate Centre
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=48666470)  
-VIR Electrical (PTY) LTD
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=49949220)  
+Electro-Heat
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=150495340)  
-Depot Diesel (Pty) Ltd
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=184253010)  
-One2b
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=200093505)  
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=115186897)  
 Desygn
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=40920701)  
-#DiGi3 Marketing & Design
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=100593648)  
+Super Sound Man (PTY) Ltd
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=128555281)  
-Enhle Oarabile Kea
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=7982379)  
+AquariumSmiths
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=149858030)  
+Konsortium Operations (PTY) LTD
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=8aff41ef8fc6730eb7b23d42336667e277286fc58e146a3e76e84bff126ba4a7&c=213388997)  
+Baby Toddles Infant Care
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
