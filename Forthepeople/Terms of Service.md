@@ -149,8 +149,6 @@
         * [Train & Railroad Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/train-accident-attorneys/)
         * [Plane Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/)
         * [Helicopter Crashes](https://www.forthepeople.com/blog/how-do-helicopter-crashes-happen/)
-        * [Tesla Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/tesla/fires/)
-        * [Scooter Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/scooter-accident-lawyers/)
         * [Golf Cart Wrecks](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/golf-cart-accident-lawyers/)
         * [Pedestrian Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/pedestrian-accidents/)
         * [ATV Accidents](https://www.forthepeople.com/practice-areas/product-liability-attorneys/atv/)
