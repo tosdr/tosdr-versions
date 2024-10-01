@@ -4,7 +4,6 @@
 * [events](https://dmginc.gg/events)
 * [repshop](https://dmginc.gg/repshop)
 * [forum](https://forum.dmginc.gg/)
-* [store](https://store.dmginc.gg/)
 
 login
 
@@ -12,7 +11,6 @@ login
 * [events](https://dmginc.gg/events)
 * [repshop](https://dmginc.gg/repshop)
 * [forum](https://forum.dmginc.gg/)
-* [store](https://store.dmginc.gg/)
 * Login
 
 ![](https://dmginc.gg/assets/images/damageinc/di-logo/banner-light-red.png)
