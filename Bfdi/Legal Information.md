@@ -107,24 +107,27 @@ Hauptmenü
     * [Ber­lin Group](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/Berlin-Group/Berlin-Group-node.html "Berlin Group")
     * [Wei­te­re Gre­mi­en](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/WeitereGremien/weiteregremien_node.html)
     
-    [Da­ten­schutz­pra­xis](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/datenschutzpraxis_node.html)
-    -------------------------------------------------------------------------------------------------------------
+    [Ba­sis­wis­sen für die Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/datenschutzpraxis_node.html)
+    -------------------------------------------------------------------------------------------------------------------------------------
     
     * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
     * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
-    * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
-    * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
-    * [Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Sicherheitsueberpruefungsrecht/Sicherheitsueberpruefungsrecht_node.html)
     * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-    * [Da­ten­schutz und Post­dienst­leis­ter](https://www.bfdi.bund.de/DE/Service/Publikationen/Flyer-digital/Postdienstleister/Postdienstleister_node.html "Datenschutz und Postdienstleister – digitaler Flyer")
+    * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
     
-    [The­men & Po­si­tio­nen](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
-    ---------------------------------------------------------------------------------------------------------------
+    [Ein­zelthe­men](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
+    ------------------------------------------------------------------------------------------------------
     
     * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation & Telemedien")
-    * [Nach­rich­ten­diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Nachrichtendienste/nachrichtendienste_node.html)
-    * [Straf- & Si­cher­heits­recht](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Straf-Sicherheitsrecht/Straf-Sicherheitsrecht_node.html)
     * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
+    * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
+    
+    [Si­cher­heit](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Sicherheit-node.html)
+    --------------------------------------------------------------------------------------
+    
+    * [Wis­sens­wer­tes & Ak­tu­el­les](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Wissenswertes/Wissenswertes-node.html)
+    * [In­ter­na­tio­na­les](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Internationales/Internationales-node.html)
+    * [Pra­xis im Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Praxis-Sicherheitsrecht/Praxis-Sicherheitsrecht-node.html)
     
     [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
     ----------------------------------------------------------------------------------------------------------------
@@ -285,19 +288,19 @@ Schließen
         * [In­for­ma­ti­ons­frei­heits­kon­fe­ren­zen](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/Informationsfreiheitskonferenzen/Informationsfreiheitskonferenzen_node.html)
         * [Ber­lin Group](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/Berlin-Group/Berlin-Group-node.html "Berlin Group")
         * [Wei­te­re Gre­mi­en](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/WeitereGremien/weiteregremien_node.html)
-    * Datenschutzpraxis
+    * Basiswissen für die Datenverarbeitung
         * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
         * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
-        * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
-        * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
-        * [Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Sicherheitsueberpruefungsrecht/Sicherheitsueberpruefungsrecht_node.html)
         * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-        * [Da­ten­schutz und Post­dienst­leis­ter](https://www.bfdi.bund.de/DE/Service/Publikationen/Flyer-digital/Postdienstleister/Postdienstleister_node.html "Datenschutz und Postdienstleister – digitaler Flyer")
-    * Themen &amp; Positionen
+        * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
+    * Einzelthemen
         * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation & Telemedien")
-        * [Nach­rich­ten­diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Nachrichtendienste/nachrichtendienste_node.html)
-        * [Straf- & Si­cher­heits­recht](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Straf-Sicherheitsrecht/Straf-Sicherheitsrecht_node.html)
         * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
+        * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
+    * Sicherheit
+        * [Wis­sens­wer­tes & Ak­tu­el­les](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Wissenswertes/Wissenswertes-node.html)
+        * [In­ter­na­tio­na­les](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Internationales/Internationales-node.html)
+        * [Pra­xis im Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Fachthemen/Sicherheit/Praxis-Sicherheitsrecht/Praxis-Sicherheitsrecht-node.html)
     * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
 * Die BfDI
     * Über Uns
@@ -480,8 +483,8 @@ Unternavigation aller Website-Bereiche
 ### Themen
 
 * [Gre­mien­ar­beit](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/Gremienarbeit_node.html)
-* [Da­ten­schutz­pra­xis](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/datenschutzpraxis_node.html)
-* [The­men & Po­si­tio­nen](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
+* [Ba­sis­wis­sen für die Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/datenschutzpraxis_node.html)
+* [Ein­zelthe­men](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
 * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
 
 ### Die BfDI
