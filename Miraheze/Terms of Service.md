@@ -92,48 +92,48 @@ General
 * [Related changes](https://meta.miraheze.org/wiki/Special:RecentChangesLinked/Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://meta.miraheze.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=369983 "Permanent link to this revision of this page")
+* [Permanent link](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=432026 "Permanent link to this revision of this page")
 * [Page information](https://meta.miraheze.org/wiki/Terms_of_Use?action=info "More information about this page")
-* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Terms_of_Use&id=369983&wpFormIdentifier=titleform "Information on how to cite this page")
+* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Terms_of_Use&id=432026&wpFormIdentifier=titleform "Information on how to cite this page")
 * [Get shortened URL](https://meta.miraheze.org/wiki/Special:UrlShortener?url=https%3A%2F%2Fmeta.miraheze.org%2Fwiki%2FTerms_of_Use)
 
 From Miraheze Meta, Miraheze's central coordination wiki
+
+Other languages:
+
+* [Deutsch](https://meta.miraheze.org/wiki/Terms_of_Use/de "Nutzungsbedingungen (10% translated)")
+* English
+* [Nederlands](https://meta.miraheze.org/wiki/Terms_of_Use/nl "Gebruiksvoorwaarden (10% translated)")
+* [Türkçe](https://meta.miraheze.org/wiki/Terms_of_Use/tr "Kullanım Şartları (4% translated)")
+* [español](https://meta.miraheze.org/wiki/Terms_of_Use/es "Términos de Uso (63% translated)")
+* [français](https://meta.miraheze.org/wiki/Terms_of_Use/fr "Conditions d'utilisation (4% translated)")
+* [galego](https://meta.miraheze.org/wiki/Terms_of_Use/gl "Condicións de uso (4% translated)")
+* [italiano](https://meta.miraheze.org/wiki/Terms_of_Use/it "Condizioni d'Uso (4% translated)")
+* [polski](https://meta.miraheze.org/wiki/Terms_of_Use/pl "Warunki użytkowania (4% translated)")
+* [português do Brasil](https://meta.miraheze.org/wiki/Terms_of_Use/pt-br "Termos de uso (4% translated)")
+* [suomi](https://meta.miraheze.org/wiki/Terms_of_Use/fi "Käyttöehdot (2% translated)")
+* [svenska](https://meta.miraheze.org/wiki/Terms_of_Use/sv "Användarvillkor (2% translated)")
+* [čeština](https://meta.miraheze.org/wiki/Terms_of_Use/cs "Podmínky užití (2% translated)")
+* [Ελληνικά](https://meta.miraheze.org/wiki/Terms_of_Use/el "Όροι Χρήσης (2% translated)")
+* [русский](https://meta.miraheze.org/wiki/Terms_of_Use/ru "Условия использования (25% translated)")
+* [українська](https://meta.miraheze.org/wiki/Terms_of_Use/uk "Умови використання (2% translated)")
+* [اردو](https://meta.miraheze.org/wiki/Terms_of_Use/ur "استعمال کی شرائط (4% translated)")
+* [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (8% translated)")
+* [বাংলা](https://meta.miraheze.org/wiki/Terms_of_Use/bn "ব্যবহারের শর্তাবলী (4% translated)")
+* [中文](https://meta.miraheze.org/wiki/Terms_of_Use/zh "使用条款 (31% translated)")
+* [中文（中国大陆）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-cn "使用条款 (16% translated)")
+* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (31% translated)")
+* [中文（繁體）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hant "使用條款 (22% translated)")
+* [中文（臺灣）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-tw "使用條款 (2% translated)")
+* [中文（香港）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hk "使用條款 (8% translated)")
+* [日本語](https://meta.miraheze.org/wiki/Terms_of_Use/ja "利用規約 (39% translated)")
+* [한국어](https://meta.miraheze.org/wiki/Terms_of_Use/ko "이용 약관 (2% translated)")
 
 |     |     |
 | --- | --- |
 | ![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gnome-task-due.svg) | **This page documents an [official policy of the WikiTide Foundation](https://meta.miraheze.org/wiki/Special:MyLanguage/Foundation_policies "Special:MyLanguage/Foundation policies")** and can only be modified by the Board of Directors. In the event of any differences in meaning between the original English version and a translation, **the original English version takes precedence.** |
 
   
-
-Other languages:
-
-* [Deutsch](https://meta.miraheze.org/wiki/Terms_of_Use/de "Nutzungsbedingungen (21% translated)")
-* English
-* [Nederlands](https://meta.miraheze.org/wiki/Terms_of_Use/nl "Gebruiksvoorwaarden (36% translated)")
-* [Türkçe](https://meta.miraheze.org/wiki/Terms_of_Use/tr "Kullanım Şartları (29% translated)")
-* [español](https://meta.miraheze.org/wiki/Terms_of_Use/es "Términos de Uso (36% translated)")
-* [français](https://meta.miraheze.org/wiki/Terms_of_Use/fr "Conditions d'utilisation (29% translated)")
-* [galego](https://meta.miraheze.org/wiki/Terms_of_Use/gl "Condicións de uso (29% translated)")
-* [italiano](https://meta.miraheze.org/wiki/Terms_of_Use/it "Condizioni d'Uso (29% translated)")
-* [polski](https://meta.miraheze.org/wiki/Terms_of_Use/pl "Warunki użytkowania (19% translated)")
-* [português do Brasil](https://meta.miraheze.org/wiki/Terms_of_Use/pt-br "Termos de uso (29% translated)")
-* [suomi](https://meta.miraheze.org/wiki/Terms_of_Use/fi "Käyttöehdot (12% translated)")
-* [svenska](https://meta.miraheze.org/wiki/Terms_of_Use/sv "Användarvillkor (2% translated)")
-* [čeština](https://meta.miraheze.org/wiki/Terms_of_Use/cs "Podmínky užití (2% translated)")
-* [Ελληνικά](https://meta.miraheze.org/wiki/Terms_of_Use/el "Όροι Χρήσης (2% translated)")
-* [русский](https://meta.miraheze.org/wiki/Terms_of_Use/ru "Условия использования (64% translated)")
-* [українська](https://meta.miraheze.org/wiki/Terms_of_Use/uk "Умови використання (14% translated)")
-* [اردو](https://meta.miraheze.org/wiki/Terms_of_Use/ur "استعمال کی شرائط (29% translated)")
-* [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (55% translated)")
-* [বাংলা](https://meta.miraheze.org/wiki/Terms_of_Use/bn "ব্যবহারের শর্তাবলী (29% translated)")
-* [中文](https://meta.miraheze.org/wiki/Terms_of_Use/zh "使用条款 (90% translated)")
-* [中文（中国大陆）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-cn "使用条款 (43% translated)")
-* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (90% translated)")
-* [中文（繁體）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hant "使用條款 (74% translated)")
-* [中文（臺灣）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-tw "使用條款 (19% translated)")
-* [中文（香港）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hk "使用條款 (21% translated)")
-* [日本語](https://meta.miraheze.org/wiki/Terms_of_Use/ja "利用規約 (100% translated)")
-* [한국어](https://meta.miraheze.org/wiki/Terms_of_Use/ko "이용 약관 (21% translated)")
 
 [Shortcut](https://meta.miraheze.org/wiki/Meta:Shortcuts "Meta:Shortcuts"):  
 ToU
@@ -226,14 +226,16 @@ Any disputes and complaints between you and Miraheze are under the exclusive jur
 12\. Site Terms of Use Modifications
 ------------------------------------
 
-Miraheze may revise these terms of use for its web site at any time without prior notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+Miraheze may revise these terms of use for its web site at any time without prior notice.
+
+By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
 
 13\. Definitions
 ----------------
 
 you
 
-the user of this website
+The user of this website
 
 Miraheze
 
@@ -249,7 +251,7 @@ Any data submitted to the Miraheze website or a Wiki to be sent to users of the 
 
 ![](https://login.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://meta.miraheze.org/wiki/Terms\_of\_Use?oldid=369983](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=369983)"
+Retrieved from "[https://meta.miraheze.org/wiki/Terms\_of\_Use?oldid=432026](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=432026)"
 
 [Category](https://meta.miraheze.org/wiki/Special:Categories "Special:Categories"):
 
@@ -259,7 +261,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
 
-* This page was last edited 02:26, 12 February 2024 by Miraheze Meta user [1108-Kiju](https://meta.miraheze.org/wiki/User:1108-Kiju "User:1108-Kiju").
+* This page was last edited 17:15, 1 October 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
 * [Privacy policy](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy)
