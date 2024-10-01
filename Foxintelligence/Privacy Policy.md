@@ -342,11 +342,11 @@ Check our last articles of blog
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
-[![](https://www.foxintelligence.io/wp-content/uploads/2024/07/temu-1024x619.png)](https://www.foxintelligence.io/exploring-temus-first-year-in-france-key-ecommerce-trends-and-insights/)
+[![](https://www.foxintelligence.io/wp-content/uploads/2024/10/Rentree2024-1024x681.jpg)](https://www.foxintelligence.io/2024-schoolbag-market-growth-dynamics/)
 
-[Exploring TEMU’s first year in France: Key eCommerce trends and insights](https://www.foxintelligence.io/exploring-temus-first-year-in-france-key-ecommerce-trends-and-insights/)
+[Back to School 2024 in France: online schoolbag sales return to growth and show new dynamics](https://www.foxintelligence.io/2024-schoolbag-market-growth-dynamics/)
 
-TEMU, the Chinese e-commerce platform, has quickly captivated French consumers since its launch at the end of April 2023. Offering …
+After a disappointing 2023, which saw a 3% decline in value in online schoolbag sales in France, 2024 is showing …
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
