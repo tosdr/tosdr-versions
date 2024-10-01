@@ -60,6 +60,11 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![羴果佬](https://www.pili.com.tw/img/role/240x278/shanguolao_1.jpg?v=1727776849)
+    
+    雜學
+    
+    ###### 羴果佬](https://www.pili.com.tw/role-view/shanguolao/)
 * [![既濟](https://www.pili.com.tw/img/role/240x278/chichi_1.jpg?v=1723435482)
     
     雜學
@@ -105,11 +110,6 @@ Hello, 你好!
     雜學
     
     ###### 鬪蛉子](https://www.pili.com.tw/role-view/doulingzi/)
-* [![瘦犬](https://www.pili.com.tw/img/role/240x278/shouquan_1.jpg?v=1716540163)
-    
-    雜學
-    
-    ###### 瘦犬](https://www.pili.com.tw/role-view/shouquan/)
 
 *  [![素還真](/img/role/240x278/su_1.jpg)
     
