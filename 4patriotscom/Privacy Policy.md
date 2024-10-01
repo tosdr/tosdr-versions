@@ -235,8 +235,7 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
-    * [72-Hour Food Kit - Buy 1, Get 2 FREE](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_dealsnav_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=dealsnav&utm_term=4p&nb_klid=%7B%7B)
-    * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
+    * [\[Today Only\] 15% Off Storefront](https://4patriots.com/collections/best-sellers)
     * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
     * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
@@ -244,17 +243,17 @@ We Champion Freedom & Self-Reliance
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
-    * [![ Two portable solar power stations with foldable solar panels, branded 4Patriots.](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_6c517dba-f51a-4f15-a627-c6b3d3cbaa85_360x.jpg?v=1722271680)
+    * [![ 4Patriots Emergency Food Bars array. As Featured on FOX & Friends](//4patriots.com/cdn/shop/files/ARRAY-FBR-1024x1024-FOX_FRIENDS_1_360x.jpg?v=1686571736)
         
-        ###### "Ultracharge" Patriot Power Generator 2000X + Sidekick Package
+        ###### Emergency Food Ration Bars
         
-        7 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        502 reviews](https://4patriots.com/products/emergency-food-bars-1)
         
-        [![ 4Patriots 72-hour Survival Food Kits individual pouches. 25-Year Shelf Life.](//4patriots.com/cdn/shop/products/72HR-CAROUSEL-ON-WHITE-1024x1024_1_360x.jpg?v=1664803064)
+        [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
-        ###### 72-Hour Emergency Survival Food Kit
+        ###### Food & Fire Emergency Cooking Bundle
         
-        2248 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
+        11 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
         
         [![ Portable solar generator set with foldable panels and power station, branded 4Patriots.](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
