@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,9 +53,9 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 250 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 175 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 89 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 274 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 183 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 92 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 37 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 28 files
@@ -69,6 +69,22 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Organizations Warned Of Exploited SAP, Gpac, And D-Link Vulnerabilities](https://packetstormsecurity.com/news/view/36413/Organizations-Warned-Of-Exploited-SAP-Gpac-And-D-Link-Vulnerabilities.html)
+
+Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:08 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36413/) | [View](https://www.securityweek.com/organizations-warned-of-exploited-sap-gpac-and-d-link-vulnerabilities/)
+
+[US Charges 3 Iranians Over Presidential Campaign Hacking](https://packetstormsecurity.com/news/view/36411/US-Charges-3-Iranians-Over-Presidential-Campaign-Hacking.html)
+
+Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:17 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [phish](https://packetstormsecurity.com/news/tags/phish), [iran](https://packetstormsecurity.com/news/tags/iran)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36411/) | [View](https://www.securityweek.com/us-charges-3-iranian-men-over-presidential-campaign-hacking/)
+
 [WMDDH Discloses Data Breach Impacting 127,000](https://packetstormsecurity.com/news/view/36410/WMDDH-Discloses-Data-Breach-Impacting-127-000.html)
 
 Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:14 UTC")
@@ -76,6 +92,30 @@ Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36410/) | [View](https://www.securityweek.com/accounting-firm-wmddh-discloses-data-breach-impacting-127000/)
+
+[Cloud Threats Have Execs The Most Freaked Out Because They're Not Prepared](https://packetstormsecurity.com/news/view/36409/Cloud-Threats-Have-Execs-The-Most-Freaked-Out-Because-Theyre-Not-Prepared.html)
+
+Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:11 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36409/) | [View](https://www.theregister.com/2024/09/30/pwc_security_survey/)
+
+[Opinion: How To Design A US Data Privacy Law](https://packetstormsecurity.com/news/view/36408/Opinion-How-To-Design-A-US-Data-Privacy-Law.html)
+
+Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:03 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36408/) | [View](https://arstechnica.com/tech-policy/2024/09/opinion-how-to-design-a-us-data-privacy-law/)
+
+[Attacking Unix Systems Via CUPS, Part I](https://packetstormsecurity.com/news/view/36407/Attacking-Unix-Systems-Via-CUPS-Part-I.html)
+
+Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:47:55 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36407/) | [View](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 
 [Critical Nvidia Bug Allows Container Escape, Host Takeover](https://packetstormsecurity.com/news/view/36406/Critical-Nvidia-Bug-Allows-Container-Escape-Host-Takeover.html)
 
@@ -108,46 +148,6 @@ Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [password](https://packetstormsecurity.com/news/tags/password), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36403/) | [View](https://www.theregister.com/2024/09/27/microsoft_storm_0501/)
-
-[HPE Patches Three Critical Security Holes In Aruba PAPI](https://packetstormsecurity.com/news/view/36402/HPE-Patches-Three-Critical-Security-Holes-In-Aruba-PAPI.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36402/) | [View](https://www.theregister.com/2024/09/26/hpe_aruba_patch_papi/)
-
-[Millions Of Kia Cars Were Vulnerable To Remote Hacking](https://packetstormsecurity.com/news/view/36401/Millions-Of-Kia-Cars-Were-Vulnerable-To-Remote-Hacking.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:14 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36401/) | [View](https://www.securityweek.com/millions-of-kia-cars-were-vulnerable-to-remote-hacking-researchers/)
-
-[Ivanti vTM Flaw Added To Known Exploited Vulnerabilities Catalog](https://packetstormsecurity.com/news/view/36400/Ivanti-vTM-Flaw-Added-To-Known-Exploited-Vulnerabilities-Catalog.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:50:19 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36400/) | [View](https://www.scworld.com/news/ivanti-vtm-flaw-added-to-known-exploited-vulnerabilities-catalog)
-
-[Hacker Plants False Memories In ChatGPT To Steal User Data In Perpetuity](https://packetstormsecurity.com/news/view/36399/Hacker-Plants-False-Memories-In-ChatGPT-To-Steal-User-Data-In-Perpetuity.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:50:17 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36399/) | [View](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
-
-[Cyberattack Investigated At UK's Busiest Train Stations](https://packetstormsecurity.com/news/view/36398/Cyberattack-Investigated-At-UKs-Busiest-Train-Stations.html)
-
-Posted [Sep 26, 2024](https://packetstormsecurity.com/news/date/2024-09-26/ "14:50:15 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [britain](https://packetstormsecurity.com/news/tags/britain), [wireless](https://packetstormsecurity.com/news/tags/wireless)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36398/) | [View](https://www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1745843717&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1745843717.1727773212.1727773212.1727773212.1%3B%2B__utmz%3D32867617.1727773212.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1165796276&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1165796276.1727795233.1727795233.1727795233.1%3B%2B__utmz%3D32867617.1727795233.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
