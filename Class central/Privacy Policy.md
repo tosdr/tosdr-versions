@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [6 Best Content Marketing Courses for 2024](https://www.classcentral.com/report/best-content-marketing-courses/)
-2. [6 Best Microsoft Word Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-word-courses/)
-3. [10 Best Python Courses for 2024](https://www.classcentral.com/report/best-python-courses/)
-4. [\[2024\] 220+ Math Online Courses from World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
-5. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+1. [8 Best ZBrush Courses for 2024: Sculpting in 3D](https://www.classcentral.com/report/best-zbrush-courses/)
+2. [7 Best Free Human Anatomy Courses for 2024](https://www.classcentral.com/report/best-human-anatomy-courses/)
+3. [Can I Get Academic Credit from Online Courses?](https://www.classcentral.com/report/academic-credit-online-courses/)
+4. [6 Best Content Marketing Courses for 2024](https://www.classcentral.com/report/best-content-marketing-courses/)
+5. [6 Best Microsoft Word Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-word-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. python
     
-2. harvard
+2. computer science
     
-3. cyber security
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Communication Skills
     
-    12,584 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+    3,904 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Computer Science
     
-    7,759 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    33,315 courses](https://www.classcentral.com/subject/cs)
+3. [Graphic Design
     
-    5,792 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,161 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Machine Learning for Musicians and Artists
+1. [Introduction to Psychology
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
-2. [Extreme Geological Events
+    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
+2. [Inspiring Leadership through Emotional Intelligence
     
-    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
-3. [Industrial Pharmacy-I
+    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
+3. [Paleontology: Theropod Dinosaurs and the Origin of Birds
     
-    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-industrial-pharmacy-i-14123)
+    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
