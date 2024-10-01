@@ -83,7 +83,6 @@ Services
 
 [Newsticker](https://www.heise.de/newsticker/) [Foren](https://www.heise.de/forum/)
 
-* [IFA 📺](https://www.heise.de/thema/IFA "News und Artikel zum Thema IFA 📺")
 * [Künstliche Intelligenz 🤖](https://www.heise.de/thema/K%C3%BCnstliche-Intelligenz "News und Artikel zum Thema Künstliche Intelligenz 🤖")
 * [Windows 🪟](https://www.heise.de/thema/Windows "News und Artikel zum Thema Windows 🪟")
 * [Energie 🔥](https://www.heise.de/thema/Energie "News und Artikel zum Thema Energie 🔥")
