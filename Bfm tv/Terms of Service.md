@@ -585,15 +585,17 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Bruno Retailleau, le 23 septembre 2024. ](https://images.bfmtv.com/G86XuA5LQq9OlZ9072noSEXc-EQ=/0x106:2048x1258/300x0/images/Bruno-Retailleau-le-23-septembre-2024-1942361.webp)
+1. [![Marine Le Pen au Parlement européen, à Strasbourg, le 17 janvier 2016.
+    ](https://images.bfmtv.com/H9qAkVXQ0Ef__aGBK20ORbcX9Lo=/0x0:1200x675/300x0/images/Marine-Le-Pen-au-Parlement-europeen-a-Strasbourg-le-17-janvier-2016-1946771.webp)
     
-    ![Bruno Retailleau, le 23 septembre 2024. ](https://images.bfmtv.com/G86XuA5LQq9OlZ9072noSEXc-EQ=/0x106:2048x1258/300x0/images/Bruno-Retailleau-le-23-septembre-2024-1942361.webp)
+    ![Marine Le Pen au Parlement européen, à Strasbourg, le 17 janvier 2016.
+    ](https://images.bfmtv.com/H9qAkVXQ0Ef__aGBK20ORbcX9Lo=/0x0:1200x675/300x0/images/Marine-Le-Pen-au-Parlement-europeen-a-Strasbourg-le-17-janvier-2016-1946771.webp)
     
-    ### Immigration, état de droit... Les déclarations de Retailleau critiquées à gauche et par une partie de la macronie](https://www.bfmtv.com/politique/gouvernement/immigration-etat-de-droit-les-declarations-de-retailleau-critiquees-a-gauche-et-par-une-partie-de-la-macronie_AD-202409300204.html "Immigration, état de droit... Les déclarations de Retailleau critiquées à gauche et par une partie de la macronie")
-2. [### "C'est un cauchemar": les parents de Narjesse sans nouvelles de leur fille trois mois après sa disparition à Villeurbanne](https://www.bfmtv.com/lyon/c-est-un-cauchemar-les-parents-de-narjesse-sans-nouvelle-de-leur-fille-trois-mois-apres-sa-disparition-a-villeurbanne_AV-202409300135.html ""C'est un cauchemar": les parents de Narjesse sans nouvelles de leur fille trois mois après sa disparition à Villeurbanne")
-3. [### INFO BFMTV. Loire-Atlantique: un assistant familial mis en examen pour viol sur une enfant de 4 ans](https://www.bfmtv.com/police-justice/info-bfmtv-loire-atlantique-un-assistant-familial-mis-en-examen-pour-viol-sur-une-enfant-de-4-ans_AN-202409300072.html "INFO BFMTV. Loire-Atlantique: un assistant familial mis en examen pour viol sur une enfant de 4 ans")
-4. [### Stromae, Aya Nakamura, Gazo... les artistes francophones de plus en plus écoutés sur Spotify](https://www.bfmtv.com/people/musique/stromae-aya-nakamura-gazo-les-artistes-francophones-de-plus-en-plus-ecoutes-sur-spotify_AD-202409300194.html "Stromae, Aya Nakamura, Gazo... les artistes francophones de plus en plus écoutés sur Spotify")
-5. [### UFC Paris: l'état effrayant du pied d'Oumar Sy après sa victoire](https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/ufc-paris-l-etat-du-pied-tres-gonfle-d-oumar-sy-apres-sa-victoire_AV-202409300221.html "UFC Paris: l'état effrayant du pied d'Oumar Sy après sa victoire")
+    ### Affaire des faux assistants parlementaires: tout comprendre au procès du RN qui s'ouvre ce lundi](https://www.bfmtv.com/police-justice/proces/affaire-des-faux-assistants-parlementaires-tout-comprendre-au-proces-du-rn-qui-s-ouvre-ce-lundi_AN-202409300029.html "Affaire des faux assistants parlementaires: tout comprendre au procès du RN qui s'ouvre ce lundi")
+2. [### Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre](https://www.bfmtv.com/economie/economie-social/revalorisation-des-apl-petites-retraites-prix-du-gaz-tout-ce-qui-change-au-1er-octobre_AD-202410010047.html "Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre")
+3. [### Ce que l'on sait trois mois après la disparition de Narjesse, 17 ans, à Villeurbanne](https://www.bfmtv.com/lyon/ce-que-l-on-sait-trois-mois-apres-la-disparition-de-narjesse-17-ans-a-villeurbanne_AV-202409300824.html "Ce que l'on sait trois mois après la disparition de Narjesse, 17 ans, à Villeurbanne")
+4. [### "C'est catastrophique": les commerçants parisiens s'inquiètent de la mise en place de la zone à trafic limité](https://www.bfmtv.com/paris/c-est-catastrophique-les-commercants-parisiens-s-inquietent-de-la-mise-en-place-de-la-zone-a-trafic-limite_AV-202409300849.html ""C'est catastrophique": les commerçants parisiens s'inquiètent de la mise en place de la zone à trafic limité")
+5. [### "J’ai vécu des trucs ignobles": Inès Reg revient sur son altercation avec Natasha St-Pier](https://www.bfmtv.com/people/j-ai-vecu-des-trucs-ignobles-ines-reg-revient-sur-son-altercation-avec-natasha-st-pier_AN-202409300812.html ""J’ai vécu des trucs ignobles": Inès Reg revient sur son altercation avec Natasha St-Pier")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
