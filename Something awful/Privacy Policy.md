@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Poverty History - Part One](https://www.somethingawful.com/comedy-goldmine/make-poverty-history/1/)
-* [The Free iPhone App Roundup](https://www.somethingawful.com/news/free-iphone-apps/1/)
-* [The Simcity Board of Advisors Return](https://www.somethingawful.com/news/simcity-advisors-return/1/)
-* [Why Damned XCOM is Abolished From Nigeria](https://www.somethingawful.com/feature-articles/xcom-nigeria-panic/)
-* [That Insidious Beast: Counterprogramming](https://www.somethingawful.com/news/insidious-beast-interrogation/1/)
+* [World Of Warcraft's Most Epic Weapon](https://www.somethingawful.com/video-game-article/warcraft-epic-blunderbuss/)
+* [June 18, 2007](https://www.somethingawful.com/forum-fridays/ff06-18-07/1/)
+* [Confessions of a Pornographer!](https://www.somethingawful.com/comedy-goldmine/kevin-moore-porn/1/)
+* [Bot-Made Photoshops!](https://www.somethingawful.com/photoshop-phriday/project-murphy-nothitler/)
+* [Pounced](https://www.somethingawful.com/weekend-web/pounced/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [My roommate just moved out and I realized](http://forums.somethingawful.com/showthread.php?threadid=4071538 "My roommate just moved out and I realized")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [itemlabel: has anyone ever actually bought any these things?](http://forums.somethingawful.com/showthread.php?threadid=4071529 "itemlabel: has anyone ever actually bought any these things?")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [whats the over under on pete rose dying at 83?](http://forums.somethingawful.com/showthread.php?threadid=4071525 "whats the over under on pete rose dying at 83?")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [some juggalos made a movie and it's actually not terrible](http://forums.somethingawful.com/showthread.php?threadid=4071518 "some juggalos made a movie and it's actually not terrible")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I'm watching The Warriors](http://forums.somethingawful.com/showthread.php?threadid=4071476 "I'm watching The Warriors")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Best gluten free food ideas?](http://forums.somethingawful.com/showthread.php?threadid=4071472 "Best gluten free food ideas?")
 
 ### Random Articles
 
-* [This Was All According To My Plan](https://www.somethingawful.com/news/puppetmaster-villain-captured/)
-* [APURU FOORU](https://www.somethingawful.com/news/april-fools-tokyo/1/)
-* [June 4, 2007](https://www.somethingawful.com/forum-fridays/ff06-04-07/1/)
-* [The Magic Of Household Items: A Rainy Day Fun Guide](https://www.somethingawful.com/news/magic-household-items/)
-* [The Porn Conformity Law](https://www.somethingawful.com/news/porn-conformity-law/)
+* [Paintings of Light II](https://www.somethingawful.com/photoshop-phriday/paintings-light-ii/1/)
+* [Show me your genitals!](https://www.somethingawful.com/comedy-goldmine/mspaint-genitals-goons/1/)
+* [Classic Produce Labels II](https://www.somethingawful.com/photoshop-phriday/classic-produce-labels2/1/)
+* [ConanOBrien.net Boards, Myjellybean, Swirve Utopia, and TheXpower](https://www.somethingawful.com/weekend-web/conanobriennet-boards-myjellybea/1/)
+* [Revenge of Happiness](https://www.somethingawful.com/news/japanese-magazine-ads/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
