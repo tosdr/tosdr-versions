@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Verpackungs­ärger: Gelomyrtol forte, 20 Stück](https://www.test.de/Verpackungsaerger-Gelomyrtol-forte-20-Stueck-5956897-0/ "Verpackungsärger - Gelomyrtol forte, 20 Stück")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Firmen­welten: Rainer von Holst angeklagt](https://www.test.de/Firmenwelten-Rainer-von-Holst-angeklagt-5928577-0/ "Firmenwelten - Rainer von Holst angeklagt")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Verpackungs­ärger: Gelomyrtol forte, 20 Stück](https://www.test.de/Verpackungsaerger-Gelomyrtol-forte-20-Stueck-5956897-0/ "Verpackungsärger - Gelomyrtol forte, 20 Stück")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Firmen­welten: Rainer von Holst angeklagt](https://www.test.de/Firmenwelten-Rainer-von-Holst-angeklagt-5928577-0/ "Firmenwelten - Rainer von Holst angeklagt")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Verpackungs­ärger: Gelomyrtol forte, 20 Stück](https://www.test.de/Verpackungsaerger-Gelomyrtol-forte-20-Stueck-5956897-0/ "Verpackungsärger - Gelomyrtol forte, 20 Stück")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Firmen­welten: Rainer von Holst angeklagt](https://www.test.de/Firmenwelten-Rainer-von-Holst-angeklagt-5928577-0/ "Firmenwelten - Rainer von Holst angeklagt")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Verpackungs­ärger: Gelomyrtol forte, 20 Stück](https://www.test.de/Verpackungsaerger-Gelomyrtol-forte-20-Stueck-5956897-0/ "Verpackungsärger - Gelomyrtol forte, 20 Stück")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Firmen­welten: Rainer von Holst angeklagt](https://www.test.de/Firmenwelten-Rainer-von-Holst-angeklagt-5928577-0/ "Firmenwelten - Rainer von Holst angeklagt")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Service Stiftung Warentest
 
