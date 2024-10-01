@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Approaching Madeira, a volcanic island with a mountains and caves.](https://static.ffx.io/images/$zoom_0.1629%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b3bc8821413884e2a2a24dd4f3b1f93083e570b6)](https://www.afr.com/life-and-luxury/travel/small-ship-big-adventures-island-hopping-in-portugal-and-spain-20240909-p5k95p)
+[![ ](https://static.ffx.io/images/$zoom_0.1535%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8104355ac60709e6426425b2e388ecf8663a90ec)](https://www.afr.com/technology/ocean-cruising-too-slow-for-you-speed-things-up-with-this-action-cam-20240909-p5k92k)
 
-### [Small ship, big adventures: Island-hopping in Portugal and Spain](https://www.afr.com/life-and-luxury/travel/small-ship-big-adventures-island-hopping-in-portugal-and-spain-20240909-p5k95p)
+### [Ocean cruising too slow for you? Speed things up with this action cam](https://www.afr.com/technology/ocean-cruising-too-slow-for-you-speed-things-up-with-this-action-cam-20240909-p5k92k)
 
-* Tim Johnson
+* John Davidson
 
-* ### [Heading to Hokkaido? The Nikka distillery is a must](https://www.afr.com/life-and-luxury/food-and-wine/heading-to-hokkaido-the-nikka-distillery-is-a-must-20240905-p5k86r)
+* ### [Eight experts pick the best cruises for 2025](https://www.afr.com/life-and-luxury/travel/eight-experts-pick-the-best-cruises-for-2025-20240829-p5k6gc)
     
-* ### [This really was a discovery expedition](https://www.afr.com/life-and-luxury/travel/this-really-was-a-discovery-expedition-20240816-p5k30h)
+* ### [One bike is more than enough for this cycling-mad executive](https://www.afr.com/life-and-luxury/health-and-wellness/one-bike-is-more-than-enough-for-this-cycling-mad-executive-20240829-p5k6b1)
     
 
 [Rich List](https://www.afr.com/rich-list)
