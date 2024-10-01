@@ -123,6 +123,10 @@ SquareTrade Privacy Statement
 
 [Example Link label](https://www.example.com/ "Example Link label") [Example Link label](https://www.example.com/ "Example Link label")
 
+     
+
+     
+
 Canadian customers: Go to [SquareTrade Privacy Policy Canada](https://squaretrade.ca/privacy-policy)
 
 **LAST UPDATED: May 31, 2024.**
