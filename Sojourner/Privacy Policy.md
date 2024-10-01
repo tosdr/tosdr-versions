@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d04af40e102f5107f09e098eb0222eed
+14faf75fce7565812911b57b0d5e5c72
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm pale pink oval pearls](https://www.sojourner.biz/images/cache/pearls/PE0064.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
+[![Hand-made silk rug number four](https://www.sojourner.biz/images/cache/RG0004.200.jpg)](https://www.sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-four.html "Hand-made silk rug number four")
 
-#### [12 mm pale pink oval pearls](https://www.sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
+#### [Hand-made silk rug number four](https://www.sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-four.html "Hand-made silk rug number four")
 
-$27.50
+$25.00
 
 ### Best Sellers
 
