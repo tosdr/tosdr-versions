@@ -994,7 +994,7 @@ Open all
     
     We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Where to exercise your rights.** You can exercise your right to know, access, delete, and correct data, or in Colorado, Connecticut, Oregon and Texas you may appoint an [authorized agent](#) to act on your behalf,  by:
+    **Where to exercise your rights.** You can exercise your right to know, access, delete, and correct data, or in Colorado, Connecticut, Montana, Oregon and Texas you may appoint an [authorized agent](#) to act on your behalf,  by:
     
     authorized agent
     
