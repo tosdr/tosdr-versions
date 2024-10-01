@@ -999,12 +999,6 @@ Joseph Shanahan
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-Matt Dansa
-
-[\--](tel:)
-
-[\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
-
 [![](https://www.voipsupply.com/media/version1727268600/Voipsupply/User/resized/300/300/Tom_Uhteg_NEW.png)](https://www.voipsupply.com/meettomuhteg)
 
 Tom Uhteg
@@ -1018,6 +1012,12 @@ Tom Uhteg
 Glenn Buchheit
 
 [716-353-7282](tel:7163537282)
+
+[\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
+
+Matt Dansa
+
+[\--](tel:)
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
