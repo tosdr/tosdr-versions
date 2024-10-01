@@ -43,6 +43,8 @@
 
 [Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
 
+[Clash Concluded!](https://xcreativeclashx.net/announcement/24-clash-concluded/) [×](#)
+
 * **Privacy Policy**
     
     CreativeClash is committed to protecting and respecting your privacy. We collect only the personal information that we need from you to operate our website, and we do not divulge your personal information to anyone else unless we are ordered to do so by a court that has jurisdiction over us.
