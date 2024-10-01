@@ -329,7 +329,7 @@ Clear Junction Digital Limited. Registered with the Financial Conduct Authority 
 * [Legal queries](https://clearjunction.com/speak-to-support/)
 * [Speak with an expert](https://clearjunction.com/open-an-account/)
 
-![ISO 27001 Certification](/wp-content/themes/framework/images/iso27001.png) ![The Payments Association Certification](/wp-content/themes/framework/images/thepa.png) ![FT 1000](/wp-content/themes/framework/images/ft1000.png)  ![Sunday Times 100](/wp-content/themes/framework/images/sundaytimes.png)
+![ISO 27001 Certification](/wp-content/themes/framework/images/iso27001.png) ![The Payments Association Certification](/wp-content/themes/framework/images/thepa.png) ![FT 1000](/wp-content/themes/framework/images/ft1000.png) ![PCI DSS Compliance](/wp-content/themes/framework/images/pci-dss.svg) ![Sunday Times 100](/wp-content/themes/framework/images/sundaytimes.png)
 
 * [Website Terms of Use](https://clearjunction.com/legal/terms-of-use/)
 * [Privacy Notice](https://clearjunction.com/legal/privacy-notice/)
