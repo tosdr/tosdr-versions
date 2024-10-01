@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Kris Kristofferson Helps Fan Deliver Baby...](https://classiccountrymusic.com/kris-kristofferson-helps-fan-deliver-baby-in-hilarious-prank-set-up-by-willie-nelson/)
 * [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
 * [Meet Kris Kristofferson’s Devoted Wife Of...](https://classiccountrymusic.com/meet-kris-kristoffersons-devoted-wife-of-41-years-lisa-meyers/)
-* [Kris Kristofferson’s “A Star Is Born”...](https://classiccountrymusic.com/kris-kristoffersons-a-star-is-born-co-star-barbra-streisand-reacts-to-new-of-his-death/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Kris Kristofferson Helps Fan Deliver Baby...](https://classiccountrymusic.com/kris-kristofferson-helps-fan-deliver-baby-in-hilarious-prank-set-up-by-willie-nelson/)
 * [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
-* [Meet Kris Kristofferson’s Devoted Wife Of...](https://classiccountrymusic.com/meet-kris-kristoffersons-devoted-wife-of-41-years-lisa-meyers/)
-* [Introducing Kris Kristofferson’s 8 Kids](https://classiccountrymusic.com/introducing-kris-kristoffersons-8-kids/)
+* [Kris Kristofferson And Barbra Streisand Recreate...](https://classiccountrymusic.com/kris-kristofferson-and-barbra-streisand-recreate-a-star-is-born-duet-43-years-later/)
 
 Terms of Use
 ============
