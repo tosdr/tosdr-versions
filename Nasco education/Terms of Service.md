@@ -8,7 +8,7 @@ The store will not work correctly in the case when cookies are disabled.
 * [Sign In](https://www.nascoeducation.com/customer/account/login/referer/aHR0cHM6Ly93d3cubmFzY29lZHVjYXRpb24uY29tL3Rlcm1zLW9mLXVzZQ%2C%2C/)
 * [Create an Account](https://www.nascoeducation.com/customer/account/create/)
 
-Toggle Nav [![](https://www.nascoeducation.com/media/logo/stores/1/logo-new.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1727419672/frontend/Kinex/nasco/en_US/images/Sticky-logo.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1727419672/frontend/Kinex/nasco/en_US/images/Nasco-Education-Rev1.png)](https://www.nascoeducation.com/)
+Toggle Nav [![](https://www.nascoeducation.com/media/logo/stores/1/logo-new.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1727779763/frontend/Kinex/nasco/en_US/images/Sticky-logo.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1727779763/frontend/Kinex/nasco/en_US/images/Nasco-Education-Rev1.png)](https://www.nascoeducation.com/)
 
 **Search**
 
@@ -1896,6 +1896,7 @@ Search
         * [Special Education](https://www.nascoeducation.com/sale/75-off/special-education.html)
         * [Science](https://www.nascoeducation.com/sale/75-off/science.html)
         * [STEM-STEAM](https://www.nascoeducation.com/sale/75-off/stem-steam.html)
+    * [Deals of the Month](https://www.nascoeducation.com/sale/deals-of-the-month.html)
     * [Overstock Product Deals](https://www.nascoeducation.com/sale/overstock-product-deals.html)
         * [Overstock Art Products](https://www.nascoeducation.com/sale/overstock-product-deals/overstock-art-products.html)
         * [Overstock Classroom Environment Products](https://www.nascoeducation.com/sale/overstock-product-deals/overstock-classroom-environment-products.html)
