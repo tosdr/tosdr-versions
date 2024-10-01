@@ -7,7 +7,7 @@
 Pawshake Terms & Conditions
 ===========================
 
-Last updated: June 19th, 2023
+Last updated: 19 June 2023
 
 Terms and Conditions
 --------------------
@@ -69,7 +69,7 @@ While we may help facilitate the resolution of disputes, Pawshake has no control
 
 Pawshake does not endorse any Member, Listing or Host Services. Any references to a Member being "verified" (or similar language) only indicate that the Member has completed a relevant verification or identification process and nothing else. Any such description is not an endorsement, certification or guarantee by Pawshake about any Member, including of the Member's identity or background or whether the Member is trustworthy, safe or suitable.
 
-We conduct a review of Hosts profiles when they sign up and we may facilitate background checks on Hosts conducted by a third party, but, except where explicitly specified in the Pawshake Terms, we do not otherwise screen Hosts and Members.
+We conduct a review of Hosts profiles when they sign up and we may facilitate background checks on Hosts conducted by a third party, but, except where explicitly specified in the Pawshake Terms, we do not otherwise screen Hosts and Members.{' '}
 
 As a result, Pawshake has no control over the accuracy, reliability, completeness or timeliness of Profiles, Reviews, background check information, affiliations or other User Content submitted on the Site, and makes no representations about any such User Content on the Site. Pawshake does not have control, supervise or provide equipment to the Hosts, and has no control over the quality, timing, legality, failure to provide, or any other aspect whatsoever of the services provided by Hosts.
 
@@ -244,7 +244,7 @@ If your name, voice, image, persona, likeness, or performance is included in any
 
 You represent and warrant that (1) you are the owner or licensor of Your Content, and that you have all rights, consents and permissions necessary to grant the license and make the release with respect to Your Content, (2) that you have any necessary consents and releases from individuals who appear or whose pets appear in Your Content; and (3) Your Content does not violate the law or these Terms.
 
-Though we are not obligated to do so, we reserve the right to monitor, screen, edit and/or remove Your Content on Pawshake. Our enforcement of these Terms with respect to Your Content is at our discretion, and failure to enforce the Terms in one instance does not create a waiver of your right to enforce them in another instance.
+Though we are not obligated to do so, we reserve the right to monitor, screen, edit and/or remove Your Content on Pawshake. Our enforcement of these Terms with respect to Your Content is at our discretion, and failure to enforce the Terms in one instance does not create a waiver of your right to enforce them in another instance.{' '}
 
 We will have no liability to you for any deletion, disclosure, loss or modification of these reviews. We reserve the right to screen, edit or remove these reviews from Pawshake at any time.
 
@@ -278,7 +278,7 @@ The Member authorises to be charged in the event of
 
 Pawshake will release the payment (less Service Fee) to the Host within seven (7) business days after the end of the services. Once these amounts have been disbursed, any further payment disputes are between the Member and Host, and Pawshake has no obligation to mediate or facilitate any resolution. Further, Pawshake has no responsibility or liability with respect to any tips, bonuses, or other payments made outside of the Pawshake Service.
 
-If you are a Host, Pawshake reserves the right to issue a hold on amounts otherwise payable to you pursuant if there is a reasonable suspicion of fraudulent activity involving your account(s) or for other similarly compelling reason involving protection of Pawshake, the Pawshake community or third party rights. We may also recommend that third-party payment service providers restrict your access to funds in your account under the same circumstances.
+If you are a Host, Pawshake reserves the right to issue a hold on amounts otherwise payable to you pursuant if there is a reasonable suspicion of fraudulent activity involving your account(s) or for other similarly compelling reason involving protection of Pawshake, the Pawshake community or third party rights. We may also recommend that third-party payment service providers restrict your access to funds in your account under the same circumstances.{' '}
 
 **8\. Cancellations and Refunds**
 
