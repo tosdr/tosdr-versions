@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/graancirkels-als-ghost-te-zien-op-google-earth/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/over-het-integreren-van-onze-schaduwkant/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
