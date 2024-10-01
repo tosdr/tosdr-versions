@@ -127,7 +127,7 @@
     * [Events Calendar](https://vinegarsyndrome.com/pages/sales-events-calendar)
     * [Retail Locations](#)
     * * [Bridgeport, CT - The Archive](https://www.instagram.com/thearchivect)
-        * [Aurora, CO - The Archive](https://www.instagram.com/thearchivecolorado)
+        * [Denver, CO](https://www.instagram.com/vinegarsyndromedenver)
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
@@ -428,7 +428,7 @@
     
 * [Partner Labels](https://vinegarsyndrome.com/collections/frontpage-partner-labels)
     
-    ![](//vinegarsyndrome.com/cdn/shop/files/PL_collage_final_800x.jpg?v=1724946321)
+    ![](//vinegarsyndrome.com/cdn/shop/files/PL_collage_800x.png?v=1727733082)
     
     * #### [Labels A-H](#)
         
@@ -545,7 +545,7 @@
     * [Events Calendar](https://vinegarsyndrome.com/pages/sales-events-calendar)
     * [Retail Locations](#)
         * [Bridgeport, CT - The Archive](https://www.instagram.com/thearchivect)
-        * [Aurora, CO - The Archive](https://www.instagram.com/thearchivecolorado)
+        * [Denver, CO](https://www.instagram.com/vinegarsyndromedenver)
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
