@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> At JD.com, we have employed open source technologies such as Kubernetes and Open Stack, along with Linux, to improve the speed, functionality and stability of our infrastructure while lowering operating costs.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Rain LongChief Human Resource Officer & General CounselJD.com
 
-> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
 
-Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+Keith BergeltCEOOpen Invention Network
+
+> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
+
+Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
+
+> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+
+Luke IbbetsonHead of Group R&DVodaphone
+
+> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
+
+Andreas PfeifferHead of Customer Advice and MarketingGinzinger
 
 > More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
 
 Mark ChenPresidentD-Link
 
-> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+> For the past several years we have increased our involvement in, and contributions to, the open source community. We are pleased to stand with OIN, the Linux Foundation and IBM in protecting Linux and other important OSS technologies against patent aggression.  
 
-Peter SpoursDirector of IPTomTom
+Erich AndersonCorporate VP & Chief IP CounselMicrosoft
 
-> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
+> Bilibili is a diverse, open, and innovative cultural platform. All the time, we are committed to opening and sharing technologies and providing positive motivation in the innovation field of playback transmission, interactive entertainment, and cloud-native ecology through open source projects. Linux System software and open source technologies are important software infrastructures that promote business developments. Our participation in the OIN community demonstrates our consistent and ongoin… [Read more](https://openinventionnetwork.com/testimonial/bilibili/ "Complete testimonial by Wang Hao")
 
-Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
+Wang HaoVice President, Bilibili
 
-> _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
+> Since its inception 15 years ago, OIN has provided unprecedented protection to enable the incredible growth and adoption of Linux and other related open source software around the world. As the OIN community has grown to over 3,000 members and the Linux definition has matured, that protection has only grown stronger. IBM and Red Hat have been two of the leading proponents and drivers of Linux and open source software for over 20 years and have been founding members of OIN since its inception.… [Read more](https://openinventionnetwork.com/testimonial/ken-king-openpower-ibm/ "Complete testimonial by Ken King")
 
-Don RelyeaChief Innovation Officer, U.S. Bank
+Ken KingGeneral ManagerOpenPower at IBM
 
-> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
+> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
 
 Chris DiBonaDirector of Open SourceGoogle
-
-> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
-
-Mercari
-
-> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
-
-Yang JiejingHead of Legal DepartmentUNISOC
-
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
-
-Sumitomo Mitsui Financial Group
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
