@@ -35,9 +35,9 @@ Search for:
             * [ActionsThe best help desk ticketing software for any size business.](https://reputation.com/products/actions/)
             * [Competitive IntelligenceAnalyze competitors’ ratings & reviews, compare performance and identify new opportunities.](https://reputation.com/products/competitive-intelligence/)
         * * [IntegrationsActivate the power of feedback data across your tech stack.](https://reputation.com/products/integrations/)
-        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
                 
-                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
@@ -51,9 +51,9 @@ Search for:
             * [Financial ServicesImprove consumer trust by learning from competitive data and consumer feedback.](https://reputation.com/solutions/financial-services/)
         * * [HealthcareEnsure exceptional patient experience across all locations.](https://reputation.com/solutions/healthcare/)
             * [Senior CareEnsure quality senior care experiences by leveraging feedback data.](https://reputation.com/solutions/senior-care/)
-        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
                 
-                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
@@ -68,9 +68,9 @@ Search for:
                 * [Videos & WebinarsBinge watch our webinars for industry tips and product updates.](https://reputation.com/resources/videos-webinars/)
                 * [ArticlesLearn about our latest platform updates and industry best practices.](https://reputation.com/resources/articles/)
                 * [Reports & ResearchExplore the latest industry insights with our data-driven research reports.](https://reputation.com/resources/reports-research/)
-        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
                 
-                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
