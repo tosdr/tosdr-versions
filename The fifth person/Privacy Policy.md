@@ -1,4 +1,4 @@
-Tuesday, October 1 2024
+Wednesday, October 2 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -174,7 +174,7 @@ Quick Guides
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    4 days ago
+    5 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -253,6 +253,14 @@ Quick Guides
     1 week ago
     
 
+* [![Photo of Azreen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Azreen](https://secure.gravatar.com/avatar/87595b37dcbca6630254cddd24cc0aff?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
+    
+    [Azreen](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
+    
+    Hi Darren, thank you for your analysis. Very useful. How can...
+    
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
@@ -336,14 +344,6 @@ Quick Guides
     [Adam Wong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675798)
     
     Hey Jonathan, good question. It looks like there's no withho...
-    
-* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675793)
-    
-    [Jonathan Lloyd](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675793)
-    
-    I thought that there would be US withholding tax payable on...
     
 
 Advertisement
