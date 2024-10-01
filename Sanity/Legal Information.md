@@ -273,7 +273,7 @@ Credit cards and payments are processed by our payment provider, [Stripe](https
 
 ### [](#b5f6f7d55e2a)Geographic Location
 
-All customer-controlled data provided via our API is stored permanently within the EU. However, during delivery to end users it may be stored transiently in locations outside of the EU, such as in CDN caches, networking equipment, and browser caches, depending on the project configuration (e.g. private data sets). Data which we control, such as our user database and email processing, may be stored in the U.S. with third-party processors employed by us in order to deliver the service - see below for more information.
+Sanity relies on the Google Cloud Platform as a subprocessor to store collected Personal Data and your uploaded content. Uploaded content will be stored in the EU/EEA, the US, or in regions where Sanity has an operational footprint, specific by customer. For serving purposes, data may be stored transiently or cached in any country in which Google Cloud or its agents maintain facilities. Data which we control, such as our user database and email processing, may be stored in the U.S. with third-party processors employed by us in order to deliver the service - see below for more information.
 
 ### [](#142861bb70d3)Third-Party Processors
 
