@@ -1,4 +1,4 @@
-[![alwaysdata logo](/static/svg/alwaysdata-logo-white.svg "alwaysdata logo")](https://www.alwaysdata.com/en/)
+[](https://www.alwaysdata.com/en/)
 
 [Français](https://www.alwaysdata.com/language/fr/?redirect_from=/en/terms-and-legal/)
 
@@ -8,17 +8,19 @@ Contact
 
 [Login](https://admin.alwaysdata.com/)
 
-![alwaysdata logo](/static/svg/alwaysdata-logo-pink.svg "alwaysdata logo")
-
 [#### Public Cloud](https://www.alwaysdata.com/en/)[#### Private Cloud](https://www.alwaysdata.com/en/private-cloud/)[#### Domain names](https://www.alwaysdata.com/en/domains/)[#### Marketplace](https://www.alwaysdata.com/en/marketplace/)
 
 #### Programs
+
+![](https://static.alwaysdata.com/aldjango/website/assets/img/arrow-1.svg)
 
 [##### Academic Cloud](https://www.alwaysdata.com/en/academic-cloud/)
 
 [##### Open-Source](https://www.alwaysdata.com/en/open-source/)
 
 #### Find out more
+
+![](https://static.alwaysdata.com/aldjango/website/assets/img/arrow-1.svg)
 
 [##### Architecture](https://help.alwaysdata.com/en/architecture/)
 
