@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_360x203.jpg)](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+        
+        #### [Attempted ATM theft at Seattle Walgreens leaves significant damage behind](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+        
     *  [![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_360x203.jpg)](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
         
         #### [Teen boy arrested after attempted robbery at Seattle middle school mistakenly released from custody](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5/20241001T005356/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5/20241001T005356/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5_360x203.jpg)](https://www.king5.com/article/news/local/study-of-solitary-confinement-washington/281-013a8416-40a6-487c-9453-3e9359c03fb9)
-        
-        #### [‘A few surprises’ found in study of solitary confinement in Washington prisons](https://www.king5.com/article/news/local/study-of-solitary-confinement-washington/281-013a8416-40a6-487c-9453-3e9359c03fb9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8e91f556-d294-4172-87b7-bda89a854272/20240930T232742/8e91f556-d294-4172-87b7-bda89a854272_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e91f556-d294-4172-87b7-bda89a854272/20240930T232742/8e91f556-d294-4172-87b7-bda89a854272_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3510b9d4-7120-4b4e-8000-aeeb2efee5ab/20241001T115925/3510b9d4-7120-4b4e-8000-aeeb2efee5ab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3510b9d4-7120-4b4e-8000-aeeb2efee5ab/20241001T115925/3510b9d4-7120-4b4e-8000-aeeb2efee5ab_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+48°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
