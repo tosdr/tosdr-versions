@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70c3720b-9182-45f9-b0dc-6d4fab948e2b/20240930T051900/70c3720b-9182-45f9-b0dc-6d4fab948e2b_360x203.jpg)](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
+    *  [![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_360x203.jpg)](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
         
-        #### [No Internet, no computers: Hack of Highline Public Schools still impacting staff, students](https://www.king5.com/article/news/local/no-internet-no-computers-hack-highline-public-schools-impacting-staff-students/281-12a2e127-c107-4fa4-8558-2a39a4e3ac5a)
+        #### [Teen boy arrested after attempted robbery at Seattle middle school mistakenly released from custody](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
         
-    *  [![](https://media.king5.com/assets/KING/images/472745834/472745834_16x9.jpg) ![](https://media.king5.com/assets/KING/images/472745834/472745834_360x203.jpg)](https://www.king5.com/article/life/food/chilis-new-location-seattle/281-95c29e8b-c10a-4117-bb46-d3f49af2deaa)
+    *  [![](https://media.king5.com/assets/KING/images/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5/20241001T005356/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5/20241001T005356/ae410a7b-49d4-45f2-8fc9-8a3499ee2db5_360x203.jpg)](https://www.king5.com/article/news/local/study-of-solitary-confinement-washington/281-013a8416-40a6-487c-9453-3e9359c03fb9)
         
-        #### [Chili's to open new location in western Washington. Here's where](https://www.king5.com/article/life/food/chilis-new-location-seattle/281-95c29e8b-c10a-4117-bb46-d3f49af2deaa)
+        #### [‘A few surprises’ found in study of solitary confinement in Washington prisons](https://www.king5.com/article/news/local/study-of-solitary-confinement-washington/281-013a8416-40a6-487c-9453-3e9359c03fb9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ad83ab15-4d57-40b8-9abb-16829a55a6ee/20240930T193359/ad83ab15-4d57-40b8-9abb-16829a55a6ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad83ab15-4d57-40b8-9abb-16829a55a6ee/20240930T193359/ad83ab15-4d57-40b8-9abb-16829a55a6ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/8e91f556-d294-4172-87b7-bda89a854272/20240930T232742/8e91f556-d294-4172-87b7-bda89a854272_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e91f556-d294-4172-87b7-bda89a854272/20240930T232742/8e91f556-d294-4172-87b7-bda89a854272_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+59°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
