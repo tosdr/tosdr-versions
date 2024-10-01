@@ -960,6 +960,7 @@ Upon taking over the domain, we decided to run DataFileHost.com as a general new
 * [How to Find Best SEO Company in Hong Kong](https://www.datafilehost.com/how-to-find-best-seo-company-in-hong-kong)
 * [How to Find Motivation in Writing Academic Papers](https://www.datafilehost.com/how-to-find-motivation-in-writing-academic-papers)
 * [How to Find Out College Loan Interest Rates?](https://www.datafilehost.com/how-to-find-out-college-loan-interest-rates)
+* [How to Find ROI From the Gross Rent  Multiplier and Vice Versa](https://www.datafilehost.com/how-to-find-roi-from-the-gross-rent-multiplier-and-vice-versa)
 * [How to Find the Best Deals on AppHut?](https://www.datafilehost.com/how-to-find-the-best-deals-on-apphut)
 * [How To Get A Disposable Virtual Number For SMS Verification](https://www.datafilehost.com/how-to-get-a-disposable-virtual-number-for-sms-verification)
 * [How to Get a Virtual Office Address for My Company?](https://www.datafilehost.com/how-to-get-a-virtual-office-address-for-my-company)
