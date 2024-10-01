@@ -290,6 +290,8 @@ is a figurative trademark registered in the UK with registration number: UK00003
 
 You are not permitted to use them without our approval, unless they are part of material you are using as permitted under [How you may use material on our site](#permitted_use).
 
+[![Advert](https://ukc2.com/ads/b/11090.gif?t=1720023279)](https://advertising.ukclimbing.com/click.php?id=11090&uri=55)
+
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
 [About UKClimbing](https://www.ukclimbing.com/general/about/) [Advertise on UKC](https://advertising.ukclimbing.com/) [Terms & Conditions](https://www.ukclimbing.com/general/terms.php) [Privacy Policy](https://www.ukclimbing.com/general/privacy.php) [Personal Data Policy](https://www.ukclimbing.com/general/personal_data_policy.php) [Cookies](https://www.ukclimbing.com/general/cookies.php) [Contact Us](https://www.ukclimbing.com/general/email.php) [Search site](https://www.ukclimbing.com/general/search.php)
