@@ -11,7 +11,7 @@ EN
 Logos Terms of Service
 ======================
 
-**Last amended on: 10/12/2023**
+**Last amended on: 09/30/2024**
 
 **1\. General.**
 ----------------
@@ -90,7 +90,7 @@ We assume no responsibility or obligation to screen any content you upload or cr
 
 By using the Services you acknowledge and agree that we reserve the right at any time to remove, block or disable any User Content that, in our sole judgment, violates these Terms or any applicable law, or may expose or subject us to liability of any kind, or may adversely affect the reputation or goodwill of Logos.
 
-User Content belongs to its creator(s), and we do not claim ownership of any User Content. However, by creating and publishing and/or otherwise providing User Content through the Services, you expressly and irrevocably grant to us a non-exclusive, fully paid and royalty-free, transferable, sublicensable, worldwide license to host, store, cache, index, use, copy, reproduce, display, perform, publish and distribute your User Content for the purposes of providing, operating, managing, maintaining and improving the Services. You acknowledge and agree that: (i) the foregoing license will remain and continue in effect for as long as you maintain an account with Logos or use the Services or, where the relevant User Content was prepared under a License purchased by a Community, for so long as that Community uses the Services; and (ii) in the event you discontinue use of the Services, we may retain backup copies of all your User Content or other content for our internal archival and recordkeeping purposes and User Content you delete may remain available to other Users if they have not deleted it.
+User Content belongs to its creator(s), and we do not claim ownership of any User Content. However, by creating and publishing and/or otherwise providing User Content through the Services, you expressly and irrevocably grant to us a non-exclusive, fully paid and royalty-free, transferable, sublicensable, worldwide license to host, store, cache, index, use, copy, reproduce, display, perform, publish and distribute your User Content for the purposes of providing, operating, managing, maintaining, promoting, and improving the Services. You acknowledge and agree that: (i) the foregoing license will remain and continue in effect for as long as you maintain an account with Logos or use the Services or, where the relevant User Content was prepared under a License purchased by a Community, for so long as that Community uses the Services; and (ii) in the event you discontinue use of the Services, we may retain backup copies of all your User Content or other content for our internal archival and recordkeeping purposes and User Content you delete may remain available to other Users if they have not deleted it.
 
 By creating and publishing and/or otherwise providing User Content through the Services, you also expressly authorize other Users forming part of your Community to access, view, use, copy, reproduce, display, perform, publish and distribute your User Content for their own lawful and personal use, or use in connection with your Community.
 
