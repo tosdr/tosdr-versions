@@ -7,14 +7,19 @@
 
 Subscribe
 
-[#### Psoriasis](https://www.healthline.com/psoriasis)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [Basics](https://www.healthline.com/psoriasis/basics)
-* [Treatments](https://www.healthline.com/psoriasis/treatment)
-* [Prevention](https://www.healthline.com/psoriasis/management)
-* [What to Eat](https://www.healthline.com/psoriasis/diet)
-* [Psoriatic Arthritis](https://www.healthline.com/psoriasis/psoriatic-arthritis)
-* [Skin care](https://www.healthline.com/psoriasis/skin-care)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Privacy Policy
 ==============
@@ -31,7 +36,7 @@ Privacy Policy
 * [Medical Affairs](https://www.healthline.com/medical-team)
 * [Content Integrity](https://www.healthline.com/about/content-integrity)
 * [Newsletters](https://www.healthline.com/newsletter-signup)
-* [Do Not Sell or Share My Personal Information](https://privacyportal.onetrust.com/webform/b45407c6-ee79-4a08-912e-02ce898f9a14/2933b890-b659-41c5-86d8-a2375e0d7776)
+* [Your Privacy Choices](https://privacyportal.onetrust.com/webform/b45407c6-ee79-4a08-912e-02ce898f9a14/2933b890-b659-41c5-86d8-a2375e0d7776)
 * © 2024 Healthline Media LLC. All rights reserved. Healthline Media is an RVO Health Company. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. [See additional information](https://www.healthline.com/additional-information).
     
 
