@@ -29,7 +29,7 @@ How Samaritans uses personal information
 
 Samaritans supports people in distress through its support services. Our service is available by telephone, email, letter, online chat and face to face.
 
-Our helplines are designed so that Samaritans volunteers can’t see your contact details, however, some information that could be used to identify you is stored on our central systems and can be accessed by some Samaritans Central Charity employees.
+Our helplines are designed so that Samaritans volunteers can’t see your contact details, however, some information that could be used to identify you is stored on our central systems and can be accessed by some Samaritans Central Charity employees. All information that we collect, either automatically or volunteered by you, is treated confidentially and stored securely.
 
 When you contact one of our helplines, and depending on the way you contact us, we will collect various personal information:
 
@@ -41,9 +41,9 @@ If you contact us by letter, we will collect your postal address
 
 If you contact us by online chat, we will collect a unique device ID (also known as a fingerprint) by placing a cookie on your device (you will be asked to consent to this beforehand).
 
-We will also collect times and dates of your contact, your gender and age (if given) and the concerns you have discussed with us.
+We will also collect times and dates of your contact, your gender and age (if you choose to provide this) and the concerns you have discussed with us.
 
-We take steps such as encrypting phone numbers and masking email addresses so that you can not be identified, unless you provide us with additional information. Contact information is only unmasked as part of official processes such as when we receive a request from law enforcement. This also applies if you withhold your phone number.
+We take steps such as masking telephone numbers and email addresses so that you can not be identified, unless you provide us with additional information. Contact information is only unmasked as part of an official and documented processes, such as when we receive a request from law enforcement. This also applies if you withhold your phone number.
 
 Where contact is electronic (by email or online chat) we keep copies of communication for 30 days.
 
@@ -52,7 +52,8 @@ We use this information for the following purposes:
 * **To provide you with support:** we use your contact information to connect you with one of our volunteers and provide you with support. Where contact is electronic (for example, by email or webchat) we keep copies of the contact for a rolling 30 day period in order to allow our volunteers to respond.
 * **To provide a follow-up call or additional support:** in some circumstances we may offer to call you back or for us to call you as part of an agreed support plan. In these circumstances, we record information you’ve given us to complete the follow-up call or support plan. We may need to share this information internally, so that whoever you speak to is up to date with your situation.
 * **To safeguard our callers and third parties:** there are certain circumstances where we cannot guarantee confidentiality, for example, where we are made aware of a child or vulnerable adult at risk. In these circumstances we may be required to share the information we hold with other services including the police and emergency services. Please see our [Safeguarding Policy](https://www.samaritans.org/about-samaritans/our-organisation/our-safeguarding-policy/) for further information.
-* **To manage our service and prevent inappropriate use:** if we need to investigate a call or series of calls (e.g. we have received a complaint or a report of inappropriate use of our service) we may use unique identifiers such as your encrypted phone number, masked email address or device ID to identify specific contacts. If we become concerned about the way our service is being used, we may use this information to limit or restrict access to the service.
+* **To manage our service and prevent inappropriate use:** if we need to investigate a call or series of calls (e.g. we have received a complaint or a report of inappropriate use of our service) we may use unique identifiers such as your encrypted phone number, masked email address or device ID to identify specific contacts. If we become concerned about the way our service is being used, we may use this information to limit or restrict access to the service. Some of these call plans are triggered by automated means i.e. by monitoring the volume of interactions from unique contact details.
+* **To carry out quality evaluations on the services we provide you:** staff and volunteers may from time to time ‘listen in’ on live calls or check the content of our webchat, email, and written correspondence for training, quality, support, or research purposes. These staff and volunteers are bound by the same strict confidentiality policies as our listening volunteers, and we will never include personal information relating to you in our quality assessments. We also do not record audio from phone calls.
 * **To protect our volunteers or staff from harm:** If you are abusive or threaten our volunteers or staff, we may report you to the police, provide them with that information we hold on you and where available, circulate your CCTV image to local branches to ensure the safety of our volunteers.
 * **To comply with a legal obligation:** in certain circumstances, such as when we receive a court order from the police, we may be required by law to share your information.
 
@@ -75,6 +76,7 @@ When you donate to Samaritans Central Charity or one of our branches, we ask you
 * **To identify potential high value donors:** Like many other charities, we carry out research in order to engage with suitable high value donors. We do this by researching individuals using publicly available information. Where appropriate we may also share your information with third parties in order to provide us with additional insight. We rely on our legitimate interest in raising funds for this processing, which you can opt-out of at any time by contacting our Philanthropy Team at [\[email protected\]](https://www.samaritans.org/cdn-cgi/l/email-protection).
 * **To better understand our supporters and tailor our communications to you:** We may use research and third party tools to build profiles on our supporters to better understand your preferences and how to best engage with you. We may use this information to tailor our communications to you. You can opt-out of this processing at any time by contacting [\[email protected\]](https://www.samaritans.org/cdn-cgi/l/email-protection).
 * **To send you surveys:** From time to time we send our supporters surveys to help us get to know our audiences better and understand how we can improve our communications.
+* **To record your interest in or pledge to leave a gift in your will:** if you enquire about or let us know you have pledged a gift in your Will, we will store your details on our dedicated database and keep you and any associated contacts (such as your immediate family) updated on the administration of this gift. Some of this information may come from third parties that are associated with Samaritans, but this will be made clear when you provide your data. We rely on legitimate interest to contact you to offer more information and support about legacy giving, and will ask for your consent before sending any further marketing.
 
 If you have donated to Samaritans via an online fundraising platform, they will pass your information on to us to allow us to record and process your donation. We will contact you to confirm that we have received your donation and to see whether you would like to keep in touch in the future. Make sure you read the fundraising platform’s own privacy policy, as that will tell you how they use your information for their own purposes.
 
@@ -133,6 +135,18 @@ When you sign up to take part in a Lived Experience opportunity, we will collect
 
 We will hold your data for the duration of your involvement plus 18 months. You can remove your consent at any time, and request deletion of your data by contacting [\[email protected\]](https://www.samaritans.org/cdn-cgi/l/email-protection).
 
+### When you share your experience with us
+
+When you share your experience of the impact of suicide or the use of our support services, we may contact you to ask if we can add your testimony to our case study database.
+
+If your story is added to our case study database, we will collect your name, email address, and any personal information that you choose to volunteer to us as part of your experience. We may want to publish your story on our website, in our publications, in the media, or via our marketing channels, but we will always ask for your consent before doing so. You also have the option to ask, if your story is published, that we do so anonymously.
+
+You can change your preferences at any time by contacting [\[email protected\]](https://www.samaritans.org/cdn-cgi/l/email-protection)
+
+We may also ask for your demographic data (including your gender, ethnicity, date of birth, sexual orientation and details of any disability), but you do not have to consent or provide us with this information in order to share your story with us.
+
+We will use your information to help us demonstrate the value of talking to Samaritans through personal testimony, and to encourage more people to reach out and seek support. We may use your personal information to contact you to learn more about you and your experience, and for the purposes of Equity, Diversity and Inclusion monitoring and analysis.
+
 ### When you join Samaritans Lived Experience Panel
 
 We host an online panel of people with lived experience of suicidal thoughts, suicide attempts, self-harm, bereavement by suicide or Samaritans service use. The panel is hosted externally on a website hosted by QuMind.
@@ -144,6 +158,18 @@ Surveys and polls are sent to panel members on a fortnightly basis about a range
 Survey results are retained for eighteen months, after which time they are fully anonymised.
 
 If a panel member wishes to be removed from the panel, they can unsubscribe at any time using the unsubscribe link in email communications or by selecting the [contact us](https://samaritanspanels.com/contact) section on the Samaritans Panels website.
+
+### When you interact with us in a professional capacity
+
+Samaritans works with a wide network of people in their professional capacity, who draw on our expertise through programmes such as our media advisory service, online excellence programme, and non-rail high-risk locations programme as well as interact with us around public policy issues and research. These include people working for charities, academics, health professionals and practitioners, parliamentarians, as well as those in the public and private sectors. We also host the National Suicide Prevention Alliance and Support after Suicide Partnership which both engage professionals.
+
+Some information may be stored after an interaction with you, such as your name, professional email address, and the organisation you work for. Some information we capture will be from publicly available sources or will be stored after you register for an event or sign up to receive news about our work.
+
+We store this information to keep a record of which individuals and organisations have interacted with us and to enable us to share relevant information with you including invites to relevant meetings and events. We may also use this information to identify research opportunities and to better understand where we can focus our work and further our aims as a charity.
+
+Personal data we capture is stored securely and only accessed by relevant authorised teams, such as those you have interacted with. We do not share your details with other teams or third parties for the purpose of direct marketing unless you have told us you would like this to happen.
+
+We use the lawful basis of legitimate interest to process this personal data. When we capture this data, we will inform you of how we intend to use it. You have the right to request we remove your details and ask we do not contact you further.
 
 ### When you use our online resources or visit our website
 
