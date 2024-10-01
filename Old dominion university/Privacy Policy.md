@@ -259,7 +259,7 @@ Mega Menu
     **Initiatives & Outreach**
     
     * [Cybersecurity](https://ww1.odu.edu/cyber)
-    * [Global & Public Health](https://ww1.odu.edu/health-sciences/centers/global-health)
+    * [Global & Public Health](https://ww1.odu.edu/public-health/centers/global-health)
     * [Economic Forecasting](https://ceapodu.com/)
     * [Maritime, Ports & Logistics](https://ww1.odu.edu/maritime)
     * [Modeling & Simulation](https://vmasc.org/)
