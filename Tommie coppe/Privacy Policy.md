@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Meloni's Must Haves: BOGO Free! DETAILS
+Save 50% Sitewide! DETAILS
 
-BUY 1 GET 1 FREE
+ONE DAY ONLY!
 
 Close the Modal
 
-#### Mix & match or double up. Meloni's Must Haves are BOGO FREE!
+#### Save 50% Sitewide!
 
-[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 9/30/2024 8AM ET - 10/1/2024 6AM ET.
+Offer valid 10/1/2024 8AM ET - 10/2/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on Meloni's Must Haves, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+**Excludes Easy-On Compression Socks.**
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $150+
+#### Free Pain Relief Liquid Roller on Orders $100+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
+Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
 
-Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
