@@ -28,8 +28,8 @@
     * [Radio Stations](https://www.cumulusmedia.com/listen/station-finder/)
     * [Podcasts](https://cumuluspodcastnetwork.com/)
 
-![Cumulus Media - Where Every Voice Matters](http://www.cumulusmedia.com/wp-content/uploads/2019/09/CumulusMedia-WEVM.png)
-==========================================================================================================================
+![Cumulus Media - Where Every Voice Matters](https://www.cumulusmedia.com/wp-content/uploads/2019/09/CumulusMedia-WEVM.png)
+===========================================================================================================================
 
 **UPDATED AS OF July 28, 2022**
 
