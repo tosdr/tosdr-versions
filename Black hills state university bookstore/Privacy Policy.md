@@ -1,122 +1,63 @@
-HI FRIEND!
-==========
+[skip to main content](#main-content)
 
-If you are seeing this message, it is because you are viewing this site on a browser with limited support. Please upgrade your browser to the latest version in order to comfortably browse this site and enjoy its many features. Cheers!  
-  
-**Supported Browsers:** (click on the name to go to the manufacturer's website for safe download)
+Open and close profile links
 
-* [Google Chrome](https://www.google.com/chrome/browser/#eula)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie) (Latest version. Not eligible for Windows XP and Windows Vista users.)
-* [Opera](http://www.opera.com/?utm_expid=8257061-38.gow5x_jtRN-66hVtI45djQ.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+[My cart 0 items](https://www.bhsubookstore.com/cart.asp)
 
- [![Store logo](https://www.bhsubookstore.com/images/logo.png) University Bookstore](https://www.bhsubookstore.com/default.asp?)
+[![University Bookstore logo](https://www.bhsubookstore.com/images/logo_sm.webp)](https://www.bhsubookstore.com/default.asp?)
 
-[skip to main content](#content "skip navigation")
+Open and close search bar
 
-[0](https://www.bhsubookstore.com/cart.asp?)
+Open and close main navigation menu
 
-[login](https://www.bhsubookstore.com/account_login.asp?)
+Don't forget, stop in for Touchdown Tuesday after every home football game!
 
-search
+×
 
-[Whoops! You are not logged in](https://www.bhsubookstore.com/account_login.asp?)
+[skip to main content](#main-content)
 
-Search   
+[![University Bookstore logo](https://www.bhsubookstore.com/images/logo.webp)](https://www.bhsubookstore.com/default.asp?)
 
-Open MenuClose Menu
+Search Products [continue to search](#)  
 
-[Log In](https://www.bhsubookstore.com/account_login.asp?)
+Cancel
 
-[Home](https://www.bhsubookstore.com/default.asp?)
+[**My Cart** 0 items](https://www.bhsubookstore.com/cart.asp?)
 
-Shop
+* [Sign In](https://www.bhsubookstore.com/account_login.asp?)
+    * [Sign In](https://www.bhsubookstore.com/account_login.asp?)
+    * [Create Account](https://www.bhsubookstore.com/account_create.asp?)
 
-* ### COLLECTIONS
-    
-    [Mom & Dad](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTE&catalog_group_name=Q09MTEVDVElPTlM&catalog_id=292&catalog_name=TW9tIEFuZCBEYWQ)  
-    [Department Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTE&catalog_group_name=Q09MTEVDVElPTlM&catalog_id=282&catalog_name=RGVwYXJ0bWVudCBTaGlydHM)  
-    [Alumni](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTE&catalog_group_name=Q09MTEVDVElPTlM&catalog_id=291&catalog_name=QWx1bW5p)  
-    [Sports Specific Apparel](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTE&catalog_group_name=Q09MTEVDVElPTlM&catalog_id=283&catalog_name=U3BvcnRzIFNwZWNpZmljIEFwcGFyZWw)  
-    [Featured Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTE&catalog_group_name=Q09MTEVDVElPTlM&catalog_id=302&catalog_name=RmVhdHVyZWQgSXRlbXM)  
-      
-    
-    ### GIFTS
-    
-    [Decals & Magnets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=300&catalog_name=RGVjYWxzICZhbXA7IE1hZ25ldHM)  
-    [Drinkware](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=245&catalog_name=RHJpbmt3YXJl)  
-    [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=268&catalog_name=RmxhZ3MgJmFtcDsgUGVubmFudHM)  
-    [Keychains & Lanyards](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=301&catalog_name=S2V5Y2hhaW5zICZhbXA7IExhbnlhcmRz)  
-    [Lawn Signs](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=305&catalog_name=TGF3biBTaWducw)  
-    [Novelty Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=293&catalog_name=Tm92ZWx0eQ)  
-      
-    
-* ### APPAREL
-    
-    [T-Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=248&catalog_name=VC1TaGlydHM)  
-    [Sweatshirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=254&catalog_name=U3dlYXRzaGlydHM)  
-    [Polo & Dress Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=287&catalog_name=UG9sbyAmYW1wOyBEcmVzcyBTaGlydHM)  
-    [Shorts & Pants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=289&catalog_name=U2hvcnRzICZhbXA7IFBhbnRz)  
-    [Jackets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=288&catalog_name=SmFja2V0cw)  
-    [Ladies](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=299&catalog_name=TGFkaWVz)  
-    [Headwear](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=290&catalog_name=SGVhZHdlYXI)  
-    [Children](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=298&catalog_name=Q2hpbGRyZW4)  
-    [Accessories](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=257&catalog_name=QWNjZXNzb3JpZXM)  
-    [Clearance Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=304&catalog_name=Q2xlYXJhbmNlIEl0ZW1z)  
-    
-* ### SUPPLIES
-    
-    [Calculators](https://www.bhsubookstore.com/shop_product_list.asp?catalog_name=Q0FMQ1VMQVRPUlM&catalog_id=260)  
-    [Binders/Notebooks](https://www.bhsubookstore.com/shop_product_list.asp?catalog_name=QklOREVSUy9OT1RFQk9PS1M&catalog_id=269)  
-    [Pens/Pencils](https://www.bhsubookstore.com/shop_product_list.asp?catalog_name=UEVOUy9QRU5DSUxTL0VUQw&catalog_id=284)  
-    [Electronics](https://www.bhsubookstore.com/shop_product_list.asp?catalog_name=RUxFQ1RST05JQ1M&catalog_id=285)  
-    [Miscellaneous Supplies](https://www.bhsubookstore.com/shop_product_list.asp?catalog_name=TUlTQ0VMTEFORU9VUyBTVVBQTElFUw&catalog_id=286)  
-    
+* [Books](#)
+    * [Buy / Reserve / Rent](https://www.bhsubookstore.com/buy_textbooks.asp?)
+    * [Sell Textbooks](https://onlinebuyback.mbsbooks.com/index.php?jde=7523)
+* [Categories](#)
+    * [Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
+        * [T-Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=248)
+        * [Sweatshirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=254)
+        * [Shorts & Pants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=289)
+        * [Jackets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=288)
+        * [Ladies](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=299)
+        * [Headwear](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=290)
+        * [Children](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=298)
+        * [Accessories](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=257)
+        * [View All Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
+    * [Gifts](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM)
+        * [Decals & Magnets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=300)
+        * [Drinkware](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=245)
+        * [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=268)
+        * [Keychains & Lanyards](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=301)
+        * [Lawn Signs](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=305)
+        * [Novelty Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=293)
+        * [View All Gifts](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM)
+* [Services](#)
+    * [Customer Service](https://www.bhsubookstore.com/site_customer_service.asp?)
+    * [Contact Us](https://www.bhsubookstore.com/site_contact_us.asp?)
+    * [About Us](https://www.bhsubookstore.com/site_about_us.asp?)
+* [Announcements](https://www.bhsubookstore.com/site_announcements.asp?)
 
-Support
-
-* ### STORE INFO
-    
-    [About Us](https://www.bhsubookstore.com/site_about_us.asp?)  
-    [Store Hours](https://www.bhsubookstore.com/site_about_us.asp?)  
-    [Find Us](https://www.google.com/maps/place/BHSU+Bookstore/@44.4965092,-103.8738392,913m/data=!3m3!1e3!4b1!5s0x533299cec859d8d5:0x5bbb899c8c30c105!4m6!3m5!1s0x533299ceb7155319:0xa1876888b87d2bdd!8m2!3d44.4965054!4d-103.8712643!16s%2Fg%2F12hk5pmz9?entry=ttu)  
-    [Customer Service](https://www.bhsubookstore.com/site_customer_service.asp?)  
-    [Return Policy](https://www.bhsubookstore.com/site_customer_service.asp?#merchreturn)  
-    [Shipping Policy](https://www.bhsubookstore.com/site_customer_service.asp?#shippingpolicies)  
-    [Faculty Resources](https://bhsu.verbacollect.com/)  
-      
-    [**605-642-6636**](tel:605-642-6636)  
-    [BHSUBookstore@bhsu.edu](mailto:BHSUBookstore@bhsu.edu)  
-      
-    
-* ### BHSU INFO
-    
-    [BHSU Website](https://www.bhsu.edu/)  
-    [Writing Assistance Center](https://www.bhsu.edu/Student-Life/Student-Services/Writing-Center/)  
-    [Web Advisor](https://wa-bhsu.prod.sdbor.edu/WebAdvisor/webadvisor?TYPE=M&PID=CORE-WBMAIN&TOKENIDX=9073785002)  
-    [Math Assistance Center](https://www.bhsumath.com/)  
-    [Tech & Computer Services](https://www.bhsu.edu/IITS/Services/)  
-    [Student Health Services](https://www.bhsu.edu/Student-Life/Student-Services/Student-Health-Services)  
-    [Campus Map](https://www.bhsu.edu/About-BHSU/Campus-Map)  
-      
-    
-    ### ADMISSIONS
-    
-    [**605-642-6131**](tel:605.642.6131)  
-    [Contact](https://www.bhsu.edu/Admissions/Explore/Find-Your-Admissions-Representative)
-* ### YOUR ACCOUNT
-    
-    [Sign In](https://www.bhsubookstore.com/account_login.asp?)  
-    [Create An Account](https://www.bhsubookstore.com/account_create.asp?)  
-      
-      
-    
-    ### FOLLOW US
-    
-    [![Visit us on Facebook](https://www.bhsubookstore.com/images/facebook.svg)](https://www.facebook.com/BHSUbookstore) 
-    
-
-Browse
+* [Sign In](https://www.bhsubookstore.com/account_login.asp?)
+* [Create Account](https://www.bhsubookstore.com/account_create.asp?)
 
 Privacy Policy/Terms of Use
 ===========================
@@ -192,22 +133,75 @@ Copyright (c) 2025 University Bookstore. All rights reserved.
 
 [back to top](#content)
 
-### Links
+Begin Footer
+------------
 
-[Home](https://www.bhsubookstore.com/default.asp?)  
-[Customer Service](https://www.bhsubookstore.com/site_customer_service.asp?)  
-[About Us](https://www.bhsubookstore.com/site_about_us.asp?)  
-[Terms of Use](https://www.bhsubookstore.com/site_terms_of_use.asp?#terms)  
-[Privacy Policy](https://www.bhsubookstore.com/site_terms_of_use.asp?)  
-  
+[![University Bookstore logo](https://www.bhsubookstore.com/images/logo-footer.webp)](https://www.bhsubookstore.com/default.asp?)
 
-### Get Social
+### Visit us on social media
 
-[![Visit us on Facebook](https://www.bhsubookstore.com/images/facebook.svg)](https://www.facebook.com/BHSUbookstore) 
+* [Facebook](https://www.facebook.com/BHSUbookstore/ "Facebook")
+* [Instagram](https://www.instagram.com/bhsu.bookstore/ "Instagram")
 
-University Bookstore • [1200 University Street; Unit 9001 Spearfish, SD 57799-9001](http://maps.google.com/?q=1200%20University%20Street;%20Unit%209001,%20Spearfish,%20SD%2057799-9001)  
-**[605-642-6636](tel:605-642-6636)** • **[Send Us An Email](https://www.bhsubookstore.com/site_customer_service.asp?#contact)**
+### Spearfish Campus Store Hours
 
-TOP
+|     |     |
+| --- | --- |Store hours
+| Monday | 8:00AM - 5:00PM |
+| Tuesday | 8:00AM - 5:00PM |
+| Wednesday | 8:00AM - 5:00PM |
+| Thursday | 8:00AM - 5:00PM |
+| Friday | 8:00AM - 5:00PM |
+| Saturday | CLOSED |
+| Sunday | CLOSED |
 
-© 2024 University Bookstore. All rights reserved.
+Tuesday 8:00AM - 5:00PM OPEN
+
+[View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
+
+### Location & Contact
+
+University Bookstore[605-642-6636](tel:605-642-6636)[BHSUBookstore@bhsu.edu](mailto:BHSUBookstore@bhsu.edu)1200 University StreetUnit 9001Spearfish, SD 57799[View Map](https://www.google.com/maps/place/BHSU+Bookstore/@44.4948218,-103.8709156,750m/data=!3m3!1e3!4b1!5s0x533299cec859d8d5:0x5bbb899c8c30c105!4m6!3m5!1s0x533299ceb7155319:0xa1876888b87d2bdd!8m2!3d44.4948218!4d-103.8709156!16s%2Fg%2F12hk5pmz9?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D)
+
+### Footer Navigation Links
+
+* [Shop](#)
+    * [Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
+    * [Gifts](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM)
+    * [View All Departments](https://www.bhsubookstore.com/shop_main.asp?)
+
+* [Course Materials](#)
+    * [Find Textbooks](https://www.bhsubookstore.com/buy_textbooks.asp?)
+    * [Sell Textbooks](https://onlinebuyback.mbsbooks.com/index.php?jde=7523)
+
+* [Help](#)
+    * [Customer Service](https://www.bhsubookstore.com/site_customer_service.asp)
+    * [Returns](https://www.bhsubookstore.com/site_customer_service.asp?#merchreturn)
+    * [Shipping Policy](https://www.bhsubookstore.com/site_customer_service.asp?#shippingpolicies)
+    * [Shipping Info](https://www.bhsubookstore.com/site_shipping_info.asp?)
+
+* [Store Info](#)
+    * [About Us](https://www.bhsubookstore.com/site_about_us.asp)
+    * [Contact Us](https://www.bhsubookstore.com/site_contact_us.asp)
+    * [Find Us](https://www.google.com/maps/place/BHSU+Bookstore/@44.4965092,-103.8738392,913m/data=!3m3!1e3!4b1!5s0x533299cec859d8d5:0x5bbb899c8c30c105!4m6!3m5!1s0x533299ceb7155319:0xa1876888b87d2bdd!8m2!3d44.4965054!4d-103.8712643!16s%2Fg%2F12hk5pmz9?entry=ttu)
+
+* [Campus Links](#)
+    * [BHSU Website](https://www.bhsu.edu/)
+    * [Writing Assistance Center](https://www.bhsu.edu/Student-Life/Student-Services/Writing-Center/)
+    * [Web Advisor](https://wa-bhsu.prod.sdbor.edu/WebAdvisor/webadvisor?TYPE=M&PID=CORE-WBMAIN&TOKENIDX=9073785002)
+    * [Math Assistance Center](https://www.bhsumath.com/)
+    * [Tech & Computer Services](https://www.bhsu.edu/IITS/Services/)
+    * [Student Health Services](https://www.bhsu.edu/Student-Life/Student-Services/Student-Health-Services)
+    * [Campus Map](https://www.bhsu.edu/About-BHSU/Campus-Map)
+    * [Admissions](https://www.bhsu.edu/Admissions/Explore/Find-Your-Admissions-Representative)
+    * [Faculty Resources](https://bhsu.verbacollect.com/)
+
+* © 2024 University Bookstore
+* [Privacy Policy](https://www.bhsubookstore.com/site_terms_of_use.asp?#privacy)
+* [Terms of Use](https://www.bhsubookstore.com/site_terms_of_use.asp?#terms)
+
+**Cookies** - This site requires the use of cookies to handle and secure user sessions throughout the site, provide enhanced funtionality for our users, and enhance web content. If you continue to use this site, you agree that we can place these types of cookies on your device.
+
+For more information, please review our [Privacy Policy](#)
+
+×
