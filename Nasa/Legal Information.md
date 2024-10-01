@@ -247,7 +247,7 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
@@ -263,7 +263,13 @@ article 4 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Highlights
 
-[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
+[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
+
+2 min read
+
+### Station Science Top News: Sept. 27, 2024
+
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
 
 4 min read
 
@@ -275,13 +281,7 @@ article 2 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hag
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article 4 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
-
-4 min read
-
-### Educational Activities in Space
-
-article 6 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)
+article 4 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 5 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -351,25 +351,25 @@ article 5 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Highlights
 
-[![Backyard Worlds: Cool Neighbors](https://science.nasa.gov/wp-content/uploads/2023/07/CoolNeighborsLogo_TransparentBackground_No_Bottom_Text_Square_Canvas.png)
+[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
 
 2 min read
 
-### Backyard Worlds: Cool Neighbors
+### Eclipsing Binary Patrol
 
-article 2 days ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
+article 6 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
 
 2 min read
 
-### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
+### Station Science Top News: Sept. 27, 2024
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![Summary of the 10th SWOT Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.png)
 
-1 min read
+21 min read
 
-### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
+### Summary of the 10th SWOT Applications Workshop
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)
+article 10 hours ago](https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-swot-applications-workshop/)
 
 ### Highlights
 
