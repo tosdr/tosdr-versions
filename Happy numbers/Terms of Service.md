@@ -3,9 +3,11 @@
 Terms Of Service
 ================
 
+We are in the process of updating our Terms of Service. The revised version will take effect on October 15, 2024. You can review the updated Privacy Policy by following [this link](https://shared.happynumbers.com/updated-2024-terms-of-service.pdf).
+
 Welcome to HappyNumbers.com. The following Terms of Service ("ToS") govern all use of the www.happynumbers.com website, including happynumbers.com/blog and plus.happynumbers.com (the "Website") and all content, services, features, activities, and products available at or through the Website, including, but not limited to, interactive lessons in the field of Mathematics (the "Lessons" and, together with all other content, services, features, activities, and products available through the Website, the "Services") and Happy Printables.
 
-The Services are provided by Happy Numbers Inc., a company organized under the laws of the USA, having its principal place of business at 2345 Yale Street., First Floor, Palo Alto, CA 94306, USA.
+The Services are provided by Happy Numbers Inc., a company organized under the laws of the USA, having its principal place of business at 2261 Market Street STE 22178, San Francisco, CA 94114, USA.
 
 Please read these ToS carefully before you start using the Services.
 
@@ -159,9 +161,9 @@ If you have any questions or suggestions about this Privacy Policy or your Perso
   
 
 * Happy Numbers Inc.,
-* 2345 Yale Street., First Floor,
-* Palo Alto,
-* CA 94306,
+* 2261 Market Street STE 22178,
+* San Francisco,
+* CA 94114,
 * USA
 
   
