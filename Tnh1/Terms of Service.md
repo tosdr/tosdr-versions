@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
+   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
+
+em maceió
+
+“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://www.tnh1.com.br/noticia/nid/nao-tinham-postura-de-policiais-diz-testemunha-sobre-suspeitos-de-tentativa-de-assalto-em-empresarial/ "“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial")   [![Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_policia-prisao-assaltantes-cortesia_57e303029b.png)
+
+No Farol
+
+Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-policiais-interceptando-falsos-pms-durante-tentativa-de-assalto-em-empresarial-em-maceio/ "Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
 
 na ponta grossa
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
 
 Na Madrugada
 
-Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_dupla-invade-loja-centro_a3c41f2487.jpg)
+Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_dupla-invade-loja-centro_a3c41f2487.jpg)
 
 Dois foragidos
 
-Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-suspeita-de-furto-escala-muro-para-invadir-loja-no-centro-de-maceio/ "Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió")   [![Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-suspeita-de-furto-escala-muro-para-invadir-loja-no-centro-de-maceio/ "Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió")   [![Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
 
 Suspeitos presos
 
-Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-contra-mulher-sao-registrados-no-intervalo-de-1h-em-al/ "Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL")   [![ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_acoes_com_idosos_divulgacao_33ce0bf4e0.jpg)
-
-EM MACEIÓ
-
-ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://www.tnh1.com.br/noticia/nid/ong-realiza-semana-de-acoes-em-comemoracao-ao-dia-do-idoso-saiba-como-ajudar/ "ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar")   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
-
-em recuperação
-
-HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")
+Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-contra-mulher-sao-registrados-no-intervalo-de-1h-em-al/ "Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ HGE procura familiares de paciente sem identificação resgatado no Centro de Ma
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_06bf03abb3.png)
+   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_semarh-alagoas-previsao_84bf845024.png)
+
+Meteorologia
+
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-2/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)")   [![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_06bf03abb3.png)
 
 policiamento
 
-Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")   [![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_ac63198c0a.jpg)
+Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")   [![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_ac63198c0a.jpg)
 
 PORTUGAL EM CENA
 
-Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")   [![Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_mamografia_agencia_100a956db1.png)
+Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")   [![Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/2/csm_mamografia_agencia_100a956db1.png)
 
 Outubro Rosa
 
-Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://www.tnh1.com.br/noticia/nid/veja-como-fazer-exame-de-mamografia-sem-necessitar-de-agendamento-em-maceio/ "Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió")   [![Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_placar-solar-sedics_f1bfbb973a.jpg)
+Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://www.tnh1.com.br/noticia/nid/veja-como-fazer-exame-de-mamografia-sem-necessitar-de-agendamento-em-maceio/ "Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió")   [![Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/7/csm_placar-solar-sedics_f1bfbb973a.jpg)
 
 Fonte renovável
 
-Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://www.tnh1.com.br/noticia/nid/alagoas-se-destaca-como-o-2o-estado-mais-acessivel-do-ne-para-instalacao-de-energia-solar/ "Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar")   [![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_2cc6bf0a41.jpg)
+Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://www.tnh1.com.br/noticia/nid/alagoas-se-destaca-como-o-2o-estado-mais-acessivel-do-ne-para-instalacao-de-energia-solar/ "Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar")   [![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_2cc6bf0a41.jpg)
 
 administrativo
 
-Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
-
-Alagoas
-
-Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")
+Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feir
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_abusos-vitima-foto-reproducao_5fe29053b3.jpg)
+   [![Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_b22aa6a002.jpeg)
 
-vítima denunciou
+investigações
 
-Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa](https://www.tnh1.com.br/noticia/nid/menor-e-apreendido-por-beijar-menina-de-11-anos-a-forca-em-lagoa-da-canoa/ "Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa")   [![Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/6/csm_operacao_pf_ifraud_-_foto_ascom_pf_87bc988338.jpg)
+Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://www.tnh1.com.br/noticia/nid/integrante-de-faccao-no-rj-orientou-grupo-que-tentou-assaltar-empresarial-em-maceio/ "Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió")   [![Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_CRIMINOSOS_PRESOS_UNIFORMES_POLICIAIS__SSP__2__1__914116bc7a.png)
 
-"ifraud"
+Investigações
 
-Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió](https://www.tnh1.com.br/noticia/nid/operacao-combate-fraudes-na-importacao-de-smartphones-e-policiais-cumprem-mandado-em-maceio/ "Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió")   [![Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_homem-morto-tiro-rio-largo_3301174635.jpg)
+Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://www.tnh1.com.br/noticia/nid/mandado-falso-e-denuncia-veja-como-policia-interceptou-grupo-que-tentou-assalto-no-farol/ "Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol")   [!["Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_Capsula_de_arma_tiroteio_Farol_-_foto_Joao_Arthur_Sampaio_-_TNH1_ee421a3213.jpeg)
 
-Em Rio Largo
+na centenário
 
-Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB](https://www.tnh1.com.br/noticia/nid/imagens-mostram-motociclista-atirando-na-cabeca-de-homem-com-camisa-do-crb/ "Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB")   [![Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+"Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar](https://www.tnh1.com.br/noticia/nid/teria-passado-no-meio-do-tiroteio-5-minutos-antes-diz-estudante-que-parou-para-almocar/ ""Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar")   [![Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_Samu_em_frente_ao_empresarial__tentativa_assalto_Farol_-_foto_Reproducao_82d24ebde4.jpg)
 
-Em Maceió
+levado ao hge
 
-Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso](https://www.tnh1.com.br/noticia/nid/jovem-agredida-pede-ajuda-para-resgatar-filha-bebe-da-casa-de-sogra-companheiro-e-preso/ "Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso")   [![PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/e/csm_dinheiro-apreendido-PF-crime-eleitoral_3140e4a935.jpg)
+Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol](https://www.tnh1.com.br/noticia/nid/um-homem-ficou-ferido-em-tentativa-de-assalto-por-falsos-pms-no-farol/ "Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol")   [![Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_assaltante-pula-muro-para-escapar-policia-reproducao_357e404bfa.png)
 
-No interior
+FOI PRESO
 
-PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-apreende-cerca-de-r-800-mil-que-seriam-usados-para-crimes-eleitorais-em-alagoas/ "PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas")   [![MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_csm_Kleber-malaquias_0dff5d9c72_733f9e984a_6298925b94.jpg)
+Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista](https://www.tnh1.com.br/noticia/nid/suspeito-tira-farda-falsa-do-bope-e-pula-muro-de-cueca-para-tentar-escapar-assista/ "Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista")   [![Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_policia-prisao-assaltantes-cortesia_57e303029b.png)
 
-Polícia
+No Farol
 
-MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/mpal-pede-prisao-preventiva-de-pm-acusado-de-fraudar-processo-do-caso-kleber-malaquias/ "MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias")
+Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-policiais-interceptando-falsos-pms-durante-tentativa-de-assalto-em-empresarial-em-maceio/ "Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,23 +206,23 @@ Revelações
 
 Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry
 
-Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry](https://www.tnh1.com.br/noticia/nid/principe-william-teria-exigido-para-avo-que-nao-autorizasse-meghan-a-usar-nenhuma-joia-real-em-casamento-com-harry/ "Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ")[![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_6e7e1f02e5.jpg)
+Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry](https://www.tnh1.com.br/noticia/nid/principe-william-teria-exigido-para-avo-que-nao-autorizasse-meghan-a-usar-nenhuma-joia-real-em-casamento-com-harry/ "Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ")[![Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_acidente-carro-caminhonte-mato-grosso-motorista-morte-divulgacao_7a8848ceb1.jpg)
 
-pontal do peba
+ESTÁ FORAGIDO
 
-pontal do peba
+ESTÁ FORAGIDO
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL
+Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
+Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros](https://www.tnh1.com.br/noticia/nid/motorista-morre-em-acidente-e-irmao-da-vitima-mata-sobreviventes-a-tiros/ "Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ")[![Suspeitos vestidos com farda da PM são presos em tentativa de assalto em empresarial, no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
 
-na ponta grossa
+centenário
 
-na ponta grossa
+centenário
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
+Suspeitos vestidos com farda da PM são presos em tentativa de assalto em empresarial, no Farol
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sandy_e_novo_namorado_-_foto_reproducao_instagram_5b0972cce6.jpg)
+Suspeitos vestidos com farda da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda da PM são presos em tentativa de assalto em empresarial, no Farol")[![Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sandy_e_novo_namorado_-_foto_reproducao_instagram_5b0972cce6.jpg)
 
 Romance
 
@@ -232,39 +232,39 @@ Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantor
 
 Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
 
-[![Zé Neto segue internado após acidente e hospital atualiza estado de saúde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_ze_neto_no_hospital_reproducao_redes_sociais_b8b24a122b.jpg)
+[![Série B: veja as chances de acesso e risco de queda após a 29ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_CRB_x_America-MG_-_Serie_B_2024_-_foto_Francisco_CedrimCRB_d0e68769da.jpeg)
 
-levou pontos
+números
 
-levou pontos
+números
 
-Zé Neto segue internado após acidente e hospital atualiza estado de saúde
+Série B: veja as chances de acesso e risco de queda após a 29ª rodada
 
-Zé Neto segue internado após acidente e hospital atualiza estado de saúde](https://www.tnh1.com.br/noticia/nid/ze-neto-segue-internado-apos-acidente-e-hospital-atualiza-estado-de-saude/ "Zé Neto segue internado após acidente e hospital atualiza estado de saúde")[![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_21002bfc7f.png)
+Série B: veja as chances de acesso e risco de queda após a 29ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-29a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 29ª rodada")[![Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
 
-policiamento
+investigações
 
-policiamento
+investigações
 
-Veja como será o esquema de policiamento nas eleições municipais de Alagoas
+Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió
 
-Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")[![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_505d8215c6.jpg)
+Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://www.tnh1.com.br/noticia/nid/integrante-de-faccao-no-rj-orientou-grupo-que-tentou-assaltar-empresarial-em-maceio/ "Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió")[![Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/a/csm_csm_harry-e-meghan-divulgacao-netflix_4d0ae1ce8b_814e2b3fd4.png)
 
-PORTUGAL EM CENA
+Gente Famosa
 
-PORTUGAL EM CENA
+Gente Famosa
 
-Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato
+Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site
 
-Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")[![“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/1/csm_mostra_inclusao_8378d4027a.jpeg)
+Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-estao-vibrando-apos-nome-de-membro-da-familia-real-surgir-no-caso-diddy-diz-site/ "Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site")[![Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_CRIMINOSOS_PRESOS_UNIFORMES_POLICIAIS__SSP__2__1__fc1a1e9565.png)
 
-Mostra Sururu
+Investigações
 
-Mostra Sururu
+Investigações
 
-“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão
+Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol
 
-“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão](https://www.tnh1.com.br/noticia/nid/equidade-e-a-palavra-diz-felipe-neves-artista-cego-durante-a-mostra-inclusao/ "“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão")
+Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://www.tnh1.com.br/noticia/nid/mandado-falso-e-denuncia-veja-como-policia-interceptou-grupo-que-tentou-assalto-no-farol/ "Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
