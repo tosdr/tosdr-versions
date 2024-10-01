@@ -184,7 +184,7 @@ Filter updates are checked at user-defined intervals in accordance with the appl
 
 Other documents:
 
-[Privacy policy](https://adguard.com/en/privacy.html) [AdGuard software Limited — End User License Agreement](https://adguard.com/en/eula.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy Policy of AdGuard Websites](https://adguard.com/en/website-privacy.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
+[Privacy policy](https://adguard.com/en/privacy.html) [EULA](https://adguard.com/en/eula.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy Policy of AdGuard Websites](https://adguard.com/en/website-privacy.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
 
 Privacy Notices:
 
