@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,406 members - 451,768,578 ads shown  
+131,406 members - 451,771,524 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -59,9 +59,9 @@ paid member banners
 
 [![](https://tanfanumhits.com/getimg.php?id=18)](https://tanfanumhits.com/?rid=103)
 
-[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
+[![](https://tse3.mm.bing.net/th?id=OIP.4zVcE6smzfTO4m_8GoccVgHaE8&pid=Api&P=0&w=284&h=190)](https://viralmailerforyou.com/splashpage.php?id=48&r=DrMillionaire)
 
-[![](https://topdogsrotator.com/a125.gif)](https://topdogsrotator.com/nightmagic)
+[![](https://easyadlinks.com/getimg.php?id=6)](https://easyadlinks.com/?rid=11)
 
 ![](26yrs0.gif)
 
