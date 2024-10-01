@@ -40,6 +40,7 @@ it
     * [Fondi di garanzia](https://www.inps.it/it/it/lavoro/fondo-di-garanzia.html)
     * [TFS/TFR](https://www.inps.it/it/it/lavoro/tfs-tfr.html)
     * [Malattia](https://www.inps.it/it/it/lavoro/malattia.html)
+    * [Concorsi, interpelli e reclutamenti INPS](https://www.inps.it/it/it/lavoro/concorsi--interpelli-e-reclutamenti-inps.html)
     
     Strumenti Apri
     
@@ -1715,13 +1716,14 @@ In evidenza
     * [Disoccupazione](https://www.inps.it/it/it/lavoro/disoccupazione.html)
     * [Contratti e rapporti di lavoro](https://www.inps.it/it/it/lavoro/contratti-rapporti-lavoro.html)
     * [Contributi per dipendenti e collaboratori](https://www.inps.it/it/it/lavoro/contributi-dipendenti-e-collaboratori.html)
+    * [Contributi figurativi/valorizzazione lavoro e studio](https://www.inps.it/it/it/lavoro/contributi-figurativi-valorizzazione.html)
     
     * [Esplora Lavoro](https://www.inps.it/it/it/lavoro.html)
     
-    * [Contributi figurativi/valorizzazione lavoro e studio](https://www.inps.it/it/it/lavoro/contributi-figurativi-valorizzazione.html)
     * [Fondi di garanzia](https://www.inps.it/it/it/lavoro/fondo-di-garanzia.html)
     * [TFS/TFR](https://www.inps.it/it/it/lavoro/tfs-tfr.html)
     * [Malattia](https://www.inps.it/it/it/lavoro/malattia.html)
+    * [Concorsi, interpelli e reclutamenti INPS](https://www.inps.it/it/it/lavoro/concorsi--interpelli-e-reclutamenti-inps.html)
     
     Lavoro
     
@@ -2020,7 +2022,5 @@ Rifiuta i cookie non tecnici
 Salva impostazioni
 
 Impostazioni dei cookie
-
-  
 
 Attenzione
