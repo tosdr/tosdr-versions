@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![36 Facts About Covalent Radius ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/36-facts-about-covalent-radius/)
+[![50 Facts About Zachary Levi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-zachary-levi/)
 
-Chemistry
+Celebrity
 
-30 Sep 2024
+01 Oct 2024
 
-[36 Facts About Covalent Radius](https://facts.net/science/chemistry/36-facts-about-covalent-radius/)
+[50 Facts About Zachary Levi](https://facts.net/celebrity/50-facts-about-zachary-levi/)
 
-[![50 Facts About Stephen Curry ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22111%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/50-facts-about-stephen-curry/)
+[![35 Facts About Project Isabela ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/human-activities/impact-of-human-activity/35-facts-about-project-isabela/)
 
-Sports
+Impact of Human Activity
 
-30 Sep 2024
+01 Oct 2024
 
-[50 Facts About Stephen Curry](https://facts.net/lifestyle/sports/50-facts-about-stephen-curry/)
+[35 Facts About Project Isabela](https://facts.net/human-activities/impact-of-human-activity/35-facts-about-project-isabela/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
