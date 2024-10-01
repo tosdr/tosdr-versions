@@ -1,3 +1,21 @@
+[](https://www.smartcat.com/)
+
+* Solutions
+    
+* Product
+    
+* Resources
+    
+* Marketplace
+    
+* [Enterprise](https://www.smartcat.com/enterprise/)
+* [Pricing](https://www.smartcat.com/pricing/)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4497442&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4497442&lang=en)
+* [en](#)
+
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4497442&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4497442&lang=en)
+
 Smartcat legal
 
 [* Terms of Service](https://www.smartcat.com/legal/terms)[* Data Processing Agreement](https://www.smartcat.com/legal/dpa)[* Privacy Policy](https://www.smartcat.com/legal/privacy-policy)[* Security and Compliance](https://www.smartcat.com/legal/security-and-compliance)[* Customer Agreement](https://www.smartcat.com/legal/customer-agreement)[* Supplier Agreement](https://www.smartcat.com/legal/supplier-agreement)
