@@ -176,17 +176,17 @@ Are you ready to start facing your fear and living your bucket list?
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
 ###### Visit My Shop!  
-**buck & co**.
+[**buck & co**.](https://buckandco.net/)
 
-[buck & co.](https://buckandco.net/) has the tools, resources and inspirational products to help every dreamer start living their bucket list—one checkmark at a time.
+buck & co. has the tools, resources and inspirational products to help every dreamer start living their bucket list—one checkmark at a time.
 
-[PRINTABLES](https://buckandco.net/collections/printables)
+[**PRINTABLES**](https://buckandco.net/collections/printables)
 
-[WORKSHEETS](https://buckandco.net/collections/printables/Planners-and-Bundles)
+[**WORKSHEETS**](https://buckandco.net/collections/printables/Planners-and-Bundles)
 
-[PACKING LISTS](https://buckandco.net/collections/printables/Packing-Lists)
+[**PACKING LISTS**](https://buckandco.net/collections/printables/Packing-Lists)
 
-[TEES & TANKS](https://buckandco.net/collections/tees/Tees-and-Tanks)
+[**TEES & TANKS**](https://buckandco.net/collections/tees/Tees-and-Tanks)
 
 **GET 2,000 free bucket list ideas**
 ------------------------------------
