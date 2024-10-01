@@ -31,1051 +31,1044 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cortes de luz en Quito seguirán estos horarios este 1 de octubre
-================================================================
+(Video) Ronaldo Johnson, ex Emelec, sorprende con su baile en la India
+======================================================================
 
-Las autoridades indicaron que los horarios podrían variar en las horas de suspensión debido a la condición que presenten los caudales
--------------------------------------------------------------------------------------------------------------------------------------
+El lateral ecuatoriano sorprendió en 2024 cuando decidió continuar su carrera en un destino exótico.
+----------------------------------------------------------------------------------------------------
 
-![Los horarios de cortes de luz fueron establecidos por la Cartera de Energía y Minas.](https://www.elcomercio.com/wp-content/uploads/2024/10/vela.jpg)
+![Ronaldo Johnson en un entrenamiento con su nuevo equipo, el Rajasthan United FC de la India.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-01T135420.912.jpg)
 
-Este **martes 1 de octubre de 2024**, los **horarios de cortes de luz en Quito** se aplicarán de acuerdo con los **cronogramas establecidos** por el Ministerio de Energía y Minas la semana pasada.
+**Ronaldo** **Johnson**, que estuvo casi un año sin jugar tras su salida del Manta FC en la Serie B, sorprendió al anunciar que su siguiente destino sería el **Rajasthan United** FC, de la segunda división de la India.
+
+El ecuatoriano de 29 años se unió a los ‘Guerreros del Desierto’ el 23 de septiembre de 2024, en lo que es su **séptimo equipo en 10 años de carrera**, y el primero fuera de Ecuador.
+
+### Más noticias:
+
+* [El Sparta Praga de Angelo Preciado empata en Champions](https://www.elcomercio.com/deportes/angelo-preciado-sparta-praga-stuttgart-champions.html "El Sparta Praga de Angelo Preciado empata en Champions")
+* [¿A qué hora juegan los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/a-que-hora-juegan-los-ecuatorianos-champions-league-fecha2.html "¿A qué hora juegan los ecuatorianos en la Champions League?")
+* [Julio Jaramillo, el pasillo ecuatoriano y Emelec](https://www.elcomercio.com/deportes/futbol/julio-jaramillo-emelec-pasillo-ecuador.html "Julio Jaramillo, el pasillo ecuatoriano y Emelec")
+
+En apenas una semana en su nueva institución, Ronaldo Johnson ya ha hecho de las suyas, pero no precisamente por lo que realiza en los entrenamientos o partidos, **sino por sus alegres y divertidos bailes.**
+
+Johnson sorprendió a sus compañeros de equipo en la previa de un entrenamiento con un peculiar baile. El ecuatoriano **mostró sus mejores pasos de ‘Salsa Choke’**, un estilo musical muy popular en Colombia y Ecuador.
+
+Con música de fondo y el acompañamiento de sus compañeros, quienes lo animaron con aplausos y risas, **Ronaldo Johnson se robó el show y alegró el ambiente** en la práctica de su equipo.
+
+> Training done, but the real show starts now🕺🏾🇪🇨. Watch out Ronaldo’s moves and laughs.😁  
+> •[#AbkhelegaRajasthan](https://twitter.com/hashtag/AbkhelegaRajasthan?src=hash&ref_src=twsrc%5Etfw) [#RajasthanUnited](https://twitter.com/hashtag/RajasthanUnited?src=hash&ref_src=twsrc%5Etfw) [#Ronaldojohnson](https://twitter.com/hashtag/Ronaldojohnson?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zThFDDrfFm](https://t.co/zThFDDrfFm)
+> 
+> — Rajasthan United FC (@RajasthanUnited) [September 30, 2024](https://twitter.com/RajasthanUnited/status/1840717128632041836?ref_src=twsrc%5Etfw)
+
+La carrera de Ronaldo Johnson
+-----------------------------
+
+**Ronaldo Johnson** se formó en las divisiones menores de Deportivo Cuenca, y debutó profesionalmente en 2014 con el equipo del austro.
+
+A pesar de mostrar un gran nivel en sus inicios, nunca logró consolidarse en un equipo, lo que lo llevó a jugar en varios clubes ecuatorianos.
+
+Johnson tuvo tres etapas en **Deportivo Cuenca**, además de pasar por Gualaceo, **Emelec**, Orense y Macará. Su último club en Ecuador fue el Manta FC en la Serie B, pero tras finalizar la temporada quedó sin equipo hasta que en septiembre de 2024 decidió emigrar a la India.
+
+Con el **Rajasthan United** aún no ha debutado oficialmente, aunque ya ha participado en varios amistosos de preparación.
+
+En cuanto a su participación con la selección ecuatoriana, Ronaldo Johnson representó al país en un **Sudamericano Sub-20**. También fue convocado a la selección absoluta durante las Eliminatorias rumbo a Rusia 2018, bajo el mando de Jorge Célico, pero no llegó a debutar.
+
+(Mapa) Así está la congestión vehicular en Quito
+================================================
+
+Los cortes de luz en la ciudad afectan el funcionamiento de los semáforos en las intersecciones. La AMT dispuso cientos de agentes
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito se ubican en las principales intersecciones semaforizadas para agilizar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/transito-Quito-martes.jpg)
+
+Este **martes 1 de octubre de 2024**, el tránsito en Quito se volvió caótico. Esto debido a la aplicación de los cortes de luz dispuestos por el Ministerio de Energía y Minas.
 
 ### Más noticias
 
-* [Así funciona el Pico y placa en Quito este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-1-de-octubre.html "Así funciona el Pico y placa en Quito este martes 1 de octubre")
-* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
-* [Cuatro temblores se registraron en una provincia este 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cuatro-temblores-santa-elena-litoral-1-de-octubre.html "Cuatro temblores se registraron en una provincia este 1 de octubre")
+* [Cortes de luz en Quito tendrán estos horarios este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-estos-horarios-1-de-octubre.html "Cortes de luz en Quito tendrán estos horarios este martes 1 de octubre")
+* [Cortes de luz en Guayaquil tendrán este cronograma hoy, martes 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-horarios-hoy-martes-1-de-octubre.html "Cortes de luz en Guayaquil tendrán este cronograma hoy, martes 1 de octubre")
+* [Horarios de cortes de luz este martes 1 de octubre en Cuenca](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-de-luz-cuenca-martes-1-de-octubre.html "Horarios de cortes de luz este martes 1 de octubre en Cuenca")
 
-Esto responde a la **crisis energética que atraviesa Ecuador** a causa de la sequía que ocasionó que los embalses disminuyeran su caudal.
+Además, el **Municipio de Quito** interviene algunas vías de la ciudad en el marco de su plan de rehabilitación vial, a través de la gestión de la Empresa Metropolitana de Movilidad y Obras Públicas.
 
-Para ello, el Gobierno Nacional tomó medidas como un **cronograma de cortes de luz** que abarca más de 10 horas en algunas provincias.
+Tránsito en Quito se complica por semáforos apagados
+----------------------------------------------------
 
-Cronograma de cortes de luz en Quito
+La **suspensión del servicio eléctrico** en Quito afecta el funcionamiento de los semáforos en las intersecciones. En Quito, hay más de 10 000 cruces.
+
+Esto ocasiona que **el tránsito se desordene** por la confusión de los conductores. En las principales intersecciones, la Agencia Metropolitana de Tránsito (AMT) dispuso agentes para asistir a los conductores.
+
+Por ejemplo, esta mañana **los agentes de tránsito** se ubicaron en las intersecciones de la av. Río Coca y De los Shyris, av. De la Prensa y Del Maestro y av. América y Brasil.
+
+La AMT dispone diariamente **cientos de agentes** según el horario, por ejemplo entre las 06:00 y las 14:00 despliega más de 500 agentes en las calles. Así mismo para asistir durante los cortes de luz entre las 13:00 y las 20:00.
+
+A las 13:43 de este martes, **la AMT informó que 250 intersecciones semaforizadas** estaban afectadas por la falta de electricidad en Quito. Los agentes se ubicaron en las intersecciones de la av. Interoceánica y La Cerámica, av. Diego de Vásquez, av. 10 de Agosto y Santa Prisca.
+
+> 🫡 [#Activados24Siete](https://twitter.com/hashtag/Activados24Siete?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> A esta hora, hay 250 intersecciones afectadas por la falta de electricidad en la ciudad🚦.  
+>   
+> Nuestros agentes gestionan el tránsito  
+>   
+> ➡️ Av. Interocéanica y La Cerámica  
+> ➡️ Av. Diego de Vásquez  
+> ➡️ Av. 10 de Agosto y Santa Prisca  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/3Xpk4u6iuN](https://t.co/3Xpk4u6iuN)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841187145148424225?ref_src=twsrc%5Etfw)
+
+Vías cerradas por obras
+-----------------------
+
+Debido a la intervención en las vías en la ciudad, **algunos cierres viales se ejecutan** en simultáneo, como el hormigonado del carril exclusivo de la Ecovía.
+
+Estos **trabajos se realizan** en la av. 6 de Diciembre, donde por el avance de la obra ya se cerró el cruce con la av. Eloy Alfaro. Esto ocasiona **alta congestión** vehicular debido a la cantidad de vehículos que circulan por la zona y que no pueden cruzar normalmente.
+
+En este cierre puedes tomar **las rutas alternas Av. Portugal** o av. Gaspar de Villarroel.
+
+> 👷[#CarrilExclusivoDeLaEcovía](https://twitter.com/hashtag/CarrilExclusivoDeLaEcov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) | Hay cierre vial sobre el cruce de las avenidas Eloy Alfaro y 6 de Diciembre por trabajos de hormigonado.  
+>   
+> Toma rutas alternas:  
+>   
+> 📌Av. Portugal  
+> 📌Av. Gaspar de Villarroel  
+>   
+> Cierres viales➡️ [https://t.co/4l4Tpl5xqh](https://t.co/4l4Tpl5xqh)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/4IpyJee6i6](https://t.co/4IpyJee6i6)
+> 
+> — Obras Quito (@ObrasQuito) [September 30, 2024](https://twitter.com/ObrasQuito/status/1840791454156784132?ref_src=twsrc%5Etfw)
+
+Trabajos en la Mariana de Jesús
+-------------------------------
+
+Las obras de **rehabilitación de la Av. Mariana de Jesús** son otra complicación para los conductores del norte de la urbe, debido a que está cerrado un tramo de oriente a occidente.
+
+Como parte de los trabajos, se encuentra **cerrado el carril de bajada** desde Pedro Calvo hasta la av. América.
+
+Además, en el mismo sector se interviene **la calle Martín Utreras**, sector La Granja.
+
+> 🚧[#RehabilitaciónVial](https://twitter.com/hashtag/Rehabilitaci%C3%B3nVial?src=hash&ref_src=twsrc%5Etfw) | RECUERDA 🚧  
+>   
+> Intervenimos en la [#AvMarianaDeJesús](https://twitter.com/hashtag/AvMarianaDeJes%C3%BAs?src=hash&ref_src=twsrc%5Etfw), calzada de bajada entre la calle Pedro Calvo hacia la av. América.  
+>   
+> ⛔TOMA RUTAS ALTERNAS ⛔️  
+>   
+> Más cierres viales aquí➡️ [https://t.co/4l4Tpl5xqh](https://t.co/4l4Tpl5xqh)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/44GFaNnWZT](https://t.co/44GFaNnWZT)
+> 
+> — Obras Quito (@ObrasQuito) [October 1, 2024](https://twitter.com/ObrasQuito/status/1841132798175756491?ref_src=twsrc%5Etfw)
+
+Revisa la congestión de Quito en tiempo real
+--------------------------------------------
+
+Debido a la congestión vehicular, es importante que planifiques tu recorrido con anticipación. Revisa las vías congestionadas para que circules por vías alternas.
+
+El Sparta Praga de Angelo Preciado empata en Champions
+======================================================
+
+Angelo Preciado estuvo los 90 minutos con el Sparta Praga en la UEFA Champions League e igualó ante el Stuttgart.
+-----------------------------------------------------------------------------------------------------------------
+
+![Angelo Preciado durante el precalentamiento del Sparta Praga en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-01T131405.905.jpg)
+
+**Angelo Preciado** y el **Sparta Praga** de Chequia afrontaron la segunda fecha de la UEFA Champions League y consiguieron un valioso punto como visitantes. El ecuatoriano y su escuadra igualaron por 1-1 ante el Stuttgart de Alemania.
+
+Con la motivación de un **triunfo y goleada** en su debut, el equipo checo llegaba a los dominios del **equipo alemán** que buscaba recuperarse. A diferencia de la escuadra que visitaba, el plantel local había caído en la primera fecha.
+
+### Más noticias:
+
+* [¿A qué hora juegan los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/a-que-hora-juegan-los-ecuatorianos-champions-league-fecha2.html "¿A qué hora juegan los ecuatorianos en la Champions League?")
+* [Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jordy-caicedo-seleccion-ecuador-convocatoria.html "Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador")
+* [El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece](https://www.elcomercio.com/deportes/miguel-parrales-seleccion-ecuador-sebastian-beccacece-orense.html "El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece")
+
+En el duelo que le inauguró la Champions, el **Sparta Praga** venció por un marcador de 3-0 al RB Salzburgo de Austria. Por su parte, los alemanes cayeron por 3-1 ante el Real Madrid de España fuera de casa, en el Santiago Bernabéu.
+
+Dado el nuevo formato del certamen europeo, y cómo fue en la **primera fecha**, los elencos se midieron a **partido único**. A su vez, aquel partido constituyó uno de los ocho que disputan los clubes en primera ronda en el formato de liga.
+
+El Stuttgart se puso por delante, pero Ángelo Preciado y Sparta Praga empataron
+-------------------------------------------------------------------------------
+
+El **Sparta Praga** salió con una postura defensiva y a pararse firme en el terreno de juego, pero el Stuttgart tuvo una mayor motivación ofensiva. El plantel alemán se puso por delante de forma tempranera y dominó en los minutos iniciales.
+
+A los siete minutos, **Enzo Millot** puso el primer tanto en el marcador para los locales. Después de un pase hacia el costado de Angelo Preciado y una carrera que lo desbordó, el rival tiró un centro hacia el área y encontró a su compañero.
+
+A los 32′, sin embargo, el Sparta Praga y Preciado se recuperaron y pusieron la igualdad. **Kaan Kairinen** logró conectar un tiro y volver a meter en carrera al conjunto checo en el compromiso. Pese a ello, el 1-1 se mantuvo hasta el final[.](https://en.wikipedia.org/wiki/AC_Sparta_Prague "https://en.wikipedia.org/wiki/AC_Sparta_Prague")
+
+¿Cómo quedó el Sparta Praga en Champions?
+-----------------------------------------
+
+Con el empate, el **Sparta Praga** se mantiene en la zona de clasificación hacia los octavos de final, por lo menos, de forma momentánea. El equipo de **Ángelo Preciado** se ubica en la segunda posición con cuatro unidades +3 e gol diferencia.
+
+Claudia Sheinbaum asume como la primera mujer presidenta de México
+==================================================================
+
+Sheinbaum asumió entre gritos de "presidenta, presidenta" y "¡es un honor con Claudia hoy!", como un eco de "¡es un honor estar con Obrador!".
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![La presidenta de México, Claudia Sheinbaum (I), estuvo acompañada del mandatario saliente, Andrés Manuel López Obrador.](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-presidenta-efe.jpg)
+
+[Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html") asumió este martes, 1 de octubre de 2024, como la **primera mujer presidenta de México** para el sexenio 2024-2030.
+
+Ella se posesionó en una **ceremonia en la Cámara de Diputados** a la que asistieron casi una veintena de **mandatarios internacionales** y cientos de **representantes de países** y organismos multilaterales.
+
+### Más noticias
+
+* [Claudia Sheinbaum anuncia reestructura del Gobierno mexicano](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html "Claudia Sheinbaum anuncia reestructura del Gobierno mexicano")
+* [Claudia Sheinbaum publica nuevo emblema del Gobierno de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-publica-nuevo-emblema-gobierno-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-publica-nuevo-emblema-gobierno-mexico.html")
+* [El México que deja López Obrador y recibe Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/lopez-obrador-despide-mexico-claudia-sheinbaum-asume-presidencia.html "https://www.elcomercio.com/actualidad/mundo/lopez-obrador-despide-mexico-claudia-sheinbaum-asume-presidencia.html")
+
+“**Honorable Congreso de la Unión**, pueblo de México, protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las **leyes que de ella emanen**, y desempeñar leal y patrióticamente el cargo de presidenta de la república que el pueblo me ha conferido”, declaró Sheinbaum al tomar protesta (juramentar).
+
+El mandatario saliente, **Andrés Manuel López Obrador**, entregó la banda presidencial a la **presidenta de la Cámara de Diputados,** Ifigenia Martínez, quien colocó la prenda tricolor a Sheinbaum, la primera mujer que gobernará el país tras más de sus 200 años de ser república.
+
+¡Es un honor con Claudia hoy!
+-----------------------------
+
+Sheinbaum asumió entre gritos de “**presidenta, presidenta”** y “¡es un honor con Claudia hoy!”, como un eco de “¡es un honor estar con Obrador!”.
+
+Tras la sesión en el Congreso, **Sheinbaum se dirigirá al Palacio Nacional**, donde comerá con los mandatarios invitados, entre quienes destacan los **presidentes de Brasil, Luiz Inácio Lula da Silva**; de Chile, Gabriel Boric; de Colombia, Gustavo Petro; de Cuba, Miguel Díaz-Canel, y de Honduras, Xiomara Castro.
+
+También asistirán personalidades como la primera **dama de Estados Unidos**, Jill Biden, y el alto representante de la Unión Europea (UE) para Asuntos Exteriores, Josep Borrell.
+
+A las 17:00 Sheinbaum recibirá el bastón de mando de los pueblos indígenas en el **Zócalo de Ciudad de México**, la **mayor plaza pública del país**, donde la mandataria tendrá su primer acto masivo como jefa de Estado y ofrecerá un discurso
+
+Ecuador da sus primeros pasos hacia la natación artística en el escenario internacional
+=======================================================================================
+
+La natación artística en Ecuador tiene presente y futuro. Un equipo en Quito se entrena a diario y aspira a los Juegos Olímpicos.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/natacionartistica3.jpg)
+
+A pesar de no contar con representantes en los **Juegos Olímpicos,** **Ecuador** está empezando a destacar en la **natación artística**.
+
+En el norte de **Quito**, un grupo de 44 jóvenes atletas, entre 6 y 16 años, se entrena diariamente en el **Club Deportivo Isalen** para perfeccionar esta disciplina que combina natación, gimnasia y danza.
+
+### Más noticias:
+
+* [Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/marcela-penafiel-mundial-ciclismo-ecuador.html "Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador")
+* [Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos](https://www.elcomercio.com/deportes/casas-deportistas-juegos-olimpicos-ecuador.html "Autoridades entregarán casas a todos los medallistas de los Juegos Olímpicos")
+* [Julio Jaramillo, el pasillo ecuatoriano y Emelec](https://www.elcomercio.com/deportes/futbol/julio-jaramillo-emelec-pasillo-ecuador.html "Julio Jaramillo, el pasillo ecuatoriano y Emelec")
+
+Bajo la dirección de los entrenadores **Isidro González** y **Daylin Silveria**, el equipo está poniendo en marcha sus ambiciosas metas.
+
+En agosto del 2024, **Ana Paula Stacey** se convirtió en la primera representante ecuatoriana en participar en el Mundial Junior de Natación Artística, celebrado en Lima.
+
+Desde su ingreso al equipo en febrero de 2021, su dedicación y esfuerzo la han llevado a este importante escenario internacional, donde contó con la orientación del experimentado entrenador **González.**
+
+El progreso del equipo no se detiene allí. También en agosto, **Isalen** participó en el **Campeonato Panam Aquatics** de **Natación Artística**, donde **Joaquín Espinoza** se destacó al obtener dos medallas: una de plata en el solo masculino y una de bronce en el dueto mixto junto a **Ayelén Yépez.**
+
+Estas medallas fueron un testimonio del esfuerzo colectivo del equipo y la creciente competitividad de los atletas ecuatorianos en el **ámbito internacional.**
+
+**Isidro González**, quien cuenta con más de 30 años de experiencia en la natación artística, ha llevado su pasión por este deporte desde Venezuela a Ecuador, donde ha encontrado un terreno fértil para desarrollar el talento.
+
+“Es una disciplina difícil. Las deportistas tienen que saber **ballet**, hacer yoga, gimnasia y también nadar bien, además de una buena preparación física”, asegura el experimentado entrenador.
+
+![Una práctica del equipo del Club Deportivo Isalen, en Quito. ](https://www.elcomercio.com/wp-content/uploads/2024/10/natacionartistica2-1024x683.jpg)
+
+Una práctica del equipo del Club Deportivo Isalen, en Quito. Foto: Diego Pallero / EL COMERCIO
+
+“La natación artística es muy atractiva, pero también difícil. No es fácil mantener la respiración y realizar las rutinas, los bailes”, añade el DT que nació en Colombia, que luego vivió muchos años en Venezuela y desde hace ocho años está radicado en Ecuador.
+
+Próximos retos de la natación artística de Ecuador
+--------------------------------------------------
+
+Los integrantes del club se preparan para próximos eventos. Para diciembre está previsto un festival de solos, en Quito, mientras que para marzo del 2025 han confirmado su participación en el Cancún Open en México.
+
+El técnico González asegura que el principal objetivo del club es conseguir nadadores clasificados a unos **Juegos Olímpicos**. Para eso se entrenan todos los días.
+
+“Nuestra aspiración es clasificar a los **Juegos Olímpicos** en el 2028 y llevar a más atletas al ámbito internacional”, señala González.
+
+![Una práctica del equipo del Club Deportivo Isalen, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/natacionartistica-1024x683.jpg)
+
+Una práctica del equipo del Club Deportivo Isalen, en Quito. Foto: Diego Pallero / EL COMRCIO
+
+![El equipo de Ecuador que viajó a Lima al Campeonato Panam Aquatics de Natación Artística. ](https://www.elcomercio.com/wp-content/uploads/2024/10/natacionartisitca5-1024x683.jpg)
+
+El equipo de Ecuador que viajó a Lima al Campeonato Panam Aquatics de Natación Artística. Foto: cortesía
+
+¿Tu gato te quiere? La ciencia revela el lenguaje de los felinos  
+==================================================================
+
+Los gatos expresan su cariño a través de señales únicas y el lenguaje corporal.
+-------------------------------------------------------------------------------
+
+![Cada gato tiene su propia forma de expresar amor. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/gato-lenguaje.jpg)
+
+Los **amantes de los gatos** se hacen una pregunta frecuente: ¿realmente sienten afecto por sus dueños o solo los ven como proveedores de alimento? Según [El Confidencial](https://www.elconfidencial.com/alma-corazon-vida/2024-07-25/todas-formas-gato-demuestra-amor-humanos-1qrt_3931620/ "https://www.elconfidencial.com/alma-corazon-vida/2024-07-25/todas-formas-gato-demuestra-amor-humanos-1qrt_3931620/"), **la ciencia y la etología felina** han confirmado que los gatos pueden desarrollar un profundo cariño por los humanos, similar al que nosotros experimentamos hacia ellos y traducirlo en una suerte de **lenguaje corporal.** 
+
+### Más noticias
+
+* [Los peligros ocultos de la obesidad en los animales de compañía](https://www.elcomercio.com/narices-frias/peligros-ocultos-obesidad-animales-compania.html "https://www.elcomercio.com/narices-frias/peligros-ocultos-obesidad-animales-compania.html")
+* [Decenas de perros y gatos fueron afectados por los incendios forestales, en Quito](https://www.elcomercio.com/actualidad/quito/perros-gatos-afectados-incendios-forestales-quito.html "https://www.elcomercio.com/actualidad/quito/perros-gatos-afectados-incendios-forestales-quito.html")
+
+**Conexión emocional humano y gato** 
+-------------------------------------
+
+Investigaciones recientes, siguiendo con la misma fuente, revelan que **los gatos prefieren interactuar con las personas con las que conviven**, en lugar de jugar o comer. Este comportamiento indica un nivel de **conexión emocional**. Además, **los felinos adaptan su comportamiento según la cantidad de afecto que reciben** de sus dueños. Incluso pueden sufrir ansiedad por separación cuando no están cerca de ellos. 
+
+**Personalidades únicas** 
+--------------------------
+
+Cada gato tiene una **personalidad única** y expresa su amor de diferentes maneras. Al observar a nuestros compañeros felinos, podemos identificar **señales comunes que indican cariño**. Por ejemplo, a decir de El Confidencial, **un ronroneo suave o un cabezazo cariñoso** son formas de decir “te quiero”.  
+
+**Vínculo felino**  
+--------------------
+
+**Conocer y entender estas señales** es fundamental para **fortalecer el vínculo con nuestros amigos peludos**. Si bien cada gato es diferente, la capacidad de amar y formar lazos afectivos es universal en esta especie.  
+
+La ciencia respalda la idea de que **el amor entre gatos y humanos es real**. Así que, la próxima vez que tu gato se acerque a ti, recuerda que ese gesto puede ser una **muestra sincera de cariño**. 
+
+**Señales clave para entender el lenguaje de los gatos**  
+----------------------------------------------------------
+
+Los gatos, al igual que los humanos, pueden **expresar emociones intensas hacia sus dueños**. Según [La Nación](https://www.lanacion.com.ar/lifestyle/mascotas/todas-las-formas-en-las-que-tu-gato-te-esta-diciendo-te-quiero-sin-que-te-des-cuenta-nid30092024/ "https://www.lanacion.com.ar/lifestyle/mascotas/todas-las-formas-en-las-que-tu-gato-te-esta-diciendo-te-quiero-sin-que-te-des-cuenta-nid30092024/"), es esencial **estar atentos al lenguaje corporal y los sonidos de nuestras mascotas**. Estas señales pueden mostrar amor, apego y, en ocasiones, incomodidad o estrés. Aquí te presentamos los gestos más habituales que indican cariño en los gatos. 
+
+**1\. Parpadeos lentos:** Cuando un gato **abre y cierra los ojos lentamente**, demuestra confianza y afecto. Este gesto indica relajación y comodidad en su presencia. 
+
+**2\. Seguir a alguien por la casa:** Si tu gato te sigue por las habitaciones, es **una señal de apego.** Este comportamiento muestra que se siente conectado contigo y disfruta de tu compañía. 
+
+**3\. Frotar el cuerpo:** Frotarse contra ti es un signo de aceptación y amistad. Es una manera en que el gato **establece un vínculo fraterno contigo**. 
+
+**4\. Movimientos con las patas:** Cuando un gato **amasa sobre tu cuerpo**, significa que se siente seguro a tu lado. Este comportamiento evoca recuerdos de su infancia, cuando buscaban a su madre para alimentarse. 
+
+**5\. Maullidos:** El maullido es el **medio de comunicación más fuerte entre los gatos y los humanos**. Aunque puede expresar necesidades, también es una muestra de cercanía y cariño. 
+
+**6\. Dormir sobre el humano:** Si tu gato **elige dormir contigo**, es una clara señal de confianza. Estos animales solo se permiten descansar en un ambiente seguro y reconfortante. 
+
+**7\. Posición alta de la cola:** Una **cola erguida indica alegría**. Si tu gato muestra esta posición, está feliz por tu compañía. 
+
+**8\. Mostrar el estómago:** Cuando un gato **expone su abdomen**, demuestra confianza. Este gesto no siempre significa que desee caricias, sino que **se siente seguro contigo**. 
+
+**Los gatos**, al igual que otras mascotas, son capaces de desarrollar relaciones emocionales profundas con sus dueños. Las **señales mencionadas** son formas en que ellos se comunican contigo. Presta atención a estos gestos y comprenderás mejor el amor que tu gato tiene por ti. 
+
+Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador
+=====================================================================
+
+El delantero Jordy Caicedo fue uno de los ausentes de la Selección de Ecuador en el Mundial Catar 2022.
+-------------------------------------------------------------------------------------------------------
+
+![Jordy Caicedo con el Sporting de Gijón en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/caicedo_espana_1.jpg)
+
+**Jordy Caicedo** se recuperó de una lesión en el músculo semitendinoso de la pierna derecha en agosto de 2024, justo antes de empezar la temporada con el Sporting de Gijón de la Segunda División de España.
+
+Recuperado de esa dolencia, **Jordy Caicedo sumó sus primeros minutos en su visita**, con derrota 1-0, ante el Racing. Ingresó en el segundo tiempo y jugó 26 minutos y también una tarjeta amarilla.
+
+### Más noticias:
+
+* [FIFA castiga a Samuel Eto’o por conducta inapropiada](https://www.elcomercio.com/deportes/futbol/fifa-castigo-samuel-etoo-conducta-inapropiada.html "FIFA castiga a Samuel Eto’o por conducta inapropiada")
+* [Bronny y LeBron James serán el primer dúo padre-hijo en la NBA](https://www.elcomercio.com/deportes/lebron-james-bronny-padre-hijo-nba-lakers.html "Bronny y LeBron James serán el primer dúo padre-hijo en la NBA")
+* [Liga de Quito vs. El Nacional se jugará sin hinchada visitante](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vs-el-nacional-se-jugara-sin-hinchada-visitante.html "Liga de Quito vs. El Nacional se jugará sin hinchada visitante")
+
+En la sexta jornada, nuevamente de visitante, s**altó de titular en el empate 1-1 frente al Tenerife**. Fue reemplazado a los 62 minutos.
+
+En la séptima jornada fue parte de la **victoria 1-0 contra el Real Zaragoza**. Fue su primer encuentro de local y estuvo en cancha los últimos 14 minutos.
+
+Con ritmo de competencia espera entrar en la **consideración del argentino Sebastián Beccacece**, que tomó el mando en la doble fecha de eliminatorias al Mundial 2026, con derrota en su visita a Brasil, y victoria de local contra Perú.
+
+Este martes 1 de octubre de 2024 contó más detalles de su presente futbolístico, d**e su proceso de adaptación a España**, y de lo que espera en el corto plazo para ponerse la camiseta tricolor de la Selección de Ecuador.
+
+Jordy Caicedo atento a una convocatoria
+---------------------------------------
+
+Lo primero que delantero ecuatoriano desveló fue que tuvo “una llamada” del Sporting hace varios años cuando estaba jugando en Bulgaria, **pero no se concretó ningún acuerdo** “por motivos económicos”.
+
+Caicedo llegó al Sporting como sustituto de Uros Djurdjevic y su primer contacto con el club gijonés fue muy positivo, **ya que marcó en los primeros amistosos hasta que cayó lesionado**, lo que le ha impedido jugar hasta hace un par de jornadas.
+
+El jugador, que aseguró haberse tomado con “optimismo y actitud positiva” la lesión, **señaló que trata de adaptars**e “a lo que quiera el entrenador, ir al espacio o jugar como 9”, ya que considera que tiene ambas características.
+
+Caicedo se pone como primer objetivo ganarse el puesto, “**sumar minutos y ayudar al equipo con goles**“, aunque rechazó marcarse una cifra en concreto.
+
+Para el delantero es muy importante ganarse “el cariño y el apoyo de los aficionados porque para un jugador eso es muy importante, ayuda y motiva”.
+
+“Sabía que venía a una liga muy competitiva y estos primeros meses son de adaptación y para conocer a los compañeros, me estoy sintiendo muy cómodo”, aseguró.
+
+Finalmente, dijo **estar pendiente de una posible llamada de su Selección**, tras no haber podido acudir a la última debido precisamente a esa lesión.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/caicedo_espana_2-1024x683.jpg)
+
+Sporting se enfrenta a Eibar
+----------------------------
+
+El Sporting inició la **preparación para el partido ante el Eibar** con el estado físico de jugadores como Diego Sánchez, Gaspar Campos y Cote como la principal duda que tiene el entrenador Rubén Albés, ya que condicionarán la alineación inicial, en la que no estará Eric Curbelo, lesionado ante el Zaragoza y que se perderá varios encuentros.
+
+Diego Sánchez mejora, pero no parece que vaya a estar a disposición del entrenador, por lo que Albés tendrá que decidir de nuevo si **retrasar a Olaetxea a la parte central de la defensa o dar la alternativa** a Maras, jugador que aún no ha debutado con el Sporting a pesar de las constantes bajas que el equipo está teniendo en defensa.
+
+Gaspar Campos también está incrementando el trabajo con el grupo y podría ser novedad en la convocatoria, **aunque su presencia en el 11 inicial se presenta más dudosa** sobre todo porque su sustituto, Queipo, está ofreciendo un buen nivel a pesar de que no ha podido materializar en gol las ocasiones que ha tenido en los últimos partidos.
+
+El conjunto gijonés mejoró su imagen y rendimiento en el **encuentro ante el Zaragoza aunque los aficionados le reprocharon** un excesivo conservadurismo durante muchos minutos de la segunda parte cuando con ventaja en el marcador y el rival con un hombre menos por expulsión de Clemente, apostó por mantener el balón en lugar de buscar ampliar la diferencia.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Joe Biden ordena a las Fuerzas Armadas de EE.UU. derribar los misiles iraníes sobre Israel
+==========================================================================================
+
+Biden dió instrucciones a las Fuerzas Armadas de EE.UU. para que ayuden en la "defensa" de Israel frente a los ataques iraníes.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/joe-bide-apoyo-militar-ucrania.jpg)
+
+El presidente de Estados Unidos, [Joe Biden](https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html"), ordenó este martes, 1 de octubre de 2024, a las Fuerzas Armadas estadounidenses que derriben los misiles que [Irán](https://www.elcomercio.com/actualidad/mundo/iran-ataca-misiles-israel-venganza-muertes-haniyeh-nasrala.html "https://www.elcomercio.com/actualidad/mundo/iran-ataca-misiles-israel-venganza-muertes-haniyeh-nasrala.html") está lanzando sobre Israel.
+
+### Más noticias
+
+* [Joe Biden se puso brevemente una gorra de Trump en gesto de unidad](https://www.elcomercio.com/actualidad/mundo/joe-biden-puso-brevemente-gorra-trump-gesto-unidad.html "Joe Biden se puso brevemente una gorra de Trump en gesto de unidad ")
+* [Irán ataca con misiles Israel como venganza por las muertes de Haniyeh y Nasrala](https://www.elcomercio.com/actualidad/mundo/iran-ataca-misiles-israel-venganza-muertes-haniyeh-nasrala.html "Irán ataca con misiles Israel como venganza por las muertes de Haniyeh y Nasrala")
+* [Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut](https://www.elcomercio.com/actualidad/mundo/guterres-expresa-gran-alarma-bombardeos-israelies-beirut.html "Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut")
+
+En un breve comunicado, la Casa Blanca indicó que **Biden y la vicepresidenta de EE.UU., Kamala Harris,** están reunidos con el equipo de seguridad nacional en la conocida como **‘situation room’** (sala de crisis) de la Casa Blanca, donde están recibiendo información sobre los **ataques de Irán.**
+
+Fuerzas Armadas de Estados Unidos
+---------------------------------
+
+Según explicó la Casa Blanca, Biden dió instrucciones a las **Fuerzas Armadas de EE.UU.** para que ayuden en la “defensa” de Israel frente a los ataques iraníes y derriben los misiles que están impactando en territorio israelí.
+
+El presidente tenía prevista una **llamada con rabinos** a las 13:15 para conmemorar la festividad judía de Rosh Hashaná, pero un **funcionario de la Casa Blanca** explicó que fue pospuesta debido a los ataques iraníes y se celebrará en otra fecha.
+
+Durante la mañana, Biden y Harris también estuvieron reunidos con su equipo de seguridad nacional tras recibir información de que Irán podría lanzar un **ataque “inminente”** con misiles balísticos contra Israel.
+
+Estos encuentros tienen el **doble objetivo de ayudar a Israel,** un aliado clave de EE.UU. en Oriente Medio, a defenderse de Irán, y también de proteger a la**s tropas estadounidenses desplegadas** en la región, según señaló la Casa Blanca.
+
+Irán lanzó la tarde del martes un ataque con misiles contra territorio israelí, tal como confirmaron el ejército israelí y la Guardia Revolucionaria iraní. Los ataques hicieron sonar las alarmas en todo el país y, en Jerusalén, pudieron verse también misiles interceptados en el cielo y se oyó el ruido que hacían al estallar.
+
+Este es el primer ataque de Irán contra Israel desde abril, cuando Irán atacó con misiles y drones dos bases aéreas israelíes en el Negev y alcanzó puntos del territorio ocupado de los altos del Golán, aunque Israel, Estados Unidos o países árabes sobre los que sobrevolaron lograron interceptar la mayoría de los proyectiles iraníes.
+
+El portavoz del Ejército israelí, Daniel Hagari, había alertado con anterioridad este martes de que Irán podría lanzar un ataque “a gran escala” contra Israel.
+
+Estados Unidos informó a Israel de que **Irán se estaba preparando para atacar**, tras el asesinato el viernes del máximo líder de Hizbulá, **Hasán Nasrala,** en un **bombardeo israelí en Beirut** en una nueva escalada israelí que esta madrugada culminó con una invasión terrestre en el sur del Líbano. 
+
+Jimmy Carter, el expresidente de Estados Unidos, es noticia por un récord
+=========================================================================
+
+Jimmy Carter, se ha convertido en el presidente más longevo en la historia de Estados Unidos, este martes 1 de octubre de 2024.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo del 20 de noviembre 2023 del expresidente estadounidense Jimmy Carter, saludando a algunas personas a la salida del funeral de su esposa, la ex primera dama Rosalynn Carter, en la iglesia baptista de Maranatha, en Plains, Georgia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Jimmy-Carter-Estados-Unidos.jpg)
+
+**Jimmy Carter**, quien se ha convertido en el presidente más longevo en la historia de Estados Unidos, celebra **un récord, este martes 1 de octubre de 2024, desde su hogar en Plains, Georgia**[.](https://es.wikipedia.org/wiki/Jimmy_Carter "https://es.wikipedia.org/wiki/Jimmy_Carter")
+
+A pesar de enfrentar problemas de salud terminales, mantiene el entusiasmo por participar en las próximas elecciones, donde planea votar por la **vicepresidenta Kamala Harris**.
+
+### Más noticias
+
+* [Estados Unidos enviará tropas y aviones adicionales a Medio Oriente](https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html "Estados Unidos enviará tropas y aviones adicionales a Medio Oriente")
+* [Kamala Harris promete que devolverá a EE.UU. al ‘liderazgo global’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-promete-devolvera-ee-uu-liderazgo-global.html "Kamala Harris promete que devolverá a EE.UU. al ‘liderazgo global’")
+* [Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-un-anuncio-con-una-pareja-que-necesita-la-fecundacion-in-vitro.html "Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’")
+
+Jimmy Carter y su paso como presidente de Estados Unidos
+--------------------------------------------------------
+
+Según su familia, aunque Carter **padece enfermedades graves**, su mente y emociones siguen muy involucradas en los **eventos actuales**.
+
+Carter, quien **gobernó Estados Unidos de 1977 a 1981**, enfrentó retos complejos durante su presidencia. La crisis de los **63 rehenes en la embajada estadounidense en Teherán, en 1979**, fue uno de los episodios más difíciles de su mandato y afectó su imagen.
+
+Sin embargo, logró importantes avances en **política exterior**, como la firma de los acuerdos de Camp David. En esto que promovieron la paz entre Egipto e Israel, y el Tratado del Canal de Panamá, ambos en 1979. Aunque en su momento se le consideraba un “buen hombre pero mal presidente”, su reputación creció notablemente **después de dejar el cargo**.
+
+El récord de Carter
+-------------------
+
+El expresidente Carter cumplió hoy, martes 1 de octubre del 2024, su **centenario de vida**. Con este hito se convierte en el primer expresidente de Estados Unidos en llegar a esa edad.
+
+Los mensajes de felicitaciones no se hicieron esperar. El expresidente de ese país, **Barak Obama**, lo elogió por sus logros. Los dos fueron mandatarios que llegaron como candidatos del partido Demócrata.
+
+La última vez que se lo vio en público fue el 20 de noviembre 2023, durante el funeral de su esposa, la ex primera dama **Rosalynn Carter**, en la iglesia baptista de Maranatha, en Plains, Georgia, (Estados Unidos).
+
+De esta forma, Jimmy Carter es **el más longevo de los presidentes de EE.UU.** en sus 248 años de historia. Llega a un siglo de vida, aquejado de problemas de salud terminales, pero dice que está ilusionado con votar por la vicepresidenta **Kamala Harris**, la candidata del Partido Demócrata, en las elecciones del 5 de noviembre.
+
+Uno de sus nietos, Jason Carter, destacó recientemente que su abuelo sigue interesado en los eventos actuales. Especialmente en las **próximas elecciones**, que podrían marcar la historia con la elección de la primera mujer, descendiente de afroamericanos e inmigrantes indios, como presidenta de EE.UU.
+
+Un estadista que dejó Huella y construyó un legado de paz
+---------------------------------------------------------
+
+Después de su presidencia, Carter dedicó su vida a mediar en conflictos internacionales y promover la paz. En 2002, recibió e**l Premio Nobel de la Pa**z, siendo elogiado por su incansable esfuerzo para encontrar soluciones pacíficas a los conflictos globales. Durante la ceremonia en Oslo, estuvo acompañado por su esposa Rosalynn, quien falleció en noviembre de 2023, tras 77 años de matrimonio.
+
+Carter y su relación con Ecuador
+--------------------------------
+
+En 1977, su administración facilitó el establecimiento de un diálogo entre los países, promoviendo un acuerdo que priorizaba la negociación sobre la **confrontación militar**. Su estrategia incluía la presión sobre ambos gobiernos para que aceptaran la mediación de una tercera parte, además de ofrecer asistencia técnica y económica para fomentar la cooperación bilateral.
+
+En 1980, el presidente ecuatoriano **Jaime Roldós y su homólogo peruano Fernando Belaúnde** se reunieron en Washington D.C. para discutir el conflicto. Carter, a través de sus esfuerzos diplomáticos, logró que ambos líderes firmaran el Protocolo de Paz, Amistad y Límites en 1981, aunque no resolvió completamente las tensiones. Este acuerdo estableció un marco para la futura resolución de disputas territoriales.
+
+También mediaba en conflictos en lugares como **Etiopía**, Sudán, Bosnia.
+
+Su influencia se extendió a procesos electorales en diversos países como Panamá, Nicaragua, Zambia, Haití, República Dominicana, Puerto Rico, Venezuela, Indonesia, **México** y Perú, donde fue solicitado como observador y mediador en elecciones generales.
+
+Trabajo humanitario
+-------------------
+
+A lo largo de los años, Carter ha sido reconocido por su **trabajo humanitario** a través del Centro Carter. Entre sus logros más notables fuera de la Casa Blanca está su visita a Cuba, donde se reunió con Fidel Castro, siendo el primer alto funcionario estadounidense en hacerlo después del embargo económico impuesto en los años 60.
+
+Mujer atrapó a ladrón que intentó asaltarla, en Quito
+=====================================================
+
+Un intento de robo a una mujer que salía del gimnasio en el sector de la González Suárez, en el norte de Quito.
+---------------------------------------------------------------------------------------------------------------
+
+![Vecinos y guardias resguardan a delincuente que intentó robar a mujer, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/mujer-robo.png)
+
+Un intento de **robo a una mujer que salía del gimnasio** en el **sector de la González Suárez**, en el norte de Quito, causó conmoción **entre vecinos y transeúntes**.
+
+### Más noticias
+
+* [Video capta nueva modalidad de robo en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/video-capta-nueva-modalidad-robo-guayaquil-inseguridad.html "Video capta nueva modalidad de robo en Guayaquil")
+* [Banda dedicada al robo de casas fue desarticulada en Quito](https://www.elcomercio.com/actualidad/seguridad/banda-robo-casas-quito-policia.html "Banda dedicada al robo de casas fue desarticulada en Quito")
+* [Conductor fue víctima de una nueva modalidad de robo en Quito](https://www.elcomercio.com/actualidad/conductor-victima-robo-modalidad-quito.html "Conductor fue víctima de una nueva modalidad de robo en Quito")
+
+El hecho ocurrió alrededor de las **11:30 del 1 de octubre de 2024**, en la **calle Humboldt**, cuando dos personas en una moto intentaron **arrebatarle sus pertenencias a la víctima**.
+
+La mujer, al percatarse de que uno de los individuos descendía de la moto, **comenzó a gritar, con pedidos auxilio**.
+
+El ladrón logró arrebatarle el teléfono celular, pero en un **acto de defensa, la mujer se lanzó hacia él,** lo sujetó de los pies y provocó su caída. Antes de desplomarse, el delincuente lanzó el celular, con la aparente intención de escapar.
+
+Vecinos y guardias apoyaron a la víctima
+----------------------------------------
+
+El grito desesperado de la **mujer movilizó a los vecinos y guardias de la zona**, quienes acudieron rápidamente en su ayuda. Adultos mayores y jóvenes se sumaron para **detener al asaltante**. “Salimos al escuchar los gritos, fue una reacción instintiva”, comentó un vecino que prefirió no dar su nombre.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/robo-quito-1024x683.png)
+
+Vecinos y guardias del sector capturan a delincuente que intentó robar a una mujer en Quito. Foto: EL COMERCIO
+
+Varios de los residentes, incluso, salieron **descalzos en su afán de socorrer a la víctima**, quien se encontraba **visiblemente alterada y llena de tierra**, debido a una caída sufrida **mientras intentaba defenderse.**
+
+El segundo individuo, quien permanecía en la moto, **optó por huir al ver que su cómplice había sido derribado**. Mientras tanto, los guardias de seguridad de la zona **inmovilizaron al ladrón** y lo mantuvieron **contra una pared hasta la llegada de las autoridade**s.
+
+Incremento en los robos en la ciudad
 ------------------------------------
 
-La **Empresa Eléctrica Quito** dio a conocer los **horarios de la suspensión del servicio** desde este lunes 30 de septiembre al 6 de octubre de 2024.
+El robo a personas es una **preocupación constante en Quito**. De acuerdo con datos de la **Fiscalía General del Estado**, entre el 1 de enero de 2023 y el 31 de agosto de 2024, se registraron **57 972 robos a escala nacional**.
 
-Este martes 1 de octubre, estos son los horarios de cortes de luz por sectores:
+De estos, **13 110 ocurrieron en la provincia de Pichinch**a, donde se encuentra la capital. Las autoridades recomiendan a los ciudadanos estar siempre alerta y reportar cualquier situación **sospechosa de inmediato**.
 
-Desde 00:00 hasta 05:00 y de 12:00 a 17:00
-------------------------------------------
+El **patrullero** de la Policía Nacional llegó al lugar del incidente **cerca del mediodía**, para la aprehensión del asaltante, mientras los vecinos atendían a la mujer. Afortunadamente, **no sufrió lesiones grave**s.
 
-* Luluncoto
-* Chilibulo
-* Miraflores
-* La Floresta
-* Río Coca
-* Cristianía
-* Epiclachima
-* Conocoto
-* Tumbaco
+Irán ataca con misiles a Israel en venganza por la muerte de aliados
+====================================================================
 
-De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00
------------------------------------------------
+Irán ataca a Israel con miles, confirmó la Guardia Revolucionará de ese país. El ataque es por la muerte del líder de Hezbolá.
+------------------------------------------------------------------------------------------------------------------------------
 
-* La Carolina
-* Nueva Cumbayá
-* Mirador Alto
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
+![Irán ataca a Israel con miles, confirmó la Guardia Revolucionará de ese país. El ataque es por la muerte del líder de Hezbolá.](https://www.elcomercio.com/wp-content/uploads/2024/10/hezbola.jpg)
 
-Desde 10:00 hasta 15:00 y de 20:00 a 00:00
-------------------------------------------
+La Guardia Revolucionaria de Irán confirmó el lanzamiento de misiles contra [Israel](https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html"). El ataque es en respuesta a los asesinatos de**l líder de Hamás,** Ismail Haniyeh; el jefe de Hezbolá, Hasán Nasrala, y un general iraní.
 
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
+### Más noticias
 
-De 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00
------------------------------------------------
+* [Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá](https://www.elcomercio.com/actualidad/mundo/opiniones-divididas-sobre-muerte-lider-hezbola-hasan-nasrala.html "Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá")
+* [Ejército de Israel comienza su incursión terrestre en el Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israel-libano-terrestre.html "Ejército de Israel comienza su incursión terrestre en el Líbano")
+* [Estados Unidos enviará tropas y aviones adicionales a Medio Oriente](https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html "Estados Unidos enviará tropas y aviones adicionales a Medio Oriente")
 
-* Olímpico
-* Barrio Nuevo
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* Pomasqui
-* El Quinche
-* Eugenio Espejo
+“Con el disparo de **decenas de misiles balísticos** se golpeó los objetivos en el corazón de los territorios ocupados”, indicó el cuerpo militar de élite en un comunicado. En este se clarificó que la operación es una respuesta a las muertes de Haniyeh y Nasrala.
 
-De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00
------------------------------------------------
+“Advertimos que si el régimen **sionista responde militarmente** a esta operación será contraatacado de manera más contundente”, añadió la Guardia Revolucionaria iraní.
 
-* Luluncoto
-* Chilibulo
-* Escuela Sucre
-* San Roque
-* Granda Centeno
-* Río Coca
-* Andalucía
-* Cotocollao
-* Conocoto
-* Alangasí
-* Iñaquito
-* Santa Rosa
-* Inga Bajo
+La **Misión de Irán ante la ONU** calificó en un comunicado el ataque como una respuesta “legal, racional y legítima a los actos terroristas del régimen sionista contra ciudadanos e intereses iraníes y por infringir la soberanía de la República Islámica”.
+
+Aconsejó además a los **“Estados regionales y a los aliados**” de Israel que se alejen de Israel.
+
+Imágenes de los misiles de Irán contra Israel
+---------------------------------------------
+
+**Medios iraníes, como la agencia estatal IRNA**, publicaron vídeos de imágenes de misiles que cruzaron los cielos del país. Atravesaron ciudades como Teherán, Isfahán, Shiraz o Tabriz. Las imágenes se repitieron en redes sociales.
+
+La televisión estatal IRIB celebró el ataque con un locutor que afirmaba “**os sacarán de vuestras casas** y os castigarán, los judíos seréis castigados”, mientras se emitían imágenes del ataque.
+
+El Ejército israelí anunció poco antes sobre el ataque y las alarmas antiaéreas sonaron en todo el país.
+
+**Irán responde así a la muerte de Haniyeh en Teherán** durante la toma de posesión del presidente de Irán, **Masud Pezeshkian, a finales de julio de 2024. También, al asesinato de Nasrala y** el general de brigada de la Guardia Revolucionaria iraní Abbas Nilforushan en bombardeos israelíes en Beirut el pasado viernes.
+
+Venganza por la muerte de Haniyeh
+---------------------------------
+
+Teherán prometió en **repetidas ocasiones vengarse de Israel** por la muerte de Haniyeh; sin embargo, guardó relativo silencio acerca de Nasrala, líder del grupo Hezbolá; el grupo es uno de sus aliados más cercanos.
+
+Este es el primer ataque de Irán contra Israel desde abril de 2024, cuando atacó con misiles y drones dos bases aéreas israelíes. Este ataque fue en respuesta a la muerte de siete miembros de la Guardia Revolucionaria en el consulado iraní de Damasco. En ese entonces, el ataque no provocó grandes daños. 
+
+Juez que liberó a Jorge Glas fue sentenciado
+============================================
+
+Emerson Curipallo suma una nueva sentencia. Esta vez, por actuación en caso de Jorge Glas.
+------------------------------------------------------------------------------------------
+
+![Emerson Curipallo ya contaba con sentencias por otros casos.](https://www.elcomercio.com/wp-content/uploads/2024/10/emerson.jpg)
+
+El exjuez **Emerson Curipallo**, quien permitió la liberación de **Jorge Glas**, recibió la sentencia por el delito de prevaricato.
+
+La **Fiscalía** dio detalles sobre el proceso, este martes, 1 de octubre de 2024. El hombre se acogió al procedimiento abreviado.
+
+### Más noticias
+
+* [Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-cnj-resolvera-si-llama-o-no-a-juicio-a-los-37-procesados.html "Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados")
+* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
+* [Jueza se pronunció sobre nuevo recurso de Jorge Glas para salir de La Roca](https://www.elcomercio.com/actualidad/seguridad/jorge-glas-accion-proteccion-salir-la-roca-jueza.html "Jueza se pronunció sobre nuevo recurso de Jorge Glas para salir de La Roca")
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#SantoDomingoDeLosTsáchilas](https://twitter.com/hashtag/SantoDomingoDeLosTs%C3%A1chilas?src=hash&ref_src=twsrc%5Etfw): Emerson C. aceptó su responsabilidad en el delito de [#Prevaricato](https://twitter.com/hashtag/Prevaricato?src=hash&ref_src=twsrc%5Etfw) –imputado por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw)–, al haber admitido (de manera ilegítima) una acción constitucional a favor del ex Vicepresidente de la República. ⬇️[https://t.co/XlfQc2jjiU](https://t.co/XlfQc2jjiU) [pic.twitter.com/cYXdP7rZca](https://t.co/cYXdP7rZca)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 1, 2024](https://twitter.com/FiscaliaEcuador/status/1841150579243958354?ref_src=twsrc%5Etfw)
+
+Emerson Curipallo y Jorge Glas
+------------------------------
+
+La Presidencia de la Corte Provincial de Justicia de **Santo Domingo de los Tsáchilas** sentenció al exjuez. Se definió que hubo abuso del cargo.
+
+En la audiencia se conoció que, a través de una acción constitucional, permitió la liberación de **Jorge Glas**, exvicepresidente de la República, en 2022.
+
+Glas, actualmente, se encuentra recluido en **La Roca**. En el momento de la acción, él cumplía dos sentencias condenatorias por cohecho y por delincuencia organizada.
+
+Según informó **[Fiscalía](https://www.fiscalia.gob.ec/)**, el Exjuez actuó sin competencia, ya que el privado de libertad se encontraba en Cotopaxi. La pena es de 24 meses.
+
+El proceso
+----------
+
+En los elementos constan copias certificadas del proceso en el que el **Exjuez** ordenó la liberación de Glas. Se sumó la sentencia de la **Corte Constitucional** que revisó ese proceso.
+
+También se expusieron copias certificadas de los procesos y las sentencias que tiene el exvicepresidente: ocho años, por el caso Odebrecht y seis, por el caso **Sobornos**.
+
+**Emerson Curipallo** ya cuenta con una sentencia también por prevaricato, de 30 meses de prisión. Esta se dio por desnaturalizar una acción de habeas corpus y ordenar, sin competencia, la liberación de seis personas. Estas cumplían **sentencias condenatorias**.
+
+Por otro lado, en julio de 2024, él fue sentenciado por **delincuencia organizada** en el caso **Metástasis**, mediante procedimiento abreviado. La pena fue de tres años y cuatro meses.
+
+En las tres causas, el Exjuez aceptó su responsabilidad en los hechos imputados por la **Fiscalía General**.
+
+Las opciones en ataque de la Selección de Ecuador para eliminatorias
+====================================================================
+
+La Selección de Ecuador enfrentará a Paraguay y Uruguay en eliminatorias y hay nombres a considerar en la delantera.
+--------------------------------------------------------------------------------------------------------------------
+
+![Jordy Caicedo, Miguel Parrales, Leonardo Campana y Ronie Carrillo son opciones para la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000135855-scaled.jpg)
+
+Las eliminatorias rumbo al **Mundial 2026** están próximas para la Selección de Ecuador y una serie de nombres vuelven a surgir como opciones para la delantera. En la pasada fecha, el combinado nacional adoleció de alternativas y hubo escasez de nombres en ataque.
+
+En la siguiente fecha de los duelos de clasificación, la Tri enfrentará a Paraguay en Quito y a Uruguay en Montevideo. Aquella jornada representará la segunda de **Sebastián Beccacece** al mando al combinado nacional.
+
+### Más noticias:
+
+* [El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece](https://www.elcomercio.com/deportes/miguel-parrales-seleccion-ecuador-sebastian-beccacece-orense.html "El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece")
+* [(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina](https://www.elcomercio.com/deportes/seleccion-ecuador-incidentes-violencia-argentina-sub-16.html "(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina")
+* [Leonardo Campana con opciones de estar en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-con-opciones-de-estar-en-la-seleccion-de-ecuador.html "Leonardo Campana con opciones de estar en la Selección de Ecuador")
+
+Para los dos compromisos venideros, el entrenador argentino aún no ha anunciado los futbolistas que formarán parte de los convocados. En la fecha pasada, los centrodelanteros llamados fueron **Enner Valencia y Kevin Rodríguez**, quien tiene una mayor faceta como puntero.
+
+Los dos nombres previos apuntan a volver a estar dentro de la lista, sin embargo, también hay otros futbolistas en la posición que viven un buen momento. Entre aquellos jugadores se encuentran **Leonardo Campana, Miguel Parrales, Ronie Carrillo y Jordy Caicedo.**
+
+¿Cómo ha sido la temporada de Enner Valencia y Kevin Rodríguez, delanteros de la Selección de Ecuador?
+------------------------------------------------------------------------------------------------------
+
+**Enner Valencia y Kevin Rodríguez** son nombres que se encuentran en la Selección de Ecuador, inclusive, antes de la llegada d**e Sebastián Beccacece**. Ambos estuvieron presentes en el Mundial Qatar 2022, eliminatorias y Copa América.
+
+En el caso de Valencia, su temporada arrancó a inicios de 2024, mientras que la de Rodríguez a mediados. Aquello obedece a los calendarios de las ligas en las que militan, pues el primero lo hace en el **Inter de Porto Alegre** (Brasil) y el segundo en el **Royale Union Saint-Gilloise** (Bélgica).
+
+Desde que inició su campaña, **Valencia** ha marcado nueve goles y tres asistencias en 29 compromisos. Por su parte, **Rodríguez** ha anotado un gol en nueve cotejos.
+
+El rendimiento de los opcionales para la Selección de Ecuador
+-------------------------------------------------------------
+
+En el caso de quienes aparecen como opción para jugar en la **Selección de Ecuador** se encuentran delanteros con un buen rendimiento. **Leonardo Campana** se ha erigido como el máximo goleador histórico de la MSL, mientras que Miguel Parrales es el mayor anotador de la segunda etapa.
+
+En el caso de **Campana**, este ha tenido un repunte a partir del segundo semestre de 2024, lo cual lo llevó al mencionado récord. Pese a ello, cuenta con ocho goles en **30 partidos** en lo que va de la temporada.
+
+**Miguel Parrales** durante la primera mitad del año no tuvo minutos significativos en Liga de Quito, sin embargo, al fichar por **Orense** para la segunda etapa de la Liga Pro, demostró su mejor nivel. En ocho partidos de la segunda etapa ha conseguido siete goles[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+**Jordy Caicedo y Ronie Carrillo**, que militan en el Sporting Gijón de España y Juventude de Brasil, han tenido rendimientos intermitentes. Ambos llegaron a los clubes a mediados de este 2024.
+
+**Caicedo** anotó dos tantos en pretemporada y sufrió una lesión, tras su regreso solo ha disputado tres duelos en los que ingresó desde el banco y no ha anotado. Carrillo cuenta con dos tantos en 14 partidos desde su arribo a tierras cariocas.
+
+  
+
+Principales puertos de EE.UU. están cerrados en el primer día de la huelga de estibadores
+=========================================================================================
+
+La automatización, una de las tendencias que más rápido se está extendiendo en los puertos del mundo.
+-----------------------------------------------------------------------------------------------------
+
+![Estibadores protestan este martes en un muelle de Port Elizabeth, en Nueva Jersey (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/10/2411ff089b5c55ef623fa6b90964e0ee1de758bb.jpg)
+
+Decenas de **miles de estibadores** en 14 grandes puertos del este de **Estados Unidos** y en el **Golfo de México** comenzaron esta madrugada una **huelga ante la falta de acuerdo** entre el sindicato International Longshoremen’s Association (ILA) y la patronal USMX (US Maritime Alliance).
+
+### Más noticias
+
+* [Estados Unidos enviará tropas y aviones adicionales a Medio Oriente](https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html "Estados Unidos enviará tropas y aviones adicionales a Medio Oriente")
+* [Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024](https://www.elcomercio.com/actualidad/mundo/estados-unidos-actualiza-la-lista-de-paises-que-no-necesitan-visa-para-entrar-en-2024.html "Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024")
+* [Estados Unidos endurecerá sus políticas comerciales y migratorias](https://www.elcomercio.com/actualidad/mundo/ee-uu-endurecera-politica-comercial-migratoria-quien-sea-presidente.html "Estados Unidos endurecerá sus políticas comerciales y migratorias")
+
+La huelga de más de **45 000 de los 85 000 miembros de ILA,** la primera de estibadores en el este de Estados Unidos desde 1977, afecta a más del **43 % del comercio marítimo** de Estados Unidos y podría costar hasta 5 000 millones de dólares diarios, según JPMorgan.
+
+Este martes, los puertos de Nueva York/Newark, Baltimore, Savannah, Houston, Miami o Nueva Orleans están parados y con piquetes y concentraciones en sus entradas.
+
+En las últimas 24 horas, USMX e ILA **han intercambiado contraofertas de salarios** y USMX aseguró que ha ofrecido un aumento salarial del 50 % y pidió una **extensión del contrato actual.** “Ambas partes se han movido de sus posiciones iniciales y tenemos la **esperanza de que podamos reiniciar** la negociación colectiva en los temas pendientes”, indicó la patronal de navieras.
+
+Según ILA, hasta el momento las navieras ofrecieron **“un paquete inaceptable”** y los estibadores necesitan mejor compensación “por mantener el comercio estadounidense en movimiento y creciendo”, mientras navieras “de propiedad extranjera” siguen mejorando ingresos.
+
+“Quieren automatizar todo, están quitando el empleo de las personas, levantándolo con máquinas”, dijo a EFE el cubanoestadounidense Juan Domínguez, uno de varias **decenas de manifestantes** que se apostaron este martes en la vía que conduce al Puerto de Miami, en el centro de la ciudad.
+
+La automatización, una de las tendencias que más rápido se está extendiendo en los puertos del mundo, es una de las grandes **preocupaciones de los estibadores**, algo que según S&P Global Market Intelligence tiene tanta importancia como la negociación de salarios ante la posibilidad de que genera pérdida de empleos.
+
+Según Peter Sand, analista jefe de Xeneta, las consecuencias de la huelga pueden ser “muy graves”, ya que “hay cargueros con miles de **millones de dólares en mercancía** que no se pueden dar la vuelta y no pueden cambiar de ruta e ir al oeste de EE.UU. Pueden **desviarse a Canadá o incluso México,** pero la mayoría van a tener que esperar hasta que los estibadores regresen”.
+
+Los estibadores del Puerto de Montreal, en Canadá, se han sumado a la huelga durante al menos 72 horas, lo que complica aun más el **impacto mundial de la huelga**, que se suma al impacto del huracán Helene.
+
+Empresas como Walmart, Ikea, LG, Samsung o Home Depot están siendo afectadas por la huelga que en opinión de algunos analistas podría provocar la **invocación de la ley Taft-Hartley**, una provisión que puede forzar a los trabajadores a seguir trabajando por razones de seguridad nacional.
+
+El presidente estadounidense, Joe Biden, que **presume de ser el mandatario más prosindicatos** de la historia del país, dijo el lunes que no va a usar esa ley para mantener los puertos abiertos
+
+Jorge Guzmán aventaja a Zamora Jaguars en las finales de la Liga Básquet Pro
+============================================================================
+
+Los dos primeros partidos de las finales de la Liga Básquet Pro se jugaron en un repleto Coliseo Ciudad de Loja.
+----------------------------------------------------------------------------------------------------------------
+
+![Christian Alaekwe (d) con Jorge Guzmán en las finales de la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/basquet_final_ida_1.jpg)
+
+**Jorge Guzmán** de Loja cumplió con los pronósticos previos y le sacó provecho a su localía para ponerse 2-0 en las finales de la Liga Básquet Pro ante Zamora Jaguars. 
+
+Los dos primeros partidos de las finales de la **Liga Básquet Pro se jugaron en el Coliseo Ciudad de Loja**, ante unas 3 000 persona que coparon por completo el aforo de dicho escenario deportivo el sábado 28 y lunes 30 de septiembre de 2024. 
+
+### Más noticias:
+
+* [Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad](https://www.elcomercio.com/deportes/futbol/lionel-messi-modo-superheroe-ayudo-fan-a-escapar-de-la-seguridad.html "Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad")
+* [FIFA castiga a Samuel Eto’o por conducta inapropiada](https://www.elcomercio.com/deportes/futbol/fifa-castigo-samuel-etoo-conducta-inapropiada.html "FIFA castiga a Samuel Eto’o por conducta inapropiada")
+* [El descenso en la Serie B sigue siendo entre tres equipos](https://www.elcomercio.com/deportes/futbol/serie-b-tabla-posiciones-descenso.html "El descenso en la Serie B sigue siendo entre tres equipos")
+
+La noche del lunes en un intenso partido los **lojanos ganaron por 84-75**. Durante gran parte del encuentro fueron superiores y poco a poco inclinaron el marcador a su favor. 
+
+El primer cuarto fue reñido y se resolvió por 24-23; el segundo terminó 22-12; el tercero 16-22 para la visita; y el cuarto 22–18 para completar el marcador final de 84-75. 
+
+Al final del encuentro se **registraron incidentes entre los jugadores de ambas escuadras en la cancha**, y en las gradas también hubo un conato de incidentes entre ambas hinchadas, pero no pasó a mayores y los ánimos se calmaron inmediatamente. 
+
+Jorge Guzmán ganó el primer partido 
+------------------------------------
+
+El primer partido de esta serie al mejor de siete empezó a jugarse desde el sábado 28, con un Coliseo Ciudad de Loja que estuvo totalmente lleno. 
+
+Zamora Jaguars sorprendió al irse en el **marcador con ventaja de 31-45 en la primera mitad del juego**, con una estrategia en la que destacó su efectividad a la hora de anotar puntos. 
+
+En el tercer y cuero periodo Jorge Guzmán sacó a relucir todo su poderío y con paciencia empató el marcador para finalmente ganar por por 78-75 y empezar la serie 1-0. 
+
+La figura del estadounidense **Eric Ferguson fue fundamental con el aporte de 25 puntos** (con tres triples incluidos), siete rebotes, y tres asistencias. 
+
+Su compatriota Christian Alaekwe también destacó con 12 puntos (dos triples), 10 rebotes, y tres asistencias. 
+
+En Zamora Jaguars sobresalieron el **argentino Franco Borsellino con 20 puntos** y ocho asistencias, y el enmascarado estadounidense Connor Zinaich, que también aportó con su experiencia.   
+
+Los zamoranos esperan igualar la serie en el **Coliseo Mayor de Deportes de Zamora**. Para ello esperan tener el apoyo de sus hinchas que coparan las 1 800 localidades con las que cuenta este escenario.
+
+Sí los lojanos **ganan estos dos juegos se proclamarán campeones** por segunda vez de la Liga Básquet Pro.
+
+![Foto: Instagram jimmycalvaj.](https://www.elcomercio.com/wp-content/uploads/2024/10/basquet_final_ida_3-1024x683.jpg)
+
+Foto: Instagram jimmycalvaj.
+
+Cronograma de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+Jorge Guzmán 78-75 Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+Jorge Guzmán 84-75 Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 6: Jueves 10/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 7: Sábado 12/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/basquet_final_ida_2-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Horarios de cortes de luz este martes 1 de octubre en Cuenca
+============================================================
+
+Igual que en el resto de Ecuador, los cronogramas de cortes de luz están sujetos a cambios de acuerdo con la situación hídrica
+------------------------------------------------------------------------------------------------------------------------------
+
+![Cuenca tendrá entre 8 y 10 horas de suspensión de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Cuenca-martes.jpg)
+
+El **Ministerio de Energía y Minas** anunció la semana pasada los horarios establecidos para los **cortes de luz** en Ecuador para la semana del 30 de septiembre al 6 de octubre. Esto como consecuencia de la **crisis energética que atraviesa Ecuador** a causa de la sequía que ocasionó que los embalses disminuyeran su caudal.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil tendrán este cronograma hoy, martes 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-horarios-hoy-martes-1-de-octubre.html "Cortes de luz en Guayaquil tendrán este cronograma hoy, martes 1 de octubre")
+* [Cortes de luz en Quito seguirán estos horarios este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-estos-horarios-1-de-octubre.html "Cortes de luz en Quito seguirán estos horarios este martes 1 de octubre")
+* [Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cuatro-temblores-santa-elena-litoral-1-de-octubre.html "Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre")
+
+Horarios de cortes de luz Cuenca
+--------------------------------
+
+La empresa **distribuidora de energía** para Cuenca y la provincia de Azuay **Centrosur** publicó los horarios de cortes de luz planificados para este martes 1 de octubre de 2024.
+
+Algunos sectores de Cuenca tienen un solo corte en **un horario de 00:00 a 06:00** y otros sectores como Turi tienen dos rangos de cortes, **de 00:00 a 05:00 y de 10:00 a 15:00.**
+
+La operadora Centrosur también distribuye energía para las provincias de Cañar y Morona Santiago. Puedes consultar el horario completo de cortes para esta semana en su [página web.](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/")
+
+Sin embargo, te dejamos el **cronograma de suspensión del servicio** para este martes 1 de octubre de 2024.
 
 Los horarios podrían variar
 ---------------------------
 
-El ministro de Energía y Minas, **Antonio Goncalves,** informó la tarde del domingo 29 de septiembre que **debido a las lluvias** que se han registrado en el país en las últimas horas**, los cortes podrían variar**.
+El **ministro de Energía y Minas**, Antonio Goncalves, informó la tarde del domingo 29 de septiembre que debido a las lluvias que se han registrado en el país en las últimas horas, los cortes podrían variar.
 
-Gracias al aumento **del caudal en Coca Codo**, las horas de suspensión pueden reducirse pese a que ya se establecieron unos horarios de cortes. El Ministro aclara que **ante las dudas de la ciudadanía** en cuanto al cumplimiento de los cortes, se trata de disminuir el impacto de la crisis conforme lo permitan los caudales de las hidroeléctricas.
+Gracias al aumento del caudal en Coca Codo**, las horas de suspensión** pueden reducirse pese a que ya se establecieron unos horarios de cortes. El Ministro aclara que ante las dudas de la ciudadanía en cuanto al cumplimiento de los cortes**, se trata de disminuir el impacto** de la crisis conforme lo permitan los caudales de las [hidroeléctricas](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)").
 
-La **Empresa Eléctrica Quito**, a su vez, señaló que, a pesar de que se cuenta con un cronograma, es importante considerar que los horarios de la **suspensión del servicio eléctrico** están sujetos a cambios. Estos dependen de la variabilidad o mejora en la oferta de generación, que es monitoreada en tiempo real por la Cenace.
-
-De acuerdo con estas condiciones **pueden requerirse ajustes en los horarios** y tiempos de desconexión del servicio eléctrico. Estos ajustes no se han dado a conocer, por lo que los horarios previstos son los mismos.
-
-> 📍La Empresa Eléctrica Quito cuenta con un cronograma de cortes establecido, sin embargo, es importante considerar que los horarios de la suspensión del servicio eléctrico están sujetos a cambios que dependen de la variabilidad o mejora en la oferta de generación, que es… [https://t.co/mhAYlSoz0C](https://t.co/mhAYlSoz0C)
+> 📍Importante  
+> 🗓️Conoce los horarios y sectores de suspensiones programadas del servicio eléctrico⚡para la semana 𝐝𝐞𝐥 𝐥𝐮𝐧𝐞𝐬 𝟑𝟎 𝐝𝐞 𝐬𝐞𝐩𝐭𝐢𝐞𝐦𝐛𝐫𝐞 𝐚𝐥 𝐝𝐨𝐦𝐢𝐧𝐠𝐨 𝟔 𝐝𝐞 𝐨𝐜𝐭𝐮𝐛𝐫𝐞 𝐝𝐞 𝟐𝟎𝟐𝟒.  
+> Revisa la información completa en [https://t.co/rSyIcAkiFb](https://t.co/rSyIcAkiFb) [pic.twitter.com/KZELqu4wEO](https://t.co/KZELqu4wEO)
 > 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [September 29, 2024](https://twitter.com/ElectricaQuito/status/1840417587249008947?ref_src=twsrc%5Etfw)
-
-¿A qué hora juegan los ecuatorianos en la Champions League?
-===========================================================
-
-La Champions League regresa esta semana y eso significa la vuelta de los legionarios en el torneo.
---------------------------------------------------------------------------------------------------
-
-![Piero Hincapié junto con su compañero Ezequiel Palacios en un partido con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T163551.018.jpg)
-
-La Uefa **Champions League** tendrá su segunda jornada de la fase de grupos, en su nuevo formato, que en su debut dejó muy buenas impresiones y sensaciones. Además, se pudo observar a cuatro **ecuatorianos** por primera vez en una misma edición del torneo.
-
-Los cuatro tricolores presentes en el torneo son **Piero Hincapié**, del Bayer Leverkusen, **Willian Pacho**, del París Saint-Germain, Ángelo Preciado, del Sparta Praga, y Joel Ordóñez, del Club Brujas.
-
-### Más noticias:
-
-* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-* [Atalanta y Arsenal igualan sin goles en Champions League](https://www.elcomercio.com/deportes/futbol/atalanta-y-arsenal-igualan-sin-goles-en-champions-league.html "Atalanta y Arsenal igualan sin goles en Champions League")
-
-¿A qué hora juegan los ecuatorianos en la Champions?
-----------------------------------------------------
-
-Este martes 1 de octubre inicia la segunda jornada de la **Champions League**, y habrá tres ecuatorianos en acción, con grandes partidos en el calendario. Todos ellos buscarán seguir dejando el nombre del país en alto en el torneo de clubes más prestigioso del mundo.
-
-El primero en ver acción será **Ángelo Preciado, lateral derecho del Sparta Praga**. El equipo checo visitará al Stuttgart de Alemania en el Mercedes-Benz Arena, a las 11:45 (hora de Ecuador).
-
-Más tarde, a las 14:00, habrá dos ecuatorianos en acción simultáneamente, en dos de los partidos más esperados de la jornada.
-
-**Piero Hincapié, con el Bayer Leverkusen**, recibirá en casa al poderoso AC Milan en el BayArena. El central ecuatoriano ha mostrado solidez en la defensa del equipo alemán y tendrá la difícil tarea de contener a los peligrosos delanteros del conjunto italiano.
-
-Al mismo tiempo, **Willian Pacho, defensor del París Saint-Germain**, tendrá su propio reto cuando visite al Arsenal de Inglaterra en el emblemático Emirates Stadium. El PSG buscará un resultado positivo en tierras inglesas.
-
-Finalmente, el último ecuatoriano en disputar esta segunda jornada será J**oel Ordóñez**. El joven defensor del Club Brujas de Bélgica jugará el miércoles 2 de octubre, a las 14:00 (hora de Ecuador), cuando su equipo visite al Sturm Graz de Austria en el Merkur Arena.
-
-Ficha de partidos
------------------
-
-**Jugador:** Ángelo Preciado  
-**Partido:** Stuttgart vs. Sparta Praga  
-**Fecha:** Martes 1 de octubre  
-**Hora:** 11:45  
-**Estadio:** Mercedes-Benz Arena  
-**Posición:** 6
-
-**Jugador:** Piero Hincapié  
-**Partido:** Bayer Leverkusen vs. AC Milan  
-**Fecha:** Martes 1 de octubre  
-**Hora:** 14:00  
-**Estadio:** BayArena  
-**Posición:** 3
-
-**Jugador:** Willian Pacho  
-**Partido:** Arsenal vs. París Saint-Germain  
-**Fecha:** Martes 1 de octubre  
-**Hora:** 14:00  
-**Estadio:** Emirates Stadium  
-**Posición:** 15
-
-**Jugador:** Joel Ordóñez  
-**Partido:** Sturm Graz vs. Club Brujas  
-**Fecha:** Miércoles 2 de octubre  
-**Hora:** 14:00  
-**Estadio:** Merkur Arena  
-**Posición:** 31
-
-Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre
-=============================================================================
-
-Usuarios en redes sociales reportaron haber sentido los sismos durante la madrugada. Los epicentros fueron cercanos
--------------------------------------------------------------------------------------------------------------------
-
-![Cuatro temblores se registraron durante la madrugada de este 1 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/sismos.jpg)
-
-El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este **1 de octubre** de 2024 sobre la actividad sísmica registrada durante esta madrugada. Esta actividad contempló **cuatro sismos** en el Litoral.
-
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-1-de-octubre.html "Así funciona el Pico y placa en Quito este martes 1 de octubre")
-* [El tránsito en Quito se complica por cortes de luz y obras](https://www.elcomercio.com/actualidad/quito/transito-en-quito-se-complica-por-cortes-de-luz-y-obras.html "El tránsito en Quito se complica por cortes de luz y obras")
-* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
-
-El primer sismo
----------------
-
-El **primer temblor** que se registró este 1 de octubre fue a las 02:23 de la madrugada, con una **magnitud de 4 en la escala de Richter.**
-
-El movimiento fue a una **profundidad de 35 kilómetros**, a una latitud de 2.618° S y a una longitud de 80.947° W.
-
-El epicentro de este sismo se localizó **a 43,11 kilómetros de la Libertad,** en la provincia de Santa Elena.
-
-> \[REVISADO\]  
-> Evento: igepn2024them  
-> Ocurrido: 2024-10-01 02:23:09  
-> Mag.: 4.0MLv  
-> Prof.: 35.0 km  
-> Lat.: 2.618° S  
-> Long.: 80.947° W  
-> Localizado: a 43.11 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/flBNwiEkmi](https://t.co/flBNwiEkmi) [pic.twitter.com/hUyztje5Bz](https://t.co/hUyztje5Bz)
-> 
-> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841019029063901468?ref_src=twsrc%5Etfw)
-
-El segundo temblor
-------------------
-
-El segundo movimiento fue a las **04:04, con una magnitud de 3.8** en la escala de Richter; a una profundidad de 28 kilómetros desde la superficie.
-
-Este sismo se ubicó a 2.723° S y a una longitud de 81.032° W y **se localizó a 55,85 kilómetros de Salinas,** también provincia de Santa Elena.
-
-> \[REVISADO\]  
-> Evento: igepn2024thhu  
-> Ocurrido: 2024-10-01 04:04:16  
-> Mag.: 3.8MLv  
-> Prof.: 28.0 km  
-> Lat.: 2.723° S  
-> Long.: 81.032° W  
-> Localizado: a 55.85 km de Salinas, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/cCNA9emN5j](https://t.co/cCNA9emN5j) [pic.twitter.com/d4ihdH7XBX](https://t.co/d4ihdH7XBX)
-> 
-> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841044463747031203?ref_src=twsrc%5Etfw)
-
-Tercer movimiento telúrico
---------------------------
-
-El tercer sismo registrado este 1 de octubre de 2024 fue **solo tres minutos después** del segundo, a las 04:07 de la madrugada.
-
-Este tuvo una **magnitud de 4.8 en la escala de Richter** y se registró a una profundidad de 34 kilómetros.
-
-El movimiento fue a una latitud de 2.700° S y a una longitud de 80.976° W. Este sismo tuvo su epicentro a **52,55 kilómetros de la Libertad**, en Santa Elena.
-
-> \[REVISADO\]  
-> Evento: igepn2024thhx  
-> Ocurrido: 2024-10-01 04:07:31  
-> Mag.: 4.8MLv  
-> Prof.: 34.0 km  
-> Lat.: 2.700° S  
-> Long.: 80.976° W  
-> Localizado: a 52.55 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/NOVfSqL6qi](https://t.co/NOVfSqL6qi) [pic.twitter.com/WJ4GTzD6w2](https://t.co/WJ4GTzD6w2)
-> 
-> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841045333066878976?ref_src=twsrc%5Etfw)
-
-Cuarto temblor
---------------
-
-El **cuatro temblor** registrado durante esta madrugada se registró 10 minutos después del tercero, esto es a las 04:17 de este 1 de octubre de 2024.
-
-Este sismo tuvo una **magnitud de 4.6 en escala de Richter**, a una profundidad de 36 kilómetros. Además, se registró a una latitud de 2.637° S y a una longitud de 80.949° W.
-
-El epicentro se **localizó a 45,3 kilómetros de La Libertad,** Santa Elena.
-
-Usuarios en redes sociales reportaron que sí sintieron los sismos aunque fueron leves y rápidos. Otro usuario se mostró sorprendido debido a la repetición de los [epicentro](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil")s.
-
-> \[REVISADO\]  
-> Evento: igepn2024thif  
-> Ocurrido: 2024-10-01 04:17:11  
-> Mag.: 4.6MLv  
-> Prof.: 36.0 km  
-> Lat.: 2.637° S  
-> Long.: 80.949° W  
-> Localizado: a 45.3 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/Z43nFSyAhl](https://t.co/Z43nFSyAhl) [pic.twitter.com/FNa8eGOYzn](https://t.co/FNa8eGOYzn)
-> 
-> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841046708462944542?ref_src=twsrc%5Etfw)
-
-Celebremos el Día del Pasillo Ecuatoriano con estos grandes artistas 
-=====================================================================
-
-Celebra el Día del Pasillo Ecuatoriano a través de icónicas figuras que dejaron un legado imborrable en la música del país.
----------------------------------------------------------------------------------------------------------------------------
-
-![Julio Jaramillo, máximo exponente de la música ecuatoriana, inspiró la creación del Día del Pasillo Ecuatoriano. Foto: Ministerio de Cultura y Patrimonio.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-del-pasillo-ecuatoriano.jpg)
-
-El 1 de octubre se celebra el **Día del Pasillo Ecuatoriano**, un género musical que define e identifica al Ecuador.  
-
-### Más noticias
-
-* [7 canciones para cantar a todo pulmón en el Día del Pasillo](https://www.elcomercio.com/tendencias/entretenimiento/canciones-para-cantar-pulmon-dia-pasillo.html "https://www.elcomercio.com/tendencias/entretenimiento/canciones-para-cantar-pulmon-dia-pasillo.html")
-* [Eventos en Quito por el Día del pasillo ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html "https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html")
-
-Sin duda, uno de sus máximos representantes es **Julio Jaramillo Laurido**, quien llevó la música ecuatoriana más allá de nuestras fronteras. Por esta razón, según el **[Ministerio de Cultura](https://www.culturaypatrimonio.gob.ec/dia-del-pasillo-ecuatoriano/#:~:text=El%201%20de%20octubre%20se,trascendi%C3%B3%20fronteras%20con%20nuestra%20m%C3%BAsica. "https://www.culturaypatrimonio.gob.ec/dia-del-pasillo-ecuatoriano/#:~:text=El%201%20de%20octubre%20se,trascendi%C3%B3%20fronteras%20con%20nuestra%20m%C3%BAsica.")**, en 1993, mediante el **decreto ejecutivo N. 1 118**, se estableció el 1 de octubre como el día del pasillo ecuatoriano, en honor al célebre J.J., nacido en Guayaquil el 1 de octubre de 1935. 
-
-**Grandes artistas para recordar este Día del Pasillo Ecuatoriano** 
---------------------------------------------------------------------
-
-### **Julio Jaramillo (1935-1978)** 
-
-**‘El Ruiseñor de América’**, es considerado el **mejor cantante ecuatoriano de todos los tiempos**, conocido por sus emotivas canciones sobre amores y desencuentros.  
-
-A pesar de una infancia difícil y **una vida llena de escándalos y tragedias**, su carrera despegó con éxitos como Nuestro juramento y Fatalidad, llevándolo a la fama en América Latina. **Tras su muerte a los 43 años**, su legado perduró, convirtiéndose en un símbolo de la identidad nacional ecuatoriana, a decir de [Biografías y Vidas](https://www.biografiasyvidas.com/biografia/j/jaramillo.htm "https://www.biografiasyvidas.com/biografia/j/jaramillo.htm"). 
-
-### **Pepe Jaramillo (1933-2006)** 
-
-**Hermano de Julio Jaramillo**, conocido como **‘El Señor del Pasillo’**, fue un destacado cantante, guitarrista y compositor ecuatoriano.  
-
-**Estudió en Guayaquil** y comenzó su carrera musical en la radio, g**anó concursos y formó dúos y tríos con otros artistas**. A lo largo de su trayectoria, trabajó en Colombia y Perú, donde se consolidó como un talentoso guitarrista y vocalista, **interpretó pasillos, boleros, tangos y otros géneros**, según recoge la página del [Museo del Pasillo](https://www.museopasillo.gob.ec/jose-jaramillo/ "https://www.museopasillo.gob.ec/jose-jaramillo/"). 
-
-### **Dúo Benítez Valencia**  
-
-Los antecedentes del **Dúo Benítez Valencia** se remontan a su formación en el **Colegio Juan Montalvo**, donde **Gonzalo Benítez y Luis A. Valencia** se conocieron y comenzaron a cantar juntos.  
-
-La influencia del grupo **Alma Nativa** y el auge de la radio en Ecuador, especialmente con **Radio Quito**, facilitaron su desarrollo profesional en la música popular.  
-
-Con una carrera de tres décadas, el dúo se destacó por su **impresionante técnica vocal y su repertorio de pasillos y ritmos ecuatorianos**, grabaron más de 600 piezas que cimentaron su legado, de acuerdo con la página [Arte Ecuador](https://www.artecuador.com/musica-breve-historia-del-d-o-ben-tez-valencia-67-0.html "https://www.artecuador.com/musica-breve-historia-del-d-o-ben-tez-valencia-67-0.html").  
-
-### **Los Brillantes** 
-
-Grupo musical que combina letra, melodía e interpretación, **se destacó en los años 60** en la música ecuatoriana. **Nacieron del cuarteto Los Latinos**, formado en 1959, y luego se convirtieron en un trío con voces memorables como las de **Eduardo Erazo, Héctor Jaramillo y Homero Hidrobo**.  
-
-A lo largo de su carrera, grabaron alrededor de 30 canciones y acompañaron a artistas renombrados como **Eduardo Brito y Olga Gutiérrez**. Su éxito y legado musical se consolidaron en la historia ecuatoriana, llevándolos a convertirse en un **referente atemporal de la música popular del país**, a decir de la página [Efecto Alquimia](http://efectoalquimia.org/2024/01/24/ayer-hoy-y-siempre-los-brillantes/?utm_source=pocket_shared "http://efectoalquimia.org/2024/01/24/ayer-hoy-y-siempre-los-brillantes/?utm_source=pocket_shared"). 
-
-### **Hermanos Miño Naranjo** 
-
-**Los hermanos Eduardo y Danilo Miño Naranjo**, nacidos en Ambato en 1937 y 1938, enfrentaron inicialmente la oposición de su padre, un prominente político, a su carrera musical, pero con el apoyo de su madre lograron destacar tras ganar un festival en Radio Tarqui.  
-
-Iniciaron su carrera en 1958, apadrinados por **Miguel Aceves Mejía**, y grabaron el pasillo Sin tu amor. En 1964, alcanzaron el reconocimiento internacional en la **II Feria de la Canción Iberoamericana en Barcelona** con Tú y yo, ganaron cuatro medallas de oro, además de premios en festivales en México y Japón, y anécdotas memorables como **tocar el himno de Ecuador en Moscú**, según recoge la página [Sarime](https://www.sarime.com/hermanos-mino-naranjo.html "https://www.sarime.com/hermanos-mino-naranjo.html").  
-
-### **Carlota Jaramillo** 
-
-Conocida como la **‘Reina de la Canción Nacional’** y del **‘Pasillo Ecuatoriano’**, fue una talentosa cantante, actriz y profesora, nacida en una familia con inclinaciones musicales. 
-
-Desde joven, **destacó junto a su hermana en concursos de música ecuatoriana** y, a pesar de la oposición familiar, inició su carrera artística en 1922.  
-
-**Se convirtió en soprano en la Compañía de Operetas y Zarzuelas** y grabó varios discos, siendo reconocida por su repertorio de pasillos.  
-
-Jaramillo fue **la primera mujer ecuatoriana en recibir la condecoración Orden Nacional al Mérito en el Grado de Caballero** y su legado perdura en un busto y un museo en su pueblo natal, Calacalí, a decir de la web del [Museo del Pasillo](https://www.museopasillo.gob.ec/carlota-jaramillo/ "https://www.museopasillo.gob.ec/carlota-jaramillo/"). 
-
-Así funciona el Pico y placa en Quito este martes 1 de octubre
-==============================================================
-
-Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos gestionan el flujo vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-6.jpg)
-
-La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
-
-### Más noticias
-
-* [Juramento a la Bandera en Quito tiene nueva fecha](https://www.elcomercio.com/actualidad/quito/juramento-bandera-quito-tiene-nueva-fecha.html "Juramento a la Bandera en Quito tiene nueva fecha")
-* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
-* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
-
-Documentos necesarios para circular
------------------------------------
-
-Para circular, es **esencial tener la licencia** y la matrícula vigentes.
-
-Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
-
-* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
-* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
-* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
-* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
-* Realizar la evaluación teórica.
-* Esperar la entrega de la nueva licencia.
-
-Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
-
-Colaboración ciudadana en el Pico y placa
------------------------------------------
-
-El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
-
-Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
-
-En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Yqty3OkuqU](https://t.co/Yqty3OkuqU)
-> 
-> — AMTQuito (@AMT\_Quito) [September 24, 2024](https://twitter.com/AMT_Quito/status/1838518849898983729?ref_src=twsrc%5Etfw)
-
-Una dieta de colores tiene claves para una alimentación saludable
-=================================================================
-
-Incorporar frutas y verduras de diferentes colores aporta nutrientes esenciales para la salud y previene enfermedades crónicas.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Una alimentación variada y colorida contribuye a una vida saludable y previene enfermedades crónicas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Dieta-de-colores.jpg)
-
-La dieta de colores es una estrategia nutricional que consiste en incorporar una variedad de frutas y verduras de distintos colores a nuestras comidas diarias. Cada color representa diferentes beneficios para la salud, ya que aporta vitaminas, antioxidantes y fibra, fundamentales para mantenernos saludables y prevenir enfermedades crónicas.
-
-9 sugerencias para una alimentación colorida y saludable:
----------------------------------------------------------
-
-1. **Añade frutas y verduras rojas**: Los alimentos rojos, como el tomate, la sandía y las fresas, contienen licopeno y antioxidantes que protegen el corazón y ayudan a reducir el riesgo de ciertos tipos de cáncer.
-2. **Incorpora alimentos naranjas y amarillos**: Zanahorias, papayas y mangos son ricos en betacarotenos, que se convierten en vitamina A. Esto es crucial para la salud ocular y el sistema inmunológico.
-3. **No olvides los alimentos verdes**: Espinacas, brócoli y aguacate aportan hierro, calcio y vitamina K, esenciales para la salud ósea y la función muscular.
-4. **Incluye alimentos morados y azules**: Uvas, arándanos y berenjenas contienen antocianinas, potentes antioxidantes que protegen el cerebro y previenen el envejecimiento celular.
-5. **Agrega alimentos blancos y marrones**: Ajo, cebolla y champiñones tienen propiedades antiinflamatorias y antimicrobianas que fortalecen el sistema inmunológico.
-6. **Varía la forma de cocinar**: Aprovecha diferentes métodos de cocción como al vapor, a la parrilla o al horno para preservar los nutrientes y disfrutar de distintos sabores y texturas.
-7. **Prepara ensaladas coloridas**: Mezcla diferentes verduras en una ensalada para incluir varios colores y nutrientes en un solo plato. Añade aceite de oliva para mejorar la absorción de vitaminas.
-8. **Incluye frutas y verduras en snacks**: Opta por frutas de distintos colores como meriendas para mantener un aporte constante de nutrientes a lo largo del día.
-9. **Planifica tus comidas semanalmente**: Asegúrate de incluir alimentos de todos los colores en tu dieta semanal para garantizar un equilibrio de vitaminas y antioxidantes.
-
-Este enfoque garantiza que incorpores una amplia gama de nutrientes, lo que contribuye a tu bienestar general y a la prevención de enfermedades crónicas.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-Johanna Ruiz, magíster en Nutrición Clínica, explica cómo incluir frutas y verduras de diferentes colores aporta vitaminas, antioxidantes y fibra, fundamentales para una alimentación saludable.
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-La escuela se reinventa
-=======================
-
-Xavier Abad, español, invitado por “Arteducarte”, propone un reencuentro con el arte, con una escuela diferente. Hay que crear comunidad.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen generada en Adobe Firefly con el prompt: Niños y maestros danzan y dibujan en el suelo… sueños de colores, donde descubren el otro ser humano.](https://www.elcomercio.com/wp-content/uploads/2024/09/escuela-arte-educacion-aprendizaje.jpg)
-
-**Se dice que todo ser humano es un artista.** Y es cierto. Para fundamentar este aserto reproduzco una maravillosa experiencia que viví en **“Arteducarte”**, una fundación ecuatoriana apasionada por la educación artística. 
-
-**El prof. Xavier Abad, investigador español**, poseedor de un pensamiento diferente –divergente y en casos irreverente-, fue el encargado de promover un cambio radical en la educación para transformar el mundo en que vivimos mediante la **“pedagogía del encuentro”.**
-
-**La educación artística**
---------------------------
-
-La conferencia versó sobre un tema aparentemente inocuo: **“Sin ti, no-yo: el otro como lugar narrativo en el arte comunitario”.** Los estudiantes aprenden el arte con sus docentes. La teoría plantea que la educación artística es un espacio para el encuentro vital del niño consigo mismo.
-
-En la práctica todo el profesorado quedó fascinado por la simplicidad de la expresión, la hondura del contenido y el aprendizaje basado no en el currículo ministerial –con el permiso de la señora ministra- sino en la vida. 
-
-**Abad identificó la existencia del “yo” (él o ella) y del “tú”, que en su conjunto dan como resultado el “nosotros”.** La educación tradicional –dijo- ha estado centrada en aprender contenidos, hoy debemos desaprender. **Esto implica trabajar por el ser antes que por el aprender.** Y el ser tiene un lugar y un tiempo; un escenario y una temporalidad cuyo objetivo básico es vivir para y en el otro. **En este contexto el arte es la alternativa.**
-
-**La metáfora de la vida**
---------------------------
-
-**“Se trata, entonces, de un cambio paradigmático”,** según el especialista. Porque el arte está en lo que no se ve. El arte simboliza encuentros, biografías colectivas, caminos, vínculos, tejidos, vidas. **El arte para Abad es un espacio para el diálogo.** La palabra adquiere así una nueva dimensión (la dimensión del ser), y la imagen es el objeto “cero”; es decir, **el mismo amor que es percibido e irradiado por los niños.** 
-
-Bajo esta perspectiva Abad considera que **“los niños no son náufragos; los adultos somos referentes”.** Por eso, la misión de la escuela –la nueva escuela- debe ser reconceptualizada, como el lugar para el ser; no para el aprender, simplemente. Porque **la escuela es la metáfora de la vida, el cruce de encuentros a través de medios extraordinarios como el arte, el juego y la poética.**
-
-**El ser y el estar**
----------------------
-
-La pedagogía del encuentro constituye el eje de la misión de todo maestro: **encuentro del ser y del estar,** mediante el descubrimiento de un nuevo libro: nosotros (nos-otros). “Yo soy yo porque nosotros somos”, afirma Abad. 
-
-**Este encuentro con los otros es, de hecho, transcultural.** Los maestros somos mediadores. Javier Abad es enfático: **“Los niños no son esponjas”.** Y añade: “La vida es un mundo que hablamos en los otros; los otros son nosotros transformado. Todo está unido inseparablemente a la vida”. **Fundamenta que “el arte está en todas las personas y no exclusivamente en los artistas. En ese sentido, los docentes somos mediadores universales (de la ética y la estética)”.**
-
-**El juego como vocación**
---------------------------
-
-**¡Qué hermoso es ver a los niños en movimiento!** ¿Los niños piensan cuando están sentados y cuando se mueven?, se pregunta Abad. La explicación está en el juego, que es esa maravillosa vocación que no solo se halla en los niños sino en todo el género humano**. Porque el juego deriva del encuentro.** 
-
-Estos espacios generan a veces conflictos, consensos y disensos. Y eso es también humano. Abad recuerda que los judíos no colocan flores en las tumbas sino piedras. Porque cada piedra es una persona, un objeto simbólico que redescubre la existencia de la alteridad: **“Yo soy otro tú; tú eres otro yo”.**
-
-De ahí que la alteridad sea el sinónimo de humanidad: **desaprender juntos.**Parece contraproducente esta frase, pero es lógica. **Hay tantos contenidos que no nos han servido para nada. E incluso son estorbos.** Una educación repetitiva, memorística, ausente de sentido –los pedagogos hablamos de meta cognición- ha conducido a deformar a las personas, que **no son autónomas sino sumisas, esclavas de pensamientos ajenos y repetidoras… no solo de años sino de conceptos que a veces no entienden.**
-
-**Trabajar con el afecto**
---------------------------
-
-Para superar esa parafernalia Xavier Abad plantea “desaprender juntos”, porque **“el concepto nace del afecto”.** Esta declaración contraviene la tendencia casi generalizada de centrar los aprendizajes en los conocimientos o la cognición. Trabajar con el afecto es un desafío real para todo docente. 
-
-En esa línea caben las preguntas: **“¿Qué soy yo?, ¿quién soy yo?, ¿quién soy en relación?** No olvidemos –recalca el prof. Abad- que somos seres en tránsito, y que los niños crecen por dentro. De eso no nos damos cuenta los padres y maestros’. **Abad recupera la metáfora del bambú: en siete años no produce nada; lo hace a partir de los siete años.**
-
-**Reinventar la escuela** 
---------------------------
-
-La clave –según Abad- está en **“recibir del niño en vez de dar al niño”.** Si bien el concepto de infancia ha mejorado, todavía existen mitos y prejuicios. Nos recuerda el origen del vocablo: in = no; fancia = infantería. Lo mismo sucede con el término alumno: a = sin; lumni = luz. Es que siempre se consideró a los niños seres inferiores; es decir, “los que no hablan” o incapaces relativos. 
-
-**En la pedagogía actual tenemos que aprender de los niños.** Y el papel de los docentes es facilitar procesos, para que los propios niños edifiquen espacios, porque a través de ellos construyen su propia existencia. **Abad sustenta que “la historia de vida –de cada niño o niña- es el mejor material de la educación artística, y en general de toda su educación”.** La idea –que no es nueva- es formar una comunidad, aprehender en la comunidad. Y este acontecimiento debe celebrarse. **Leonardo Da Vinci decía, según Abad, que “cada acto es una obra de arte y cada persona es un artista”.**
-
-**La ética sobre la estética**
-------------------------------
-
-Así la ética (el ser humano) está sobre la estética. **El arte entonces es un estado de encuentro, una comunidad de interpretación, de valor humano y cultural innegable por su fuerza simbólica.** La pedagogía del encuentro plantea que “no debe haber diferencias entre los que enseñan y los que aprenden”. 
-
-El rol de los docentes es crear puentes para que los niños se encuentren, crean en sí mismos y descubran el mundo. Bajo estas consideraciones, **“¿será posible reinventar la escuela?”, se pregunta Abad**. Y otra interrogante: “¿Cuándo nos planteamos la meta: ¿yo soy el otro?”.
-
-Gobernar en el caos 
-====================
-
-Es momento de abandonar los extremismos y trabajar juntos por la estabilidad económica y el progreso social de Ecuador.
------------------------------------------------------------------------------------------------------------------------
-
-![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
-
-Ahora es el momento de abandonar los **extremismos políticos** para gobernar sobre bases racionales. El Presidente Noboa y la **Asamblea Nacional** deben deponer las diferencias subalternas para tomar **decisiones** de importancia nacional, que sirvan a este y al próximo gobierno. Basta de discusiones ridículas y de **contradicciones estériles** que llevarán a una situación aún más **caótica**, en donde los que más sufren son los pobres del **Ecuador**.
-
-¿A qué **gobierno** no le va a convenir recibir un **país** con **recuperación económica**, **seguridad** jurídica y progreso social? Entonces a trabajar todos unidos por un solo **objetivo**, en donde también haya un **desarrollo político** que a todos nos conviene. Las **élites económicas** deben ser solidarias y contribuir al progreso de todos y las **fuerzas sociales** deben entender que solo con **trabajo productivo** se pueden alcanzar mayores ingresos.
-
-Si le alcanza una buena **gobernabilidad**, se podrá demostrar a la **comunidad internacional** que el país ha recobrado la **seriedad** y la **eficacia política** para ser capaz de honrar las deudas, de modo que el riesgo país sea menor como es en Perú y Colombia. Entonces vendrán **inversiones** importantes para salir de la **recesión económica**.
-
-La clave es disminuir los **desequilibrios** mediante **correcciones fiscales** y abrirse a las **inversiones extranjeras** sobre la base de **acuerdos** justos en cuanto a la **rentabilidad**. Si se logra aumentar la **producción,** las **élites económicas** del país invertirán más y los **capitales extranjeros** mirarán al país con buenos ojos, aprovechando que la **dolarización** elimina el **riesgo** cambiario que tienen en otros **países**.
-
-Con esta nueva **actitud** de un **gobierno** creíble será posible aumentar el **empleo** formal, invertir en obra pública, financiar la **seguridad energética**, aumentar la **explotación petrolera**, pagar a los **proveedores**, honrar la deuda externa y alejarse del abismo de una **recesión** prolongada que causará más **sufrimientos** a la **población ecuatoriana**.
-
-México en ruta São Paulo
-========================
-
-México ha vivido los últimos años una ruta regresiva en materia de pluralidad política.
----------------------------------------------------------------------------------------
-
-![Diego Cevallos Rojas, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Diego-Cevallos-Rojas-1.jpg)
-
-Deja la **Presidencia** de **México,** un líder con talante de caudillo y asume su fiel seguidora. Ambos, junto a su **movimiento político**, tienen un **respaldo social** descomunal y según indican los hechos y sus dichos, seguirán la **ruta** marcada por el Foro de São Paulo: alcanzar el **control** total de los **Poderes** del **Estado** y anular cualquier **oposición** o contrapeso.
-
-El tiempo dirá si logran alcanzar tal **objetivo**. Su vecino, Estados Unidos, el país más poderoso del **planeta**, con el que México tiene un vínculo indisoluble de **frontera**, un **tratado** de **libre comercio** y problemas compartidos de **inmigración** y narcotráfico, mira con atención lo que sucede.  Lo mismo lo hace la **Unión Europa** y gran parte del mundo con el que México tiene acuerdos de diverso tipo y un gran **intercambio comercial**.
-
-¿Hasta dónde tolerará Estados Unidos o la Unión Europa que México sea un socio en la que sus **inversiones** e intereses corran riesgo?  ¿Hasta dónde México podrá soportar la crítica que ya le están haciendo **organizaciones internacionales** de **derechos humanos**, de **libertad** de **expresión** y agencias de la ONU?
-
-Quizás en esos **actores** y en sus **decisiones** radique uno de los **obstáculos** que enfrente el **proyecto** mexicano en marcha.
-
-Este martes 1 de octubre arranca el sexenio presidencial de **Claudia Sheinbaum** y termina el de Andrés Manuel López Obrador.
-
-Se va un **político** que ha dominado con creces la **escena política** mexicana. Lo ha hecho desde cada una de las casi mil 500 conferencias de prensa matutinas que ofreció, en cada una de las cuales hizo afirmaciones sin sustento o mintió en 100 ocasiones en promedio, según el recuento de la consultora SPIN.  La **sucesora** anunció que seguirá con tales **conferencias**.
-
-El pasado junio, **Sheinbaum** y su movimiento Morena, que está afiliado al Foro de São Paulo, consiguieron una **votación** altísima en las **elecciones generales**, y en medio de **controversias**, las autoridades les otorgaron, sin objeciones, la **Presidencia**, así como la mayoría absoluta en el **Poder Legislativo**.
-
-Con ese control, aprobaron una **reforma constitucional** para desmantelar el actual **Poder Judicial** y abrir la puerta a la **elección popular** de jueces y otra para militarizar la **seguridad interna**. Pronto, indican sus planes, eliminarán de la **Constitución** los **organismos autónomos** de transparencia y los que velan por la **competencia**.
-
-**México** ha vivido los últimos años una **ruta regresiva** en materia de **pluralidad política**, en contrapesos al poder, transparencia del **gasto público**, tolerancia al disidente y respeto al **periodismo crítico**. México tiene hoy lo que algunos **politólogos** llaman una **democracia** de “baja intensidad”.
-
-López Obrador logró cautivar a las masas con un **discurso** divisor entre ricos y pobres, pueblo y **oligarquía**, **honestidad** y corrupción, entre “ellos, los **representantes** del pasado” y “nosotros, los **transformadores**”.  Además, lo hizo con un **despliegue histórico** de **programas sociales**, enfocados básicamente en la entrega de dinero en efectivo a los más necesitados.
-
-El **México**, que salió del **dominio** de un **partido** único, el PRI, en el año 2000, y que poco a poco fue caminando hacia una **democracia liberal**, regresa al **liderazgo** de un solo partido, ahora llamado Morena, donde paradójicamente militan muchos ex priistas, como el mismo López Obrador.
-
-Morena, el **presidente saliente** y su **sucesora**, van logrando paso a paso lo que el Foro de São Paulo, que desde los años 90 reúne a los llamados **partidos** de **izquierda**, definió como objetivo: captar todo el poder del **Estado** para desarrollar desde allí su proyecto “antineoliberal”.
-
-En los últimos seis años y frente a una **oposición desgastada** y **desprestigiada**, el gobierno de Morena conquistó un poder creciente que parece vacunado contra datos y hechos que hablan de una **gestión** poco eficiente.
-
-López Obrador deja el mayor número de muertos en un sexenio, casi 200 mil. Cada hora, en promedio, desaparece hoy una persona en **México**. 
-
-Más de un tercio del **territorio** están dominados por el **narcotráfico**, el número de pobres extremos aumentó en 400 mil durante la gestión de **López Obrador**, desertaron de la escuela un millón de niños, la **economía** tiene hoy el más bajo **crecimiento económico** de los últimos 36 años y hay 50 millones de personas sin acceso a la **salud**.
-
-Pero evidencias aparte, las **encuestas** indican que la **mayoría** de la **población** aprueba a su expresidente y espera con ilusión y alto respaldo la **gestión** de la primera **mandataria** de **México**. Gracias a la entrega de dinero a través de los **programas sociales**, el número de pobres en general, más no los ubicados en la **pobreza extrema**, bajo en unos cinco millones en los últimos seis años.
-
-La **ruta económica** actual de **México**, enfocada en grandes **inversiones estatales** poco rentables, no es sustentable en el **futuro**, advierten observadores. Tampoco lo sería la **ruta política** de **dominio** de un solo partido. El tiempo indicará si **México** logra continuar con el objetivo trazado por Morena o si endereza hacia otro **destino**.
-
-Scorsese, desde el fin de la noche
-==================================
-
-Martin Scorsese explora en su cine la violencia y la redención, reflejando las tensiones entre la fe, la mafia y las sombras de la condición humana.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-**Sangre siciliana** agita las venas de **Martin Scorsese** (Nueva York, 1942). Más bien pequeño, 1,62 m, retraído, asmático, solitario. Su acendrada **religiosidad** es celebrada por unos, vituperada por otros. **Endeble**, alicaído, salía poco a las calles donde rebullía la vida de sus **vecinos**, vagamundos los más. Forzado por su **ostracismo** aprendió a observar desde su **aislamiento**, con mayor profundidad, todo lo que lo rodeaba y a escudriñar sus **intersticios**. Quiso ser cura, pero a fines de los 50 abandonó esa idea, empezó a estudiar cine y a trabajar en ese oficio. “Toda mi vida ha sido el cine y la **religión**”, confesó.
-
-Ha convivido con la fe y con la mafia. En sus raíces, genes de las dos **entidades** se transformaron en surtidores de su **abundante creación fílmica**: decenas de películas, varias grabadas en lo más notable de la historia del cine. Scorsese ocultó en su **cine** el realismo con veladuras imaginarias, como en el **prólogo** que contagia a su película _Alicia ya no vive aquí_, 1974, o celebrándolo y execrando de él, como en _Taxi Driver_, amasijo de imágenes infernales del Nueva York oculto.
-
-_Malas calles_, 1973, cinta de **corte antropológico** que muestra el diarismo del barrio donde nació. Amigos de su infancia que aspiraron a ser capos de la mafia –él mismo aparece encarnado en uno de los **personajes**–, pero solo quedan como esforzados **postulantes** del **crimen**, muchachos que juegan a ser gánsteres. Scorsese filmó lo que conocía. El título del filme lo debe a Raymond Chandler: _Un hombre tiene que dar la cara en esas malas calles_. Su subtítulo, a su credo visual: “Los domingos a misa. Los lunes al infierno”.
-
-**Robert De Niro**, leyenda viva del cine, a quien **Scorsese** conoció en su **niñez**, asume un rol secundario en el filme, pero juntos, en 1976, se convertirán en íconos de su profesión, gracias a _Taxi Driver_ (_El taxista_). Carroza funérea o **sepulcro** rodante, el taxi de Travis Bickle (De Niro), un veterano de Vietnam, husmea y escarba la noche y halla a una muchacha de 12 años expoliada por un **proxeneta** y se dedica a “redimirla”, mientras la soledad hace de las suyas.
-
-La **corrupción política**, el amor como un soplo, soledades, mafiosos, estafadores, rateros, chulos, apostadores, derrotados, **habitantes** de la noche… toda la **jauría humana**, que sale como un espasmo nadie sabe de dónde, circula por el tiempo desquiciado y eterno de _Taxi Driver_.
-
-“Tal vez esta noche/ no es noche,/ debe ser un sol horrendo,/ o lo otro,/ o cualquier cosa…/ Faltan palabras,/… cuando la sangre llora y llora”…
-
-**Scorsese** prefiere construir antagonistas antes que **protagonistas**. Mostrar el lado oscuro de la **condición humana** soterrando el bueno. Denodada lucha entre el bien y el mal. **Evocación** y clamor. Exuberante, **fantasmagórica**, conmoción **poética**, grotesca a ratos, tierna en otros. El **ser humano** y su camino signado por la codicia de poder y su **insaciabilidad**. Lo suyo es el otro lado de la ley.
-
-_Toro salvaje_, 1980, De Niro, ascensión y caída de un monarca del boxeo. **Sinopsis** de horizonte humanista donde deambulan la vesania y la **imbecilidad humana**. Alguien dijo que al salir de su estreno solo quiso volver a casa y callar, después de correr gritando, riendo o llorando, luego de recoger los carros y voltearlos como un poseso.
-
-Para muchos, la mejor cinta de **Scorsese** es _Buenos muchachos_ (_Goodfellas_, 1990). La historia empieza en un punto medio, el suceso **impulsor** del descalabro final; tres **asaltantes** transportan un cadáver en el maletero de un vehículo, pero quien funge de cadáver no está muerto; al descubrirlo, los **conductores** se encargan de masacrarlo. Luego ocurre un _flashback_, los inicios de Henry Hill en la **organización** de una banda; a partir de este corte, él narra su propia historia. Obra **maestra** en el género del **cine** de **crimen**.
-
-La **filmografía** de **Scorsese** se engendra en una matriz: la **violencia** del **ser humano** que atraviesa inmutable el tiempo. Poética de seres oscilantes entre **fulgores** y sombras. Iglesia y **mafia**. Senderos cruzados por **contradicciones** perpetuas que solo pueden resolverse en **muertes atroces**, como si hubiera un deseo subyacente de infligir castigo antes de la **perpetración** del **crimen**. **Personajes** brumosos, rudos, indolentes, pero capaces de dar sus vidas por sus familias o sus amigos. “Siempre he buscado la absolución y la **redención**”, ha dicho Scorsese. ¿Las encontrará?
-
-“Aquí sabemos lo que sabe la muerte/ La piedra le dio vida a esta muerte/ La piedra se hizo lava de muerte”.
-
-Cartas a Quito / de octubre de 2024
-===================================
-
-Estas son las cartas a Quito de este martes 1 de octubre de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Reflexiones maduras
--------------------
-
-Resulta que en la etapa de la vida de una mayor adultez se precisa recoger y mencionar algunas ideas a manera de unas reflexiones que las podríamos considerar como maduras, es decir producto de una vida de logros y realizaciones de cualquiera sea la magnitud y preponderancia que tengan y así proponer algunas reflexiones que ayuden a tener alguna guía o sendero para especialmente esa generación de jóvenes que nos sucederán en la vida.
-
-En épocas anteriores quizás refiriéndome a una etapa cómo de hace 50 años, quizás un poco más, teníamos en nuestros hogares esa presencia de papá y mamá en todo momento y la compañía principal de los hermanos y se adicionaban primos, tíos y demás familiares y por supuesto los inolvidables abuelos. Teníamos esas reuniones hogareñas, pletóricas, de pláticas saludables, bailes, música, comidas típicas y muchas otras cosas que endulzaban nuestra vida. Las distancias de las viviendas de unas y otras familias no eran tan distantes y era más fácil movilizarse de una casa a otra para compartir estas lindas experiencias.
-
-Pero que sucede ahora en las familias, las distancias son enormes, los hogares se han centrado más en su vínculo más íntimo de padres, hijos, nietos y los parientes políticos yernos o nueras y cualquier reunión es más realizada en ese entorno y raras veces se amplía a mayores conglomerados de otros familiares, peor aún incorporar amigos y conocidos.
-
-En esos años anteriores, si bien se conocía casos de delincuencia, asesinatos y cosas así, no eran tan perceptibles, nos movilizábamos tranquilamente en cualquier hora del día, en las noches incluso, caminando podíamos ir a una función nocturna de esos cines tradicionales de nuestra ciudad de Quito, como el Alameda, el Central, el Rumiñahui, el Bolívar, el Alhambra y muchos otros y no teníamos miedo, ni recelo, deambulábamos tranquilamente y sin la menor sospecha de que nos pudieran asaltar.
-
-En el momento actual estamos sumidos en una vida de incertidumbre y de miedo, tantas malas noticias sobre la inseguridad que preferimos ya no salir en la noche y no podemos caminar con tranquilidad, aun cuando sea en horas del día. Tanta proliferación de asesinatos, asaltos, sicariatos, en fin tanta maldad en la población, la infiltración de la mafia y el narcotráfico, lo que resulta espeluznante mirar y observar esas imágenes desgarradoras en las noticias por la televisión y las redes sociales. Ha cambiado tanto aquello, que nos parece estar observando películas de ficción o cosas que resultan increíbles de concebir. 
-
-Teníamos anteriormente en nuestros hogares el almuerzo en familia, pues de los trabajos y de los centros educativos, se tenía doble jornada, es decir se laboraba la mañana, un descanso para el almuerzo y como las distancias no eran tan largas, se solía ir al almuerzo en casa y luego retornar a la jornada de la tarde; no había la jornada única o continua. En la noche se cenaba en familia y en  todo momento se sentía ese calor hogareño, esa presencia familiar. Las conversaciones de los mayores eran siempre llenas de anécdotas, de chistes, ese humor quiteño especialmente y la vida, por lo tanto, se tornaba más dulce y amable.
-
-Qué sucede ahora, pues lo contrario, salimos a nuestras labores muy temprano en las mañanas y retornamos a la noche muy tarde, desayunamos solos, almorzamos de igual manera y quizás hasta en las cenas también, es decir en qué momento podemos compartir en familia, si quizás hasta los fines de semana tenemos por exigencias laborales a lo mejor que dedicar tiempo al trabajo y no a disfrutar en familia.
-
-El control hacia los hijos era más estricto, nos preocupábamos de averiguar en donde se encontraban, que hacían, con quienes se llevaban y siempre tratando de inculcarles muchos valores y principios de vida, para que supieran comportarse con honestidad y transparencia en el futuro. Creo que ahora el ritmo tan agitado de la vida, no permite que se tengan esos mismos cuidados y la liberalidad en los actos y acciones, ya no permiten, ni dejan posibilidad de esa aparente intromisión que teníamos en nuestros hijos. La rebeldía es tan notoria con ellos, que ya no se puede decir nada, nos tildan de anticuados. ¿Qué va a pasar en el futuro? Pues, no sabemos, ni advertimos las reales consecuencias.
-
-Hernán Patricio Orcés Salvador
-
-No se debe olvidar el valor del Cuerpo de Bomberos de Quito
-===========================================================
-
-El apoyo continuo al Cuerpo de Bomberos y la prevención son esenciales para proteger a nuestra ciudad y sus barrios.
---------------------------------------------------------------------------------------------------------------------
-
-![Bomberos trabajaron para apagar un incendio forestal este jueves 26 de septiembre en el Cerro Auki, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trabajo-de-los-bomeros-Cerro-Auqui.jpg)
-
-La llegada de la época lluviosa en Quito trae consigo un alivio temporal ante la amenaza de incendios forestales, pero no debemos olvidar el arduo trabajo realizado por el Cuerpo de Bomberos y otras instituciones durante los meses críticos de sequía. Estos valientes profesionales han enfrentado condiciones adversas, arriesgando sus vidas para proteger a la comunidad y preservar nuestros recursos naturales. Sin embargo, es crucial que este esfuerzo no se diluya con la llegada de las lluvias. La prevención debe seguir siendo una prioridad, y el apoyo institucional al Cuerpo de Bomberos de Quito es fundamental para garantizar que estén equipados y preparados para futuras emergencias.
-
-El trabajo preventivo es esencial para evitar que los incendios forestales se conviertan en desastres. En Ecuador, se estima que el 99.9% de los incendios son causados por actividades humanas. Esto subraya la necesidad de campañas educativas que informen a la población sobre prácticas seguras y responsables en áreas forestales. El **Cuerpo de Bomberos, junto con la Secretaría Nacional de Gestión de Riesgos**, ha implementado diversas iniciativas para sensibilizar a la ciudadanía sobre la importancia de prevenir incendios. Estas acciones deben ser continuas y no limitarse a momentos críticos.
-
-> El apoyo institucional es vital para que el Cuerpo de Bomberos pueda llevar a cabo su labor eficazmente. Esto incluye no solo recursos financieros, sino también capacitación y equipamiento adecuado. Durante el 2023, se reportaron 236 incendios forestales en Quito y este verano la cifra subió a más de 300. En total, los incendios forestales en Ecuador han arrasado más de 38 000 hectáreas, lo que demuestra que la amenaza sigue presente. 
-
-Las autoridades deben garantizar que los bomberos cuenten con las herramientas necesarias para responder rápidamente a estas emergencias. La implementación del **Plan de Prevención y Control de Incendios Forestales** es un paso positivo, pero su efectividad depende del compromiso sostenido del gobierno local y nacional.
-
-Es esencial recordar a las comunidades afectadas por los incendios, como el Barrio Bolaños. Estos barrios no solo sufren daños materiales; también enfrentan pérdidas emocionales y psicológicas significativas. La solidaridad ciudadana es crucial en estos momentos. Las campañas de reforestación y recuperación deben ser una prioridad, promoviendo la participación activa de los residentes en la restauración de sus entornos.
-
-La ciudadanía tiene un papel fundamental en la prevención de incendios forestales. Las comunidades pueden organizarse para limpiar áreas propensas a incendios y realizar talleres sobre prácticas seguras. Además, fomentar una cultura de denuncia ante actos irresponsables que puedan provocar incendios es crucial. La educación ambiental debe ser parte integral del currículo escolar y comunitario, asegurando que las futuras generaciones comprendan la importancia de cuidar nuestros bosques.
-
-Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?
-================================================================
-
-El presidente Nicolás Maduro decretó esta medida el 2 de septiembre, durante una cadena nacional.
--------------------------------------------------------------------------------------------------
-
-![Nicolás Maduro adelantó la Navidad desde 2013, año en el que asumió el poder](https://www.elcomercio.com/wp-content/uploads/2024/09/navidad-venezuela.jpg)
-
-Venezuela celebrará la **Navidad** este martes 1 de octubre de 2024.
-
-Por ilógico que esto parezca, esta fue una decisión **decretada oficialmente** por el presidente de Venezuela, **Nicolás Maduro**, durante **una cadena nacional**, el 2 de septiembre.
-
-### Más noticias
-
-* [Lula busca reanudar conversación con Venezuela](https://www.elcomercio.com/actualidad/mundo/lula-busca-reanudar-conversacion-con-venezuela-vuelva-normalidad-democratica.html "Lula busca reanudar conversación con Venezuela")
-* [En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal](https://www.elcomercio.com/actualidad/mundo/venezuela-1-867-presos-motivos-politicos-segun-ong-foro-penal.html "En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal")
-* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
-
-Según el mandatario esta es una forma de “agradecimiento y **homenaje** al pueblo combativo”.
-
-“Está llegando septiembre y dije: septiembre y ya huele a Navidad. Y por eso este año en homenaje a ustedes, en **agradecimiento** a ustedes, voy a decretar el adelanto de la Navidad para el 1 de octubre”, dijo Maduro en aquella ocasión,
-
-“Para todos y todas llegó la Navidad, con paz, felicidad y seguridad”, enfatizó.
-
-El anunció del adelantamiento de la festividad religiosa provocó la **controversia** en su país y en el mundo.
-
-La Conferencia Episcopal Venezolana (CEV), por ejemplo, calificó esta decisión como “**propagandística con fines políticos particulares**“.
-
-Coinciden analistas políticos, quienes consideran que desde su ascenso al poder en 2013, Maduro ha recurrido repetidamente a la **estrategia** de adelantar la Navidad, para desviar la atención de las **problemáticas** que enfrenta el país.
-
-No es la primera vez
---------------------
-
-Esta decisión **no es inédita**, ya que el Presidente de Venezuela ha repetido esta estrategia en años anteriores, generalmente como respuesta a las crecientes tensiones sociales y políticas.
-
-En 2013 fue la primera vez que la fecha de la celebración se movió unos días antes. Ese año, Maduro adelantó la Navidad para “**elevar el ánimo de la población** en un momento de profunda incertidumbre” tras el fallecimiento de **Hugo Chávez**.
-
-En los años posteriores continuó con esta práctica. Con excepción de **2019 y 2023**, años en los que Navidad se celebró en noviembre; desde 2013 las festividades comenzaron en octubre.
-
-En este 2024 no habrá excepción. La nueva fecha coincide con la **tensión política y social** que enfrenta Venezuela, a consecuencia de la reelección de Nicolás Maduro, para muchos, incluida la oposición antichavista, **fraudulenta**.
-
-Esto pierden las industrias por cortes de luz en Ecuador
-========================================================
-
-Los cortes de luz en Ecuador, con un promedio de 8,6 horas diarias, afectan al sector productivo, incluyendo la industria camaronera.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![El camarón es el principal producto exportado de la oferta no petrolera no minera del Ecuador, con más 4 000 millones de dólares exportados en los primeros siete meses del 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/camaron-ok.jpg)
-
-Los **cortes de luz** continúan en todo el **Ecuador**. Según la programación, los períodos de **racionamiento eléctrico** tienen un promedio de 8,6 horas al día, durante la semana del 30 de septiembre al 6 de octubre de 2024. Según el ministro de Energía, **Antonio Goncalves**, los horarios de los apagones pueden variar debido a la situación hídrica del Ecuador.
-
-### Más noticias
-
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
-* [Pequeña empresa propone cambios en jornadas laborales por cortes de luz](https://www.elcomercio.com/actualidad/negocios/pequena-empresa-pcambios-jornadas-laborales-cortes-luz.html "Pequeña empresa propone cambios en jornadas laborales por cortes de luz")
-
-El sector **productivo e industrial del Ecuador** es uno de los más afectados por los **cortes de luz**. El presidente de la Cámara de Industrias de Guayaquil, **Francisco Jarrín**, informó que el sector pierde 2,4 millones de dólares por cada hora de corte de luz.
-
-Impacto en el sector camaronero
--------------------------------
-
-Entre ellos está el sector **camaronero**. El gremio pronostica serios problemas en su cadena productiva si no se cumple con la planificación de los racionamientos eléctricos. Industrias, como la de **fabricación de alimento** para camarón, requieren **tiempos mínimos** para el encendido de sus equipos.
-
-De igual forma sucede con las **empacadoras de camarón**. Estas deben planificar la recepción del producto para su **clasificación, procesamiento, empaque y colocación en contenedores para exportación**. “No contar con horarios definidos les impide organizar la logística y pone en riesgo el cumplimiento de compromisos con clientes”, señaló.
-
-De la misma manera, las empacadoras requieren **electricidad** para **procesar y congelar** el camarón a -18 °C, lo cual demanda considerables volúmenes energéticos. Este proceso es esencial para preservar la calidad del producto y cumplir con los estándares de seguridad alimentaria.
-
-Por otra parte, la falta de energía en las fincas camaroneras afecta el bombeo del agua, lo que pone en riesgo las condiciones de oxígeno y la supervivencia del crustáceo, agregó.
-
-El camarón es el principal producto de exportación de la oferta **no petrolera no minera del Ecuador.** Entre enero y julio de este 2024, las ventas de este crustáceo llegaron a 4 113 millones de dólares.
-
-Impacto por cortes de luz fuera de la programación
---------------------------------------------------
-
-Según la **Cámara Nacional de Acuacultura** (CNA), los cortes de energía eléctrica sin planificación clara representan una seria amenaza para el sector.
-
-El gremio advirtió que los apagones pueden provocar pérdidas diarias superiores a los 5 millones de dólares, afectando tanto la producción como la exportación de camarón[.](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_Ecuador "https://es.wikipedia.org/wiki/Econom%C3%ADa_de_Ecuador")
-
-La CNA solicitó al gobierno un trato diferenciado para las zonas industriales, como Durán y Yaguachi, donde la demanda de energía industrial es alta. También piden que las interrupciones energéticas se limiten a una vez por día y que se comuniquen con suficiente anticipación.
-
-Asimismo, señalan que la inclusión del sector privado en la generación eléctrica es positiva, pero insisten en que es crucial mejorar el flujo de información desde las autoridades para evitar más daños a la producción camaronera.
-
-El ministro **Antonio Goncalves** señaló que, en algunas ocasiones, la programación de los **cortes de luz** no se cumple por las condiciones de la **situación hídrica del país**.
-
-Por ejemplo, el último fin de semana de septiembre de 2024, se registraron lluvias en distintas zonas el país. Las condiciones de **generación eléctrica** del país mejoraron y se redujeron los **períodos de cortes de energía** durante el domingo.
-
-A las 17:00 de este lunes 30 de septiembre, el incremento de las lluvias permitió que la hidroeléctrica **Coca Codo Sinclair**, ente Napo y Sucumbíos, aportara con el 56% de la energía de la producción total del Ecuador.
-
-CFN rematará 14 propiedades en cinco provincias de Ecuador
-==========================================================
-
-El nuevo proceso de remate de la Corporación Financiera Nacional (CFN) incluye terrenos, edificios y oficinas.
---------------------------------------------------------------------------------------------------------------
-
-![Este edificio ubicado en Riobamba es uno de los inmuebles que rematará la CFN](https://www.elcomercio.com/wp-content/uploads/2024/09/cfn-bienes.jpg)
-
-La Corporación Financiera Nacional (CFN) realizará el remate de 14 bienes inmuebles distribuidos en cinco ciudades del Ecuador.
-
-El remate incluye terrenos, oficinas, pisos y edificios con avalúos que van desde los 23 000 dólares hasta los 607 000 dólares.
-
-### Más noticias
-
-* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
-* [Cortes de luz en Quito para este martes 1 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-martes-1-octubre-2024.html "Cortes de luz en Quito para este martes 1 de octubre de 2024")
-* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
-
-La postulación está abierta a la ciudadanía desde este lunes 30 de septiembre hasta el domingo 6 de octubre.
-
-Bienes inmuebles a rematar
---------------------------
-
-Los 14 bienes inmuebles al remate se ubican en Quito, Guayaquil, Cuenca, Manta y Riobamba. En su mayoría son espacios destinados a oficinas o locales comerciales.
-
-Las propiedades para este segunda postulación son:
-
-**Guayaquil**
-
-* Oficina de 550 m² avaluada en más de 459 000 dólares
-
-**Quito**
-
-* Tercer piso de un edificio de 580 m², incluye cuatro parqueaderos. Avalúo de más de 419 000 dólares.
-
-**Manta**
-
-* Terreno de 839 m² avaluado en más de 607 000 dólares.
-
-**Riobamba**
-
-* Edificio de cinco pisos de 880 m² con avalúo que supera los 540 000 dólares
-
-**Cuenca**
-
-* Oficina de 46 m² con avalúo de más de 43 000 dólares
-* Oficina de 38 m² con avalúo de más de 36 000 dólares
-* Tres oficinas de 31 m² con avalúo de más de 29 000 cada una
-* Tres oficinas de 29 m² con avalúo de más de 28 000 cada una
-* Oficina de 29 m² con avalúo de más de 27 000 dólares
-* Oficina de 24 m² con avalúo cercano a los 23 000 dólares
+> — Centrosur (@centrosurec) [September 27, 2024](https://twitter.com/centrosurec/status/1839713877174424061?ref_src=twsrc%5Etfw)
 
   
-Estas propiedades pueden adquirirse de contado o financiarlas hasta cinco años plazo con dividendos mensuales, trimestrales o semestrales.
 
-Cronograma del remate
----------------------
+Venezolanos que no tengan pasaporte de su país vigente no podrán ingresar
+=========================================================================
 
-La CFN socializará la información y responderá inquietudes del proceso este lunes 30 de septiembre, martes 1 y miércoles 2 de octubre.
+La aerolínea Latam Colombia informó el 27 de septiembre que los pasajeros venezolanos con pasaporte vencido no podrán ingresar a Venezuela. 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-A partir del jueves 3 y hasta el lunes 7 de octubre se realizará las visitas coordinadas a los inmuebles.
+![El Servicio Administrativo de Identificación, Migración y Extranjería (Saime) informó el pasado 25 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/Venezuela-pasaporte-.jpg)
 
-El proceso requiere la entrega obligatoria de un sobre cerrado con las ofertas. Este requisito se lo debe cumplir entre el jueves 3 al domingo 6 de octubre en Quito; y hasta el lunes 7 de octubre en Guayaquil, en horario de 09h30 a 16h00.
-
-La **apertura de las ofertas** se realizará el jueves 10 de octubre a las 10h00 en la Sala Río Guayas.
-
-### Documentos para los sobres cerrados
-
-Los ofertantes deben entregar un sobre cerrado con los siguientes documentos:
-
-* Formulario de presentación de posturas.
-* Comprobante de depósito o transferencia de al menos el 10% de la postura.
-* Formulario de visitas.
-
-Mientras que fuera de él:
-
-* Formulario RGBSEB que confirma los datos del oferente o la persona jurídica.
-* Formulario RGBSSB11 Declaración de origen y licitud de fondo
-* Formulario de autorización de débito de cuenta bancaria
-
-Para conocer dónde conseguir estos documentos o cualquier otra inquietud sobre el proceso, los ciudadanos interesados pueden comunicarse con la CFN a través de su [portal digital de remates](http://www.cfn.fin.ec/remates/ "http://www.cfn.fin.ec/remates/") o sus teléfonos.
-
-Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?
-=====================================================================
-
-La decisión de Colombia de suspender la venta de energía a Ecuador es temporal.
--------------------------------------------------------------------------------
-
-![Colombia señaló los motivos para suspender la venta de energía a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/06/corte-de-luz-1.jpg)
-
-**Colombia** suspendió la venta de **energía** a **Ecuador**, este lunes 30 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Colombia)
-
-El Gobierno colombiano tomó esta medida de manera temporal, a través de una **resolución** del **Ministerio de Minas y Energía.**
-
-### Más noticias:
-
-* [Ocho presos colombianos fueron repatriados desde Ecuador](https://www.elcomercio.com/actualidad/seguridad/ocho-presos-colombianos-fueron-repatriados-desde-ecuador.html "Ocho presos colombianos fueron repatriados desde Ecuador")
-* [Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios](https://www.elcomercio.com/actualidad/negocios/gobierno-crisis-energia-megavatios.html "Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios")
-
-Esta medida entrará en vigor a partir de la publicación en el **Diario Oficial** de Colombia.
-
-¿Cuáles son los motivos de Colombia para suspender la venta de energía a Ecuador?
----------------------------------------------------------------------------------
-
-Colombia tomó la resolución de suspender la venta de energía eléctrica a Ecuador para “**garantizar el  
-suministro para la demanda nacional**”.
-
-**Con una resolución, el Ministerio de Minas y Energía suspendió la exportación de energía eléctrica a Ecuador**.
-
-Esta es una medida transitoria por el bajo nivel de los embalses de suministro hidroeléctrico en ese país.
-
-El nivel actual de los **embalses en Colombia se encuentra 16 puntos por debajo de la meta de invierno**, según la resolución.
-
-El documento señala que el **Centro Nacional de Despacho** de ese país hará el seguimiento y análisis de las variables energéticas y eléctricas.
-
-De acuerdo a eso, el **Ministerio de Energía y Minas de Colombia** podrá suspender o reactivar la exportación de energía eléctrica.
-
-Colombia señala que el uso del parque térmico es intenso, debido a la temporada seca que atraviesa.
-
-Varios países de la región atraviesas por sequías.
-
-Días atrás, el ministro de Energía, **Antonio Goncalves**, dijo que Ecuador depende de las lluvias.  
-
-Conmebol brilla en el Mundial de Futsal, con Brasil y Argentina
-===============================================================
-
-El Mundial de Futsal podrá tener una final sudamericana con un 'Súperclasico'.
-------------------------------------------------------------------------------
-
-![Brasil es la selecciona con más títulos en el Mundial de Futsal.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T214220.184.jpg)
-
-**Conmebol** se enorgullece al tener dos representantes en las semifinales de la **Copa Mundial de Futsal**. Brasil y Argentina pelearán por bordar una nueva estrella en su escudo, aunque antes deberán superar los desafíos de las semifinales.
-
-Por un lado, **Brasil** buscará su sexto título mundial para reafirmarse como la mejor selección de futsal, mientras que **Argentina** intentará alcanzar su tercera final consecutiva y conquistar su segundo título.
+E**l** Servicio Administrativo de Identificación, Migración y Extranjería de Venezuela (Saime) informó el pasado **25 de septiembre** **de 2024**, a través de su cuenta oficial de X (antes Twitter), que **los venezolanos que tramitaron su pasaporte en consulados ahora cerrados deberán regresar al país para obtener el documento.** 
 
 ### Más noticias
 
-* [Sudamérica domina los cuartos de final de la Copa del Mundo de Futsal](https://www.elcomercio.com/deportes/futbol/sudamerica-domina-los-cuartos-de-final-de-la-copa-del-mundo-de-futsal.html "Sudamérica domina los cuartos de final de la Copa del Mundo de Futsal")
-* [‘Dibu’ Martínez ofrece disculpas por polémicos actos con Argentina](https://www.elcomercio.com/deportes/disculpas-dibu-martinez-seleccion-argentina.html "‘Dibu’ Martínez ofrece disculpas por polémicos actos con Argentina")
-* [Gonzalo Plata será dirigido en Flamengo por Filipe Luis](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-entrenador-tite.html "Gonzalo Plata será dirigido en Flamengo por Filipe Luis")
+* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
+* [Estados Unidos sanciona a 16 funcionarios venezolanos](https://www.elcomercio.com/actualidad/mundo/estados-unidos-sanciona-16-funcionarios-venezuela.html "Estados Unidos sanciona a 16 funcionarios venezolanos")
+* [Daniel Noboa emite Decreto para dar amnistía migratoria a venezolanos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-emite-decreto-otorgar-amnistia-migratoria-venezolanos.html "Daniel Noboa emite Decreto para dar amnistía migratoria a venezolanos")
 
-Brasil eliminó a Marruecos
---------------------------
-
-Brasil se convirtió en el **primer semifinalista del Mundial de Fútbol Sala** de Uzbekistán al imponerse a Marruecos por 3-1 en el Complejo Deportivo Universal de Bujará.
-
-La **pentacampeona del mundo**, que no conquista el título desde 2012, abrió el marcador con un tanto de Marcel Marques en el minuto 11, un duro golpe para los marroquíes. Ante la baja de Pito, lesionado, Marcel encontró un nuevo socio en la pista: Leandro Lino, quien anotó el 2-0 en el minuto 17 con un potente disparo que se coló en la meta marroquí.
-
-En el segundo período, **Dyego** logró el tercer tanto de Brasil en el minuto 29 con su jugada característica, conocida como la “Dyeguinha”.
-
-Argentina muestra su poderío
-----------------------------
-
-Por su parte, la **Selección de Argentina** de fútbol sala también se clasificó por tercera vez consecutiva para las semifinales del Mundial tras una impresionante actuación ante Kazajistán, a la que derrotó por un contundente 6-1 en el Humo Arena de Taskent.
-
-El primer gol llegó de la mano de Mati Rosa en el minuto 22, y a partir de ahí, **Kazajistán** no pudo recuperarse. Ángel Claudino anotó el 2-0 en el minuto 26, seguido de Kevin Arrieta, quien amplió la ventaja a 3-0 desde el punto penal. Aunque Dauren Tursagulov le dio una leve esperanza a Kazajistán con el 1-4, Sebastián Corso y Kevin Arrieta, nuevamente de penalti, sellaron el resultado final en 6-1.
-
-Semifinales a la vista
+Venezolanos consulados
 ----------------------
 
-Con estas victorias, Brasil y Argentina ya han asegurado su lugar en las semifinales. Brasil se enfrentará a **Ucrania**, mientras que **Argentina se medirá contra Francia** el próximo jueves, 3 de octubre.
+Estas sedes consulares incluyen a **Argentina, Ecuador, Chile, entre otros países.** El comunicado de Saime señaló que aquellos ciudadanos que gestionaron su pasaporte en estos consulados deberán dirigirse a la sede principal en Caracas para retirarlo.
 
-> ¡El camino a la Final! ¿Habrá clásico sudamericano? 😍  
->   
-> O caminho para final. Haverá clássico sul-americano? 🇧🇷🇦🇷[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) | [#AcrediteSempre](https://twitter.com/hashtag/AcrediteSempre?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/z8gmD4bOvT](https://t.co/z8gmD4bOvT)
-> 
-> — CONMEBOL.com (@CONMEBOL) [September 30, 2024](https://twitter.com/CONMEBOL/status/1840800203101655213?ref_src=twsrc%5Etfw)
+Cancillería venezolana
+----------------------
 
-Cortes de luz en Quito para este martes 1 de octubre de 2024
-============================================================
+Además, ofrecieron la opción de **solicitar el documento ante la Cancillería venezolana,** que se comprometerá a enviarlo por correo, aunque no se especificaron detalles sobre los tiempos de espera.
 
-Los cortes de luz en Quito son de hasta tres franjas horarias y diez horas en la sumatoria total por sector.
-------------------------------------------------------------------------------------------------------------
+Por su parte, **la aerolínea Latam Colombia** informó el 27 de septiembre que **los pasajeros venezolanos con pasaporte vencido no podrán ingresar a Venezuela.** 
 
-![Los cortes de luz en Quito para el martes 1 de octubre de 2024 son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/vela-2.jpg)
+Documento de Viaje
+------------------
 
-Los **cortes de luz** en **Quito** para este martes 1 de octubre de 2024 son los mismos que regirán durante toda esta semana, según la programación de la **Empresa Eléctrica**.
+Según el comunicado de la aerolínea, aquellos que no cuenten con pasaporte vigente d**eberán solicitar un “Documento de Viaje”** ante el Consulado o Embajada venezolana acreditada en el extranjero y registrarlo con la aerolínea al menos **72 horas antes del vuelo.**
 
-Los cortes de luz serán de hasta **tres franjas horarias** y **diez horas** en la sumatoria total por sector.
+Latam Colombia también aclaró que los pasajeros venezolanos con doble nacionalidad **deben presentar un pasaporte venezolano vigente para embarcar.**
 
-### Más noticias:
+Pasaporte venezolano vencido
+----------------------------
 
-* [El tránsito en Quito se complica por cortes de luz y obras](https://www.elcomercio.com/actualidad/quito/transito-en-quito-se-complica-por-cortes-de-luz-y-obras.html "El tránsito en Quito se complica por cortes de luz y obras")
-* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
+ En caso de tener su pasaporte venezolano vencido, no podrán abordar, aunque tengan un pasaporte de otra nacionalidad válido. Además, la aerolínea informó que **no se permitirá el embarque a quienes solo presenten la** cédula de identidad venezolana, aunque esté vigente.
 
-Los cortes de luz están sujeto a cambios, de acuerdo a la situación energética e hídrica del país.
+El café y sus secretos revelados junto a curiosidades sorprendentes 
+====================================================================
 
-El ministro de Energía, **Antonio Goncalves**, manifestó que el tiempo de los cortes se podrían reducir.
+El café, además de ser una de las bebidas más populares del mundo, está rodeado de mitos y realidades.
+------------------------------------------------------------------------------------------------------
 
-En la misma línea, La **Empresa Eléctrica Quito** señaló que los cambios dependen de la variabilidad o mejora en la oferta de generación.
+![El 1 de octubre se celebra el Día Internacional del Café para honrar su tradición y pasión. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cafe-curiosidades.jpg)
 
-Horarios y sectores de los cortes de luz en Quito para este martes 1 de octubre de 2024
----------------------------------------------------------------------------------------
-
-**Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epliclachima, Conocoto y Tumbaco** tendrán cortes de luz de 00:00 a 05:00 y de 12:00 a 17:00.
-
-De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00, no contarán con luz los sectores de: **La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero, El Obrajo (Machachi).**
-
-De 10:00 a 15:00 y de 20:00 a 00:00, los sectores que tendrán cortes de luz son: **Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao e Inga Bajo.**
-
-Doce sectores tendrán cortes de 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00. Estos son: **Olímpico, Barrio Nuevo, El Bosque.**
-
-Además, **San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomasqui, El Quinche y Eugenio Espejo.**
-
-De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00, los sectores que no tendrán luz son: **Luluncoto, Chilibulo, Escuela Sucre, San Roque.**
-
-Además, **Granda Centeno, Río Coca, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.**
-
-Aquí el detalle de las franjas horarias y cada sector:
-
-Deportivo Quito presume orgulloso de su hinchada
-================================================
-
-Deportivo Quito inició con buen pie su travesía por el Torneo de Ascenso a la Serie B.
---------------------------------------------------------------------------------------
-
-![Hinchas del Deportivo Quito durante el partido contra Santa Elena en el Torneo de Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T210818.322.jpg)
-
-Después de una tarde llena de júbilo y alegría, el **Deportivo Quito** celebró en sus redes sociales a su **hinchada**, una de las más fieles del Ecuador, que acudió en masa al estadio para alentar en su debut en el Torneo de Ascenso.
-
-Fue un día redondo para la ‘AKD’, que goleó 3-0 a Santa Elena en la ida de los 32 avos de final, jugando con el aliento de su gente, que llenó el complejo de Independiente del Valle para ver al equipo de sus amores en uno de los **tramos más importantes de la temporada.**
-
-### Más noticias:
-
-* [Deportivo Quito, en racha, visitará a Santa Elena en Samborondón](https://www.elcomercio.com/deportes/futbol/deportivo-quito-partido-santa-elenea-samborondon.html "Deportivo Quito, en racha, visitará a Santa Elena en Samborondón")
-* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
-* [Deportivo Quito debutará con casa llena en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-debutara-con-casa-llena-en-el-torneo-de-ascenso.html "Deportivo Quito debutará con casa llena en el Torneo de Ascenso")
-
-El primer post se realizó la noche del domingo 29 de septiembre, horas después de la goleada, que los pone con un pie y medio en la siguiente ronda. En esta publicación, destacaron su primer paso en busca de su objetivo.
-
-> Dimos un pasito 👣 juntos, pero falta un montón. Lo que sí es seguro, es que empezamos una semana 💙❤️ especial. [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) un sentimiento inexplicable. ¡Buenas noches, mis chullas! 💤 🤗 [pic.twitter.com/9INOucP5tE](https://t.co/9INOucP5tE)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840572203802214824?ref_src=twsrc%5Etfw)
-
-Deportivo Quito, un sentimiento inexplicable
---------------------------------------------
-
-La primera caricia para la hinchada llegó el lunes 30 de septiembre por la mañana. Las cuentas oficiales del **Deportivo Quito compartieron un video con los tres goles** que anotó el equipo para el disfrute de los hinchas que no pudieron asistir al estadio.
-
-> Buenas de Dios, hinchada 💙❤️  
-> ¿Nos tomamos un cafecito ☕️ viendo este poema? [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) fiesta 🥳 [pic.twitter.com/vvW5vTr0fQ](https://t.co/vvW5vTr0fQ)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840765064556462434?ref_src=twsrc%5Etfw)
-
-Pocas horas después, publicaron un emotivo video del debut en el Torneo de Ascenso, acompañado de una canción del club. Este contenido audiovisual **muestra a los hinchas en el estadio celebrando** y alentando al Deportivo Quito.
-
-> ¡Gracias! 🙏  
-> ¡Vamos por más! 💪  
-> Mejor dicho, mil millones de gracias 🙏  
-> 💙🎶 AKD, no puedo parar 🎶❤️ [pic.twitter.com/hE9AGRg0LM](https://t.co/hE9AGRg0LM)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840846876247277609?ref_src=twsrc%5Etfw)
-
-Finalmente, en la noche del lunes, se hizo un agradecimiento especial a la hinchada, que ha estado presente en las buenas y en las malas, acompañándolos y apoyándolos incondicionalmente.
-
-“¿Saben que son lo más importante para nosotros, no? Esto es para ustedes, la mejor hinchada del mundo”, menciona el post que contiene una galería de fotos de los hinchas durante el partido.
-
-> ¿Si saben que ustedes son lo más 🔝 importante para nosotros, no? 💙❤️ ¡Yaaaaaa, no se hagan!  
-> Esto es para ustedes, la mejor hinchada del mundo 🌎  
-> 💃🏻 🕺🏿 SIUUUUUUUUUUUUU…  
-> La alfombra roja 🔴 completa 👉 [https://t.co/BztWjXvjoE](https://t.co/BztWjXvjoE) [pic.twitter.com/qOAipXg000](https://t.co/qOAipXg000)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [October 1, 2024](https://twitter.com/SDQuito_Oficial/status/1840925696719196337?ref_src=twsrc%5Etfw)
-
-Partido de vuelta del Torneo de Ascenso
----------------------------------------
-
-**Deportivo Quito** se prepara para enfrentar a Santa Elena en el partido de vuelta, tras lograr una impresionante victoria de 3-0 en la ida.
-
-Este emocionante encuentro se llevará a cabo en **Samborondón**, provincia de Guayas, el domingo 6 de octubre de 2024.
-
-Desde la directiva del Deportivo Quito se ha confirmado que el cotejo se jugará en el **Estadio Samborondón Arena**, con horario aún por confirmar. Aunque se estima que podría comenzar a las 12:30.
-
-Estados Unidos enviará tropas y aviones adicionales a Medio Oriente
-===================================================================
-
-Los anuncios llegan tras los ataques terrestres confirmados de Israel a Hezbolá, en la frontera sur de Líbano.
---------------------------------------------------------------------------------------------------------------
-
-![Funcionarios de Seguridad de Estados Unidos afirman tener tropas listas ante cualquier eventualidad en Medio Oriente](https://www.elcomercio.com/wp-content/uploads/2024/09/tropas-estados-unidos.jpg)
-
-Estados Unidos confirmó que enviará **más tropas de soldados** a Medio Oriente, tras la escalada de violencia que se registra en el lugar.
-
-Autoridades de seguridad del país norteamericano aseguraron que “reforzarán su capacidad militar en la región en los **próximos días**“.
+El 1 de octubre se celebra el **Día Internacional del Café**, una efeméride que inició en 2015, según la página [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-internacional-del-cafe "https://www.diainternacionalde.com/ficha/dia-internacional-del-cafe"). 
 
 ### Más noticias
 
-* [Ejército de Israel comienza su incursión terrestre en el Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israel-libano-terrestre.html "Ejército de Israel comienza su incursión terrestre en el Líbano")
-* [Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut](https://www.elcomercio.com/actualidad/mundo/israel-promete-acelerar-ataques-contra-hizbula-vuelve-bombardear-beirut.html "Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut")
-* [Israel dice que la guerra entra en ‘una nueva fase’](https://www.elcomercio.com/actualidad/mundo/israel-dice-guerra-entra-nueva-fase.html "Israel dice que la guerra entra en ‘una nueva fase’")
+* [Celebra el Día del Café con tips para elegir uno de calidad](https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-cafe-variedad-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-cafe-variedad-efemeride.html")
+* [Lo que un neurólogo recomienda ponerle al café para cuidar el cerebro y la memoria](https://www.elcomercio.com/afull/lo-que-un-neurologo-recomienda-ponerle-al-cafe-para-cuidar-el-cerebro-y-la-memoria.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/lo-que-un-neurologo-recomienda-ponerle-al-cafe-para-cuidar-el-cerebro-y-la-memoria.html?source=Internal&ref=Single+Content+Link")
 
-En un comunicado, el secretario de Defensa, **Lloyd Austin**, aseguró este domingo 29 de septiembre que EE. UU. “tiene **tropas adicionales** listas para el despliegue en caso de contingencias”.
+Este día busca **honrar la tradición, el amor y la pasión que envuelven al café**. Se realizan diversas actividades para disfrutar de la **cultura cafetera** y fomentar la apreciación por esta popular bebida.  
 
-La portavoz del Pentágono, **Sabrina Singh**, también se refirió al aumento de soldados.
+Con motivo de esta fecha, **te compartimos datos interesantes y curiosidades** que probablemente no conocías sobre el café. 
 
-La funcionaria afirmó que se incluirán “**unos cuantos miles**” de tropas, así como “varios escuadrones de aviones de combate y de ataque” en la región.
+**Café: verdades, mitos y cifras de una bebida universal** 
+-----------------------------------------------------------
 
-Con este envío, las fuerzas adicionales de tropas llegarían a los **43 000 soldados**.
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAlZgmSN_ic/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de EL CEO (@elceo\_\_)](https://www.instagram.com/p/DAlZgmSN_ic/?utm_source=ig_embed&utm_campaign=loading)
 
-El anuncio de Singh se produjo este lunes 30 de septiembre, después de que se conociera que Israel ya había lanzado **incursiones** limitadas en la frontera sur con **Líbano**.
+**El café es una de las bebidas más consumidas en el mundo**. Según datos de El Ceo, más de **2 250 millones de tazas de café se beben diariamente**, lo que refleja su popularidad a nivel global.  
 
-Medidas de seguridad contra Irán
+Se estima que el **mercado del café** experimentará un crecimiento del 10,63% entre 2024 y 2029. Para ese año, se proyecta que el **volumen de mercado** alcanzará los 17 350 millones de dólares. 
+
+Sin embargo, **el café también está rodeado de mitos y malentendidos**. A continuación, desmentimos algunos de los más comunes: 
+
+1. **El café no es un grano**: Aunque se le llama “grano”, en realidad es la **semilla del fruto** de la planta del café. 
+
+2. **No afecta el crecimiento**: Beber café **no impide el crecimiento**, un mito ampliamente difundido pero sin respaldo científico. 
+
+3. **No es adictivo**: Aunque contiene cafeína, **no genera una adicción física** fuerte como otras sustancias. 
+
+4. **No siempre se debe tomar caliente**: El **café frío o “cold brew”** ha ganado popularidad, lo que ha demostrado que **no es necesario consumirlo caliente**. 
+
+5. **No debe tomarse sin azúcar**: Aunque muchos prefieren el **café sin azúcar**, esta no es una regla. **La forma en que se consume depende de los gustos personales**. 
+
+6. **No hay una única manera de prepararlo**: Desde **espresso hasta café de filtro**, las opciones son diversas. 
+
+7. **No solo se bebe por la mañana**: Aunque es habitual consumirlo en el desayuno, **el café es disfrutado a lo largo de todo el día** en diferentes partes del mundo. 
+
+**Los tres cafés más populares del mundo según Taste Atlas** 
+-------------------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAlZpPjIw_e/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de TasteAtlas (@tasteatlas)](https://www.instagram.com/p/DAlZpPjIw_e/?utm_source=ig_embed&utm_campaign=loading)
+
+**El café es una bebida universal**, pero los gustos varían en cada rincón del planeta. De acuerdo con la lista de **Taste Atlas**, el estilo de café más apreciado en el mundo es el **cappuccino italiano**. Esta bebida clásica, que **mezcla leche y café** en una perfecta combinación, se ha ganado el primer lugar gracias a su sabor equilibrado y suave. 
+
+En segundo lugar está el **freddo cappuccino griego**, una v**ersión refrescante del cappuccino que incluye hielo**. Este café, ideal para climas cálidos, **combina leche, café y hielo,** siendo una elección muy popular en Grecia y cada vez más en el resto del mundo. 
+
+La tercera posición la ocupa el **café helado vietnamita**, una bebida única que **mezcla café vietnamita con leche y hielo**. Este café destaca por su sabor fuerte y dulce, lo que lo convierte en un favorito en el sudeste asiático y más allá. 
+
+**¿Qué le hace el café a tu cuerpo?**  
+---------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAlM5AzoDmu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de BBC News Mundo (@bbcmundo)](https://www.instagram.com/p/DAlM5AzoDmu/?utm_source=ig_embed&utm_campaign=loading)
+
+El **consumo moderado de café** puede ser beneficioso para la salud. A decir de la **BBC**, la **cafeína se absorbe a través del intestino** y llega al torrente sanguíneo, pero sus efectos solo se sienten cuando alcanza el sistema nervioso. 
+
+La **cafeína** tiene una estructura química similar a la **adenosina**, una sustancia que produce nuestro cuerpo y que **genera relajación y somnolencia**. Al bloquearla, la cafeína **estimula la actividad cerebral**, lo que ayuda a mantenernos **alertas** y mejora la concentración. 
+
+Entre sus beneficios, la **cafeína** puede mejorar el **estado de ánimo**, inhibir la sensación de **fatiga** e incluso **aumentar el rendimiento físico**. Estos efectos pueden durar entre **15 minutos y 2 horas**, mientras que el cuerpo tarda entre **5 y 10 horas** en eliminar completamente la cafeína. 
+
+Sin embargo, es importante no exceder el límite de **cuatro o cinco tazas diarias**, ya que un consumo excesivo puede causar **insomnio** o **taquicardia**. Mantener el equilibrio es clave para disfrutar de los beneficios del café sin riesgos para la salud. 
+
+Un sistema de refrigeración que sustituye electricidad por gravedad
+===================================================================
+
+Una nueva tecnología de KAUST recolecta agua del aire sin electricidad, utilizando solo la gravedad y un recubrimiento especial.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El dispositivo de enfriamiento pasivo refleja la energía térmica hacia el cielo mientras recoge agua utilizando únicamente la gravedad y sin electricidad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo.jpg)
+
+Una nueva **tecnología** de **refrigeración** no necesita **electricidad**, ya que extrae agua del aire utilizando únicamente la **gravedad** y se basa en **materiales** baratos y fácilmente disponibles.
+
+Además de mantener frías las **células solares** y otras tecnologías de semiconductores, esta agua se puede reutilizar para riego, lavado, **refrigeración** de los edificios en los que se colocan las **células solares** y otras aplicaciones.
+
+### Más noticias:
+
+* [¿Qué es el ‘fridgescaping’, la nueva tendencia de decorar refrigeradores?](https://www.elcomercio.com/tendencias/salud/fridgescaping-refrigerador-decoracion-riesgos.html "¿Qué es el ‘fridgescaping’, la nueva tendencia de decorar refrigeradores? ")
+* [Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real](https://www.elcomercio.com/tecnologia/meta-inteligencia-artificial-instagram.html "Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real ")
+* [‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza](https://www.elcomercio.com/tendencias/cine/robot-salvaje-critica-cine-cartelera.html "‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza")
+
+Los **científicos** calculan que la **atmósfera** contiene seis veces más agua que toda el **agua dulce** de los ríos juntos. Esta agua se puede recoger mediante tecnologías de recogida de **agua atmosférica**.
+
+Aunque estas **tecnologías** funcionan razonablemente bien, en entornos áridos como el de Arabia Saudita requieren electricidad para recolectar cantidades prácticas de agua. Esta demanda corre el riesgo de disuadir la adopción de células solares en las regiones rurales, donde la infraestructura eléctrica es costosa.
+
+Innovadora técnica de recolección pasiva de agua mejora la eficiencia en condiciones naturales
+----------------------------------------------------------------------------------------------
+
+Una razón para la baja **eficiencia** es que el agua se adhiere a la superficie del dispositivo de recolección. El profesor de la Universidad Rey Abdallah de Ciencia y Tecnología (KAUST) Dan Daniel y el investigador postdoctoral Shakeel Ahmad, descubrieron que al agregar un **recubrimiento lubricante** que es una mezcla de un **polímero comercial** y aceite de silicona, podían recolectar más agua confiando solo en la gravedad.
+
+“Un desafío común en los **sistemas** de recolección de **agua atmosférica** es que las gotas de agua tienden a permanecer fijadas a la superficie \[del dispositivo\], lo que requiere una recolección activa de condensado. Nuestro **recubrimiento** eliminó efectivamente la fijación, lo que permitió una verdadera **recolección** pasiva de agua impulsada por agua”, dice Ahmad. “Dado que este sistema funciona completamente con **enfriamiento** **radiativo** pasivo, no consume **electricidad**“.
+
+La solución se basa en **tecnología** anterior fabricada por el profesor de KAUST Qiaoqiang, que describe como “arquitectura de doble cara vertical”. El **sistema** fue diseñado originalmente para reflejar el calor térmico hacia el cielo para mantener las **células solares** frías, pero no para capturar el **agua** producida.
+
+El nuevo **dispositivo** fue probado seis veces en el transcurso de un año en **condiciones naturales** en la ciudad de Thuwal, a unos 100 km al norte de Yeddah, y podría casi duplicar la tasa de **recolección** de **agua** en comparación con las **tecnologías** alternativas de recolección de **agua atmosférica**.
+
+El estudio se publicó en Advanced Materials.
+
+El Nacional vs. Barcelona Sporting Club cambia de horario, ¿qué pasó?
+=====================================================================
+
+El Nacional y Barcelona Sporting Club se enfrentarán en una nueva edición de uno de los partidos más importantes del país.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Hinchas de El Nacional en el Olímpico Atahualpa en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_bsc_1.jpg)
+
+El encuentro entre **El Nacional vs. Barcelona Sporting Club**, el más atractivo de la novena fecha de la segunda etapa de la Liga Pro, sufrió una nueva modificación en su horario.
+
+Este encuentro es clave para El Nacional y Barcelona SC, que están **plasmando un segundo semestre del año con resultados** que los tienen lejos de los puestos de vanguardia, para intentar acercarse a los líderes.
+
+### Más noticias:
+
+* [Liga de Quito atraviesa su peor momento del 2024](https://www.elcomercio.com/deportes/futbol/liga-de-quito-atraviesa-su-peor-momento-del-2024.html "Liga de Quito atraviesa su peor momento del 2024")
+* [Alex Arce igualó récord de goles y Paraguay lo convoca](https://www.elcomercio.com/deportes/futbol/alex-arce-seleccion-paraguay-liga.html "Alex Arce igualó récord de goles y Paraguay lo convoca")
+* [Liga de Quito lanza duras críticas por arbitraje en Liga Pro](https://www.elcomercio.com/deportes/liga-quito-criticas-arbitraje-isaac-alvarez-pablo-sanchez.html "Liga de Quito lanza duras críticas por arbitraje en Liga Pro")
+
+El Nacional llega en la **décima posición con 11 puntos y un gol diferencia negativo de -2**. Ganó tres partidos (Técnico Universitarios, El Nacional y Deportivo Cuenca), empató dos (Liga de Quito y Aucas), y perdió tres (Universidad Católica, Macará e Imbabura).
+
+Barcelona es séptimo con 13 puntos y un gol diferencia de cero. Ganó cuatro encuentros (**Imbabura, Independiente del Valle, Universidad Católica y Macará**), empató uno (Libertad) y perdió tres (Orense, Liga de Quito y Deportivo Cuenca).
+
+Tanto Marcelo Zuleta, entrenador de los rojos, y **Ariel Holan de los amarillos**, son fuertemente criticados por sus hinchas, que no están contentos por el accionar de sus equipos y con los resultados cosechados en lo que va de la segunda etapa de la Liga Pro.
+
+Ambos llegan con la obligación de ganar. Un resultado diferente los seguirá colocando en primera línea de los cuestionamientos, más aún cuando faltan tan solo siete fechas para terminar el calendario de 15 fechas.
+
+¿Por qué cambió el horario del partido?
+---------------------------------------
+
+El país se encuentra atravesando una serie de **coste de luz desde la segunda mitad de septiembre**, lo que obligó a cambiar los horarios nocturnos de la Liga Pro en más de una ocasión.
+
+La **primera modificación fue anunciada el domingo 22 de septiembre**. En el comunicado oficial colgado en las redes sociales, la Liga Pro detalló que los juegos no empezarán más allá de las 17:30 por los cortes de luz en el Ecuador, aspecto que fue comunicado a los clubes y que fue consensuado con la empresa dueña de los derechos de televisión.
+
+La programación nocturna de la **Liga Pro contemplaba que los viernes, sábado y lunes** el partido estelar de la parrilla arranque a las 19:00; mientras que los domingos se baja una hora y sea desde las 18:00.
+
+El miércoles 25 se volvieron a anunciar la **reprogramación de cuatro de los ocho partidos de la jornada ocho**, tres de los cuales se jugarán en Quito, ciudad que sufrió una ola de incendios forestales entre el martes y miércoles, que obligó a las autoridades a suspender la mayor parte de actividades cotidianas.
+
+Para la novena fecha, por la misma problemática de los cortes de luz, el encuentro entre **El Nacional y Barcelona Sporting Club**, programado para las 19:00, ahora será a las 16:00 en el estadio Olímpico Atahualpa.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_bsc_2-1024x683.jpg)
+
+Foto: API.
+
+Liga Pro – fecha 9
+------------------
+
+### Viernes 4/10
+
+19:00 Libertad vs. Cumbayá
+
+### Sábado 5/10
+
+11:00 Mushuc Runa vs. Independiente del Valle
+
+13:30 Deportivo Cuenca vs. Técnico Universitario
+
+16:00 El Nacional vs. Barcelona SC
+
+### Domingo 6/10
+
+12:00 Universidad Católica vs. Imbabura
+
+14:30 Liga de Quito vs. Orense
+
+17:00 Emelec vs. Aucas
+
+### Lunes 7/10
+
+15:30 Macará vs. Delfín
+
+No te pierdas – El Confesionario
 --------------------------------
-
-El Secretario hizo alusión especial a las **medidas de seguridad** que tomará el país si las “amenazas a los intereses de Estados Unidos por parte de Irán continúan”.
-
-Austin dijo que se reforzará la capacidad de defensa aérea en Oriente Medio para evitar que el conflicto siga creciendo.
-
-“EE. UU. está determinado a evitar que Irán, sus socios y representantes respaldados por Irán se aprovechen de la situación o **amplíen el conflicto**”, señaló.
-
-Austin destacó que si Irán o sus aliados “usan este momento para atacar al personal o los **intereses estadounidenses** en la región, EE. UU. tomará toda medida necesaria para defender” a su pueblo.
-
-Pese a la tensión en su postura, el Pentágono sostiene que Austin y los líderes de la agencia siguen centrados en “la desescalada a través de la disuasión y la diplomacia”, así como en “la protección de los ciudadanos y fuerzas estadounidenses” y la “defensa de Israel”.
-
-Ataques dejan más de un millón de muertos
------------------------------------------
-
-El comunicado del funcionario tuvo lugar tras el bombardeo masivo en **Beirut** que hizo el Ejército de Israel contra miembros del grupo político Hizbulá, el viernes 27 de septiembre.
-
-En el ataque fue asesinado el máximo líder del movimiento miliciano, **Hasán Nasrala**, y el comandante del frente sur, Ali Karaki.
-
-En las últimas dos semanas, Israel ha lanzado una serie de ataques sin precedentes contra los principales bastiones de Hizbulá que dejan más de un **millón de muertos** y un número similar de desplazados del Líbano. **_Con información de EFE_**.
