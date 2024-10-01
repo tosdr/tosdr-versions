@@ -116,8 +116,7 @@ Schedule certain appointments online. [Get started](https://www.vmfh.org/conten
     ------------
     
     * [Locations and directions](https://www.vmfh.org/content/vmfhorg/en/find-a-location)
-    * [COVID-19 information](https://www.vmfh.org/content/vmfhorg/en/covid-19-information)
-    * [Hospital visitor restrictions](https://www.vmfh.org/content/vmfhorg/en/covid-19-information/visitor-restrictions)
+    * [Respiratory illness season resources](https://www.vmfh.org/content/vmfhorg/en/our-services/flu-resource-center)
     * [Wellness resource](https://www.vmfh.org/content/vmfhorg/en/our-services/wellness-resources)
     * [Our foundations](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
     
