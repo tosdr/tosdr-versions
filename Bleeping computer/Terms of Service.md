@@ -36,6 +36,9 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
+    * [![Try 20+ Adobe Creative Cloud apps for 3 months for $75](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Try 20+ Adobe Creative Cloud apps for 3 months for $75](https://www.bleepingcomputer.com/offer/deals/try-20-plus-adobe-creative-cloud-apps-for-3-months-for-75/)
     * [![The Playstation Network is down in a global outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
@@ -45,9 +48,6 @@
     * [![Microsoft overhauls security for publishing Edge extensions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft overhauls security for publishing Edge extensions](https://www.bleepingcomputer.com/news/microsoft/microsoft-overhauls-security-for-publishing-edge-extensions/)
-    * [![Microsoft Defender adds detection of unsecure Wi-Fi networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft Defender adds detection of unsecure Wi-Fi networks](https://www.bleepingcomputer.com/news/security/microsoft-defender-now-automatically-detects-unsecure-wi-fi-networks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
