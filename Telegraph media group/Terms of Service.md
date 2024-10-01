@@ -244,7 +244,7 @@ We may change these Terms from time to time. Please check these Terms regularly 
 
 **3\. About us and our business**
 
-The Site is operated by or on behalf of (i) Telegraph Media Group Holdings Limited (company registration number 14551860) for the period to 31 December 2023, and (ii) Telegraph Media Group Holdings Limited (company registration number 14551860) for the period from 31 December 2023, ("TMG", "we" or "our"). You can contact us by telephone on the Telegraph General Switchboard at +44 20 7931 2000.
+The Site is operated by or on behalf of Telegraph Media Group Holdings Limited (company registration number 14551860) ("TMG", "we" or "our").  You can contact us by telephone on the Telegraph General Switchboard at +44 (0) 207 391 2000.
 
 **4\. Subscription and Registration**
 
@@ -286,11 +286,13 @@ At any time without notice and in our absolute discretion, we may permanently or
 
 To the fullest extent permitted by law, in both cases none of TMG, its directors, employees or other representatives have any liability to you whatsoever for any loss or damage arising from such removal or editing or any restriction or hindrance to your use of the Site, email services or password.
 
+This Site was operated by or on behalf of Telegraph Media Group Limited (company registration number 00451593) prior to 29th September 2024.
+
 **US Terms and Conditions**
 
 **U.S. TERMS OF USE**
 
-Effective Date: February 13, 2024.
+Effective Date: 29 September 2024.
 
 **Introduction**
 
@@ -551,7 +553,7 @@ It is your responsibility to review the posted Terms and any applicable Addition
 
 **G. Investigations; Cooperation with Law Enforcement; Termination; Survival.** As permitted by applicable law, Telegraph reserves the right, without limitation, to: (i) investigate any suspected breaches of its Service security or its information technology or other systems or networks, (ii) investigate any suspected breaches of these Terms and any applicable Additional Terms, (iii) use any information obtained by Telegraph in accordance with its [**U.S. Privacy Policy**](https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/) in connection with reviewing law enforcement databases or complying with applicable laws and use and/or disclose any information obtained by Telegraph to comply with law enforcement requests or legal requirements in accordance our [**U.S. Privacy Policy**](https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/), (iv) involve and cooperate with law enforcement authorities in investigating any of the foregoing matters, (v) prosecute violators of these Terms and any applicable Additional Terms, and (vi) discontinue the Service, in whole or in part, or, suspend or terminate your access to it, in whole or in part, including any user accounts or registrations, at any time, without notice, for any reason and without any obligation to you or any third-party.   Any suspension or termination will not affect your obligations to Telegraph under these Terms or any applicable Additional Terms.  Upon suspension or termination of your access to the Service, or upon notice from Telegraph, all rights granted to you under these Terms or any applicable Additional Terms will cease immediately, and you agree that you will immediately discontinue use of the Service.  The provisions of these Terms and any applicable Additional Terms, which by their nature should survive your suspension or termination will survive, including the rights and licenses you grant to **Telegraph** in these Terms, as well as the indemnities, releases, disclaimers, and limitations on liability and the provisions regarding jurisdiction, choice of law, no class action, and mandatory arbitration.
 
-**H. Assignment.**  Telegraph may assign its rights and obligations under these Terms and any applicable Additional Terms, in whole or in part, to any party at any time without any notice.  These Terms and any applicable Additional Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of an officer of Telegraph. 
+**H. Assignment.**  Telegraph may assign its rights and obligations under these Terms and any applicable Additional Terms, in whole or in part, to any party at any time without any notice.  These Terms and any applicable Additional Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of an officer of Telegraph. Prior to 29 September 2024, the Services governed by these Terms were provided by or on behalf of Telegraph Media Group Limited (company registration number 00451593).
 
 **I. Complete Agreement; No Waiver.**  These Terms, and any applicable Additional Terms, reflect our complete agreement regarding the Service and supersede any prior agreements, representations, warranties, assurances or discussion related to the Service. Except as expressly set forth in these Terms or any applicable Additional Terms, (i) no failure or delay by you or Telegraph in exercising any of rights, powers, or remedies under will operate as a waiver of that or any other right, power, or remedy, and (ii) no waiver or modification of any term of these Terms or any applicable Additional Terms will be effective unless in writing and signed by the party against whom the waiver or modification is sought to be enforced.
 
@@ -567,7 +569,7 @@ It is your responsibility to review the posted Terms and any applicable Addition
 
 California residents should visit our [**Privacy Policy**](https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/) to learn more about their California privacy rights. 
 
-_©_ _February 14, 2024.  Telegraph Media Group Holdings Limited.  All Rights Reserved._
+_© 29 September 2024.  Telegraph Media Group Holdings Limited.  All rights reserved._
 
 Advertisement
 
