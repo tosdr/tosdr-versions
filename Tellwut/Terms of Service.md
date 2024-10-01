@@ -359,7 +359,7 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 
 * Surveys: **90,792**
 
-* Voters: **2,877,431**
+* Voters: **2,877,920**
 
 * Light / Dark / Auto
 
