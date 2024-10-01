@@ -124,7 +124,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -366,7 +366,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
+© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -616,7 +616,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -858,7 +858,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
+© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -866,7 +866,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -1108,7 +1108,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
+© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -1116,7 +1116,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -1594,4 +1594,4 @@ Due to the nature of our environment where documentation is built as necessary, 
 
 [Previous](https://docs.readthedocs.io/en/stable/unofficial-projects.html "Unofficial and unmaintained projects policy") [Next](https://docs.readthedocs.io/en/stable/legal/security-policy.html "Security policy")
 
-© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
+© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
