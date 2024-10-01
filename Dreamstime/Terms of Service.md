@@ -656,5 +656,3 @@ Language English
 Copyright © 2000-2024 Dreamstime. All rights reserved.
 
 ![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008246980/?value=0&guid=ON&script=0)
-
-![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008246980/?value=0&guid=ON&script=0)
