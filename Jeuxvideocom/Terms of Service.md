@@ -343,6 +343,6 @@ TÉLÉCHARGEZ L’APP
 
 INFORMATIONS GÉNÉRALES
 
-Contact L'équipe Informations légales C.G.U. C.G.V. Modération Politique de confidentialité Cookies Préférences cookies Newsletter RSS Jobs
+Contact L'équipe Informations légales C.G.U. C.G.V. Modération Politique de confidentialité Cookies Gérer Utiq Préférences cookies Newsletter RSS Jobs
 
  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Copyright © 1997-2024 Webedia. Tous droits réservés.
