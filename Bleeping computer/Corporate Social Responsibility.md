@@ -36,18 +36,18 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
-    * [![Man charged for selling forged license keys for network switches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hacker charged for breaching 5 companies for insider trading](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Man charged for selling forged license keys for network switches](https://www.bleepingcomputer.com/news/legal/man-charged-for-selling-forged-license-keys-for-network-switches/)
-    * [![Verizon outage: iPhones, Android devices stuck in SOS mode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hacker charged for breaching 5 companies for insider trading](https://www.bleepingcomputer.com/news/security/hacker-charged-for-breaching-5-companies-for-insider-trading/)
+    * [![Microsoft overhauls security for publishing Edge extensions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
-    * [![Media giant AFP hit by cyberattack impacting news delivery services](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft overhauls security for publishing Edge extensions](https://www.bleepingcomputer.com/news/microsoft/microsoft-overhauls-security-for-publishing-edge-extensions/)
+    * [![Microsoft Defender adds detection of unsecure Wi-Fi networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Media giant AFP hit by cyberattack impacting news delivery services](https://www.bleepingcomputer.com/news/security/media-giant-afp-hit-by-cyberattack-impacting-news-delivery-services/)
-    * [![Windows 11 KB5043145 update causes reboot loops, blue screens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft Defender adds detection of unsecure Wi-Fi networks](https://www.bleepingcomputer.com/news/security/microsoft-defender-now-automatically-detects-unsecure-wi-fi-networks/)
+    * [![JPCERT shares Windows Event Log tips to detect ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
+        JPCERT shares Windows Event Log tips to detect ransomware attacks](https://www.bleepingcomputer.com/news/security/jpcert-shares-windows-event-log-tips-to-detect-ransomware-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
