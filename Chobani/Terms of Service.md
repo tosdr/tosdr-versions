@@ -107,7 +107,7 @@ By checking the box, you agree that you are at least 18 years of age.placeholder
 
 [Foodservice](https://www.chobani.com/chobani-foodservice)
 
-[Careers](https://careers.chobani.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_dept=&optionsFacetsDD_customfield2=Chobani&category=null)
+[Careers](https://careers.chobani.com/)
 
 [Alumni](https://www.chobani.com/alumni)
 
@@ -167,7 +167,7 @@ By checking the box, you agree that you are at least 18 years of age.placeholder
 
 [Foodservice](https://www.chobani.com/chobani-foodservice)
 
-[Careers](https://careers.chobani.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_dept=&optionsFacetsDD_customfield2=Chobani&category=null)
+[Careers](https://careers.chobani.com/)
 
 [Alumni](https://www.chobani.com/alumni)
 
@@ -183,7 +183,7 @@ Choose region
 
 [Foodservice](https://www.chobani.com/chobani-foodservice)
 
-[Careers](https://careers.chobani.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_dept=&optionsFacetsDD_customfield2=Chobani&category=null)
+[Careers](https://careers.chobani.com/)
 
 [Alumni](https://www.chobani.com/alumni)
 
