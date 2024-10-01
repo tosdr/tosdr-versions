@@ -28,20 +28,16 @@ Update
 
 Check out
 
-3 FOR 2 on all supplements. Invest in your long-term performance. Auto-applied at checkout.
-
           
 
   Search 
 
-* [3 FOR 2
-    -------](https://puresportcbd.com/en-us/collections/3-for-2)
 * SUPPLEMENTS
     
     
     -------------
     
-    [3 FOR 2](https://puresportcbd.com/en-us/collections/3-for-2) [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
+    [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles) [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
     
 * APPAREL
     
@@ -55,9 +51,9 @@ Check out
     
     --------------
     
-    [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
+    [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support) [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes)
     
-* Community
+* COMMUNITY
     
     
     -----------
