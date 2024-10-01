@@ -215,8 +215,6 @@ Download
 
 [Windows](https://webcatalog.io/en/desktop/windows/)
 
-[Linux](https://webcatalog.io/en/desktop/linux/)
-
 Support
 
 [Help](https://webcatalog.io/en/help/)
