@@ -153,7 +153,7 @@ Ringaggia gli utenti mobile](https://www.neodatagroup.com/canali/mobile)[![Blend
 
 Personalizza i tuoi annunci](https://www.neodatagroup.com/canali/ads)[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6481aa0ece30ba841d43affb_assemble-tv.svg)
 
-#### Adressable TV
+#### Addressable TV
 
 Personalizzazione anche in TV!](https://www.neodatagroup.com/canali/adressable-tv)
 
@@ -378,7 +378,7 @@ Crea una strategia omnichannel e raggiungi gli utenti, conosciuti o meno.](https
 
 #### Ads](https://www.neodatagroup.com/canali/ads)[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6481aa0ece30ba841d43affb_assemble-tv.svg)
 
-#### Adressable TV](https://www.neodatagroup.com/canali/adressable-tv)
+#### Addressable TV](https://www.neodatagroup.com/canali/adressable-tv)
 
 ### Ambiti d'uso
 
