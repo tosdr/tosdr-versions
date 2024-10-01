@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Shoot the Roach](https://www.myabandonware.com/game/shoot-the-roach-s3v)
+* [Tonka Firefighter](https://www.myabandonware.com/game/tonka-firefighter-s3u)
 * [Aliens, Inc: Attack on Earth](https://www.myabandonware.com/game/aliens-inc-attack-on-earth-s3s)
 * [The King of Fighters XI](https://www.myabandonware.com/game/the-king-of-fighters-xi-sm3)
 * [The King of Fighters: Neowave](https://www.myabandonware.com/game/the-king-of-fighters-neowave-sm2)
-* [The King of Fighters 2002: Unlimited Match](https://www.myabandonware.com/game/the-king-of-fighters-2002-unlimited-match-sm1)
-* [The Grid](https://www.myabandonware.com/game/the-grid-sm0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
