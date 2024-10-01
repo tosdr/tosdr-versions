@@ -385,7 +385,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-$50 off select Spirit® Gas Grills. Offer valid 8/15/24 - 9/30/24. Restrictions apply. [Shop Now](https://www.weber.com/US/en/gas/spirit/ "Shop Now")
+Free Shipping on Orders $99+. [Learn More.](https://www.weber.com/US/en/shippingandreturns.html)
 
 Shopping Cart
 -------------
