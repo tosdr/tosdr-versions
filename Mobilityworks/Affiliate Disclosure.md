@@ -190,6 +190,12 @@ Ok Deny View preferences Save preferences [View preferences](#)
 
 Manage consent
 
+[![Winter is Coming be prepared with the Toyota Sienna Hybrid AWD Traction, Safety and Control and Fuel Efficiency](https://www.mobilityworks.com/wp-content/uploads/Winter-is-Coming_2.99-APR-1200-X-1200.jpg "Winter is Coming_2.99% APR-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
+
+[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
+
+X
+
 Disclosures
 
 **Prices**  
@@ -276,12 +282,6 @@ Disclosures
 
 **Upgrade Your Ride Trade-In Event**  
 (45) To qualify for the bonus the wheelchair accessible vehicle must be appraised for a value of $10,000 or more. Use the $2,000 accessible trade-in bonus on the purchase of any wheelchair accessible vehicle (including pre-owned and promotionally priced) as dealer savings or receive a check from MobilityWorks for the agreed upon price for your wheelchair accessible vehicle plus bonus following an appraisal. Prior trade-in excluded. Bonus must be redeemed by October 31, 2024. Cannot be combined with any other offers. Final appraisal must take place at a MobilityWorks location.
-
-X
-
-[![Upgrade Your Ride BA-1200 X 1200](https://www.mobilityworks.com/wp-content/uploads/Upgrade-Your-Ride-BA-1200-X-1200.jpg "Upgrade Your Ride BA-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
-
-[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
 
 X
 
