@@ -92,18 +92,12 @@ General
 * [Related changes](https://meta.miraheze.org/wiki/Special:RecentChangesLinked/Privacy_Policy "Recent changes in pages linked from this page [k]")
 * [Special pages](https://meta.miraheze.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](https://meta.miraheze.org/wiki/Privacy_Policy?oldid=374226 "Permanent link to this revision of this page")
+* [Permanent link](https://meta.miraheze.org/wiki/Privacy_Policy?oldid=431984 "Permanent link to this revision of this page")
 * [Page information](https://meta.miraheze.org/wiki/Privacy_Policy?action=info "More information about this page")
-* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Privacy_Policy&id=374226&wpFormIdentifier=titleform "Information on how to cite this page")
+* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Privacy_Policy&id=431984&wpFormIdentifier=titleform "Information on how to cite this page")
 * [Get shortened URL](https://meta.miraheze.org/wiki/Special:UrlShortener?url=https%3A%2F%2Fmeta.miraheze.org%2Fwiki%2FPrivacy_Policy)
 
 From Miraheze Meta, Miraheze's central coordination wiki
-
-|     |     |
-| --- | --- |
-| ![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gnome-task-due.svg) | **This page documents an [official policy of the WikiTide Foundation](https://meta.miraheze.org/wiki/Special:MyLanguage/Foundation_policies "Special:MyLanguage/Foundation policies")** and can only be modified by the Board of Directors. In the event of any differences in meaning between the original English version and a translation, **the original English version takes precedence.** |
-
-  
 
 Other languages:
 
@@ -115,7 +109,7 @@ Other languages:
 * [Tiếng Việt](https://meta.miraheze.org/wiki/Privacy_Policy/vi "Quy định về quyền riêng tư (2% translated)")
 * [Türkçe](https://meta.miraheze.org/wiki/Privacy_Policy/tr "Gizlilik Politikası (2% translated)")
 * [dansk](https://meta.miraheze.org/wiki/Privacy_Policy/da "Privatlivspolitik (2% translated)")
-* [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (22% translated)")
+* [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (8% translated)")
 * [français](https://meta.miraheze.org/wiki/Privacy_Policy/fr "Politique de confidentialité (2% translated)")
 * [galego](https://meta.miraheze.org/wiki/Privacy_Policy/gl "Política de Privacidade (2% translated)")
 * [italiano](https://meta.miraheze.org/wiki/Privacy_Policy/it "Informativa sulla privacy (2% translated)")
@@ -125,20 +119,30 @@ Other languages:
 * [Ελληνικά](https://meta.miraheze.org/wiki/Privacy_Policy/el "Πολιτική Απορρήτου (2% translated)")
 * [русский](https://meta.miraheze.org/wiki/Privacy_Policy/ru "Политика конфиденциальности (2% translated)")
 * [العربية](https://meta.miraheze.org/wiki/Privacy_Policy/ar "سياسة الخصوصية (2% translated)")
-* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (96% translated)")
+* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (55% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Privacy_Policy/bn "গোপনীয়তার নীতি (2% translated)")
-* [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "#REDIRECT [[Translations:Privacy Policy/Page display title/zh-hans]] (48% translated)")
-* [中文（中国大陆）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-cn "隐私政策 (4% translated)")
-* [中文（简体）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hans "隐私政策 (20% translated)")
-* [中文（繁體）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hant "隱私權政策 (20% translated)")
-* [中文（臺灣）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-tw "#REDIRECT [[Translations:Privacy Policy/Page display title/zh-hant]] (4% translated)")
-* [日本語](https://meta.miraheze.org/wiki/Privacy_Policy/ja "プライバシー・ポリシー (14% translated)")
+* [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "#REDIRECT [[Translations:Privacy Policy/Page display title/zh-hans]] (26% translated)")
+* [中文（中国大陆）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-cn "隐私政策 (3% translated)")
+* [中文（简体）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hans "隐私政策 (9% translated)")
+* [中文（繁體）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hant "隱私權政策 (8% translated)")
+* [中文（臺灣）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-tw "#REDIRECT [[Translations:Privacy Policy/Page display title/zh-hant]] (3% translated)")
+* [日本語](https://meta.miraheze.org/wiki/Privacy_Policy/ja "プライバシー・ポリシー (3% translated)")
 * [한국어](https://meta.miraheze.org/wiki/Privacy_Policy/ko "개인정보 보호정책 (2% translated)")
+
+|     |     |
+| --- | --- |
+| ![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gnome-task-due.svg) | **This page documents an [official policy of the WikiTide Foundation](https://meta.miraheze.org/wiki/Special:MyLanguage/Foundation_policies "Special:MyLanguage/Foundation policies")** and can only be modified by the Board of Directors. In the event of any differences in meaning between the original English version and a translation, **the original English version takes precedence.** |
+
+  
 
 [Shortcut](https://meta.miraheze.org/wiki/Meta:Shortcuts "Meta:Shortcuts"):  
 PP
 
-**Miraheze values your privacy. Maintaining your privacy is our priority.** This Privacy Policy covers types of information collected and recorded by Miraheze through Miraheze.org and through any other services offered by the WikiTide Foundation ("Services"), the handling of that information, as well as rights and recourse for platform users regarding this data. By using the Services, you agree and consent to this Privacy Policy.
+**Miraheze values your privacy. Maintaining your privacy is our priority.**
+
+This Privacy Policy covers types of information collected and recorded by Miraheze through Miraheze.org and through any other services offered by the WikiTide Foundation ("Services"), the handling of that information, as well as rights and recourse for platform users regarding this data.
+
+By using the Services, you agree and consent to this Privacy Policy.
 
 If you have any questions regarding our privacy practices or would like to exercise your privacy rights, please email ts![@](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)wikitide.org.
 
@@ -258,9 +262,11 @@ You can browse previous version of privacy policy in the following links.
 * [Privacy Policy (2018-06-04 ~ 2019-12-30)](https://meta.miraheze.org/wiki/Special:PermanentLink/49571 "Special:PermanentLink/49571")
 * [Privacy Policy (2016-12-10 ~ 2018-05-25)](https://meta.miraheze.org/wiki/Special:PermanentLink/40609 "Special:PermanentLink/40609")
 
+  
+
 ![](https://login.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=374226](https://meta.miraheze.org/wiki/Privacy_Policy?oldid=374226)"
+Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=431984](https://meta.miraheze.org/wiki/Privacy_Policy?oldid=431984)"
 
 [Category](https://meta.miraheze.org/wiki/Special:Categories "Special:Categories"):
 
@@ -270,7 +276,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
 
-* This page was last edited 11:13, 1 March 2024 by Miraheze Meta user [1108-Kiju](https://meta.miraheze.org/wiki/User:1108-Kiju "User:1108-Kiju").
+* This page was last edited 17:12, 1 October 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
 * [Privacy policy](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy)
