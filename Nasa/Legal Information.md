@@ -263,25 +263,25 @@ article 5 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Highlights
 
-[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
+
+2 min read
+
+### Risk of radiation-induced cancers
+
+article 2 hours ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![Aurora](https://www.nasa.gov/wp-content/uploads/2023/06/aurora1.png?w=1024)
+
+1 min read
+
+### Space Radiation Risks
+
+article 2 hours ago](https://www.nasa.gov/space-radiation-risks/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Sept. 27, 2024
 
-article 21 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
-
-4 min read
-
-### NASA Astronaut Nick Hague Boosts Human Health Research in Space
-
-article 3 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
-
-1 min read
-
-### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
-
-article 5 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
@@ -313,7 +313,7 @@ article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 3 min read
 
@@ -351,25 +351,25 @@ article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Highlights
 
-[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+[![](https://www.nasa.gov/wp-content/uploads/2024/09/iss070e117532.jpg?w=1024)
+
+6 min read
+
+### NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
+
+article 3 hours ago](https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 47 mins ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
+article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
 
 2 min read
 
 ### Eclipsing Binary Patrol
 
-article 19 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Sept. 27, 2024
-
-article 21 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)
+article 23 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 21 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/statio
 
 ### Girls in STEM Inspired to Fly High at NASA Kennedy
 
-article 7 days ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
 
 7 min read
 
