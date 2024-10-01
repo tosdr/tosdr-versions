@@ -45,13 +45,7 @@
     * [Technical Papers](https://www.icr.org/articles/search/?f_typeID=12)
         * [Past Articles](https://www.icr.org/articles/search/?f_typeID=12)
         * [Latest Articles](https://www.icr.org/articles/type/12/)
-    * [Books](http://store.icr.org/New-Resources/products/17/)
-        * [Online Study Bible](https://www.icr.org/defenders_chapters)
-        * [The Book of Beginnings](http://store.icr.org/dr-henry-morris-iii-the-book-of-beginnings.html)
-        * [Guide to Series](http://store.icr.org/books/guide-to-series/)
-        * [Creation Basics & Beyond](http://store.icr.org/creation-basics-beyond.html)
-        * [Dinosaurs and the Bible](http://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-        * [More Books...](http://store.icr.org/books/)
+    * [Catalog](https://www.icr.org/article/icr-2024-resource-catalog/)
     * [Subscriptions](https://www.icr.org/subscriptions)
     * [Submissions](https://www.icr.org/submissions)
 * [Media](https://www.icr.org/video)
@@ -79,6 +73,7 @@
     * [Planned Giving](https://icrgiving.org/)
     * [Public Financial Disclosures](http://www.icr.org/publicdisclosures/)
 * [Store](http://store.icr.org/)
+    * [Catalog](https://www.icr.org/article/icr-2024-resource-catalog/)
 
 Ethical Use Policy
 ==================
