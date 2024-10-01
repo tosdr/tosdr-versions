@@ -83,7 +83,7 @@ Menu
         * [Thanksgiving Dessert Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/desserts)
         * [Turkey Recipes](https://www.bettycrocker.com/recipes/main-ingredient/turkey-recipes)
         * [Thanksgiving Side Dish Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/sides)
-        * [Thanksgiving Appetizer Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/thanksgiving-appetizers)
+        * [Appetizers](https://www.bettycrocker.com/recipes/courses/appetizer-recipes)
         * [Thanksgiving Pie Recipes](https://www.bettycrocker.com/recipes/dishes/pie-and-tart-recipes/thanksgiving)
     * Ovens Off
         * [Grilling Recipes](https://www.bettycrocker.com/recipes/preparation/grill-recipes)
