@@ -206,50 +206,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=181992116)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=196643075)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=160216642)  
-Cpower Projects t/a Pro Pure Water
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=85167113)  
+Peter Salvage Pty Ltd
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=60403185)  
-Cape Adventure Zone
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=147372103)  
+Hydroworld T/A Milliqua
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=49098682)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=198615024)  
+#DiGi3 Marketing & Design
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=184904464)  
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=114496202)  
 Secunda Signs T/A Local Print and Signs
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=183149683)  
-Vplay Grafix
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=32616087)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=107115200)  
-ARCHITEK PTY LTD
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=53150179)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=131462760)  
-Durbanville Classifieds (Pty) Ltd
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=78346811)  
+SLOANE STAR MEAT MARKET
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=50926982)  
-Oak Tree Immigration
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=38603898)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=20094593)  
-Cooper Logistics (Pty) Ltd
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=139752072)  
+Enhle Oarabile Kea
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=171237110)  
-KTEN PARTS
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=66289852)  
+Imhoff Equestrian Centre
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=209754056)  
-NIMAWELL
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=114082093)  
+AFS Electrical
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=194413881)  
-TIGERDSL
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=129141486)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=126429631)  
-CLEVER STUDENTS
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=193923519)  
+OXYAIDER (PTY) LTD
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=51517443)  
-webb it services
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=4a992cafac24076e7402cbc684309dfe085cd965c7354830bf5e5a65745997ed&c=75754715)  
+SA Security Brokerz (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
