@@ -28,6 +28,8 @@ Update
 
 Check out
 
+[Rated average 4.9 stars (5775 reviews)](https://puresportcbd.com/en-us/pages/reviews)
+
           
 
   Search 
