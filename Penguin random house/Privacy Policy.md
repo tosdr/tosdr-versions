@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
-
-* * *
-
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
     New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * * *
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    New Stories to Listen to
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+
+* * *
+
+* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
+    
+    A Guide to Truman Capote Books
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
