@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
+
+### [Lower Decks Interview: Lieutenant Zenno, USS Khitomer](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
+
+docaharford October 1, 2024
+
+We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” harkening back to the Star
+
+[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-christopher-caldwell-uss-astraeus-pilots-sextant-helm/)
 
 ### [Award Winner – Christopher Caldwell, USS Astraeus (Pilot’s Sextant-Helm)](https://www.starbase118.net/2024/award-winner-christopher-caldwell-uss-astraeus-pilots-sextant-helm/)
@@ -377,18 +389,6 @@ Federation News Service September 29, 2024
 SOL SECTOR — The USS Kitty Hawk narrowly avoided destruction during the Borg assault on Frontier Day as its saucer section crash landed on Earth’s
 
 [Read More »](https://www.starbase118.net/2024/uss-kitty-hawk-saucer-section-crashes-on-luna-during-frontier-day/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
-
-### [It’s time to chat! Join us today for our Annual Trivia Challenge!](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
-
-Serala September 29, 2024
-
-Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
-
-[Read More »](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
 
 Ready to get started?
 ---------------------
