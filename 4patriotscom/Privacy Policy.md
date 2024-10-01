@@ -107,7 +107,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 4-Week Emergency Survival Food Kit
         
-        1031 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1026 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -167,7 +167,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        56 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        55 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
