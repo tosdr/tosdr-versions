@@ -132,7 +132,7 @@
     * [Affiliates![Affiliates](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Affiliates](https://www.knack.com/wp-content/uploads/2023/08/affilates-icon-purple.png)](https://www.knack.com/affiliates/)
-* [Pricing](https://www.knack.com/pricing/)
+* [Pricing](https://www.knack.com/pricing-old/)
 
 [![Close Icons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Close Icons")
 
@@ -270,7 +270,7 @@
     * [Affiliates![Affiliates](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Affiliates](https://www.knack.com/wp-content/uploads/2023/08/affilates-icon-purple.png)](https://www.knack.com/affiliates/)
-* [Pricing](https://www.knack.com/pricing/)
+* [Pricing](https://www.knack.com/pricing-old/)
 
 [![User](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -526,7 +526,7 @@ In today’s fast-paced digital landscape, businesses are constantly seeking inn
         
     * [Agency Program![Agency Program](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![Agency Program](https://www.knack.com/wp-content/uploads/2024/07/Untitled-design-19.svg)](https://www.knack.com/pricing/agency-program/)
+        ![Agency Program](https://www.knack.com/wp-content/uploads/2024/07/Untitled-design-19.svg)](https://www.knack.com/pricing-old/agency-program/)
         
         Resell Knack apps to clients.
         
@@ -737,7 +737,7 @@ SUPPORT
 * [Contact](https://www.knack.com/contact/)
 * [Community Forum](https://forums.knack.com/)
 * [Developer Docs](https://docs.knack.com/)
-* [Pricing](https://www.knack.com/pricing/)
+* [Pricing](https://www.knack.com/pricing-old/)
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Knack: No-Code Application Development Platform")
 
