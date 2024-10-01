@@ -103,11 +103,11 @@ FR
         
         [Lenovo Canada
         
-        10% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
+        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
-        8% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
@@ -135,7 +135,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/ebay-canada)[Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
+        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
         
         $7.50 Cash Back](https://www.rakuten.ca/chefsplate)[HelloFresh
         
@@ -215,7 +215,7 @@ FR
         
         [Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
+        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
         Coupons Only](https://www.rakuten.ca/rona)[Worx
         
@@ -353,7 +353,7 @@ FR
         
         Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
+        1% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
     * [Pets](https://www.rakuten.ca/stores/pets "Pets Promo Codes and Coupons")
         
@@ -395,7 +395,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/sport-chek-canada)[MEC
         
-        4% Cash Back](https://www.rakuten.ca/mec)[Lululemon
+        2% Cash Back](https://www.rakuten.ca/mec)[Lululemon
         
         4% Cash Back](https://www.rakuten.ca/lululemon)[Columbia Sportswear Canada
         
