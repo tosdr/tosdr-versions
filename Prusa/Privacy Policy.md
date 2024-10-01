@@ -17,6 +17,7 @@ English
 * Français
 * Italiano
 * Polski
+* 日本語
 
 [Login](https://account.prusa3d.com/login/?next=%2Fo%2Fauthorize%2F%3Fclient_id%3DM8LpfPFdUlFWcOpLmEdEm7IXmDQfNqhkMqRUYOnv%26response_type%3Dcode%26scope%3Dbasic_info%26redirect_uri%3Dhttps%3A%2F%2Fwww.prusa3d.com%2Flogin%2F%26cancel_uri%3Dhttps%3A%2F%2Fwww.prusa3d.com%2Fpage%2Fprivacy-policy_231258%2F)
 
