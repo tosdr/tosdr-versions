@@ -42,7 +42,7 @@ Search
     * [Wealthtech](https://www.thedailyupside.com/advisor/wealthtech/)
 * [Newsletters](https://www.thedailyupside.com/subscribe/)
     * [The Daily Upside](https://www.thedailyupside.com/)
-    * [FA Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
+    * [Advisor Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
     * [Patent Drop](https://www.thedailyupside.com/patent-drop/)
     * [Power Corridor](https://www.thedailyupside.com/power-corridor/)
 
@@ -167,7 +167,7 @@ The Daily Upside, LLC.
 
 * [Subscribe](https://www.thedailyupside.com/subscribe/)
 * [The Daily Upside](https://www.thedailyupside.com/)
-* [FA Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
+* [Advisor Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
 * [Power Corridor](https://www.thedailyupside.com/power-corridor/)
 * [Patent Drop](https://www.thedailyupside.com/patent-drop/)
 * [Newsletter Archive](https://www.thedailyupside.com/newsletter/)
