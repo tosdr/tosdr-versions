@@ -6,7 +6,7 @@ Products
 
 SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
 
-##### [SurveyMonkey](https://www.surveymonkey.com/product/features/create/)
+##### [SurveyMonkey](https://www.surveymonkey.com/product/surveys/)
 
 Get data-driven insights from a global leader in online surveys.
 
@@ -203,7 +203,7 @@ How top brands drive growth with SurveyMonkey.
     
     SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
     
-    ##### [SurveyMonkey](https://www.surveymonkey.com/product/features/create/)
+    ##### [SurveyMonkey](https://www.surveymonkey.com/product/surveys/)
     
     Get data-driven insights from a global leader in online surveys.
     
@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![Logotipo de SurveyMonkey](https://prod.smassets.net/assets/website/2.281.0/images/legal_sidebar__badge.png)
+![SurveyMonkey logo](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__badge.png)
 
-* [Descripción general](https://www.surveymonkey.com/mp/legal/)
+* [Overview](https://www.surveymonkey.com/mp/legal/)
     
-* [Términos de Uso](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Contrato maestro de servicios](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Términos específicos del servicio](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Service-Specific Terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Aspectos básicos de la privacidad](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Aviso de privacidad](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)
     
 * [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies usadas en las páginas de las encuestas](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookies Used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Política de uso aceptable](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Seguridad](https://www.surveymonkey.com/mp/legal/security/)
+* [Security](https://www.surveymonkey.com/mp/legal/security/)
     
 * [General](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-¿Lo sabías?
+Did you know?
 
-El 63 % de las personas analiza el historial de seguridad y privacidad de una empresa antes de usar sus productos o servicios.
+63% of people consider a company's privacy and security history before using their products or services.
 
-![Estadísticas barra lateral de asuntos legales](https://prod.smassets.net/assets/website/2.281.0/images/legal_sidebar__stats-image.png)
+![Legal sidebar stats](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
@@ -885,27 +885,168 @@ See [here](https://developer.surveymonkey.com/tou/?ut_source=legal&ut_source2=te
 
 See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-of-service/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) for the terms for using SurveyMonkey Contribute.
 
-#### [Community:](https://www.facebook.com/surveymonkey/)
+* **Product**
+    
+    [Overview](https://www.surveymonkey.com/product/)
+    
+    [Surveys](https://www.surveymonkey.com/product/surveys/)
+    
+    [Online Forms](https://www.surveymonkey.com/product/forms/)
+    
+    [Market Research](https://www.surveymonkey.com/product/market-research/)
+    
+    [Integrations](https://www.surveymonkey.com/product/integrations/)
+    
+    [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
+    
+    [Enterprise](https://www.surveymonkey.com/product/enterprise/)
+    
+    [Pricing](https://www.surveymonkey.com/pricing/)
+    
+* **Popular Templates**
+    
+    [Customer Satisfaction](https://www.surveymonkey.com/templates/customer-satisfaction-survey-template/)
+    
+    [Employee Engagement](https://www.surveymonkey.com/templates/employee-engagement-survey-template/)
+    
+    [Event Feedback](https://www.surveymonkey.com/templates/general-event-feedback-survey-template/)
+    
+    [Product Testing](https://www.surveymonkey.com/templates/product-testing-survey-template/)
+    
+    [Net Promoter Score (NPS)](https://www.surveymonkey.com/templates/net-promoter-score-survey-template/)
+    
+    [Course Evaluation](https://www.surveymonkey.com/templates/course-evaluation-survey-template/)
+    
+    [All Templates](https://www.surveymonkey.com/mp/survey-templates/)
+    
+* **Resources**
+    
+    [Customers](https://www.surveymonkey.com/customers/)
+    
+    [Blog](https://www.surveymonkey.com/curiosity/)
+    
+    [Resource center](https://www.surveymonkey.com/resources/)
+    
+    [Support](https://help.surveymonkey.com/)
+    
+    [Contact sales](https://www.surveymonkey.com/mp/contact-sales/)
+    
+* **Learn**
+    
+    [How to create surveys](https://www.surveymonkey.com/mp/how-to-create-surveys/)
+    
+    [NPS calculator](https://www.surveymonkey.com/mp/nps-calculator/)
+    
+    [Margin of error calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
+    
+    [Sample size calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)
+    
+    [AB test significance calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)
+    
+    [Likert scale](https://www.surveymonkey.com/mp/likert-scale/)
+    
+    [Online quizzes](https://www.surveymonkey.com/use-cases/online-quiz/)
+    
+    [Free survey templates](https://www.surveymonkey.com/mp/free-survey-templates/)
+    
+    [Survey best practices](https://www.surveymonkey.com/learn/survey-best-practices/)
+    
+    [SurveyMonkey vs. Google Forms](https://www.surveymonkey.com/compare/surveymonkey-vs-google-forms/)
+    
+* **About**
+    
+    [Leadership Team](https://www.surveymonkey.com/about/leadership/)
+    
+    [Newsroom](https://www.surveymonkey.com/newsroom/)
+    
+    [Vision and Mission](https://www.surveymonkey.com/about/vision-mission/)
+    
+    [SurveyMonkey Together](https://www.surveymonkey.com/about/surveymonkey-together/)
+    
+    [Diversity, Equity & Inclusion](https://www.surveymonkey.com/about/diversity-inclusion/)
+    
+    [Careers](https://www.surveymonkey.com/careers/) Hiring
+    
+    [Locations](https://www.surveymonkey.com/about/office-locations/)
+    
+    [Imprint](https://www.surveymonkey.com/about/imprint/)
+    
+    [Log in](https://www.surveymonkey.com/login/)
+    
+    [Sign up](https://www.surveymonkey.com/sign-up/)
+    
 
-[Developers](https://developer.surveymonkey.com/?ut_source=legal&ut_source2=terms-of-use)
+Product
 
-[Facebook](https://www.facebook.com/surveymonkey/)
+[Overview](https://www.surveymonkey.com/product/)
 
-[Twitter](https://twitter.com/SurveyMonkey)
+[Surveys](https://www.surveymonkey.com/product/surveys/)
 
-[Linkedin](https://www.linkedin.com/company/surveymonkey/)
+[Online Forms](https://www.surveymonkey.com/product/forms/)
 
-[Our Blog](https://www.surveymonkey.com/curiosity/)
+[Market Research](https://www.surveymonkey.com/product/market-research/)
 
-[Instagram](https://www.instagram.com/surveymonkey/)
+[Integrations](https://www.surveymonkey.com/product/integrations/)
 
-[Youtube](https://www.youtube.com/surveymonkey)
+[SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
 
-#### [About Us:](https://www.surveymonkey.com/about/)
+[Enterprise](https://www.surveymonkey.com/product/enterprise/)
 
-[Leadership](https://www.surveymonkey.com/about/leadership/)
+[Pricing](https://www.surveymonkey.com/pricing/)
 
-[App Directory](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=terms-of-use)
+Popular Templates
+
+[Customer Satisfaction](https://www.surveymonkey.com/templates/customer-satisfaction-survey-template/)
+
+[Employee Engagement](https://www.surveymonkey.com/templates/employee-engagement-survey-template/)
+
+[Event Feedback](https://www.surveymonkey.com/templates/general-event-feedback-survey-template/)
+
+[Product Testing](https://www.surveymonkey.com/templates/product-testing-survey-template/)
+
+[Net Promoter Score (NPS)](https://www.surveymonkey.com/templates/net-promoter-score-survey-template/)
+
+[Course Evaluation](https://www.surveymonkey.com/templates/course-evaluation-survey-template/)
+
+[All Templates](https://www.surveymonkey.com/mp/survey-templates/)
+
+Resources
+
+[Customers](https://www.surveymonkey.com/customers/)
+
+[Blog](https://www.surveymonkey.com/curiosity/)
+
+[Resource center](https://www.surveymonkey.com/resources/)
+
+[Support](https://help.surveymonkey.com/)
+
+[Contact sales](https://www.surveymonkey.com/mp/contact-sales/)
+
+Learn
+
+[How to create surveys](https://www.surveymonkey.com/mp/how-to-create-surveys/)
+
+[NPS calculator](https://www.surveymonkey.com/mp/nps-calculator/)
+
+[Margin of error calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
+
+[Sample size calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)
+
+[AB test significance calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)
+
+[Likert scale](https://www.surveymonkey.com/mp/likert-scale/)
+
+[Online quizzes](https://www.surveymonkey.com/use-cases/online-quiz/)
+
+[Free survey templates](https://www.surveymonkey.com/mp/free-survey-templates/)
+
+[Survey best practices](https://www.surveymonkey.com/learn/survey-best-practices/)
+
+[SurveyMonkey vs. Google Forms](https://www.surveymonkey.com/compare/surveymonkey-vs-google-forms/)
+
+About
+
+[Leadership Team](https://www.surveymonkey.com/about/leadership/)
 
 [Newsroom](https://www.surveymonkey.com/newsroom/)
 
@@ -915,121 +1056,58 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [Diversity, Equity & Inclusion](https://www.surveymonkey.com/about/diversity-inclusion/)
 
-[Health Plan Transparency in Coverage](https://www.surveymonkey.com/about/health-plan-machine-readable-file/)
+[Careers](https://www.surveymonkey.com/careers/) Hiring
 
-[Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/)
+[Locations](https://www.surveymonkey.com/about/office-locations/)
 
 [Imprint](https://www.surveymonkey.com/about/imprint/)
 
-[Careers](https://www.surveymonkey.com/careers/)
+[Log in](https://www.surveymonkey.com/login/)
 
-[Sitemap](https://www.surveymonkey.com/mp/sitemap/)
-
-[Help](https://help.surveymonkey.com/en/)
-
-[Log In](https://www.surveymonkey.com/mp/sign-in/)
-
-[Sign Up](https://www.surveymonkey.com/mp/sign-up/)
-
-#### [Policies:](https://www.surveymonkey.com/mp/legal/)
-
-[Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)
-
-[Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)
-
-[California Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/)
-
-[Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
-
-[Security Statement](https://www.surveymonkey.com/mp/legal/security/)
-
-[GDPR Compliance](https://www.surveymonkey.com/product/features/privacy/)
-
-[Email Opt-In](https://www.surveymonkey.com/user/email-opt-in/?ut_source=legal&ut_source2=terms-of-use)
-
-[Accessibility](https://help.surveymonkey.com/en/create/accessibility/)
-
-[Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/)
-
-#### [Use Cases:](#)
-
-[Online Polls](https://www.surveymonkey.com/mp/online-polls/)
-
-[Facebook Surveys](https://www.surveymonkey.com/mp/facebook/)
-
-[Survey Template](https://www.surveymonkey.com/mp/survey-templates/)
-
-[Scheduling Polls](https://www.surveymonkey.com/mp/online-schedule-poll/)
-
-[Google Forms vs. SurveyMonkey](https://www.surveymonkey.com/compare/surveymonkey-vs-google-forms/)
-
-[Employee Satisfaction Surveys](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/)
-
-[Free Survey Templates](https://www.surveymonkey.com/mp/free-survey-templates/)
-
-[Mobile Surveys](https://www.surveymonkey.com/mp/mobile-surveys/)
-
-[How to Improve Customer Service](https://www.surveymonkey.com/mp/6-keys-improving-teams-customer-service-skills/)
-
-[AB Test Significance Calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)
-
-[NPS Calculator](https://www.surveymonkey.com/mp/nps-calculator/)
-
-[Questionnaire Templates](https://www.surveymonkey.com/mp/sample-survey-questionnaire-templates/)
-
-[Event Survey](https://www.surveymonkey.com/mp/post-event-survey-questions/)
-
-[Sample Size Calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)
-
-[Writing Good Surveys](https://www.surveymonkey.com/mp/writing-survey-questions/)
-
-[Likert Scale](https://www.surveymonkey.com/mp/likert-scale/)
-
-[Survey Analysis](https://www.surveymonkey.com/learn/research-and-analysis/)
-
-[360 Degree Feedback](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example/)
-
-[Education Surveys](https://www.surveymonkey.com/learn/education-surveys/)
-
-[Survey Questions](https://www.surveymonkey.com/mp/survey-question-types/)
-
-[NPS Calculation](https://www.surveymonkey.com/mp/net-promoter-score-calculation/)
-
-[Customer Satisfaction Survey Questions](https://www.surveymonkey.com/mp/customer-satisfaction-survey-questions/)
-
-[Agree Disagree Questions](https://www.surveymonkey.com/mp/2-tips-for-writing-agree-disagree-survey-questions/)
-
-[Create a Survey](https://www.surveymonkey.com/mp/how-to-create-surveys/)
-
-[Online Quizzes](https://www.surveymonkey.com/use-cases/online-quiz/)
-
-[Qualitative vs Quantitative Research](https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/)
-
-[Customer Survey](https://www.surveymonkey.com/mp/customer-satisfaction-surveys/)
-
-[Market Research Surveys](https://www.surveymonkey.com/mp/market-research-surveys/)
-
-[NPS Survey](https://www.surveymonkey.com/mp/net-promoter-score/)
-
-[Survey Design Best Practices](https://www.surveymonkey.com/learn/survey-best-practices/)
-
-[Margin of Error Calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
-
-[Questionnaire](https://www.surveymonkey.com/learn/survey-best-practices/online-questionnaires/)
-
-[Demographic Questions](https://www.surveymonkey.com/mp/gathering-demographic-information-from-surveys/)
-
-[Training Survey](https://www.surveymonkey.com/mp/training-survey/)
-
-[Offline Survey](https://www.surveymonkey.com/product/features/offline-surveys/)
-
-[360 Review Template](https://www.surveymonkey.com/templates/360-degree-employee-evaluation-survey-template/)
-
-* * *
+[Sign up](https://www.surveymonkey.com/sign-up/)
 
 English
 
+* English (US)
+    
+* English (UK)
+    
+* Deutsch
+    
+* Français
+    
+* Nederlands
+    
+* Dansk
+    
+* Español
+    
+* Suomi
+    
+* Italiano
+    
+* 日本語
+    
+* 한국어
+    
+* Norsk
+    
+* Português
+    
+* Русский
+    
+* Svenska
+    
+* Türkçe
+    
+* 中文(繁體)
+    
+
+[](https://www.linkedin.com/company/surveymonkey/ "Linkedin")[](https://www.youtube.com/surveymonkey "Youtube")[](https://www.instagram.com/surveymonkey/ "Instagram")[](https://www.facebook.com/surveymonkey/ "Facebook")[](https://x.com/SurveyMonkey "X")
+
 Copyright © 1999-2024 SurveyMonkey
+
+[Privacy notice](https://www.surveymonkey.com/mp/legal/privacy/)[Terms of use](https://www.surveymonkey.com/mp/legal/terms-of-use/)[Cookies notice](https://www.surveymonkey.com/mp/legal/cookies/)[Health Plan Transparency in Coverage](https://www.surveymonkey.com/about/health-plan-machine-readable-file/)
 
 [BBB credentials logo](https://www.bbb.org/us/ca/san-mateo/profile/market-survey/momentive-global-inc-1116-876628)
 
