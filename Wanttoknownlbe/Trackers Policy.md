@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-geneeskracht-van-licht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/opnieuw-blijkt-ook-hcq-zeer-effectief-tegen-covid/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
