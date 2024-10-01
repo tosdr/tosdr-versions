@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#ПосланиеПрезидентаФедеральномуСобранию](https://er.ru/activity/news?tags%5B0%5D=116509) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-Сегодня 15:59
+01.10.24
 
 [![Ирина Яровая: Необходимо создание базового закона о детском отдыхе](https://cdn.er.ru/media/news/October2024/e7IBiSH2DPCU74MHBm4q-small.jfif)](https://er.ru/activity/news/irina-yarovaya-neobhodimo-sozdanie-bazovogo-zakona-o-detskom-otdyhe)
 
@@ -313,7 +313,7 @@
 
 [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#ДОЛ](https://er.ru/activity/news?tags%5B0%5D=134747) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386)
 
-Сегодня 15:30
+01.10.24
 
 [![Правительство РФ поддержало инициативу «Единой России» о создании рейтинга детских оздоровительных лагерей в стране](https://cdn.er.ru/media/news/October2024/KHtdbPrPKm1i4FYRCxNf-small.jfif)](https://er.ru/activity/news/pravitelstvo-rf-podderzhalo-iniciativu-edinoj-rossii-o-sozdanii-rejtinga-detskih-ozdorovitelnyh-lagerej-v-strane)
 
@@ -321,7 +321,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#рейтинги](https://er.ru/activity/news?tags%5B0%5D=119) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
-Сегодня 14:30
+01.10.24
 
 [![«Единая Россия» просит Минздрав увеличить количество медперсонала в летних оздоровительных лагерях](https://cdn.er.ru/media/news/October2024/QiN39QJjg8wudv8iOm7p-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prosit-minzdrav-uvelichit-kolichestvo-medpersonala-v-letnih-ozdorovitelnyh-lageryah)
 
@@ -329,7 +329,7 @@
 
 [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Мурашко](https://er.ru/activity/news?tags%5B0%5D=61461) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#летниелагеря](https://er.ru/activity/news?tags%5B0%5D=120732) [#медперсонал](https://er.ru/activity/news?tags%5B0%5D=3753) [#отдыхдетей](https://er.ru/activity/news?tags%5B0%5D=130852)
 
-Сегодня 14:25
+01.10.24
 
 [![«Единая Россия» выступает за пересмотр подхода к контрольно-надзорной деятельности в летних лагерях для обеспечения безопасности детей](https://cdn.er.ru/media/news/October2024/irKdyhuSataK2nwBizBP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystupaet-za-peresmotr-podhoda-k-kontrolno-nadzornoj-deyatelnosti-v-letnih-lageryah-dlya-obespecheniya-bezopasnosti-detej)
 
@@ -337,7 +337,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#правительственныйчас](https://er.ru/activity/news?tags%5B0%5D=104869) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#ДОЛ](https://er.ru/activity/news?tags%5B0%5D=134747) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312) [#надзор](https://er.ru/activity/news?tags%5B0%5D=3213) [#проверки](https://er.ru/activity/news?tags%5B0%5D=2381) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120)
 
-Сегодня 13:43
+01.10.24
 
 [![Александр Жуков: «Единая Россия» будет работать над поправками ко второму чтению бюджета](https://cdn.er.ru/media/news/October2024/rX6icHFMSPmk1QS0abDP-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-edinaya-rossiya-budet-rabotat-nad-popravkami-ko-vtoromu-chteniyu-byudzheta)
 
@@ -345,7 +345,7 @@
 
 [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331)
 
-Сегодня 12:40
+01.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
