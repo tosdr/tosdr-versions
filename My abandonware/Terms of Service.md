@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Tokyo Cop: Special Police Reinforcement](https://www.myabandonware.com/game/tokyo-cop-special-police-reinforcement-slt)
-* [Time Crisis II](https://www.myabandonware.com/game/time-crisis-ii-sls)
-* [Time Crisis: Crisis Zone](https://www.myabandonware.com/game/time-crisis-crisis-zone-slr)
-* [Time Crisis 4](https://www.myabandonware.com/game/time-crisis-4-slq)
-* [Virtua Fighter 5](https://www.myabandonware.com/game/virtua-fighter-5-slp)
+* [Aliens, Inc: Attack on Earth](https://www.myabandonware.com/game/aliens-inc-attack-on-earth-s3s)
+* [The King of Fighters XI](https://www.myabandonware.com/game/the-king-of-fighters-xi-sm3)
+* [The King of Fighters: Neowave](https://www.myabandonware.com/game/the-king-of-fighters-neowave-sm2)
+* [The King of Fighters 2002: Unlimited Match](https://www.myabandonware.com/game/the-king-of-fighters-2002-unlimited-match-sm1)
+* [The Grid](https://www.myabandonware.com/game/the-grid-sm0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
