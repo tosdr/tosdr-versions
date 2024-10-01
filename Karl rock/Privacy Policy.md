@@ -406,21 +406,21 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
-    
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
-    
 * [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![Nankana Sahib Travel Super Guide](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Karl-Rock-at-Nankana-Sahib-e1719486743489.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
+* [![Travel Essentials: Before You Travel to India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/2.-Male-Book-on-the-table-with-travel-objects-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
     
-    [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
+    [Travel Essentials: Before You Travel to India](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+    
+* [![The Best Cheap Eats in Kathmandu](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/11/3610AE1A-1FEE-4F71-86A0-E54EE2BC0D7B.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
+    
+    [The Best Cheap Eats in Kathmandu](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
