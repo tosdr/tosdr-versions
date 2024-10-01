@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Order Bans Hess CEO from Chevron Board in Chevron-Hess Deal](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-order-bans-hess-ceo-chevron-board-chevron-hess-deal)
+    ### [FTC Sends Refunds to Consumers Who Bought Pyrex Glass Manufacturer’s Products Falsely Advertised as Made in USA](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-refunds-consumers-who-bought-pyrex-glass-manufacturers-products-falsely-advertised-made)
     
-    September 30, 2024
+    October 1, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
