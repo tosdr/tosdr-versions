@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
-* [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
-* [Hyogo governor](https://www.japantimes.co.jp/tag/motohiko-saito/ "Hyogo governor")
+* [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
+* [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -475,13 +475,17 @@ Revised June 1, 2022
 
   [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
+  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
 [Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
   [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
-[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+[How far will Japanese players go in this year’s MLB playoffs?](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
 
-  [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
+  [![Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425018.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.")](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
 
 [What’s a mother to do when your non-Japanese child is bullied in school?](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [NHK furthers global reach with Tiny Desk Concerts Japan](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
 
   [![Musician Koshi Inaba is the latest artist to be featured on national broadcaster NHK’s Tiny Desk Concerts Japan. Based on a series from America’s National Public Radio, Japan’s version has spotlighted acts that you likely wouldn’t see stateside, like veteran rockers Kirinji and upstart pop artist yama.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Musician Koshi Inaba is the latest artist to be featured on national broadcaster NHK’s Tiny Desk Concerts Japan. Based on a series from America’s National Public Radio, Japan’s version has spotlighted acts that you likely wouldn’t see stateside, like veteran rockers Kirinji and upstart pop artist yama.")](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
-
-[A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
-
-  [![The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423852.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.")](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's children's agency looks to set up shelters for runaways](https://www.japantimes.co.jp/news/2024/09/30/japan/society/runaway-youths-shelters/ "Japan's children's agency looks to set up shelters for runaways")
+[Recovery efforts hampered by 'post-apocalyptic' destruction after storm Helene](https://www.japantimes.co.jp/news/2024/10/01/world/north-carolina-hurricane-helene/ "Recovery efforts hampered by 'post-apocalyptic' destruction after storm Helene")
 
-11 hours ago
+11 mins ago
 
-[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+[BOJ keen to avoid surprises after rate hike tanked Nikkei, meeting notes show](https://www.japantimes.co.jp/business/2024/10/01/economy/boj-september-opinions/ "BOJ keen to avoid surprises after rate hike tanked Nikkei, meeting notes show")
 
-[Former Abe faction treasurer given suspended three-year prison term](https://www.japantimes.co.jp/news/2024/09/30/japan/crime-legal/ldp-political-funds-ruling/ "Former Abe faction treasurer given suspended three-year prison term")
+26 mins ago
 
-[Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
+[Global investors call time on their exodus from China](https://www.japantimes.co.jp/business/2024/10/01/markets/global-investors-exodus-china/ "Global investors call time on their exodus from China")
 
-[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+26 mins ago
+
+[Taiwan mobilizes troops as powerful Typhoon Krathon approaches southwest](https://www.japantimes.co.jp/news/2024/10/01/asia-pacific/troops-taiwan-typhoon-krathon/ "Taiwan mobilizes troops as powerful Typhoon Krathon approaches southwest")
+
+51 mins ago
+
+[Some 7-Eleven owners in Japan welcome foreign bid, hoping for change](https://www.japantimes.co.jp/business/2024/10/01/companies/seven-eleven-owners-takeover/ "Some 7-Eleven owners in Japan welcome foreign bid, hoping for change")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
