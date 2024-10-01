@@ -2,6 +2,7 @@ English Hindi
 
 * [Careers](http://www.lifecarehll.com/career)
 * [Tenders](http://www.lifecarehll.com/tender)
+* [Vendor Registration](https://vendorregistration.lifecarehll.com/)
 * [RTI](http://www.lifecarehll.com/page/render/reference/Rti_Downloads_)
 * [GST](http://www.lifecarehll.com/page/render/reference/Gst)
 * [R & D](http://www.lifecarehll.com/page/render/reference/R__D)
