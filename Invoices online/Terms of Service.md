@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=78836845)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=181992116)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=64396559)  
-KTEN PARTS
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=43992388)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=135741110)  
-Qothiphango Mining
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=146722857)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=146027752)  
-Hydroworld T/A Milliqua
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=59595293)  
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=160216642)  
 Cpower Projects t/a Pro Pure Water
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=156169855)  
-Kainos (Pty) Ltd
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=60403185)  
+Cape Adventure Zone
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=196588607)  
-Norton Medical & Consult - Namibia
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=49098682)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=127200526)  
-Sonic Electrical Services PTY Ltd
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=184904464)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=112638277)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=183149683)  
+Vplay Grafix
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=132922586)  
-Wiselink Broadband Pty Ltd
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=107115200)  
+ARCHITEK PTY LTD
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=171245370)  
-Printo
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=131462760)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=14749632)  
-Waterfinatics Swim School
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=50926982)  
+Oak Tree Immigration
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=124169397)  
-TurboFibre
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=20094593)  
+Cooper Logistics (Pty) Ltd
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=171237110)  
+KTEN PARTS
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=209754056)  
+NIMAWELL
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=194413881)  
+TIGERDSL
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=126429631)  
+CLEVER STUDENTS
+
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=b60eb43402a38b306570d6713faa0642aeeb4ab716fac9fd3a243697635742fc&c=51517443)  
+webb it services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
