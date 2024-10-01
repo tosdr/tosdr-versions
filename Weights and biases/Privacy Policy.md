@@ -113,13 +113,13 @@
     * [Partners](https://wandb.ai/site/partners/)
     
     * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/fully-connected/events)
+    * [Events](https://wandb.ai/site/resources/events/)
     * [AI Courses](https://www.wandb.courses/)
     * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
     * [Our Community](https://wandb.ai/site/community/)
     
     * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/fully-connected/events)
+    * [Events](https://wandb.ai/site/resources/events/)
     * [AI Courses](https://www.wandb.courses/)
     * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
     * [Our Community](https://wandb.ai/site/community/)
@@ -455,12 +455,14 @@ If you have questions about our use of your personal information, please email u
 * [Articles](https://wandb.ai/site/articles/)
 * [Blog and tutorials](https://wandb.ai/fully-connected)
 * [Podcast](https://wandb.ai/fully-connected/podcast)
+* [Events](https://wandb.ai/site/resources/events/)
 
 * [Documentation](https://docs.wandb.ai/)
 * [Community forum](https://community.wandb.ai/)
 * [Articles](https://wandb.ai/site/articles/)
 * [Blog and tutorials](https://wandb.ai/fully-connected)
 * [Podcast](https://wandb.ai/fully-connected/podcast)
+* [Events](https://wandb.ai/site/resources/events/)
 
 ##### Company
 
