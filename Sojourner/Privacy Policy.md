@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-04edf3a73bf5e39d617170ce23e942ad
+1bbc1299d8b84f75169e906455bc1edb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Golden retriever booties](https://www.sojourner.biz/images/cache/CL0022infantgoldenretrieverfront.200.jpg)](https://www.sojourner.biz/clothing/golden-retriever-booties.html "Golden retriever booties")
+[![Alphabet socks - Q to T](https://www.sojourner.biz/images/cache/CL0086-AZQ1_1.200.jpg)](https://www.sojourner.biz/clothing/alphabet-socks-q-to-t.html "Alphabet socks - Q to T")
 
-#### [Golden retriever booties](https://www.sojourner.biz/clothing/golden-retriever-booties.html "Golden retriever booties")
+#### [Alphabet socks - Q to T](https://www.sojourner.biz/clothing/alphabet-socks-q-to-t.html "Alphabet socks - Q to T")
 
-$25.00
+$12.00
 
 ### Best Sellers
 
