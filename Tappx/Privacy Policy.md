@@ -1,4 +1,4 @@
-[![Tappx](https://149854053.v2.pressablecdn.com/wp-content/uploads/2023/11/x-anniversary-logo-tappx-159x37-bicubica-enfocada.gif)](https://www.tappx.com/)
+[![Tappx](https://www.tappx.com/wp-content/uploads/2022/10/tappx.svg)](https://www.tappx.com/)
 
 * Profiles
     
