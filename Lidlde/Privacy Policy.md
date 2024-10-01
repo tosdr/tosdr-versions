@@ -1,6 +1,6 @@
    
 
-[Große Auswahl, kleiner Preis: Jetzt Schnäppchen sichern!](https://www.lidl.de/q/query/supersale)
+[Reduzierte Topseller im Oktober - Jetzt zugreifen!](https://www.lidl.de/c/shop-highlights/a10053491)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
