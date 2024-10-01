@@ -20,16 +20,16 @@ Tuesday, October 1 2024
 
 Latest
 
-* [Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
-* [Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
-* [Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
-* [Best Dash Cams – Consumer Reports](https://digitpatrox.com/best-dash-cams-consumer-reports/)
-* [Mozilla Thunderbird for Android Is Finally Here](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
-* [A time bomb for tech: The risks of legacy technology for your business](https://digitpatrox.com/a-time-bomb-for-tech-the-risks-of-legacy-technology-for-your-business/)
-* [Best UCaaS Providers of 2024](https://digitpatrox.com/best-ucaas-providers-of-2024/)
-* [New on Peacock in October 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-peacock-in-october-2024-all-the-movies-and-shows-to-watch/)
-* [YouTube’s missing hits will come back now that it has a deal with SESAC](https://digitpatrox.com/youtubes-missing-hits-will-come-back-now-that-it-has-a-deal-with-sesac/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-1/)
+* [The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
+* [Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
+* [California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
+* [California Governor Newsom vetoes AI safety bill, arguing it’s ‘not the best approach’ – Computerworld](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
+* [This DIY Whole Home Ring Alarm Kit Is Under $200 Right Now](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
+* [Which Apple Watch Should You Buy?](https://digitpatrox.com/which-apple-watch-should-you-buy/)
+* [Which is Best for You?](https://digitpatrox.com/which-is-best-for-you/)
+* [Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
+* [Splunk Urges Australian Organisations to Secure LLMs](https://digitpatrox.com/splunk-urges-australian-organisations-to-secure-llms/)
+* [7 early Amazon Prime Day outerwear deals I’d buy right now from The North Face, Columbia and Helly Hansen](https://digitpatrox.com/7-early-amazon-prime-day-outerwear-deals-id-buy-right-now-from-the-north-face-columbia-and-helly-hansen/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/GgpnAkuw5B39s3TY8aNh7a-1200-80.jpg)](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
+* [![](https://cdn.vox-cdn.com/thumbor/rC6nDOOx1sgVf229RJEwvqVf8yU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24182143/226402_Android_Smartwatch_Buyers_Guide_WJoel.jpg)](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
     
-    [Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
+    [The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
     
-    27 mins ago
+    22 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542749-0-23180200-1727713602-original.jpg?quality=50&strip=all&w=800)](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Android-16-New-Desert-Name-Cover.jpg)](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
     
-    [Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
+    [Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
     
-    50 mins ago
+    36 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J92C527FBM3SD5MZVYAANJGY/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
+* [![](https://cdn.mos.cms.futurecdn.net/rypsJ2A298dj6Kjnxqj2AA-1200-80.jpg)](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
     
-    [Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1685991322/prod/content/dam/CRO-Images-2023/06June/Rapid-Response/CR-AG-InlineHero-Best-Dash-Cams-0623)](https://digitpatrox.com/best-dash-cams-consumer-reports/)
-    
-    [Best Dash Cams – Consumer Reports](https://digitpatrox.com/best-dash-cams-consumer-reports/)
+    [California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/mozilla-thunderbird-1-1.jpg)](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542546-0-00961600-1727695483-shutterstock_150165167.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
     
-    [Mozilla Thunderbird for Android Is Finally Here](https://digitpatrox.com/mozilla-thunderbird-for-android-is-finally-here/)
+    [California Governor Newsom vetoes AI safety bill, arguing it’s ‘not the best approach’ – Computerworld](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J920BBNSDYCN6FZCBAQE8AJJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
+    
+    [This DIY Whole Home Ring Alarm Kit Is Under $200 Right Now](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 mins ago
+* [22 mins ago
     
-    ### Amazon workers aren’t happy with the company’s controversial RTO scheme – and they’re making their voices heard](https://digitpatrox.com/amazon-workers-arent-happy-with-the-companys-controversial-rto-scheme-and-theyre-making-their-voices-heard/)
-* [50 mins ago
+    ### The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
+* [36 mins ago
     
-    ### Arm, Intel, and the vengeance of Newton – Computerworld](https://digitpatrox.com/arm-intel-and-the-vengeance-of-newton-computerworld/)
-* [1 hour ago
+    ### Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
+* [2 hours ago
     
-    ### Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
+    ### California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
 
 Most Popular Topics
 
-* [5 days ago
+* [August 13, 2024
     
-    ### Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
+    ### Google Pixel Watch 3: release date, price, and how to buy](https://digitpatrox.com/google-pixel-watch-3-release-date-price-and-how-to-buy/)
+* [August 16, 2024
+    
+    ### Enable MFA or lose access to admin portals in October](https://digitpatrox.com/enable-mfa-or-lose-access-to-admin-portals-in-october/)
 * [2 weeks ago
     
-    ### Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
-* [August 23, 2024
-    
-    ### How Apple can fight the tyranny of ‘choice’ – Computerworld](https://digitpatrox.com/how-apple-can-fight-the-tyranny-of-choice-computerworld/)
+    ### You Can Pin Spotify Playlists (And More)](https://digitpatrox.com/you-can-pin-spotify-playlists-and-more/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Best UCaaS Providers of 2024](https://digitpatrox.com/best-ucaas-providers-of-2024/)
-* [3 hours ago
-    
-    ### New on Peacock in October 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-peacock-in-october-2024-all-the-movies-and-shows-to-watch/)
+    ### Which is Best for You?](https://digitpatrox.com/which-is-best-for-you/)
 * [4 hours ago
     
-    ### YouTube’s missing hits will come back now that it has a deal with SESAC](https://digitpatrox.com/youtubes-missing-hits-will-come-back-now-that-it-has-a-deal-with-sesac/)
+    ### Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
+* [4 hours ago
+    
+    ### Splunk Urges Australian Organisations to Secure LLMs](https://digitpatrox.com/splunk-urges-australian-organisations-to-secure-llms/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
