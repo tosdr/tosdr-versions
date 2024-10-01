@@ -1,7 +1,5 @@
 ![](/images/debug.gif)
 
-Hackster will be offline on Monday, September 30 from 8pm to 10pm PDT to perform some scheduled maintenance.
-
 [![Hackster.io – Learning Hardware Community](https://prod.hackster-cdn.online/assets/hackster_avnet_logo_blue-5e47e3321ed9ae959a2668e6af7e176dda606786d7a0d2c968300b642b2c8756.png)](https://www.hackster.io/ "Hackster.io")
 
 Projects
