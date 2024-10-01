@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-14faf75fce7565812911b57b0d5e5c72
+04edf3a73bf5e39d617170ce23e942ad
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,9 +171,9 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Hand-made silk rug number four](https://www.sojourner.biz/images/cache/RG0004.200.jpg)](https://www.sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-four.html "Hand-made silk rug number four")
+[![Golden retriever booties](https://www.sojourner.biz/images/cache/CL0022infantgoldenretrieverfront.200.jpg)](https://www.sojourner.biz/clothing/golden-retriever-booties.html "Golden retriever booties")
 
-#### [Hand-made silk rug number four](https://www.sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-four.html "Hand-made silk rug number four")
+#### [Golden retriever booties](https://www.sojourner.biz/clothing/golden-retriever-booties.html "Golden retriever booties")
 
 $25.00
 
