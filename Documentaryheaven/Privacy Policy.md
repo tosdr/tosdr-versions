@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![EP1/6 How TV Ruined Your Life](/wp-content/thumbnails/5776-100x70.png?x53432)
+* [![Carl Cox: Space Is The Place](/wp-content/thumbnails/12809-100x70.jpg?x53432)
     
-    EP1/6 How TV Ruined Your Life
+    Carl Cox: Space Is The Place
     
-    Fear Comedy series in which Charlie Brooker uses a mix of sketches and jaw-dropping archive footage to explore the gulf between real life and television.From hysterical public information films t](https://documentaryheaven.com/how-tv-ruined-your-life-1/ "EP1/6 How TV Ruined Your Life")
-* [![Hitler’s British Girl](/wp-content/thumbnails/5971-100x70.jpg?x53432)
+    Carl Cox is one of the all time greats when it comes to the history of house and techno, for about 40 years now he has been one of the most recognisable figures on the scene. Well known throughout the](https://documentaryheaven.com/carl-cox-space-is-place/ "Carl Cox: Space Is The Place")
+* [![We Love Cigarettes](/wp-content/thumbnails/6070-100x70.jpg?x53432)
     
-    Hitler’s British Girl
+    We Love Cigarettes
     
-    On September 3rd 1939, 25-year-old English aristocrat Unity Mitford walked into a Munich park and shot herself in the head. Distraught at the prospect of England declaring war on her beloved Fuhrer, B](https://documentaryheaven.com/hitlers-british-girl/ "Hitler’s British Girl")
-* [![Long Shot: Inside the Scope of Smart Weapons](/wp-content/thumbnails/8040-100x70.jpg?x53432)
+    A love of nicotine unites all peoples across the globe, regardless of colour, wealth or creed. Where religion and politics have failed tobacco has succeeded, but at what cost? For over 50 years people](https://documentaryheaven.com/we-love-cigarettes/ "We Love Cigarettes")
+* [![Killing Jimmy Hoffa](/wp-content/thumbnails/14652-100x70.jpg?x53432)
     
-    Long Shot: Inside the Scope of Smart Weapons
+    Killing Jimmy Hoffa
     
-    In spring of 2013, Texas-based start up TrackingPoint Solutions released the first ever precision-guided firearm, which is essentially a long-range, laser-guided robo rifle. Call it the gun of tomor](https://documentaryheaven.com/long-shot-inside-scope-smart-weapons/ "Long Shot: Inside the Scope of Smart Weapons")
-* [![The Alaska Pipeline](/wp-content/thumbnails/4914-100x70.jpg?x53432)
+    The disappearance of Jimmy Hoffa is one of the most famous and enduring American mysteries and it most certainly goes down in the history books as one of the great crimes of the century. Despite a hug](https://documentaryheaven.com/killing-jimmy-hoffa/ "Killing Jimmy Hoffa")
+* [![Cleveland Captives: What Really Happened?](/wp-content/thumbnails/7169-100x70.jpg?x53432)
     
-    The Alaska Pipeline
+    Cleveland Captives: What Really Happened?
     
-    When Atlantic Richfield prospectors struck oil at Prudhoe Bay early in 1968, they stumbled upon the largest oil field ever discovered in North America. Getting that oil out of Alaska would take nine y](https://documentaryheaven.com/the-alaska-pipeline/ "The Alaska Pipeline")
-* [![If We Had No Moon](/wp-content/thumbnails/77-100x70.png?x53432)
+    For 10 years Amanda Berry, Georgina DeJesus, and Michelle Knight were presumed dead when they were kidnapped on the same stretch of road in Cleveland, Ohio. But in May, 2013, the trio were miraculousl](https://documentaryheaven.com/cleveland-captives-what-really-happened/ "Cleveland Captives: What Really Happened?")
+* [![The Corporation](/wp-content/thumbnails/789-100x70.png?x53432)
     
-    If We Had No Moon
+    The Corporation
     
-    What would life on earth be like without the moon? Well, chances are, there wouldn't be any life on earth without the moon. Life – if it had started at all – would still be in the earliest stages of e](https://documentaryheaven.com/if-we-had-no-moon/ "If We Had No Moon")
+    A fascinating documentary looking at the increasing power of large global businesses and the impact this is having on society. A real money casino is a location where you may play real money online ca](https://documentaryheaven.com/the-corporation/ "The Corporation")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
