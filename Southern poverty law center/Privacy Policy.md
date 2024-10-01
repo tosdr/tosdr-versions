@@ -219,6 +219,14 @@ The Websites are controlled and operated from its facilities in the United State
 
 These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by SPLC without restriction. Any attempted transfer or assignment in violation hereof shall be null and void.
 
+![Hate Crimes Awareness Month](https://www.splcenter.org/sites/default/files/hcam-overlay-2024.jpg)
+
+Close donation prompt
+
+### October is Hate Crimes Awareness Month
+
+[Add your name to join the SPLC in leading the charge against hate crimes](https://secure.splcenter.org/page/73747/subscribe/1)
+
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
 * [Home](https://www.splcenter.org/)
