@@ -144,11 +144,11 @@ Search for:
 Electric Fireplace Tips:
 ------------------------
 
+* [7 Must-Have Features for Choosing a 3D Flame Electric Fireplace](https://www.electriflames.com/buy/3d-flame-electric-fireplace/)
 * [5 Steps to Clean Your Electric Fireplace Glass Like a Pro](https://www.electriflames.com/how-to/clean-electric-fireplace-glass/)
 * [7 Top Features to Find the Quietest Electric Fireplace](https://www.electriflames.com/buy/quietest-electric-fireplace/)
 * [6 Features to Look for in an Energy Efficient Electric Fireplace](https://www.electriflames.com/buy/energy-efficient-electric-fireplace/)
 * [5 Key Features for Choosing a Fake Fireplace for Your Apartment](https://www.electriflames.com/portable/fake-fireplace-for-apartment/)
-* [Dimplex Ignite XL – Realistic Flames & Stunning Design](https://www.electriflames.com/review/dimplex-ignite-xl/)
 
 3-Sided Electric Fireplaces
 ---------------------------
