@@ -2,7 +2,7 @@
 
 ### SharkLasers - Disposable Temporary E-Mail Address
 
-Pew Pew Pew! Here is your random disposable email address - without login or registration! Test it out, try sending an email to it - new emails arrive instantly to the inbox below. Give it to entities who you don't trust and keep spam away from your regular email. So far, our network processed **17,173,307,531 emails**, (178499 / hour). **Sharks with laser beams attached to their heads FTW!**
+Pew Pew Pew! Here is your random disposable email address - without login or registration! Test it out, try sending an email to it - new emails arrive instantly to the inbox below. Give it to entities who you don't trust and keep spam away from your regular email. So far, our network processed **17,174,326,250 emails**, (43348 / hour). **Sharks with laser beams attached to their heads FTW!**
 
 Do you own a domain? Use it with Guerrilla Mail! Email arriving to your domain will be accessible only by you. Or, you may give access to everyone. Price: $9.99 USD / year. Don't have a domain? You can get one from [Namecheap.com](https://www.namecheap.com/)
 
@@ -14,8 +14,8 @@ Eg. mydomain.com
 
 Payment Method:  Bitcoin |  PayPal
 
-zgitfkdo @ sharklasers.comgrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.comspam4.me   [Forget Me](https://www.sharklasers.com/?fgt=1) [WTF?](#)  
-u2x0b8+f8u42ndhjj5ko@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Alias Address
+fudeubwa @ sharklasers.comgrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.comspam4.me   [Forget Me](https://www.sharklasers.com/?fgt=1) [WTF?](#)  
+u2xpli+8exdk6w615ek0@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Alias Address
 
 Inbox ID:   [Forget Me](https://www.sharklasers.com/?fgt=1)  
 Your Email Address is:  
