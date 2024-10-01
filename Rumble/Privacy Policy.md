@@ -202,125 +202,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-148K](https://rumble.com/v5h0zay-was-this-kamalas-katrina-moment-before-a-critical-debate-ep.-2340-10012024.html "The Dan Bongino Show")
-
 [Bannons War Room
 
-10.9K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-7.01K](https://rumble.com/v5h08mx-badlands-daily-tuesday-october-1-2024.html "Badlands Media")
+8.63K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
 [NEWSMAX
 
-4.69K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+4.62K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[Akademiks
+
+4.28K](https://rumble.com/v5h20ad-100-victims-vs-diddy.-press-conference-live.-did-j-cole-switch-up-on-drake-.html "Akademiks")
+
+[Dr Steve Turley
+
+440](https://rumble.com/v5h2mh9-this-is-what-theyre-allowing-criminals-to-do.html "Dr Steve Turley")
 
 [Lofi Girl
 
-349](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+307](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Geeks + Gamers
 
-224](https://rumble.com/v5h1awr-disney-star-wars-fans-have-a-new-plan-to-save-the-acolyte-ubisoft-facing-wo.html "Geeks + Gamers")
+254](https://rumble.com/v5h2ot0-tuesday-nights-main-event.html "Geeks + Gamers")
 
-[Mostly Sports With Mark Titus and Brandon Walker
+[TruthStream with Joe and Scott
 
-137](https://rumble.com/v5gy90s-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+203](https://rumble.com/v5h1sed-tom-althouse-is-back-10124-2-pm-pt-5-pm-et..html "TruthStream with Joe and Scott")
 
 [barstoolsports
 
-133](https://rumble.com/v5gy90s-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "barstoolsports")
+154](https://rumble.com/v5h25ir-the-first-ever-fishbowl-show-ft.-grace-omalley-m00bie-smelly-jackie-and-pay.html "barstoolsports")
 
-[Mike Crispi
+[Mostly Sports With Mark Titus and Brandon Walker
 
-57](https://rumble.com/v5h0vth-jd-vance-vs.-tim-walz-vp-debate-preview-show.html "Mike Crispi")
+88](https://rumble.com/v5h1v6d-mostly-sports-college-football-dynasty-league-week-11-session-2.html "Mostly Sports With Mark Titus and Brandon Walker")
 
 [Major League Fishing
 
-3](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
-
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
-
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+4](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
 [Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
 
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
-
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
 [Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
+[NELK](https://rumble.com/c/NELK "NELK")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
-
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
-
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
 
 [Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
 
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
 
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
 
 [Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
 
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
 
 ### Theme
 
