@@ -125,8 +125,13 @@ Click on the retailer below for the Terms & Conditions specific to your plan.Â Â
 
 [Example Link label](https://www.example.com/ "Example Link label") [Example Link label](https://www.example.com/ "Example Link label")
 
+     
+
+     
+
 * [Abt Electronics](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2019-12-17-APP-STANDARD-ENG-8.5x11-MCP-3621.pdf)
 * [AJ Madison](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
+* [Allstate Identity Protection](https://www.squaretrade.com/aipterms "Allstate Identity Protection Terms & Conditions")
 * [Amazon](https://www.squaretrade.com/amazonterms)
 * [American Home Shield](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/MCP-3569%20AHS%20T&Cs%20April%202021_R1.pdf)
 * [American Home Shield - Spanish](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/2021-2-25-APP-AHS-USSP-8.5x11-MCP-3616.pdf)
