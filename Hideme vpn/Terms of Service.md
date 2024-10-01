@@ -190,7 +190,7 @@ Partners
 
 Follow Us
 
-[Twitter](https://x.com/thevpncompany "Twitter") [TikTok](https://www.tiktok.com/@hide.me_uk "TikTok") [Reddit](https://www.reddit.com/r/hidemeVPN/ "Reddit") [Discord](https://hide.me/discord "Discord") [Facebook](https://www.facebook.com/www.hide.me "Facebook") [YouTube](https://www.youtube.com/channel/UCaK_HWlsCg5hSVi5BTlgv6w "YouTube")
+[Twitter](https://x.com/thevpncompany "Twitter") [TikTok](https://www.tiktok.com/@hide.me_deutschland "TikTok") [Reddit](https://www.reddit.com/r/hidemeVPN/ "Reddit") [Discord](https://hide.me/discord "Discord") [Facebook](https://www.facebook.com/www.hide.me "Facebook") [YouTube](https://www.youtube.com/channel/UCaK_HWlsCg5hSVi5BTlgv6w "YouTube")
 
 Language
 
