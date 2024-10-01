@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Iran fires missiles at Israel](https://www.defensenews.com/global/mideast-africa/2024/10/01/iran-fires-missiles-at-israel/)  
+    10/01/24 01:55pm  
+    
+    Smoke rises following Israeli bombardment in southern Lebanon as seen from northern Israel on Tuesday. The Israeli military says Iran has fired missiles at Israel and is warning Israelis to shelter in place. (Leo Correa/AP)
+    
+* [Here’s what caused an Air Force F-16 jet crash off South Korea](https://www.defensenews.com/news/your-air-force/2024/10/01/heres-what-caused-an-air-force-f-16-jet-crash-off-south-korea/)  
+    10/01/24 08:02am  
+    
+    An F-16 from the 8th Fighter Wing at Kunsan Air Base crashed in December after a GPS unit in a key instrument failed. (Senior Airman Karla Parra/U.S. Air Force)
+    
 * [Air Force awards Lockheed $3.2B multiyear missile contract](https://www.defensenews.com/air/2024/09/30/air-force-awards-lockheed-32b-multiyear-missile-contract/)  
     09/30/24 12:00pm  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/30/24 10:58am  
     
     A mock-up of the recently announced Eprius counter-drone system that can zap swarms of enemy drones out of the sky. (Epirus)
-    
-* [The case for giving Ukraine long-range striking power in Russia](https://www.defensenews.com/opinion/2024/09/29/ukraine-needs-long-range-firepower-in-its-fight-against-russia/)  
-    09/29/24 08:00am  
-    
-    U.S. soldiers conduct Army Tactical Missile System live-fire testing at White Sands Missile Range, Nevada. Ukraine is seeking permission to use such missiles for long-range strikes in Russia. (John Hamilton/White Sands Missile Range)
-    
-* [New US Air Force PT uniforms delayed, again, until November](https://www.defensenews.com/digital-show-dailies/air-force-association/2024/09/26/new-us-air-force-pt-uniforms-delayed-again-until-november/)  
-    09/26/24 03:00pm  
-    
-    The U.S. Air Force's new physical training uniform includes a crewneck and hooded sweatshirt, among other garments. (Jon Simkins/Staff)
     
 
 Recent parts by keyword  
