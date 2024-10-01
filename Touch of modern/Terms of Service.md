@@ -27,7 +27,7 @@ Toggle navigation
     * [Watches](https://www.touchofmodern.com/stores/344)
     * [Home](https://www.touchofmodern.com/stores/342)
     * [Tech](https://www.touchofmodern.com/stores/343)
-    * [Fashion](https://www.touchofmodern.com/stores/345)
+    * [Fashion](https://www.touchofmodern.com/stores/fashion?open=1)
     * [Other](https://www.touchofmodern.com/stores/346)
     * [The Guide](https://www.touchofmodern.com/guides)
 
@@ -377,4 +377,4 @@ Your continued use of the Website following the posting of revised Terms and Con
 
 ![](//action.dstillery.com/orbserv/nspix?adv=cl165659834990960&ns=7040&nc=Touch-of-Modern-Site-Visitor&ncv=36)
 
-![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1727798850)
+![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1727820018)
