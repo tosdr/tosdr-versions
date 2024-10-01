@@ -259,40 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Search operation taking place for 23-year-old man who entered River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search operation taking place for 23-year-old man who entered River Foyle")](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
-
-Donal Armstrong has been missing since Saturday
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Search operation taking place for 23-year-old man who entered River Foyle](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with series of drugs offences jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with series of drugs offences jailed](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Hurt open new state-of-the-art premises in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hurt open new state-of-the-art premises in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Hurt open new state-of-the-art premises in Derry](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman praises Foyle Hospice whose mother received the ‘best care’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman praises Foyle Hospice whose mother received the ‘best care’")](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
-
-Gerladine Ferguson with her mother Donna
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman praises Foyle Hospice whose mother received the ‘best care’](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -300,13 +266,20 @@ Gerladine Ferguson with her mother Donna
 [Derry Death Notices - Tuesday, October 1 2024](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Jack Magee on the Voice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack Magee on the Voice")](https://www.derrynow.com/news/derry-news/1617925/county-derry-singer-s-unique-voice-impresses-on-the-voice-judges.html)
+[![County Derry man who crashed car through a hedge and into a field at 110mph jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who crashed car through a hedge and into a field at 110mph jailed")](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
 
-Jack Magee on the Voice
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[County Derry man who crashed car through a hedge and into a field at 110mph jailed](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry singer's 'unique voice' impresses on The Voice judges](https://www.derrynow.com/news/derry-news/1617925/county-derry-singer-s-unique-voice-impresses-on-the-voice-judges.html)
+[![Derry man charged with series of domestic abuse offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of domestic abuse offences remanded")](https://www.derrynow.com/news/local-news/1618762/derry-man-charged-with-series-of-domestic-abuse-offences-remanded.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with series of domestic abuse offences remanded](https://www.derrynow.com/news/local-news/1618762/derry-man-charged-with-series-of-domestic-abuse-offences-remanded.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![35-year-old Derry man who assaulted a woman told to prepare a jail sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "35-year-old Derry man who assaulted a woman told to prepare a jail sentence")](https://www.derrynow.com/news/local-news/1618820/35-year-old-derry-man-who-assaulted-a-woman-told-to-prepare-a-jail-sentence.html)
@@ -327,27 +300,64 @@ PSNI
 [PSNI's Terrorism Investigation Unit conducting two planned searches in Derry](https://www.derrynow.com/news/local-news/1618699/psni-s-terrorism-investigation-unit-conducting-two-planned-searches-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Caolan McCourt of @notoriousstreet serves up cookery masterclass](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Caolan McCourt of @notoriousstreet serves up cookery masterclass")](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
+[![Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
 
-Sabrina Lynch, Programme Manager, Old Library Trust lets staff members Wendy McLaughlin and Kathleen McNaught sample some of the delicious dishes. (Photo: Jim McCafferty Photography)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz")](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Celebrating 30 years of Daleview House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Celebrating 30 years of Daleview House")](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Celebrating 30 years of Daleview House](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Castledawson Traffic Collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Castledawson Traffic Collision")](https://www.derrynow.com/news/county-derry-post/1618594/castledawson-traffic-collision.html)
+
+The PSNI
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Castledawson Traffic Collision](https://www.derrynow.com/news/county-derry-post/1618594/castledawson-traffic-collision.html)
+-----------------------------------------------------------------------------------------------------------------------------
+
+[![Tributes paid to Derry teacher, actress and singer Carita Kerr](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid to Derry teacher, actress and singer Carita Kerr")](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
+
+Carita Kerr with her husband John during his time as mayor of Derry
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Caolan McCourt of Notorious Street Food serves up cookery masterclass](https://www.derrynow.com/news/local-news/1617740/caolan-mccourt-of-notorious-street-food-serves-up-cookery-masterclass.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man who crashed car through a hedge and into a field at 110mph jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who crashed car through a hedge and into a field at 110mph jailed")](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man who crashed car through a hedge and into a field at 110mph jailed](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Tributes paid to Derry teacher, actress and singer Carita Kerr](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!")](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Oakgrove Integrated College senior prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove Integrated College senior prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1618958/in-pictures-oakgrove-integrated-college-senior-prizegiving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Oakgrove Integrated College senior prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1618958/in-pictures-oakgrove-integrated-college-senior-prizegiving.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Prizegiving at St Colm's High School, Draperstown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prizegiving at St Colm's High School, Draperstown")](https://www.derrynow.com/story-telling/pictures---videos/1618439/in-pictures-prizegiving-at-st-colm-s-high-school-draperstown.html)
 
@@ -404,20 +414,6 @@ Multimedia
 
 [IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1617785/in-pictures-martin-mcguinness-chieftain-gaelic-games-at-celtic-park.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Foyle Hospice Men's Walk / Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Foyle Hospice Men's Walk / Run")](https://www.derrynow.com/story-telling/pictures---videos/1617784/in-pictures-annual-foyle-hospice-men-s-walk-run.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Foyle Hospice Men's Walk / Run](https://www.derrynow.com/story-telling/pictures---videos/1617784/in-pictures-annual-foyle-hospice-men-s-walk-run.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Family fun day at Doire Colmcille GAC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Family fun day at Doire Colmcille GAC")](https://www.derrynow.com/story-telling/pictures---videos/1617782/in-pictures-family-fun-day-at-doire-colmcille-gac.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Family fun day at Doire Colmcille GAC](https://www.derrynow.com/story-telling/pictures---videos/1617782/in-pictures-family-fun-day-at-doire-colmcille-gac.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,55 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry man charged with series of domestic abuse offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of domestic abuse offences remanded")](https://www.derrynow.com/news/local-news/1618762/derry-man-charged-with-series-of-domestic-abuse-offences-remanded.html)
-
-Derry Magistrate's Court
+[![March and rally to be held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally to be held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/local-news/1618950/march-and-rally-to-be-held-in-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with series of domestic abuse offences remanded](https://www.derrynow.com/news/local-news/1618762/derry-man-charged-with-series-of-domestic-abuse-offences-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[March and rally to be held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/local-news/1618950/march-and-rally-to-be-held-in-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Emergency Preparedness Group.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency Preparedness Group.")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1618197/live-action-exercise-tests-councils-emergency-response-to-major-incident.html)
-
-Emergency Preparedness Group.
-
-[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
-
-[Live-action exercise tests Council’s emergency response to major incident](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1618197/live-action-exercise-tests-councils-emergency-response-to-major-incident.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man who crashed car through a hedge and into a field at 110mph jailed](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "County Derry man who crashed car through a hedge and into a field at 110mph jailed")](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
+[![Murphy unveils drive to bring regional balance to NI economy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Murphy unveils drive to bring regional balance to NI economy")](https://www.derrynow.com/news/local-news/1618912/murphy-unveils-drive-to-bring-regional-balance-to-ni-economy.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man who crashed car through a hedge and into a field at 110mph jailed](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Murphy unveils drive to bring regional balance to NI economy](https://www.derrynow.com/news/local-news/1618912/murphy-unveils-drive-to-bring-regional-balance-to-ni-economy.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Daleview House celebrates 30th anniversary](https://www.derrynow.com/resizer/165/93/true/2024_10_01/1_Daleview_House_staff_team-1727777963557.jpg--.jpg?1727777964624 "Derry's Daleview House celebrates 30th anniversary")](https://www.derrynow.com/news/local-news/1618721/derry-s-daleview-house-celebrates-30th-anniversary.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_01/IDNT_3-10-24_Hargy_2-1727787238153.jpg--.jpg?1727787238575 "Derry City")](https://www.derrynow.com/news/derry-sport/1618945/the-players-have-to-realise-the-magnitude-of-what-s-at-stake.html)
 
-Staff pictured outside the front of Daleview House
+Sean Hargan celebrates with team mates and fans after defeating Shamrock Rovers to win the 2002 FAI Cup.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry's Daleview House celebrates 30th anniversary](https://www.derrynow.com/news/local-news/1618721/derry-s-daleview-house-celebrates-30th-anniversary.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+['The players have to realise the magnitude of what's at stake'](https://www.derrynow.com/news/derry-sport/1618945/the-players-have-to-realise-the-magnitude-of-what-s-at-stake.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['A wrong they have to right' for Lissan against Ballymaguigan in Derry Junior Championship](https://www.derrynow.com/resizer/165/93/true/2024_09_01/Sean_Dolans_v_Lissan_4-1725212457159.jpg--.jpg?1725212457306 "'A wrong they have to right' for Lissan against Ballymaguigan in Derry Junior Championship")](https://www.derrynow.com/news/gaa/1618625/a-wrong-they-have-to-right-for-lissan-against-ballymaguigan-in-derry-junior-championship.html)
+[![Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/resizer/165/93/true/2024_10_01/24-09-24_St._Joseph_s_Enterprise_03-1727790486934.jpg--.jpg?1727790487864 "Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!")](https://www.derrynow.com/news/local-news/1619012/derry-s-st-josephs-pick-up-enterprising-school-2023-24-award.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-['A wrong they have to right' for Lissan against Ballymaguigan in Derry Junior Championship](https://www.derrynow.com/news/gaa/1618625/a-wrong-they-have-to-right-for-lissan-against-ballymaguigan-in-derry-junior-championship.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![35-year-old Derry man who assaulted a woman told to prepare a jail sentence](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "35-year-old Derry man who assaulted a woman told to prepare a jail sentence")](https://www.derrynow.com/news/local-news/1618820/35-year-old-derry-man-who-assaulted-a-woman-told-to-prepare-a-jail-sentence.html)
-
-Derry Crown Court
+Pictured with the Young Enterprise Award at the first of the workshops, Ms. Fionnvola McCaul, teacher, Ms. Annette McCourt, classroom assistant and Ms. Natalie Hamilton, Area Manager, Young Enterprise
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[35-year-old Derry man who assaulted a woman told to prepare a jail sentence](https://www.derrynow.com/news/local-news/1618820/35-year-old-derry-man-who-assaulted-a-woman-told-to-prepare-a-jail-sentence.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/news/local-news/1619012/derry-s-st-josephs-pick-up-enterprising-school-2023-24-award.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Terex Campsie](https://www.derrynow.com/resizer/165/93/true/2024_10_01/4._The_Terex_Campsie_team_celebrating_the_production_of_its_1000th_machine_this_year-1727780644515.jpg--.jpg?1727780645675 "Terex Campsie")](https://www.derrynow.com/news/business/1618811/terex-campsie-celebrates-5-year-anniversary.html)
+
+Terex Campsie
+
+[Business](https://www.derrynow.com/section/1339/business)
+
+[Terex Campsie Celebrates 5-Year Anniversary](https://www.derrynow.com/news/business/1618811/terex-campsie-celebrates-5-year-anniversary.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein was not aware of McMonagle references until last week, says Murphy](https://www.derrynow.com/resizer/165/93/true/2024_10_01/DerryNow_Gallery_Collage_x3%29-1727800020874.png--.png?1727800115910 "Sinn Fein was not aware of McMonagle references until last week, says Murphy")](https://www.derrynow.com/news/local-news/1619248/sinn-fein-was-not-aware-of-mcmonagle-references-until-last-week-says-murphy.html)
+
+Former Sinn Fein press officer Michael McMonagle and Sinn Fein Minister for the Economy Connor Murphy
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein was not aware of McMonagle references until last week, says Murphy](https://www.derrynow.com/news/local-news/1619248/sinn-fein-was-not-aware-of-mcmonagle-references-until-last-week-says-murphy.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
