@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Transfer your .COM domains for $10.50 with coupon code: FALL1050 until 9/30/24 23:59 UTC!](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=COM%20Transfer%20Promobar%20Sept%202024&utm_medium=com%20transfer&drefid=4601)
+[Our monthly registry expired AI auction is live! Bid on names like ultra.ai, radio.ai, and arena.ai all starting at $140 ➡️](https://www.dynadot.com/market/registry-expired-auction?utm_source=Promobar&utm_campaign=AI%20Auction%20Promobar%20Sept%202024&utm_medium=ai%20auction&drefid=4602)
 
 [](https://www.dynadot.com/)
 
