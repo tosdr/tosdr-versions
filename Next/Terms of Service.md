@@ -1,6 +1,6 @@
 5.38.15
 
-1727771396978
+1727792970314
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727771339655
+1727793235894
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727771079801
+1727793005885
 
 You need to enable JavaScript to run this app.
 
@@ -502,24 +502,6 @@ The available credit shown in marketing material is correct at the time it was c
 
 There will be a soft search made on your credit file to determine if you would be successful in an application for a Next credit account. A soft search is not visible to other companies and will not impact your credit score or future applications for credit. Existing customer details will be used to check eligibility. For further information please see our [Privacy & Cookie Policy](https://www.next.co.uk/privacy).
 
-### £10 off first order
-
-1. Offer available to selected customers, criteria predefined by Next Retail Limited.
-2. Your unique discount code will be provided to you via email.
-3. The discount entitles you to £10 off your order. The discount will only be valid on orders over £30 after other discounts have been applied.
-4. Between 00:01 on 01/10/2024 until 23:59 on 31/12/2024 enter the discount code into www.next.co.uk/epin to redeem the discount.
-5. You must be logged into your customer account to redeem the offer. The discount can only be used by the account holder.
-6. The offer can only be used once per customer.
-7. The offer is for online purchases only.
-8. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
-9. The promotion discount applied will be apportioned across all qualifying items.
-10. If you have more than one unused promotion against your account, please note that only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
-11. The discount cannot be exchanged for cash.
-12. Usual delivery times, methods, charges and returns policies apply.
-13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
-14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
-15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
-
 ### 10% off Credit Welcome Offer
 
 ‡This offer is only available to customers opening a credit account (nextpay or next3step) after the 15th April 2024 and may be withdrawn at any time. Minimum purchase value is £20 in a single transaction after other discounts and gift cards/e-vouchers have been applied. Excludes delivery charges, nextunlimited subscriptions and the purchase of gift cards/e-vouchers. Returns will be refunded at the discounted price paid. This offer can only be redeemed on your first qualifying purchase made on Next.co.uk and will be applied at checkout.
@@ -567,6 +549,25 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Clarins Promotion
+
+The Clarins Gift will be automatically added to bag when you buy two selected Clarins products. The Clarins Gift contains:
+
+* Total Eye Lift 7ml
+* Hydra-Essentiel Cream 30ml
+* Beauty Flash Balm 30ml
+* Travel Bag
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Clarins Gift will be automatically added once 2 qualifying Clarins products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
 
 ### Dermalogica Promotion
 
@@ -618,13 +619,6 @@ This offer is not available to staff.
 
 Offer applies while stocks last.
 
-### 15% off on Selected The Inkey List Promotion
-
-* Up to 15% off on selected The Inkey List products.
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
-
 ### 15% off Homeware terms
 
 1. Offer available to selected customers, criteria predefined by Next Retail Limited.
@@ -659,6 +653,24 @@ Offer applies while stocks last.
 12. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
 13. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 14. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
+
+### £10 off first order
+
+1. Offer available to selected customers, criteria predefined by Next Retail Limited.
+2. Your unique discount code will be provided to you via email.
+3. The discount entitles you to £10 off your order. The discount will only be valid on orders over £30 after other discounts have been applied.
+4. Between 00:01 on 01/10/2024 until 23:59 on 31/12/2024 enter the discount code into www.next.co.uk/epin to redeem the discount.
+5. You must be logged into your customer account. The discount code can only be used by the account holder.
+6. The offer can only be used once per customer.
+7. The offer is for online purchases only.
+8. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+9. Promotion discount applied will be apportioned across all qualifying items (those not excluded above).
+10. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
+11. The discount cannot be exchanged for cash and no refund or change will be given.
+12. Usual delivery times, methods and charges and returns policy apply.
+13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
+15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### £10 off £25 Promotional Offer
 
@@ -745,21 +757,6 @@ The Bare Minerals Gift will be automatically added to bag when you buy two selec
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
   
 The Bare Minerals Gift will be automatically added once 2 qualifying Bare Minerals products have been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
-
-### L’Occitane Promotion
-
-The L’Occitane Gift will be automatically added to bag when you buy two selected L’Occitane products. The L’Occitane Gift contains:Verbena Shower Gel 70ml, Verbena Cooling Hand Cream Gel 10ml, Shea Verbena Soap Bar 50g.
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The L’Occitane Gift will be automatically added once 2 qualifying L’Occitane products have been added to the bag on either the Product or Shopping Bag Pages.  
   
 The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
   
@@ -2531,7 +2528,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727772125760
+1727793405981
 
 ### Our Social Networks
 
