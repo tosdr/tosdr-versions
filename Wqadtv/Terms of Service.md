@@ -30,20 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_16x9.jpg) ![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_360x203.jpg)](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_360x203.jpg)](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
         
-        #### [Iowa teenager killed after being thrown from pick-up truck in New London](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a) [![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_16x9.jpg) ![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_360x203.jpg)](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a)
+        #### [Student Hunger Drive for the River Bend Food Bank kicks off](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08) [![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_360x203.jpg)](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
         
-        #### [Iowa 16-year-old killed after being thrown from pick-up truck in New London](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a) [![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_16x9.jpg) ![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_360x203.jpg)](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a)
+        #### [Celebrating the kick-off of River Bend Food Bank's Student Hunger Drive](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
         
-        #### [16-year-old killed after being thrown from pick-up truck in Henry County, Iowa](https://www.wqad.com/article/news/local/iowa-new-london-pick-up-truck-bed-henry-county-gavin-browning/526-5e6a1378-5eee-4a9f-876d-03da2399834a)
-    *  [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e)
+        #### [Vacant home catches fire in Moline Sunday night](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
         
-        #### [Virginia man arrested after stealing vehicle, leading police on chase in Moline](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e)
-        
-        #### [Police: Virginia man steals vehicle in Moline, leads police on chase](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e)
-        
-        #### [Moline police chase leads to arrest of Virginia man](https://www.wqad.com/article/news/local/public-safety/moline-police-chase-stolen-vehicle-carjacking-walmart-rock-river-plaza/526-9cd21529-0140-48c3-82f4-ccd79586141e)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -62,11 +57,11 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7/20240923T230648/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7/20240923T230648/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7_360x203.jpg)](https://www.wqad.com/article/weather/fema-urges-illinois-residents-to-apply-for-assistance-after-severe-july-flooding/63-6e4980f9-6711-407a-a12a-736a4567162a)
         
-        #### [National Weather Service is making changes to cold weather headlines this season](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
+        #### [FEMA urges Illinois residents to apply for assistance after severe July flooding](https://www.wqad.com/article/weather/fema-urges-illinois-residents-to-apply-for-assistance-after-severe-july-flooding/63-6e4980f9-6711-407a-a12a-736a4567162a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cd913f57-a8e2-4cc7-93cc-5ea64d22a796/20240930T124716/cd913f57-a8e2-4cc7-93cc-5ea64d22a796_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cd913f57-a8e2-4cc7-93cc-5ea64d22a796/20240930T124716/cd913f57-a8e2-4cc7-93cc-5ea64d22a796_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7119f951-fbd0-419f-afc4-dce18f5332ce/20240930T220813/7119f951-fbd0-419f-afc4-dce18f5332ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7119f951-fbd0-419f-afc4-dce18f5332ce/20240930T220813/7119f951-fbd0-419f-afc4-dce18f5332ce_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [September ends on a dry and summer-like note](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -92,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-81°
+67°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
