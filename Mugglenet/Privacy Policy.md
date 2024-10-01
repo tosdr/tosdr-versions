@@ -336,15 +336,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Sybill Trelawney’s middle name is Patricia.
+Only four spell incantations appear in Harry Potter and the Sorcerer’s Stone: Wingardium Leviosa, Petrificus Totalus, Alohomora, and Locomotor Mortis.
 
 ### Potter History
 
-May 29, 2007 – Warner Bros. announces that Harry Potter and the Order of the Phoenix will be released two days earlier (July 11) than originally scheduled.
+January 25, 2005 – It was announced that Mrs. Weasley would not be in the Goblet of Fire movie.
 
 ### Potter Quote
 
-“Only here shall you know freedom, only here shall you know yourself.”
+“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
 
 [](#)
 
