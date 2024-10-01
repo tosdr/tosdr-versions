@@ -1,36 +1,30 @@
-![](./assets/image.svg) Privacy & Terms
+![wysa-logo](./assets/image.svg) Privacy & Terms
 
 [Privacy Policy](https://legal.wysa.io/privacy-policy) Terms of Service
 
-[Important Notice](#importantNotice)
+[Key Information](#keyInfo)
 
-[Recent Changes](#changes)
+[About Our App and Services](#aboutOurApp)
 
-[What is Wysa App?](#wysaApp)
+[Who can Use our app](#whoCan)
 
-[Who can Use the Service?](#eligible)
+[Wysa Account](#wysaAccount)
 
-[About Wysa Accounts](#about)
+[Use of Wysa Coach or Therapist](#useWysaCoach)
 
-[About Wysa emotional well-being professional Service](#coachService)
+[Use of Wysa Medical Assistant](#useMedicalAssistant)
 
-[Additional Service-related terms](#additionalService)
+[Additional service-related terms](#additionalServiceTerms)
 
-[Wysa “Gift Card” Program](#giftCard)
+[Service Rules](#serviceRules)
 
-[Your use of Wysa+ Generative AI Services technology](#generativeAI)
-
-[What are the Service Rules?](#serviceRules)
-
-[About User Content](#aboutUser)
+[User Content](#userContent)
 
 [About Mobile Software](#aboutMobile)
 
 [Our Proprietary Rights](#ourProprietary)
 
 [About Privacy, Security, Third-Party Links and Monitoring](#privacy)
-
-[About Payments and Cancellations](#payments)
 
 [Termination](#termination)
 
@@ -48,77 +42,62 @@
 
 Wysa Terms of Service
 
-Welcome to Wysa, the mobile and online service of Touchkin eServices Private Limited (hereinafter referred to as **"Wysa"**, or **"We"**, or **"Us"** or **"Our"**). This Terms of Service applies to all visitors, data subject, and others who access the Service ("User(s)" or “You/r”) including persons buying for teams (“Subscribers”). This document is a legally binding agreement between You and **Touchkin eServices Private Limited**, a private limited company registered in India at No. 532, "Manjusha", First Floor, 2nd main, 16th Cross, II stage, Indiranagar, Bengaluru KA 560038 IN and/or **Wysa Ltd**, a private limited company, registered in the UK and/or **Wysa Inc.**, a private company registered in the USA. The domain name [www.wysa.com](https://www.wysa.com/) and all associated subdomains (hereinafter referred to as "Website") and Wysa mobile application, web-based and online applications (**"Mobile Software"** or **"Wysa App"**) is owned and managed by Touchkin eServices Private Limited.
+**Initial Effective Date: June 30, 2017 (GMT)  
+Latest Revised Date: October 1, 2024 (GMT)  
+Version: 5.0.0**
 
-You may use our Apps to access one or more of our services and offerings (collectively the **"Service(s)" or “Wysa Service”).**
+This terms of service applies to your use of our website or web pages ([wysa.com](https://wysa.com/)), web-based or mobile-based software (“app”) and services. When using our website, web pages, app and services, you agree to follow these terms and any other related terms of use. If you use the Wysa+ service, then the [Wysa+ Terms of Use](https://legal.wysa.io/wysa-plus/terms) will also apply to you.
 
-1. AI chatbot (“AI Coach”).
-2. Digital selfcare tool-packs.
-3. Emotional well-being professional.
-4. Guided-group meditations.
-5. Services offered over WhatsApp (available in select geographies only).
-6. Services purchased from our website and web pages.
-7. Digital front door or e-triage.
-8. Multi-lingual offerings (available in select geographies only).
-9. Online controlled and real-world research studies
-10. Validated preventative guided programs for Institutional users.
-11. Wysa+ Generative AI (Wysa+).
+You may try out one or more services made available to you. These include:
 
-We may also provide these and additional services on behalf of Your Institution (“Institutional Services”). An Institution could be an enterprise, university, hospital, research institution and other public or private organisations. Institutional Services may involve processing information on behalf of the Institution. Where applicable, you must agree to the Terms of Services and Privacy Policies of both Wysa and your Institution in order to proceed with using the Institutional Service.
+* A text or voice-based digital coach powered by an Artificial Intelligence chatbot (“AI Coach”).
+* Clinically verified tools delivered over text or voice (“Digital tools”).
+* Text or audio-video chats with a human mental health and well-being expert (“Wysa Coach”).
+* Text or audio-video chats with a Chronic Care Management professional (“Wysa Medical Assistant”).
+* Use our Digital Front Door and get access to different Institutional services (“e-triage”).
+* Use the AI Coach powered by Generative AI (“Wysa+”).
 
-By accessing or using the Wysa App and Service, You signify that You have read, understood, and agree to be bound by this terms of service and to the collection and use of Your Information as set forth in the [Privacy Policy](https://legal.wysa.io/privacy-policy), [Cookie Policy](https://www.wysa.io/cookie-policy) and terms of any other policies of Wysa as may be applicable to You whether or not You are a registered User of Our Service. These Terms of service, [Privacy Policy](https://legal.wysa.io/privacy-policy), [Cookie Policy](https://www.wysa.io/cookie-policy) and any other terms and conditions as may be applicable shall hereinafter collectively be referred to as **“Agreement”** or **“Contract”**. For further Information regarding the use of Your data by Wysa, please read Our Privacy Policy.
+We will work with your public institution, healthcare institution, educational institution or other organisation to offer our services. These are called Institutional services. Before you can use these services, you will need to agree to our terms and the terms of your Institution.
 
-Where not specifically called out, use of uppercase / lowercase and bold / not bold would carry the same meaning in this document.
-
-Initial Effective Date: June 30, 2017 (GMT)  
-Latest Revised Date: July 23, 2024 (GMT)  
-Version: 4.4.0
+These terms of service and other related terms of use provided are a legal agreement between you and Touchkin eServices Private Limited Also known as “Wysa”. Touchkin eServices Private Limited is registered in India.
 
 * * *
 
 Content
 
-[Important notice](#importantNotice)
+[Key Information](#keyInfo)
 
 * * *
 
-[Recent Changes](#changes)
+[About Our App and Services](#aboutOurApp)
 
 * * *
 
-[What is Wysa App?](#wysaApp)
+[Who can Use our app](#whoCan)
 
 * * *
 
-[Who can Use the Service?](#eligible)
+[Wysa Account](#wysaAccount)
 
 * * *
 
-[About Wysa Accounts](#about)
+[Use of Wysa Coach or Therapist](#useWysaCoach)
 
 * * *
 
-[About Wysa emotional well-being professional Service](#coachService)
+[Use of Wysa Medical Assistant](#useMedicalAssistant)
 
 * * *
 
-[Additional Service-related terms](#additionalService)
+[Additional service-related terms](#additionalServiceTerms)
 
 * * *
 
-[Wysa “Gift Card” Program](#giftCard)
+[Service Rules](#serviceRules)
 
 * * *
 
-[Wysa use of Generative AI technology](#generativeAI)
-
-* * *
-
-[What are the Service Rules?](#serviceRules)
-
-* * *
-
-[About User Content](#aboutUser)
+[User Content](#userContent)
 
 * * *
 
@@ -131,10 +110,6 @@ Content
 * * *
 
 [About Privacy, Security, Third-Party Links and Monitoring](#privacy)
-
-* * *
-
-[About Payments and Cancellations](#payments)
 
 * * *
 
@@ -158,244 +133,206 @@ Content
 
 * * *
 
-Important Notice:
+* * *
 
-1.
+Important Information for Using The App and Services
 
-If You are having suicidal thoughts or planning to act on suicidal thoughts, or if You feel that You may be a danger to Yourself or to others, or if You otherwise have any medical or mental health emergency or severe mental health condition, or if You are in a crisis or trauma or abuse, please discontinue use of the Service immediately and call the relevant emergency number in Your country or the approved helplines provided by Your Institution.
-
-2.
-
-If You are less than 18 years of age, please read through the Wysa Privacy Policy and the Wysa Terms of Service with Your parent or legal guardian or check with Your Institution to understand eligibility before use. Wysa is not to be used by children under 13 years. Wysa does not take responsibility for any misrepresentation of age and use.
-
-3.
-
-Your interaction with the AI Coach is with an AI system and not a human. The AI Coach is restricted in the means of response, and the intended use is for providing evidence-based tools and techniques to manage emotions and encourage mental well-being in a self-help and self-monitoring context. It is not intended for providing diagnosis, treatment or cure of a condition or disease. The AI Coach cannot and will not offer advice on issues it does not recognize.
-
-4.
-
-Your interaction with Wysa emotional well-being professionals is with a human who is a highly trained and qualified emotional health and well-being professional.
-
-5.
-
-When you subscribe to our emotional well-being professional service, you get human-supported emotional well-being services which are not a replacement for treatment-focused therapy. Wysa emotional well-being professionals draw on various evidence-based psychological and lifestyle coaching techniques to provide empathetic and non-judgmental support to help service users strengthen their self-esteem and ace through emotional hurdles and current concerns to reach their goals. The service being offered is thus an enabling and empowering mode of support. If any user is found to need a diagnosis, treatment or any other regulated service, under our protocols, the mental health professionals focus on motivating them to seek out a locally licensed professional, and help them problem-solve around barriers to access.
-
-6.
-
-Audio-Video based sessions with Wysa emotional well-being professional are available only in select geographies and Apps. It may not be available in your region if not mentioned within the app. Please check with Your emotional well-being professional regarding availability in your region or write to us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). You may be asked to set up an account with a 3rd party audio-video application provider to use the service.
-
-7.
-
-Wysa emotional well-being professional services are not intended to be a replacement for face-to-face psychotherapy or to provide a diagnosis, prognosis, treatment or cure for a disease/condition/disorder or disability or provide any type of state-regulated mental health services in Your country of residence. It is an enabling and empowering mode of support, rather than treatment of illness or a health condition.
-
-8.
-
-By using the Wysa emotional well-being professional Services, You understand and agree that the professional assigned to work with You will be located remotely and may not be located in Your country or state of residence.
-
-9.
-
-Wysa AI Coach and Wysa emotional well-being professional cannot and will not offer medical or clinical advice. In case You mention the need for such advice, they will suggest that You seek advanced (medical) help.
-
-10.
-
-Wysa App is designed to offer general mental health advice and support and cannot offer condition specific advice for complex medical conditions such as complex long term illness, cancer, infertility or genetic disorders among others.
-
-11.
-
-Please first consult a healthcare professional before using the App, if You have any medical conditions including but not limited to Pregnancy, Sleep Apnea, Restless Leg Syndrome (RLS), Seizures or Epilepsy, hallucinations or nightmares, sleep walking, excessive daytime sleepiness, dizziness or tremors. The Wysa App may not be right for You if You are; a child under 13 years, someone with severe mental or physical condition or disorder, a shift worker, someone who regularly keeps changing sleep schedules or someone who sleeps at times that are out of sync with Your body’s natural rhythm.
-
-12.
-
-We take all reasonable care to keep Your conversations private and secure. You can also keep Your conversations private and device secure by following the best practices outlined in the Privacy Policy.
-
-13.
-
-For safety and security reasons, We strongly recommend that You keep Your conversations with Wysa App private. We strongly recommend that You set automatic updates of the Wysa App in the application manager settings of Your mobile device; to get the latest Wysa App-based features and fixes. Always exit the Wysa App version in Your mobile device by using the back button before upgrading to a newer version to prevent loss of ongoing or previous conversations.
-
-14.
-
-Your submitted Data will be transferred, stored and processed in Our secure servers hosted by our cloud service providers. You understand and agree that We may transfer, store and process minimal data outside Your region to enable us to provide Our services. These could be to regions where data protection laws may be less stringent than those in Your country. Such data handling will be based on Our Privacy Policy.
-
-15.
-
-The App and its Services are primarily in the English language. We also provide Hindi and Spanish version apps for users in certain geographies. Some of the AI Coach modules, Wysa emotional well-being professional services and tools are enabled for Hindi and Spanish language users and are available only in certain geographies. The terms of this agreement apply to the Hindi and Spanish language components as well.
-
-16.
-
-The App and its Services cannot and should not be used by a third-party for Independent Research and Clinical Studies without the explicit permission of Wysa.
+1. If you are feeling really upset, thinking about hurting yourself or others, or have a big health emergency, stop using the app right away. Call your local emergency service or tell your parents or guardian so they can get you help. In such cases, your Institution may or may not require us to send alerts which might contain information that helps them identify you so that they can take necessary steps to support you.
+2. Currently the app is available in English, and select Indian languages.
+3. You should be the right age to use the app. Your Institution may set age limits. If you say you are older than you are, that is not okay, and Wysa is not responsible for it.
+4. We do not ask for your personal data unless it is needed for your Institution. We only collect the data we need to help you. Read our privacy policy and related policies to understand how we use your data.
+5. The AI Coach is an AI technology powered software, not a real person, so it can only help in restricted ways. It will not offer medical or clinical advice and only suggest that you seek medical help.
+6. If you talk to a human mental health and well-being professional through the app, they are assigned by Wysa to provide Wysa Coach services or Wysa Medical Assistant services.
+7. The Wysa Coach service uses audio-video or text-based messaging to support you. Wysa Coaches use proven methods to make you feel better and train you to feel good about yourself. They listen without judging and help you solve problems. Our service helps you become mentally stronger and achieve your goals.
+8. The Wysa Medical Assistant uses audio-video or text-based messaging to provide Chronic Care Management services.
+9. You can talk and video chat with a Wysa Coach or Wysa Medical Assistant only when it is allowed. If you do not see this option in your app, it means you cannot use it.
+10. Wysa coaches or Wysa Medical Assistant are not meant to replace face-to-face visits to a doctor or psychiatrist. They do not give diagnoses, treatments, monitors or cures for diseases or conditions. They are there to support and help you, not to treat illnesses.
+11. The app can help with general mental health but not with serious health issues like severe mental health conditions or long-term illness or conditions. If you have health problems, check with your local clinician before using the app.
+12. Where you use voice based services of our AI coach, the intended purpose is to provide support to manage your mental well-being. The voice based service is not intended for emergency purposes.
+13. Keep your conversations private and follow safety rules to secure your data.
+14. Keep the app up-to-date so you get the latest features. Always exit the app properly before updating.
+15. You cannot use the app for research or studies unless Wysa gives permission.
 
 * * *
 
-Changes in v4.4.0 | July 23, 2024
+About Our App and Services:
 
-  
+With the apps, you can chat with an artificial intelligence (AI) coach to get access to tools and techniques to help manage your emotions and support your mental and behavioural health and well-being. The app is available on iOS, Android and over the web.
 
-**Additions**
+**Using the AI Coach**
 
-* Added Wysa+ Generative AI in the list of Services governed by this privacy policy and the additional Wysa+ Generative AI Privacy Policy.
+* The AI Coach is not a human, but an artificial intelligence system.
+* The app provides evidence-based tools to help you feel better and manage your mood.
+* You decide if you want to use the AI Coach based on your needs.
+* The AI Coach is here to help you become mentally strong, manage your feelings, learn to adapt, and handle your stress better.
+* The AI Coach cannot give advice on things it does not understand.
 
-**Updates**
+**Using the Wysa Coach**
 
-* Changed the section “How do we use Generative AI technology?” to “Your use of Wysa+ Generative AI Services.” This section has also been changed to reflect about the service and to provide links to the additional Wysa+ Generative AI terms of use and privacy policy.
+* The Wysa Coach is a mental health and well-being professional.
+* The Wysa coaches use proven methods and tools to train you to be mentally resilient.
+* You may need to give consent and permissions to use the service.
+* You might also need to give us details of a person to contact in an emergency for your safety.
+* If you tell us your age is between 13 and 18 years, you need permission from your parents or guardian. You need to tell your parents or guardian to email us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection).
+* Where decided by us or your Institution, the Wysa Coach conducts online group well-being sessions.
 
-You can read the full list of changes in the [Changes Log](#changesLog)
+**Using the Digital Front Door (e-triage) Service**  
+The service is given to you by your Institution. It helps your Institution guide you and your family to the right care and support. The service asks some set questions, and based on your answers, it shows you the right resources your Institution offers for your mental health and well-being.
 
-* * *
+**Using the Wysa+ Service**  
+Wysa+ provides an improved experience of the AI Coach service. It allows us to provide you with high-quality, safe, and clinically-approved content. Wysa+ uses third-party Generative AI and our own AI to chat with you. This helps the AI Coach talk about varied conversations and provide responses that are more suited to you. Where provided, Wysa+ allows you to chat in native English and specific Indian languages. Your conversation data is processed to provide this service. Every piece of content generated by the AI passes through our safety and quality checks before we use it. Our clinical staff review these content to make sure they are safe, private, high-quality, and work well. We only release features that have been validated. For more details, please read the [Wysa+ Terms of Use](https://legal.wysa.io/wysa-plus/terms) and the [Wysa+ Privacy Policy](https://legal.wysa.io/wysa-plus/privacy-policy).
 
-What is Wysa App?
+**Using the Chronic Care Management Service**  
+Chronic Care Management service is offered through our Medical Assistants. Wysa Medical Assistants are allied health professionals who have been trained to offer Chronic Care Management in a remote setting. They provide the service on behalf and under the supervision of care coordinators. Medical Assistants will help you adapt to living healthier lives by discovering your personal strengths and motivations, along with enabling adherence to your medication and appointments. Medical assistants will have monthly touchpoints with you to assist them in actively working towards better health and well-being. The Medical Assistant will not be prescribing medicines or dosages.
 
-The Wysa App has a virtual AI-based system (**“AI Coach”** or **“Wysa AI Coach”**) that You can chat with, including upon Your choice, the ability to subscribe and to message a highly trained and qualified mental health and emotional well-being professional (“Wysa emotional well-being professional” or “emotional well-being professional” or “professional”) or for Institution Users, to be able to use an Institutional support mechanism integrated within the Wysa App, and through a conversational interface get access to tools and techniques to manage Your emotional well-being. The Wysa App is available for both iOS and Android mobile systems and as a web browser-based system either on the Wysa’s web application or integrated within an Institution website. The AI Coach Service over WhatsApp business is currently piloted only in India. Your Interaction with the AI Coach is with an artificial intelligence system and not a human. The AI Coach is restricted in the means of response, and the intended usage of Wysa App is for providing support via evidence-based tools and techniques to manage emotions and encourage mental well-being, as an early intervention tool in a self-help or self-monitoring context. You make the choice of using the AI Coach, based on Your own estimate of need, and agree that this is only suitable for basic self-help. This is not intended to be a replacement for face-to-face psychotherapy or to provide a diagnosis, prognosis, treatment or cure for a disease/condition/disorder or disability. The AI Coach cannot and will not offer advice on issues it does not recognize. Using the Wysa App, You can track and manage Your mood, and learn context-sensitive evidence-based techniques that can help You feel better. Wysa App and Service is not intended for use in crisis such as abuse or complex or severe mental health conditions that causes for example; ideation of suicide, harm to self and others, or for any medical emergencies.Wysa App is designed to offer general mental health advice and support and cannot offer condition specific advice for complex medical conditions such as complex long term illness, cancer, infertility or genetic disorders among others. Wysa App and Service cannot and will not offer medical or clinical advice. It can only suggest that the user seeks advanced (medical) help.
+**Privacy and Data Handling**  
+Please read our Privacy Policy and related policies to see how we protect and handle your data. Also, read the Wysa+ Privacy Policy to learn how we use your information when you use the Wysa+ services.
 
-Please first consult a healthcare professional before using the App, if You have any of the following conditions- Pregnancy, Sleep Apnea, Restless Leg Syndrome (RLS), Seizures or Epilepsy, hallucinations or nightmares, sleep walking, excessive daytime sleepiness, dizziness or tremors. The App may not be right for You if You are; a child under 13 years, someone with severe mental or physical condition or disorder, a shift worker, someone who regularly keeps changing sleep schedules or someone who sleeps at times that are out of sync with Your body’s natural rhythm.
+Limits to What the app can do
 
-The web-widget Service and the WhatsApp-based business service is limited in its features and you will be asked to download the mobile-version of the app to enable access to the full App features and Services.
-
-* * *
-
-Who can Use the Service?
-
-You may use the Service only if You are a natural/legal person, agree to this Agreement and form a binding contract with Wysa, and only in compliance with all applicable local, state, national, and international laws, rules and regulations. You may use the App and services if you are 18 or more. If You are between 13 and 18 years of age, please read through this Wysa Privacy Policy and the Wysa Terms of Service with Your parent or legal guardian, and in such a case the Agreement shall be deemed to be a contract between Wysa and Your legal guardian or parent and to the extent permissible under applicable laws, enforceable against You. Kindly inform your parent or legal guardian to provide their consent by writing to us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). Anyone under 13 is strictly prohibited from creating an account and/or using the Service. Wysa does not take responsibility for any misrepresentation of age and use.
-
-If Your Institution specifies a different age restriction, such as at least 18 and above, as a condition of using this Service, that restriction shall apply rather than the one above.
-
-If You use the Wysa emotional well-being professional Service,
-
-* You may be asked to set up an account with a 3rd party audio-video application provider.
-* You may be asked to provide your informed consent to use the services.
-* You may be asked to provide emergency contact details for your safety purposes.
-* You will be asked to provide a Parental or Legal Guardian consent if You reveal Your age to be between 13 and 18 years. You will be required to inform Your parents or legal guardian and have them send Us an email consent to [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection), as directed by Your Wysa emotional well-being professional, using the same email ID that was used to subscribe to Our Service.
-* Without receiving your informed consent or parental or legal guardian consent, We will be unable to offer Our full Services.
-
-Wysa reserves the right to refuse access to the Service or terminate Your account if eligibility is not met, at its sole discretion. The Service is not available to any Users previously removed from the Service by Wysa.
-
-**Institution version of Wysa App**
-
-Enterprises, Organisation, school, university, trust, service, hospital, clinic, research institution or other public or private organisation (“Institution(s)”) may introduce Wysa App to their employees, patients and members. These Institutions may also customize Wysa App and add or replace certain Wysa Service(s) or integrate their own Services within the Wysa App (“Institution version of Wysa App'') or request Wysa emotional well-being professional Services outside the Wysa App including but not limited to well-being webinars or group sessions. Such employees, patients and members of Institutions are also User(s) of the Wysa App or the Institution version of Wysa App (“Institution User(s)”). In such an event and where applicable, these Institution’s terms and these Institution's Privacy Policy shall also apply to Your Use of Wysa App and Services. In the event of any conflict with such additional terms and privacy policy, Wysa’s Agreement shall apply. Wysa App may carry links to material or Websites or Web Pages or Services managed by third parties on which the Institution and Wysa may have no control, agreement or affiliation. Please refer to documentation including terms and privacy policy provided by such third parties before accessing such links. The Institution version of Wysa App and its Services can only be accessed by authorized Institution User(s) following installation and access instructions as shared by the Institution or their Service provider.
-
-**Wysa License**
-
-Subject to this Agreement, You are hereby granted a non-exclusive, limited, non-transferable, freely revocable license to use the Wysa App and Service for Your personal use only and as permitted by the features of the Service. Wysa reserves all rights not expressly granted herein in the Wysa App, Service and the Wysa Content (as defined later in this Agreement). Wysa has the right to terminate this license at any time for any reason or for no reason.
+* The app is not a replacement for face-to-face therapy.
+* It cannot diagnose, treat, monitor or cure any diseases or conditions.
+* It cannot offer medical or clinical advice—only suggests you seek professional help.
+* The app is not suitable for complex medical conditions or severe mental health issues such as eating disorders, psychosis, or crisis support such as in case of suicidal thoughts.
 
 * * *
 
-About Wysa Accounts
+Who can Use our app
 
-Creation of an Account via registration is currently not required. Wysa may, at its sole discretion, make the creation of an Account mandatory for all or certain Services in the future. In such an event, the following terms shall apply.
+The app is intended for anyone who is older than 13 years or where provided by your Institution, follow the age criteria and rules set by your Institution. If you are a child, please ask your parent or guardian to read this policy and the terms of service with you. This agreement will then be considered a contract between Wysa, you and your parent or guardian. Your parent or guardian may be required to provide consent by writing to us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). We do not handle any information about crimes or offences. Please do not share any such information when using our app and services. Wysa is not responsible if someone lies about their age to use the app and service.
 
-You may be required to create an account with Wysa to avail certain Services with a username and password or Access Codes **(“Account”)**. Your Account will give You access to the Services and functionality that We may establish, modify and maintain from time to time and in our sole discretion.
+Wysa can refuse access to the service or close your account if you are not eligible, at their discretion. The service is not available to users who have been removed by Wysa before.
 
-When creating Your Account, if required, You must provide accurate and complete Information. If You provide any Information that is untrue, inaccurate, not current or incomplete (or becomes untrue, inaccurate, not current or incomplete), or if We have reasonable grounds to suspect that such Information is untrue, inaccurate, not current or incomplete, We have the right to suspend or terminate Your Account and refuse any and all current or future use of the Service (or any portion thereof).
+Places like public Institutions, educational Institutions, healthcare Institutions and other groups (“Institution(s)”) might ask you to use the app. These Institutions may add their own extra features in the app and service (“Institution Version”). Where provided by your Institution. You will adhere to the age criteria and rules set by your Institution. If needed, your Institution might ask you and your parents or guardian for permission before letting you use the app. The app might have links to other websites or content not controlled by the Institution or Wysa. Always check the terms and Privacy Policy of these third-party websites before using them. You can use the app only if you are allowed by the Institution and you follow their instructions on how to install and access it.
 
-You are solely responsible for the activity that occurs on Your Account, and You must keep Your Account password secure. Whenever You need to set a password, We encourage you to use "strong" passwords (passwords that use a combination of upper-and-lower case letters, numbers and symbols) with Your Account. You must notify Wysa immediately of any breach of security, unauthorised access to Your chats or other data, or unauthorized use of Your Account. Wysa will not be liable for any losses caused by any unauthorized use of Your Account. We may also suspend or terminate Your Account according to this Terms of Service where we see behavior, content, or other factors that pose a threat to Our App and Services.
-
-You may never use another User's Account.
-
-You may control Your user Account profile and how You interact with the Service by changing the Settings in the Mobile Software. You consent to Our using Your profile to send You Service-related email notices, including any notices required by law, in lieu of communication by postal mail.
+**Licence**  
+By using this Agreement, you have permission to use the app and service. This permission is non-exclusive (others can use it too), and non-transferable (you cannot give it to someone else). You can only use the app and service for yourself and according to its features. Wysa still owns all other rights to the app, service, and Wysa Content. Wysa can take away your permission to use the app and service anytime, with or without a reason.
 
 * * *
 
-About Wysa emotional well-being professional Service
+Wysa Account
 
-_\[This section applies only to the conversations with a Wysa emotional well-being professional. For some Institution version of Wysa App, Wysa App may provide links to other support from the institution’s EAP service or health provider, in which case their Terms and Privacy Policy will apply.\]_
+Wysa might make it necessary to create an account for certain services. If that happens, here is what you need to know:
 
-When You use the Wysa emotional well-being professional Service provided to You on the Wysa App, the following terms will apply:
+* Setting Up: You might need to make an account with a username and password to use some services.
+* Accurate Information: When creating your account, you must give true and complete information. If your information is wrong or incomplete, Wysa can cancel your account.
+* Your Responsibility: Keep your account password safe. Use strong passwords (mix of letters, numbers, and symbols). If possible, enable two-step verification for extra security.
+* Security Issues: Tell Wysa immediately if someone else uses your account without permission. Wysa is not responsible for any problems caused by unauthorised use of your account.
+* Exclusive Use: You cannot use someone else’s account.
+* Settings and Notices: You can change your account settings anytime through the app. Wysa might send you important emails as notices.
 
-1. Wysa emotional well-being professional Service is a Premium Service provided by the Wysa App;
-2. You have chosen to utilize the Services of a Wysa emotional well-being professional engaged by the Wysa App by choosing and subscribing to an offered subscription, plan or bootcamp;
-3. Unless required for emergency reasons, avoid sharing Your Personal data (such as full name, date of birth, gender, contact numbers, address, financial identifiers, government-provided identifiers) or Your medical-related data or any other sensitive data (such as Your sexual preferences, religious or political opinions, financial data) when You use the Wysa emotional well-being professional Services;
-4. You can access the Wysa emotional well-being professional Service by providing a non-personally identifiable nickname, or User name. You have responsibility for the conduct, postings and transmissions that are made under Your User name;
-5. The Wysa emotional well-being professional Service is provided by highly trained and qualified mental well-being professionals. By using the emotional well-being professional Service, You understand and agree that the professional assigned to work with You will be located remotely and may not be located in Your country or state of residence. Wysa emotional well-being professionals are fully qualified and licensed in their geographies. However, please be aware that they may not be licensed to practice in Your state, country or geography;
-6. When you subscribe to the Wysa emotional well-being professional Service, you get human-supported emotional well-being services which are not a replacement for treatment-focused therapy. Wysa emotional well-being professionals draw on various evidence-based psychological and lifestyle coaching techniques to provide empathetic and non-judgmental support to help service users strengthen their self-esteem and work through emotional hurdles and current concerns to reach their goals. The service being offered is thus an enabling and empowering mode of support. If any user is found to need a diagnosis, treatment or any other regulated service, under our protocols, the emotional well-being professionals focus on motivating the user to seek out a locally licensed professional, and to help them problem-solve around barriers to access;
-7. **The Wysa Coach Service** is a text-based messaging or audio-video based (not available in all regions) emotional well-being professional service. It will apply motivational interviewing and life coaching to help You work towards Your personal well-being goals. The Service will focus on building wellness and emotional resilience. The underlying principle of this Service is that You have the knowledge and capacity to make desired changes in Your life. The authorised emotional well-being professional will support You in finding Your own way, help You tap into Your own strengths and abilities, so that You can identify and use resources around You to fill any gaps;
-8. **The Wysa Therapist Service** is a text-based messaging or audio-video based (not available in all regions) professional service. It will use person-centered supportive listening, motivational interviewing and evidence based approaches like evidence-based approaches like CBT principles to help You to take control of Your mental and emotional well-being. Wysa Therapists will draw on various evidence-based techniques to provide empathetic and non-judgmental support. The authorised professional will listen to Your worries empathetically, promote positivity and support You in making successful lifestyle changes, so that You can manage Your situation better and build emotional resilience;
-9. The Wysa App allows You to connect and have text-message based scheduled sessions or where available, an audio-video based session with a Wysa emotional well-being professional. You understand and agree that the Services offered are solely for the purpose of listening to You, supporting You in achieving Your defined goals and pointing You to the right Wysa App tools;
-10. Audio-Video based sessions with Wysa emotional well-being professional are available only in select geographies and Apps. It may not be available in your region if not mentioned within the app. Please check with Your emotional well-being professional regarding availability in your region or write to us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). You may be asked to set up an account with a 3rd party audio-video application provider to use the service;
-11. You understand and agree that Wysa emotional well-being professional Service is not a substitute for face to face psychotherapy, and/or does not provide a diagnosis, prognosis, treatment or a cure for a disease/condition/disorder or disability, and/or does not provide any type of state-regulated mental health services in Your country of residence;
-12. The Wysa emotional well-being professionals do not provide any medical, psychiatric, or other professional health care advice. They are not intended to be used to assess health conditions or substitute for professional medical advice, or relied upon for diagnosis or treatment. Use of Wysa emotional well-being professionals Services does not create or constitute a physician-patient relationship with any Wysa emotional well-being professionals, or anyone acting on behalf of Wysa;
-13. Wysa emotional well-being professional Service is not a crisis or emergency Service. If at any time You experience an emergency, medical or otherwise, please immediately reach out to the emergency contact in Your local area of residence;
-14. The Wysa App will assign a Wysa emotional well-being professional to You when You subscribe to the Service or when you schedule Your first session;
-15. After Subscription, You may be requested to provide an Informed Consent and Emergency Contact authorization details. The Informed Consent will be required before Your first Session with the Wysa emotional well-being professional. Your Wysa emotional well-being professional will also explain the Pros and Cons of online-based modality during Your early sessions with them;
-16. You will also be able to switch your Wysa emotional well-being professional at any time after Your first session by writing to Wysa at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection);
-17. Sessions are scheduled at the mutual convenience of the User and the Wysa emotional well-being professional;
-18. You are responsible to schedule a session with Your assigned Wysa emotional well-being professional;
-19. Aside from a scheduled session, You can send unlimited messages and chats and the Wysa emotional well-being professional will try to respond within 24 hours. Messaging will be only by text-based chat and only through the Wysa App. You agree to not collect contact details or any other personal information, or contact Your Wysa emotional well-being professional outside of the Wysa App;
-20. You can cancel or reschedule a scheduled session anytime before 3 hours to the start of the scheduled session. No cancellation or rescheduling will be allowed within 3 hours or after a session begins;
-21. Your private text-messaging based chats with a Wysa emotional well-being professional are available anytime for Your reference within the Wysa App. You will be able to access your text-based conversations and session summaries with the Wysa emotional well-being professional even after your subscription ends. You can always initiate the deletion of this data via the “Reset my data” option in the Wysa App settings at any time. On reset all your messages and transactional data with Your emotional well-being professional will be deleted. However, your active subscription, purchased through third parties like google play, iTunes, etc., will continue to exist post reset of your data;
-22. Your Audio-Video sessions with a Wysa emotional well-being professional are never recorded and stored. No playback or recording transcript will be available;
-23. You agree to not record and store Your Audio-Video Sessions with Your emotional well-being professional either within or from outside of the App;
-24. If Your Wysa emotional well-being professional is not available to take scheduled sessions due to any personal or emergency reasons, Wysa will provide You with an alternate emotional well-being professional. You can always opt to reschedule Your session;
-25. It is the intention of Your Wysa emotional well-being professional to provide Services that will assist You in reaching Your goals. Based upon the Information that You provide and the specifics of Your situation, Your Wysa emotional well-being professional will provide recommendations to You. Users, and Wysa emotional well-being professional are partners in the supportive process. You have the right to agree or disagree with Your emotional well-being professional recommendations;
-26. You agree to cordial messaging or conversation etiquette with Your Wysa emotional well-being professional and to post messages or converse in accordance with the User Content section within this agreement;
-27. The Wysa App serves as a “connector” for You to access online Wysa emotional well-being professionals. You agree that You are using the Services in your best judgement, and Wysa will not make any representation or warranty as to (a) the accuracy or availability of the Wysa App, (b) the willingness or ability of the Wysa emotional well-being professional to listen, (c) the willingness or ability of any Wysa emotional well-being professional to give advice, (d) whether You or anyone else shall find a Wysa emotional well-being professional Service helpful, useful or satisfactory, (e) whether You or anyone else shall find a Wysa emotional well-being professional advice relevant, useful, accurate or satisfactory, (f) whether the advice of the Wysa emotional well-being professional will be relevant to the User’s question, or (g) whether the Wysa emotional well-being professional advice will otherwise be suitable to Your or anyone else’s needs;
-28. Wysa performs a reference and background check of all Wysa emotional well-being professionals. You can view all Our Wysa emotional well-being professional profiles in the Coach or Therapist tab of the Wysa App;
-29. You understand and agree that, although a Wysa emotional well-being professional may have been accessed through the Wysa App, Wysa cannot predict or assess the competence of, or appropriateness for Your needs, of the Wysa emotional well-being professional. You also acknowledge and agree that You take full responsibility for the decision to access a Wysa emotional well-being professional;
-30. The monthly fee for the Wysa emotional well-being professional Service shall be as mentioned on the Wysa App and indicated to You at the time of purchase (“Fees”). Wysa may at its discretion revise the Fees. Any changes to the Fees will be effective only upon your approval through the Mobile Software. Wysa reserves the right to discontinue the Wysa emotional well-being professional Service upon non-payment of Fees by You. Fees are payable through purchase through Google Play and Apple iTunes, or other payment mechanisms as Wysa may introduce in its sole discretion from time to time, prior to the time the Services are rendered;
-31. Because Wysa emotional well-being professional Service is not a medical treatment, insurance may not cover the cost as a reimbursement. Some employers or other Institutions may cover some of the cost of the Wysa emotional well-being professional Service either directly or indirectly. It is Your responsibility to pay for the Service and get reimbursed by Your employer if that is the case;
-32. Your Subscription will be automatically renewed until Your subscription is cancelled. It is solely Your responsibility to cancel, which can be done at any time from Google Play and Apple iTunes;
-33. Cancelling Your subscription depends on Your payment method. Here are the two ways to cancel:
-  
-Google Play: [https://support.google.com/googleplay/answer/7018481](https://support.google.com/googleplay/answer/7018481)  
-iTunes: [https://support.apple.com/en-us/HT202039](https://support.apple.com/en-us/HT202039)38. The Fees payable by the User is a fixed fee and accordingly, You can use the Wysa emotional well-being professional Service as little or as much as You like, but You shall pay for the month regardless of how much You choose to use the Services;
-39. It is Your responsibility to note the date and time that the subscription will expire or come up for renewal, and to cancel prior to Your payment being processed. Payments may be subject to applicable currency exchange rates;
-40. Unless required for informed consent and for emergency reasons, the Wysa emotional well-being professional will not ask You for any Personally Identifiable Information (such as full name, email ID, phone number, address, gender and other identification including sensitive Information such as Your medical information, sexual preferences, religious or political opinions), other than Your nickname to personalize the Wysa emotional well-being professional Service. You also agree to not share any personally identifiable Information including sensitive Information from Your end. Any Information shared by You, shall be treated in accordance with this Terms of Service and Privacy Policy;
-41. The Wysa emotional well-being professional and You mutually recognize that they may hold discussions based on data and information provided by You. The Wysa emotional well-being professional will not voluntarily communicate Your data to a third party. Any use of data disclosed by You to the Wysa emotional well-being professional shall be in accordance with the Privacy Policy;
+Remember, Wysa can also suspend or cancel your account if you do anything that threatens the app or its services.
 
 * * *
 
-Additional Service-related terms
+Use of Wysa Coach or Therapist
 
-1. The Wysa App may offer in-app promotions from time to time such as free trials, discounts or upgrades to a plan or bootcamp for a limited time period. You understand and agree that such promotions may be available only once and cannot be extended or be transferable across multiple Users, plans and bootcamp;
-2. You have rights and these can be viewed in the Privacy Policy. If You have any questions, inquiries or complaints, please contact Us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). Wysa may ask additional information from You to service Your request appropriately. Please note that We may require to verify You before responding to any requests to exercise Your rights;
-3. We do not collect any Personally Identifiable Information from You, except when you agree to participate and consent to Wysa commissioned online research studies. At the same time, we also use limited anonymized data for research and statistical purposes to improve Our Product and Services and contribute to the development of user-centered best practices for mental well-being globally. Please refer Privacy Policy on how we handle Your data;
-4. Your participation on Wysa commissioned online research studies is voluntary. Details about the study will be made available and your informed consent taken at initial enrollment. Your expression of interest or provision of consent to participate does not automatically qualify you into the study. Your selection into the study is based on successfully meeting the research qualification criteria. Use of your provided data will be governed by [Wysa Privacy Policy](https://legal.wysa.io/privacy-policy#whatAddStudyData). Unless informed during enrollment, there will be no payment or benefits or feedback offered or expected from Wysa for your participation in the study. To the maximum extent permitted by applicable law, in no event shall Wysa, its affiliates, agents, directors, employees, suppliers or licensors be liable for any direct, indirect, punitive, incidental, special, consequential or exemplary damages or injury or losses arising out of or in connection with the research study.
-5. Wysa Services depend on various factors such as software, hardware and communications networks, and its processors. Wysa does not guarantee that the Wysa App Service will be uninterrupted or that it will be timely, secure or error-free. Wysa may hold Service Level Agreements with Your Institution to provide Our Wysa App and Services;
-6. All conversations and data obtained during the course of the Service is confidential. You agree and authorize Wysa to collect and process Your data in accordance with our Privacy Policy;
-7. Wysa or Wysa emotional well-being professional may disclose your data if Wysa reasonably believes that disclosure is necessary in order to comply with a legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirement of any governmental authority or Your personal safety;
-8. The Wysa App and Service may provide links to external resources or other content in third-party websites. Wysa has no control over any such links, content, web sites, products or services or any Information provided or transmitted via such links, web sites, products or services, or otherwise provided by any such third party. You acknowledge and agree that Wysa does not endorse such third-party products, services or advertisements and is not responsible for the availability of such third-party links, content, web sites, products or services and will not be responsible or liable for any content, advertising, products or other materials contained therein or the business practices or privacy practices related thereto. You warrant and agree that Wysa will not be responsible or liable, directly or indirectly, for any damage or loss or injury caused or alleged to be caused by or in connection with the use of or reliance on any such link, website, content, product and/or service. Wysa encourages You, the User, to, at a minimum, be aware of and to review the terms of service and the privacy practices related to third party sites;
-9. You understand that the use of technology is not always secure and You accept the technology risks during use of Your mobile device. You will follow good security practices during digital use including but not limited to setting a PIN to protect access, not sharing this with anyone, and not leaving your phone or chats unlocked for others to see. You understand and agree that safe use is Your responsibility, and Wysa will not be responsible in any event arising out of unauthorized access to Your chats or other data;
-10. It is agreed between You, Your heirs, agents, assigns, personal representatives and next of kin and Wysa and their officers, directors, employees, contractors, members, agents and assigns that any disputes or claims arising out of or relating to the Agreement, or the breach of this Agreement, will be mutually addressed by both the parties towards a resolution. Any such resolution may occur over the telephone. In the event that the dispute has not been resolved after 60 days then the terms of dispute resolution mentioned in Agreement will be followed by both the parties;
-11. You, for Yourself and on behalf of Your heirs, agents, assigns, personal representatives and next of kin, hereby release from liability, indemnify and hold harmless Wysa, and their officers, directors, employees, contractors, members, agents and assigns (collectively “the Indemnified Parties”) from and against any and all claims, losses, causes of action, costs, damages, expenses, injury and liabilities whatsoever, that You, Your heirs, agents, assigns, personal representatives and/or next of kin may have against the Indemnified Parties, which may incur, or which may arise out of or as a result of Your use of the Wysa App and Service and/or reliance upon advice provided therefrom, whether caused by your own actions or inactions, by the negligent act(s) or omission(s) of the indemnified parties, or otherwise, to the fullest extent permitted by law;
+When you use the Wysa Coach or Therapist service on the app, please understand and agree to the following:
+
+1. Wysa Coach or Therapist service is a premium service provided through the app.
+2. This service helps build emotional strength and support you in achieving your goals.
+3. Do not share personal information or sensitive data (like your medical info, financial info, or political opinions) unless it is an emergency.
+4. You can use a nickname to access the service. You are responsible for what happens under your name.
+5. Wysa Coach or Therapist are well-trained and qualified to provide this service.
+6. The service can be used through text messages or audio-video. It helps you work towards your well-being goals by offering support and guiding you to use your strengths.
+7. Wysa Coach or Therapist service is not a replacement for face-to-face psychotherapy and does not provide medical diagnosis or treatment based service.
+8. Wysa Coach or Therapist do not give medical advice. They only offer support to help you manage your emotions and achieve your well-being goals.
+9. The service is not for emergencies. If you have an emergency, contact your local emergency services immediately.
+10. You may be asked to provide informed consent and emergency contact details before your first session.
+11. You can change your Coach or Therapist anytime by emailing [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection).
+12. You are responsible for scheduling your sessions. If you cancel or reschedule a session, do it at least 3 hours before the session starts.
+13. Your text conversations with Wysa Coach are stored in the app for your reference. You can delete them anytime using the “Reset my data” option in the app settings.
+14. Audio-Video sessions are not recorded. You also agree not to record them.
+15. If your Coach or Therapist is unavailable, Wysa will provide another one or reschedule your session.
+16. The app lets you send offline text messages to your Coach or Therapist. Your Coach or Therapist will reply to your messages when they can.
+17. Other Wysa coaches may see your messages for ensuring quality assurance for all therapy sessions so that we can provide high quality service to our users if needed.
+18. Our system will detect any safety risks in your messages and share them with your Coach or Therapist and Institution.
+19. The objective is to help you build mental strength. You and the Coach or Therapist are partners in this process.
+20. You are responsible for your conduct, messages, and posts while using the app.
+21. You agree to be polite and follow good manners when messaging your Coach or Therapist, as stated in the User Content section of this agreement.
+22. Wysa checks the backgrounds of all Therapists. You can see their profiles in the app.
+23. The Coach or Therapist will not share your information with others without your permission. All data use will follow the Privacy Policy.
+24. The app connects you to the service. We do not guarantee:
+    1. The app will always be accurate or available.
+    2. The Coach or Therapist will always be willing or able to listen.
+    3. The Coach or Therapist advice will always be relevant, useful, accurate, or satisfactory.
+    4. The Coach or Therapist advice will be 100% safe or suitable for you and everyone else.
+25. Your access to the Coach or Therapist may end if our contract with your Institution ends.
 
 * * *
 
-Wysa “Gift Card” Program
+Use of Wysa Medical Assistant
 
-Wysa “Gift Card” program is a pre-paid membership to specific Services. A person who purchases the gift is referred to in these terms as the “Giftor”. A person who receives and redeems a Gift Card to the specific Services is referred to in these terms as the “Recipient”. Gift Cards are paid for by a one-time upfront payment. Once bought, the Giftor will receive a Gift Code along with an order confirmation and receipt. The gifting codes cannot be redeemed for cash, resold or combined with any other offers, including free trials. Please note that gifting codes cannot be redeemed if any of the premium subscription access is already enabled or if another gift card is already redeemed and active. We will automatically bill the Payment Method you provided for any purchased Gift Card at the time of purchase, not delivery. There are no cancellations, refunds or other credits for Gift Cards that are not redeemed. Wysa is not responsible if a Gift Card is lost, stolen or used without permission.
+When you use the Chronic Care Management service on the app, please understand and agree to the following:
+
+1. This Service is provided on behalf of your physician or Institution.
+2. Your Institution decides if you can chat with an assigned Wysa Medical Assistant.
+3. You will not be able to message or talk to your Medical Assistant after you no longer use the Service or our contract with your physician or Institution ends.
+4. Do not share any more personal information or sensitive data than required for the service.
+5. Wysa Medical Assistants are well-trained and qualified to provide this service.
+6. The service can be used through text messages or audio-video.
+7. Wysa Medical Assistant is not a replacement for face-to-face psychotherapy and does not provide medical diagnosis or treatment based service.
+8. Wysa Medical Assistant does not give medical advice. They will help you adapt to living healthier lives by discovering your personal strengths and motivations, along with enabling adherence to your medication and appointments.
+9. The service is not for emergencies. If you have an emergency, contact your local emergency services immediately.
+10. The Medical Assistant will share your provided information including any summary notes taken by them with your physician.
+11. If there is an emergency or if you have trouble following your treatment plan, the information related to these issues will be shared with your treating physician.
+12. You may be asked to provide informed consent and emergency contact details before your first session.
+13. You can change your assigned Medical Assistant anytime by emailing [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection).
+14. Where available, your Medical Assistant will schedule reviews as reminders to check your progress and offer support.
+15. You can always see your message history and reports from your Medical Assistant in the app.
+16. Audio-Video sessions are not recorded. You also agree not to record them.
+17. If your Medical Assistant is unavailable, Wysa will provide another one or reschedule planned sessions.
+18. The app lets you send offline text messages. Your Medical Assistant will reply to your messages when they can.
+19. Other Wysa Medical Assistants may see your text messages for ensuring quality assurance and provide high quality service.
+20. Our system will detect any safety risks in your messages and share them with your Medical Assistant.
+21. You are responsible for your conduct, messages, and posts while using the service.
+22. You agree to be polite and follow good manners when messaging your Medical Assistant, as stated in the User Content section of this agreement.
+23. Wysa checks the backgrounds of all Medical Assistants. You can see their profiles in the app.
+24. The app connects you to the service. We do not guarantee:
+    1. The app will always be accurate or available.
+    2. The Medical Assistant will always be willing or able to listen.
+    3. The Medical Assistant advice will always be relevant, useful, accurate, or satisfactory.
+    4. The Medical Assistant advice will be 100% safe or suitable for you and everyone else.
 
 * * *
 
-Your use of Wysa+ Generative AI Services technology
+Additional service-related terms
 
-We use third-party Generative AI technology services for our Wysa+ GAI Services. **Wysa+** represents the next generation of Wysa, designed to generate static, quality and clinically validated content that provide a high performing, safe and improved user experience with our AI based Services. No personal data gets shared with these third-party services. Wysa+ GAI Service is provided as a deterministic framework which follows the same safety-based structure as the regular Wysa services. This means that every Wysa+ GAI Services use case is tested for repeatability and clinical safety, and is used within an overall clinically approved flow.
-
-Generated content needs to pass our safety and quality guardrails before being accepted for use. All generated content scripts are rigorously quality checked for clinically validated and safe responses using a therapist-in-the-loop for safety, privacy, quality and performance. Only validated features get released within our App and Services. Where applicable, We will transparently inform you and seek your consent before enabling the Generative AI technology on the Wysa App.
-
-Refer the additional [Wysa+ Generative AI Terms of Use](https://legal.wysa.io/generative-ai/terms) and [Wysa+ Generative AI Privacy Policy](https://legal.wysa.io/generative-ai/privacy-policy) to be informed about our Wysa+ GAI Service and how we handle and process your provided data during the use of this Service.
+1. We may connect with your Institution's systems to safely and securely transfer the agreed information as part of the services. Wysa is not responsible for any mistakes or missing information in your data from these systems.
+2. You have rights, and you can learn more about them in our Privacy Policy. If you have any questions or complaints, email us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). Wysa might ask for more information to handle your request properly. We may also need to verify who you are before answering your questions.
+3. We use a small amount of anonymous data for research to make our services better and help improve mental well-being around the world. If you agree to join any Wysa online research studies, we will collect some personal data, as explained in our Privacy Policy.
+4. Joining our research studies is your choice. Details about the study will be shared with you, and you will be asked for your consent at the start. Agreeing to join does not guarantee you will be in the study; you must meet certain criteria. Your data will be used according to our Privacy Policy. Generally, you will not receive any payment or benefits for participating in these studies. Wysa and its team are not responsible for any damages or losses connected to the research study as much as the law allows.
+5. Our services depend on various things like software, hardware, and network connections. We do not guarantee that our app will always work perfectly, without interruptions or errors. We may have service agreements with your school to offer our app and services.
+6. All chats and data from our services are private, except in certain cases mentioned later. By using Wysa, you agree that we can collect and use your data as described in our Privacy Policy.
+7. Sometimes, Wysa or your Therapist or your Medical Assistant might have to share your data to meet legal requirements, such as court orders or for your safety.
+8. Our app might have links to other websites or services. Wysa does not control these links and is not responsible for their content, products, or services. We are not liable for any damages or losses from using these third-party sites. We recommend you review their terms of service and privacy practices before use.
+9. Using technology has risks, and you accept these risks. Protect your device and chats with good security practices like passwords. Do not share your password and keep your device safe. Wysa is not responsible if someone else accesses your chats or data.
+10. If you and Wysa have any disagreements or claims about this agreement, we will try to resolve them together, possibly over email or the phone. If we cannot resolve it within 60 days, we will follow the dispute resolution terms in this agreement.
 
 * * *
 
-What are the Service Rules?
+Service Rules
 
 You agree not to engage in any of the following prohibited activities:
 
-1. copying, distributing, or disclosing any part of the Service in any medium, including without limitation by any automated or non-automated "scraping";
-2. using any automated system, including without limitation "robots," "spiders," "offline readers," etc., to access the Service in a manner that sends more request messages to the Wysa servers than a human can reasonably produce in the same period of time by using a conventional on-line web browser;
-3. transmitting spam, chain letters, or other unsolicited email;
-4. attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;
-5. taking any action that imposes, or may impose at Our sole discretion an unreasonable or disproportionately large load on our infrastructure;
-6. uploading invalid data, viruses, worms, or other software agents through the Service;
-7. disclosing, collecting or harvesting any personally identifiable Information, including account names, from the Service;
-8. using the Service for any commercial solicitation purposes;
-9. impersonating another person or otherwise misrepresenting Your affiliation with a person or entity, conducting fraud, hiding or attempting to hide Your identity;
-10. interfering with the proper working of the Service;
-11. accessing any content on the Service through any technology or means other than those provided or authorized by the Service; or
-12. bypassing the measures We may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the content therein.
+1. Do not copy, share, or show any part of the service in any way, including using any computer programs or methods like "scraping."
+2. Do not use any automated tools like "robots," "spiders," or "offline readers" to access the service in a way that sends more requests to our servers than a person could by using a normal web browser.
+3. Do not send spam, chain letters, or other junk emails.
+4. Do not try to mess with or break the service's security or figure out any messages sent to or from our servers.
+5. Do not do anything that puts a heavy load on our system, more than what is fair or manageable, as decided by us.
+6. Do not upload bad data, viruses, worms, or other harmful software through the service.
+7. Do not collect or share any personal information, like account names, from the service.
+8. Do not use the service to ask people for money or business.
+9. Do not pretend to be someone else, lie about who you are, or hide your identity.
+10. Do not mess with how the service is supposed to work.
+11. Do not access any content on the service using methods or technology that we have not approved.
+12. Do not try to get around the measures we use to stop or limit access to the service, including methods that prevent copying content or enforce rules on how the service is used.
 
 * * *
 
-About User Content
+User Content
 
-Some areas of the Service may, either now or later, allow Users to post content such as chat content, profile Information, videos, comments, questions, and other content or Information or any such materials a User submits, posts, displays, or otherwise makes available on the Service ("**User Content**"). We claim no ownership rights over User Content created by You; the User Content You create remains Yours. However, by sharing User Content through the Service, You agree to allow Us, authorised Institutions or other authorised persons (in accordance with your settings and this Agreement) to view, edit, and/or share Your User Content. Wysa has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service.
+Some areas of the service may, either now or later, allow you to post content such as chat content, profile Information, videos, comments, questions, and other content or Information or any such materials a User submits, posts, displays, or otherwise makes available on the service ("**User Content**"). We claim no ownership rights over User Content created by You; the User Content You create remains Yours. However, by sharing User Content through the service, You agree to allow Us, authorised Institutions or other authorised persons (in accordance with your settings and this Agreement) to view, edit, and/or share Your User Content. Wysa has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the service.
 
 You agree not to post or transmit User Content that:
 
@@ -463,26 +400,6 @@ We deeply care about the integrity and security of Your Personal data and mainta
 The Service may contain links or other content related to third-party websites, advertisers, products and/or services, special offers, or other events or activities offered by third parties that are not owned or controlled by Wysa. Wysa has no control over any such links, content, web sites, products or services or any Information provided or transmitted via such links, web sites, products or services, or otherwise provided by any such third-party. Wysa does not endorse or assume any responsibility for any such third-party sites, Information, materials, products, opinions or services and will not be responsible or liable for any content, advertising, products or other materials contained therein or the business practices or privacy practices related thereto. If You access a third-party website or application from the Service, You do so at Your own risk, and You understand that these Terms of Service and Wysa's Privacy Policy do not apply to Your use of such sites. You expressly relieve Wysa from any and all liability, directly or indirectly, arising from Your use of any third-party website, application, software, service, or content and also for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such link, website, application, software, content, product and/or service. We do not promote third party offers as a part of the App experience. Your Institution may conduct advertising or marketing of Wysa Services. We may place ads online to test take-up of a specific Service or to promote a specific Service using only authorised advertisers and ad managers. Additionally, Your dealings with or participation in promotions of advertisers, if any, found on Our Service, including payment and delivery of goods, and any other terms (such as warranties) are solely between You and such advertisers. You agree that Wysa shall not be responsible for any loss or damage or injury of any sort relating to Your dealings with such advertisers. If You disclose Your Information to others, different rules may apply to their use or disclosure of such Information. We do not control the privacy policies of others. We encourage You to ask questions before You disclose Your personal Information to others. Wysa encourages You to, at a minimum, be aware when You visit or use a third-party website, application, software or service and to review the terms of service and privacy practices related to such third-party;
 
 Subject to the Agreement, We have the right and liberty to monitor the content on the Website and Mobile Software at all times which shall include Information provided in Your Account or any User Content posted by You. The monitoring of the Website is important to determine the veracity of the Information provided by You and that every User remains in consonance with the terms provided herein. Subject to the Agreement, We shall also have the liberty to remove any objectionable content, including User Content, which is in contravention of the Agreement or share such Information with any governmental authority as per procedures laid down by the law for the time being in force in India. It is hereby clarified that Wysa has a right to but not an obligation to monitor the content on the Website and the Mobile Software. Accordingly, Wysa shall not be liable for any claims, losses, damages costs or expenses that may arise as a consequence of the User Content published by You or any other User on the Website and Mobile Software.
-
-* * *
-
-About Payments and Cancellations
-
-_\[For some institution version of Wysa App, Wysa App may provide links to support from the institution’s EAP service or health provider, in which case their terms and Privacy Policy will apply.\]_
-
-The AI Coach Services are provided to the Users free of cost at present. The User may choose to avail additional services available on the Mobile Software **(“Premium Services”)** upon payment of a subscription fee. Premium Services shall be considered as a part of Services for the purpose of the Agreement. We may modify the subscription fee for the Premium Services or make all Services subject to payment of certain subscription fees at our sole discretion. The User will be notified of the applicable fee payable for the Services and the Premium Services prior to User’s use of the same.
-
-Subscriptions will be automatically renewed until subscription is cancelled before the end of the current period. For Apple iTunes, the subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. It is solely the User’s responsibility to cancel, which can be done at any time from Google Play and Apple iTunes. WE DO NOT GENERALLY ACCEPT SUBSCRIPTION CANCELLATIONS VIA EMAIL;
-
-It is the User’s responsibility to note the date and time that the subscription will expire or come up for renewal, and to cancel prior to Your payment being processed. Payments may be subject to applicable currency exchange rates.
-
-Cancelling Your subscription depends on Your payment method. Here are the two ways to cancel:  
-[Google Play](https://support.google.com/googleplay/answer/7018481)  
-[iTunes](https://support.apple.com/en-us/HT202039)
-
-If You purchase Wysa Services by means of Web-based purchases, You may use other third-party payment gateways provided by PayPal, RazorPay and Stripe to make Your payments. Payment using PayPal, RazorPay or Stripe is governed by their respective Terms and Privacy Policies. If You want to cancel or seek refund for Your subscription for any web-based purchases, then please write to Us at [\[email protected\]](https://legal.wysa.io/cdn-cgi/l/email-protection). In-App products or services purchased via [Google Play Points](https://play.google.com/console/about/programs/googleplaypoints/) will be non-refundable.
-
-To the maximum extent permitted by applicable law, in no event shall Wysa, its affiliates, agents, directors, employees, suppliers or licensors be liable for any direct, indirect, punitive, incidental, special, consequential or exemplary damages or injury or losses arising out of or in connection with the Services.
 
 * * *
 
@@ -561,24 +478,19 @@ Karnataka - INDIA
   
   
 
-**UK Office:**  
-WYSA LTD.  
-Plus X Innovation Hub,  
-Lewes Rd, Brighton BN2 4GL  
-UK
-
-  
-  
-
-**USA Office:**  
-Wysa Inc.  
-Industrious Boston,  
-3rd floor, 111 Dartmouth St,  
-Boston 21116
-
 * * *
 
 Changes Log
+
+**v5.0.0 | October 1, 2024**
+
+**Additions**
+
+* Covers services for our whatsapp based service, voice-enabled services, multi-lingual services, Chronic Care Management services (Using Wysa Medical Assistants).
+
+**Updates**
+
+* Overhaul of the Terms of Service to make it more readable.
 
 **v4.4.0 | July 23, 2024**
 
@@ -650,8 +562,8 @@ Changes Log
 * Updated paragraph on "Institution version of Wysa App" .
 * Grouped existing terms (earlier within "About Wysa emotional well-being professional") under a new section "Additional Service-related terms" for better visibility.
 * Reorganize and bulleted the terms under "What are the Service rules?" for improved readability.
-* Reorganize and bulleted the terms under "About User Content" for improved readability.
-* Moved existing content (earlier under "About User Content") to a new section "Copyrights and Intellectual Property Rights".
+* Reorganize and bulleted the terms under "User Content" for improved readability.
+* Moved existing content (earlier under "User Content") to a new section "Copyrights and Intellectual Property Rights".
 * Made updates across the section "About Privacy, Security, Third-Party Links and Monitoring" on promotions and advertisements.
 * Moved existing content (earlier under "About Wysa emotional well-being professional") to a new section "Termination".
 * Changed the header from "No Warranty" to "Warranty"
