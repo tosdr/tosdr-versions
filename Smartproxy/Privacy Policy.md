@@ -270,6 +270,45 @@ Upon registration to the Smartproxy dashboard, you will be asked to provide your
 
 Our payment service provider might ask you for additional information when administering your payments for our services from your account (for example, location information for VAT purposes, etc.). To learn more about the way our payment service provider processes your data, please refer to its privacy policy (the link is provided upon request for your information).
 
+Personal data processing when performing identity verification, related checks
+------------------------------------------------------------------------------
+
+At Smartproxy, we are committed to ensuring the security and privacy of your personal information. We are also committed to providing our users with secure and efficient access to our services. As part of our services, we use Onfido Ltd. ("Onfido") for identity verification and related checks to help us confirm your identity securely and efficiently. This section in our Privacy Policy outlines how we collect, use, and protect your personal information, particularly in the context of identity verification and related checks.
+
+For more detailed information on how Onfido handles your data when performing verification and/ or related checks, please review the Onfido Privacy Policy here: [https://onfido.com/privacy/](https://onfido.com/privacy/). Onfido may also use your information independently to enhance their services - for more details on their data usage in this regard, please refer to their privacy policy.
+
+**I. The information we process and how we use it**
+
+To perform identity verification and related checks, we process certain personal information received from you and/or access information about you, which is processed by Onfido. The majority of the personal information described below is not directly collected or fully processed by us. Instead, it is gathered, stored, and processed by Onfido to perform identity verification, complete checks, and generate the report („Onfido Report“).
+
+Once your identity is verified and/ or a check is completed, Onfido generates the Onfido Report that is provided to us. If your identity is verified and no issues are detected, the report will indicate a “Clear” result. If your identity cannot be verified or there are signs of fraud, the report will indicate a “Consider” result, with details explaining why. We do not have access to the categories of personal information listed below unless the Onfido Report returns a "Consider" result. In such instances, we may obtain access to the personal information utilized by Onfido. We access this information to make informed decisions regarding the provision of services to you. However, we do not store any of this information on our systems. We only have access to it through Onfido.
+
+**Identification Document (ID) checks**
+
+Purpose: to verify the authenticity of your ID and ensure compliance with legal obligations.
+
+Categories of data that might be processed: personal information extracted from your identity document, such as your name, document number, date of birth, nationality, type of document, issuing country, expiration date, and metadata associated with the image of the document, your photo on the ID document.
+
+Legal basis: the processing of your personal data for ID verification is necessary for the legitimate interests of Smartproxy (Art. 6(1)(f), GDPR), to prevent fraud, ensure the security of our services. Additionally, we might be obliged to ensure compliance with the anti-money laundering (AML), know-your-customer (KYC) regulations, and other statutory obligations that mandate ID verification (Art. 6(1)(c), GDPR).
+
+Onfido verifies identity documents by extracting and analyzing information from your document.
+
+**Photo checks and identification**
+
+Purpose: to verify your identity by comparing your image (selfie) with the image on your ID, and to detect the potential tampering or fraud.
+
+Categories of data that might be processed: images (selfies) you provide for identification purposes.
+
+Legal basis: Onfido may ask you to provide an image (selfie) that they compare with your ID image to verify and confirm your identity, using automated technology. They also analyze the authenticity of these images and detect signs of tampering or fraud. We require your explicit consent (Art. 9(2)(a), GDPR) to use the images you provide to verify your identity. You may withdraw your consent at any time by contacting us at [\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection).
+
+**II. Data storage**
+
+We retain your personal information only as long as necessary to provide our services or as required by law. The retention period may vary based on the type of data and legal requirements. For identity verification and related checks, we keep your data for the duration of your contract with us, plus an additional five years after the contract ends. Please note that we only retain Onfido Reports and do not store the full range of your data as outlined below.
+
+**III. Contacts**
+
+If you have any questions or concerns about identity verification or related checks, please contact us at [\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection). If you wish to find out more about your privacy rights, please refer to the „Your privacy-related rights“ section of this Privacy policy.
+
   
 
 Personal data processing when you contact us
@@ -288,7 +327,7 @@ Smartproxy may use your personal data to contact you with marketing related offe
 
 You will receive information about our services if you provide your contact details in the contact form on our website. We consider that by providing your information in the online form you give us a consent to contact you for purposes mentioned in this section.
 
-In cases where applicable law permits us to contact you without a separate consent, we will contact you under the legal basis of our legitimate interests to make you an offer of our services. You can opt-out from any marketing related communication that we send you at any time by clicking an unsubscribe button in our emails or by contacting us at[\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection).
+In cases where applicable law permits us to contact you without a separate consent, we will contact you under the legal basis of our legitimate interests to make you an offer of our services. You can opt-out from any marketing related communication that we send you at any time by clicking an unsubscribe button in our emails or by contacting us at [\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection).
 
   
 
