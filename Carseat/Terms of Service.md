@@ -275,7 +275,7 @@ Car-Seat.Org may, in appropriate circumstances and at its discretion, disable an
   
 Car-Seat.Org’s Copyright Agent for Notice of claims of copyright or other intellectual property infringement can be reached in the following ways:  
   
-By mail: PO Box 401, Naperville, IL 60566  
+By mail: Carseat Media LLC, 30 N Gould St Ste R #28129, Sheridan, WY 82801  
   
 By email: [webmaster@car-seat.org](mailto:webmaster@car-seat.org)  
   
@@ -306,6 +306,8 @@ Entire Agreement.** The TOS constitutes the entire agreement between you and Car
 **24\. VIOLATIONS**  
   
 Please report any violations of the TOS to [webmaster@car-seat.org](mailto:webmaster@car-seat.org) or send a [Private Message to Admin](https://www.car-seat.org/conversations/add?to=Admin).
+
+Last edited by a moderator: Today at 4:16 PM
 
 |     |     |     |
 | --- | --- | --- |
@@ -469,11 +471,11 @@ Messages
 
 Members
 
-13,541
+13,544
 
 Latest member
 
-[MamaMeg420](https://www.car-seat.org/members/mamameg420.15702/)
+[Marakbai](https://www.car-seat.org/members/marakbai.15707/)
 
 * [Home](https://www.car-seat.org/) 
 * [Forums](https://www.car-seat.org/) 
