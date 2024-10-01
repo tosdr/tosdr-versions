@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9f3101e942954f5a4c968faa83ac1f54
+f3a4dbddfd83f82e858e67df3a3073d6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Petite Bat Bracelet](https://sojourner.biz/images/cache/jewelry/BR0022angle.200.jpg)](https://sojourner.biz/jewelry/bracelets/petite-bat-bracelet.html "Petite Bat Bracelet")
+[![Ancient carnelian necklace](https://sojourner.biz/images/cache/jewelry/N0084.200.jpg)](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
 
-#### [Petite Bat Bracelet](https://sojourner.biz/jewelry/bracelets/petite-bat-bracelet.html "Petite Bat Bracelet")
+#### [Ancient carnelian necklace](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
 
-$165.00
+$120.00
 
 ### Best Sellers
 
