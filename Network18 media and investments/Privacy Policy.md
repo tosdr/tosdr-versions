@@ -69,10 +69,10 @@ Trending Topics :[Govinda](https://www.news18.com/movies/actor-govinda-shoots-hi
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest News](https://www.news18.com/news/)[T20 World Cup](https://www.news18.com/cricket/icc-womens-t20-world-cup/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[ISL](https://www.news18.com/football/indian-super-league/) [EPL](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
+[Latest News](https://www.news18.com/news/)[Women's T20 World Cup](https://www.news18.com/cricket/icc-womens-t20-world-cup/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[ISL](https://www.news18.com/football/indian-super-league/) [EPL](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
 
 * [Latest News](https://www.news18.com/news/)
-* ![New Icon](https://images.news18.com/static_news18/ibnlive/pix/NewIcon.svg)[T20 World Cup](https://www.news18.com/cricket/icc-womens-t20-world-cup/)
+* ![New Icon](https://images.news18.com/static_news18/ibnlive/pix/NewIcon.svg)[Women's T20 World Cup](https://www.news18.com/cricket/icc-womens-t20-world-cup/)
 * [Elections](https://www.news18.com/elections/)
 * [US Elections](https://www.news18.com/topics/us-election-2024/)
 * [Showsha](https://www.news18.com/entertainment/)
