@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![FILE - Hunter Biden departs from federal court June 11, 2024, in Wilmington, Del. (AP Photo/Matt Slocum)](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Hunter-Biden-24248537937022-432x243.jpg)](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
+1. [![Nicholas Carter](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Carter-432x243.jpg)](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+    
+    ### ['Several clumps of fuzzy fecal matter': Father calls home with 5 children living in urine, mold and rotting food 'a little dirty,' cops say](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+    
+2. [![Beatrice Taylor and Edward Anderson](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Beatrice-Taylor-and-Edward-Anderson-432x243.jpg)](https://lawandcrime.com/crime/he-was-old-anyway-so-what-does-it-matter-home-health-aide-ignored-86-year-old-mans-deadly-fall-to-go-back-to-sleep-deputies-say/)
+    
+    ### ['He was old anyway so what does it matter?': Home health aide ignored 86-year-old man's deadly fall to go back to sleep, deputies say](https://lawandcrime.com/crime/he-was-old-anyway-so-what-does-it-matter-home-health-aide-ignored-86-year-old-mans-deadly-fall-to-go-back-to-sleep-deputies-say/)
+    
+3. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-claims-trump-and-jd-vance-committed-felonies-by-inducing-panic-with-lies-about-immigrants-eating-the-cats/)
+    
+    ### ['This was no accident': Haitian group now accuses Trump and JD Vance of felony 'inducing panic' with 'unrelenting lies' about immigrants 'eating the cats' and pets of Springfield](https://lawandcrime.com/high-profile/haitian-group-claims-trump-and-jd-vance-committed-felonies-by-inducing-panic-with-lies-about-immigrants-eating-the-cats/)
+    
+4. [![FILE - Hunter Biden departs from federal court June 11, 2024, in Wilmington, Del. (AP Photo/Matt Slocum)](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Hunter-Biden-24248537937022-432x243.jpg)](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
     
     ### [IRS fails to get rid of Hunter Biden lawsuit over leaked tax returns](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
     
-2. [![Background: Ysgol Dyffryn Aman, Ammanford, Wales (Sky News/YouTube). Inset, left to right: Fiona Elias, Liz Hopkin (Dyfed-Powys police).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Ysgol-Dyffryn-Aman-Fiona-Elias-Liz-Hopkin-432x243.jpg)](https://lawandcrime.com/crime/i-stabbed-her-oopsies-13-year-old-girl-with-sinister-eyes-allegedly-stabbed-2-teachers-student-with-fishing-multi-tool-then-joked-about-becoming-a-celebrity/)
+5. [![Cassidy Hutchinson](https://am21.mediaite.com/lc/cnt/uploads/2023/09/Cassidy-Hutchinson-Andrew-Weissmann-Stefan-Passantino-432x243.jpg)](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
     
-    ### ['I stabbed her — oopsies': 13-year-old girl with 'sinister eyes' allegedly stabbed 2 teachers, student with 'fishing multi-tool' then joked about becoming 'a celebrity'](https://lawandcrime.com/crime/i-stabbed-her-oopsies-13-year-old-girl-with-sinister-eyes-allegedly-stabbed-2-teachers-student-with-fishing-multi-tool-then-joked-about-becoming-a-celebrity/)
-    
-3. [![Nathaniel Lee Edmonds](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Nathaniel-Lee-Edmonds-432x243.jpg)](https://lawandcrime.com/crime/using-both-of-his-hands-for-minutes-father-choked-1-year-old-son-to-death-because-the-boy-was-not-listening-and-he-couldnt-take-it-anymore-police-say/)
-    
-    ### ['Using both of his hands for minutes': Father choked 1-year-old son to death because the boy 'was not listening and he couldn't take it anymore,' police say](https://lawandcrime.com/crime/using-both-of-his-hands-for-minutes-father-choked-1-year-old-son-to-death-because-the-boy-was-not-listening-and-he-couldnt-take-it-anymore-police-say/)
-    
-4. [![Inset: Russell Valleau (Farmington Hill (Mich.) Police Department). Background: The neighborhood where Valleau allegedly attacked a mail carrier (Google Maps).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Russell-Valleau-432x243.jpg)](https://lawandcrime.com/crime/man-fed-up-over-receiving-kamala-harris-flyers-knife-attacks-mail-carrier-who-is-forced-to-use-pepper-spray-to-defend-himself-police/)
-    
-    ### [Man fed up over receiving Kamala Harris flyers knife-attacks mail carrier who is forced to use pepper spray to defend himself: Police](https://lawandcrime.com/crime/man-fed-up-over-receiving-kamala-harris-flyers-knife-attacks-mail-carrier-who-is-forced-to-use-pepper-spray-to-defend-himself-police/)
-    
-5. [![Then President Donald Trump arrives to speak at a rally in Washington, on Jan. 6, 2021.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/AP24114860745677-432x243.jpg)](https://lawandcrime.com/high-profile/judges-revelation-of-impermissible-support-for-trump-on-jan-6-has-him-out-of-a-job-now-and-at-any-time-in-the-future/)
-    
-    ### [Judge's revelation of 'impermissible' support for Trump on Jan. 6 has him out of a job now and 'at any time in the future'](https://lawandcrime.com/high-profile/judges-revelation-of-impermissible-support-for-trump-on-jan-6-has-him-out-of-a-job-now-and-at-any-time-in-the-future/)
+    ### [Top Mueller prosecutor Andrew Weissmann fails to dismiss Trump WH lawyer's defamation suit over tweet claiming he 'coached' star Jan. 6 witness to 'lie'](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
     
 
 [](http://eepurl.com/c89Jdb)
