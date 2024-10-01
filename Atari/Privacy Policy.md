@@ -362,20 +362,20 @@ RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
 
  
 
+**Introducing the Atari 7800+**
+
+New console, new games, and new accessories!
+
+[Pre-Order Yours Today!](https://atari.com/collections/7800)
+
+ 
+
 Atari 50: The Wider World of Atari
 ==================================
 
 The story’s not over yet! THE WIDER WORLD OF ATARI introduces a new timeline with 19 new games, historical artifacts and interviews.
 
 [PLAY NOW](https://www.atari.com/products/atari-50th-the-anniversary-celebration)
-
- 
-
-**Introducing the Atari 7800+**
-
-New console, new games, and new accessories!
-
-[Pre-Order Yours Today!](https://atari.com/collections/7800)
 
  
 
@@ -451,6 +451,34 @@ Regular price Sale price $59.99
 Regular price $59.99
 
 Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
+
+[![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-red-front-66fab44f48ccacopy.jpg)
+
+![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-black-front-66fab44f45c0ccopy.jpg)
+
+Add to cart
+
+ S
+
+ M
+
+ L
+
+ XL
+
+ 2XL
+
+ 3XL
+
+ 4XL
+
+##### Distressed Fuji Tee
+
+Regular price Sale price $30.00
+
+Regular price $30
+
+Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
 
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
