@@ -136,7 +136,7 @@ You have, in any case, the right to lodge a complaint with the data protection a
 III. Imprint
 ============
 
-According to German § 5 TMG:
+According to German § 5 DDG:
 
     chaos.social e.V.
     c/o Leah Oswald
