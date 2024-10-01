@@ -41,7 +41,7 @@ Back
 
 * [Shop](https://sphero.com/collections/all)
 * Shop by Product
-* [indi](https://sphero.com/collections/all/family_indi)
+* [indi](https://sphero.com/collections/indi)
 * [Mini](https://sphero.com/collections/all/family_mini)
 * [BOLT+](https://sphero.com/collections/all/family_bolt)
 * [RVR+](https://sphero.com/collections/all/family_rvr)
@@ -155,7 +155,7 @@ Cart/Quote](https://sphero.com/cart)
 
 * [Shop](https://sphero.com/collections/all)
     * Shop by Product
-    * [indi](https://sphero.com/collections/all/family_indi)
+    * [indi](https://sphero.com/collections/indi)
     * [Mini](https://sphero.com/collections/all/family_mini)
     * [BOLT+](https://sphero.com/collections/all/family_bolt)
     * [RVR+](https://sphero.com/collections/all/family_rvr)
