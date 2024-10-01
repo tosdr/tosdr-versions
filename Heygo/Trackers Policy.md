@@ -543,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 sun-soaked cruise destinations for 2024-2025](https://media.restless.co.uk/uploads/2024/05/best-cruise-destinations-for-2024-2025-768x512.jpg)](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/)
+
+### [10 sun-soaked cruise destinations for 2024-2025](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/) 
+
+[Read More »](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/)
+
 [![10 of the best destinations for an island hopping adventure](https://media.restless.co.uk/uploads/2024/05/the-best-destinations-for-an-island-hopping-adventure-768x288.jpg)](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
 
 ### [10 of the best destinations for an island hopping adventure](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/) 
@@ -572,12 +578,6 @@ New in travel
 ### [11 of the most colourful travel destinations in the world](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
 
 [Read More »](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
-
-[![7 dreamy cruise destinations for 2025](https://media.restless.co.uk/uploads/2024/09/dreamy-cruise-destinations-for-2025-768x513.jpg)](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
-
-### [7 dreamy cruise destinations for 2025](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
-
-[Read More »](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
 
 Popular travel guides
 ---------------------
