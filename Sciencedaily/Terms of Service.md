@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Min-Robots in Convoy for Endoscopic Surgery](https://www.sciencedaily.com/releases/2024/10/241001114926.htm)
+* [Possible Future Climate Scenarios](https://www.sciencedaily.com/releases/2024/10/241001124656.htm)
+* [Meet Our New Neighbor: Exoplanet Next Door](https://www.sciencedaily.com/releases/2024/10/241001114845.htm)
+* [Feet First: How Infants Connect With Their World](https://www.sciencedaily.com/releases/2024/10/241001114836.htm)
+* [Temp-Controlled Clothing: Squid-Inspired Fabric](https://www.sciencedaily.com/releases/2024/10/241001114730.htm)
+* [Pluto's Moon Charon: Record of Ancient Processes](https://www.sciencedaily.com/releases/2024/10/241001114722.htm)
 * [What Triggered Tongan Volcanic Eruption?](https://www.sciencedaily.com/releases/2024/09/240930212840.htm)
 * [New Perspective On Supermassive Black Holes](https://www.sciencedaily.com/releases/2024/09/240930160219.htm)
 * [Watch Water Form out of Thin Air](https://www.sciencedaily.com/releases/2024/09/240930160507.htm)
 * [COVID: Protection from Severe Flu?](https://www.sciencedaily.com/releases/2024/09/240930160208.htm)
-* [Speeding Up PFAS Decontamination](https://www.sciencedaily.com/releases/2024/09/240930122931.htm)
-* [Orbitronics Instead of Electronics?](https://www.sciencedaily.com/releases/2024/09/240927173115.htm)
-* [Coffee, Fizzy Drinks and Stroke Risk](https://www.sciencedaily.com/releases/2024/09/240930123035.htm)
-* [Vikings and Global Trading Network](https://www.sciencedaily.com/releases/2024/09/240930122949.htm)
-* [A River Is Pushing Up Mount Everest's Peak](https://www.sciencedaily.com/releases/2024/09/240930122712.htm)
-* [Unexpected Growth in Height After First Period](https://www.sciencedaily.com/releases/2024/09/240927173549.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+[Asthma](https://www.sciencedaily.com/news/health_medicine/asthma/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
-[Air Quality](https://www.sciencedaily.com/news/earth_climate/air_quality/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
-[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
