@@ -1,6 +1,6 @@
 [![Lookout logo](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/64ad8cecda5417d65d91aa2f_lookout-logo-r.svg)![Lookout Logo Dark](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/64ad8cecda5417d65d91aa32_lookout-logo-9l-r.svg)](https://security.lookout.com/)
 
-* Products & Platform
+* Products
     
     * Mobile Security
         
@@ -65,6 +65,51 @@
         * [Mobile Vulnerability Management (MVM)
             
             ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/mvm)
+    
+* Solutions
+    
+    * Solutions
+        
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658da6599c8057fe5f45048_encrypted%20doc.svg)
+            
+            Zero Trust Security
+            
+            Secure remote access & data](https://security.lookout.com/solutions/zero-trust)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658d9fdb243ade5a7b11657_cloud%20security.svg)
+            
+            Data Compliance
+            
+            Ensure data compliance across cloud, and mobile](https://security.lookout.com/solutions/data-compliance)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66fc1cd665e7d3d9f79d33db_network-1.png)
+            
+            VPN Alternatives
+            
+            Replace legacy VPN with a ZTNA solution](https://security.lookout.com/solutions/vpn-alternatives)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658da21b243ade5a7b1297e_secure%20cloud.svg)
+            
+            Cloud Data Protection
+            
+            Safeguard cloud data with advanced DLP](https://security.lookout.com/solutions/cloud-data-protection)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658d8d75821d89d81fbf0ef_MVM.svg)
+            
+            Mobile Device Security
+            
+            Secure iOS and Android devices](https://security.lookout.com/solutions/mobile-device-security)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658d9b670122db4959c125f_threat.svg)
+            
+            Advanced Threat Protection
+            
+            AI-powered, multi-layered threat defense solution](https://security.lookout.com/solutions/advanced-threat-protection)
+    
+    Featured Report
+    
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66df31976d08f420838c2710_Q22024report.avif)
+    
+    Webflow in 2021
+    
+    * Read Lookout's Q2 2024 Mobile Threat Landscape Report
+        
+        What 220 Million Devices, 325 Million Apps, and Billions of Web Items Reveal About Growing Mobile Threats](https://security.lookout.com/threat-intelligence/report/q2-2024-mobile-landscape-threat-report)
     
 * Partners
     
@@ -153,6 +198,11 @@
             Documents
             
             Dig into ways to secure your enterprise](https://security.lookout.com/resources)
+        * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66fc2019d88cb1635cb135ce_product-docs.png)
+            
+            Product Documentation
+            
+            Find answers about using Lookout products](https://doc.lookout.com/)
         * [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6658fe07db3f1b0b56618fce_checklist.svg)
             
             Assessments
@@ -297,7 +347,7 @@ Lookout Endpoint Security
 
 Solutions
 
-[Secure Hybrid Work](https://security.lookout.com/solutions/secure-hybrid-work)[Meet Compliance & Privacy Regulations](https://security.lookout.com/solutions/meet-privacy-and-compliance-demands)[Promote Collaboration Safely](https://security.lookout.com/solutions/promote-collaboration-securely)[Detect & Mitigate Threats](https://security.lookout.com/solutions/detect-and-mitigate-cyber-threats)[Adopt the Cloud Faster](https://security.lookout.com/solutions/adopt-the-cloud-faster)[Accelerate Mergers & Acquisitions](https://security.lookout.com/solutions/accelerate-mergers-and-acquisitions)
+[Zero Trust Security](https://security.lookout.com/solutions/zero-trust)[VPN Alternatives](https://security.lookout.com/solutions/vpn-alternatives)[Mobile Device Security](https://security.lookout.com/solutions/mobile-device-security)[Data Compliance](https://security.lookout.com/solutions/data-compliance)[Cloud Data Protection](https://security.lookout.com/solutions/cloud-data-protection)[Advanced Threat Protection](https://security.lookout.com/solutions/advanced-threat-protection)
 
 Industries
 
@@ -305,7 +355,7 @@ Industries
 
 Support
 
-[Enterprise Support Login](https://mtp.lookout.com/a/)[Enterprise Support Programs](https://www.lookout.com/support/enterprise-support-programs)
+[Enterprise Support Login](https://mtp.lookout.com/a/)[Enterprise Support Programs](https://www.lookout.com/support/enterprise-support-programs)[Product Documentation](https://doc.lookout.com/)
 
 Contact Us
 
