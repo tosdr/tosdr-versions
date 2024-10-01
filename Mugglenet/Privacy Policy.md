@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-As of 2020, the Harry Potter books have been translated into 83 languages, including Latin and Ancient Greek.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-October 29, 2008 – David Heyman discusses the Harry Potter and the Half-Blood Prince delay and reveals that the film is just about complete.
+August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
 
 ### Potter Quote
 
-“Ah, of course. There is no need to say any more, Miss Granger. Tell me, which of you will be dying this year?”
+“Alas! Ear wax!”
 
 [](#)
 
