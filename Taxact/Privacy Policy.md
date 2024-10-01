@@ -839,8 +839,8 @@ TaxAct is committed to making our Privacy Notice accessible to individuals with 
 
 ### Stay Connected
 
-* [Facebook](http://www.facebook.com/pages/TaxAct/56510866520)
-* [Twitter](http://www.twitter.com/TaxAct)
+* [Facebook](https://www.facebook.com/TaxAct/)
+* [Twitter](https://x.com/TaxAct)
 * [Instagram](https://www.instagram.com/taxact/)
 * [YouTube](https://www.youtube.com/taxact)
 
