@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each”
+“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
 
-[Plato](http://en.wikipedia.org/wiki/Plato)
+[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 [](https://www.adafruit.com/about)
 
