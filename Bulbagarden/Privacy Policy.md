@@ -96,7 +96,6 @@ Menu
 
    
 
-In commemoration of Nintendo’s 135ᵗʰ anniversary, September 20 to 30 is **NIWA Cross-Wiki Week**. **[Click here](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Cross-Wiki_Week "Bulbapedia:Cross-Wiki Week")** for event details and the possibility to win a $20/€20 Nintendo eShop gift card.  
 Please remember to follow the [manual of style](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Manual_of_style "Bulbapedia:Manual of style") and [code of conduct](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Code_of_conduct "Bulbapedia:Code of conduct") at all times.  
 Check the [Bulbagarden home page](https://bulbagarden.net/) for up-to-date Pokémon news and discuss it on the [forums](https://forums.bulbagarden.net/index.php) or in the [Bulbagarden Discord server](https://discord.gg/bulbagarden).
 
