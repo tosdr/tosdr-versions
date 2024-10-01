@@ -16,6 +16,14 @@
 * [Shortlist](https://flatmates.com.au/shortlists)
 * [Messages](https://flatmates.com.au/start-connecting)
 * [Guides](https://flatmates.com.au/info)
+* I need a place
+    
+    Create a free person listing
+    
+* I need a flatmate
+    
+    Create a free property listing
+    
 
 Search share accommodation
 
@@ -425,7 +433,7 @@ Apps accessible via Android devices include software from The Android Open Sourc
 
 More About Us
 
-[How to protect yourself from scammers](https://flatmates.com.au/info/scammers)[Terms and Conditions of Use](https://flatmates.com.au/info/terms)[Security Checks](https://flatmates.com.au/info/security-checks)[Pricing Increases August 2024](https://flatmates.com.au/info/flatmates-pricing-increases)[Flatmates.com.au Community Charter](https://flatmates.com.au/info/community-charter)[View all About Us](https://flatmates.com.au/info/about-us)
+[National Share Accommodation Survey Competition Conditions of Entry](https://flatmates.com.au/info/national-share-survey-competition-tcs)[How to protect yourself from scammers](https://flatmates.com.au/info/scammers)[Terms and Conditions of Use](https://flatmates.com.au/info/terms)[Security Checks](https://flatmates.com.au/info/security-checks)[Pricing Increases August 2024](https://flatmates.com.au/info/flatmates-pricing-increases)[View all About Us](https://flatmates.com.au/info/about-us)
 
 1. [Home](https://flatmates.com.au/)
 2. [Info](https://flatmates.com.au/info)
