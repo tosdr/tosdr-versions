@@ -1,8 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Introducing the next-gen SoundLink Flex. [Shop](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html)
+Exclusive: The all-new Soundlink Home Speaker. [Shop](https://www.bose.com/SLHM-SPEAKERWIRELESS.html)
 
-Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
+Introducing the next-gen SoundLink Flex. [Shop](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html)
 
 Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
