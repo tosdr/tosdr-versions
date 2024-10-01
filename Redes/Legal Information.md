@@ -106,7 +106,15 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![Presupuesto](/sites/redes/files/styles/ratio_1_1/public/media/images/Presupuesto%20Red.JPG?h=0ce33bed&itok=Ijn2HEo-)   
+![4YFN](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%204YFN%20%281%29_0.png?h=c16165f9&itok=P2cG11GF)   
+
+Noticia
+
+Internacionalización
+
+Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN
+
+[Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN](http://red.es/es/actualidad/noticias/pabellon-espana-4yfn "Ir al contenido de: Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN")
 
 Noticia
 
@@ -123,14 +131,6 @@ Internacionalización
 El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad
 
 [El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad](http://red.es/es/actualidad/noticias/desafia-suiza-primera-edicion-startups-sostenibilidad "Ir al contenido de: El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad")
-
-Noticia
-
-Emprendimiento
-
-Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo
-
-[Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
