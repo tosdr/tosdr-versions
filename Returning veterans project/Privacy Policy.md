@@ -190,11 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jon Ricket](https://cdn.returningveterans.org/images/honor/18_J_Ricket.jpg)  
+![Joe Stott](https://cdn.returningveterans.org/images/honor/Joe_Stott_photo.jpg)  
 
-**In Honor of Jon Ricket**  
-United States Air Force  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Joe Stott**  
+United States Navy  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -239,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/01/24 - 2:19:23  
+Printed 10/01/24 - 8:25:59  
 © 2024 Returning Veterans Project
