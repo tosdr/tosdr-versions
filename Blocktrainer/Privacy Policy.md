@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![CoinTracking](/fileadmin/_processed_/f/4/csm_Vertical_2_709de20c7b.jpg)](https://ref.blocktrainer.de/cointracking/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
