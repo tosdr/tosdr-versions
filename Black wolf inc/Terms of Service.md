@@ -173,6 +173,7 @@ Quick links
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions "Subscribe + Save")
 * [Subscription Portal Login](https://blackwolfnation.com/apps/retextion#/login "Subscription Portal Login")
 * [Accessibility Statement](https://blackwolfnation.com/pages/accessibility-statement "Accessibility Statement")
+* [Cookie Policy](https://blackwolfnation.com/pages/cookie-policy "Cookie Policy")
 * [Refund policy](https://blackwolfnation.com/policies/refund-policy "Refund policy")
 * [Privacy policy](https://blackwolfnation.com/policies/privacy-policy "Privacy policy")
 * [Terms of service](https://blackwolfnation.com/policies/terms-of-service "Terms of service")
