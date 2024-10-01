@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 30, 2024**
+**October 1, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [What Triggered Tongan Volcanic Eruption?](https://www.sciencedaily.com/releases/2024/09/240930212840.htm)
+* [New Perspective On Supermassive Black Holes](https://www.sciencedaily.com/releases/2024/09/240930160219.htm)
 * [Watch Water Form out of Thin Air](https://www.sciencedaily.com/releases/2024/09/240930160507.htm)
 * [COVID: Protection from Severe Flu?](https://www.sciencedaily.com/releases/2024/09/240930160208.htm)
 * [Speeding Up PFAS Decontamination](https://www.sciencedaily.com/releases/2024/09/240930122931.htm)
@@ -237,8 +239,6 @@ this hour
 * [Vikings and Global Trading Network](https://www.sciencedaily.com/releases/2024/09/240930122949.htm)
 * [A River Is Pushing Up Mount Everest's Peak](https://www.sciencedaily.com/releases/2024/09/240930122712.htm)
 * [Unexpected Growth in Height After First Period](https://www.sciencedaily.com/releases/2024/09/240927173549.htm)
-* [Trigger of 1995 Kobe (Hyogo-Ken Nanbu) Quake](https://www.sciencedaily.com/releases/2024/09/240927173416.htm)
-* [A New Birthplace for Asteroid Ryugu](https://www.sciencedaily.com/releases/2024/09/240927173222.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
-
 [Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
-[Teen Health](https://www.sciencedaily.com/news/health_medicine/teen_health/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
-[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
-
 [Air Quality](https://www.sciencedaily.com/news/earth_climate/air_quality/)
+
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
   
 
