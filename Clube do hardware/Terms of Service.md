@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_526020385_menu)
+ [Compartilhar](#elShareItem_1792268722_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_895064332_menu)
+ [Compartilhar](#elShareItem_591561573_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,104 +365,104 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![beri alem](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253850.thumb.jpeg.37893fb9cecd88d86502871bf6a6f57d.jpeg)](https://www.clubedohardware.com.br/profile/1253850-beri-alem/ "Ir ao perfil de beri alem")
-        
-        2
-        
-        [Qual placa de vídeo eu escolho para um Core i5 4590?](https://www.clubedohardware.com.br/forums/topic/1698637-qual-placa-de-v%C3%ADdeo-eu-escolho-para-um-core-i5-4590/?do=getNewComment "Qual placa de vídeo eu escolho para um Core i5 4590?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [beri alem](https://www.clubedohardware.com.br/profile/1253850-beri-alem/ "Ir ao perfil de beri alem")  
-        52 minutos atrás
-        
-    * [![Theusmh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253785.thumb.jpeg.0647a71dd027bf43f09fba95bc796827.jpeg)](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")
-        
-        1
-        
-        [Qual placa de vídeo eu escolho para usar com o Ryzen 5 5600?](https://www.clubedohardware.com.br/forums/topic/1698636-qual-placa-de-v%C3%ADdeo-eu-escolho-para-usar-com-o-ryzen-5-5600/?do=getNewComment "Qual placa de vídeo eu escolho para usar com o Ryzen 5 5600?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Theusmh](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")  
-        1 hora atrás
-        
-    * [![Leidedengo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253678.thumb.png.47cee127b025845f03e5010801d60cda.png)](https://www.clubedohardware.com.br/profile/1253678-leidedengo/ "Ir ao perfil de Leidedengo")
+    * [![diogofb_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23aa62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253870-diogofb_/ "Ir ao perfil de diogofb_")
         
         0
         
-        Excel [Como eu faço para alterar esses campos de lugar e criar esses novos campos](https://www.clubedohardware.com.br/forums/topic/1698635-como-eu-fa%C3%A7o-para-alterar-esses-campos-de-lugar-e-criar-esses-novos-campos/?do=getNewComment "Como eu faço para alterar esses campos de lugar e criar esses novos campos")
+        [Qual air cooler ou water cooler usar no Ryzen 7 5700x ?](https://www.clubedohardware.com.br/forums/topic/1698666-qual-air-cooler-ou-water-cooler-usar-no-ryzen-7-5700x/?do=getNewComment "Qual air cooler ou water cooler usar no Ryzen 7 5700x ?")
         
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Leidedengo](https://www.clubedohardware.com.br/profile/1253678-leidedengo/ "Ir ao perfil de Leidedengo")  
-        1 hora atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [diogofb\_](https://www.clubedohardware.com.br/profile/1253870-diogofb_/ "Ir ao perfil de diogofb_")  
+        17 minutos atrás
         
-    * [![Yonell](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2388c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EY%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253848-yonell/ "Ir ao perfil de Yonell")
+    * [![lllPvlll](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237ec462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/521423-lllpvlll/ "Ir ao perfil de lllPvlll")
         
-        1
+        0
         
-        [Opiniões e alternativas de preço similar para a minha configuração.](https://www.clubedohardware.com.br/forums/topic/1698634-opini%C3%B5es-e-alternativas-de-pre%C3%A7o-similar-para-a-minha-configura%C3%A7%C3%A3o/?do=getNewComment "Opiniões e alternativas de preço similar para a minha configuração.")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Yonell](https://www.clubedohardware.com.br/profile/1253848-yonell/ "Ir ao perfil de Yonell")  
-        1 hora atrás
-        
-    * [![Phelipe Mateus](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/imported-photo-1153528.thumb.jpeg.7d6f1bcc16091cf1b3883896c882c393.jpeg)](https://www.clubedohardware.com.br/profile/1153528-phelipe-mateus/ "Ir ao perfil de Phelipe Mateus")
-        
-        4
-        
-        [Opa beleza? Então eu estou com um notebook que o teclado dele não funciona](https://www.clubedohardware.com.br/forums/topic/1698633-opa-beleza-ent%C3%A3o-eu-estou-com-um-notebook-que-o-teclado-dele-n%C3%A3o-funciona/?do=getNewComment "Opa beleza? Então eu estou com um notebook que o teclado dele não funciona")
+        [Recomendação de Teclado até R$ 300](https://www.clubedohardware.com.br/forums/topic/1698665-recomenda%C3%A7%C3%A3o-de-teclado-at%C3%A9-r-300/?do=getNewComment "Recomendação de Teclado até R$ 300")
         
         [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Phelipe Mateus](https://www.clubedohardware.com.br/profile/1153528-phelipe-mateus/ "Ir ao perfil de Phelipe Mateus")  
-        1 hora atrás
+        Por [lllPvlll](https://www.clubedohardware.com.br/profile/521423-lllpvlll/ "Ir ao perfil de lllPvlll")  
+        42 minutos atrás
         
-    * [![Taylan Santos](https://lh6.googleusercontent.com/-qbajbJzyYTg/AAAAAAAAAAI/AAAAAAAAAUo/anYMWUV0DEc/photo.jpg)](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")
-        
-        2
-        
-        [Fonte e placa de vídeo para usar com o Core I5 3470](https://www.clubedohardware.com.br/forums/topic/1698632-fonte-e-placa-de-v%C3%ADdeo-para-usar-com-o-core-i5-3470/?do=getNewComment "Fonte e placa de vídeo para usar com o Core I5 3470")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Taylan Santos](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")  
-        1 hora atrás
-        
-    * [![Taylan Santos](https://lh6.googleusercontent.com/-qbajbJzyYTg/AAAAAAAAAAI/AAAAAAAAAUo/anYMWUV0DEc/photo.jpg)](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")
-        
-        1
-        
-        [resolução diferente dois monitores Ubuntu 24.04.1 LTS](https://www.clubedohardware.com.br/forums/topic/1698631-resolu%C3%A7%C3%A3o-diferente-dois-monitores-ubuntu-24041-lts/?do=getNewComment "resolução diferente dois monitores Ubuntu 24.04.1 LTS")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Taylan Santos](https://www.clubedohardware.com.br/profile/975831-taylan-santos/ "Ir ao perfil de Taylan Santos")  
-        2 horas atrás
-        
-    * [![OlivereoTree](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253847.thumb.jpeg.06a60b5df610820b4b60b11e08ddbb6c.jpeg)](https://www.clubedohardware.com.br/profile/1253847-olivereotree/ "Ir ao perfil de OlivereoTree")
-        
-        1
-        
-        [dispositivo com bluetooth 4.2 conecta com 5.2 ou superior?](https://www.clubedohardware.com.br/forums/topic/1698630-dispositivo-com-bluetooth-42-conecta-com-52-ou-superior/?do=getNewComment "dispositivo com bluetooth 4.2 conecta com 5.2 ou superior?")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [OlivereoTree](https://www.clubedohardware.com.br/profile/1253847-olivereotree/ "Ir ao perfil de OlivereoTree")  
-        2 horas atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![Deydson Lazaro Jonas Costa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253867.thumb.jpeg.4b5ac2d15d154a99e31a3ddcc3be8c25.jpeg)](https://www.clubedohardware.com.br/profile/1253867-deydson-lazaro-jonas-costa/ "Ir ao perfil de Deydson Lazaro Jonas Costa")
         
         0
         
-        [Flash NAND MLC retenção](https://www.clubedohardware.com.br/forums/topic/1698629-flash-nand-mlc-reten%C3%A7%C3%A3o/?do=getNewComment "Flash NAND MLC retenção")
+        [ATH-GL3BK vs Xanova Juturna-u. vs HyperX Cloud Alpha](https://www.clubedohardware.com.br/forums/topic/1698664-ath-gl3bk-vs-xanova-juturna-u-vs-hyperx-cloud-alpha/?do=getNewComment "ATH-GL3BK vs Xanova Juturna-u. vs HyperX Cloud Alpha")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        2 horas atrás
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Deydson Lazaro Jonas Costa](https://www.clubedohardware.com.br/profile/1253867-deydson-lazaro-jonas-costa/ "Ir ao perfil de Deydson Lazaro Jonas Costa")  
+        46 minutos atrás
         
-    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
+    * [![C.R.E.A.M.](https://www.clubedohardware.com.br/uploads/members/monthly_2016_04/5700a2dfb245f_015348425-EX00.jpg.551b4e78e56d33b6755a6461bff8b398.thumb.jpg.f79f46551a949fb31603053858ea5eb1.jpg)](https://www.clubedohardware.com.br/profile/683332-cream/ "Ir ao perfil de C.R.E.A.M.")
+        
+        0
+        
+        [Minhas memórias Kingston Fury Beast RGB são falsas?](https://www.clubedohardware.com.br/forums/topic/1698663-minhas-mem%C3%B3rias-kingston-fury-beast-rgb-s%C3%A3o-falsas/?do=getNewComment "Minhas memórias Kingston Fury Beast RGB são falsas?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [C.R.E.A.M.](https://www.clubedohardware.com.br/profile/683332-cream/ "Ir ao perfil de C.R.E.A.M.")  
+        52 minutos atrás
+        
+    * [![aquatico](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1240604.thumb.jpeg.5ded8109e21b8f8ca2c88d61b0367f9c.jpeg)](https://www.clubedohardware.com.br/profile/1240604-aquatico/ "Ir ao perfil de aquatico")
+        
+        2
+        
+        [pasta do disco rigido está corrompida](https://www.clubedohardware.com.br/forums/topic/1698662-pasta-do-disco-rigido-est%C3%A1-corrompida/?do=getNewComment "pasta do disco rigido está corrompida")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [aquatico](https://www.clubedohardware.com.br/profile/1240604-aquatico/ "Ir ao perfil de aquatico")  
+        57 minutos atrás
+        
+    * [![mathewsluz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253794.thumb.png.acb5255b680198717088c4faace68fc1.png)](https://www.clubedohardware.com.br/profile/1253794-mathewsluz/ "Ir ao perfil de mathewsluz")
+        
+        0
+        
+        [Quanto vale meu PC usado? Athlon 3000G, 8GB RAM, SSD 256GB, ...](https://www.clubedohardware.com.br/forums/topic/1698661-quanto-vale-meu-pc-usado-athlon-3000g-8gb-ram-ssd-256gb/?do=getNewComment "Quanto vale meu PC usado? Athlon 3000G, 8GB RAM, SSD 256GB, ...")
+        
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [mathewsluz](https://www.clubedohardware.com.br/profile/1253794-mathewsluz/ "Ir ao perfil de mathewsluz")  
+        1 hora atrás
+        
+    * [![William Miura](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b3%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EWM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253008-william-miura/ "Ir ao perfil de William Miura")
+        
+        2
+        
+        [Como funciona o LED em circuitos de placas de pedais](https://www.clubedohardware.com.br/forums/topic/1698660-como-funciona-o-led-em-circuitos-de-placas-de-pedais/?do=getNewComment "Como funciona o LED em circuitos de placas de pedais")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [William Miura](https://www.clubedohardware.com.br/profile/1253008-william-miura/ "Ir ao perfil de William Miura")  
+        1 hora atrás
+        
+    * [![ikarizx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1189350.thumb.jpeg.931b22b5440793e1cc67df7969a8a453.jpeg)](https://www.clubedohardware.com.br/profile/1189350-ikarizx/ "Ir ao perfil de ikarizx")
+        
+        2
+        
+        [meu computador é gigabit, porém por algum motivo o windows está reduzindo ele.](https://www.clubedohardware.com.br/forums/topic/1698659-meu-computador-%C3%A9-gigabit-por%C3%A9m-por-algum-motivo-o-windows-est%C3%A1-reduzindo-ele/?do=getNewComment "meu computador é gigabit, porém por algum motivo o windows está reduzindo ele.")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [ikarizx](https://www.clubedohardware.com.br/profile/1189350-ikarizx/ "Ir ao perfil de ikarizx")  
+        1 hora atrás
+        
+    * [![italo.souza09](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c492%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/842286-italosouza09/ "Ir ao perfil de italo.souza09")
         
         1
         
-        [Fonte Cooler Master G600 é boa ou bomba?](https://www.clubedohardware.com.br/forums/topic/1698628-fonte-cooler-master-g600-%C3%A9-boa-ou-bomba/?do=getNewComment "Fonte Cooler Master G600 é boa ou bomba?")
+        [MX9 5G 4K Placa q44\_v4.0\_20200602 qual o processador ?](https://www.clubedohardware.com.br/forums/topic/1698658-mx9-5g-4k-placa-q44_v40_20200602-qual-o-processador/?do=getNewComment "MX9 5G 4K Placa q44_v4.0_20200602 qual o processador ?")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [italo.souza09](https://www.clubedohardware.com.br/profile/842286-italosouza09/ "Ir ao perfil de italo.souza09")  
+        2 horas atrás
+        
+    * [![João Victor Lenoir](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1175285.thumb.jpeg.c89ccccc8a339242021bffc90d4a4fb8.jpeg)](https://www.clubedohardware.com.br/profile/1175285-jo%C3%A3o-victor-lenoir/ "Ir ao perfil de João Victor Lenoir")
+        
+        0
+        
+        [AMD Adrenalin causando stuttering no wallpaper engine](https://www.clubedohardware.com.br/forums/topic/1698657-amd-adrenalin-causando-stuttering-no-wallpaper-engine/?do=getNewComment "AMD Adrenalin causando stuttering no wallpaper engine")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [João Victor Lenoir](https://www.clubedohardware.com.br/profile/1175285-jo%C3%A3o-victor-lenoir/ "Ir ao perfil de João Victor Lenoir")  
         2 horas atrás
         
     
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
