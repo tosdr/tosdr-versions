@@ -1,5 +1,3 @@
-Please note that TLA will be closed on Monday, September 30th for the National Day for Truth and Reconciliation.
-
 * [Admissions](https://schoolathome.ca/admissions/)
 * [Community](https://schoolathome.ca/community/)
 * [About](https://schoolathome.ca/about/)
