@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/wees-een-baken-van-licht-en-liefde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/4-april-wat-betekent-deze-totale-maansverduistering/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
