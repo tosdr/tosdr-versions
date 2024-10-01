@@ -539,7 +539,7 @@ Sign up for Kardia news, updates, and other exclusive content—straight to your
 * [Security](https://kardia.com/security)
 * [Accessibility](https://kardia.com/accessibility)
 * [Telehealth Informed Consent](https://kardia.com/telehealth-informed-consent)
-* [Terms of Service](https://alivecor.com/tos)
+* [Terms of Service](https://alivecor-website-k8s.us-production.alivecor.com/alivecor/tos)
 
 ©2024 AliveCor, Inc. All Rights Reserved. Patents www.alivecor.com/patents. AliveCor and Kardia are trademarks of AliveCor, Inc. in the United States and other countries. Apple is a trademark of Apple, Inc. registered in the U.S. and other countries. App Store is a service mark of Apple, Inc. Android is a trademark of Google Inc. Google Play is a trademark of Google Inc.
 
