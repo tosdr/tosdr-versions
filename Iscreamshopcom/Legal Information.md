@@ -158,7 +158,7 @@ Follow us
 *   
     
 
-##### ![](/web/image/1487694-ed8cb712/iscream-logo-footer-ltr.png)  
+##### ![](/web/image/1863216-6965c155/Iscream-1.png)   
 
 Copyright © Mines Press, Inc.
 
