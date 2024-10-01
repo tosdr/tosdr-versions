@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Evidence of sexual abuse needed to file against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "Evidence of Sexual Abuse Needed to File Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-evidence-do-you-need-to-file-a-sexual-abuse-claim-against-the-mormon-church/ "Evidence of Sexual Abuse Needed to File Against the Mormon Church")
+[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
 
-[#### Evidence of Sexual Abuse Needed to File Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-evidence-do-you-need-to-file-a-sexual-abuse-claim-against-the-mormon-church/)
+[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
 
-[![Is there a statute of limitations for talcum powder lawsuits?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-is-there-a-statute-of-limitations-for-talcum-powder-lawsuits.jpg "Is There a Statute of Limitations for Talcum Powder Lawsuits?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations "Is There a Statute of Limitations for Talcum Powder Lawsuits?")
+[![What are the symptoms of malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-what-are-the-symptoms-of-malignant-mesothelioma-scaled.jpg "What Are the Symptoms of Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/ "What Are the Symptoms of Malignant Mesothelioma?")
 
-[#### Is There a Statute of Limitations for Talcum Powder Lawsuits?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations)
+[#### What Are the Symptoms of Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/)
 
-[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
+[![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
 
-[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
+[#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
