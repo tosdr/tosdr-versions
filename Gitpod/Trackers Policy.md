@@ -2,26 +2,26 @@
 
 [Gitpod Logo](https://www.gitpod.io/)
 
-* [CDEs](https://www.gitpod.io/cde)
 * Resources
 * Solutions
-* [Customers](https://www.gitpod.io/customers)
+* [Blog](https://www.gitpod.io/blog)
 * [Pricing](https://www.gitpod.io/pricing)
+* [Docs](https://www.gitpod.io/docs)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-* [Login](https://gitpod.io/login/)
+* [Login](https://app.gitpod.io/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-[Login](https://gitpod.io/login/)
+[Login](https://app.gitpod.io/)
 
 Cookies Policy[](#cookies-policy)
 =================================
 
-Date: 13th of June, 2022
+Date: October 1st, 2024
 
 General statement on Cookies[](#general-statement-on-cookies)
 -------------------------------------------------------------
@@ -49,7 +49,8 @@ Analytical / Performance cookies[](#analytical--performance-cookies)
 
 These allow us to recognise and count the number of visitors and to see how visitors move around our Stie when they are using it. This helps us improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
 
-Targeting/Advertising cookies
+Targeting/Advertising cookies[](#targetingadvertising-cookies)
+--------------------------------------------------------------
 
 These cookies record your visit to our Website, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our Website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
@@ -81,7 +82,6 @@ Specific details on Cookies[](#specific-details-on-cookies)
 | Product, Website | gp-analytical | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
 | Product, Website | gp-necessary | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
 | Product, Website | gp-targeting | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
-| Product | gitpod\_hashed\_user\_id | Strictly Necessary | Used to identify the user in Gitpod. | 1 year | No  |     |
 | Website | \_gcl\_au | Targeting/Marketing | Used by Google Ad sense to store and track conversions and advertising efficiency | 3 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | _tld_ | Targeting/Marketing | Used to track users across multiple website in order to present relevant advertisement | Session | No  |     |
 | Website | VISITOR\_INFO1\_LIVE | Targeting/Marketing | Tries to estimate the users’ bandwidth on pages with integrated YouTube videos | 6 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
@@ -98,41 +98,36 @@ Specific details on Cookies[](#specific-details-on-cookies)
 | Website | yt-remote-session-name | Targeting/Marketing | Stores the user’s video player preferences using embedded You Tube video | Persistent | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | ajs\_user\_id | Analytics/Performance | Generates a userID to identify reoccurring website visitors | Persistent | Yes | [https://segment.com/legal/privacy/](https://segment.com/legal/privacy/) |
 | Website | \_ga | Targeting/Marketing | Google Analytics | 14 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
+| Product, Website | muxData | Strictly Necessary | Mux | 1 year | No  | [https://mux.com/privacy/](https://mux.com/privacy/) |
 | Website | gitpod-marketing-website-visited | Analytics/Performance | Recognises if a user visited [https://gitpod.io](https://gitpod.io/) | 1 year | No  |     |
+| Product | gitpod\_hashed\_user\_id | Strictly Necessary | Used to identify the user in Gitpod. | 1 year | No  |     |
 | Product | browser-extension-banner-dismissed | Strictly Necessary | Necessary in order to check that the user has dismissed the browser extension banner | Persistent | No  |     |
+| Product | gitpod-account | Strictly Necessary | Authentication Cookie for Gitpod Flex | 30 Days | No  |     |
+| Product | intercom-id-\[app\_id\] | Strictly Necessary | Unique anonymous identifier for user support | 9 Months | No  |     |
+| Product | intercom-session-\[app\_id\] | Strictly Necessary | Keeping track of sessions for user support | 7 Days | No  |     |
+| Product | intercom-device-id-\[app\_id\] | Strictly Necessary | Unique device identifier for user support | 9 Months | No  |     |
 
-* Gitpod
-* [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
-* [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/enterprise)
-* [Pricing](https://www.gitpod.io/pricing)
-* [Ready-to-code](https://www.gitpod.io/ready-to-code)
+* Product
+* [Docs](https://www.gitpod.io/docs)
+* [Changelog](https://www.gitpod.io/changelog)
 * [Support](https://www.gitpod.io/support)
-* [Customers](https://www.gitpod.io/customers)
 * [Report a bug](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml)
 * [Status](https://www.gitpodstatus.com/)
 
 * Resources
-* [Docs](https://www.gitpod.io/docs)
-* [White paper](https://www.gitpod.io/whitepaper/cde)
-* [Changelog](https://www.gitpod.io/changelog)
 * [Blog](https://www.gitpod.io/blog)
-* [Guides](https://www.gitpod.io/blog?tag=Guides#latest)
-* [Videos](https://www.gitpod.io/screencasts)
-* [Community](https://www.gitpod.io/community)
+* [Pricing](https://www.gitpod.io/pricing)
 * [Events](https://www.gitpod.io/events)
-* [Open Source](https://www.gitpod.io/discover/opensource)
-* [Education](https://www.gitpod.io/discover/education)
-* [Startups](https://www.gitpod.io/discover/startups)
+* [Videos](https://www.gitpod.io/screencasts)
+* [Customers](https://www.gitpod.io/customers)
+* [White papers](https://www.gitpod.io/whitepapers)
 
 * Solutions
-* [Onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer productivity](https://www.gitpod.io/solutions/developer-productivity)
+* [Developer self-service](https://www.gitpod.io/solutions/developer-self-service)
 * [Supply chain security](https://www.gitpod.io/solutions/supply-chain-security)
-* [VDI](https://www.gitpod.io/solutions/vdi)
-* [Developers](https://www.gitpod.io/solutions/developers)
-* [Platform teams](https://www.gitpod.io/solutions/platform-teams)
-* [Data teams](https://www.gitpod.io/solutions/data-teams)
-* [Contractors](https://www.gitpod.io/solutions/contractors)
+* [VDI replacement](https://www.gitpod.io/solutions/vdi)
 
 * Compare
 * [GitHub Codespaces](https://www.gitpod.io/vs/github-codespaces)
@@ -146,6 +141,10 @@ Specific details on Cookies[](#specific-details-on-cookies)
 * [Contact](https://www.gitpod.io/contact)
 
  [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Discord](/svg/brands/discord.svg)](https://www.gitpod.io/chat)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
+
+![GDPR Compliant](/images/gdpr.png)
+
+![SOC 2 Compliant](/images/soc-2.png)
 
 [Imprint](https://www.gitpod.io/imprint) [Terms of service](https://www.gitpod.io/terms) [Privacy policy](https://www.gitpod.io/privacy) [Cookie policy](https://www.gitpod.io/cookies) Cookie preferences
 
