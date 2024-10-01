@@ -400,35 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Shots fired at Rockwall County deputies during high-speed chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/V-ROCKWALL-CO-PURSUIT-AND-CRASH-4A_00.00.06.34.jpg?ve=1&tl=1)
+ [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/GettyImages-176717918-scaled.jpg?ve=1&tl=1)
 
- ![Shots fired at Rockwall County deputies during high-speed chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/V-ROCKWALL-CO-PURSUIT-AND-CRASH-4A_00.00.06.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-rockwall-county-deputies-during-high-speed-chase)
+ ![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/GettyImages-176717918-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
-### [Shots fired at Rockwall County deputies during high-speed chase](https://www.fox4news.com/news/shots-fired-rockwall-county-deputies-during-high-speed-chase)
+### [Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
- [![Temporary student loan benefits ending this week – what borrowers should know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1447412841.jpg?ve=1&tl=1)
+ [![Amber Alert issued for missing Hurst 16-year-old girl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/Hurst-Amber-Alert.jpg?ve=1&tl=1)
 
- ![Temporary student loan benefits ending this week – what borrowers should know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1447412841.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/on-ramp-period-student-loan-missed-payment-late-what-to-know)
+ ![Amber Alert issued for missing Hurst 16-year-old girl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/Hurst-Amber-Alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-hurst-zoe-rowbotham)
 
-### [Temporary student loan benefits ending this week – what borrowers should know](https://www.fox4news.com/news/on-ramp-period-student-loan-missed-payment-late-what-to-know)
+### [Amber Alert issued for missing Hurst 16-year-old girl](https://www.fox4news.com/news/amber-alert-hurst-zoe-rowbotham)
 
- [![Dallas street parking increases to minimum $1 hourly rate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/parking.jpg?ve=1&tl=1)
+ [![Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175288947.jpg?ve=1&tl=1)
 
- ![Dallas street parking increases to minimum $1 hourly rate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/parking.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-parking-meter-fare-increases-october-1)
+ ![Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175288947.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iran-missiles-israel)
 
-### [Dallas street parking increases to minimum $1 hourly rate](https://www.fox4news.com/news/dallas-parking-meter-fare-increases-october-1)
+Developing
 
- [![It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/V-FW-ZOO-BABY-MANDRILL-6P_00.00.53.10.jpg?ve=1&tl=1)
+### [Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://www.fox4news.com/news/iran-missiles-israel)
 
- ![It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/V-FW-ZOO-BABY-MANDRILL-6P_00.00.53.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-zoo-baby-mandrill)
+ [![Stuffed shells recipe from Mimi's Kitchen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100124-Andi-Murray-Mimis-KitchenC7-KDFWEME001_09__00.10.14.18.jpg?ve=1&tl=1)
 
-### [It’s a boy! Fort Worth Zoo welcomes first male mandrill in nearly 30 years](https://www.fox4news.com/news/fort-worth-zoo-baby-mandrill)
+ ![Stuffed shells recipe from Mimi's Kitchen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100124-Andi-Murray-Mimis-KitchenC7-KDFWEME001_09__00.10.14.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stuffed-shells-recipe-from-mimis-kitchen)
 
- [![Strike at ports update: 45,000 stop work along East Coast, Gulf docks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175197766.jpg?ve=1&tl=1)
+### [Stuffed shells recipe from Mimi's Kitchen](https://www.fox4news.com/news/stuffed-shells-recipe-from-mimis-kitchen)
 
- ![Strike at ports update: 45,000 stop work along East Coast, Gulf docks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175197766.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-2024-latest-deal-union-ila-oct-1)
+ [!["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Immigrants-at-the-border.jpg?ve=1&tl=1)
 
-### [Port strike: 45,000 stop work along East Coast, Gulf docks – how it could impact you](https://www.fox4news.com/news/port-strike-2024-latest-deal-union-ila-oct-1)
+ !["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Immigrants-at-the-border.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ice-releases-data-immigrants)
+
+### ["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://www.fox4news.com/news/ice-releases-data-immigrants)
 
 ###### [News](https://www.fox4news.com/news)
 
