@@ -1,14 +1,3 @@
-[](https://www.kogama.com/games/ "KoGaMa")
-
-1. [Play](https://www.kogama.com/games/)
-2. [Build](https://www.kogama.com/build/)
-3. [Shop](https://www.kogama.com/marketplace/)
-4. [News](https://www.kogama.com/news/)
-5. [Leaderboard](https://www.kogama.com/leaderboard/)
-
-1. Login
-2. Signup
-
 * [Support](https://www.kogama.com/help/)
 * [Privacy Policy](https://www.kogama.com/help/privacy-policy/)
 * [Terms & Conditions](https://www.kogama.com/help/terms-and-conditions/)
@@ -21,8 +10,8 @@
 * [Cookies](https://www.kogama.com/help/cookies/)
 * [KoGaMa Publishing](https://www.kogama.com/help/publishing/)
 
-Terms of Use
-============
+Terms & Conditions
+==================
 
 Updated: May 17th , 2024
 
@@ -180,7 +169,7 @@ Play, create and share multiplayer games
 
 * [Support](https://www.kogama.com/help/)
 
-[Adventurebox Technology](https://corp.adventurebox.com/ "Adventurebox Technology")
+[Adventurebox Technology](https://corp.adventurebox.com/en "Adventurebox Technology")
 
 #### About
 
