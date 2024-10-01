@@ -117,11 +117,11 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [The Sounds Resource](https://www.sounds-resource.com/)
 
 * Popular Games
-* [Nuga-Cel!](https://www.spriters-resource.com/playstation_2/nugacel/)
-* [Love Nikki](https://www.spriters-resource.com/mobile/lovenikki/)
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
-* [Lunar: Silver Star H...](https://www.spriters-resource.com/psp/lunarsilverstarharmony/)
+* [Nuga-Cel!](https://www.spriters-resource.com/playstation_2/nugacel/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
+* [The Simpsons: Tapped...](https://www.spriters-resource.com/mobile/thesimpsonstappedout/)
+* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
