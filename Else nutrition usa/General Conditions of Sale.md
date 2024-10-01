@@ -40,6 +40,7 @@ elsenutrition
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * [Top Picks](https://elsenutrition.com/a/resources)
     * [Nutrition](https://elsenutrition.com/a/resources/nutrition)
     * [Parenting Tips](https://elsenutrition.com/a/resources/parenting-tips)
     * [Health & Wellness](https://elsenutrition.com/a/resources/health-and-wellness)
@@ -51,6 +52,21 @@ elsenutrition
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
     [All resources](https://elsenutrition.com/a/resources/nutrition)
+    
+    ### Best of
+    
+    * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
+    * [Best Organic Toddler Formulas](https://elsenutrition.com/a/resources/nutrition/best-toddler-formulas)
+    * [Best Nutrition Shakes for Kids](https://elsenutrition.com/a/resources/nutrition/top-4-nutritious-kids-shakes-for-balanced-growth-and-delicious-taste)
+    * [Best Healthy Kids Drinks](https://elsenutrition.com/a/resources/nutrition/top-healthy-kids-nutrition-drinks-for-balanced-growth)
+    
+    [### Featured
+    
+    ![](//elsenutrition.com/cdn/shop/files/top_picks.jpg?v=1727772228&width=1100)
+    
+    Top Healthy Kids Nutrition Drinks for Balanced Growth](https://elsenutrition.com/a/resources/nutrition/top-healthy-kids-nutrition-drinks-for-balanced-growth)
+    
+    [Explore all Top Picks](https://elsenutrition.com/a/resources)
     
     ### Top Articles
     
@@ -203,6 +219,14 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * Top Picks
+        
+        * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
+        * [Best Organic Toddler Formulas](https://elsenutrition.com/a/resources/nutrition/best-toddler-formulas)
+        * [Best Nutrition Shakes for Kids](https://elsenutrition.com/a/resources/nutrition/top-4-nutritious-kids-shakes-for-balanced-growth-and-delicious-taste)
+        * [Best Healthy Kids Drinks](https://elsenutrition.com/a/resources/nutrition/top-healthy-kids-nutrition-drinks-for-balanced-growth)
+        * [SEE ALL](https://elsenutrition.com/a/resources)
+        
     * Nutrition
         
         * [Rice Cereal for Babies](https://elsenutrition.com/a/resources/nutrition/rice-cereal-for-babies-alternatives-and-tips)
@@ -292,6 +316,14 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * Top Picks
+        
+        * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
+        * [Best Organic Toddler Formulas](https://elsenutrition.com/a/resources/nutrition/best-toddler-formulas)
+        * [Best Nutrition Shakes for Kids](https://elsenutrition.com/a/resources/nutrition/top-4-nutritious-kids-shakes-for-balanced-growth-and-delicious-taste)
+        * [Best Healthy Kids Drinks](https://elsenutrition.com/a/resources/nutrition/top-healthy-kids-nutrition-drinks-for-balanced-growth)
+        * [SEE ALL](https://elsenutrition.com/a/resources)
+        
     * Nutrition
         
         * [Rice Cereal for Babies](https://elsenutrition.com/a/resources/nutrition/rice-cereal-for-babies-alternatives-and-tips)
