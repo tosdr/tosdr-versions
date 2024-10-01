@@ -5,7 +5,7 @@
 [](#)
 
 * [For Enterprise](https://www.teamviewer.com/en-us/global/enterprise/)
-* [Support](#)
+* Support
     * [Contact Support](https://www.teamviewer.com/en-us/global/support/customer-support/)
     * [Guides & Manuals](https://www.teamviewer.com/en-us/global/support/documents/)
     * [Knowledge Base](https://www.teamviewer.com/en-us/global/support/knowledge-base/)
@@ -13,7 +13,7 @@
     * [Custom Modules](https://www.teamviewer.com/en-us/global/support/custom-modules/)
     * [For Developers](https://www.teamviewer.com/en-us/global/support/for-developers/)
     * [Community](https://www.teamviewer.com/en-us/global/support/community/)
-* [Company](#)
+* Company
     * [About TeamViewer](https://www.teamviewer.com/en-us/global/company/about-teamviewer/)
     * [Careers](https://www.teamviewer.com/en-us/global/company/careers/)
     * [Investors](https://www.teamviewer.com/en-us/global/company/investors/)
@@ -23,7 +23,7 @@
     * [Sustainability and CSR](https://www.teamviewer.com/en-us/global/company/sustainability-and-csr/)
 * [Contact Sales](https://www.teamviewer.com/en-us/global/contact-sales/)
 
-* [Sign in](#)
+* Sign in
     * [Open web app](https://web.teamviewer.com/)
     * [Management Console](https://login.teamviewer.com/LogOn)
     * [Ticket](https://freshworks-help175.freshworks.com/login/auth/contactsso?client_id=78368727158800390&redirect_uri=https%3A%2F%2Fsupport.teamviewer.com%2Ffreshid%2Fcustomer_authorize_callback)
@@ -33,7 +33,7 @@
 
 [![TeamViewer](https://s7g10.scene7.com/is/content/teamviewergmbh/logo-teamviewer-2?dpr=off)](https://www.teamviewer.com/)
 
-* [Products](#)
+* Products
     
     * [TeamViewer Remote
         
@@ -58,8 +58,8 @@
     * [Additional solutions](https://www.teamviewer.com/en-us/special/better-together/)
     * [Embedded Devices](https://www.teamviewer.com/en-us/products/tensor/solutions/tensor-embed/)
     
-* [Solutions](#)
-    * [By Industries](#)
+* Solutions
+    * By Industries
         * [Automotive](https://www.teamviewer.com/en-us/solutions/industries/automotive/)
         * [Agriculture](https://www.teamviewer.com/en-us/solutions/industries/agriculture/)
         * [Logistics](https://www.teamviewer.com/en-us/solutions/industries/logistics/)
@@ -68,7 +68,7 @@
         * [Healthcare](https://www.teamviewer.com/en-us/solutions/industries/healthcare/)
         * [Education](https://www.teamviewer.com/en-us/solutions/industries/education/)
         * [Banking and finance](https://www.teamviewer.com/en-us/solutions/industries/banking-finance/)
-    * [By Use Cases](#)
+    * By Use Cases
         * [Apple Vision Pro × TeamViewer](https://www.teamviewer.com/en-us/solutions/use-cases/apple-vision-pro/)
         * [Remote access and support](https://www.teamviewer.com/en-us/solutions/use-cases/remote-access-support/)
         * [Remote control](https://www.teamviewer.com/en-us/solutions/use-cases/remote-control/)
@@ -77,19 +77,19 @@
         * [Screen sharing](https://www.teamviewer.com/en-us/solutions/use-cases/screen-sharing/)
         * [After-sales service](https://www.teamviewer.com/en-us/solutions/use-cases/after-sales-service/)
         * [Vision picking](https://www.teamviewer.com/en-us/solutions/use-cases/vision-picking/)
-    * [By Roles](#)
+    * By Roles
         * [Personal use](https://www.teamviewer.com/en-us/solutions/roles/personal-use/)
         * [Small businesses](https://www.teamviewer.com/en-us/solutions/roles/small-businesses/)
         * [Large businesses](https://www.teamviewer.com/en-us/solutions/roles/large-businesses/)
         * [Managed service providers](https://www.teamviewer.com/en-us/solutions/roles/managed-service-providers/)
         * [Freelancers and digital nomads](https://www.teamviewer.com/en-us/solutions/roles/freelancer-digital-nomad/)
         * [OEMs](https://www.teamviewer.com/en-us/solutions/roles/oems/)
-* [Resources](#)
+* Resources
     * [News and Insights](https://www.teamviewer.com/en-us/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en-us/resources/success-stories/)
     * [Events and Webinars](https://www.teamviewer.com/en-us/resources/events/)
     * [Trust Center](https://www.teamviewer.com/en-us/resources/trust-center/)
-* [Partner](#)
+* Partner
     * [Become a Partner](https://www.teamviewer.com/en-us/partner/become-a-partner/)
     * [Find a Partner](https://www.teamviewer.com/en-us/partner/partner-locations/)
     * [Integration Partners](https://www.teamviewer.com/en-us/partner/integrations/)
