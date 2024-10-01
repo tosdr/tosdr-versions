@@ -2,9 +2,9 @@
 
 URGENT ALERT
 
-Health and Humanitarian Crisis in Lebanon
+Helene Update - Catastrophic Flooding in North Carolina
 
-[DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_09_Lebanon_Crisis_Web_LO_12218 "DONATE") Close
+[DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_09_Hurricane_Helene_Web_LO_12253.html "DONATE") Close
 
 [Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
@@ -38,6 +38,7 @@ Health and Humanitarian Crisis in Lebanon
         
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
         * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
+        * [Hurricane Helene: Setting up Support](https://www.projecthope.org/news-stories/responses/hurricane-helene-how-to-help/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
@@ -111,6 +112,7 @@ Search for:
     * [Back](# "Back")
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
         * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
+        * [Hurricane Helene: Setting up Support](https://www.projecthope.org/news-stories/responses/hurricane-helene-how-to-help/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
@@ -301,10 +303,10 @@ Proud to be independently verified by:
 
 Close Donation Form
 
-World Humanitarian Day Matching Gift Challenge
-----------------------------------------------
+Emergency 3x Match
+------------------
 
-Today we're celebrating our team of humanitarians—and all they do to save lives. Please make a gift in their honor while our matching gift challenge will double your generosity.
+Rush your emergency gift today and your generosity can go 3X as far, up to $25,000, through 10/9, to help support our mission and save lives in places like North Carolina, Lebanon, Gaza, Ukraine, and beyond.
 
 Donation type One Time  Monthly 
 
@@ -316,7 +318,7 @@ Donation amount, other Other donation amount
 
 Donate Now
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_08_WHDonly_Web.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Year_End_Web_LO_12173.html "Donate")
 
 We use cookies to ensure that we give you the best experience on our website. By clicking “Accept”, you consent to us using data collected from the cookies on our website. To learn more, check out our [privacy policy](https://www.projecthope.org/privacy-policy).
 
