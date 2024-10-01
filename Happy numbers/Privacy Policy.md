@@ -3,7 +3,9 @@
 Privacy Policy
 ==============
 
-As used in the Privacy Policy, "Happy Numbers" refers to all websites (including www.happynumbers.com, happynumbers.com/blog and plus.happynumbers.com), applications, their features, content we offer. Our services are provided and the information is collected by Happy Numbers Inc., a company organized under the laws of the USA, having its principal place of business at 2345 Yale Street., First Floor, Palo Alto, CA 94306, USA.
+We are in the process of updating our Privacy Policy. The revised version will take effect on October 15, 2024. You can review the updated Privacy Policy by following [this link](https://shared.happynumbers.com/updated-2024-privacy-policy.pdf).
+
+As used in the Privacy Policy, "Happy Numbers" refers to all websites (including www.happynumbers.com, happynumbers.com/blog and plus.happynumbers.com), applications, their features, content we offer. Our services are provided and the information is collected by Happy Numbers Inc., a company organized under the laws of the USA, having its principal place of business at 2261 Market Street STE 22178, San Francisco, CA 94114, USA.
 
 Please read the following to learn about our Privacy Policy and the ways in which we use your information before you proceed with use of Happy Numbers.
 
@@ -171,9 +173,9 @@ If you have any questions or suggestions about this Privacy Policy or your Perso
   
 
 * Happy Numbers Inc.,
-* 2345 Yale Street., First Floor,
-* Palo Alto,
-* CA 94306,
+* 2261 Market Street STE 22178,
+* San Francisco,
+* CA 94114,
 * USA
 
   
