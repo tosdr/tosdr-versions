@@ -396,7 +396,7 @@ Email: [support@adguard.com](mailto:support@adguard.com) Website: [](https://adg
 
 Other documents:
 
-[Privacy policy](https://adguard.com/en/privacy.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy Policy of AdGuard Websites](https://adguard.com/en/website-privacy.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
+[Privacy policy](https://adguard.com/en/privacy.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy Policy of AdGuard Websites](https://adguard.com/en/website-privacy.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
 
 Privacy Notices:
 
