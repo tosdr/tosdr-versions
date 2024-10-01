@@ -64,7 +64,7 @@ top of page
 
 [CONTACT SALES](https://www.team-cymru.com/contact-sales)
 
-[Free Trial - Threat Hunting Tool](https://www.team-cymru.com/ip-address-lookup-scout-insight)
+[FREE TRIAL - THREAT HUNTING TOOL](https://www.team-cymru.com/ip-address-lookup-scout-insight)
 
 ![Protecting Your Digital World](https://static.wixstatic.com/media/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg/v1/fill/w_147,h_31,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg)
 
