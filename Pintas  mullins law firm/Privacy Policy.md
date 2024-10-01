@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do nursing homes meet nutritional needs?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-do-nursing-homes-meet-nutritional-needs-scaled.jpg "How Do Nursing Homes Meet Nutritional Needs?")](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/ "How Do Nursing Homes Meet Nutritional Needs?")
+[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
 
-[#### How Do Nursing Homes Meet Nutritional Needs?](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/)
+[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
 
-[![Can mesothelioma be benign?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-mesothelioma-be-benign-scaled.jpg "Can Mesothelioma Be Benign?")](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/ "Can Mesothelioma Be Benign?")
+[![What is considered a fall in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-a-fall-in-a-nursing-home-scaled.jpg "What Is Considered a Fall in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/ "What Is Considered a Fall in a Nursing Home?")
 
-[#### Can Mesothelioma Be Benign?](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/)
+[#### What Is Considered a Fall in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/)
 
-[![What is elopement in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elopement-in-nursing-homes-scaled.jpg "What Is Elopement in Nursing Homes?")](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/ "What Is Elopement in Nursing Homes?")
+[![How long do you live after being diagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-long-do-you-live-after-being-diagnosed-with-lung-cancer.jpg "How Long Do You Live After Being Diagnosed With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/survival-rates "How Long Do You Live After Being Diagnosed With Lung Cancer?")
 
-[#### What Is Elopement in Nursing Homes?](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/)
+[#### How Long Do You Live After Being Diagnosed With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/survival-rates)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
