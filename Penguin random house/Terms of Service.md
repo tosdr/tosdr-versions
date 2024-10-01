@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/28121215/PRH_New-Audio_site_1200x626_Sept2024.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    New Stories to Listen to
+    How To Read More in 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
+* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
+    
+    A Guide to Truman Capote Books
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
     New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
-
-* * *
-
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
-    
-    Join Our Authors for Upcoming Events
-    
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
