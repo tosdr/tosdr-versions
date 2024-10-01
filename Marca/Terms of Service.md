@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvsLpAoAAhUAAABh@o4)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvtfRwoAAhUAAABhENU)
 
 * Es noticia:
 * [Muere Mutombo](https://www.marca.com/baloncesto/nba/2024/09/30/muere-legendario-dikembe-mutombo-58-anos.html)
@@ -6,7 +6,7 @@
 * [Alonso](https://www.marca.com/motor/formula1/2024/09/30/66fae69f46163f40418b4580.html)
 * [Racing - Cartagena](https://www.marca.com/futbol/laliga-hypermotion/racing-santander-cartagena/2024/09/30/01_0102_20240930_189_3554-directo.html)
 * [Sanciones Atlético](https://www.marca.com/futbol/2024/09/30/66fae239ca474199518b45df.html)
-* [Presupuesto Barcelona](https://www.marca.com/futbol/barcelona/2024/09/30/66fae60522601ded2a8b4596.html)
+* [Koke Vinicius](https://www.marca.com/futbol/real-madrid/2024/09/30/66fafa5be2704e161a8b4612.html)
 * [Jordan Mutombo](https://www.marca.com/baloncesto/nba/2024/09/30/dia-michael-jordan-reto-mutombo-tiro-libre-ojos-cerrados-hey-mutombo-this-one-s-for-you-baby.html)
 * [Dembélé](https://www.marca.com/futbol/champions-league/2024/09/30/66facf64e2704e538f8b45f8.html)
 * [Boticaria García](https://www.marca.com/tiramillas/television/2024/09/30/66facf6dca47411c238b45e8.html)
