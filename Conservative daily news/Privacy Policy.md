@@ -1,4 +1,4 @@
-Monday, September 30 2024
+Tuesday, October 1 2024
 
 Breaking News
 
@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: FN 545 vs FNX-45 Tactical](https://www.thegunpage.com/tfb-review-fn-545-vs-fnx-45-tactical/10610911)
 * [7 Longest Confirmed Sniper Kills: When Man And Rifle Become One](https://www.thegunpage.com/7-longest-confirmed-sniper-kills-when-man-and-rifle-become-one/10610908)
 * [POTD: The Moose Hunt – Savage 110 Ultralite](https://www.thegunpage.com/potd-the-moose-hunt-savage-110-ultralite/10610909)
 * [The Rimfire Report: NAA Sentinel + Federal 22 WMR Punch Test](https://www.thegunpage.com/the-rimfire-report-naa-sentinel-federal-22-wmr-punch-test/10610910)
@@ -186,7 +187,6 @@ Recent Posts
 * [TFB Review: FN 502 MRD And 502T](https://www.thegunpage.com/tfb-review-fn-502-mrd-and-502t/10610904)
 * [Finally! A Reporter Actually Presses Harris on Her Stance on Guns](https://www.thegunpage.com/finally-a-reporter-actually-presses-harris-on-her-stance-on-guns/10610897)
 * [TFB Review: Marlin 1895 Dark 45-70: A Modern Take on a Classic](https://www.thegunpage.com/tfb-review-marlin-1895-dark-45-70-a-modern-take-on-a-classic/10610899)
-* [Bill Introduced to Ban Federal Contracts with Gun Dealers Linked to Violent Crime](https://www.thegunpage.com/bill-introduced-to-ban-federal-contracts-with-gun-dealers-linked-to-violent-crime/10610893)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
