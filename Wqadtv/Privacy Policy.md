@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_360x203.jpg)](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_360x203.jpg)](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
         
-        #### [Student Hunger Drive for the River Bend Food Bank kicks off](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
+        #### [McManus Orthodontics Coloring Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/mcmanus-orthodontics-coloring-sweepstakes-official-rules/526-399b9035-00a4-4f6c-b0ad-cd99697739b1)
         
-        #### [Vacant home catches fire in Moline Sunday night](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
+        #### [McManus Orthodontics Coloring Sweepstakes OFFICIAL RULES](https://www.wqad.com/article/news/local/contests/contest-rules/mcmanus-orthodontics-coloring-sweepstakes-official-rules/526-399b9035-00a4-4f6c-b0ad-cd99697739b1)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7/20240923T230648/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7/20240923T230648/a26ff914-2b7e-47dd-8cde-47c16fa7f9e7_360x203.jpg)](https://www.wqad.com/article/weather/fema-urges-illinois-residents-to-apply-for-assistance-after-severe-july-flooding/63-6e4980f9-6711-407a-a12a-736a4567162a)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/f4a8141a-ed38-4862-8afa-ca77aa2366bf/20241001T131411/f4a8141a-ed38-4862-8afa-ca77aa2366bf_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f4a8141a-ed38-4862-8afa-ca77aa2366bf/20241001T131411/f4a8141a-ed38-4862-8afa-ca77aa2366bf_360x203.jpg)](https://www.wqad.com/article/news/nation-world/desperation-exhaustion-in-north-carolinas-mountains-days-after-helene/507-9829790f-8639-43da-b50e-b29ea0e400ac)
         
-        #### [FEMA urges Illinois residents to apply for assistance after severe July flooding](https://www.wqad.com/article/weather/fema-urges-illinois-residents-to-apply-for-assistance-after-severe-july-flooding/63-6e4980f9-6711-407a-a12a-736a4567162a)
+        #### [Desperation and exhaustion in North Carolina's mountains days after Helene's deluge](https://www.wqad.com/article/news/nation-world/desperation-exhaustion-in-north-carolinas-mountains-days-after-helene/507-9829790f-8639-43da-b50e-b29ea0e400ac)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/7119f951-fbd0-419f-afc4-dce18f5332ce/20240930T220813/7119f951-fbd0-419f-afc4-dce18f5332ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7119f951-fbd0-419f-afc4-dce18f5332ce/20240930T220813/7119f951-fbd0-419f-afc4-dce18f5332ce_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3121b83d-2262-499d-ab07-972083ce3ff1/20241001T121541/3121b83d-2262-499d-ab07-972083ce3ff1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3121b83d-2262-499d-ab07-972083ce3ff1/20241001T121541/3121b83d-2262-499d-ab07-972083ce3ff1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [September ends on a dry and summer-like note](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [October comes in on a windy and cooler note](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-60°
+63°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
