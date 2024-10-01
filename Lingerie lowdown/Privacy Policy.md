@@ -10,10 +10,11 @@
     * [12 Month membership](https://www.lingerielowdown.com/join/12-months/)
 * [About Us](https://www.lingerielowdown.com/about/)
     * [Latest news](https://www.lingerielowdown.com/tag/news/)
+    * [AI audio translations](https://www.lingerielowdown.com/2024/10/01/ai-powered-audio-translations-the-biggest-news-in-lingerie-lowdown-history/)
     * [Our weekly podcasts](https://www.lingerielowdown.com/tag/podcasts/)
-    * [Plastic reduction](https://www.lingerielowdown.com/plastic-reduction/)
     * [Support us](https://www.lingerielowdown.com/support/)
     * [The Lowdown FAQs](https://www.lingerielowdown.com/faqs/)
+    * [Plastic reduction](https://www.lingerielowdown.com/plastic-reduction/)
     * [Contact the team](https://www.lingerielowdown.com/contact/)
     * [Scam alert](https://www.lingerielowdown.com/2023/01/11/scammer-alert-a-warning-to-all-models/)
 * Presenters…
