@@ -146,7 +146,7 @@ Conditions générales
 
 [Mobile](#)
 
-[Conditions particulières – Téléphonie mobile(PDF, 207Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-06-03-15-56-00~cache.pdf)
+[Conditions particulières – Téléphonie mobile(PDF, 187Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-09-27-09-06-55~cache.pdf)
 
 [Internet policy(PDF, 162Kb)](https://www.proximus.be/dam/jcr:ffaf036a-cc5b-4087-ad57-637a0e06c344/cdn/sites/iportal/documents/pdfs/common/Conditions_internetpolicy_fr~2023-01-02-06-29-42~cache.pdf)
 
@@ -222,6 +222,18 @@ Conditions générales
 * Entretien des centraux téléphoniques (PABX)
     * [Contrats conclus à partir du 05/05/2023(PDF, 206Kb)](https://www.proximus.be/dam/jcr:a3b56d06-e663-48f3-9e74-5836ec94a26a/cdn/sites/iportal/documents/pdfs/common/20230505_pabx_maintenance_fr~2023-05-03-15-17-21~cache.pdf)
     * [Contrats conclus avant 04/05/2023(PDF, 235Kb)](https://www.proximus.be/dam/jcr:0a13c716-206e-40d0-8dc7-751de0afb8dd/cdn/sites/iportal/documents/pdfs/common/pabx_maintenance_fr~2022-01-21-09-23-51~cache.pdf)
+
+#### Mise à jour des Conditions Particulières pour le service TV et des Conditions d'Utilisation d'un accès Internet via le réseau Proximus à partir du 01/12.
+
+Proximus adapte le document contractuel « Conditions d'Utilisation d'un accès Internet via le réseau Proximus » et ses Conditions Particulières pour le service TV (pour le service VOD) au cadre réglementaire : la procédure interne de plainte pour signaler un contenu illégal est précisée, ainsi que les mesures potentielles qui peuvent être prises.
+
+Voir plus Voir moins
+
+Toute plainte concernant un contenu potentiellement illégal ou un abus du Service doit être adressée au [abuse@proximus.com](mailto:abuse@proximus.com), soit via le formulaire de plainte disponible sur le site Proximus : [proximus.com/contenu-illegalNouvelle fenêtre](https://www.proximus.com/contenu-illegal) .
+
+Dans le cadre de la procédure interne de traitement des plaintes, Proximus se réserve le droit de prendre les mesures appropriées pour remédier à la situation. Cela peut inclure, mais sans s'y limiter, une mise en demeure formelle de cesser tout abus, un blocage temporaire ou permanent du service, ou la transmission de l'affaire aux entités appropriées pour une action ultérieure.
+
+Les réponses aux plaintes seront communiquées par e-mail dans un délai raisonnable.
 
 #### Nouvelle loi sur les compensations en cas de panne du réseau
 
@@ -691,34 +703,6 @@ Pour plus d’informations, veuillez contacter votre account manager ou appeler 
 
 * [_​_Proximus Fuse(PDF, 47.5Kb)](https://www.proximus.be/dam/jcr:9f072859-f3c5-4e2a-9312-ad06dbd32bb7/cdn/sites/iportal/documents/pdfs/res/rates_fuse_fr~2021-02-01-09-17-44~cache.pdf)
 * [_​_Fuse Extended(PDF, 48.1Kb)](https://www.proximus.be/dam/jcr:56d7c32e-9bf1-4797-9c42-456f79ec1b10/cdn/sites/iportal/documents/pdfs/res/rates_fuse_extended_fr~2021-02-01-09-17-43~cache.pdf)
-
-Modifications tarifaires de certains produits professionnels au 01/07/2024
---------------------------------------------------------------------------
-
-Comme annoncé via votre facture, le prix de certains produits professionnels est modifié à dater du 01/07/2024 à la suite d’une indexation contractuelle ou d’une augmentation tarifaire.
-
-Détails de ces adaptations:
-
-Voir plus Voir moins
-
-##### 1\. Abonnements
-
-* [Téléphonie fixe hors pack(PDF, 74 KB)](https://www.proximus.be/dam/jcr:a813eef3-e0a2-4cc0-b2e0-51ad6627a7a0/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-fix-fr.pdf)
-* [Enterprise Pack Together(PDF, 75 KB)](https://www.proximus.be/dam/jcr:c4f5f6b5-3b54-4fcd-a388-aa2ed3670b32/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-pack-together-fr.pdf)
-* [Enterprise Call & Surf packs(PDF, 118 KB)](https://www.proximus.be/dam/jcr:34e5782d-1210-493e-a033-d81d94912a7c/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-pack-call-surf-fr.pdf)
-* [ISDNoIP in professional Packs for Small Businesses (petites entreprises)(PDF, 49 KB)](https://www.proximus.be/dam/jcr:04196e51-8f33-4dbe-a150-ebd250b90ad5/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-pack-professional-fr.pdf)
-* Explore & SDWAN National, pour les tarifs Explore & SDWAN, veuillez contacter votre Account Manager.
-
-##### 2\. Numéros marketing
-
-* [0800 Pack Line(PDF, 162 KB)](https://www.proximus.be/dam/jcr:345621e8-adef-4b10-83a1-1ad52693a7ea/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-0800-packline-fr.pdf)
-* [0800 Corporate 100(PDF, 163 KB)](https://www.proximus.be/dam/jcr:008e8f84-135c-4c1f-9a26-e8893c037166/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-0800-COR100-fr.pdf)
-* [0800 Corporate 200(PDF, 163 KB)](https://www.proximus.be/dam/jcr:a3fcb42b-795a-482b-b997-bbcb9139a6be/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-0800-COR200-fr.pdf)
-* [0800 Corporate 500(PDF, 163 KB)](https://www.proximus.be/dam/jcr:cf4a0f2d-8f61-4b5e-b474-256a2a285330/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-0800-COR500-fr.pdf)
-
-##### 3\. VMS/Smart Routing
-
-* [VMS/Smart Routing(PDF, 432 KB)](https://www.proximus.be/dam/jcr:4b1753df-eaf4-43a3-8a06-771390cbb881/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-VMS-fr.pdf)
 
 Récapitulatifs contractuels
 ---------------------------
