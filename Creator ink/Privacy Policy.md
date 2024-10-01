@@ -65,20 +65,6 @@ icon-X Close menu
         
     
 * [Five Nights at Freddy's](https://creatorink.com/collections/five-nights-at-freddys)
-    
-    * [FNAF Fazcar Racing Jacket Pre-Order](https://creatorink.com/products/fnaf-fazcar-racing-jacket)
-        
-    * [Art Series CH. 1 | Posters](https://creatorink.com/collections/fnaf-art-series)
-        
-    * [Art Series CH. 1 | FNAF The Awakening](https://creatorink.com/collections/fnaf-art-series)
-        
-    * [Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
-        
-    * [VIP Secret Sale](https://creatorink.com/collections/ink-insiders-secret-sale)
-        
-    * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
-        
-    
 * [Sale](https://creatorink.com/collections/evergreen-sale-collection)
 * [Work With Us](https://creatorink.com/pages/work-with-us)
 * [Log in](https://creatorink.com/account)
@@ -189,15 +175,7 @@ icon-X Close menu
     
     [All Available](https://creatorink.com/collections/all-available)
     
-* Five Nights at Freddy's
-    
-    * [FNAF Fazcar Racing Jacket Pre-Order](https://creatorink.com/products/fnaf-fazcar-racing-jacket)
-    * [Art Series CH. 1 | Posters](https://creatorink.com/collections/fnaf-art-series)
-    * [Art Series CH. 1 | FNAF The Awakening](https://creatorink.com/collections/fnaf-art-series)
-    * [Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
-    * [VIP Secret Sale](https://creatorink.com/collections/ink-insiders-secret-sale)
-    * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
-    
+* [Five Nights at Freddy's](https://creatorink.com/collections/five-nights-at-freddys)
 * [Sale](https://creatorink.com/collections/evergreen-sale-collection)
 * [Work With Us](https://creatorink.com/pages/work-with-us)
 
@@ -206,6 +184,10 @@ icon-X Close menu
 Search
 
   Search
+
+Pause slideshow Play slideshow
+
+[Up to 50% Off & Free Gifts on Fnaf items all month long!Shop the deals!](https://creatorink.com/collections/five-nights-at-freddys)
 
 Privacy Policy
 ==============
