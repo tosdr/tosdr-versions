@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Best NS Player of October 2024!!! (1)](https://forum.nationstates.net/viewtopic.php?t=556296&f=25&view=unread#unread ""Best NS Player of October 2024!!!" (1 post)")
-* [Guess AN's Gender (3,670)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (3,670 posts)")
-* [AN Out of Context III (2,871)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (2,871 posts)")
-* [YL catches AL doing something embaras… (55)](https://forum.nationstates.net/viewtopic.php?t=555982&f=25&view=unread#unread ""YL catches AL doing something embarassing, YL's reaction?" (55 posts)")
-* [NFL Football Thread 24-25: The Road t… (7,760)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,760 posts)")
+* [.::The List of National Sports::. (956)](https://forum.nationstates.net/viewtopic.php?t=277620&f=23&view=unread#unread "".::The List of National Sports::." (956 posts)")
+* [\[SIGNUPS | Kenora Only\] Games of the… (15)](https://forum.nationstates.net/viewtopic.php?t=554114&f=7&view=unread#unread ""[SIGNUPS | Kenora Only] Games of the XXVIII Kenora Olympiad" (15 posts)")
+* [Geography Game II (10,328)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,328 posts)")
+* [The Horsemen of the Apocalypse: Winni… (4)](https://forum.nationstates.net/viewtopic.php?t=556311&f=41&view=unread#unread ""The Horsemen of the Apocalypse: Winning > Forum Threads" (4 posts)")
+* [Your Nation in Hoi4 Equestria at War (24)](https://forum.nationstates.net/viewtopic.php?t=551449&f=23&view=unread#unread ""Your Nation in Hoi4 Equestria at War" (24 posts)")
 
 Advertisement
 
