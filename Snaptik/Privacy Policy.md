@@ -60,6 +60,7 @@ By accessing and using SnapTik App, you express your voluntary acceptance of thi
 
 #### Tools
 
+* [Download photo TikTok Notes](https://snaptik.app/tiktok-notes-downloader)
 * [Download video Douyin](https://snaptik.app/douyin-downloader)
 * [Download Tiktok Slide](https://snaptik.app/download-tiktok-slide)
 * [Download Tiktok Story](https://snaptik.app/download-story-tiktok)
