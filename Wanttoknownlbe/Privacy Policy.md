@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/artabana-zorgverzekering-jij-betaalt-dus-jij-bepaalt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/een-persoonlijke-spirituele-zoektocht/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
