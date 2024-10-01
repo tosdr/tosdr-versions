@@ -189,7 +189,7 @@ FR
         
         [Swarovski Canada
         
-        2% Cash Back](https://www.rakuten.ca/swarovski-ca)[Mejuri
+        6% Cash Back](https://www.rakuten.ca/swarovski-ca)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Callia Flowers
         
