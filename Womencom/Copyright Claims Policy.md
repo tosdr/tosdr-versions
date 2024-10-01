@@ -66,33 +66,33 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
-    *  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    *  [![Taylor Swift Travis Kelce](https://www.women.com/img/gallery/5-taylor-swift-game-day-outfits-that-serve-ultimate-wag-glam/intro-1727455446.jpg)](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+        ### [5 Taylor Swift Game Day Outfits That Serve Ultimate WAG Glam](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
         
-        Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
+        Taylor Swift treats football games like runways, chilling VIP in everything from vintage merch to pricey designer brands. And long may it continue.
         
-        By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+        By Emily Hutchinson [Read More](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
         
 
 More Stories
 ------------
 
-*  [![Taylor Swift Travis Kelce](https://www.women.com/img/gallery/5-taylor-swift-game-day-outfits-that-serve-ultimate-wag-glam/intro-1727455446.jpg)](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+*  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    ### [5 Taylor Swift Game Day Outfits That Serve Ultimate WAG Glam](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+    ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
-    Taylor Swift treats football games like runways, chilling VIP in everything from vintage merch to pricey designer brands. And long may it continue.
+    Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
+    By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
 *  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727709841.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
     
@@ -354,7 +354,7 @@ More Stories
     
     ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
     
-    From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
+    From lived-in eyeliner to clean, dewy skin, fall 2024's hottest makeup trends are all about keeping things extra low-key.
     
     By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
     
