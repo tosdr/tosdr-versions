@@ -2,21 +2,21 @@
 
 [Gitpod Logo](https://www.gitpod.io/)
 
-* [CDEs](https://www.gitpod.io/cde)
 * Resources
 * Solutions
-* [Customers](https://www.gitpod.io/customers)
+* [Blog](https://www.gitpod.io/blog)
 * [Pricing](https://www.gitpod.io/pricing)
+* [Docs](https://www.gitpod.io/docs)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-* [Login](https://gitpod.io/login/)
+* [Login](https://app.gitpod.io/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-[Login](https://gitpod.io/login/)
+[Login](https://app.gitpod.io/)
 
 Gitpod Terms of Service
 =======================
@@ -268,38 +268,27 @@ Date
 
 (\*) Delete where inapplicable.
 
-* Gitpod
-* [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
-* [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/enterprise)
-* [Pricing](https://www.gitpod.io/pricing)
-* [Ready-to-code](https://www.gitpod.io/ready-to-code)
+* Product
+* [Docs](https://www.gitpod.io/docs)
+* [Changelog](https://www.gitpod.io/changelog)
 * [Support](https://www.gitpod.io/support)
-* [Customers](https://www.gitpod.io/customers)
 * [Report a bug](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml)
 * [Status](https://www.gitpodstatus.com/)
 
 * Resources
-* [Docs](https://www.gitpod.io/docs)
-* [White paper](https://www.gitpod.io/whitepaper/cde)
-* [Changelog](https://www.gitpod.io/changelog)
 * [Blog](https://www.gitpod.io/blog)
-* [Guides](https://www.gitpod.io/blog?tag=Guides#latest)
-* [Videos](https://www.gitpod.io/screencasts)
-* [Community](https://www.gitpod.io/community)
+* [Pricing](https://www.gitpod.io/pricing)
 * [Events](https://www.gitpod.io/events)
-* [Open Source](https://www.gitpod.io/discover/opensource)
-* [Education](https://www.gitpod.io/discover/education)
-* [Startups](https://www.gitpod.io/discover/startups)
+* [Videos](https://www.gitpod.io/screencasts)
+* [Customers](https://www.gitpod.io/customers)
+* [White papers](https://www.gitpod.io/whitepapers)
 
 * Solutions
-* [Onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer productivity](https://www.gitpod.io/solutions/developer-productivity)
+* [Developer self-service](https://www.gitpod.io/solutions/developer-self-service)
 * [Supply chain security](https://www.gitpod.io/solutions/supply-chain-security)
-* [VDI](https://www.gitpod.io/solutions/vdi)
-* [Developers](https://www.gitpod.io/solutions/developers)
-* [Platform teams](https://www.gitpod.io/solutions/platform-teams)
-* [Data teams](https://www.gitpod.io/solutions/data-teams)
-* [Contractors](https://www.gitpod.io/solutions/contractors)
+* [VDI replacement](https://www.gitpod.io/solutions/vdi)
 
 * Compare
 * [GitHub Codespaces](https://www.gitpod.io/vs/github-codespaces)
@@ -313,6 +302,10 @@ Date
 * [Contact](https://www.gitpod.io/contact)
 
  [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Discord](/svg/brands/discord.svg)](https://www.gitpod.io/chat)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
+
+![GDPR Compliant](/images/gdpr.png)
+
+![SOC 2 Compliant](/images/soc-2.png)
 
 [Imprint](https://www.gitpod.io/imprint) [Terms of service](https://www.gitpod.io/terms) [Privacy policy](https://www.gitpod.io/privacy) [Cookie policy](https://www.gitpod.io/cookies) Cookie preferences
 
