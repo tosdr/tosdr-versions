@@ -77,7 +77,7 @@ Data access
 
 * [Partner Portal](https://www.ordnancesurvey.co.uk/partner-portal)
 * [PSGA members area](https://www.ordnancesurvey.co.uk/customers/public-sector/psga-members)
-* [Existing business orders](https://www.ordnancesurvey.co.uk/accounts/commercial-orders)
+* [Existing business orders](https://www.ordnancesurvey.co.uk/account/commercial-orders)
 * [OS Data Hub](https://osdatahub.b2clogin.com/osdatahub.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_prodsignuporsignin&redirect_uri=https%3A%2F%2Fosdatahub.os.uk%2Fapi%2Fauth%2FsignedIn&response_type=code&response_mode=form_post&client_id=427122a0-e325-4e6d-b1ac-841a0afb58b9&state=CUSTOM8u1JJq0vQTJKRR_hbCiFo-wo3IH83IpZ%2F&nonce=K9pQG6P-e6KQZOT2YWVKsIxM819Bdgl0&scope=openid&x-client-SKU=passport-azure-ad&x-client-Ver=4.0.0)
 
 searchSearch
@@ -93,7 +93,7 @@ Data access
 
 * [Partner Portal](https://www.ordnancesurvey.co.uk/partner-portal)
 * [PSGA members area](https://www.ordnancesurvey.co.uk/customers/public-sector/psga-members)
-* [Existing business orders](https://www.ordnancesurvey.co.uk/accounts/commercial-orders)
+* [Existing business orders](https://www.ordnancesurvey.co.uk/account/commercial-orders)
 * [OS Data Hub](https://osdatahub.b2clogin.com/osdatahub.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_prodsignuporsignin&redirect_uri=https%3A%2F%2Fosdatahub.os.uk%2Fapi%2Fauth%2FsignedIn&response_type=code&response_mode=form_post&client_id=427122a0-e325-4e6d-b1ac-841a0afb58b9&state=CUSTOM8u1JJq0vQTJKRR_hbCiFo-wo3IH83IpZ%2F&nonce=K9pQG6P-e6KQZOT2YWVKsIxM819Bdgl0&scope=openid&x-client-SKU=passport-azure-ad&x-client-Ver=4.0.0)
 
 Menu
