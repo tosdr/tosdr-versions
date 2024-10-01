@@ -2,30 +2,30 @@
 
 [Gitpod Logo](https://www.gitpod.io/)
 
-* [CDEs](https://www.gitpod.io/cde)
 * Resources
 * Solutions
-* [Customers](https://www.gitpod.io/customers)
+* [Blog](https://www.gitpod.io/blog)
 * [Pricing](https://www.gitpod.io/pricing)
+* [Docs](https://www.gitpod.io/docs)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-* [Login](https://gitpod.io/login/)
+* [Login](https://app.gitpod.io/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.8k](https://github.com/gitpod-io/gitpod)
+[12.8k](https://github.com/gitpod-io)
 
-[Login](https://gitpod.io/login/)
+[Login](https://app.gitpod.io/)
 
 Privacy policy
 ==============
 
-Effective Date: August 19th, 2024
+Effective Date: October 1st, 2024
 
 Below we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data [in short](#short) and [in a more detailed form](#detailed).
 
-The controller is Gitpod GmbH, Am Germaniahafen 1, 24143 Kiel/Germany, registered with the commercial register of the local court (Amtsgericht) Kiel under HRB 22228 (**"we/us/our"** or **"Gitpod"**). We offer services to our users and visitors (the **"User/you/your"**) on our website [https://gitpod.io](https://www.gitpod.io/) (**"Website"**) as well as related services including the use of our service according to our [terms of service](https://www.gitpod.io/terms) (jointly the **"Service"**).
+The controller is Gitpod GmbH, Am Germaniahafen 1, 24143 Kiel, Germany, registered with the commercial register of the local court (Amtsgericht) Kiel under HRB 22228 (**"we/us/our"** or **"Gitpod"**). We offer services to our users and visitors (the **"User/you/your"**) on our website [https://gitpod.io](https://www.gitpod.io/) (**"Website"**) as well as related services including the use of our service according to our [terms of service](https://www.gitpod.io/terms) (jointly the **"Service"**).
 
 For any questions about data protection you may contact us via [data@gitpod.io](mailto:data@gitpod.io).
 
@@ -38,7 +38,10 @@ In Short
     
     We have appointed a data protection officer who may be contacted via [data@gitpod.io](mailto:data@gitpod.io)
     
-* ### Purpose and Legal Basis of Processing Data; Provision and Recipients of Data
+
+#### Affiliates of the Controller
+
+Gitpod, Inc. 1390 Market Street, Suite 200, San Francisco, California, 94102 , United States of America.* ### Purpose and Legal Basis of Processing Data; Provision and Recipients of Data
     
     Your data will be used for the following purposes:
     
@@ -142,6 +145,18 @@ More Detailed Information
     
     **You can withdraw your consent or object to the processing of data (email address) and their respective use for sending the newsletter and analyzing your data at any time.** This can be done free of charge (except for the transmission costs) and via a link in the newsletter itself or notification to us.
     
+    ### Job Applications
+    
+    When submitting a job application via [https://www.gitpod.io/careers](https://www.gitpod.io/careers). Your personal information such as name and contact details will be processed to evaluate your suitability for the position you've applied for. This information may include your resume, cover letter, educational background, work experience, and any other relevant details you provide.
+    
+    **Use of Ashby:** The Recruting Platform provider **"Ashby"** by Ashby, Inc., 548 Market St PMP 397006 San Francisco, CA 94104-5401 processes the data mentioned above to enable us to review your job application. For more information, refer to [https://safebase.io/privacy](https://safebase.io/privacy).
+    
+    ### Trust Center
+    
+    When visting our [Trust Center](https://app.safebase.io/portal/71ccd717-aa2d-4a1e-942e-c768d37e9e0c/preview?product=default) and requesting access to securty documentation, user data is stored for the purpose of processing the enquiry and fulfilling your request under Art. 6 (1) b. GDPR.
+    
+    **Use of Safebase:** The Trust Center provider **"Safebase"** by Safebase Inc., 441 43rd Avenue, San Francisco, CA 94121, United States of America, processes on our behalf the data necessary to display content and provide you with security documentation, in particular the name, email address and company name. For more information, refer to [https://safebase.io/privacy](https://safebase.io/privacy).
+    
 4. What Third Party Services, Cookies, Analytics and Social Plugins does the Website use?
     --------------------------------------------------------------------------------------
     
@@ -239,6 +254,16 @@ More Detailed Information
     
     * [https://policies.google.com/privacy](https://policies.google.com/privacy)
     * [https://support.google.com/youtube/answer/171780?hl=e](https://support.google.com/youtube/answer/171780?hl=e)
+    
+    ### Mux
+    
+    We use the Mux.com platform to provide video content. Mux is operated by Mux, Inc. 50 Beale Street, Floor 9 San Francisco, CA, 94105, United States of America.
+    
+    As soon as you click on an integrated video, Mux only stores cookies on your device that do not contain any personally identifiable data. These cookies can be prevented by appropriate browser settings and extensions (for more information, please see our [Cookies Policy).](https://www.gitpod.io/cookies)
+    
+    Further information about data processing and privacy practices of Mux can be found here:
+    
+    * [https://www.mux.com/privacy](https://www.mux.com/privacy)
 5. How is my Data processed when using the Gitpod Service (with User Account)?
     ---------------------------------------------------------------------------
     
@@ -276,9 +301,13 @@ More Detailed Information
     
     When registering for a Gitpod account, we use Twilio Verify, provided by Twilio, Inc. as our phone number and user account verification service to detect fraud and abuse, which is integrated with the SaaS version of our product. The information processed in this system includes your phone number. For more information, you can refer to Twilio’s privacy policy at [https://www.twilio.com/legal/privacy](https://www.twilio.com/legal/privacy)
     
+    When you interact with our AI customer support chat, powered by Intercom, a service provided by Intercom, Inc. 55 2nd Street, 4th Fl., San Francisco, CA 94105, USA, Intercom will be process certain profile data such as name, email address and profile picture to provide you with support. For more information, you can refer to Intercom’s privacy policy at [https://www.intercom.com/legal/privacy](https://www.intercom.com/legal/privacy)
+    
     When using our paid Service your data will be processed by external payment providers. Currently we use the payment services by Stripe (for EU/EEA: Stripe Payments Europe, Ltd., 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Irland; more information: [https://stripe.com/de/privacy](https://stripe.com/de/privacy) ; contact: [https://stripe.com/contact](https://stripe.com/contact)) and Chargebee (by Chargebee Inc. 340 S Lemon Avenue, 1537 Walnut, CA 91789, USA; more information: [https://www.chargebee.com/privacy/](https://www.chargebee.com/privacy/)). When using such services your data may be processed outside the EU. For the US companies of Stripe and Chargebee we have taken steps to include essentially-equivalent EU data protection standards when personal data is transferred to their US offices.
     
-    Our service may also include links to pages on Twitter, Medium, and Spectrum Chat. For details please refer to the [respective section below](#details-V).
+    Video content related to product onboarding is provided by Mux. For details please see [respective section above.](#mux)
+    
+    Our service may also include links to pages on Twitter, Medium, and Discord. For details please refer to the [respective section below](#details-V).
     
 6. How is Data processed when visiting our Social Media pages?
     -----------------------------------------------------------
@@ -331,9 +360,9 @@ More Detailed Information
     
     When visiting the Website and using our Service data may be transferred to countries outside the EU by the third party services referred to in [Section III](#details-III).
     
-    When using our Service your data may also be processed by our cloud service provider (namely: Google Cloud) on servers outside the EU.
+    When using our Service your data may also be processed by our cloud service provider (namely: Google Cloud Platform and/or Amazon Web Services) on servers outside the EU.
     
-    The US companies providing the services of Google, Customer.io, GitHub, Stripe, Segment.io, Mixpanel and Chargebee have each taken steps to comply with data protection standards applicable in the EU, as set out further within this privacy policy. For further information on securing your data when transferring it abroad please contact: [data@gitpod.io.](mailto:data@gitpod.io)
+    The US companies providing the services of Google, Amazon, Intercom, Customer.io, GitHub, Stripe, Segment.io, Mixpanel and Chargebee have each taken steps to comply with data protection standards applicable in the EU, as set out further within this privacy policy. For further information on securing your data when transferring it abroad please contact: [data@gitpod.io.](mailto:data@gitpod.io)
     
     Your data may also be processed outside the EU when visiting our Social Media pages. For further information please refer to [section VI.](#details-VI)
     
@@ -373,7 +402,7 @@ More Detailed Information
     
     The Website and Service is operated through a safe SSL-connection. If an SSL-connection is activated third parties are prevented from reading any data that are transferred by you to us.
     
-    We store Personal Information in encrypted format, leveraging state-of-the-art encryption algorithms. Gitpod is hosted inside Google’s secure and compliant data centres, for more information on Google’s Security & Compliance Standard, please visit [https://cloud.google.com/security/compliance](https://cloud.google.com/security/compliance).
+    We store Personal Information in encrypted format, leveraging state-of-the-art encryption algorithms. Gitpod is hosted inside Google’s and Amazon's secure and compliant data centres, for more information please visit [https://cloud.google.com/security/compliance](https://cloud.google.com/security/compliance) or [https://aws.amazon.com/compliance/resources/](https://aws.amazon.com/compliance/resources/).
     
     We also maintain an Information Security & Privacy program with established policies and procedures that govern the confidentiality, integrity and availability of data.
     
@@ -390,38 +419,27 @@ More Detailed Information
     Further details may be found here: [https://gitpod.io/imprint](https://www.gitpod.io/imprint).
     
 
-* Gitpod
-* [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
-* [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/enterprise)
-* [Pricing](https://www.gitpod.io/pricing)
-* [Ready-to-code](https://www.gitpod.io/ready-to-code)
+* Product
+* [Docs](https://www.gitpod.io/docs)
+* [Changelog](https://www.gitpod.io/changelog)
 * [Support](https://www.gitpod.io/support)
-* [Customers](https://www.gitpod.io/customers)
 * [Report a bug](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml)
 * [Status](https://www.gitpodstatus.com/)
 
 * Resources
-* [Docs](https://www.gitpod.io/docs)
-* [White paper](https://www.gitpod.io/whitepaper/cde)
-* [Changelog](https://www.gitpod.io/changelog)
 * [Blog](https://www.gitpod.io/blog)
-* [Guides](https://www.gitpod.io/blog?tag=Guides#latest)
-* [Videos](https://www.gitpod.io/screencasts)
-* [Community](https://www.gitpod.io/community)
+* [Pricing](https://www.gitpod.io/pricing)
 * [Events](https://www.gitpod.io/events)
-* [Open Source](https://www.gitpod.io/discover/opensource)
-* [Education](https://www.gitpod.io/discover/education)
-* [Startups](https://www.gitpod.io/discover/startups)
+* [Videos](https://www.gitpod.io/screencasts)
+* [Customers](https://www.gitpod.io/customers)
+* [White papers](https://www.gitpod.io/whitepapers)
 
 * Solutions
-* [Onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
+* [Developer productivity](https://www.gitpod.io/solutions/developer-productivity)
+* [Developer self-service](https://www.gitpod.io/solutions/developer-self-service)
 * [Supply chain security](https://www.gitpod.io/solutions/supply-chain-security)
-* [VDI](https://www.gitpod.io/solutions/vdi)
-* [Developers](https://www.gitpod.io/solutions/developers)
-* [Platform teams](https://www.gitpod.io/solutions/platform-teams)
-* [Data teams](https://www.gitpod.io/solutions/data-teams)
-* [Contractors](https://www.gitpod.io/solutions/contractors)
+* [VDI replacement](https://www.gitpod.io/solutions/vdi)
 
 * Compare
 * [GitHub Codespaces](https://www.gitpod.io/vs/github-codespaces)
@@ -435,6 +453,10 @@ More Detailed Information
 * [Contact](https://www.gitpod.io/contact)
 
  [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Discord](/svg/brands/discord.svg)](https://www.gitpod.io/chat)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
+
+![GDPR Compliant](/images/gdpr.png)
+
+![SOC 2 Compliant](/images/soc-2.png)
 
 [Imprint](https://www.gitpod.io/imprint) [Terms of service](https://www.gitpod.io/terms) [Privacy policy](https://www.gitpod.io/privacy) [Cookie policy](https://www.gitpod.io/cookies) Cookie preferences
 
