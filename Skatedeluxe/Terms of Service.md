@@ -16,9 +16,7 @@ cookie-whitecookie-white
 
 Germany | English
 
-Country shops
-
-All locations & languages
+Country shops All locations & languages
 
 [Deutschland](https://www.skatedeluxe.com/de/agb?cic=DE)
 
