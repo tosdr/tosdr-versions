@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
+As of 2020, the Harry Potter books have been translated into 83 languages, including Latin and Ancient Greek.
 
 ### Potter History
 
-March 21, 2008 – The Harry Potter fandom proudly learns that the hilarious Potter Puppet Pals won Best Comedy Video at the 2007 YouTube Awards.
+October 29, 2008 – David Heyman discusses the Harry Potter and the Half-Blood Prince delay and reveals that the film is just about complete.
 
 ### Potter Quote
 
-“Well, that was a bit stupid of you, seeing as you don’t know anyone but me who’s been possessed by You-Know-Who, and I can tell you how it feels.”
+“Ah, of course. There is no need to say any more, Miss Granger. Tell me, which of you will be dying this year?”
 
 [](#)
 
