@@ -10,8 +10,6 @@
 
 Our **Customer Support team** will be attending a business update event from 9:45am–1pm on Wednesday 2 October and our live chat, customer support phone line and email will be closed during this time. We'll get back to you as soon as possible once our lines reopen at 1pm, and we apologise in advance for any inconvenience caused.
 
-**Need to access our standardisation training packs or NEA briefs?** If you’re a T Level or V Cert customer, we wanted to let you know that our standardisation training materials and V Cert non-examined assessment briefs will be available on the Portal from midday on Tuesday 1 October.
-
  [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
