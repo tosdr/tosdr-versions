@@ -246,13 +246,12 @@ As a Practitioner, you may avail of the listing service without registering for 
 
 14.5 Practitioners using the ‘Pro’ product:
 
-You will be required to create an account and may be required to provide Drlogy with information regarding your (name, mobile number, email address) and such other information as requested by Drlogy on the Pro Practitioner registration page, in order to complete your registration.
+#### You will be required to create an account and may be required to provide Drlogy with information regarding your (name, mobile number, email address) and such other information as requested by Drlogy on the Pro Practitioner registration page, in order to complete your registration.  
+Upon registration, Drlogy will access non-personally identifiable information of your patients from your patient records. You agree to make your patients fully aware of such access.
 
-Upon registration, Drlogy will access non-personally identifiable information of your patients from your patient records. You agree to make your patients fully aware of such access.  
+ 14.6 Drlogy Letterhead Usage for Demo purpose: 
 
-14.6 Drlogy Letterhead Usage for Demo purpose: 
-
-Drlogy provides letterheads with titles such as "Drlogy Pathology Lab," "Drlogy Clinic," "Drlogy Hospital," and "Drlogy Doctor" strictly for demonstration purposes only. These letterheads are not to be used for personal or professional purposes beyond their demo intent. Drlogy does not operate any physical pathology labs, clinics, or hospitals. The titles are purely for illustrative purposes, and Drlogy serves solely as a platform connecting doctors, clinics, hospitals, pathology labs, and diagnostic centers. Unauthorized use of these letterheads for any other purpose is prohibited and may result in legal consequences.
+> Drlogy provides letterheads with titles such as "Smart Pathology Lab," "Drlogy Clinic," "Drlogy's Eye Clinic", "Drlogy Dental Clinic", "Drlogy eye Hospital", "Drlogy Hospital," and "Dr Yash Patel" strictly for demonstration purposes only. These letterheads are not to be used for personal or professional purposes beyond their demo intent. Drlogy does not operate any physical pathology labs, clinics, or hospitals. The titles are purely for illustrative purposes, and Drlogy serves solely as a platform connecting doctors, clinics, hospitals, pathology labs, and diagnostic centers. Unauthorized use of these letterheads for any other purpose is prohibited and may result in legal consequences.
 
   
 
