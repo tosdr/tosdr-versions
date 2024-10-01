@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Carl Cox: Space Is The Place](/wp-content/thumbnails/12809-100x70.jpg?x53432)
+* [![Discovery Channel: Heroin Nation](/wp-content/thumbnails/1112-100x70.jpg?x53432)
     
-    Carl Cox: Space Is The Place
+    Discovery Channel: Heroin Nation
     
-    Carl Cox is one of the all time greats when it comes to the history of house and techno, for about 40 years now he has been one of the most recognisable figures on the scene. Well known throughout the](https://documentaryheaven.com/carl-cox-space-is-place/ "Carl Cox: Space Is The Place")
-* [![We Love Cigarettes](/wp-content/thumbnails/6070-100x70.jpg?x53432)
+    Cocaine Nation and Heroin Nation premiered on the Discovery channel this week. The two series are rated TV-14 because of the subject matter and some disturbing footage of drug abuse. Both series take](https://documentaryheaven.com/discovery-channel-heroin-nation/ "Discovery Channel: Heroin Nation")
+* [![Skrillex: Let’s Make a Spaceship](/wp-content/thumbnails/9254-100x70.png?x53432)
     
-    We Love Cigarettes
+    Skrillex: Let’s Make a Spaceship
     
-    A love of nicotine unites all peoples across the globe, regardless of colour, wealth or creed. Where religion and politics have failed tobacco has succeeded, but at what cost? For over 50 years people](https://documentaryheaven.com/we-love-cigarettes/ "We Love Cigarettes")
-* [![Killing Jimmy Hoffa](/wp-content/thumbnails/14652-100x70.jpg?x53432)
+    This film from RedBull Music is a glimpse into the world of Skrillex, giving us a behind the scenes look at how the Dubstep artist designed and developed his latest live show and set that he debuted a](https://documentaryheaven.com/skrillex-lets-make-spaceship/ "Skrillex: Let’s Make a Spaceship")
+* [![Sandy Hook](/wp-content/thumbnails/6956-100x70.jpg?x53432)
     
-    Killing Jimmy Hoffa
+    Sandy Hook
     
-    The disappearance of Jimmy Hoffa is one of the most famous and enduring American mysteries and it most certainly goes down in the history books as one of the great crimes of the century. Despite a hug](https://documentaryheaven.com/killing-jimmy-hoffa/ "Killing Jimmy Hoffa")
-* [![Cleveland Captives: What Really Happened?](/wp-content/thumbnails/7169-100x70.jpg?x53432)
+    From the Author: Mark Howitt takes an investigative look into the events and controversy surrounding the Sandy Hook elementary school shooting which happened on December 14th 2012. This documentary ex](https://documentaryheaven.com/sandy-hook/ "Sandy Hook")
+* [![2012 Crossing Over A New Beginning](/wp-content/thumbnails/9388-100x70.jpg?x53432)
     
-    Cleveland Captives: What Really Happened?
+    2012 Crossing Over A New Beginning
     
-    For 10 years Amanda Berry, Georgina DeJesus, and Michelle Knight were presumed dead when they were kidnapped on the same stretch of road in Cleveland, Ohio. But in May, 2013, the trio were miraculousl](https://documentaryheaven.com/cleveland-captives-what-really-happened/ "Cleveland Captives: What Really Happened?")
-* [![The Corporation](/wp-content/thumbnails/789-100x70.png?x53432)
+    This film by BraveArcherFilms is the Final Edition of "2012 Crossing Over A New Beginning", which when released in 2012 was viewed over 1 million times on YouTube alone. The film itself is an inspirat](https://documentaryheaven.com/crossing-over-new-beginning/ "2012 Crossing Over A New Beginning")
+* [![The Genius Sperm Bank](/wp-content/thumbnails/1302-100x70.jpg?x53432)
     
-    The Corporation
+    The Genius Sperm Bank
     
-    A fascinating documentary looking at the increasing power of large global businesses and the impact this is having on society. A real money casino is a location where you may play real money online ca](https://documentaryheaven.com/the-corporation/ "The Corporation")
+    In 1980, a Californian millionaire established a very exclusive foundation for biological determinism or, in other words - a sperm bank. In fact, Robert Graham's scheme was straight out of a James Bon](https://documentaryheaven.com/the-genius-sperm-bank/ "The Genius Sperm Bank")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
