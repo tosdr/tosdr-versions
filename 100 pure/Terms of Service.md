@@ -392,9 +392,9 @@ Default Title - $48
 
 ADD TO TOTE
 
-[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
+[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/1FMDSR_Dark_Spot_Remover_Primary_239x254.webp?v=1727773719)](https://www.100percentpure.com/products/dark-spot-remover)
 
-![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_220x.jpg?v=1696526415)
+![ parent_primary](//www.100percentpure.com/cdn/shop/files/1FMDSR_Dark_Spot_Remover_Primary_220x.webp?v=1727773719)
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
@@ -452,7 +452,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[LAST DAY! Happy Coffee Day! Free Full Size Coffee Bean Eye Cream with $35+ USE CODE:COFFEE24](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream?variant=32863223775310 "LAST DAY! Happy Coffee Day! Free Full Size Coffee Bean Eye Cream with $35+ USE CODE:COFFEE24")
+[HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24](https://www.100percentpure.com/collections/hair-products "HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
