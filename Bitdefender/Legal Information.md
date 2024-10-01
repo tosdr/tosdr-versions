@@ -2,7 +2,7 @@
 
    
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/)
 
 * [For Consumer](https://www.bitdefender.com/consumer/)
     
@@ -339,7 +339,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
 
   [Home](https://www.bitdefender.com/) [Site](https://www.bitdefender.com/site.html) [View](https://www.bitdefender.com/site/view.html) [Legal Intellectual Property](https://www.bitdefender.com/site/view/legal-intellectual-property.html)
 
@@ -1001,7 +1001,6 @@ Choose Your Country
 * [Australia - English](https://www.bitdefender.com.au/)
 * [België - Nederlands](https://www.bitdefender.com/content/bitdefender/be/fr-BE/)
 * [België - Nederlands](https://www.bitdefender.be/)
-* [Belgique - Français](https://www.bitdefender.fr/)
 * [Belice - Español](https://www.bitdefender.com/content/bitdefender/bz/es-BZ/)
 * [Belize - English](https://www.bitdefender.com/content/bitdefender/bz/en-BZ/)
 * [Brasil - Português](https://www.bitdefender.com.br/)
@@ -1028,7 +1027,6 @@ Choose Your Country
 * [Nederland - Nederlands](https://www.bitdefender.nl/)
 * [New Zealand - English](https://www.bitdefender.com/content/bitdefender/nz/en-NZ/)
 * [Norway - English](https://www.bitdefender.com/content/bitdefender/no/en-NO/)
-* [Österreich - Deutsch](https://www.bitdefender.de/)
 * [Österreich - Deutsch](https://www.bitdefender.com/content/bitdefender/at/de-AT/)
 * [Perú - Español](https://www.bitdefender.com/content/bitdefender/pe/es-PE/)
 * [Philippines - English](https://www.bitdefender.com/content/bitdefender/ph/en-PH/)
@@ -1047,7 +1045,6 @@ Choose Your Country
 * [United Arab Emirates - English](https://www.bitdefender.com/content/bitdefender/ae/en-AE/)
 * [United Kingdom - English](https://www.bitdefender.co.uk/)
 * [United States - English](https://www.bitdefender.com/)
-* [WorldWide - English](https://www.bitdefender.com/)
 * [日本 - 日本語](https://bitdefender.co.jp/)
 
 Follow Bitdefender
