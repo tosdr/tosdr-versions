@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/totem-i-kiseonicni-cvet/totem-01.jpg?itok=23A8YbUi)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/totem-i-kiseonicni-cvet)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/leconte-m-lartigue/ljudi/people/rasta-family-sized.jpg?itok=k8DP82lU)](http://seecult.org/galerija/galerija-umetnika/leconte-m-lartigue/ljudipeople)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/memoria.jpg?itok=e1-TIz-D)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slobodna-zona/slatka-mala.jpg?itok=QXCG2-vi)](http://seecult.org/galerija/foto-galerija/foto-arhiva/slobodna-zona)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [20\. Kids Fest - Kadar mog odrastanja](http://seecult.org/vest/20-kids-fest-kadar-mog-odrastanja)
+* [Optimistično dezorijentisani - 13. GoetheFEST](http://seecult.org/vest/optimisticno-dezorijentisani-13-goethefest)
 * [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
 * [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
 * [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
@@ -348,8 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Svet u boji](http://seecult.org/vest/svet-u-boji)
 * [67\. Sajam knjiga - Reč je slobodna](http://seecult.org/vest/67-sajam-knjiga-rec-je-slobodna)
 * [Ovacije za Komedi Fransez na Bitefu](http://seecult.org/vest/ovacije-za-komedi-fransez-na-bitefu)
-* [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
-* [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
 
 * [Konkursi](#tab1_1)
 
@@ -409,7 +409,7 @@ Video
 
 Luka Marjanović: Nevolje u raju, Galerija Doma omladine Beograda, 11-23. jun 2024.
 
-[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/bitef-2024.jpg)](https://festival.bitef.rs/rs?lang_type=lat) [![](http://seecult.org/sites/default/files/baner_desno/szf-2024-otvaranje.jpg)](https://slobodnazona.rs/anora/) [![](http://seecult.org/sites/default/files/baner_desno/bgsax2024.png)](https://www.saxperience.rs/page.php?cID=98&lng=srb) [![](http://seecult.org/sites/default/files/baner_desno/videomedeja-2024.gif)](https://videomedeja.org/) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
+[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/bitef-2024.jpg)](https://festival.bitef.rs/rs?lang_type=lat) [![](http://seecult.org/sites/default/files/baner_desno/videomedeja-2024.gif)](https://videomedeja.org/) [![](http://seecult.org/sites/default/files/baner_desno/szf-2024-otvaranje.jpg)](https://slobodnazona.rs/anora/) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
 
 * [Impresum](http://seecult.org/impresum)
 * [O nama](http://seecult.org/o-udruzenju-gradana-seecultorg)
