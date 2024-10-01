@@ -1276,7 +1276,6 @@ Gå direkt till :
         * [Hantering av personuppgifter](https://www.sva.se/om-oss/kontakta-oss/hantering-av-personuppgifter/)
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
-            * [Registrator/arkivarie](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/registrator-arkivarie/)
             * [Helpdesktekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/helpdesktekniker/)
             * [Systemutvecklare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/systemutvecklare/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
