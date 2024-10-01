@@ -13,7 +13,7 @@ Updates to the Privacy Policy
 * We restructured the Privacy Policy to make it easier to read.
 * We updated the Privacy Policy to comply with the new requirements under the EU General Data Protection Regulation coming into force on May 25, 2018.
 
-Last updated: May 16th, 2018
+Last updated: 16 May 2018
 
 Pawshake - Privacy & Cookies policy
 -----------------------------------
@@ -340,10 +340,10 @@ TYPE OF COOKIES: Functionality Cookies
 PURPOSE: Improvement of the functionality of the Platform.
 
 TYPE OF COOKIES: Tracking Cookies  
-PURPOSE: Capturing of the User's traffic behaviour. This type of Cookies survives the User's session. When the max-age of a permanent cookie is set at one year, then, within that year, the initial value - stored in that Cookie - shall be sent back to the server each time the User visits the server - the purpose is to save a vital piece of information, such as how the User initially came to the App."
+PURPOSE: Capturing of the User's traffic behaviour. This type of Cookies survives the User's session. When the max-age of a permanent cookie is set at one year, then, within that year, the initial value - stored in that Cookie - shall be sent back to the server each time the User visits the server - the purpose is to save a vital piece of information, such as how the User initially came to the App.
 
 TYPE OF COOKIES: Performance Cookies  
-PURPOSE: Improvement the functionality of the Platform. The Platform uses Cookies connected with Google Analytics to analyze how the Users use the Platform. It records the number of visitors and it provides Pawshake with information on their overall behaviour - such as the typical duration of a visit to the Platform or the number of pages a user views on average. "
+PURPOSE: Improvement the functionality of the Platform. The Platform uses Cookies connected with Google Analytics to analyze how the Users use the Platform. It records the number of visitors and it provides Pawshake with information on their overall behaviour - such as the typical duration of a visit to the Platform or the number of pages a user views on average.
 
 The Platform may contain electronic images known as Web beacons (sometimes called single-pixel gifs). Web beacons are used along with Cookies to compile aggregated statistics to analyze how the Platform is used and may be used in some of Pawshake's emails to let Pawshake know which emails and links have been opened by recipients. This allows Pawshake to gauge the effectiveness of its customer communications and marketing campaigns.
 
@@ -371,7 +371,7 @@ Pawshake is not liable for any links that may be found in the Platform, which le
 
 **11.4 Google Maps/Google Earth**
 
-Parts of the Platform use Google Maps services, including the Google Maps API(s). Use of Google Maps is subject to [Google Maps/Earth Additional Terms of Use](http://www.google.com/intl/en_us/help/terms_maps.html) and the [Google Privacy Policy](http://www.google.com/privacy.html).
+Parts of the Platform use Google Maps services, including the Google Maps API(s). Use of Google Maps is subject to [Google Maps/Earth Additional Terms of Use](http://www.google.com/intl/en_us/help/terms_maps.html) and the{' '} [Google Privacy Policy](http://www.google.com/privacy.html).
 
 **11.5 Analyzing the User's Communications**
 
