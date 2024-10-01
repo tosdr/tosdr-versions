@@ -248,6 +248,7 @@ Copyright © 2024 Auto Accident Team | All rights reserved.
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
 * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
+* [Sitemap](https://www.autoaccidentteam.com/sitemap/)
 
 * [Sponsors](https://www.autoaccidentteam.com/sponsors/)
 * [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
@@ -256,6 +257,7 @@ Copyright © 2024 Auto Accident Team | All rights reserved.
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
 * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
+* [Sitemap](https://www.autoaccidentteam.com/sitemap/)
 
 Auto Accident Team is not a law firm nor a lawyer referral service, and it is not providing legal advice. We are a free service that compiles information for individuals seeking legal relief for auto accidents. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
 
