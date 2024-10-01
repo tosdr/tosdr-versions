@@ -10,6 +10,8 @@
 
 [Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
 
+[Clash Concluded!](https://xcreativeclashx.net/announcement/24-clash-concluded/) [×](#)
+
 Registration Terms
 ==================
 
