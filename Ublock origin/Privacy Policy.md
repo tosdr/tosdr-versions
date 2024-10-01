@@ -14,9 +14,6 @@ Toggle navigation
     * [Actions
         
         Automate any workflow](https://github.com/features/actions)
-    * [Packages
-        
-        Host and manage packages](https://github.com/features/packages)
     * [Security
         
         Find and fix vulnerabilities](https://github.com/features/security)
