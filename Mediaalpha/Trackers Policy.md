@@ -389,7 +389,7 @@ Before you dive in, please note, if you opt out of the collection and use of inf
     * [TrustPulse](https://trustpulse.com/privacy/)
 * **Other Options for Disabling Online Tracking.** Blocking cookies in your browser may not prevent cross-site tracking of your online activity using other online tracking technologies. In addition to managing your cookie settings for your browser, you can opt-out of tracking directly with the businesses that operate the tracking technologies.
 * **Technology to Document User Consent.** We use Jornaya and/or TrustedForm to independently document user's consent to be contacted as part of our services. For more information about Jornaya's and TrustedForm’s data use and collection policies and practices, please review:
-    * [Jornaya](https://www.jornaya.com/consumer-privacy-policy/)
+    * [Jornaya](https://marketing.verisk.com/privacy-policy/)
     * [TrustedForm](https://activeprospect.com/trustedform-privacy-notice/)
 * **Disabling Analytics Tracking.** To opt-out of certain analytic tracking by our service providers visit the links below (please note analytics companies other than Google Analytics and Bing may continue to aggregate and analyze data collected about you on our behalf):
     * [Google Analytics](https://tools.google.com/dlpage/gaoptout)
