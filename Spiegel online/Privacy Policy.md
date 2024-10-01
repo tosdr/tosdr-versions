@@ -694,25 +694,25 @@ Gutscheine
 
 [Top Gutscheine](https://gutscheine.spiegel.de/exklusiv "Top Gutscheine") [Alle Shops](https://gutscheine.spiegel.de/alle-shops "Alle Shops")
 
-Auto
+### Auto
 
 * [Bußgeldrechner](https://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html "Bußgeldrechner")
 * [Firmenwagenrechner](https://www.spiegel.de/auto/aktuell/firmenwagenrechner-geldwerten-vorteil-und-steuern-berechnen-a-519713.html "Firmenwagenrechner")
 
-Job
+### Job
 
 * [Brutto-Netto-Rechner](https://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-lohn-und-gehalt-uebrig-bleibt-a-223811.html "Brutto-Netto-Rechner")
 * [Jobsuche](https://jobs.spiegel.de/ "Jobsuche")
 * [Kurzarbeitergeld-Rechner](https://www.spiegel.de/wirtschaft/service/kurzarbeitergeld-rechner-so-viel-geld-gibt-es-in-der-kurzarbeit-a-8d856701-4951-4e34-a500-c3ac8ffcc717 "Kurzarbeitergeld-Rechner")
 * [Studienfächer erklärt](https://www.spiegel.de/thema/studienfaecher-erklaert/ "Studienfächer erklärt")
 
-Finanzen
+### Finanzen
 
 * [Gehaltsvergleich](https://www.spiegel.de/wirtschaft/service/gehaltsrechner-gehoeren-sie-zu-den-oberen-zehn-prozent-a-f5a19d00-84b3-407f-aff2-bce27e8088cf "Gehaltsvergleich")
 * [Versicherungen](https://www.spiegel.de/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html "Versicherungen")
 * [Währungsrechner](https://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner "Währungsrechner")
 
-Freizeit
+### Freizeit
 
 * [Bücher bestellen](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Bücher bestellen")
 * [Eurojackpot](https://ad3.adfarm1.adition.com/redi?bid=10752058&kid=3485247&sid=4117394 "Eurojackpot")
@@ -741,12 +741,33 @@ Alle Magazine des SPIEGEL
 *  [![Cover: SPIEGEL CHRONIK](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2023-1.html "SPIEGEL CHRONIK")
 
 SPIEGEL Gruppe
+--------------
 
-[Abo](https://abo.spiegel.de/?b=SPOHFOOTER&utm_campaign=abbinder&utm_content=SPOHFOOTER&utm_medium=text&utm_source=spon "Abo") [Abo kündigen](https://gruppenkonto.spiegel.de/kuendigung.html "Abo kündigen") [Shop](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Shop") [manager magazin](https://www.manager-magazin.de/ "manager magazin") [Harvard Business manager](https://www.manager-magazin.de/hbm/ "Harvard Business manager") [11FREUNDE](https://www.11freunde.de/ "11FREUNDE") [Werbung](https://spiegel.media/ "Werbung") [Jobs](https://www.spiegelgruppe.de/karriere/stellenboerse-in-der-spiegel-gruppe "Jobs") [MANUFAKTUR](https://manufaktur.spiegel.de/ "MANUFAKTUR") [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie") [SPIEGEL Ed](https://ed.spiegel.de/ "SPIEGEL Ed")
+* [Abo](https://abo.spiegel.de/?b=SPOHFOOTER&utm_campaign=abbinder&utm_content=SPOHFOOTER&utm_medium=text&utm_source=spon "Abo")
+* [Abo kündigen](https://gruppenkonto.spiegel.de/kuendigung.html "Abo kündigen")
+* [Shop](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Shop")
+* [manager magazin](https://www.manager-magazin.de/ "manager magazin")
+* [Harvard Business manager](https://www.manager-magazin.de/hbm/ "Harvard Business manager")
+* [11FREUNDE](https://www.11freunde.de/ "11FREUNDE")
+* [Werbung](https://spiegel.media/ "Werbung")
+* [Jobs](https://www.spiegelgruppe.de/karriere/stellenboerse-in-der-spiegel-gruppe "Jobs")
+* [MANUFAKTUR](https://manufaktur.spiegel.de/ "MANUFAKTUR")
+* [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie")
+* [SPIEGEL Ed](https://ed.spiegel.de/ "SPIEGEL Ed")
 
-[Impressum](https://www.spiegel.de/impressum "Impressum") [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz") [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen") [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen") [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking") [Newsletter](https://www.spiegel.de/newsletter "Newsletter") [Kontakt](https://www.spiegel.de/kontakt "Kontakt") [Hilfe & Service](https://www.spiegel.de/services/ "Hilfe & Service") [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
+* [Impressum](https://www.spiegel.de/impressum "Impressum")
+* [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz")
+* [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen")
+* [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen")
+* [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking")
+* [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
+* [Kontakt](https://www.spiegel.de/kontakt "Kontakt")
+* [Hilfe & Service](https://www.spiegel.de/services/ "Hilfe & Service")
+* [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
 
-[Facebook](https://www.facebook.com/DerSpiegel/ "Facebook") [Instagram](https://www.instagram.com/spiegelmagazin/ "Instagram") [Wo Sie uns noch folgen können](https://www.spiegel.de/backstage/bei-diesen-diensten-koennen-sie-dem-spiegel-folgen-a-a68cce85-8be8-4707-bd6e-0706090cbbbe "Wo Sie uns noch folgen können")
+* [Facebook](https://www.facebook.com/DerSpiegel/ "Facebook")
+* [Instagram](https://www.instagram.com/spiegelmagazin/ "Instagram")
+* [Wo Sie uns noch folgen können](https://www.spiegel.de/backstage/bei-diesen-diensten-koennen-sie-dem-spiegel-folgen-a-a68cce85-8be8-4707-bd6e-0706090cbbbe "Wo Sie uns noch folgen können")
 
 * [Anmelden](https://gruppenkonto.spiegel.de/authenticate?requestAccessToken=true&targetUrl=https%3A%2F%2Fwww.spiegel.de%2Fdatenschutz-spiegel "Anmelden")
 * [Abonnement](https://abo.spiegel.de/?b=SPOHNAVABO&requestAccessToken=true&sara_icid=disp_upd_29XQyizZpONhof5Y1Ofij2PEnvwIG6&targetUrl=https%3A%2F%2Fwww.spiegel.de%2Fdatenschutz-spiegel "Abonnement")
