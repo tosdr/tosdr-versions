@@ -42,7 +42,7 @@ US Phone: +1 888 749 2528
 * [Careers](https://www.pixalate.com/jobs?hsLang=en)
 * [Team](https://www.pixalate.com/pixalate-leadership-team?hsLang=en)
 
-\*By entering your email address and clicking Subscribe, you are agreeing to our [Terms of Use](https://www.pixalate.com/terms?hsLang=en) and [Privacy Policy](https://2364596.fs1.hubspotusercontent-na1.net/hubfs/2364596/2024-08-20_Pixalate_Privacy_Policy.pdf)
+\*By clicking Download and entering your email address, you are agreeing to our [Terms of Use](https://www.pixalate.com/terms?hsLang=en) and have read and acknowledge our [Privacy Policy](https://2364596.fs1.hubspotusercontent-na1.net/hubfs/2364596/2024-08-20_Pixalate_Privacy_Policy.pdf).
 
 [Terms of Use](https://www.pixalate.com/terms?hsLang=en)  [Privacy Policy](https://2364596.fs1.hubspotusercontent-na1.net/hubfs/2364596/2024-08-20_Pixalate_Privacy_Policy.pdf)  [Cookie Policy](https://www.pixalate.com/cookie-policy?hsLang=en)  [Join ATSAPI Slack Channel](https://join.slack.com/t/atsapi-pixalate/shared_invite/zt-10dtow5cj-OEtlNr5yzJkrZMQUqcEEow)
 
