@@ -356,12 +356,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
-[![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
-### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
-[24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
 [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-120x86.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
 ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
@@ -373,6 +367,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Millwall boss gives update on Femi Azeez ahead of Cardiff City clash](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
 
 [28th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
+
+[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
+### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
+[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 ### Featured Articles
 
