@@ -167,7 +167,7 @@
     
 * [Enterprise](https://www.shopify.com/enterprise)
     
-* What's new
+* What’s new
     
     * [Changelog.
         
@@ -548,23 +548,22 @@ Shopify
 * [Partners](https://www.shopify.com/partners)
 * [Affiliates](https://www.shopify.com/affiliates)
 * [Legal](https://www.shopify.com/legal)
-* [Service status](https://www.shopifystatus.com/)
+* [Service Status](https://www.shopifystatus.com/)
 
 Support
 -------
 
-* [Merchant support](https://help.shopify.com/en/questions)
-* [Help center](https://help.shopify.com/en/)
+* [Merchant Support](https://help.shopify.com/en/questions)
+* [Help Center](https://help.shopify.com/en/)
 * [Hire a Partner](https://www.shopify.com/partners/directory)
 * [Shopify Academy](https://academy.shopify.com/?itcat=brochure&itterm=global-footer)
 * [Shopify Community](https://community.shopify.com/c/Shopify-Community/ct-p/en?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify)
-* [Shopify Events](https://community.shopify.com/c/Shopify-Community/ct-p/en/home?utm_campaign=homepage&utm_content=en&utm_medium=web&utm_source=shopify)
 
 Developers
 ----------
 
 * [Shopify.dev](https://shopify.dev/)
-* [API documentation](https://shopify.dev/api)
+* [API Documentation](https://shopify.dev/api)
 * [Dev Degree](https://devdegree.ca/)
 
 Products
@@ -575,13 +574,13 @@ Products
 * [Shopify Plus](https://www.shopify.com/plus)
 * [Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
 * [Linkpop](https://www.linkpop.com/)
-* [Shopify for enterprise](https://www.shopify.com/enterprise)
+* [Shopify for Enterprise](https://www.shopify.com/enterprise)
 
-Global impact
+Global Impact
 -------------
 
 * [Sustainability](https://www.shopify.com/climate)
-* [Social impact](https://www.shopify.com/about/social-impact)
+* [Social Impact](https://www.shopify.com/about/social-impact)
 * [Build Black](https://www.shopify.com/1mbb)
 * [Build Native](https://buildnative.shop/)
 * [Research](https://www.shopify.com/plus/commerce-trends)
@@ -589,9 +588,9 @@ Global impact
 Solutions
 ---------
 
-* [Online store builder](https://www.shopify.com/online)
-* [Website builder](https://www.shopify.com/website/builder)
-* [Ecommerce website](https://www.shopify.com/tour/ecommerce-website)
+* [Online Store Builder](https://www.shopify.com/online)
+* [Website Builder](https://www.shopify.com/website/builder)
+* [Ecommerce Website](https://www.shopify.com/tour/ecommerce-website)
 
 USA
 
