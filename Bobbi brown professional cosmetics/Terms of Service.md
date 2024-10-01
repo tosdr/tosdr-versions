@@ -2,9 +2,7 @@
 
 Previous
 
-[Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
-
-[Enjoy 20% off products when you purchase 2 or more items from our Essentials Edit. Shop now.](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
+[Get a free makeup minis trio on $85+ ($60 value). Use code: face at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -238,9 +236,7 @@ Trending
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
- [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
-
- [Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
+ [POLISHED GRUNGE](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
 
  [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
@@ -258,9 +254,7 @@ Special offers
 
  [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
- [CHAT WITH A MAKEUP ARTIST](https://www.bobbibrowncosmetics.com/beauty-chat)
-
- [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
+ [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
 
  [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
 
