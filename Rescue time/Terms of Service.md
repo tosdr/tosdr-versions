@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)      
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-1111f2f7992a6d7d3d4b060cb5a1ed5a39fad2801dffcd3e48c38ed84e307c1b.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-fee42620ca8b828fcf15e214ebd7da5698cb5654a5cf553952a44f1791fd6a63.svg)](https://www.rescuetime.com/)
 
 * [Guided Focus Session ⏤ LIVE NOW!](https://workfrom.com/@rescuetime)
 * [For Teams](https://teams.rescuetime.com/)
@@ -81,7 +81,7 @@ RescueTime may provide notices to you pursuant to the TOS through email, regular
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-1111f2f7992a6d7d3d4b060cb5a1ed5a39fad2801dffcd3e48c38ed84e307c1b.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-fee42620ca8b828fcf15e214ebd7da5698cb5654a5cf553952a44f1791fd6a63.svg)](https://www.rescuetime.com/)
 
 **Product**
 
@@ -127,10 +127,10 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 Take back control of your Time
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/twitter-c9d3f8fe8601367d6e381c06f1d68473a8bff53280a9cde70a4799fd8f8d49c3.svg)](https://twitter.com/rescuetime)
+[![](https://assets.rescuetime.com/assets/rtx_marketing/twitter-085cb38e93b8212fcc74189112070b0d9eca28aa2a97d8202682464c4382480f.svg)](https://twitter.com/rescuetime)
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/facebook-a64a2a71d85bb8294b79b5a7db8264045741134cd8eb84fc6e2af3afa7dc3cd8.svg)](https://facebook.com/rescuetime)
+[![](https://assets.rescuetime.com/assets/rtx_marketing/facebook-62f06ba3e379402c5a6e82d0113dfaf2c238b45a1d8cb7e7e35a2a80b625dbc8.svg)](https://facebook.com/rescuetime)
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/linkedin-1ea630d862b185a96e1ee74954a9e9d3f13b5372fd414e6c93c8f816c51e8e17.svg)](https://linkedin.com/company/rescuetime/)
+[![](https://assets.rescuetime.com/assets/rtx_marketing/linkedin-626559d3fbf16554836b9fb6482688efcbb522e943fb1e78dae6e860c7714475.svg)](https://linkedin.com/company/rescuetime/)
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/rss-small-61c8291f839c535cd2f453e49ad5de6e51cc658b725c4682912096b37522f6f6.svg)](https://blog.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rtx_marketing/rss-small-ba0a5e27525f16f5689e6e34820e686e52abab1795abcaefc8a1cd02fd86129d.svg)](https://blog.rescuetime.com/)
