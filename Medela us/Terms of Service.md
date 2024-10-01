@@ -502,7 +502,7 @@ Pumping Tips
 
 Load More
 
-![Freestyle™ Hands-free double electric wearable breast pump](/010-products/010-pumps/010-hands-free-electric/010-freestyle-hands-free/lifestyle-images/167/image-thumb__167__text-image-hero/freestyle-hf-1-2-.84c36a2c.png "Freestyle™ Hands-free double electric wearable breast pump")
+![Mom drinking coffee standing in kitchen wearing Medela Freestyle™ Hands-free double electric wearable breast pump](/010-products/010-pumps/010-hands-free-electric/010-freestyle-hands-free/lifestyle-images/167/image-thumb__167__text-image-hero/freestyle-hf-1-2-.84c36a2c.png "Freestyle™ Hands-free double electric wearable breast pump")
 
 ### Featured Product
 
