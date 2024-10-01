@@ -2,14 +2,14 @@ Monday, September 30 2024
 
 Breaking News
 
+* [Kamala’s New Plan For The Economy Is Basically A Bidenomics Redux](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
+* [Medal of Honor Monday: Army 1st Lt. George S. Robb](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
 * [President Joe Biden’s Schedule for Monday, September 30, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
 * [White House Press Briefing with Karine Jean-Pierre – 9/30/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
 * [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
 * [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
 * [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
 * [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
-* [President Joe Biden’s Schedule for Sunday, September 29, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
-* [Time For An Honest Government That Acknowledges The Reality Of Economic Hardship](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
+    
+    [Kamala’s New Plan For The Economy Is Basically A Bidenomics Redux](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
+    
+    September 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/240916-O-D0439-0072A-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
+    
+    [Medal of Honor Monday: Army 1st Lt. George S. Robb](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
+    
+    September 30, 2024
+    
 * [![Kamala Harris criminal illegal aliens border crisis](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
     
     [Kamala’s Creation](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
@@ -162,31 +174,19 @@ Recent Posts
     
     September 30, 2024
     
-* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
-    
-    [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
-    
-    September 29, 2024
-    
-* [![Kamala Harris Tim Walz 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/mrz082324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
-    
-    [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
-    
-    September 29, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [7 Longest Confirmed Sniper Kills: When Man And Rifle Become One](https://www.thegunpage.com/7-longest-confirmed-sniper-kills-when-man-and-rifle-become-one/10610908)
+* [POTD: The Moose Hunt – Savage 110 Ultralite](https://www.thegunpage.com/potd-the-moose-hunt-savage-110-ultralite/10610909)
+* [The Rimfire Report: NAA Sentinel + Federal 22 WMR Punch Test](https://www.thegunpage.com/the-rimfire-report-naa-sentinel-federal-22-wmr-punch-test/10610910)
+* [Range Essentials: Shellshock Protection Premium Eyes & Ears Combo](https://www.thegunpage.com/range-essentials-shellshock-protection-premium-eyes-ears-combo/10610905)
+* [P7Pro – The Legendary P7 Reborn in The USA](https://www.thegunpage.com/p7pro-the-legendary-p7-reborn-in-the-usa/10610902)
+* [Buying Your First Suppressor: What You Need to Know](https://www.thegunpage.com/buying-your-first-suppressor-what-you-need-to-know/10610900)
+* [TFB Review: FN 502 MRD And 502T](https://www.thegunpage.com/tfb-review-fn-502-mrd-and-502t/10610904)
 * [Finally! A Reporter Actually Presses Harris on Her Stance on Guns](https://www.thegunpage.com/finally-a-reporter-actually-presses-harris-on-her-stance-on-guns/10610897)
 * [TFB Review: Marlin 1895 Dark 45-70: A Modern Take on a Classic](https://www.thegunpage.com/tfb-review-marlin-1895-dark-45-70-a-modern-take-on-a-classic/10610899)
 * [Bill Introduced to Ban Federal Contracts with Gun Dealers Linked to Violent Crime](https://www.thegunpage.com/bill-introduced-to-ban-federal-contracts-with-gun-dealers-linked-to-violent-crime/10610893)
-* [TFB Weekly Web Deals 108: Deals for September 30th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-108-deals-for-september-30th-2024/10610891)
-* [Kamala Harris Calls Safety a Civil Right While Pushing Gun Restrictions, Highlighting a Contradiction in Approach](https://www.thegunpage.com/kamala-harris-calls-safety-a-civil-right-while-pushing-gun-restrictions-highlighting-a-contradiction-in-approach/10610890)
-* [Florida city illegally bans firearm and ammunition sales, CCW during Hurricane Helene](https://www.thegunpage.com/florida-city-illegally-bans-firearm-and-ammunition-sales-ccw-during-hurricane-helene/10610888)
-* [5 Suppressors Under $500](https://www.thegunpage.com/5-suppressors-under-500/10610884)
-* [NRA Asks Supreme Court To Consider AWB Case](https://www.thegunpage.com/nra-asks-supreme-court-to-consider-awb-case/10610882)
-* [From Steyr to Glock: Austria's Military Pistol History](https://www.thegunpage.com/from-steyr-to-glock-austrias-military-pistol-history/10610885)
-* [Gallery: 2024 America Match At NRA Whittington Center](https://www.thegunpage.com/gallery-2024-america-match-at-nra-whittington-center/10610878)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
