@@ -996,7 +996,6 @@ Tidio
 * [Partner Programs](https://www.tidio.com/partners/ "Partner Programs")
 * [Jobs – We're hiring!](https://careers.tidio.com/ "Jobs – We're hiring!")
 * [Security](https://www.tidio.com/security/ "Security")
-* [Status Page](https://status.tidio.com/ "Status Page")
 
 Product
 
@@ -1007,6 +1006,7 @@ Product
 * [Help Desk](https://www.tidio.com/helpdesk/ "Help Desk")
 * [Tidio+](https://www.tidio.com/tidio-plus/ "Tidio+")
 * [All features](https://www.tidio.com/features/ "All features")
+* [Ecommerce](https://www.tidio.com/industry/ecommerce/ "Ecommerce")
 * [Product Updates](https://tidio.noticeable.news/ "Product Updates")
 
 Integrations
@@ -1024,7 +1024,8 @@ Resources
 * [All Resources](https://www.tidio.com/resources/ "All Resources")
 * [Blog](https://www.tidio.com/blog/ "Blog")
 * [Case Studies](https://www.tidio.com/resources/case-studies/ "Case Studies")
-* [Help Center](https://help.tidio.com/ "Help Center")
+* [Webinars](https://app.getcontrast.io/tidio?utm_source=website&utm_medium=footer&utm_campaign=resources "Webinars")
+* [Ebooks](https://www.tidio.com/resources/ebooks/ "Ebooks")
 * [Tidio vs. Gorgias](https://www.tidio.com/vs/gorgias/ "Tidio vs. Gorgias")
 * [Tidio vs. Intercom](https://www.tidio.com/vs/intercom/ "Tidio vs. Intercom")
 * [Tidio vs. LiveChat](https://www.tidio.com/vs/live-chat/ "Tidio vs. LiveChat")
@@ -1032,11 +1033,13 @@ Resources
 
 Help Center
 
+* [Help Center](https://help.tidio.com/ "Help Center")
 * [Installation](https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio "Installation")
 * [Get Started](https://help.tidio.com/hc/en-us/sections/5377996746652-Get-Started "Get Started")
 * [Integrations](https://help.tidio.com/hc/en-us/sections/5378011044252-Integrations "Integrations")
 * [Flows setup](https://help.tidio.com/hc/en-us/sections/5452396719260-Chatbots- "Flows setup")
 * [Developers](https://developers.tidio.com/ "Developers")
+* [Status Page](https://status.tidio.com/ "Status Page")
 
 [Contact sales](https://www.tidio.com/contact-sales/)
 
