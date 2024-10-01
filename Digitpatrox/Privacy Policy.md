@@ -20,16 +20,16 @@ Tuesday, October 1 2024
 
 Latest
 
-* [Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
-* [Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
-* [Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
-* [Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
-* [How to Make Infinite Craft in Infinite Craft](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
-* [Secure Workspace for Remote Work Best Practices & Tools 2024](https://digitpatrox.com/secure-workspace-for-remote-work-best-practices-tools-2024/)
-* [Microsoft pulls Windows update after botched patch causes blue screens, reboot loops](https://digitpatrox.com/microsoft-pulls-windows-update-after-botched-patch-causes-blue-screens-reboot-loops/)
-* [Checkr ditches GPT-4 for a smaller genAI model, streamlines background checks](https://digitpatrox.com/checkr-ditches-gpt-4-for-a-smaller-genai-model-streamlines-background-checks/)
-* [Wordle Answer for Today, October 1, 2024](https://digitpatrox.com/wordle-answer-for-today-october-1-2024/)
-* [Which Kind of Electric Toothbrush Is Better: Rotating or Sonic?](https://digitpatrox.com/which-kind-of-electric-toothbrush-is-better-rotating-or-sonic/)
+* [Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
+* [Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
+* [Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
+* [Surging energy consumption and rising cloud costs have IT leaders sweating](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
+* [11 FREE Keyword Research Templates to Streamline SEO](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
+* [Our favorite Alexa speaker just dropped to $30 at Amazon — plus get a free smart bulb](https://digitpatrox.com/our-favorite-alexa-speaker-just-dropped-to-30-at-amazon-plus-get-a-free-smart-bulb/)
+* [We tested six smart rings, and there’s a clear winner](https://digitpatrox.com/we-tested-six-smart-rings-and-theres-a-clear-winner/)
+* [Microsoft Revamps Copilot AI with a Fresh UI, Copilot Voice, Vision, & More](https://digitpatrox.com/microsoft-revamps-copilot-ai-with-a-fresh-ui-copilot-voice-vision-more/)
+* [Microsoft expands Copilot across the Windows ecosystem, with new Vision and Copilot PC features](https://digitpatrox.com/microsoft-expands-copilot-across-the-windows-ecosystem-with-new-vision-and-copilot-pc-features/)
+* [you and your business need satellite comms – Computerworld](https://digitpatrox.com/you-and-your-business-need-satellite-comms-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/UutN3EgzXdDappULmsb6V3-1200-80.jpg)](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-smaller-taskbar-icons-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
     
-    [Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
+    [Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
     
-    20 mins ago
+    8 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/02/AdobeStock_715754594.jpeg)](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727378617/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Cyber-Readiness-Report-0924)](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
     
-    [Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
+    [Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
     
-    21 mins ago
+    18 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/MoSnCwi2RUyePXn2N6FFMV-1200-80.jpg)](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/imac-2021.png)](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
     
-    [Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
+    [Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
     
-    38 mins ago
+    19 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/lASAfdcFLEREaRCzkxDD-H1jf3c=/0x0:1485x1004/1200x628/filters:focal(743x502:744x503)/cdn.vox-cdn.com/uploads/chorus_asset/file/25574399/Still015.jpg)](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+* [![](https://cdn.mos.cms.futurecdn.net/6zvLhxX6fpdjzFD8FCfGAN-1200-80.jpg)](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
     
-    [Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+    [Surging energy consumption and rising cloud costs have IT leaders sweating](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/How-to-make-Infinite-Craft-in-Infinite-Craft.jpg)](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/keyword_research_templates_featured_10012024-min.png)](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
     
-    [How to Make Infinite Craft in Infinite Craft](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
+    [11 FREE Keyword Research Templates to Streamline SEO](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [20 mins ago
+* [8 mins ago
     
-    ### Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
-* [21 mins ago
+    ### Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
+* [18 mins ago
     
-    ### Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
-* [38 mins ago
+    ### Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
+* [19 mins ago
     
-    ### Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
+    ### Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
 
 Most Popular Topics
 
 * [August 20, 2024
     
-    ### These PS4 Features Are Still Missing from the PS5](https://digitpatrox.com/these-ps4-features-are-still-missing-from-the-ps5/)
-* [3 days ago
+    ### Reanimal is a Horrific Successor to The Little Nightmares Franchise](https://digitpatrox.com/reanimal-is-a-horrific-successor-to-the-little-nightmares-franchise/)
+* [4 weeks ago
     
-    ### Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
-* [3 weeks ago
+    ### Volvo EX90 first drive: not fully baked](https://digitpatrox.com/volvo-ex90-first-drive-not-fully-baked/)
+* [August 15, 2024
     
-    ### Wordle Answer for Today, September 11, 2024](https://digitpatrox.com/wordle-answer-for-today-september-11-2024/)
+    ### RayNeo Air 2S review | Tom’s Guide](https://digitpatrox.com/rayneo-air-2s-review-toms-guide/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### We tested six smart rings, and there’s a clear winner](https://digitpatrox.com/we-tested-six-smart-rings-and-theres-a-clear-winner/)
 * [3 hours ago
     
-    ### Microsoft pulls Windows update after botched patch causes blue screens, reboot loops](https://digitpatrox.com/microsoft-pulls-windows-update-after-botched-patch-causes-blue-screens-reboot-loops/)
-* [3 hours ago
-    
-    ### Checkr ditches GPT-4 for a smaller genAI model, streamlines background checks](https://digitpatrox.com/checkr-ditches-gpt-4-for-a-smaller-genai-model-streamlines-background-checks/)
+    ### Microsoft Revamps Copilot AI with a Fresh UI, Copilot Voice, Vision, & More](https://digitpatrox.com/microsoft-revamps-copilot-ai-with-a-fresh-ui-copilot-voice-vision-more/)
 * [4 hours ago
     
-    ### Wordle Answer for Today, October 1, 2024](https://digitpatrox.com/wordle-answer-for-today-october-1-2024/)
+    ### Microsoft expands Copilot across the Windows ecosystem, with new Vision and Copilot PC features](https://digitpatrox.com/microsoft-expands-copilot-across-the-windows-ecosystem-with-new-vision-and-copilot-pc-features/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
