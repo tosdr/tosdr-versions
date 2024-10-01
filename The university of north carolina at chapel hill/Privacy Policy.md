@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/MusicLibrary_YouTube-Thumbnail-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/VotingHero-250x141.jpg)
     
-    Carolina’s Music Library moves to new home](https://www.unc.edu/posts/2024/09/26/carolinas-music-library-moves-to-new-home/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/HeelsPackMeals-HERO-250x141.jpg)
+    Register to vote by Oct. 11](https://www.unc.edu/posts/2024/10/01/register-to-vote-by-oct-11/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/NCResponse-250x141.jpg)
     
-    CCPS hosts meal drive as part of 25th anniversary](https://www.unc.edu/posts/2024/09/26/ccps-hosts-meal-drive-as-part-of-25th-anniversary/)
+    UNC System offers support to storm-impacted western campuses](https://www.unc.edu/posts/2024/09/30/unc-system-offers-support-to-storm-impacted-western-campuses/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7e07a4efac&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=0b6eb60c00&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
