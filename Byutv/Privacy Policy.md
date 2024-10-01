@@ -82,7 +82,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-Client Version: 5.0.4966
+Client Version: 5.0.4973
 
 API Version: 5.60.0
 
