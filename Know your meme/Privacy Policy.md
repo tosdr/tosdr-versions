@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments")
+[Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
