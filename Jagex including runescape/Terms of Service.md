@@ -100,7 +100,7 @@ Legal Portal
 
 [Contact us](https://www.jagex.com/docs/contact-us)[Annual reports](https://www.jagex.com/docs/annual-reports)[Partners and third parties](https://www.jagex.com/docs/partners-and-third-parties)[Policies](https://www.jagex.com/docs/policies)[Terms](https://www.jagex.com/docs/terms)[Imprint](https://www.jagex.com/docs/imprint)[Rules](https://www.jagex.com/docs/rules)
 
-Last updated 1 month ago
+Last updated 2 months ago
 
 On this page
 
