@@ -2,10 +2,9 @@ top of page
 
 [![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_92,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
-* [PUBLISHERS](https://www.boldcollective.co/publishers)
 * ADVERTISERS
     
-    ###### [ADVERTISER PRODUCTS](https://www.boldcollective.co/advertiser-products)
+    ###### ADVERTISER PRODUCTS
     
     ![1636898_AdvertiserProductsGraphic-Icons_3_051223.png](https://static.wixstatic.com/media/16fa8f_febd7cb50e3641698ceb31f730602ffc~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_3_051223.png)
     
@@ -47,12 +46,11 @@ top of page
     
     ###### [North Star](https://www.boldcollective.co/north-star)
     
-    ###### [Bold FAQs](https://www.boldcollective.co/bold-faqs)
-    
     ###### [Newsletter](https://www.boldcollective.co/case-studies)
     
     ###### [Ad Specs](https://www.boldcollective.co/ad-specs)
     
+* [PUBLISHERS](https://www.boldcollective.co/publishers)
 * COMPANY
     
     ###### [ABOUT US](https://www.boldcollective.co/about)
@@ -62,8 +60,6 @@ top of page
     ###### [Jobs](https://www.boldcollective.co/jobs)
     
     ###### [Apply](https://www.boldcollective.co/job-application)
-    
-    ###### [News](https://www.boldcollective.co/news)
     
     [![StrongArm.png](https://static.wixstatic.com/media/16fa8f_5872cc503fc44f8893e5d90eb013a5eb~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/StrongArm.png)](https://www.boldcollective.co/about)
     
