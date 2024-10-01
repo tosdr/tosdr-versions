@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Kunj and Ashish](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Kunj and Ashish](https://image.wedmegood.com/resized/250X/uploads/images/e8db96210b48473ab73a0456fc77aebcrealwedding/WN_KA_03_Wedding&Reception_467_1.jpg?crop=293,212,1617,909)
+
+Kunj and Ashish (Mumbai)](https://www.wedmegood.com/real_wedding/detail/kunj-and-ashish-mumbai-punjabi-sikh-wedding-4399)
+
 [![Nazm and Ranjot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Nazm and Ranjot](https://image.wedmegood.com/resized/250X/uploads/images/cb1a496ac02a403fae5e6d5c310b1792realwedding/VowsAndTales-1949.JPG?crop=98,701,814,458)
 
 Nazm and Ranjot (Chandigarh)](https://www.wedmegood.com/real_wedding/detail/nazm-and-ranjot-chandigarh-punjabi-sikh-wedding-4395)
-
-[![Rashi and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Rashi and Karan](https://image.wedmegood.com/resized/250X/uploads/images/c1b1116282e344eab70dd3ca2aa7b949realwedding/Rashi&Karan-30947.jpg?crop=255,366,1620,911)
-
-Rashi and Karan (Bali)](https://www.wedmegood.com/real_wedding/detail/rashi-and-karan-bali-wedding-4394)
 
 Browse by Category
 
