@@ -84,6 +84,7 @@ Anzeigen
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/arbeit/angebote/most-wanted-employer/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
+* [ZEIT LEO Weltretter-Mission](https://zeitleo.de/weltretter-mission/)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
 * [Deutsches Schulportal](https://deutsches-schulportal.de/)
 * [ZEIT für Forschung](https://zeitfuerx.de/forschung/)
