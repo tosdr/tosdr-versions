@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+[![JailmineNetwork](plugins/MineCraft/icons/25x25xJailmineNetwork_1709569987.png.pagespeed.ic.8D8j2R0whG.png)
 
-TheosisMC • Hardcore Survival • 1.21.1](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.1")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+Jailmine Network](https://minecraft-server.net/details/JailmineNetwork/ "Jailmine Network")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![PLAYKRETMCPL](plugins/MineCraft/icons/25x25xPLAYKRETMCPL_1699453929.png.pagespeed.ic.csO5XeMY1u.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1727667436.png.pagespeed.ic.DvVjC3dGRz.png)
 
-Minecraft Bedrock PL](https://minecraft-server.net/details/PLAYKRETMCPL/ "Minecraft Bedrock PL")[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
+HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![Paintsplatters](plugins/MineCraft/icons/25x25xPaintsplatters_1684433908.png.pagespeed.ic.keSDhzMPFP.png)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")
+RealmportalMC](https://minecraft-server.net/details/Paintsplatters/ "RealmportalMC")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06086 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05872 - Created by [Debaucus](https://debauc.us/)
