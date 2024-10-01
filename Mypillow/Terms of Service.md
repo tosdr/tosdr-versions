@@ -80,7 +80,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Bath Wraps](https://www.mypillow.com/bath/towel-wraps)
     * [Beach Towels](https://www.mypillow.com/bath/beach-towels)
 * [Pet](https://www.mypillow.com/pet)
-    * [Pet Blanket](https://www.mypillow.com/pet/pet-blanket)
+    * [Pet Blanket](https://www.mypillow.com/pet-blankets)
     * [Dog Beds](https://www.mypillow.com/mypillow-for-pets)
 * [Clearance](https://www.mypillow.com/clearance-page)
 * [MyCoffee](https://www.mypillow.com/mycoffee-options)
@@ -106,7 +106,7 @@ MY PILLOW® TERMS AND CONDITIONS
 
 All Product Prices are in US Currency.  
   
-These Terms & Conditions apply to the website located at [www.mypillow.com](http://www.mypillow.com/) and any other sites, mobile sites, social media, services, applications, platforms and tools through which My Pillow® products may be purchased from us and/or are advertised by us (collectively, the "Site"). As used in these Terms & Conditions, "My Pillow", "us" or "we" refers to My Pillow, Inc. and its subsidiaries and affiliates.  
+These Terms & Conditions apply to the website located at [www.mypillow.com](https://www.mypillow.com/) and any other sites, mobile sites, social media, services, applications, platforms and tools through which My Pillow® products may be purchased from us and/or are advertised by us (collectively, the "Site"). As used in these Terms & Conditions, "My Pillow", "us" or "we" refers to My Pillow, Inc. and its subsidiaries and affiliates.  
   
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THESE TERMS & CONDITIONS CONTAIN AN AGREEMENT TO ARBITRATE THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES RATHER THAN JURY OR ANY OTHER COURT PROCEEDINGS, OR CLASS ACTIONS OF ANY KIND.  
   
