@@ -51,6 +51,7 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
     * [Storage](https://www.bosu.com/collections/storage)
     * [Replacement Parts](https://www.bosu.com/collections/replacement-parts)
     * [Downloadable Workouts](https://www.bosu.com/collections/downloadable-workouts)
+* [Breast Cancer Awareness](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle)
 * [Compare](https://www.bosu.com/)
     * [Compare Balance Trainers](https://www.bosu.com/pages/compare-balance-trainers)
     * [Compare Exercise Balls](https://www.bosu.com/pages/compare-exercise-balls)
@@ -73,6 +74,7 @@ Subscribe Notice
 
 * [Home](https://www.bosu.com/)
 * Products
+* [Breast Cancer Awareness](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle)
 * Compare
 * Company
 * [Deals](https://www.bosu.com/collections/deals)
