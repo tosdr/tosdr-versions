@@ -206,7 +206,7 @@
         Barrierearmut
         
     
-    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_a187f71cdc.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_ccc9fb72c8.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
     
     Schulen und Kitas bauen mit Holz
     
@@ -379,7 +379,7 @@ SEPA-Überweisungen, die Sie im GLS Onlinebanking oder der GLS Banking-App mache
 
 **Beispiel Überweisungsträger/Überweisungsschein**
 
-Weil beleghafte Buchungen händisch durch unseren Zahlungsverkehr bearbeitet werden müssen, berechnen wir dafür 1 Euro.   
+Weil beleghafte Buchungen händisch durch unseren Zahlungsverkehr bearbeitet werden müssen, berechnen wir dafür ab dem 1. Januar 2025 1 Euro.   
    
 Wenn Sie allerdings eine Buchung für ein GLS Sparkonto einsenden, kostet das nichts.  
 
@@ -514,7 +514,7 @@ Anrede Frau Herr Guten Tag
  E-Mail-Adresse wiederholen\*
 
 **Dateien hochladen**  
-(Bis zu 5 Dateien, max. 15 MB)
+(Bis zu 5 Dateien, max. 5 MB)
 
   Durchsuchen
 
