@@ -295,7 +295,7 @@ Did you know that cows can remember 50 members of their herd and will hold a gru
 
 PETA and third parties (including, but not limited to, Google, Meta, and DoubleClick) use cookies and pixels to display ads based on a user’s prior visits, to report how many times you see an ad, and to connect with ad services. These third parties may combine your Personal Information with other information, such as a mailing address, and provide PETA with that information so that we can send relevant marketing offers and other communications to you via e-mail and direct mail.
 
-If you’d like to opt out of some cookies, you may be able to do so by visiting the [Google advertising opt-out page](http://www.aboutads.info/choices) and [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1). You may also be able to configure the browsers or apps that you use to refuse cookies or to alert you when a webpage is attempting to send a cookie. (But just a heads-up—doing so may prevent the Resources from functioning properly.)
+If you’d like to opt out of some cookies, you may be able to do so by visiting the [Google advertising opt-out page](http://www.aboutads.info/choices) and [Network Advertising Initiative](https://thenai.org/). You may also be able to configure the browsers or apps that you use to refuse cookies or to alert you when a webpage is attempting to send a cookie. (But just a heads-up—doing so may prevent the Resources from functioning properly.)
 
 How does PETA protect my Personal Information?
 ----------------------------------------------
