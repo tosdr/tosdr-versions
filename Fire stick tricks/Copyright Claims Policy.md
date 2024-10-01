@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch UFC Fight Night on Kodi (Best UFC Addons in 2024)](https://www.firesticktricks.com/watch-ufc-kodi-addons.html)
-* [How to Watch UFC Fight Night on FireStick for Free (Moicano vs. Saint Denis)](https://www.firesticktricks.com/watch-ufc-on-firestick.html)
-* [How to Install cMaN Wizard Kodi Builds on Any Device](https://www.firesticktricks.com/cman-wizard-kodi-builds.html)
-* [How to Install & Use KlowdTV on FireStick](https://www.firesticktricks.com/klowdtv-on-firestick.html)
-* [How to Get NFL Sunday Ticket on FireStick for Free](https://www.firesticktricks.com/watch-nfl-sunday-ticket-on-firestick.html)
+* [How to Stop Kodi Buffering Issues (Updated: Oct 2024)](https://www.firesticktricks.com/fix-kodi-buffering.html)
+* [Best Free VPNs for Kodi \[Tested by Experts in 2024\]](https://www.firesticktricks.com/free-vpns-for-kodi.html)
+* [How to Install & Use Atomic Matrix Kodi Build on FireStick](https://www.firesticktricks.com/atomic-matrix-kodi-build.html)
+* [10 Best Kodi Repositories (2024) with Installation Guides](https://www.firesticktricks.com/best-kodi-repositories.html)
+* [How to Install Fido K19 Kodi Addon for Unlimited Movies & Shows](https://www.firesticktricks.com/fido-k19-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
