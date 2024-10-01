@@ -62,54 +62,34 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4
+    Day 5 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | 9 /285d |
-    | BAN | 233 & 2 /26 |
+    | IND | 9 /285d & 1 /34 |
+    | BAN | 233 & 146 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [Men's T20I
-    
-    USA won by 15 runs
-    
-    |     |     |
-    | --- | --- |
-    | UAE | 8 /160 |
-    | USA | 9 /175 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20242002)
-* [Men's T20I
-    
-    OMA won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | CAN | 106 |
-    | OMA | 2 /107 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241903)
 * NFL
     
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MIA | 6   |
-    | TEN | 16  |
+    | MIA | 12  |
+    | TEN | 31  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250429)
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DET | 21  |
-    | SEA | 7   |
+    | DET | 42  |
+    | SEA | 29  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250430)
 * Motorsport
@@ -156,6 +136,76 @@ FOX SCORES
     | BRE | –   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250203)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SB  | –   |
+    | MCI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250217)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | INT | –   |
+    | BGD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250211)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PSV | –   |
+    | LIS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250215)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ARS | –   |
+    | PSG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250209)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAR | –   |
+    | YB  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250213)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BLV | –   |
+    | MIL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250207)
+* [UCL
+    
+    2/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BDM | –   |
+    | CEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250205)
 * Baseball
     
 * [MLB
@@ -178,6 +228,36 @@ FOX SCORES
     | NYM | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024001002D5D71)
+* [MLB
+    
+    2/10 4:32 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HOU | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002E132D)
+* [MLB
+    
+    2/10 6:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAL | –   |
+    | KC  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002B7205)
+* [MLB
+    
+    2/10 7:32 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIL | –   |
+    | NYM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500211498)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
