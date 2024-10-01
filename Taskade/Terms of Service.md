@@ -490,11 +490,11 @@ We welcome any comment, question and communication at [\[email protected\]](htt
 
 [Taskade](https://www.taskade.com/)[Pricing](https://www.taskade.com/pricing)[Help Center](https://help.taskade.com/)[Integrations](https://www.taskade.com/integrations)[Customer Reviews](https://www.taskade.com/reviews)[Developer API](https://developers.taskade.com/)[Productivity](https://www.taskade.com/productivity)[Compare](https://www.taskade.com/compare)[Partners](https://partners.taskade.com/)[Security](https://www.taskade.com/security)[Status](https://status.taskade.com/)[Learn](https://www.taskade.com/learn)[About](https://www.taskade.com/about)[Press](https://www.taskade.com/press)[Jobs](https://www.taskade.com/jobs)[FAQ](https://www.taskade.com/faq)[Contact](https://www.taskade.com/contact)
 
-[Downloads](https://www.taskade.com/downloads)[Android](https://play.google.com/store/apps/details?id=com.taskade.mobile)[iOS](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[Mac](https://apps.taskade.com/updates/Taskade-4.4.2-universal.dmg)
+[Downloads](https://www.taskade.com/downloads)[Android](https://play.google.com/store/apps/details?id=com.taskade.mobile)[iOS](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[Mac](https://apps.taskade.com/updates/Taskade-4.4.3-universal.dmg)
 
 [Mac App Store](https://apps.apple.com/app/taskade/id1490048917)
 
-[Windows](https://apps.taskade.com/updates/Taskade_Setup_4.4.2.exe)
+[Windows](https://apps.taskade.com/updates/Taskade_Setup_4.4.3.exe)
 
 [Microsoft Store](https://www.microsoft.com/p/taskade/9p1jh1d9bg26)
 
