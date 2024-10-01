@@ -390,24 +390,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Lie Down in Bed During Pregnancy](https://www.wikihow.com/images/thumb/9/91/Lie-Down-in-Bed-During-Pregnancy-Step-14.jpg/-crop-126-120-126px-Lie-Down-in-Bed-During-Pregnancy-Step-14.jpg)
+
+The Best Ways to Sleep When Pregnant](https://www.wikihow.com/Lie-Down-in-Bed-During-Pregnancy)
+
+[![Teach Your Cat to Do Tricks](https://www.wikihow.com/images/thumb/d/d7/Teach-Your-Cat-to-Do-Tricks-Step-15-Version-2.jpg/-crop-126-120-126px-Teach-Your-Cat-to-Do-Tricks-Step-15-Version-2.jpg)
+
+How to  
+Teach Your Cat to Do Tricks](https://www.wikihow.com/Teach-Your-Cat-to-Do-Tricks)
+
+[![Make Someone Feel Special](https://www.wikihow.com/images/thumb/a/a4/Make-Someone-Feel-Special-Step-15.jpg/-crop-126-120-126px-Make-Someone-Feel-Special-Step-15.jpg)
+
+How to  
+Make Someone Feel Special](https://www.wikihow.com/Make-Someone-Feel-Special)
+
 [![Improve Yourself](https://www.wikihow.com/images/thumb/8/88/Improve-Yourself-Step-13-Version-2.jpg/-crop-126-120-126px-Improve-Yourself-Step-13-Version-2.jpg)
 
 How to  
 Improve Yourself](https://www.wikihow.com/Improve-Yourself)
-
-[![Rizz Quiz](https://www.wikihow.com/images/thumb/3/31/Rizz_quiz.png/-crop-126-120-126px-Rizz_quiz.png)
-
-Do I Have Rizz Quiz](https://www.wikihow.com/Rizz-Quiz)
-
-[![Detach from Someone](https://www.wikihow.com/images/thumb/4/40/Detach-from-Someone-Step-13-Version-2.jpg/-crop-126-120-126px-Detach-from-Someone-Step-13-Version-2.jpg)
-
-How to  
-Detach from Someone](https://www.wikihow.com/Detach-from-Someone)
-
-[![Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/images/thumb/a/a8/Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg/-crop-126-120-126px-Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg)
-
-How to  
-Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/Make-Your-Boyfriend-Go-Crazy-over-You)
 
   
 
@@ -450,4 +450,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-208
+181
