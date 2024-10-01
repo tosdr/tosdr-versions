@@ -20,16 +20,16 @@ Tuesday, October 1 2024
 
 Latest
 
-* [The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
-* [Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
-* [California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
-* [California Governor Newsom vetoes AI safety bill, arguing it’s ‘not the best approach’ – Computerworld](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
-* [This DIY Whole Home Ring Alarm Kit Is Under $200 Right Now](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
-* [Which Apple Watch Should You Buy?](https://digitpatrox.com/which-apple-watch-should-you-buy/)
-* [Which is Best for You?](https://digitpatrox.com/which-is-best-for-you/)
-* [Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
-* [Splunk Urges Australian Organisations to Secure LLMs](https://digitpatrox.com/splunk-urges-australian-organisations-to-secure-llms/)
-* [7 early Amazon Prime Day outerwear deals I’d buy right now from The North Face, Columbia and Helly Hansen](https://digitpatrox.com/7-early-amazon-prime-day-outerwear-deals-id-buy-right-now-from-the-north-face-columbia-and-helly-hansen/)
+* [Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
+* [Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
+* [Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
+* [Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+* [How to Make Infinite Craft in Infinite Craft](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
+* [Secure Workspace for Remote Work Best Practices & Tools 2024](https://digitpatrox.com/secure-workspace-for-remote-work-best-practices-tools-2024/)
+* [Microsoft pulls Windows update after botched patch causes blue screens, reboot loops](https://digitpatrox.com/microsoft-pulls-windows-update-after-botched-patch-causes-blue-screens-reboot-loops/)
+* [Checkr ditches GPT-4 for a smaller genAI model, streamlines background checks](https://digitpatrox.com/checkr-ditches-gpt-4-for-a-smaller-genai-model-streamlines-background-checks/)
+* [Wordle Answer for Today, October 1, 2024](https://digitpatrox.com/wordle-answer-for-today-october-1-2024/)
+* [Which Kind of Electric Toothbrush Is Better: Rotating or Sonic?](https://digitpatrox.com/which-kind-of-electric-toothbrush-is-better-rotating-or-sonic/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/rC6nDOOx1sgVf229RJEwvqVf8yU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24182143/226402_Android_Smartwatch_Buyers_Guide_WJoel.jpg)](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/UutN3EgzXdDappULmsb6V3-1200-80.jpg)](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
     
-    [The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
+    [Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
     
-    22 mins ago
+    20 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Android-16-New-Desert-Name-Cover.jpg)](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
+* [![](https://assets.techrepublic.com/uploads/2024/02/AdobeStock_715754594.jpeg)](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
     
-    [Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
+    [Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
     
-    36 mins ago
+    21 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rypsJ2A298dj6Kjnxqj2AA-1200-80.jpg)](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
+* [![](https://cdn.mos.cms.futurecdn.net/MoSnCwi2RUyePXn2N6FFMV-1200-80.jpg)](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
     
-    [California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
+    [Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
+    
+    38 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/lASAfdcFLEREaRCzkxDD-H1jf3c=/0x0:1485x1004/1200x628/filters:focal(743x502:744x503)/cdn.vox-cdn.com/uploads/chorus_asset/file/25574399/Still015.jpg)](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+    
+    [Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+    
+    1 hour ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/09/How-to-make-Infinite-Craft-in-Infinite-Craft.jpg)](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
+    
+    [How to Make Infinite Craft in Infinite Craft](https://digitpatrox.com/how-to-make-infinite-craft-in-infinite-craft/)
     
     2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542546-0-00961600-1727695483-shutterstock_150165167.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
-    
-    [California Governor Newsom vetoes AI safety bill, arguing it’s ‘not the best approach’ – Computerworld](https://digitpatrox.com/california-governor-newsom-vetoes-ai-safety-bill-arguing-its-not-the-best-approach-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J920BBNSDYCN6FZCBAQE8AJJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
-    
-    [This DIY Whole Home Ring Alarm Kit Is Under $200 Right Now](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 mins ago
+* [20 mins ago
     
-    ### The seven best Android smartwatches in 2024](https://digitpatrox.com/the-seven-best-android-smartwatches-in-2024/)
-* [36 mins ago
+    ### Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
+* [21 mins ago
     
-    ### Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
-* [2 hours ago
+    ### Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
+* [38 mins ago
     
-    ### California’s AI bill is dead in the water – and big tech can breathe a sigh of relief](https://digitpatrox.com/californias-ai-bill-is-dead-in-the-water-and-big-tech-can-breathe-a-sigh-of-relief/)
+    ### Massive Nike outlet sale — here’s 15 deals I’d get now on apparel and sneakers from $18](https://digitpatrox.com/massive-nike-outlet-sale-heres-15-deals-id-get-now-on-apparel-and-sneakers-from-18/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [August 20, 2024
     
-    ### Google Pixel Watch 3: release date, price, and how to buy](https://digitpatrox.com/google-pixel-watch-3-release-date-price-and-how-to-buy/)
-* [August 16, 2024
+    ### These PS4 Features Are Still Missing from the PS5](https://digitpatrox.com/these-ps4-features-are-still-missing-from-the-ps5/)
+* [3 days ago
     
-    ### Enable MFA or lose access to admin portals in October](https://digitpatrox.com/enable-mfa-or-lose-access-to-admin-portals-in-october/)
-* [2 weeks ago
+    ### Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
+* [3 weeks ago
     
-    ### You Can Pin Spotify Playlists (And More)](https://digitpatrox.com/you-can-pin-spotify-playlists-and-more/)
+    ### Wordle Answer for Today, September 11, 2024](https://digitpatrox.com/wordle-answer-for-today-september-11-2024/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Which is Best for You?](https://digitpatrox.com/which-is-best-for-you/)
+    ### Microsoft pulls Windows update after botched patch causes blue screens, reboot loops](https://digitpatrox.com/microsoft-pulls-windows-update-after-botched-patch-causes-blue-screens-reboot-loops/)
+* [3 hours ago
+    
+    ### Checkr ditches GPT-4 for a smaller genAI model, streamlines background checks](https://digitpatrox.com/checkr-ditches-gpt-4-for-a-smaller-genai-model-streamlines-background-checks/)
 * [4 hours ago
     
-    ### Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
-* [4 hours ago
-    
-    ### Splunk Urges Australian Organisations to Secure LLMs](https://digitpatrox.com/splunk-urges-australian-organisations-to-secure-llms/)
+    ### Wordle Answer for Today, October 1, 2024](https://digitpatrox.com/wordle-answer-for-today-october-1-2024/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
