@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Art Bites 166** | Rick Steves' Europe](https://video.nhpbs.org/video/art-bites-166-8iiI67?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Judy-Lynn del Rey: The Galaxy Gal \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/judy-lynn-del-rey-the-galaxy-gal-asl-oc-yfedu4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 4 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-4-preview-jqpw2s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 4 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-4-preview-upxgyg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 30, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-30-2024-pbs-news-hour-full-episode-1727668801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Tamara Keith and Amy Walter on the Walz-Vance debate** | PBS News Hour](https://video.nhpbs.org/video/tamara-keith-and-amy-walter-on-the-walz-vance-debate-1727736516?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Nissan Z NISMO & 2025 Mazda CX-70** | MotorWeek](https://video.nhpbs.org/video/2024-nissan-z-nismo-2025-mazda-cx-70-l9sqgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of Dracula's Hidden Kingdom** | Nature](https://video.nhpbs.org/video/about-draculas-hidden-kingdom?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vintage Atlantic City, Hour 2** | Antiques Roadshow](https://video.nhpbs.org/video/vintage-atlantic-city-hour-2-poajfi?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Craig Morgan performs "That's What I Love About Sunday"** | Salute to Service: A Veterans Day Celebration](https://video.nhpbs.org/video/craig-morgan-performs-thats-what-i-love-about-sunday-joqaqq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [| Women of the Watershed](https://video.nhpbs.org/video/women-of-the-watershed-SH40MX?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Stop Chasing Love & Do This Instead** | The School of Greatness with Lewis Howes](https://video.nhpbs.org/video/stop-chasing-love-do-this-instead-a7kUoW?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
