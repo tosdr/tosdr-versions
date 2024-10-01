@@ -420,82 +420,100 @@ Keep in mind that we can update this Policy in the future & check it regularly.
 
 September 10, 2024.
 
-###### Products
+Products
 
-* [Surfshark VPN](https://surfshark.com/vpn "Surfshark VPN")
-* [Alternative ID](https://surfshark.com/alternative-id "Alternative ID")
-* [Surfshark Alert](https://surfshark.com/alert "Surfshark Alert")
-* [Surfshark Antivirus](https://surfshark.com/antivirus "Surfshark Antivirus")
-* [Surfshark Search](https://surfshark.com/search "Surfshark Search")
-* [Pricing](https://surfshark.com/pricing "Pricing")
+* [Surfshark VPN](https://surfshark.com/vpn)
+* [Alternative ID](https://surfshark.com/alternative-id)
+* [Surfshark Alert](https://surfshark.com/alert)
+* [Surfshark Antivirus](https://surfshark.com/antivirus)
+* [Surfshark Search](https://surfshark.com/search)
+* [Pricing](https://surfshark.com/pricing)
 
-###### Other products
+Other products
 
-* [Incogni](https://incogni.com/?utm_source=surfshark.com&utm_medium=referral&utm_campaign=footer "Incogni")
+* [Incogni](https://incogni.com/?utm_source=surfshark.com&utm_medium=referral&utm_campaign=footer)
 
-###### Surfshark VPN
+Surfshark VPN
 
-* [What is a VPN?](https://surfshark.com/learn/what-is-vpn "What is a VPN?")
-* [VPN features](https://surfshark.com/features "VPN features")
-* [VPN use cases](https://surfshark.com/use-cases "VPN use cases")
-* [VPN servers](https://surfshark.com/servers "VPN servers")
-* [Dedicated IP](https://surfshark.com/dedicated-ip "Dedicated IP")
-* [Reviews](https://surfshark.com/surfshark-review "Reviews")
-* [VPN download](https://surfshark.com/download "VPN download")
-* [VPN free trial](https://surfshark.com/vpn-free-trial "VPN free trial")
+* [What is a VPN?](https://surfshark.com/learn/what-is-vpn)
+* [VPN features](https://surfshark.com/features)
+* [VPN use cases](https://surfshark.com/use-cases)
+* [VPN servers](https://surfshark.com/servers)
+* [Dedicated IP](https://surfshark.com/dedicated-ip)
+* [Reviews](https://surfshark.com/surfshark-review)
+* [VPN download](https://surfshark.com/download)
+* [VPN free trial](https://surfshark.com/vpn-free-trial)
 
-###### Solution
+Solution
 
-* [VPN for teams](https://surfshark.com/for-teams "VPN for teams")
+* [VPN for teams](https://surfshark.com/for-teams)
 
-###### Resources
+Resources
 
-* [About us](https://surfshark.com/about-us "About us")
-* [Media center](https://surfshark.com/press "Media center")
-* [Career](https://surfshark.com/career "Career")
-* [Blog](https://surfshark.com/blog "Blog")
-* [Blog newsletter](https://surfshark.com/blog-subscription "Blog newsletter")
-* [Warrant canary](https://surfshark.com/warrant-canary "Warrant canary")
+* [About us](https://surfshark.com/about-us)
+* [Media center](https://surfshark.com/press)
+* [Career](https://surfshark.com/career)
+* [Blog](https://surfshark.com/blog)
+* [Blog newsletter](https://surfshark.com/blog-subscription)
+* [Warrant canary](https://surfshark.com/warrant-canary)
 
-###### Programs
+Programs
 
-* [Affiliate](https://surfshark.com/affiliate "Affiliate")
-* [YouTube creators](https://surfshark.com/youtube-creators "YouTube creators")
-* [Student discount](https://surfshark.com/deal/student-discount "Student discount")
-* [Graduate discount](https://surfshark.com/deal/graduate-discount "Graduate discount")
+* [Affiliate](https://surfshark.com/affiliate)
+* [YouTube creators](https://surfshark.com/youtube-creators)
+* [Student discount](https://surfshark.com/deal/student-discount)
+* [Graduate discount](https://surfshark.com/deal/graduate-discount)
 
-###### Tools
+Tools
 
-* [What is my IP](https://surfshark.com/what-is-my-ip "What is my IP")
-* [DNS leak test](https://surfshark.com/dns-leak-test "DNS leak test")
-* [WebRTC leak test](https://surfshark.com/webrtc-leak-test "WebRTC leak test")
+* [What is my IP](https://surfshark.com/what-is-my-ip)
+* [DNS leak test](https://surfshark.com/dns-leak-test)
+* [WebRTC leak test](https://surfshark.com/webrtc-leak-test)
 
-###### Support
+Support
 
-* [Help center](https://support.surfshark.com/hc/en-us "Help center")
-* [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications "Setup guides")
+* [Help center](https://support.surfshark.com/hc/en-us)
+* [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications)
 
-[Windows](https://surfshark.com/download/windows "Windows")
+[Windows](https://surfshark.com/download/windows)
 
-[macOS](https://surfshark.com/download/macos "macOS")
+[macOS](https://surfshark.com/download/macos)
 
-[Linux](https://surfshark.com/download/linux "Linux")
+[Linux](https://surfshark.com/download/linux)
 
-[Android](https://surfshark.com/download/android "Android")
+[Android](https://surfshark.com/download/android)
 
-[iOS](https://surfshark.com/download/ios "iOS")
+[iOS](https://surfshark.com/download/ios)
 
-[Chrome](https://surfshark.com/download/chrome "Chrome")
+[Chrome](https://surfshark.com/download/chrome)
 
-[Firefox](https://surfshark.com/download/firefox "Firefox")
+[Firefox](https://surfshark.com/download/firefox)
 
-[Edge](https://surfshark.com/download/edge "Edge")
+[Edge](https://surfshark.com/download/edge)
 
-[Apple TV](https://surfshark.com/download/apple-tv-vpn "Apple TV")
+[Apple TV](https://surfshark.com/download/apple-tv-vpn)
 
-[Fire TV](https://surfshark.com/download/amazon-fire-tv "Fire TV")
+[Fire TV](https://surfshark.com/download/amazon-fire-tv)
 
 [Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)[Naver](https://blog.naver.com/surfshark_korea)
+
+Mastercard
+
+Visa
+
+Amex
+
+Discover
+
+PayPal
+
+GPay
+
+AmazonPay
+
+Bitcoin
+
+Ethereum
 
 EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
 
