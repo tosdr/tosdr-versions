@@ -1,9 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
 
 * [Driverge Canada](https://wheelchairvans.ca/)
-* [Driverge Consumer](https://drivergestg.wpenginepowered.com/consumers/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
 * [Parts](https://www.driverge.com/support/commercial-van-parts/)
 * [Careers](https://www.driverge.com/about/careers/)
@@ -36,6 +35,7 @@
         * [Dodge Grand Caravan](https://www.driverge.com/vehicles/dodge/)Menu Toggle
             * [(Rear Entry) Flex4 w/ Manual Ramp](https://www.driverge.com/vehicles/dodge/dodge-grand-caravan-flex4/)
             * [(Side Entry) Quiet Ride w/ Power Ramp](https://www.driverge.com/vehicles/dodge/dodge-grand-caravan-quiet-ride/)
+            * [(Rear Entry) w/ Manual Ramp](https://www.driverge.com/vehicles/dodge/wheelchair-accessible-dodge-grand-caravan)
 * [People Transporters](#)Menu Toggle
     * [Ford Transit](https://www.driverge.com/vehicles/ford)Menu Toggle
         * [(Side Entry) Shuttle Van](https://www.driverge.com/vehicles/ford/ford-transit-transporter/)
@@ -49,10 +49,12 @@
     * [RAM ProMaster](https://www.driverge.com/vehicles/RAM/)Menu Toggle
         * [(Side Entry) Transporter](https://www.driverge.com/vehicles/ram/ram-promaster-transporter/)
 * [Vocational](https://www.driverge.com/vehicles/work-crew-vans/)Menu Toggle
-    * [Full-Sized Vans](https://www.driverge.com/vehicles/full-size-cargo-vans/)Menu Toggle
-        * [Cannabis Transportation](https://www.driverge.com/industry-solutions/cannabis-transportation/)
+    * Full-Sized VansMenu Toggle
+        * [Cannabis Transportation](https://www.driverge.com/vehicles/work-crew-vans/cannabis-vans/)
         * [(Rear Entry) Mortuary Transportation](https://www.driverge.com/industry-solutions/mortuary-vans/)
         * [(Rear Entry) Transit Prisoner Transport](https://www.driverge.com/industry-solutions/law-enforcement-transporters/)
+        * [General Contractor Upfit](https://www.driverge.com/vehicles/ram/ram-promaster-cargo-vans/)
+        * [Built To Order Cargo Van](https://www.driverge.com/vehicles/full-size-cargo-vans/)
     * [Mini-Vans](https://www.driverge.com/vehicles/chrysler-cargo-vans/)Menu Toggle
         * [Pacifica & Voyager Cargo Van](https://www.driverge.com/vehicles/chrysler-cargo-vans/)
     * Pick-Up TrucksMenu Toggle
@@ -98,7 +100,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI2OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI2OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
 
 Main Menu
 
@@ -128,6 +130,7 @@ Main Menu
         * [Dodge Grand Caravan](https://www.driverge.com/vehicles/dodge/)Menu Toggle
             * [(Rear Entry) Flex4 w/ Manual Ramp](https://www.driverge.com/vehicles/dodge/dodge-grand-caravan-flex4/)
             * [(Side Entry) Quiet Ride w/ Power Ramp](https://www.driverge.com/vehicles/dodge/dodge-grand-caravan-quiet-ride/)
+            * [(Rear Entry) w/ Manual Ramp](https://www.driverge.com/vehicles/dodge/wheelchair-accessible-dodge-grand-caravan)
 * [People Transporters](#)Menu Toggle
     * [Ford Transit](https://www.driverge.com/vehicles/ford)Menu Toggle
         * [(Side Entry) Shuttle Van](https://www.driverge.com/vehicles/ford/ford-transit-transporter/)
@@ -141,10 +144,12 @@ Main Menu
     * [RAM ProMaster](https://www.driverge.com/vehicles/RAM/)Menu Toggle
         * [(Side Entry) Transporter](https://www.driverge.com/vehicles/ram/ram-promaster-transporter/)
 * [Vocational](https://www.driverge.com/vehicles/work-crew-vans/)Menu Toggle
-    * [Full-Sized Vans](https://www.driverge.com/vehicles/full-size-cargo-vans/)Menu Toggle
-        * [Cannabis Transportation](https://www.driverge.com/industry-solutions/cannabis-transportation/)
+    * Full-Sized VansMenu Toggle
+        * [Cannabis Transportation](https://www.driverge.com/vehicles/work-crew-vans/cannabis-vans/)
         * [(Rear Entry) Mortuary Transportation](https://www.driverge.com/industry-solutions/mortuary-vans/)
         * [(Rear Entry) Transit Prisoner Transport](https://www.driverge.com/industry-solutions/law-enforcement-transporters/)
+        * [General Contractor Upfit](https://www.driverge.com/vehicles/ram/ram-promaster-cargo-vans/)
+        * [Built To Order Cargo Van](https://www.driverge.com/vehicles/full-size-cargo-vans/)
     * [Mini-Vans](https://www.driverge.com/vehicles/chrysler-cargo-vans/)Menu Toggle
         * [Pacifica & Voyager Cargo Van](https://www.driverge.com/vehicles/chrysler-cargo-vans/)
     * Pick-Up TrucksMenu Toggle
@@ -187,7 +192,6 @@ Main Menu
 * [About](https://www.driverge.com/about/)
 
 * [Driverge Canada](https://wheelchairvans.ca/)
-* [Driverge Consumer](https://drivergestg.wpenginepowered.com/consumers/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
 * [Parts](https://www.driverge.com/support/commercial-van-parts/)
 * [Careers](https://www.driverge.com/about/careers/)
@@ -415,7 +419,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](https://www.driverge.com/wp-content/uploads/2022/01/driverge-cannabis-laws-and-regulations.png)
+![](data:image/svg+xml;nitro-empty-id=ODQzOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
