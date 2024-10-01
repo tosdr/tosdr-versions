@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![The 24 Worst Decisions in the History of Human Kind](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/) [The 24 Worst Decisions in the History of Human Kind](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/)
+    [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
     
-    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
+    [![Mike Rowe of Dirty Jobs is a con man who doesn't care about working people](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/) [The Dirty Con Job of Mike Rowe](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/)
     
-    [![a tiny crab in an oyster](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/) [15 People Who Captured Something They Just Had to Share](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/)
+    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
     
-    [![23 People Share What Happened After Someone Won the Lottery](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/) [23 People Share The 'Aftermath' Of Someone They Knew Winning the Lottery](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/)
+    [![34 of the Funniest Tweets of the Week According to Us](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/) [34 of the Funniest Tweets of the Week According to Us](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/)
     
 
 * Advertisement
