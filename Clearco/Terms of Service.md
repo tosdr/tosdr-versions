@@ -74,11 +74,15 @@ Read top financial, operations, and marketing tips for ecommerce.](https://clear
 
 Case Studies
 
-Learn how Clearco's ecommerce founders grew their businesses with funding.](https://clear.co/case-studies)[![rocket icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
+Learn how Clearco's ecommerce founders grew their businesses with funding.](https://clear.co/case-studies)[![newspaper icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a01008029190b445c54d4_newspaper.svg)
 
-Partner with Clearco
+Media & Press
 
-If you work with ecommerce businesses, partner to offer Clearco funding.](https://clear.co/partners)[![rocket icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
+Read all about Clearco in the news.](https://clear.co/media)[![building icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae6bd0bd3d436f7bf590e_building.svg)
+
+Events
+
+Meet Clearco in-person at ecommerce conferences.](https://clear.co/events)[![rocket icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660ae67bc787b93a080639c9_rocket.svg)
 
 Partner with Clearco
 
