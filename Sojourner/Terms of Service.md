@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-27a46f0b7199b399849187fe3838d375
+41928520263c5b0c2da053a5cb5bb2ae
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![21 mm by 3 mm green fairy wing pearls](https://sojourner.biz/images/cache/pearls/PE0211.200.jpg)](https://sojourner.biz/beads/pearls/21-mm-by-3-mm-green-fairy-wing-pearls.html "21 mm by 3 mm green fairy wing pearls")
+[![Four-point star clasp](https://sojourner.biz/images/cache/SKU0127variations.200.jpg)](https://sojourner.biz/clasps/glass/four-point-star-clasp.html "Four-point star clasp")
 
-#### [21 mm by 3 mm green fairy wing pearls](https://sojourner.biz/beads/pearls/21-mm-by-3-mm-green-fairy-wing-pearls.html "21 mm by 3 mm green fairy wing pearls")
+#### [Four-point star clasp](https://sojourner.biz/clasps/glass/four-point-star-clasp.html "Four-point star clasp")
 
-$20.00
+$28.00
 
 ### Best Sellers
 
@@ -164,12 +164,12 @@ $20.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-10. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+10. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 
 [Top](#)
 
