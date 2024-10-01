@@ -276,7 +276,7 @@ EUR
     
     Information[#### Letterheads](https://www.jukeboxprint.com/letterheads)[Elevate your brand with our elegant Mohawk Stock letterheads - perfect for professional use, easy to write on, and sophisticated.](https://www.jukeboxprint.com/letterheads)
     
-    Information[#### Presentation Folders](https://www.jukeboxprint.com/presentation-folders)[Show you mean business with our Presentation Folders. Our folders are professional, stylish and will make a bold statement at your next event. They provide a neat and organized way to store important documents customized with your branding in high quality print.](https://www.jukeboxprint.com/presentation-folders)
+    Information[#### Presentation Folders](https://www.jukeboxprint.com/presentation-folders)[Custom presentation folders in unique finishes and sizes, perfect for adding style and elegance to meetings, presentations, and professional events.](https://www.jukeboxprint.com/presentation-folders)
     
     Information[#### Wedding Invitations](https://www.jukeboxprint.com/wedding-invitations)[Produced to the highest quality and handled with the utmost care, create the wedding invitation of your dreams with Jukebox. With our premium printing and paper range, get an invite that perfectly compliments the look and feel of your big day.](https://www.jukeboxprint.com/wedding-invitations)
     
