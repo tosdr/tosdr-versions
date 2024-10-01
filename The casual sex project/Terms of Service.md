@@ -104,6 +104,26 @@ Sep 26 2024
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/mayor-hochul-to-the-rescue-guv-can-help-nyc-amid-adams-weakens.jpg)[](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/ "Read More")
+
+Commentary Governance, Cities New York, New York City
+
+Sep 29 2024
+
+[Mayor Hochul to the Rescue? Here’s How Gov Can Help NYC as Adams Flounders](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/florida-could-have-same-issues-as-ny-with-legal-marijuana.jpg)[](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/ "Read More")
+
+Commentary Governance, Health Culture & Society
+
+Sep 28 2024
+
+[Why Florida Could End Up with the Same Issues as NY If It Makes Pot Legal](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-deserves-better-than-this.jpg)[](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/ "Read More")
 
 Commentary Governance New York
@@ -123,26 +143,6 @@ Sep 26 2024
 [Uplifting the Man Farthest Down](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
 
 By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/wall-street-has-proven-that-trust-can-be-rebuilt.jpg)[](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/ "Read More")
-
-Commentary Economics Finance
-
-Sep 25 2024
-
-[Wall Street Has Proven That Trust Can Be Rebuilt](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/)
-
-By **[Allison Schrager](https://admin.mi52siterestore.com/person/allison-schrager/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/some-elite-colleges-dodge-the-affirmative-action-ruling.jpg)[](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/ "Read More")
-
-Commentary Education Higher Ed, Affirmative Action, Supreme Court
-
-Sep 24 2024
-
-[Some Elite Colleges Dodge the Affirmative-Action Ruling](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
-
-By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
 
 Our Policy Areas
 ----------------
