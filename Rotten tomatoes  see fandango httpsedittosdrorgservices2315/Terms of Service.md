@@ -17,11 +17,15 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get one ticket to Venom: The Last Dance, an excl
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save $5 on Smile & Smile 2 Pre-Order Bundle!** When you buy a ticket to Smile 2
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
+* **Special Offer from Bouqs** Get $40 Off Flowers
 
 Go to next offer
 
@@ -54,6 +58,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
+    
+    ### Seize the We Are Venom Bundle
+    
+    Get one ticket to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+    
+    [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
+    
+* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
+    
+    ### Flowers + Movies = Perfect Halloween
+    
+    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
+    
 * [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0be73d50-7d34-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-applepay-week13-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
     
     ### APPLE PAY WEDNESDAY
@@ -62,29 +82,13 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
     
-* [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
+* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
     
-    ### Save 50% off on Terrifier 2
+    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
     
-    Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
+    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
-    
-* [GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE image link ![GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e954b030-4b90-11ef-8321-2b978811c524--fan-globalofferunit-homepage-forge-292x118.png)](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer) 
-    
-    ### GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE
-    
-    Buy a ticket for yourself and everyone else you want to share The Forge with through The Kingdom Builders Gifted Ticket Program.
-    
-    [LEARN MORE](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer)
-    
-* [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
-    
-    ### GET DEADPOOL'S PREMIUM PACKAGE
-    
-    Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
-    
-    [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
     
 
 New & Coming soon
@@ -183,6 +187,36 @@ New & Coming soon
 
 © 2024 Fandango
 
+### SPECIAL OFFER
+
+Close
+
+![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
+
+#### Get one ticket to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+
+We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (link out to full terms, see below for full terms) for full terms and conditions for each item included in the We Are Venom bundle. Full terms: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EUz4C3yGGCxNjEu3yXxa4wQBQGvOAlyPssxSt\_OMumbmdA?e=UgdLP0 [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
+
+### LIMITED TIME OFFER
+
+Close
+
+![Flowers + Movies = Perfect Halloween](https://images.fandango.com/cms/assets/f870ca80-7f99-11ef-a588-3b078e6b3d8a--fan-globalnavbar-bouqshalloween-343x362-v2b.jpg)
+
+#### Get $40 OFF from The Bouqs Co. when you purchase a ticket between 10/1 and 10/31.
+
+Limited time offer. While supplies last. Rent or purchase any movie or TV show on Fandango at Home or purchase at least (1) movie ticket on Fandango between 12:00am PT on October 1, 2024 and 11:59pm PT on October 31, 2024 and get a Bouqs promo code (“code”) for $40 off one (1) qualifying merchandise product (before taxes) from a list of eligible flowers at https://bouqs.com/offers/fandangohalloween2024 plus receive $7.00 off shipping on weekday delivery. Code expires at 11:59 PT on November 18, 2024. Delivery not available in Puerto Rico, American Samoa, Guam, the Northern Marina Islands, the USVI, or APO/FPO addresses. Certain FedEx limitations exist in some areas of Hawaii and Alaska. Not combinable or stackable with any other offers. Code is not valid on vases, sale items, prior purchases, in-store pick-up orders or purchase made on The Bouqs Company iPhone, iPad or Android apps. One code per person per transaction. Code cannot be redeemed for cash and is not valid for resale. [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_promomodule)
+
+### Special Offer
+
+Close
+
+![Save $5 on Smile & Smile 2 Pre-Order Bundle!](https://images.fandango.com/cms/assets/49bbc120-7f99-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-smile2-343x362.jpg)
+
+#### Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
+
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Smile 2’ between 9:00am PT on 10/1/24 and 11:59pm PT on 10/21/24. Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for the purchase (and not the rental) of the Smile & Smile 2 2-Movie Collection Pre-Order Bundle for $5 off in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. When you purchase the bundle, you will receive viewing access to Smile immediately, and will have a pre-order for Smile 2 so that you can view it when the studio makes it available. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 10/26/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango at Home Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_promomodule)
+
 ### Special Offer
 
 Close
@@ -226,3 +260,13 @@ Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are
 ### Rediscover the magic of Hogwarts!
 
 Close
+
+SPECIAL OFFER
+
+Close ![Special Offer from Bouqs](https://images.fandango.com/images/offers/502/1/hallFAN_MOPLightboxUnit_Desktop_BouqsHalloween_620x350-v2_lg.jpg)
+
+#### Make a purchase on Fandango or Fandango at Home and enjoy $40 off Bouqs flowers, plus $7 off weekday shipping.
+
+Not a member? Join now or during checkout - it's free!
+
+Limited time offer. While supplies last. Rent or purchase any movie or TV show on Fandango at Home or purchase at least (1) movie ticket on Fandango between 12:00am PT on October 1, 2024 and 11:59pm PT on October 31, 2024 and get a Bouqs promo code (“code”) for $40 off one (1) qualifying merchandise product (before taxes) from a list of eligible flowers at https://bouqs.com/offers/fandangohalloween2024 plus receive $7.00 off shipping on weekday delivery. Code expires at 11:59 PT on November 18, 2024. Delivery not available in Puerto Rico, American Samoa, Guam, the Northern Marina Islands, the USVI, or APO/FPO addresses. Certain FedEx limitations exist in some areas of Hawaii and Alaska. Not combinable or stackable with any other offers. Code is not valid on vases, sale items, prior purchases, in-store pick-up orders or purchase made on The Bouqs Company iPhone, iPad or Android apps. One code per person per transaction. Code cannot be redeemed for cash and is not valid for resale.
