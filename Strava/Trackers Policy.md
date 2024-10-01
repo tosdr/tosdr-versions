@@ -73,8 +73,7 @@ Non-Essential Cookies are, as their name implies, not strictly necessary for the
 * understand and improve your experience,
 * perform analytics,
 * serve relevant ads, and
-
-to allow you to navigate our site and use its services and features, for example, when you sign up and login using a third-party account.
+* to allow you to navigate our site and use its services and features, for example, when you sign up and login using a third-party account.
 
 We further classify Non-Essential Cookies into the following categories: Functional, Performance, and Targeting.
 
@@ -88,14 +87,14 @@ Performance Cookies
 
 Performance Cookies help us learn how well our website and apps operate across different locations and identify any issues in the operation and provision of our products. We use Performance Cookies, including from third parties, to assist us in measuring and understanding how our products are used and how they can be optimized, as well as to perform business research and to inform targeted advertising. We may also receive other analytics information from these third parties.
 
-We use the following cookies for performance, analytics and research purposes: Meta Pixel, Google Analytics, Firebase, Snap and Branch.
+**We use the following cookies for performance, analytics and research purposes: Meta Pixel, Google Analytics, Firebase, Snap and Branch.**
 
 Targeting Cookies
 -----------------
 
 We use Targeting Cookies, also referred to as Advertising cookies, to serve relevant ads, including targeted advertising, to users who have already visited our website. These cookies remember that you’ve visited a website, a particular web page, and/or track your activities on the site, including clicking on or otherwise engaging with advertising content. This information is sometimes shared with third party advertisers to advertise Strava on third-party websites (i) for serving targeted online advertising or other personalized content, (ii) for ad measurement and (iii) aggregated and used to analyze website traffic and trends.
 
-We use the following cookies for advertising purposes: Meta Pixel, Google Ads, Firebase, Snap and Branch.
+**We use the following cookies for advertising purposes: Meta Pixel, Google Ads, Firebase, Snap and Branch.**
 
 We classify the cookies into the four broad categories described below.
 
