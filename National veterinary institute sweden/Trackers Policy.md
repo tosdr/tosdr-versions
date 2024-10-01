@@ -1278,6 +1278,7 @@ Gå direkt till :
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Helpdesktekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/helpdesktekniker/)
             * [Systemutvecklare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/systemutvecklare/)
+            * [Laboratoriedjurstekniker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratoriedjurstekniker-intermittent-anstallning/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
