@@ -170,6 +170,7 @@ Am Sandtorkai 68
 * [About](https://dataseat.com/about)
 * [Mobile DSP](https://dataseat.com/mobile-dsp)
 * [Careers](https://vervegroup.recruitee.com/)
+* [Cookie Policy](https://dataseat.com/cookie-policy)
 * [Privacy Policy](https://dataseat.com/privacy-policy)
 * [EU Applicant Privacy Policy](https://dataseat.com/eu-applicant-privacy-policy)
 * [California Applicant Privacy Notice](https://dataseat.com/california-applicant-privacy-notice)
