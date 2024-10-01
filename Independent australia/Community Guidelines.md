@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
+* ['Insiders' ignores hard facts of housing crisis](https://independentaustralia.net/article-display/insiders-ignores-hard-facts-of-housing-crisis,19024 "Permanent Link : 'Insiders' ignores hard facts of housing crisis")
+* [Media inflating false equivalency between Left and Right](https://independentaustralia.net/article-display/media-inflating-false-equivalency-between-left-and-right,19023 "Permanent Link : Media inflating false equivalency between Left and Right")
 * [Implications of student visa boom from Philippines](https://independentaustralia.net/article-display/implications-of-student-visa-boom-from-philippines,19022 "Permanent Link : Implications of student visa boom from Philippines")
 * [Taliban's new laws further degrade women's rights](https://independentaustralia.net/article-display/talibans-new-laws-further-degrade-womens-rights,19013 "Permanent Link : Taliban's new laws further degrade women's rights")
 * [Project disharmony — The Murdoch family in court](https://independentaustralia.net/article-display/project-disharmony-the-murdoch-family-in-court,19020 "Permanent Link : Project disharmony — The Murdoch family in court")
 * [Can I have an extension please? — a compilation](https://independentaustralia.net/article-display/can-i-have-an-extension-please-a-compilation,19019 "Permanent Link : Can I have an extension please? — a compilation")
-* [Mates, mud, mountains and pub meals — a mythical motorcycle tour](https://independentaustralia.net/article-display/mates-mud-mountains-and-pub-meals-a-mythical-motorcycle-tour,19018 "Permanent Link : Mates, mud, mountains and pub meals — a mythical motorcycle tour")
-* [Grieving the loss of a murdered daughter](https://independentaustralia.net/article-display/grieving-the-loss-of-a-murdered-daughter,18891 "Permanent Link : Grieving the loss of a murdered daughter")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
