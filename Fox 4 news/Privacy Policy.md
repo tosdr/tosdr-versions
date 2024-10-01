@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Lake Dallas permanently closes its animal shelter](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/093024-PB-LAKE-DALLAS-ANIMAL-SERVIES-CLOSES-BROLL_00.01.51.22.jpg?ve=1&tl=1)
+ [![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
 
- ![Lake Dallas permanently closes its animal shelter](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/093024-PB-LAKE-DALLAS-ANIMAL-SERVIES-CLOSES-BROLL_00.01.51.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lake-dallas-animal-shelter-closed)
+ ![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
-### [Lake Dallas permanently closes its animal shelter](https://www.fox4news.com/news/lake-dallas-animal-shelter-closed)
+### [Verizon outage update: Service 'fully restored' after network disruptions](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
- [![Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
+ [![Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/glendale-murder.jpg?ve=1&tl=1)
 
- ![Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+ ![Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/glendale-murder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizona-mother-decapitated-her-son-hours-before-her-surprise-birthday-party-police-say)
 
-### [Is Verizon down? Users reports phone, text outage as company confirms 'issue'](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+### [Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://www.fox4news.com/news/arizona-mother-decapitated-her-son-hours-before-her-surprise-birthday-party-police-say)
 
- [![Richland High School placed on lockdown after 'hoax' threat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-30T142510.787.jpg?ve=1&tl=1)
+ [![MLB hit king Pete Rose dies at 83, reports say](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/GettyImages-1007885572.jpg?ve=1&tl=1)
 
- ![Richland High School placed on lockdown after 'hoax' threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-30T142510.787.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richland-high-school-lockdown-threat)
+ ![MLB hit king Pete Rose dies at 83, reports say](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/GettyImages-1007885572.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
 
-### [Richland High School placed on lockdown after 'hoax' threat](https://www.fox4news.com/news/richland-high-school-lockdown-threat)
+### [MLB hit king Pete Rose dies at 83, reports say](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
 
- [![Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/TESLA-HODGES-HOUSE-FIRE.jpg?ve=1&tl=1)
+ [![Home burglaries are most likely to happen at these times, security experts warn](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/house-burglar-getty.jpg?ve=1&tl=1)
 
- ![Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/TESLA-HODGES-HOUSE-FIRE.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/electric-vehicle-catches-fire-garage-destroys-home-during-hurricane-helene)
+ ![Home burglaries are most likely to happen at these times, security experts warn](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/house-burglar-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/home-burglaries-most-common-times-security-experts)
 
-### [Siesta Key family ‘narrowly escapes’ house fire after video shows Tesla battery igniting in garage](https://www.fox4news.com/news/electric-vehicle-catches-fire-garage-destroys-home-during-hurricane-helene)
+### [Home burglaries are most likely to happen at these times, security experts warn](https://www.fox4news.com/news/home-burglaries-most-common-times-security-experts)
 
- [![Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/george-james.jpg?ve=1&tl=1)
+ [![Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2157236846.jpg?ve=1&tl=1)
 
- ![Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/george-james.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/east-oak-cliff-shooting-george-james-jr)
+ ![Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2157236846.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/viral-zoo-animals-moo-deng-pesto-fiona)
 
-### [Man charged with murdering nephew in East Oak Cliff, affidavit shows](https://www.fox4news.com/news/east-oak-cliff-shooting-george-james-jr)
+### [Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://www.fox4news.com/news/viral-zoo-animals-moo-deng-pesto-fiona)
 
 ###### [News](https://www.fox4news.com/news)
 
