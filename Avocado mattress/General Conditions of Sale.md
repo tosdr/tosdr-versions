@@ -26,7 +26,7 @@ Avocado's product trial and return policy varies by product.
 
 Written by Mark Abrials
 
-Updated over a week ago
+Updated in the last 15 minutes
 
 Return Policy
 =============
@@ -50,7 +50,7 @@ Mattresses, Foundations, Metal Bed Frames & Bunkie Boards
 | **Product** | **Trial** |
 | Green Mattress, Vegan Mattress,  <br>Organic Luxury Mattress, Latex Mattress | 1 Year; 30-Day Minimum;<br><br>$99 Return Fee |
 | Eco Organic Mattress,  <br>Eco Organic Kids Mattress | 100 Days; 30-Day Minimum;<br><br>$99 Return Fee |
-| Organic Crib Mattress | 30 Days |
+| Organic Crib Mattress,  <br>Eco Organic Crib Mattress | 30 Days |
 | Luxury Crib Mattress | 100 Days |
 | Green Mattress Foundation | 1 Year |
 | Luxury Plush Foundation | 1 Year |
