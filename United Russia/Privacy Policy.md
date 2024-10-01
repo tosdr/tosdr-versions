@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Андрей Исаев: Все обязательства, которые государство взяло на себя, обеспечены в бюджете в полном объёме](https://cdn.er.ru/media/news/September2024/ZlPvrGgaBySW7jXAPuc6-small.jfif)](https://er.ru/activity/news/andrej-isaev-vse-obyazatelstva-kotorye-gosudarstvo-vzyalo-na-sebya-obespecheny-v-byudzhete-v-polnom-obyome)
+[![Фотоконкурсы, фестивали, турниры: «Единая Россия» по всей стране проводит праздничные мероприятия для людей старшего возраста](https://cdn.er.ru/media/news/October2024/zUJZK1v5jKsnlRrqyGsb-small.jpeg)](https://er.ru/activity/news/fotokonkursy-festivali-turniry-edinaya-rossiya-po-vsej-strane-provodit-prazdnichnye-meropriyatiya-dlya-lyudej-starshego-vozrasta)
 
-[Андрей Исаев: Все обязательства, которые государство взяло на себя, обеспечены в бюджете в полном объёме](https://er.ru/activity/news/andrej-isaev-vse-obyazatelstva-kotorye-gosudarstvo-vzyalo-na-sebya-obespecheny-v-byudzhete-v-polnom-obyome)
+[Фотоконкурсы, фестивали, турниры: «Единая Россия» по всей стране проводит праздничные мероприятия для людей старшего возраста](https://er.ru/activity/news/fotokonkursy-festivali-turniry-edinaya-rossiya-po-vsej-strane-provodit-prazdnichnye-meropriyatiya-dlya-lyudej-starshego-vozrasta)
 
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
+[#Карелова](https://er.ru/activity/news?tags%5B0%5D=682) [#празднование](https://er.ru/activity/news?tags%5B0%5D=121788) [#Деньпожилогочеловека](https://er.ru/activity/news?tags%5B0%5D=110483) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#СтаршееПоколение](https://er.ru/activity/news?tags%5B0%5D=1090329)
 
-30.09.24
+Сегодня 12:49
 
-[![Евгений Ревенко: Проект федерального бюджета в полной мере соответствует приоритетам «Единой России»](https://cdn.er.ru/media/news/September2024/POUDsbLSZ6rcgGKbcY2c-small.jpg)](https://er.ru/activity/news/evgenij-revenko-proekt-federalnogo-byudzheta-v-polnoj-mere-sootvetstvuet-prioritetam-edinoj-rossii)
+[![Александр Жуков: «Единая Россия» будет работать над поправками ко второму чтению бюджета](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/aleksandr-zhukov-edinaya-rossiya-budet-rabotat-nad-popravkami-ko-vtoromu-chteniyu-byudzheta)
 
-[Евгений Ревенко: Проект федерального бюджета в полной мере соответствует приоритетам «Единой России»](https://er.ru/activity/news/evgenij-revenko-proekt-federalnogo-byudzheta-v-polnoj-mere-sootvetstvuet-prioritetam-edinoj-rossii)
+[Александр Жуков: «Единая Россия» будет работать над поправками ко второму чтению бюджета](https://er.ru/activity/news/aleksandr-zhukov-edinaya-rossiya-budet-rabotat-nad-popravkami-ko-vtoromu-chteniyu-byudzheta)
 
-[#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331)
 
-30.09.24
+Сегодня 12:40
 
-[![Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://cdn.er.ru/media/news/September2024/o0Pb9uMMVfW0uCCHqt7F-small.jpg)](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
+[![Алёна Аршинова: Развитие летнего детского отдыха – приоритет для «Единой России»](https://cdn.er.ru/media/news/October2024/lKfF7xi4DqBSlLaWtq1L-small.jpg)](https://er.ru/activity/news/alyona-arshinova-razvitie-letnego-detskogo-otdyha-prioritet-dlya-edinoj-rossii)
 
-[Андрей Макаров: Обсуждение проекта федерального бюджета будет идти открыто с трансляцией в интернете](https://er.ru/activity/news/andrej-makarov-obsuzhdenie-proekta-federalnogo-byudzheta-budet-idti-otkryto-s-translyaciej-v-internete)
+[Алёна Аршинова: Развитие летнего детского отдыха – приоритет для «Единой России»](https://er.ru/activity/news/alyona-arshinova-razvitie-letnego-detskogo-otdyha-prioritet-dlya-edinoj-rossii)
 
-[#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+[#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581)
 
-30.09.24
+Сегодня 11:50
 
-[![Владимир Якушев: В Курскую область от реготделений «Единой России» поступило почти 1,5 тысячи тонн гуманитарной помощи](https://cdn.er.ru/media/news/September2024/vFJvIA0ZuCJUcbrAbNU4-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-kurskuyu-oblast-ot-regotdelenij-edinoj-rossii-postupilo-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi)
+[![Ирина Яровая: В Госдуму 1 октября внесут пакет законопроектов о противодействии нелегальной миграции](https://cdn.er.ru/media/news/October2024/8Dg9Xpb1krSqQD9LSkdc-small.jpg)](https://er.ru/activity/news/irina-yarovaya-v-gosdumu-1-oktyabrya-vnesut-paket-zakonoproektov-o-protivodejstvii-nelegalnoj-migracii)
 
-[Владимир Якушев: В Курскую область от реготделений «Единой России» поступило почти 1,5 тысячи тонн гуманитарной помощи](https://er.ru/activity/news/vladimir-yakushev-v-kurskuyu-oblast-ot-regotdelenij-edinoj-rossii-postupilo-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi)
+[Ирина Яровая: В Госдуму 1 октября внесут пакет законопроектов о противодействии нелегальной миграции](https://er.ru/activity/news/irina-yarovaya-v-gosdumu-1-oktyabrya-vnesut-paket-zakonoproektov-o-protivodejstvii-nelegalnoj-migracii)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#миграция](https://er.ru/activity/news?tags%5B0%5D=203) [#незаконная миграция](https://er.ru/activity/news?tags%5B0%5D=18947) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-30.09.24
+Сегодня 11:41
 
-[![«Единая Россия» передала более 11 тысяч писем в поддержку бойцов СВО, написанных участниками «Диктанта Победы»](https://cdn.er.ru/media/news/September2024/SxsIOpMoWsBIvuMEoXQT-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-11-tysyach-pisem-v-podderzhku-bojcov-svo-napisannyh-uchastnikami-diktanta-pobedy)
+[![«Единая Россия» поздравила победителей акции «Русский Крым и Севастополь»](https://cdn.er.ru/media/news/October2024/xUizejgYYmay65VKF2oP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-pozdravila-pobeditelej-akcii-russkij-krym-i-sevastopol)
 
-[«Единая Россия» передала более 11 тысяч писем в поддержку бойцов СВО, написанных участниками «Диктанта Победы»](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-11-tysyach-pisem-v-podderzhku-bojcov-svo-napisannyh-uchastnikami-diktanta-pobedy)
+[«Единая Россия» поздравила победителей акции «Русский Крым и Севастополь»](https://er.ru/activity/news/edinaya-rossiya-pozdravila-pobeditelej-akcii-russkij-krym-i-sevastopol)
 
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Волков](https://er.ru/activity/news?tags%5B0%5D=1201) [#Головин](https://er.ru/activity/news?tags%5B0%5D=11899) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#ПочтаРоссии](https://er.ru/activity/news?tags%5B0%5D=1092932) [#Минобороны](https://er.ru/activity/news?tags%5B0%5D=1918) [#Росгвардия](https://er.ru/activity/news?tags%5B0%5D=91543) [#ПисьмоГерою](https://er.ru/activity/news?tags%5B0%5D=1095439) [#ДиктантПобеды](https://er.ru/activity/news?tags%5B0%5D=128811) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
+[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#Михеев](https://er.ru/activity/news?tags%5B0%5D=2700) [#Севастополь](https://er.ru/activity/news?tags%5B0%5D=5870) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#русскийкрымисевастополь](https://er.ru/activity/news?tags%5B0%5D=1095762) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
 
-30.09.24
+Сегодня 10:45
 
-[![«Единая Россия» внесла законопроект о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/September2024/61FFZoh7b7AyJsWU7YFV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
+[![«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах акции ко Дню учителя](https://cdn.er.ru/media/news/October2024/zBq7xRvc4ABOYYQoNcMg-small.png)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-akcii-ko-dnyu-uchitelya)
 
-[«Единая Россия» внесла законопроект о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
+[«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах акции ко Дню учителя](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-akcii-ko-dnyu-uchitelya)
 
-[#доверенности](https://er.ru/activity/news?tags%5B0%5D=31212) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#воинскаячасть](https://er.ru/activity/news?tags%5B0%5D=132156) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#деньучителя](https://er.ru/activity/news?tags%5B0%5D=1090321)
 
-30.09.24
+Сегодня 10:29
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
