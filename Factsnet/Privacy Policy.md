@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Three Christs ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-three-christs/)
+[![45 Facts About Patrik Laine ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/45-facts-about-patrik-laine/)
 
-Psychology
+Sports
 
-30 Sep 2024
+01 Oct 2024
 
-[35 Facts About Three Christs](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-three-christs/)
+[45 Facts About Patrik Laine](https://facts.net/lifestyle/sports/45-facts-about-patrik-laine/)
 
-[![45 Facts About Alice Evans ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/45-facts-about-alice-evans/)
+[![50 Facts About Haptoglobin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-haptoglobin/)
 
-Celebrity
+Health Science
 
-30 Sep 2024
+01 Oct 2024
 
-[45 Facts About Alice Evans](https://facts.net/celebrity/45-facts-about-alice-evans/)
+[50 Facts About Haptoglobin](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-haptoglobin/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
