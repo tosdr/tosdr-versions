@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What triggers you about the AN? (8,510)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,510 posts)")
-* [How do I trade cards? (1)](https://forum.nationstates.net/viewtopic.php?t=556321&f=42&view=unread#unread ""How do I trade cards?" (1 post)")
-* [Tank VS Anarchist (6)](https://forum.nationstates.net/viewtopic.php?t=556320&f=20&view=unread#unread ""Tank VS Anarchist" (6 posts)")
-* [Commend or Condemn AN II (894)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (894 posts)")
-* [Would you chill with AU¿ (1,268)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,268 posts)")
+* [Out of the 2 AN’s: Which one has the… (2,992)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (2,992 posts)")
+* [2023 Israel–Hamas War Thread mk3 (8,214)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (8,214 posts)")
+* [The Connection (OOC/Sign up) (24)](https://forum.nationstates.net/viewtopic.php?t=555917&f=5&view=unread#unread ""The Connection (OOC/Sign up)" (24 posts)")
+* [Parliament maker! \[Open\] (120)](https://forum.nationstates.net/viewtopic.php?t=556036&f=25&view=unread#unread ""Parliament maker! [Open]" (120 posts)")
+* [Geography Game II (10,354)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,354 posts)")
 
 Advertisement
 
