@@ -4,6 +4,8 @@ FEEL THE POWER OF YOUR VOICE!
 
 [DOWNLOAD VOICEMOD FOR FREE](https://www.voicemod.net/downloadVoicemodAccount.php)
 
+Connecting issues? Please download the latest Voicemod version [Download Now!](https://flagship-versions.voicemod.net/1.2.1/VoicemodInstaller_1.2.1.exe)
+
 [![Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/v6/wp-content/themes/voicemod/inc/assets/img/logo-header.svg)](https://www.voicemod.net/)
 
 * [Voice Changer for PC](https://www.voicemod.net/free-voice-changer-software/ "Voice Changer for PC")
