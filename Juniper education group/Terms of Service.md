@@ -42,7 +42,7 @@
         
     * [Internal scrutiny and risk](https://junipereducation.org/internal-scrutiny?hsLang=en)
         
-    * [Juniper MIS](https://junipereducation.org/school-office/juniper-mis/?hsLang=en)
+    * [Juniper MIS](https://junipereducation.org/school-office/juniper-mis/-0?hsLang=en)
         
 *  [![menu03](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu03.svg)Staff solutions HR Consultancy, Payroll, Pensions, Professional Development and more.](https://junipereducation.org/staff-solutions/?hsLang=en)
     * [People management software](https://junipereducation.org/staff-solutions/people-management-software/?hsLang=en)
@@ -69,7 +69,7 @@
 * [Finance services](https://junipereducation.org/school-management-finance-services/?hsLang=en)
 * [Governance and clerking](https://junipereducation.org/governance-and-clerking/?hsLang=en)
 * [Internal scrutiny and risk](https://junipereducation.org/internal-scrutiny?hsLang=en)
-* [Juniper MIS](https://junipereducation.org/school-office/juniper-mis/?hsLang=en)
+* [Juniper MIS](https://junipereducation.org/school-office/juniper-mis/-0?hsLang=en)
 
 * [People management software](https://junipereducation.org/staff-solutions/people-management-software/?hsLang=en)
 * [Payroll and pensions](https://junipereducation.org/payroll-and-pensions/?hsLang=en)
