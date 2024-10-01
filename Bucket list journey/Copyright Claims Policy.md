@@ -204,6 +204,16 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[I made a list of my FAVORITE 100 travel experience ![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
+👉 Want the full list of 100? 
+Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
+#bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
+👉 Want the full list of 100? 
+Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
+#bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAlc-pdPKM9/) 
+
 [🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
 (💫 SAVE for planning your trip to Northern #California💫)
 1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
@@ -257,16 +267,6 @@ Drop your number in the comments! 👇 I’m sitting at 17, and there’s still 
 
 ![Penguins don’t just hang out in Antarctica—you can find them in the Falkland Islands too-LOTS of them!!! 🐧 @ilovethefalklands 
 #falklandislands #falklands  #KingPenguin  #penguin #penguins #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #birdsofinstagram](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGhOnMvuUB/) 
-
-[Just checked making a free throw basket off my buc ![Just checked making a free throw basket off my bucket list 😁
-Here’s your reminder that no goal is too small to go after. EVERY checkmark counts, whether it’s shooting hoops or conquering the world!
-👉 Have you tried something new today? 
-#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #freethrow #basketball](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Just checked making a free throw basket off my bucket list 😁
-Here’s your reminder that no goal is too small to go after. EVERY checkmark counts, whether it’s shooting hoops or conquering the world!
-👉 Have you tried something new today? 
-#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #freethrow #basketball](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_5pfenPHao/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
