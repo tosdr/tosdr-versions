@@ -402,17 +402,7 @@ act on the copyright or intellectual property owner's behalf.
 
 9.2 Diffen's Agent for Notice of claims of copyright or other intellectual property
 
-infringement can be reached as follows:
-
-Nikhilesh Jasuja, Diffen LLC, 2620 Bellevue Way NE, Unit #234, Bellevue, WA 98004
-
-
-
-By phone: 206-395-9346
-
-
-
-By email: feedback@diffen.com
+infringement can be reached by email at feedback@diffen.com
 
 10.0 Indemnity
 
@@ -486,6 +476,8 @@ RESULTING FROM DOWNLOADING OR OBTAINING SUCH MATERIAL.
 
 11.2 Validity of information
 
+
+
 Diffen.com is an online collaborative resource, that is, a voluntary association of individuals and
 
 groups working to develop a common resource of human knowledge. The structure of
@@ -495,8 +487,6 @@ Diffen.com allows anyone with an Internet connection to alter its content. Pleas
 nothing found here has necessarily been reviewed by people with the expertise required to
 
 provide you with complete, accurate or reliable information.
-
-
 
 That is not to say that you will not find valuable and accurate information on Diffen.com; much
 
@@ -578,13 +568,13 @@ If you need specific advice (for example, medical, legal, financial, or risk man
 
 seek a professional who is licensed or knowledgeable in that area.
 
+
+
 a. Medical Disclaimer
 
 
 
 DIFFEN DOES NOT GIVE MEDICAL ADVICE
-
-
 
 Diffen.com contains articles on many medical topics. Diffen makes no warranty whatsoever
 
@@ -666,6 +656,8 @@ connected to Diffen takes or assumes any responsibility for the results or conse
 
 attempt to use or adopt any of the information or disinformation presented on this website.
 
+
+
 Nothing on Diffen.com should be construed as an attempt to offer or render a legal opinion
 
 or otherwise engage in the practice of law.
@@ -673,8 +665,6 @@ or otherwise engage in the practice of law.
 
 
 11.6 Content Disclaimer
-
-
 
 DIFFEN CONTAINS SPOILERS AND CONTENT YOU MAY FIND OBJECTIONABLE
 
@@ -754,13 +744,13 @@ importance of topics based on their coverage in Diffen.com, nor assume that a to
 
 merely because it is the subject of a Diffen article.
 
+
+
 11.7 Risk Disclaimer
 
 
 
 USE DIFFEN AT YOUR OWN RISK
-
-
 
 PLEASE BE AWARE THAT ANY INFORMATION YOU MAY FIND ON DIFFEN.COM
 
@@ -834,6 +824,8 @@ DIFFEN.COM.
 
 13.0 Miscellaneous
 
+
+
 13.1 No third party beneficiaries. Except as otherwise expressly provided in this Terms of
 
 Use Agreement, this Terms of Use Agreement is intended solely for the benefit of you and
@@ -841,8 +833,6 @@ Use Agreement, this Terms of Use Agreement is intended solely for the benefit of
 Diffen, and no third party is intended to be able to enforce or otherwise be considered a
 
 beneficiary to this Terms of Use Agreement.
-
-
 
 13.2 Entire Agreement. This Terms of Use Agreement and the documents incorporated by
 
@@ -914,6 +904,8 @@ incorporated by reference, constitutes the entire agreement between Diffen and y
 
 14.0 Prohibition of Scraping
 
+
+
 14.1 Unauthorized Scraping: Users are prohibited from using any automated system, tool, bot,
 
 scraper, or crawler to access, acquire, copy or monitor any part of the website, or any content
@@ -921,8 +913,6 @@ scraper, or crawler to access, acquire, copy or monitor any part of the website,
 therein, without the express written permission of Diffen. This includes the use of any such tool
 
 to collect or harvest data about other users or the content on the website.
-
-
 
 14.2 Anti-Circumvention Measures: Users must not bypass any measures we may use to
 
