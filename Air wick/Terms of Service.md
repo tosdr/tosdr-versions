@@ -6,7 +6,6 @@
 * [Ideas & Tips](https://www.airwick.us/ideas-tips/ "Ideas & Tips")
 * [About us](https://www.airwick.us/about-us/ "About us")
 * [Help & Support](https://www.airwick.us/help-support/ "Help & Support")
-* [Official Giveaway](https://www.airwick.us/officialgiveaway/ "Official Giveaway")
 
 [Newsletter](https://www.airwick.us/subscribe1/)
 
