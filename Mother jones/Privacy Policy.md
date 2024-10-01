@@ -54,19 +54,6 @@ Smart, Fearless Journalism
 *  
     
 
-Membership Ticker
------------------
-
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPR59|PAHPR59/)
-
-Hurry! It's deadline day.
-
-We’ve been offered a $50,000 digital matching gift by a generous board member, and **we need your help** to make sure we get every dollar of it. Any donation you make online before midnight TONIGHT will be matched dollar-for-dollar. You know the stakes in this all-important election season. And the fearless, kickass, truth-telling reporting Americans need doesn’t pay for itself. Please chip in right now with any amount if you can.
-
-We’ve been offered a $50,000 digital matching gift by a generous board member, and **we need your help** to make sure we get every dollar of it. Any donation you make online before midnight TONIGHT will be matched dollar-for-dollar. You know the stakes in this all-important election season. And the fearless, kickass, truth-telling reporting Americans need doesn’t pay for itself. Please chip in right now with any amount if you can.
-
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPMRU|PAHPMRU/)
-
 Privacy Policy
 ==============
 
