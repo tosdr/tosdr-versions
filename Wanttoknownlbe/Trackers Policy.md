@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/opnieuw-blijkt-ook-hcq-zeer-effectief-tegen-covid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/marieke-de-vrij-en-2017-dieper-inzicht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -88,9 +88,9 @@ Inschrijven
 
 #### Quote van de week
 
-> De analfabeten van de 21e eeuw zullen niet degenen zijn die niet kunnen lezen en schrijven, maar degenen die niet kunnen leren, afleren en opnieuw leren.
+> Politiek taalgebruik is ontworpen, om leugens geloofwaardig te doen klinken en moord respectabel. En om de schijn hoog te houden dat wind vaste materie is.
 > 
-> Alvin Toffler (1928-2016), publicist/futoroloog
+> George Orwell (1903-1950), journalist-auteur
 
 #### WantToKnow Aanbieding
 
