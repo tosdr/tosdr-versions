@@ -414,13 +414,13 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![Travel Essentials: Before You Travel to India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/2.-Male-Book-on-the-table-with-travel-objects-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+* [![How to Buy Gold in Dubai & Check It's REAL!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/Dubai-Gold-Souk-Entrance.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
     
-    [Travel Essentials: Before You Travel to India](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+    [How to Buy Gold in Dubai & Check It's REAL!](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
     
-* [![The Best Cheap Eats in Kathmandu](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/11/3610AE1A-1FEE-4F71-86A0-E54EE2BC0D7B.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [The Best Cheap Eats in Kathmandu](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
