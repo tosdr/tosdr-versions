@@ -131,7 +131,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
     * [#### Leadership
         
-        Meet the team that’s building technology for a better internet.](https://www.mozilla.org/en-US/about/leadership/)
+        Meet the team that’s building technology for a better internet.](https://www.mozilla.org/about/leadership/)
         
     * [#### Get involved
         
@@ -298,6 +298,7 @@ Resources
 ---------
 
 * [Privacy Hub](https://www.mozilla.org/en-US/privacy/)
+* [Advertise with Mozilla](https://www.mozilla.org/en-US/advertising/)
 * [Brand Standards](https://mozilla.design/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=resources)
 
 Support
