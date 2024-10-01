@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f3a4dbddfd83f82e858e67df3a3073d6
+a5756339421b4f0e8cc09c9f328665aa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Ancient carnelian necklace](https://sojourner.biz/images/cache/jewelry/N0084.200.jpg)](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
+[![10 mm to 12 mm rose quartz irregular rectangles](https://sojourner.biz/images/cache/rose_quartz/RQ0012.200.jpg)](https://sojourner.biz/beads/stone-m-z/rose-quartz/10-mm-to-12-mm-rose-quartz-irregular-rectangles.html "10 mm to 12 mm rose quartz irregular rectangles")
 
-#### [Ancient carnelian necklace](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
+#### [10 mm to 12 mm rose quartz irregular rectangles](https://sojourner.biz/beads/stone-m-z/rose-quartz/10-mm-to-12-mm-rose-quartz-irregular-rectangles.html "10 mm to 12 mm rose quartz irregular rectangles")
 
-$120.00
+$11.00
 
 ### Best Sellers
 
