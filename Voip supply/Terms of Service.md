@@ -424,12 +424,6 @@ Joseph Shanahan
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-Matt Dansa
-
-[\--](tel:)
-
-[\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
-
 [![](https://www.voipsupply.com/media/version1727268600/Voipsupply/User/resized/300/300/Tom_Uhteg_NEW.png)](https://www.voipsupply.com/meettomuhteg)
 
 Tom Uhteg
@@ -446,13 +440,19 @@ Glenn Buchheit
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1727268600/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
+Matt Dansa
+
+[\--](tel:)
+
+[\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
 [![Let us program your phone!](https://www.voipsupply.com/media/version1727268600/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
 
 [![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1727268600/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
 
 [![Plus 1 Refresh Warranty](https://www.voipsupply.com/media/version1727268600/wysiwyg/Plus1SIDE.png)](https://www.voipsupply.com/plus-six-warranty)
+
+[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1727268600/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
 
 **VoIP Supply Programs and Tools**
 
