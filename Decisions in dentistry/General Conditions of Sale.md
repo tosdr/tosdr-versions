@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The Dentist and Dental Hygienist Compact Commissio ![The Dentist and Dental Hygienist Compact Commission held its inaugural meeting on August 28, setting the stage for interstate license portability. While no final decisions were made, the groundwork was laid for future rulemaking, officer elections, and the implementation of a shared data system expected to streamline multi-state practice by fall 2025. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAi6hvyPsvY/) 
+
 [EARN 2 CEUS: Harness the Benefits of Fluoride⁠ E ![EARN 2 CEUS: Harness the Benefits of Fluoride⁠
 Extensive research underscores fluoride’s vital role in preventing dental caries and promoting oral health across diverse populations.⁠
 By Vilma Cordero, MHSc, BAS, RDH⁠
@@ -176,13 +183,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAV7q5NtwML/) 
-
-[The California Dental Association Foundation’s n ![The California Dental Association Foundation’s new model of patient care at the Long Beach clinic successfully placed more than 100 patients into dental homes, ensuring comprehensive oral health. With 46 dedicated volunteers, the clinic delivered nearly $37,000 in essential dental services. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DATdvuZPUA8/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
