@@ -2,14 +2,14 @@ Tuesday, October 1 2024
 
 Breaking News
 
-* [Kamala’s New Plan For The Economy Is Basically A Bidenomics Redux](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
-* [Medal of Honor Monday: Army 1st Lt. George S. Robb](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
-* [President Joe Biden’s Schedule for Monday, September 30, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 9/30/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
-* [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
-* [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
-* [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
-* [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
+* [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
+* [Rural South Decimated By Hurricane Helene As Death Toll Rises Above 130](https://www.conservativedailynews.com/2024/10/rural-south-decimated-by-hurricane-helene-as-death-toll-rises-above-130/)
+* [We Can Take Our Country Back From The Deep State](https://www.conservativedailynews.com/2024/10/we-can-take-our-country-back-from-the-deep-state/)
+* [Lloyd Austin Orders Military To Stay On Alert As Israel-Hezbollah Conflict Heats Up](https://www.conservativedailynews.com/2024/10/lloyd-austin-orders-military-to-stay-on-alert-as-israel-hezbollah-conflict-heats-up/)
+* [Steve Kornacki Drops Bombshell As Dems’ Hold On Key Voting Bloc Crumbles](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
+* [Americans More Reliant On Government Spending Than Ever As Debt Deluge Continues With No End In Sight](https://www.conservativedailynews.com/2024/10/americans-more-reliant-on-government-spending-than-ever-as-debt-deluge-continues-with-no-end-in-sight/)
+* [Biden Admin Relies On Elon Musk’s Starlink To Restore Internet After Previously Rejecting Its Bid For Award](https://www.conservativedailynews.com/2024/10/biden-admin-relies-on-elon-musks-starlink-to-restore-internet-after-previously-rejecting-its-bid-for-award/)
+* [Joe And Kamala, You’re Fired](https://www.conservativedailynews.com/2024/10/joe-and-kamala-youre-fired/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,72 +111,71 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
-* [![Kamala Harris Tim Walz 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/mrz082324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
-    [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
+    [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
+    
+    October 1, 2024
+    
+* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
+    
+    [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
     
     September 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Israeli-airstrike-in-Gaza-220x150.jpg)](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
-    
-    [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
-    
-    September 28, 2024
     
 
 Recent Posts
 
-* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
-    [Kamala’s New Plan For The Economy Is Basically A Bidenomics Redux](https://www.conservativedailynews.com/2024/09/kamalas-new-plan-for-the-economy-is-basically-a-bidenomics-redux/)
+    [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
-    September 30, 2024
+    October 1, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/240916-O-D0439-0072A-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
+* [Israel Begins Ground Operation In Lebanon As Conflict With Hezbollah Heats Up](https://www.conservativedailynews.com/2024/10/israel-begins-ground-operation-in-lebanon-as-conflict-with-hezbollah-heats-up/)
     
-    [Medal of Honor Monday: Army 1st Lt. George S. Robb](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-army-1st-lt-george-s-robb/)
+    October 1, 2024
     
-    September 30, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Helene-aftermath-North-Carolina-220x150.jpg)](https://www.conservativedailynews.com/2024/10/rural-south-decimated-by-hurricane-helene-as-death-toll-rises-above-130/)
     
-* [![Kamala Harris criminal illegal aliens border crisis](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
+    [Rural South Decimated By Hurricane Helene As Death Toll Rises Above 130](https://www.conservativedailynews.com/2024/10/rural-south-decimated-by-hurricane-helene-as-death-toll-rises-above-130/)
     
-    [Kamala’s Creation](https://www.conservativedailynews.com/2024/09/kamalas-creation/)
+    October 1, 2024
     
-    September 30, 2024
+* [![Department of Justice the FBI](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg051623dAPR.jpg)](https://www.conservativedailynews.com/2024/10/we-can-take-our-country-back-from-the-deep-state/)
     
-* [![Iran Hezbollah Nasrallah](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/wicked/)
+    [We Can Take Our Country Back From The Deep State](https://www.conservativedailynews.com/2024/10/we-can-take-our-country-back-from-the-deep-state/)
     
-    [Wicked](https://www.conservativedailynews.com/2024/09/wicked/)
+    October 1, 2024
     
-    September 30, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/01-save-you-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/hosed/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-6-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
+    [Hosed](https://www.conservativedailynews.com/2024/10/hosed/)
     
-    [President Joe Biden’s Schedule for Monday, September 30, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-30-2024/)
+    October 1, 2024
     
-    September 30, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/10/judge-strikes-down-georgias-six-week-abortion-ban-as-unconstitutional/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
+    [Judge Strikes Down Georgia’s Six-Week Abortion Ban As Unconstitutional](https://www.conservativedailynews.com/2024/10/judge-strikes-down-georgias-six-week-abortion-ban-as-unconstitutional/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 9/30/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-30-24/)
+    October 1, 2024
     
-    September 30, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/Lloyd-Austin-220x150.jpg)](https://www.conservativedailynews.com/2024/10/lloyd-austin-orders-military-to-stay-on-alert-as-israel-hezbollah-conflict-heats-up/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
+    [Lloyd Austin Orders Military To Stay On Alert As Israel-Hezbollah Conflict Heats Up](https://www.conservativedailynews.com/2024/10/lloyd-austin-orders-military-to-stay-on-alert-as-israel-hezbollah-conflict-heats-up/)
     
-    [A Fitting End](https://www.conservativedailynews.com/2024/09/a-fitting-end/)
+    October 1, 2024
     
-    September 30, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Kamala-losing-share-of-hispanic-voters-220x150.jpg)](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Stars-night-sky-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-free-fun-family-outing-of-stargazing/)
+    [Steve Kornacki Drops Bombshell As Dems’ Hold On Key Voting Bloc Crumbles](https://www.conservativedailynews.com/2024/10/steve-kornacki-drops-bombshell-as-dems-hold-on-key-voting-bloc-crumbles/)
     
-    [A Free Fun Family Outing of Stargazing](https://www.conservativedailynews.com/2024/09/a-free-fun-family-outing-of-stargazing/)
-    
-    September 30, 2024
+    October 1, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New: XS Sights Pre-Drilled Sights For Smith & Wesson, Ruger Revolvers](https://www.thegunpage.com/new-xs-sights-pre-drilled-sights-for-smith-wesson-ruger-revolvers/10610912)
 * [TFB Review: FN 545 vs FNX-45 Tactical](https://www.thegunpage.com/tfb-review-fn-545-vs-fnx-45-tactical/10610911)
 * [7 Longest Confirmed Sniper Kills: When Man And Rifle Become One](https://www.thegunpage.com/7-longest-confirmed-sniper-kills-when-man-and-rifle-become-one/10610908)
 * [POTD: The Moose Hunt – Savage 110 Ultralite](https://www.thegunpage.com/potd-the-moose-hunt-savage-110-ultralite/10610909)
@@ -186,7 +185,6 @@ Recent Posts
 * [Buying Your First Suppressor: What You Need to Know](https://www.thegunpage.com/buying-your-first-suppressor-what-you-need-to-know/10610900)
 * [TFB Review: FN 502 MRD And 502T](https://www.thegunpage.com/tfb-review-fn-502-mrd-and-502t/10610904)
 * [Finally! A Reporter Actually Presses Harris on Her Stance on Guns](https://www.thegunpage.com/finally-a-reporter-actually-presses-harris-on-her-stance-on-guns/10610897)
-* [TFB Review: Marlin 1895 Dark 45-70: A Modern Take on a Classic](https://www.thegunpage.com/tfb-review-marlin-1895-dark-45-70-a-modern-take-on-a-classic/10610899)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
