@@ -15,7 +15,7 @@
     *   ![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg)![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Handytarife](https://www.telekom.de/shop/tarife/smartphone-tarife "Handytarife")
         * [Prepaid-Tarife](https://www.telekom.de/unterwegs/prepaid-tarife "Prepaid-Tarife")
-        * [Young-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young "Young-Tarife")
+        * [Young-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young "Young-Tarife")
         * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife "Daten-Tarife")
         * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet "Watch- & Tracker-Tarife")
         * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten "Zusatzkarten")
@@ -142,8 +142,8 @@
     
 * [Junge Leute](https://www.telekom.de/start/magenta-tarife-young "Junge Leute")
     
-    *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Junge Leute ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [Young Mobilfunk-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young "Young Mobilfunk-Tarife")
+    *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Junge Leute unter 28 ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
+        * [Young Mobilfunk-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young "Young Mobilfunk-Tarife")
         * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife "Young Internet-Tarife")
         * [Young Internet-Tarife mit TV](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=mtv-tarife "Young Internet-Tarife mit TV")
     
@@ -272,7 +272,7 @@
                 
             * [Prepaid-Tarife](https://www.telekom.de/unterwegs/prepaid-tarife)
                 
-            * [Young-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young)
+            * [Young-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young)
                 
             * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife)
                 
@@ -586,13 +586,13 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Junge Leute ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Junge Leute unter 28 ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * Junge Leute
+            * Junge Leute unter 28
                 
-            * [Young Mobilfunk-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young)
+            * [Young Mobilfunk-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young)
                 
             * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife)
                 
