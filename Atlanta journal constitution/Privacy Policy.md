@@ -1,5 +1,3 @@
-[Breaking: Baseball legend Pete Rose, whose hitting streak stopped in Atlanta, dies at age 83](https://www.ajc.com/sports/atlanta-braves/baseball-legend-pete-rose-whose-hitting-streak-stopped-in-atlanta-dies-at-age-83/VRXSIE3IM5BUJJJLMO5RNY2JB4/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
