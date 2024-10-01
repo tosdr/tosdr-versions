@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Legal Terms & Conditions – 100% PURE                                                                                               
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Legal Terms & Conditions – 100% PURE                                                                                                  
 
 My Tote
 -------
@@ -433,6 +433,20 @@ ADD TO TOTE
 $58.00
 
 Default Title - $58
+
+ADD TO TOTE
+
+[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_239x254.png?v=1718901030)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
+
+![ FG1FSBBM_Primary](//www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_220x.png?v=1718901030)
+
+### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
+
+186 reviews (187)
+
+$25.00
+
+Default Title - $25
 
 ADD TO TOTE
 
