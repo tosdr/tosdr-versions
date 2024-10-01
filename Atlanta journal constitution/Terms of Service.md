@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Thousands of people purged from Georgia’s voter rolls reregistered after Harris’ rally in Atlanta](https://www.ajc.com/politics/thousands-of-people-purged-from-georgias-voter-rolls-reregistered-after-harris-rally-in-atlanta/WR4MXBW3LZBIJKLVUNZZE3MXAU/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-another-day-another-calamity/GR6GT4SWZZDO5JVTJSXCFNQDXQ/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
