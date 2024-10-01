@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Thousands of people purged from Georgia’s voter rolls reregistered after Harris’ rally in Atlanta](https://www.ajc.com/politics/thousands-of-people-purged-from-georgias-voter-rolls-reregistered-after-harris-rally-in-atlanta/WR4MXBW3LZBIJKLVUNZZE3MXAU/)
+[Breaking: Kamala Harris is traveling to Georgia on Wednesday to survey Helene’s damage](https://www.ajc.com/politics/kamala-harris-is-traveling-to-georgia-on-wednesday-to-survey-helenes-damage/LNH4XHENQ5AJRO3AD3262NSNIE/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
