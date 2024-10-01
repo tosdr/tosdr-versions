@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/02/230223-Willy-Wimmer-Gespraech-NDS-Cover-YTButton-e1677154751138.jpg "Gespräch zwischen Willy Wimmer und Albrecht Müller")](https://www.nachdenkseiten.de/?p=94202)
+[![Gabriele Krone-Schmalz und Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/wp-content/uploads/2023/11/231106-3bMont-Krone-Schmalz-Mueller-Bildschirmfoto-1.jpg "Gabriele Krone-Schmalz und Albrecht Müller im Gespräch")](https://www.nachdenkseiten.de/?p=106258)
 
-* [Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/?p=94202)
+* [Gabriele Krone-Schmalz und Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/?p=106258)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
