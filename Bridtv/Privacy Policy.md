@@ -1,3 +1,5 @@
+Dear Publishers, Please keep in mind that todays numbers for our Marketplace dashboard analytics will be delayed until tomorrow. Please expect to see Today's numbers tomorrow followed by official release notes of our new and improved revenue dashboard for publishers.
+
 BridTV Corporate Website and BridTV Technology Privacy Policy
 -------------------------------------------------------------
 
