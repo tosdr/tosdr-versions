@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
+
+[Podcast #1,026: 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [Podcast #1,021: You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A shirtless man with a muscular build, reminiscent of Bruce Lee, strikes a pose with his right arm extended in a punching motion and his left arm bent. He has short, dark hair and a serious expression, showcasing the results of an intense forearm workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
 
 [Bruce Lee’s Forearm Workout](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
-
-[![A shirtless man with claw marks on his chest and face stands indoors, gesturing with his hand and looking determined, embodying the intensity of a Bruce Lee workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
-
-[The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
+
+[Podcast #1,026
+
+###### 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
 
 [Podcast #1,025
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,024
 
 ###### The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
-
-[Podcast #1,023
-
-###### Is Self-Control Overrated?](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
