@@ -307,7 +307,7 @@ Entire Agreement.** The TOS constitutes the entire agreement between you and Car
   
 Please report any violations of the TOS to [webmaster@car-seat.org](mailto:webmaster@car-seat.org) or send a [Private Message to Admin](https://www.car-seat.org/conversations/add?to=Admin).
 
-Last edited by a moderator: Today at 4:16 PM
+Last edited by a moderator: Yesterday at 4:16 PM
 
 |     |     |     |
 | --- | --- | --- |
