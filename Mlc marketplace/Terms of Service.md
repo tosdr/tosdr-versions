@@ -1,13 +1,15 @@
 [Skip to content](#main-content)
 
+ 
+
 * [Facebook](https://www.facebook.com/muscatlivestock "Muscat Livestock on Facebook")
 * [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-Use code **MONTHEND10** to get 10% off until 31/09
+Use code **'OCT10'** and get **10% off** storewide.
 
-Shop OFFERS and SAVE BIG [Month End Sale](https://mls.om/collections/month-end-offers "Month End Offers")
+Shop OFFERS and SAVE BIG [Month Start Sale](https://mls.om/collections/month-end-offers "Month Start Offers")
 
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
@@ -22,18 +24,19 @@ English
 * English
 * العربية
 
- [![Muscat Livestock](//mls.om/cdn/shop/files/MLS-Logo_Red_Black_af3de979-2aa8-482c-b4d1-cb66623c2baa.png?v=1723466919&width=120)](https://mls.om/)
+  [![Muscat Livestock](//mls.om/cdn/shop/files/MLS-Logo_Red_Black_af3de979-2aa8-482c-b4d1-cb66623c2baa.png?v=1723466919&width=120)](https://mls.om/)
 
- 
+  
 
-Search Search Reset 
+Search Search Reset  
 
 [Log in](https://mls.om/account/login) [Cart](https://mls.om/cart)
 
 Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [Month End Sale](https://mls.om/collections/month-end-offers)
+* [National Day Waiting-list](https://mls.om/pages/54th-national-day)
+* [Month Start Sale](https://mls.om/collections/month-start-offers)
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
@@ -625,6 +628,8 @@ By using MLC Marketplace, you (hereinafter the “**user**”, “**you**” or 
 
 * R&C shall be governed by and construed in accordance with the laws of Sultanate of Oman and any dispute arising out of these R&C shall be referred to the courts of Muscat.
 
+ 
+
 Your cart
 ---------
 
@@ -637,6 +642,8 @@ Your cart is empty
 Subtotal:0.000 OMR
 
 Loading...
+
+ 
 
 [Back to top](#)
 
