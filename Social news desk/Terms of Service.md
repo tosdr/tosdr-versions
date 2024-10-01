@@ -78,9 +78,9 @@ Available 365 days a year so your team is never left in the dark. SND is committ
 
 [Contact Us](https://www.socialnewsdesk.com/contact/)
 
-[Learn More](https://www.socialnewsdesk.com/demo)
+[Get started](https://www.socialnewsdesk.com/demo)
 
-[Sign In](https://dashboard.socialnewsdesk.com/)
+[Sign in](https://dashboard.socialnewsdesk.com/)
 
 TERMS OF USE
 ============
