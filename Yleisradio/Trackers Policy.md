@@ -290,6 +290,7 @@ Detailed information
 | Yle Areena | PlayerUI:settings | player-v2.yle.fi | permanent | HTML Local Storage | Remembering the user-defined Yle Areena functionality settings. For example, queue, subtitle language and subtitle style. |
 | Yle Areena | navigationOnboardingCompleted | areena.yle.fi | permanent | HTML Local Storage | Information about whether the user has closed the user training related to Areena's navigation reform. This is used to skip the orientation for those users who have closed the orientation once. |
 | Yle Areena | podcasts:podcastToRestore | areena.yle.fi | permanent | HTML Local Storage | Information about the podcast or radio program the user has listened to most recently. Used to return this program to the site's audio player when the user returns to the site. |
+| Yle Areena | podcasts:playQueue | areena.yle.fi | permanent | HTML Local Storage | Makes it possible to remember which radio or podcast programs a user has added to their playlist between page loads and visits. |
 | Yle ID | ylelogin | yle.fi | 370 days | HTTP Cookie | A cookie related to authentication, which identifies the Yle ID user. |
 | yle.fi | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
 | yle.fi | ukko\_abgroup | yle.fi | 6 days | HTTP Cookie | User tests of yle.fi entity. |
