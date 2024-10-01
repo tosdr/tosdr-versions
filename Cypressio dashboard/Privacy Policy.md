@@ -23,6 +23,8 @@
     * [Visual Reviews](https://cypress.io/cloud#visual_reviews)
     * [Test Analytics](https://cypress.io/cloud#test_analytics)
     * [Integrated Workflows](https://cypress.io/cloud#integrated_workflows)
+    * [Accessibility](https://cypress.io/cloud#cypress_accessibility)
+    * [UI Coverage](https://cypress.io/cloud#cypress_ui_coverage)
     
 * [Docs](https://on.cypress.io/)
     
