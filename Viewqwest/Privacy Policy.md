@@ -51,7 +51,7 @@
     * [FAQs](https://viewqwest.com/sg/residential/faq/)
     * [Location](https://viewqwest.com/sg/residential/locations/)
 * [Contact Us](https://viewqwest.com/sg/residential/contact-us/)
-* [Sign Up Now](https://signup.viewqwest.com/broadband/?promo_code=VQXDEAL24)
+* [Sign Up Now](https://signup.viewqwest.com/broadband/?promo_code=VQXSUPERDEAL24)
 
 **Personal Data Protection Policy**
 
