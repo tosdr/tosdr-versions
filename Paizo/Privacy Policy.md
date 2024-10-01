@@ -88,7 +88,6 @@ All Products Messageboards Blogs Users PRD
     * [ ]  [Exclusives▾▾](https://paizo.com/store/exclusives "Store > Exclusives")
     * [ ]  [Sale▾▾](https://paizo.com/store/sale "Store > Sale")
         * [$1 Bin](https://paizo.com/store/sale/oneDollar "Store > Sale > $1 Bin")
-        * [Back To School Sale '24](https://paizo.com/store/sale/backToSchool2024 "Store > Sale > Back To School Sale '24")
         * [25% Off](https://paizo.com/store/sale/twentyFive "Store > Sale > 25% Off")
         * [50% Off](https://paizo.com/store/sale/bffifty "Store > Sale > 50% Off")
         * [75% Off](https://paizo.com/store/sale/seventyFive "Store > Sale > 75% Off")
