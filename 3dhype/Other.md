@@ -105,9 +105,9 @@ Categories [Quick Recipes](https://casihelper.com/category/quick-recipes/) [Leav
 [Pineapple Chicken and Rice](https://casihelper.com/pineapple-chicken-and-rice/)
 --------------------------------------------------------------------------------
 
-September 30, 2024September 24, 2024
+October 1, 2024September 24, 2024
 
-[![Pineapple Chicken and Rice](https://casihelper.com/wp-content/uploads/2024/09/Pineapple-Chicken-and-Rice.jpg)](https://casihelper.com/pineapple-chicken-and-rice/)
+[![Pineapple Chicken and Rice](https://casihelper.com/wp-content/uploads/2024/09/Design-sans-titre4.png)](https://casihelper.com/pineapple-chicken-and-rice/)
 
 Savor the flavors of tropics with our Pineapple Chicken and Rice! Easy to make, it’s a perfect blend of sweet, savory, and exotic taste.
 
