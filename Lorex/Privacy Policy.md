@@ -425,7 +425,7 @@ Your cart is empty
     
     * [Smart Deterrence Wi-Fi Series](https://www.lorex.com/collections/halo-series-outdoor-wi-fi-cameras)
     * [Outdoor Pan-Tilt Wi-Fi Cameras](https://www.lorex.com/collections/outdoor-pan-tilt-wi-fi-cameras)
-    * [Wi-Fi Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
+    * [Wireless Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
     
     [**Shop All >**](https://www.lorex.com/collections/outdoor-security-cameras/wi-fi-security-cameras)
     
@@ -438,7 +438,7 @@ Your cart is empty
     * [2K Pan-Tilt Security Camer...](https://www.lorex.com/products/2k-pan-tilt-indoor-wi-fi-security-camera)
     * [2K Security Camera](https://www.lorex.com/products/2k-indoor-wi-fi-security-camera)
     
-    * [Wi-Fi Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
+    * [Wireless Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
     
     [**Shop All >**](https://www.lorex.com/collections/indoor-security-cameras)
     
