@@ -33,7 +33,7 @@ Language
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/nav_happy_meal_160x160:menu-category?resmode=sharp2)Happy Meal®](https://www.mcdonalds.com/us/en-us/full-menu/happy-meal.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/desserts_shakes_300x300:menu-category?resmode=sharp2)Sweets & Treats](https://www.mcdonalds.com/us/en-us/full-menu/sweets-treats.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/Beverages_NavImage:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/NavImage_Beverages_160x160:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/D123_160x160:menu-category?resmode=sharp2)$1 $2 $3 Dollar Menu\*](https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html)
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
@@ -83,7 +83,7 @@ Language
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/nav_happy_meal_160x160:menu-category?resmode=sharp2)Happy Meal®](https://www.mcdonalds.com/us/en-us/full-menu/happy-meal.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/desserts_shakes_300x300:menu-category?resmode=sharp2)Sweets & Treats](https://www.mcdonalds.com/us/en-us/full-menu/sweets-treats.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/Beverages_NavImage:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/NavImage_Beverages_160x160:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/D123_160x160:menu-category?resmode=sharp2)$1 $2 $3 Dollar Menu\*](https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html)
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
