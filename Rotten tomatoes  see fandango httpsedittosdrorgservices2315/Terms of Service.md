@@ -17,7 +17,7 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get one ticket to Venom: The Last Dance, an excl
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get two tickets to Venom: The Last Dance, an exc
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save $5 on Smile & Smile 2 Pre-Order Bundle!** When you buy a ticket to Smile 2
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
@@ -32,7 +32,7 @@ Go to next offer
 Terms and Policies
 ==================
 
-[Privacy Policy](https://www.fandango.com/policies/privacy-policy) Terms and Policies [Terms of Use](https://www.fandango.com/policies/terms-of-use) [Ticket and Concessions Policy](https://www.fandango.com/policies/movie-ticket-policy) [Promo Code Policy](https://www.fandango.com/policies/promo-code-policy) [Gift Card Terms](https://www.fandango.com/policies/gift-card-terms) [Cookie Notice](https://www.fandango.com/policies/cookies-and-tracking) [Fandango at Home Policy](https://www.fandango.com/policies/vudu-policy) [FanRewards Program Terms](https://www.fandango.com/policies/fanrewards-terms) [FanClub Terms](https://www.fandango.com/policies/fanclub-terms)
+[Privacy Policy](https://www.fandango.com/policies/privacy-policy) Terms and Policies [Terms of Use](https://www.fandango.com/policies/terms-of-use) [Ticket and Concessions Policy](https://www.fandango.com/policies/movie-ticket-policy) [Promo Code Policy](https://www.fandango.com/policies/promo-code-policy) [Gift Card Terms](https://www.fandango.com/policies/gift-card-terms) [Cookie Notice](https://www.fandango.com/policies/cookies-and-tracking) [Fandango at Home Policy](https://www.fandango.com/policies/vudu-policy) [FanRewards Program Terms](https://www.fandango.com/policies/fanrewards-terms) [FanClub Program Terms](https://www.fandango.com/policies/fanclub-terms)
 
 **Terms and Policies**
 
@@ -62,7 +62,7 @@ Offers
     
     ### Seize the We Are Venom Bundle
     
-    Get one ticket to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+    Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
@@ -144,7 +144,7 @@ New & Coming soon
 ### Photos
 
 * [Red Carpet Premieres](https://www.fandango.com/movie-photos/Red-Carpet-Premieres-36)
-* [September Celebrity Birthdays](https://www.fandango.com/movie-photos/september-celebrity-birthdays-335)
+* [October Celebrity Birthdays](https://www.fandango.com/movie-photos/october-celebrity-birthdays-351)
 * [Award Show Galleries](https://www.fandango.com/movie-news/2024-award-show-galleries-755005)
 
 ### Follow Us
@@ -193,7 +193,7 @@ Close
 
 ![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
 
-#### Get one ticket to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
 
 We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (link out to full terms, see below for full terms) for full terms and conditions for each item included in the We Are Venom bundle. Full terms: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EUz4C3yGGCxNjEu3yXxa4wQBQGvOAlyPssxSt\_OMumbmdA?e=UgdLP0 [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
 
