@@ -49,13 +49,7 @@ Menu
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
-[Widget](https://paybis.com/crypto-widget/)
-
-Tools
-
-* [Crypto Prices](https://paybis.com/price/)
-* [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
-* [Crypto Glossary](https://paybis.com/blog/glossary/)
+[On/Off Ramp](https://paybis.com/crypto-widget/)
 
 [Sign In](https://paybis.com/user/login/)
 
@@ -107,6 +101,8 @@ Business
 [Careers](https://paybis.com/career/)
 
 [Contacts](https://paybis.com/contacts/)
+
+Live Chat
 
 [Buy Crypto](https://paybis.com/)
 
