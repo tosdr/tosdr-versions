@@ -323,7 +323,7 @@ Last Updated: July 2024 (2024.v2.0)
     
     * [Communication & Collaboration](https://www.logmein.com/ucaas)
     * [GoTo Connect](https://www.logmein.com/connect)
-    * [GoTo Contact Center](https://www.logmein.com/ucaas/contact-center)
+    * GoTo Contact Center
     * [GoTo Meeting](https://www.logmein.com/meeting)
     * [GoTo Webinar](https://www.logmein.com/webinar)
     * [GoTo Room](https://www.logmein.com/room)
