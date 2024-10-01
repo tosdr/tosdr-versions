@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Protest-bike-cops-edited-326x245.jpg)](https://cwbchicago.com/2024/09/police-oversight-group-outlines-budgeting-priorities-in-letter-to-aldermen.html "Police oversight group outlines budgeting priorities in letter to aldermen")
+
+Citywide
+
+### [Police oversight group outlines budgeting priorities in letter to aldermen](https://cwbchicago.com/2024/09/police-oversight-group-outlines-budgeting-priorities-in-letter-to-aldermen.html "Police oversight group outlines budgeting priorities in letter to aldermen")
+
+[September 29, 2024 7:38 PM](https://cwbchicago.com/2024/09)
+
+With the city’s annual budget process underway, the commission responsible for overseeing the Chicago Police Department and COPA, the agency responsible for investigating allegations of serious misconduct by police, is highlighting four areas of focus as the budgets are drawn up.[](https://cwbchicago.com/2024/09/police-oversight-group-outlines-budgeting-priorities-in-letter-to-aldermen.html "Police oversight group outlines budgeting priorities in letter to aldermen")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH-429246-michigan-ave-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-mag-mile-stabbing.html "Cops hunt 3 suspects in Mag Mile stabbing")
+
+Magnificent Mile
+
+### [Cops hunt 3 suspects in Mag Mile stabbing](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-mag-mile-stabbing.html "Cops hunt 3 suspects in Mag Mile stabbing")
+
+[September 29, 2024 6:53 PM](https://cwbchicago.com/2024/09)
+
+Police are looking for three men in connection with a stabbing that occurred near the Apple Store on Michigan Avenue during Mexican Independence Day celebrations earlier this month.[](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-mag-mile-stabbing.html "Cops hunt 3 suspects in Mag Mile stabbing")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Terriontay-Brown-326x245.jpg)](https://cwbchicago.com/2024/09/man-who-robbed-victim-near-uic-campus-already-had-2-robbery-cases-pending-prosecutors-say.html "Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say")
 
 West Loop
@@ -252,26 +272,6 @@ West Loop
 [September 29, 2024 9:45 AM](https://cwbchicago.com/2024/09)
 
 An 18-year-old man with two robbery cases pending in juvenile court is now charged as an adult with robbing yet another victim near the UIC campus.[](https://cwbchicago.com/2024/09/man-who-robbed-victim-near-uic-campus-already-had-2-robbery-cases-pending-prosecutors-say.html "Man who robbed victim near UIC campus already had 2 robbery cases pending, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/MALIK-WILLIAMS--326x245.jpg)](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
-
-Englewood
-
-### [Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
-
-[September 29, 2024 7:41 AM](https://cwbchicago.com/2024/09)
-
-A Cook County judge rejected a prosecution request to keep a man in jail as a public safety risk for allegedly shooting at an occupied car while Chicago police officers looked on.[](https://cwbchicago.com/2024/09/judge-refuses-to-detain-man-accued-of-shooting-at-an-occupied-car-as-chicago-cops-watched.html "Judge refuses to detain man accused of shooting at an occupied car as Chicago cops watched")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Gabriel-Blakemore-326x245.jpg)](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
-
-Austin
-
-### [Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
-
-[September 29, 2024 7:06 AM](https://cwbchicago.com/2024/09)
-
-Two men who were dating the same woman agreed to settle their differences by meeting for a fistfight—a plan that went sideways when one of them showed up with a gun, officials say.[](https://cwbchicago.com/2024/09/romantic-rivals-agreed-to-a-fistfight-but-one-brought-and-used-a-gun-prosecutors-say.html "Romantic rivals agreed to a fistfight, but one brought (and used) a gun, prosecutors say")
 
 Search
 
