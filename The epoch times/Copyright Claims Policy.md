@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
+* [Economic Implications of 1st Port Worker Strike Since 1977](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![2 Sentenced for Selling Data on Millions of U.S. Consumers to Fraudsters](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718109-GettyImages-1066101390-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
+    ![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733162-Major_Port_Strike-205x123.jpg.webp)](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
+* [Port Strike Could Cost the US Billions: Here’s What to Know](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
+* [Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732973-1.downloadKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
+* [North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://www.theepochtimes.com/us/north-carolina-communities-wiped-off-the-map-by-helene-governor-says-5733304)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733461-Hurricane-Helene-AP24274607077324-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-communities-wiped-off-the-map-by-helene-governor-says-5733304)
+* [Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://www.theepochtimes.com/opinion/japans-next-prime-minister-is-likely-to-pursue-a-balanced-international-policy-experts-say-5733062)
+    
+    5hr By [Jon Sun](https://www.theepochtimes.com/author/jon-sun) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
+    
+    [![Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733363-ishibaAP-LS.jpg-205x123.webp)](https://www.theepochtimes.com/opinion/japans-next-prime-minister-is-likely-to-pursue-a-balanced-international-policy-experts-say-5733062)
+* [2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
+    
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718109-GettyImages-1066101390-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
 * [US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730839-09192024-DSC09513-Now-hiring-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
+    ![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733334-09192024-DSC09513-Now-hiringKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
 * [Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701465-Unknown-7-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
-* [Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
+    ![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733333-Unknown-7KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
+* [Iran Launches Barrage of Ballistic Missiles at Israel](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
     
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Iran Launches Barrage of Ballistic Missiles at Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iran Preparing Imminent Ballistic Missile Attack on Israel: White House](https://img.theepochtimes.com/assets/uploads/2023/10/05/id5504703-GettyImages-1683466575-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
+    ![Iran Launches Barrage of Ballistic Missiles at Israel](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733378-GettyImages-2175283516-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
 * [Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/uploads/2023/08/30/id5483781-GettyImages-1244781462-205x123.jpg.webp)](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
-* [Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://www.theepochtimes.com/world/shigeru-ishiba-is-formally-anointed-as-japans-new-prime-minister-5733124)
-    
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Shigeru Ishiba Is Formally Anointed As Japan’s New Prime Minister](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731549-GettyImages-2173881676KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/shigeru-ishiba-is-formally-anointed-as-japans-new-prime-minister-5733124)
-* [UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://www.theepochtimes.com/world/ccp-backed-united-nations-pact-for-the-future-draws-global-criticism-5731676)
-    
-    7hr By [Alex Newman](https://www.theepochtimes.com/author/alex-newman)
-    
-    [![UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![UN ‘Pact for the Future’ Draws Concerns Over CCP Backing](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728812-CP1717910151-205x123.jpg.webp)](https://www.theepochtimes.com/world/ccp-backed-united-nations-pact-for-the-future-draws-global-criticism-5731676)
-* [What to Expect From Tuesday Night’s VP Debate](https://www.theepochtimes.com/us/what-to-expect-from-tuesday-nights-vp-debate-5733059)
-    
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![What to Expect From Tuesday Night’s VP Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What to Expect From Tuesday Night’s VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5733075-Vance-Walz-AP24269032985904-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-expect-from-tuesday-nights-vp-debate-5733059)
-* [Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://www.theepochtimes.com/us/tens-of-thousands-of-port-workers-strike-billions-in-trade-expected-to-be-impacted-5733035)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tens of Thousands of Port Workers Strike; Billions in Trade Expected to Be Impacted](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tens-of-thousands-of-port-workers-strike-billions-in-trade-expected-to-be-impacted-5733035)
-* [Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
-    
-    13hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Struggles to Win Over Some Black Male Voters, a Key Democrat Voting Bloc](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732962-EpochImages-9168368004-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-struggles-to-win-over-some-black-male-voters-a-key-democrat-voting-bloc-5731308)
+    ![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733332-GettyImages-1244781462KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
