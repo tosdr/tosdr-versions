@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic,Fosne s plavim, crvenim i zutim straftama](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-crtezi/drawings/fosne-sa-plavi-001.jpg?itok=8mqc9k3e)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-13)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/sonja-radakovic/sonja-radakovich.jpg?itok=7omxRwwa)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/sonja-radakovic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/msu-beograd-stalna-postavka/nadezda-petrovic.jpg?itok=SGewSp-J)](http://seecult.org/galerija/foto-galerija/foto-arhiva/msu-beograd-stalna-postavka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/prodigy-001.jpg?itok=kCE8Hp7c)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
