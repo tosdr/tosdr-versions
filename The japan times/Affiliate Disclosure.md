@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 01, 2024](https://www.japantimes.co.jp/archive/2024/10/01/ "archive page")
+[October 02, 2024](https://www.japantimes.co.jp/archive/2024/10/02/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,60 +130,52 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan and U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+[Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+  [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-[Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
+[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
-  [![Shigeru Ishiba, the new head of the ruling Liberal Democratic Party, speaks during a news conference at the party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424866.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the new head of the ruling Liberal Democratic Party, speaks during a news conference at the party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
-
-[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
-
-  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
 [Food price hikes in Japan in October to be largest so far in 2024](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
 
   [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
 
+[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+
+  [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan and U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+[Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+  [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424662.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba holds a news conference in Tokyo on Friday after winning the ruling Liberal Democratic Party's leadership election.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
+  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
+[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thorbecke/ "Catherine Thorbecke")  
 
-  [![Shigeru Ishiba, the new head of the ruling Liberal Democratic Party, speaks during a news conference at the party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424866.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the new head of the ruling Liberal Democratic Party, speaks during a news conference at the party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -192,6 +184,14 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
   [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
 Podcast
 -------
@@ -254,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
+
+2 hours ago
+
+[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+
+4 hours ago
+
+[Plaintiff denied compensation for decadeslong stay at hospital](https://www.japantimes.co.jp/news/2024/10/01/japan/crime-legal/schizophrenia-hospitalization-ruling/ "Plaintiff denied compensation for decadeslong stay at hospital")
+
+6 hours ago
+
 [California enacts car data privacy law to curb domestic violence](https://www.japantimes.co.jp/news/2024/10/01/world/crime-legal/california-privacy-law-domestic-violence/ "California enacts car data privacy law to curb domestic violence")
 
-16 mins ago
+6 hours ago
 
 [Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
 
-28 mins ago
-
-[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
-
-30 mins ago
-
-[Body likely to be that of girl missing amid Noto floods, coast guard says](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-ishikawa-heavy-rain-death/ "Body likely to be that of girl missing amid Noto floods, coast guard says")
-
-32 mins ago
-
-[Google to spend $1 billion in Thailand in Southeast Asia AI push](https://www.japantimes.co.jp/business/2024/10/01/companies/google-thailand-asia-ai/ "Google to spend $1 billion in Thailand in Southeast Asia AI push")
-
-53 mins ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
