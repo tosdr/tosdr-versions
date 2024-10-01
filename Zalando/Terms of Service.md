@@ -12,9 +12,9 @@ NL
 
 Switch Language
 
-[Your account](https://www.zalando.nl/myaccount/)
+[Jouw account](https://www.zalando.nl/myaccount/)
 
-[Your account](https://www.zalando.nl/myaccount/)
+[Jouw account](https://www.zalando.nl/myaccount/)
 
 [Wish list](https://www.zalando.nl/wardrobe/)
 
