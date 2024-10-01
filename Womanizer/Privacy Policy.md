@@ -30,6 +30,9 @@ The store will not work correctly in the case when cookies are disabled.
     
     * [NEW
         
+        Vibe](https://www.womanizer.com/eu/vibe)
+    * [NEW
+        
         Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
@@ -43,7 +46,6 @@ The store will not work correctly in the case when cookies are disabled.
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
