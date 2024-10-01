@@ -1,8 +1,8 @@
-🔒 Get complete privacy for less: Up to 75% OFF all storage plans!
+👀 Cyber Awareness Month savings! 80% off all plans!
 
-[Choose plan](https://internxt.com/pricing)
+[Claim deal](https://internxt.com/pricing)
 
-[🔒 Get complete privacy for less: Up to 75% OFF all storage plans!](https://internxt.com/pricing)
+[👀 Cyber Awareness Month savings! 80% off all plans!](https://internxt.com/pricing)
 
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
@@ -1273,14 +1273,16 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 ![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Internxt's summer discount](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fhome%2Fback-to-work%2Fbottom-banner.webp&w=384&q=75)
+![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcyber-awareness%2Fcyber-awareness-2024%2Fsurveillance_left.webp&w=384&q=75)
 
-Save 78%
+Save 80%
 
-Work smart,  
-not hard!
+Secure your  
+world!
 
 Choose plan
+
+![Surveillance right](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcyber-awareness%2Fcyber-awareness-2024%2Fsurveillance_right.webp&w=384&q=75)
 
 Available now!
 
@@ -1297,16 +1299,6 @@ Get 1TB for free
 \*Offer only for the first month
 
 ![cloud object storage](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcloud-object-storage%2Fs3_internxt.webp&w=750&q=75)
-
-Hold on! Special 75% OFF deal!
-
-There's an exclusive offer waiting for you.
-
-75% OFF all plans
-
-30-day money-back guarantee
-
-![Internxt Drive](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Ffreeuser%2FInternxt_storage.webp&w=1080&q=75)
 
 Get 75% OFF all our Premium Plans
 ---------------------------------
