@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[86°
+[78°
 
-![Partly Cloudy](/pf/resources/images/weather/status-icons/30.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Mostly Cloudy](/pf/resources/images/weather/status-icons/27.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -365,7 +365,6 @@ This Agreement has been made in and shall be construed in accordance with the la
 * [WFOX EEO Statement](https://www.actionnewsjax.com/eeoc)
 * [WFOX FCC Applications](https://www.actionnewsjax.com/station/wfox-tv-fcc-applications/LVG6BHNJZBD77PJS24SM634AUA/)
 * [WJAX Public File](https://publicfiles.fcc.gov/tv-profile/wjax-tv)
-* [WJAX EEO Statement](https://www.actionnewsjax.com/eeoc-wjax/)
 * [WJAX FCC Applications](https://www.actionnewsjax.com/station/wjax-tv-fcc-applications/FEAD6VZ6VZF7LD3UCHASXNVU3I/)
 * [Jobs at Cox Media Group](https://careers.cmg.com/?utm_source=careersite)
 
