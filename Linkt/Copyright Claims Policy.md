@@ -109,6 +109,8 @@ Scams and fraud](https://www.linkt.com.au/help/security/brisbane.html)
 
      
 
+[Find out more.](https://www.linkt.com.au/using-toll-roads/news/service-outage/brisbane.html)
+
 Legal
 =====
 
