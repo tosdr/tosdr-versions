@@ -395,15 +395,28 @@ Further information is available in the provider’s privacy policy at https://s
 
 **Sentry**
 
-On our website we use the service Sentry of Functional Software,
-
-Inc. dba Sentry, 45 Fremont Street, 8th Floor, San Francisco, CA 94105.
+On our website we use the service Sentry of Functional Software,Inc. dba Sentry, 45 Fremont Street, 8th Floor, San Francisco, CA 94105.
 
 We use Sentry to display client-side log files and error messages in an analyzable form. The evaluations help us to improve the error-free functioning of our software and to accelerate error analysis.
 
 There is a data transfer to third countries (United States of America).
 
-Further information is available in the provider’s privacy policy at https://sentry.io/privacy/.  
+Further information is available in the provider’s privacy policy at https://sentry.io/privacy/.
+
+‍
+
+**Verisoul** 
+
+On our website we use the service Verisoul of Verisoul Inc.,1401 Lavaca St. #989, Austin,TX 78701, United States. The provider processes Email addresses, device information and IP addresses in the USA.
+
+We use Verisoul for fraud detection and prevention, and to verify the authenticity of users.
+
+There is a data transfer to third countries (United States of America).
+
+Further information is available in the provider's privacy policy at 
+
+https://policies.verisoul.ai/privacy.html.
+
 ‍
 
 **Zendesk**
