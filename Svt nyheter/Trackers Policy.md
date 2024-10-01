@@ -71,7 +71,9 @@ Personuppgifter som framgår av ingångna avtal, så som kontaktperson och under
 
 Om du söker jobb hos SVT
 
-Om du söker jobb hos SVT behandlar vi ditt namn, födelsedatum, kön, arbetslivserfarenhet, kontaktuppgifter samt övrig information som är relevant eller framgår av din ansökan. Uppgifterna behandlas för att vi ska kunna ingå anställningsavtal med dig och raderas efter 2 år.  
+Om du söker jobb hos SVT behandlar vi ditt namn, efternamn, e-postadress, länk till Linked in, video (om en sådan skickas in), personligt brev som kan innehålla ålder, information om familj och privat sfär, CV där utbildning och andra anställningar och arbetsgivare uppges, svar på urvalsfrågor, erfarenhet och kompetens samt övrig information som framgår av ansökan, personlighetstester, referenser, feedback om rekrytering. Uppgifterna behandlas för att vi ska kunna ingå anställningsavtal med dig och raderas efter 2 år.  
+
+Beroende på vilken befattning du söker kan det vara relevant att behandla uppgifter om engagemang i någon organisation eller föreningsverksamhet som vi bör känna till och som eventuellt kan leda till en lojalitetskonflikt. Beroende på anställningsform och tjänst inom bolaget och enbart med slutkandidater kan aktivitet på Sociala medier granskas för att uppfylla krav på oberoende i SVT:s sändningstillstånd samt så kan bakgrundskontroller komma att utföras. Uppgifterna behandlas i nödvändighet för att uppfylla annan rättslig förpliktelse.
 
 Kamerabevakning
 
