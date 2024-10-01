@@ -16,7 +16,7 @@
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F30%2F2024&filters%5BminDate%5D=09%2F30%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F07%2F2024&filters%5BminDate%5D=09%2F30%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F30%2F2024&filters%5BminDate%5D=09%2F30%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F01%2F2024&filters%5BminDate%5D=10%2F01%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F08%2F2024&filters%5BminDate%5D=10%2F01%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=11%2F01%2F2024&filters%5BminDate%5D=10%2F01%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -24,8 +24,8 @@
         * [Trending artists worldwide](https://www.songkick.com/leaderboards/trending_artists)
         
         *  [![Rihanna Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rihanna](https://www.songkick.com/artists/139648-rihanna)
-        *  [![Coldplay Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Coldplay](https://www.songkick.com/artists/197928-coldplay)
         *  [![Drake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Drake](https://www.songkick.com/artists/556955-drake)
+        *  [![Coldplay Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Coldplay](https://www.songkick.com/artists/197928-coldplay)
         *  [![Eminem Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Eminem](https://www.songkick.com/artists/182968-eminem)
         *  [![The Weeknd Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Weeknd](https://www.songkick.com/artists/4363463-weeknd)
         *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
