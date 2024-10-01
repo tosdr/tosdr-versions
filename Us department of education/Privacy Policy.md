@@ -135,7 +135,6 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     [Grants for Higher Education](https://www2.ed.gov/grants-and-programs/grants-higher-education)
     
     * [Fund for the Improvement of Postsecondary Education (FIPSE)](https://www2.ed.gov/about/ed-offices/ope/fipse/overview)
-    * [TRIO programs](https://www2.ed.gov/grants-and-programs/grants-higher-education/trio-home-page)
     
     [Grants for Special Populations](https://www2.ed.gov/grants-and-programs/grants-special-populations)
     
@@ -158,7 +157,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     [Civil Rights Laws](https://www2.ed.gov/laws-and-policy/civil-rights-laws)
     
     * [File a Complaint](https://www2.ed.gov/laws-and-policy/civil-rights-laws/file-complaint)
-    * [Race, Religion, and National Origin Discrimination](https://www2.ed.gov/laws-and-policy/civil-rights-laws/race-color-national-origin)
+    * [Race, Color, and National Origin](https://www2.ed.gov/laws-and-policy/civil-rights-laws/race-color-or-national-origin-discrimination)
     
     [Preschool to Grade 12 Education](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education)
     
@@ -305,10 +304,7 @@ ED is using third-party [**social media sites**](https://www2.ed.gov/about/conta
  [TOP](#top)  
   
 ![ ](/sites/ed/files/images/ed_c_dline.gif)  
-8\. Questions?  
- 
-
-If you have questions about this policy, please contact [webmaster@ed.gov](mailto:webmaster@ed.gov?subject=Re:%20ED.gov%20Privacy%20Policy).
+8\. Questions?
 
 If you would like more information about ED’s privacy program, visit our [Privacy Program Page](https://www2.ed.gov/privacy).
 
@@ -320,7 +316,7 @@ Office of Communications and Outreach (OCO)
 
 Page Last Reviewed:
 
-September 20, 2024
+October 1, 2024
 
 Related Content
 ---------------
