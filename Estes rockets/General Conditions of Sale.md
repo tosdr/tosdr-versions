@@ -276,113 +276,94 @@ Expedited Shipping
 
 Unfortunately, we are unable to expedite shipping. Our Model Rocket Engines contain black powder, and thus must ship via USPS ground with proper paperwork.
 
-* ### CUSTOMER SERVICE
+   
+
+[![Estes Rockets Logo](https://cdn.shopify.com/s/files/1/0686/0220/0369/files/Estes_ReverseLogo2023.png?v=1684265103)](https://estesrockets.com/ "Estes Rockets | Home")
+
+Estes continues to ignite the imagination of each new generation with industry-leading model rocketry products and education.
+
+### Connect with us on social media!
+
+* [](https://www.facebook.com/estesrockets/ "Facebook | Estes Rockets")
+* [](https://www.instagram.com/estesrockets/ "Instagram | Estes Rockets")
+* [](https://www.youtube.com/user/EstesModelRockets "YouTube | Estes Rockets")
+* [](https://www.tiktok.com/@estesrockets "TikTok | Estes Rockets")
+* [](https://x.com/EstesRockets "X | Estes Rockets")
+
+### Connect with us on social media!
+
+* [](https://www.facebook.com/estesrockets/ "Facebook | Estes Rockets")
+* [](https://www.instagram.com/estesrockets/ "Instagram | Estes Rockets")
+* [](https://www.youtube.com/user/EstesModelRockets "YouTube | Estes Rockets")
+* [](https://www.tiktok.com/@estesrockets "TikTok | Estes Rockets")
+* [](https://x.com/EstesRockets "X | Estes Rockets")
+
+###### Customer Service
+
+* [Contact Us](https://estesrockets.com/pages/contact-us "Contact Us")
     
-    [Contact Us](https://estesrockets.com/pages/contact-us)
+* [Help Center](https://help.estesrockets.com/ "Help Center")
     
-    [Help Center](https://help.estesrockets.com/hc/en-us)
+* [Terms of Service](https://estesrockets.com/pages/terms-and-conditions "Terms of Service")
     
-    [Terms of Service](https://estesrockets.com/pages/terms-and-conditions)
+* [Return Policy](https://estesrockets.com/pages/refund-return-policy "Return Policy")
     
-    [Return Policy](https://estesrockets.com/pages/refund-return-policy)
+* [Privacy Policy](https://estesrockets.com/pages/privacy-policy "Privacy Policy")
     
-    [Privacy Policy](https://estesrockets.com/pages/privacy-policy)
+* [Sales Tax](https://help.estesrockets.com/hc/en-us/articles/18193691558541-Sales-Tax-on-Orders "Sales Tax")
     
-    [Sales Tax](https://help.estesrockets.com/hc/en-us/articles/18193691558541-Sales-Tax-on-Orders)
+* [FAQs](https://help.estesrockets.com/hc/en-us/categories/8439472379277-Estes-General "FAQs")
     
-    [FAQs](https://help.estesrockets.com/hc/en-us/categories/8439472379277-Estes-General)
+* [Rocket Rewards](https://estesrockets.com/pages/rocket-rewards "Rocket Rewards")
     
-    [Rocket Rewards](https://estesrockets.com/pages/rocket-rewards?_pos=1&_psq=rewards&_ss=e&_v=1.0)
+* [Service Bulletins](# "Service Bulletins")
     
-    [Consumer Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
+    * [Engine Service Bulletin](https://estesrockets.com/pages/engine-service-bulletin "Engine Service Bulletin")
+        
+    * [H21 Service Bulletin](https://estesrockets.com/pages/h21-service-bulletin "H21 Service Bulletin")
+        
+
+###### Estes Industries
+
+* [About Us](https://estesrockets.com/pages/about-us "About Us")
     
-* ### ESTES INDUSTRIES
+* [Affiliates](https://estesrockets.com/pages/affiliates "Affiliates")
     
-    [About Us](https://estesrockets.com/pages/about-us)
+* [Buy Wholesale](https://b2b.estesrockets.com/ "Buy Wholesale")
     
-    [Affiliates](https://estesrockets.com/pages/affiliates)
+* [Careers](https://estesrockets.com/pages/careers "Careers")
     
-    [Buy Wholesale](https://b2b.estesrockets.com/)
+* [Dealer Locator](https://estesrockets.com/pages/dealer-locator "Dealer Locator")
     
-    [Careers](https://estesrockets.com/pages/careers/)
+* [Distributors](https://estesrockets.com/pages/distributors "Distributors")
     
-    [Dealer Locator](https://estesrockets.com/pages/dealer-locator)
+* [Donations & Sponsorships](https://airtable.com/appHtgyQOSWtGVtCJ/shrxjsfmFmfvpytnh "Donations & Sponsorships")
     
-    [Distributors](https://estesrockets.com/pages/distributors/)
+* [Estes Education](https://edu.estesrockets.com/ "Estes Education")
     
-    [Donations & Sponsorships](https://airtable.com/appHtgyQOSWtGVtCJ/shrxjsfmFmfvpytnh)
+* [ISO 9001 Certification](https://estesrockets.com/pages/iso9001-certification "ISO 9001 Certification")
     
-    [Education Site](https://edu.estesrockets.com/)
+* [Media Release Form](https://estesrockets.com/pages/release "Media Release Form")
     
-    [ISO 9001 Certification](https://estesrockets.com/pages/iso9000-certification/)
-    
-    [Media Release Form](https://estesrockets.com/policies/pages/release/)
-    
-    [State Regulations](https://estesrockets.com/pages/state-regulations/)
-    
-* ### SEARCH ROCKETS
-    
-    [Beginner](https://estesrockets.com/collections/beginner/)
-    
-    [Intermediate](https://estesrockets.com/collections/intermediate/)
-    
-    [Advanced](https://estesrockets.com/collections/advanced/)
-    
-    [Expert](https://estesrockets.com/collections/expert/)
-    
-    [Master](https://estesrockets.com/collections/master/)
-    
-* ![Estes Rockets Logo Blue White](https://estesrockets.myshopify.com/cdn/shop/files/Estes_ReverseLogo2023.png?v=1684265103&width=285)
-    
-    Estes continues to ignite the imagination of each new generation with industry-leading model rocketry products and education.
+* [State Regulations](https://estesrockets.com/pages/state-regulations "State Regulations")
     
 
-     
+###### Shop Rockets
 
-* [Facebook](https://www.facebook.com/estesrockets/)
-* [Instagram](https://www.instagram.com/estesrockets/?hl=en)
-* [YouTube](https://www.youtube.com/user/EstesModelRockets)
-* [TikTok](https://www.tiktok.com/@estesrockets)
-* [Twitter](https://twitter.com/EstesRockets)
+* [Beginner](https://estesrockets.com/collections/beginner "Beginner")
+    
+* [Intermediate](https://estesrockets.com/collections/intermediate "Intermediate")
+    
+* [Advanced](https://estesrockets.com/collections/advanced "Advanced")
+    
+* [Expert](https://estesrockets.com/collections/expert "Expert")
+    
+* [Master](https://estesrockets.com/collections/master "Master")
+    
 
-Language
---------
+© 2024, Estes Rockets
 
-English Español
-
-Update language
-
-Language
---------
-
-English
-
-* [English](#)
-* [Español](#)
-
-Payment methods
-
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* PayPal
-* Shop Pay
-* Venmo
-* Visa
-
-© 2024, [Estes Rockets](https://estesrockets.com/)
-
-* [Refund policy](https://estesrockets.com/policies/refund-policy)
-* [Privacy policy](https://estesrockets.com/policies/privacy-policy)
-* [Terms of service](https://estesrockets.com/policies/terms-of-service)
-* [Shipping policy](https://estesrockets.com/policies/shipping-policy)
-* [Contact information](https://estesrockets.com/policies/contact-information)
-
-![](https://px.ads.linkedin.com/collect/?pid=4604708&fmt=gif)
+![ecom-no-replace-ZTbOOI3C6atrust-hc](https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ZTbOOI3C6atrust-hc.png?v=1724641892)
 
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
