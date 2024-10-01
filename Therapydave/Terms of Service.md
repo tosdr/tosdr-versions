@@ -148,7 +148,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
+_“Dave is the most professional therapist I have ever worked with. He provides well informed advice, and was able to help me through a very difficult relationship crisis other therapists weren't able to help with. What I learned is that specialization is important. Through his Gottman and other methods, he navigated respecting my background from a different culture and was sensitive in his consults which he helped me through a marriage crisis, trauma, depression and kept me focused on healing. I highly recommend his professional help. I wouldn't be where I am today without him.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
