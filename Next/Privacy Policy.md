@@ -1,6 +1,6 @@
 5.38.15
 
-1727792970314
+1727815139337
 
                                           
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727793235894
+1727815370121
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727793005885
+1727815402421
 
 You need to enable JavaScript to run this app.
 
@@ -529,7 +529,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727793405981
+1727814033814
 
 ### Our Social Networks
 
@@ -572,7 +572,7 @@ Help
 * [Website Accessibility Policy](https://zendesk.next.co.uk/hc/en-gb/articles/4407501488913)
 * [Accessibility In Our Stores](https://www.accessable.co.uk/organisations/next)
 * [Site Map](https://www.next.co.uk/site-map)
-* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/articles/4407489973777)
+* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/requests/new?ticket_form_id=27408059927825)
 * [Furniture Spare Parts](https://next.clickspares.co.uk/)
 
 Shopping With Us
@@ -613,7 +613,7 @@ More From Next
 * [Business 2 Business](https://b2b.next.co.uk/)
 * [Careers @ Next](https://careers.next.co.uk/)
 * [View Our Modern Slavery Statement](https://xcdn.next.co.uk/PDFS/ModernSlaveryTransparency.pdf)
-* [Gender Pay Report](https://xcdn.next.co.uk/PDFS/NextGenderPay_2023.pdf)
+* [Gender Pay Report](https://xcdn.next.co.uk/PDFS/NextGenderPay_2022.pdf)
 * [Corporate Responsibility Report](https://xcdn.next.co.uk/PDFS/next-cr-report.pdf)
 
 Help
@@ -630,7 +630,7 @@ Help
 * [Website Accessibility Policy](https://zendesk.next.co.uk/hc/en-gb/articles/4407501488913)
 * [Accessibility In Our Stores](https://www.accessable.co.uk/organisations/next)
 * [Site Map](https://www.next.co.uk/site-map)
-* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/articles/4407489973777)
+* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/requests/new?ticket_form_id=27408059927825)
 * [Furniture Spare Parts](https://next.clickspares.co.uk/)
 
 Shopping With Us
@@ -674,7 +674,7 @@ More From Next
 * [Business 2 Business](https://b2b.next.co.uk/)
 * [Careers @ Next](https://careers.next.co.uk/)
 * [View Our Modern Slavery Statement](https://xcdn.next.co.uk/PDFS/ModernSlaveryTransparency.pdf)
-* [Gender Pay Report](https://xcdn.next.co.uk/PDFS/NextGenderPay_2023.pdf)
+* [Gender Pay Report](https://xcdn.next.co.uk/PDFS/NextGenderPay_2022.pdf)
 * [Corporate Responsibility Report](https://xcdn.next.co.uk/PDFS/next-cr-report.pdf)
 
 View mobile site
