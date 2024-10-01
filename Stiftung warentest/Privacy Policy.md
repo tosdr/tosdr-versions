@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Unseriöse Handels­platt­form: Warnung vor GMPortal.co](https://www.test.de/Unserioese-Handelsplattform-Warnung-vor-GMPortalco-5928587-0/ "Unseriöse Handelsplattform - Warnung vor GMPortal.co")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Unseriöse Handels­platt­form: Warnung vor GMPortal.co](https://www.test.de/Unserioese-Handelsplattform-Warnung-vor-GMPortalco-5928587-0/ "Unseriöse Handelsplattform - Warnung vor GMPortal.co")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Unseriöse Handels­platt­form: Warnung vor GMPortal.co](https://www.test.de/Unserioese-Handelsplattform-Warnung-vor-GMPortalco-5928587-0/ "Unseriöse Handelsplattform - Warnung vor GMPortal.co")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Unseriöse Handels­platt­form: Warnung vor GMPortal.co](https://www.test.de/Unserioese-Handelsplattform-Warnung-vor-GMPortalco-5928587-0/ "Unseriöse Handelsplattform - Warnung vor GMPortal.co")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Service Stiftung Warentest
 
