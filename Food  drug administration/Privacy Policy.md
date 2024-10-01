@@ -15,6 +15,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
+On Oct. 1, 2024, the FDA began implementing a [reorganization](https://www.fda.gov/about-fda/fda-organization/fda-modernization-efforts-establishing-unified-human-foods-program-new-model-field-operations-and "FDA Modernization Efforts for Establishing a Unified Human Foods Program, New Model for Field Operations and More") impacting many parts of the agency. We are in the process of updating FDA.gov content to reflect these changes.
+
 [U.S. Food and Drug Administration
 =================================](https://www.fda.gov/ "FDA Homepage")
 
