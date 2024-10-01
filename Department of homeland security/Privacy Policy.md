@@ -18,7 +18,7 @@ A **.gov** website belongs to an official government organization in the United 
 **Secure .gov websites use HTTPS**  
 A **lock** (LockA locked padlock) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
-[![U.S. Department of Homeland Security logo](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/logo-wordmark-blue.svg)](https://www.dhs.gov/ "Go to the U.S. Department of Homeland Security homepage")
+[![U.S. Department of Homeland Security logo](/sites/default/files/DHS_4R_Breast-Cancer.svg)](https://www.dhs.gov/ "Go to the U.S. Department of Homeland Security homepage")
 
 Menu
 
