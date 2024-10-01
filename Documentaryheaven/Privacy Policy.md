@@ -108,6 +108,11 @@ Advertisement
 
 ###### Highest Rated This Month
 
+* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
+    
+    WWII From Space
+    
+    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
     
     Canada’s woke nightmare: A warning to the West
@@ -118,11 +123,6 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
-    
-    WWII From Space
-    
-    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![North Korea: Inside the Mind of a Dictator](/wp-content/thumbnails/16488-100x70.jpg?x53432)
+* [![EP1/6 How TV Ruined Your Life](/wp-content/thumbnails/5776-100x70.png?x53432)
     
-    North Korea: Inside the Mind of a Dictator
+    EP1/6 How TV Ruined Your Life
     
-    Kim Jong-un, ruler of North Korea, he is just 36 years old but he commands the world's fourth-largest military, he has access to nuclear weapons and his family has ruled over their people using viole](https://documentaryheaven.com/north-korea-inside-mind-of-dictator/ "North Korea: Inside the Mind of a Dictator")
-* [![Geisha Girl](/wp-content/thumbnails/8061-100x70.jpg?x53432)
+    Fear Comedy series in which Charlie Brooker uses a mix of sketches and jaw-dropping archive footage to explore the gulf between real life and television.From hysterical public information films t](https://documentaryheaven.com/how-tv-ruined-your-life-1/ "EP1/6 How TV Ruined Your Life")
+* [![Hitler’s British Girl](/wp-content/thumbnails/5971-100x70.jpg?x53432)
     
-    Geisha Girl
+    Hitler’s British Girl
     
-    Documentary following 15-year-old Yukina as she leaves home and moves to Kyoto to embark on the arduous training needed to become a geisha.The profession has always been shrouded in controversy, w](https://documentaryheaven.com/geisha-girl/ "Geisha Girl")
-* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
+    On September 3rd 1939, 25-year-old English aristocrat Unity Mitford walked into a Munich park and shot herself in the head. Distraught at the prospect of England declaring war on her beloved Fuhrer, B](https://documentaryheaven.com/hitlers-british-girl/ "Hitler’s British Girl")
+* [![Long Shot: Inside the Scope of Smart Weapons](/wp-content/thumbnails/8040-100x70.jpg?x53432)
     
-    The Cola Wars
+    Long Shot: Inside the Scope of Smart Weapons
     
-    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
-* [![Lethal Cargo: Arms](/wp-content/thumbnails/16680-100x70.jpg?x53432)
+    In spring of 2013, Texas-based start up TrackingPoint Solutions released the first ever precision-guided firearm, which is essentially a long-range, laser-guided robo rifle. Call it the gun of tomor](https://documentaryheaven.com/long-shot-inside-scope-smart-weapons/ "Long Shot: Inside the Scope of Smart Weapons")
+* [![The Alaska Pipeline](/wp-content/thumbnails/4914-100x70.jpg?x53432)
     
-    Lethal Cargo: Arms
+    The Alaska Pipeline
     
-    Hundreds and thousands of men women and children are maimed and killed every year by light arms often trafficked illegally or even openly in a grey area of near legality used by governments to sponso](https://documentaryheaven.com/lethal-cargo-arms/ "Lethal Cargo: Arms")
-* [![Tibet’s Cry For Freedom](/wp-content/thumbnails/7511-100x70.jpg?x53432)
+    When Atlantic Richfield prospectors struck oil at Prudhoe Bay early in 1968, they stumbled upon the largest oil field ever discovered in North America. Getting that oil out of Alaska would take nine y](https://documentaryheaven.com/the-alaska-pipeline/ "The Alaska Pipeline")
+* [![If We Had No Moon](/wp-content/thumbnails/77-100x70.png?x53432)
     
-    Tibet’s Cry For Freedom
+    If We Had No Moon
     
-    Inspired by a burning passion to raise awareness of the Tibetan freedom struggle and using the Beijing Olympics as the springboard, first time filmmaker Lara Damiani quit her job, sold her clothes and](https://documentaryheaven.com/tibets-cry-for-freedom/ "Tibet’s Cry For Freedom")
+    What would life on earth be like without the moon? Well, chances are, there wouldn't be any life on earth without the moon. Life – if it had started at all – would still be in the earliest stages of e](https://documentaryheaven.com/if-we-had-no-moon/ "If We Had No Moon")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
