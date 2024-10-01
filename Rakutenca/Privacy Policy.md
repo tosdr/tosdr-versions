@@ -135,7 +135,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/ebay-canada)[Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
+        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
         
         $7.50 Cash Back](https://www.rakuten.ca/chefsplate)[HelloFresh
         
@@ -215,7 +215,7 @@ FR
         
         [Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
+        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
         Coupons Only](https://www.rakuten.ca/rona)[Worx
         
@@ -273,7 +273,7 @@ FR
         
         [Simba Sleep Canada
         
-        12% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
+        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
@@ -303,7 +303,7 @@ FR
         
         [Michael Kors
         
-        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        4% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -341,7 +341,7 @@ FR
         
         Up to $50 Cash Back](https://www.rakuten.ca/reliance-home-comfort)[Simba Sleep Canada
         
-        12% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
+        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
         
         Featured Shops & Deals
         
@@ -353,7 +353,7 @@ FR
         
         Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
+        2% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
     * [Pets](https://www.rakuten.ca/stores/pets "Pets Promo Codes and Coupons")
         
@@ -455,7 +455,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
-        4% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
+        10% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
         up to 3% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
