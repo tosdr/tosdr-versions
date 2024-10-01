@@ -80,9 +80,9 @@ Hardware
     
     [Super Pocket](https://atari.com/products/super-pocket-atari-edition)
 
-[![](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
+[![Introducing the Atari+ Platform](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
 
-Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
 
 Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
 
@@ -126,11 +126,11 @@ COLLECTIONS
     
     [Super Pocket](https://atari.com/products/super-pocket-atari-edition)
 
-[![](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
+[![Introducing the Atari+ Platform](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
 
 Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)
 
-[![](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
 
 Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
 
@@ -176,7 +176,7 @@ Games
 
 [Shop Merchandise](https://atari.com/collections/atari-brands-collection)
 
-[![](files/Fatal_Run_3840px_2160px_Background.jpg)
+[![Fatal Run](files/Fatal_Run_3840px_2160px_Background.jpg)
 
 Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)[![](files/yars-ps-featured-rivercity_1.jpg)
 
@@ -224,7 +224,7 @@ BRANDS
 
 [Shop Merchandise](https://atari.com/collections/atari-brands-collection)
 
-[![](files/Fatal_Run_3840px_2160px_Background.jpg)
+[![Fatal Run](files/Fatal_Run_3840px_2160px_Background.jpg)
 
 Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)
 
@@ -270,9 +270,9 @@ Apparel & Collectibles
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+[![Atari Cross Body Bag](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
 
-Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![Shop All Tees](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
 
 Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
@@ -316,11 +316,11 @@ COLLECTIONS
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+[![Atari Cross Body Bag](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
 
 Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)
 
-[![](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+[![Shop All Tees](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
 
 Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
@@ -330,15 +330,15 @@ New
 
 ###### New Arrivals
 
-[![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
 
 Atari 7800+](https://www.atari.com/collections/7800)
 
-[![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+[![Unisex Garment Dyed Heavyweight](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
 
 Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
 
-[![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+[![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
 RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
 
@@ -348,15 +348,15 @@ Menu
 
 ###### New Arrivals
 
-[![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
 
 Atari 7800+](https://www.atari.com/collections/7800)
 
-[![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+[![Unisex Garment Dyed Heavyweight](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
 
 Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
 
-[![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+[![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
 RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
 
