@@ -248,7 +248,7 @@ You can access, delete and control certain uses of your information as set forth
 
 HELPFUL LINKS & CUSTOMER SUPPORT
 
-[Contact Us](https://snuggiestore.com/pages/contact-us)[FAQs](https://snuggiestore.com/pages/faqs)[Accessibility Statement](https://snuggiestore.com/pages/accessibility-statement)[Guarantee & Return Policy](https://snuggiestore.com/pages/guarantee-return-policy)[Bulk / Wholesale Order Inquiries](https://snuggiestore.com/pages/bulk-wholesale-orders)[Privacy Policy](https://snuggiestore.com/pages/privacy-policy-1)[Allstar Innovations™](https://snuggiestore.com/)
+[Contact Us](https://snuggiestore.com/pages/contact-us)[FAQs](https://snuggiestore.com/pages/faqs)[Accessibility Statement](https://snuggiestore.com/pages/accessibility-statement)[Guarantee & Return Policy](https://snuggiestore.com/pages/guarantee-return-policy)[Bulk / Wholesale Order Inquiries](https://snuggiestore.com/pages/bulk-wholesale-orders)[Privacy Policy](https://snuggiestore.com/pages/privacy-policy-1)[Allstar Innovations™](https://snuggiestore.com/)[Cookie Policy](https://snuggiestore.com/pages/cookie-policy)
 
 Sign up To Stay In Touch!
 
