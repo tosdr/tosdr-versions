@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=124005617)  
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=78836845)  
 MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=199073716)  
-Secunda Signs T/A Local Print and Signs
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=64396559)  
+KTEN PARTS
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=93443168)  
-INVOICES/JOBCARDS ONLINE
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=43992388)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=38767544)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=178905415)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=99123226)  
-CGHK Enterprises (PTY) LTD
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=197960683)  
-NJR ICT Services (Pty) Ltd
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=47041579)  
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=135741110)  
 Qothiphango Mining
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=146091093)  
-APTV Telecoms CC
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=146722857)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=124697043)  
-RADIO TYGERBERG 104FM NPC
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=146027752)  
+Hydroworld T/A Milliqua
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=132944047)  
-Well Hung Art
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=59595293)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=119429049)  
-McKaynine Mobility
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=156169855)  
+Kainos (Pty) Ltd
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=85944717)  
-Tiny Cuddles Photography
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=196588607)  
+Norton Medical & Consult - Namibia
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=178498783)  
-Lion Software Develepment
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=127200526)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=a51ec54000f40312baf6a2412279133492501b7c21b2b2cbd8788ef80da3f487&c=47971496)  
-Prosper Park
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=112638277)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=132922586)  
+Wiselink Broadband Pty Ltd
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=171245370)  
+Printo
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=14749632)  
+Waterfinatics Swim School
+
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=aa15221323005e00de1f3878ad5c0e9eefa8c2ba8dcfd0044fdfaf9dee61738d&c=124169397)  
+TurboFibre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
