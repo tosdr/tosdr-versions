@@ -103,6 +103,7 @@ Search Search Search
     
     * [Events](https://returningveterans.org/events)
     * [Continuing Education Trainings](https://returningveterans.org/events/continuing-education-training)
+    * [Community](https://returningveterans.org/events/community-events)
     * [Archive](https://returningveterans.org/events/archive)
     * [Calendar New](https://returningveterans.org/events/calendar-new)
 * [Calendar](https://returningveterans.org/events/calendar)
@@ -190,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Joe Stott](https://cdn.returningveterans.org/images/honor/Joe_Stott_photo.jpg)  
+![John J. Cimral](https://cdn.returningveterans.org/images/honor/MAJ_John_Cimral.GIF)  
 
-**In Honor of Joe Stott**  
-United States Navy  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of John J. Cimral**  
+United States Army  
+Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -239,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/01/24 - 8:25:59  
+Printed 10/01/24 - 2:20:29  
 © 2024 Returning Veterans Project
