@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/sonja-radakovic/sonja-radakovich.jpg?itok=7omxRwwa)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/sonja-radakovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/totem-i-kiseonicni-cvet/totem-01.jpg?itok=23A8YbUi)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/totem-i-kiseonicni-cvet)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/prodigy-001.jpg?itok=kCE8Hp7c)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/memoria.jpg?itok=e1-TIz-D)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
 * [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
 * [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
 * [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
@@ -349,7 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Ovacije za Komedi Fransez na Bitefu](http://seecult.org/vest/ovacije-za-komedi-fransez-na-bitefu)
 * [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
 * [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
-* [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
 
 * [Konkursi](#tab1_1)
 
