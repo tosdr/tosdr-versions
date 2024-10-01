@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off SPY CAMERAS I Use Code: SPY15](https://www.thehomesecuritysuperstore.com/collections/spy-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SPY+CAMERAS)
+[20% Off Self Defense Keychains | Code: KEY20](https://www.thehomesecuritysuperstore.com/collections/keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+Self+Defense+Keychains)
 
-Today’s offer: :: | 15% Off SPY CAMERAS I Use Code: SPY15
+Today’s offer: :: | 20% Off Self Defense Keychains | Code: KEY20
 
 Today’s offer: : :
 
- 15% Off SPY CAMERAS I Use Code: SPY15
+ 20% Off Self Defense Keychains Code: KEY20
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
