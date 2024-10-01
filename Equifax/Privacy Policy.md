@@ -529,13 +529,17 @@
     
     Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
     
+    [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/)
+    
+    Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
+    
     [Market Pulse Credit Trends](https://www.equifax.com/business/trends-insights/market-pulse-credit-trends/)
     
     Take a monthly deep dive into the world of consumer, business, and auto credit — from behavioral and performance data to national trends, market conditions, business risk, and more.
     
-    [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/)
+    [Global Credit Trends](https://www.equifax.com/about-equifax/why-equifax/global-insights/)
     
-    Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
+    Explore global credit and financial data insights. Delivering trends in credit risk, debt, utilization and delinquencies from around the world.
     
 * [Log In](#) [Log In](#)
     
