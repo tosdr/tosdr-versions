@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
+“ Human history becomes more and more a race between education and catastrophe”
 
-[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
+[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
 
 [](https://www.adafruit.com/about)
 
