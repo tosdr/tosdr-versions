@@ -54,12 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Helene Destruction](https://www.breitbart.com/tag/hurricane/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
+* [Vance-Walz Debate](https://www.breitbart.com/tag/tim-walz/)
+* [Helene Destruction](https://www.breitbart.com/tag/hurricane/)
+* [Port Worker Strike](https://www.breitbart.com/tag/port-workers/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
-* [Eric Adams](https://www.breitbart.com/tag/eric-adams/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
-* [Google Ad Trial](https://www.breitbart.com/tag/google/)
 
 Breitbart Privacy Policy
 ========================
