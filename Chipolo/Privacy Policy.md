@@ -1,5 +1,3 @@
-Celebrating Friendship month - Friendship Point BUNDLE 15% OFF Buy now
-
 Point finders for Google's Find My Device app Order now
 
 Chipolo Fruit LIMITED edition - 4x Chipolo ONE key finder More
@@ -34,9 +32,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Friendship Point BUNDLE
+Point finders for Google’s Find My Device app
 
-[Link to the promotion](https://chipolo.net/en-us/products/friendship-chipolo-point-bundle)
+Buy now[](https://chipolo.net/en-us/products/category/chipolo-point)
 
 Privacy Policy
 ==============
