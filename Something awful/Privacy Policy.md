@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [No one spergs like Gaston!](https://www.somethingawful.com/awfulvision/icp-gaston-paint/1/)
-* [Gotdamn baby dem cakes sho is clappin!](https://www.somethingawful.com/awfulvision/michael-jackson-hackers/1/)
-* [Under construction since 1868!](https://www.somethingawful.com/awfulvision/cleveland-horrorpunk-redneck/1/)
-* [Ankara Terrorist Fun!](https://www.somethingawful.com/photoshop-phriday/terrorist-art-gallery/)
-* [Celebizarre!](https://www.somethingawful.com/photoshop-phriday/celebizarre-bruce-willis/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Kim Jong-Il is Definitely Still Living](https://www.somethingawful.com/photoshop-phriday/kim-jong-il2/1/)
+* [Awful Vision: "Teh" Russian Muscle!](https://www.somethingawful.com/awfulvision/teh-sheik-balloon/1/)
+* [Ask the Goons](https://www.somethingawful.com/photoshop-phriday/ask-the-goons/1/)
+* [More Failures Of Humanity](https://www.somethingawful.com/comedy-goldmine/more-failures-humanity/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [My roommate just moved out and I realized](http://forums.somethingawful.com/showthread.php?threadid=4071538 "My roommate just moved out and I realized")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [some juggalos made a movie and it's actually not terrible](http://forums.somethingawful.com/showthread.php?threadid=4071518 "some juggalos made a movie and it's actually not terrible")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [whats the over under on pete rose dying at 83?](http://forums.somethingawful.com/showthread.php?threadid=4071525 "whats the over under on pete rose dying at 83?")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [itemlabel: has anyone ever actually bought any these things?](http://forums.somethingawful.com/showthread.php?threadid=4071529 "itemlabel: has anyone ever actually bought any these things?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [My roommate just moved out and I realized](http://forums.somethingawful.com/showthread.php?threadid=4071538 "My roommate just moved out and I realized")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [whats the over under on pete rose dying at 83?](http://forums.somethingawful.com/showthread.php?threadid=4071525 "whats the over under on pete rose dying at 83?")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [some juggalos made a movie and it's actually not terrible](http://forums.somethingawful.com/showthread.php?threadid=4071518 "some juggalos made a movie and it's actually not terrible")
 
 ### Random Articles
 
-* [Which Port Of Madden 07 Is The Best?](https://www.somethingawful.com/video-game-article/which-port-madden/)
-* [Society Games](https://www.somethingawful.com/awful-links/awful-link-1330/)
-* [Here is the Promise of P. B. Fouke](https://www.somethingawful.com/news/here-promise-fouke/)
-* [November 20, 2012](https://www.somethingawful.com/twitter-tuesday/tt11-20-12/)
-* [Resident Evil: Afterlife; Winter's Bone](https://www.somethingawful.com/current-movie-reviews/resident-evil-afterlife/1/)
+* [Paranormal Activity 4; Alex Cross](https://www.somethingawful.com/current-movie-reviews/paranormal-activity-cross/1/)
+* [Real Soulja](https://www.somethingawful.com/movie-reviews/real-soulja/1/)
+* [The Lost Transcripts of Mr. Wizard](https://www.somethingawful.com/news/mr-wizard-transcripts/1/)
+* [Riddick; Getaway; Closed Circuit; I Declare War](https://www.somethingawful.com/current-movie-reviews/riddick-getaway/1/)
+* [To Survive, We Must Become Guns](https://www.somethingawful.com/news/guns-kill-nobody/)
 
 [Random!](https://www.somethingawful.com/random/)
 
