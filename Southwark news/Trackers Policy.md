@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+    
+    ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+    
+    [![The Southwark Maternity Commission panel. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/23_01_24_Southwark-Council_Maternity-Commission-launch_0246-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
+    
+    ### [‘Stop charging refugees for maternity care,’ Southwark Council urges central government](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
+    
     [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
     
     ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
@@ -47,14 +55,6 @@
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
     ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-    
-    [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-    
-    ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-    
-    ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+    
+    ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+    
+    [![The Southwark Maternity Commission panel. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/23_01_24_Southwark-Council_Maternity-Commission-launch_0246-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
+    
+    ### [‘Stop charging refugees for maternity care,’ Southwark Council urges central government](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
+    
     [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
     
     ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
@@ -128,14 +136,6 @@ View All Result
     [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
     ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-    
-    [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-    
-    ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-    
-    ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,6 +232,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+
+### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+
+[1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+
 [![Andy Parsons 
 Photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/andy-parsons-1600-x-1200-1024x768-1-120x86.jpg)](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
 
@@ -262,12 +268,6 @@ Photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/andy-pars
 ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
 
 [29th September 2024](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-
-[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-
-### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
-
-[29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
 
 ### USEFUL PAGES
 
