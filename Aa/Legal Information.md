@@ -1,6 +1,6 @@
 x
 
-![Aa logo beam 250x 250](/~/media/the-aa/app/aa-logo-beam-250x-250.png?h=250&iar=0&w=250&rev=a794eab5e1c343f08f3f52a00f2d15de&hash=C3DC104ED191CF9FA10945CA27D36718 "Aa logo beam 250x 250")
+![Aa logo beam 250x 250](/~/media/the-aa/app/aa-logo-beam-250x-250.png?h=250&iar=0&w=250&rev=54fd8777858d4c64bedc253653e26681&hash=1550D65382632BC41942094F170A31D8 "Aa logo beam 250x 250")
 
 **The AA** theaa.com FREE - In Google Play!
 
