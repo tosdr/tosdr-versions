@@ -118,61 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Terri Winfield
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=38850674)  
-Konsortium Operations (PTY) LTD
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=182302043)  
+van Schaik rentals
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=20483362)  
-Waterfinatics Swim School
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=156105726)  
+Vplay Grafix
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=180310299)  
-TRACKFORCE (Pty) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=40285512)  
+Brilliant Roof Products
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=112022735)  
-Westside Car Audio CC
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=183380548)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=138825855)  
-Gemini-IT Group
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=34532426)  
+Calonet
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=2389821)  
-RADIO TYGERBERG 104FM NPC
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=5425878)  
+FX ACCOUNTING
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=4841407)  
-Van Der Merwe Olieverspreiders
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=51714278)  
+Mountain Lion Properties
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=77768509)  
-CGHK Enterprises (PTY) LTD
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=134428295)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=122753625)  
-Meyer Towing & Recovery
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=214003808)  
+kidoscabbie
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=145616499)  
-OXYAIDER (PTY) LTD
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=48666470)  
+VIR Electrical (PTY) LTD
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=208778335)  
-Forgotten Goods (Pty) Ltd
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=150495340)  
+Depot Diesel (Pty) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=137793533)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=184253010)  
+One2b
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=152833880)  
-MOSELA GROUP Pty(ltd)
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=200093505)  
+Desygn
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=87840506)  
-SLOANE STAR MEAT MARKET
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=40920701)  
+#DiGi3 Marketing & Design
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=74262543c7a056b4ed094125d4d0acdd0ce9ea295562e2d13c4859d4faf6fb52&c=96069775)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b6d7491ee6885d923ac519da201f316518803610e3a4b8627a629dea7bb8c552&c=128555281)  
+Enhle Oarabile Kea
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
