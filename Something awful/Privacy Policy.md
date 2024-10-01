@@ -206,25 +206,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 ### What's Hot
 
 * [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Kim Jong-Il is Definitely Still Living](https://www.somethingawful.com/photoshop-phriday/kim-jong-il2/1/)
-* [Awful Vision: "Teh" Russian Muscle!](https://www.somethingawful.com/awfulvision/teh-sheik-balloon/1/)
-* [Ask the Goons](https://www.somethingawful.com/photoshop-phriday/ask-the-goons/1/)
-* [More Failures Of Humanity](https://www.somethingawful.com/comedy-goldmine/more-failures-humanity/1/)
+* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
+* [Fun with Mike Tyson's Punch-Out Sprites](https://www.somethingawful.com/comedy-goldmine/tyson-punchout-sprites/1/)
+* [Postcards From the Edge](https://www.somethingawful.com/photoshop-phriday/postcards-from-edge/1/)
+* [The Best Of...](https://www.somethingawful.com/great-goon-database/great-goon-best/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [itemlabel: has anyone ever actually bought any these things?](http://forums.somethingawful.com/showthread.php?threadid=4071529 "itemlabel: has anyone ever actually bought any these things?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [My roommate just moved out and I realized](http://forums.somethingawful.com/showthread.php?threadid=4071538 "My roommate just moved out and I realized")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [itemlabel: has anyone ever actually bought any these things?](http://forums.somethingawful.com/showthread.php?threadid=4071529 "itemlabel: has anyone ever actually bought any these things?")
 * ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [whats the over under on pete rose dying at 83?](http://forums.somethingawful.com/showthread.php?threadid=4071525 "whats the over under on pete rose dying at 83?")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [some juggalos made a movie and it's actually not terrible](http://forums.somethingawful.com/showthread.php?threadid=4071518 "some juggalos made a movie and it's actually not terrible")
 
 ### Random Articles
 
-* [Paranormal Activity 4; Alex Cross](https://www.somethingawful.com/current-movie-reviews/paranormal-activity-cross/1/)
-* [Real Soulja](https://www.somethingawful.com/movie-reviews/real-soulja/1/)
-* [The Lost Transcripts of Mr. Wizard](https://www.somethingawful.com/news/mr-wizard-transcripts/1/)
-* [Riddick; Getaway; Closed Circuit; I Declare War](https://www.somethingawful.com/current-movie-reviews/riddick-getaway/1/)
-* [To Survive, We Must Become Guns](https://www.somethingawful.com/news/guns-kill-nobody/)
+* [The Klurfs - Prank Call](https://www.somethingawful.com/flash-tub/klurf-cartoon-prank/)
+* [Best Names For Horses](https://www.somethingawful.com/news/best-names-horses/)
+* [The Clavo Times Christmas Pageant 2007 Review](https://www.somethingawful.com/news/clavo-pageant-conex/1/)
+* [Corporate Correspondent Capers!](https://www.somethingawful.com/comedy-goldmine/corporate-correspondent-capers/1/)
+* [Selling Transformers and Action Movie Scripts on eBay](https://www.somethingawful.com/news/selling-transformers-action/)
 
 [Random!](https://www.somethingawful.com/random/)
 
