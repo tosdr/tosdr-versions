@@ -1,6 +1,6 @@
 top of page
 
-[![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_92,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 * ADVERTISERS
     
