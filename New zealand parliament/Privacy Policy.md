@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_63296_2024/63296-2024-hon-dr-ayesha-verrall-to-the-minister-of/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/about-us/the-parliament-bill/what-is-the-parliament-bill-committee/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_63296_2024/63296-2024-hon-dr-ayesha-verrall-to-the-minister-of/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/about-us/the-parliament-bill/what-is-the-parliament-bill-committee/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
