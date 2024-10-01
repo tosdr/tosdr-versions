@@ -66,6 +66,14 @@ Free accounts support our journalism [Become a Member](https://www.snopes.com/jo
 
 Login [My Profile](https://www.snopes.com/profile/) Logout
 
+![republican_symbol](/design/images/republican_symbol.png)
+
+[Snopes is fact-checking the vice presidential debate live!](https://www.snopes.com/live/walz-vance-debate-live-updates/)
+
+[Read more here](https://www.snopes.com/live/walz-vance-debate-live-updates/)
+
+![democrat_symbol](/design/images/democrat_symbol.png)
+
 About Menu
 
 [About Us](https://www.snopes.com/about/) [Transparency](https://www.snopes.com/transparency/) [Fact Check Ratings](https://www.snopes.com/fact-check-ratings/) [Our Team](https://www.snopes.com/team/) [Disclosures](https://www.snopes.com/disclosures/) [Media Mentions](https://www.snopes.com/mentions/) [Privacy Policy](https://www.snopes.com/privacy-policy/) [Terms and Conditions](https://www.snopes.com/terms-and-conditions/)
