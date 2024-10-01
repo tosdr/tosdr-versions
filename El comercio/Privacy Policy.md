@@ -31,6 +31,654 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Una dieta de colores tiene claves para una alimentación saludable
+=================================================================
+
+Incorporar frutas y verduras de diferentes colores aporta nutrientes esenciales para la salud y previene enfermedades crónicas.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Una alimentación variada y colorida contribuye a una vida saludable y previene enfermedades crónicas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Dieta-de-colores.jpg)
+
+La dieta de colores es una estrategia nutricional que consiste en incorporar una variedad de frutas y verduras de distintos colores a nuestras comidas diarias. Cada color representa diferentes beneficios para la salud, ya que aporta vitaminas, antioxidantes y fibra, fundamentales para mantenernos saludables y prevenir enfermedades crónicas.
+
+9 sugerencias para una alimentación colorida y saludable:
+---------------------------------------------------------
+
+1. **Añade frutas y verduras rojas**: Los alimentos rojos, como el tomate, la sandía y las fresas, contienen licopeno y antioxidantes que protegen el corazón y ayudan a reducir el riesgo de ciertos tipos de cáncer.
+2. **Incorpora alimentos naranjas y amarillos**: Zanahorias, papayas y mangos son ricos en betacarotenos, que se convierten en vitamina A. Esto es crucial para la salud ocular y el sistema inmunológico.
+3. **No olvides los alimentos verdes**: Espinacas, brócoli y aguacate aportan hierro, calcio y vitamina K, esenciales para la salud ósea y la función muscular.
+4. **Incluye alimentos morados y azules**: Uvas, arándanos y berenjenas contienen antocianinas, potentes antioxidantes que protegen el cerebro y previenen el envejecimiento celular.
+5. **Agrega alimentos blancos y marrones**: Ajo, cebolla y champiñones tienen propiedades antiinflamatorias y antimicrobianas que fortalecen el sistema inmunológico.
+6. **Varía la forma de cocinar**: Aprovecha diferentes métodos de cocción como al vapor, a la parrilla o al horno para preservar los nutrientes y disfrutar de distintos sabores y texturas.
+7. **Prepara ensaladas coloridas**: Mezcla diferentes verduras en una ensalada para incluir varios colores y nutrientes en un solo plato. Añade aceite de oliva para mejorar la absorción de vitaminas.
+8. **Incluye frutas y verduras en snacks**: Opta por frutas de distintos colores como meriendas para mantener un aporte constante de nutrientes a lo largo del día.
+9. **Planifica tus comidas semanalmente**: Asegúrate de incluir alimentos de todos los colores en tu dieta semanal para garantizar un equilibrio de vitaminas y antioxidantes.
+
+Este enfoque garantiza que incorpores una amplia gama de nutrientes, lo que contribuye a tu bienestar general y a la prevención de enfermedades crónicas.
+
+Escucha nuestro podcast para conocer más del tema
+-------------------------------------------------
+
+Johanna Ruiz, magíster en Nutrición Clínica, explica cómo incluir frutas y verduras de diferentes colores aporta vitaminas, antioxidantes y fibra, fundamentales para una alimentación saludable.
+
+Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
+
+La escuela se reinventa
+=======================
+
+Xavier Abad, español, invitado por “Arteducarte”, propone un reencuentro con el arte, con una escuela diferente. Hay que crear comunidad.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen generada en Adobe Firefly con el prompt: Niños y maestros danzan y dibujan en el suelo… sueños de colores, donde descubren el otro ser humano.](https://www.elcomercio.com/wp-content/uploads/2024/09/escuela-arte-educacion-aprendizaje.jpg)
+
+**Se dice que todo ser humano es un artista.** Y es cierto. Para fundamentar este aserto reproduzco una maravillosa experiencia que viví en **“Arteducarte”**, una fundación ecuatoriana apasionada por la educación artística. 
+
+**El prof. Xavier Abad, investigador español**, poseedor de un pensamiento diferente –divergente y en casos irreverente-, fue el encargado de promover un cambio radical en la educación para transformar el mundo en que vivimos mediante la **“pedagogía del encuentro”.**
+
+**La educación artística**
+--------------------------
+
+La conferencia versó sobre un tema aparentemente inocuo: **“Sin ti, no-yo: el otro como lugar narrativo en el arte comunitario”.** Los estudiantes aprenden el arte con sus docentes. La teoría plantea que la educación artística es un espacio para el encuentro vital del niño consigo mismo.
+
+En la práctica todo el profesorado quedó fascinado por la simplicidad de la expresión, la hondura del contenido y el aprendizaje basado no en el currículo ministerial –con el permiso de la señora ministra- sino en la vida. 
+
+**Abad identificó la existencia del “yo” (él o ella) y del “tú”, que en su conjunto dan como resultado el “nosotros”.** La educación tradicional –dijo- ha estado centrada en aprender contenidos, hoy debemos desaprender. **Esto implica trabajar por el ser antes que por el aprender.** Y el ser tiene un lugar y un tiempo; un escenario y una temporalidad cuyo objetivo básico es vivir para y en el otro. **En este contexto el arte es la alternativa.**
+
+**La metáfora de la vida**
+--------------------------
+
+**“Se trata, entonces, de un cambio paradigmático”,** según el especialista. Porque el arte está en lo que no se ve. El arte simboliza encuentros, biografías colectivas, caminos, vínculos, tejidos, vidas. **El arte para Abad es un espacio para el diálogo.** La palabra adquiere así una nueva dimensión (la dimensión del ser), y la imagen es el objeto “cero”; es decir, **el mismo amor que es percibido e irradiado por los niños.** 
+
+Bajo esta perspectiva Abad considera que **“los niños no son náufragos; los adultos somos referentes”.** Por eso, la misión de la escuela –la nueva escuela- debe ser reconceptualizada, como el lugar para el ser; no para el aprender, simplemente. Porque **la escuela es la metáfora de la vida, el cruce de encuentros a través de medios extraordinarios como el arte, el juego y la poética.**
+
+**El ser y el estar**
+---------------------
+
+La pedagogía del encuentro constituye el eje de la misión de todo maestro: **encuentro del ser y del estar,** mediante el descubrimiento de un nuevo libro: nosotros (nos-otros). “Yo soy yo porque nosotros somos”, afirma Abad. 
+
+**Este encuentro con los otros es, de hecho, transcultural.** Los maestros somos mediadores. Javier Abad es enfático: **“Los niños no son esponjas”.** Y añade: “La vida es un mundo que hablamos en los otros; los otros son nosotros transformado. Todo está unido inseparablemente a la vida”. **Fundamenta que “el arte está en todas las personas y no exclusivamente en los artistas. En ese sentido, los docentes somos mediadores universales (de la ética y la estética)”.**
+
+**El juego como vocación**
+--------------------------
+
+**¡Qué hermoso es ver a los niños en movimiento!** ¿Los niños piensan cuando están sentados y cuando se mueven?, se pregunta Abad. La explicación está en el juego, que es esa maravillosa vocación que no solo se halla en los niños sino en todo el género humano**. Porque el juego deriva del encuentro.** 
+
+Estos espacios generan a veces conflictos, consensos y disensos. Y eso es también humano. Abad recuerda que los judíos no colocan flores en las tumbas sino piedras. Porque cada piedra es una persona, un objeto simbólico que redescubre la existencia de la alteridad: **“Yo soy otro tú; tú eres otro yo”.**
+
+De ahí que la alteridad sea el sinónimo de humanidad: **desaprender juntos.**Parece contraproducente esta frase, pero es lógica. **Hay tantos contenidos que no nos han servido para nada. E incluso son estorbos.** Una educación repetitiva, memorística, ausente de sentido –los pedagogos hablamos de meta cognición- ha conducido a deformar a las personas, que **no son autónomas sino sumisas, esclavas de pensamientos ajenos y repetidoras… no solo de años sino de conceptos que a veces no entienden.**
+
+**Trabajar con el afecto**
+--------------------------
+
+Para superar esa parafernalia Xavier Abad plantea “desaprender juntos”, porque **“el concepto nace del afecto”.** Esta declaración contraviene la tendencia casi generalizada de centrar los aprendizajes en los conocimientos o la cognición. Trabajar con el afecto es un desafío real para todo docente. 
+
+En esa línea caben las preguntas: **“¿Qué soy yo?, ¿quién soy yo?, ¿quién soy en relación?** No olvidemos –recalca el prof. Abad- que somos seres en tránsito, y que los niños crecen por dentro. De eso no nos damos cuenta los padres y maestros’. **Abad recupera la metáfora del bambú: en siete años no produce nada; lo hace a partir de los siete años.**
+
+**Reinventar la escuela** 
+--------------------------
+
+La clave –según Abad- está en **“recibir del niño en vez de dar al niño”.** Si bien el concepto de infancia ha mejorado, todavía existen mitos y prejuicios. Nos recuerda el origen del vocablo: in = no; fancia = infantería. Lo mismo sucede con el término alumno: a = sin; lumni = luz. Es que siempre se consideró a los niños seres inferiores; es decir, “los que no hablan” o incapaces relativos. 
+
+**En la pedagogía actual tenemos que aprender de los niños.** Y el papel de los docentes es facilitar procesos, para que los propios niños edifiquen espacios, porque a través de ellos construyen su propia existencia. **Abad sustenta que “la historia de vida –de cada niño o niña- es el mejor material de la educación artística, y en general de toda su educación”.** La idea –que no es nueva- es formar una comunidad, aprehender en la comunidad. Y este acontecimiento debe celebrarse. **Leonardo Da Vinci decía, según Abad, que “cada acto es una obra de arte y cada persona es un artista”.**
+
+**La ética sobre la estética**
+------------------------------
+
+Así la ética (el ser humano) está sobre la estética. **El arte entonces es un estado de encuentro, una comunidad de interpretación, de valor humano y cultural innegable por su fuerza simbólica.** La pedagogía del encuentro plantea que “no debe haber diferencias entre los que enseñan y los que aprenden”. 
+
+El rol de los docentes es crear puentes para que los niños se encuentren, crean en sí mismos y descubran el mundo. Bajo estas consideraciones, **“¿será posible reinventar la escuela?”, se pregunta Abad**. Y otra interrogante: “¿Cuándo nos planteamos la meta: ¿yo soy el otro?”.
+
+Gobernar en el caos 
+====================
+
+Es momento de abandonar los extremismos y trabajar juntos por la estabilidad económica y el progreso social de Ecuador.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Ahora es el momento de abandonar los **extremismos políticos** para gobernar sobre bases racionales. El Presidente Noboa y la **Asamblea Nacional** deben deponer las diferencias subalternas para tomar **decisiones** de importancia nacional, que sirvan a este y al próximo gobierno. Basta de discusiones ridículas y de **contradicciones estériles** que llevarán a una situación aún más **caótica**, en donde los que más sufren son los pobres del **Ecuador**.
+
+¿A qué **gobierno** no le va a convenir recibir un **país** con **recuperación económica**, **seguridad** jurídica y progreso social? Entonces a trabajar todos unidos por un solo **objetivo**, en donde también haya un **desarrollo político** que a todos nos conviene. Las **élites económicas** deben ser solidarias y contribuir al progreso de todos y las **fuerzas sociales** deben entender que solo con **trabajo productivo** se pueden alcanzar mayores ingresos.
+
+Si le alcanza una buena **gobernabilidad**, se podrá demostrar a la **comunidad internacional** que el país ha recobrado la **seriedad** y la **eficacia política** para ser capaz de honrar las deudas, de modo que el riesgo país sea menor como es en Perú y Colombia. Entonces vendrán **inversiones** importantes para salir de la **recesión económica**.
+
+La clave es disminuir los **desequilibrios** mediante **correcciones fiscales** y abrirse a las **inversiones extranjeras** sobre la base de **acuerdos** justos en cuanto a la **rentabilidad**. Si se logra aumentar la **producción,** las **élites económicas** del país invertirán más y los **capitales extranjeros** mirarán al país con buenos ojos, aprovechando que la **dolarización** elimina el **riesgo** cambiario que tienen en otros **países**.
+
+Con esta nueva **actitud** de un **gobierno** creíble será posible aumentar el **empleo** formal, invertir en obra pública, financiar la **seguridad energética**, aumentar la **explotación petrolera**, pagar a los **proveedores**, honrar la deuda externa y alejarse del abismo de una **recesión** prolongada que causará más **sufrimientos** a la **población ecuatoriana**.
+
+Cartas a Quito / de octubre de 2024
+===================================
+
+Estas son las cartas a Quito de este martes 1 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Reflexiones maduras
+-------------------
+
+Resulta que en la etapa de la vida de una mayor adultez se precisa recoger y mencionar algunas ideas a manera de unas reflexiones que las podríamos considerar como maduras, es decir producto de una vida de logros y realizaciones de cualquiera sea la magnitud y preponderancia que tengan y así proponer algunas reflexiones que ayuden a tener alguna guía o sendero para especialmente esa generación de jóvenes que nos sucederán en la vida.
+
+En épocas anteriores quizás refiriéndome a una etapa cómo de hace 50 años, quizás un poco más, teníamos en nuestros hogares esa presencia de papá y mamá en todo momento y la compañía principal de los hermanos y se adicionaban primos, tíos y demás familiares y por supuesto los inolvidables abuelos. Teníamos esas reuniones hogareñas, pletóricas, de pláticas saludables, bailes, música, comidas típicas y muchas otras cosas que endulzaban nuestra vida. Las distancias de las viviendas de unas y otras familias no eran tan distantes y era más fácil movilizarse de una casa a otra para compartir estas lindas experiencias.
+
+Pero que sucede ahora en las familias, las distancias son enormes, los hogares se han centrado más en su vínculo más íntimo de padres, hijos, nietos y los parientes políticos yernos o nueras y cualquier reunión es más realizada en ese entorno y raras veces se amplía a mayores conglomerados de otros familiares, peor aún incorporar amigos y conocidos.
+
+En esos años anteriores, si bien se conocía casos de delincuencia, asesinatos y cosas así, no eran tan perceptibles, nos movilizábamos tranquilamente en cualquier hora del día, en las noches incluso, caminando podíamos ir a una función nocturna de esos cines tradicionales de nuestra ciudad de Quito, como el Alameda, el Central, el Rumiñahui, el Bolívar, el Alhambra y muchos otros y no teníamos miedo, ni recelo, deambulábamos tranquilamente y sin la menor sospecha de que nos pudieran asaltar.
+
+En el momento actual estamos sumidos en una vida de incertidumbre y de miedo, tantas malas noticias sobre la inseguridad que preferimos ya no salir en la noche y no podemos caminar con tranquilidad, aun cuando sea en horas del día. Tanta proliferación de asesinatos, asaltos, sicariatos, en fin tanta maldad en la población, la infiltración de la mafia y el narcotráfico, lo que resulta espeluznante mirar y observar esas imágenes desgarradoras en las noticias por la televisión y las redes sociales. Ha cambiado tanto aquello, que nos parece estar observando películas de ficción o cosas que resultan increíbles de concebir. 
+
+Teníamos anteriormente en nuestros hogares el almuerzo en familia, pues de los trabajos y de los centros educativos, se tenía doble jornada, es decir se laboraba la mañana, un descanso para el almuerzo y como las distancias no eran tan largas, se solía ir al almuerzo en casa y luego retornar a la jornada de la tarde; no había la jornada única o continua. En la noche se cenaba en familia y en  todo momento se sentía ese calor hogareño, esa presencia familiar. Las conversaciones de los mayores eran siempre llenas de anécdotas, de chistes, ese humor quiteño especialmente y la vida, por lo tanto, se tornaba más dulce y amable.
+
+Qué sucede ahora, pues lo contrario, salimos a nuestras labores muy temprano en las mañanas y retornamos a la noche muy tarde, desayunamos solos, almorzamos de igual manera y quizás hasta en las cenas también, es decir en qué momento podemos compartir en familia, si quizás hasta los fines de semana tenemos por exigencias laborales a lo mejor que dedicar tiempo al trabajo y no a disfrutar en familia.
+
+El control hacia los hijos era más estricto, nos preocupábamos de averiguar en donde se encontraban, que hacían, con quienes se llevaban y siempre tratando de inculcarles muchos valores y principios de vida, para que supieran comportarse con honestidad y transparencia en el futuro. Creo que ahora el ritmo tan agitado de la vida, no permite que se tengan esos mismos cuidados y la liberalidad en los actos y acciones, ya no permiten, ni dejan posibilidad de esa aparente intromisión que teníamos en nuestros hijos. La rebeldía es tan notoria con ellos, que ya no se puede decir nada, nos tildan de anticuados. ¿Qué va a pasar en el futuro? Pues, no sabemos, ni advertimos las reales consecuencias.
+
+Hernán Patricio Orcés Salvador
+
+México en ruta São Paulo
+========================
+
+México ha vivido los últimos años una ruta regresiva en materia de pluralidad política.
+---------------------------------------------------------------------------------------
+
+![Diego Cevallos Rojas, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Diego-Cevallos-Rojas-1.jpg)
+
+Deja la **Presidencia** de **México,** un líder con talante de caudillo y asume su fiel seguidora. Ambos, junto a su **movimiento político**, tienen un **respaldo social** descomunal y según indican los hechos y sus dichos, seguirán la **ruta** marcada por el Foro de São Paulo: alcanzar el **control** total de los **Poderes** del **Estado** y anular cualquier **oposición** o contrapeso.
+
+El tiempo dirá si logran alcanzar tal **objetivo**. Su vecino, Estados Unidos, el país más poderoso del **planeta**, con el que México tiene un vínculo indisoluble de **frontera**, un **tratado** de **libre comercio** y problemas compartidos de **inmigración** y narcotráfico, mira con atención lo que sucede.  Lo mismo lo hace la **Unión Europa** y gran parte del mundo con el que México tiene acuerdos de diverso tipo y un gran **intercambio comercial**.
+
+¿Hasta dónde tolerará Estados Unidos o la Unión Europa que México sea un socio en la que sus **inversiones** e intereses corran riesgo?  ¿Hasta dónde México podrá soportar la crítica que ya le están haciendo **organizaciones internacionales** de **derechos humanos**, de **libertad** de **expresión** y agencias de la ONU?
+
+Quizás en esos **actores** y en sus **decisiones** radique uno de los **obstáculos** que enfrente el **proyecto** mexicano en marcha.
+
+Este martes 1 de octubre arranca el sexenio presidencial de **Claudia Sheinbaum** y termina el de Andrés Manuel López Obrador.
+
+Se va un **político** que ha dominado con creces la **escena política** mexicana. Lo ha hecho desde cada una de las casi mil 500 conferencias de prensa matutinas que ofreció, en cada una de las cuales hizo afirmaciones sin sustento o mintió en 100 ocasiones en promedio, según el recuento de la consultora SPIN.  La **sucesora** anunció que seguirá con tales **conferencias**.
+
+El pasado junio, **Sheinbaum** y su movimiento Morena, que está afiliado al Foro de São Paulo, consiguieron una **votación** altísima en las **elecciones generales**, y en medio de **controversias**, las autoridades les otorgaron, sin objeciones, la **Presidencia**, así como la mayoría absoluta en el **Poder Legislativo**.
+
+Con ese control, aprobaron una **reforma constitucional** para desmantelar el actual **Poder Judicial** y abrir la puerta a la **elección popular** de jueces y otra para militarizar la **seguridad interna**. Pronto, indican sus planes, eliminarán de la **Constitución** los **organismos autónomos** de transparencia y los que velan por la **competencia**.
+
+**México** ha vivido los últimos años una **ruta regresiva** en materia de **pluralidad política**, en contrapesos al poder, transparencia del **gasto público**, tolerancia al disidente y respeto al **periodismo crítico**. México tiene hoy lo que algunos **politólogos** llaman una **democracia** de “baja intensidad”.
+
+López Obrador logró cautivar a las masas con un **discurso** divisor entre ricos y pobres, pueblo y **oligarquía**, **honestidad** y corrupción, entre “ellos, los **representantes** del pasado” y “nosotros, los **transformadores**”.  Además, lo hizo con un **despliegue histórico** de **programas sociales**, enfocados básicamente en la entrega de dinero en efectivo a los más necesitados.
+
+El **México**, que salió del **dominio** de un **partido** único, el PRI, en el año 2000, y que poco a poco fue caminando hacia una **democracia liberal**, regresa al **liderazgo** de un solo partido, ahora llamado Morena, donde paradójicamente militan muchos ex priistas, como el mismo López Obrador.
+
+Morena, el **presidente saliente** y su **sucesora**, van logrando paso a paso lo que el Foro de São Paulo, que desde los años 90 reúne a los llamados **partidos** de **izquierda**, definió como objetivo: captar todo el poder del **Estado** para desarrollar desde allí su proyecto “antineoliberal”.
+
+En los últimos seis años y frente a una **oposición desgastada** y **desprestigiada**, el gobierno de Morena conquistó un poder creciente que parece vacunado contra datos y hechos que hablan de una **gestión** poco eficiente.
+
+López Obrador deja el mayor número de muertos en un sexenio, casi 200 mil. Cada hora, en promedio, desaparece hoy una persona en **México**. 
+
+Más de un tercio del **territorio** están dominados por el **narcotráfico**, el número de pobres extremos aumentó en 400 mil durante la gestión de **López Obrador**, desertaron de la escuela un millón de niños, la **economía** tiene hoy el más bajo **crecimiento económico** de los últimos 36 años y hay 50 millones de personas sin acceso a la **salud**.
+
+Pero evidencias aparte, las **encuestas** indican que la **mayoría** de la **población** aprueba a su expresidente y espera con ilusión y alto respaldo la **gestión** de la primera **mandataria** de **México**. Gracias a la entrega de dinero a través de los **programas sociales**, el número de pobres en general, más no los ubicados en la **pobreza extrema**, bajo en unos cinco millones en los últimos seis años.
+
+La **ruta económica** actual de **México**, enfocada en grandes **inversiones estatales** poco rentables, no es sustentable en el **futuro**, advierten observadores. Tampoco lo sería la **ruta política** de **dominio** de un solo partido. El tiempo indicará si **México** logra continuar con el objetivo trazado por Morena o si endereza hacia otro **destino**.
+
+No se debe olvidar el valor del Cuerpo de Bomberos de Quito
+===========================================================
+
+El apoyo continuo al Cuerpo de Bomberos y la prevención son esenciales para proteger a nuestra ciudad y sus barrios.
+--------------------------------------------------------------------------------------------------------------------
+
+![Bomberos trabajaron para apagar un incendio forestal este jueves 26 de septiembre en el Cerro Auki, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trabajo-de-los-bomeros-Cerro-Auqui.jpg)
+
+La llegada de la época lluviosa en Quito trae consigo un alivio temporal ante la amenaza de incendios forestales, pero no debemos olvidar el arduo trabajo realizado por el Cuerpo de Bomberos y otras instituciones durante los meses críticos de sequía. Estos valientes profesionales han enfrentado condiciones adversas, arriesgando sus vidas para proteger a la comunidad y preservar nuestros recursos naturales. Sin embargo, es crucial que este esfuerzo no se diluya con la llegada de las lluvias. La prevención debe seguir siendo una prioridad, y el apoyo institucional al Cuerpo de Bomberos de Quito es fundamental para garantizar que estén equipados y preparados para futuras emergencias.
+
+El trabajo preventivo es esencial para evitar que los incendios forestales se conviertan en desastres. En Ecuador, se estima que el 99.9% de los incendios son causados por actividades humanas. Esto subraya la necesidad de campañas educativas que informen a la población sobre prácticas seguras y responsables en áreas forestales. El **Cuerpo de Bomberos, junto con la Secretaría Nacional de Gestión de Riesgos**, ha implementado diversas iniciativas para sensibilizar a la ciudadanía sobre la importancia de prevenir incendios. Estas acciones deben ser continuas y no limitarse a momentos críticos.
+
+> El apoyo institucional es vital para que el Cuerpo de Bomberos pueda llevar a cabo su labor eficazmente. Esto incluye no solo recursos financieros, sino también capacitación y equipamiento adecuado. Durante el 2023, se reportaron 236 incendios forestales en Quito y este verano la cifra subió a más de 300. En total, los incendios forestales en Ecuador han arrasado más de 38 000 hectáreas, lo que demuestra que la amenaza sigue presente. 
+
+Las autoridades deben garantizar que los bomberos cuenten con las herramientas necesarias para responder rápidamente a estas emergencias. La implementación del **Plan de Prevención y Control de Incendios Forestales** es un paso positivo, pero su efectividad depende del compromiso sostenido del gobierno local y nacional.
+
+Es esencial recordar a las comunidades afectadas por los incendios, como el Barrio Bolaños. Estos barrios no solo sufren daños materiales; también enfrentan pérdidas emocionales y psicológicas significativas. La solidaridad ciudadana es crucial en estos momentos. Las campañas de reforestación y recuperación deben ser una prioridad, promoviendo la participación activa de los residentes en la restauración de sus entornos.
+
+La ciudadanía tiene un papel fundamental en la prevención de incendios forestales. Las comunidades pueden organizarse para limpiar áreas propensas a incendios y realizar talleres sobre prácticas seguras. Además, fomentar una cultura de denuncia ante actos irresponsables que puedan provocar incendios es crucial. La educación ambiental debe ser parte integral del currículo escolar y comunitario, asegurando que las futuras generaciones comprendan la importancia de cuidar nuestros bosques.
+
+Scorsese, desde el fin de la noche
+==================================
+
+Martin Scorsese explora en su cine la violencia y la redención, reflejando las tensiones entre la fe, la mafia y las sombras de la condición humana.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+**Sangre siciliana** agita las venas de **Martin Scorsese** (Nueva York, 1942). Más bien pequeño, 1,62 m, retraído, asmático, solitario. Su acendrada **religiosidad** es celebrada por unos, vituperada por otros. **Endeble**, alicaído, salía poco a las calles donde rebullía la vida de sus **vecinos**, vagamundos los más. Forzado por su **ostracismo** aprendió a observar desde su **aislamiento**, con mayor profundidad, todo lo que lo rodeaba y a escudriñar sus **intersticios**. Quiso ser cura, pero a fines de los 50 abandonó esa idea, empezó a estudiar cine y a trabajar en ese oficio. “Toda mi vida ha sido el cine y la **religión**”, confesó.
+
+Ha convivido con la fe y con la mafia. En sus raíces, genes de las dos **entidades** se transformaron en surtidores de su **abundante creación fílmica**: decenas de películas, varias grabadas en lo más notable de la historia del cine. Scorsese ocultó en su **cine** el realismo con veladuras imaginarias, como en el **prólogo** que contagia a su película _Alicia ya no vive aquí_, 1974, o celebrándolo y execrando de él, como en _Taxi Driver_, amasijo de imágenes infernales del Nueva York oculto.
+
+_Malas calles_, 1973, cinta de **corte antropológico** que muestra el diarismo del barrio donde nació. Amigos de su infancia que aspiraron a ser capos de la mafia –él mismo aparece encarnado en uno de los **personajes**–, pero solo quedan como esforzados **postulantes** del **crimen**, muchachos que juegan a ser gánsteres. Scorsese filmó lo que conocía. El título del filme lo debe a Raymond Chandler: _Un hombre tiene que dar la cara en esas malas calles_. Su subtítulo, a su credo visual: “Los domingos a misa. Los lunes al infierno”.
+
+**Robert De Niro**, leyenda viva del cine, a quien **Scorsese** conoció en su **niñez**, asume un rol secundario en el filme, pero juntos, en 1976, se convertirán en íconos de su profesión, gracias a _Taxi Driver_ (_El taxista_). Carroza funérea o **sepulcro** rodante, el taxi de Travis Bickle (De Niro), un veterano de Vietnam, husmea y escarba la noche y halla a una muchacha de 12 años expoliada por un **proxeneta** y se dedica a “redimirla”, mientras la soledad hace de las suyas.
+
+La **corrupción política**, el amor como un soplo, soledades, mafiosos, estafadores, rateros, chulos, apostadores, derrotados, **habitantes** de la noche… toda la **jauría humana**, que sale como un espasmo nadie sabe de dónde, circula por el tiempo desquiciado y eterno de _Taxi Driver_.
+
+“Tal vez esta noche/ no es noche,/ debe ser un sol horrendo,/ o lo otro,/ o cualquier cosa…/ Faltan palabras,/… cuando la sangre llora y llora”…
+
+**Scorsese** prefiere construir antagonistas antes que **protagonistas**. Mostrar el lado oscuro de la **condición humana** soterrando el bueno. Denodada lucha entre el bien y el mal. **Evocación** y clamor. Exuberante, **fantasmagórica**, conmoción **poética**, grotesca a ratos, tierna en otros. El **ser humano** y su camino signado por la codicia de poder y su **insaciabilidad**. Lo suyo es el otro lado de la ley.
+
+_Toro salvaje_, 1980, De Niro, ascensión y caída de un monarca del boxeo. **Sinopsis** de horizonte humanista donde deambulan la vesania y la **imbecilidad humana**. Alguien dijo que al salir de su estreno solo quiso volver a casa y callar, después de correr gritando, riendo o llorando, luego de recoger los carros y voltearlos como un poseso.
+
+Para muchos, la mejor cinta de **Scorsese** es _Buenos muchachos_ (_Goodfellas_, 1990). La historia empieza en un punto medio, el suceso **impulsor** del descalabro final; tres **asaltantes** transportan un cadáver en el maletero de un vehículo, pero quien funge de cadáver no está muerto; al descubrirlo, los **conductores** se encargan de masacrarlo. Luego ocurre un _flashback_, los inicios de Henry Hill en la **organización** de una banda; a partir de este corte, él narra su propia historia. Obra **maestra** en el género del **cine** de **crimen**.
+
+La **filmografía** de **Scorsese** se engendra en una matriz: la **violencia** del **ser humano** que atraviesa inmutable el tiempo. Poética de seres oscilantes entre **fulgores** y sombras. Iglesia y **mafia**. Senderos cruzados por **contradicciones** perpetuas que solo pueden resolverse en **muertes atroces**, como si hubiera un deseo subyacente de infligir castigo antes de la **perpetración** del **crimen**. **Personajes** brumosos, rudos, indolentes, pero capaces de dar sus vidas por sus familias o sus amigos. “Siempre he buscado la absolución y la **redención**”, ha dicho Scorsese. ¿Las encontrará?
+
+“Aquí sabemos lo que sabe la muerte/ La piedra le dio vida a esta muerte/ La piedra se hizo lava de muerte”.
+
+Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?
+================================================================
+
+El presidente Nicolás Maduro decretó esta medida el 2 de septiembre, durante una cadena nacional.
+-------------------------------------------------------------------------------------------------
+
+![Nicolás Maduro adelantó la Navidad desde 2013, año en el que asumió el poder](https://www.elcomercio.com/wp-content/uploads/2024/09/navidad-venezuela.jpg)
+
+Venezuela celebrará la **Navidad** este martes 1 de octubre de 2024.
+
+Por ilógico que esto parezca, esta fue una decisión **decretada oficialmente** por el presidente de Venezuela, **Nicolás Maduro**, durante **una cadena nacional**, el 2 de septiembre.
+
+### Más noticias
+
+* [Lula busca reanudar conversación con Venezuela](https://www.elcomercio.com/actualidad/mundo/lula-busca-reanudar-conversacion-con-venezuela-vuelva-normalidad-democratica.html "Lula busca reanudar conversación con Venezuela")
+* [En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal](https://www.elcomercio.com/actualidad/mundo/venezuela-1-867-presos-motivos-politicos-segun-ong-foro-penal.html "En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal")
+* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
+
+Según el mandatario esta es una forma de “agradecimiento y **homenaje** al pueblo combativo”.
+
+“Está llegando septiembre y dije: septiembre y ya huele a Navidad. Y por eso este año en homenaje a ustedes, en **agradecimiento** a ustedes, voy a decretar el adelanto de la Navidad para el 1 de octubre”, dijo Maduro en aquella ocasión,
+
+“Para todos y todas llegó la Navidad, con paz, felicidad y seguridad”, enfatizó.
+
+El anunció del adelantamiento de la festividad religiosa provocó la **controversia** en su país y en el mundo.
+
+La Conferencia Episcopal Venezolana (CEV), por ejemplo, calificó esta decisión como “**propagandística con fines políticos particulares**“.
+
+Coinciden analistas políticos, quienes consideran que desde su ascenso al poder en 2013, Maduro ha recurrido repetidamente a la **estrategia** de adelantar la Navidad, para desviar la atención de las **problemáticas** que enfrenta el país.
+
+No es la primera vez
+--------------------
+
+Esta decisión **no es inédita**, ya que el Presidente de Venezuela ha repetido esta estrategia en años anteriores, generalmente como respuesta a las crecientes tensiones sociales y políticas.
+
+En 2013 fue la primera vez que la fecha de la celebración se movió unos días antes. Ese año, Maduro adelantó la Navidad para “**elevar el ánimo de la población** en un momento de profunda incertidumbre” tras el fallecimiento de **Hugo Chávez**.
+
+En los años posteriores continuó con esta práctica. Con excepción de **2019 y 2023**, años en los que Navidad se celebró en noviembre; desde 2013 las festividades comenzaron en octubre.
+
+En este 2024 no habrá excepción. La nueva fecha coincide con la **tensión política y social** que enfrenta Venezuela, a consecuencia de la reelección de Nicolás Maduro, para muchos, incluida la oposición antichavista, **fraudulenta**.
+
+Esto pierden las industrias por cortes de luz en Ecuador
+========================================================
+
+Los cortes de luz en Ecuador, con un promedio de 8,6 horas diarias, afectan al sector productivo, incluyendo la industria camaronera.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![El camarón es el principal producto exportado de la oferta no petrolera no minera del Ecuador, con más 4 000 millones de dólares exportados en los primeros siete meses del 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/camaron-ok.jpg)
+
+Los **cortes de luz** continúan en todo el **Ecuador**. Según la programación, los períodos de **racionamiento eléctrico** tienen un promedio de 8,6 horas al día, durante la semana del 30 de septiembre al 6 de octubre de 2024. Según el ministro de Energía, **Antonio Goncalves**, los horarios de los apagones pueden variar debido a la situación hídrica del Ecuador.
+
+### Más noticias
+
+* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
+* [Los horarios de los cortes de luz en Ecuador se reducen este domingo 29](https://www.elcomercio.com/actualidad/negocios/horarios-cortes-luz-ecuador-bajaron-domingo.html "Los horarios de los cortes de luz en Ecuador se reducen este domingo 29")
+* [Pequeña empresa propone cambios en jornadas laborales por cortes de luz](https://www.elcomercio.com/actualidad/negocios/pequena-empresa-pcambios-jornadas-laborales-cortes-luz.html "Pequeña empresa propone cambios en jornadas laborales por cortes de luz")
+
+El sector **productivo e industrial del Ecuador** es uno de los más afectados por los **cortes de luz**. El presidente de la Cámara de Industrias de Guayaquil, **Francisco Jarrín**, informó que el sector pierde 2,4 millones de dólares por cada hora de corte de luz.
+
+Impacto en el sector camaronero
+-------------------------------
+
+Entre ellos está el sector **camaronero**. El gremio pronostica serios problemas en su cadena productiva si no se cumple con la planificación de los racionamientos eléctricos. Industrias, como la de **fabricación de alimento** para camarón, requieren **tiempos mínimos** para el encendido de sus equipos.
+
+De igual forma sucede con las **empacadoras de camarón**. Estas deben planificar la recepción del producto para su **clasificación, procesamiento, empaque y colocación en contenedores para exportación**. “No contar con horarios definidos les impide organizar la logística y pone en riesgo el cumplimiento de compromisos con clientes”, señaló.
+
+De la misma manera, las empacadoras requieren **electricidad** para **procesar y congelar** el camarón a -18 °C, lo cual demanda considerables volúmenes energéticos. Este proceso es esencial para preservar la calidad del producto y cumplir con los estándares de seguridad alimentaria.
+
+Por otra parte, la falta de energía en las fincas camaroneras afecta el bombeo del agua, lo que pone en riesgo las condiciones de oxígeno y la supervivencia del crustáceo, agregó.
+
+El camarón es el principal producto de exportación de la oferta **no petrolera no minera del Ecuador.** Entre enero y julio de este 2024, las ventas de este crustáceo llegaron a 4 113 millones de dólares.
+
+Impacto por cortes de luz fuera de la programación
+--------------------------------------------------
+
+Según la **Cámara Nacional de Acuacultura** (CNA), los cortes de energía eléctrica sin planificación clara representan una seria amenaza para el sector.
+
+El gremio advirtió que los apagones pueden provocar pérdidas diarias superiores a los 5 millones de dólares, afectando tanto la producción como la exportación de camarón[.](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_Ecuador "https://es.wikipedia.org/wiki/Econom%C3%ADa_de_Ecuador")
+
+La CNA solicitó al gobierno un trato diferenciado para las zonas industriales, como Durán y Yaguachi, donde la demanda de energía industrial es alta. También piden que las interrupciones energéticas se limiten a una vez por día y que se comuniquen con suficiente anticipación.
+
+Asimismo, señalan que la inclusión del sector privado en la generación eléctrica es positiva, pero insisten en que es crucial mejorar el flujo de información desde las autoridades para evitar más daños a la producción camaronera.
+
+El ministro **Antonio Goncalves** señaló que, en algunas ocasiones, la programación de los **cortes de luz** no se cumple por las condiciones de la **situación hídrica del país**.
+
+Por ejemplo, el último fin de semana de septiembre de 2024, se registraron lluvias en distintas zonas el país. Las condiciones de **generación eléctrica** del país mejoraron y se redujeron los **períodos de cortes de energía** durante el domingo.
+
+A las 17:00 de este lunes 30 de septiembre, el incremento de las lluvias permitió que la hidroeléctrica **Coca Codo Sinclair**, ente Napo y Sucumbíos, aportara con el 56% de la energía de la producción total del Ecuador.
+
+CFN rematará 14 propiedades en cinco provincias de Ecuador
+==========================================================
+
+El nuevo proceso de remate de la Corporación Financiera Nacional (CFN) incluye terrenos, edificios y oficinas.
+--------------------------------------------------------------------------------------------------------------
+
+![Este edificio ubicado en Riobamba es uno de los inmuebles que rematará la CFN](https://www.elcomercio.com/wp-content/uploads/2024/09/cfn-bienes.jpg)
+
+La Corporación Financiera Nacional (CFN) realizará el remate de 14 bienes inmuebles distribuidos en cinco ciudades del Ecuador.
+
+El remate incluye terrenos, oficinas, pisos y edificios con avalúos que van desde los 23 000 dólares hasta los 607 000 dólares.
+
+### Más noticias
+
+* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
+* [Cortes de luz en Quito para este martes 1 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-martes-1-octubre-2024.html "Cortes de luz en Quito para este martes 1 de octubre de 2024")
+* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
+
+La postulación está abierta a la ciudadanía desde este lunes 30 de septiembre hasta el domingo 6 de octubre.
+
+Bienes inmuebles a rematar
+--------------------------
+
+Los 14 bienes inmuebles al remate se ubican en Quito, Guayaquil, Cuenca, Manta y Riobamba. En su mayoría son espacios destinados a oficinas o locales comerciales.
+
+Las propiedades para este segunda postulación son:
+
+**Guayaquil**
+
+* Oficina de 550 m² avaluada en más de 459 000 dólares
+
+**Quito**
+
+* Tercer piso de un edificio de 580 m², incluye cuatro parqueaderos. Avalúo de más de 419 000 dólares.
+
+**Manta**
+
+* Terreno de 839 m² avaluado en más de 607 000 dólares.
+
+**Riobamba**
+
+* Edificio de cinco pisos de 880 m² con avalúo que supera los 540 000 dólares
+
+**Cuenca**
+
+* Oficina de 46 m² con avalúo de más de 43 000 dólares
+* Oficina de 38 m² con avalúo de más de 36 000 dólares
+* Tres oficinas de 31 m² con avalúo de más de 29 000 cada una
+* Tres oficinas de 29 m² con avalúo de más de 28 000 cada una
+* Oficina de 29 m² con avalúo de más de 27 000 dólares
+* Oficina de 24 m² con avalúo cercano a los 23 000 dólares
+
+  
+Estas propiedades pueden adquirirse de contado o financiarlas hasta cinco años plazo con dividendos mensuales, trimestrales o semestrales.
+
+Cronograma del remate
+---------------------
+
+La CFN socializará la información y responderá inquietudes del proceso este lunes 30 de septiembre, martes 1 y miércoles 2 de octubre.
+
+A partir del jueves 3 y hasta el lunes 7 de octubre se realizará las visitas coordinadas a los inmuebles.
+
+El proceso requiere la entrega obligatoria de un sobre cerrado con las ofertas. Este requisito se lo debe cumplir entre el jueves 3 al domingo 6 de octubre en Quito; y hasta el lunes 7 de octubre en Guayaquil, en horario de 09h30 a 16h00.
+
+La **apertura de las ofertas** se realizará el jueves 10 de octubre a las 10h00 en la Sala Río Guayas.
+
+### Documentos para los sobres cerrados
+
+Los ofertantes deben entregar un sobre cerrado con los siguientes documentos:
+
+* Formulario de presentación de posturas.
+* Comprobante de depósito o transferencia de al menos el 10% de la postura.
+* Formulario de visitas.
+
+Mientras que fuera de él:
+
+* Formulario RGBSEB que confirma los datos del oferente o la persona jurídica.
+* Formulario RGBSSB11 Declaración de origen y licitud de fondo
+* Formulario de autorización de débito de cuenta bancaria
+
+Para conocer dónde conseguir estos documentos o cualquier otra inquietud sobre el proceso, los ciudadanos interesados pueden comunicarse con la CFN a través de su [portal digital de remates](http://www.cfn.fin.ec/remates/ "http://www.cfn.fin.ec/remates/") o sus teléfonos.
+
+Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?
+=====================================================================
+
+La decisión de Colombia de suspender la venta de energía a Ecuador es temporal.
+-------------------------------------------------------------------------------
+
+![Colombia señaló los motivos para suspender la venta de energía a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/06/corte-de-luz-1.jpg)
+
+**Colombia** suspendió la venta de **energía** a **Ecuador**, este lunes 30 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Colombia)
+
+El Gobierno colombiano tomó esta medida de manera temporal, a través de una **resolución** del **Ministerio de Minas y Energía.**
+
+### Más noticias:
+
+* [Ocho presos colombianos fueron repatriados desde Ecuador](https://www.elcomercio.com/actualidad/seguridad/ocho-presos-colombianos-fueron-repatriados-desde-ecuador.html "Ocho presos colombianos fueron repatriados desde Ecuador")
+* [Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios](https://www.elcomercio.com/actualidad/negocios/gobierno-crisis-energia-megavatios.html "Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios")
+
+Esta medida entrará en vigor a partir de la publicación en el **Diario Oficial** de Colombia.
+
+¿Cuáles son los motivos de Colombia para suspender la venta de energía a Ecuador?
+---------------------------------------------------------------------------------
+
+Colombia tomó la resolución de suspender la venta de energía eléctrica a Ecuador para “**garantizar el  
+suministro para la demanda nacional**”.
+
+**Con una resolución, el Ministerio de Minas y Energía suspendió la exportación de energía eléctrica a Ecuador**.
+
+Esta es una medida transitoria por el bajo nivel de los embalses de suministro hidroeléctrico en ese país.
+
+El nivel actual de los **embalses en Colombia se encuentra 16 puntos por debajo de la meta de invierno**, según la resolución.
+
+El documento señala que el **Centro Nacional de Despacho** de ese país hará el seguimiento y análisis de las variables energéticas y eléctricas.
+
+De acuerdo a eso, el **Ministerio de Energía y Minas de Colombia** podrá suspender o reactivar la exportación de energía eléctrica.
+
+Colombia señala que el uso del parque térmico es intenso, debido a la temporada seca que atraviesa.
+
+Varios países de la región atraviesas por sequías.
+
+Días atrás, el ministro de Energía, **Antonio Goncalves**, dijo que Ecuador depende de las lluvias.  
+
+Conmebol brilla en el Mundial de Futsal, con Brasil y Argentina
+===============================================================
+
+El Mundial de Futsal podrá tener una final sudamericana con un 'Súperclasico'.
+------------------------------------------------------------------------------
+
+![Brasil es la selecciona con más títulos en el Mundial de Futsal.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T214220.184.jpg)
+
+**Conmebol** se enorgullece al tener dos representantes en las semifinales de la **Copa Mundial de Futsal**. Brasil y Argentina pelearán por bordar una nueva estrella en su escudo, aunque antes deberán superar los desafíos de las semifinales.
+
+Por un lado, **Brasil** buscará su sexto título mundial para reafirmarse como la mejor selección de futsal, mientras que **Argentina** intentará alcanzar su tercera final consecutiva y conquistar su segundo título.
+
+### Más noticias
+
+* [Sudamérica domina los cuartos de final de la Copa del Mundo de Futsal](https://www.elcomercio.com/deportes/futbol/sudamerica-domina-los-cuartos-de-final-de-la-copa-del-mundo-de-futsal.html "Sudamérica domina los cuartos de final de la Copa del Mundo de Futsal")
+* [‘Dibu’ Martínez ofrece disculpas por polémicos actos con Argentina](https://www.elcomercio.com/deportes/disculpas-dibu-martinez-seleccion-argentina.html "‘Dibu’ Martínez ofrece disculpas por polémicos actos con Argentina")
+* [Gonzalo Plata será dirigido en Flamengo por Filipe Luis](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-entrenador-tite.html "Gonzalo Plata será dirigido en Flamengo por Filipe Luis")
+
+Brasil eliminó a Marruecos
+--------------------------
+
+Brasil se convirtió en el **primer semifinalista del Mundial de Fútbol Sala** de Uzbekistán al imponerse a Marruecos por 3-1 en el Complejo Deportivo Universal de Bujará.
+
+La **pentacampeona del mundo**, que no conquista el título desde 2012, abrió el marcador con un tanto de Marcel Marques en el minuto 11, un duro golpe para los marroquíes. Ante la baja de Pito, lesionado, Marcel encontró un nuevo socio en la pista: Leandro Lino, quien anotó el 2-0 en el minuto 17 con un potente disparo que se coló en la meta marroquí.
+
+En el segundo período, **Dyego** logró el tercer tanto de Brasil en el minuto 29 con su jugada característica, conocida como la “Dyeguinha”.
+
+Argentina muestra su poderío
+----------------------------
+
+Por su parte, la **Selección de Argentina** de fútbol sala también se clasificó por tercera vez consecutiva para las semifinales del Mundial tras una impresionante actuación ante Kazajistán, a la que derrotó por un contundente 6-1 en el Humo Arena de Taskent.
+
+El primer gol llegó de la mano de Mati Rosa en el minuto 22, y a partir de ahí, **Kazajistán** no pudo recuperarse. Ángel Claudino anotó el 2-0 en el minuto 26, seguido de Kevin Arrieta, quien amplió la ventaja a 3-0 desde el punto penal. Aunque Dauren Tursagulov le dio una leve esperanza a Kazajistán con el 1-4, Sebastián Corso y Kevin Arrieta, nuevamente de penalti, sellaron el resultado final en 6-1.
+
+Semifinales a la vista
+----------------------
+
+Con estas victorias, Brasil y Argentina ya han asegurado su lugar en las semifinales. Brasil se enfrentará a **Ucrania**, mientras que **Argentina se medirá contra Francia** el próximo jueves, 3 de octubre.
+
+> ¡El camino a la Final! ¿Habrá clásico sudamericano? 😍  
+>   
+> O caminho para final. Haverá clássico sul-americano? 🇧🇷🇦🇷[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) | [#AcrediteSempre](https://twitter.com/hashtag/AcrediteSempre?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/z8gmD4bOvT](https://t.co/z8gmD4bOvT)
+> 
+> — CONMEBOL.com (@CONMEBOL) [September 30, 2024](https://twitter.com/CONMEBOL/status/1840800203101655213?ref_src=twsrc%5Etfw)
+
+Cortes de luz en Quito para este martes 1 de octubre de 2024
+============================================================
+
+Los cortes de luz en Quito son de hasta tres franjas horarias y diez horas en la sumatoria total por sector.
+------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito para el martes 1 de octubre de 2024 son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/vela-2.jpg)
+
+Los **cortes de luz** en **Quito** para este martes 1 de octubre de 2024 son los mismos que regirán durante toda esta semana, según la programación de la **Empresa Eléctrica**.
+
+Los cortes de luz serán de hasta **tres franjas horarias** y **diez horas** en la sumatoria total por sector.
+
+### Más noticias:
+
+* [El tránsito en Quito se complica por cortes de luz y obras](https://www.elcomercio.com/actualidad/quito/transito-en-quito-se-complica-por-cortes-de-luz-y-obras.html "El tránsito en Quito se complica por cortes de luz y obras")
+* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
+
+Los cortes de luz están sujeto a cambios, de acuerdo a la situación energética e hídrica del país.
+
+El ministro de Energía, **Antonio Goncalves**, manifestó que el tiempo de los cortes se podrían reducir.
+
+En la misma línea, La **Empresa Eléctrica Quito** señaló que los cambios dependen de la variabilidad o mejora en la oferta de generación.
+
+Horarios y sectores de los cortes de luz en Quito para este martes 1 de octubre de 2024
+---------------------------------------------------------------------------------------
+
+**Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epliclachima, Conocoto y Tumbaco** tendrán cortes de luz de 00:00 a 05:00 y de 12:00 a 17:00.
+
+De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00, no contarán con luz los sectores de: **La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero, El Obrajo (Machachi).**
+
+De 10:00 a 15:00 y de 20:00 a 00:00, los sectores que tendrán cortes de luz son: **Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao e Inga Bajo.**
+
+Doce sectores tendrán cortes de 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00. Estos son: **Olímpico, Barrio Nuevo, El Bosque.**
+
+Además, **San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomasqui, El Quinche y Eugenio Espejo.**
+
+De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00, los sectores que no tendrán luz son: **Luluncoto, Chilibulo, Escuela Sucre, San Roque.**
+
+Además, **Granda Centeno, Río Coca, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.**
+
+Aquí el detalle de las franjas horarias y cada sector:
+
+Deportivo Quito presume orgulloso de su hinchada
+================================================
+
+Deportivo Quito inició con buen pie su travesía por el Torneo de Ascenso a la Serie B.
+--------------------------------------------------------------------------------------
+
+![Hinchas del Deportivo Quito durante el partido contra Santa Elena en el Torneo de Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T210818.322.jpg)
+
+Después de una tarde llena de júbilo y alegría, el **Deportivo Quito** celebró en sus redes sociales a su **hinchada**, una de las más fieles del Ecuador, que acudió en masa al estadio para alentar en su debut en el Torneo de Ascenso.
+
+Fue un día redondo para la ‘AKD’, que goleó 3-0 a Santa Elena en la ida de los 32 avos de final, jugando con el aliento de su gente, que llenó el complejo de Independiente del Valle para ver al equipo de sus amores en uno de los **tramos más importantes de la temporada.**
+
+### Más noticias:
+
+* [Deportivo Quito, en racha, visitará a Santa Elena en Samborondón](https://www.elcomercio.com/deportes/futbol/deportivo-quito-partido-santa-elenea-samborondon.html "Deportivo Quito, en racha, visitará a Santa Elena en Samborondón")
+* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
+* [Deportivo Quito debutará con casa llena en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-debutara-con-casa-llena-en-el-torneo-de-ascenso.html "Deportivo Quito debutará con casa llena en el Torneo de Ascenso")
+
+El primer post se realizó la noche del domingo 29 de septiembre, horas después de la goleada, que los pone con un pie y medio en la siguiente ronda. En esta publicación, destacaron su primer paso en busca de su objetivo.
+
+> Dimos un pasito 👣 juntos, pero falta un montón. Lo que sí es seguro, es que empezamos una semana 💙❤️ especial. [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) un sentimiento inexplicable. ¡Buenas noches, mis chullas! 💤 🤗 [pic.twitter.com/9INOucP5tE](https://t.co/9INOucP5tE)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840572203802214824?ref_src=twsrc%5Etfw)
+
+Deportivo Quito, un sentimiento inexplicable
+--------------------------------------------
+
+La primera caricia para la hinchada llegó el lunes 30 de septiembre por la mañana. Las cuentas oficiales del **Deportivo Quito compartieron un video con los tres goles** que anotó el equipo para el disfrute de los hinchas que no pudieron asistir al estadio.
+
+> Buenas de Dios, hinchada 💙❤️  
+> ¿Nos tomamos un cafecito ☕️ viendo este poema? [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) fiesta 🥳 [pic.twitter.com/vvW5vTr0fQ](https://t.co/vvW5vTr0fQ)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840765064556462434?ref_src=twsrc%5Etfw)
+
+Pocas horas después, publicaron un emotivo video del debut en el Torneo de Ascenso, acompañado de una canción del club. Este contenido audiovisual **muestra a los hinchas en el estadio celebrando** y alentando al Deportivo Quito.
+
+> ¡Gracias! 🙏  
+> ¡Vamos por más! 💪  
+> Mejor dicho, mil millones de gracias 🙏  
+> 💙🎶 AKD, no puedo parar 🎶❤️ [pic.twitter.com/hE9AGRg0LM](https://t.co/hE9AGRg0LM)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 30, 2024](https://twitter.com/SDQuito_Oficial/status/1840846876247277609?ref_src=twsrc%5Etfw)
+
+Finalmente, en la noche del lunes, se hizo un agradecimiento especial a la hinchada, que ha estado presente en las buenas y en las malas, acompañándolos y apoyándolos incondicionalmente.
+
+“¿Saben que son lo más importante para nosotros, no? Esto es para ustedes, la mejor hinchada del mundo”, menciona el post que contiene una galería de fotos de los hinchas durante el partido.
+
+> ¿Si saben que ustedes son lo más 🔝 importante para nosotros, no? 💙❤️ ¡Yaaaaaa, no se hagan!  
+> Esto es para ustedes, la mejor hinchada del mundo 🌎  
+> 💃🏻 🕺🏿 SIUUUUUUUUUUUUU…  
+> La alfombra roja 🔴 completa 👉 [https://t.co/BztWjXvjoE](https://t.co/BztWjXvjoE) [pic.twitter.com/qOAipXg000](https://t.co/qOAipXg000)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [October 1, 2024](https://twitter.com/SDQuito_Oficial/status/1840925696719196337?ref_src=twsrc%5Etfw)
+
+Partido de vuelta del Torneo de Ascenso
+---------------------------------------
+
+**Deportivo Quito** se prepara para enfrentar a Santa Elena en el partido de vuelta, tras lograr una impresionante victoria de 3-0 en la ida.
+
+Este emocionante encuentro se llevará a cabo en **Samborondón**, provincia de Guayas, el domingo 6 de octubre de 2024.
+
+Desde la directiva del Deportivo Quito se ha confirmado que el cotejo se jugará en el **Estadio Samborondón Arena**, con horario aún por confirmar. Aunque se estima que podría comenzar a las 12:30.
+
+Estados Unidos enviará tropas y aviones adicionales a Medio Oriente
+===================================================================
+
+Los anuncios llegan tras los ataques terrestres confirmados de Israel a Hezbolá, en la frontera sur de Líbano.
+--------------------------------------------------------------------------------------------------------------
+
+![Funcionarios de Seguridad de Estados Unidos afirman tener tropas listas ante cualquier eventualidad en Medio Oriente](https://www.elcomercio.com/wp-content/uploads/2024/09/tropas-estados-unidos.jpg)
+
+Estados Unidos confirmó que enviará **más tropas de soldados** a Medio Oriente, tras la escalada de violencia que se registra en el lugar.
+
+Autoridades de seguridad del país norteamericano aseguraron que “reforzarán su capacidad militar en la región en los **próximos días**“.
+
+### Más noticias
+
+* [Ejército de Israel comienza su incursión terrestre en el Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israel-libano-terrestre.html "Ejército de Israel comienza su incursión terrestre en el Líbano")
+* [Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut](https://www.elcomercio.com/actualidad/mundo/israel-promete-acelerar-ataques-contra-hizbula-vuelve-bombardear-beirut.html "Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut")
+* [Israel dice que la guerra entra en ‘una nueva fase’](https://www.elcomercio.com/actualidad/mundo/israel-dice-guerra-entra-nueva-fase.html "Israel dice que la guerra entra en ‘una nueva fase’")
+
+En un comunicado, el secretario de Defensa, **Lloyd Austin**, aseguró este domingo 29 de septiembre que EE. UU. “tiene **tropas adicionales** listas para el despliegue en caso de contingencias”.
+
+La portavoz del Pentágono, **Sabrina Singh**, también se refirió al aumento de soldados.
+
+La funcionaria afirmó que se incluirán “**unos cuantos miles**” de tropas, así como “varios escuadrones de aviones de combate y de ataque” en la región.
+
+Con este envío, las fuerzas adicionales de tropas llegarían a los **43 000 soldados**.
+
+El anuncio de Singh se produjo este lunes 30 de septiembre, después de que se conociera que Israel ya había lanzado **incursiones** limitadas en la frontera sur con **Líbano**.
+
+Medidas de seguridad contra Irán
+--------------------------------
+
+El Secretario hizo alusión especial a las **medidas de seguridad** que tomará el país si las “amenazas a los intereses de Estados Unidos por parte de Irán continúan”.
+
+Austin dijo que se reforzará la capacidad de defensa aérea en Oriente Medio para evitar que el conflicto siga creciendo.
+
+“EE. UU. está determinado a evitar que Irán, sus socios y representantes respaldados por Irán se aprovechen de la situación o **amplíen el conflicto**”, señaló.
+
+Austin destacó que si Irán o sus aliados “usan este momento para atacar al personal o los **intereses estadounidenses** en la región, EE. UU. tomará toda medida necesaria para defender” a su pueblo.
+
+Pese a la tensión en su postura, el Pentágono sostiene que Austin y los líderes de la agencia siguen centrados en “la desescalada a través de la disuasión y la diplomacia”, así como en “la protección de los ciudadanos y fuerzas estadounidenses” y la “defensa de Israel”.
+
+Ataques dejan más de un millón de muertos
+-----------------------------------------
+
+El comunicado del funcionario tuvo lugar tras el bombardeo masivo en **Beirut** que hizo el Ejército de Israel contra miembros del grupo político Hizbulá, el viernes 27 de septiembre.
+
+En el ataque fue asesinado el máximo líder del movimiento miliciano, **Hasán Nasrala**, y el comandante del frente sur, Ali Karaki.
+
+En las últimas dos semanas, Israel ha lanzado una serie de ataques sin precedentes contra los principales bastiones de Hizbulá que dejan más de un **millón de muertos** y un número similar de desplazados del Líbano. **_Con información de EFE_**.
+
 Barcelona SC pierde a Javier Burrai por tiempo indefinido
 =========================================================
 
@@ -254,779 +902,3 @@ Posteriormente, para la décima fecha del proceso eliminatorio, Ecuador viajará
 Se prevé que Sebastián Beccacece anuncie su lista de convocados hasta el viernes 4 de octubre.
 
 Actualmente, la **Selección de Ecuador ocupa la cuarta posición**, con once unidades en ocho fechas. El podio lo completan Argentina con 18 puntos, Colombia con 16 y Uruguay con 15.
-
-Mushuc Runa empata y pierde una oportunidad dorada en Liga Pro
-==============================================================
-
-Mushuc Runa igualó contra Técnico Universtiario en la Liga Pro y perdió la oportunidad de ser líder en la segunda etapa.
-------------------------------------------------------------------------------------------------------------------------
-
-![Roberto Luzarraga (izq.) de Técnico Universitario y Jean Estacio (der.) de Mushuc Runa disputan un balón en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-30T172909.349.jpg)
-
-**Mushuc Runa** empató por 1-1 frente a Técnico Universitario y desperdició su chance de ser líder de la Liga Pro. El ‘Ponchito’ debía ganar para colocarse en la cima de la tabla de posiciones y superar a **Independiente del Valle, Liga de Quito y Orense**, lo cual no sucedió.
-
-A pesar del empate, el conjunto de **Ever Hugo Almeida** ha sorprendido al balompié ecuatoriano con su desempeño. Además de estar en la zona alta del certamen, este se encuentra en las semifinales de la Copa Ecuador.
-
-### Más noticias:
-
-* [Mushuc Runa busca hacerse con la punta de la Liga Pro](https://www.elcomercio.com/deportes/mushuc-runa-liga-pro-tecnico-aspiraciones.html "Mushuc Runa busca hacerse con la punta de la Liga Pro")
-* [Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva](https://www.elcomercio.com/deportes/mushuc-runa-semifinales-libertda-copa-ecuador-cuartos.html "Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva")
-* [El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro](https://www.elcomercio.com/deportes/mushuc-runa-revelacion-ever-hugo-almeida.html "El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro")
-
-Para el compromiso, el plantel de Echa Leche arribó tras obtener su cupo a la penúltima fase del torneo copero tras vencer a **Libertad**. Asimismo, los demás equipos que se encontraban por encima pincharon en sus compromisos.
-
-La derrota de Liga de Quito ante Delfín dio paso a que **Mushuc Runa** pueda arrebatarle el liderato. Asimismo, Independiente del Valle y Orense, que vencieron, alcanzaron la máxima cantidad de puntos que era la de los albos.
-
-El ‘Ponchito’ tenía 14 unidades y podía sumar 17. Los rivales mencionados habían logrado 16[.](https://en.wikipedia.org/wiki/Mushuc_Runa_S.C. "https://en.wikipedia.org/wiki/Mushuc_Runa_S.C.")
-
-Mushuc Runa no se sostuvo ante Técnico Universitario
-----------------------------------------------------
-
-**Mushuc Runa** pisó fuerte y parecía que iba a cumplir las aspiraciones y colocarse en lo más alto de la tabla. Desde el inicio se puso al frente del marcador y dominó a **Técnico Universitario**, pero no pudo sostener el ritmo.
-
-Los goles de **Stiven Tapiero y Dennys Quintero** pusieron la ventaja a los 16 y 24 minutos. El desempeño del ‘Ponchito’ invitaba a una goleada, pero el DT Paúl Vélez reaccionó a tiempo y mandó cambios en Técnico Universitario.
-
-Las modificaciones dieron resultado y el empate del ‘Rodillo Rojo’ cayó en el cierre del compromiso. Un doblete de **Diego Armas** a los 37 y a los 45+2 puso la igualdad y el 2-2 con el que se mantendría el segundo tiempo.
-
-Tabla de posiciones de la Liga Pro
-----------------------------------
-
-**1.- Independiente del Valle**: 16 puntos y +7 de gol diferencia.
-
-**2.- Liga de Quito**: 16 puntos y +7 de gol diferencia.
-
-**3.- Orense**: 16 puntos y +4 de gol diferencia.
-
-**4.- Mushuc Runa**: 15 puntos y +4 de gol diferencia.
-
-**5.- Universidad Católica**: 13 puntos y +3 de gol diferencia.
-
-**6.- Macará**: 13 puntos y +1 de gol diferencia.
-
-**7.- Barcelona SC**: 13 puntos y 0 de gol diferencia.
-
-**8.- Técnico Universitario**: 11 puntos y +2 de gol diferencia.
-
-**9.- Delfín**: 11 puntos y -1 de gol diferencia.
-
-**10.- El Nacional**: 11 puntos y -2 de gol diferencia.
-
-**11.- Imbabura**: 10 puntos y 0 de gol diferencia.
-
-**12.- Libertad**: 9 puntos y -4 de gol diferencia.
-
-**13.- Deportivo Cuenca**: 7 puntos y 0 de gol diferencia.
-
-**14.- Emelec**: 6 puntos y -3 de gol diferencia.
-
-**15.- Cumbayá**: 4 puntos y -8 de gol diferencia.
-
-**16.- Aucas**: 4 puntos y -10 de gol diferencia.
-
-Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo
-===============================================================================================
-
-Verónica Abad puso una acción de protección por un pedido de la Cancillería al Ministerio de Trabajo.
------------------------------------------------------------------------------------------------------
-
-![Una jueza se pronunció este lunes sobre la acción de protección presentada por la Vicepresidente Verónica Abad contra el Ministerio del Trabajo.](https://www.elcomercio.com/wp-content/uploads/2024/06/Veronica-Abad-Fiscalia.jpg)
-
-La jueza Gloria Mayorga negó la **acción de protección** presentada por **Verónica Abad** contra el **Ministerio de Trabajo** y la Procuraduría General del Estado, este lunes 30 de septiembre de 2024.
-
-La **Cancillería** había solicitado un sumario administrativo al Ministerio de Trabajo en contra de Verónica Abad por presentarse tarde en **Turquía**.
-
-### Más noticias:
-
-* [Verónica Abad solicita a la Asamblea Nacional investigar a dos Ministras](https://www.elcomercio.com/actualidad/politica/veronica-abad-asamblea-ministras-fiscalizacion.html "Verónica Abad solicita a la Asamblea Nacional investigar a dos Ministras")
-* [Verónica Abad bajo sumario administrativo por presunto incumplimiento](https://www.elcomercio.com/actualidad/politica/veronica-abad-bajo-investigacion-sumario-administrativo.html "Verónica Abad bajo sumario administrativo por presunto incumplimiento")
-
-Según el Ministerio de Relaciones Exteriores y Movilidad Humana, se pidió a Abad que arribe a Turquía el 1 de septiembre.
-
-Sin embargo, la Vicepresidenta llegó el 9 de septiembre.
-
-Este es un episodio más del enfrentamiento entre el Gobierno y Abad que, actualmente, también desempeña funciones como Embajadora de Israel.
-
-Pronunciamiento de la jueza sobre la acción de protección presentada por Verónica Abad contra el Ministerio del Trabajo
------------------------------------------------------------------------------------------------------------------------
-
-La jueza Gloria Mayorga negó la **acción de protección** presentada por la vicepresidenta Verónica Abad.
-
-Mayorga consideró que **no hay vulneraciones** al procedimiento del sumario administrativo que se le abrió y señaló que todo se ha actuado en legalidad.
-
-Además, se mencionó que no se evidencia que el **sumario administrativo** esté dirigido a una destitución.
-
-Ante la decisión judicial, el abogado de Abad, Damián Armijos, apeló la sentencia de manera verbal y pidió que el caso sea elevado hasta la Corte Provincial.
-
-Con esta decisión, dicho sumario administrativo continúa.
-
-Verónica Abad respondió a la negativa de su acción de protección
-----------------------------------------------------------------
-
-En la audiencia, **Verónica Abad** intervino y manifestó: “Es una **aberración** al derecho; gracias, ecuatorianos, por estar ahí”.
-
-En su cuenta de X, Abad señaló que esto es un “golpe bajo a la democracia, derecho al trabajo digno y a la jerarquía constitucional como principio”.
-
-“Negaron la acción de protección, es increíble nuestra justicia, esto no tiene presentación”, dijo.
-
-“Para la temerosa magistrada no se configura ninguna afectación a los derechos políticos, tampoco han violentado las leyes, ni procedimientos, ni a la seguridad jurídica. !Apelamos en la misma audiencia!”, reiteró.
-
-José Mourinho protestó contra los árbitros de una inusual manera
-================================================================
-
-The Special One' sigue dejando momentos icónicos y divertidos dentro de los terrenos juegos. 
----------------------------------------------------------------------------------------------
-
-![José Mourinho protestando contra los árbitros en el fútbol de Turquía.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T175555.049.jpg)
-
-**José** **Mourinho**, fiel a su estilo polémico y creativo, volvió a ser el centro de atención en el fútbol turco. El entrenador del Fenerbahce **protagonizó una escena insólita** durante el partido contra el Antalyaspor por la Superliga de Turquía, que le valió una tarjeta amarilla.
-
-El portugués, molesto por un gol anulado a su equipo por fuera de juego, **decidió “improvisar” su propio VAR**. Frente a las cámaras de televisión, Mourinho reprodujo en su computadora portátil la repetición de la jugada polémica, intentando demostrar que la decisión arbitral había sido incorrecta.
-
-### Más noticias:
-
-* [Real Madrid empata en un controvertido derbi ante el Atlético](https://www.elcomercio.com/deportes/futbol/real-madrid-empata-en-un-controvertido-derbi-ante-el-atletico.html "Real Madrid empata en un controvertido derbi ante el Atlético")
-* [Moisés Caicedo se sumó a los ecuatorianos capitanes en Inglaterra](https://www.elcomercio.com/deportes/moises-caicedo-pervis-antonio-valencia-capitan.html "Moisés Caicedo se sumó a los ecuatorianos capitanes en Inglaterra")
-* [Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-igualo-bayern-munich.html "Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich")
-
-“Mi analista me enseñó el portátil. Nuestra cámara táctica cubre todo el campo y, según la posición del lateral izquierdo, **para nosotros el gol era válido**“, dijo Mourinho en la rueda de prensa posterior al partido que terminó con victoria del Fenerbahce.
-
-“No dije ni una sola palabra, no hice ningún tipo de presión, solo puse el portátil (ante la cámara que retransmitía el partido). Hay muchas situaciones dudosas en el partido, tuve esa reacción de manera tranquila, pero el árbitro decidió sacarme tarjeta amarilla. Está bien”, dijo el técnico portugués.
-
-> Jose Mourinho is incredible.  
->   
-> Protesting a decision by putting a picture of it in front of camera. What a man. [pic.twitter.com/iwbT96plUh](https://t.co/iwbT96plUh)
-> 
-> — Out of Context Football Manager (@nocontextfm1) [September 29, 2024](https://twitter.com/nocontextfm1/status/1840485022769521067?ref_src=twsrc%5Etfw)
-
-¿Qué pasó en el partido? 
--------------------------
-
-El **Fenerbahce** iba ganando 0-1 en el partido de la Superliga cuando en el minuto 76 el delantero bosnio Edin Dzeko marcó un segundo gol, que fue anulado por el árbitro por fuera de juego.
-
-José Mourinho tomó el portátil y **mostró ante una de las cámaras** que retransmitían el encuentro el momento preciso de la acción para probar, a su juicio, que el tanto era válido, improvisando así su propia versión del VAR.
-
-En la **prensa** **turca** se han publicado opiniones de todos los gustos al respecto, desde llamamientos a “echar a Mourinho” por una falta de respeto al trabajo del árbitro, hasta otras, más moderadas, que subrayaban que “no hay precedentes” para un caso de este tipo y que Uefa y la FIFA deberían aclarar si se han violado sus normas o no. 
-
-Adolescente fue asesinada mientras grababa videos para TikTok en Guayaquil
-==========================================================================
-
-Los desconocidos se habrían equivocado de objetivo, buscaban asesinar a su primo, también menor de edad.
---------------------------------------------------------------------------------------------------------
-
-![Los desconocidos aprovecharon la oscuridad en el sector por los cortes de luz programados para cometer el crimen](https://www.elcomercio.com/wp-content/uploads/2024/09/asesinato-suburbio.jpg)
-
-Una adolescente de **16 años** fue asesinada a tiros, cerca al Estero Salado, en el suroeste de **Guayaquil**.
-
-La víctima se encontraba en los exteriores de su domicilio ubicado en el Suburbio, en compañía de dos primos, cuando fue sorprendida por **desconocidos**.
-
-### Más noticias
-
-* [Horarios de cortes de luz en Guayaquil este lunes 30 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-lunes-30-de-septiembre-horarios.html "Horarios de cortes de luz en Guayaquil este lunes 30 de septiembre")
-* [Granadas, dinamita y armas fueron decomisadas en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/granadas-dinamita-armas-decomisadas-guayaquil.html "Granadas, dinamita y armas fueron decomisadas en Guayaquil")
-* [Policía desarticuló banda que adulteraba alcohol en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-banda-adulteraba-alcohol-guayaquil.html "Policía desarticuló banda que adulteraba alcohol en Guayaquil")
-
-El grupo de familiares salió de su casa para pasar el tiempo que restaba del **apagón programado** afuera, junto a sus vecinos.
-
-Crimen ocurrió durante un corte de luz programado
--------------------------------------------------
-
-Los sospechosos aprovecharon la **oscuridad** en el sector para acercarse a los jóvenes y atentar contra uno de ellos, mientras grababan videos para la red social **TikTok**.
-
-**Nahomi S.** cayó de inmediato al piso producto de las heridas de bala que recibió en la cabeza; sus familiares trataron de socorrerla, pero **falleció** a los pocos minutos.
-
-En medio del llanto de su madre, la **Policía** y Criminalística llegaron al lugar para realizar el levantamiento del cuerpo y recoger indicios.
-
-Tras cometer el crimen, los armados **huyeron** sin ser identificados por los testigos.
-
-Un familiar contó a RTS que ellos estaban dentro de su casa cuando escucharon las detonaciones, sin imaginar que iban dirigidas en contra de los adolescentes.
-
-Joven no habría sido el objetivo de los armados
------------------------------------------------
-
-Se presume que el ataque iba dirigido para uno de sus **primos**, también menor de edad.
-
-El adolescente habría recibido **amenazas de muerte** recientes por conflictos con otros jóvenes.
-
-Nahomi cursaba el segundo año de bachillerato y le gustaba pasar su tiempo libre grabando contenido para sus plataformas.
-
-Luego del hecho que ocurrió la noche del viernes 27 de septiembre, sus cercanos la **velaron** este fin de semana en su barrio.
-
-Bizarrap sin lentes ni gorra es así
-===================================
-
-El productor musical argentino fue captado en el Chase Stadium, generando reacciones entre los fans.
-----------------------------------------------------------------------------------------------------
-
-![Bizarrap posa con sus premios. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/09/bizarrap-El-comercio.jpg)
-
-**Bizarrap**, el reconocido productor argentino, fue sorprendido sin sus características lentes y gorra durante el partido entre el **Inter Miami FC y el Charlotte FC** en el [Chase Stadium](https://es.wikipedia.org/wiki/Chase_Stadium "https://es.wikipedia.org/wiki/Chase_Stadium").
-
-Su presencia en el estadio no pasó desapercibida, especialmente cuando las cámaras de Apple TV lo enfocaron, revelando su rostro al público. Incluso en **Instagram,** es difícil encontrar al artista sin esos accesorios.
-
-### Más noticias
-
-* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
-* **[Los problemas fiscales de Shakira inspiran la serie de streaming ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")**
-
-La imagen rápidamente se **viralizó en las redes sociales**, desatando una ola de reacciones sorprendidas.
-
-La presencia de Messi
----------------------
-
-El encuentro, que terminó en un empate 1-1, tuvo a Lionel Messi como figura principal, anotando un gol a los 22 minutos del segundo tiempo.
-
-Bizarrap asistió al partido para ver a **Messi en acción** y, en un momento inesperado, decidió quitarse su gorra y lentes, lo que provocó cierta incomodidad al ser captado por las cámaras.
-
-Reacciones en redes sociales
-----------------------------
-
-La reacción de los internautas fue inmediata. Comparaciones con otros famosos que suelen ocultar sus rostros se hicieron virales.
-
-“Ver a Sia sin peluca. Ver el rostro de Kakashi sin la máscara. Ver **a [Bizarrap](https://www.instagram.com/bizarrap/?hl=es-la "https://www.instagram.com/bizarrap/?hl=es-la") sin los lentes**”, comentó un usuario en X.
-
-Otros expresaron su sorpresa y decepción al ver a su ídolo al descubierto, preguntándose: “¿Qué sentido tiene mostrar a Bizarrap sin lentes ni gorra?”
-
-Éxitos y nominaciones al Grammy
--------------------------------
-
-**[Bizarrap](https://www.elcomercio.com/tendencias/entretenimiento/quien-es-bizarrap.html "https://www.elcomercio.com/tendencias/entretenimiento/quien-es-bizarrap.html")**, conocido por sus exitosas colaboraciones con artistas como **Shakira, Nathy Peluso y Duki**, también recibió este año dos nominaciones a los Latin Grammys 2024 en categorías importantes.
-
-Compite por Mejor Fusión/Interpretación Urbana y Mejor Interpretación de Música Electrónica Latina. La ceremonia se llevará a cabo el 14 de noviembre de 2024 en el **Kaseya Center de Miami**.
-
-La sorpresa de Bizarrap sin sus característicos accesorios no solo capturó la atención de los espectadores del partido, sino que también destacó su continua influencia en la industria musical.
-
-Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?
-===================================================================================
-
-La Policía localizó a personas reportadas como desaparecidas en la última semana de septiembre.
------------------------------------------------------------------------------------------------
-
-![Personas reportadas como desaparecidas fueron localizadas.](https://www.elcomercio.com/wp-content/uploads/2024/09/personas-desaparecidas.jpg)
-
-Cada día aparecen nuevos casos de personas reportadas como **desaparecidas en Ecuador**. La **Policía** logró dar con varias de ellas, antes de cerrar septiembre de 2024.
-
-La institución detalló algunas de las causas identificadas en los casos alertados a **escala nacional**.
-
-### Más noticias
-
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-* [Presunta banda fue detenida por tentativa de secuestro en Sangolquí](https://www.elcomercio.com/actualidad/seguridad/presunta-banda-detenida-tentativa-secuestro-sangolqui.html "Presunta banda fue detenida por tentativa de secuestro en Sangolquí")
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-
-Personas desaparecidas en Ecuador
----------------------------------
-
-La **[Policía](https://noticias.policia.gob.ec/policia-aprehendio-a-presunta-banda-delictiva-por-tentativa-de-secuestro-en-sangolqui/)** informó que durante la última semana de septiembre se logró localizar a 63 personas que estaban reportadas como desaparecidas.
-
-Los casos son a escala nacional y tuvieron la participación de Dirección Nacional de Investigación de Delitos Contra la Vida, Muertes Violentas, Desapariciones, Extorsión y Secuestro (Dinased).
-
-Los agentes investigadores se desplegaron para dar con los ciudadanos en **El Oro, Guayas, Los Ríos, Esmeraldas, Azuay, Bolívar, Carchi, Chimborazo, Pichincha, Cañar, Cotopaxi, Imbabura, Manabí, Santa Elena y Santo Domingo de los Tsáchilas**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/personas-localizadas-1024x683.jpg)
-
-Persona localizadas por la Policía, en distintas provincias de Ecuador. Foto: Policía Nacional
-
-Las principales causas identificadas
-------------------------------------
-
-En las labores de búsqueda, la **Policía** pudo identificar que la mayoría de las presuntas desapariciones se produjeron por situaciones sentimentales, problemas económicos, familiares, entre otros.
-
-Además de la ubicación de las personas, los uniformados realizaron el trasladado y entrega de personas localizadas a su **entorno familiar**, poniéndolos a buen recaudo, sanos y salvos.
-
-Proceso en Fiscalía
--------------------
-
-La **[Fiscalía](https://www.fiscalia.gob.ec/informacion-desaparecidos/)**, a través de su portal web, especifica que no es necesario que un familiar esté desaparecido por más de 24 horas. Se puede reportar el caso de forma inmediata.
-
-Se considera una persona desaparecida a toda aquella que se encuentre con paradero desconocido. En cambio, **extravíada** se refiere a quien sale de su domicilio o de algún otro lugar y no puede regresar por alguna causa ajena a su voluntad.
-
-Un ser humano perdido, por otro lado, se trata de ausencia voluntaria e involuntaria de una persona del hogar, **establecimiento educativo** u otro lugar en el que se suponía debía permanecer.
-
-¿Cómo reportar la desaparición de un familiar?
-----------------------------------------------
-
-* Acudir de forma inmediata a la Fiscalía más cercana o a las Unidades Especializadas de la Policía Nacional: **Dinased** y Dirección Nacional de Policía Especializada para Niños, Niñas y Adolescentes (**Dinapen)**.
-* La recepción de la noticia de la persona desaparecida se efectúa en el Servicio de Atención Integral de la **Fiscalía** (SAI), de lunes a viernes, de 08:00 a 17:00. Fuera del horario laboral y en días feriados, se receptará en las Unidades Especializadas de la **Policía Nacional**.
-* Una vez que se conoce la noticia de la persona desaparecida, el fiscal abre la investigación y dispone las diligencias urgentes e inmediatas.
-
-¿Cómo colaborar a las investigaciones?
---------------------------------------
-
-Al momento de presentar la **denuncia** se requiere entregar una fotografía reciente de la persona desaparecida, así como facilitar toda la información posible de la persona desaparecida para orientar su búsqueda.
-
-* Colaborar con las diligencias que realiza el investigador.
-* Informar a las autoridades cuando la persona desaparecida retorna al hogar o ha sido localizada.
-
-Cristiano Ronaldo dedicó su gol 904 a su padre fallecido
-========================================================
-
-Cristiano Ronaldo llegó a 904 goles en su carrera. Su último tanto fue en la Champions League de Asia.
-------------------------------------------------------------------------------------------------------
-
-![Cristiano Ronaldo con el Al-Nassr en la Champions League de Asia en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ronaldo_papa_1.jpg)
-
-**Cristiano Ronaldo** vivió una intensa jornada con el Al-Nassr en la segunda jornada del grupo B de la Champions League de Asia, en la que volvió a marcar para guiar a una nueva victoria en su carrera.
-
-El Al-Nassr recibió este **lunes 30 de septiembre de 2024 al Al-Rayyan de Catar**. El Al -Awwal Park fue el escenario que vivió una nueva jornada dorada en la que Cristiano Ronaldo destacó.
-
-### Más noticias:
-
-* [Gonzalo Plata será dirigido en Flamengo por Filipe Luis](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-entrenador-tite.html "Gonzalo Plata será dirigido en Flamengo por Filipe Luis")
-* [Deportivo Quito, en racha, visitará a Santa Elena en Samborondón](https://www.elcomercio.com/deportes/futbol/deportivo-quito-partido-santa-elenea-samborondon.html "Deportivo Quito, en racha, visitará a Santa Elena en Samborondón")
-* [Ariel Holan se consuela con la ‘irregularidad’ del torneo](https://www.elcomercio.com/deportes/futbol/barcelona-ariel-holan-libertador-empate.html "Ariel Holan se consuela con la ‘irregularidad’ del torneo")
-
-Ronaldo marcó a los **76 minutos un golazo para el definitivo 2-1**, a pase de Abdulrahman Ghareeb, que dejó en el camino a un par de rivales para dejar en posición de gol para que el portugués defina con la calidad que lo distingue.
-
-El senegalés Sadio Maní puso el 1-0 a los 45+1′ para el Al-Nassr. **Róger Guedes descontó a los 87 minutos**, para darle un poco de dramatismo al cierre del juego.
-
-Los sauditas ocupan el **segundo puesto en el grupo B con 4 puntos**. El líder es el Al-Ahli Saudi con 6 puntos, frutos de dos victorias en igual número de presentaciones.
-
-> 🟡🔵❤️ Cristiano Ronaldo: “Today's goal has a different flavor… I wish my father was alive because today is his birthday”. [pic.twitter.com/uPlmIMXIMg](https://t.co/uPlmIMXIMg)
-> 
-> — Fabrizio Romano (@FabrizioRomano) [September 30, 2024](https://twitter.com/FabrizioRomano/status/1840859382277447999?ref_src=twsrc%5Etfw)
-
-La emotiva dedicatoria de Cristiano Ronaldo
--------------------------------------------
-
-“El gol de hoy tiene un sabor diferente y **ojalá mi padre estuviera vivo porque hoy es su cumpleaños**“, declaró un emocionado Cristiano Ronaldo a los medios de comunicación una vez que se consumó la victoria.
-
-José Dinis Aveiro estaría cumpliendo 71 años este día, por lo que el **astro lusitano fue al tiro de esquina y levantó los brazos** hacia el cielo en señal de respeto hacia su memoria, describe AS de España en su portal web.
-
-Hay que recordar que el **fallecimiento del padre de Cristiano Ronaldo**, agrega AS, fue el 5 de septiembre de 2005 en Londres, justo 24 días antes de su cumpleaños número 52 y cuando su hijo empezaba a despuntar con Manchester United.
-
-> De zurda, de diestra, de cabeza, de chilena. Ya sabemos que Cristiano Ronaldo es capaz de completar todos los registros. Gol 904 en su carrera y contando.[pic.twitter.com/HRPkTDfP8t](https://t.co/HRPkTDfP8t)
-> 
-> — VarskySports (@VarskySports) [September 30, 2024](https://twitter.com/VarskySports/status/1840843067491746246?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Outfits que tu Instagram se merece
-==================================
-
-Renueva tu feed de Instagram y tu armario para lucir audaz, sofisticada y llena de estilo.
-------------------------------------------------------------------------------------------
-
-![H&M cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/HM-principal.jpg)
-
-Tu _feed_ de **Instagram** necesita renovar su espíritu igual que tu armario se merece renovar sus _outfits_ para hacerte lucir audaz, sofisticada y llena de estilo.
-
-Consíguelo con prendas de **[H&M](https://ec.hm.com/ "https://ec.hm.com/")** que elevarán tus _looks_ al siguiente nivel. Los tonos intensos, los materiales de alta calidad y los detalles intrigantes se convertirán en tus mejores aliados para destacar.
-
-### Más noticias
-
-* **[El ‘clean girl look’ está ligado al autocuidado](https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html "https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html")**
-* **[¿Qué colores combinan con rojo?](https://www.elcomercio.com/afull/colores-combinan-rojo.html "https://www.elcomercio.com/afull/colores-combinan-rojo.html")**
-
-Te ofrecemos recomendaciones para armar atuendos que harán brillar tu estilo en cada publicación.
-
-Brilla en las fiestas
----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/2-1-1024x683.jpg)
-
-H&M cortesía
-
-Ya llegan las **celebraciones al** **Ecuador**. En octubre se vienen las **fiestas de Guayaquil**; en **noviembre, los festejos en Cuenca**, y en **diciembre, las fiestas de Quito**, además de **Navidad** y **Fin de Año**. Para todo eso, de ley la opción perfecta para tus **#OOTD** son las prendas de la nueva colección de H&M como este **vestido dorado**. Combínalo con unos **botines negros** si la ocasión es más informal y con unos **tacones negros** si la situación requiere más elegancia.
-
-Juega con los tonos en tendencia
---------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/3-1-1024x683.jpg)
-
-H&M cortesía
-
-Para un _look_ cálido, pero igualmente sofisticado, opta por prendas en tonos madera o marrón, que le darán un aire refinado a tu estilo. Son ideales para destacar en eventos y darle un toque elegante a tu guardarropa. Incorpora estos tonos en prendas como faldas y vestidos para un estilo moderno y versátil que resaltará en tu timeline.
-
-Añade texturas de lujo a tu armario
------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/4-1024x683.jpg)
-
-H&M cortesía
-
-El cuero y la gamuza son los materiales estrella de la temporada. No solo aportan una textura rica, cómoda y sexy, sino que también ofrecen ese toque de sofisticación que transforma cualquier atuendo. Un vestido de cuero o una chaqueta de gamuza pueden ser el centro de atención de un _look_ audaz y contemporáneo. Perfecto para tus _stories_.
-
-Un blazer es un básico del guardarropa
---------------------------------------
-
-![H&M cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/5-1024x683.jpg)
-
-H&M cortesía
-
-Sin duda, una prenda clave para elevar cualquier _look_ esta temporada y después es el _blazer_ negro. Es increíble cómo esta prenda versátil y elegante, puede transformar un conjunto casual en algo digno de una cena o evento formal. Sirve para el día o la noche, para un momento relajado o para ir a trabajar. Combínalo con _jeans_, faldas, _shorts_, _leggins_, tenis, etc., y estarás lista para la foto perfecta.
-
-Destaca con un _print_ de leopardo
-----------------------------------
-
-![H&M cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/6-1024x683.jpg)
-
-H&M cortesía
-
-No subestimes el impacto de un abrigo con _[**print**](https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html "https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html")_ de leopardo en armario y tus _posts_. Este estampado audaz puede transformar un conjunto básico en algo llamativo y elegante, además de abrigarte.
-
-Imagínalo sobre el vestido que te pondrás para la **cena de Nochebuena** o el que usarás en **Fin de Año**. Te verás regia y sin pasar frío.
-
-Con estas ideas, tus _outfits_ estarán listos para hacerte brillar en Instagram y más allá. ¡Haz que cada _look_ cuente!
-
-Liga de Quito vs. El Nacional se jugará sin hinchada visitante
-==============================================================
-
-Liga de Quito y El Nacional pelearán por el último cupo a semifinales de la Copa Ecuador.
------------------------------------------------------------------------------------------
-
-![Liga de Quito y El Nacional jugarán el último partido de los cuartos de final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T173451.889.jpg)
-
-Las dirigencias de **Liga de Quito y El Nacional** tomaron una drástica decisión para garantizar la seguridad en el enfrentamiento por la Copa Ecuador, que se disputará en el Estadio Rodrigo Paz Delgado. El partido se jugará sin la presencia de hinchada visitante.
-
-La decisión, tomada en conjunto por ambos clubes, se debe a los incidentes ocurridos la semana pasada, cuando el partido fue suspendido debido a los incendios que afectaron a Quito. La policía detuvo a supuestos hinchas identificados como seguidores del ‘Bi-Tri’ por portar **machetes en su camino hacia el estadio.**
-
-### Más noticias:
-
-* [Liga de Quito lanza duras críticas por arbitraje en Liga Pro](https://www.elcomercio.com/deportes/liga-quito-criticas-arbitraje-isaac-alvarez-pablo-sanchez.html "Liga de Quito lanza duras críticas por arbitraje en Liga Pro")
-* [El Nacional realiza donaciones por incendios forestales en Quito](https://www.elcomercio.com/deportes/el-naciona-incendios-donaciones-quito.html "El Nacional realiza donaciones por incendios forestales en Quito")
-* [Liga de Quito atraviesa su peor momento del 2024](https://www.elcomercio.com/deportes/futbol/liga-de-quito-atraviesa-su-peor-momento-del-2024.html "Liga de Quito atraviesa su peor momento del 2024")
-
-“De común acuerdo, y acogiendo las **recomendaciones de seguridad para las hinchadas**, luego de los hechos violentos que se suscitaron el pasado miércoles 25 de septiembre, se ha tomado la decisión de no habilitar la localidad general sur alta, destinada a la hinchada visitante”, publicó Liga de Quito en un comunicado oficial.
-
-Asimismo, el club informó que los hinchas de El Nacional que adquirieron entradas podrán solicitar la **devolución** de su **dinero** a partir del jueves 3 de octubre en la sede del club.
-
-> 🚨 Comunicado oficial [pic.twitter.com/ylZrChiqo8](https://t.co/ylZrChiqo8)
-> 
-> — LDU Oficial (@LDU\_Oficial) [September 30, 2024](https://twitter.com/LDU_Oficial/status/1840867429943021772?ref_src=twsrc%5Etfw)
-
-Liga de Quito vs. El Nacional
------------------------------
-
-El partido entre Liga de Quito y El Nacional estaba programado originalmente para el miércoles 25 de septiembre en el Estadio Rodrigo Paz Delgado. Sin embargo, por los incendios forestales que afectaron a la capital, el juego se suspendió.
-
-La nueva fecha para este compromiso **será el miércoles 2 de octubre**, a las 17:00.
-
-Ambos equipos pelearán por el último cupo en las semifinales del torneo organizado por la **Federación Ecuatoriana de Fútbol** (FEF).
-
-¿Cómo va la Copa Ecuador?
--------------------------
-
-La Copa Ecuador se encuentra en su fase decisiva y ya cuenta con tres de los cuatro semifinalistas que buscarán alzar el título.
-
-El primero en clasificar a las semifinales fue **Universidad Católica**, que se enfrentará a Independiente del Valle, uno de los campeones históricos del certamen.
-
-En la otra llave ya se encuentra **Mushuc Runa**, que espera al ganador del duelo entre Liga de Quito y El Nacional, ambos equipos que también han sido campeones de la Copa Ecuador en ediciones anteriores.
-
-La economía de Ecuador cayó, ¿por qué decreció?
-===============================================
-
-La economía de Ecuador cayó 2,2% en el segundo trimestre de 2024, informa el Banco Central.
--------------------------------------------------------------------------------------------
-
-![El decrecimiento de la construcción es uno de los factores de la caída de la economía de Ecuador en el segundo trimestre.](https://www.elcomercio.com/wp-content/uploads/2024/09/construccion-cayo.jpg)
-
-El **Banco Central de Ecuador** publicó los resultados del comportamiento de la **economía ecuatoriana** en el segundo trimestre de 2024: **la economía cayó.**
-
-### Más noticias
-
-* [Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras](https://www.elcomercio.com/actualidad/negocios/las-ventas-del-ecuador-tienen-un-preocupante-desempeno-en-la-economia-vea-las-cifras.html "Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras")
-* [Ecuador busca financiamiento en China para proyectos energéticos y de seguridad](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-financiamiento-proyectos-energeticos-seguridad-en-china.html "Ecuador busca financiamiento en China para proyectos energéticos y de seguridad")
-* [¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?](https://www.elcomercio.com/actualidad/negocios/ecuador-crecimiento-economico-pobreza-politicas-cambio-climatico.html "¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?")
-
-La economía de Ecuador cayó, debido a un decrecimiento del 2,2% del Producto Interno Bruto (PIB) con respecto al mismo periodo de 2023. 
-
-Esos indicadores revelan también que la economía de Ecuador cayó 0,5% en el primer semestre de 2024, indica el **exministro de Finanzas, Fausto Ortiz, en su cuenta X.**
-
-¿Por qué decreció la economía de Ecuador?
------------------------------------------
-
-El **Banco Central del Ecuador** informa que el decrecimiento de **2,2% de la economía de Ecuador** se debe a varios factores.
-
-Uno de ellos es la contracción del **sector de la construcción**, que tuvo un **bajón del 17,2%**. Esta actividad representa el 44% del componente técnico llamado ‘formación bruta de capital fijo’.
-
-El segundo trimestre también se caracterizó por **una caída de la demanda de bienes de capital**, como maquinaria y equipo de transporte. 
-
-Un tercer factor fue el **bajo consumo de los hogares**, debido a la crisis económica. Las familias ecuatorianas redujeron **la compra de productos textiles (ropa y otros artículos) y calzado.**
-
-Tampoco hay compras, por lo que en el segundo trimestre de 2024 se reflejó una caída de los servicios de comercio, transporte, alojamiento y servicios de comida. 
-
-Para rematar, el gasto del Gobierno -igualmente- se redujo, ya que se contrajo en el **rubro de compras de bienes y servicios.**
-
-Todo eso, empujó a la caída del 2,2% de la economía ecuatoriana en el segundo trimestre de 2024, comparado con 2023.
-
-¿Cómo se comportaron las exportaciones?
----------------------------------------
-
-La **economía de Ecuador no cayó por las exportaciones;** al contrario, estas tuvieron un comportamiento positivo.
-
-El Banco Central indica en su informe que las exportaciones tuvieron un buen desempeño.
-
-Ese balance positivo del segundo trimestre de 2024 estuvo impulsado por mayores v**entas de petróleo crudo, camarón elaborado, cacao, pescado y atún en conservas o enlatado, minerales metálicos como concentrados de cobre y plomo.** 
-
-Asimismo, las importaciones crecieron 0,2%, por un aumento en la demanda de productos refinados de petróleo, explica el Banco Central.
-
-En el sector de industrias, cinco de los 20 sectores presentaron un desempeño positivo. Estas son las actividades profesionales técnicas, pesca y acuicultura, explotación de minas y canteras, manufactura de productos alimenticios y actividades inmobiliarias[.](https://es.wikipedia.org/wiki/Banco_Central_del_Ecuador "https://es.wikipedia.org/wiki/Banco_Central_del_Ecuador")
-
-El legado de Dikembe Mutombo en el corazón de la NBA
-====================================================
-
-Dikembe Mutombo, miembro del Salón de la Fama del Baloncesto de la NBA, falleció a los 58 años. ¿Qué ocurrió?
--------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo del exjugador de la NBA, Dikembe Mutombo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Mutombo.jpg)
-
-El legendario exjugador de baloncesto **Dikembe Mutombo** murió a los 58 años a causa de un cáncer cerebral del que fue diagnosticado hace dos años, según informó la **NBA** este 30 de septiembre del 2024.
-
-“**Dikembe Mutombo** era simplemente más grande que la vida misma. En la cancha, fue uno de los mejores bloqueadores de tiros y jugadores defensivos en la historia de la **NBA**.
-
-Fuera de la cancha, puso su corazón y alma en ayudar a los demás”, dijo en un comunicado el comisionado de la liga, **Adam Silver.**
-
-### Más noticias:
-
-* [Bronny y LeBron James serán el primer duó padre-hijo en la NBA](https://www.elcomercio.com/deportes/lebron-james-bronny-padre-hijo-nba-lakers.html "Bronny y LeBron James serán el primer duó padre-hijo en la NBA")
-* [El México que deja López Obrador y recibe Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/lopez-obrador-despide-mexico-claudia-sheinbaum-asume-presidencia.html "El México que deja López Obrador y recibe Claudia Sheinbaum")
-* [Sánchez califica de ‘inaceptable’ la exclusión del rey de la toma de posesión de Sheinbaum](https://www.elcomercio.com/actualidad/mundo/sanchez-califica-inaceptable-exclusion-rey-toma-posesion-sheinbaum.html "Sánchez califica de ‘inaceptable’ la exclusión del rey de la toma de posesión de Sheinbaum")
-
-“El espíritu indomable de Dikembe continúa en aquellos a quienes ayudó e inspiró a lo largo de su extraordinaria vida”, añadió.
-
-Miembro del Salón de la Fama del Baloncesto, el congoleño disputó 18 temporadas en la NBA en las que destacó sobre todo por su imponente poderío defensivo.
-
-Así, Mutombo es el segundo jugador con más tapones en la historia de la NBA con 3.289, solo por detrás de otro ilustre pívot africano como **Hakeem Olajuwon** (3.830).
-
-A lo largo de su trayectoria en la NBA (1991-2009) jugó para seis equipos: Denver Nuggets, Atlanta Hawks, Philadelphia 76ers, New Jersey Nets, New York Knicks y Houston Rockets.
-
-Mutombo fue elegido en ocho ocasiones para el All-Star y ganó cuatro veces el premio al Defensor del Año.
-
-Tras abandonar el deporte profesional, **Mutombo** dedicó gran parte de su tiempo a fines caritativos y causas sociales.
-
-En octubre de 2022 anunció que tenía un tumor cerebral y que había iniciado un tratamiento. 
-
-El legado de Dikembe Mutombo
-----------------------------
-
-El griego **Giannis Antetokounmpo,** líder de los Milwaukee Bucks en la NBA, manifestó su pésame por la muerte del legendario exjugador congoleño **Dikembe Mutombo** a los 58 años por un cáncer cerebral y aseguró que va a ser recordado para siempre.
-
-“Envío mi apoyo a su familia, no solo mío, sino de los Bucks, cuando alguien muere es muy duro para todos. Cuando tuve la oportunidad de ir a NBA África siempre me hablaba, me daba consejos sobre cómo vivir la temporada, cómo cuidarme”, aseguró Giannis en el día de medios de los **Bucks** previo al arranque de la NBA, fijado el próximo 22 de octubre.
-
-“Él era alto, como yo, y me aconsejaba hacer estiramientos, yoga. Siempre le recordaremos. Es triste recibir esta noticia. Apoyo a su familia, a sus seres queridos y a sus amigos”, añadió.
-
-A nivel deportivo, Giannis consideró que los Bucks son un equipo “infravalorado” y destacó que no se ha fijado en los cambios realizados este verano por sus rivales en la Conferencia Este porque su prioridad es su equipo y estar sano.
-
-También aseguró que participar en los Juegos Olímpicos de París con Grecia fue una de las mejores experiencias de su vida y que espera repetirla en un futuro.
-
-Mónica Palencia habló sobre la reducción de homicidios intencionales entre 2023 y 2024
-======================================================================================
-
-La ministra Mónica Palencia dijo que la reducción de homicidios intencionales se ha dado a escala nacional y en algunas ciudades.
----------------------------------------------------------------------------------------------------------------------------------
-
-![El Bloque de Seguridad dio a conocer los resultados de los operativos realizados.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-7-2.jpg)
-
-La ministra del Interior, **Mónica Palencia,** habló sobre la reducción de **homicidios intencionales** entre 2023 y 2024 a escala nacional y en algunas ciudades, este lunes 30 de septiembre de 2024.
-
-El **Bloque de Seguridad** dio a conocer los resultados de los operativos realizados entre el 1 de enero y el 29 de septiembre de 2024.
-
-### Más noticias:
-
-* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
-* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
-
-Los ministros de Defensa, **Gian Carlo Loffredo** y del Interior, **Mónica Palencia,** junto al jefe del Comando Conjunto de las Fuerzas Armadas (FF.AA.), **Jaime Vela** y el comandante general del Policía, **Víctor Hugo Zárate,** informaron las cifras.
-
-El ministro de Defensa, **Gian Carlo Loffredo**, inició con un saludo a los bomberos.
-
-Comentó que las Fuerzas Armadas (FF.AA.) colaboran con la activación de alertas para que no se repitan los incendios; además, colaborarán en el proceso de reforestación.
-
-Loffredo señaló que hay 1 600 explosivos decomisados y esto es un gran golpe a la minería ilegal y a los actos terroristas.
-
-La **Armada**, en coordinación con la **DEA** de Estados Unidos, decomisó 338 kilos de droga en alta mar.
-
-Este decomiso tuvo una afectación de 10 millones de dólares a estos grupos, entre otros datos.
-
-Mónica Palencia habló de la reducción de homicidios intencionales entre 2023 y 2024
------------------------------------------------------------------------------------
-
-Mónica Palencia, ministra del Interior, dijo que las operaciones del Bloque de Seguridad se han desplazado en siete provincias en combate a los grupos de delincuencia organizada.
-
-Respecto a los homicidios intencionales, la Ministra señaló que, en un comparativo entre el 1 de enero y el 29 de septiembre de 2023 y 2024, existe una reducción del 18% de la violencia a escala nacional.
-
-Esto significa una reducción de 5 853 a 4 805 homicidios, es decir, 1 048 homicidios intencionales menos en este período.
-
-En Quito, existe una reducción del 15% de homicidios intencionales, en el mismo período comparativo.
-
-En Manta y Durán, desde la intervención del Bloque de Seguridad, existe una reducción del 33% y del 19% en homicidios intencionales, respectivamente.
-
-Además, comparando este mismo período, se ha decomisado 213,54 toneladas de droga, un 26% más en relación con las 169,90.
-
-“Sé que esto les explica muchísimas cosas”, dijo.
-
-Esto, al referirse que no están permitiendo que Ecuador sea un país de tránsito o exportación de sustancias ilícitas.
-
-Jaime Vela, jefe del Comando Conjunto de las FF.AA., señaló que se realizaron 245 mil operaciones, la mayoría en provincias con estado de excepción.
-
-Guayas, Manabí, Santa Elena y El Oro, sin descuidar Pichincha.
-
-Los militares dan apoyo permanente al SNAI, las áreas estratégicas, Gestión de Riesgos e infraestructura crítica digital.
-
-Zárate expresó que 55 383 personas fueron detenidas, 7 290 armas de fuego decomisadas, 16 653 armas blancas también.
-
-Además, 4 750 vehículos decomisados, 26 912 operativos realizados, nueve objetivos de alto valor detenidos, entre otras cifras.
-
-Mónica Palencia y el apoyo del Bloque de Seguridad
---------------------------------------------------
-
-El Bloque de Seguridad mostró su apoyo a la ministra del Interior, Mónica Palencia.
-
-Lo hace mientras se procesa un juicio político en su contra en la Asamblea Nacional por incumplimiento de funciones.
-
-El ministro de Defensa, Gian Carlo Loffredo, manifestó que quienes conforman el Bloque están conscientes de los riesgos que han trastocado sus vidas.
-
-“El Bloque de Seguridad siempre estará para apoyar y respaldar (…) y estar detrás de cada soldado, policía, comandante y, por su puesto, de sus ministros”, dijo.
-
-Loffredo agregó que existen quienes, activamente, tratan de distraerlos de la lucha contra el terrorismo y la delincuencia, sobre todo del narcotráfico y la corrupción.
-
-“No nos van a distraer, porque estamos comprometidos y unidos (…) más unidos que nunca, firmes y fuertes, como lo que somos, como un bloque”, agregó.
-
-Al final de la rueda de prensa, Palencia dijo que prefería no usar ese espacio para hablar sobre el juicio político en su contra.
-
-Agradeció el apoyo del Bloque, de los comandantes y generales y dijo que, siguiendo el juicio en la Asamblea, se va a saber por qué ella resulta tan incómoda para la delincuencia organizada.
-
-Las cuatro autoridades del Bloque de seguridad se tomaron de las manos y las alzaron, como símbolo de que estaban juntos y unidos.
-
-Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas
-======================================================================================
-
-El embalse de Mazar incrementó su nivel debido a las lluvias recientes, pero las tres hidroeléctricas que dependen de él continúan apagadas.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![La capacidad total del embalse de Mazar es de 410 millones de metros cúbicos. Está ubicado en los límites de Azuay y Cañar. Cortesía: Presidente de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/05/Mazar-Ecuador-cortes-de-luz.jpg)
-
-El nivel del **embalse de Mazar**, ubicado en las provincias de **Cañar y Azuay**, se sigue recuperando tras las lluvias registradas durante el último fin de semana de septiembre de 2024. Sin embargo, las tres hidroeléctricas que alimentan este reservorio continúan apagadas en medio de la **crisis energética** del **Ecuador**.
-
-Más noticias
-------------
-
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-
-Según el registro de la **Corporación Eléctrica del Ecuador – Sur** (CelecSur), la cota del **embalse de Mazar** llegó a 2 117,95 de metros sobre el nivel del mar, este 30 de septiembre de 2024. A 35 metros del máximo que es 2 153.
-
-Asimismo, el caudal de Mazar se ubicó este lunes en 47,06 metros cúbicos por segundo, mientras que el domingo 29 de septiembre el promedio del caudal fue de 20,9 metros. Lo recomendable es que supere los 140 metros cúbicos por segundo.
-
-En los últimos siete días, el incremento del embalse de Mazar es de cerca 1,5 metros desde el pasado 21 de septiembre, cuando se registró el nivel más bajo del mes, que fue de 2 116,46 metros sobre el nivel del mar. Con esta poca cantidad de agua se retomaron los **cortes de luz** programados en todo el país.
-
-Las razones principales del incremento de la **cota del reservorio** son las lluvias registradas entre el viernes 27 y domingo 29 de septiembre en la zona Andina y la disminución del consumo debido a los **cortes de luz** en todo el país.
-
-Las hidroeléctricas del río Paute
----------------------------------
-
-Pese al incremento del **nivel del embalse** de **Mazar**, las tres hidroeléctricas que se alimentan de este reservorio permanecieron apagadas hasta las 14:00 de este lunes 30 de septiembre.
-
-Según el reporte de CelecSur, las centrales de **Mazar, Paute-Molino y Sopladora** estuvieron fuera de operación y no generaron ni un solo megavatio hora (MWh).
-
-El **Ministerio de Energía** señaló que estas centrales permanecieron apagadas para tratar de mantener el agua del embalse lo que más que se pueda. “Se están aprovechando los caudales de las **centrales hidroeléctricas** de pasada para entregar energía”, señaló.
-
-Para **Ricardo Buitrón,** consultor energético, la estrategia del Gobierno de conservar el embalse es razonable, ya que un estudio del Operador Nacional de Electricidad (Cenace) señala que **Mazar** debe estar lleno hasta finales de septiembre y solo en noviembre empezar a desembalsarlo, para suplir los caudales bajos de los meses más fuertes del estiaje.
-
-Hay que recordar que el período de estiaje normal empieza en octubre y se extiende hasta marzo, pero en este 2024 la época seca se adelantó y en **julio** ya se registraron caudales bajos y se empezó a consumir el agua de este reservorio.
-
-“Si en estos momentos, nosotros (Ecuador) tenemos la posibilidad de ir llenando el embalse de Mazar, eso es lo más conveniente, pero siempre y cuando se produzcan la menor cantidad de cortes de energía y el menor impacto a la población”, señaló.
-
-Para no consumir el embalse, **Ecuador** también está comprando energía a **Colombia,** 450 MW. El precio por cada KWh no se ha hecho público, pero debe estar entre los 46 y 60 centavos cada KWh, dijo Buitrón.
-
-Además, agregó, que la **conservación del agua** del embalse no debería salir tan caro, sino responder a criterios técnicos y económicos, que defina el Cenace.
-
-El embalse de Mazar
--------------------
-
-El embalse de **Mazar** es uno de los más importantes del país, ya que alimenta las centrales del complejo hidroeléctrico de la cuenca del Paute, que comprende las hidroeléctricas **Mazar, Paute- Molino y Sopladora**, juntas tienen una capacidad de **1 700 megavatios** de potencia. La presa de Mazar puede almacenar 410 millones de metros cúbicos de agua.
-
-Llega a la EEI la misión Crew-9, que traerá de vuelta a los astronautas de Starliner
-====================================================================================
-
-Wilmore y Williams iban a pasar más de una semana en la EEI, a donde llegaron en junio, pero tras problemas técnicos no pudieron resolverse.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía cedida por la NASA este domingo de la tripulación del SpaceX Crew-9 de la NASA junto a la expedición 72 a bordo de la Estación Espacial Internacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/mision-nasa-efe.jpg)
-
-La misión tripulada **Crew-9 de la NASA** y **SpaceX** llegó la tarde de este domingo 29 de septiembre de 2024, **sin complicaciones** a la **Estación Espacial Internacional** (EEI), para traer de vuelta a la Tierra en febrero de 2025 a los dos astronautas ‘atrapados’ en la estación orbital.
-
-### Más noticias
-
-* [La Tierra tendrá una segunda luna, de tamaño mini, durante casi dos meses](https://www.elcomercio.com/actualidad/mundo/tierra-tendra-segunda-luna-tamano-mini-durante-casi-dos-meses.html "La Tierra tendrá una segunda luna, de tamaño mini, durante casi dos meses")
-* [Descubre qué fantástica foto capturó la NASA el día de tu cumpleaños](https://www.elcomercio.com/tendencias/entretenimiento/descubre-que-fantastica-foto-capturo-la-nasa-el-dia-de-tu-cumpleanos.html "https://www.elcomercio.com/tendencias/entretenimiento/descubre-que-fantastica-foto-capturo-la-nasa-el-dia-de-tu-cumpleanos.html")
-* [La NASA cancela un proyecto del vehículo lunar](https://www.elcomercio.com/actualidad/mundo/la-nasa-proyecto-vehiculo-lunar.html "https://www.elcomercio.com/actualidad/mundo/la-nasa-proyecto-vehiculo-lunar.html")
-
-La **nave Dragon de SpaceX** atracó a las 17:30 del este de EE.UU. a la EEI.
-
-La escotilla de la estación se abrió casi dos horas después del arribo cuando el comandante de la misión, el astronauta de la NASA Nick Hague, y al cosmonauta de la agencia rusa Roscosmos Aleksandr Gorbunov, especialista de la misión, **fueron recibidos** por el equipo de la EEI.
-
-Los dos astronautas viajaban con dos asientos libres, a los que renunciaron otros dos astronautas; los ocuparán a su vuelta Barry ‘Butch’ Wilmore y Sunita ‘Suni’ Williams, los **astronautas de la cápsula Starliner** de Boeing ‘atrapados’ en la EEI.
-
-Wilmore y Williams iban a pasar poco más de una semana en la EEI, a donde llegaron en junio, pero tras problemas técnicos del aparato que no pudieron resolverse, la NASA decidió el 6 de septiembre que se quedaran en el espacio hasta que regrese **la Dragon, en febrero.**
-
-Los dos ocupantes de la Crew-9, la novena misión operativa de vuelos tripulados a bordo de la Dragon por encargo de la NASA, permanecerán unos cinco meses en el **laboratorio orbital efectuando** investigaciones.
-
-Los astronautas Hague y Gorbunov se sumarán a la expedición en la EEI, que actualmente está comandada por Williams, y **realizarán las investigaciones** y estudios en curso sobre la coagulación sanguínea, los efectos de la humedad en plantas cultivadas en el espacio como la lechuga y los cambios en la visión de los astronautas.
-
-El estudio de los cambios en la visión de las tripulaciones en el espacio es de especial importancia, por lo que intentarán saber si la vitamina B puede evitar o **mitigar este problema en los ojos**, dijo la gerente de integración de operaciones en la NASA, Dina Contella.
-
-¿Qué es el ‘fridgescaping’, la nueva tendencia de decorar refrigeradores? 
-==========================================================================
-
-El 'fridgescaping', una tendencia que transforma la organización del refrigerador en una obra de arte.
-------------------------------------------------------------------------------------------------------
-
-![Kathy Perdue creó el término 'fridgescaping' en 2011. Foto: Elle Decor.](https://www.elcomercio.com/wp-content/uploads/2024/09/Fridgescaping-refrigerador.jpg)
-
-El **‘fridgescaping’**, como sugiere su nombre, es la **tendencia de decorar el interior del refrigerador**, convirtiendo la organización de alimentos en una **obra de arte visual**.  
-
-### Más noticias
-
-* [Evita colocar imanes en la refrigeradora por estas razones](https://www.elcomercio.com/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html "https://www.elcomercio.com/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html") 
-* [Una mujer es la paciente cero de un tratamiento revolucionario para la longevidad](https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html "https://www.elcomercio.com/tendencias/salud/longevidad-paciente-cero-terapia-genica.html") 
-
-Según [La Nación](https://www.lanacion.com.ar/estados-unidos/asi-es-el-fridgescaping-la-tendencia-que-decora-refrigeradores-para-un-mayor-placer-cotidiano-nid11082024/ "https://www.lanacion.com.ar/estados-unidos/asi-es-el-fridgescaping-la-tendencia-que-decora-refrigeradores-para-un-mayor-placer-cotidiano-nid11082024/"), esta práctica va más allá de una **simple moda pasajera**. Aunque muchos lo asocian con el auge de Instagram, sus raíces son más antiguas. 
-
-**Los inicios del ‘fridgescaping’** 
-------------------------------------
-
-Siguiendo con La Nación, en 2011, **Kathy Perdue**, una diseñadora jubilada de Brentwood, California, **introdujo el término ‘fridgescaping’** tras inspirarse en el **‘tablescaping’**, una tendencia centrada en la **decoración artística de las mesas**, según informa Food & Wine, citada por La Nación.  
-
-Perdue observó que **el refrigerador es uno de los electrodomésticos que más se abren durante el día**, y se preguntó: “**¿Por qué no hacerlo visualmente atractivo?**“. Su objetivo era simple: hacer que cada vez que se abra el refrigerador, se disfrute de una experiencia estética. 
-
-**Evolución del ‘fridgescaping’** 
-----------------------------------
-
-Con el tiempo, esta idea evolucionó. Lo que empezó como una organización estética de alimentos y recipientes ahora incluye **elementos inesperados como flores frescas, antigüedades, fotos enmarcadas y hasta productos de belleza**.  
-
-En redes sociales, es común encontrar videos que muestran cómo se integran estos objetos en **composiciones armónicas** que buscan un equilibrio entre funcionalidad y belleza visual. 
-
-**Opiniones divididas** 
-------------------------
-
-**Esta tendencia ha despertado el interés de muchos**, pero también hay quienes la consideran excesiva o poco práctica. Sin embargo, **el ‘fridgescaping’ ha demostrado ser un fenómeno en crecimiento**, al ofrecer una **nueva forma de interactuar con el refrigerador y su contenido**. 
-
-**Riesgos del ‘fridgescaping’** 
---------------------------------
-
-Si bien el ‘fridgescaping’ se ha convertido en una **tendencia popular**, expertos advierten sobre los **posibles riesgos para la conservación de alimentos**. De acuerdo con [Actualidad RT](https://actualidad.rt.com/actualidad/523842-que-fridgescaping-ser-perjudicial "https://actualidad.rt.com/actualidad/523842-que-fridgescaping-ser-perjudicial"), esta práctica podría **contravenir las normas básicas de almacenamiento de alimentos**. 
-
-**Consejos de seguridad alimentaria** 
---------------------------------------
-
-La **Administración de Alimentos y Medicamentos de EE.UU.** (FDA), citada por Actualidad RT, ha señalado que **los alimentos deben guardarse en recipientes cubiertos o bolsas selladas para evitar la contaminación**.  
-
-Sin embargo, los videos de ‘fridgescaping’ muestran **alimentos expuestos junto a flores y objetos decorativos**, lo cual podría r**educir la vida útil de productos** como bayas y verduras. Además, el contacto con artículos no comestibles plantea **dudas sobre la higiene y seguridad** de estos alimentos. 
-
-**Impacto en la temperatura del refrigerador** 
------------------------------------------------
-
-**Maria Knobel**, directora de un centro médico británico, citada por Actualidad RT, advirtió que **colocar objetos no alimentarios dentro del refrigerador puede alterar la circulación del aire**, lo que afecta la regulación de la temperatura y, por ende, la **conservación adecuada de los alimentos**. 
-
-**Costo del ‘fridgescaping’** 
-------------------------------
-
-**Otra crítica hacia el ‘fridgescaping’ es el costo que puede implicar**. Mantener el refrigerador organizado y visualmente agradable requiere la compra de recipientes especiales, accesorios decorativos y etiquetas personalizadas, lo que **representa un gasto adicional.** 
-
-**La importancia de la seguridad alimentaria** 
------------------------------------------------
-
-A pesar de que esta tendencia ha ganado seguidores por su atractivo visual, los especialistas coinciden en que **lo más importante es garantizar el almacenamiento seguro** de los alimentos. La creatividad puede ser divertida, pero no debe comprometer la salud.
