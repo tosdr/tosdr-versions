@@ -1,22 +1,10 @@
-[![FATMAP](//images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/aa459d1a-9d06-4a67-b862-23011819f43a/Weclome+to+FATMAP+-+Black.png)](https://about.fatmap.com/)
+[![   FATMAP](//images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/f5e9c057-2317-4451-a5e8-272913c46972/FATMAP_Logo+-+Black.png)](https://about.fatmap.com/)
 
 [](https://about.fatmap.com/search)
 
-ABOUT [EXPLORE](http://explore.fatmap.com/) [FAQs](https://fatmap.zendesk.com/hc/en-us/)
-
-[GO TO MAP](https://fatmap.com/adventures)
-
-Back [Our Vision](https://about.fatmap.com/our-vision)
-
 [](http://www.facebook.com/fatmapski)[](https://www.instagram.com/fatmap_official)[](https://twitter.com/fatmap)[](https://www.linkedin.com/company/fatmap/)
 
-[ABOUT](https://about.fatmap.com/about) [Our Vision](https://about.fatmap.com/our-vision) [EXPLORE](http://explore.fatmap.com/)[FAQs](https://fatmap.zendesk.com/hc/en-us/)
-
-[![FATMAP](//images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/aa459d1a-9d06-4a67-b862-23011819f43a/Weclome+to+FATMAP+-+Black.png)](https://about.fatmap.com/)
-
-Discover a world of adventure...
-
-[GO TO MAP](https://fatmap.com/adventures)
+[![   FATMAP](//images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/f5e9c057-2317-4451-a5e8-272913c46972/FATMAP_Logo+-+Black.png)](https://about.fatmap.com/)
 
 **FATMAP USER AGREEMENT**
 =========================
@@ -217,14 +205,4 @@ Each of the terms of this User Agreement operates separately. If any court or co
 
 Support
 
-[FAQs](https://fatmap.zendesk.com/hc/) [SIGN IN](https://fatmap.com/account/login/?utm_medium=footer&utm_source=aboutpage&utm_campaign=login) [Privacy](https://about.fatmap.com/privacy) [Terms](https://about.fatmap.com/terms) [Contact](mailto:hello@fatmap.com)
-
-![](https://images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/5e4323bc-ec89-433e-a4ce-105b40b6cb61/lockup%403x.png)
-
-© 2023 FATMAP
-
-_All photos shot by_ [_Ben Tibbetts Photography_](https://www.bentibbettsphotography.com/)_,_ [_Dan Patitucci_](https://patitucciphoto.com/) _and_ [_Jon Williams_](https://www.jon-w.com/)
-
-[![App Store.png](https://images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/1616581265988-EKNVLI8V7QF0113MQQY1/App+Store.png)](https://apps.apple.com/us/app/fatmap-ski-hike-bike-maps/id1294681561)
-
-[![Google Play Store.png](https://images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/1616581209603-8YFGC326IXP554FH3ALX/Google+Play+Store.png)](https://play.google.com/store/apps/details?gl=US&hl=en&id=com.fatmaprn)
+[Privacy](https://about.fatmap.com/privacy) [Terms](https://about.fatmap.com/terms)
