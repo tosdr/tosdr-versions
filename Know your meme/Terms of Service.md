@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade](https://i.kym-cdn.com/featured_items/icons/wide/000/026/086/1.jpg "Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade")
+    
+    Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade](https://knowyourmeme.com/memes/the-powerpuff-girls-opening-parodies-professor-utonium-spilling-chemical-x)
+    
+* [![Wikihow illustration of a hissing cat | Please do not the cat ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/084/Screen_Shot_2020-08-31_at_1.47.44_PM.png "Five Years Ago The 'Please Do Not Cat' Meme Went Viarl On Facebook")
+    
+    Five Years Ago The 'Please Do Not Cat' Meme Went Viarl On Facebook](https://knowyourmeme.com/memes/please-do-not-the-cat)
+    
+* [![This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/083/1.jpg "This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme ")
+    
+    This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme](https://knowyourmeme.com/memes/i-must-break-you)
+    
+* [![Anyway, Frank Reynolds Starts Blasting In This Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/082/It's_Always_Sunny_in_Philadelphia_-_Frank_Reynolds_on_the_gun_controversy_-_FULL_SCENE_0-43_screenshot.png "Five Years Ago On This Day, Everyone Decided To Start Blasting")
+    
+    Five Years Ago On This Day, Everyone Decided To Start Blasting](https://knowyourmeme.com/memes/so-anyway-i-started-blasting)
+    
 * [![Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/081/1.jpg "Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online")
     
     Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments)
     
-* [![The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy](https://i.kym-cdn.com/featured_items/icons/wide/000/026/080/1.jpg "The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy")
-    
-    The Beetlejuice Lips Trend Proves Difficult For Some Fashion Influencers, Sparking Controversy](https://knowyourmeme.com/memes/beetlejuice-lips)
-    
-* [![Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/079/Elastigirl_skin_cover.jpg "Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media")
-    
-    Mrs. Incredible Fortnite Skin Inspires Memes And Jokes On Social Media](https://knowyourmeme.com/memes/mrs-incredible-fortnite-skin)
-    
-* [![Here You Go Bro redraw meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/026/078/here_you_go_meme_cover.jpg "'Here You Go Bro': Girl Lifting Dumbbell Inspires Viral Redraw Trend")
-    
-    'Here You Go Bro': Girl Lifting Dumbbell Inspires Viral Redraw Trend](https://knowyourmeme.com/memes/here-you-go-bro)
-    
-* [![Ralph In Danger Becomes Fresh New Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/077/Screen_Shot_2018-03-30_at_11.34.27_AM.png "Ralph Has Been In Danger For Ten Years")
-    
-    Ralph Has Been In Danger For Ten Years](https://knowyourmeme.com/memes/ralph-in-danger-im-in-danger)
-    
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia") [Sorry You're Not a Sigma](https://knowyourmeme.com/memes/sorry-youre-not-a-sigma "Sorry You're Not a Sigma") [Watson Amelia](https://knowyourmeme.com/memes/people/watson-amelia "Watson Amelia")
+[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Sorry You're Not a Sigma](https://knowyourmeme.com/memes/sorry-youre-not-a-sigma "Sorry You're Not a Sigma") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
