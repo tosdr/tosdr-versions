@@ -6,7 +6,7 @@
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
-FOREST SERVER | **Year: 135 Era: 15**  
+FOREST SERVER | **Year: 136 Era: 15**  
 
 * ![](/images/coloricons/icon_nav_home_color.png)My Stable
     
@@ -143,6 +143,32 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/1/2024 9:30 AM EST
+
+[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Dense Pheomelanin**  
+![](https://www.huntandjump.com/images/grsExamples/dp.png)  
+**Gulastra Plume**  
+![](https://www.huntandjump.com/images/grsExamples/gp.png)  
+**Snowflake**  
+![](https://www.huntandjump.com/images/grsExamples/snow.png)  
+**Phantom Bats**  
+![](https://www.huntandjump.com/images/grsExamples/phbts.png)  
+**Phantom Ghosts**  
+![](https://www.huntandjump.com/images/grsExamples/phgho.png)  
+**Phantom Spiders**  
+![](https://www.huntandjump.com/images/grsExamples/phspi.png)  
+**Phantom Skulls**  
+![](https://www.huntandjump.com/images/grsExamples/phsku.png)  
+**Phantom Pumpkins**  
+![](https://www.huntandjump.com/images/grsExamples/phpmk.png)  
+**Sunshine**  
+![](https://www.huntandjump.com/images/grsExamples/sun.png)  
+**HMGA2 Height Regulator**  
+![](https://www.huntandjump.com/images/grsExamples/HMGA2.png)  
+**Phantom Will-O-Wisp**  
+![](https://www.huntandjump.com/images/grsExamples/phnwisp.png)
+
 9/23/2024 11:46 AM EST
 
 HuntAndJump now has an official Discord server! We are soft-launching our new discord chat. Registrations are welcome as we sort everything out.  
@@ -201,13 +227,6 @@ Sorry for the downtime. Turns out the actual server datacenter lost internet for
 9/14/2024 11:07 AM EST
 
 We are aware that Bluegrass server is down (and causing errors on the other servers). Everything is fine and appears to be nothing more than a need for a reboot but we have to wait for the server hosting company to manually reboot it. Should be back online shortly.
-
-9/7/2024 4:05 AM EST
-
-Big Ol' Rainbow Sale
---------------------
-
-All Axiom and Rainbow Riot 1 & 2 genes are on sale through the end of the month. You can pick them up now at 25% discount.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
