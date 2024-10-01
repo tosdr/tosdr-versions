@@ -487,6 +487,10 @@ Switch to
             * [Razer Barracuda](https://www.razer.com/gaming-headsets/razer-barracuda)
             * [Razer Barracuda X](https://www.razer.com/gaming-headsets/razer-barracuda-x)
             
+        
+        Product Line
+        ------------
+        
         * Kitty Headset
             
             Product Line
