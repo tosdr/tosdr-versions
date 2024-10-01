@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
+* [What is a Full Backup?](https://www.backup4all.com/full-backup-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
     
-* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
-* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
+* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
     
-* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
+* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
     
 
 Choose language:
