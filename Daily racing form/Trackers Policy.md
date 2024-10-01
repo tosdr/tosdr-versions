@@ -98,9 +98,9 @@ DRF.com News Search
     * [More](https://www.drf.com/news/all-news)
 * Tracks
     * [Belmont at the Big A](https://www.drf.com/horse-racing-tracks/belmont-at-the-big-a)
-    * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
+    * [Keeneland](https://www.drf.com/horse-racing-tracks/keeneland)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
-    * [Monmouth Park](https://www.drf.com/horse-racing-tracks/monmouth-park)
+    * [Santa Anita](https://www.drf.com/horse-racing-tracks/santa-anita)
     * [Woodbine](https://www.drf.com/horse-racing-tracks/woodbine)
 * Handicapping & PPs
     * [DRF Classic PPs](https://www.drf.com/classic-pp)
