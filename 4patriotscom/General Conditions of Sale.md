@@ -1,6 +1,6 @@
-[📣 Buy 1, Get 1 FREE Generator Event Is Back for National Preparedness Month
+[📣 **\[BDAY SALE\] 15% OFF STOREWIDE, 1 DAY ONLY**
 
-Shop Now >>](https://products.4patriots.com/holiday/leap-year/solar-event?afid=mkt&aff_sub=20240904_cam_4p_ecom_announce_ppgs-x&utm_campaign=mkt_ecom_ppgs-x_20240904&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid)
+Shop Now >>](https://4patriots.com/collections/best-sellers?position=announcementbar&collection=BestSellers)
 
 [![Black company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
@@ -235,7 +235,6 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
-    * [⚡ Buy 1, Get 1 FREE Solar Generator Event](https://products.4patriots.com/holiday/leap-year/solar-event?afid=mkt&aff_sub=20240903_cam_4p_ecom_pdp_ppgs-x&utm_campaign=mkt_ecom_ppgs-x_20240903&utm_medium=ecom&utm_source=cam&utm_content=pdp&utm_term=4p&nb_klid=%7B%7B)
     * [72-Hour Food Kit - Buy 1, Get 2 FREE](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_dealsnav_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=dealsnav&utm_term=4p&nb_klid=%7B%7B)
     * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
     * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
@@ -283,9 +282,9 @@ We Champion Freedom & Self-Reliance
 
  [](#)
 
-[⚡ \[Limited-Time\] Buy 1, Get 2 FREE 72-Hour Food Kits
+[🆘 NEW Generator 2000X: Lifeline in Emergencies
 
-Shop Now >>](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_hello_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=hello&utm_term=4p&nb_klid=%7B%7B)
+Shop Now >>](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20240425var6_cam_4p_ecom_hellobarsplittest_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_splittest_variation6_20240425&utm_medium=ecom&utm_source=cam&utm_content=hellobar&utm_term=4p&position=hellobar&product=ppg2kx-nsp)
 
 Enter some text...
 
