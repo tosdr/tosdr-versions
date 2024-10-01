@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, September 30, 2024**
+**Tuesday, October 1, 2024**
 
-**...Spotty Showers Continue Along the Florida Big Bend This Morning and Afternoon...Greater Rain Chances Expected Through the Florida Peninsula...A Thunderstorm or Two Could Produce Gusty Winds, Lightning, and Localized Downpour...Dangerous Heat and Humidity Continues for the Florida Peninsula; Heat Advisories in Effect with Heat Index Values Reaching 100 to 110-Degrees...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor to Moderate Flooding Ongoing or Forecast for Apalachicola and Ochlockonee Rivers...Moderate to High Risk of Rip Currents Continues Along Stateweide Beaches...Atlantic Basin Remains Active with Three (3) Named/Numbered Systems and Monitoring Two (2) Disturbances...**
+**...Isolated Showers Moving Towards and Onshore Along Big Bend and West Coast...Additional Scattered to Numerous Showers and Thunderstorms to Develop Throughout the Afternoon and Evening...Heavy Downpours and Multiple Rounds of Activity Could Bring Localized Flash Flooding Across Central Peninsula...Heat Index Values Remain in Middle to Upper 90s and Triple Digits Northeast Florida and Peninsula...Patchy to Locally Dense Fog Possible Overnight and Early Wednesday Morning...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor to Moderate Flooding Ongoing or Forecast for Apalachicola and Ochlockonee Rivers...Moderate Risk for Rip Currents Continues Nearly Statewide...Atlantic Basin Remains Active with Two (1) Named/Numbered Systems and Monitoring One (1) Disturbance...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
