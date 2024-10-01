@@ -473,7 +473,7 @@ QTS is the operating system for entry- and mid-level QNAP NAS. WIth Linux and ex
 
 * [QTS Overview](https://www.qnap.com/go/operating-system/qts)
 * [QTS 5.2 New Features](https://www.qnap.com/go/qts/5.2.0/)
-* [Storage & Snapshot](https://www.qnap.com/go/solution/storage-management/)
+* [Storage & Snapshots](https://www.qnap.com/go/solution/storage-management/)
 * [Network & Virtual Switch](https://www.qnap.com/go/software/network-virtual-switch)
 * [Notification Center](https://www.qnap.com/go/solution/notification-center/)
 * [App Center](https://www.qnap.com/go/app_center/)
@@ -583,7 +583,7 @@ QuTS hero is the operating system for high-end and enterprise QNAP NAS models. W
 
 * [QuTS hero Overview](https://www.qnap.com/go/operating-system/quts-hero)
 * [h5.2 New Features](https://www.qnap.com/go/operating-system/quts-hero/5.2.0)
-* [Storage & Snapshot](https://www.qnap.com/go/solution/storage-management)
+* [Storage & Snapshots](https://www.qnap.com/go/solution/storage-management)
 * [Backup & Restore](https://www.qnap.com/go/solution/backup-and-restoration)
 * [Real-time SnapSync Disaster Recovery](https://www.qnap.com/go/solution/zfs-snapsync/)
 * [Network & Virtual Switch](https://www.qnap.com/go/software/network-virtual-switch)
@@ -912,11 +912,11 @@ Solution
     * [Anywhere File Access](https://www.qnap.com/go/software/myqnapcloud/)
     * [Personal Backup](https://www.qnap.com/go/solution/personal-backup/)
     * [No Data Loss](https://www.qnap.com/go/solution/home-snapshots/)
-    * [Best Plex NAS](https://www.qnap.com/go/solution/plex-best-nas/)
+    * [File Synchronization](https://www.qnap.com/go/software/qsync)
     * [Smart Photo Albums](https://www.qnap.com/go/software/qumagie)
-    * [Music Streaming](https://www.qnap.com/go/software/music-station)
     * [Video Streaming](https://www.qnap.com/go/software/video-station)
     * [AI-powered File Search](https://www.qnap.com/go/software/qsirch)
+    * [Best Plex NAS](https://www.qnap.com/go/solution/plex-best-nas/)
     * [View All](https://www.qnap.com/go/solution/homeusers)
 * ###### Cloud
     
