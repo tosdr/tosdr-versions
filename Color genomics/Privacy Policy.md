@@ -1,6 +1,6 @@
 [skip to content](#main)
 
-![](https://www.color.com/wp-content/uploads/2024/09/BCAM-Ribbon-Color-Announcement-Banner.svg)
+![](https://www.color.com/wp-content/uploads/2024/10/Pink-Ribbon-BCAM-1.png)
 
 It’s Breast Cancer Awareness Month. Early interventions lead to better outcomes. [Discover key facts and prevention strategies for breast cancer today.](https://color.com/learn/cancer/breast-cancer-facts-and-causes)
 
