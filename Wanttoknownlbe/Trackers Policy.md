@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/frankrijk-verbiedt-glyfosaat-ongeacht-eu-besluit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/onze-agenda-is-jouw-agenda/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
