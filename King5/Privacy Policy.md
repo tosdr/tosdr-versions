@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/db857dc8-4247-402f-afb1-7e04d6b98c73/20240929T152900/db857dc8-4247-402f-afb1-7e04d6b98c73_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
+    *  [![](https://media.king5.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_360x203.jpg)](https://www.king5.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
-        #### [Cash, groceries and planes: How you can help after Hurricane Helene](https://www.king5.com/article/news/nation-world/how-to-donate-to-help-after-hurricane-helene/507-677a5730-c976-45a8-892c-3a728f1f61cd)
+        #### [Hurricane Helene aftermath: Death toll passes 130, supplies rushed to isolated communities](https://www.king5.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-59°
+53°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
