@@ -538,11 +538,6 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
-**Monday, 30 Sep 2024**  
-[EuroUSEC - The 2024 European Symposium on Usable Security](https://secuso.aifb.kit.edu/english/77.php/event/52794#calendar_top)
-
-* * *
-
 **Sunday, 31 Aug 2025**  
 [MuC25 - Mensch und Computer 2025](https://secuso.aifb.kit.edu/english/77.php/event/53877#calendar_top)
 
