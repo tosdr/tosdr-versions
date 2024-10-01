@@ -230,13 +230,12 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -336,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this landing attempt](https://www.fark.com/goto/13408406) ( [gizmodo.com](https://www.fark.com/goto/13408406) ) » [(11 comments)](https://www.fark.com/comments/13408406/Photoshop-this-landing-attempt) |
-| [Discussion](https://www.fark.com/discussion/) | ["After I went no contact, I healed in ways that I didn't know were hurt"](https://www.fark.com/goto/13411442) ( [youtube.com](https://www.fark.com/goto/13411442) ) » [(3 comments)](https://www.fark.com/comments/13411442/After-I-went-no-contact-I-healed-in-ways-that-I-didnt-know-were-hurt) |
-| [Sports](https://www.fark.com/sports/) | [Pete Rose invades Lebanon](https://www.fark.com/goto/13412100) ( [tmz.com](https://www.fark.com/goto/13412100) ) » [(130 comments)](https://www.fark.com/comments/13412100/Pete-Rose-invades-Lebanon) |
-| [Business](https://www.fark.com/business/) | [Someone need to make some "I did that" stickers with the face of John B. Hess, CEO of Hess Corporation](https://www.fark.com/goto/13411990) ( [yahoo.com](https://www.fark.com/goto/13411990) ) » [(5 comments)](https://www.fark.com/comments/13411990/Someone-need-to-make-some-I-did-that-stickers-with-face-of-John-B-Hess-CEO-of-Hess-Corporation) |
-| [STEM](https://www.fark.com/stem/) | [Knit caps that allow real-time scanning of cat brain activity are revolutionary, adorable](https://www.fark.com/goto/13412004) ( [interestingengineering.com](https://www.fark.com/goto/13412004) ) » [(4 comments)](https://www.fark.com/comments/13412004/Knit-caps-that-allow-real-time-scanning-of-cat-brain-activity-are-revolutionary-adorable) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The reaction to Megalopolis is weirder than the damn movie](https://www.fark.com/goto/13411978) ( [kotaku.com](https://www.fark.com/goto/13411978) ) » [(8 comments)](https://www.fark.com/comments/13411978/The-reaction-to-Megalopolis-is-weirder-than-damn-movie) |
-| [Fandom](https://www.fark.com/fandom/) | [Pre-order the $700 Playstation Five Pro so you can... stare at ads](https://www.fark.com/goto/13411966) ( [arstechnica.com](https://www.fark.com/goto/13411966) ) » [(1 comment)](https://www.fark.com/comments/13411966/Pre-order-$700-Playstation-Five-Pro-so-you-can-stare-at-ads) |
-| [D'awww](https://www.fark.com/dawww/) | [Know what gets my goat?](https://www.fark.com/goto/13412086) ( [ktvu.com](https://www.fark.com/goto/13412086) ) » [(0 comments)](https://www.fark.com/comments/13412086/Know-what-gets-my-goat) |
-| [Food](https://www.fark.com/food/) | [This week on Tik Tok Science: Curb your appetite by eating your dessert first](https://www.fark.com/goto/13411876) ( [dailymail.co.uk](https://www.fark.com/goto/13411876) ) » [(10 comments)](https://www.fark.com/comments/13411876/This-week-on-Tik-Tok-Science-Curb-your-appetite-by-eating-your-dessert-first) |
-| [Politics](https://www.fark.com/politics/) | [Trump: "Nobody thought a hurricane would hit this time of year." Everyone: "It's peak hurricane season, dumbass"](https://www.fark.com/goto/13412084) ( [mediaite.com](https://www.fark.com/goto/13412084) ) » [(23 comments)](https://www.fark.com/comments/13412084/Trump-Nobody-thought-a-hurricane-would-hit-this-time-of-year-Everyone-Its-peak-hurricane-season-dumbass) |
+| [Main](https://www.fark.com/) | [There can be only one Colorado meth highlander](https://www.fark.com/goto/13412056) ( [denvergazette.com](https://www.fark.com/goto/13412056) ) » [(1 comment)](https://www.fark.com/comments/13412056/There-can-be-only-one-Colorado-meth-highlander) |
+| [Discussion](https://www.fark.com/discussion/) | [Gather 'round chuckaboo's and fill your knowledge box with historical slang that leaves you splificated](https://www.fark.com/goto/13411946) ( [youtube.com](https://www.fark.com/goto/13411946) ) » [(5 comments)](https://www.fark.com/comments/13411946/Gather-round-chuckaboos-fill-your-knowledge-box-with-historical-slang-that-leaves-you-splificated) |
+| [Sports](https://www.fark.com/sports/) | [The Hockey Guy comes out with the most important ranking in the NHL: the best jerseys of ALL-TIME among active teams. Offer void in Utah](https://www.fark.com/goto/13411738) ( [youtube.com](https://www.fark.com/goto/13411738) ) » [(7 comments)](https://www.fark.com/comments/13411738/The-Hockey-Guy-comes-out-with-most-important-ranking-in-NHL-best-jerseys-of-ALL-TIME-among-active-teams-Offer-void-in-Utah) |
+| [Business](https://www.fark.com/business/) | [Town of 5400 people is not, I repeat, not, getting a Chipotle](https://www.fark.com/goto/13412324) ( [ktvo.com](https://www.fark.com/goto/13412324) ) » [(1 comment)](https://www.fark.com/comments/13412324/Town-of-5400-people-is-not-I-repeat-not-getting-a-Chipotle) |
+| [STEM](https://www.fark.com/stem/) | [CERN ends cooperation with Russian scientists over invasion of Ukraine and the fact that the Large Hadron Collider already got us into this worst possible timeline, so they're not needed any more](https://www.fark.com/goto/13411514) ( [aol.com](https://www.fark.com/goto/13411514) ) » [(6 comments)](https://www.fark.com/comments/13411514/CERN-ends-cooperation-with-Russian-scientists-over-invasion-of-Ukraine-the-fact-that-Large-Hadron-Collider-already-got-us-into-this-worst-possible-timeline-so-theyre-not-needed-any-more) |
+| [Entertainment](https://www.fark.com/entertainment/) | [If it took Kris Kristofferson's passing to kill the Today Show, it wasn't worth it. But it almost was](https://www.fark.com/goto/13411496) ( [hollywoodreporter.com](https://www.fark.com/goto/13411496) ) » [(10 comments)](https://www.fark.com/comments/13411496/If-it-took-Kris-Kristoffersons-passing-to-kill-Today-Show-it-wasnt-worth-it-But-it-almost-was) |
+| [Fandom](https://www.fark.com/fandom/) | [How many of you nerds had the Abit BP6 back in the Heroic Era? \*raises hand\*](https://www.fark.com/goto/13412032) ( [youtube.com](https://www.fark.com/goto/13412032) ) » [(1 comment)](https://www.fark.com/comments/13412032/How-many-of-you-nerds-had-Abit-BP6-back-in-Heroic-Era-raises-hand) |
+| [D'awww](https://www.fark.com/dawww/) | [Some guy takes his rescue dog for a walk. Is this the first D'awww/Politics crossover?](https://www.fark.com/goto/13412026) ( [youtube.com](https://www.fark.com/goto/13412026) ) » [(30 comments)](https://www.fark.com/comments/13412026/Some-guy-takes-his-rescue-dog-for-a-walk-Is-this-first-DawwwPolitics-crossover) |
+| [Food](https://www.fark.com/food/) | [One?](https://www.fark.com/goto/13412048) ( [thetakeout.com](https://www.fark.com/goto/13412048) ) » [(10 comments)](https://www.fark.com/comments/13412048/One) |
+| [Politics](https://www.fark.com/politics/) | ["Spare the asphyxiation, spoil the child" isn't how that's supposed to go, MAGA Christian nationalist "academy" founder](https://www.fark.com/goto/13411622) ( [boingboing.net](https://www.fark.com/goto/13411622) ) » [(17 comments)](https://www.fark.com/comments/13411622/Spare-asphyxiation-spoil-child-isnt-how-thats-supposed-to-go-MAGA-Christian-nationalist-academy-founder) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -355,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 30 2024 20:44:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 01 2024 02:43:50  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
