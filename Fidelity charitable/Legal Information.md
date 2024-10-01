@@ -1,3 +1,7 @@
+**[How to help: Hurricane Helene guidance](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-helene.html)**
+
+[×](#)
+
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 [Try our demo](https://www.fidelitycharitable.org/giving-account/demo.html)
