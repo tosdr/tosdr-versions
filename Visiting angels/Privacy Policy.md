@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
+[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
 
-[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
+[What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
 
-[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
+[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
 
-[9 Ways to Reduce Seniors’ Discomfort with Personal Care Services](https://www.visitingangels.com/knowledge-center/care-options/9-ways-to-reduce-seniors-discomfort-with-personal-care-services/424)
+[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
 
-[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
+[When to Adjust Your Loved One’s Home Care Services](https://www.visitingangels.com/knowledge-center/care-options/when-to-adjust-your-loved-ones-home-care-services/108)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
