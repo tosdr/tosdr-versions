@@ -58,9 +58,9 @@
     
     Compliance
     
-    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [CCPA](https://tresorit.com/blog/tresorit-backs-privacy-for-all-to-strengthen-ccpa/)
     * [CJIS](https://tresorit.com/blog/cjis-safeguard-criminal-justice-information-with-tresorit/)
+    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [FINRA](https://tresorit.com/blog/end-to-end-encryption-leads-to-security-in-securities/)
     * [GDPR](https://tresorit.com/gdpr)
     * [HIPAA](https://tresorit.com/business/hipaa-compliant-cloud-storage)
@@ -160,9 +160,9 @@
     
     Compliance
     
-    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [CCPA](https://tresorit.com/blog/tresorit-backs-privacy-for-all-to-strengthen-ccpa/)
     * [CJIS](https://tresorit.com/blog/cjis-safeguard-criminal-justice-information-with-tresorit/)
+    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [FINRA](https://tresorit.com/blog/end-to-end-encryption-leads-to-security-in-securities/)
     * [GDPR](https://tresorit.com/gdpr)
     * [HIPAA](https://tresorit.com/business/hipaa-compliant-cloud-storage)
