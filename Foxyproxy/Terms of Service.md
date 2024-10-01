@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I used FoxyProxy throughout the years I was living outside of the UK, and found it an absolutely brilliant service and excellent value, moved back to the UK a month or two back and at the moment have little or no need to use it, but would not hesitate to sign up again should the need arise.
+I wanted to be able to Google search from California. FoxyProxy was great and allowed me to search from Los Angeles, and then San Fran when I changed servers!
 
-Tim May
+Amy Xu
