@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 
 Service Stiftung Warentest
 
