@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-30 Sept 2024
+01 Oct 2024
 
 * [Home
     
@@ -289,19 +289,21 @@ Derry Magistrate's Court
 [Derry Apprentice winner Dr Leah Totton sells Lord Sugar-backed cosmetics clinics](https://www.derrynow.com/news/local-news/1617667/derry-apprentice-winner-dr-leah-totton-sells-lord-sugar-backed-cosmetics-clinics.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Search operation taking place for 23-year-old man who entered River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search operation taking place for 23-year-old man who entered River Foyle")](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
+
+Donal Armstrong has been missing since Saturday
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Search operation taking place for 23-year-old man who entered River Foyle](https://www.derrynow.com/news/local-news/1618354/search-operation-taking-place-for-23-year-old-man-who-entered-river-foyle.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, 30th September 2024](https://www.derrynow.com/news/deaths/1615930/derry-death-notices-monday-30th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with one punch assault refused bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with one punch assault refused bail")](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with one punch assault refused bail](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with series of drugs offences jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with series of drugs offences jailed")](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
 
@@ -312,12 +314,12 @@ Derry Court
 [Derry man charged with series of drugs offences jailed](https://www.derrynow.com/news/local-news/1617920/derry-man-charged-with-series-of-drugs-offences-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal charged with rape returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal charged with rape returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
+[![Derry man charged with one punch assault refused bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with one punch assault refused bail")](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal man charged with rape returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1617825/donegal-charged-with-rape-returned-for-trial-to-derry-crown-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with one punch assault refused bail](https://www.derrynow.com/news/local-news/1617895/derry-man-charged-with-one-punch-assault-refused-bail.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
 
@@ -326,14 +328,12 @@ Derry Court
 [68-year-old pleads guilty to historical indecent assault charges at Derry Crown Court](https://www.derrynow.com/news/local-news/1617900/68-year-old-pleads-guilty-to-historical-indecent-assault-charges-at-derry-crown-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman praises Foyle Hospice whose mother received the ‘best care’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman praises Foyle Hospice whose mother received the ‘best care’")](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
+[![IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1617785/in-pictures-martin-mcguinness-chieftain-gaelic-games-at-celtic-park.html)
 
-Gerladine Ferguson with her mother Donna
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman praises Foyle Hospice whose mother received the ‘best care’](https://www.derrynow.com/news/local-news/1618059/derry-woman-praises-foyle-hospice-whose-mother-received-the-best-care.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Martin McGuinness Chieftain Gaelic Games at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1617785/in-pictures-martin-mcguinness-chieftain-gaelic-games-at-celtic-park.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
