@@ -206,11 +206,9 @@ Once you get notice of an update to these terms, you must agree to the new terms
 
  
 
- 
-
 * [Home](https://spamlogger.com/)
 * [Categories](https://spamlogger.com/categories)
-* [FAQ/Guidelines](https://spamlogger.com/guidelines)
+* [Guidelines](https://spamlogger.com/guidelines)
 * [Terms of Service](https://spamlogger.com/tos)
 * [Privacy Policy](https://spamlogger.com/privacy)
 
