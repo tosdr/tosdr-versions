@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $2.8 Million in Refunds to Consumer Deceived by Supposed “Free Trial” Offers for Personal Care Products and Supplements](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-more-28-million-refunds-consumer-deceived-supposed-free-trial-offers-personal-care)
+    ### [FTC Order Bans Hess CEO from Chevron Board in Chevron-Hess Deal](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-order-bans-hess-ceo-chevron-board-chevron-hess-deal)
     
     September 30, 2024
     
