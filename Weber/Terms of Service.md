@@ -26,27 +26,27 @@ Gas Grills
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_GenesisE325s_NAV_207x165.png?auto=compress,format)
 
-Genesis® NEW](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
+Genesis®](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Spirit_E210_NAV_207x165.png?auto=compress,format)
 
-Spirit® $50 OFF](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
+Spirit®](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/summit_2024_207x165.png?auto=compress,format)
 
-Summit® NEW](https://www.weber.com/US/en/gas/summit/ "Summit®")
+Summit®](https://www.weber.com/US/en/gas/summit/ "Summit®")
 
 [![](https://dw-images.weber.com/navigation/default/griddles/slate_griddle_207x165.png?auto=compress,format)
 
-Stand Up Griddles NEW](https://www.weber.com/US/en/griddle/stand-up-griddles/ "Stand Up Griddles")
+Stand Up Griddles](https://www.weber.com/US/en/griddle/stand-up-griddles/ "Stand Up Griddles")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/weberQ_2024_207x165.png?auto=compress,format)
 
-Weber Q® Series NEW](https://www.weber.com/US/en/gas/weber-q-series/ "Weber Q® Series")
+Weber Q® Series](https://www.weber.com/US/en/gas/weber-q-series/ "Weber Q® Series")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Traveler_NAV_207x165.png?auto=compress,format)
 
-Weber Traveler® NEW](https://www.weber.com/US/en/gas/weber-traveler/ "Weber Traveler®")
+Weber Traveler®](https://www.weber.com/US/en/gas/weber-traveler/ "Weber Traveler®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_GoAnywhereGas_NAV_207x165.png?auto=compress,format)
 
@@ -73,7 +73,7 @@ Charcoal Grills
 
 [![](https://dw-images.weber.com/navigation/default/grills/1500158_207x165.png?auto=compress,format)
 
-Build Your Own Master-Touch NEW](https://www.weber.com/US/en/build-your-own-master-touch.html "Master-Touch")
+Build Your Own Master-Touch](https://www.weber.com/US/en/build-your-own-master-touch.html "Master-Touch")
 
 [![](https://dw-images.weber.com/navigation/default/charcoal-grills/00_OneTouch_Nav_207x165.png?auto=compress,format)
 
@@ -120,7 +120,7 @@ Wood Pellet Grills
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/searwoodXL600_207x165.png?auto=compress,format)
 
-Searwood® NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood®")
+Searwood®](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood®")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_Pellets_US_Nav_207x165.png?auto=compress,format)
 
@@ -143,7 +143,7 @@ Electric Grills
 
 [![](https://dw-images.weber.com/navigation/default/electric-grills/Lumin_Grill_207x165.png?auto=compress,format)
 
-Lumin Electric Grills NEW](https://www.weber.com/US/en/electric/lumin-electric-grills/ "Lumin Electric Grills")
+Lumin Electric Grills](https://www.weber.com/US/en/electric/lumin-electric-grills/ "Lumin Electric Grills")
 
 [![](https://dw-images.weber.com/navigation/default/electric-grills/00_Q2400_Electric_207x165.png?auto=compress,format)
 
@@ -155,7 +155,7 @@ Pulse](https://www.weber.com/US/en/electric/pulse/ "Pulse")
 
 [![](https://dw-images.weber.com/navigation/default/electric-grills/00_Electric_Accessories_207x165.png?auto=compress,format)
 
-Electric Accessories NEW](https://www.weber.com/US/en/accessories/accessories-by-grill-type/electric-grill-accessories/ "Electric Accessories")
+Electric Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/electric-grill-accessories/ "Electric Accessories")
 
 [![](https://dw-images.weber.com/navigation/default/electric-grills/00_Electric_HeatingElement_207x165.png?auto=compress,format)
 
@@ -174,15 +174,15 @@ Griddle
 
 [![](https://dw-images.weber.com/navigation/default/griddles/slate_griddle_207x165.png?auto=compress,format)
 
-Stand-Up Griddles NEW](https://www.weber.com/US/en/griddle/stand-up-griddles/ "Stand-Up Griddles")
+Stand-Up Griddles](https://www.weber.com/US/en/griddle/stand-up-griddles/ "Stand-Up Griddles")
 
 [![](https://dw-images.weber.com/navigation/default/griddles/portable_griddle_207x165.png?auto=compress,format)
 
-Portable Griddles NEW](https://www.weber.com/US/en/griddle/portable-griddles/ "Portable Griddles")
+Portable Griddles](https://www.weber.com/US/en/griddle/portable-griddles/ "Portable Griddles")
 
 [![](https://dw-images.weber.com/navigation/default/griddles/weber_works_207x165.jpg?auto=compress,format)
 
-Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
+Weber Works™](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
 
 [![](https://dw-images.weber.com/navigation/default/griddles/FullSize_Insert_207x165.png?auto=compress,format)
 
@@ -230,7 +230,7 @@ Grilling Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/)
 [### Accessories by Grill Type](https://www.weber.com/US/en/accessories/accessories-by-grill-type/ "Accessories by Grill Type")
 
 * [Gas Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/gas-grill-accessories/ "Gas Grill Accessories")
-* [Griddle Grill Accessories NEW](https://www.weber.com/US/en/accessories/accessories-by-grill-type/griddle-grill-accessories/ "Griddle Grill Accessories")
+* [Griddle Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/griddle-grill-accessories/ "Griddle Grill Accessories")
 * [Charcoal Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/charcoal-grill-accessories/ "Charcoal Grill Accessories")
 * [Wood Pellet Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/wood-pellet-grill-accessories/ "Wood Pellet Grill Accessories")
 * [Electric Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/electric-grill-accessories/ "Electric Grill Accessories")
@@ -240,7 +240,7 @@ Accessories by Grill Type
 [### Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/ "Grill Covers")
 
 * [Gas Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/gas-grill-covers/ "Gas Grill Covers")
-* [Griddle Grill Covers NEW](https://www.weber.com/US/en/accessories/grill-covers/griddle-grill-covers/ "Griddle Grill Covers")
+* [Griddle Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/griddle-grill-covers/ "Griddle Grill Covers")
 * [Charcoal Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/charcoal-grill-covers/ "Charcoal Grill Covers")
 * [Electric Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/electric-grill-covers/ "Electric Grill Covers")
 * [Portable Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/portable-grill-covers/ "Portable Grill Covers")
@@ -251,8 +251,8 @@ Grill Covers
 
 [### Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
 
-* [Griddles NEW](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/griddles/ "Griddles")
-* [Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
+* [Griddles](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/griddles/ "Griddles")
+* [Weber Works™](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
 * [Cookware, Baskets and Pans](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/cookware--baskets-and-pans/ "Cookware, Baskets and Pans")
 * [Tools](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/tools/ "Tools")
 * [Racks and Rotisseries](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/racks-and-rotisseries/ "Racks and Rotisseries")
@@ -300,12 +300,12 @@ Smart Grilling
 [### Gear and Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/ "Gear and Gifts")
 
 * [eGift Cards](https://www.weber.com/US/en/giftcard/ "eGift Cards")
-* [Weber x Huckberry NEW](https://www.weber.com/US/en/weber-x-huckberry-collaboration.html "Weber x Huckberry")
+* [Weber x Huckberry](https://www.weber.com/US/en/weber-x-huckberry-collaboration.html "Weber x Huckberry")
 * [Apparel](https://www.weber.com/US/en/accessories/gear-and-gifts/apparel/ "Apparel")
 * [Drinkware](https://www.weber.com/US/en/accessories/gear-and-gifts/drinkware/ "Drinkware")
 * [Other Gear](https://www.weber.com/US/en/accessories/gear-and-gifts/other-gear/ "Other Gear")
 * [Grilling Books](https://www.weber.com/US/en/accessories/gear-and-gifts/grilling-books/ "Grilling Books")
-* [Weber Grill Restaurant Steak Packages NEW](https://shop.linzheritageangus.com/categories/weber-grill "Weber Grill Restaurant Steak Packages")
+* [Weber Grill Restaurant Steak Packages](https://shop.linzheritageangus.com/categories/weber-grill "Weber Grill Restaurant Steak Packages")
 
 Gear and Gifts
 
