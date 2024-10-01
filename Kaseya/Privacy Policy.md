@@ -355,6 +355,14 @@
     
     Blog
     
+    [![Automation](https://www.kaseya.com/wp-content/uploads/2024/09/rmm_automation-AdobeStock_220609182-600x400.jpeg)
+    
+    The RMM advantage: Automate IT processes to boost efficiency, cut costs and reduce burnout
+    
+    September 30
+    
+    8 minute read](https://www.kaseya.com/blog/rmm-solutions-automate-it-operations-efficiency/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/04/kaseya-365-ushers-in-new-600x400.png)
     
     The Kaseya Advantage: 10 Years and $12B in the Making
@@ -362,14 +370,6 @@
     September 27
     
     2 minute read](https://www.kaseya.com/blog/the-kaseya-advantage-10-years-and-12b-in-the-making/)
-    
-    [![](https://www.kaseya.com/wp-content/uploads/2024/09/Compliance-600x400.jpeg)
-    
-    Regulation and Compliance Updates Every IT Professional Needs to Know
-    
-    September 4
-    
-    12 minute read](https://www.kaseya.com/blog/regulation-updates-it-professionals/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
