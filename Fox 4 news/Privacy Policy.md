@@ -400,11 +400,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
+ [![MLB hit king Pete Rose dies at 83](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/GettyImages-1007885572.jpg?ve=1&tl=1)
 
- ![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+ ![MLB hit king Pete Rose dies at 83](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/GettyImages-1007885572.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
 
-### [Verizon outage update: Service 'fully restored' after network disruptions](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
+### [MLB hit king Pete Rose dies at 83](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
+
+ [![Coppell ISD school board votes to close Pinkerton Elementary School](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-AMELIA-COPPELL-ISD-CLOSURES-9P_00.00.08.00.jpg?ve=1&tl=1)
+
+ ![Coppell ISD school board votes to close Pinkerton Elementary School](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-AMELIA-COPPELL-ISD-CLOSURES-9P_00.00.08.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/coppell-isd-considers-closing-elementary-school)
+
+### [Coppell ISD school board votes to close Pinkerton Elementary School](https://www.fox4news.com/news/coppell-isd-considers-closing-elementary-school)
+
+ [![Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-DAVID-FW-2020-MURDER-PLEA-DEAL-9P_00.00.15.46.jpg?ve=1&tl=1)
+
+ ![Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-DAVID-FW-2020-MURDER-PLEA-DEAL-9P_00.00.15.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jesus-rios-murder-guilty-plea-fernando-mendoza-mayra-guerra-victims-fort-worth-case)
+
+### [Fort Worth man takes plea deal for murder; accused of 2nd killing in Mexico](https://www.fox4news.com/news/jesus-rios-murder-guilty-plea-fernando-mendoza-mayra-guerra-victims-fort-worth-case)
 
  [![Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/glendale-murder.jpg?ve=1&tl=1)
 
@@ -412,23 +424,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Arizona mother decapitated by her son hours before her surprise birthday party, police say](https://www.fox4news.com/news/arizona-mother-decapitated-her-son-hours-before-her-surprise-birthday-party-police-say)
 
- [![MLB hit king Pete Rose dies at 83, reports say](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/GettyImages-1007885572.jpg?ve=1&tl=1)
+ [![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
 
- ![MLB hit king Pete Rose dies at 83, reports say](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/GettyImages-1007885572.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
+ ![Verizon outage update: Service 'fully restored' after network disruptions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
-### [MLB hit king Pete Rose dies at 83, reports say](https://www.fox4news.com/news/mlb-hit-king-pete-rose-dies-83-tmz-reports)
-
- [![Home burglaries are most likely to happen at these times, security experts warn](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/house-burglar-getty.jpg?ve=1&tl=1)
-
- ![Home burglaries are most likely to happen at these times, security experts warn](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/house-burglar-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/home-burglaries-most-common-times-security-experts)
-
-### [Home burglaries are most likely to happen at these times, security experts warn](https://www.fox4news.com/news/home-burglaries-most-common-times-security-experts)
-
- [![Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2157236846.jpg?ve=1&tl=1)
-
- ![Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2157236846.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/viral-zoo-animals-moo-deng-pesto-fiona)
-
-### [Moo Deng isn’t the only viral zoo star: Meet these other adorable animals stealing hearts](https://www.fox4news.com/news/viral-zoo-animals-moo-deng-pesto-fiona)
+### [Verizon outage update: Service 'fully restored' after network disruptions](https://www.fox4news.com/news/verizon-outage-network-down-monday-september-30)
 
 ###### [News](https://www.fox4news.com/news)
 
