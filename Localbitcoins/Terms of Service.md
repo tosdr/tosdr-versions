@@ -1,3 +1,20 @@
+[![](/cached-static/img/site-logo-500.b39d9369a078.png)](https://localbitcoins.com/)  Toggle navigation
+
+* [Trades](#trades-ddl)
+* [Learn](#)
+    * [Frequently Asked Questions](https://localbitcoins.com/faq)
+    * [Guides](https://localbitcoins.com/guides/)
+    * [Contact support](https://localbitcoins.com/support/)
+    * [Blog](https://blog.localbitcoins.com/)
+    * [Fees](https://localbitcoins.com/fees)
+    * [About us](https://localbitcoins.com/about)
+
+*  [Log in](https://localbitcoins.com/accounts/login/)
+
+[×](#)
+
+**We're gradually renewing our website! [Learn more about the latest changes](https://localbitcoins.com/about-website-renewal/)**
+
 * [Terms of service](https://localbitcoins.com/terms_of_service/)
 * [Privacy policy](https://localbitcoins.com/privacy_policy/)
 * [Acceptable use policy](https://localbitcoins.com/acceptable_use_policy/)
