@@ -48,6 +48,7 @@ Main Menu
     * [Software for Climate](https://www.terra.do/climate-change-courses/software-for-climate/)
     * [Climate Career Bootcamp](https://terra.do/climate-change-courses/climate-career-bootcamp/)
     * [Climate-Informed Decision-Making and Risk Management](https://www.terra.do/climate-change-courses/climate-informed-decision-making-and-risk-management/)
+    * [Sustainable AI](https://www.terra.do/climate-change-courses/sustainable-ai/)
     * [Digital Product Decarbonization](https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/)
     * [Climate Farm School ON FARM](https://www.terra.do/climate-change-courses/climate-farm-school-regenerative-agriculture/)
     * [Sustainable Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
