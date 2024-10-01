@@ -76,7 +76,6 @@
     Controls
     
     * [Bridge](https://www.philips-hue.com/en-us/p/hue-bridge/046677458478)
-    * [Sync box](https://www.philips-hue.com/en-us/p/hue-play-hdmi-sync-box-/046677555221)
     * [Motion sensors](https://www.philips-hue.com/en-us/products/smart-light-accessories?filters=FK_HUE_LIGHTING_ACCESSORY_MOTION_SENSORS&page=1&sort=relevance)
     * [Switches](https://www.philips-hue.com/en-us/products/smart-light-accessories?filters=FK_HUE_LIGHTING_ACCESSORY_CONTROLS&page=1)
     * [Smart plug](https://www.philips-hue.com/en-us/p/hue-smart-plug/046677552343)
