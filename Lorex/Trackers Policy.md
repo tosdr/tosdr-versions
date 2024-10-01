@@ -592,12 +592,6 @@ Your cart is empty
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
     * [Reset Device Password](https://www.lorex.com/account/login?return_to=/pages/forgotnvrpin-setup)
 
-  
-
-  
-
-Get **FREE** shipping on orders over $100
-
  
 
 Lorex Cookie Notice
