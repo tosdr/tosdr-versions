@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Service Stiftung Warentest
 
