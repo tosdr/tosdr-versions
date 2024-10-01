@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from CenturyLink us ...](https://www.backup4all.com/how-to-back-up-data-files-from-centurylink-using-backup4all-kb.html)  
+* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
     
-* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
+* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
     
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
     
-* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
+* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
     
-* [How to back up data files from Polycloud usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-polycloud-using-backup4all-kb.html)  
+* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
     
 
 Choose language:
