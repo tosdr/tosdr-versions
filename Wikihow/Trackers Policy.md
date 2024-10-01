@@ -138,23 +138,24 @@ Save settings
 
 ### Featured Articles
 
+[![Improve Yourself](https://www.wikihow.com/images/thumb/8/88/Improve-Yourself-Step-13-Version-2.jpg/-crop-126-120-126px-Improve-Yourself-Step-13-Version-2.jpg)
+
+How to  
+Improve Yourself](https://www.wikihow.com/Improve-Yourself)
+
+[![Rizz Quiz](https://www.wikihow.com/images/thumb/3/31/Rizz_quiz.png/-crop-126-120-126px-Rizz_quiz.png)
+
+Do I Have Rizz Quiz](https://www.wikihow.com/Rizz-Quiz)
+
+[![Detach from Someone](https://www.wikihow.com/images/thumb/4/40/Detach-from-Someone-Step-13-Version-2.jpg/-crop-126-120-126px-Detach-from-Someone-Step-13-Version-2.jpg)
+
+How to  
+Detach from Someone](https://www.wikihow.com/Detach-from-Someone)
+
 [![Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/images/thumb/a/a8/Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg/-crop-126-120-126px-Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg)
 
 How to  
 Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/Make-Your-Boyfriend-Go-Crazy-over-You)
-
-[![Truth or Dare Questions for Teens](https://www.wikihow.com/images/thumb/3/3c/13354196-250.jpg/-crop-126-120-126px-13354196-250.jpg)
-
-250 Truth or Dare Questions for the Best Game Ever](https://www.wikihow.com/Truth-or-Dare-Questions-for-Teens)
-
-[![Deep Things to Say to Your Boyfriend over Text](https://www.wikihow.com/images/thumb/0/00/Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg/-crop-126-120-126px-Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg)
-
-Romantic and Thoughtful Texts to Send to Your Boyfriend to Make Him Feel Special](https://www.wikihow.com/Deep-Things-to-Say-to-Your-Boyfriend-over-Text)
-
-[![Read Palms](https://www.wikihow.com/images/thumb/0/00/Read-Palms-Step-9.jpg/-crop-126-120-126px-Read-Palms-Step-9.jpg)
-
-How to  
-Read Palms](https://www.wikihow.com/Read-Palms)
 
   
 
@@ -197,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-133
+169
