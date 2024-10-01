@@ -31,7 +31,7 @@ Contents
 CleanShot Cloud Privacy Policy
 ==============================
 
-Last update: July 24, 2021
+Last update: October 1, 2024
 
 Your privacy is important to us. We recognize trust in us as a very important part of our relationship and a key value of our business practice, in particular concerning data privacy.
 
@@ -87,7 +87,7 @@ Since we operate worldwide, be informed that we might transfer collected data ou
 
 We may share the information we collect with the following types of entities, including those which may be located outside your country of residence:
 
-**Service Providers and Suppliers.** MTW retains service providers and suppliers to manage or support our business operations, provide professional services, deliver products, services and customer solutions, and assist with our product warranties. These providers and suppliers may be located in the EU or other locations where we do business. Full list of our providers and suppliers is available [here](https://cleanshot.cloud/cloud/subprocessors). These parties may use the information solely in conjunction with the specific services they provide for us. We cooperate only with trustworthy contractors that provide sufficient guarantees and implement appropriate technical and organizational measures in such a manner that processing ensures protection of personal data we transfer. We base on standard contract clauses confirmed by the EU.
+**Service Providers, Suppliers and Contractors.** MTW retains service providers, suppliers and contractors to manage or support our business operations, provide professional services, deliver products, services and customer solutions, and assist with our product warranties. These providers and suppliers may be located in the EU or other locations where we do business. A detailed list of our providers and suppliers is available [here](https://cleanshot.cloud/cloud/subprocessors). These parties may use the information solely in conjunction with the specific services they provide for us. We cooperate only with trustworthy contractors that provide sufficient guarantees and implement appropriate technical and organizational measures in such a manner that processing ensures protection of personal data we transfer. We base on standard contract clauses confirmed by the EU.
 
 **For Legal Purposes.** We may disclose information to third parties for legal or compliance purposes and responsibilities, such as to protect the security of the website or to help detect fraud. We may also use collected data for the purpose of managing any kind of dispute, including litigation.
 
