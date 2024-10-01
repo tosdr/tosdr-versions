@@ -13,8 +13,8 @@
             Scalable virtual machines](https://www.digitalocean.com/products/droplets)
         * [Kubernetes  
             Scalable virtual machines](https://www.digitalocean.com/products/kubernetes)
-        * [Paperspace  
-            Build and scale AI models](https://www.digitalocean.com/products/paperspace)
+        * [AI / ML  
+            Build and scale AI models](https://www.digitalocean.com/products/ai-ml)
         * [Cloudways  
             Managed cloud hosting](https://www.digitalocean.com/products/cloudways)
         * [App Platform  
@@ -26,18 +26,17 @@
         * [CPU-Optimized Droplets](https://www.digitalocean.com/products/droplets/cpu-optimized)
         * [Functions](https://www.digitalocean.com/products/functions)
         * [App Platform](https://www.digitalocean.com/products/app-platform)
+        
+        AI / ML
+        
         * [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
+        * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
         
         Backups & Snapshots
         
         * [Backups](https://www.digitalocean.com/products/backups)
         * [Snapshots](https://docs.digitalocean.com/products/images/snapshots)
         * [SnapShooter](https://marketplace.digitalocean.com/add-ons/snapshooter)
-        
-        Storage
-        
-        * [Spaces Object Storage](https://www.digitalocean.com/products/spaces)
-        * [Volume Block Storage](https://www.digitalocean.com/products/block-storage)
         
         Networking
         
@@ -56,6 +55,11 @@
         * [Caching](https://www.digitalocean.com/products/managed-databases-redis)
         * [OpenSearch](https://www.digitalocean.com/products/managed-databases-opensearch)
         
+        Storage
+        
+        * [Spaces Object Storage](https://www.digitalocean.com/products/spaces)
+        * [Volume Block Storage](https://www.digitalocean.com/products/block-storage)
+        
         Developer Tools
         
         * [API](https://docs.digitalocean.com/reference/api/)
@@ -64,11 +68,6 @@
         * [Monitoring](https://www.digitalocean.com/products/monitoring)
         * [Uptime](https://www.digitalocean.com/products/uptime-monitoring)
         * [Identity Access Management](https://www.digitalocean.com/products/identity-access-management)
-        
-        AI/ML
-        
-        * [Paperspace](https://www.digitalocean.com/products/paperspace)
-        * [GenAI](https://www.digitalocean.com/products/gen-ai)
         
         Cloud Website Hosting
         
@@ -443,43 +442,40 @@ The data controller of your personal information is DigitalOcean, LLC.
 
 ###### Products
 
-* [Products Overview](https://www.digitalocean.com/products)
+* [Overview](https://www.digitalocean.com/products)
 * [Droplets](https://www.digitalocean.com/products/droplets)
-* [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
 * [Kubernetes](https://www.digitalocean.com/products/kubernetes)
-* [Paperspace](https://www.digitalocean.com/products/paperspace)
-* [GenAI](https://www.digitalocean.com/products/gen-ai)
-* [App Platform](https://www.digitalocean.com/products/app-platform)
 * [Functions](https://www.digitalocean.com/products/functions)
-* [Cloudways](https://www.digitalocean.com/products/cloudways)
+* [App Platform](https://www.digitalocean.com/products/app-platform)
+* [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
+* [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+* [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Managed Databases](https://www.digitalocean.com/products/managed-databases)
 * [Spaces](https://www.digitalocean.com/products/spaces)
-* [Marketplace](https://www.digitalocean.com/products/marketplace)
-* [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Block Storage](https://www.digitalocean.com/products/block-storage)
-* [Tools & Integrations](https://www.digitalocean.com/products/tools-and-integrations)
 * [API](https://docs.digitalocean.com/reference/api)
-* [Pricing](https://www.digitalocean.com/pricing)
-* [Pricing Calculator](https://www.digitalocean.com/pricing/calculator)
-* [Documentation](https://docs.digitalocean.com/)
-* [Release Notes](https://docs.digitalocean.com/release-notes)
 * [Uptime](https://www.digitalocean.com/products/uptime-monitoring)
 * [Identity Access Management](https://www.digitalocean.com/products/identity-access-management)
+* [Cloudways](https://www.digitalocean.com/products/cloudways)
 
-###### Community
+###### Resources
 
-* [Tutorials](https://www.digitalocean.com/community/tutorials)
-* [Q&A](https://www.digitalocean.com/community/questions)
+* [Community Tutorials](https://www.digitalocean.com/community/tutorials)
+* [Community Q&A](https://www.digitalocean.com/community/questions)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
-* [Deploy 2024](https://www.digitalocean.com/deploy)
-* [Shop Swag](http://store.digitalocean.com/)
 * [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
-* [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
+* [Marketplace](https://www.digitalocean.com/products/marketplace)
+* [Pricing](https://www.digitalocean.com/pricing)
+* [Pricing Calculator](https://www.digitalocean.com/pricing/calculator)
+* [Documentation](https://docs.digitalocean.com/)
+* [Release Notes](https://docs.digitalocean.com/release-notes)
+* [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
+* [Shop Swag](http://store.digitalocean.com/)
 
 ###### Solutions
 
@@ -521,43 +517,40 @@ The data controller of your personal information is DigitalOcean, LLC.
 
 ###### Products
 
-* [Products Overview](https://www.digitalocean.com/products)
+* [Overview](https://www.digitalocean.com/products)
 * [Droplets](https://www.digitalocean.com/products/droplets)
-* [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
 * [Kubernetes](https://www.digitalocean.com/products/kubernetes)
-* [Paperspace](https://www.digitalocean.com/products/paperspace)
-* [GenAI](https://www.digitalocean.com/products/gen-ai)
-* [App Platform](https://www.digitalocean.com/products/app-platform)
 * [Functions](https://www.digitalocean.com/products/functions)
-* [Cloudways](https://www.digitalocean.com/products/cloudways)
+* [App Platform](https://www.digitalocean.com/products/app-platform)
+* [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
+* [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+* [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Managed Databases](https://www.digitalocean.com/products/managed-databases)
 * [Spaces](https://www.digitalocean.com/products/spaces)
-* [Marketplace](https://www.digitalocean.com/products/marketplace)
-* [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Block Storage](https://www.digitalocean.com/products/block-storage)
-* [Tools & Integrations](https://www.digitalocean.com/products/tools-and-integrations)
 * [API](https://docs.digitalocean.com/reference/api)
-* [Pricing](https://www.digitalocean.com/pricing)
-* [Pricing Calculator](https://www.digitalocean.com/pricing/calculator)
-* [Documentation](https://docs.digitalocean.com/)
-* [Release Notes](https://docs.digitalocean.com/release-notes)
 * [Uptime](https://www.digitalocean.com/products/uptime-monitoring)
 * [Identity Access Management](https://www.digitalocean.com/products/identity-access-management)
+* [Cloudways](https://www.digitalocean.com/products/cloudways)
 
-###### Community
+###### Resources
 
-* [Tutorials](https://www.digitalocean.com/community/tutorials)
-* [Q&A](https://www.digitalocean.com/community/questions)
+* [Community Tutorials](https://www.digitalocean.com/community/tutorials)
+* [Community Q&A](https://www.digitalocean.com/community/questions)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
-* [Deploy 2024](https://www.digitalocean.com/deploy)
-* [Shop Swag](http://store.digitalocean.com/)
 * [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
-* [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
+* [Marketplace](https://www.digitalocean.com/products/marketplace)
+* [Pricing](https://www.digitalocean.com/pricing)
+* [Pricing Calculator](https://www.digitalocean.com/pricing/calculator)
+* [Documentation](https://docs.digitalocean.com/)
+* [Release Notes](https://docs.digitalocean.com/release-notes)
+* [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
+* [Shop Swag](http://store.digitalocean.com/)
 
 ###### Solutions
 
