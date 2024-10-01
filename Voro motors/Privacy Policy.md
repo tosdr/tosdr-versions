@@ -19,6 +19,10 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
         * [RoadRunner Pro(New!)](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
+    * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
+        * [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
+        * [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
+        * [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
     * [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
         * [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
         * [Wolf King GT (72V)](https://www.voromotors.com/products/wolf-king-gt)
@@ -28,10 +32,6 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
         * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
         * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
-    * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
-        * [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
-        * [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
-        * [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
     * [Categories](https://www.voromotors.com/collections/electric-scooters)
         * [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
         * [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
@@ -204,6 +204,12 @@ Continue Shopping
 * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
 * [RoadRunner Pro(New!)](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
 
+* [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
+
+* [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
+* [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
+* [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
+
 * [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
 
 * [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
@@ -216,12 +222,6 @@ Continue Shopping
 
 * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
 * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
-
-* [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
-
-* [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
-* [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
-* [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
 
 * [Categories](https://www.voromotors.com/collections/electric-scooters)
 
