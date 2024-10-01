@@ -190,7 +190,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (52)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (51)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (10)](https://www.smithbrothersfarms.com/on-special)
         
@@ -254,12 +254,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (79)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (78)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (19)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (18)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -284,7 +284,7 @@ Hi
         * [Treats (4)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (46)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (45)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
@@ -293,7 +293,7 @@ Hi
             
         * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
-        * [Deli & Charcuterie (14)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
+        * [Deli & Charcuterie (13)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
     * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
@@ -324,10 +324,10 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Snacks (35)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (34)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (14)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (13)](https://www.smithbrothersfarms.com/salsa)
             
         * [Chips, Crackers & Nuts (21)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
