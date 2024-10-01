@@ -96,8 +96,6 @@
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
-September Sale 20% Discount applied to all products
-
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
 Free Delivery  
