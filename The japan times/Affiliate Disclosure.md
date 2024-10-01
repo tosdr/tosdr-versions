@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
-* [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
-* [Hyogo governor](https://www.japantimes.co.jp/tag/motohiko-saito/ "Hyogo governor")
+* [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
+* [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -142,13 +142,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
+  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
 [Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
 
   [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
-[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
-
-  [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
 Editors' Picks
 --------------
@@ -177,6 +177,14 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
@@ -184,12 +192,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
 
   [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
-
-  [![Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424634.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of the Liberal Democratic Party, holds a news conference after the LDP leadership election, on Friday.")](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
 Podcast
 -------
@@ -210,9 +212,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,17 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's children's agency looks to set up shelters for runaways](https://www.japantimes.co.jp/news/2024/09/30/japan/society/runaway-youths-shelters/ "Japan's children's agency looks to set up shelters for runaways")
+[Recovery efforts hampered by 'post-apocalyptic' destruction after storm Helene](https://www.japantimes.co.jp/news/2024/10/01/world/north-carolina-hurricane-helene/ "Recovery efforts hampered by 'post-apocalyptic' destruction after storm Helene")
 
-11 hours ago
+10 mins ago
 
-[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+[BOJ keen to avoid surprises after rate hike tanked Nikkei, meeting notes show](https://www.japantimes.co.jp/business/2024/10/01/economy/boj-september-opinions/ "BOJ keen to avoid surprises after rate hike tanked Nikkei, meeting notes show")
 
-[Former Abe faction treasurer given suspended three-year prison term](https://www.japantimes.co.jp/news/2024/09/30/japan/crime-legal/ldp-political-funds-ruling/ "Former Abe faction treasurer given suspended three-year prison term")
+25 mins ago
 
-[Incoming PM Ishiba sets Oct. 27 as date for snap election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/shigeru-ishiba-general-election-date/ "Incoming PM Ishiba sets Oct. 27 as date for snap election")
+[Global investors call time on their exodus from China](https://www.japantimes.co.jp/business/2024/10/01/markets/global-investors-exodus-china/ "Global investors call time on their exodus from China")
 
-[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
+25 mins ago
+
+[Taiwan mobilizes troops as powerful Typhoon Krathon approaches southwest](https://www.japantimes.co.jp/news/2024/10/01/asia-pacific/troops-taiwan-typhoon-krathon/ "Taiwan mobilizes troops as powerful Typhoon Krathon approaches southwest")
+
+50 mins ago
+
+[Some 7-Eleven owners in Japan welcome foreign bid, hoping for change](https://www.japantimes.co.jp/business/2024/10/01/companies/seven-eleven-owners-takeover/ "Some 7-Eleven owners in Japan welcome foreign bid, hoping for change")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
