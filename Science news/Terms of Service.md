@@ -116,6 +116,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [Bird nests made with a toxic fungus seem to fend off attacking ants](https://www.sciencenews.org/article/bird-nests-toxic-fungus-ant-attacks)
+            
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")2 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [‘Night Magic’ invites you to celebrate the living wonders of the dark](https://www.sciencenews.org/article/night-magic-dark-book-review)
             
             By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 27, 2024
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [This fish has legs — and it uses them for more than just walking](https://www.sciencenews.org/article/fish-legs-taste-prey-sea-robin)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 26, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 25, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,13 +188,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Betelgeuse has a tiny companion star hidden in plain sight](https://www.sciencenews.org/article/betelgeuse-hidden-companion-star)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")18 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 30, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [Starlink satellites’ leaky radio waves obscure the cosmos](https://www.sciencenews.org/article/starlink-satellites-radio-waves)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")20 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")September 30, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
