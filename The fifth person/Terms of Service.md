@@ -147,14 +147,6 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/trust-220x150.jpg)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
-    
-    [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
@@ -162,6 +154,14 @@ Quick Guides
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
     
     3 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/trust-220x150.jpg)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
+    
+    [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
+    
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -189,19 +189,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    September 13, 2022
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     4 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    September 13, 2022
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
