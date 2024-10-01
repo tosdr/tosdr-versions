@@ -8,64 +8,15 @@ English (US)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yJ/r/RmifG_DSE6Q.svg)
 
-[Log in](https://work.workplace.com/work/company_selector?ref=AVsQF7RfbSskZ0-OZKA7zR5Gy3xk5496lfGdzowKKE73BnmfIHIr8jHjke8a0YYrjGUZ8sZbh3jAKcz6rZKGqzOWj0nbCX3X3l5oLM9keSNZ6yvO073agaLtAOrmqyYyN77CMxpiFtb0iu_kAxN73xpM8TK5ZxHZwIM80IwyZUzSIg)
+[Log in](https://work.workplace.com/work/company_selector?ref=AVuhew5f_QPXPcH1ldV3wftE7a2NuBWMh3XkXYr4jQ4IWu1f78kWDJ02F7vJq7tGVMHBbAMOX4f0wipoaSlTgr0FMQ08MKEPQGwO_MbMGDKIOoh53StFVI2pkwOLdvjezw1lnAMkge1sf2zk6gjjB7c7KDAjsLCPhYuiQYw6IkKEvQ)
 
 [Home](https://www.workplace.com/)[Home](https://www.workplace.com/)
 
-AboutFeaturesPricingInsightsPartnersResources
-
-[](#)[](#)
-
-[](#)[](#)
+SecurityResources
 
 Menu
 
-* [Choosing Workplace](#)
-    
-* [Solutions](https://www.workplace.com/solutions)
-    
 * [Security](https://www.workplace.com/security)
-    
-* [Customer Stories](#)
-    
-* [Workplace for Good](https://www.workplace.com/workplaceforgood)
-    
-* [Getting Started](https://www.workplace.com/getting-started)
-    
-
-[CHOOSE WORKPLACE
-
-Learn why Workplace is right for you.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/about)
-
-* [Why Workplace](https://www.workplace.com/about)
-    
-* [Diversity & Inclusion](https://www.workplace.com/diversity-and-inclusion)
-    
-* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2hP9LGYnunoYBNlPabRUydZNJH617YAQ270_Q7MWUSehH5MbLG77sdQ89_WvW1LRun9TsC_FyVqSUkN2HPmIX6axKhE0wNEFAYl8_hRPoK377OTMzQ5F63HT1nJhdf6tObQbNu5CB426ZC)
-    
-
-* [How can Workplace help you?](https://www.workplace.com/solutions)
-    
-* [Business Communication](https://www.workplace.com/solutions/business-communication)
-    
-* [Employee Engagement](https://www.workplace.com/solutions/employee-engagement)
-    
-* [Strengthen Culture](https://www.workplace.com/solutions/strengthen-culture)
-    
-* [Getting Connected](https://www.workplace.com/solutions/connect-everyone)
-    
-* [Frontline Workers](https://www.workplace.com/solutions/frontline)
-    
-* [Remote and Hybrid Working](https://www.workplace.com/solutions/hybrid-working)
-    
-
-* [Browse All](https://www.workplace.com/case-studies)
-    
-* [Podcasts](https://www.workplace.com/podcast)
     
 
 [Security
@@ -74,473 +25,21 @@ Learn why Workplace is right for you.
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-Security is at the heart of everything we do, with world-class infrastructure and features to keep your company safe.](https://www.workplace.com/security)[Workplace for Good
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-We're proud to offer Workplace Core for free to eligible non-profit charitable organizations. See if you qualify.](https://www.workplace.com/workplaceforgood)[Getting Started
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Read to launch Workplace? Discover how to get your whole company connected in as little as 5 weeks.](https://www.workplace.com/getting-started)
-
-[GETTING STARTED
-
-Get your whole company connected in as little as 5 weeks.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/getting-started)[Choosing Workplace
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Let's get into all the reasons that Workplace is the right choice for your business.](#)[Solutions
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-From leveling-up company communication to building a better culture, we’re here to solve your toughest challenges.](https://www.workplace.com/solutions)[Customer Stories
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Find out how organizations like yours are using Workplace to solve their most important business challenges.](#)[Why Workplace
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Why Workplace? Because it's familiar, mobile, secure, integrated and connects everyone. Why else?](https://www.workplace.com/about)[Diversity & Inclusion
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-We’re doing our bit for a better world by making sure every employee feels seen, heard and valued.](https://www.workplace.com/diversity-and-inclusion)[Future of Work
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Learn how to take your first step into the metaverse with Meta's hardware and software solutions.](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT15Li5Zm6nB0EqlLACsrcFaTa5H4YqbJUm8rJbffn3Fmaup1jyZn01goCLe2Olw_4rhQVOobiZ6aiFrrzoqlM3P2PFQO8FUPYO0mgaiVTvQHEfnXkb6JUeMRhNQIA0ZvPzKXlFZgsjNbPE3)[How can Workplace help you?
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-From leveling-up company communication to building a better culture, we’re here to solve your toughest challenges.](https://www.workplace.com/solutions)[Business Communication
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Our easy-to-use tools will make your most important messages unmissable, and your intranet inspirational.](https://www.workplace.com/solutions/business-communication)[Employee Engagement
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Ditch the email for more engaging company-wide conversations that give every employee a voice.](https://www.workplace.com/solutions/employee-engagement)[Strengthen Culture
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Show people you’re committed to culture by empowering everybody to be the best version of themselves.](https://www.workplace.com/solutions/strengthen-culture)[Getting Connected
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Bring your entire organization together on Workplace, even if they don't have an email address.](https://www.workplace.com/solutions/connect-everyone)[Frontline Workers
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-61% of frontline managers say there’s a disconnect in communication with head office. We help close the gap.](https://www.workplace.com/solutions/frontline)[Remote and Hybrid Working
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Whether they’re working from home or the office, Workplace keeps your employees connected to your company’s culture.](https://www.workplace.com/solutions/hybrid-working)[Browse All
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Organizations of all shapes and sizes are gaining a competitive edge with Workplace. Find your favorite story.](https://www.workplace.com/case-studies)[Podcasts
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Listen to our Pioneer Podcasts to hear some of our favorite success stories from our biggest champions.](https://www.workplace.com/podcast)
-
-* [Features](https://www.workplace.com/features)
-    
-* [Integrations](https://www.workplace.com/features/integrations)
-    
-* [Interactive Demo](https://www.workplace.com/demo)
-    
-
-[FEATURES AT A GLANCE
-
-Discover a simpler way to stay connected with familiar features you'll love to use.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/features)
-
-* [Features at a Glance](https://www.workplace.com/features)
-    
-* [Business Communication](#)
-    
-* [Employee Engagement](#)
-    
-* [Strengthen Culture](#)
-    
-* [Getting Connected](#)
-    
-
-* [Connect to all your tools](https://www.workplace.com/features/integrations)
-    
-* [Workplace & Microsoft](https://www.workplace.com/workplace-microsoft)
-    
-* [Integrations directory](https://www.workplace.com/integrations)
-    
-
-[Interactive Demo
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Take the tour to see how all our features and technology come together to turn your company into a community.](https://www.workplace.com/demo)
-
-[INTERACTIVE DEMO
-
-Take the guided tour to see all our features in action.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/demo)[Features
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Discover familiar features to share information, engage employees, build culture and connect people everywhere.](https://www.workplace.com/features)[Integrations
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Workplace brings your favorite tools together. So whatever you need, our integrations have got you covered.](https://www.workplace.com/features/integrations)[Features at a Glance
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Discover familiar features to share information, engage employees, build culture and connect people everywhere.](https://www.workplace.com/features)
-
-* [Knowledge Library](https://www.workplace.com/features/knowledge-library)
-    
-* [Groups](https://www.workplace.com/features/groups)
-    
-* [News Feed](https://www.workplace.com/features/news-feed)
-    
-* [Key Updates](https://www.workplace.com/features/key-updates)
-    
-
-* [Live Video](https://www.workplace.com/features/live-video)
-    
-* [Events](https://www.workplace.com/features/events)
-    
-* [Comments](https://www.workplace.com/features/comments)
-    
-* [Video Chat](https://www.workplace.com/features/video-chat)
-    
-* [Auto-Translate](https://www.workplace.com/features/auto-translate)
-    
-
-* [Groups](https://www.workplace.com/features/groups)
-    
-* [Polls](https://www.workplace.com/features/polls)
-    
-* [Profiles](https://www.workplace.com/features/profiles)
-    
-* [Surveys](https://www.workplace.com/features/surveys)
-    
-* [Safety Center](https://www.workplace.com/features/safety-center)
-    
-
-* [Integrations](https://www.workplace.com/features/integrations)
-    
-* [Access Codes](https://www.workplace.com/features/access-code)
-    
-* [Bots](https://www.workplace.com/features/bots)
-    
-* [Insights](https://www.workplace.com/features/insights)
-    
-* [Mobile](https://www.workplace.com/features/mobile)
-    
-
-[Connect to all your tools
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-See how Workplace easily integrates with all your favorite business tools.](https://www.workplace.com/features/integrations)[Workplace & Microsoft
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-From Teams, to Office 365 to Azure AD, Workplace and Microsoft are better together.](https://www.workplace.com/workplace-microsoft)[Integrations directory
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Check out the full list of our integrations and learn how to customize your Workplace.](https://www.workplace.com/integrations)
-
-* [Pricing Plans](https://www.workplace.com/pricing)
-    
-* [Forrester ROI Study](https://www.workplace.com/rc/ebook/total-economic-impact-report)
-    
-
-[CHOOSE THE RIGHT PLAN
-
-Choose the Workplace payment option that works best for you and your business.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/pricing)
-
-[Pricing Plans
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Our flexible pricing plans offer unbeatable value, great customization options and advanced security as standard.](https://www.workplace.com/pricing)[Forrester ROI Study
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Download the Forrester Total Economic Impact Report to discover the value Workplace can bring to your organization.](https://www.workplace.com/rc/ebook/total-economic-impact-report)
-
-[Forrester ROI Study
-
-Discover the business value of Workplace in the latest Forrester Total Economic Impact Study.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/rc/ebook/total-economic-impact-report)
-
-* [Hot Topics](#)
-    
-* [Blog](https://www.workplace.com/blog)
-    
-* [Events & Webinars](https://www.workplace.com/events)
-    
-* [Ebooks & Guides](https://www.workplace.com/content)
-    
-* [Newsroom](https://www.workplace.com/newsroom)
-    
-
-[NEWS
-
-McDonald’s uses Workplace to enhance its restaurant employee experience.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/newsroom/mcdonalds-and-workplace)
-
-* [Future of Work](https://www.workplace.com/future-of-work)
-    
-* [Employee Experience](https://www.workplace.com/employee-experience)
-    
-
-* [Future of Work](https://www.workplace.com/blog/future-of-work)
-    
-* [Business Communication](https://www.workplace.com/blog/communication)
-    
-* [Employee Engagement](https://www.workplace.com/blog/engagement)
-    
-* [Leadership](https://www.workplace.com/blog/understanding-leadership)
-    
-* [Culture](https://www.workplace.com/blog/culture)
-    
-* [Remote Working](https://www.workplace.com/blog/remote-working)
-    
-* [Team Collaboration](https://www.workplace.com/blog/collaboration)
-    
-* [Productivity](https://www.workplace.com/blog/productivity-at-work)
-    
-
-[Events & Webinars
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Explore upcoming Workplace events and webinars, and register for any that sound exciting (so that's all of them).](https://www.workplace.com/events)[Ebooks & Guides
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-We love sharing what we've learned about the future of work, so download a guide or infographic on us.](https://www.workplace.com/content)[Newsroom
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Find the latest news about Workplace, our partners and customers, or check out the Media Gallery for useful brand stuff.](https://www.workplace.com/newsroom)
-
-[NEWS
-
-Workplace and Vodafone renew partnership to build bridges in a hybrid world
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/blog/vodafone-and-workplace)[Hot Topics
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Our latest insights on new ways of working.](#)[Blog
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Prepare for the future of work with our collection of articles, insights and interviews on key business topics.](https://www.workplace.com/blog)[Future of Work
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-How will the metaverse change how we work?](https://www.workplace.com/future-of-work)[Employee Experience
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Deliver your employee experience strategy with Workplace](https://www.workplace.com/employee-experience)[Future of Work
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-How will we work in the metaverse? What does the infinite office look like? Step inside and start exploring.](https://www.workplace.com/blog/future-of-work)[Business Communication
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Discover how to talk and listen to everyone in your organization (and why you need to).](https://www.workplace.com/blog/communication)[Employee Engagement
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Looking to connect more deeply with employees? Learn how to give work more meaning and people a purpose.](https://www.workplace.com/blog/engagement)[Leadership
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-How will leaders navigate the changing technology landscape? And how do you become a better one? Take a look.](https://www.workplace.com/blog/understanding-leadership)[Culture
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-What is culture? How do you build authentic values? And why does it matter so much? Find out right here.](https://www.workplace.com/blog/culture)[Remote Working
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Remote working is big. Hybrid will be bigger. So how do organizations stay connected in a new world of work?](https://www.workplace.com/blog/remote-working)[Team Collaboration
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-This is where we find out what's really involved in building high-performing teams and a culture of collaboration.](https://www.workplace.com/blog/collaboration)[Productivity
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-What is productivity, how do you measure it and what effect does it have on a business? Let's explore.](https://www.workplace.com/blog/productivity-at-work)
-
-* [Become A Partner](https://www.workplace.com/partners/join)
-    
-* [Service & Reseller Partners](https://www.workplace.com/partners)
-    
-* [Integrations Partners](https://www.workplace.com/integrations)
-    
-
-[WORKPLACE ONE PARTNER PROGRAM
-
-Want to become a Workplace partner? Discover the benefits and apply today.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)](https://www.workplace.com/partners/join)
-
-[Become A Partner
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Interested in becoming a Workplace partner? Learn more about the benefits and apply today.](https://www.workplace.com/partners/join)[Service & Reseller Partners
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Looking to launch Workplace? Get practical support, technical smarts and hands-on guidance from our partner community.](https://www.workplace.com/partners)[Integrations Partners
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Check out the full list of our integrations and learn how to customize your Workplace.](https://www.workplace.com/integrations)
+Security is at the heart of everything we do, with world-class infrastructure and features to keep your company safe.](https://www.workplace.com/security)
 
 * [Start Using Workplace](https://www.workplace.com/resources/getting-started)
     
 * [Mastering Workplace Features](https://www.workplace.com/resources)
     
-* [Workplace Use Cases](https://www.workplace.com/resources/use-cases)
-    
 * [Technical Resources](https://www.workplace.com/resources/tech)
     
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT0nU9xj1NBbyQlQ6u3czQAYIbwr4nqXx_KMG6PEjE5xAwt2aYFX9wDZFBTW_YGJkOQR7lFPANi3riYcBBEoKuJOeFzWBzKPVO5DQZv31-IEIIi0kd-Lmso6d_qor6HrPTHpAJrQpSFJwcUA)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1K0iEcXBeZ-qtR1oiqHR3VLudc8LcQhYGPKduq9F0KCKIHLEIlMFo7fLFjVga7Wl5fkHdEDdRopaCsAbpEJ2VWDKxV5fbLKZCgWuZV32fNK8llCzksxbEph_uIDvNMJ69Bb2pypUFQWa4D)
+    
+* [Podcasts](https://www.workplace.com/podcast)
     
 * [Help Center](https://www.workplace.com/help/work)
     
 * [Support](https://www.workplace.com/help/work/298710224889398?helpref=hc_global_nav)
-    
-* [Customer Communities](https://www.workplace.com/resources/communities)
     
 
 [RESOURCES
@@ -593,25 +92,19 @@ Everything you need to transform the way you work with Workplace.
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-From helpful tutorials to in-depth launch guides and toolkits, get all the resources you need for a quick and easy launch.](https://www.workplace.com/resources/getting-started)[Workplace Use Cases
+From helpful tutorials to in-depth launch guides and toolkits, get all the resources you need for a quick and easy launch.](https://www.workplace.com/resources/getting-started)[Work Academy
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-Check out these tips, best practices and inspirational use cases to build a truly connected business on Workplace.](https://www.workplace.com/resources/use-cases)[Work Academy
+Discover new ways to use Meta for Work and best practices to help you work smarter.](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT3ytY5_kSc2Ci8wHrgwsvXAkUE07F7uMuis9J7D__UUJAaJeTz2l61mQ4jj-1CYrEcXpO_HsTZ4pGYXxPr6efqLxEdd8XUqPlS6mr2HxzrG_MQFLEWZTV_Nxfy8rXEcZoTNlX9OYEWNJe56)[Podcasts
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-Discover new ways to use Meta for Work and best practices to help you work smarter.](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1C5ZiIwJjRGTPAgkMmsa349FsnJmZkRFLr9h9P7AcuSgb6-xPSTEPO0CErL-x6T26vuMgvRb-wAN67IjWbJfDdpuRPn9uhGn88gcyALfq7_SHo-yP-5q-KlHoHS0WknJuC8i8hHpSaWwlU)[Customer Communities
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
-
-![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
-
-Get access to an online community of Workplace customers and learn directly from your peers.](https://www.workplace.com/resources/communities)
+Listen to our Pioneer Podcasts to hear some of our favorite success stories from our biggest champions.](https://www.workplace.com/podcast)
 
 [TECHNICAL RESOURCES CENTER
 
@@ -741,159 +234,30 @@ Still can't find what you're looking for? Get in touch with a team of experts fo
 
 Need help with your Workplace account? Fill out this form to get all the answers you need from our customer support.](https://www.workplace.com/contact)
 
-* [About](#)
-* [Features](#)
-* [Pricing](#)
-* [Insights](#)
-* [Partners](#)
+* [Security](#)
 * [Resources](#)
 
-About
+Security
 
-* [Choosing Workplace](#)
-* [Solutions](#)
 * [Security](https://www.workplace.com/security)
-* [Customer Stories](#)
-* [Workplace for Good](https://www.workplace.com/workplaceforgood)
-* [Getting Started](https://www.workplace.com/getting-started)
-
-Features
-
-* [Features](#)
-* [Integrations](#)
-* [Interactive Demo](https://www.workplace.com/demo)
-
-Pricing
-
-* [Pricing Plans](https://www.workplace.com/pricing)
-* [Forrester ROI Study](https://www.workplace.com/rc/ebook/total-economic-impact-report)
-
-Insights
-
-* [Hot Topics](#)
-* [Blog](#)
-* [Events & Webinars](https://www.workplace.com/events)
-* [Ebooks & Guides](https://www.workplace.com/content)
-* [Newsroom](https://www.workplace.com/newsroom)
-
-Partners
-
-* [Become A Partner](https://www.workplace.com/partners/join)
-* [Service & Reseller Partners](https://www.workplace.com/partners)
-* [Integrations Partners](https://www.workplace.com/integrations)
 
 Resources
 
 * [Start Using Workplace](https://www.workplace.com/resources/getting-started)
 * [Mastering Workplace Features](#)
-* [Workplace Use Cases](https://www.workplace.com/resources/use-cases)
 * [Technical Resources](#)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT0mpZtSkJwCzhNHiPmbPdbAyeoCc6ebnlxp-MSy4FxCGtRvAjB3F-eSZxwxheaYytb52nGQhyvQD0H0S1ltV2bt8i-kTJP3hhbH6ovJ9gY-MNAkUrAe1Kc8MQbklVdtI8Fg1ruyaT2OvLuO)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT0oUdmPAJReyawr7cprxyo1laTRryYlBVQoza3qmMOupOl004fqgqhGgvBeUniL5A5Emz0PeV0yluNrvUVB1NTY3wTN9uFjT-hyWz02t6r4ppbVNTmARM5t0sOMA0ZWXzVkqzdNwz3unZeN)
+* [Podcasts](https://www.workplace.com/podcast)
 * [Help Center](#)
 * [Support](#)
-* [Customer Communities](https://www.workplace.com/resources/communities)
-
-Choosing Workplace
-
-* [Why Workplace](https://www.workplace.com/about)
-* [Diversity & Inclusion](https://www.workplace.com/diversity-and-inclusion)
-* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2hAuWRIcF2PFcuyFHXN8QxF0h5kqIQYo-_J053uY9Tf7UEE4q0TpV8JLuNXK-FpKp1u6jqwo7jAZF5R4u3bfuc26j08EsvWMOUfaaCWbe6TbXyXL-9sYteq9M8EBw-RoUWcGFXzpkjtqIg)
-
-Solutions
-
-* [How can Workplace help you?](https://www.workplace.com/solutions)
-* [Business Communication](https://www.workplace.com/solutions/business-communication)
-* [Employee Engagement](https://www.workplace.com/solutions/employee-engagement)
-* [Strengthen Culture](https://www.workplace.com/solutions/strengthen-culture)
-* [Getting Connected](https://www.workplace.com/solutions/connect-everyone)
-* [Frontline Workers](https://www.workplace.com/solutions/frontline)
-* [Remote and Hybrid Working](https://www.workplace.com/solutions/hybrid-working)
 
 Security
-
-Customer Stories
-
-* [Browse All](https://www.workplace.com/case-studies)
-* [Podcasts](https://www.workplace.com/podcast)
-
-Workplace for Good
-
-Getting Started
-
-Features
-
-* [Features at a Glance](https://www.workplace.com/features)
-* [Business Communication](#)
-    * [Knowledge Library](https://www.workplace.com/features/knowledge-library)
-    * [Groups](https://www.workplace.com/features/groups)
-    * [News Feed](https://www.workplace.com/features/news-feed)
-    * [Key Updates](https://www.workplace.com/features/key-updates)
-* [Employee Engagement](#)
-    * [Live Video](https://www.workplace.com/features/live-video)
-    * [Events](https://www.workplace.com/features/events)
-    * [Comments](https://www.workplace.com/features/comments)
-    * [Video Chat](https://www.workplace.com/features/video-chat)
-    * [Auto-Translate](https://www.workplace.com/features/auto-translate)
-* [Strengthen Culture](#)
-    * [Groups](https://www.workplace.com/features/groups)
-    * [Polls](https://www.workplace.com/features/polls)
-    * [Profiles](https://www.workplace.com/features/profiles)
-    * [Surveys](https://www.workplace.com/features/surveys)
-    * [Safety Center](https://www.workplace.com/features/safety-center)
-* [Getting Connected](#)
-    * [Integrations](https://www.workplace.com/features/integrations)
-    * [Access Codes](https://www.workplace.com/features/access-code)
-    * [Bots](https://www.workplace.com/features/bots)
-    * [Insights](https://www.workplace.com/features/insights)
-    * [Mobile](https://www.workplace.com/features/mobile)
-
-Integrations
-
-* [Connect to all your tools](https://www.workplace.com/features/integrations)
-* [Workplace & Microsoft](https://www.workplace.com/workplace-microsoft)
-* [Integrations directory](https://www.workplace.com/integrations)
-
-Interactive Demo
-
-Pricing Plans
-
-Forrester ROI Study
-
-Hot Topics
-
-* [Future of Work](https://www.workplace.com/future-of-work)
-* [Employee Experience](https://www.workplace.com/employee-experience)
-
-Blog
-
-* [Future of Work](https://www.workplace.com/blog/future-of-work)
-* [Business Communication](https://www.workplace.com/blog/communication)
-* [Employee Engagement](https://www.workplace.com/blog/engagement)
-* [Leadership](https://www.workplace.com/blog/understanding-leadership)
-* [Culture](https://www.workplace.com/blog/culture)
-* [Remote Working](https://www.workplace.com/blog/remote-working)
-* [Team Collaboration](https://www.workplace.com/blog/collaboration)
-* [Productivity](https://www.workplace.com/blog/productivity-at-work)
-
-Events & Webinars
-
-Ebooks & Guides
-
-Newsroom
-
-Become A Partner
-
-Service & Reseller Partners
-
-Integrations Partners
 
 Start Using Workplace
 
 Mastering Workplace Features
 
 * [What's New in Workplace](https://www.workplace.com/resources/news-updates)
-
-Workplace Use Cases
 
 Technical Resources
 
@@ -909,6 +273,8 @@ Technical Resources
 
 Work Academy
 
+Podcasts
+
 Help Center
 
 * [Getting started](https://www.workplace.com/help/work/1070177463385471?helpref=hc_global_nav)
@@ -921,8 +287,6 @@ Support
 * [Support](https://www.workplace.com/help/work/298710224889398?helpref=hc_global_nav)
 * [Get in touch](https://www.workplace.com/contact)
 
-Customer Communities
-
 English (US)English (UK)日本語EspañolFrançais (France)ItalianoPortuguês (Brasil)ภาษาไทยTiếng Việt
 
 English (US)
@@ -931,7 +295,7 @@ English (US)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yJ/r/RmifG_DSE6Q.svg)
 
-[Log in](https://work.workplace.com/work/company_selector?ref=AVs-ZRKM4BXD20hbt-ErujFby_geL1FGBUPXL8v5PAn8uRAYacIZq6jKQ1SYrpG2Tyll4HhHrnu1Z5cHZfqcqbEcgHfWK4N-tt9erUE-IGW-awZH0UX_wcg5QXoMjxZSkXsVuxDB0PDYHhyo0KEHs6GLq1_mEXAtSAzW_UCPLCUi_g)
+[Log in](https://work.workplace.com/work/company_selector?ref=AVuiIFI-aCCmVGPE-nPIo8QQAP8PFX-SgPHd4xlw9dhCe6WZC8EBpcoVILrzPkEIVxg4hBHN_vcL3DQ3KNKbVQWE6w2REXmAaBOVS6eET6c16cF36DYLJroclDdWkU0GXIYGdFe8s0zTy2cAiK1utfWP0RaCpFkUwX_oaohoGEMeJw)
 
 Workplace Privacy Policy
 ========================
@@ -1063,21 +427,18 @@ Effective October 10, 2023
 
 Company
 
-* [Choosing Workplace](https://www.workplace.com/about)
 * [Security](https://www.workplace.com/security)
-* [News & Media](https://www.workplace.com/newsroom)
-* [Brand Guidelines](https://about.meta.com/brand/resources/workplace/workplace-brand)
-* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT2TdvuITIiggdlFKhVLZhkASunIVxdRCfMhqcvqRcscBUd6k2HKjTp8Z8vHXin-0dfeg0vgs53_q7116rVIBiskrZvzbnBsyQortGpXI0PlEK-nRRwPzSbsGH1iijF38NfnmrmesThvfybq)
+* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT3MFr0KvU-XK2q3Y_-n66ZcO1NBwpA1rrbDt3VVx9-Bi59eL-BW19MDXiZ2z_xnZJfXATy19qvbAWvbWQzVSuRmWyDik0p4hCPnl-lnuQhH_zFjAc7xnEdtHL2EjYHNSepC-jCzQrQp24pB)
 * [FAQs](https://www.workplace.com/faq)
-* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT3xSPuIZbHB15y5y74wUPskFsN2XFV-2BDH6RiXA7u5dpIgBC_LJhHITfQ0Od6voUXZxjQBkuFtJCeNuKSm-G1EJUaOtdqGRTEcxIptXWbZE2VwFCEvh7hfA-IPgerck9VaUueu_ikknnj4)
+* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2yT_6rGoEDo9velnukHvqLTGhWSHqfeQ3wNazr55qRNOFqgZ1lZuHczFpF3vyy5-DIUtco5q95BgRiAxNYZQsDrWiBB2A-uGeSZe7o1b-JvYNffpk2qgqoGOuzZCb91Jxpv3qlBhRIEZcs)
 
 Help & Resources
 
 * [Help Center](https://www.workplace.com/help/work)
 * [Customer Resources](https://www.workplace.com/resources)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2mMXd3gT0AYYgfAlQBceYudQN8gi-kSU-BqdPoQrh8SC5lH7PJdbbtyvDWPR23cFVgdmuyFtE0mpbk_eucI5_3Uvnw0ujhL1QNRD7DVZQpCaD6QIAoYQKZ3kovbLv3_98uXANnyiqZ9m3Z)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT15ZMtM5yuw85rWcaUp2dHiF2xdZqt3nf2Lm8iEOghuJv8U4V8c2UUeJi1SywZnT6zETg22DVm9eLCvdI_J8Pv0YJlrgtJrAMznQikasoy62vbSa_yPBCggsA8WdSe0102fLEK-WlUbBMTX)
 * [Contact Support](https://www.workplace.com/contact)
-* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT1QB_Fhw9bx9XRD11aD8KFccB_cE598M1lO4YFSNkPfRJEPqv-N7KJ3HhS7veHlYfcHRXy2kZC1QPvlQf-tXrsi0yF8aHzY0XrDT4Qy6O9E5iDs4yiktPH_d7SZStcWiMjVvHKxvA9KdHSW)
+* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT3Wf72WljNjhrDKjexWL-DXV2hlC3j9I5KYbZF0unvkN9lsg52C5-g5hbqAE2-TQMzPR-pjUB-XiCqU-63mVMccSVj7YKtUZpH_LjrapdblsfXa9wHTh6Vbwweys2utH3dUBGlF7LDrCTT2)
 * [Developer](https://www.workplace.com/help/work/805611976300699)
 
 Legal Information
@@ -1091,21 +452,18 @@ Legal Information
 
 Company
 
-* [Choosing Workplace](https://www.workplace.com/about)
 * [Security](https://www.workplace.com/security)
-* [News & Media](https://www.workplace.com/newsroom)
-* [Brand Guidelines](https://about.meta.com/brand/resources/workplace/workplace-brand)
-* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT1safeTCb72jn_QBSp1tBPp5JaP2EOTj3JwWxRUYjKtAAlar291fIGsVs4q9Y9aM5qSKEW_PkCaFYeRl5OmBOSjQpuNW2wMJkJM3rgpghaqPJZYt7aaP3cEMX7nTQUdbwfhXUlPAG63lVwH)
+* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT2VhG0eq-IJzXJPJcSCzV4YkH9tM790hCcoEN-WN9_kHLzR_QNWxbXwylKTxn3SIkZlUzV6IDv7qYU8pXQMU0RyKKy3LpA0ooAgbmsjV0uHgiyHx2TDpPLJbAF84ZcMt28slh-XdMgihgZq)
 * [FAQs](https://www.workplace.com/faq)
-* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT0cRzWPyI9Gu5il2kbDnX4Np3cCeWF7Wb3sv161zjuHDisCq_UJD6uXGdZdMOD6tRr-Ab5mcHigZiQxuflORlg1u68KR9wlWyWx1bc8Ly3YRSzUDbVh0P-FJlnJ0WpwgsT7fGvJNkFKu9g8)
+* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT21ex04layW55wcCOGcnl9cLoFUZFrY_qw-Abjg2h0VoSqOUUl67RFE96Bbx8QGWSXu8sZBpqgXJNGo7pIWBwSD8adPDOPbgzMP0U9Pvs6DlOsmGYgrQ-_jv26UDxPMKFznnwcIr-ziHCRa)
 
 Help & Resources
 
 * [Help Center](https://www.workplace.com/help/work)
 * [Customer Resources](https://www.workplace.com/resources)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2-Kuw2zEuoVwKOJkJoCLRIBwLQTlUA-NvmdQuUY8ghaXIEwqKuFVTHwMEtWvKf50My-JRiWpQxxsoPyB-a8Wk5JE0Vt08LYWciIEsqqqbawzNwfscMhMxZtzK1DgEynkvfJt5E2G1zeoCl)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2iXLT78ezAUEfIS02jqH5E_OAmUUos1x6K1Z97J3hZULypdGLdZJDDLE5W8GjkmwMCoUz4Xfctdj0Kxb6pITz7RhEYlLRIO7mV6Uodyw5LFzMf9LNyMUmzPkwsbWsfIjMi1LKHHHSv9kk7)
 * [Contact Support](https://www.workplace.com/contact)
-* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT0HOg5e2TYOEwX_12pKlCM2wThAzKKNv1XA-rfrmwGGOJHYsOD8yW1U4EcxImOAxcnBd9oxOryrMQJqbT_Kjw4Kyek-W1MPJLjhSLM5lFq5c8sZ8rthTLm7ijX8Sr5LAVQM32nBwMHlP0k4)
+* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT0jMBJx0jUK2GJaDyVU-tZQObDLZfN91wJCCuG3o0ew5NHsWgTIxYBtMK5iwVAsBW-fGsWnDplvxftfnwlFKMgkXzfIfcLQSL94CAo7qOKaDL6GZzNLsNdK8CVRhRrwCqCFhvVsDO8GjA1w)
 * [Developer](https://www.workplace.com/help/work/805611976300699)
 
 Legal Information
@@ -1119,7 +477,7 @@ Legal Information
 
 * * *
 
-[Share to Twitter](https://l.workplace.com/l.php?u=https%3A%2F%2Fx.com%2Fmetaforwork&h=AT1GAsvC0ySSAPQSACEnhoEIiE7l5NVhFyCD6ikBlQNK9IdZEGOZ3HLTiFZ7uTazs7CoCqpWgTSVSP_T8Iyv2XZ4PilhE6_zMsgSfFGKUHlmbTMfcN2WMGrv84_VSSnjcdknC019Q1L37rZI)[Share to LinkedIn](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmetaforwork&h=AT3H6ADqSHXwyWt5RmxznhwrSA4cQSAiGcleibyXgyKT0vApi_ZM1drDcS_zqHJGo_ECL6Etu1QGPkzCO0Sp7jszk2qHGi90yAR3VcYhdqZZnG-V8znsayQXriG3zhcqfrlakSIkQHN8ZcKb)[Share to Facebook](https://www.facebook.com/metaforwork)[Share to Instagram](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fmetaforwork&h=AT1333b1_XQJl-2ejkT960qwxqtpoQif5bNL9kw-spwO-8usivOohBdQKSEitegwdGfJp6AhBFA3SFYpY-OnHaNPxspFGjPkTcMJQ1uPdtfvFDYgHJ-w5PMFSxBT5TkU5AAdlo5dlaABfdjN)
+[Share to Twitter](https://l.workplace.com/l.php?u=https%3A%2F%2Fx.com%2Fmetaforwork&h=AT0CCtY-zM6N69uM9LfFqNd0MgPllrol35ffjLS78X6QJ_uRZMRwhwoUlTOSkkqR7d_p_UjkrRTPtfHm_1zJ4zRDfRC_os-JtkSZSDpxtXbgPx_RgZHZ0huilw5dK5eNDpeLZq3I_5NhjeAD)[Share to LinkedIn](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmetaforwork&h=AT3aitxwieAe9HPXEDsLwsYlahdq9fmUoL_hb_xTNFyT_XhetXDTZgqfMYd2f9WfpL0oCPcCKMjG5VsEGx6In3_TAYoRbJ5PxA9xh0393xmuJhaljoWlhYKx5Q7AUAjil7DZ-iqmt4Q7qhXV5wOoL1qZIKAvvA)[Share to Facebook](https://www.facebook.com/metaforwork)[Share to Instagram](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fmetaforwork&h=AT3os0gwkY9a-Asl35khrXpGEIelj47TL1Rv4JFljUj66ca6AgVKUSD779ewMJMdTcSkZ1aALzld9MxxLpZnToa3RaL_ttX3AU1JITNvswVlWVYyVyZEvDo2nVNHGeMM-CskV87_GshTa5yD)
 
 Meta © 2024
 
