@@ -10,7 +10,9 @@ SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $79+
 
 Search
 
-[![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
+[![Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20145%2083'%3E%3C/svg%3E)
+
+![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
 
 Search
 
