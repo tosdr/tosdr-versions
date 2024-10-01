@@ -4,7 +4,7 @@ Open main menu
 
 [](https://www.textverified.com/app)Close main menu
 
-[Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate) [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [Contact](https://www.textverified.com/contact-us)
+[Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate) [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [About](https://www.textverified.com/about) [Contact](https://www.textverified.com/contact-us)
 
 Existing customer? [Sign in](https://www.textverified.com/login)
 
@@ -16,7 +16,7 @@ Products
 
 [Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Chrome Extension](https://www.textverified.com/extension) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate)
 
-[Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms)[Contact](https://www.textverified.com/contact-us)
+[Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [About](https://www.textverified.com/about)[Contact](https://www.textverified.com/contact-us)
 
 [Sign in](https://www.textverified.com/login) [Sign up](https://www.textverified.com/register)
 
@@ -90,6 +90,7 @@ Footer
 * [Announcements](https://www.textverified.com/announcements)
 * [Terms](https://www.textverified.com/terms)
 * [Policy](https://www.textverified.com/policy)
+* [About](https://www.textverified.com/about)
 * [Help](https://www.textverified.com/contact-us)
 
 ### Services
