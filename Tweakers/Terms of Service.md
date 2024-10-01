@@ -1,3 +1,8 @@
+Ga direct naar
+
+1. [Ga naar hoofdinhoud](https://tweakers.net/info/algemene-voorwaarden/#contentArea)
+2. [Ga naar de zoekbalk](#search-bar-input)
+
 [](https://tweakers.net/)
 
 **Tweakers**
