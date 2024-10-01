@@ -38,7 +38,6 @@ Une vigilance absolue s'impose](https://vigilance.meteofrance.fr/fr)
 PUBLIC - Menu principal
 
 * [Previsions](https://meteofrance.com/ "Prévisions Météo-France")
-* [Météo des Forêts](https://meteofrance.com/meteo-des-forets "Météo des Forêts")
 * [Meteo des plages](https://meteofrance.com/meteo-plages "Météo des Plages")
 * [Meteo Marine](https://meteofrance.com/meteo-marine "Météo Marine")
 * [Climat](https://meteofrance.com/climat "Climat et Changement climatique")
@@ -205,7 +204,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-30/09/2024
+01/10/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
