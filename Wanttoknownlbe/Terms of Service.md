@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/over-het-integreren-van-onze-schaduwkant/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/youtube-censuur-zonder-enig-onderzoek/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
