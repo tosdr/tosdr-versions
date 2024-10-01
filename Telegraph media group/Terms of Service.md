@@ -610,4 +610,4 @@ Follow us on:
 * [Guidelines](https://www.telegraph.co.uk/about-us/editorial-and-commercial-guidelines/)
 * [The Chelsea Magazine Company](https://www.chelseamagazines.com/)
 
-© Telegraph Media Group Limited 2024
+© Telegraph Media Group Holdings Limited 2024
