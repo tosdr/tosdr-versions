@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Tour 2024](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tour 2024")
+* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
 * [Tickets for FC Barcelona](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "Tickets for FC Barcelona")
-* [Tickets for Real Madrid CF](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Tickets for Real Madrid CF")
-* [Elton John Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Tickets")
-* [Michael Buble Tour Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tour Tickets")
-* [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
-* [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
-* [San Diego Padres Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/San-Diego-Padres-Tickets "San Diego Padres Tickets")
-* [Los Angeles Dodgers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Ticket")
-* [New York Yankees Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Ticket")
-* [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
+* [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
+* [Michael Buble Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tickets")
+* [Taylor Swift Tour 2024](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tour 2024")
+* [Sabrina Carpenter Tour 2024](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tour 2024")
+* [The Eagles Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Concert Tickets")
+* [New York Yankees Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Tickets")
+* [Metallica Tickets](https://www.viagogo.com/Concert-Tickets/Hard-Rock-and-Metal-Music/Metallica-Tickets "Metallica Tickets")
+* [Coldplay Tour 2025](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour 2025")
 * [Billie Eilish Concert Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Concert Tickets")
-* [Coldplay Tour Dates 2025](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour Dates 2025")
-* [Tickets for Philadelphia Phillies](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Tickets for Philadelphia Phillies")
-* [Metallica Concert Tickets](https://www.viagogo.com/Concert-Tickets/Hard-Rock-and-Metal-Music/Metallica-Tickets "Metallica Concert Tickets")
 * [Detroit Lions Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Detroit-Lions-Tickets "Detroit Lions Tickets")
-* [Billy Joel Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Concert Tickets")
-* [Dallas Cowboys Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Dallas-Cowboys-Tickets "Dallas Cowboys Ticket")
+* [Los Angeles Dodgers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Ticket")
+* [San Diego Padres Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/San-Diego-Padres-Tickets "San Diego Padres Ticket")
+* [Billy Joel Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Tickets")
+* [Chicago Bears Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Chicago-Bears-Tickets "Chicago Bears Tickets")
+* [Philadelphia Phillies Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Philadelphia Phillies Ticket")
 * [Texas Longhorns Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Tickets")
-* [Kansas City Chiefs Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Kansas-City-Chiefs-Tickets "Kansas City Chiefs Ticket")
-* [Tickets for Las Vegas Raiders](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Las-Vegas-Raiders-Tickets "Tickets for Las Vegas Raiders")
-* [Houston Astros Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Houston-Astros-Tickets "Houston Astros Ticket")
-* [Miami Dolphins Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Miami-Dolphins-Tickets "Miami Dolphins Tickets")
-* [San Francisco 49ers Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/San-Francisco-49ers-Tickets "San Francisco 49ers Tickets")
-* [Tickets for Pittsburgh Steelers](https://www.viagogo.com/Sports-Tickets/Football/NFL/Pittsburgh-Steelers-Tickets "Tickets for Pittsburgh Steelers")
+* [Miami Dolphins Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Miami-Dolphins-Tickets "Miami Dolphins Ticket")
+* [Alabama Crimson Tide Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Alabama-Crimson-Tide-Football-Tickets "Alabama Crimson Tide Football Tickets")
+* [Houston Astros Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Houston-Astros-Tickets "Houston Astros Tickets")
+* [Las Vegas Raiders Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Las-Vegas-Raiders-Tickets "Las Vegas Raiders Ticket")
+* [Atlanta Braves Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Atlanta-Braves-Tickets "Atlanta Braves Ticket")
+* [Usher Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Concert Tickets")
+* [Atlanta Falcons Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Atlanta-Falcons-Tickets "Atlanta Falcons Ticket")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb03 : -
+\- : ecpuse1-webb08 : -
 
 }
 
