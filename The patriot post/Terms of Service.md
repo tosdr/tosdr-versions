@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110669-mid-day-digest-2024-09-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110697-mid-day-digest-2024-10-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110669-mid-day-digest-2024-09-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110697-mid-day-digest-2024-10-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34292)
+     [](https://patriotpost.us/cartoons/34305)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Hans von Spakovsky The Serious Charges Against New York Mayor Eric Adams](https://patriotpost.us/opinion/110650-the-serious-charges-against-new-york-mayor-eric-adams-2024-09-30)
-*      [Rich Lowry The Secret Service Is a National Embarrassment](https://patriotpost.us/opinion/110648-the-secret-service-is-a-national-embarrassment-2024-09-30)
-*      [Gary Bauer Ending Our Republic](https://patriotpost.us/opinion/110646-ending-our-republic-2024-09-30)
-*      [Jeff Jacoby Antisemitism and the Power of the Big Lie](https://patriotpost.us/opinion/110643-antisemitism-and-the-power-of-the-big-lie-2024-09-30)
-*      [The Institute for Faith & Freedom Jimmy Carter Turns 100](https://patriotpost.us/opinion/110645-jimmy-carter-turns-100-2024-09-30)
-*      [The Babylon Bee Kamala Announces Construction of ‘Murderers Only’ Express Lane at Southern Border](https://patriotpost.us/opinion/110647-kamala-announces-construction-of-murderers-only-express-lane-at-southern-border-2024-09-30)
-*      [Michael Reagan Four More Years to Make America Safe Again](https://patriotpost.us/opinion/110636-four-more-years-to-make-america-safe-again-2024-09-28)
-*      [Matthew Continetti America Must Side With Israel Against Hezbollah](https://patriotpost.us/opinion/110635-america-must-side-with-israel-against-hezbollah-2024-09-28)
+*      [Christine Flowers Harris Prefers Visiting Abortion Clinics Over Visiting the Border](https://patriotpost.us/opinion/110680-harris-prefers-visiting-abortion-clinics-over-visiting-the-border-2024-10-01)
+*      [Dennis Prager People Hate Those Who Fight Evil Far More Than Those Who Are Evil](https://patriotpost.us/opinion/110679-people-hate-those-who-fight-evil-far-more-than-those-who-are-evil-2024-10-01)
+*      [Daniel McCarthy Iran Targets America’s Elections — and Trump](https://patriotpost.us/opinion/110678-iran-targets-americas-elections-and-trump-2024-10-01)
+*      [Salena Zito In Pennsylvania Tour, Trump Hits All the Right Places and Messages](https://patriotpost.us/opinion/110677-in-pennsylvania-tour-trump-hits-all-the-right-places-and-messages-2024-10-01)
+*      [Gary Bauer America Last](https://patriotpost.us/opinion/110676-america-last-2024-10-01)
+*      [Victor Joecks Why Harris Struggles With ‘White Dudes’](https://patriotpost.us/opinion/110675-why-harris-struggles-with-white-dudes-2024-10-01)
+*      [Cal Thomas VP Harris Visits the ‘BINO’](https://patriotpost.us/opinion/110674-vp-harris-visits-the-bino-2024-10-01)
+*      [Stephen Moore Can We All Get Along? Yes, by Letting the States Decide.](https://patriotpost.us/opinion/110673-can-we-all-get-along-yes-by-letting-the-states-decide-2024-10-01)
+*      [The Washington Stand A Platform for Pro-Life Recovery](https://patriotpost.us/opinion/110672-a-platform-for-pro-life-recovery-2024-10-01)
+*      [The Babylon Bee Tim Walz Really Excited After Hearing He Might Get Spanked at Debate](https://patriotpost.us/opinion/110671-tim-walz-really-excited-after-hearing-he-might-get-spanked-at-debate-2024-10-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +226,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“I would rather be exposed to the inconveniencies attending too much liberty than those attending too small a degree of it.” —Thomas Jefferson (1791)
+“It will not be doubted, that with reference either to individual, or National Welfare, Agriculture is of primary importance. In proportion as Nations advance in population, and other circumstances of maturity, this truth becomes more apparent; and renders the cultivation of the Soil more and more, an object of public patronage.” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
