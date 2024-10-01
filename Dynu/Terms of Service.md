@@ -308,19 +308,22 @@ n. Entire Agreement. This Agreement, together with the Additional Policies, cons
 
   
 
-![Partner](/content/images/content/strip/medicoweb.com.png)
+![Partner](/content/images/content/strip/wyatt.house.png)
 
   
 
-![Partner](/content/images/content/strip/mediastar.id.png)
+  
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
 
   
 
-![Partner](/content/images/content/strip/businesspcsupport.com.png)
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
 
   
 
-![Partner](/content/images/content/strip/erp-sarajevo.com.png)
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
