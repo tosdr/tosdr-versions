@@ -212,7 +212,7 @@ Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
     
 * Catalog
     
-    * [Catalogs](https://www.playmobil.com/en-us/content/catalog/catalog.html)
+    * [Discover PLAYMOBIL Catalogues](https://www.playmobil.com/en-us/content/catalog/catalog.html)
     
 * More
     
