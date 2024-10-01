@@ -205,6 +205,14 @@ CATEGORIES
 * [Anime](https://www.watchmojo.com/categories/anime)
 * [Pop Culture](https://www.watchmojo.com/categories/pop-culture)
 
+LANGUAGE
+
+* [English](https://www.watchmojo.com/)
+* [Español](https://www.watchmojo.com/es/)
+* [Deutsch](https://www.watchmojo.com/de/)
+* [Français](https://www.watchmojo.com/fr/)
+* [Italiano](https://www.watchmojo.com/it/)
+
 FOLLOW US
 
 [](https://www.facebook.com/watchmojo "Facebook")[](https://twitter.com/watchmojo "Twitter")[](https://youtube.com/watchmojo "Youtube")
