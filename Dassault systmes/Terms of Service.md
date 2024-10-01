@@ -38,7 +38,7 @@ In order to make full use of the 3DS Site and the Services, you must register by
 
 3DS reserves the right to refuse any user account registration at its sole discretion and without having to indicate the reason. 3DS may at any time restrict access to pages of the 3DS Site, which were previously freely available, to registered users only.
 
-You must be 18 years of age or older to obtain a user account, and where applicable, have the right to accept these Terms and Conditions on behalf of your organisation if you are using the 3DS Site or a Service for business purposes. You are responsible for maintaining the confidentiality of your user account and password.
+Please be aware that 3DS Site is not designed for children who are considered as minors under applicable local laws. If you are a minor, you are not allowed to use 3DS Site except if you have the prior authorization from your parents or guardians. You are responsible for the confidentiality of your password and information appearing on your account.
 
 To the extent permitted by applicable law, 3DS disclaims all responsibility for any activity conducted by minors on the 3DS Site without the consent of their legal guardians.
 
