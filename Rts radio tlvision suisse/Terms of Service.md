@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2024/guerre-au-proche-orient/)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2024/guerre-au-proche-orient/)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2024/guerre-au-proche-orient/)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2024/guerre-au-proche-orient/)
 
 #### S'informer
 
