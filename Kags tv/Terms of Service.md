@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
-        #### [Hurricane Helene aftermath: Death toll passes 100, supplies rushed to isolated communities](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
+        #### [Hurricane Helene aftermath: Death toll passes 130, supplies rushed to isolated communities](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-95°
+81°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
