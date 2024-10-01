@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
+* [Proven ROI with OneTrust](https://www.onetrust.com/resources/proven-roi-with-onetrust/)
 * [Navigating risk in financial services with third-party management](https://www.onetrust.com/resources/navigating-risk-in-financial-services-with-third-party-management-infographic/)
-* [The differences between First-, (& Zero-), Second-, & Third-party data](https://www.onetrust.com/resources/the-differences-between-first-zero-second-and-third-party-data-infographic/)
-* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 
 ### Platform
 
