@@ -80,8 +80,8 @@ Trending Posts
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 Close
 
@@ -144,8 +144,8 @@ Trending Posts
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 [Skip to content](#main)
 
