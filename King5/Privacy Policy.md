@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_360x203.jpg)](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+    *  [![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_360x203.jpg)](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
         
-        #### [Attempted ATM theft at Seattle Walgreens leaves significant damage behind](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+        #### [Police find stolen vehicle crashed into front doors of Bethel High School](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b) [![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_360x203.jpg)](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
         
-    *  [![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b655e159-13d1-43ef-b981-a77037951246/20241001T011108/b655e159-13d1-43ef-b981-a77037951246_360x203.jpg)](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
+        #### [Stolen vehicle found crashed into front of Bethel High School](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
+    *  [![](https://media.king5.com/assets/KING/images/049c674e-e828-4c75-a951-630caab94b5e/20240930T230456/049c674e-e828-4c75-a951-630caab94b5e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/049c674e-e828-4c75-a951-630caab94b5e/20240930T230456/049c674e-e828-4c75-a951-630caab94b5e_360x203.jpg)](https://www.king5.com/article/news/local/shooting-near-skagit-valley-college/281-8ed5d3d5-41d7-4337-9cb5-9a3d78a11824)
         
-        #### [Teen boy arrested after attempted robbery at Seattle middle school mistakenly released from custody](https://www.king5.com/article/news/crime/teen-attempted-robbery-knifepoint-seattle-middle-school/281-99239df5-fd0c-46e4-8009-38d6a95d48cb)
+        #### [Oak Harbor man arrested for shooting that left one injured near Skagit Valley College](https://www.king5.com/article/news/local/shooting-near-skagit-valley-college/281-8ed5d3d5-41d7-4337-9cb5-9a3d78a11824)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+66°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
