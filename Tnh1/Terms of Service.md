@@ -50,31 +50,31 @@ HGE procura familiares de paciente sem identificação resgatado no Centro de Ma
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_2cc6bf0a41.jpg)
+   [![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_06bf03abb3.png)
+
+policiamento
+
+Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")   [![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_ac63198c0a.jpg)
+
+PORTUGAL EM CENA
+
+Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")   [![Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_mamografia_agencia_100a956db1.png)
+
+Outubro Rosa
+
+Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://www.tnh1.com.br/noticia/nid/veja-como-fazer-exame-de-mamografia-sem-necessitar-de-agendamento-em-maceio/ "Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió")   [![Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_placar-solar-sedics_f1bfbb973a.jpg)
+
+Fonte renovável
+
+Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://www.tnh1.com.br/noticia/nid/alagoas-se-destaca-como-o-2o-estado-mais-acessivel-do-ne-para-instalacao-de-energia-solar/ "Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar")   [![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_2cc6bf0a41.jpg)
 
 administrativo
 
-Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
+Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")   [![Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_UPA-Marechal-Deodoro-MA-01-600x400_c6dddc23d6.jpg)
 
 Alagoas
 
-Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")   [![Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_Alagoas_Da_sorte_a028d21f0c.jpg)
-
-Alagoas
-
-Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29](https://www.tnh1.com.br/noticia/nid/confira-o-resultado-do-sorteio-do-alagoas-da-sorte-deste-domingo-29/ "Confira o resultado do sorteio do Alagoas dá Sorte deste domingo, 29")   [![Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_nova-rodovia-diminui-distancia-entre-belem-e-taquarana_c935190793.jpg)
-
-Alagoas
-
-Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana](https://www.tnh1.com.br/noticia/nid/apos-atos-de-violencia-justica-eleitoral-suspende-campanha-politica-em-taquarana/ "Após atos de violência, Justiça Eleitoral suspende campanha política em Taquarana")   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
-
-inadimplentes
-
-Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
-
-Alagoas
-
-Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")
+Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-inaugura-nova-upa-em-marechal-deodoro-nesta-segunda-feira-30/ "Governador Paulo Dantas inaugura nova UPA em Marechal Deodoro nesta segunda-feira (30)")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas]
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_csm_Kleber-malaquias_0dff5d9c72_733f9e984a_6298925b94.jpg)
+   [![Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_abusos-vitima-foto-reproducao_5fe29053b3.jpg)
+
+vítima denunciou
+
+Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa](https://www.tnh1.com.br/noticia/nid/menor-e-apreendido-por-beijar-menina-de-11-anos-a-forca-em-lagoa-da-canoa/ "Menor é apreendido por beijar menina de 11 anos à força, em Lagoa da Canoa")   [![Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/6/csm_operacao_pf_ifraud_-_foto_ascom_pf_87bc988338.jpg)
+
+"ifraud"
+
+Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió](https://www.tnh1.com.br/noticia/nid/operacao-combate-fraudes-na-importacao-de-smartphones-e-policiais-cumprem-mandado-em-maceio/ "Operação combate fraudes na importação de smartphones e policiais cumprem mandado em Maceió")   [![Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_homem-morto-tiro-rio-largo_3301174635.jpg)
+
+Em Rio Largo
+
+Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB](https://www.tnh1.com.br/noticia/nid/imagens-mostram-motociclista-atirando-na-cabeca-de-homem-com-camisa-do-crb/ "Imagens mostram motociclista atirando na cabeça de homem com camisa do CRB")   [![Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+
+Em Maceió
+
+Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso](https://www.tnh1.com.br/noticia/nid/jovem-agredida-pede-ajuda-para-resgatar-filha-bebe-da-casa-de-sogra-companheiro-e-preso/ "Jovem agredida pede ajuda para resgatar filha bebê da casa de sogra; companheiro é preso")   [![PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/e/csm_dinheiro-apreendido-PF-crime-eleitoral_3140e4a935.jpg)
+
+No interior
+
+PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-apreende-cerca-de-r-800-mil-que-seriam-usados-para-crimes-eleitorais-em-alagoas/ "PF apreende cerca de R$ 800 mil que seriam usados para crimes eleitorais em Alagoas")   [![MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_csm_Kleber-malaquias_0dff5d9c72_733f9e984a_6298925b94.jpg)
 
 Polícia
 
-MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/mpal-pede-prisao-preventiva-de-pm-acusado-de-fraudar-processo-do-caso-kleber-malaquias/ "MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias")   [![Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/d/csm_adriano_farias_blogueiro_junqueiro_066e994484.jpg)
-
-Investigações
-
-Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-segundo-preso-suspeito-de-participar-da-execucao-de-blogueiro-em-junqueiro/ "Saiba quem é o segundo preso suspeito de participar da execução de blogueiro em Junqueiro ")   [![Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_Lei_Seca_Alagoas_-_foto_Fellipe_Yuri_-_Ascom_Detran_4ce702e0f1.jpg)
-
-fiscalização
-
-Lei Seca recupera motocicleta roubada durante operação no fim de semana](https://www.tnh1.com.br/noticia/nid/lei-seca-recupera-motocicleta-roubada-durante-operacao-no-fim-de-semana/ "Lei Seca recupera motocicleta roubada durante operação no fim de semana")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
-
-na ponta grossa
-
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_facada_no_pontal_do_peba_-_foto_reproducao_5a906d8c1f.jpg)
-
-pontal do peba
-
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")   [![Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_viatura_prf_-_foto_divulgacao_1021d16dac.jpg)
-
-Caminhão parado
-
-Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo](https://www.tnh1.com.br/noticia/nid/carga-de-9-mil-tijolos-sem-nota-fiscal-e-apreendida-em-rio-largo/ "Carga de 9 mil tijolos sem nota fiscal é apreendida em Rio Largo")
+MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/mpal-pede-prisao-preventiva-de-pm-acusado-de-fraudar-processo-do-caso-kleber-malaquias/ "MPAL pede prisão preventiva de PM acusado de fraudar processo do caso Kleber Malaquias")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -222,49 +222,49 @@ na ponta grossa
 
 Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_bd1af04a40.jpg)
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sandy_e_novo_namorado_-_foto_reproducao_instagram_5b0972cce6.jpg)
 
-administrativo
+Romance
 
-administrativo
+Romance
 
-Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo
+Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?
 
-Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")
+Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
 
-[![Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Ozempic_-_foto_Divulgacao_0b070f88a1.jpeg)
+[![Zé Neto segue internado após acidente e hospital atualiza estado de saúde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_ze_neto_no_hospital_reproducao_redes_sociais_b8b24a122b.jpg)
 
-Emagrecedor
+levou pontos
 
-Emagrecedor
+levou pontos
 
-Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido
+Zé Neto segue internado após acidente e hospital atualiza estado de saúde
 
-Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido](https://www.tnh1.com.br/noticia/nid/efeito-ozempic-como-medicamento-transformou-vida-da-pequena-cidade-dinamarquesa-onde-e-produzido/ "Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido")[![Rio Negro pode passar por pior seca da história ainda esta semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/5/csm_rio-negro-seca-reproducao-agencia-brasil_1fc4ec0d96.jpg)
+Zé Neto segue internado após acidente e hospital atualiza estado de saúde](https://www.tnh1.com.br/noticia/nid/ze-neto-segue-internado-apos-acidente-e-hospital-atualiza-estado-de-saude/ "Zé Neto segue internado após acidente e hospital atualiza estado de saúde")[![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_21002bfc7f.png)
 
-seca história
+policiamento
 
-seca história
+policiamento
 
-Rio Negro pode passar por pior seca da história ainda esta semana
+Veja como será o esquema de policiamento nas eleições municipais de Alagoas
 
-Rio Negro pode passar por pior seca da história ainda esta semana](https://www.tnh1.com.br/noticia/nid/rio-negro-pode-passar-por-pior-seca-da-historia-ainda-esta-semana/ "Rio Negro pode passar por pior seca da história ainda esta semana")[![Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_beyonce-reproducao-redes-sociais_32218113cf.jpg)
+Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")[![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_505d8215c6.jpg)
 
-afetou imagem
+PORTUGAL EM CENA
 
-afetou imagem
+PORTUGAL EM CENA
 
-Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy
+Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato
 
-Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy](https://www.tnh1.com.br/noticia/nid/beyonce-perde-quase-1-milhao-de-seguidores-apos-ser-associada-p-diddy-1/ "Beyoncé perde quase 1 milhão de seguidores após ser associada P. Diddy")[![Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/1/csm_samuel-eto-reproducao-youtube_5099c3ed7e.jpg)
+Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")[![“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/1/csm_mostra_inclusao_8378d4027a.jpeg)
 
-Futebol Internacional
+Mostra Sururu
 
-Futebol Internacional
+Mostra Sururu
 
-Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda
+“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão
 
-Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda](https://www.tnh1.com.br/noticia/nid/samuel-etoo-e-suspenso-pela-fifa-por-indisciplina-entenda/ "Samuel Eto’o é suspenso pela Fifa por indisciplina; entenda")
+“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão](https://www.tnh1.com.br/noticia/nid/equidade-e-a-palavra-diz-felipe-neves-artista-cego-durante-a-mostra-inclusao/ "“Equidade é a palavra”, diz Felipe Neves, artista cego, durante a Mostra Inclusão")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
