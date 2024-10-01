@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/marieke-de-vrij-en-2017-dieper-inzicht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/frankrijk-verbiedt-glyfosaat-ongeacht-eu-besluit/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
