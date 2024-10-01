@@ -86,17 +86,17 @@ Close
     
     BRIDGE
     
-     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
-     [![Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/wp-content/uploads/2022/01/IMG_0534-scaled-e1645470277366-thegem-product-justified-square-xxs.jpg)](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+     [![CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/wp-content/uploads/2024/07/xMagnum2009-thegem-product-justified-square-xxs.jpg.pagespeed.ic.PzCA5GGIOr.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
     
-    [Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+    [CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
     
-    USD $3,380.00
+    $3,380.00
     
     ITC Extend
     
@@ -110,23 +110,23 @@ Close
     
     Accessories
     
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
+     [![CRG – GPS receiver](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-gps-receiver/)
     
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    $120.00
-    
-     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
-    
-    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
-    
-    $960.00
+    USD $4,400.00 – $4,600.00
     
      [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
     [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
     $2,690.00
+    
+     [![CRG EXTERNAL MODEM](https://www.agragps.com/wp-content/uploads/2022/05/xmicrohard-modem-thegem-product-justified-square-xxs.jpg.pagespeed.ic.gNS8Wfiy0g.jpg)](https://www.agragps.com/product/crg-external-modem/)
+    
+    [CRG EXTERNAL MODEM](https://www.agragps.com/product/crg-external-modem/)
+    
+    $660.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -228,15 +228,15 @@ Menu
     
     BRIDGE
     
-     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    $3,380.00
+    USD $4,400.00 – $5,700.00
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
@@ -252,17 +252,17 @@ Menu
     
     Accessories
     
-     [![CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_113156-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vZKxKCHxk4.jpg)](https://www.agragps.com/product/case-combine-mount/)
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    [CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/product/case-combine-mount/)
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    $120.00
+    $960.00
     
      [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
     [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    $140.00
+    $160.00
     
      [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
