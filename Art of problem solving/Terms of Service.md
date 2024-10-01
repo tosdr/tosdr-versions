@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Math competition season is approaching fast!  Have you [enrolled in a contest preparation class](https://artofproblemsolving.com/school/schedule#contest-preparation)?
+Why math competitions? [Join us on October 3rd](https://zoom.us/webinar/register/WN_rXuTr19TTVuZpESw4dWjeg) for our FREE webinar!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
