@@ -427,14 +427,14 @@ If you have any questions about the service, please contact us at [mayoclinicsup
 
 ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-5X Challenge
-------------
+Your gift holds great power – donate today!
+-------------------------------------------
 
-[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
+[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
 
-Thanks to generous benefactors, your gift today can have 5X the impact to advance AI innovation at Mayo Clinic.
+Make your tax-deductible gift and be a part of the cutting-edge research and care that's changing medicine.
 
-[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
+[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
