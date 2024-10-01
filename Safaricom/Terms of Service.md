@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [692 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [699 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -218,7 +218,21 @@ Customer Testimonials
 
 out of 5 based on
 
-[692 reviews](https://www.trustpilot.com/review/www.safari.com)
+[699 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 1, 2024
+
+> Mel de Toit is definitely worthy of…
+
+> Mel de Toit is definitely worthy of FIVE stars. She has helped us put together a trip of a lifetime. Our first safari is at Simbavati and the second is at Chief's Camp, in the Okavanga Delta. In addition she has arranged flights to various destinations and a wonderful stay with various side trips in Cape Town. We can't wait to start our journey and know that thanks to Mel, it will be the trip of a lifetime!
+
+Sue
+
+,
+
+US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -331,20 +345,6 @@ Elrina Oelofse
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 26, 2024
-
-> Mel du Toit has the patience of a saint…
-
-> Mel du Toit has the patience of a saint and answered every one of my many questions with detailed information. I felt confident in her expertise and she has assured me that I could count on her being available during every stage of my journey in Uganda. Thanks, Mel!
-
-Debra Lass
-
-,
-
-US
 
 VIP service
 
