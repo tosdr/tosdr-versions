@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        26 September 2024
+        27 September 2024
         
-        Atos is awarded a “Platinum” EcoVadis Medal for its commitment to sustainability for 5th year running
-        -----------------------------------------------------------------------------------------------------
+        Very strong support of Atos SE’ shareholders and financial creditors meeting as classes of affected parties vote on the draft accelerated safeguard plan
+        --------------------------------------------------------------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
