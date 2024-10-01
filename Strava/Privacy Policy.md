@@ -124,7 +124,7 @@ DPO@strava.com
 Information Strava Collects
 ---------------------------
 
-Strava collects information about you, including information that directly or indirectly identifies you, if you or other Strava users choose to share it with Strava. The sources from which we collect this personal information fall into three categories: information you provide, information we collect automatically, and information we collect from other sources. For example, based on how you interact with Strava and the Services, we may collect information when you track, complete, or upload activities using the Services. Strava also collects information about how you use the Services. In addition, you may choose to share information about yourself, your friends, and your activities with Strava. Specific categories of data collected and received are outlined [here](#???).
+Strava collects information about you, including information that directly or indirectly identifies you, if you or other Strava users choose to share it with Strava. The sources from which we collect this personal information fall into three categories: information you provide, information we collect automatically, and information we collect from other sources. For example, based on how you interact with Strava and the Services, we may collect information when you track, complete, or upload activities using the Services. Strava also collects information about how you use the Services. In addition, you may choose to share information about yourself, your friends, and your activities with Strava. Specific categories of data collected and received are outlined [here](#categories_of_personal_information).
 
 ### Account, Profile, and User Activity
 
@@ -200,7 +200,7 @@ Regarding our products or features using machine learning or artificial intellig
 
 ### To customize your experience
 
-We use the information we collect and receive to customize your experience. For example, we may suggest segments, routes, challenges, or clubs on Strava that may interest you, users that you may want to follow, or new features that you may want to try. Learn more about how we use information to make recommendations [here](https://www.strava.com/legal/terms#content-and-conduct).
+We use the information we collect and receive to customize your experience. For example, we may suggest segments, routes, challenges, or clubs on Strava that may interest you, users that you may want to follow, or new features that you may want to try. Learn more about how we use information to make recommendations [here](https://www.strava.com/legal/terms#content_and_conduct_restriction).
 
 ### To provide you with targeted commercial content
 
@@ -233,7 +233,7 @@ We use the information we collect to process your subscription, including using 
 How Information is Shared
 -------------------------
 
-We do not sell personal information or aggregated data for monetary value. We may share personal information in accordance with your preferences, as needed to run our business and provide the Services, and where required for legal purposes, as set forth below. Categories of third parties that we may share your information with are listed [here](todo:). In addition, we may share aggregated data about our users, as described in more detail in the [“Aggregated Information”](todo:) section below.
+We do not sell personal information or aggregated data for monetary value. We may share personal information in accordance with your preferences, as needed to run our business and provide the Services, and where required for legal purposes, as set forth below. Categories of third parties that we may share your information with are listed [here](#categories_of_personal_information). In addition, we may share aggregated data about our users, as described in more detail in the [“Aggregated Information”](#aggregate_information) section below.
 
 ### Service Providers
 
@@ -449,7 +449,7 @@ Strava maintains certain websites that can be accessed outside of [https://strav
 
 ### Privacy Policy Updates
 
-Strava reserves the right to modify this Privacy Policy at any time. If we make changes to this privacy statement we will post the revised privacy statement and its effective date on this website. If we make changes we deem to be material, we will provide prominent, advance notice. If you object to any changes to this Privacy Policy, you should stop using the Services and [delete your account](https://strava.com/account).
+Strava reserves the right to modify this Privacy Policy at any time. If we make changes to this privacy statement we will post the revised privacy statement and its effective date on this website. If we make changes we deem to be material, we will provide prominent, advance notice. If you object to any changes to this Privacy Policy, you should stop using the Services and [delete your account](https://www.strava.com/athlete/delete_your_account).
 
 ### Past Privacy Policies
 
