@@ -1,100 +1,85 @@
 Menu
 
-[![KiwiCo, Inc.](https://icdn.kiwico.com/site/search/kiwico-logo-horizontal.svg)](https://www.kiwico.com/)
+[![KiwiCo, Inc.](https://icdn.kiwico.com/site/search/kiwico-logo-horizontal-holiday.svg)](https://www.kiwico.com/)
 
 ×
 
 [](https://www.kiwico.com/kt/cart)
 
-1. Subscription lines
+1. Clubs
     
-    [![Panda Crate Logo](https://icdn.kiwico.com/logos/logo-panda-boxicon.svg)
+    1. [Panda Crate
+        
+        Explore & Discover
+        
+        Ages 0–3+](https://www.kiwico.com/panda)
+    2. [KiwiCo Sprout
+        
+        Play & Learn
+        
+        Ages 3–6+](https://www.kiwico.com/sprout)
+    3. [KiwiCo Labs
+        
+        Science & Engineering
+        
+        Ages 6–16+](https://www.kiwico.com/labs)
+    4. [KiwiCo World
+        
+        Geography & Culture
+        
+        Ages 6–12+](https://www.kiwico.com/world)
+    5. [KiwiCo Studio
+        
+        Art & Design
+        
+        Ages 9–18+](https://www.kiwico.com/studio)
     
-    Panda Crate
+2. Ages
     
-    Explore & Discover
+    1. [![Shop by age 0–3+ years old](https://icdn.kiwico.com/site/store/icons/0-3.svg)
+        
+        0–3+ years](https://www.kiwico.com/us/store/cp/0-3-years-old)
+    2. [![Shop by age 3–6+ years old](https://icdn.kiwico.com/site/store/icons/3-6.svg)
+        
+        3–6+ years](https://www.kiwico.com/us/store/cp/3-6-years-old)
+    3. [![Shop by age 6–9+ years old](https://icdn.kiwico.com/site/store/icons/6-9.svg)
+        
+        6–9+ years](https://www.kiwico.com/us/store/cp/6-9-years-old)
+    4. [![Shop by age 9–12+ years old](https://icdn.kiwico.com/site/store/icons/9-12.svg)
+        
+        9–12+ years](https://www.kiwico.com/us/store/cp/9-12-years-old)
+    5. [![Shop by age 12–18+ years old](https://icdn.kiwico.com/site/store/icons/12%2B.svg)
+        
+        12–18+ years](https://www.kiwico.com/us/store/cp/12-plus-years-old)
     
-    0-36 mo.](https://www.kiwico.com/panda)[![Koala Crate Logo](https://icdn.kiwico.com/logos/logo-koala-boxicon.svg)
+3. Categories
     
-    Koala Crate
+    1. [Baby & Toddler](https://www.kiwico.com/us/store/cp/baby-and-toddler)
+    2. [Pretend Play](https://www.kiwico.com/us/store/cp/pretend-play-toys)
+    3. [Science & Engineering](https://www.kiwico.com/us/store/cp/science-engineering)
+    4. [Art & Design](https://www.kiwico.com/us/store/cp/art-kits)
+    5. [Geography & Culture](https://www.kiwico.com/world)
+    6. [Halloween](https://www.kiwico.com/us/store/cp/halloween)
+    7. [Holiday](https://www.kiwico.com/us/store/cp/kiwico-holiday-projects)
+    8. [Shop All](https://www.kiwico.com/us/store/cp/all)
+    9. [New Arrivals](https://www.kiwico.com/us/store/cp/new-arrivals)
+    10. [Best Sellers](https://www.kiwico.com/us/store/cp/best-sellers)
+    11. [Books](https://www.kiwico.com/us/store/cp/book-gift-sets)
+    12. [Sale](https://www.kiwico.com/us/store/cp/sale)
     
-    Play & Learn
+4. Gifting
     
-    Ages 3-4](https://www.kiwico.com/koala)[![Kiwi Crate Logo](https://icdn.kiwico.com/logos/logo-kiwi-boxicon.svg)
+    1. [Gift Guide](https://www.kiwico.com/gift-guide)
+    2. [Baby Registry](https://www.kiwico.com/baby-registry)
+    3. [Buy a Gift Card](https://www.kiwico.com/gift-card)
+    4. [Redeem a Gift Card](https://www.kiwico.com/redeem)
     
-    Kiwi Crate
-    
-    Science, Art, & More
-    
-    Ages 5-8](https://www.kiwico.com/kiwi)[![Atlas Crate Logo](https://icdn.kiwico.com/logos/logo-atlas-boxicon.svg)
-    
-    Atlas Crate
-    
-    Geography & Culture
-    
-    Ages 6-11](https://www.kiwico.com/atlas)[![Yummy Crate Logo](https://icdn.kiwico.com/logos/logo-yummy-boxicon.svg)
-    
-    Yummy Crate
-    
-    Science of Cooking
-    
-    Ages 6-14](https://www.kiwico.com/yummy)[![Doodle Crate Logo](https://icdn.kiwico.com/logos/logo-doodle-boxicon.svg)
-    
-    Doodle Crate
-    
-    Create & Craft
-    
-    Ages 9-16](https://www.kiwico.com/doodle)[![Tinker Crate Logo](https://icdn.kiwico.com/logos/logo-tinker-boxicon.svg)
-    
-    Tinker Crate
-    
-    Science & Engineering
-    
-    Ages 9-14](https://www.kiwico.com/tinker)[![Maker Crate Logo](https://icdn.kiwico.com/logos/logo-maker-boxicon.svg)
-    
-    Maker Crate
-    
-    Art & Design
-    
-    Ages 14-100](https://www.kiwico.com/maker)[![Eureka Crate Logo](https://icdn.kiwico.com/logos/logo-eureka-boxicon.svg)
-    
-    Eureka Crate
-    
-    Engineering & Design
-    
-    Ages 12-100](https://www.kiwico.com/eureka)
+5. [Sign in](https://www.kiwico.com/login)
     
 
-[![heart icon graphic](https://icdn.kiwico.com/site/icons/heart.webp)Now trending ➜
-----------------------------------------------------------------------------------](https://www.kiwico.com/now-trending)
+[Visit **KiwiCo Education →**](https://education.kiwico.com/)
 
-3. Gifting
-    
-    1. [Gift a subscription](https://www.kiwico.com/gifting)
-    2. [Gift guide![](https://icdn.kiwico.com/site/innovation-factory/svg/gift-blue.svg)](https://www.kiwico.com/gift-guide)
-    3. [Buy a gift card](https://www.kiwico.com/gift-card)
-    4. [Birthdays](https://www.kiwico.com/birthday)
-    5. [Baby registry](https://www.kiwico.com/baby-registry)
-    6. [Redeem a gift card](https://www.kiwico.com/redeem)
-    
-4. DIY & Blog
-    
-    1. [DIY ideas](https://www.kiwico.com/diy)
-    2. [Blog](https://www.kiwico.com/blog)
-    3. [My saved items](https://www.kiwico.com/saved-items)
-    
-5. About KiwiCo
-    
-    1. [FAQs](https://support.kiwico.com/)
-    2. [About us](https://www.kiwico.com/about-us)
-    3. [Refer a friend](https://www.kiwico.com/refer-a-friend)
-    4. [Affiliates](https://www.kiwico.com/affiliate-program)
-    5. [Patents](https://www.kiwico.com/patents)
-    
-6. [Share KiwiCo, Get $10!](https://www.kiwico.com/refer-a-friend)
-7. [Sign in](https://www.kiwico.com/login)
-
-![Country Flag](https://icdn.kiwico.com/country_flags/us.svg)USD($)![](https://icdn.kiwico.com/site/innovation-factory/svg/double-arrow.svg)
+![Country Flag](https://icdn.kiwico.com/country_flags/us.svg)USD($)![](https://icdn.kiwico.com/site/icons/icon-doublearrow.svg)
 
 Delivery country/region
 
@@ -118,62 +103,61 @@ SMS Terms of Service
 5. As always, Message and Data Rates May Apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this short code, you can contact [customer service](https://support.kiwico.com/?solvvy=true).
 6. If you have any questions regarding privacy, please read our [privacy policy](https://www.kiwico.com/privacy).
 
-Sign up for emails and get **40% off** 1st month!
+#### Sign up to get 40% off 1st club crate\*![](https://icdn.kiwico.com/site/icons/envelope-closed-hearts.svg)
 
 Sign up
 
 By clicking “Sign up,” you agree to our [Terms](https://www.kiwico.com/terms) and [Privacy Policy](https://www.kiwico.com/privacy).
 
+\*exclusions apply
+
 About KiwiCo
 
 1. [About us](https://www.kiwico.com/about-us)
-2. [Get a subscription](https://www.kiwico.com/get-started)
-3. [Jobs](https://www.kiwico.com/jobs)
-4. [Reviews](https://www.kiwico.com/reviews)
+2. [Blog](https://www.kiwico.com/blog)
+3. [DIY ideas](https://www.kiwico.com/diy)
+4. [Jobs](https://www.kiwico.com/jobs)
 5. [Press](https://www.kiwico.com/press)
 6. [Affiliates](https://www.kiwico.com/affiliate-program)
 7. [Patents](https://www.kiwico.com/patents)
 8. [Monthly science kits](https://www.kiwico.com/monthly-science-kits-for-kids)
-9. [Refer a friend](https://www.kiwico.com/refer-a-friend)
+9. [Letters to Steve](https://www.kiwico.com/letters-to-steve)
 
-Support
+KiwiCo Clubs
 
-1. [Help center & FAQs](https://support.kiwico.com/)
-2. [My account](https://www.kiwico.com/customer/account)
-3. [Shipping](https://support.kiwico.com/en_us/categories/shipping-how-where-when-we-ship-HyjTIGDKw)
-4. [Return policy](https://support.kiwico.com/en_us/what-is-your-return-policy-By3k3vxfP)
-
-Store
-
-1. [Store home](https://www.kiwico.com/us/store)
-2. [Shop by age](https://www.kiwico.com/store/shop-by/age)
-3. [Shop by interest](https://www.kiwico.com/shop-gifts-by-interest)
-4. [Coupons](https://www.kiwico.com/m/coupons)
+1. [Panda Crate](https://www.kiwico.com/panda)
+2. [KiwiCo Sprout](https://www.kiwico.com/sprout)
+3. [KiwiCo Labs](https://www.kiwico.com/labs)
+4. [KiwiCo World](https://www.kiwico.com/world)
+5. [KiwiCo Studio](https://www.kiwico.com/studio)
 
 Gifting
 
-1. [Gift subscription](https://www.kiwico.com/gifting)
-2. [Gift guide](https://www.kiwico.com/gift-guide)
-3. [Buy a gift card](https://www.kiwico.com/gifting#more-on-gifting?m=gift-card)
-4. [Redeem a gift card](https://www.kiwico.com/redeem)
-5. [Birthdays](https://www.kiwico.com/birthday)
-6. [Baby registry](https://www.kiwico.com/baby-registry)
-
-DIY, Blog, & more
-
-1. [DIY ideas](https://www.kiwico.com/diy)
-2. [DIY lists](https://www.kiwico.com/diy/lists)
-3. [Blog](https://www.kiwico.com/blog)
-4. [At-home resources](https://www.kiwico.com/kids-at-home)
-5. [Letters to Steve](https://www.kiwico.com/letters-to-steve)
+1. [Gift guide](https://www.kiwico.com/gift-guide)
+2. [Buy a gift card](https://www.kiwico.com/gifting#more-on-gifting?m=gift-card)
+3. [Redeem a gift card](https://www.kiwico.com/redeem)
+4. [Birthdays](https://www.kiwico.com/birthday)
+5. [Baby registry](https://www.kiwico.com/baby-registry)
 
 Schools & Groups
 
 1. [Overview](https://education.kiwico.com/)
-2. [Bulk orders](https://education.kiwico.com/catalog)
-3. [Classroom packs](https://education.kiwico.com/classroom-packs)
+2. [Request a quote](https://education.kiwico.com/bulk?select=request-quote)
+3. [Programs](https://education.kiwico.com/programs)
+4. [Bulk orders](https://education.kiwico.com/catalog)
+5. [Classroom packs](https://education.kiwico.com/classroom-packs)
 
-![Country Flag](https://icdn.kiwico.com/country_flags/us.svg)USD($)![](https://icdn.kiwico.com/site/innovation-factory/svg/double-arrow.svg)
+Support
+
+1. [Help center & FAQs](https://support.kiwico.com/)
+2. [Shipping](https://support.kiwico.com/en_us/categories/shipping-how-where-when-we-ship-HyjTIGDKw)
+3. [Return policy](https://support.kiwico.com/en_us/what-is-your-return-policy-By3k3vxfP)
+4. [Refer a friend](https://www.kiwico.com/refer-a-friend#refer)
+5. [Coupons](https://www.kiwico.com/m/coupons)
+6. [Club perks](https://www.kiwico.com/perks)
+7. [My KiwiCo](https://www.kiwico.com/customer/account)
+
+![Country Flag](https://icdn.kiwico.com/country_flags/us.svg)USD($)![](https://icdn.kiwico.com/site/icons/icon-doublearrow.svg)
 
 Delivery country/region
 
@@ -183,26 +167,20 @@ Currency
 
 Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)RON (lei)CHF (Fr)PLN (zł)NOK (kr)ILS (₪)ISK (kr)HUF (Ft)DKK (kr)BGN (лв)
 
-* [![](https://icdn.kiwico.com/site/icons/fb-white.png)](https://www.facebook.com/KiwiCo)
-* [![](https://icdn.kiwico.com/site/icons/insta-white.png)](https://instagram.com/kiwico_inc)
-* [![](https://icdn.kiwico.com/site/icons/pinterest-white.png)](https://pinterest.com/KiwiCo)
-* [![](https://icdn.kiwico.com/site/icons/youtube-white.png)](https://www.youtube.com/kiwico)
+[![KiwiCo, Inc.](https://icdn.kiwico.com/logos/black/kiwico.svg)](https://www.kiwico.com/)
 
-[![](https://icdn.kiwico.com/logos/black/kiwico.svg)](https://www.kiwico.com/)
+1. [![panda Logo](https://icdn.kiwico.com/logos/black/panda.svg)](https://www.kiwico.com/panda)
+2. [![sprout Logo](https://icdn.kiwico.com/logos/black/sprout.svg)](https://www.kiwico.com/sprout)
+3. [![labs Logo](https://icdn.kiwico.com/logos/black/labs.svg)](https://www.kiwico.com/labs)
+4. [![world Logo](https://icdn.kiwico.com/logos/black/world.svg)](https://www.kiwico.com/world)
+5. [![studio Logo](https://icdn.kiwico.com/logos/black/studio.svg)](https://www.kiwico.com/studio)
 
-1. [![null Crate Logo](https://icdn.kiwico.com/logos/black/panda-crate.svg)](https://www.kiwico.com/panda)
-2. [![null Crate Logo](https://icdn.kiwico.com/logos/black/koala-crate.svg)](https://www.kiwico.com/koala)
-3. [![null Crate Logo](https://icdn.kiwico.com/logos/black/kiwi-crate.svg)](https://www.kiwico.com/kiwi)
-4. [![null Crate Logo](https://icdn.kiwico.com/logos/black/atlas-crate.svg)](https://www.kiwico.com/atlas)
-5. [![null Crate Logo](https://icdn.kiwico.com/logos/black/yummy-crate.svg)](https://www.kiwico.com/yummy)
-6. [![null Crate Logo](https://icdn.kiwico.com/logos/black/doodle-crate.svg)](https://www.kiwico.com/doodle)
-7. [![null Crate Logo](https://icdn.kiwico.com/logos/black/tinker-crate.svg)](https://www.kiwico.com/tinker)
-8. [![null Crate Logo](https://icdn.kiwico.com/logos/black/maker-crate.svg)](https://www.kiwico.com/maker)
-9. [![null Crate Logo](https://icdn.kiwico.com/logos/black/eureka-crate.svg)](https://www.kiwico.com/eureka)
+* * *
 
-* [Terms](https://www.kiwico.com/terms) & [Privacy](https://www.kiwico.com/privacy)
-    
-* [SMS terms](https://www.kiwico.com/sms-terms)
-    
+[Terms](https://www.kiwico.com/terms)
 
-© 2024 KiwiCo, Inc. KIWICO, Eureka Crate, Doodle Crate, Kiwi Crate, Atlas Crate, and Koala Crate are trademarks of KiwiCo, Inc., registered in the USA and other countries. The Bird Design, Maker Crate, Tinker Crate, Yummy Crate, and Panda Crate are trademarks of KiwiCo, Inc. All Rights Reserved.
+[Privacy Policy](https://www.kiwico.com/privacy)
+
+[SMS terms](https://www.kiwico.com/sms-terms)
+
+© 2024 KiwiCo, Inc. KIWICO, Eureka Crate, Doodle Crate, Kiwi Crate, Atlas Crate, and Koala Crate are trademarks of KiwiCo, Inc., registered in the USA and other countries. The Bird Design, KiwiCo Labs, KiwiCo Studio, KiwiCo Sprout, KiwiCo World, Maker Crate, Tinker Crate, Yummy Crate, and Panda Crate are trademarks of KiwiCo, Inc. All Rights Reserved.
