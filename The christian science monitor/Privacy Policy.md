@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Resilience
+[Honesty
 
-### Inside battered Hezbollah, words of defiance: ‘All red lines are gone’](https://www.csmonitor.com/World/Middle-East/2024/0930/hezbollah-war-resistance-iran-israel-nasrallah "Inside battered Hezbollah, words of defiance: ‘All red lines are gone’")
+### Winning elections with voices of truth](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1001/Winning-elections-with-voices-of-truth "Winning elections with voices of truth")
 
-[Equality
+[Trust
 
-### Democracy’s tail winds in Lebanon](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0930/Democracy-s-tail-winds-in-Lebanon "Democracy’s tail winds in Lebanon")
+### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
 
-[Transformation
+[Community
 
-### How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics](https://www.csmonitor.com/World/Asia-South-Central/2024/0930/Kashmir-separatist-politics-local-election "How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics")
+### In mountainous North Carolina, residents are the first responders after Hurricane Helene](https://www.csmonitor.com/Environment/2024/1001/hurricane-helene-north-carolina-floods "In mountainous North Carolina, residents are the first responders after Hurricane Helene")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Inside battered Hezbollah, words of defiance: ‘All red lines are gone’](https://www.csmonitor.com/World/Middle-East/2024/0930/hezbollah-war-resistance-iran-israel-nasrallah "Inside battered Hezbollah, words of defiance: ‘All red lines are gone’")
+[### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
 
-[### Israel mulls Lebanon invasion. Hezbollah ‘coup de grâce’ or quagmire?](https://www.csmonitor.com/World/Middle-East/2024/0930/israel-hezbollah-assault-lebanon "Israel mulls Lebanon invasion. Hezbollah ‘coup de grâce’ or quagmire?")
+[### Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?](https://www.csmonitor.com/USA/Society/2024/1001/Georgia-Abortion-Ban-6-weeks-Supreme-Court "Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?")
 
-[### How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics](https://www.csmonitor.com/World/Asia-South-Central/2024/0930/Kashmir-separatist-politics-local-election "How India’s crackdown on Kashmir – and the blowback – transformed the region’s politics")
+[### Claudia Sheinbaum takes the presidential oath in Mexico. Now the hard work begins.](https://www.csmonitor.com/World/Americas/2024/1001/Claudia-Steinbaum-Mexico-first-female-president "Claudia Sheinbaum takes the presidential oath in Mexico. Now the hard work begins.")
 
 * * *
 
