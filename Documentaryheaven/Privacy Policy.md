@@ -113,6 +113,11 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
     
     WWII From Space
@@ -128,39 +133,34 @@ Advertisement
     Very Young Girls
     
     Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
-* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
-    
-    The Perfect Vagina
-    
-    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse...](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
 
 ###### Throwback Documentaries
 
-* [![The Great Human Odyssey](/wp-content/thumbnails/12865-100x70.jpg?x53432)
+* [![North Korea: Inside the Mind of a Dictator](/wp-content/thumbnails/16488-100x70.jpg?x53432)
     
-    The Great Human Odyssey
+    North Korea: Inside the Mind of a Dictator
     
-    It shouldn't have happened that Homo sapiens, our species, managed to survive and overcome the odd which have been against us for over 200,000 years. We are not indestructible and there are many evolu](https://documentaryheaven.com/great-human-odyssey/ "The Great Human Odyssey")
-* [![Dirty Gold War](/wp-content/thumbnails/13486-100x70.jpg?x53432)
+    Kim Jong-un, ruler of North Korea, he is just 36 years old but he commands the world's fourth-largest military, he has access to nuclear weapons and his family has ruled over their people using viole](https://documentaryheaven.com/north-korea-inside-mind-of-dictator/ "North Korea: Inside the Mind of a Dictator")
+* [![Geisha Girl](/wp-content/thumbnails/8061-100x70.jpg?x53432)
     
-    Dirty Gold War
+    Geisha Girl
     
-    Dirty Gold War is a tale about the truths which lie behind the thriving industry of gold. On one side of it you have the end product which is associated with love, celebration and displays of wea](https://documentaryheaven.com/dirty-gold-war/ "Dirty Gold War")
-* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
+    Documentary following 15-year-old Yukina as she leaves home and moves to Kyoto to embark on the arduous training needed to become a geisha.The profession has always been shrouded in controversy, w](https://documentaryheaven.com/geisha-girl/ "Geisha Girl")
+* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
     
-    Reality and the Extended Mind
+    The Cola Wars
     
-    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
-* [![Between Life And Death](/wp-content/thumbnails/5950-100x70.jpg?x53432)
+    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
+* [![Lethal Cargo: Arms](/wp-content/thumbnails/16680-100x70.jpg?x53432)
     
-    Between Life And Death
+    Lethal Cargo: Arms
     
-    Provocative documentary following the doctors who can now interrupt, and even reverse, the process of death. Filmed over six months in the country's leading brain injury unit (Addenbooke's Hospital,](https://documentaryheaven.com/between-life-and-death/ "Between Life And Death")
-* [![I Want My Sex Back!](/wp-content/thumbnails/14264-100x70.jpg?x53432)
+    Hundreds and thousands of men women and children are maimed and killed every year by light arms often trafficked illegally or even openly in a grey area of near legality used by governments to sponso](https://documentaryheaven.com/lethal-cargo-arms/ "Lethal Cargo: Arms")
+* [![Tibet’s Cry For Freedom](/wp-content/thumbnails/7511-100x70.jpg?x53432)
     
-    I Want My Sex Back!
+    Tibet’s Cry For Freedom
     
-    I Want My Sex Back! is the personal tale of three men who went under the knife in order to change their sex but who now years latter regret the permanent procedure. Through a number of interviews we h](https://documentaryheaven.com/want-sex-back/ "I Want My Sex Back!")
+    Inspired by a burning passion to raise awareness of the Tibetan freedom struggle and using the Beijing Olympics as the springboard, first time filmmaker Lara Damiani quit her job, sold her clothes and](https://documentaryheaven.com/tibets-cry-for-freedom/ "Tibet’s Cry For Freedom")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
