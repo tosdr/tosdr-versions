@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+    
+    ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+    
+    [![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+    
+    ### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+    
+    [![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-360x180.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+    
+    ### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+    
+    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
+    
+    ### [TEAM NEWS: Cardiff City vs Millwall – Harris names unchanged side](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
+    
     [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
     ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
@@ -38,23 +54,6 @@
     [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
     
     ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-    
-    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-    
-    ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-    
-    [![Deputy PM and Housing Secretary Angela Rayner MP.
-    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
-    
-    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
-    
-    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
-    
-    ### [Four treated by paramedics in West Norwood house fire](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
-    
-    [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-    
-    ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+    
+    ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+    
+    [![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+    
+    ### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+    
+    [![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-360x180.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+    
+    ### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+    
+    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
+    
+    ### [TEAM NEWS: Cardiff City vs Millwall – Harris names unchanged side](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
+    
     [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
     ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
@@ -119,23 +134,6 @@ View All Result
     [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
     
     ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-    
-    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-    
-    ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-    
-    [![Deputy PM and Housing Secretary Angela Rayner MP.
-    Photo from UK Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deputy-PM-and-Housing-Secretary-Angela-Rayner-360x180.jpg)](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/)
-    
-    ### [Khan warned by the new Government that the homes being built in London needs to ‘increase markedly’](https://southwarknews.co.uk/area/london/khan-warned-by-the-new-government-that-the-homes-being-built-in-london-needs-to-increase-markedly/) 
-    
-    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
-    
-    ### [Four treated by paramedics in West Norwood house fire](https://southwarknews.co.uk/area/south-london/four-treated-by-paramedics-in-west-norwood-house-fire/)
-    
-    [![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-360x180.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-    
-    ### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -376,6 +374,18 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+
+### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+
+[1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
+
+[![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-120x86.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+
+### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+
+[1st October 2024](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
+
 [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
 ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
@@ -400,18 +410,6 @@ Photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/andy-pars
 ### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
 
 [30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-[![Southwark Fire Station pictured in 2007. Credit- Nigel Cox (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Fire-Station-pictured-in-2007.-Credit-Nigel-Cox-Wikimedia-Commons-e1727449579110-120x86.jpg)](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-
-### [Gail’s bakery to move into Southwark Fire Station in Borough](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-
-[30th September 2024](https://southwarknews.co.uk/area/borough/gails-bakery-to-move-into-southwark-fire-station-in-borough/)
-
-[![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-
-### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
-
-[29th September 2024](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
 
 ### USEFUL PAGES
 
