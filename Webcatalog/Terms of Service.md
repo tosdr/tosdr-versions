@@ -207,8 +207,6 @@ Download
 
 [Windows](https://about.webcatalog.io/en/desktop/windows/)
 
-[Linux](https://about.webcatalog.io/en/desktop/linux/)
-
 Support
 
 [Help](https://about.webcatalog.io/en/help/)
