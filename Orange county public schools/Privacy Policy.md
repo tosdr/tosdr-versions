@@ -238,6 +238,7 @@
     * [Twitter Feed](https://twitter.com/OCPSnews "Follow Us on Twitter")
     * [Instagram](https://www.instagram.com/ocps_official/ "Follow Us on Instagram")
     * [Youtube Channel](https://www.youtube.com/user/OrangeCoSchoolsFL "Watch Us on Youtube")
+    * [![FortifyFL](https://cdnsm5-ss15.sharpschool.com/UserFiles/Servers/Server_54619/Templates/FortifyFL_Icon.png)Go to FortifyFL](https://www.ocps.net/fortify_f_l "Go to FortifyFL")
     
 * Guest
 * [Login](https://www.ocps.net/gateway/Login.aspx?returnUrl=%2fcms%2fOne.aspx%3fportalId%3d54703%26pageId%3d203398)
