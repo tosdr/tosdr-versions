@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_360x203.jpg)](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
         
-        #### [Student Hunger Drive for the River Bend Food Bank kicks off](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08) [![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98977d9c-33aa-40b8-b770-226bf9ea771f/20241001T035821/98977d9c-33aa-40b8-b770-226bf9ea771f_360x203.jpg)](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
+        #### [Student Hunger Drive for the River Bend Food Bank kicks off](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
         
-        #### [Celebrating the kick-off of River Bend Food Bank's Student Hunger Drive](https://www.wqad.com/article/news/community/student-hunger-drive-river-bend-food-bank-kicks-off/526-97f5bcb5-81a4-4de5-aa2c-701f81f24e08)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775/20241001T025732/dcdfda0a-ab89-4b3f-ac47-e842ae1e9775_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
         
         #### [Vacant home catches fire in Moline Sunday night](https://www.wqad.com/article/news/local/public-safety/fire-moline-sunday-night-officials-investigating/526-94bbc23d-1546-4fe1-9792-aa51838d444c)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-67°
+60°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
