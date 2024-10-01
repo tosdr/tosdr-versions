@@ -81,11 +81,9 @@ This document is CC-BY-SA. It was last updated 2nd April 2023.
 
  
 
- 
-
 * [Home](https://spamlogger.com/)
 * [Categories](https://spamlogger.com/categories)
-* [FAQ/Guidelines](https://spamlogger.com/guidelines)
+* [Guidelines](https://spamlogger.com/guidelines)
 * [Terms of Service](https://spamlogger.com/tos)
 * [Privacy Policy](https://spamlogger.com/privacy)
 
