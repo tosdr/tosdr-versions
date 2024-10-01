@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/4-april-wat-betekent-deze-totale-maansverduistering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/homeopathie-werkzaam-en-veel-goedkoper/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
