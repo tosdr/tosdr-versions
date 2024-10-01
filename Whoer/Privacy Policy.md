@@ -219,7 +219,7 @@ Useful links
 apps
 ====
 
- [![Download VPN for iOS](/images/ios-badge/badge-ios-en.svg)](https://apps.apple.com/us/app/whoervpn/id1369052279?l=en)[![Download VPN for Android](/images/google-badge/badge-android-en.svg)](https://play.google.com/store/apps/details?id=com.sml.t1r.whoervpn&hl=en)
+ [![Download VPN for iOS](/images/ios-badge/badge-ios-en.svg)](https://apps.apple.com/us/app/whox-secure-vpn-without-logs/id6476266235)[![Download VPN for Android](/images/google-badge/badge-android-en.svg)](https://play.google.com/store/apps/details?id=com.whoervpn.provider)
 
 Copyright © [whoer.net](https://whoer.net/) 2008-
 
