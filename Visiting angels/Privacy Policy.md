@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
+[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
 
-[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
+[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
 
-[Social Isolation May Transform Brain, Increase Stress](https://www.visitingangels.com/knowledge-center/why-in-home-care/social-isolation-may-transform-brain-increase-stress/376)
+[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
 
-[Paranoia in the Elderly: Will it Warrant Additional Care?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/paranoia-in-the-elderly-will-it-warrant-additional-care/370)
+[9 Ways to Reduce Seniors’ Discomfort with Personal Care Services](https://www.visitingangels.com/knowledge-center/care-options/9-ways-to-reduce-seniors-discomfort-with-personal-care-services/424)
 
-[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
+[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
