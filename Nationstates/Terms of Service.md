@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Looking for cards that are black and… (1,563)](https://forum.nationstates.net/viewtopic.php?t=524352&f=42&view=unread#unread ""Looking for cards that are black and red and white" (1,563 posts)")
-* [\[R\] Flaming (2)](https://forum.nationstates.net/viewtopic.php?t=556273&f=16&view=unread#unread ""[R] Flaming" (2 posts)")
-* [\[SPOOKY DRAFT\] Ban on Demonic Possession (34)](https://forum.nationstates.net/viewtopic.php?t=556251&f=9&view=unread#unread ""[SPOOKY DRAFT] Ban on Demonic Possession" (34 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (903)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (903 posts)")
-* [\[IN QUEUE\] Civilian Air Compact (21)](https://forum.nationstates.net/viewtopic.php?t=554812&f=9&view=unread#unread ""[IN QUEUE] Civilian Air Compact" (21 posts)")
+* [Best NS Player of October 2024!!! (1)](https://forum.nationstates.net/viewtopic.php?t=556296&f=25&view=unread#unread ""Best NS Player of October 2024!!!" (1 post)")
+* [Guess AN's Gender (3,670)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (3,670 posts)")
+* [AN Out of Context III (2,871)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (2,871 posts)")
+* [YL catches AL doing something embaras… (55)](https://forum.nationstates.net/viewtopic.php?t=555982&f=25&view=unread#unread ""YL catches AL doing something embarassing, YL's reaction?" (55 posts)")
+* [NFL Football Thread 24-25: The Road t… (7,760)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,760 posts)")
 
 Advertisement
 
