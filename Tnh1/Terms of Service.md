@@ -214,15 +214,7 @@ pontal do peba
 
 Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL
 
-Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_isabel-cristina-fernandes-martins-gravatal_a7cd2dc0b0.jpg)
-
-Brasil
-
-Brasil
-
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia
-
-Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia](https://www.tnh1.com.br/noticia/nid/dentista-assassinada-pelo-irmao-tinha-ido-levar-bolo-a-mae-diz-policia/ "Dentista assassinada pelo irmão tinha ido levar bolo à mãe, diz polícia")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
+Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL](https://www.tnh1.com.br/noticia/nid/confusao-na-praia-deixa-homem-ferido-apos-facada-e-manchas-de-sangue-na-areia-no-litoral-sul-de-al/ "Confusão na praia deixa homem ferido após facada e manchas de sangue na areia, no litoral sul de AL")[![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_8bdcd337f3.jpeg)
 
 na ponta grossa
 
@@ -230,7 +222,15 @@ na ponta grossa
 
 Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")[![Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_dinheiro_Jose_Cruz_Agencia_Brasil_arquivo_bd1af04a40.jpg)
+
+administrativo
+
+administrativo
+
+Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo
+
+Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo](https://www.tnh1.com.br/noticia/nid/precatorios-fundef-veja-a-nova-lista-de-beneficiarios-divulgada-pelo-governo/ "Precatórios Fundef: veja a nova lista de beneficiários divulgada pelo governo")
 
 [![Efeito Ozempic: como medicamento transformou vida da pequena cidade dinamarquesa onde é produzido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Ozempic_-_foto_Divulgacao_0b070f88a1.jpeg)
 
