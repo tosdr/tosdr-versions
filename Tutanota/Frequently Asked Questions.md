@@ -4,7 +4,7 @@
 
 Products
 
-[Tuta Mail](https://tutanota.com/secure-email)[Tuta Calendar](https://tutanota.com/calendar)
+[](https://tutanota.com/secure-email)[](https://tutanota.com/calendar)
 
 [Pricing](https://tutanota.com/pricing) [Business](https://tutanota.com/business) Why Tuta
 
