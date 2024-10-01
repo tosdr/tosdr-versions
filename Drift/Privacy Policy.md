@@ -188,6 +188,7 @@ Salesloft delivers a performance force multiplier for the world’s most demandi
 Salesloft For:
 
 * [Sales Forecasting](https://www.drift.com/platform/sales-forecasting-software)
+* [Sales Analytics](https://www.drift.com/platform/analytics-reporting)
 * [Sales Tracking Software](https://www.drift.com/platform/sales-call-tracking-software/)
 * [Call Recording Software](https://www.drift.com/platform/call-recording-software)
 * [Sales Performance Dashboard](https://www.drift.com/platform/sales-performance-dashboard/)
