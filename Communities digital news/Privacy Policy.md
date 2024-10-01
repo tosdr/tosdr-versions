@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-elissa-slotkin-kamala-harris-split-1200x630.jpg)](https://americanwirenews.com/dem-lawmaker-sounds-alarm-kamala-is-underwater-in-key-battleground-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-robschneider-mutombo-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
 
-[Dem lawmaker sounds alarm Kamala is ‘underwater’ in key battleground state](https://americanwirenews.com/dem-lawmaker-sounds-alarm-kamala-is-underwater-in-key-battleground-state/)
+[Actor suggests NBA legend’s death may be linked to COVID jabs](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-bongino-1200x630.jpg)](https://americanwirenews.com/bongino-secret-service-whistleblower-has-damning-info-on-white-house-cocaine-scandal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-tennessee-looters-1200x630.jpg)](https://americanwirenews.com/team-of-migrants-arrested-for-allegedly-looting-in-a-hurricane-ravaged-community/)
 
-[Bongino: Secret Service whistleblower has damning info on White House cocaine scandal](https://americanwirenews.com/bongino-secret-service-whistleblower-has-damning-info-on-white-house-cocaine-scandal/)
+Images via Washington County Tennessee Sheriff's Office
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-usss-women-1200x630.jpg)](https://americanwirenews.com/womens-non-profit-plans-to-sue-secret-service-over-harmful-dei-quota/)
+[Team of migrants arrested for allegedly looting in a hurricane-ravaged community](https://americanwirenews.com/team-of-migrants-arrested-for-allegedly-looting-in-a-hurricane-ravaged-community/)
 
-[Women’s non-profit plans to sue Secret Service over harmful DEI quota](https://americanwirenews.com/womens-non-profit-plans-to-sue-secret-service-over-harmful-dei-quota/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1137737008-1200x630.jpg)](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hurricane-1200x630.jpg)](https://americanwirenews.com/purported-u-of-kentucky-instructor-suggests-god-is-punishing-maga-with-helene-works-for-me/)
+[Hill sources: Congressional Republicans eye investigating China National Tobacco Corporation (CNTC) for alleged role in illegal vape distribution](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
 
-[Purported U of Kentucky instructor suggests God is punishing MAGA with Helene: ‘Works for me!’](https://americanwirenews.com/purported-u-of-kentucky-instructor-suggests-god-is-punishing-maga-with-helene-works-for-me/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-1200x630.png)](https://americanwirenews.com/kamala-suggests-lack-of-sleep-led-to-walz-pick/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-u.s.-immigration-and-customs-enforcement-erik-evans-bryan-daniel-aldana-arevalo-split-1200x630.jpg)](https://americanwirenews.com/string-of-alleged-migrant-sex-crimes-has-nantucket-parents-fearful-for-their-children/)
+[Kamala suggests lack of sleep led to Walz pick](https://americanwirenews.com/kamala-suggests-lack-of-sleep-led-to-walz-pick/)
 
-[String of alleged migrant sex crimes has Nantucket parents fearful for their children](https://americanwirenews.com/string-of-alleged-migrant-sex-crimes-has-nantucket-parents-fearful-for-their-children/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-vance-walz-1-1200x630.jpg)](https://americanwirenews.com/trump-to-do-play-by-play-of-vp-debate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-billmaher-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-rips-crazy-bill-maher-mocks-fake-laughter-on-his-hbo-show/)
+[Trump to do ‘play by play’ of VP debate](https://americanwirenews.com/trump-to-do-play-by-play-of-vp-debate/)
 
-[Trump rips ‘Crazy Bill’ Maher, mocks ‘fake laughter’ on his HBO show](https://americanwirenews.com/trump-rips-crazy-bill-maher-mocks-fake-laughter-on-his-hbo-show/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sanders-1200x630.jpg)](https://americanwirenews.com/nervous-dems-distance-themselves-from-comrade-bernies-move-to-block-israel-aid/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cuban-musk-1200x630.jpg)](https://americanwirenews.com/sour-grapes-mark-cubans-unsolicited-advice-to-elon-musk-about-trump-falls-flat/)
+[Nervous Dems distance themselves from Comrade Bernie’s move to block Israel aid](https://americanwirenews.com/nervous-dems-distance-themselves-from-comrade-bernies-move-to-block-israel-aid/)
 
-[Sour grapes? Mark Cuban’s unsolicited advice to Elon Musk about Trump falls flat](https://americanwirenews.com/sour-grapes-mark-cubans-unsolicited-advice-to-elon-musk-about-trump-falls-flat/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-RudyGiulianiSpeaks-1200-x-628-1200x630.jpg)](https://americanwirenews.com/rudy-giulianis-leftist-daughter-endorses-kamala-harris-in-the-most-victim-like-way-possible/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carpenter-adams-1200x630.jpg)](https://americanwirenews.com/pop-star-takes-credit-for-getting-mayor-indicted-in-eric-adams-corruption-scandal/)
+[Rudy Giuliani’s leftist daughter endorses Kamala Harris in the most victim-like way possible](https://americanwirenews.com/rudy-giulianis-leftist-daughter-endorses-kamala-harris-in-the-most-victim-like-way-possible/)
 
-[Pop star takes credit for ‘getting mayor indicted’ in Eric Adams corruption scandal](https://americanwirenews.com/pop-star-takes-credit-for-getting-mayor-indicted-in-eric-adams-corruption-scandal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalateeth-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/october-surprise-psyop-is-the-dock-strike-staged-so-kamala-can-swoop-in-and-save-the-day/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-clinton-1200x630.jpg)
+[October surprise psyop! Is the dock strike staged so Kamala can swoop in and save the day?](https://americanwirenews.com/october-surprise-psyop-is-the-dock-strike-staged-so-kamala-can-swoop-in-and-save-the-day/)
 
-### Hillary foresees October surprise sure to ‘distort and pervert’ Kamala Harris](https://americanwirenews.com/hillary-foresees-october-surprise-sure-to-distort-and-pervert-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-xi-tim-split-1200-x-628-1200x630.jpg)
+
+### House GOP wants answers over DHS whistleblower’s ‘serious concern’ about Walz’s China ties](https://americanwirenews.com/house-gop-wants-answers-over-dhs-whistleblowers-serious-concern-about-walzs-china-ties/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,40 @@ Search for:
 ### [Judge won’t dismiss Trump’s lawsuit against ABC’s ‘Liddle George Slopadopolus’](https://americanwirenews.com/judge-wont-dismiss-trumps-lawsuit-against-abcs-liddle-george-slopadopolus/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kerry-220x180.jpg)](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
+
+[John Kerry: A Democrat win would allow us to ‘change’ the First Amendment to stop ‘disinformation’](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tom-emmer-220x180.png)](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
+
+[Tim Walz likened to ‘Gavin Newsom in a flannel shirt’](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalasmoke-1200-x-628-220x180.jpg)](https://americanwirenews.com/controlled-fire-still-no-press-conferences-but-kamala-does-nba-all-the-smoke-podcast/)
+
+[Controlled fire: Still no press conferences but Kamala does NBA ‘All the Smoke’ podcast](https://americanwirenews.com/controlled-fire-still-no-press-conferences-but-kamala-does-nba-all-the-smoke-podcast/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-515218066-220x180.jpg)](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
+
+[Reactions pour in after death of controversial baseball legend](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hazel-220x180.jpg)](https://americanwirenews.com/single-mom-challenges-miss-america-miss-world-pageant-rules-keeping-mothers-from-competing/)
+
+[Single mom challenges Miss America, Miss World pageant rules keeping mothers from competing](https://americanwirenews.com/single-mom-challenges-miss-america-miss-world-pageant-rules-keeping-mothers-from-competing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-firearm-lock-220x180.jpg)](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+
+[Florida city police chief bans guns after declaring state of emergency, prompts swift reaction](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/tim-walz-is-more-famous-for-lies-than-joe-biden-so-how-will-you-tell-at-tonights-debate/)
+
+[Tim Walz is more famous for lies than Joe Biden, so how will you tell at tonight’s debate?](https://americanwirenews.com/tim-walz-is-more-famous-for-lies-than-joe-biden-so-how-will-you-tell-at-tonights-debate/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1137737008-220x180.jpg)](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
+
+[Hill sources: Congressional Republicans eye investigating China National Tobacco Corporation (CNTC) for alleged role in illegal vape distribution](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-desantis-2-220x180.jpg)](https://americanwirenews.com/desantis-launches-operation-blue-ridge-to-aid-other-storm-ravaged-southern-states/)
 
@@ -141,38 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jeffery-220x180.jpg)](https://americanwirenews.com/lefty-journo-mocked-after-equating-a-blessed-day-nod-to-creeping-christian-nationalism/)
 
 [Lefty journo mocked after equating a ‘blessed’ day nod to ‘creeping Christian nationalism’](https://americanwirenews.com/lefty-journo-mocked-after-equating-a-blessed-day-nod-to-creeping-christian-nationalism/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-elon-musk-2-220x180.jpg)](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
-
-[Elon Musk explains why this will be ‘last election’ if Trump is NOT elected](https://americanwirenews.com/elon-musk-explains-why-this-will-be-last-election-if-trump-is-not-elected/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-snl-220x180.png)](https://americanwirenews.com/snl-mocks-deadly-trump-assassination-attempt-in-a-disgusting-new-low/)
-
-[‘SNL’ mocks deadly Trump assassination attempt in a ‘disgusting’ new low](https://americanwirenews.com/snl-mocks-deadly-trump-assassination-attempt-in-a-disgusting-new-low/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-khamenei-lebanon-220x180.jpg)](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
-
-[‘Shortest tenure as head of a terrorist org’: IDF says new leader of Hezbollah taken out](https://americanwirenews.com/shortest-tenure-as-head-of-a-terrorist-org-idf-says-new-leader-of-hezbollah-taken-out/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
-
-[Ryan Routh has ‘disappeared from the public media consciousness’](https://americanwirenews.com/ryan-routh-has-disappeared-from-the-public-media-consciousness/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wefkerry-1200-x-628-220x180.jpg)](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
-
-[‘We need to win’: John Kerry cries 1A a ‘major block’ in controlling social media, disinformation](https://americanwirenews.com/we-need-to-win-john-kerry-cries-1a-a-major-block-in-controlling-social-media-disinformation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-franl-1200-x-628-220x180.jpg)](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
-
-[Radical lesbian essayist Fran Lebowitz wants Biden to ‘dissolve the Supreme Court’](https://americanwirenews.com/radical-lesbian-essayist-fran-lebowitz-wants-biden-to-dissolve-the-supreme-court/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-djtprairieduchien-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
-
-[Trump rips Fox News over Kamala’s ‘bullsh\*t’ border remarks: ‘It all stops the moment I take the oath’](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-young-trump-supporters-220x180.jpg)](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
-
-[Poll shows younger voters skewing to the right: ‘They think of Trump as an anti-hero, not a villian’](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
