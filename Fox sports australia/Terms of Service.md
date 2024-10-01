@@ -50,23 +50,23 @@ FOX SCORES
     
 * [AFL Women's
     
-    1/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | GEE | –   |
-    | FRE | –   |
+    | GEE | 3.9.27 |
+    | FRE | 6.9.45 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240601)
 * Cricket
     
 * [Men's Test
     
-    Day 5 Session 2
+    IND won by 7 wkts
     
     |     |     |
     | --- | --- |
-    | IND | 9 /285d & 1 /34 |
+    | IND | 9 /285d & 3 /98 |
     | BAN | 233 & 146 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
@@ -106,16 +106,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=711)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOU | 3   |
-    | SOU | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250607)
 * [UCL
     
     2/10 2:45 AEST
@@ -214,16 +204,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | ATL | 7   |
-    | NYM | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240010029FBED)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
     | ATL | 3   |
     | NYM | 0   |
     
@@ -258,6 +238,16 @@ FOX SCORES
     | NYM | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500211498)
+* [MLB
+    
+    2/10 10:38 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SD  | –   |
+    | ATL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500250931)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
