@@ -31,6 +31,407 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Quito seguirán estos horarios este 1 de octubre
+================================================================
+
+Las autoridades indicaron que los horarios podrían variar en las horas de suspensión debido a la condición que presenten los caudales
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Los horarios de cortes de luz fueron establecidos por la Cartera de Energía y Minas.](https://www.elcomercio.com/wp-content/uploads/2024/10/vela.jpg)
+
+Este **martes 1 de octubre de 2024**, los **horarios de cortes de luz en Quito** se aplicarán de acuerdo con los **cronogramas establecidos** por el Ministerio de Energía y Minas la semana pasada.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-1-de-octubre.html "Así funciona el Pico y placa en Quito este martes 1 de octubre")
+* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
+* [Cuatro temblores se registraron en una provincia este 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cuatro-temblores-santa-elena-litoral-1-de-octubre.html "Cuatro temblores se registraron en una provincia este 1 de octubre")
+
+Esto responde a la **crisis energética que atraviesa Ecuador** a causa de la sequía que ocasionó que los embalses disminuyeran su caudal.
+
+Para ello, el Gobierno Nacional tomó medidas como un **cronograma de cortes de luz** que abarca más de 10 horas en algunas provincias.
+
+Cronograma de cortes de luz en Quito
+------------------------------------
+
+La **Empresa Eléctrica Quito** dio a conocer los **horarios de la suspensión del servicio** desde este lunes 30 de septiembre al 6 de octubre de 2024.
+
+Este martes 1 de octubre, estos son los horarios de cortes de luz por sectores:
+
+Desde 00:00 hasta 05:00 y de 12:00 a 17:00
+------------------------------------------
+
+* Luluncoto
+* Chilibulo
+* Miraflores
+* La Floresta
+* Río Coca
+* Cristianía
+* Epiclachima
+* Conocoto
+* Tumbaco
+
+De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00
+-----------------------------------------------
+
+* La Carolina
+* Nueva Cumbayá
+* Mirador Alto
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+Desde 10:00 hasta 15:00 y de 20:00 a 00:00
+------------------------------------------
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+De 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00
+-----------------------------------------------
+
+* Olímpico
+* Barrio Nuevo
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* Pomasqui
+* El Quinche
+* Eugenio Espejo
+
+De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00
+-----------------------------------------------
+
+* Luluncoto
+* Chilibulo
+* Escuela Sucre
+* San Roque
+* Granda Centeno
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Iñaquito
+* Santa Rosa
+* Inga Bajo
+
+Los horarios podrían variar
+---------------------------
+
+El ministro de Energía y Minas, **Antonio Goncalves,** informó la tarde del domingo 29 de septiembre que **debido a las lluvias** que se han registrado en el país en las últimas horas**, los cortes podrían variar**.
+
+Gracias al aumento **del caudal en Coca Codo**, las horas de suspensión pueden reducirse pese a que ya se establecieron unos horarios de cortes. El Ministro aclara que **ante las dudas de la ciudadanía** en cuanto al cumplimiento de los cortes, se trata de disminuir el impacto de la crisis conforme lo permitan los caudales de las hidroeléctricas.
+
+La **Empresa Eléctrica Quito**, a su vez, señaló que, a pesar de que se cuenta con un cronograma, es importante considerar que los horarios de la **suspensión del servicio eléctrico** están sujetos a cambios. Estos dependen de la variabilidad o mejora en la oferta de generación, que es monitoreada en tiempo real por la Cenace.
+
+De acuerdo con estas condiciones **pueden requerirse ajustes en los horarios** y tiempos de desconexión del servicio eléctrico. Estos ajustes no se han dado a conocer, por lo que los horarios previstos son los mismos.
+
+> 📍La Empresa Eléctrica Quito cuenta con un cronograma de cortes establecido, sin embargo, es importante considerar que los horarios de la suspensión del servicio eléctrico están sujetos a cambios que dependen de la variabilidad o mejora en la oferta de generación, que es… [https://t.co/mhAYlSoz0C](https://t.co/mhAYlSoz0C)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [September 29, 2024](https://twitter.com/ElectricaQuito/status/1840417587249008947?ref_src=twsrc%5Etfw)
+
+¿A qué hora juegan los ecuatorianos en la Champions League?
+===========================================================
+
+La Champions League regresa esta semana y eso significa la vuelta de los legionarios en el torneo.
+--------------------------------------------------------------------------------------------------
+
+![Piero Hincapié junto con su compañero Ezequiel Palacios en un partido con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T163551.018.jpg)
+
+La Uefa **Champions League** tendrá su segunda jornada de la fase de grupos, en su nuevo formato, que en su debut dejó muy buenas impresiones y sensaciones. Además, se pudo observar a cuatro **ecuatorianos** por primera vez en una misma edición del torneo.
+
+Los cuatro tricolores presentes en el torneo son **Piero Hincapié**, del Bayer Leverkusen, **Willian Pacho**, del París Saint-Germain, Ángelo Preciado, del Sparta Praga, y Joel Ordóñez, del Club Brujas.
+
+### Más noticias:
+
+* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+* [Atalanta y Arsenal igualan sin goles en Champions League](https://www.elcomercio.com/deportes/futbol/atalanta-y-arsenal-igualan-sin-goles-en-champions-league.html "Atalanta y Arsenal igualan sin goles en Champions League")
+
+¿A qué hora juegan los ecuatorianos en la Champions?
+----------------------------------------------------
+
+Este martes 1 de octubre inicia la segunda jornada de la **Champions League**, y habrá tres ecuatorianos en acción, con grandes partidos en el calendario. Todos ellos buscarán seguir dejando el nombre del país en alto en el torneo de clubes más prestigioso del mundo.
+
+El primero en ver acción será **Ángelo Preciado, lateral derecho del Sparta Praga**. El equipo checo visitará al Stuttgart de Alemania en el Mercedes-Benz Arena, a las 11:45 (hora de Ecuador).
+
+Más tarde, a las 14:00, habrá dos ecuatorianos en acción simultáneamente, en dos de los partidos más esperados de la jornada.
+
+**Piero Hincapié, con el Bayer Leverkusen**, recibirá en casa al poderoso AC Milan en el BayArena. El central ecuatoriano ha mostrado solidez en la defensa del equipo alemán y tendrá la difícil tarea de contener a los peligrosos delanteros del conjunto italiano.
+
+Al mismo tiempo, **Willian Pacho, defensor del París Saint-Germain**, tendrá su propio reto cuando visite al Arsenal de Inglaterra en el emblemático Emirates Stadium. El PSG buscará un resultado positivo en tierras inglesas.
+
+Finalmente, el último ecuatoriano en disputar esta segunda jornada será J**oel Ordóñez**. El joven defensor del Club Brujas de Bélgica jugará el miércoles 2 de octubre, a las 14:00 (hora de Ecuador), cuando su equipo visite al Sturm Graz de Austria en el Merkur Arena.
+
+Ficha de partidos
+-----------------
+
+**Jugador:** Ángelo Preciado  
+**Partido:** Stuttgart vs. Sparta Praga  
+**Fecha:** Martes 1 de octubre  
+**Hora:** 11:45  
+**Estadio:** Mercedes-Benz Arena  
+**Posición:** 6
+
+**Jugador:** Piero Hincapié  
+**Partido:** Bayer Leverkusen vs. AC Milan  
+**Fecha:** Martes 1 de octubre  
+**Hora:** 14:00  
+**Estadio:** BayArena  
+**Posición:** 3
+
+**Jugador:** Willian Pacho  
+**Partido:** Arsenal vs. París Saint-Germain  
+**Fecha:** Martes 1 de octubre  
+**Hora:** 14:00  
+**Estadio:** Emirates Stadium  
+**Posición:** 15
+
+**Jugador:** Joel Ordóñez  
+**Partido:** Sturm Graz vs. Club Brujas  
+**Fecha:** Miércoles 2 de octubre  
+**Hora:** 14:00  
+**Estadio:** Merkur Arena  
+**Posición:** 31
+
+Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre
+=============================================================================
+
+Usuarios en redes sociales reportaron haber sentido los sismos durante la madrugada. Los epicentros fueron cercanos
+-------------------------------------------------------------------------------------------------------------------
+
+![Cuatro temblores se registraron durante la madrugada de este 1 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/sismos.jpg)
+
+El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este **1 de octubre** de 2024 sobre la actividad sísmica registrada durante esta madrugada. Esta actividad contempló **cuatro sismos** en el Litoral.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este martes 1 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-1-de-octubre.html "Así funciona el Pico y placa en Quito este martes 1 de octubre")
+* [El tránsito en Quito se complica por cortes de luz y obras](https://www.elcomercio.com/actualidad/quito/transito-en-quito-se-complica-por-cortes-de-luz-y-obras.html "El tránsito en Quito se complica por cortes de luz y obras")
+* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
+
+El primer sismo
+---------------
+
+El **primer temblor** que se registró este 1 de octubre fue a las 02:23 de la madrugada, con una **magnitud de 4 en la escala de Richter.**
+
+El movimiento fue a una **profundidad de 35 kilómetros**, a una latitud de 2.618° S y a una longitud de 80.947° W.
+
+El epicentro de este sismo se localizó **a 43,11 kilómetros de la Libertad,** en la provincia de Santa Elena.
+
+> \[REVISADO\]  
+> Evento: igepn2024them  
+> Ocurrido: 2024-10-01 02:23:09  
+> Mag.: 4.0MLv  
+> Prof.: 35.0 km  
+> Lat.: 2.618° S  
+> Long.: 80.947° W  
+> Localizado: a 43.11 km de La Libertad, Santa Elena  
+> Sintió este sismo? Repórtelo: [https://t.co/flBNwiEkmi](https://t.co/flBNwiEkmi) [pic.twitter.com/hUyztje5Bz](https://t.co/hUyztje5Bz)
+> 
+> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841019029063901468?ref_src=twsrc%5Etfw)
+
+El segundo temblor
+------------------
+
+El segundo movimiento fue a las **04:04, con una magnitud de 3.8** en la escala de Richter; a una profundidad de 28 kilómetros desde la superficie.
+
+Este sismo se ubicó a 2.723° S y a una longitud de 81.032° W y **se localizó a 55,85 kilómetros de Salinas,** también provincia de Santa Elena.
+
+> \[REVISADO\]  
+> Evento: igepn2024thhu  
+> Ocurrido: 2024-10-01 04:04:16  
+> Mag.: 3.8MLv  
+> Prof.: 28.0 km  
+> Lat.: 2.723° S  
+> Long.: 81.032° W  
+> Localizado: a 55.85 km de Salinas, Santa Elena  
+> Sintió este sismo? Repórtelo: [https://t.co/cCNA9emN5j](https://t.co/cCNA9emN5j) [pic.twitter.com/d4ihdH7XBX](https://t.co/d4ihdH7XBX)
+> 
+> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841044463747031203?ref_src=twsrc%5Etfw)
+
+Tercer movimiento telúrico
+--------------------------
+
+El tercer sismo registrado este 1 de octubre de 2024 fue **solo tres minutos después** del segundo, a las 04:07 de la madrugada.
+
+Este tuvo una **magnitud de 4.8 en la escala de Richter** y se registró a una profundidad de 34 kilómetros.
+
+El movimiento fue a una latitud de 2.700° S y a una longitud de 80.976° W. Este sismo tuvo su epicentro a **52,55 kilómetros de la Libertad**, en Santa Elena.
+
+> \[REVISADO\]  
+> Evento: igepn2024thhx  
+> Ocurrido: 2024-10-01 04:07:31  
+> Mag.: 4.8MLv  
+> Prof.: 34.0 km  
+> Lat.: 2.700° S  
+> Long.: 80.976° W  
+> Localizado: a 52.55 km de La Libertad, Santa Elena  
+> Sintió este sismo? Repórtelo: [https://t.co/NOVfSqL6qi](https://t.co/NOVfSqL6qi) [pic.twitter.com/WJ4GTzD6w2](https://t.co/WJ4GTzD6w2)
+> 
+> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841045333066878976?ref_src=twsrc%5Etfw)
+
+Cuarto temblor
+--------------
+
+El **cuatro temblor** registrado durante esta madrugada se registró 10 minutos después del tercero, esto es a las 04:17 de este 1 de octubre de 2024.
+
+Este sismo tuvo una **magnitud de 4.6 en escala de Richter**, a una profundidad de 36 kilómetros. Además, se registró a una latitud de 2.637° S y a una longitud de 80.949° W.
+
+El epicentro se **localizó a 45,3 kilómetros de La Libertad,** Santa Elena.
+
+Usuarios en redes sociales reportaron que sí sintieron los sismos aunque fueron leves y rápidos. Otro usuario se mostró sorprendido debido a la repetición de los [epicentro](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil")s.
+
+> \[REVISADO\]  
+> Evento: igepn2024thif  
+> Ocurrido: 2024-10-01 04:17:11  
+> Mag.: 4.6MLv  
+> Prof.: 36.0 km  
+> Lat.: 2.637° S  
+> Long.: 80.949° W  
+> Localizado: a 45.3 km de La Libertad, Santa Elena  
+> Sintió este sismo? Repórtelo: [https://t.co/Z43nFSyAhl](https://t.co/Z43nFSyAhl) [pic.twitter.com/FNa8eGOYzn](https://t.co/FNa8eGOYzn)
+> 
+> — Instituto Geofísico (@IGecuador) [October 1, 2024](https://twitter.com/IGecuador/status/1841046708462944542?ref_src=twsrc%5Etfw)
+
+Celebremos el Día del Pasillo Ecuatoriano con estos grandes artistas 
+=====================================================================
+
+Celebra el Día del Pasillo Ecuatoriano a través de icónicas figuras que dejaron un legado imborrable en la música del país.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Julio Jaramillo, máximo exponente de la música ecuatoriana, inspiró la creación del Día del Pasillo Ecuatoriano. Foto: Ministerio de Cultura y Patrimonio.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-del-pasillo-ecuatoriano.jpg)
+
+El 1 de octubre se celebra el **Día del Pasillo Ecuatoriano**, un género musical que define e identifica al Ecuador.  
+
+### Más noticias
+
+* [7 canciones para cantar a todo pulmón en el Día del Pasillo](https://www.elcomercio.com/tendencias/entretenimiento/canciones-para-cantar-pulmon-dia-pasillo.html "https://www.elcomercio.com/tendencias/entretenimiento/canciones-para-cantar-pulmon-dia-pasillo.html")
+* [Eventos en Quito por el Día del pasillo ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html "https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html")
+
+Sin duda, uno de sus máximos representantes es **Julio Jaramillo Laurido**, quien llevó la música ecuatoriana más allá de nuestras fronteras. Por esta razón, según el **[Ministerio de Cultura](https://www.culturaypatrimonio.gob.ec/dia-del-pasillo-ecuatoriano/#:~:text=El%201%20de%20octubre%20se,trascendi%C3%B3%20fronteras%20con%20nuestra%20m%C3%BAsica. "https://www.culturaypatrimonio.gob.ec/dia-del-pasillo-ecuatoriano/#:~:text=El%201%20de%20octubre%20se,trascendi%C3%B3%20fronteras%20con%20nuestra%20m%C3%BAsica.")**, en 1993, mediante el **decreto ejecutivo N. 1 118**, se estableció el 1 de octubre como el día del pasillo ecuatoriano, en honor al célebre J.J., nacido en Guayaquil el 1 de octubre de 1935. 
+
+**Grandes artistas para recordar este Día del Pasillo Ecuatoriano** 
+--------------------------------------------------------------------
+
+### **Julio Jaramillo (1935-1978)** 
+
+**‘El Ruiseñor de América’**, es considerado el **mejor cantante ecuatoriano de todos los tiempos**, conocido por sus emotivas canciones sobre amores y desencuentros.  
+
+A pesar de una infancia difícil y **una vida llena de escándalos y tragedias**, su carrera despegó con éxitos como Nuestro juramento y Fatalidad, llevándolo a la fama en América Latina. **Tras su muerte a los 43 años**, su legado perduró, convirtiéndose en un símbolo de la identidad nacional ecuatoriana, a decir de [Biografías y Vidas](https://www.biografiasyvidas.com/biografia/j/jaramillo.htm "https://www.biografiasyvidas.com/biografia/j/jaramillo.htm"). 
+
+### **Pepe Jaramillo (1933-2006)** 
+
+**Hermano de Julio Jaramillo**, conocido como **‘El Señor del Pasillo’**, fue un destacado cantante, guitarrista y compositor ecuatoriano.  
+
+**Estudió en Guayaquil** y comenzó su carrera musical en la radio, g**anó concursos y formó dúos y tríos con otros artistas**. A lo largo de su trayectoria, trabajó en Colombia y Perú, donde se consolidó como un talentoso guitarrista y vocalista, **interpretó pasillos, boleros, tangos y otros géneros**, según recoge la página del [Museo del Pasillo](https://www.museopasillo.gob.ec/jose-jaramillo/ "https://www.museopasillo.gob.ec/jose-jaramillo/"). 
+
+### **Dúo Benítez Valencia**  
+
+Los antecedentes del **Dúo Benítez Valencia** se remontan a su formación en el **Colegio Juan Montalvo**, donde **Gonzalo Benítez y Luis A. Valencia** se conocieron y comenzaron a cantar juntos.  
+
+La influencia del grupo **Alma Nativa** y el auge de la radio en Ecuador, especialmente con **Radio Quito**, facilitaron su desarrollo profesional en la música popular.  
+
+Con una carrera de tres décadas, el dúo se destacó por su **impresionante técnica vocal y su repertorio de pasillos y ritmos ecuatorianos**, grabaron más de 600 piezas que cimentaron su legado, de acuerdo con la página [Arte Ecuador](https://www.artecuador.com/musica-breve-historia-del-d-o-ben-tez-valencia-67-0.html "https://www.artecuador.com/musica-breve-historia-del-d-o-ben-tez-valencia-67-0.html").  
+
+### **Los Brillantes** 
+
+Grupo musical que combina letra, melodía e interpretación, **se destacó en los años 60** en la música ecuatoriana. **Nacieron del cuarteto Los Latinos**, formado en 1959, y luego se convirtieron en un trío con voces memorables como las de **Eduardo Erazo, Héctor Jaramillo y Homero Hidrobo**.  
+
+A lo largo de su carrera, grabaron alrededor de 30 canciones y acompañaron a artistas renombrados como **Eduardo Brito y Olga Gutiérrez**. Su éxito y legado musical se consolidaron en la historia ecuatoriana, llevándolos a convertirse en un **referente atemporal de la música popular del país**, a decir de la página [Efecto Alquimia](http://efectoalquimia.org/2024/01/24/ayer-hoy-y-siempre-los-brillantes/?utm_source=pocket_shared "http://efectoalquimia.org/2024/01/24/ayer-hoy-y-siempre-los-brillantes/?utm_source=pocket_shared"). 
+
+### **Hermanos Miño Naranjo** 
+
+**Los hermanos Eduardo y Danilo Miño Naranjo**, nacidos en Ambato en 1937 y 1938, enfrentaron inicialmente la oposición de su padre, un prominente político, a su carrera musical, pero con el apoyo de su madre lograron destacar tras ganar un festival en Radio Tarqui.  
+
+Iniciaron su carrera en 1958, apadrinados por **Miguel Aceves Mejía**, y grabaron el pasillo Sin tu amor. En 1964, alcanzaron el reconocimiento internacional en la **II Feria de la Canción Iberoamericana en Barcelona** con Tú y yo, ganaron cuatro medallas de oro, además de premios en festivales en México y Japón, y anécdotas memorables como **tocar el himno de Ecuador en Moscú**, según recoge la página [Sarime](https://www.sarime.com/hermanos-mino-naranjo.html "https://www.sarime.com/hermanos-mino-naranjo.html").  
+
+### **Carlota Jaramillo** 
+
+Conocida como la **‘Reina de la Canción Nacional’** y del **‘Pasillo Ecuatoriano’**, fue una talentosa cantante, actriz y profesora, nacida en una familia con inclinaciones musicales. 
+
+Desde joven, **destacó junto a su hermana en concursos de música ecuatoriana** y, a pesar de la oposición familiar, inició su carrera artística en 1922.  
+
+**Se convirtió en soprano en la Compañía de Operetas y Zarzuelas** y grabó varios discos, siendo reconocida por su repertorio de pasillos.  
+
+Jaramillo fue **la primera mujer ecuatoriana en recibir la condecoración Orden Nacional al Mérito en el Grado de Caballero** y su legado perdura en un busto y un museo en su pueblo natal, Calacalí, a decir de la web del [Museo del Pasillo](https://www.museopasillo.gob.ec/carlota-jaramillo/ "https://www.museopasillo.gob.ec/carlota-jaramillo/"). 
+
+Así funciona el Pico y placa en Quito este martes 1 de octubre
+==============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos gestionan el flujo vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-6.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Juramento a la Bandera en Quito tiene nueva fecha](https://www.elcomercio.com/actualidad/quito/juramento-bandera-quito-tiene-nueva-fecha.html "Juramento a la Bandera en Quito tiene nueva fecha")
+* [Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-se-regiran-horarios-desde-30-de-septiembre.html "Los cortes de luz en Quito se regirán por estos horarios desde este 30 de septiembre")
+* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Yqty3OkuqU](https://t.co/Yqty3OkuqU)
+> 
+> — AMTQuito (@AMT\_Quito) [September 24, 2024](https://twitter.com/AMT_Quito/status/1838518849898983729?ref_src=twsrc%5Etfw)
+
 Una dieta de colores tiene claves para una alimentación saludable
 =================================================================
 
@@ -146,35 +547,6 @@ La clave es disminuir los **desequilibrios** mediante **correcciones fiscales** 
 
 Con esta nueva **actitud** de un **gobierno** creíble será posible aumentar el **empleo** formal, invertir en obra pública, financiar la **seguridad energética**, aumentar la **explotación petrolera**, pagar a los **proveedores**, honrar la deuda externa y alejarse del abismo de una **recesión** prolongada que causará más **sufrimientos** a la **población ecuatoriana**.
 
-Cartas a Quito / de octubre de 2024
-===================================
-
-Estas son las cartas a Quito de este martes 1 de octubre de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Reflexiones maduras
--------------------
-
-Resulta que en la etapa de la vida de una mayor adultez se precisa recoger y mencionar algunas ideas a manera de unas reflexiones que las podríamos considerar como maduras, es decir producto de una vida de logros y realizaciones de cualquiera sea la magnitud y preponderancia que tengan y así proponer algunas reflexiones que ayuden a tener alguna guía o sendero para especialmente esa generación de jóvenes que nos sucederán en la vida.
-
-En épocas anteriores quizás refiriéndome a una etapa cómo de hace 50 años, quizás un poco más, teníamos en nuestros hogares esa presencia de papá y mamá en todo momento y la compañía principal de los hermanos y se adicionaban primos, tíos y demás familiares y por supuesto los inolvidables abuelos. Teníamos esas reuniones hogareñas, pletóricas, de pláticas saludables, bailes, música, comidas típicas y muchas otras cosas que endulzaban nuestra vida. Las distancias de las viviendas de unas y otras familias no eran tan distantes y era más fácil movilizarse de una casa a otra para compartir estas lindas experiencias.
-
-Pero que sucede ahora en las familias, las distancias son enormes, los hogares se han centrado más en su vínculo más íntimo de padres, hijos, nietos y los parientes políticos yernos o nueras y cualquier reunión es más realizada en ese entorno y raras veces se amplía a mayores conglomerados de otros familiares, peor aún incorporar amigos y conocidos.
-
-En esos años anteriores, si bien se conocía casos de delincuencia, asesinatos y cosas así, no eran tan perceptibles, nos movilizábamos tranquilamente en cualquier hora del día, en las noches incluso, caminando podíamos ir a una función nocturna de esos cines tradicionales de nuestra ciudad de Quito, como el Alameda, el Central, el Rumiñahui, el Bolívar, el Alhambra y muchos otros y no teníamos miedo, ni recelo, deambulábamos tranquilamente y sin la menor sospecha de que nos pudieran asaltar.
-
-En el momento actual estamos sumidos en una vida de incertidumbre y de miedo, tantas malas noticias sobre la inseguridad que preferimos ya no salir en la noche y no podemos caminar con tranquilidad, aun cuando sea en horas del día. Tanta proliferación de asesinatos, asaltos, sicariatos, en fin tanta maldad en la población, la infiltración de la mafia y el narcotráfico, lo que resulta espeluznante mirar y observar esas imágenes desgarradoras en las noticias por la televisión y las redes sociales. Ha cambiado tanto aquello, que nos parece estar observando películas de ficción o cosas que resultan increíbles de concebir. 
-
-Teníamos anteriormente en nuestros hogares el almuerzo en familia, pues de los trabajos y de los centros educativos, se tenía doble jornada, es decir se laboraba la mañana, un descanso para el almuerzo y como las distancias no eran tan largas, se solía ir al almuerzo en casa y luego retornar a la jornada de la tarde; no había la jornada única o continua. En la noche se cenaba en familia y en  todo momento se sentía ese calor hogareño, esa presencia familiar. Las conversaciones de los mayores eran siempre llenas de anécdotas, de chistes, ese humor quiteño especialmente y la vida, por lo tanto, se tornaba más dulce y amable.
-
-Qué sucede ahora, pues lo contrario, salimos a nuestras labores muy temprano en las mañanas y retornamos a la noche muy tarde, desayunamos solos, almorzamos de igual manera y quizás hasta en las cenas también, es decir en qué momento podemos compartir en familia, si quizás hasta los fines de semana tenemos por exigencias laborales a lo mejor que dedicar tiempo al trabajo y no a disfrutar en familia.
-
-El control hacia los hijos era más estricto, nos preocupábamos de averiguar en donde se encontraban, que hacían, con quienes se llevaban y siempre tratando de inculcarles muchos valores y principios de vida, para que supieran comportarse con honestidad y transparencia en el futuro. Creo que ahora el ritmo tan agitado de la vida, no permite que se tengan esos mismos cuidados y la liberalidad en los actos y acciones, ya no permiten, ni dejan posibilidad de esa aparente intromisión que teníamos en nuestros hijos. La rebeldía es tan notoria con ellos, que ya no se puede decir nada, nos tildan de anticuados. ¿Qué va a pasar en el futuro? Pues, no sabemos, ni advertimos las reales consecuencias.
-
-Hernán Patricio Orcés Salvador
-
 México en ruta São Paulo
 ========================
 
@@ -217,26 +589,6 @@ Pero evidencias aparte, las **encuestas** indican que la **mayoría** de la **po
 
 La **ruta económica** actual de **México**, enfocada en grandes **inversiones estatales** poco rentables, no es sustentable en el **futuro**, advierten observadores. Tampoco lo sería la **ruta política** de **dominio** de un solo partido. El tiempo indicará si **México** logra continuar con el objetivo trazado por Morena o si endereza hacia otro **destino**.
 
-No se debe olvidar el valor del Cuerpo de Bomberos de Quito
-===========================================================
-
-El apoyo continuo al Cuerpo de Bomberos y la prevención son esenciales para proteger a nuestra ciudad y sus barrios.
---------------------------------------------------------------------------------------------------------------------
-
-![Bomberos trabajaron para apagar un incendio forestal este jueves 26 de septiembre en el Cerro Auki, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trabajo-de-los-bomeros-Cerro-Auqui.jpg)
-
-La llegada de la época lluviosa en Quito trae consigo un alivio temporal ante la amenaza de incendios forestales, pero no debemos olvidar el arduo trabajo realizado por el Cuerpo de Bomberos y otras instituciones durante los meses críticos de sequía. Estos valientes profesionales han enfrentado condiciones adversas, arriesgando sus vidas para proteger a la comunidad y preservar nuestros recursos naturales. Sin embargo, es crucial que este esfuerzo no se diluya con la llegada de las lluvias. La prevención debe seguir siendo una prioridad, y el apoyo institucional al Cuerpo de Bomberos de Quito es fundamental para garantizar que estén equipados y preparados para futuras emergencias.
-
-El trabajo preventivo es esencial para evitar que los incendios forestales se conviertan en desastres. En Ecuador, se estima que el 99.9% de los incendios son causados por actividades humanas. Esto subraya la necesidad de campañas educativas que informen a la población sobre prácticas seguras y responsables en áreas forestales. El **Cuerpo de Bomberos, junto con la Secretaría Nacional de Gestión de Riesgos**, ha implementado diversas iniciativas para sensibilizar a la ciudadanía sobre la importancia de prevenir incendios. Estas acciones deben ser continuas y no limitarse a momentos críticos.
-
-> El apoyo institucional es vital para que el Cuerpo de Bomberos pueda llevar a cabo su labor eficazmente. Esto incluye no solo recursos financieros, sino también capacitación y equipamiento adecuado. Durante el 2023, se reportaron 236 incendios forestales en Quito y este verano la cifra subió a más de 300. En total, los incendios forestales en Ecuador han arrasado más de 38 000 hectáreas, lo que demuestra que la amenaza sigue presente. 
-
-Las autoridades deben garantizar que los bomberos cuenten con las herramientas necesarias para responder rápidamente a estas emergencias. La implementación del **Plan de Prevención y Control de Incendios Forestales** es un paso positivo, pero su efectividad depende del compromiso sostenido del gobierno local y nacional.
-
-Es esencial recordar a las comunidades afectadas por los incendios, como el Barrio Bolaños. Estos barrios no solo sufren daños materiales; también enfrentan pérdidas emocionales y psicológicas significativas. La solidaridad ciudadana es crucial en estos momentos. Las campañas de reforestación y recuperación deben ser una prioridad, promoviendo la participación activa de los residentes en la restauración de sus entornos.
-
-La ciudadanía tiene un papel fundamental en la prevención de incendios forestales. Las comunidades pueden organizarse para limpiar áreas propensas a incendios y realizar talleres sobre prácticas seguras. Además, fomentar una cultura de denuncia ante actos irresponsables que puedan provocar incendios es crucial. La educación ambiental debe ser parte integral del currículo escolar y comunitario, asegurando que las futuras generaciones comprendan la importancia de cuidar nuestros bosques.
-
 Scorsese, desde el fin de la noche
 ==================================
 
@@ -266,6 +618,55 @@ Para muchos, la mejor cinta de **Scorsese** es _Buenos muchachos_ (_Goodfellas_,
 La **filmografía** de **Scorsese** se engendra en una matriz: la **violencia** del **ser humano** que atraviesa inmutable el tiempo. Poética de seres oscilantes entre **fulgores** y sombras. Iglesia y **mafia**. Senderos cruzados por **contradicciones** perpetuas que solo pueden resolverse en **muertes atroces**, como si hubiera un deseo subyacente de infligir castigo antes de la **perpetración** del **crimen**. **Personajes** brumosos, rudos, indolentes, pero capaces de dar sus vidas por sus familias o sus amigos. “Siempre he buscado la absolución y la **redención**”, ha dicho Scorsese. ¿Las encontrará?
 
 “Aquí sabemos lo que sabe la muerte/ La piedra le dio vida a esta muerte/ La piedra se hizo lava de muerte”.
+
+Cartas a Quito / de octubre de 2024
+===================================
+
+Estas son las cartas a Quito de este martes 1 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Reflexiones maduras
+-------------------
+
+Resulta que en la etapa de la vida de una mayor adultez se precisa recoger y mencionar algunas ideas a manera de unas reflexiones que las podríamos considerar como maduras, es decir producto de una vida de logros y realizaciones de cualquiera sea la magnitud y preponderancia que tengan y así proponer algunas reflexiones que ayuden a tener alguna guía o sendero para especialmente esa generación de jóvenes que nos sucederán en la vida.
+
+En épocas anteriores quizás refiriéndome a una etapa cómo de hace 50 años, quizás un poco más, teníamos en nuestros hogares esa presencia de papá y mamá en todo momento y la compañía principal de los hermanos y se adicionaban primos, tíos y demás familiares y por supuesto los inolvidables abuelos. Teníamos esas reuniones hogareñas, pletóricas, de pláticas saludables, bailes, música, comidas típicas y muchas otras cosas que endulzaban nuestra vida. Las distancias de las viviendas de unas y otras familias no eran tan distantes y era más fácil movilizarse de una casa a otra para compartir estas lindas experiencias.
+
+Pero que sucede ahora en las familias, las distancias son enormes, los hogares se han centrado más en su vínculo más íntimo de padres, hijos, nietos y los parientes políticos yernos o nueras y cualquier reunión es más realizada en ese entorno y raras veces se amplía a mayores conglomerados de otros familiares, peor aún incorporar amigos y conocidos.
+
+En esos años anteriores, si bien se conocía casos de delincuencia, asesinatos y cosas así, no eran tan perceptibles, nos movilizábamos tranquilamente en cualquier hora del día, en las noches incluso, caminando podíamos ir a una función nocturna de esos cines tradicionales de nuestra ciudad de Quito, como el Alameda, el Central, el Rumiñahui, el Bolívar, el Alhambra y muchos otros y no teníamos miedo, ni recelo, deambulábamos tranquilamente y sin la menor sospecha de que nos pudieran asaltar.
+
+En el momento actual estamos sumidos en una vida de incertidumbre y de miedo, tantas malas noticias sobre la inseguridad que preferimos ya no salir en la noche y no podemos caminar con tranquilidad, aun cuando sea en horas del día. Tanta proliferación de asesinatos, asaltos, sicariatos, en fin tanta maldad en la población, la infiltración de la mafia y el narcotráfico, lo que resulta espeluznante mirar y observar esas imágenes desgarradoras en las noticias por la televisión y las redes sociales. Ha cambiado tanto aquello, que nos parece estar observando películas de ficción o cosas que resultan increíbles de concebir. 
+
+Teníamos anteriormente en nuestros hogares el almuerzo en familia, pues de los trabajos y de los centros educativos, se tenía doble jornada, es decir se laboraba la mañana, un descanso para el almuerzo y como las distancias no eran tan largas, se solía ir al almuerzo en casa y luego retornar a la jornada de la tarde; no había la jornada única o continua. En la noche se cenaba en familia y en  todo momento se sentía ese calor hogareño, esa presencia familiar. Las conversaciones de los mayores eran siempre llenas de anécdotas, de chistes, ese humor quiteño especialmente y la vida, por lo tanto, se tornaba más dulce y amable.
+
+Qué sucede ahora, pues lo contrario, salimos a nuestras labores muy temprano en las mañanas y retornamos a la noche muy tarde, desayunamos solos, almorzamos de igual manera y quizás hasta en las cenas también, es decir en qué momento podemos compartir en familia, si quizás hasta los fines de semana tenemos por exigencias laborales a lo mejor que dedicar tiempo al trabajo y no a disfrutar en familia.
+
+El control hacia los hijos era más estricto, nos preocupábamos de averiguar en donde se encontraban, que hacían, con quienes se llevaban y siempre tratando de inculcarles muchos valores y principios de vida, para que supieran comportarse con honestidad y transparencia en el futuro. Creo que ahora el ritmo tan agitado de la vida, no permite que se tengan esos mismos cuidados y la liberalidad en los actos y acciones, ya no permiten, ni dejan posibilidad de esa aparente intromisión que teníamos en nuestros hijos. La rebeldía es tan notoria con ellos, que ya no se puede decir nada, nos tildan de anticuados. ¿Qué va a pasar en el futuro? Pues, no sabemos, ni advertimos las reales consecuencias.
+
+Hernán Patricio Orcés Salvador
+
+No se debe olvidar el valor del Cuerpo de Bomberos de Quito
+===========================================================
+
+El apoyo continuo al Cuerpo de Bomberos y la prevención son esenciales para proteger a nuestra ciudad y sus barrios.
+--------------------------------------------------------------------------------------------------------------------
+
+![Bomberos trabajaron para apagar un incendio forestal este jueves 26 de septiembre en el Cerro Auki, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trabajo-de-los-bomeros-Cerro-Auqui.jpg)
+
+La llegada de la época lluviosa en Quito trae consigo un alivio temporal ante la amenaza de incendios forestales, pero no debemos olvidar el arduo trabajo realizado por el Cuerpo de Bomberos y otras instituciones durante los meses críticos de sequía. Estos valientes profesionales han enfrentado condiciones adversas, arriesgando sus vidas para proteger a la comunidad y preservar nuestros recursos naturales. Sin embargo, es crucial que este esfuerzo no se diluya con la llegada de las lluvias. La prevención debe seguir siendo una prioridad, y el apoyo institucional al Cuerpo de Bomberos de Quito es fundamental para garantizar que estén equipados y preparados para futuras emergencias.
+
+El trabajo preventivo es esencial para evitar que los incendios forestales se conviertan en desastres. En Ecuador, se estima que el 99.9% de los incendios son causados por actividades humanas. Esto subraya la necesidad de campañas educativas que informen a la población sobre prácticas seguras y responsables en áreas forestales. El **Cuerpo de Bomberos, junto con la Secretaría Nacional de Gestión de Riesgos**, ha implementado diversas iniciativas para sensibilizar a la ciudadanía sobre la importancia de prevenir incendios. Estas acciones deben ser continuas y no limitarse a momentos críticos.
+
+> El apoyo institucional es vital para que el Cuerpo de Bomberos pueda llevar a cabo su labor eficazmente. Esto incluye no solo recursos financieros, sino también capacitación y equipamiento adecuado. Durante el 2023, se reportaron 236 incendios forestales en Quito y este verano la cifra subió a más de 300. En total, los incendios forestales en Ecuador han arrasado más de 38 000 hectáreas, lo que demuestra que la amenaza sigue presente. 
+
+Las autoridades deben garantizar que los bomberos cuenten con las herramientas necesarias para responder rápidamente a estas emergencias. La implementación del **Plan de Prevención y Control de Incendios Forestales** es un paso positivo, pero su efectividad depende del compromiso sostenido del gobierno local y nacional.
+
+Es esencial recordar a las comunidades afectadas por los incendios, como el Barrio Bolaños. Estos barrios no solo sufren daños materiales; también enfrentan pérdidas emocionales y psicológicas significativas. La solidaridad ciudadana es crucial en estos momentos. Las campañas de reforestación y recuperación deben ser una prioridad, promoviendo la participación activa de los residentes en la restauración de sus entornos.
+
+La ciudadanía tiene un papel fundamental en la prevención de incendios forestales. Las comunidades pueden organizarse para limpiar áreas propensas a incendios y realizar talleres sobre prácticas seguras. Además, fomentar una cultura de denuncia ante actos irresponsables que puedan provocar incendios es crucial. La educación ambiental debe ser parte integral del currículo escolar y comunitario, asegurando que las futuras generaciones comprendan la importancia de cuidar nuestros bosques.
 
 Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?
 ================================================================
@@ -678,227 +1079,3 @@ El comunicado del funcionario tuvo lugar tras el bombardeo masivo en **Beirut** 
 En el ataque fue asesinado el máximo líder del movimiento miliciano, **Hasán Nasrala**, y el comandante del frente sur, Ali Karaki.
 
 En las últimas dos semanas, Israel ha lanzado una serie de ataques sin precedentes contra los principales bastiones de Hizbulá que dejan más de un **millón de muertos** y un número similar de desplazados del Líbano. **_Con información de EFE_**.
-
-Barcelona SC pierde a Javier Burrai por tiempo indefinido
-=========================================================
-
-Javier Burrai, uno de los capitanes de Barcelona SC, está lesionado.
---------------------------------------------------------------------
-
-![Javier Burrai en su último partido como titular en Barcelona SC en la segunda etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T200037.219.jpg)
-
-Las malas noticias para **Barcelona SC** no cesan. A su rendimiento intermitente en la cancha, ahora se suma la lesión de un jugador clave, el arquero **Javier Burrai**.
-
-El guardameta argentino, nacionalizado ecuatoriano, no fue parte de la nómina en el último partido ante Libertad debido a **molestias en su hombro**. Sin embargo, parece que dichas molestias se agravaron, y Burrai tardará más de lo esperado en volver a la acción.
-
-### Más noticias:
-
-* [Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC](https://www.elcomercio.com/deportes/jhon-espinoza-barcelona-sc-seleccion-ecuador.html "Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC")
-* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
-* [Javier Burrai pierde la titularidad en Barcelona SC](https://www.elcomercio.com/deportes/futbol/javier-burrai-pierde-la-titularidad-barcelona-sporting-club.html "Javier Burrai pierde la titularidad en Barcelona SC")
-
-Barcelona Sporting Club publicó en sus redes sociales el informe médico del jugador, detallando que sufre una inflamación del manguito rotador y una **lesión en la porción larga del bíceps braquial**.
-
-Aunque el club mencionó que Burrai está en tratamiento, no se especificó el tiempo de baja, por lo que aún **no hay una fecha tentativa para su regreso**.
-
-> 📄 Informe Médico: Javier Burrai 🩺  
->   
-> 💻 Todos los detalles: [https://t.co/n56ZQCmnBD](https://t.co/n56ZQCmnBD)[#BarcelonaSomosTodos](https://twitter.com/hashtag/BarcelonaSomosTodos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ZyjqbeMTcV](https://t.co/ZyjqbeMTcV)
-> 
-> — BARCELONA S.C. (@BarcelonaSC) [September 30, 2024](https://twitter.com/BarcelonaSC/status/1840892342204842115?ref_src=twsrc%5Etfw)
-
-Javier Burrai perdió la titularidad en Barcelona SC
----------------------------------------------------
-
-Aunque la **lesión de Javier Burrai** no afectará directamente los partidos de Barcelona SC, ya que perdió la titularidad hace un par de jornadas, lo cierto es que el arquero titular, Víctor Mendoza, no tendrá competencia por el puesto.
-
-El arquero argentino, que fue **seleccionado ecuatoriano**, comenzó la temporada 2024 como titular en la Liga Pro, Copa Libertadores, Sudamericana y Copa Ecuador.
-
-Incluso llegó a portar la banda de capitán en varios partidos. Sin embargo, **perdió tanto la capitanía y la titularidad** desde la sexta jornada de la segunda etapa de la Liga Pro.
-
-En lo que va del año, Javier Burrai disputó 28 partidos entre cuatro torneos diferentes. Pese a ser un arquero confiable, tuvo una temporada irregular, **recibiendo 32 goles**, una cifra inusual en su carrera con Barcelona Sporting Club.
-
-Dentro de lo positivo, **Burrai logró 10 vallas invictas** y recibió su primera convocatoria a la Selección de Ecuador, con la cual debutó en un amistoso contra Italia.
-
-Cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024
-==================================================================================
-
-El cierre parcial de la autopista General Rumiñahui se debe a trabajo de construcción.
---------------------------------------------------------------------------------------
-
-![Autopista General Rumiñahui tendrá un cierre parcial este 1 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2021/12/quito-2.png)
-
-Se cerrará parcialmente **autopista General Rumiñahui**, este martes 1 de octubre de 2024[.](https://es.wikipedia.org/wiki/Cant%C3%B3n_Rumi%C3%B1ahui)
-
-La **Prefectura de Pichincha** hizo este anuncio, la tarde de este lunes 30 de septiembre.
-
-### Más noticias:
-
-* [Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación](https://www.elcomercio.com/actualidad/solucion-vial-quito-valle-de-los-chillos-licitacion.html "Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación")
-* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
-
-El motivo del cierre parcial es la construcción del paso elevado en la avenida Lola Quintana.
-
-Esta avenida está ubicada a la altura del Puente 8 de la Autopista General Rumiñahui.
-
-La construcción de este paso elevado busca ser una solución vial para aliviar el tráfico entre Conocoto, Quito y el Valle de Los Chillos.
-
-Horario del cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024
-----------------------------------------------------------------------------------------------
-
-El cierre parcial será este martes 1 de octubre, de 14:00 a 16:00, en el sector del puente 8.
-
-El motivo es los trabajos de hormigonado en la construcción del puente elevado.
-
-Se cerrarán los dos carriles centrales internos, sentido Quito – Valle de Los Chillos.
-
-Los demás carriles estarán habilitados al tránsito vehicular.
-
-Con el nuevo paso a **desnivel**, los usuarios saldrán hacia el carril derecho de la autopista General Rumiñahui, en sentido Valle – Quito.
-
-Se espera que unos 4 500 usuarios diarios usen este paso a desnivel.
-
-La inversión en esta obra asciende a 2,3 millones de dólares.
-
-La entrega del puente está prevista para diciembre de 2024.
-
-Este es el país más caro de América Latina para vivir
-=====================================================
-
-Uruguay es el país de América Latina con mayor Producto Interno Bruto per cápita.
----------------------------------------------------------------------------------
-
-![Visitantes recorren el Mercado del Puerto en Montevideo, Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/09/Uruguay-montevideo-efe.jpg)
-
-Este 2024, [Uruguay](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html") se posiciona como el **país más caro para vivir** en **América Latina**, de acuerdo con Numbeo. Se trata de una plataforma que compila datos de usuarios sobre precios de bienes y servicio. Este informe considera varios factores, como el **costo de alimentos, vivienda, servicios y transporte.**
-
-### Más noticias
-
-* [Este es el país más económico de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html "https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html")
-* [Las cinco ciudades con la mejor vida nocturna](https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html "Las cinco ciudades con la mejor vida nocturna")
-* [Los 10 países más seguros para viajar en este 2024](https://www.elcomercio.com/actualidad/mundo/10-paises-seguros-2024.html "https://www.elcomercio.com/actualidad/mundo/10-paises-seguros-2024.html")
-
-Una publicación de la BBC señala que Uruguay es el país de América Latina con mayor P**roducto Interno Bruto per cápita**, de unos 22 000 dólares, y eso lo coloca en la categoría de **países de ingresos altos**, según la clasificación del **Banco Mundial**.
-
-En cada hogar uruguayo ingresan mensualmente unos 2 500 dólares en promedio, según el Instituto Nacional de Estadística. Pese a lo **alto de los salarios en la comparación regional**, los uruguayos sienten que vivir en su país es muy caro, indica la BBC en su nota informativa.
-
-Alto costo de bienes y servicios
---------------------------------
-
-Uno de los principales motivos para que Uruguay sea considerado el país más caro en América Latina es el alto **costo de los bienes y servicios.** Productos **básicos como la carne y el pan son más caros** en comparación con otros países. Esto impacta directamente en el **presupuesto de las familias uruguayas**.
-
-Sector inmobiliario
--------------------
-
-También experimenta un aumento en los precios. Alquilar un apartamento en Montevideo puede ser bastante costoso, **subió un 9% durante este último año.** La demanda de vivienda creció. Esto llevó a un incremento de los alquileres en las zonas más buscadas. Muchas familias deben destinar gran parte de sus ingresos al pago de la vivienda.
-
-Altos impuestos
----------------
-
-Otro factor que afecta son los altos impuestos en comparación con otros países de la región. Esto incluye **impuestos sobre la renta, el consumo y el patrimonio**. Los ciudadanos sienten el peso de estas cargas en sus finanzas diarias. Muchos cuestionan si los servicios que reciben son proporcionales a lo que pagan.
-
-Múltiples empleos
------------------
-
-La situación del mercado laboral también influye en el costo de vida. Aunque Uruguay tiene un **índice de desempleo relativamente bajo,** los **salarios no siempre son suficientes**. La brecha entre el costo de vida y los ingresos es un tema recurrente. Muchas personas se ven obligadas a trabajar en **múltiples empleos** para llegar a fin de mes.
-
-La producción agrícola en Uruguay es reconocida, pero enfrenta desafíos. Las sequías y otras condiciones climáticas afectan la producción. Esto puede llevar a un aumento en los precios de alimentos frescos.
-
-Dependencia de exportaciones
-----------------------------
-
-La dependencia de las exportaciones también afecta la economía local. Cuando los precios internacionales suben, los productos locales también se encarecen.
-
-Alto costo de vida
-------------------
-
-A pesar de los retos, Uruguay sigue siendo un lugar atractivo para vivir. La calidad de vida, la seguridad y la estabilidad política son factores que atraen a muchos. Sin embargo, el alto costo de vida es una realidad que enfrentan los uruguayos. Las familias deben adaptarse a un entorno económico cambiante. Las prioridades y decisiones de consumo se ven afectadas por esta situación.
-
-Ejército de Israel comienza su incursión terrestre en el Líbano
-===============================================================
-
-Los ataques israelíes en Líbano dejan casi 100 muertos en las primeras 24 horas.
---------------------------------------------------------------------------------
-
-![Más de un millón de personas han sido desplazadas en el Líbano tras los últimos ataques](https://www.elcomercio.com/wp-content/uploads/2024/09/israel-libano.jpg)
-
-El Ejército de **Israel** comenzó una **incursión terrestre** en la frontera del sur del **Líbano**, la madrugada de este martes 1 de octubre de 2024 (en Ecuador, noche del 30 de septiembre).
-
-La Fuerza Armada Israelí (IDF) confirmó el ataque a través de un comunicado oficial.
-
-### Más noticias
-
-* [Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá](https://www.elcomercio.com/actualidad/mundo/opiniones-divididas-sobre-muerte-lider-hezbola-hasan-nasrala.html "Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá")
-* [Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut](https://www.elcomercio.com/actualidad/mundo/israel-promete-acelerar-ataques-contra-hizbula-vuelve-bombardear-beirut.html "Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut")
-* [Netanyahu repite en Nueva York que Israel atacará a Hizbulá ‘hasta lograr objetivos’](https://www.elcomercio.com/actualidad/mundo/netanyahu-repite-nueva-york-israel-atacara-hizbula-hasta-lograr-objetivos.html "Netanyahu repite en Nueva York que Israel atacará a Hizbulá ‘hasta lograr objetivos’")
-
-“Hace unas horas, las Fuerzas de Defensa de Israel (FDI) iniciaron incursiones terrestres **limitadas, localizadas y selectivas**, basadas en información precisa, contra objetivos e infraestructuras terroristas de Hizbulá en el sur del Líbano”, señala el documento.
-
-La incursión terrestre está apoyada por la **fuerza aérea** y con artillería, que ya había sido lanzada en horas anteriores.
-
-Los nuevos ataques se desarrollan “en aldeas cercanas a la frontera”, que según las fuerzas israelíes, “representan una **amenaza inmediata** para las comunidades del norte de Israel”.
-
-El Gobierno israelí aprobó esta nueva fase de sus operaciones bélicas en el Líbano previa preparación de sus soldados “durante **varios meses**“, señala EFE.
-
-El Ejército también declaró varias comunidades, a escasos kilómetros de la divisoria con el Líbano, como “**zona militar cerrada**“, prohibiendo la entrada a cualquier persona.
-
-Esta incursión se ve precedida por una intensificación de los ataques por parte de **Hizbulá**, con alarmas anunciadas en varios sectores.
-
-El grupo chíi libanés emitió un comunicado horas atrás donde comunicaba que el blanco de sus ataques eran tropas israelíes despegadas en la frontera.
-
-Sin embargo, no se habían registrado reportes de ninguna incursión terrestre.
-
-Ataques dejan 95 fallecidos
----------------------------
-
-En la noche de este lunes, el Gobierno libanés confirmó que en las últimas **24 horas** ya se registran **95 muertos** y 172 heridos.
-
-La zona con más muertos fue el Valle de la Bekaa, en el este del Líbano, donde hubo 59 muertos y 65 heridos; mientras que en Nabateh, en el sur, hubo 16 muertos y 55 heridos.
-
-Estas cifras se suman a las más de mil personas que han muerto y alrededor de un millón han tenido que huir de sus casas en las últimas dos semanas ante la brutal campaña de bombardeos de Israel, dirigida principalmente contra el sur y el este del Líbano.
-
-Sebastián Beccacece compartió con técnicos de equipos ecuatorianos
-==================================================================
-
-Sebastián Becaccece está viviendo su primera experiencia como DT de una selección nacional.
--------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece compartiendo con los cuerpos técnicos de los equipos del fútbol ecuatoriano.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-30T190110.466.jpg)
-
-**Sebastián** **Beccacece**, director técnico de la Selección de Ecuador, invitó a los cuerpos técnicos de los clubes ecuatorianos de la Serie A a la Casa de la Selección para establecer un conversatorio con los integrantes de los equipos.
-
-En las instalaciones de la Federación Ecuatoriana de Fútbol, tanto el cuerpo técnico de la ‘Tri’ como el resto de los equipos compartieron ideas y experiencias con el objetivo de fortalecer el fútbol ecuatoriano desde la unión, mencionó la FEF en sus redes sociales.
-
-### Más noticias:
-
-* [(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina](https://www.elcomercio.com/deportes/seleccion-ecuador-incidentes-violencia-argentina-sub-16.html "(Video) Violencia empaña triunfo de la Selección de Ecuador Sub-16 sobre Argentina")
-* [Denil Castillo, una de las opciones de Beccacece para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/denil-castillo-opciones-beccacece-para-seleccion-de-ecuador.html "Denil Castillo, una de las opciones de Beccacece para la Selección de Ecuador")
-* [La Selección de Ecuador de Beccacece bloquea a Jhon Espinoza](https://www.elcomercio.com/deportes/jhon-espinoza-seleccion-ecuador-convocatoria.html "La Selección de Ecuador de Beccacece bloquea a Jhon Espinoza")
-
-Sebastián Beccacece y los DT’s de Ecuador
------------------------------------------
-
-Aunque fueron invitados todos los cuerpos técnicos, algunos no pudieron asistir por distintos motivos, como el calendario de partidos. Este fue el caso de **Ever Hugo Almeida** y Paul Vélez, quienes cerraban el último partido de la fecha ocho de la Liga Pro.
-
-Otros ausentes fueron los técnicos de Barcelona SC, **Ariel Holan**, quien estuvo representado por delegados, y Leonel Álvarez de Emelec.
-
-Entre los personajes más destacados en el evento estaban **Pablo ‘Vitamina’ Sánchez** (Liga de Quito), Marcelo Zuleta (El Nacional), Santiago Escobar (Orense) y Jorge Célico (Universidad Católica), entre otros.
-
-Durante la charla, además de recibir los puntos de vista de los diferentes entrenadores que militan en el país, **Sebastián** **Beccacece** explicó la metodología de trabajo de la selección mayor. También se realizó un recorrido por la casa del fútbol ecuatoriano.
-
-> El DT Sebastián Beccacece invitó a la Casa de la Selección a los cuerpos técnicos de todos los clubes de la Serie A del fútbol ecuatoriano. Un espacio para compartir ideas, experiencias y fortalecer el fútbol ecuatoriano desde la unión. [#LaTriNosUne](https://twitter.com/hashtag/LaTriNosUne?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/KD6Fae2lSu](https://t.co/KD6Fae2lSu)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [September 30, 2024](https://twitter.com/FEFecuador/status/1840858261026943433?ref_src=twsrc%5Etfw)
-
-Ecuador juega de vuelta las eliminatorias
------------------------------------------
-
-La reunión se llevó a cabo en la previa de una fecha FIFA de octubre, donde la **Selección de Ecuador** jugará nuevamente las Eliminatorias Sudamericanas.
-
-Su primer compromiso será el jueves 10 de octubre, cuando la ‘Tri’ reciba a Paraguay, dirigido por el exentrenador **Gustavo Alfaro**, en el Estadio Rodrigo Paz Delgado a las 16:00.
-
-Posteriormente, para la décima fecha del proceso eliminatorio, Ecuador viajará a Montevideo para enfrentarse a **Uruguay** el martes 15 de octubre a las 18:30 (hora Ecuador).
-
-Se prevé que Sebastián Beccacece anuncie su lista de convocados hasta el viernes 4 de octubre.
-
-Actualmente, la **Selección de Ecuador ocupa la cuarta posición**, con once unidades en ocho fechas. El podio lo completan Argentina con 18 puntos, Colombia con 16 y Uruguay con 15.
