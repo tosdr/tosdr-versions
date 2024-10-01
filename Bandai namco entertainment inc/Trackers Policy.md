@@ -1,4 +1,4 @@
-![](/images/bnlogo.svg?dt=20241001150000)
+![](/images/bnlogo.svg?dt=20241001210000)
 
 * * *
 
@@ -28,4 +28,4 @@ For more information on how we collect, store, and use your information, please 
 
 * * *
 
-![](/images/gfoot_cpyrgt.svg?dt=20241001150000)
+![](/images/gfoot_cpyrgt.svg?dt=20241001210000)
