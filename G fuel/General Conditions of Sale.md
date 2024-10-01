@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/573/assets/fearfest-search-icon-black.png?v=70690630930442313831727289350)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/578/assets/fearfest-search-icon-black.png?v=70690630930442313831727802434)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/573/assets/fearfest-account-icon.png?v=50085873134992036791727289350) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/573/assets/fearfest-search-icon-black.png?v=70690630930442313831727289350) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/573/assets/bloody-hamburger-menu.png?v=86003260733675859121727289350) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/573/assets/fearfest-cart-icon.png?v=54831520779337061261727289350) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-account-icon.png?v=50085873134992036791727802434) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-search-icon-black.png?v=70690630930442313831727802434) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/578/assets/bloody-hamburger-menu.png?v=86003260733675859121727802434) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-cart-icon.png?v=54831520779337061261727802434) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -549,7 +549,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/573/assets/app-store-badge.svg?v=123926581890561309811727289350)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/573/assets/google-play-badge.png?v=132395384020293405351727289350)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/578/assets/app-store-badge.svg?v=123926581890561309811727802434)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/578/assets/google-play-badge.png?v=132395384020293405351727802434)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -564,12 +564,6 @@ The statements contained in this website have not been evaluated by the Food and
 [![Customer Reviews](//www.shopperapproved.com/seal/26044/1799-sa-seal.gif)](https://www.shopperapproved.com/reviews/GFUEL)   [![ADA Site Compliance-Accessibility Policy](https://www.adasitecompliance.com/img/APolicy.png)](https://adasitecompliancetools.com/ap.asp?h=GFUELG)[![G Fuel, LLC BBB Business Review](https://seal-newyork.bbb.org/logo/rbhzbul/bbb-132097.png)](https://www.bbb.org/us/ny/hauppauge/profile/vitamins-and-supplements/g-fuel-llc-0121-132097/#sealclick)
 
 "Close (esc)"
-
-4.8
-
-Rated 4.8 out of 5 stars
-
-15 Reviews
 
 4.4
 
@@ -624,5 +618,11 @@ Rated 4.6 out of 5 stars
 Rated 4.7 out of 5 stars
 
 621 Reviews
+
+4.4
+
+Rated 4.4 out of 5 stars
+
+405 Reviews
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/bloood-2.png?v=1727209813)
