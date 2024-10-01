@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/Webinar-MSP-Enablement-Series-Mastering-Your-MSPs-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/K365-Webinar-Executing-Layered-Security-Strategies-300x200.png)
     
-    MSP Panel: Lessons Learned as a TruMethods Peer Member
+    Kaseya Demo Day: Executing Layered Security Strategies With Ease
     
-    October 9
+    October 3
     
     [View All Events](https://www.kaseya.com/events/)
     
