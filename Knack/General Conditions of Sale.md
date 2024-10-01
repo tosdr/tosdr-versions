@@ -58,63 +58,57 @@ Try Knack free for 14 days. No credit card required. Never Pay per User.
 
 Choose Plan Types
 
-$49
+$59
 
 $19\*
 
-For individual users and small teams
+**For individual users and small teams**
 
-**Unlimited Users**
+Unlimited Users / Roles
 
-No Record Limits Per App
+Unlimited Tables, Fields, Pages
 
-20,000 Database Records
+Unlimited Emails / Forms
 
-2 GB File Storage
+AI App Builder
 
-1k API Calls/Day
+20k Database Records
 
-Support Options: AI, Knowledge Base, Forum, Email
+Valid for the first 3 months and new customers only.
 
-\*Valid for the first 3 months and new customers only.
-
-$99
+$119
 
 $49\*
 
-For businesses building more complex apps
+**For businesses building more complex apps**
 
-**Unlimited Users**
+All the features of Starter, plus:
 
-No Record Limits Per App
+Scheduled Tasks
 
-50,000 Database Records
+Custom Branding
 
-10 GB File Storage
+Ecommerce Payments
 
-5k API Calls/Day
+Maps
 
-All Support Options in Starter with a 48-hour response time
+50k Database Records
 
-\*Valid for the first 3 months and new customers only.
+Valid for the first 3 months and new customers only.
 
-For companies looking to transform their business ops.
+**For companies looking to transform their business ops.**
 
-**Unlimited Users**
+All the features of Pro, plus:
 
-No Record Limits Per App
+App Restores
 
-125,000 Database Records
+Advanced SSO
 
-50 GB File Storage
+IP Blocking
 
-10k API Calls/Day
+125k Database Records
 
-All Support Options in Pro with a 24-Hour Response Time
-
-**Unlimited Users**
-
-No Record Limits Per App
+All the features of Corporate, plus
 
 250,000 Database Records
 
@@ -122,11 +116,9 @@ No Record Limits Per App
 
 25k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+50 Apps
 
-**Unlimited Users**
-
-No Record Limits Per App
+All features of Corporate, plus
 
 500,000 Database Records
 
@@ -134,11 +126,9 @@ No Record Limits Per App
 
 50k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+100 Apps
 
-**Unlimited Users**
-
-No Record Limits Per App
+150 Apps
 
 1.5 Million Database Records
 
@@ -146,65 +136,59 @@ No Record Limits Per App
 
 100k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+150 apps
 
-$99
+$119
 
 $49\*
 
-For businesses building more complex apps
+**For businesses building more complex apps**
 
-**Unlimited Users**
+All the features of Starter, plus:
 
-No Record Limits Per App
+Scheduled Tasks
 
-50,000 Database Records
+Custom Branding
 
-10 GB File Storage
+Ecommerce Payments
 
-5k API Calls/Day
+Maps
 
-All Support Options in Starter with a 48-hour response time
+50k Database Records
 
-\*Valid for the first 3 months and new customers only.
+Valid for the first 3 months and new customers only.
 
-$49
+$59
 
 $19\*
 
-For individual users and small teams
+**For individual users and small teams**
 
-**Unlimited Users**
+Unlimited Users / Roles
 
-No Record Limits Per App
+Unlimited Tables, Fields, Pages
 
-20,000 Database Records
+Unlimited Emails / Forms
 
-2 GB File Storage
+AI App Builder
 
-1k API Calls/Day
+20k Database Records
 
-Support Options: AI, Knowledge Base, Forum, Email
+Valid for the first 3 months and new customers only.
 
-\*Valid for the first 3 months and new customers only.
+**For companies looking to transform their business ops.**
 
-For companies looking to transform their business ops.
+All the features of Pro, plus:
 
-**Unlimited Users**
+App Restores
 
-No Record Limits Per App
+Advanced SSO
 
-125,000 Database Records
+IP Blocking
 
-50 GB File Storage
+125k Database Records
 
-10k API Calls/Day
-
-All Support Options in Pro with a 24-Hour Response Time
-
-**Unlimited Users**
-
-No Record Limits Per App
+All the features of Corporate, plus
 
 250,000 Database Records
 
@@ -212,11 +196,9 @@ No Record Limits Per App
 
 25k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+50 Apps
 
-**Unlimited Users**
-
-No Record Limits Per App
+All features of Corporate, plus
 
 500,000 Database Records
 
@@ -224,11 +206,9 @@ No Record Limits Per App
 
 50k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+100 Apps
 
-**Unlimited Users**
-
-No Record Limits Per App
+150 Apps
 
 1.5 Million Database Records
 
@@ -236,7 +216,7 @@ No Record Limits Per App
 
 100k API Calls/Day
 
-All Support Options in Pro with a 24-Hour Response Time
+150 apps
 
 Choose Plan Types
 
@@ -274,9 +254,7 @@ View a history of each change to your records, including the change author, IP a
 
 We can restore your database records and even your app interface in case it’s accidentally deleted or corrupted. Included free with corporate & plus plans.
 
-Add blocks of additional records without upgrading your plan.
-
-Add additional file storage capacity without upgrading your plan.
+Add blocks of additional records and storage without upgrading your plan.
 
 Start building with Knack today – no credit card required. You can build a web app in just a few minutes by leveraging AI, templates, or Knack’s extensive resource library.
 
@@ -288,7 +266,9 @@ Nope, there are no fees or contracts with Knack. Create your trial account in se
 
 Absolutely! You can publish your app to your own website by using the embed features. Knack also provides a domain at knack.com for you to use.
 
-You can upgrade, downgrade, or cancel your account at any time. Any upgrades or downgrades are automatically pro-rated for the next month.
+On monthly plans, you can upgrade, downgrade, or cancel your account at any time. Any upgrades or downgrades are automatically pro-rated for the next month.
+
+On annual plans, you cannot downgrade plans or change to monthly until your renewal date. Our annual plans offer deep savings of two free months which is 17% off the monthly subscription price.
 
 Our plans are designed to be very responsive in almost all use cases. Because these plans do share cloud resources, it is possible that performance can be affected by heavy bandwidth or processing usage. Please inquire about our enterprise plans if you have performance concerns or need dedicated resources.
 
