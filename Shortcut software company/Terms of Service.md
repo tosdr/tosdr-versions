@@ -289,7 +289,7 @@ Learn
 
 Resources
 
-[Help Center](https://help.shortcut.com/)[Status](https://status.shortcut.com/)[Release Notes](https://shortcut.com/release-notes)[Customers](https://shortcut.com/customer-stories)[Community](https://shortcut.com/community)[Security](https://shortcut.com/security)[Our Branding](https://shortcut.com/branding)[Request a Demo](https://shortcut.com/demo)
+[Help Center](https://help.shortcut.com/)[Status](https://status.shortcut.com/)[Release Notes](https://shortcut.com/release-notes)[Customers](https://shortcut.com/customer-stories)[Startup Program](https://shortcut.com/startups)[Community](https://shortcut.com/community)[Security](https://shortcut.com/security)[Our Branding](https://shortcut.com/branding)[Request a Demo](https://shortcut.com/demo)
 
 Company
 
