@@ -93,6 +93,17 @@ Because it's semi-private the Nginx logs are disabled.
 
   
 
+**Banner:**
+-----------
+
+On every service a (FOSS - BSD-3-Clause - and unminified) banner.js script is injected, this banner is entirely acting client-side.  
+  
+**This banner isn't and will never be used to track you.**  
+  
+If you click the close button on the banner or enter the code, a cookie named `bannerClosed_service.pussthecat.org` (replace `service.pussthecat.org` with the actual URL) is created and stored in your browser. This cookie is specific to the subdomain and is only used so that the banner doesn't re-open if you have it. This "close state logic" is all happening inside your browser and is never sent to the server.
+
+  
+
 **Status page:**
 ----------------
 
