@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [ELDEN RING Shadow of the Erdtree - Start Your New Adventure Right with These Essential Guides](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-start-your-new-adventure-right-these-essential)
-* [Boruto Uzumaki (Karma Progression) is now available in NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS](https://en.bandainamcoent.eu/naruto/news/boruto-uzumaki-karma-progression-now-available-naruto-x-boruto-ultimate-ninja-storm)
+* [TEKKEN 8 - Patch 1.08](https://en.bandainamcoent.eu/tekken/news/tekken-8-patch-108)
+* [Play Unknown 9: Awakening’s Interactive Experience](https://en.bandainamcoent.eu/unknown-9/news/play-unknown-9-awakenings-interactive-experience)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
@@ -313,14 +313,14 @@ Go to [Our support](https://service.bandainamcoent.eu/)
 * [Logo Facebook](https://www.facebook.com/BandaiNamcoEU/)
 * [Logo YouTube](https://www.youtube.com/user/NamcoBandaiGamesEU)
 
+* [Legal documentation](https://en.bandainamcoent.eu/legal-documentation)
 * [Legal information](https://en.bandainamcoent.eu/legal-notice)
-* [Conditions of use](https://en.bandainamcoent.eu/terms-of-use)
-* [Privacy policy](https://en.bandainamcoent.eu/privacy-policy)
-* [Club! terms and conditions](https://en.bandainamcoent.eu/club-cgu)
+* [Reservation of text/data mining rights](https://en.bandainamcoent.eu/data-mining)
+* [Illicit content report](https://en.bandainamcoent.eu/illicit-content-report)
 * [Cookies policy](https://en.bandainamcoent.eu/cookies-policy)
 * [Management of cookies](#cookie_gestion)
 * [Tax strategy](https://static.bandainamcoent.eu/content/BANDAI-NAMCO-UK-GROUP_Tax-Strategy.pdf)
 * [Modern slavery act](https://www.bandainamco.co.jp/en/sustainability/human-rights/index.html)
 * [Video policy](https://static.bandainamcoent.eu/content/BANDAI_NAMCO_Entertainment_Video_Policy_(20220124).pdf)
 
-© 2010 - _2024_ Bandai Namco Europe S.A.S
+© 2010 - _2024_ Bandai Namco Entertainment Europe S.A.S
