@@ -1,3 +1,7 @@
+[Sephora Canada: Get up to 50% off hair care must-haves from Amika, Vegamour and more + 2% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/sephora?store=sephora&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
