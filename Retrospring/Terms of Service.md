@@ -1,7 +1,6 @@
 [](https://retrospring.net/ "Retrospring")Toggle navigation
 
 * [Sign in](https://retrospring.net/sign_in)
-* [Sign up](https://retrospring.net/sign_up)
 
 Retrospring is shutting down on 1st March, 2025 [Read more](https://blog.retrospring.net/retrospring-is-shutting-down-on-1st-march-2025)
 
