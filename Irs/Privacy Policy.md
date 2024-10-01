@@ -210,7 +210,6 @@ Information Menu
 
 * [Overview](https://www.irs.gov/refunds)
 * [Where's My Refund](https://www.irs.gov/wheres-my-refund)
-* [What to Expect](https://www.irs.gov/refunds/what-to-expect-for-refunds-this-year)
 * [Direct Deposit](https://www.irs.gov/refunds/get-your-refund-faster-tell-irs-to-direct-deposit-your-refund-to-one-two-or-three-accounts)
 * [Reduced Refunds](https://www.irs.gov/taxtopics/tc203)
 * [Amend Return](https://www.irs.gov/filing/file-an-amended-return)
