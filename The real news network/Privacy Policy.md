@@ -76,12 +76,12 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [Can the machinists save Boeing from its management?](https://therealnews.com/can-the-machinists-save-boeing-from-its-management)
-* [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 
 Close
 
@@ -140,12 +140,12 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [Can the machinists save Boeing from its management?](https://therealnews.com/can-the-machinists-save-boeing-from-its-management)
-* [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 
 [Skip to content](#main)
 
