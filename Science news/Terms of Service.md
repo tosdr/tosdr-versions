@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [The fruit fly revolutionized biology. Now it’s boosting science in Africa](https://www.sciencenews.org/article/fruit-fly-biology-africa-research)
+            
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")5 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Bird nests made with a toxic fungus seem to fend off attacking ants](https://www.sciencenews.org/article/bird-nests-toxic-fungus-ant-attacks)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")2 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")8 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [‘Night Magic’ invites you to celebrate the living wonders of the dark](https://www.sciencenews.org/article/night-magic-dark-book-review)
             
             By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 27, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [This fish has legs — and it uses them for more than just walking](https://www.sciencenews.org/article/fish-legs-taste-prey-sea-robin)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 26, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -139,6 +139,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Why Hurricane Helene was so devastating](https://www.sciencenews.org/article/hurricane-helene-devastation-explainer)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [How rapid intensification spawned two monster hurricanes in one week](https://www.sciencenews.org/article/rapid-intensification-hurricanes-helene)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A thousands-year-old log demonstrates how burying wood can fight climate change](https://www.sciencenews.org/article/burying-log-climate-change)
             
             By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")September 26, 2024
-            
-        * [Earth](https://www.sciencenews.org/topic/earth)
-            
-            ### [Reactive dust from Great Salt Lake may have health consequences](https://www.sciencenews.org/article/salt-lake-dust-health-consequences)
-            
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")September 26, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
