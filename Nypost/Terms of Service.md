@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Death toll triples in Asheville area after Hurricane Helene guts North Carolina: 'There were bodies in the trees'](https://nypost.com/2024/09/30/us-news/death-toll-triples-in-asheville-area-after-hurricane-helene-guts-north-carolina/)
+[Israel begins ground invasion of Lebanon to take out Hezbollah outposts](https://nypost.com/2024/09/30/world-news/israel-begins-ground-invasion-of-lebanon-against-hezbollah/)
 
 Terms Of Use
 ============
