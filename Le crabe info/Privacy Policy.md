@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 221 utilisateurs actifs
+##### 702 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Pourquoi la navigation privée n’est pas si privée ? 5 idées fausses (et dangereuses)](https://lecrabeinfo.net/pourquoi-la-navigation-privee-nest-pas-si-privee-5-idees-fausses-et-dangereuses.html)
 * [Comment vider le cache dans le navigateur Edge ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-edge.html)
 * [Comment vider le cache dans le navigateur Firefox ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-firefox.html) 
-* [Paint 3D, c’est fini : Microsoft met fin à l’application qui devait remplacer Paint](https://lecrabeinfo.net/paint-3d-cest-fini-microsoft-met-fin-a-lapplication-qui-devait-remplacer-paint.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 527 membres
-* 905 articles
-* 26 601 commentaires
+* 68 528 membres
+* 906 articles
+* 26 602 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
