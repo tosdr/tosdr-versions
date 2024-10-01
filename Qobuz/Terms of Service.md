@@ -1216,6 +1216,7 @@ XANDRIE SA reserves the right to cancel or refuse any order from a Customer with
 * [Streaming subscription plans](https://www.qobuz.com/gb-en/music/streaming/offers)
 * [Qobuz Duo](https://www.qobuz.com/gb-en/music/streaming/offers/duo)
 * [Qobuz Family](https://www.qobuz.com/gb-en/music/streaming/offers/household)
+* [Qobuz Student](https://www.qobuz.com/gb-en/music/streaming/offers/student)
 * [Our ecosystem](https://www.qobuz.com/gb-en/discover/apps-partners)
 * [Give Qobuz](https://www.qobuz.com/gb-en/offer-qobuz)
 * [Discover the high quality sound](https://www.qobuz.com/gb-en/audio-quality)
