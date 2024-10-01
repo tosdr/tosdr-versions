@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/photography-calvin-freeman-feature.jpg)
+
+[](https://theinspirationgrid.com/bleed-atmospheric-photo-series-by-calvin-freeman/)
+
+### Bleed: Atmospheric Photo Series by Calvin Freeman
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-william-dalebout-feature.jpg)
+
+[](https://theinspirationgrid.com/illustrations-by-william-dalebout/)
+
+### Cool Illustrations by William Dalebout
+
 ![](https://inspgr.id/app/uploads/2024/09/design-rebel-prints-feature.jpg)
 
 [](https://theinspirationgrid.com/rebel-prints-the-poster-rex-manifesto-by-markus-lange-lars-harmsen/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/delicate-illustrations-by-xnj/)
 
 ### Delicate Illustrations by XNJ
-
-![](https://inspgr.id/app/uploads/2024/09/branding-the-fabric-museum-feature.jpg)
-
-[](https://theinspirationgrid.com/fabric-museum-a-rebrand-art-installation-project-by-jocelyn-zhao/)
-
-### Fabric Museum: A Rebrand & Art Installation Project by Jocelyn Zhao
-
-![](https://inspgr.id/app/uploads/2024/09/product-design-altar-one-feature.jpg)
-
-[](https://theinspirationgrid.com/altar-i-keyboard-by-electronic-materials-office/)
-
-### Altar I Keyboard by Electronic Materials Office
 
 Awesome products for creatives
 ------------------------------
