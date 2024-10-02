@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/58c637a3-9feb-40e9-a9dc-c2dd95edbc07/20241002T000550/58c637a3-9feb-40e9-a9dc-c2dd95edbc07_16x9.jpg) ![](https://media.king5.com/assets/KING/images/58c637a3-9feb-40e9-a9dc-c2dd95edbc07/20241002T000550/58c637a3-9feb-40e9-a9dc-c2dd95edbc07_360x203.jpg)](https://www.king5.com/article/news/local/new-grant-allow-more-washington-nurses-take-sexual-assault-nurse-examiner-training/281-768d6b03-4614-42ef-89cc-20d881d32025)
+    *  [![](https://media.king5.com/assets/KING/images/b6c5f860-8fde-45ca-a9e1-c46874255bc3/20241001T180149/b6c5f860-8fde-45ca-a9e1-c46874255bc3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6c5f860-8fde-45ca-a9e1-c46874255bc3/20241001T180149/b6c5f860-8fde-45ca-a9e1-c46874255bc3_360x203.jpg)](https://www.king5.com/article/news/crime/bellevue-police-searching-armed-robbery-suspects/281-d576483c-1904-4e8c-8c51-4554a0903de7)
         
-        #### [New grant will allow more Washington nurses to take Sexual Assault Nurse Examiner training](https://www.king5.com/article/news/local/new-grant-allow-more-washington-nurses-take-sexual-assault-nurse-examiner-training/281-768d6b03-4614-42ef-89cc-20d881d32025)
+        #### [Bellevue police asking residents to 'stay vigilant' after armed robbery of gas station](https://www.king5.com/article/news/crime/bellevue-police-searching-armed-robbery-suspects/281-d576483c-1904-4e8c-8c51-4554a0903de7)
         
-    *  [![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_360x203.jpg)](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+    *  [![](https://media.king5.com/assets/KING/images/ece2b5dd-ae85-4580-b773-0dc872b69fc2/20241001T121301/ece2b5dd-ae85-4580-b773-0dc872b69fc2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ece2b5dd-ae85-4580-b773-0dc872b69fc2/20241001T121301/ece2b5dd-ae85-4580-b773-0dc872b69fc2_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-public-schools-superintendent-pay-raise/281-cb09c30c-edf4-43d2-8b7a-edc1e8b30101)
         
-        #### [Attempted ATM theft at Seattle Walgreens leaves significant damage behind](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
+        #### [Seattle Public Schools approves nearly $25K pay raise for superintendent](https://www.king5.com/article/news/local/seattle/seattle-public-schools-superintendent-pay-raise/281-cb09c30c-edf4-43d2-8b7a-edc1e8b30101)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+58°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
