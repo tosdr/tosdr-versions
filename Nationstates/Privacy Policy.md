@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [YN's soldier describes life as a POW… (39)](https://forum.nationstates.net/viewtopic.php?t=556011&f=25&view=unread#unread ""YN's soldier describes life as a POW under AN's captivity." (39 posts)")
-* [EOA Summer Olympiad 2024 (Live Coverage) (35)](https://forum.nationstates.net/viewtopic.php?t=555991&f=7&view=unread#unread ""EOA Summer Olympiad 2024 (Live Coverage)" (35 posts)")
-* [Islamic Discussion Thread ٥: Free Taj… (11,752)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,752 posts)")
-* [Using the AN's flag, how do they deal… (8,152)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,152 posts)")
+* [AL does something to YL (88)](https://forum.nationstates.net/viewtopic.php?t=555977&f=25&view=unread#unread ""AL does something to YL" (88 posts)")
+* [Would you chill with AU¿ (1,304)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,304 posts)")
+* [Guess Who BN Is! (4,898)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,898 posts)")
+* [Ukrainian War VII: Everything has a p… (5,977)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,977 posts)")
 
 Advertisement
 
