@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Safety
+
+### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
+
 [Honesty
 
 ### Winning elections with voices of truth](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1001/Winning-elections-with-voices-of-truth "Winning elections with voices of truth")
@@ -99,10 +103,6 @@ Recent Stories
 [Trust
 
 ### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
-
-[Community
-
-### In mountainous North Carolina, residents are the first responders after Hurricane Helene](https://www.csmonitor.com/Environment/2024/1001/hurricane-helene-north-carolina-floods "In mountainous North Carolina, residents are the first responders after Hurricane Helene")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 30, 2024
+October 01, 2024
 
-News at humanity’s doorstep
+Israel’s guiding principle
 
-Preparing the Daily means making decisions about story order that imply a kind of hierarchy. Some days that’s hard.Today, editors talked about Lebanon, where airstrikes have leveled residential towers, threatening to widen a conflict. About fast-rising waters in the mountains of the U.S. South. About stories we can’t yet get to, such as flooding in Nepal.It’s impossible to apportion empathy, or to rank where understanding is needed most. We do our best, over time. We strategize to get into position to report with care. There is no hierarchy of heart when all of humanity is close to home.
+“Escalate to deescalate.” That is a key idea in today’s story by Christa Case Bryant and Anna Mulrine Grobe. It is the principle behind Israel’s invasion of Lebanon to dismantle Hezbollah. It is the principle behind the devastation in Gaza. It is now clearly Israel’s guiding principle post-Oct. 7, mirroring the United States’ reaction to 9/11. Will it make Israel safer? Or will it spawn new cycles of violence? The answer will reverberate globally. Today, we look at Iran’s response, America’s own tough decisions, and whether Israel knows where this new stage of the war is going.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
+
 [### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
 
 [### Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?](https://www.csmonitor.com/USA/Society/2024/1001/Georgia-Abortion-Ban-6-weeks-Supreme-Court "Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?")
-
-[### Claudia Sheinbaum takes the presidential oath in Mexico. Now the hard work begins.](https://www.csmonitor.com/World/Americas/2024/1001/Claudia-Steinbaum-Mexico-first-female-president "Claudia Sheinbaum takes the presidential oath in Mexico. Now the hard work begins.")
 
 * * *
 
