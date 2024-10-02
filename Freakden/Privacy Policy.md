@@ -110,16 +110,16 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 
 #### Newest Posts
 
-* [Hot Blonde](https://www.freakden.com/pin/hot-blonde/)
-* [Thought?](https://www.freakden.com/pin/thought-2/)
-* [My dick](https://www.freakden.com/pin/my-dick-141/)
-* [Andie](https://www.freakden.com/pin/andie/)
-* [Blonde BBC gangbang art](https://www.freakden.com/pin/blonde-bbc-gangbang-art/)
-* [Black findom goddess](https://www.freakden.com/pin/black-findom-goddess/)
-* [Can we play a little?](https://www.freakden.com/pin/can-we-play-a-little/)
-* [Pay pig goddess makes you go broke beating off](https://www.freakden.com/pin/pay-pig-goddess-makes-you-go-broke-beating-off/)
-* [Sissy Ass Phyllis](https://www.freakden.com/pin/sissy-ass-phyllis-3/)
-* [Paypigs, subs and financial domination video chat stream](https://www.freakden.com/pin/paypigs-subs-and-financial-domination-video-chat-stream/)
+* [I’m looking for a lifestyle control arrangement, love to have a slave/Sissy who is aroused by feet. My domination style is to control daily life tasks and give punishments when disobeyed. I will reward you for doing well too. Pm now if you are interested. Kik:@vibi12n, Telegram @Vaness654](https://www.freakden.com/pin/im-looking-for-a-lifestyle-control-arrangement-love-to-have-a-slave-sissy-who-is-aroused-by-feet-my-domination-style-is-to-control-daily-life-tasks-and-give-punishments-when-disobeyed-i-will-rewa-2/)
+* [I’m looking for a lifestyle control arrangement, love to have a slave/Sissy who is aroused by feet. My domination style is to control daily life tasks and give punishments when disobeyed. I will reward you for doing well too. Pm now if you are interested kik:@vibi12n, Telegram @Vaness654](https://www.freakden.com/pin/im-looking-for-a-lifestyle-control-arrangement-love-to-have-a-slave-sissy-who-is-aroused-by-feet-my-domination-style-is-to-control-daily-life-tasks-and-give-punishments-when-disobeyed-i-will-rewa/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-7/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-6/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-5/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-4/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-3/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked-2/)
+* [Jacob Goforth Naked](https://www.freakden.com/pin/jacob-goforth-naked/)
+* [Every wife has “those” special shoes. These are mine. What do you think?](https://www.freakden.com/pin/every-wife-has-those-special-shoes-these-are-mine-what-do-you-think/)
 
 ×
 
