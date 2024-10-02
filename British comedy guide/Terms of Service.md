@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Auf Wiedersehen, Pet](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/auf_wiedersehen_pet_s2_b.jpg "Auf Wiedersehen, Pet")](https://www.comedy.co.uk/quiz/326/) Quiz
+
+[British Comedy Quiz #326](https://www.comedy.co.uk/quiz/326/)
+
 [![Faulty Towers The Dining Experience](https://cdn.comedy.co.uk/images/library/misc/300x200/f/faulty_towers_dining_experience.jpg "Faulty Towers The Dining Experience")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-56/) Live
 
 [Faulty Towers The Dining Experience, Chris Cantrill, Katie Norris - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-56/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Ola Labib](https://cdn.comedy.co.uk/images/library/people/300x200/o/ola_labib_2024.jpg "Ola Labib")](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/) Live
 
 [First Gig, Worst Gig: Ola Labib](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/)
-
-[![Rob Copland](https://cdn.comedy.co.uk/images/library/people/300x200/r/rob_copland_gimme_everything.jpg "Rob Copland")](https://www.comedy.co.uk/live/features/laugh-tracks-rob-copland/) Live
-
-[Laugh Tracks: Rob Copland is hardcore. You know the score.](https://www.comedy.co.uk/live/features/laugh-tracks-rob-copland/)
 
 #### Subscribe to our newsletters
 
