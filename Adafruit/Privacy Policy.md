@@ -75,6 +75,14 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Demo Shot of the Prop Maker Feather Lego.](https://cdn-shop.adafruit.com/230x173/6054-00.jpg)[Adafruit Feather Mount for LEGO-Compatible Brick Systems
+    
+    $1.50](https://www.adafruit.com/product/6054)
+    
+    ![Angle Shot of the Raspberry Pi AI Camera.](https://cdn-shop.adafruit.com/230x173/6009-00.jpg)[Raspberry Pi AI Camera with Sony IMX500
+    
+    $70.00](https://www.adafruit.com/product/6009)
+    
     ![Demo Shot of the Lego Slide Switch.](https://cdn-shop.adafruit.com/230x173/6053-00.jpg)[Slide Switch Mount for LEGO-Compatible Brick Systems
     
     $0.95](https://www.adafruit.com/product/6053)
@@ -82,14 +90,6 @@ Search
     ![Angled shot of LED strip in a spiral, emitting pink and blue colors.](https://cdn-shop.adafruit.com/230x173/6016-00.jpg)[Adafruit NeoPixel Silicone Bead LED Strip - 180 LEDs per Meter
     
     $24.95](https://www.adafruit.com/product/6016)
-    
-    ![Video of double-sided LED strip with rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5985-00.jpg)[Adafruit Double-Sided Emitter NeoPixel LED Strip - 120 LEDs/m
-    
-    $29.50](https://www.adafruit.com/product/5985)
-    
-    ![Angled shot of white, square-shaped dev board.](https://cdn-shop.adafruit.com/230x173/6042-00.jpg)[LANA TNY - CH32V203 mini microcontroller board by Phyx
-    
-    $6.50](https://www.adafruit.com/product/6042)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing”
+“ I don't think there's anything like saving someone's life to bring you satisfaction and happiness”
 
-[René Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[Stephanie Kwolek](http://en.wikipedia.org/wiki/Stephanie_Kwolek)
 
 [](https://www.adafruit.com/about)
 
