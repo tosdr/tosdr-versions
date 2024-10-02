@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/standing-rock-veteranen-vragen-vergiffenis/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/2016-van-wond-naar-meesterschap/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
