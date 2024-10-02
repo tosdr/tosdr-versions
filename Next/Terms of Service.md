@@ -1,6 +1,6 @@
 5.38.15
 
-1727858063638
+1727879801842
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.15.0
 
-1727858212880
+1727880343314
 
- Next Terms & Conditions | T&C's | Next Official Site                                  
+     Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727858915559
+1727880385099
 
 You need to enable JavaScript to run this app.
 
@@ -2576,7 +2576,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727858150246
+1727880007541
 
 ### Our Social Networks
 
@@ -2619,7 +2619,7 @@ Help
 * [Website Accessibility Policy](https://zendesk.next.co.uk/hc/en-gb/articles/4407501488913)
 * [Accessibility In Our Stores](https://www.accessable.co.uk/organisations/next)
 * [Site Map](https://www.next.co.uk/site-map)
-* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/requests/new?ticket_form_id=27408059927825)
+* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/articles/4407489973777)
 * [Furniture Spare Parts](https://next.clickspares.co.uk/)
 
 Shopping With Us
@@ -2677,7 +2677,7 @@ Help
 * [Website Accessibility Policy](https://zendesk.next.co.uk/hc/en-gb/articles/4407501488913)
 * [Accessibility In Our Stores](https://www.accessable.co.uk/organisations/next)
 * [Site Map](https://www.next.co.uk/site-map)
-* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/requests/new?ticket_form_id=27408059927825)
+* [Complaints Process](https://zendesk.next.co.uk/hc/en-gb/articles/4407489973777)
 * [Furniture Spare Parts](https://next.clickspares.co.uk/)
 
 Shopping With Us
