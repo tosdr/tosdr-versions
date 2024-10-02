@@ -318,8 +318,8 @@ Table of Contents Table of Contents Toggle navigation
             * [Undo changes to Settings > Style](https://www.knowledgeowl.com/help/undo-changes-to-settings-style)
             * [Breadcrumbs](https://www.knowledgeowl.com/help/breadcrumbs)
             * [Access to the header via Custom Head](https://www.knowledgeowl.com/help/append-head)
-            * [Reset your theme](https://www.knowledgeowl.com/help/reset-your-theme)New
-            * [Copy a knowledge base's theme](https://www.knowledgeowl.com/help/copy-a-theme)New
+            * [Reset your theme](https://www.knowledgeowl.com/help/reset-your-theme)
+            * [Copy a knowledge base's theme](https://www.knowledgeowl.com/help/copy-a-theme)
         * [Basic Settings](javascript:void(0);)
             
             * [Basic Settings](https://www.knowledgeowl.com/help/basic-settings-basic-settings)
@@ -924,7 +924,7 @@ Table of Contents Table of Contents Toggle navigation
         * [GDPR](https://www.knowledgeowl.com/help/gdpr)
         * [Maintain GDPR compliance with your own data](https://www.knowledgeowl.com/help/maintaining-gdpr-compliance-with-your-own-data)
         * [Uptime SLAs](https://www.knowledgeowl.com/help/uptime-sla)
-        * [List of Sub-processors](https://www.knowledgeowl.com/help/security-privacy-and-compliance-list-of-sub-processors)Updated
+        * [List of Sub-processors](https://www.knowledgeowl.com/help/security-privacy-and-compliance-list-of-sub-processors)
         * [Supported cipher suites](https://www.knowledgeowl.com/help/supported-cipher-suites)
         * [Required IP addresses](https://www.knowledgeowl.com/help/required-ip-addresses)
         * [Vulnerability Disclosure Policy](https://www.knowledgeowl.com/help/vulnerability-disclosure-policy)
