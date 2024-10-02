@@ -20,16 +20,16 @@ Wednesday, October 2 2024
 
 Latest
 
-* [Ring is adding 24/7 video recording to the Stick Up Cam and Indoor Cam starting next month](https://digitpatrox.com/ring-is-adding-24-7-video-recording-to-the-stick-up-cam-and-indoor-cam-starting-next-month/)
-* [Honkai Star Rail Lingsha: Kit, Best Build, Relics & More](https://digitpatrox.com/honkai-star-rail-lingsha-kit-best-build-relics-more/)
-* [How It Works & Its Benefits Explained 2024](https://digitpatrox.com/how-it-works-its-benefits-explained-2024/)
-* [UK’s NCA sanctions members of the ‘Evil Corp’ gang](https://digitpatrox.com/uks-nca-sanctions-members-of-the-evil-corp-gang/)
-* [Google just made a major ChromeOS misstep – Computerworld](https://digitpatrox.com/google-just-made-a-major-chromeos-misstep-computerworld/)
-* [You Can Get This Ninja Phantom MAX 8 Drone on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-ninja-phantom-max-8-drone-on-sale-for-80-right-now/)
-* [Medical device manufacturer PRC-Saltillo notifies 51.6K of data breach following ransomware attack](https://digitpatrox.com/medical-device-manufacturer-prc-saltillo-notifies-51-6k-of-data-breach-following-ransomware-attack/)
-* [Dyson WashG1 Wet Floor Cleaner Review](https://digitpatrox.com/dyson-washg1-wet-floor-cleaner-review/)
-* [Nanoleaf Essentials Matter Smart Multicolor HD Lightstrip (5m) Review: Almost Perfect](https://digitpatrox.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-5m-review-almost-perfect/)
-* [The future of data center sustainability? New architectures could slash energy consumption, lower carbon emissions, and drive cost savings](https://digitpatrox.com/the-future-of-data-center-sustainability-new-architectures-could-slash-energy-consumption-lower-carbon-emissions-and-drive-cost-savings/)
+* [How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+* [GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
+* [I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
+* [Fake browser updates spread updated WarmCookie malware](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
+* [FCC is offering $200 million to protect schools and libraries from hackers](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
+* [Joker 2 Review: An Off-Key Musical Disaster](https://digitpatrox.com/joker-2-review-an-off-key-musical-disaster/)
+* [How It Works and Key Services Explained 2024](https://digitpatrox.com/how-it-works-and-key-services-explained-2024/)
+* [BT launches Global Fabric, a new AI-ready network as a service platform](https://digitpatrox.com/bt-launches-global-fabric-a-new-ai-ready-network-as-a-service-platform/)
+* [What to expect from Apple this October and beyond – Computerworld](https://digitpatrox.com/what-to-expect-from-apple-this-october-and-beyond-computerworld/)
+* [That Amazon ‘Deal’ Might Actually Be a Hidden Price Hike](https://digitpatrox.com/that-amazon-deal-might-actually-be-a-hidden-price-hike/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/FyUBYFHJdGolMYJ-Xnm5tjDyAek=/0x0:1496x1848/1200x628/filters:focal(843x1101:844x1102)/cdn.vox-cdn.com/uploads/chorus_asset/file/25653306/Ring_24.7_Recording.jpg)](https://digitpatrox.com/ring-is-adding-24-7-video-recording-to-the-stick-up-cam-and-indoor-cam-starting-next-month/)
+* [![](https://cdn.mos.cms.futurecdn.net/5RFhni4vXgrHuyV3RmYktg-1200-80.jpg)](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
     
-    [Ring is adding 24/7 video recording to the Stick Up Cam and Indoor Cam starting next month](https://digitpatrox.com/ring-is-adding-24-7-video-recording-to-the-stick-up-cam-and-indoor-cam-starting-next-month/)
+    [How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
     
-    49 seconds ago
+    18 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/lingsha-best-build-hsr.jpg)](https://digitpatrox.com/honkai-star-rail-lingsha-kit-best-build-relics-more/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241002-generative-ai-eu-economy-google.jpg)](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
     
-    [Honkai Star Rail Lingsha: Kit, Best Build, Relics & More](https://digitpatrox.com/honkai-star-rail-lingsha-kit-best-build-relics-more/)
+    [GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
     
-    14 mins ago
+    22 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/What-is-an-SMTP-Relay.jpeg)](https://digitpatrox.com/how-it-works-its-benefits-explained-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/VzBhkSUDZ9d3Af9EWst2KY-1200-80.jpg)](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
     
-    [How It Works & Its Benefits Explained 2024](https://digitpatrox.com/how-it-works-its-benefits-explained-2024/)
+    [I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
+    
+    38 mins ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/02/Cookies.jpg)](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
+    
+    [Fake browser updates spread updated WarmCookie malware](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rcgqGm2k9qbr9K4kHhEmvU-1200-80.jpg)](https://digitpatrox.com/uks-nca-sanctions-members-of-the-evil-corp-gang/)
+* [![](https://cdn.vox-cdn.com/thumbor/hWvUxuvUt5W7VoHsfV7ZDY3S9Q0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23262657/VRG_Illo_STK001_B_Sala_Hacker.jpg)](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
     
-    [UK’s NCA sanctions members of the ‘Evil Corp’ gang](https://digitpatrox.com/uks-nca-sanctions-members-of-the-evil-corp-gang/)
+    [FCC is offering $200 million to protect schools and libraries from hackers](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
     
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3543500-0-68807400-1727863432-google-chromeos-chromebooks.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/google-just-made-a-major-chromeos-misstep-computerworld/)
-    
-    [Google just made a major ChromeOS misstep – Computerworld](https://digitpatrox.com/google-just-made-a-major-chromeos-misstep-computerworld/)
-    
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [49 seconds ago
+* [18 mins ago
     
-    ### Ring is adding 24/7 video recording to the Stick Up Cam and Indoor Cam starting next month](https://digitpatrox.com/ring-is-adding-24-7-video-recording-to-the-stick-up-cam-and-indoor-cam-starting-next-month/)
-* [14 mins ago
+    ### How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+* [22 mins ago
     
-    ### Honkai Star Rail Lingsha: Kit, Best Build, Relics & More](https://digitpatrox.com/honkai-star-rail-lingsha-kit-best-build-relics-more/)
-* [1 hour ago
+    ### GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
+* [38 mins ago
     
-    ### How It Works & Its Benefits Explained 2024](https://digitpatrox.com/how-it-works-its-benefits-explained-2024/)
+    ### I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
 
 Most Popular Topics
 
-* [August 12, 2024
+* [August 26, 2024
     
-    ### Impact & Competitors To Consider in 2024](https://digitpatrox.com/impact-competitors-to-consider-in-2024/)
-* [August 17, 2024
+    ### Best Pressure Washers of 2024](https://digitpatrox.com/best-pressure-washers-of-2024/)
+* [August 28, 2024
     
-    ### CISA warns critical SolarWinds RCE bug is exploited in attacks](https://digitpatrox.com/cisa-warns-critical-solarwinds-rce-bug-is-exploited-in-attacks/)
-* [August 24, 2024
+    ### NYT Connections Today: Hints and Answers for August 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-28-2024/)
+* [2 weeks ago
     
-    ### How to Clean Your Flat-Screen TV](https://digitpatrox.com/how-to-clean-your-flat-screen-tv/)
+    ### Boruto Two Blue Vortex Chapter 14: A New God Tree Antagonist Has Emerged](https://digitpatrox.com/boruto-two-blue-vortex-chapter-14-a-new-god-tree-antagonist-has-emerged/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Medical device manufacturer PRC-Saltillo notifies 51.6K of data breach following ransomware attack](https://digitpatrox.com/medical-device-manufacturer-prc-saltillo-notifies-51-6k-of-data-breach-following-ransomware-attack/)
+    ### How It Works and Key Services Explained 2024](https://digitpatrox.com/how-it-works-and-key-services-explained-2024/)
 * [3 hours ago
     
-    ### Dyson WashG1 Wet Floor Cleaner Review](https://digitpatrox.com/dyson-washg1-wet-floor-cleaner-review/)
+    ### BT launches Global Fabric, a new AI-ready network as a service platform](https://digitpatrox.com/bt-launches-global-fabric-a-new-ai-ready-network-as-a-service-platform/)
 * [3 hours ago
     
-    ### Nanoleaf Essentials Matter Smart Multicolor HD Lightstrip (5m) Review: Almost Perfect](https://digitpatrox.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-5m-review-almost-perfect/)
+    ### What to expect from Apple this October and beyond – Computerworld](https://digitpatrox.com/what-to-expect-from-apple-this-october-and-beyond-computerworld/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+* [August 21, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 28, 2024
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
