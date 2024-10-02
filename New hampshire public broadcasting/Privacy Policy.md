@@ -192,7 +192,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**VOCES** | WORLD Channel](https://video.nhpbs.org/video/voces-5gicnd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Volcano Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-preview-aa1lwf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What the dockworkers strike means for U.S. consumers** | PBS News Hour](https://video.nhpbs.org/video/port-strike-1727813644?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Art Bites 167** | Rick Steves' Europe](https://video.nhpbs.org/video/art-bites-167-plkoZC?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Grandma Erna's Kugel** | Milk Street's My Family Recipe](https://video.nhpbs.org/video/grandma-ernas-kugel-kIbdKV?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
