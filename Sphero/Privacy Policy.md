@@ -46,14 +46,14 @@ Back
 * [BOLT+](https://sphero.com/collections/bolt-plus)
 * [RVR+](https://sphero.com/collections/rvr)
 * [Blueprint Engineering](https://sphero.com/collections/blueprint)
-* [littleBits](https://sphero.com/collections/all/family_littlebits)
+* [littleBits](https://sphero.com/collections/littlebits)
 * [Professional Development](https://sphero.com/pages/professional-development)
 
 * Shop by Age
-* [Early Learning](https://sphero.com/collections/all/grade_early-learning)
-* [Elementary](https://sphero.com/collections/all/grade_elementary)
-* [Middle School](https://sphero.com/collections/all/grade_middle-school)
-* [High School](https://sphero.com/collections/all/grade_high-school)
+* [Early Learning](https://sphero.com/collections/early-learning)
+* [Elementary](https://sphero.com/collections/elementary)
+* [Middle School](https://sphero.com/collections/middle-school)
+* [High School](https://sphero.com/collections/high-school)
 
 * [Shop All](https://sphero.com/collections/all)
 
@@ -160,14 +160,14 @@ Cart/Quote](https://sphero.com/cart)
     * [BOLT+](https://sphero.com/collections/bolt-plus)
     * [RVR+](https://sphero.com/collections/rvr)
     * [Blueprint Engineering](https://sphero.com/collections/blueprint)
-    * [littleBits](https://sphero.com/collections/all/family_littlebits)
+    * [littleBits](https://sphero.com/collections/littlebits)
     * [Professional Development](https://sphero.com/pages/professional-development)
     
     * Shop by Age
-    * [Early Learning](https://sphero.com/collections/all/grade_early-learning)
-    * [Elementary](https://sphero.com/collections/all/grade_elementary)
-    * [Middle School](https://sphero.com/collections/all/grade_middle-school)
-    * [High School](https://sphero.com/collections/all/grade_high-school)
+    * [Early Learning](https://sphero.com/collections/early-learning)
+    * [Elementary](https://sphero.com/collections/elementary)
+    * [Middle School](https://sphero.com/collections/middle-school)
+    * [High School](https://sphero.com/collections/high-school)
     
     * [Shop All](https://sphero.com/collections/all)
 * [Educator Resources](https://sphero.com/pages/educators)
