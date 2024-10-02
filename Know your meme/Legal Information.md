@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Sorry You're Not a Sigma](https://knowyourmeme.com/memes/sorry-youre-not-a-sigma "Sorry You're Not a Sigma") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia") [Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments")
+[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia")
 
 Copyright Infringement Notice
 =============================
