@@ -217,6 +217,12 @@ Resources
 
 Discover everything we do
 
+* [![label icon](https://cdn.papercut.com/web/img/icon/Icon-Light-mfp-printer-plus.svg)
+    
+    WPP printing
+    
+    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+    
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-easy-printing.svg)
     
     Easy printing
@@ -228,12 +234,6 @@ Discover everything we do
     Cloud and print
     
     Review our full suite of management solutions for cloud](https://www.papercut.com/discover/cloud-and-print/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-waste.svg)
-    
-    Waste control
-    
-    Explore why this should be important to everyone](https://www.papercut.com/discover/waste-control/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-scanning.svg)
     
@@ -488,6 +488,12 @@ Resources
 
 Discover everything we do
 
+* [![label icon](https://cdn.papercut.com/web/img/icon/Icon-Light-mfp-printer-plus.svg)
+    
+    WPP printing
+    
+    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+    
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-easy-printing.svg)
     
     Easy printing
@@ -499,12 +505,6 @@ Discover everything we do
     Cloud and print
     
     Review our full suite of management solutions for cloud](https://www.papercut.com/discover/cloud-and-print/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-waste.svg)
-    
-    Waste control
-    
-    Explore why this should be important to everyone](https://www.papercut.com/discover/waste-control/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-scanning.svg)
     
@@ -809,12 +809,12 @@ Learn more
 Discover
 
 * [Discover overview](https://www.papercut.com/discover/)
+* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
 * [Cloud and print](https://www.papercut.com/discover/cloud-and-print/)
 * [Easy printing](https://www.papercut.com/discover/easy-printing/)
 * [Scanning](https://www.papercut.com/discover/easy-scanning-and-capture/)
 * [Print security](https://www.papercut.com/discover/print-security/)
 * [Integrations](https://www.papercut.com/discover/integrations-and-customizations/)
-* [Waste control](https://www.papercut.com/discover/waste-control/)
 * [Products at a glance](https://www.papercut.com/discover/products-at-a-glance/)
 * [Forest Positive](https://www.papercut.com/about/forest-positive/)
 * [Best practices](https://www.papercut.com/discover/best-practices/)
@@ -822,6 +822,7 @@ Discover
 Discover
 
 * [Discover overview](https://www.papercut.com/discover/)
+* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
 
 Get PaperCut
 
