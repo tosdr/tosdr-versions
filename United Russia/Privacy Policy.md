@@ -299,11 +299,19 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://cdn.er.ru/media/news/October2024/NFcOZykgLuYRmlEx58Yj-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
+
+[«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Петрова](https://er.ru/activity/news?tags%5B0%5D=4885) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#представительство](https://er.ru/activity/news?tags%5B0%5D=2104) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 18:16
+
 [![«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://cdn.er.ru/media/news/October2024/F0Ltnt773toMUsn73cvf-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
 
 [«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
 
-[#Бахарев](https://er.ru/activity/news?tags%5B0%5D=53590) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#кредиты](https://er.ru/activity/news?tags%5B0%5D=1406) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980) [#банкротство](https://er.ru/activity/news?tags%5B0%5D=2633) [#долговая нагрузка](https://er.ru/activity/news?tags%5B0%5D=73024) [#кредитныйлимит](https://er.ru/activity/news?tags%5B0%5D=1095780) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#недобросовестная реклама](https://er.ru/activity/news?tags%5B0%5D=40882) [#списание долга](https://er.ru/activity/news?tags%5B0%5D=6493)
+[#Бахарев](https://er.ru/activity/news?tags%5B0%5D=53590) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980) [#банкротство](https://er.ru/activity/news?tags%5B0%5D=2633) [#кредитныйлимит](https://er.ru/activity/news?tags%5B0%5D=1095780) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#недобросовестная реклама](https://er.ru/activity/news?tags%5B0%5D=40882)
 
 Сегодня 11:30
 
@@ -336,14 +344,6 @@
 [Ирина Яровая: Необходимо создание базового закона о детском отдыхе](https://er.ru/activity/news/irina-yarovaya-neobhodimo-sozdanie-bazovogo-zakona-o-detskom-otdyhe)
 
 [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#ДОЛ](https://er.ru/activity/news?tags%5B0%5D=134747) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386)
-
-01.10.24
-
-[![Правительство РФ поддержало инициативу «Единой России» о создании рейтинга детских оздоровительных лагерей в стране](https://cdn.er.ru/media/news/October2024/KHtdbPrPKm1i4FYRCxNf-small.jfif)](https://er.ru/activity/news/pravitelstvo-rf-podderzhalo-iniciativu-edinoj-rossii-o-sozdanii-rejtinga-detskih-ozdorovitelnyh-lagerej-v-strane)
-
-[Правительство РФ поддержало инициативу «Единой России» о создании рейтинга детских оздоровительных лагерей в стране](https://er.ru/activity/news/pravitelstvo-rf-podderzhalo-iniciativu-edinoj-rossii-o-sozdanii-rejtinga-detskih-ozdorovitelnyh-lagerej-v-strane)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#рейтинги](https://er.ru/activity/news?tags%5B0%5D=119) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
 01.10.24
 
