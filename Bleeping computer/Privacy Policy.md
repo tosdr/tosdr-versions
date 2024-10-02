@@ -36,18 +36,18 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
-    * [![Arc browser launches bug bounty program after fixing RCE bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![DrayTek fixed critical flaws in over 700,000 exposed routers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Arc browser launches bug bounty program after fixing RCE bug](https://www.bleepingcomputer.com/news/security/arc-browser-launches-bug-bounty-program-after-fixing-rce-bug/)
-    * [![Microsoft fixes Outlook email sending issue for users with many folders](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        DrayTek fixed critical flaws in over 700,000 exposed routers](https://www.bleepingcomputer.com/news/security/draytek-fixed-critical-flaws-in-over-700-000-exposed-routers/)
+    * [![Microsoft blocks Windows 11 24H2 on some Intel PCs over BSOD issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft fixes Outlook email sending issue for users with many folders](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-email-sending-issue-for-users-with-many-folders/)
-    * [![Rackspace monitoring data stolen in ScienceLogic zero-day attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft blocks Windows 11 24H2 on some Intel PCs over BSOD issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-intel-pcs-over-bsod-issues/)
+    * [![Microsoft warns of Windows 11 24H2 gaming performance issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Rackspace monitoring data stolen in ScienceLogic zero-day attack](https://www.bleepingcomputer.com/news/security/rackspace-monitoring-data-stolen-in-sciencelogic-zero-day-attack/)
-    * [![Get Office apps, OneDrive, and more with 42% off Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft warns of Windows 11 24H2 gaming performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-windows-11-24h2-gaming-performance-issues/)
+    * [![This refurbished MacBook Air M1 deal will get you away from your PC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get Office apps, OneDrive, and more with 42% off Microsoft 365](https://www.bleepingcomputer.com/offer/deals/get-office-apps-onedrive-and-more-with-42-percent-off-microsoft-365/)
+        This refurbished MacBook Air M1 deal will get you away from your PC](https://www.bleepingcomputer.com/offer/deals/this-refurbished-macbook-air-m1-deal-will-get-you-away-from-your-pc/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Playstation controller](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Windows 11 24H2 now rolling out, here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-now-rolling-out-here-are-the-new-features/)
 * [![BGP Routing Outage Networking](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Man charged for selling forged license keys for network switches](https://www.bleepingcomputer.com/news/legal/man-charged-for-selling-forged-license-keys-for-network-switches/)
-* [![Verizon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
 
 ##### Follow us:
 
