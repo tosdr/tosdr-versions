@@ -26,7 +26,7 @@
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
-    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
+    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/publications/special) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
 * [About the Fed](https://www.atlantafed.org/about)
     
@@ -58,7 +58,7 @@ Menutoggle menu
 * [Research & Data](https://www.atlantafed.org/research)
     * [About Us](https://www.atlantafed.org/research/economists)
         
-    * [Data & Tools](https://www.atlantafed.org/research/data-and-tools)
+    * [Data & Tools](https://www.atlantafed.org/about/publications/atlanta-fed-history)
     * [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience)
         * [Advancing Careers for Low-Income Families](https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families)
     * [Inflation Project](https://www.atlantafed.org/research/inflationproject)
