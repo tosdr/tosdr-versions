@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/plava-slika.jpg?itok=gVCw1Z3W)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
+[![Zoran Popovic, Portret slikara Nikole Brkanovica](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-crtezi/drawings/zoran-popovic-portret-slikara-nikole-brkanovica-erdut-20-9-1993.jpg?itok=Q0GkPOPc)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-13)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/manastir-visoki-decani/ikona-decani-prestonaikona-sa-ikonstasa-arh-gavrilo-oko1350.jpg?itok=w7LtVutN)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri/manastir-visoki-de%C4%8Dani)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kristalni-globus.jpg?itok=5_3oxPI7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Palestinci i Izraelci na Slobodnoj zoni](http://seecult.org/vest/palestinci-i-izraelci-na-slobodnoj-zoni)
+* [Koskar 18. FSFF-a Aleksi Gajiću](http://seecult.org/vest/koskar-18-fsff-aleksi-gajicu)
 * [Početak 56. Bemusa u znaku Jonasa Kaufmana](http://seecult.org/vest/pocetak-56-bemusa-u-znaku-jonasa-kaufmana)
 * [Bauk u bioskopima](http://seecult.org/vest/bauk-u-bioskopima)
 * [Počela 21. Balkanima](http://seecult.org/vest/pocela-21-balkanima)
@@ -348,8 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
 * [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
 * [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
-* [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
-* [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
 
 * [Konkursi](#tab1_1)
 
