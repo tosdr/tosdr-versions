@@ -47,7 +47,7 @@
 * [Internet](https://www.telekom.de/festnetz "Internet")
     
     *   ![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl "Internet-Tarife")
+        * [Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife "Internet-Tarife")
         * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit "Internet-Tarife ohne Laufzeit")
         * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute "Für junge Leute unter 28")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz "Zubuchoptionen")
@@ -351,7 +351,7 @@
             
             * Tarife
                 
-            * [Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl)
+            * [Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife)
                 
             * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit)
                 
