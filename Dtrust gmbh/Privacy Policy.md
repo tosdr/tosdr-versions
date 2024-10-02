@@ -28,6 +28,7 @@
 * [Innovation hub](https://www.d-trust.net/en/innovation-hub "Innovation hub")
 * [Newsroom](#bdr-menu-item-6)
     
+    * [Events](https://www.d-trust.net/en/newsroom/events "Events")
     * [News](https://www.d-trust.net/en/newsroom/news "News")
     * [Press releases](https://www.d-trust.net/en/newsroom/press-releases "Press releases")
     
