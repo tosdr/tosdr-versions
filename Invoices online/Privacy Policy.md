@@ -118,59 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=161496732)  
-Kainos (Pty) Ltd
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=83052538)  
+Cooper Logistics (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=55516287)  
-ELLIE'S CLEANING CHICKS
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=134211360)  
+PROGRAPHIX PTY LTD
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=80087774)  
-Salvage Genie
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=26912831)  
+Echo Recording Studio cc
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=184710705)  
-Westside Car Audio CC
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=61553397)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=73796447)  
-Fox Alarms & Security CC
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=121711210)  
+CLEVER STUDENTS
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=136335001)  
-Electro-Heat
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=16648631)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=175354363)  
-OptaServ
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=150730141)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=201086421)  
-West Coast Horse Trails
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=184292023)  
+Tracknetics
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=45057954)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=149983282)  
+MOSELA GROUP Pty(ltd)
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=85281828)  
-NJR ICT Services (Pty) Ltd
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=88405439)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=173880096)  
-webb it services
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=37802648)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=184648256)  
-WIP Digital Solutions
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=157732697)  
+KTEN PARTS
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=133893744)  
-Cape Adventure Zone
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=172781092)  
+Xpress Designs
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=199701240)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=195347030)  
+MONSTER SECURITY SERVICES
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=27389002)  
-MONSTER CONNECT (PTY) LTD
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=101f9ccca5136d2c39185f581d552ede0a723bef5832a4276578bd3d8234c0f1&c=84327661)  
+Creative Characters
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
@@ -185,7 +187,7 @@ Some Stats, we are growing rapidly
 * Over **R 10,000,000,000** invoiced
 * Over **R 10,000,000,000** in payments received
 
-[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-06-01](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-06-01") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
+[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-10-02](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-10-02") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
 
 All content copyright © [Invoices Online](https://www.invoicesonline.co.za/) 2024.  
 A product of Invoices Online PTY (Ltd)  
