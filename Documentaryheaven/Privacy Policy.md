@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Who Will Save the Euro?](/wp-content/thumbnails/6074-100x70.jpg?x53432)
+* [![Evolution of Bodybuilding](/wp-content/thumbnails/9909-100x70.jpg?x53432)
     
-    Who Will Save the Euro?
+    Evolution of Bodybuilding
     
-    It is not just the banks that are in danger of going under. It is entire economies. They are the ones in need of emergency cash to stay afloat. For some time we have been saying that Europe's financia](https://documentaryheaven.com/who-will-save-the-euro/ "Who Will Save the Euro?")
-* [![Zero Days](/wp-content/thumbnails/10082-100x70.jpg?x53432)
+    Bodybuilding is routed in the tradition of self improvement, both in terms of body image and self worth, with a subculture rich in history, these men have given rise to a world of intense competition,](https://documentaryheaven.com/evolution-of-bodybuilding/ "Evolution of Bodybuilding")
+* [![The Century Of The Self](/wp-content/thumbnails/6275-100x70.jpg?x53432)
     
-    Zero Days
+    The Century Of The Self
     
-    While we all quietly surf around on the internet an elite of the smartest hackers scan it day and night looking for undetected safety leaks. They convert these secret leaks as if by magic into buildin](https://documentaryheaven.com/zero-days/ "Zero Days")
-* [![The Gulf War of 1991](/wp-content/thumbnails/8660-100x70.jpg?x53432)
+    "This series is about how those in power have used Freud's theories to try and control the dangerous crowd in an age of mass democracy." —Adam Curtis' introduction to the first episode.Part 1-Happ](https://documentaryheaven.com/the-century-of-the-self/ "The Century Of The Self")
+* [![The Templar Code](/wp-content/thumbnails/2022-100x70.jpg?x53432)
     
-    The Gulf War of 1991
+    The Templar Code
     
-    February 24th 1991, American tanks roll across the Saudi Arabian desert towards the Iraq border, their part of a multinational force with a clear and simple mission, to drive Saddam Hussein's Iraqi ar](https://documentaryheaven.com/gulf-war-of-1991/ "The Gulf War of 1991")
-* [![Americas Book of Secrets: The White House](/wp-content/thumbnails/8295-100x70.jpg?x53432)
+    For nearly two centuries, the Knights Templar were the most powerful order in the Medieval world, a fearsome and unstoppable Crusader militia. Then came accusations of unspeakable crimes. Who were the](https://documentaryheaven.com/the-templar-code/ "The Templar Code")
+* [![The Girl In The Box](/wp-content/thumbnails/14067-100x70.jpg?x53432)
     
-    Americas Book of Secrets: The White House
+    The Girl In The Box
     
-    It is home to the most powerful person in the world, it is a center of global military power and it is one of the most heavily protected fortresses ever built, but behind the classic columns and lush](https://documentaryheaven.com/americas-book-secrets-white-house/ "Americas Book of Secrets: The White House")
-* [![How Terri-Lynne McClintic Became a Killer](/wp-content/thumbnails/7084-100x70.jpg?x53432)
+    In May 1977, 20-year-old Colleen Stan was kidnapped by Cameron Hooker, a violent sexual sadist who's goal was to have his very own perfect slave. For nearly seven years Hooker kept Stan captive in a c](https://documentaryheaven.com/girl-in-box/ "The Girl In The Box")
+* [![The Billionaires’ Tea Party](/wp-content/thumbnails/6359-100x70.jpg?x53432)
     
-    How Terri-Lynne McClintic Became a Killer
+    The Billionaires’ Tea Party
     
-    It was one of the most heinous crimes – the abduction, rape and murder of eight year old Victoria Elizabeth Stafford.Michael Rafferty and Terri-Lynne McClintic both found guilty on all counts, now](https://documentaryheaven.com/how-terri-lynne-mcclintic-became-a-killer/ "How Terri-Lynne McClintic Became a Killer")
+    The Tea Party movement has taken American politics by storm. But is this truly a populist uprising or one of the greatest feats of propaganda ever seen? Australian filmmaker Taki Oldham sets out answe](https://documentaryheaven.com/the-billionaires-tea-party/ "The Billionaires’ Tea Party")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
