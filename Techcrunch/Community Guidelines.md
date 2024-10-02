@@ -26,7 +26,7 @@ Mega Menu Toggle
 
 ### Topics
 
-[Latest](https://techcrunch.com/latest-news/)
+[Latest](https://techcrunch.com/latest/)
 
 [AI](https://techcrunch.com/category/artificial-intelligence/)
 
@@ -83,8 +83,6 @@ Mega Menu Toggle
 [Space](https://techcrunch.com/category/space/)
 
 [Startups](https://techcrunch.com/category/startups/)
-
-[TechCrunch](https://techcrunch.com/category/startups/)
 
 [TikTok](https://techcrunch.com/tag/tiktok/)
 
