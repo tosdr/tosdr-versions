@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Elden Ring – Patch Notes Version 1.15](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-115)
 * [TEKKEN 8 - Patch 1.08](https://en.bandainamcoent.eu/tekken/news/tekken-8-patch-108)
-* [Play Unknown 9: Awakening’s Interactive Experience](https://en.bandainamcoent.eu/unknown-9/news/play-unknown-9-awakenings-interactive-experience)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
