@@ -12,8 +12,6 @@
     [Connexion](https://www.microspot.ch/fr/account/login)[S’enregistrer](https://www.microspot.ch/fr/account/registration)[Comparaison de produit](https://www.microspot.ch/fr/comparison)[Liste mémo](https://www.microspot.ch/fr/watchlist)[Panier d\`achat](https://www.microspot.ch/fr/cart)
     
 
-[](https://www.microspot.ch/telesales/store/select)[](https://www.microspot.ch/telesales/store/select)[](https://www.microspot.ch/telesales?logout=true)
-
 * [DE](https://www.microspot.ch/de/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 * [FR](https://www.microspot.ch/fr/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 * [IT](https://www.microspot.ch/it/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
@@ -64,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6958.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1396.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -161,7 +159,9 @@ Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-c
 ![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Garmin-Edge.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MDEzM3xpbWFnZS9qcGVnfGFEQTVMMmc1TXk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZSMkZ5YldsdVgwVmtaMlV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpreE5YZzFNVFZmU1RJMFgxTnZUV1ZmUW14dloxOUhZWEp0YVc1ZlJXUm5aUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGQ5YmFmZDNjYmI4OTE4YTdjYzc1Nzg2ODQ5NjRhM2JjZGI0ZjJjMzdlNzZkNzRjZGI0NzA4NTA2NWU1NzgyYQ&w=2360&q=75)
 
 [Test: GARMIN Edge 540](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
---------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
 
 Si vous êtes à la recherche d'un compteur de vélo compact, facile à utiliser et fiable, vous ne pouvez pas vous tromper avec le GARMIN Edge 540.
 
@@ -182,7 +182,7 @@ Sunrise](https://www.microspot.ch/fr/cms/sunrise)
 
 swisscom](https://www.microspot.ch/fr/brand/swisscom)
 
-[![undefined](/medias/Logo-Yallo-300x150.png?context=bWFzdGVyfGNtc3w0MTEyfGltYWdlL3BuZ3xZMjF6TDJneFpDOW9PV0V2VEc5bmIxOVpZV3hzYjE4ek1EQjRNVFV3VTNSaFoyVmtiM0IwYVcxcGVtVmtMbkJ1Wnd8ZGI3YWYwMmQyMjhkNDNkNmIwZjc5NTdkMGFkZTM0ZDgxMWE4ZDg5YmZiM2NjMGE5MGI0YjRkYjI4NjhhOGJkOQ)
+[![](/medias/Logo-Yallo-300x150.png?context=bWFzdGVyfGNtc3w0MTEyfGltYWdlL3BuZ3xZMjF6TDJneFpDOW9PV0V2VEc5bmIxOVpZV3hzYjE4ek1EQjRNVFV3VTNSaFoyVmtiM0IwYVcxcGVtVmtMbkJ1Wnd8ZGI3YWYwMmQyMjhkNDNkNmIwZjc5NTdkMGFkZTM0ZDgxMWE4ZDg5YmZiM2NjMGE5MGI0YjRkYjI4NjhhOGJkOQ)
 
 yallo](https://www.microspot.ch/fr/cms/handy-abo)
 
@@ -197,7 +197,11 @@ Lyca Mobile](https://www.microspot.ch/fr/t%C3%A9l%C3%A9phonie-tablette-et-montre
 Concernant Interdiscount
 ------------------------
 
-Interdiscount est le distributeur omnicanal leader en Suisse dans le domaine de l'électronique domestique et de divertissement. Avec ses quelques 170 succursales et son attrayante boutique en ligne, Interdiscount est présente partout pour ses clients. On trouve chez Interdiscount les meilleures marques, les produits dernier cri, des prix attractifs, des conseils compétents, un vaste choix et des prestations de services à la hauteur, 24 heures sur 24. Les commandes en ligne jusqu'à 20 heures peuvent être retirées dès le lendemain dans la [succursale](https://www.microspot.ch/fr/storefinder) choisie ou réceptionnées à la maison. Interdiscount – achetez comme vous aimez.
+Interdiscount est le distributeur omnicanal leader en Suisse dans le domaine de l'électronique domestique et de divertissement. Avec ses quelques 170 succursales et son attrayante boutique en ligne, Interdiscount est présente partout pour ses clients. On trouve chez Interdiscount les meilleures marques, les produits dernier cri, des prix attractifs, des conseils compétents, un vaste choix et des prestations de services à la hauteur, 24 heures sur 24. Les commandes en ligne jusqu'à 20 heures peuvent être retirées dès le lendemain dans la
+
+[succursale](https://www.microspot.ch/fr/storefinder)
+
+choisie ou réceptionnées à la maison. Interdiscount – achetez comme vous aimez.
 
 Interdiscount-Newsletter
 ------------------------
@@ -209,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Frais de port gratuits pour livraison
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
@@ -272,7 +276,6 @@ Entreprise
 * [Prospectus](https://www.microspot.ch/fr/cms/entreprise/prospectus)
 * [Sponsoring](https://www.microspot.ch/fr/cms/entreprise/sponsoring)
 * [Jobs / Apprentissages](https://www.microspot.ch/fr/cms/jobs)
-* [Blog](https://www.microspot.ch/fr/cms/blog)
 
 Suivez-nous
 
