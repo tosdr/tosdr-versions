@@ -191,13 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![ CPT Kermit M. Lisle](https://cdn.returningveterans.org/images/honor/Kermit_Lisle_Navy_Army.jpg)  
+![Mark Stimpson](https://cdn.returningveterans.org/images/honor/Mark_Stimpson.JPG)  
 
-**In Memory of CPT Kermit M. Lisle**  
+**In Honor of Mark Stimpson**  
 United States Army  
-United States Navy  
-United States Reserves  
-Submitted by Andrew Lisle](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -242,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/01/24 - 8:16:45  
+Printed 10/02/24 - 2:17:15  
 © 2024 Returning Veterans Project
