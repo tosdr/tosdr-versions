@@ -206,11 +206,11 @@
         Barrierearmut
         
     
-    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_ccc9fb72c8.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    [![3 weiblich gelesene Personen und ein Kleinkind auf einer Baustelle](/media/_processed_/2/8/csm_Hof-Praedikow-Wohnprojekt_3cbe121363.jpg "Nachhaltig bauen, modernisieren und finanzieren mit der GLS Bank")](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
     
-    Schulen und Kitas bauen mit Holz
+    Nachhaltig Bauen
     
-    Digitale GLS Bank Veranstaltung am 25.9.2024 um 14:30 Uhr [Jetzt anmelden](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    Finanziert mit der GLS Bank. [Erfahre mehr](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
     
     Barrierearmut
     
