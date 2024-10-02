@@ -147,8 +147,6 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
@@ -205,13 +203,11 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://fifthperson.com/wp-content/uploads/2024/10/bonds-220x150.jpg)](https://fifthperson.com/bonds-vs-bond-etfs/)
     
-    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
+    [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
     
-    [Hartalega 2024 股东大会的10个重要启示](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
-    
-    1 week ago
+    1 day ago
     
 
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
