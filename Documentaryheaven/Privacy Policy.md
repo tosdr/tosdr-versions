@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Discovery Channel: Heroin Nation](/wp-content/thumbnails/1112-100x70.jpg?x53432)
+* [![Half Ton Man](/wp-content/thumbnails/1453-100x70.jpg?x53432)
     
-    Discovery Channel: Heroin Nation
+    Half Ton Man
     
-    Cocaine Nation and Heroin Nation premiered on the Discovery channel this week. The two series are rated TV-14 because of the subject matter and some disturbing footage of drug abuse. Both series take](https://documentaryheaven.com/discovery-channel-heroin-nation/ "Discovery Channel: Heroin Nation")
-* [![Skrillex: Let’s Make a Spaceship](/wp-content/thumbnails/9254-100x70.png?x53432)
+    Weighing the same as five baby elephants and a shade less than a Mini Cooper, Patrick Deuel is one of the heaviest men ever and a medical miracle. His heart and other organs should have collapsed long](https://documentaryheaven.com/half-ton-man/ "Half Ton Man")
+* [![Michael Jackson: The Making Of Thriller](/wp-content/thumbnails/7608-100x70.jpg?x53432)
     
-    Skrillex: Let’s Make a Spaceship
+    Michael Jackson: The Making Of Thriller
     
-    This film from RedBull Music is a glimpse into the world of Skrillex, giving us a behind the scenes look at how the Dubstep artist designed and developed his latest live show and set that he debuted a](https://documentaryheaven.com/skrillex-lets-make-spaceship/ "Skrillex: Let’s Make a Spaceship")
-* [![Sandy Hook](/wp-content/thumbnails/6956-100x70.jpg?x53432)
+    Michael Jackson's Thriller is an American 13-minute music video for the song of the same name released on December 2, 1983. It was directed by John Landis, who also co-wrote the sc](https://documentaryheaven.com/michael-jackson-making-thriller/ "Michael Jackson: The Making Of Thriller")
+* [![No Laughing Matter: Inside the Bill Cosby Allegations](/wp-content/thumbnails/10545-100x70.jpg?x53432)
     
-    Sandy Hook
+    No Laughing Matter: Inside the Bill Cosby Allegations
     
-    From the Author: Mark Howitt takes an investigative look into the events and controversy surrounding the Sandy Hook elementary school shooting which happened on December 14th 2012. This documentary ex](https://documentaryheaven.com/sandy-hook/ "Sandy Hook")
-* [![2012 Crossing Over A New Beginning](/wp-content/thumbnails/9388-100x70.jpg?x53432)
+    In the fall 2014, Bill Cosby was re-staking his claim as an A-list celebrity at the age of 77, he was staring right into the eyes of a career rejuvenation and 30 years after his NBC blockbuster series](https://documentaryheaven.com/no-laughing-matter/ "No Laughing Matter: Inside the Bill Cosby Allegations")
+* [![The Gatekeepers](/wp-content/thumbnails/12130-100x70.jpg?x53432)
     
-    2012 Crossing Over A New Beginning
+    The Gatekeepers
     
-    This film by BraveArcherFilms is the Final Edition of "2012 Crossing Over A New Beginning", which when released in 2012 was viewed over 1 million times on YouTube alone. The film itself is an inspirat](https://documentaryheaven.com/crossing-over-new-beginning/ "2012 Crossing Over A New Beginning")
-* [![The Genius Sperm Bank](/wp-content/thumbnails/1302-100x70.jpg?x53432)
+    Directed by Dror Morech and originally released in 2012 The Gatekeepers is a film which sets out to tell the story of the Israeli internal security service, Shin Bet or known in Hebrew as 'S](https://documentaryheaven.com/gatekeepers/ "The Gatekeepers")
+* [![Human All Too Human: Jean-Paul Sartre](/wp-content/thumbnails/4516-100x70.jpg?x53432)
     
-    The Genius Sperm Bank
+    Human All Too Human: Jean-Paul Sartre
     
-    In 1980, a Californian millionaire established a very exclusive foundation for biological determinism or, in other words - a sperm bank. In fact, Robert Graham's scheme was straight out of a James Bon](https://documentaryheaven.com/the-genius-sperm-bank/ "The Genius Sperm Bank")
+    Human, All Too Human is a three-part 1999 documentary television series produced by the BBC. It follows the lives of three prominent philosophers; Friedrich Nietzsche, Martin Heidegger, and Jean-Paul](https://documentaryheaven.com/human-all-too-human-jean-paul-sartre/ "Human All Too Human: Jean-Paul Sartre")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
