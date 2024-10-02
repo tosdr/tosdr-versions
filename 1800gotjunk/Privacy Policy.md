@@ -864,30 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Thank you Luiz and Ben
-
-Rev iewer Austin 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jordan and Renee handled business 💪🏻
-
-M B Naples 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Gio and Kegan were great and accommodating to remove my furniture
-
-Corliss Maxon Naples 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Ayden and Sam did a great job! Very professional! Hardly took any time. Took many large items. Highly recommend!
 
 Erika Mantsch Wisconsin 28/09/2024
@@ -923,6 +899,62 @@ Anna Webster Seattle 28/09/2024
 Tanner & Luis were amazing, top notch
 
 Teresa Neely Madison 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Thank you Luiz and Ben
+
+Rev iewer Austin 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jordan and Renee handled business 💪🏻
+
+M B Naples 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Gio and Kegan were great and accommodating to remove my furniture
+
+Corliss Maxon Naples 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Justin and Lucas killed it, best team in the city! 5 stars 😎
+
+Trevor Fluehr Cincinnati 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Justin and Lucus were amazing, so thankful for their help!
+
+Kaylie Simms Cincinnati 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service! Nathan and Chaney were very friendly and professional. They got the job done, quickly. Saved my back and my time!
+
+Dan Shull Cincinnati 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Pablo and Day Excellent customer service!
+
+Yusuke Ito Seattle 27/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -971,38 +1003,6 @@ Megan Schultz Naples 27/09/2024
 Steve and Pat from Naples were great. They showed care when in our house, and I will be calling them again.
 
 Jake Osburn Naples 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Justin and Lucas killed it, best team in the city! 5 stars 😎
-
-Trevor Fluehr Cincinnati 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Justin and Lucus were amazing, so thankful for their help!
-
-Kaylie Simms Cincinnati 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great service! Nathan and Chaney were very friendly and professional. They got the job done, quickly. Saved my back and my time!
-
-Dan Shull Cincinnati 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Pablo and Day Excellent customer service!
-
-Yusuke Ito Seattle 27/09/2024
 
 ### 
 
