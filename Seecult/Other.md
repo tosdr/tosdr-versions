@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/leconte-m-lartigue/ljudi/people/rasta-family-sized.jpg?itok=k8DP82lU)](http://seecult.org/galerija/galerija-umetnika/leconte-m-lartigue/ljudipeople)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/otvaranje-paviljona-srbije/otvaranje2.jpg?itok=_Owp2HiO)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-31)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slobodna-zona/slatka-mala.jpg?itok=QXCG2-vi)](http://seecult.org/galerija/foto-galerija/foto-arhiva/slobodna-zona)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka/magacin-zurka-005.jpg?itok=0RlXiEiO)](http://seecult.org/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Početak 56. Bemusa u znaku Jonasa Kaufmana](http://seecult.org/vest/pocetak-56-bemusa-u-znaku-jonasa-kaufmana)
+* [Bauk u bioskopima](http://seecult.org/vest/bauk-u-bioskopima)
+* [Počela 21. Balkanima](http://seecult.org/vest/pocela-21-balkanima)
 * [20\. Kids Fest - Kadar mog odrastanja](http://seecult.org/vest/20-kids-fest-kadar-mog-odrastanja)
 * [Optimistično dezorijentisani - 13. GoetheFEST](http://seecult.org/vest/optimisticno-dezorijentisani-13-goethefest)
 * [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
@@ -347,9 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
 * [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
 * [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
-* [Svet u boji](http://seecult.org/vest/svet-u-boji)
-* [67\. Sajam knjiga - Reč je slobodna](http://seecult.org/vest/67-sajam-knjiga-rec-je-slobodna)
-* [Ovacije za Komedi Fransez na Bitefu](http://seecult.org/vest/ovacije-za-komedi-fransez-na-bitefu)
 
 * [Konkursi](#tab1_1)
 
