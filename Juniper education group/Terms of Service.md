@@ -6,6 +6,7 @@
     * [Primary schools](https://junipereducation.org/primary-schools/)
     * [Secondary schools](https://junipereducation.org/secondary-schools/)
     * [MATs](https://junipereducation.org/multi-academy-trusts/)
+    * [International schools](https://junipereducation.org/international-schools)
 * [About us](https://junipereducation.org/about-us/)
     * [Careers](https://careers.junipereducation.org/)
     * [Contact us](https://junipereducation.org/contact-us)
