@@ -654,17 +654,20 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![Scam Awareness Teaching Series](https://www.safesearchkids.com/wp-content/uploads/2024/04/Scam-Alert-Educational-Series.jpg)](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
+[![Amazon Free 18-24 year olds](https://www.safesearchkids.com/wp-content/uploads/2024/10/Girl-Telling-Secret-in-School.jpg)](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
 ### 
 
-[Scam Awareness Series - Part 1](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
+[Amazon Prime FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
 [![parental control app](https://www.safesearchkids.com/wp-content/uploads/2024/09/Row-of-Teens-Glued-to-Their-Smartphones.jpg)](https://www.safesearchkids.com/spy-apps-on-phones-balancing-privacy-and-trust-with-child-safety/)
 
 ### 
 
 [The Problem with Spy Apps](https://www.safesearchkids.com/spy-apps-on-phones-balancing-privacy-and-trust-with-child-safety/)
+
+* [Amazon Prime 6 FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
+* [12 Must-Read Parenting Books](https://www.safesearchkids.com/parenting-books/)
 
 ### Parenting and Well-Being
 
