@@ -342,15 +342,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
+Dudley Dursley was almost in the epilogue of “Harry Potter and the Deathly Hallows,” standing on platform nine and three-quarters with a magical child.
 
 ### Potter History
 
-January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
+December 6, 2013 – Bloomsbury UK announces Jim Kay as the new illustrator of the Harry Potter series.
 
 ### Potter Quote
 
-“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
+“I’m Draco Malfoy, I’m Draco, I’m on your side!”
 
 [](#)
 
