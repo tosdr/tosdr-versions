@@ -223,6 +223,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -234,16 +244,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic, Portret slikara Nikole Brkanovica](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-crtezi/drawings/zoran-popovic-portret-slikara-nikole-brkanovica-erdut-20-9-1993.jpg?itok=Q0GkPOPc)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-13)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar/vid-buff.jpg?itok=mBG4cXbs)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kristalni-globus.jpg?itok=5_3oxPI7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/decani-jug.jpg?itok=1ZqaymLd)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
