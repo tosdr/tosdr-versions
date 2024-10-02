@@ -79,8 +79,6 @@ Menu Close
     
     * [Events](https://www.unibocconi.eu/en/news-and-events-hub/events)
     
-* [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/annual-report-university-evaluation-unit)
-* [Agreements and Discounts](https://www.unibocconi.eu/en/agreements-and-discounts)
 
 * * *
 
@@ -195,6 +193,7 @@ About Us
         
         [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
         
+        * [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/annual-report-university-evaluation-unit)
         * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
         
     
@@ -280,6 +279,7 @@ Organization
     
     [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     
+    * [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/annual-report-university-evaluation-unit)
     * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
     
 
