@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Brunogvv](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236286c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253895-brunogvv/ "Ir ao perfil de Brunogvv")
+    * [![Italo martins22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253917.thumb.png.52804c71f52804c0d096e86409ee0db9.png)](https://www.clubedohardware.com.br/profile/1253917-italo-martins22/ "Ir ao perfil de Italo martins22")
         
         0
         
-        [RTX 4060ti ou Radeon 7700xt. Qual está valendo mais a pena no cenário atual?](https://www.clubedohardware.com.br/forums/topic/1698713-rtx-4060ti-ou-radeon-7700xt-qual-est%C3%A1-valendo-mais-a-pena-no-cen%C3%A1rio-atual/?do=getNewComment "RTX 4060ti ou Radeon 7700xt. Qual está valendo mais a pena no cenário atual?")
+        [Tenho uma rx580 e não dá vídeo em dois monitores](https://www.clubedohardware.com.br/forums/topic/1698740-tenho-uma-rx580-e-n%C3%A3o-d%C3%A1-v%C3%ADdeo-em-dois-monitores/?do=getNewComment "Tenho uma rx580 e não dá vídeo em dois monitores")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Brunogvv](https://www.clubedohardware.com.br/profile/1253895-brunogvv/ "Ir ao perfil de Brunogvv")  
-        4 minutos atrás
+        Por [Italo martins22](https://www.clubedohardware.com.br/profile/1253917-italo-martins22/ "Ir ao perfil de Italo martins22")  
+        6 minutos atrás
         
-    * [![1lokos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/avatar_1lks.thumb.jpg.4f67152c1510b1983b5d387ae66401ae.jpg)](https://www.clubedohardware.com.br/profile/1135974-1lokos/ "Ir ao perfil de 1lokos")
-        
-        0
-        
-        [placa-mãe Pichau B550M-K-1P x Gigabyte B550M-K](https://www.clubedohardware.com.br/forums/topic/1698712-placa-m%C3%A3e-pichau-b550m-k-1p-x-gigabyte-b550m-k/?do=getNewComment "placa-mãe Pichau B550M-K-1P x Gigabyte B550M-K")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [1lokos](https://www.clubedohardware.com.br/profile/1135974-1lokos/ "Ir ao perfil de 1lokos")  
-        5 minutos atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![Tawan25](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253918.thumb.jpeg.4750aa9c1f282933c62a60c67a219783.jpeg)](https://www.clubedohardware.com.br/profile/1253918-tawan25/ "Ir ao perfil de Tawan25")
         
         0
         
-        [Cabo HDMI de marca famosa e boa qualidade tem muita diferença em audio e Vídeo?](https://www.clubedohardware.com.br/forums/topic/1698711-cabo-hdmi-de-marca-famosa-e-boa-qualidade-tem-muita-diferen%C3%A7a-em-audio-e-v%C3%ADdeo/?do=getNewComment "Cabo HDMI de marca famosa e boa qualidade tem muita diferença em audio e Vídeo?")
+        [Todos os aparelhos do meu pc (teclado, mouse etc) param de funcionar do nada](https://www.clubedohardware.com.br/forums/topic/1698739-todos-os-aparelhos-do-meu-pc-teclado-mouse-etc-param-de-funcionar-do-nada/?do=getNewComment "Todos os aparelhos do meu pc (teclado, mouse etc) param de funcionar do nada")
         
-        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        16 minutos atrás
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [Tawan25](https://www.clubedohardware.com.br/profile/1253918-tawan25/ "Ir ao perfil de Tawan25")  
+        6 minutos atrás
         
-    * [![Gabriel mateushj](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-1176187.thumb.png.cfe5ecd6ddc44db559e85e27d3838bdc.png)](https://www.clubedohardware.com.br/profile/1176187-gabriel-mateushj/ "Ir ao perfil de Gabriel mateushj")
-        
-        1
-        
-        [Protetor elétrico começou a sair um cheiro de queimado](https://www.clubedohardware.com.br/forums/topic/1698709-protetor-el%C3%A9trico-come%C3%A7ou-a-sair-um-cheiro-de-queimado/?do=getNewComment "Protetor elétrico começou a sair um cheiro de queimado")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Gabriel mateushj](https://www.clubedohardware.com.br/profile/1176187-gabriel-mateushj/ "Ir ao perfil de Gabriel mateushj")  
-        31 minutos atrás
-        
-    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
+    * [![Italo martins22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253917.thumb.png.52804c71f52804c0d096e86409ee0db9.png)](https://www.clubedohardware.com.br/profile/1253917-italo-martins22/ "Ir ao perfil de Italo martins22")
         
         0
         
-        [Meu controle de Xbox 360 não conecta ao Windows 10](https://www.clubedohardware.com.br/forums/topic/1698708-meu-controle-de-xbox-360-n%C3%A3o-conecta-ao-windows-10/?do=getNewComment "Meu controle de Xbox 360 não conecta ao Windows 10")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
-        35 minutos atrás
-        
-    * [![TxZeref](https://www.clubedohardware.com.br/uploads/members/monthly_2018_12/imported-photo-975257.thumb.jpeg.e1521cfe9fa181ed11207e532ca1a783.jpeg)](https://www.clubedohardware.com.br/profile/975257-txzeref/ "Ir ao perfil de TxZeref")
-        
-        3
-        
-        [Water cooler para Core I7 12700k](https://www.clubedohardware.com.br/forums/topic/1698707-water-cooler-para-core-i7-12700k/?do=getNewComment "Water cooler para Core I7 12700k")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [TxZeref](https://www.clubedohardware.com.br/profile/975257-txzeref/ "Ir ao perfil de TxZeref")  
-        1 hora atrás
-        
-    * [![brasileiro1011](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253893.thumb.png.b2829cdc9eca56d25b40052250e570ce.png)](https://www.clubedohardware.com.br/profile/1253893-brasileiro1011/ "Ir ao perfil de brasileiro1011")
-        
-        4
-        
-        [Aplicativos desconhecidos na parte de inicialização do gerenciador de tarefas](https://www.clubedohardware.com.br/forums/topic/1698706-aplicativos-desconhecidos-na-parte-de-inicializa%C3%A7%C3%A3o-do-gerenciador-de-tarefas/?do=getNewComment "Aplicativos desconhecidos na parte de inicialização do gerenciador de tarefas")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [brasileiro1011](https://www.clubedohardware.com.br/profile/1253893-brasileiro1011/ "Ir ao perfil de brasileiro1011")  
-        1 hora atrás
-        
-    * [![Barbara Duarte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253889.thumb.jpeg.b6e38dfb34b9b89b07916be95d22b9f1.jpeg)](https://www.clubedohardware.com.br/profile/1253889-barbara-duarte/ "Ir ao perfil de Barbara Duarte")
-        
-        4
-        
-        [Recomendação de PC Gamer completo até R$10.000,00](https://www.clubedohardware.com.br/forums/topic/1698705-recomenda%C3%A7%C3%A3o-de-pc-gamer-completo-at%C3%A9-r1000000/?do=getNewComment "Recomendação de PC Gamer completo até R$10.000,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Barbara Duarte](https://www.clubedohardware.com.br/profile/1253889-barbara-duarte/ "Ir ao perfil de Barbara Duarte")  
-        1 hora atrás
-        
-    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
-        
-        5
-        
-        [Gigabyte Radeon RX 7700 XT Gaming OC por R$ 2.900,00 compensa?](https://www.clubedohardware.com.br/forums/topic/1698704-gigabyte-radeon-rx-7700-xt-gaming-oc-por-r-290000-compensa/?do=getNewComment "Gigabyte Radeon RX 7700 XT Gaming OC por R$ 2.900,00 compensa?")
+        [placa-mãe ASRock P55 extreme4 não aceita rx580 sozinha](https://www.clubedohardware.com.br/forums/topic/1698738-placa-m%C3%A3e-asrock-p55-extreme4-n%C3%A3o-aceita-rx580-sozinha/?do=getNewComment "placa-mãe ASRock P55 extreme4 não aceita rx580 sozinha")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        1 hora atrás
+        Por [Italo martins22](https://www.clubedohardware.com.br/profile/1253917-italo-martins22/ "Ir ao perfil de Italo martins22")  
+        8 minutos atrás
         
-    * [![davianchor](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253891.thumb.jpeg.374d9eeedab4374c57786e6f88108e20.jpeg)](https://www.clubedohardware.com.br/profile/1253891-davianchor/ "Ir ao perfil de davianchor")
+    * [![xoJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1214679.thumb.jpeg.df2b5e132f69125a2a2852898d78dce4.jpeg)](https://www.clubedohardware.com.br/profile/1214679-xoj/ "Ir ao perfil de xoJ")
+        
+        0
+        
+        [placa de vídeo congelando](https://www.clubedohardware.com.br/forums/topic/1698737-placa-de-v%C3%ADdeo-congelando/?do=getNewComment "placa de vídeo congelando")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [xoJ](https://www.clubedohardware.com.br/profile/1214679-xoj/ "Ir ao perfil de xoJ")  
+        8 minutos atrás
+        
+    * [![Markos.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253862.thumb.jpeg.c500614d728a7d2f3a6afadfb52b9d9f.jpeg)](https://www.clubedohardware.com.br/profile/1253862-markos/ "Ir ao perfil de Markos.")
         
         2
         
-        [USB do painel frontal do meu gabinete não possui entrada na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1698703-usb-do-painel-frontal-do-meu-gabinete-n%C3%A3o-possui-entrada-na-placa-m%C3%A3e/?do=getNewComment "USB do painel frontal do meu gabinete não possui entrada na placa-mãe")
+        [Consigo atualizar a placa-mãe com um processador incompatível?](https://www.clubedohardware.com.br/forums/topic/1698736-consigo-atualizar-a-placa-m%C3%A3e-com-um-processador-incompat%C3%ADvel/?do=getNewComment "Consigo atualizar a placa-mãe com um processador incompatível?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [davianchor](https://www.clubedohardware.com.br/profile/1253891-davianchor/ "Ir ao perfil de davianchor")  
+        Por [Markos.](https://www.clubedohardware.com.br/profile/1253862-markos/ "Ir ao perfil de Markos.")  
         1 hora atrás
+        
+    * [![SeuzédeSC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1234414.thumb.jpeg.d8444d94fffade41e77a4e7ceb2e3eb7.jpeg)](https://www.clubedohardware.com.br/profile/1234414-seuz%C3%A9desc/ "Ir ao perfil de SeuzédeSC")
+        
+        0
+        
+        [meu pc inicia, não abre nada e trava](https://www.clubedohardware.com.br/forums/topic/1698735-meu-pc-inicia-n%C3%A3o-abre-nada-e-trava/?do=getNewComment "meu pc inicia, não abre nada e trava")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [SeuzédeSC](https://www.clubedohardware.com.br/profile/1234414-seuz%C3%A9desc/ "Ir ao perfil de SeuzédeSC")  
+        1 hora atrás
+        
+    * [![DouglasXRL8](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253912.thumb.jpeg.0aa1cfa1aceec72647ec4f7258f8b01d.jpeg)](https://www.clubedohardware.com.br/profile/1253912-douglasxrl8/ "Ir ao perfil de DouglasXRL8")
+        
+        0
+        
+        [TV/Monitor desligando do nada](https://www.clubedohardware.com.br/forums/topic/1698734-tvmonitor-desligando-do-nada/?do=getNewComment "TV/Monitor desligando do nada")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [DouglasXRL8](https://www.clubedohardware.com.br/profile/1253912-douglasxrl8/ "Ir ao perfil de DouglasXRL8")  
+        1 hora atrás
+        
+    * [![yashima007](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1084390.thumb.jpeg.0c9a06b78c344ddf894ec45faca9eab4.jpeg)](https://www.clubedohardware.com.br/profile/1084390-yashima007/ "Ir ao perfil de yashima007")
+        
+        1
+        
+        [Computador reiniciando misteriosamente sem motivo](https://www.clubedohardware.com.br/forums/topic/1698733-computador-reiniciando-misteriosamente-sem-motivo/?do=getNewComment "Computador reiniciando misteriosamente sem motivo")
+        
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [yashima007](https://www.clubedohardware.com.br/profile/1084390-yashima007/ "Ir ao perfil de yashima007")  
+        1 hora atrás
+        
+    * [![Gust Alves](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242287.thumb.png.23a1eba609f705672e25a1c257d8c4fd.png)](https://www.clubedohardware.com.br/profile/1242287-gust-alves/ "Ir ao perfil de Gust Alves")
+        
+        2
+        
+        [Como acompanhar promoções em várias lojas](https://www.clubedohardware.com.br/forums/topic/1698732-como-acompanhar-promo%C3%A7%C3%B5es-em-v%C3%A1rias-lojas/?do=getNewComment "Como acompanhar promoções em várias lojas")
+        
+        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
+        Por [Gust Alves](https://www.clubedohardware.com.br/profile/1242287-gust-alves/ "Ir ao perfil de Gust Alves")  
+        1 hora atrás
+        
+    * [![GuilhermeResende99](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253910.thumb.png.0615445eafc5cb9a93feef8f32a74a9a.png)](https://www.clubedohardware.com.br/profile/1253910-guilhermeresende99/ "Ir ao perfil de GuilhermeResende99")
+        
+        0
+        
+        [Pressionando a Tecla Shift do Teclado](https://www.clubedohardware.com.br/forums/topic/1698731-pressionando-a-tecla-shift-do-teclado/?do=getNewComment "Pressionando a Tecla Shift do Teclado")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [GuilhermeResende99](https://www.clubedohardware.com.br/profile/1253910-guilhermeresende99/ "Ir ao perfil de GuilhermeResende99")  
+        2 horas atrás
         
     
 
