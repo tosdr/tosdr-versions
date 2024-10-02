@@ -296,9 +296,6 @@ PERSONALIZED SERVICES
 
 [Try Virtual Try-On](https://www.bobbibrowncosmetics.com/virtual-try-on-makeup)
 
-[Take the Foundation  
-Finder Quiz](https://www.bobbibrowncosmetics.com/foundation-finder)
-
 Our Brand
 
  [OUR STORY](https://www.bobbibrowncosmetics.com/our-story)
@@ -826,7 +823,7 @@ Need Help?
 
 Virtual Services
 
-[Virtual Artistry Consultations](https://www.bobbibrowncosmetics.com/virtual-services)
+[Digital Services](https://www.bobbibrowncosmetics.com/digital-services)
 
 [Bobbi Brown Live](https://www.bobbibrowncosmetics.com/live-videos)
 
