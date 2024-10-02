@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110703-removed-2024-10-01)
+     [](https://patriotpost.us/memes/110716-past-performance-predicts-2024-10-02)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -130,8 +130,6 @@ Last Updated: November 15, 2011.
 *      [Victor Joecks Why Harris Struggles With ‘White Dudes’](https://patriotpost.us/opinion/110675-why-harris-struggles-with-white-dudes-2024-10-01)
 *      [Cal Thomas VP Harris Visits the ‘BINO’](https://patriotpost.us/opinion/110674-vp-harris-visits-the-bino-2024-10-01)
 *      [Stephen Moore Can We All Get Along? Yes, by Letting the States Decide.](https://patriotpost.us/opinion/110673-can-we-all-get-along-yes-by-letting-the-states-decide-2024-10-01)
-*      [The Washington Stand A Platform for Pro-Life Recovery](https://patriotpost.us/opinion/110672-a-platform-for-pro-life-recovery-2024-10-01)
-*      [The Babylon Bee Tim Walz Really Excited After Hearing He Might Get Spanked at Debate](https://patriotpost.us/opinion/110671-tim-walz-really-excited-after-hearing-he-might-get-spanked-at-debate-2024-10-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -145,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
