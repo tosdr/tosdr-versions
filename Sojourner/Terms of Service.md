@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-41928520263c5b0c2da053a5cb5bb2ae
+36698881b1d0058531650155bcbad99f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Four-point star clasp](https://sojourner.biz/images/cache/SKU0127variations.200.jpg)](https://sojourner.biz/clasps/glass/four-point-star-clasp.html "Four-point star clasp")
+[![11 mm amber speckled heart beads](https://sojourner.biz/images/cache/glass/HRT030.200.jpg)](https://sojourner.biz/beads/glass/11-mm-amber-speckled-heart-beads.html "11 mm amber speckled heart beads")
 
-#### [Four-point star clasp](https://sojourner.biz/clasps/glass/four-point-star-clasp.html "Four-point star clasp")
+#### [11 mm amber speckled heart beads](https://sojourner.biz/beads/glass/11-mm-amber-speckled-heart-beads.html "11 mm amber speckled heart beads")
 
-$28.00
+$4.00
 
 ### Best Sellers
 
