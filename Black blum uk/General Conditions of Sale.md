@@ -195,7 +195,7 @@ Learn More
 ----------
 
 * [CONTACT](https://black-blum.com/pages/contactus)
-* [NHS DISCOUNT](https://black-blum.com/pages/nhs-discounts)
+* [NHS & KEY WORKER DISCOUNTS](https://black-blum.com/pages/nhs-discounts)
 * [SHIPPING INFORMATION](https://black-blum.com/pages/shipping-information)
 * [PRESS/IMAGES](https://black-blum.com/pages/press-images)
 * [TRADE](https://black-blum.com/pages/trade)
