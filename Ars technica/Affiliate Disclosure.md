@@ -1,70 +1,54 @@
-[Skip to main content](#main)
+[Skip to content](#main)
 
-[](https://arstechnica.com/ "Ars Technica Homepage")
+[Ars Technica home](https://arstechnica.com/)
 
-* [Biz & IT](https://arstechnica.com/information-technology/)
-* [Tech](https://arstechnica.com/gadgets/)
-* [Science](https://arstechnica.com/science/)
-* [Policy](https://arstechnica.com/tech-policy/)
-* [Cars](https://arstechnica.com/cars/)
-* [Gaming & Culture](https://arstechnica.com/gaming/)
-* [Store](https://arstechnica.com/store/)
-* [Forums](https://arstechnica.com/civis/)
+Sections
+
+[Forum](https://arstechnica.com/civis/)
 
 [Subscribe](https://arstechnica.com/store/product/subscriptions/)
 
 [](https://arstechnica.com/search/)
 
- 
-
-Close
-
-[](#site-menu)
-
-### Navigate
-
-* [Store](https://arstechnica.com/store/)
-* [Subscribe](https://arstechnica.com/store/product/subscriptions/)
-* [Videos](http://arstechnica.com/video/)
-* [Features](https://arstechnica.com/features/)
-* [Reviews](https://arstechnica.com/reviews/)
-
-* [RSS Feeds](https://arstechnica.com/rss-feeds/)
-* [Mobile Site](https://arstechnica.com/?view=mobile)
-
-* [About Ars](https://arstechnica.com/about-us/)
-* [Staff Directory](https://arstechnica.com/staff-directory/)
-* [Contact Us](https://arstechnica.com/contact-us/)
-
-* [Advertise with Ars](https://advertising.condenast.com/brands/ars-technica)
-* [Reprints](https://arstechnica.com/reprints/)
-
-### Filter by topic
-
+* [AI](https://arstechnica.com/ai/)
 * [Biz & IT](https://arstechnica.com/information-technology/)
-* [Tech](https://arstechnica.com/gadgets/)
-* [Science](https://arstechnica.com/science/)
-* [Policy](https://arstechnica.com/tech-policy/)
 * [Cars](https://arstechnica.com/cars/)
-* [Gaming & Culture](https://arstechnica.com/gaming/)
+* [Culture](https://arstechnica.com/culture/)
+* [Gaming](https://arstechnica.com/gaming/)
+* [Health](https://arstechnica.com/health/)
+* [Policy](https://arstechnica.com/tech-policy/)
+* [Science](https://arstechnica.com/science/)
+* [Security](https://arstechnica.com/security/)
+* [Space](https://arstechnica.com/space/)
+* [Tech](https://arstechnica.com/gadgets/)
+
+* [Feature](https://arstechnica.com/features/)
+* [Reviews](https://arstechnica.com/reviews/)
 * [Store](https://arstechnica.com/store/)
-* [Forums](https://arstechnica.com/civis/)
 
-### Settings
+* [AI](https://arstechnica.com/ai/)
+* [Biz & IT](https://arstechnica.com/information-technology/)
+* [Cars](https://arstechnica.com/cars/)
+* [Culture](https://arstechnica.com/culture/)
+* [Gaming](https://arstechnica.com/gaming/)
+* [Health](https://arstechnica.com/health/)
+* [Policy](https://arstechnica.com/tech-policy/)
+* [Science](https://arstechnica.com/science/)
+* [Security](https://arstechnica.com/security/)
+* [Space](https://arstechnica.com/space/)
+* [Tech](https://arstechnica.com/gadgets/)
 
-Front page layout
+[Forum](https://arstechnica.com/civis/) [Subscribe](https://arstechnica.com/store/product/subscriptions/)
 
-[Grid](https://arstechnica.com/affiliate-link-policy/?view=grid)
+Theme
 
-[List](https://arstechnica.com/affiliate-link-policy/?view=archive)
+* Light
+* Dark
+* System
 
-Site theme
+Sign In
 
-[light](https://arstechnica.com/affiliate-link-policy/?theme=light)
-
-[dark](https://arstechnica.com/affiliate-link-policy/?theme=dark)
-
-[Sign in](https://arstechnica.com/civis/login?_xfRedirect=%2Faffiliate-link-policy%2F)
+Orbiting HQ
 
 Affiliate Link Policy
 =====================
@@ -73,28 +57,25 @@ Some articles on Ars Technica contain links to products available from online re
 
 We apply the same rigor and standards of objectivity to these articles as we do to the rest of Ars Technica’s journalism. Ars Technica writers and editors are instructed not to select stories or alter coverage because of this program, and they are not incentivized to do so. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
 
-* [Store](https://arstechnica.com/store/)
-* [Subscribe](https://arstechnica.com/store/product/subscriptions/)
-* [About Us](https://arstechnica.com/about-us/)
-* [RSS Feeds](https://arstechnica.com/rss-feeds/)
-* [View Mobile Site](https://arstechnica.com/affiliate-link-policy/?view=mobile)
+Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information. After all, you don’t need to know everything, only what’s important.
 
-* [Contact Us](https://arstechnica.com/contact-us/)
-* [Staff](https://arstechnica.com/staff-directory/)
-* [Advertise with us](https://advertising.condenast.com/brands/ars-technica)
+[](https://twitter.com/arstechnica)[](https://mastodon.social/arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
+
+More from Ars
+
+* [About Us](https://arstechnica.com/about-us/)
+* [Staff Directory](https://arstechnica.com/staff-directory/)
+* [Newsletters](https://arstechnica.com/newsletters/)
+* [Ars Videos](https://video.arstechnica.com/)
+* [General FAQ](https://arstechnica.com/general-faq/)
+* [RSS Feeds](https://arstechnica.com/rss-feeds/)
+
+Contact
+
+* [Contact us](https://arstechnica.com/contact-us/)
+* [Advertise with us](https://www.condenast.com/brands/ars-technica)
 * [Reprints](https://arstechnica.com/reprints/)
 
-### [Newsletter Signup](https://arstechnica.com/newsletters/)
+Do Not Sell My Personal Information
 
-Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. [Sign me up →](https://arstechnica.com/newsletters/)
-
-[](https://twitter.com/arstechnica)[](https://mastodon.social/@arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
-
-[](http://condenast.com/ "Visit Condé Nast")
-
-CNMN Collection  
-WIRED Media Group  
-© 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.condenast.com/user-agreement/) (updated 1/1/20) and [Privacy Policy](https://www.condenast.com/privacy-policy/) and [Ars Technica Addendum](https://arstechnica.com/amendment-to-conde-nast-user-agreement-privacy-policy/). Ars may earn compensation on sales from links on this site. [Read our affiliate link policy](https://arstechnica.com/affiliate-link-policy/).  
-[Your California Privacy Rights](https://www.condenast.com/privacy-policy/#california) | ![](https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/privacyoptions123x59-c5c9972158.png) Do Not Sell My Personal Information  
-The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.  
-[Ad Choices](https://www.aboutads.info/)
+© 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.condenast.com/user-agreement/) and [Privacy Policy and Cookie Statement](https://www.condenast.com/privacy-policy/) and [Ars Technica Addendum](https://arstechnica.com/amendment-to-conde-nast-user-agreement-privacy-policy/) and [Your California Privacy Rights](https://www.condenast.com/privacy-policy/#california). Ars Technica may earn compensation on sales from links on this site. [Read our affiliate link policy](https://arstechnica.com/affiliate-link-policy/). The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. [Ad Choices](https://www.aboutads.info/)
