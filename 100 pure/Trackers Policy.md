@@ -414,9 +414,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$25.00
+$48.00
 
-Default Title - $25
+Default Title - $48
 
 ADD TO TOTE
 
@@ -444,9 +444,9 @@ ADD TO TOTE
 
 186 reviews (187)
 
-$25.00
+$58.00
 
-Default Title - $25
+Default Title - $58
 
 ADD TO TOTE
 
