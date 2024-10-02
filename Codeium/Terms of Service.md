@@ -14,7 +14,7 @@ Open Resources optionsResources
 
 Open Company optionsCompany
 
-[Get Codeium](https://codeium.com/download)
+[](https://codeium.com/account/login)[Get Codeium](https://codeium.com/download)
 
 Terms of Service: Individual & Pro
 ==================================
