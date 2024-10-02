@@ -2,7 +2,7 @@
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
-[Doujin](https://www.fakku.net/doujin "Hentai Doujin") [Games](https://www.fakku.net/games "Hentai Games") [Manga](https://www.fakku.net/books "Hentai Manga") [Unlimited](https://www.fakku.net/unlimited "FAKKU Unlimited")
+[Doujin](https://www.fakku.net/doujin "Hentai Doujin") [Games](https://www.fakku.net/games "Hentai Games") [Manga](https://www.fakku.net/manga "Hentai Manga") [Unlimited](https://www.fakku.net/unlimited "FAKKU Unlimited")
 
 [Tags](https://www.fakku.net/tags "Hentai Tags") [Forums](https://www.fakku.net/forums "Hentai Forums") [Merch](https://merch.fakku.net/ "Hentai Merch")
 
@@ -133,18 +133,6 @@ PO Box 9009
 Portland, OR 97207  
 United States
 
-[Vanilla](https://www.fakku.net/tags/vanilla "Vanilla Hentai")
-
-[Tomboy](https://www.fakku.net/tags/tomboy "Tomboy Hentai")
-
-[Netorare](https://www.fakku.net/tags/netorare "Netorare Hentai")
-
-[Monster Girl](https://www.fakku.net/tags/monstergirl "Monster Girl Hentai")
-
-[Femdom](https://www.fakku.net/tags/femdom "Femdom Hentai")
-
-Popular Tags Today:
-
 [Twitter](https://x.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
 
 © FAKKU, LLC 2024 All rights reserved.
@@ -157,6 +145,6 @@ Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
 [New Releases](https://www.fakku.net/) [FAKKU Unlimited](https://www.fakku.net/unlimited)
 
-[Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/books) [Unlimited](https://www.fakku.net/unlimited)
+[Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited)
 
 [Tags](https://www.fakku.net/tags) [Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/)
