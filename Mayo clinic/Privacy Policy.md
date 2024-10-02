@@ -371,7 +371,7 @@ If you sign up to receive text messages from us on any of our Sites, you are con
 
 You can opt-out of SMS messages by texting STOP to the respective short code. Your opt-out request will generate one final message confirming that you have been unsubscribed. You will no longer receive SMS messages from the short code you opted out from. If you want to join again, sign up using your Mayo Clinic Online Services account or text HELP to the short code for instructions.
 
-If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance.  You can also contact Mayo Clinic Customer Assistance via phone at 507-738-4014 or email at [PrivacyOffice@mayoclinic.org](mailto:privacyoffice@mayoclinic.org)**.**   
+If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance.  You can also contact Mayo Clinic Customer Assistance via phone at 507-738-4014 or email at [privacyoffice@mayo.edu](mailto:privacyoffice@mayo.edu)**.**   
 
 Note that carriers are not liable for delayed or undelivered messages.  
 
@@ -468,7 +468,7 @@ Mayo Clinic Privacy Officer
 200 First St. SW  
 Rochester, MN 55905  
 507-266-6286  
-[PRIVACYOFFICE@mayo.edu](mailto:PRIVACYOFFICE@mayo.edu)
+[privacyoffice@mayo.edu](mailto:privacyoffice@mayo.edu)
 
 ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
