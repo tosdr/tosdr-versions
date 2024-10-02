@@ -1,5 +1,5 @@
-Department for Education plink
-==============================
+Plink
+=====
 
 JavaScript is not enabled in your current browser. Please enable JavaScript to use the full range of functionality in this application.
 
@@ -26,9 +26,9 @@ Please enter your password
 
  Stay logged in [(Security information)](#)
 
-### Securely login into Department for Education plink
+### Securely login into Plink
 
-If you login Department for Education plink on a private device (e.g. your own PC or tablet), we recommend that you select the option "Keep me logged in". This enables you to remain logged in for 30.0 hours without being asked to login again, if you have not interacted with the platform for a period of time. If you are using a public device, which is also used by other individuals, we recommend that you do not select this option, as information is stored in the browsers cookies, which could result in misuse.
+If you login Plink on a private device (e.g. your own PC or tablet), we recommend that you select the option "Keep me logged in". This enables you to remain logged in for 30.0 hours without being asked to login again, if you have not interacted with the platform for a period of time. If you are using a public device, which is also used by other individuals, we recommend that you do not select this option, as information is stored in the browsers cookies, which could result in misuse.
 
 OK
 
