@@ -22,11 +22,11 @@ by Business Type
 
 [### Grow your followers
 
-Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+Learn more](https://get.manychat.com/grow)
 
 [### Link in bio’ is soooo 2016. Use DMs instead
 
-Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+Learn more](https://get.manychat.com/rip-link-in-bio)
 
 Agencies
 
@@ -48,7 +48,7 @@ Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
-[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)You free this Oct 2 to 3? Learn how to dominate Instagram with us!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
+[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
 
@@ -90,11 +90,11 @@ by Business Type
 
 [### Grow your followers
 
-Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+Learn more](https://get.manychat.com/grow)
 
 [### Link in bio’ is soooo 2016. Use DMs instead
 
-Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+Learn more](https://get.manychat.com/rip-link-in-bio)
 
 Agencies
 
