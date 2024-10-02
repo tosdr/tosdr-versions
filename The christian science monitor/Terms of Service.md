@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
+
+[Respect
+
+### Civility’s art of listening](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1002/Civility-s-art-of-listening "Civility’s art of listening")
+
 [Safety
 
 ### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
-
-[Honesty
-
-### Winning elections with voices of truth](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1001/Winning-elections-with-voices-of-truth "Winning elections with voices of truth")
-
-[Trust
-
-### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Her power in Poland came accidentally. She kept it with stamina – and Facebook.](https://www.csmonitor.com/World/Europe/2024/1002/influencer-Ewa-Letowska-Poland-democracy-Facebook "Her power in Poland came accidentally. She kept it with stamina – and Facebook.")
+
+[### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
+
 [### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
-
-[### His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?](https://www.csmonitor.com/World/Asia-Pacific/2024/1001/Japan-prime-minister-LDP-abenomics "His own party calls him traitor. Can Japan’s new PM rebuild trust in politics?")
-
-[### Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?](https://www.csmonitor.com/USA/Society/2024/1001/Georgia-Abortion-Ban-6-weeks-Supreme-Court "Georgia judge strikes down state’s abortion ban as unconstitutional. Will it last?")
 
 * * *
 
