@@ -133,9 +133,9 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
-[![Aspire 2024 Interaction Experience Management Leader](https://backend.quadient.com/files/default/2024-10/thumbnail_2024_aspire_ixm_leaderboard_.png)
+[![Mobile device with interactive icons radiating from it](https://backend.quadient.com/files/default/2024-10/720x480-thumbnail-ixm-blog.png)
 
-Interaction Experience Management (IXM)
+Intro to Interaction Experience Management (IXM)
 
 The next big customer experience technology trend](https://www.quadient.com/en/blog/interaction-experience-management)
 
