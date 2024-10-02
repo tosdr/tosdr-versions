@@ -29,7 +29,6 @@ top of page
     * [PRIVACY POLICY](https://www.uni-accounting.com/privacy-policy)
     * [TERMS & CONDIITONS](https://www.uni-accounting.com/kopie-von-privacy-policy)
     
-* [SITIO ESPAÑOL](https://contabilidad-uni.com/)
 
 Privacy Policy
 ==============
@@ -78,7 +77,7 @@ CH-2540 Grenchen
 
 ​​
 
-© Copyright 2024 ITExpress Ltd.
+© Copyright 2025 ITExpress Ltd.
 
 ![Plain light blue sky without clouds.jpg](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_95,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
 
