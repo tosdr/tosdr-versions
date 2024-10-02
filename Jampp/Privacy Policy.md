@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66fda0c98d28d26c75eaddb6_what-the-latest-att-metrics-say-about-the-state-of-skan.png)
+
+What the latest ATT metrics say about the state of SKAN](https://jampp.com/blog/what-the-latest-att-metrics-say-about-the-state-of-skan)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66f40d53b4e0f5a4581f0e54_serasa-drives-119-more-events-with-app-retargeting.png)
 
 Serasa drives 119% more events with App Retargeting](https://jampp.com/blog/serasa-drives-119-more-events-with-app-retargeting)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66a267fd48b621dbbfe43e10_jampp-joins-adjusts-growth-lab-in-buenos-aires.png)
-
-Jampp joins Adjust’s Growth Lab in Buenos Aires](https://jampp.com/blog/jampp-joins-adjusts-growth-lab-in-buenos-aires)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
