@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
+   [![Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_assalto_padaria_biu_cf8a54ddd6.jpg)
+
+NESTA MANHÃ
+
+Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/video-homem-vestido-de-gari-realiza-assalto-a-mao-armada-em-padaria-no-benedito-bentes/ "Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes")   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
 
 Em Hidrante
 
-Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://www.tnh1.com.br/noticia/nid/policia-apreende-drogas-que-foram-colocadas-em-hidrante-dentro-de-bloco-de-nutricao-da-ufal/ "Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal")   [![Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/2/csm_moto-incendiada-santa-lucia_3416af137c.jpg)
+Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://www.tnh1.com.br/noticia/nid/policia-apreende-drogas-que-foram-colocadas-em-hidrante-dentro-de-bloco-de-nutricao-da-ufal/ "Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal")   [![Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/2/csm_moto-incendiada-santa-lucia_3416af137c.jpg)
 
 Suspeito foragido
 
-Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/e/csm_suspeito-roubar-carro-pajucara_2336a5ac65.jpg)
+Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_suspeito-roubar-carro-pajucara_2336a5ac65.jpg)
 
 Na Pajuçara
 
-Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://www.tnh1.com.br/noticia/nid/video-homem-usa-dispositivo-para-destravar-carro-e-furta-bolsa-com-notebook-e-cartoes-de-credito/ "Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito")   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
+Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://www.tnh1.com.br/noticia/nid/video-homem-usa-dispositivo-para-destravar-carro-e-furta-bolsa-com-notebook-e-cartoes-de-credito/ "Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito")   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
 
 em maceió
 
-“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://www.tnh1.com.br/noticia/nid/nao-tinham-postura-de-policiais-diz-testemunha-sobre-suspeitos-de-tentativa-de-assalto-em-empresarial/ "“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial")   [![Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_policia-prisao-assaltantes-cortesia_57e303029b.png)
+“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://www.tnh1.com.br/noticia/nid/nao-tinham-postura-de-policiais-diz-testemunha-sobre-suspeitos-de-tentativa-de-assalto-em-empresarial/ "“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial")   [![Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_policia-prisao-assaltantes-cortesia_57e303029b.png)
 
 No Farol
 
-Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-policiais-interceptando-falsos-pms-durante-tentativa-de-assalto-em-empresarial-em-maceio/ "Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió")   [![Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_Emerson_barbeiro_2a84dedf1b.jpeg)
-
-na ponta grossa
-
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")
+Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-policiais-interceptando-falsos-pms-durante-tentativa-de-assalto-em-empresarial-em-maceio/ "Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Veja como será o esquema de policiamento nas eleições municipais de Alagoas](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_f5005e7a5b.jpg)
+   [![Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_4edd53da70.jpeg)
+
+VIOLÊNCIA SEXUAL
+
+Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/mulher-com-transtorno-mental-e-estuprada-pelo-proprio-sobrinho-no-interior-de-alagoas/ "Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas ")   [![Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_pf_operacao_compra_de_votos_ascom_9daaaf1c1e.jpg)
+
+barra de santo antônio
+
+Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte](https://www.tnh1.com.br/noticia/nid/denuncia-de-compra-de-votos-pf-cumpre-mandados-de-busca-e-apreensao-no-litoral-norte/ "Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte")   [![Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_montagem-desaparecidosequestro-satuba_e3c6e100f4.jpg)
+
+investigação
+
+Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia](https://www.tnh1.com.br/noticia/nid/desaparecidos-sequestro-de-taxista-e-amigo-em-satuba-completa-1-ano-veja-o-que-diz-a-policia/ "Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia")   [![Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_mandado_PRF_8a7ad05370.jpeg)
+
+Polícia
+
+Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF](https://www.tnh1.com.br/noticia/nid/homem-com-mandado-de-prisao-por-nao-pagar-pensao-e-preso-em-abordagem-da-prf/ "Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF ")   [![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_f5005e7a5b.jpg)
 
 Tentativa de assalto
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")   [![Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_material-descartado-clinica-jatiuca_702afa7b73.jpg)
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")   [![Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_material-descartado-clinica-jatiuca_702afa7b73.jpg)
 
 inquérito policial
 
-Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica](https://www.tnh1.com.br/noticia/nid/dona-de-clinica-de-estetica-na-jatiuca-e-indiciada-por-crime-ambiental-e-investigada-como-falsa-biomedica/ "Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ")   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
-
-Em Hidrante
-
-Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://www.tnh1.com.br/noticia/nid/policia-apreende-drogas-que-foram-colocadas-em-hidrante-dentro-de-bloco-de-nutricao-da-ufal/ "Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal")   [![Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/7/csm_apreensao_drogas_sao_sebastiao_-_foto_reproducao_video_c1643b279a.png)
-
-Grande apreensão
-
-Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião](https://www.tnh1.com.br/noticia/nid/policia-prende-dois-e-apreende-160-kg-de-maconha-no-municipio-de-sao-sebastiao/ "Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião")   [![Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/2/csm_moto-incendiada-santa-lucia_3416af137c.jpg)
-
-Suspeito foragido
-
-Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_violencia_freepik_2b82191f3c.jpg)
-
-No Clima Bom
-
-Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-agredir-esposa-e-mais-dois-familiares-dela-apos-invadir-casa-da-sogra/ "Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra")
+Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica](https://www.tnh1.com.br/noticia/nid/dona-de-clinica-de-estetica-na-jatiuca-e-indiciada-por-crime-ambiental-e-investigada-como-falsa-biomedica/ "Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantor
 
 Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
 
-[![Astro da NFL é suspenso após acusação de agressão à namorada grávida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_von_miller_reproducao_redes_sociais_61a22f5250.jpg)
+[![Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_luana-gilson-a-fazenda_reproducao-tv_record_55324d92ee.jpg)
 
-nos eua
+confusão
 
-nos eua
+confusão
 
-Astro da NFL é suspenso após acusação de agressão à namorada grávida
+Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16
 
-Astro da NFL é suspenso após acusação de agressão à namorada grávida](https://www.tnh1.com.br/noticia/nid/astro-da-nfl-e-suspenso-apos-acusacao-de-agressao-a-namorada-gravida/ "Astro da NFL é suspenso após acusação de agressão à namorada grávida")[![Lula desembarca em Brasília após problema com avião no México](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_lula_avisao_da7d30533f.png)
+Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16](https://www.tnh1.com.br/noticia/nid/luana-cospe-em-gilsao-e-o-chama-de-trembolona-em-a-fazenda-16/ "Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16")[!['Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_crianca-envenenada-rio-de-janeiro-reproducao_5821b06e38.png)
 
-Brasil
+cobrou justiça
 
-Brasil
+cobrou justiça
 
-Lula desembarca em Brasília após problema com avião no México
+'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ
 
-Lula desembarca em Brasília após problema com avião no México](https://www.tnh1.com.br/noticia/nid/lula-desembarca-em-brasilia-apos-problema-com-aviao-no-mexico/ "Lula desembarca em Brasília após problema com avião no México")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
+'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ](https://www.tnh1.com.br/noticia/nid/aproveitaram-a-fome-dele-para-matar-diz-tia-de-crianca-envenenada-no-rj/ "'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ")[![PRF passa a usar drones para multar motoristas em rodovias federais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/0/csm_drone-multa-motoristas-prf_b6ed264a72.png)
 
-Tentativa de assalto
+INFRAÇÕES DE TRÂNSITO
 
-Tentativa de assalto
+INFRAÇÕES DE TRÂNSITO
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol
+PRF passa a usar drones para multar motoristas em rodovias federais
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_pra_desprender_1_94a9073e56.jpeg)
+PRF passa a usar drones para multar motoristas em rodovias federais](https://www.tnh1.com.br/noticia/nid/prf-passa-a-usar-drones-para-multar-motoristas-em-rodovias-federais/ "PRF passa a usar drones para multar motoristas em rodovias federais")[![Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_silvio-almeida-e-anielle-franco-1725650086682_v2_900x506.jpg_023a788700.jpg)
 
-Agenda Cultural
+acusações
 
-Agenda Cultural
+acusações
 
-Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier
+Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022
 
-Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier](https://www.tnh1.com.br/noticia/nid/pra-desprender-peca-conta-historias-reais-costurado-por-um-conto-de-chico-xavier/ "Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier")
+Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022](https://www.tnh1.com.br/noticia/nid/anielle-franco-diz-em-depoimento-que-assedio-de-silvio-almeida-comecou-em-2022/ "Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
