@@ -54,11 +54,12 @@
     
 * [Society of Strong Coffee](https://www.deathwishcoffee.com/pages/subscription)
 * [Ritual Rewards](https://www.deathwishcoffee.com/pages/ritual-rewards)
-* [Find In Store](https://www.deathwishcoffee.com/pages/storelocator)
-* [Blog & Content](https://www.deathwishcoffee.com/pages/blog)
-* [About](https://www.deathwishcoffee.com/pages/about)
-* [Help & FAQs](https://www.deathwishcoffee.com/pages/help)
 * [Account](https://www.deathwishcoffee.com/account/)
+* [Careers](https://www.deathwishcoffee.com/pages/careers)
+* [Help & FAQs](https://www.deathwishcoffee.com/pages/help)
+* [Find In Store](https://www.deathwishcoffee.com/pages/storelocator)
+* [About](https://www.deathwishcoffee.com/pages/about)
+* [Blog & Content](https://www.deathwishcoffee.com/pages/blog)
 
 [Log in](https://www.deathwishcoffee.com/account/login)
 
@@ -481,7 +482,7 @@ Company
 
 * [Help + FAQ](https://www.deathwishcoffee.com/pages/help)
 * [Refund Policy](https://www.deathwishcoffee.com/pages/help#template--14643757121591__a28b5404-f121-486c-942a-77e688d3753e-heading)
-* [Careers](https://jobs.jobvite.com/deathwishcoffeecareers)
+* [Careers](https://www.deathwishcoffee.com/pages/careers)
 * [Wholesale](https://www.dwccwholesale.com/)
 
 Accounts + Orders
