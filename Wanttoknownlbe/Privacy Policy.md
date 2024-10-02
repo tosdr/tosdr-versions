@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/bp-indirecte-oproep-tot-evacuatie-jane-burgermeisters-reactie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/van-woede-naar-kracht/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
