@@ -542,8 +542,6 @@ Country Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Bela
 
 [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology")
 
-[News](https://kronospan.com/en_EN/company/news "News")
-
 [Furniture Cluster](https://www.furniture-cluster.com/ "Furniture Cluster")
 
 ##### Privacy & Legal ![dropdown menu](/public/krono/img/icons/down-blk.png) 
@@ -559,6 +557,8 @@ Country Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Bela
 [Contacts](https://kronospan.com/en_EN/contacts "Contacts")
 
 [Sitemap](https://kronospan.com/en_EN/sitemap "Sitemap")
+
+##### News ![dropdown menu](/public/krono/img/icons/down-blk.png) 
 
 [](https://www.facebook.com/kronospan/)[](https://twitter.com/kronospan)[](https://www.instagram.com/kronospan)[](https://www.pinterest.com/kronospan/)[](https://www.youtube.com/c/KronospanWorldwide)[](https://www.linkedin.com/company/kronospan)[](https://vimeo.com/kronospan)
 
@@ -578,7 +578,7 @@ Country \* Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain B
 
 ##### [Organization](https://kronospan.com/en_EN/company "Organization")
 
-[Kronospan's Vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan's Vision") [About us](https://kronospan.com/en_EN/company/organisation "About us") [Environment](https://kronospan.com/en_EN/company/sustainability "Environment") [Work With Us](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Work With Us") [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology") [News](https://kronospan.com/en_EN/company/news "News") [Furniture Cluster](https://www.furniture-cluster.com/ "Furniture Cluster")
+[Kronospan's Vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan's Vision") [About us](https://kronospan.com/en_EN/company/organisation "About us") [Environment](https://kronospan.com/en_EN/company/sustainability "Environment") [Work With Us](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Work With Us") [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology") [Furniture Cluster](https://www.furniture-cluster.com/ "Furniture Cluster")
 
 ##### [Privacy & Legal](javascript:; "Privacy & Legal")
 
@@ -587,6 +587,8 @@ Country \* Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain B
 ##### [Support & Advice](javascript:; "Support & Advice")
 
 [F.A.Q.](https://kronospan.com/en_EN/faq "F.A.Q.") [Contacts](https://kronospan.com/en_EN/contacts "Contacts") [Sitemap](https://kronospan.com/en_EN/sitemap "Sitemap")
+
+##### [News](https://kronospan.com/en_EN/company/news "News")
 
 © Kronoplus Limited 2024
 
