@@ -607,7 +607,7 @@ Support[Help center](https://www.paddle.com/help)[Developer docs](https://develo
 
 Company[About us](https://www.paddle.com/about)[CareersWe're hiring](https://www.paddle.com/careers)[Press](https://www.paddle.com/press)[Partnerships](https://www.paddle.com/partners)[Procurement](https://www.paddle.com/about/procurement)
 
-Compare[Stripe](https://www.paddle.com/compare/stripe)[Lemon Squeezy](https://www.paddle.com/compare/lemon-squeezy)[FastSpring](https://www.paddle.com/compare/fastspring)[Chargebee](https://www.paddle.com/compare/chargebee)[Avalara](https://www.paddle.com/compare/avalara)[Digital River](https://www.paddle.com/compare/digital-river)
+Compare[Stripe](https://www.paddle.com/compare/stripe)[Lemon Squeezy](https://www.paddle.com/compare/lemon-squeezy)[FastSpring](https://www.paddle.com/compare/fastspring)[Chargebee](https://www.paddle.com/compare/chargebee)[Avalara](https://www.paddle.com/compare/avalara)[Digital River](https://www.paddle.com/compare/digital-river)[Compare all](https://www.paddle.com/compare)
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
