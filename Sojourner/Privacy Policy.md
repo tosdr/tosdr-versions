@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-11e9f9bf24f5674735e68733dea3090d
+5deec52be4dbbd1d5b5cc11d29ba5680
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![16 mm faceted round black onyx beads](https://www.sojourner.biz/images/cache/stone/ON0010.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/16-mm-faceted-round-black-onyx-beads.html "16 mm faceted round black onyx beads")
+[![12 mm thin Baroque silver pearls](https://www.sojourner.biz/images/cache/pearls/PE0046.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
 
-#### [16 mm faceted round black onyx beads](https://www.sojourner.biz/beads/stone-m-z/onyx/16-mm-faceted-round-black-onyx-beads.html "16 mm faceted round black onyx beads")
+#### [12 mm thin Baroque silver pearls](https://www.sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
 
-$21.00
+$25.00
 
 ### Best Sellers
 
