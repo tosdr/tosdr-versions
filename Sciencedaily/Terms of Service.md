@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 1, 2024**
+**October 2, 2024**
 
 * * *
 
@@ -251,25 +251,25 @@ this week
 
 [Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
-[Asthma](https://www.sciencedaily.com/news/health_medicine/asthma/)
+[Fitness](https://www.sciencedaily.com/news/health_medicine/fitness/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Kuiper Belt](https://www.sciencedaily.com/news/space_time/kuiper_belt/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
