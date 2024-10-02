@@ -13,7 +13,7 @@ Navigation Menu
 * [Standings](https://www.nhl.com/standings)
 * [Players](https://www.nhl.com/player)
 * [Fantasy](https://www.nhl.com/fantasy)
-* [Community](https://www.nhl.com/community)
+* [NHL Unites](https://www.nhl.com/community)
 * [Teams](https://www.nhl.com/info/teams)
 * Shop
     
@@ -396,7 +396,6 @@ Last Updated: March 8, 2023
     * [Frequently Asked Questions](https://www.nhl.com/info/frequently-asked-questions)
     * [Online Transmission Policy](https://www.nhl.com/info/online-transmission-policy)
     * [Sponsorship Opportunities](https://www.nhl.com/info/sponsorship-opportunities)
-    * [Accessibility](https://www.nhl.com/info/aoda)
     * [Contact Us](https://www.nhl.com/info/contact-us)
     
 
