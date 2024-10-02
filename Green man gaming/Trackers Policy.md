@@ -101,24 +101,22 @@ You can search things like: Games, Franchises, DLC
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
-* [XP](https://www.greenmangaming.com/xp-offers/)
+* [XP Offers](https://www.greenmangaming.com/xp-offers/)
 * [Community](https://discord.gg/kpyQAYr9vq)
     * [Discord Community](https://discord.gg/kpyQAYr9vq)
     * [Blog](https://www.greenmangaming.com/blog/)
     * [Green Room](https://www.greenmangaming.com/green-room/)
 * [XBOX](https://www.greenmangaming.com/xbox/)
-* [Showcase](https://www.greenmangaming.com/showcase/)
 
 * [All Games](https://www.greenmangaming.com/all-games/)
     
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
-* [XP](https://www.greenmangaming.com/xp-offers/)
+* [XP Offers](https://www.greenmangaming.com/xp-offers/)
 * [Community](https://discord.gg/kpyQAYr9vq)
     
 * [XBOX](https://www.greenmangaming.com/xbox/)
-* [Showcase](https://www.greenmangaming.com/showcase/)
 
 You can search things like:
 
