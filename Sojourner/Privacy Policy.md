@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2fa37462157472e31ecadd04519f070e
+c6522a82eec814a16ab3b64e12a6d8b7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Topaz dentelles Swarovksi clasp](https://www.sojourner.biz/images/cache/SKU0381front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/topaz-dentelles-swarovksi-clasp.html "Topaz dentelles Swarovksi clasp")
+[![10 mm round orange polka dot Czech discs](https://www.sojourner.biz/images/cache/glass/GL0014.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-orange-polka-dot-czech-discs.html "10 mm round orange polka dot Czech discs")
 
-#### [Topaz dentelles Swarovksi clasp](https://www.sojourner.biz/clasps/swarovski/topaz-dentelles-swarovksi-clasp.html "Topaz dentelles Swarovksi clasp")
+#### [10 mm round orange polka dot Czech discs](https://www.sojourner.biz/beads/glass/10-mm-round-orange-polka-dot-czech-discs.html "10 mm round orange polka dot Czech discs")
 
-$40.00
+$10.00
 
 ### Best Sellers
 
