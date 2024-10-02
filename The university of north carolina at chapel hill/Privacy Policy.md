@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/VotingHero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/Policy-hero-250x141.jpg)
     
-    Register to vote by Oct. 11](https://www.unc.edu/posts/2024/10/01/register-to-vote-by-oct-11/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/NCResponse-250x141.jpg)
+    Resources, reminders for civic discourse and events](https://www.unc.edu/posts/2024/10/01/carolina-shares-civic-discourse-resources-reminders/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/BrunoHero-250x141.jpg)
     
-    UNC System offers support to storm-impacted western campuses](https://www.unc.edu/posts/2024/09/30/unc-system-offers-support-to-storm-impacted-western-campuses/)
+    Covenant Scholar’s dentistry path leads back to rural service](https://www.unc.edu/posts/2024/10/01/covenant-scholars-dentistry-path-leads-back-to-rural-service/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=0b6eb60c00&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c9ff6e6b30&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
