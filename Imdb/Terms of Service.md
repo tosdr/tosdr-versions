@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:130-5571089-7067961:S8TDJVZMC0NNG93VK4KG$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DS8TDJVZMC0NNG93VK4KG:0)      
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-2308972-6368431:E3QWVGCH4C39C8E6QBHH$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DE3QWVGCH4C39C8E6QBHH:0)      
 
 Menu
 
@@ -18,7 +18,7 @@ Watch
 
 Awards & Events
 
-[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Emmys](https://www.imdb.com/emmys/?ref_=nv_ev_csegemy)[TIFF](https://www.imdb.com/toronto/?ref_=nv_ev_csegtiff)[Festival Season](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[Hispanic Heritage Month](https://www.imdb.com/spotlight/?ref_=nv_ev_cseghhm)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[All Events](https://www.imdb.com/event/?ref_=nv_ev_all)
+[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Halloween](https://www.imdb.com/scary-good/?ref_=nv_ev_cseghw)[Hispanic Heritage Month](https://www.imdb.com/spotlight/?ref_=nv_ev_cseghhm)[MAMI](https://www.imdb.com/mami/?ref_=nv_ev_csegmami)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/?ref_=nv_ev_all)
 
 Celebs
 
@@ -251,4 +251,4 @@ IMDb, an Amazon company
 
 © 1990-2024 by IMDb.com, Inc.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:130-5571089-7067961:S8TDJVZMC0NNG93VK4KG$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DS8TDJVZMC0NNG93VK4KG:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-2308972-6368431:E3QWVGCH4C39C8E6QBHH$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DE3QWVGCH4C39C8E6QBHH:0)
