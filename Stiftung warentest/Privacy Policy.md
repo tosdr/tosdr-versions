@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 
 test.de entdecken
 
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 
 test.de entdecken
 
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 
 test.de entdecken
 
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Neueste Tests
 
+* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 
 test.de entdecken
 
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Service Stiftung Warentest
 
