@@ -66,7 +66,9 @@
     
     Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector/)[Use Cases
     
-    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)
+    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)[Industries
+    
+    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry/)
     
     [Contact sales](https://www.offsec.com/sales/)
     
@@ -293,7 +295,9 @@
     
     Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector/)[Use Cases
     
-    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)
+    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)[Industries
+    
+    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry/)
     
     [Contact sales](https://www.offsec.com/sales/)
     
