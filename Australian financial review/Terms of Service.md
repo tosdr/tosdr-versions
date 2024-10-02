@@ -305,15 +305,15 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Richard Goyder.](https://static.ffx.io/images/$zoom_0.854%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_652%2C$y_195/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c2525165b6adc4871d031848beb770051003090a)](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
+[![Recruiters and consultants say our people skills are getting worse the more time we spend on our own in front of screens.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3af78b13383ce8639065d576d3922544fcd5180c)](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
 
-### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
+### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
 
-* Patrick Durkin
+* Euan Black
 
-* ### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
+* ### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
     
-* ### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
+* ### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
