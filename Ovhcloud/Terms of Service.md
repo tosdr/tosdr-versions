@@ -222,7 +222,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * Bare Metal Pod
             
-            * [Process underway to obtain SecNumCloud qualification for Bare Metal Pod](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/bare-metal/) Bare Metal performance in a SecNumCloud compliant sovereign environment.
+            * [Process underway to obtain SecNumCloud qualification for Bare Metal Pod](https://www.ovhcloud.com/en-ie/bare-metal/secnumcloud/) Bare Metal performance in a SecNumCloud compliant sovereign environment.
         * Use Cases
             
             * [Data sovereignty](https://www.ovhcloud.com/en-ie/about-us/data-sovereignty/)
