@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-[**BACK TO THE INDOOR SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients "https://www.gorillagrowtent.com/collections/lotus-nutrients")
+[**CROPTOBER SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients "https://www.gorillagrowtent.com/collections/lotus-nutrients")
 
 [Plant Fertilizer: Grow Healthy Plants with Lotus Nutrients![](//lotusnutrients.com/cdn/shop/files/Lotus-Logo.webp?v=1683572191&width=409)](https://lotusnutrients.com/)
 
