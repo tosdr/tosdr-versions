@@ -134,7 +134,7 @@ Last Update: 02/03/2016
 
 ### Smile Gallery
 
-[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Untitled-design-1-300x300.jpg)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/smile-close-up-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/smile-56-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/smiel-4-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Copy-of-Eldridge4-300x300.jpg)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Copy-of-DSCF1755-300x300.jpg)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Copy-of-DSCF1734-300x300.jpg)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Copy-of-DSCF1639-300x300.jpg)](#)
+[![](https://www.henrichdental.com/wp-content/uploads/2024/10/Screenshot-2024-10-02-at-2.45.50-PM-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2024/10/Screenshot-2024-10-02-at-2.45.55-PM-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2024/10/Screenshot-2024-10-02-at-2.46.00-PM-300x284.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2024/10/Screenshot-2024-10-02-at-2.46.04-PM-300x270.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2024/10/Screenshot-2024-10-02-at-2.44.52-PM-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/Untitled-design-1-300x300.jpg)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/smile-close-up-300x300.png)](#)[![](https://www.henrichdental.com/wp-content/uploads/2023/06/smile-56-300x300.png)](#)
 
 [View Smile Gallery](https://www.henrichdental.com/smile-gallery/)
 
