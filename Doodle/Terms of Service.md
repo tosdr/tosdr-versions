@@ -230,6 +230,7 @@ Last updated: 29th September, 2023
 
 * [](https://doodle.com/en/)
 * [Terms and Conditions](https://doodle.com/en/general-terms-and-conditions/)
+    
 
 [](https://doodle.com/en/)
 
