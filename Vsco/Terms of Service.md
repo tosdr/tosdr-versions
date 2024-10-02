@@ -15,21 +15,21 @@ Please click [**here**](https://vsco.co/about/terms-of-use-old) to view the prev
 Table of Contents
 -----------------
 
-1. [Use of our Services](#)
-2. [Your Creator Content](#)
-3. [Content Moderation and Enforcement](#)
-4. [Your Rights with Respect to our Services](#)
-5. [Proprietary Rights](#)
-6. [Paid Services](#)
-7. [Third-Party Links](#)
-8. [Indemnity](#)
-9. [No Warranty](#)
-10. [Limitation of Liability](#)
-11. [Term and Termination](#)
-12. [Informal Claim Resolution](#)
-13. [Arbitration Agreement](#)
-14. [Acknowledgment of Image Recognition Technology](#)
-15. [General](#)
+1. [Use of our Services](#1-use-of-our-services)
+2. [Your Creator Content](#2-your-creator-content)
+3. [Content Moderation and Enforcement](#3-content-moderation-and-enforcement)
+4. [Your Rights with Respect to our Services](#4-your-rights-with-respect-to-our-services)
+5. [Proprietary Rights](#5-proprietary-rights)
+6. [Paid Services](#6-paid-services)
+7. [Third-Party Links](#7-third-party-links)
+8. [Indemnity](#8-indemnity)
+9. [No Warranty](#9-no-warranty)
+10. [Limitation of Liability](#10-limitation-of-liability)
+11. [Term and Termination](#11-term-and-termination)
+12. [Informal Claim Resolution](#12-informal-claim-resolution)
+13. [Arbitration Agreement](#13-arbitration-agreement)
+14. [Acknowledgment of Image Recognition Technology](#14-acknowledgment-of-image-recognition-technology)
+15. [General](#15-general)
 
 We nurture creative experimentation and turn the aspirational into the achievable. At VSCO, we believe that there’s a creative spark within all of us and that everyone, at heart, is a creator. Welcome to the VSCO community!
 
