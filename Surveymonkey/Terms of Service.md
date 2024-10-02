@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![Logotipo da SurveyMonkey](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__badge.png)
+![SurveyMonkey Logo](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__badge.png)
 
-* [Visão geral](https://www.surveymonkey.com/mp/legal/)
+* [Panoramica](https://www.surveymonkey.com/mp/legal/)
     
-* [Termos de Uso](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Condizioni di utilizzo](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Contrato principal de serviços](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Contratto sui servizi applicabile](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Termos de serviço específico](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Condizioni specifiche dei servizi](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Princípios de privacidade](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Elementi fondamentali della privacy](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Aviso de privacidade](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Informativa sulla privacy](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies usados nas páginas de questionários](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookie utilizzati nelle pagine dell'indagine](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Política de usos aceitáveis](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politica sugli utilizzi ammissibili](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Segurança](https://www.surveymonkey.com/mp/legal/security/)
+* [Sicurezza](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Geral](https://www.surveymonkey.com/mp/legal/general/)
+* [Informazioni generali](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Você sabia?
+Lo sapevi?
 
-63% das pessoas consideram o histórico de privacidade e segurança da empresa antes de usar seus produtos e serviços.
+Il 63% delle persone valuta la privacy e la sicurezza di un'azienda prima di acquistarne i prodotti e servizi.
 
-![Estatísticas na barra lateral da página jurídica](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__stats-image.png)
+![Statistiche barra laterale Centro legale](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
