@@ -59,6 +59,7 @@
     * [Career Center](https://jobs.wmfha.org/)
     * [Click & Lease](https://www.naahq.org/click-and-lease?gclid=CjwKCAjw_L6LBhBbEiwA4c46urggBq8VP0R42S2xwIvfUcTrkkGzIy_-JFQPyBtgA_fOo4v7vwBHQRoCgkwQAvD_BwE)
     * [Blog](https://www.wmfha.org/news/)
+    * [WMFHA Room Rentals](https://www.wmfha.org/wmfha-room-rentals)
 
 [in your cart View Cart](https://www.wmfha.org/products/checkout)
 
@@ -117,6 +118,7 @@
     * [Career Center](https://jobs.wmfha.org/)
     * [Click & Lease](https://www.naahq.org/click-and-lease?gclid=CjwKCAjw_L6LBhBbEiwA4c46urggBq8VP0R42S2xwIvfUcTrkkGzIy_-JFQPyBtgA_fOo4v7vwBHQRoCgkwQAvD_BwE)
     * [Blog](https://www.wmfha.org/news/)
+    * [WMFHA Room Rentals](https://www.wmfha.org/wmfha-room-rentals)
 
 * [Contact](https://www.wmfha.org/contact-us)
 * [](https://www.wmfha.org/search)
