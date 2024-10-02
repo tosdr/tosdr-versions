@@ -358,6 +358,16 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
+[![How and When to Block Cloud Storage in the Workplace](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_isdropboxsecurehowandwhentoblockcloudstorageintheworkplace1.webp?width=500&height=190&name=newsroom_isdropboxsecurehowandwhentoblockcloudstorageintheworkplace1.webp)
+
+Posted on October 2, 2024 by Kory Underdown
+
+ **
+
+How and When to Block Cloud Storage in the Workplace
+
+**](https://www.dnsfilter.com/blog/how-to-block-dropbox-safety-and-security)
+
 [![Maximizing Efficiency and Security: The Art of Safe Automation](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp?width=500&height=190&name=newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp)
 
 Posted on October 1, 2024 by TK Keanini
@@ -377,16 +387,6 @@ Posted on September 18, 2024 by Kory Underdown
 Ensuring Safety from Digital Threats in Educational Environments
 
 **](https://www.dnsfilter.com/blog/cipa-filtering-media-literacy-in-education)
-
-[![Creating an Over-the-Counter Cyber Defense Program](https://www.dnsfilter.com/hs-fs/hubfs/creatinganover_the_countercyberdefenseprogram1.webp?width=500&height=190&name=creatinganover_the_countercyberdefenseprogram1.webp)
-
-Posted on August 13, 2024 by TK Keanini
-
- **
-
-Creating an Over-the-Counter Cyber Defense Program
-
-**](https://www.dnsfilter.com/blog/creating-an-over-the-counter-cyber-defense-program)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
