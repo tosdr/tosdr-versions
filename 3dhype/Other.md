@@ -72,9 +72,9 @@ Categories [RECIPE TODAY](https://casihelper.com/category/recipe-today/) [Leave 
 [Strawberry Shortcake Roulade](https://casihelper.com/strawberry-shortcake-roulade/)
 ------------------------------------------------------------------------------------
 
-September 30, 2024September 25, 2024
+October 2, 2024September 25, 2024
 
-[![Strawberry Shortcake Roulade](https://casihelper.com/wp-content/uploads/2024/09/Strawberry-Shortcake-Roulade.jpg)](https://casihelper.com/strawberry-shortcake-roulade/)
+[![Strawberry Shortcake Roulade](https://casihelper.com/wp-content/uploads/2024/09/Bloc-1-Bloc-1-find-more-fall-recipes-casihelper.com-14.webp)](https://casihelper.com/strawberry-shortcake-roulade/)
 
 Indulge in a heavenly Strawberry Shortcake Roulade! This luscious dessert boasts layers of light cake and fresh strawberries for a sweet treat.
 
