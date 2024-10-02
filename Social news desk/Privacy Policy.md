@@ -42,7 +42,9 @@ Since 2010, we’ve proudly supported America’s largest news companies, cities
 
 Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Universities**
 
-Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**News & Publishing**
+Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**K-12 Education**
+
+Engage parents and celebrate education in your community.](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)[**News & Publishing**
 
 Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
 
