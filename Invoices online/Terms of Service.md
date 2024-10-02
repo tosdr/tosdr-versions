@@ -197,56 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Jannie Schutte - myFinance-Online.co.za
+Henry Venter
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=185227183)  
-UMVIKELI PRIVATE SECURITY
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=197034115)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=125896133)  
-Well Hung Art
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=43214521)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=114770769)  
-West Coast Horse Trails
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=189823683)  
+Tracknetics
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=108693933)  
-Redlum Group (Pty) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=212882954)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=24662930)  
-Norton Medical & Consult - Namibia
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=121407186)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=106433276)  
-Enhle Oarabile Kea
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=46529439)  
-CBR Verwe/Paints
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=179739436)  
-TurboFibre
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=5032379)  
-TIGERDSL
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=133456995)  
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=128598276)  
-Kainos (Pty) Ltd
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=92802705)  
-Chiron Medical Solutions
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=36373505)  
-ARCHITEK PTY LTD
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=161938833)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=1440607)  
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=23078601)  
 MONSTER SECURITY SERVICES
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=191101227)  
+OptaServ
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=187991671)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=139388946)  
+Website Café (PTY) LTD
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=49330915)  
+OrgChart Hosting Pty Ltd
+
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=29434408)  
+VA AND M BUSINESSES (PTY)LTD
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=19356640)  
+MONSTER SECURITY GUARDING
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=116722235)  
+Myfinance-Online
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=126935428)  
+TRACKFORCE (Pty) Ltd
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=154662739)  
+Frameless Fanatix (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
