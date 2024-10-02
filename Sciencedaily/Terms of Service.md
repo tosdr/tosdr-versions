@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Using Antimatter to Detect Nuclear Radiation](https://www.sciencedaily.com/releases/2024/10/241001124604.htm)
+* [High Airborne Plastic Chemical Levels](https://www.sciencedaily.com/releases/2024/10/241001170432.htm)
+* [Air Pollution And Children's Brains](https://www.sciencedaily.com/releases/2024/10/241001170430.htm)
 * [Min-Robots in Convoy for Endoscopic Surgery](https://www.sciencedaily.com/releases/2024/10/241001114926.htm)
 * [Possible Future Climate Scenarios](https://www.sciencedaily.com/releases/2024/10/241001124656.htm)
 * [Meet Our New Neighbor: Exoplanet Next Door](https://www.sciencedaily.com/releases/2024/10/241001114845.htm)
@@ -236,9 +239,6 @@ this hour
 * [Temp-Controlled Clothing: Squid-Inspired Fabric](https://www.sciencedaily.com/releases/2024/10/241001114730.htm)
 * [Pluto's Moon Charon: Record of Ancient Processes](https://www.sciencedaily.com/releases/2024/10/241001114722.htm)
 * [What Triggered Tongan Volcanic Eruption?](https://www.sciencedaily.com/releases/2024/09/240930212840.htm)
-* [New Perspective On Supermassive Black Holes](https://www.sciencedaily.com/releases/2024/09/240930160219.htm)
-* [Watch Water Form out of Thin Air](https://www.sciencedaily.com/releases/2024/09/240930160507.htm)
-* [COVID: Protection from Severe Flu?](https://www.sciencedaily.com/releases/2024/09/240930160208.htm)
 
 Trending Topics
 ---------------
@@ -259,17 +259,17 @@ this week
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Kuiper Belt](https://www.sciencedaily.com/news/space_time/kuiper_belt/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
 [Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
-
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
