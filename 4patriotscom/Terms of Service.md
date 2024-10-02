@@ -1,7 +1,3 @@
-[📣 **\[BDAY SALE\] 15% OFF STOREWIDE, 1 DAY ONLY**
-
-Shop Now >>](https://4patriots.com/collections/best-sellers?position=announcementbar&collection=BestSellers)
-
 [![Black company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
 We Champion Freedom & Self-Reliance
