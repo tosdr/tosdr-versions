@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Centennials, Debat… (9,489)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Centennials, Debates, and Indictments" (9,489 posts)")
-* [Your Nation's Fact of the Week (12,115)](https://forum.nationstates.net/viewtopic.php?t=183720&f=23&view=unread#unread ""Your Nation's Fact of the Week" (12,115 posts)")
-* [Who would YN support in a war Between… (84)](https://forum.nationstates.net/viewtopic.php?t=555012&f=25&view=unread#unread ""Who would YN support in a war Between AN and AAN" (84 posts)")
-* [How important is AN in F7 (673)](https://forum.nationstates.net/viewtopic.php?t=550373&f=25&view=unread#unread ""How important is AN in F7" (673 posts)")
-* [The Connection (OOC/Sign up) (25)](https://forum.nationstates.net/viewtopic.php?t=555917&f=5&view=unread#unread ""The Connection (OOC/Sign up)" (25 posts)")
+* [YN's soldier describes life as a POW… (39)](https://forum.nationstates.net/viewtopic.php?t=556011&f=25&view=unread#unread ""YN's soldier describes life as a POW under AN's captivity." (39 posts)")
+* [EOA Summer Olympiad 2024 (Live Coverage) (35)](https://forum.nationstates.net/viewtopic.php?t=555991&f=7&view=unread#unread ""EOA Summer Olympiad 2024 (Live Coverage)" (35 posts)")
+* [Islamic Discussion Thread ٥: Free Taj… (11,752)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,752 posts)")
+* [Using the AN's flag, how do they deal… (8,152)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,152 posts)")
 
 Advertisement
 
