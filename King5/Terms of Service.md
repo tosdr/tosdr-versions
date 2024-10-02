@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_360x203.jpg)](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
+    *  [![](https://media.king5.com/assets/KING/images/58c637a3-9feb-40e9-a9dc-c2dd95edbc07/20241002T000550/58c637a3-9feb-40e9-a9dc-c2dd95edbc07_16x9.jpg) ![](https://media.king5.com/assets/KING/images/58c637a3-9feb-40e9-a9dc-c2dd95edbc07/20241002T000550/58c637a3-9feb-40e9-a9dc-c2dd95edbc07_360x203.jpg)](https://www.king5.com/article/news/local/new-grant-allow-more-washington-nurses-take-sexual-assault-nurse-examiner-training/281-768d6b03-4614-42ef-89cc-20d881d32025)
         
-        #### [Police find stolen vehicle crashed into front doors of Bethel High School](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b) [![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce9bd5e1-0b29-4327-932a-4e551c837434/20241001T200549/ce9bd5e1-0b29-4327-932a-4e551c837434_360x203.jpg)](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
+        #### [New grant will allow more Washington nurses to take Sexual Assault Nurse Examiner training](https://www.king5.com/article/news/local/new-grant-allow-more-washington-nurses-take-sexual-assault-nurse-examiner-training/281-768d6b03-4614-42ef-89cc-20d881d32025)
         
-        #### [Stolen vehicle found crashed into front of Bethel High School](https://www.king5.com/article/news/crime/stolen-vehicle-crashed-bethel-high-school/281-8a7b4955-6365-4aa1-a88e-8f121ddf741b)
-    *  [![](https://media.king5.com/assets/KING/images/049c674e-e828-4c75-a951-630caab94b5e/20240930T230456/049c674e-e828-4c75-a951-630caab94b5e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/049c674e-e828-4c75-a951-630caab94b5e/20240930T230456/049c674e-e828-4c75-a951-630caab94b5e_360x203.jpg)](https://www.king5.com/article/news/local/shooting-near-skagit-valley-college/281-8ed5d3d5-41d7-4337-9cb5-9a3d78a11824)
+    *  [![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/883d4c06-db0d-4290-a984-092a8908ac4a/20241001T130912/883d4c06-db0d-4290-a984-092a8908ac4a_360x203.jpg)](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
         
-        #### [Oak Harbor man arrested for shooting that left one injured near Skagit Valley College](https://www.king5.com/article/news/local/shooting-near-skagit-valley-college/281-8ed5d3d5-41d7-4337-9cb5-9a3d78a11824)
+        #### [Attempted ATM theft at Seattle Walgreens leaves significant damage behind](https://www.king5.com/article/news/crime/truck-seattle-walgreens-attempted-atm-theft/281-5562f229-6868-4130-b438-fd3b280050d9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3510b9d4-7120-4b4e-8000-aeeb2efee5ab/20241001T115925/3510b9d4-7120-4b4e-8000-aeeb2efee5ab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3510b9d4-7120-4b4e-8000-aeeb2efee5ab/20241001T115925/3510b9d4-7120-4b4e-8000-aeeb2efee5ab_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/061b6528-598f-46fb-b490-e08983b3117f/20241001T235552/061b6528-598f-46fb-b490-e08983b3117f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/061b6528-598f-46fb-b490-e08983b3117f/20241001T235552/061b6528-598f-46fb-b490-e08983b3117f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-66°
+60°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
