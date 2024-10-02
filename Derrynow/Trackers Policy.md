@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-01 Oct 2024
+02 Oct 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz")](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -291,6 +298,13 @@ Derry Crown Court
 [35-year-old Derry man who assaulted a woman told to prepare a jail sentence](https://www.derrynow.com/news/local-news/1618820/35-year-old-derry-man-who-assaulted-a-woman-told-to-prepare-a-jail-sentence.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PSNI's Terrorism Investigation Unit conducting two planned searches in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI's Terrorism Investigation Unit conducting two planned searches in Derry")](https://www.derrynow.com/news/local-news/1618699/psni-s-terrorism-investigation-unit-conducting-two-planned-searches-in-derry.html)
 
 PSNI
@@ -300,35 +314,12 @@ PSNI
 [PSNI's Terrorism Investigation Unit conducting two planned searches in Derry](https://www.derrynow.com/news/local-news/1618699/psni-s-terrorism-investigation-unit-conducting-two-planned-searches-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz")](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Celebrating 30 years of Daleview House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Celebrating 30 years of Daleview House")](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Celebrating 30 years of Daleview House](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Castledawson Traffic Collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Castledawson Traffic Collision")](https://www.derrynow.com/news/county-derry-post/1618594/castledawson-traffic-collision.html)
-
-The PSNI
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Castledawson Traffic Collision](https://www.derrynow.com/news/county-derry-post/1618594/castledawson-traffic-collision.html)
------------------------------------------------------------------------------------------------------------------------------
 
 [![Tributes paid to Derry teacher, actress and singer Carita Kerr](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid to Derry teacher, actress and singer Carita Kerr")](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
 
@@ -338,6 +329,13 @@ Carita Kerr with her husband John during his time as mayor of Derry
 
 [Tributes paid to Derry teacher, actress and singer Carita Kerr](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![City of Derry Airport to hold emergency training exercise](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "City of Derry Airport to hold emergency training exercise")](https://www.derrynow.com/news/local-news/1618641/city-of-derry-airport-to-hold-emergency-training-exercise.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[City of Derry Airport to hold emergency training exercise](https://www.derrynow.com/news/local-news/1618641/city-of-derry-airport-to-hold-emergency-training-exercise.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,14 +513,39 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![March and rally to be held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally to be held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/local-news/1618950/march-and-rally-to-be-held-in-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+[![Police in Derry appealing for information after hit and run of man and his dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for information after hit and run of man and his dog")](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
+
+The incident happened in the vicinity of John Street.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry appeal for witnesses after man and his dog struck in hit-and-run](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video")](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Limavady Grammar School hosts annual prize day](https://www.derrynow.com/resizer/165/93/true/2024_09_30/CDP_-_01-10-24_-_LGS_Prize_day_%283%29-1727735725789_1727735866.jpg--.jpg?1727735866144 "Limavady Grammar School hosts annual prize day")](https://www.derrynow.com/news/local-news/1618442/limavady-grammar-school-hosts-annual-prize-day.html)
+
+Head Girl, Ruby Armstrong, and Head Boy, Joel Osbourne, present a gift to Guest Speaker, Professor Cecilia O'Kane. Included is Principal, Mrs N J Madden, and Chair of the Board of Governors, Mr G Hill
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Limavady Grammar School hosts annual prize day](https://www.derrynow.com/news/local-news/1618442/limavady-grammar-school-hosts-annual-prize-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![March and rally to be held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/resizer/165/93/true/2024_10_01/RALLY_FOR_GAZA_1_%281%29-1727788280646.jpg--.jpg?1727788281202 "March and rally to be held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/local-news/1618950/march-and-rally-to-be-held-in-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [March and rally to be held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/local-news/1618950/march-and-rally-to-be-held-in-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Murphy unveils drive to bring regional balance to NI economy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Murphy unveils drive to bring regional balance to NI economy")](https://www.derrynow.com/news/local-news/1618912/murphy-unveils-drive-to-bring-regional-balance-to-ni-economy.html)
+[![Murphy unveils drive to bring regional balance to NI economy](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_01/1727783725323_0.jpg--.jpg?1727783725564 "Murphy unveils drive to bring regional balance to NI economy")](https://www.derrynow.com/news/local-news/1618912/murphy-unveils-drive-to-bring-regional-balance-to-ni-economy.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -537,33 +560,6 @@ Sean Hargan celebrates with team mates and fans after defeating Shamrock Rovers 
 
 ['The players have to realise the magnitude of what's at stake'](https://www.derrynow.com/news/derry-sport/1618945/the-players-have-to-realise-the-magnitude-of-what-s-at-stake.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/resizer/165/93/true/2024_10_01/24-09-24_St._Joseph_s_Enterprise_03-1727790486934.jpg--.jpg?1727790487864 "Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!")](https://www.derrynow.com/news/local-news/1619012/derry-s-st-josephs-pick-up-enterprising-school-2023-24-award.html)
-
-Pictured with the Young Enterprise Award at the first of the workshops, Ms. Fionnvola McCaul, teacher, Ms. Annette McCourt, classroom assistant and Ms. Natalie Hamilton, Area Manager, Young Enterprise
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's St. Joseph’s pick up ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/news/local-news/1619012/derry-s-st-josephs-pick-up-enterprising-school-2023-24-award.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Terex Campsie](https://www.derrynow.com/resizer/165/93/true/2024_10_01/4._The_Terex_Campsie_team_celebrating_the_production_of_its_1000th_machine_this_year-1727780644515.jpg--.jpg?1727780645675 "Terex Campsie")](https://www.derrynow.com/news/business/1618811/terex-campsie-celebrates-5-year-anniversary.html)
-
-Terex Campsie
-
-[Business](https://www.derrynow.com/section/1339/business)
-
-[Terex Campsie Celebrates 5-Year Anniversary](https://www.derrynow.com/news/business/1618811/terex-campsie-celebrates-5-year-anniversary.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein was not aware of McMonagle references until last week, says Murphy](https://www.derrynow.com/resizer/165/93/true/2024_10_01/DerryNow_Gallery_Collage_x3%29-1727800020874.png--.png?1727800115910 "Sinn Fein was not aware of McMonagle references until last week, says Murphy")](https://www.derrynow.com/news/local-news/1619248/sinn-fein-was-not-aware-of-mcmonagle-references-until-last-week-says-murphy.html)
-
-Former Sinn Fein press officer Michael McMonagle and Sinn Fein Minister for the Economy Connor Murphy
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein was not aware of McMonagle references until last week, says Murphy](https://www.derrynow.com/news/local-news/1619248/sinn-fein-was-not-aware-of-mcmonagle-references-until-last-week-says-murphy.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
