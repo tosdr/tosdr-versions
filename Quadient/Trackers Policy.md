@@ -133,17 +133,17 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
+[![Aspire 2024 Interaction Experience Management Leader](https://backend.quadient.com/files/default/2024-10/thumbnail_2024_aspire_ixm_leaderboard_.png)
+
+Interaction Experience Management (IXM)
+
+The next big customer experience technology trend](https://www.quadient.com/en/blog/interaction-experience-management)
+
 [![Aspire 2024 Interaction Experience Management Leader Badge](https://backend.quadient.com/files/default/2024-09/aspire_2024_ixm_leaderboard_resource_thumb_720x480.png "Aspire 2024 IXM Software Leader | Quadient")
 
 Quadient is a Leader on New Aspire IXM Grid
 
 Interaction Experience Management Leaderboard Grid](https://www.quadient.com/en/resources/quadient-leader-new-aspire-ixm-grid)
-
-[![Thumbnail of Inspire Adapt brochure against background showing documents streaming into PDF/UA](https://backend.quadient.com/files/default/2024-08/thumb-inspire-adapt-brochure-720x480.png "Inspire Adapt | Automated PDF Accessibility Solution")
-
-Inspire Adapt: Automated PDF Accessibility Solution
-
-Rapidly adapt your documents for universal access](https://www.quadient.com/en/resources/inspire-adapt-automated-pdf-accessibility-solution)
 
 Communications
 
