@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![KomboNetwork](plugins/MineCraft/icons/25x25xKomboNetwork_1727900122.png.pagespeed.ic.ToIogjewWC.png)
 
-BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+KomboNetwork](https://minecraft-server.net/details/KomboNetwork/ "KomboNetwork ") [Cloud Survival](https://minecraft-server.net/details/CloudSurvival/ "Cloud Survival")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![chillzonesmp](plugins/MineCraft/icons/25x25xchillzonesmp_1720845017.png.pagespeed.ic.cfh9_HKrci.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")
+ChillZone SMP {Whitelisted}](https://minecraft-server.net/details/chillzonesmp/ "ChillZone SMP {Whitelisted}")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0649 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06324 - Created by [Debaucus](https://debauc.us/)
