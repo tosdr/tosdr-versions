@@ -182,7 +182,7 @@ Protocols
 
 ##### Report or Request
 
-* [Parking](https://ottawa.ca/en/3-1-1/report-or-request/parking)
+* [Parking issues](https://ottawa.ca/en/3-1-1/report-or-request/parking)
 * [Garbage collection](https://ottawa.ca/en/3-1-1/report-or-request/garbage-and-recycling)
 * [Road maintenance](https://ottawa.ca/en/3-1-1/report-or-request/road-maintenance)
 * [Property damage](https://ottawa.ca/en/3-1-1/report-or-request/property-damage-or-maintenance)
