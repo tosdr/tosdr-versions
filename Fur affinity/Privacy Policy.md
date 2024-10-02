@@ -80,7 +80,7 @@ Support ▼
 
 [Support Fur Affinity: Honoring Dragoneer's Legacy. https://gofund.me/0a0b27ba](https://gofund.me/0a0b27ba)
 
-[![](/themes/beta/img/banners/logo/fa-banner-summer.jpg)](https://www.furaffinity.net/)
+[![](/themes/beta/img/banners/logo/fa-banner-fall.jpg)](https://www.furaffinity.net/)
 
 Fur Affinity | Privacy Policy
 -----------------------------
@@ -242,13 +242,13 @@ Our computer systems and third party hosting provider systems are currently base
 
 ![](/themes/beta/img/banners/fa_logo.png?v2)
 
-85080 **Users online** — 2105 **guests**, 12213 **registered** and 70762 **other**
+86141 **Users online** — 2520 **guests**, 15735 **registered** and 67886 **other**
 
 Limit bot activity to periods with less than 10k registered users online.  
   
 **© 2005-2024 Frost Dragon Art LLC**
 
-Server Time: Oct 2, 2024 07:02 AM
+Server Time: Oct 2, 2024 12:59 PM
 
 This website uses cookies to enhance your browsing experience. [Learn More](https://www.furaffinity.net/privacy)
 
