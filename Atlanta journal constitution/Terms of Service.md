@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: WATCH LIVE: Walz and Vance meet in their first vice presidential debate](https://www.ajc.com/news/live-vice-presidential-debate-from-cbs-news/NALTNMN7ZNBS7EIEXPYUULQDRY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
