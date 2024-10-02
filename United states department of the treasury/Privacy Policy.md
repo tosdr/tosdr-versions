@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 2, 2024
+    
+    [Treasury Sanctions Houthi Weapons Smuggling and Procurement Networks](https://home.treasury.gov/news/press-releases/jy2627)
+    
     October 1, 2024
     
     [U.S. Department of the Treasury Announces More Than $2 Billion in Upfront Savings for Consumers on Electric and Plug-In Hybrid Vehicle Sales Under Biden-Harris Administration’s Inflation Reduction Act](https://home.treasury.gov/news/press-releases/jy2626)
@@ -562,10 +566,6 @@ MENU MENU
     October 1, 2024
     
     [Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia](https://home.treasury.gov/news/press-releases/jy2623)
-    
-    October 1, 2024
-    
-    [Treasury Designates Extremist Settler Group in West Bank](https://home.treasury.gov/news/press-releases/jy2622)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
