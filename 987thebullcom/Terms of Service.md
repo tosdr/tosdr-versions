@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| White HorseChris Stapleton<br><br>11:39am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>11:36am |
-| You ProofMorgan Wallen<br><br>11:33am |
-| Fast CarLuke Combs<br><br>11:29am |
-| Before He CheatsCarrie Underwood<br><br>11:26am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:41pm |
+| Ridin' RoadsDustin Lynch<br><br>5:37pm |
+| World On FireNate Smith<br><br>5:34pm |
+| Wind Up Missing YouTucker Wetmore<br><br>5:32pm |
+| Thinkin 'Bout MeMorgan Wallen<br><br>5:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -227,7 +227,7 @@ Recently Played
 * [Terms Of Use](https://www.987thebull.com/terms-of-use)
 * [Accessibility Statement](https://www.alphamediausa.com/accessibility-statement)
 * [Contest Rules](https://www.987thebull.com/category/contest-rules)
-* [EEO Report](https://www.alphamediausa.com/wp-content/uploads/brand/eeo-report/Portland%20OR%20EEO%20Public%20File%20Report%202023.pdf)
+* [EEO Report](https://www.alphamediausa.com/wp-content/uploads/brand/eeo-report/Alpha_Portland_Oregon_2023-24_EEO_PFR.pdf)
 * [KUPL Public Inspection File](https://publicfiles.fcc.gov/fm-profile/KUPL)
     
     If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-News Talk • Eastern
+Spanish • Western
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
