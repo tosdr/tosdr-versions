@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b6c5f860-8fde-45ca-a9e1-c46874255bc3/20241001T180149/b6c5f860-8fde-45ca-a9e1-c46874255bc3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6c5f860-8fde-45ca-a9e1-c46874255bc3/20241001T180149/b6c5f860-8fde-45ca-a9e1-c46874255bc3_360x203.jpg)](https://www.king5.com/article/news/crime/bellevue-police-searching-armed-robbery-suspects/281-d576483c-1904-4e8c-8c51-4554a0903de7)
+    *  [![](https://media.king5.com/assets/KING/images/ada297bb-1963-4fc4-9abd-cd8037dba199/20241002T194331/ada297bb-1963-4fc4-9abd-cd8037dba199_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ada297bb-1963-4fc4-9abd-cd8037dba199/20241002T194331/ada297bb-1963-4fc4-9abd-cd8037dba199_360x203.jpg)](https://www.king5.com/article/news/local/seattle/overlook-walk-new-landmark-seattle-waterfront-open-this-week/281-155c462c-4400-4377-9675-e9d6fbddb739)
         
-        #### [Bellevue police asking residents to 'stay vigilant' after armed robbery of gas station](https://www.king5.com/article/news/crime/bellevue-police-searching-armed-robbery-suspects/281-d576483c-1904-4e8c-8c51-4554a0903de7)
+        #### [Overlook Walk, a new landmark on Seattle's Waterfront, set to open this week](https://www.king5.com/article/news/local/seattle/overlook-walk-new-landmark-seattle-waterfront-open-this-week/281-155c462c-4400-4377-9675-e9d6fbddb739)
         
-    *  [![](https://media.king5.com/assets/KING/images/ece2b5dd-ae85-4580-b773-0dc872b69fc2/20241001T121301/ece2b5dd-ae85-4580-b773-0dc872b69fc2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ece2b5dd-ae85-4580-b773-0dc872b69fc2/20241001T121301/ece2b5dd-ae85-4580-b773-0dc872b69fc2_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-public-schools-superintendent-pay-raise/281-cb09c30c-edf4-43d2-8b7a-edc1e8b30101)
+    *  [![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-back-on-job-verbal-counseling-avery-moore/281-1ba97696-61de-47ca-813f-eefb970040f0)
         
-        #### [Seattle Public Schools approves nearly $25K pay raise for superintendent](https://www.king5.com/article/news/local/seattle/seattle-public-schools-superintendent-pay-raise/281-cb09c30c-edf4-43d2-8b7a-edc1e8b30101)
+        #### [Tacoma police chief was placed on administrative leave due to personal use of a city asset](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-back-on-job-verbal-counseling-avery-moore/281-1ba97696-61de-47ca-813f-eefb970040f0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-54°
+62°
 
 ![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
