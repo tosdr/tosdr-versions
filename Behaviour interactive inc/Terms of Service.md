@@ -16,8 +16,7 @@
 * [Our studios](#)
     * [Montreal](https://www.bhvr.com/montreal/)
     * [Toronto](https://www.bhvr.com/toronto/)
-    * [UK – North](https://www.bhvr.com/uk-north/)
-    * [UK – South](https://www.bhvr.com/uk-south/)
+    * [UK](https://www.bhvr.com/uk/)
     * [Rotterdam](https://www.bhvr.com/rotterdam/)
 * [News](#)
     * [Press Room](https://media.bhvr.com/)
@@ -419,8 +418,7 @@ These Terms of Use, together with any applicable EULA, the Privacy Policy, and a
 * [Our studios](#)
     * [Montreal](https://www.bhvr.com/montreal/)
     * [Toronto](https://www.bhvr.com/toronto/)
-    * [UK – North](https://www.bhvr.com/uk-north/)
-    * [UK – South](https://www.bhvr.com/uk-south/)
+    * [UK](https://www.bhvr.com/uk/)
     * [Rotterdam](https://www.bhvr.com/rotterdam/)
 * [News](#)
     * [Press Room](https://media.bhvr.com/)
@@ -430,11 +428,11 @@ These Terms of Use, together with any applicable EULA, the Privacy Policy, and a
 * [En](https://www.bhvr.com/terms-of-use/ "En")
 * [Fr](https://www.bhvr.com/fr/conditions-dutilisation/ "Fr")
 
-* [](https://twitter.com/behaviour)
-* [](https://www.facebook.com/behaviourinteractive/)
-* [](https://linkedin.com/company/behaviour-interactive/)
-* [](https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ)
-* [](https://instagram.com/behaviour_interactive)
+* [twitter](https://twitter.com/behaviour)
+* [facebook](https://www.facebook.com/behaviourinteractive/)
+* [linkedin](https://linkedin.com/company/behaviour-interactive/)
+* [youtube](https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ)
+* [instagram](https://instagram.com/behaviour_interactive)
 
 ©2024 and BEHAVIOUR and other related trademarks and logos belong to Behaviour Interactive Inc. All rights reserved.
 
