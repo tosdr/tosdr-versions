@@ -97,12 +97,12 @@ Menu
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
     * [Grandparents Day](https://www.moonpig.com/uk/personalised-cards/grandparents-day/)
+    * [Rosh Hashanah](https://www.moonpig.com/uk/personalised-cards/rosh-hashanah/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
     * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/)
-    * [Retirement](https://www.moonpig.com/uk/personalised-cards/retirement/)
     
     ### Sentiment
     
