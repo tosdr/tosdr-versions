@@ -1,4 +1,6 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                               [Skip to content](#content)
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                              
+
+[Skip to content](#content)
 
 [![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
 
@@ -91,7 +93,7 @@ We take data protection seriously and have built our platform using best practic
 
 ### Appcast’s Privacy Policy
 
-**Revised and Effective – April 29, 2024**
+**Revised and Effective – October 2, 2024**
 
 Appcast, Inc. and its subsidiary, Bayard Advertising Agency, Inc. (collectively referred to as “Appcast” or “we” or “us”) is a job advertising technology and recruitment marketing service. We also own and operate several websites (e.g., [www.appcast.io](http://www.appcast.io/ "http://www.appcast.io")).
 
@@ -157,7 +159,7 @@ Who Do We Share Information With?**
 
 **Vendors, Partners, and Service Providers**
 
-We may share your information with advertising and marketing partners for purposes of publishing your job ads and with other third parties who perform services on our behalf, for example, website analytics companies (e.g., Google Analytics), and our service providers.  Our third-party advertising partners may also use these technologies to identify your browsing interests over time and across different websites to deliver targeted advertisements and other content that has been customized for you and to make predictive demographic analyses. 
+We may share your information with advertising and marketing partners for purposes of publishing your job ads and with other third parties who perform services on our behalf, for example, website analytics companies (e.g., Google Analytics), and our service providers.  Our third-party advertising partners may also use these technologies to identify your browsing interests over time and across different websites to deliver targeted advertisements and other content that has been customized for you.
 
 **Employers**
 
