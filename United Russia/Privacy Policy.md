@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://cdn.er.ru/media/news/October2024/F0Ltnt773toMUsn73cvf-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
+
+[«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
+
+[#Бахарев](https://er.ru/activity/news?tags%5B0%5D=53590) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#кредиты](https://er.ru/activity/news?tags%5B0%5D=1406) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980) [#банкротство](https://er.ru/activity/news?tags%5B0%5D=2633) [#долговая нагрузка](https://er.ru/activity/news?tags%5B0%5D=73024) [#кредитныйлимит](https://er.ru/activity/news?tags%5B0%5D=1095780) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#недобросовестная реклама](https://er.ru/activity/news?tags%5B0%5D=40882) [#списание долга](https://er.ru/activity/news?tags%5B0%5D=6493)
+
+Сегодня 11:30
+
+[![«Единая Россия» внесла в Госдуму законопроект о студенческих семьях](https://cdn.er.ru/media/news/October2024/id9xFIV2VQidXEPUUOYI-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-studencheskih-semyah)
+
+[«Единая Россия» внесла в Госдуму законопроект о студенческих семьях](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-studencheskih-semyah)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#поддержкасемей](https://er.ru/activity/news?tags%5B0%5D=114032) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
+
+Сегодня 11:16
+
+[![О социальных планах Госдумы на осеннюю сессию. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/P3g9tVBdqn5WAvdYTnnG-small.jpg)](https://er.ru/activity/news/o-socialnyh-planah-gosdumy-na-osennyuyu-sessiyu-statya-andreya-isaeva)
+
+[О социальных планах Госдумы на осеннюю сессию. Статья Андрея Исаева](https://er.ru/activity/news/o-socialnyh-planah-gosdumy-na-osennyuyu-sessiyu-statya-andreya-isaeva)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666)
+
+Сегодня 09:00
+
 [![«Единая Россия» разработает поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/October2024/N0Xrf5unsk0rSzeTBGNE-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
 
 [«Единая Россия» разработает поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
@@ -320,30 +344,6 @@
 [Правительство РФ поддержало инициативу «Единой России» о создании рейтинга детских оздоровительных лагерей в стране](https://er.ru/activity/news/pravitelstvo-rf-podderzhalo-iniciativu-edinoj-rossii-o-sozdanii-rejtinga-detskih-ozdorovitelnyh-lagerej-v-strane)
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#рейтинги](https://er.ru/activity/news?tags%5B0%5D=119) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
-
-01.10.24
-
-[![«Единая Россия» просит Минздрав увеличить количество медперсонала в летних оздоровительных лагерях](https://cdn.er.ru/media/news/October2024/QiN39QJjg8wudv8iOm7p-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prosit-minzdrav-uvelichit-kolichestvo-medpersonala-v-letnih-ozdorovitelnyh-lageryah)
-
-[«Единая Россия» просит Минздрав увеличить количество медперсонала в летних оздоровительных лагерях](https://er.ru/activity/news/edinaya-rossiya-prosit-minzdrav-uvelichit-kolichestvo-medpersonala-v-letnih-ozdorovitelnyh-lageryah)
-
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Мурашко](https://er.ru/activity/news?tags%5B0%5D=61461) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#летниелагеря](https://er.ru/activity/news?tags%5B0%5D=120732) [#медперсонал](https://er.ru/activity/news?tags%5B0%5D=3753) [#отдыхдетей](https://er.ru/activity/news?tags%5B0%5D=130852)
-
-01.10.24
-
-[![«Единая Россия» выступает за пересмотр подхода к контрольно-надзорной деятельности в летних лагерях для обеспечения безопасности детей](https://cdn.er.ru/media/news/October2024/irKdyhuSataK2nwBizBP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystupaet-za-peresmotr-podhoda-k-kontrolno-nadzornoj-deyatelnosti-v-letnih-lageryah-dlya-obespecheniya-bezopasnosti-detej)
-
-[«Единая Россия» выступает за пересмотр подхода к контрольно-надзорной деятельности в летних лагерях для обеспечения безопасности детей](https://er.ru/activity/news/edinaya-rossiya-vystupaet-za-peresmotr-podhoda-k-kontrolno-nadzornoj-deyatelnosti-v-letnih-lageryah-dlya-obespecheniya-bezopasnosti-detej)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#правительственныйчас](https://er.ru/activity/news?tags%5B0%5D=104869) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#ДОЛ](https://er.ru/activity/news?tags%5B0%5D=134747) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312) [#надзор](https://er.ru/activity/news?tags%5B0%5D=3213) [#проверки](https://er.ru/activity/news?tags%5B0%5D=2381) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120)
-
-01.10.24
-
-[![Александр Жуков: «Единая Россия» будет работать над поправками ко второму чтению бюджета](https://cdn.er.ru/media/news/October2024/rX6icHFMSPmk1QS0abDP-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-edinaya-rossiya-budet-rabotat-nad-popravkami-ko-vtoromu-chteniyu-byudzheta)
-
-[Александр Жуков: «Единая Россия» будет работать над поправками ко второму чтению бюджета](https://er.ru/activity/news/aleksandr-zhukov-edinaya-rossiya-budet-rabotat-nad-popravkami-ko-vtoromu-chteniyu-byudzheta)
-
-[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331)
 
 01.10.24
 
