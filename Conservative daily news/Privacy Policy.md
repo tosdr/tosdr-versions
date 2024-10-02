@@ -2,14 +2,14 @@ Wednesday, October 2 2024
 
 Breaking News
 
+* [Ex-Federal Prosecutor Says He’s ‘Pretty Much Given Up Hope’ That Trump Will Be ‘Detained’ Before Election](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
+* [Trump Has Caused Seismic Shift Among Blue Collar Voters](https://www.conservativedailynews.com/2024/10/trump-has-caused-seismic-shift-among-blue-collar-voters/)
+* [The Worst Thing A Politician Can Say](https://www.conservativedailynews.com/2024/10/the-worst-thing-a-politician-can-say/)
+* [America In The Age Of Stupidity: Does America Still Really Need A President?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-does-america-still-really-need-a-president/)
+* [New Democrat Campaign Strategy:  Nothingness](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
 * [President Joe Biden’s Schedule for Wednesday, October 2, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
 * [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
 * [Democrats Funded Likely Illegal Efforts to Steal High-Stakes Elections](https://www.conservativedailynews.com/2024/10/democrats-funded-likely-illegal-efforts-to-steal-high-stakes-elections/)
-* [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
-* [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
-* [Rural South Decimated By Hurricane Helene As Death Toll Rises Above 130](https://www.conservativedailynews.com/2024/10/rural-south-decimated-by-hurricane-helene-as-death-toll-rises-above-130/)
-* [We Can Take Our Country Back From The Deep State](https://www.conservativedailynews.com/2024/10/we-can-take-our-country-back-from-the-deep-state/)
-* [Lloyd Austin Orders Military To Stay On Alert As Israel-Hezbollah Conflict Heats Up](https://www.conservativedailynews.com/2024/10/lloyd-austin-orders-military-to-stay-on-alert-as-israel-hezbollah-conflict-heats-up/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,57 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
+* [![Tim Walz liar](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
+    
+    [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
+    
+    October 2, 2024
+    
 * [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
     [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
     
     October 1, 2024
     
-* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
-    
-    [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
-    
-    September 29, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/Donald-Trump-mugshot-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
+    
+    [Ex-Federal Prosecutor Says He’s ‘Pretty Much Given Up Hope’ That Trump Will Be ‘Detained’ Before Election](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
+    
+    October 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/10/trump-has-caused-seismic-shift-among-blue-collar-voters/)
+    
+    [Trump Has Caused Seismic Shift Among Blue Collar Voters](https://www.conservativedailynews.com/2024/10/trump-has-caused-seismic-shift-among-blue-collar-voters/)
+    
+    October 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/1002-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-worst-thing-a-politician-can-say/)
+    
+    [The Worst Thing A Politician Can Say](https://www.conservativedailynews.com/2024/10/the-worst-thing-a-politician-can-say/)
+    
+    October 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Need-President-220x150.webp)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-does-america-still-really-need-a-president/)
+    
+    [America In The Age Of Stupidity: Does America Still Really Need A President?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-does-america-still-really-need-a-president/)
+    
+    October 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Money-220x150.png)](https://www.conservativedailynews.com/2024/10/meet-your-own-personal-loan-shark/)
+    
+    [Meet Your Own Personal Loan Shark](https://www.conservativedailynews.com/2024/10/meet-your-own-personal-loan-shark/)
+    
+    October 2, 2024
+    
+* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
+    
+    [New Democrat Campaign Strategy:  Nothingness](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
+    
+    October 2, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/04/images-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
     
     [President Joe Biden’s Schedule for Wednesday, October 2, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
@@ -138,44 +174,12 @@ Recent Posts
     
     October 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/10/democrats-funded-likely-illegal-efforts-to-steal-high-stakes-elections/)
-    
-    [Democrats Funded Likely Illegal Efforts to Steal High-Stakes Elections](https://www.conservativedailynews.com/2024/10/democrats-funded-likely-illegal-efforts-to-steal-high-stakes-elections/)
-    
-    October 2, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/evangelicals-for-harris-more-made-up-groups-for-harris/)
-    
-    [Evangelicals For Harris? More Made-Up Groups For Harris](https://www.conservativedailynews.com/2024/10/evangelicals-for-harris-more-made-up-groups-for-harris/)
-    
-    October 2, 2024
-    
-* [![Democrats Israel hamas palestine](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-13-220x150.png)](https://www.conservativedailynews.com/2024/10/banner-announcing-jewish-speaker-at-university-vandalized-with-pro-palestinian-graffiti-within-hours/)
-    
-    [Banner Announcing Jewish Speaker At University Vandalized With Pro-Palestinian Graffiti Within Hours](https://www.conservativedailynews.com/2024/10/banner-announcing-jewish-speaker-at-university-vandalized-with-pro-palestinian-graffiti-within-hours/)
-    
-    October 2, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5624-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
-    
-    [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/)
-    
-    October 1, 2024
-    
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
-    
-    [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
-    
-    October 1, 2024
-    
-* [Israel Begins Ground Operation In Lebanon As Conflict With Hezbollah Heats Up](https://www.conservativedailynews.com/2024/10/israel-begins-ground-operation-in-lebanon-as-conflict-with-hezbollah-heats-up/)
-    
-    October 1, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida police chief learns hard lesson, un-bans guns and ammo](https://www.thegunpage.com/florida-police-chief-learns-hard-lesson-un-bans-guns-and-ammo/10610936)
 * [Vance, Walz Tackle Issue of Gun Violence During VP Debate](https://www.thegunpage.com/vance-walz-tackle-issue-of-gun-violence-during-vp-debate/10610933)
+* [Semmerling’s Backwards Cold War Pistol](https://www.thegunpage.com/semmerlings-backwards-cold-war-pistol/10610935)
 * [TFB Review: XS Sights DXT2 – Fixing The Desert Eagle’s Biggest Flaw](https://www.thegunpage.com/tfb-review-xs-sights-dxt2-fixing-the-desert-eagles-biggest-flaw/10610931)
 * [POTD: Ohio Ordnance Works HCAR – The Ultimate .30-06?](https://www.thegunpage.com/potd-ohio-ordnance-works-hcar-the-ultimate-30-06/10610932)
 * [A Real Gun Beats a Fake One Every Time: Victim Turns Tables on Philly Robber](https://www.thegunpage.com/a-real-gun-beats-a-fake-one-every-time-victim-turns-tables-on-philly-robber/10610930)
@@ -183,8 +187,6 @@ Recent Posts
 * [Barrett Wins First International Government Contract With The MRADELR](https://www.thegunpage.com/barrett-wins-first-international-government-contract-with-the-mradelr/10610926)
 * [My Bad: City Officials Now Claim Emergency Order Banning Guns was a Mistake](https://www.thegunpage.com/my-bad-city-officials-now-claim-emergency-order-banning-guns-was-a-mistake/10610923)
 * [C&G Holsters Improved Gen6 Concealment Holsters](https://www.thegunpage.com/cg-holsters-improved-gen6-concealment-holsters/10610924)
-* [Gun Owners Urged to Register and VOTE](https://www.thegunpage.com/gun-owners-urged-to-register-and-vote/10610920)
-* [Ukraine's Border Guards Discover WW1 Weapons Cache](https://www.thegunpage.com/ukraines-border-guards-discover-ww1-weapons-cache/10610917)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
