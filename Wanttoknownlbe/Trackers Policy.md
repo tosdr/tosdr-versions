@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/kinderarts-bevestigt-baby-vaccinatieschade/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/shell-en-nebahat-albayraks-twee-gezichten/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
