@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Live
+
+[Watch live — follow The Post for Vance, Walz VP debate updates](https://nypost.com/2024/10/01/us-news/vance-walz-vp-debate-live-updates-fact-checking-reactions-analysis/)
+
 Privacy Notice Highlights
 =========================
 
