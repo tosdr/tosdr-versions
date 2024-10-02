@@ -108,11 +108,11 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 [Crypto Currency](#cryptocurrency) [Trakteer.id](https://trakteer.id/roosterkid) [Buy Me a Coffee](https://bit.ly/3dEVJvS)
 
-### Thank you for your loyalty over the past 7 years.
+### Thank you for your loyalty over the past 8 years.
 
 The following is our total achievement so far.
 
-47.646
+47.723
 
 User registered
 
@@ -120,11 +120,11 @@ User registered
 
 Premium User
 
-10.867
+10.945
 
 Active account
 
-1.870.454
+1.870.884
 
 Account created
 
@@ -180,4 +180,4 @@ All Transactions are 100% Safe and Secure!
 
 2016 - 2024 © [Roosterkid](https://roosterkid.com/) x FreeVPN.us made with in
 
-page loaded in 0.000 seconds
+page loaded in 0.010 seconds
