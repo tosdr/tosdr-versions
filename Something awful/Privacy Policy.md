@@ -205,21 +205,22 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Pretty Ricky - Late Night Special](https://www.somethingawful.com/awful-links/pretty-ricky-airhumping/)
-* [I am very, VERY disappointed!](https://www.somethingawful.com/awfulvision/mossels-warcraft-pangaea/1/)
-* [Band Name Movies](https://www.somethingawful.com/photoshop-phriday/band-name-movies/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [GameTalk and TightRope](https://www.somethingawful.com/weekend-web/gametalk-and-tightrope/1/)
+* [Embarrassing Injuries](https://www.somethingawful.com/comedy-goldmine/embarrassing-injuries-goons/1/)
+* [Mummy: The Resurrection (2001)](https://www.somethingawful.com/dungeons-and-dragons/mummy-white-wolf/1/)
+* [Weekend Web Classics: GameFAQs](https://www.somethingawful.com/weekend-web/classic-gamefaqs/1/)
+* [Timetraveling Fads](https://www.somethingawful.com/comedy-goldmine/timetraveling-fads/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [If a tree falls in the forest and no one hears it, does it make a sound?](http://forums.somethingawful.com/showthread.php?threadid=4071721 "If a tree falls in the forest and no one hears it, does it make a sound?")
+
 ### Random Articles
 
-* [Better Taglines for Jaws](https://www.somethingawful.com/news/jaws-taglines-shark/)
-* [Where Have All the Teen Shoppers Gone?](https://www.somethingawful.com/news/teen-shoppers-gone/)
-* [Jerry Jones Is A Menace And Possibly A Scofflaw](https://www.somethingawful.com/news/jerry-jones-accusations/)
-* [Defending the Indefensible: Kings of Leon](https://www.somethingawful.com/garbage-day/kings-leon-sundown/)
-* [Dimensional Failure (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/dimensional-failure-part1/1/)
+* [Special Bulletin: Something Awful Remembers Leslie Nielsen](https://www.somethingawful.com/feature-articles/remembering-leslie-nielsen/)
+* [Erotic Saturday Morning Cartoon Fanfic, Part 2](https://www.somethingawful.com/comedy-goldmine/erotic-saturday-morning-2/1/)
+* [This Wasn't A Good Idea](https://www.somethingawful.com/daily-dirt/for-a-friend/)
+* [ROTOR](https://www.somethingawful.com/movie-reviews/rotor/1/)
+* [Holdup Suspender Company (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/holdup-suspender-company/)
 
 [Random!](https://www.somethingawful.com/random/)
 
