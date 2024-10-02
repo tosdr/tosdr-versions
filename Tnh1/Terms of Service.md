@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
+   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
+
+Em Hidrante
+
+Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://www.tnh1.com.br/noticia/nid/policia-apreende-drogas-que-foram-colocadas-em-hidrante-dentro-de-bloco-de-nutricao-da-ufal/ "Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal")   [![Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/2/csm_moto-incendiada-santa-lucia_3416af137c.jpg)
+
+Suspeito foragido
+
+Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/e/csm_suspeito-roubar-carro-pajucara_2336a5ac65.jpg)
+
+Na Pajuçara
+
+Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://www.tnh1.com.br/noticia/nid/video-homem-usa-dispositivo-para-destravar-carro-e-furta-bolsa-com-notebook-e-cartoes-de-credito/ "Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito")   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
 
 em maceió
 
@@ -30,19 +42,7 @@ Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em
 
 na ponta grossa
 
-Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")   [![Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_dupla-furto-ar-condicionado-mangabeiras_3b1091f6e3.jpg)
-
-Na Madrugada
-
-Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras](https://www.tnh1.com.br/noticia/nid/dois-jovens-sao-presos-suspeitos-de-furtar-ar-condicionado-de-loja-na-mangabeiras/ "Dois jovens são presos suspeitos de furtar ar-condicionado de loja na Mangabeiras")   [![Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/e/csm_dupla-invade-loja-centro_a3c41f2487.jpg)
-
-Dois foragidos
-
-Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-suspeita-de-furto-escala-muro-para-invadir-loja-no-centro-de-maceio/ "Vídeo: dupla suspeita de furto escala muro para invadir loja no Centro de Maceió")   [![Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
-
-Suspeitos presos
-
-Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-contra-mulher-sao-registrados-no-intervalo-de-1h-em-al/ "Cinco casos de violência contra mulher são registrados no intervalo de 1h em AL")
+Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro](https://www.tnh1.com.br/noticia/nid/policia-investiga-serial-killer-suspeito-de-matar-anna-beatriz-tambem-e-indiciado-por-morte-de-barbeiro/ "Polícia investiga serial killer: suspeito de matar Anna Beatriz também é indiciado por morte de barbeiro")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Cinco casos de violência contra mulher são registrados no intervalo de 1h em A
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+   [![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_edcc9260bb.png)
+
+lei seca em Alagoas
+
+Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")   [![Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/d/csm_CARTELA_ELEICAO_53ab51f5c2.png)
+
+multiplataforma
+
+Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-tnh1-tv-pajucara-e-radio-pajucara-terao-cobertura-especial-neste-domingo/ "Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo")   [![Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_carmelita_-_foto_arquivo_pessoal_89cd17f201.jpg)
+
+Dona Carmelita
+
+Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-que-mora-em-sp-quer-encontrar-familia-perdida-em-alagoas/ "Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas")   [![Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
 
 inmet
 
@@ -62,19 +74,7 @@ Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira 
 
 policiamento
 
-Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")   [![Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_culinaria_lusobrasileira_foto_Joao_Arthur_Sampaio-TNH1_ac63198c0a.jpg)
-
-PORTUGAL EM CENA
-
-Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato](https://www.tnh1.com.br/noticia/nid/festival-gastronomico-luso-brasileiro-reune-elementos-europeus-e-nordestinos-no-prato/ "Festival gastronômico luso-brasileiro reúne elementos europeus e nordestinos no prato")   [![Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/2/csm_mamografia_agencia_100a956db1.png)
-
-Outubro Rosa
-
-Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió](https://www.tnh1.com.br/noticia/nid/veja-como-fazer-exame-de-mamografia-sem-necessitar-de-agendamento-em-maceio/ "Veja como fazer exame de mamografia sem necessitar de agendamento em Maceió")   [![Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_placar-solar-sedics_f1bfbb973a.jpg)
-
-Fonte renovável
-
-Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar](https://www.tnh1.com.br/noticia/nid/alagoas-se-destaca-como-o-2o-estado-mais-acessivel-do-ne-para-instalacao-de-energia-solar/ "Alagoas se destaca como o 2º estado mais acessível do NE para instalação de energia solar")
+Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Alagoas se destaca como o 2º estado mais acessível do NE para instalação de 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_Uniforme_falso_do_Bope_-_foto_Reproducao_50d65ac0b9.jpeg)
+   [![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_f5005e7a5b.jpg)
 
-assalto em maceió
+Tentativa de assalto
 
-Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://www.tnh1.com.br/noticia/nid/denuncia-apontou-que-grupo-encomendou-uniformes-falsos-do-bope-diz-delegado/ "Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado")   [![Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_b22aa6a002.jpeg)
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")   [![Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_material-descartado-clinica-jatiuca_702afa7b73.jpg)
 
-investigações
+inquérito policial
 
-Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://www.tnh1.com.br/noticia/nid/integrante-de-faccao-no-rj-orientou-grupo-que-tentou-assaltar-empresarial-em-maceio/ "Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió")   [![Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_CRIMINOSOS_PRESOS_UNIFORMES_POLICIAIS__SSP__2__1__914116bc7a.png)
+Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica](https://www.tnh1.com.br/noticia/nid/dona-de-clinica-de-estetica-na-jatiuca-e-indiciada-por-crime-ambiental-e-investigada-como-falsa-biomedica/ "Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ")   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
 
-Investigações
+Em Hidrante
 
-Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol](https://www.tnh1.com.br/noticia/nid/mandado-falso-e-denuncia-veja-como-policia-interceptou-grupo-que-tentou-assalto-no-farol/ "Mandado falso e denúncia: veja como polícia interceptou grupo que tentou assalto no Farol")   [!["Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_Capsula_de_arma_tiroteio_Farol_-_foto_Joao_Arthur_Sampaio_-_TNH1_ee421a3213.jpeg)
+Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://www.tnh1.com.br/noticia/nid/policia-apreende-drogas-que-foram-colocadas-em-hidrante-dentro-de-bloco-de-nutricao-da-ufal/ "Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal")   [![Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/7/csm_apreensao_drogas_sao_sebastiao_-_foto_reproducao_video_c1643b279a.png)
 
-na centenário
+Grande apreensão
 
-"Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar](https://www.tnh1.com.br/noticia/nid/teria-passado-no-meio-do-tiroteio-5-minutos-antes-diz-estudante-que-parou-para-almocar/ ""Teria passado no meio do tiroteio 5 minutos antes", diz estudante que parou para almoçar")   [![Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/3/csm_Samu_em_frente_ao_empresarial__tentativa_assalto_Farol_-_foto_Reproducao_82d24ebde4.jpg)
+Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião](https://www.tnh1.com.br/noticia/nid/policia-prende-dois-e-apreende-160-kg-de-maconha-no-municipio-de-sao-sebastiao/ "Polícia prende dois e apreende 160 kg de maconha no município de São Sebastião")   [![Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/2/csm_moto-incendiada-santa-lucia_3416af137c.jpg)
 
-levado ao hge
+Suspeito foragido
 
-Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol](https://www.tnh1.com.br/noticia/nid/um-homem-ficou-ferido-em-tentativa-de-assalto-por-falsos-pms-no-farol/ "Um homem ficou ferido em tentativa de assalto por falsos PMs no Farol")   [![Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_assaltante-pula-muro-para-escapar-policia-reproducao_357e404bfa.png)
+Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_violencia_freepik_2b82191f3c.jpg)
 
-FOI PRESO
+No Clima Bom
 
-Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista](https://www.tnh1.com.br/noticia/nid/suspeito-tira-farda-falsa-do-bope-e-pula-muro-de-cueca-para-tentar-escapar-assista/ "Suspeito tira farda falsa do Bope e pula muro de cueca para tentar escapar; assista")
+Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-agredir-esposa-e-mais-dois-familiares-dela-apos-invadir-casa-da-sogra/ "Homem é preso por agredir esposa e mais dois familiares dela após invadir casa da sogra")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantor
 
 Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
 
-[![Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
+[![Astro da NFL é suspenso após acusação de agressão à namorada grávida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_von_miller_reproducao_redes_sociais_61a22f5250.jpg)
 
-Está preso
+nos eua
 
-Está preso
+nos eua
 
-Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou
+Astro da NFL é suspenso após acusação de agressão à namorada grávida
 
-Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://www.tnh1.com.br/noticia/nid/como-eram-as-festas-de-p-diddy-modelo-choca-ao-revelar-tudo-o-que-presenciou/ "Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou")[![Primeiro avião da FAB que vai repatriar brasileiros no Líbano decola nesta quarta no Rio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Aeronave_KC-30_deve_ser_utilizada_na_repatriacao_de_brasileiros_no_Libano_-_Foto_SO_Johnson_-_Forca_Aerea_Brasileira_2e383fc3b9.jpg)
+Astro da NFL é suspenso após acusação de agressão à namorada grávida](https://www.tnh1.com.br/noticia/nid/astro-da-nfl-e-suspenso-apos-acusacao-de-agressao-a-namorada-gravida/ "Astro da NFL é suspenso após acusação de agressão à namorada grávida")[![Lula desembarca em Brasília após problema com avião no México](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_lula_avisao_da7d30533f.png)
 
-Força Aérea
+Brasil
 
-Força Aérea
+Brasil
 
-Primeiro avião da FAB que vai repatriar brasileiros no Líbano decola nesta quarta no Rio
+Lula desembarca em Brasília após problema com avião no México
 
-Primeiro avião da FAB que vai repatriar brasileiros no Líbano decola nesta quarta no Rio](https://www.tnh1.com.br/noticia/nid/primeiro-aviao-da-fab-que-vai-repatriar-brasileiros-no-libano-decola-nesta-quarta-no-rio/ "Primeiro avião da FAB que vai repatriar brasileiros no Líbano decola nesta quarta no Rio")[![Chris Martin, do Coldplay, diz que 'Moon Music' será o último álbum da banda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/5/csm_coldplay_instagram_594ab15323.jpg)
+Lula desembarca em Brasília após problema com avião no México](https://www.tnh1.com.br/noticia/nid/lula-desembarca-em-brasilia-apos-problema-com-aviao-no-mexico/ "Lula desembarca em Brasília após problema com avião no México")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
 
-Vai acabar?
+Tentativa de assalto
 
-Vai acabar?
+Tentativa de assalto
 
-Chris Martin, do Coldplay, diz que 'Moon Music' será o último álbum da banda
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol
 
-Chris Martin, do Coldplay, diz que 'Moon Music' será o último álbum da banda](https://www.tnh1.com.br/noticia/nid/chris-martin-do-coldplay-diz-que-moon-music-sera-o-ultimo-album-da-banda/ "Chris Martin, do Coldplay, diz que 'Moon Music' será o último álbum da banda")[![“Peaky Blinders”: veja a primeira imagem de Cillian Murphy no filme](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_filme-netflix-cillian-murphy_8f2573fc75.png)
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_pra_desprender_1_94a9073e56.jpeg)
 
-longa-metragem
+Agenda Cultural
 
-longa-metragem
+Agenda Cultural
 
-“Peaky Blinders”: veja a primeira imagem de Cillian Murphy no filme
+Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier
 
-“Peaky Blinders”: veja a primeira imagem de Cillian Murphy no filme](https://www.tnh1.com.br/noticia/nid/peaky-blinders-veja-a-primeira-imagem-de-cillian-murphy-no-filme/ "“Peaky Blinders”: veja a primeira imagem de Cillian Murphy no filme")
+Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier](https://www.tnh1.com.br/noticia/nid/pra-desprender-peca-conta-historias-reais-costurado-por-um-conto-de-chico-xavier/ "Pra Desprender: peça conta histórias reais costurado por um conto de Chico Xavier")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
