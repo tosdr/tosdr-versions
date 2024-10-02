@@ -31,6 +31,262 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Quito este miércoles 2 de octubre
+==================================================
+
+El Gobierno de Daniel Noboa informó la reducción de los cortes de luz a escala nacional desde el 4 de octubre
+-------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito se realizarán de acuerdo con la programación establecida.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Quito-miercoles.jpg)
+
+Este **miércoles 2 de octubre de 2024**, los **horarios de cortes de luz en Quito** se aplicarán de acuerdo con los **cronogramas establecidos** por el Ministerio de Energía y Minas la semana pasada.
+
+### Más noticias
+
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?") [cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
+* [Tramo de la vía Alóag – Santo Domingo cerrará durante seis horas](https://www.elcomercio.com/actualidad/ecuador/tramo-via-aloag-santo-domingo-cierre.html "Tramo de la vía Alóag – Santo Domingo cerrará durante seis horas")
+* [Así funciona el Pico y placa en Quito este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-11-de-septiembre-2.html "Así funciona el Pico y placa en Quito este miércoles 2 de octubre")
+
+A pesar del anuncio del **Gobierno de Daniel Noboa** sobre la reducción de dos horas en los cortes de luz, los horarios de este miércoles 2 de octubre son los mismos.
+
+El Gobierno señaló que **la reducción** se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población, desde el 4 de octubre.
+
+Cronograma de cortes de luz en Quito
+------------------------------------
+
+La **Empresa Eléctrica Quito** dio a conocer los **horarios de la suspensión del servicio** desde este lunes 30 de septiembre al 6 de octubre de 2024.
+
+Este martes 1 de octubre, estos son los horarios de cortes de luz [por sectores](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
+
+Desde 00:00 hasta 05:00 y de 12:00 a 17:00
+------------------------------------------
+
+* Luluncoto
+* Chilibulo
+* Miraflores
+* La Floresta
+* Río Coca
+* Cristianía
+* Epiclachima
+* Conocoto
+* Tumbaco
+
+De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00
+-----------------------------------------------
+
+* La Carolina
+* Nueva Cumbayá
+* Mirador Alto
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+Desde 10:00 hasta 15:00 y de 20:00 a 00:00
+------------------------------------------
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+De 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00
+-----------------------------------------------
+
+* Olímpico
+* Barrio Nuevo
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* Pomasqui
+* El Quinche
+* Eugenio Espejo
+
+**Más del tema**: [Cortes de luz no afectan la operación del Metro de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-afectan-operacion-metro-de-quito.html "Cortes de luz no afectan la operación del Metro de Quito")
+
+De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00
+-----------------------------------------------
+
+* Inga Bajo
+* Luluncoto
+* Chilibulo
+* Escuela Sucre
+* San Roque
+* Granda Centeno
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Iñaquito
+* Santa Rosa
+
+Reducción de cortes de luz
+--------------------------
+
+El **gobierno de Daniel Noboa** informó que las horas de los cortes de luz se reducirán a escala nacional. Esta reducción se aplicará desde este **viernes 4 hasta el 20 de octubre**.
+
+Los cortes se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
+
+**De lunes a jueves:**
+
+* Dos horas seguidas entre las 18:00 a 22:00.
+* Cuatro horas seguidas entre las 00:00 y las 08:00.
+
+**De viernes a domingo:**
+
+* Dos horas seguidas entre las 16:00 y 19:00.
+* Cuatro horas seguidas entre las 00:00 y 10:00.
+
+Los horarios específicos dentro de los rangos establecidos **serán comunicados los jueves.**
+
+> A la ciudadanía: [pic.twitter.com/f5Pa7cBsWj](https://t.co/f5Pa7cBsWj)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 2, 2024](https://twitter.com/Presidencia_Ec/status/1841283441762938943?ref_src=twsrc%5Etfw)
+
+  
+
+  
+
+Hoy conmemoramos el Día de la No Violencia y el natalicio de Gandhi 
+====================================================================
+
+El Día Internacional de la No Violencia promueve la educación y conciencia sobre la importancia de la paz.
+----------------------------------------------------------------------------------------------------------
+
+![La resistencia no violenta, adoptada por movimientos sociales en todo el mundo, rechaza la violencia física como medio de cambio. Foto: Cepal.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-la-No-Violencia-Gandhi.jpg)
+
+Cada 2 de octubre, **el mundo conmemora el Día Internacional de la No Violencia**. Esta fecha coincide con **el aniversario del nacimiento de Mahatma Gandhi**, líder del movimiento de la independencia de la India y pionero de la **filosofía de la no violencia**.  
+
+### Más noticias
+
+* [India celebra 150 años del nacimiento de Gandhi con polémica](https://www.elcomercio.com/actualidad/mundo/india-conmemora-150-aniversario-nacimiento.html "https://www.elcomercio.com/actualidad/mundo/india-conmemora-150-aniversario-nacimiento.html")
+* [35 años de la Convención sobre los Derechos del Niño llegaron con violencia y retos](https://www.elcomercio.com/opinion/editorial/35-anos-convencion-derechos-nino-violencia-y-retos.html "https://www.elcomercio.com/opinion/editorial/35-anos-convencion-derechos-nino-violencia-y-retos.html")
+
+La **[Asamblea General de las Naciones Unidas](https://www.un.org/es/observances/non-violence-day "https://www.un.org/es/observances/non-violence-day")** estableció esta celebración el 15 de junio de 2007, mediante la resolución A/RES/61/271. 
+
+**Objetivos del Día Internacional de la No Violencia** 
+-------------------------------------------------------
+
+Este día tiene como objetivo **difundir el mensaje de la no violencia**, al promover la educación y la conciencia pública sobre su importancia. La resolución reafirma la **relevancia universal del principio de la no violencia** y aboga por una **cultura de paz, tolerancia y comprensión**. 
+
+**El principio de la no violencia** 
+------------------------------------
+
+De acuerdo con la página oficial de las **Naciones Unidas**, el **principio de la no violencia**, también conocido como **resistencia no violenta**, rechaza el **uso de la violencia física** para lograr un cambio social o político. 
+
+Esta **forma de lucha** ha sido adoptada por diversos **movimientos sociales** en todo el mundo. **Gene Sharp**, teórico líder de esta filosofía, citado por la ONU, define la **acción no violenta como** “una técnica mediante la cual las personas que rechazan la pasividad y la sumisión pueden luchar sin recurrir a la violencia”. 
+
+**No violencia vs. pacifismo** 
+-------------------------------
+
+Es importante destacar que **la no violencia no es sinónimo de pacifismo**. Desde el siglo XX, muchos movimientos sociales **han utilizado esta estrategia para impulsar cambios políticos y sociales**, más allá de la simple **oposición a la guerra**. 
+
+**Tres categorías de la no violencia** 
+---------------------------------------
+
+La no violencia se clasifica en tres categorías principales, a decir de la ONU: 
+
+1. **Protesta y persuasión**: Incluye marchas y conmemoraciones. 
+
+2. **No-cooperación**: Implica negarse a colaborar con el sistema opresor. 
+
+3. **Intervención no violenta**: Comprende bloqueos y ocupaciones. 
+
+**La fuerza de la no violencia** 
+---------------------------------
+
+La **fuerza de la no violencia** radica en su capacidad para **debilitar el poder de los gobernantes**, al retirar el consentimiento y la cooperación de la población. **Esta estrategia ha demostrado ser efectiva** para generar cambios significativos en la historia reciente, lo que destaca su importancia en la **construcción de una sociedad más justa y pacífica**. 
+
+**Biografía de Mahatma Gandhi** 
+--------------------------------
+
+**Mohandas Karamchand Gandhi**, conocido como **Mahatma Gandhi**, nació el 2 de octubre de 1869 en Porbandar, India.  
+
+En esa época, **India estaba bajo el dominio británico**, y Gandhi provenía de una familia de casta superior. A los 19 años, prometió a su madre no consumir carne, vino ni tener relaciones con mujeres, como condición para estudiar derecho en Inglaterra, a decir de la página [El Historiador](https://elhistoriador.com.ar/mahatma-gandhi/ "https://elhistoriador.com.ar/mahatma-gandhi/"). 
+
+**El giro en la vida de Gandhi** 
+---------------------------------
+
+Durante un viaje en tren en Sudáfrica, **Gandhi fue expulsado por ser considerado “negro”**. Este incidente cambió su vida y lo impulsó a **luchar contra el racismo y el colonialismo**. Sin embargo, **su lucha se destacó por ser no violenta**, al utilizar la **resistencia pasiva** como herramienta principal. 
+
+**Liderazgo y lucha por la independencia** 
+-------------------------------------------
+
+Desde finales del siglo XIX, **Gandhi lideró movimientos sociales**, lo que le llevó a **enfrentarse a múltiples encarcelamientos y huelgas de hambre**. Según él, “ir a prisión es un honor cuando el gobierno del país es injusto”, según cita El Historiador. Hacia 1920, **tomó un rol más político**, al liderar la **lucha por la independencia de India**. Finalmente, tras tres siglos de colonización británica, **India logró su independencia en 1947**. 
+
+Así funciona el Pico y placa en Quito este miércoles 2 de octubre
+=================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [(Mapa) Así está la congestión vehicular en Quito](https://www.elcomercio.com/actualidad/quito/mapa-transito-asi-esta-congestion-vehicular-quito-cortes-de-luz.html "(Mapa) Así está la congestión vehicular en Quito")
+* [Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre](https://www.elcomercio.com/actualidad/ecuador/cuatro-temblores-santa-elena-litoral-1-de-octubre.html "Cuatro temblores se registraron en una provincia de Ecuador este 1 de octubre")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EZUTLipCN9](https://t.co/EZUTLipCN9)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841058386235756698?ref_src=twsrc%5Etfw)
+
 Un difícil cuarto trimestre para la economía de Ecuador
 =======================================================
 
@@ -47,7 +303,7 @@ Esta caída del **Producto Interno Bruto** hace prever que la economía ecuatori
 
 > El Gobierno de Daniel Noboa tiene el reto de aplicar alivios para el sector productivo durante la crisis energética y la sequía.
 
-¿Qué se espera en este **cuarto trimestre?** Este último trimestre del año estará marcado por **los cortes de luz**, debido al déficit de energía y la campaña política por las elecciones 2025. La campaña política puede empañar cualquier buena intención o plan, debido al manoseo.
+¿Qué se espera en este **cuarto trimestre?** Este último trimestre del año estará marcado por **los cortes de luz**, debido al déficit de energía y la campaña política por las elecciones 2025. La campaña electoral puede empañar cualquier buena intención o plan, debido al manoseo de los candidatos.
 
 La **sequía prolongada por más de dos meses** impide la normal o suficiente generación de energía eléctrica. Por esa razón, los ecuatorianos experimentan los cortes de luz.
 
@@ -774,166 +1030,3 @@ Esta emergencia involucró a un **bus de transporte** y un **automóvil**, quien
 El ciudadano afectado recibió atención de los paramédicos del **Cuerpo de Bomberos**.
 
 Agentes de la AMT coordinaron la movilidad en el sector mientras la alerta era socorrida.
-
-Liga de Quito y El Nacional sin ventaja en los mano a mano
-==========================================================
-
-Liga de Quito se enfrentan por primera vez a El Nacional en la Copa Ecuador. Será en los cuartos de final.
-----------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito y El Nacional en la Copa Sudamericana 2006.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_liga_sudamericana_1.jpg)
-
-**Liga de Quito y El Nacional** animarán un nuevo ‘clásico quiteño’, pero esta vez será por primera vez en la Copa Ecuador, torneo organizado por la Federación Ecuatoriana de Fútbol (FEF). 
-
-El encuentro entre Liga de Quito y El Nacional por los **cuartos de final de la Copa Ecuador**, está programado para el miércoles 2 de octubre de 2024, desde las 17:00, en el estadio Rodrigo Paz Delgado. 
-
-### Más noticias:
-
-* [El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece](https://www.elcomercio.com/deportes/miguel-parrales-seleccion-ecuador-sebastian-beccacece-orense.html "El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece")
-* [El Nacional vs. Barcelona Sporting Club cambia de horario, ¿qué pasó?](https://www.elcomercio.com/deportes/futbol/el-nacional-barcelona-ligapro-horario.html "El Nacional vs. Barcelona Sporting Club cambia de horario, ¿qué pasó?")
-* [Jorge Guzmán aventaja a Zamora Jaguars en las finales de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/liga-basquet-pro-ecuador-finales.html "Jorge Guzmán aventaja a Zamora Jaguars en las finales de la Liga Básquet Pro")
-
-Este juego entre Liga y el ‘Nacho’ **debió jugarse el miércoles 26 de septiembre**, pero se suspendió por la ola de incendios que afectó a Quito en los que se quemaron, al menos, 146 hectáreas. 
-
-Una de las novedades para este compromiso será que se jugará **solo con presencia de hinchas locales**.
-
-Se argumentó que se trata de una recomendación de “seguridad” luego de los “**hechos violentos**” registrados hace una semana en los alrededores del Rodrigo Paz. 
-
-Hay que apuntar que la **Policía Nacional detuvo a un grupo de hinchas identificados** con los colores de los ‘Puros criollos’ y les decomisó, entre otros objetos, machetes. 
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_liga_sudamericana_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Sin ventaja en el uno contra uno 
----------------------------------
-
-El **historial general registra 234 partidos** repartidos entre campeonato nacional, campeonato provincial, Copa Libertadores y Sudamericana. 
-
-Liga de Quito ganó 81 (306 goles a favor), **El Nacional 81 (301 goles a favor)**, y los 72 restantes terminaron en empate. 
-
-La última vez que se enfrentaron fue el sábado 21 de septiembre por la sexta fecha de la segunda etapa de la Liga Pro en el Rodrigo Paz Delgado. 
-
-La visita se adelantó con un **penal ejecutado por Gabriel Cortez**. Los locales sellaron el 1-1 final con un tanto del boliviano Gabriel Villamil. 
-
-En los enfrentamientos de eliminación directa se enfrentaron en las ediciones 2005 y 2006 de la Copa Sudamericana, con una serie a favor de cada institución. 
-
-En 2005 en la fase preliminar, **El Nacional perdió 3-4 contra Liga de Quito en el Olímpico Atahualpa**.
-
-Los rojos anotaron por intermedio de David Quiroz, Cléber Chalá y Leonardo García. Los blancos con Luis Miguel García, Franklin Salas, Neicer Reasco y Alex Dario Aguinaga. 
-
-En la revancha los militares ganaron por 1-2 con goles de Cristian Lara y David Quiroz. Los universitarios descontaron con la firma del peruano **Roberto ‘Chorrillano’ Palacios**. 
-
-Liga clasificó a la siguiente ronda por el negocio de haber anotado más goles de visitante y fue eliminado por el boliviano The Strongest con un global de 5-1. 
-
-En 2006, El Nacional se tomó la revancha y eliminó a LDU en la fase preliminar con un marcador global de 4-3. 
-
-En la ida en el **Rodrigo Paz Delgado ganó 2-3 con tantos de Renán Calle**, Ebelio Ordóñez y Pável Caicedo. El descuento albo estuvo a cargo de Agustín Delgado y Moisés Candelario. 
-
-La revancha en el Atahualpa se saldó con un empate 1-1. **El goleador de los rojos fue de Ordóñez** y de los blancos de Candelario. 
-
-En la siguiente fase el **‘Nacho’ eliminó a Universitario de Sucre de Bolivia** con un global de 5-2 y en los octavos de final cayó 0-3 ante Toluca de México.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_liga_sudamericana_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC
-===============================================================
-
-Álex Aguinaga se refirió a las palabras del DT Ariel Holan sobre el 'baño de realidad' de Barcelona SC tras sus resultados.
----------------------------------------------------------------------------------------------------------------------------
-
-![Álex Aguinaga durante su etapa como DT de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/2369097-scaled.jpg)
-
-**Barcelona SC** atraviesa un deslucido momento en la Liga Pro y un histórico del fútbol ecuatoriano y exDT del equipo se refirió a ello. **Álex Aguinaga** apuntó a Ariel Holan, actual entrenador de la escuadra, quien previamente había analizado el momento del club.
-
-El conjunto torero empató ante **Libertad** y cayó ante el **Deportivo Cuenca** en las dos pasadas fechas, por lo que ocupa el séptimo lugar en la segunda etapa del campeonato ecuatoriano. Pese a ello, los 13 puntos con los que cuenta no lo alejan del líder **Independiente del Valle**, que tiene 16.
-
-### Más noticias:
-
-* [Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jordy-caicedo-seleccion-ecuador-convocatoria.html "Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador")
-* [Las opciones en ataque de la Selección de Ecuador para eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-eliminatorias-delanteros-beccacece.html "Las opciones en ataque de la Selección de Ecuador para eliminatorias")
-* [El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece](https://www.elcomercio.com/deportes/miguel-parrales-seleccion-ecuador-sebastian-beccacece-orense.html "El arribo de Parrales a la Selección de Ecuador está en manos de Beccacece")
-
-Después de la derrota ante los morlacos y el empate ante los lojanos, **Ariel Holan** habló con la prensa sobre el momento de **Barcelona** y dio un discurso similar. En ambas ocasiones, el estratega señaló que los resultados son un “baño de realidad” para el conjunto torero y sus capacidades[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
-
-Tras el choque frente a Libertad, además, este especificó que se refería a que su escuadra es irregular, algo que también aplicó para el resto de equipos del torneo. A partir de tales palabras se dio la reacción de **Álex Aguinaga**.
-
-¿Qué dijo Álex Aguinaga sobre Ariel Holan?
-------------------------------------------
-
-**Álex Aguinaga** analizó la actualidad del conjunto torero en el canal RCD Sports. Allí se hizo eco de las palabras del estratega argentino, le **envió un mensaje** con respecto a lo que había dicho previamente y lo responsabilizó por la situación del equipo.
-
-“**Creo que el baño de realidad se lo está dando él mismo porque se equivoca terriblemente en la toma de decisiones y después termina exhibiendo a los jóvenes.** Ellos son los que dan la cara en un equipo diezmado y que tiene menos figuras, en un equipo que le exigen porque es grande y se busca que gane todo”, expresó el exfutbolista ecuatoriano.
-
-El otrora capitán de la **Selección de Ecuador** sostuvo, además, que el equipo no cuenta con referentes. De igual forma, reprochó las salidas del equipo de jugadores que, para él, han cumplido las expectativas.
-
-¿Cómo le ha ido a Ariel Holan en Barcelona SC?
-----------------------------------------------
-
-**Ariel Holan** llegó a mediados del 2024 a dirigir a Barcelona SC. El arribo del técnico se dio tras la destitución de Diego López.
-
-Al mando ‘Ídolo’, el entrenador ha disputado 21 partidos entre **Liga Pro y Copa Libertadores** y Sudamericana. Ha ganado 10 cotejos, empatado cuatro y perdido 7.
-
-Por cortes de luz, Gobierno pide apoyo tras restricción de Colombia
-===================================================================
-
-El Gobierno de Daniel Noboa solicitó al sector privado maximizar el uso de sus generadores para apoyar la emergencia eléctrica tras la suspensión de la venta de energía de Colombia.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El aporte privado representa hasta 300 MW de generación en el Ecuador. Foto: Redes Sociales](https://www.elcomercio.com/wp-content/uploads/2024/10/electricidad-aporte.jpg)
-
-El Gobierno de **Daniel Noboa** solicitó al sector privado **maximizar el uso** de sus generadores para apoyar la **emergencia eléctrica**, debido a los cortes de luz, tras la suspensión de la venta de energía de **Colombia**. El aporte de la empresa privada representa hasta 300 MW de generación[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz sin cambios; Toachi – Pilatón adelanta su operación](https://www.elcomercio.com/actualidad/negocios/cortes-luz-sin-cambios-hidroelectrica-toachi-pilaton-operacion.html "Cortes de luz sin cambios; Toachi – Pilatón adelanta su operación")
-* [Esto pierden las industrias por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/esto-pierden-industrias-cortes-luz-ecuador-camaron.html "Esto pierden las industrias por cortes de luz en Ecuador")
-* [Pequeña empresa propone cambios en jornadas laborales por cortes de luz](https://www.elcomercio.com/actualidad/negocios/pequena-empresa-pcambios-jornadas-laborales-cortes-luz.html "Pequeña empresa propone cambios en jornadas laborales por cortes de luz")
-
-El Operador Nacional de Electricidad (**Cenace**), a través de un comunicado, solicitó a las empresas privadas encender sus generadores al máximo de su capacidad, durante 24 horas, a partir del 1 de octubre de 2024. La iniciativa busca **aliviar la carga** sobre el sistema eléctrico nacional, especialmente en las horas pico.
-
-En caso de que las industrias no puedan operar sus generadores de manera continua, se les solicita hacerlo entre las 06:00 y las 18:00, para apoyar durante los cortes de luz y la falta de energía de Colombia. Además, aquellas empresas que logren mantener la generación fuera de ese periodo serán recompensadas.
-
-> 📍 COMUNICADO OFICIAL: El Gobierno agradece el aporte que ha entregado el sector privado durante la emergencia eléctrica y solicita continuar brindando el encendido de sus generadores al máximo y así reducir la demanda de la red nacional. [pic.twitter.com/lCnbwN64tV](https://t.co/lCnbwN64tV)
-> 
-> — CENACE (@OperadorCenace) [October 1, 2024](https://twitter.com/OperadorCenace/status/1841179844006093305?ref_src=twsrc%5Etfw)
-
-Conforme a la regulación **Arconel** 003/24, el sector privado tiene la opción de contribuir en situaciones de **déficit energético** y recibir una compensación en sus facturas. Esta incluye los costos de combustible, operación y mantenimiento. Actualmente, el aporte privado representa hasta 300 MW, reforzando significativamente el sistema eléctrico del país en momentos críticos.
-
-Empresas que se han respondido al llamado del Gobierno
-------------------------------------------------------
-
-Según el Ministerio de Energía, cerca de 20 empresas se sumaron a la convocatoria del Gobierno. Entre ellas está: **Industrial Surindu S.A**., con su grupo electrógeno de 1640 KW. Esta compañía se convirtió en la primera industria en Guayaquil en aportar megavatios de energía eléctrica.
-
-> Reconocemos el compromiso de Industrial Surindu S.A. y su ejemplar aporte a la autogeneración de energía eléctrica, una iniciativa clave que refuerza la sostenibilidad energética y contribuye en estos momentos al país.  
->   
-> ¡Uniendo esfuerzos! [pic.twitter.com/yKUpB5O2YX](https://t.co/yKUpB5O2YX)
-> 
-> — CNEL EP (@CNEL\_EP) [September 29, 2024](https://twitter.com/CNEL_EP/status/1840463582535774483?ref_src=twsrc%5Etfw)
-
-Asimismo, la Empresa Eléctrica de Quito (EEQ) certificó el proyecto de autogeneración de **Arca Continental.** Este está ubicado en la planta industrial de **El Inca**, en el norte de Quito.
-
-Esta iniciativa, que incorpora tecnología avanzada y fuentes de energía, permitirá a la empresa reducir el consumo de energía de la red eléctrica convencional en las plantas industriales del negocio de: bebidas, ubicadas en **Quito, Guayaquil y Santo Domingo.**
-
-Mediante este proyecto, se generarán 18 megavatios que aportarán al funcionamiento de la operación de la embotelladora a nivel nacional.
-
-> Entregamos el certificado de calificación como grupo electrógeno de emergencia a [@arcacontal](https://twitter.com/arcacontal?ref_src=twsrc%5Etfw).  
->   
-> Conoce más en el siguiente [#VideoEEQ](https://twitter.com/hashtag/VideoEEQ?src=hash&ref_src=twsrc%5Etfw).[#EEQSiempreJuntoATi](https://twitter.com/hashtag/EEQSiempreJuntoATi?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/lTAtfPmD8r](https://t.co/lTAtfPmD8r)
-> 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [September 27, 2024](https://twitter.com/ElectricaQuito/status/1839480983902457988?ref_src=twsrc%5Etfw)
-
-La empresa **Novopan** también cumplió con todos los requisitos que se necesita para calificarse como grupo electrógeno de emergencia. Desde el 25 de septiembre entrega energía al Ecuador.
-
-También Duragas S.A., a través de su planta en Santa Rosa, en El Oro, se convirtió en la primera empresa en autoabastecerse y aportar al sistema energético nacional en esa provincia. La compañía utiliza generadores que le permiten producir 190 kilovatios (KW), desconectándose de la red eléctrica nacional.
-
-> Duragas S.A., a través de su planta en Santa Rosa, El Oro, establece un precedente en la provincia al convertirse en la primera empresa en autoabastecerse y aportar al sistema energético nacional.  
->   
-> Con responsabilidad ante la situación energética del país, utiliza generadores que… [pic.twitter.com/3pK519tbgI](https://t.co/3pK519tbgI)
-> 
-> — CNEL EP (@CNEL\_EP) [October 1, 2024](https://twitter.com/CNEL_EP/status/1841225883635630345?ref_src=twsrc%5Etfw)
