@@ -244,32 +244,6 @@ MuggleNet Archive Select Month September 2024  (30) August 2024  (30) July 202
 
 ### October 2024
 
-#### Tue, Oct 1
-
-Harry Potter and the Sorcerer's Stone book (US)
-
-Recurs yearly
-
-1998
-
-MuggleNet's anniversary
-
-Recurs yearly
-
-1999
-
-Richard Harris's birthday (RIP)
-
-Recurs yearly
-
-Albus Dumbledore (PS/SS, CoS)
-
-Sam Clemmett's birthday
-
-Recurs yearly
-
-Albus Severus Potter (CC – London and New York)
-
 #### Thu, Oct 3
 
 Christian Coulson's birthday
@@ -340,6 +314,24 @@ Recurs yearly
 
 1995
 
+#### Tue, Oct 8
+
+David Yates's birthday
+
+Recurs yearly
+
+Director (OotP-DH2)
+
+Dobby tells Harry about the Room of Requirement
+
+Recurs yearly
+
+Ian Hart's birthday
+
+Recurs yearly
+
+Quirinus Quirrell
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -350,15 +342,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
+Fred and George Weasley were born on April Fools’ Day.
 
 ### Potter History
 
-March 27, 2006 – Harry Potter and the Goblet of Fire becomes the fastest selling DVD ever in the United Kingdom. It was estimated that, in the first six days after its release, three copies were sold every second.
+November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
 
 ### Potter Quote
 
-“Harry — yer a wizard.”
+“Honestly, if you were any slower, you’d be going backward.”
 
 [](#)
 
