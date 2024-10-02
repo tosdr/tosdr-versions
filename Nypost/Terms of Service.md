@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Doug Emhoff accused of ‘forcefully slapping’ NYC girlfriend for flirting with another man at ritzy gala in 2012: report](https://nypost.com/2024/10/02/us-news/doug-emhoff-accused-of-forcefully-slapping-nyc-girlfriend-for-flirting-with-other-man-at-ritzy-gala-in-2012-report/)
-
 Terms Of Use
 ============
 
