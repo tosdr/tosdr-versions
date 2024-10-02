@@ -1,4 +1,4 @@
-[Aller au contenu principal](#main-content) [Activer le contraste adaptéDésactiver le contraste adapté](javascript://;)
+[Aller au contenu principal](#main-content) [Activer le contraste adaptéDésactiver le contraste adapté](javascript://;)[](javascript://;)
 
 [Bourse](javascript:// "Bourse")
 
