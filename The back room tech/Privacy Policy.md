@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/assign-license-key-80x43.png)](https://thebackroomtech.com/2017/10/05/add-license-key-vmware-esxi/ "How to Add a License Key to VMware ESXi")[How to Add a License Key to VMware ESXi](https://thebackroomtech.com/2017/10/05/add-license-key-vmware-esxi/ "How to Add a License Key to VMware ESXi")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/find-number-of-files-80x27.png)](https://thebackroomtech.com/2010/06/17/counting-the-number-of-files-in-a-directory-command-line-style/ "Counting the Number of Files in a Directory, Command Line Style")[Counting the Number of Files in a Directory, Command Line Style](https://thebackroomtech.com/2010/06/17/counting-the-number-of-files-in-a-directory-command-line-style/ "Counting the Number of Files in a Directory, Command Line Style")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/findipaddress_thumb-80x34.png)](https://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/ "Determine IP Address From a MAC Address")[Determine IP Address From a MAC Address](https://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/ "Determine IP Address From a MAC Address")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2074%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/turn-off-uac-80x47.png)](https://thebackroomtech.com/2010/08/29/fix-windows-explorer-has-stopped-working-error-in-windows-7/ "Fix Windows Explorer Has Stopped Working Error in Windows 7")[Fix Windows Explorer Has Stopped Working Error in Windows 7](https://thebackroomtech.com/2010/08/29/fix-windows-explorer-has-stopped-working-error-in-windows-7/ "Fix Windows Explorer Has Stopped Working Error in Windows 7")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/event-id-1004-iis-74x52.png)](https://thebackroomtech.com/2009/03/12/fix-the-world-wide-web-publishing-service-www-service-did-not-register-the-url-prefix-httpxxxx80-for-site-1-the-site-has-been-disabled-the-data-field-contains-the-error-number/ "Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1")[Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1](https://thebackroomtech.com/2009/03/12/fix-the-world-wide-web-publishing-service-www-service-did-not-register-the-url-prefix-httpxxxx80-for-site-1-the-site-has-been-disabled-the-data-field-contains-the-error-number/ "Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2008/11/03/fix-for-make-install-compiler-issues-with-intel-e1000-nic-driver-in-sles-10/ "Fix for Make Install / Compiler Issues with Intel e1000 NIC Driver in SLES 10")[Fix for Make Install / Compiler Issues with Intel e1000 NIC Driver in SLES 10](https://thebackroomtech.com/2008/11/03/fix-for-make-install-compiler-issues-with-intel-e1000-nic-driver-in-sles-10/ "Fix for Make Install / Compiler Issues with Intel e1000 NIC Driver in SLES 10")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dism-target-editions-80x32.png)](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")[Upgrade Windows Server from Evaluation to Full](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 
 #### Our Publishing Family
 
