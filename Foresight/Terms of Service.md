@@ -1,5 +1,3 @@
-![Terms of Service](/assets/screenshots/runway_feature.jpg)
-
 [Foresight](https://foresight.is/)
 
 * [Templates](https://foresight.is/templates/)
