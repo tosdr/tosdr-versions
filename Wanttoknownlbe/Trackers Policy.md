@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/de-idiote-cijfers-achter-911-of-toch-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/kinderarts-bevestigt-baby-vaccinatieschade/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
