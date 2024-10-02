@@ -137,69 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![dionysius](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1182697-1530558946.jpg)](https://lyricstranslate.com/en/translator/dionysius "dionysius")
+[![Chiarabella](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1157032-1724346405.jpg)](https://lyricstranslate.com/en/translator/chiarabella "Chiarabella")
+
+New comment
+
+Καγκουρό ... έτσι χορεύουμε και πηδάμε από χαρά. ...  [more](https://lyricstranslate.com/en/comment/1168112#comment-1168112)
+
+[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+
+New request
+
+[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-76)
+
+English → Dutch
+
+[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+
+New request
+
+[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-75)
+
+English → Slovenian
+
+[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+
+New request
+
+[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-74)
+
+English → Bulgarian
+
+[![Rexavian](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631915-1727890735.jpg)](https://lyricstranslate.com/en/translator/rexavian "Rexavian")
 
 New song
 
-[Alice Deejay - Alice Deejay](https://lyricstranslate.com/en/alice-deejay-alice-deejay-lyrics)
+[Ramón Andresen - popstjerner](https://lyricstranslate.com/en/ramon-andresen-popstjerner-lyrics)
 
-English
+Norwegian
 
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Rexavian](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631915-1727890735.jpg)](https://lyricstranslate.com/en/translator/rexavian "Rexavian")
 
-New song
+New request
 
-[Miki Kobayashi - 春の湖](https://lyricstranslate.com/en/miki-kobayashi-haru-no-mizumi-lyrics)
+[Ramón Andresen - popstjerner](https://lyricstranslate.com/en/request/popstjerner)
 
-Japanese
+Norwegian → English
 
-[![dionysius](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1182697-1530558946.jpg)](https://lyricstranslate.com/en/translator/dionysius "dionysius")
+[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
 
-New song
+New request
 
-[Alice Deejay - Got To Get Away](https://lyricstranslate.com/en/alice-deejay-got-get-away-lyrics)
+[GOT7 - Firework](https://lyricstranslate.com/en/request/firework-25)
 
-English
+English → Croatian
 
-[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727623003.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
+[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
 
-New translation
+New request
 
-[Rammstein - Wo bist du?](https://lyricstranslate.com/en/rammstein-wo-bist-du-english)
+[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-73)
 
-German → English
-
-[![Mara88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1589734-1692704142.png)](https://lyricstranslate.com/en/translator/mara88 "Mara88")
-
-New translation
-
-[Anya Nami - Idea 22](https://lyricstranslate.com/en/anya-nami-idea-22-italian)
-
-English → Italian
-
-[![zsóhaj](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1630809-1727109582.jpg)](https://lyricstranslate.com/en/translator/zs%C3%B3haj "zsóhaj")
-
-New translation
-
-[Infected Rain - Pandemonium](https://lyricstranslate.com/en/infected-rain-pandemonium-hungarian)
-
-English → Hungarian
-
-[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1727697100.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
-
-New song
-
-[Konomi Suzuki - Beat your Heart](https://lyricstranslate.com/en/konomi-suzuki-beat-your-heart-lyrics)
-
-English
-
-[![MariusIonescu88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1340226-1506686878.jpg)](https://lyricstranslate.com/en/translator/mariusionescu88 "MariusIonescu88")
-
-New translation
-
-[Viktor Lazlo - Stories](https://lyricstranslate.com/en/viktor-lazlo-stories-romanian)
-
-English → Romanian
+English → Croatian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
