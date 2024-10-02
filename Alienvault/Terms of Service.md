@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_01; ct\_50
+be\_ixf;ym\_202410 d\_02; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_01; ct\_50
             
             Blog: Security Essentials
             
-            ##### People Know Their Data Rights, and They’re Here to Play Ball
+            ##### Demand Great Cybersecurity Troubleshooting Skills! Going Back to the Basics.
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/people-know-their-data-rights-and-theyre-here-to-play-ball)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/demand-great-cybersecurity-troubleshooting-skills-going-back-to-the-basics)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Katrina Thompson](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![David J. Hernandez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Katrina Thompson
+#### David J. Hernandez
 
-Oct 1, 2024
+Oct 2, 2024
 
-### [People Know Their Data Rights, and They’re Here to Play Ball](https://cybersecurity.att.com/blogs/security-essentials/people-know-their-data-rights-and-theyre-here-to-play-ball)
+### [Demand Great Cybersecurity Troubleshooting Skills! Going Back to the Basics.](https://cybersecurity.att.com/blogs/security-essentials/demand-great-cybersecurity-troubleshooting-skills-going-back-to-the-basics)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
