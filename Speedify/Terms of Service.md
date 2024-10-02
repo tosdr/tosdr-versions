@@ -127,7 +127,7 @@ Upcoming Events
 
 Oct 2
 
-10:00 am - 11:00 am EDT
+10:00 am - 11:00 am UTC+0
 
 ### [10/02 @ 10am EDT – How do you keep your router safe from botnets? | Ask the CEO your tech questions](https://speedify.com/event/10-02-10am-edt-how-do-you-keep-your-router-safe-from-botnets-ask-the-ceo-your-tech-questions/ "10/02 @ 10am EDT – How do you keep your router safe from botnets? | Ask the CEO your tech questions")
 
@@ -137,7 +137,7 @@ Oct 2
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
+* [\[TUTORIAL\] Snapchat Unblocked at School - How to Guide](https://speedify.com/blog/how-to/snapchat-unblocked-at-school-tutorial/)
 
 ### Bonding Apps
 
@@ -195,3 +195,7 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
+
+                        
+
+This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
