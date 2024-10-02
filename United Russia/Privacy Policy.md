@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://cdn.er.ru/media/news/October2024/kfs14KinykSAKO8UrZFB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
+
+[Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
+
+02.10.24
+
 [![«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://cdn.er.ru/media/news/October2024/NFcOZykgLuYRmlEx58Yj-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
 
 [«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Петрова](https://er.ru/activity/news?tags%5B0%5D=4885) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#представительство](https://er.ru/activity/news?tags%5B0%5D=2104) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 18:16
+02.10.24
 
 [![«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://cdn.er.ru/media/news/October2024/F0Ltnt773toMUsn73cvf-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
 
@@ -313,7 +321,7 @@
 
 [#Бахарев](https://er.ru/activity/news?tags%5B0%5D=53590) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980) [#банкротство](https://er.ru/activity/news?tags%5B0%5D=2633) [#кредитныйлимит](https://er.ru/activity/news?tags%5B0%5D=1095780) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#недобросовестная реклама](https://er.ru/activity/news?tags%5B0%5D=40882)
 
-Сегодня 11:30
+02.10.24
 
 [![«Единая Россия» внесла в Госдуму законопроект о студенческих семьях](https://cdn.er.ru/media/news/October2024/id9xFIV2VQidXEPUUOYI-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-studencheskih-semyah)
 
@@ -321,7 +329,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#поддержкасемей](https://er.ru/activity/news?tags%5B0%5D=114032) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
-Сегодня 11:16
+02.10.24
 
 [![О социальных планах Госдумы на осеннюю сессию. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/P3g9tVBdqn5WAvdYTnnG-small.jpg)](https://er.ru/activity/news/o-socialnyh-planah-gosdumy-na-osennyuyu-sessiyu-statya-andreya-isaeva)
 
@@ -329,21 +337,13 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666)
 
-Сегодня 09:00
+02.10.24
 
 [![«Единая Россия» разработает поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/October2024/N0Xrf5unsk0rSzeTBGNE-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
 
 [«Единая Россия» разработает поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#ПосланиеПрезидентаФедеральномуСобранию](https://er.ru/activity/news?tags%5B0%5D=116509) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
-
-01.10.24
-
-[![Ирина Яровая: Необходимо создание базового закона о детском отдыхе](https://cdn.er.ru/media/news/October2024/e7IBiSH2DPCU74MHBm4q-small.jfif)](https://er.ru/activity/news/irina-yarovaya-neobhodimo-sozdanie-bazovogo-zakona-o-detskom-otdyhe)
-
-[Ирина Яровая: Необходимо создание базового закона о детском отдыхе](https://er.ru/activity/news/irina-yarovaya-neobhodimo-sozdanie-bazovogo-zakona-o-detskom-otdyhe)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#ДОЛ](https://er.ru/activity/news?tags%5B0%5D=134747) [#Чернышенко](https://er.ru/activity/news?tags%5B0%5D=6386)
 
 01.10.24
 
