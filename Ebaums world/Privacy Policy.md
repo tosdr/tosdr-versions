@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
+    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
+    
+    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
+    
     [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
-    
-    [![21 Savage Insults That Burnt People to a Crisp](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/) [21 Savage Insults That Burnt People to a Crisp](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/)
-    
-    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
+    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
     
 
 * Advertisement
