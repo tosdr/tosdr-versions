@@ -240,25 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### DNSSEC
+#### New to domain names and dynamic DNS?
 
+We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-
-#### Our redundant DNS solution is fully supported with DNSSEC
-
-  
-
-  
-
-[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
-  
-
-  
-
-[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
-  
-
-  
+[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
 
 ### News
 
