@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your good service.
+Thank you very much for your great support as always.
 
-Gil Lessard
+Vito Vanjak
