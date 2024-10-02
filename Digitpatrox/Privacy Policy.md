@@ -20,16 +20,16 @@ Wednesday, October 2 2024
 
 Latest
 
-* [Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
-* [How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
-* [How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
-* [Graphics Cards Once Had Upgradable VRAM, So Why Not Today?](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
-* [What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
-* [Sleep hot? Cool off with Sleep Number’s latest smart bed, available now](https://digitpatrox.com/sleep-hot-cool-off-with-sleep-numbers-latest-smart-bed-available-now/)
-* [The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://digitpatrox.com/the-next-iphone-se-may-lose-the-home-button-add-face-id-and-apple-intelligence/)
-* [8 Best Games like Dress to Impress (DTI), Ranked](https://digitpatrox.com/8-best-games-like-dress-to-impress-dti-ranked/)
-* [Jamf appoints new CISO and global channel lead](https://digitpatrox.com/jamf-appoints-new-ciso-and-global-channel-lead/)
-* [WWW creator Tim Berners-Lee closes down his foundation – Computerworld](https://digitpatrox.com/www-creator-tim-berners-lee-closes-down-his-foundation-computerworld/)
+* [It’s a wrap for the HoloLens 2 headset – Computerworld](https://digitpatrox.com/its-a-wrap-for-the-hololens-2-headset-computerworld/)
+* [Wordle Answer for Today, October 2, 2024](https://digitpatrox.com/wordle-answer-for-today-october-2-2024/)
+* [How to Build Your Own Basic Toolkit](https://digitpatrox.com/how-to-build-your-own-basic-toolkit/)
+* [Sony Has New Donut-shaped LinkBuds Open and LinkBuds Fit](https://digitpatrox.com/sony-has-new-donut-shaped-linkbuds-open-and-linkbuds-fit/)
+* [Microsoft is doubling down on Widows Recall, adding new security and privacy features – will this help woo hesitant enterprise users?](https://digitpatrox.com/microsoft-is-doubling-down-on-widows-recall-adding-new-security-and-privacy-features-will-this-help-woo-hesitant-enterprise-users/)
+* [Microsoft Copilot Cheat Sheet: Price, Versions & Benefits](https://digitpatrox.com/microsoft-copilot-cheat-sheet-price-versions-benefits/)
+* [Wondershare Filmora’s latest update streamlines video editing and content creation with new tools](https://digitpatrox.com/wondershare-filmoras-latest-update-streamlines-video-editing-and-content-creation-with-new-tools/)
+* [The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+* [WhatsApp Adds Filters and Backgrounds to Spice up Your Video Calls!](https://digitpatrox.com/whatsapp-adds-filters-and-backgrounds-to-spice-up-your-video-calls/)
+* [“This is a complicated problem for us”: Proofpoint points finger at user configurations for spam attacks earlier this year](https://digitpatrox.com/this-is-a-complicated-problem-for-us-proofpoint-points-finger-at-user-configurations-for-spam-attacks-earlier-this-year/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3543512-0-32532100-1727806854-Copilot-Daily.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3543804-0-43870300-1727831357-shutterstock_editorial_370707185.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/its-a-wrap-for-the-hololens-2-headset-computerworld/)
     
-    [Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
+    [It’s a wrap for the HoloLens 2 headset – Computerworld](https://digitpatrox.com/its-a-wrap-for-the-hololens-2-headset-computerworld/)
     
-    18 mins ago
+    58 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J94Y27SV0TM96704V6JSTF80/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
+* [![](https://lifehacker.com/imagery/articles/01J8ZWYTJE8BKXJ40ZG7QKVJFT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-october-2-2024/)
     
-    [How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
-    
-    43 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1665175031/prod/content/dam/CRO-Images-2022/Home/10October/CR-Home-Inlinehero-how-to-set-up-generator-fast-1022png)](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
-    
-    [How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
+    [Wordle Answer for Today, October 2, 2024](https://digitpatrox.com/wordle-answer-for-today-october-2-2024/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gpu-with-some-numbers-around-it.jpg)](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727373338/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Home-Toolkit-9-24)](https://digitpatrox.com/how-to-build-your-own-basic-toolkit/)
     
-    [Graphics Cards Once Had Upgradable VRAM, So Why Not Today?](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/windows-update-oct-24.png)](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
-    
-    [What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
+    [How to Build Your Own Basic Toolkit](https://digitpatrox.com/how-to-build-your-own-basic-toolkit/)
     
     2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/123043_original_local_1200x1050_v3_converted.jpg)](https://digitpatrox.com/sony-has-new-donut-shaped-linkbuds-open-and-linkbuds-fit/)
+    
+    [Sony Has New Donut-shaped LinkBuds Open and LinkBuds Fit](https://digitpatrox.com/sony-has-new-donut-shaped-linkbuds-open-and-linkbuds-fit/)
+    
+    2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/mzXSoufuS9gE7qjNjE7mpS-1200-80.jpg)](https://digitpatrox.com/microsoft-is-doubling-down-on-widows-recall-adding-new-security-and-privacy-features-will-this-help-woo-hesitant-enterprise-users/)
+    
+    [Microsoft is doubling down on Widows Recall, adding new security and privacy features – will this help woo hesitant enterprise users?](https://digitpatrox.com/microsoft-is-doubling-down-on-widows-recall-adding-new-security-and-privacy-features-will-this-help-woo-hesitant-enterprise-users/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [58 mins ago
     
-    ### Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
-* [43 mins ago
-    
-    ### How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
+    ### It’s a wrap for the HoloLens 2 headset – Computerworld](https://digitpatrox.com/its-a-wrap-for-the-hololens-2-headset-computerworld/)
 * [1 hour ago
     
-    ### How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
+    ### Wordle Answer for Today, October 2, 2024](https://digitpatrox.com/wordle-answer-for-today-october-2-2024/)
+* [2 hours ago
+    
+    ### How to Build Your Own Basic Toolkit](https://digitpatrox.com/how-to-build-your-own-basic-toolkit/)
 
 Most Popular Topics
 
-* [5 days ago
+* [August 19, 2024
     
-    ### All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
-* [September 1, 2024
+    ### JumpCloud survey highlights the business case for Macs – Computerworld](https://digitpatrox.com/jumpcloud-survey-highlights-the-business-case-for-macs-computerworld/)
+* [August 14, 2024
     
-    ### Should You Buy a Samsung Bespoke Fridge?](https://digitpatrox.com/should-you-buy-a-samsung-bespoke-fridge/)
-* [August 27, 2024
+    ### Data breach at VCUarts Qatar claimed by Dispossessor ransomware gang](https://digitpatrox.com/data-breach-at-vcuarts-qatar-claimed-by-dispossessor-ransomware-gang/)
+* [August 29, 2024
     
-    ### BCG execs: AI across the company increased productivity, ‘employee joy’](https://digitpatrox.com/bcg-execs-ai-across-the-company-increased-productivity-employee-joy/)
+    ### Halliburton cyberattack linked to RansomHub ransomware gang](https://digitpatrox.com/halliburton-cyberattack-linked-to-ransomhub-ransomware-gang/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://digitpatrox.com/the-next-iphone-se-may-lose-the-home-button-add-face-id-and-apple-intelligence/)
+    ### Wondershare Filmora’s latest update streamlines video editing and content creation with new tools](https://digitpatrox.com/wondershare-filmoras-latest-update-streamlines-video-editing-and-content-creation-with-new-tools/)
 * [4 hours ago
     
-    ### 8 Best Games like Dress to Impress (DTI), Ranked](https://digitpatrox.com/8-best-games-like-dress-to-impress-dti-ranked/)
-* [5 hours ago
+    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+* [4 hours ago
     
-    ### Jamf appoints new CISO and global channel lead](https://digitpatrox.com/jamf-appoints-new-ciso-and-global-channel-lead/)
+    ### WhatsApp Adds Filters and Backgrounds to Spice up Your Video Calls!](https://digitpatrox.com/whatsapp-adds-filters-and-backgrounds-to-spice-up-your-video-calls/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 13, 2024
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 28, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
