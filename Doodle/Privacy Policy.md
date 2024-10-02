@@ -216,6 +216,7 @@ Doodle reserves the right to update this Privacy Policy at any time. The most cu
 
 * [](https://doodle.com/en/)
 * [Privacy Policy](https://doodle.com/en/privacy-policy/)
+    
 
 [](https://doodle.com/en/)
 
