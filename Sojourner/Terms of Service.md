@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-36698881b1d0058531650155bcbad99f
+a066622f3c485fe3c4690270b4ca7f78
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![11 mm amber speckled heart beads](https://sojourner.biz/images/cache/glass/HRT030.200.jpg)](https://sojourner.biz/beads/glass/11-mm-amber-speckled-heart-beads.html "11 mm amber speckled heart beads")
+[![Medium crane scissors](https://sojourner.biz/images/cache/SZ005.200.jpg)](https://sojourner.biz/beads/tools/medium-crane-scissors.html "Medium crane scissors")
 
-#### [11 mm amber speckled heart beads](https://sojourner.biz/beads/glass/11-mm-amber-speckled-heart-beads.html "11 mm amber speckled heart beads")
+#### [Medium crane scissors](https://sojourner.biz/beads/tools/medium-crane-scissors.html "Medium crane scissors")
 
-$4.00
+$38.00
 
 ### Best Sellers
 
