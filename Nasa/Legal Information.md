@@ -247,13 +247,13 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 5 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+article 6 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
 
 3 min read
 
@@ -269,13 +269,13 @@ article 5 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Risk of radiation-induced cancers
 
-article 2 hours ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![Aurora](https://www.nasa.gov/wp-content/uploads/2023/06/aurora1.png?w=1024)
+article 10 hours ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![Aurora](https://www.nasa.gov/wp-content/uploads/2023/06/aurora1.png?w=1024)
 
 1 min read
 
 ### Space Radiation Risks
 
-article 2 hours ago](https://www.nasa.gov/space-radiation-risks/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/space-radiation-risks/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-s
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 13 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
@@ -313,19 +313,19 @@ article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 13 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![October’s Night Sky Notes: Catch Andromeda Rising!](https://science.nasa.gov/wp-content/uploads/2023/07/Andromeda_Galaxy.jpeg)
+
+3 min read
+
+### October’s Night Sky Notes: Catch Andromeda Rising!
+
+article 16 hours ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/catch-andromeda-rising/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 3 min read
 
 ### How NASA Uses and Improves Solar Power
 
-article 5 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
-
-1 min read
-
-### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
-
-article 5 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)
+article 5 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 5 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -357,19 +357,19 @@ article 6 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
 
-article 3 hours ago](https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+article 11 hours ago](https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 5 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
+article 13 hours ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
 
 2 min read
 
 ### Eclipsing Binary Patrol
 
-article 23 hours ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)
+article 1 day ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)
 
 ### Highlights
 
@@ -413,7 +413,7 @@ article 6 days ago](https://www.nasa.gov/directorates/somd/space-communications-
 
 ### Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update
 
-article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
 
 ### Featured
 
@@ -457,7 +457,7 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/ames/getting-ssp
 
 ### NASA Relaunches Art Program with Space-Themed Murals
 
-article 7 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
+article 1 week ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
 
 ### Highlights
 
