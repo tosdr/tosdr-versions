@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
+*  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
-    ========================================================================================================================================
+    [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+    ====================================================================================================================
     
-    People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
+    No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
     
-    By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
+    By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
     
-* *  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+* *  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+        
+        ### [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
+        
+        People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
+        
+        By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
+        
+    *  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
         
-    *  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
-        
-        ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-        
-        Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-        
 
 More Stories
 ------------
 
+*  [![Eterneva on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-eterneva-diamonds-after-shark-tank/intro-1727801681.jpg)](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With Eterneva Diamonds After Shark Tank](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
+    
+    To make Eterneva Diamonds happen, Adelle Archer and Garrett Ozar needed help. So they took their business to Shark Tank.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
+    
+*  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    
+    ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    
+    Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
+    
 *  [![Taylor Swift Travis Kelce](https://www.women.com/img/gallery/5-taylor-swift-game-day-outfits-that-serve-ultimate-wag-glam/intro-1727455446.jpg)](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
     
     By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-    
-*  [![practical magic](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-    
-    The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-    
-*  [![Paris Hilton at an event](https://www.women.com/img/gallery/6-celebrity-memoirs-that-are-actually-great-well-written-books/intro-1726506825.jpg)](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [6 Celebrity Memoirs That Are Actually Great, Well-Written Books](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
-    
-    Celebrity memoirs can range from really good to really bad. Among the best are recollections by Paris Hilton, Viola Davis, and Tom Felton.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
     
 
 Back
