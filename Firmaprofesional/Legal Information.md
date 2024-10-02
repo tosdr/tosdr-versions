@@ -111,7 +111,7 @@ Política de privacidad
     Los datos personales proporcionados a través del formulario de contacto se conservarán hasta que se dé respuesta a la consulta realizada y como máximo dos (2) meses a partir de la recepción de la consulta. Los datos personales proporcionados en la suscripción de las comunicaciones electrónicas de los servicios y productos de FIRMAPROFESIONAL se conservarán mientras no se revoque el consentimiento, que puede ser revocado en cualquier momento.
 
 * **¿Cómo revocar el consentimiento?**   
-    Puede revocar su consentimiento enviando un email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
+    Puede revocar su consentimiento enviando un email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
 
 * **¿Cuál es la legitimación para el tratamiento de sus datos?**   
     La base legal para el tratamiento de sus datos es la solicitud de información del interesado a través del formulario del contacto, así como la suscripción de las comunicaciones electrónicas de los servicios y productos de FIRMAPROFESIONAL.
@@ -123,7 +123,7 @@ Política de privacidad
     Cualquier persona tiene derecho a obtener confirmación sobre si en FIRMAPROFESIONAL se tratan datos personales que les conciernan, o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos.En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.  
     Asimismo, en determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos.
     
-    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.A., Paseo de Gracia, 50, 08007 Barcelona, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection). 
+    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.A., Paseo de Gracia, 50, 08007 Barcelona, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
     
     En caso de considerarlo oportuno, puede presentar una reclamación ante la Agencia Española de Protección de Datos ([agpd.es](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php)).
     
