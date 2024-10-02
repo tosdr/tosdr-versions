@@ -30,7 +30,7 @@
     
     Go to
     
-    [Customer support](https://www.ordnancesurvey.co.uk/customers/support)[Become a Licensed Partner](https://www.ordnancesurvey.co.uk/customers/os-channel-partners/become-a-partner)[Customer case studies](https://www.ordnancesurvey.co.uk/customers/case-studies)
+    [Customer support](https://www.ordnancesurvey.co.uk/customers/support)[Become a Licensed Partner](https://www.ordnancesurvey.co.uk/customers/os-channel-partners/become-a-partner)[Case studies](https://www.ordnancesurvey.co.uk/customers/case-studies)
     
 * About
     
@@ -43,11 +43,11 @@
     [Find company headquarters](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)[OS annual report](https://www.ordnancesurvey.co.uk/about/annual-reports)
     
 
-* News
+* News & Insights
     
-    News
+    News & Insights
     
-    [What’s new at OS](https://www.ordnancesurvey.co.uk/whats-new)[News](https://www.ordnancesurvey.co.uk/news)[Insights](https://www.ordnancesurvey.co.uk/insights)[Blog](https://www.ordnancesurvey.co.uk/blog)[Customers using our data](https://www.ordnancesurvey.co.uk/customers/case-studies)
+    [What’s new at OS](https://www.ordnancesurvey.co.uk/whats-new)[News](https://www.ordnancesurvey.co.uk/news)[Insights](https://www.ordnancesurvey.co.uk/insights)[Blog](https://www.ordnancesurvey.co.uk/blog)[Case studies](https://www.ordnancesurvey.co.uk/customers/case-studies)
     
     Go to
     
@@ -114,7 +114,7 @@ Menu
     
     arrow\_forward\_ios
     
-* News
+* News & Insights
     
     arrow\_forward\_ios
     
