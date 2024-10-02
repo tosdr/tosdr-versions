@@ -223,6 +223,18 @@ Conditions générales
     * [Contrats conclus à partir du 05/05/2023(PDF, 206Kb)](https://www.proximus.be/dam/jcr:a3b56d06-e663-48f3-9e74-5836ec94a26a/cdn/sites/iportal/documents/pdfs/common/20230505_pabx_maintenance_fr~2023-05-03-15-17-21~cache.pdf)
     * [Contrats conclus avant 04/05/2023(PDF, 235Kb)](https://www.proximus.be/dam/jcr:0a13c716-206e-40d0-8dc7-751de0afb8dd/cdn/sites/iportal/documents/pdfs/common/pabx_maintenance_fr~2022-01-21-09-23-51~cache.pdf)
 
+#### Mise à jour des Conditions Générales pour les Clients Professionnels et des Conditions d’Utilisation d’un accès Internet via le réseau Proximus à partir du 01/12.
+
+Proximus adapte le document contractuel « Conditions d’Utilisation d’un accès Internet via le réseau Proximus » et ses Conditions Générales pour les Clients Professionnels au cadre réglementaire : la procédure interne de traitement des plaintes pour signaler un contenu illégal est précisée, ainsi que les mesures potentielles qui peuvent être prises.
+
+Voir plus Voir moins
+
+Toute plainte concernant un contenu potentiellement illégal ou un abus de Service doit être adressée au point de contact central de Proximus. Les plaintes peuvent être soumises soit par e-mail à [abuse@proximus.com](mailto:abuse@proximus.com), soit via le formulaire de plainte disponible sur le site web de Proximus : [proximus.com/contenu-illegalNouvelle fenêtre](https://www.proximus.com/contenu-illegal) .
+
+Les réponses aux plaintes seront communiquées par e-mail dans un délai raisonnable.
+
+Lorsque le Produit ou le Service est un « service intermédiaire » au sens du Digital Services Act du 19 octobre 2022, et dans le cadre de la procédure interne de traitement des plaintes, Proximus se réserve le droit de prendre toutes les mesures appropriées pour remédier à la situation, y compris mais sans s’y limiter, les actions énoncées à l’article 5.6 des Conditions Générales, la mise en demeure de cesser tout abus et le renvoi de l’affaire aux entités appropriées pour une action ultérieure.
+
 #### Mise à jour des Conditions Particulières pour le service TV et des Conditions d'Utilisation d'un accès Internet via le réseau Proximus à partir du 01/12.
 
 Proximus adapte le document contractuel « Conditions d'Utilisation d'un accès Internet via le réseau Proximus » et ses Conditions Particulières pour le service TV (pour le service VOD) au cadre réglementaire : la procédure interne de plainte pour signaler un contenu illégal est précisée, ainsi que les mesures potentielles qui peuvent être prises.
@@ -580,7 +592,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
