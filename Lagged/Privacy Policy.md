@@ -237,9 +237,9 @@ Games you might like
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
-
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
+
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
@@ -249,9 +249,9 @@ Games you might like
 
 [Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
 
-[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
-
 [Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
+
+[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
