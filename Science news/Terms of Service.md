@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Scientists have traced all 54.5 million connections in a fruit fly’s brain](https://www.sciencenews.org/article/fruit-fly-brain-connections-traced)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")42 mins ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Coyotes have the face muscles for that ‘sad-puppy’ look](https://www.sciencenews.org/article/coyotes-face-muscles-sad-puppy)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")10 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")17 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [The fruit fly revolutionized biology. Now it’s boosting science in Africa](https://www.sciencenews.org/article/fruit-fly-biology-africa-research)
             
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")17 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Bird nests made with a toxic fungus seem to fend off attacking ants](https://www.sciencenews.org/article/bird-nests-toxic-fungus-ant-attacks)
-            
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")20 hours ago
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")24 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,11 +138,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")42 mins ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Why Hurricane Helene was so devastating](https://www.sciencenews.org/article/hurricane-helene-devastation-explainer)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")14 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")21 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -150,18 +156,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 27, 2024
             
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [A thousands-year-old log demonstrates how burying wood can fight climate change](https://www.sciencenews.org/article/burying-log-climate-change)
-            
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")September 26, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")42 mins ago
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [Physicists just discovered the rarest particle decay ever](https://www.sciencenews.org/article/rarest-particle-decay-kaons)
             
@@ -172,12 +178,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
-            
-        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-            
-            ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")September 23, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
