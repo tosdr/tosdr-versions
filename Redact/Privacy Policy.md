@@ -1,6 +1,6 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in \-660:-54:-07
+Expires in \-709:-36:-39
 
 25% OFF SALE with code 'LABOR25'](https://redact.dev/login)
 
@@ -14,6 +14,7 @@ Services 
 * [Pricing](https://redact.dev/pricing)
 * [Business](https://redact.dev/business)
 * [Testimonials](https://redact.dev/testimonials)
+* [Contact](https://redact.dev/contact)
 * [How it works](https://redact.dev/how-it-works)
 * [Log in](https://redact.dev/login)
 
@@ -252,7 +253,7 @@ Join our Discord server and we will directly answer your questions in real time!
 
 [Join Redact Discord](https://redact.dev/discord)
 
-[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[How it works](https://redact.dev/how-it-works)[Log in](https://redact.dev/login)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)[Contact](https://redact.dev/contact)
+[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)[Contact](https://redact.dev/contact)
 
 [Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Blog](https://redact.dev/blog)[Privacy Policy](https://redact.dev/privacy)[Terms & Conditions](https://redact.dev/terms)[Contact](https://redact.dev/contact)
 
