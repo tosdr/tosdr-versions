@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 5 , 7 9 5
+1 , 0 6 5 , 8 3 5
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727882461) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727903741) to resend activation email.
 
 OK
 
@@ -305,7 +305,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727882461) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727903741) to resend activation email.
 
 OK
 
@@ -1052,8 +1052,8 @@ Key
 
 ![x2 Spider Queen Blood](https://statics.pipeflare.io/assets/images/modals/october-pack/02.png)
 
-x2 Spider  
-Queen Blood
+x2 Strength  
+Orb
 
 ![x2 Spider Queen Blood](https://statics.pipeflare.io/assets/images/modals/october-pack/03.png)
 
@@ -1080,19 +1080,24 @@ Life
 x2 Sword  
 Dance
 
-![x2 Sword Soul](https://statics.pipeflare.io/assets/images/modals/october-pack/08.png)
+![x1 Sword Soul](https://statics.pipeflare.io/assets/images/modals/october-pack/08.png)
 
-x2 Sword  
+x1 Sword  
 Soul
 
-![x1 Raging Dragon](https://statics.pipeflare.io/assets/images/modals/october-pack/09.png)
+![x2 Raging Dragon](https://statics.pipeflare.io/assets/images/modals/october-pack/09.png)
 
-x1 Raging  
+x2 Raging  
 Dragon
+
+![x1 Halloween](https://statics.pipeflare.io/assets/images/modals/october-pack/hlw.png)
+
+x1 Nightmare  
+Skin
 
 $17.99
 
-Below effects only works in October. You will get + 50% ATK/DEF/HP, +100% chance to spawn a small explosive spider when being attacked by an enemy
+Halloween Nightmare skin effects only works in October. You will get + 50% ATK/DEF/HP, +100% chance to spawn a small explosive spider when being attacked by an enemy
 
 ×
 
@@ -1165,7 +1170,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 260000
+x 265000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1194,7 +1199,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 425000
+x 430000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1230,7 +1235,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 260000
+x 265000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1259,7 +1264,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 425000
+x 430000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
