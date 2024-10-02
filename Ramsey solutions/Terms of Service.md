@@ -178,6 +178,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Net Worth Calculator](https://www.ramseysolutions.com/retirement/net-worth-calculator?snid=free-tools.retirement.net-worth-calculator)
         * [Compound Interest Calculator](https://www.ramseysolutions.com/retirement/compound-interest-calculator?snid=free-tools.retirement.compound-interest-calculator)
         * [Retire Inspired Quotient (R:IQ)](https://www.ramseysolutions.com/retirement/riq?snid=free-tools.retirement.riq)
+        * [Investing Guide](https://www.ramseysolutions.com/retirement/ramsey-investing-guide?snid=free-tools.retirement.investment-guide)
         * [Estate Planning Guide](https://www.ramseysolutions.com/retirement/estate-planning-guide?snid=free-tools.retirement.estate-planning-guide)
     
     * Debt
