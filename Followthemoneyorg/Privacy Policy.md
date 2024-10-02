@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Private Prison Political Contributions, 2009-2016](/assets/Images/teasers/small/Screen-Shot-2017-01-24-at-1.16.27-PM.png)](https://www.followthemoney.org/research/institute-reports/prisons-and-politics-profiling-the-pecuniary-political-persistence-of-private-prisons)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
+
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
