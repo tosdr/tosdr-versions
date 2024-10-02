@@ -68,7 +68,7 @@ Login [My Profile](https://www.snopes.com/profile/) Logout
 
 ![republican_symbol](/design/images/republican_symbol.png)
 
-[Snopes is fact-checking the vice presidential debate live!](https://www.snopes.com/live/walz-vance-debate-live-updates/)
+[Snopes fact-checked the vice presidential debate live!](https://www.snopes.com/live/walz-vance-debate-live-updates/)
 
 [Read more here](https://www.snopes.com/live/walz-vance-debate-live-updates/)
 
