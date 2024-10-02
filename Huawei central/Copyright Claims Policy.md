@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 4 September 2024 expanding](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-4-400x240.jpg)
+        
+        Huawei Watch GT 4 September 2024 update expanding to more global users](https://www.huaweicentral.com/huawei-watch-gt-4-september-2024-update-expanding-to-more-global-users/)
     * [![Huawei Watch GT 5 Pro sale](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Gt-5-Pro-1-400x240.jpg)
         
         Huawei Watch GT 5 Pro wearable begins first sale](https://www.huaweicentral.com/huawei-watch-gt-5-pro-wearable-begins-first-sale/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Malaysia Watch September 26](https://www.huaweicentral.com/wp-content/uploads/2024/09/Malaysia-event-400x240.jpg)
         
         Huawei to launch Watch GT 5, Watch D2, and more in Malaysia on September 26](https://www.huaweicentral.com/huawei-to-launch-watch-gt-5-watch-d2-and-more-in-malaysia-on-september-26/)
-    * [![Huawei Watch GT 5 Pro specifications](https://www.huaweicentral.com/wp-content/uploads/2024/09/GT-5-Pro-img-400x240.jpg)
-        
-        Huawei Watch GT 5 Pro: Specifications, Features, and Price](https://www.huaweicentral.com/huawei-watch-gt-5-pro-specifications-features-and-price/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
