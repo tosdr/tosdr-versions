@@ -1728,6 +1728,7 @@ Shop
 * [Education](https://www.razer.com/education)
 * [Only at Razer](https://www.razer.com/only-at-razer)
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
+* [Affiliate](https://www.razer.com/affiliate)
 * [Newsletter](https://www.razer.com/newsletter)
 
 Explore
