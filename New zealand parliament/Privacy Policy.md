@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/waititi-rawiri/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/guided-tours/introduction-to-parliament-tour/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/waititi-rawiri/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/guided-tours/introduction-to-parliament-tour/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
