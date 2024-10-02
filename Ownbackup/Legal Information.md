@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Award
 
-Shared Responsibility Model Part One: Six Quick Ways Salesforce Admins Can Improve Their Org’s Security Posture](https://www.ownbackup.com/blog/shared-responsibility-model-six-quick-ways-salesforce-admins-can-improve-their-orgs-security-posture)
+Own Customer Awards Program: Celebrating Commitment to Data Excellence](https://www.ownbackup.com/blog/own-customer-awards-program-celebrating-commitment-to-data-excellence)
 
-[Government
+[Backup and Recovery
 
-Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Agencies](https://www.ownbackup.com/blog/ensuring-operational-continuity-creating-realistic-rto-rpo-for-government-agencies)
+How to Prepare for your Migration to Salesforce Hyperforce](https://www.ownbackup.com/blog/how-to-prepare-for-your-migration-to-salesforce-hyperforce)
 
-[On-Platform Development
+[Backup and Recovery
 
-The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
+Is Your Backup Strategy Ransomware-Ready?](https://www.ownbackup.com/blog/are-your-backups-ransomware-ready)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Award
 
-Shared Responsibility Model Part One: Six Quick Ways Salesforce Admins Can Improve Their Org’s Security Posture](https://www.ownbackup.com/blog/shared-responsibility-model-six-quick-ways-salesforce-admins-can-improve-their-orgs-security-posture)
+Own Customer Awards Program: Celebrating Commitment to Data Excellence](https://www.ownbackup.com/blog/own-customer-awards-program-celebrating-commitment-to-data-excellence)
 
-[Government
+[Backup and Recovery
 
-Ensuring Operational Continuity: Creating Realistic RTO & RPO for Government Agencies](https://www.ownbackup.com/blog/ensuring-operational-continuity-creating-realistic-rto-rpo-for-government-agencies)
+How to Prepare for your Migration to Salesforce Hyperforce](https://www.ownbackup.com/blog/how-to-prepare-for-your-migration-to-salesforce-hyperforce)
 
-[On-Platform Development
+[Backup and Recovery
 
-The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
+Is Your Backup Strategy Ransomware-Ready?](https://www.ownbackup.com/blog/are-your-backups-ransomware-ready)
 
 Company
 
