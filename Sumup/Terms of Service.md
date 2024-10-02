@@ -363,7 +363,7 @@ Top articles
     * [Privacy Policy](https://www.sumup.com/en-us/privacy/)
     * [Terms & Conditions](https://www.sumup.com/en-us/terms/)
     * [Cookie Policy](https://www.sumup.com/en-us/cookies/)
-    * [Service Status](https://status.sumup.com/usa/)
+    * [Service Status](https://status.sumup.com/usa/?locale=en)
 * [](https://facebook.com/sumup.us "Facebook")[](https://twitter.com/sumup "Twitter")[](https://instagram.com/sumupusa "Instagram")[](https://www.youtube.com/SumUpGlobal "Youtube")[](https://linkedin.com/company/sumup "Linkedin")
 
 ©SumUp Inc. All Rights Reserved | SumUp Inc. 1209 Orange Street Wilmington DE 19801-0801. SumUp is a registered Payment Facilitator of Fifth Third Bank, an Ohio Corporation. Banking services are provided by Piermont Bank, Member FDIC.
