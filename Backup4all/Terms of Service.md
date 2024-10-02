@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to T Cloud](https://www.backup4all.com/how-to-backup-your-data-to-t-cloud-kb.html)  
+* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
     
-* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
+* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
     
-* [How to backup Outlook Express emails](https://www.backup4all.com/how-to-backup-outlook-express-emails-and-settings-kb.html)  
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
-* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
+* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
     
-* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
+* [How to back up data files from Constant using ...](https://www.backup4all.com/how-to-back-up-data-files-from-constant-using-backup4all-kb.html)  
     
 
 Choose language:
