@@ -7,6 +7,7 @@
    
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
+* [$30 Sweaters](https://fanjoy.co/collections/30-sweaters)
 * Exclusives
     
     Exclusives
@@ -46,6 +47,7 @@ United States | USD $
 [![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_28255947-441b-4d3f-8734-d07e088285a4.png?v=1727374881&width=600)](https://fanjoy.co/)
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
+* [$30 Sweaters](https://fanjoy.co/collections/30-sweaters)
 * Exclusives
     
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
