@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Kamala Harris is traveling to Georgia on Wednesday to survey Helene’s damage](https://www.ajc.com/politics/kamala-harris-is-traveling-to-georgia-on-wednesday-to-survey-helenes-damage/LNH4XHENQ5AJRO3AD3262NSNIE/)
+[Breaking: WATCH LIVE: Walz and Vance meet in their first vice presidential debate](https://www.ajc.com/news/live-vice-presidential-debate-from-cbs-news/NALTNMN7ZNBS7EIEXPYUULQDRY/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
@@ -18,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-another-day-another-calamity/GR6GT4SWZZDO5JVTJSXCFNQDXQ/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
