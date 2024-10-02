@@ -184,6 +184,7 @@ If you wish to contact Miniclip about this Cookies Policy and the use of cookies
 * [Terms and Conditions](https://www.miniclip.com/terms-and-conditions)
 * [Privacy Policy](https://www.miniclip.com/privacy-policy)
 * [Content and Conduct Policy](https://www.miniclip.com/content-and-conduct-policy)
+* [Privacy Policy for Developers](https://www.miniclip.com/publishing-policy)
 * [Cookie Policy](https://www.miniclip.com/cookie-policy)
 * Privacy Settings
 
