@@ -466,7 +466,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24](https://www.100percentpure.com/collections/hair-products "HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24")
+[LAST DAY! HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24](https://www.100percentpure.com/collections/hair-products "LAST DAY! HAPPY NATIONAL HAIR DAY! BUY ONE GET ONE 50% OFF USE CODE: HAIRDAY24")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
