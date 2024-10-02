@@ -40,7 +40,7 @@ Menu
     * [Navigating Transitions](https://www.viacharacter.org/courses/navigating-transitions)
     * [Character Strengths Interventions](https://www.viacharacter.org/courses/character-strengths-interventions)
     * For Workplaces ▾
-    * [Strength-Based Workplaces](https://www.viacharacter.org/strength-based-workplaces)
+    * [Workplaces at Their Best](https://www.viacharacter.org/strength-based-workplaces)
     * For Educators ▾
     * [Strength-Based Education](https://www.viacharacter.org/programs/thriving-learning-communities)
     
