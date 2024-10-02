@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 186 utilisateurs actifs
+##### 753 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
-* [Pourquoi la navigation privée n’est pas si privée ? 5 idées fausses (et dangereuses)](https://lecrabeinfo.net/pourquoi-la-navigation-privee-nest-pas-si-privee-5-idees-fausses-et-dangereuses.html)
-* [Comment vider le cache dans le navigateur Edge ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-edge.html)
-* [Comment vider le cache dans le navigateur Firefox ?](https://lecrabeinfo.net/comment-vider-le-cache-dans-le-navigateur-firefox.html) 
+* [Télécharger les ISO de Windows 11](https://lecrabeinfo.net/telecharger-iso-windows-11.html)
+* [Windows 11 : les dates de fin de support](https://lecrabeinfo.net/windows-11-les-dates-de-fin-de-support.html)
+* [Télécharger et installer Windows 11 24H2](https://lecrabeinfo.net/telecharger-et-installer-windows-11-24h2.html)
 
 ### Tendance
 
@@ -152,9 +152,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 533 membres
-* 906 articles
+* 68 535 membres
+* 908 articles
 * 26 604 commentaires
+* [2 611 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* [871 abonnés X](https://x.com/lecrabeinfo)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
