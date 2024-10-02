@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
+    
+    ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
+    
+    [![Romain Esse is dragged back by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-444262-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
+    
+    ### [Neil Harris discusses on-field argument between Millwall pair](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
+    
+    [![Duncan Watmore is tackled by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/D-Watmore-555543-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-asked-a-lot-of-the-players-millwall-boss-admits-small-squad-may-be-taking-toll-on-players/)
+    
+    ### [‘I’ve asked a lot of the players’ – Millwall head coach admits small squad may be negatively affecting players’ performances](https://southwarknews.co.uk/sport/football/millwall/ive-asked-a-lot-of-the-players-millwall-boss-admits-small-squad-may-be-taking-toll-on-players/)
+    
+    [![Shaun Hutchinson against Bristol City. Image: Milwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Hutch-frustrating-360x180.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
+    
+    ### [Millwall boss reveals injury problems set to continue – as Hutch joins absentee list](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
+    
     [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
     
     ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
@@ -38,22 +54,6 @@
     [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
     ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-    
-    [![The Southwark Maternity Commission panel. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/23_01_24_Southwark-Council_Maternity-Commission-launch_0246-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
-    
-    ### [‘Stop charging refugees for maternity care,’ Southwark Council urges central government](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
-    
-    [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
-    
-    ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
-    
-    [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
-    
-    ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
-    
-    [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-    
-    ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
+    
+    ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
+    
+    [![Romain Esse is dragged back by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-444262-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
+    
+    ### [Neil Harris discusses on-field argument between Millwall pair](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
+    
+    [![Duncan Watmore is tackled by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/D-Watmore-555543-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-asked-a-lot-of-the-players-millwall-boss-admits-small-squad-may-be-taking-toll-on-players/)
+    
+    ### [‘I’ve asked a lot of the players’ – Millwall head coach admits small squad may be negatively affecting players’ performances](https://southwarknews.co.uk/sport/football/millwall/ive-asked-a-lot-of-the-players-millwall-boss-admits-small-squad-may-be-taking-toll-on-players/)
+    
+    [![Shaun Hutchinson against Bristol City. Image: Milwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Hutch-frustrating-360x180.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
+    
+    ### [Millwall boss reveals injury problems set to continue – as Hutch joins absentee list](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
+    
     [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
     
     ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
@@ -118,22 +134,6 @@ View All Result
     [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
     ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-    
-    [![The Southwark Maternity Commission panel. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/23_01_24_Southwark-Council_Maternity-Commission-launch_0246-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
-    
-    ### [‘Stop charging refugees for maternity care,’ Southwark Council urges central government](https://southwarknews.co.uk/area/southwark/stop-charging-refugees-for-maternity-care-southwark-council-urges-central-government/)
-    
-    [![Southwark Council offices, Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/05/Image-16-05-2024-at-17.23-360x180.jpg)](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
-    
-    ### [Council sends 5,000 households an extra £50 to help with council tax this month](https://southwarknews.co.uk/area/southwark/council-sends-5000-households-an-extra-50-to-help-with-council-tax-this-month/)
-    
-    [![Neil Coyle MP for Bermondsey and Old Southwark.](https://southwarknews.co.uk/wp-content/uploads/2023/11/Official_portrait_of_Neil_Coyle_MP_crop_2-e1700663561346-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
-    
-    ### [‘Southwark should be able to recruit more police and have dedicated ward officers under new government’, says Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/southwark-should-be-able-to-recruit-more-police-and-have-dedicated-ward-officers-under-new-government-says-neil-coyle/)
-    
-    [![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-360x180.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-    
-    ### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
