@@ -1,77 +1,157 @@
-[](https://www.voodoo.io/)
+[](https://www.voodoo.io/terms/)
 
-[Log in](https://publishing-platform.voodoo.io/login) [Sign up](https://www.voodoo.io/signup)
+[Company](https://www.voodoo.io/terms/company)
 
-* [Games](https://www.voodoo.io/games)
-* [Publishing](https://www.voodoo.io/publishing)
-* [Apps](https://www.voodoo.io/apps)
-* [Careers](https://www.voodoo.io/careers)
-* Resources
-    * [Academy](https://www.voodoo.io/academy)
-    * [Blog](https://blog.voodoo.io/)
-* Product
-    * [Games](https://www.voodoo.io/games)
-    * [Publishing](https://www.voodoo.io/publishing)
-    * [Apps](https://www.voodoo.io/apps)
-    * [Careers](https://www.voodoo.io/careers)
-    * Resources
-        * [Academy](https://www.voodoo.io/academy)
-        * [Blog](https://blog.voodoo.io/)
+[Publishing](https://www.voodoo.io/terms/publishing)
 
-[Log in](https://publishing-platform.voodoo.io/login) [Sign up](https://www.voodoo.io/signup)
+[Careers](https://www.voodoo.io/terms/careers)
 
-[Log in](https://publishing-platform.voodoo.io/login) [Sign up](https://www.voodoo.io/signup)
+[News](https://www.voodoo.io/terms/news)
 
-Terms and Conditions
-====================
+[](https://www.linkedin.com/company/voodoo.io)
 
-Last updated July 4, 2022
+[](https://www.instagram.com/voodoo.io/)
 
-##### Object
+[](https://twitter.com/voodooplatform)
 
-These general terms and conditions of use are intended to outline the terms and conditions for use of the website voodoo.io (hereinafter referred to as the “T&Cs”). By accessing the website, you expressly and unreservedly accept these T&Cs and undertake to respect them. The Website is open to public access. The Website notably allows you to submit a video game to Voodoo on the page [https://www.voodoo.io/publishing/sign-up/](https://www.voodoo.io/publishing/sign-up/).
+[](https://www.voodoo.io/terms/)
 
-##### Legal information
+[Company](https://www.voodoo.io/terms/company)
 
-The website “www.voodoo.io” (hereinafter referred to as the “Website”) is owned by VOODOO SAS, a simplified joint stock company with share capital of 15,308 euros, entered on the Paris Trade and Companies Register under number 792 483 307, having its registered office at 17 rue Henri Monnier, 75009 Paris, France (hereinafter referred to as “Voodoo”).
+[Publishing](https://www.voodoo.io/terms/publishing)
 
-E-mail: contact@voodoo.io
+[Careers](https://www.voodoo.io/terms/careers)
 
-Individual tax identification number: 79248330700023
+[News](https://www.voodoo.io/terms/news)
 
-Intracommunity VAT number: FR12792483307
+[](https://www.linkedin.com/company/voodoo.io)
 
-##### Publication director
+[](https://www.instagram.com/voodoo.io/)
 
-The publication director of the Website is Mr. Laurent Ritter.
+[](https://twitter.com/voodooplatform)
 
-##### Details of host
+[](https://www.voodoo.io/terms/)
 
-The hosting service provider for the Website is gandi.net.
+[Company](https://www.voodoo.io/terms/company)
 
-##### Intellectual property
+[Publishing](https://www.voodoo.io/terms/publishing)
 
-The Website is the sole and exclusive property of Voodoo, notably including the Website content, namely text, logos, images, and other distinctive signs. You hereby undertake not to harm, directly or indirectly via the intermediary of a third party, the intellectual property rights of Voodoo over the Website. You hereby refrain from reproducing any element of the Website, by any means whatsoever, in any form whatsoever and on any medium whatsoever, without the prior consent of Voodoo.
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+[](https://www.voodoo.io/terms/)
+
+[Company](https://www.voodoo.io/terms/company)
+
+[Publishing](https://www.voodoo.io/terms/publishing)
+
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+##### Legal Pages
+
+[Privacy Policy](https://www.voodoo.io/terms/privacy)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+[General Terms and Conditions](https://www.voodoo.io/terms/terms)
+
+[T&Cs for Developers](https://www.voodoo.io/terms/terms-platform)
+
+[T&Cs for Users](https://www.voodoo.io/terms/terms-users)
+
+[T&Cs for Casual Publishing](https://www.voodoo.io/terms/terms-casual-publishing)
+
+[Purchase](https://www.voodoo.io/terms/purchase)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+##### Legal Pages
+
+[Privacy Policy](https://www.voodoo.io/terms/privacy)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+[General Terms and Conditions](https://www.voodoo.io/terms/terms)
+
+[T&Cs for Developers](https://www.voodoo.io/terms/terms-platform)
+
+[T&Cs for Users](https://www.voodoo.io/terms/terms-users)
+
+[T&Cs for Casual Publishing](https://www.voodoo.io/terms/terms-casual-publishing)
+
+[Purchase](https://www.voodoo.io/terms/purchase)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+### General Terms and Conditions
+
+Last updated July 8, 2024
+
+These general terms and conditions of use (the “**T&Cs**”) set forth the terms and conditions for use of the website voodoo.io (“**Website**”), owned and operated by Voodoo, a French société par actions simplifiée, whose registered office is located at 17 rue Henry Monnier - 75009 Paris (France), registered under number 792 483 307 RCS Paris (“**Voodoo**”). 
+
+This Website aims to present Voodoo’s activities consisting in publishing mobile video games (“**Games**”) and applications (“**Apps**”) developed by mobile games or applications developers (“**Developer**”) to be played and used by individuals (“**Users**”). 
+
+Those General T&Cs shall apply mutatis mutandis to [T&Cs for Developers](https://www.voodoo.io/terms/terms-platform) and T&Cs for Users.
+
+##### Acceptance of T&Cs
+
+By accessing the Website, you accept and agree to comply with these T&Cs and all applicable laws and regulations. 
+
+##### Modification of T&Cs
+
+Voodoo may revise these T&Cs from time to time. The most current version of the T&Cs will always be available on the Website. By continuing to access the Website after changes become effective, you agree to be bound by the revised T&Cs.
+
+##### Intellectual Property
+
+The Website is the sole and exclusive property of Voodoo. All graphics, software, text, logos, images, and other distinctive signs contained in the Website as well as the Games and the Applications referred to in the Website (the “**Intellectual Property**”) are owned by Voodoo or, with respect to the Games and the Apps, by Voodoo’s  licensed Studios. 
+
+You hereby expressly undertake by any means whatsoever, in any form whatsoever and on any medium whatsoever,  in any manner whatsoever, directly or indirectly, not to : 
+
+* harm the Intellectual Property Rights of Voodoo and/or licensed Studios, 
+    
+* misuse  any of the Intellectual Property, 
+    
+* copy, modify, reproduce, create derivative works, publicly display, or distribute any part of the Intellectual Property and the Website, 
+    
+* reverse engineer, decompile, or disassemble any software, Games and/or Apps published by Voodoo or its licensed Studios,
+    
+
+without Voodoo’s prior written consent.
 
 ##### Personal data
 
-Pursuant to legislative provisions, personal data processing undertaken on the basis of information collected directly or via the intermediary of cookies, from Website users by VOODOO, is the object of a data confidentiality policy which can be consulted here.
+Pursuant to legislative provisions, personal data processing undertaken on the basis of information collected directly or via the intermediary of cookies, from Website users by Voodoo, is the object of a data confidentiality policy which can be consulted here.
 
-VOODOO has appointed a Data Protection Officer (DPO) with the French Data Protection Authority (CNIL) under reference DPO-115033.
+Voodoo has appointed a Data Protection Officer (DPO) with the French Data Protection Authority (CNIL) under reference DPO-115033.
 
 Pursuant to the data protection and freedom of information act of 6th January 1978 amended and the General Data Protection Regulation (GDPR), by justifying your identity, you have a right to access, amend, modify, delete and move data concerning you. You can also, for legitimate reasons, object in whole or in part, to data processing.
 
 To exercise these rights, please send us an email to: dpo@voodoo.io or write to us at: Voodoo, 59 rue Jean-Jacques Rousseau, 75001 Paris, France – For the attention of the DPO of Voodoo.
 
-For further detailed information about your rights, please log on to the CNIL website at www.cnil.fr.
+For further detailed information about your rights, please log on to the CNIL website at [www.cnil.fr](http://www.cnil.fr/).
 
 ##### Cookies
 
-The cookie policy, outlining their nature and how to manage them is accessible here
+Voodoo’s cookie policy is available [here](https://www.voodoo.io/terms/cookie-policy).
 
 ##### Hypertext links
 
-Voodoo.io offers hypertext links to websites edited and/or managed by third parties. Insofar as no control is exercised over these external resource, you acknowledge that Voodoo does not accept any liability pertaining to provision of these resources, and may not be held liable as to their content.
+The Website includes hypertext links to websites edited and/or managed by third parties. Insofar as no control is exercised over these external resources by Voodoo, you acknowledge that Voodoo does not accept any liability pertaining to provision of these resources, and may not be held liable as to their content.
 
 ##### Liability and force majeure
 
@@ -81,92 +161,158 @@ Voodoo expressly reserves the right, without compensation, to amend the Website 
 
 In all instances, the liability of Voodoo, in such instance as it is incurred, will be limited to the direct prejudice suffered with the exclusion of any indirect prejudice, of any nature whatsoever, such as notably loss of data, loss of opportunities, of profits or operation, or any other financial loss resulting from use or impossibility to use the Website.
 
-##### User Content
-
-You are entirely liable for all content that you may upload, communicate, send or otherwise make available via the Website, notably via [https://www.voodoo.io/publishing/sign-up/](https://www.voodoo.io/publishing/sign-up/).
-
-Voodoo is not under any obligation to store elements which may be sent via the Website and will not be bound to return elements sent by you. You hereby undertake to take all necessary precautions accordingly.
-
-You hereby accept not to upload, communicate, send or otherwise make available any content:
-
-* Which is illegal, harmful, hurtful, defamatory, obscene or otherwise punishable;
-    
-* Which harms privacy;
-    
-* Which is likely to incite violence or racial or ethnic hatred;
-    
-* Which you are not entitled to legally make available (such as privileged information, information belonging to any other person or confidential information);
-    
-* Which infringes any intellectual property right or other property right of any other person;
-    
-* Which includes any unrequested or unauthorised publicity, promotional material, “unwanted mail”, “spam”, “chain letters”, “pyramid systems” or any other form of solicitation; or
-    
-* Which contains any computer virus or other computer code, files or programs designed to interrupt, damage or limit the operation of any software or hardware or telecommunication equipment.
-    
-
-By submitting content to our Website, you:
-
-* Guarantee you are entitled to do so;
-    
-* You grant us, free of charge, non-exclusive permission to amend, adapt, and use this content so as to process your request.
-    
-
 ##### Applicable law
 
-These T&Cs are governed by French law.
+These T&Cs are governed by the laws of France. Any dispute arising under or in connection with these T&Cs shall be subject to the exclusive jurisdiction of the courts located in Paris, France.
 
-##### Update of the T&Cs
+[](https://www.voodoo.io/terms/)
 
-These T&Cs can be consulted online on our Website. They are subject to modification without any other formality than posting online a new amended version, with this version alone prevailing.
+Entertain the world
 
-[](https://www.voodoo.io/)
+[](https://www.linkedin.com/company/voodoo.io)
 
-[](https://www.linkedin.com/company/voodoo.io/)[](https://www.instagram.com/voodoo.io/)[](https://twitter.com/VoodooPlatform)[](https://www.facebook.com/voodoogames/)[](https://medium.com/voodoo-engineering)[](https://apps.apple.com/us/developer/voodoo/id714804730?see-all=i-phonei-pad-apps)[](https://play.google.com/store/apps/developer?id=VOODOO)
+[](https://www.instagram.com/voodoo.io/)
 
-Products
+[](https://twitter.com/voodooplatform)
 
-* [Games](https://www.voodoo.io/games)
-* [Publishing](https://www.voodoo.io/publishing)
-* Apps
+Services
 
-Resources
+[Publishing](https://www.voodoo.io/terms/publishing)
 
-* [Blog](https://blog.voodoo.io/)
-* [Academy](https://www.voodoo.io/academy)
+[Academy](https://www.voodoo.io/terms/academy)
 
-Company
+[Ads](https://www.voodoo.io/terms/ads)
 
-* [Careers](https://www.voodoo.io/careers)
-* [Ads](https://www.voodoo.io/ads)
-* [Press](https://www.voodoo.io/press)
-* [Legal](https://www.voodoo.io/legal)
+About us
 
-© 2024 Voodoo
+[Company](https://www.voodoo.io/terms/company)
 
-* [Terms](https://www.voodoo.io/terms)
-* [Privacy](https://www.voodoo.io/privacy)
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[Terms of service](https://www.voodoo.io/terms/terms)
+
+[Privacy](https://www.voodoo.io/terms/privacy)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+Cookie Settings
 
 Copyright © 2024 Voodoo
 
-* [Terms](https://www.voodoo.io/terms)
-* [Privacy](https://www.voodoo.io/privacy)
+[](https://www.voodoo.io/terms/)
 
-Products
+Entertain the world
 
-* [Games](https://www.voodoo.io/games)
-* [Publishing](https://www.voodoo.io/publishing)
-* Apps
+[](https://www.linkedin.com/company/voodoo.io)
 
-Resources
+[](https://www.instagram.com/voodoo.io/)
 
-* [Blog](https://blog.voodoo.io/)
-* [Academy](https://www.voodoo.io/academy)
+[](https://twitter.com/voodooplatform)
 
-Company
+Services
 
-* [Careers](https://www.voodoo.io/careers)
-* [Ads](https://www.voodoo.io/ads)
-* [Press](https://www.voodoo.io/press)
-* [Legal](https://www.voodoo.io/legal)
+[Publishing](https://www.voodoo.io/terms/publishing)
 
-Entertain the world™
+[Academy](https://www.voodoo.io/terms/academy)
+
+[Ads](https://www.voodoo.io/terms/ads)
+
+About us
+
+[Company](https://www.voodoo.io/terms/company)
+
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[Terms of service](https://www.voodoo.io/terms/terms)
+
+[Privacy](https://www.voodoo.io/terms/privacy)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+Cookie Settings
+
+Copyright © 2024 Voodoo
+
+[](https://www.voodoo.io/terms/)
+
+Entertain the world
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+Services
+
+[Publishing](https://www.voodoo.io/terms/publishing)
+
+[Academy](https://www.voodoo.io/terms/academy)
+
+[Ads](https://www.voodoo.io/terms/ads)
+
+About us
+
+[Company](https://www.voodoo.io/terms/company)
+
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[Terms of service](https://www.voodoo.io/terms/terms)
+
+[Privacy](https://www.voodoo.io/terms/privacy)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+Cookie Settings
+
+Copyright © 2024 Voodoo
+
+[](https://www.voodoo.io/terms/)
+
+Entertain the world
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+Services
+
+[Publishing](https://www.voodoo.io/terms/publishing)
+
+[Academy](https://www.voodoo.io/terms/academy)
+
+[Ads](https://www.voodoo.io/terms/ads)
+
+About us
+
+[Company](https://www.voodoo.io/terms/company)
+
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[Terms of service](https://www.voodoo.io/terms/terms)
+
+[Privacy](https://www.voodoo.io/terms/privacy)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+Cookie Settings
+
+Copyright © 2024 Voodoo
