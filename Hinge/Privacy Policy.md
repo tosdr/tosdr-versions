@@ -79,7 +79,7 @@ It goes without saying, we can’t help you develop meaningful connections witho
 | Data generated or automatically collected | Description |
 | --- | --- |
 | Usage Data | Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party’s websites or apps. |
-| Technical Data | Using the service involves the collection of data from and about the device(s) you use to access our service, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs and identifiers associated with cookies or other technologies that may uniquely identify a device or browser. For more information about cookies, see our [Cookie Policy](https://hinge.co/undefined). |
+| Technical Data | Using the service involves the collection of data from and about the device(s) you use to access our service, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs and identifiers associated with cookies or other technologies that may uniquely identify a device or browser. For more information about cookies, see our [Cookie Policy](https://hinge.co/cookie-policy). |
 
 | Other data we collect with your permission/consent | Description |
 | --- | --- |
