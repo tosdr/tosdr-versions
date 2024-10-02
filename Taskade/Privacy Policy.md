@@ -561,7 +561,7 @@ See all ▼
 
 See all ▼
 
-[Slack](https://www.taskade.com/automate/slack)[Form](https://www.taskade.com/automate/form)[Marketing](https://www.taskade.com/automate/marketing)[Website](https://www.taskade.com/automate/website)[Content](https://www.taskade.com/automate/content)[Project Management](https://www.taskade.com/automate/project-management)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)
+[Slack](https://www.taskade.com/automate/slack)[Form](https://www.taskade.com/automate/form)[Marketing](https://www.taskade.com/automate/marketing)[Website](https://www.taskade.com/automate/website)[Content](https://www.taskade.com/automate/content)[Project Management](https://www.taskade.com/automate/project-management)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)[Text to Action](https://www.taskade.com/automate/text-to-action)
 
 [Wiki](https://www.taskade.com/wiki)[Productivity](https://www.taskade.com/wiki/productivity)[Productivity Methods](https://www.taskade.com/wiki/productivity-methods)
 
