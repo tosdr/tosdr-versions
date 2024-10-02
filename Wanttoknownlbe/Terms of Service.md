@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/youtube-censuur-zonder-enig-onderzoek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/wetenschap-maakt-muizensperma/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
