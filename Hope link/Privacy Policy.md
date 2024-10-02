@@ -38,7 +38,6 @@ Site Navigation
     * [Leadership](https://www.hopelink.org/about-us/leadership/)
 * [Careers](https://www.hopelink.org/careers/)
     * [Career Opportunities](https://www.hopelink.org/careers/)
-    * [Drive for Hopelink](https://www.hopelink.org/drive-for-hopelink/)
 * [Contact](https://www.hopelink.org/contact-us/)
     * [Find a Location](https://www.hopelink.org/locations/)
     * [Contact Us](https://www.hopelink.org/contact-us/)
@@ -98,7 +97,6 @@ Open navigation
 
 * [Main Menu](#)
 * [Career Opportunities](https://www.hopelink.org/careers/)
-* [Drive for Hopelink](https://www.hopelink.org/drive-for-hopelink/)
 
 * [Main Menu](#)
 * [Find a Location](https://www.hopelink.org/locations/)
