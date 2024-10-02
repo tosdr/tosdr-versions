@@ -75,9 +75,11 @@ The Mobile App may at times, and in different places, display information or req
 > * {‘ ‘} In accordance with this Privacy Policy or any agreement you enter into with us; or
 > * {‘ ‘} Required or authorized by law, including without limitation the relevant multi-jurisdictional Privacy principles.
 > 
-> (k) k. Access to certain content on our Application may be allowed under a written agreement between you and Linqto and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing our Application containing certain confidential information, assets, services, or promotional offers. By accessing and using our protected and secured Application, you agree to maintain the confidentiality of the username and password you selected to access our Application and consent to our Terms of Use.
+> (k) Access to certain content on our Application may be allowed under a written agreement between you and Linqto and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing our Application containing certain confidential information, assets, services, or promotional offers. By accessing and using our protected and secured Application, you agree to maintain the confidentiality of the username and password you selected to access our Application and consent to our Terms of Use.
 > 
-> (l) l. If you provide your consent to receiving direct marketing from our third-party business partners, we will provide them with your Personal Data to enable them to send information and advertising material to you. You can opt out of receiving this material from third parties by using the contact details specified below if you do not want to receive marketing information from us.
+> (l) If you provide your consent to receiving direct marketing from our third-party business partners, we will provide them with your Personal Data to enable them to send information and advertising material to you. You can opt out of receiving this material from third parties by using the contact details specified below if you do not want to receive marketing information from us.
+> 
+> (m) When providing a telephone you are consenting to be contacted by SMS text message. Message & data rates may apply. Reply STOP to opt out of further messaging.
 
 #### 7\. How do I have my personal information deactivated, changed or updated?
 
