@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 02, 2024](https://www.japantimes.co.jp/archive/2024/10/02/ "archive page")
+[October 03, 2024](https://www.japantimes.co.jp/archive/2024/10/03/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,36 +130,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
-
-  [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
-
 [New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
 
   [![New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425208.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
 
-[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
-  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
-
-[Guardiola promises strong City side in Slovan Champions League tie](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
-
-  [![Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425034.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.")](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
-
-[Tokaido Shinkansen marks 60th anniversary](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
-
-  [![JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425035.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.")](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
-
-Editors' Picks
---------------
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
 [Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+
+[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+
+  [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+
+[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+
+  [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+
+Editors' Picks
+--------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -169,25 +161,37 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425208.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
 
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+
+By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thorbecke/ "Catherine Thorbecke")  
+
+  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
+[Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+
+  [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
 By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
-
-[SOCCER](https://www.japantimes.co.jp/sports/soccer/ "SOCCER")
-
-[Guardiola promises strong City side in Slovan Champions League tie](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
-
-  [![Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425034.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.")](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Tokaido Shinkansen marks 60th anniversary](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
-
-  [![JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425035.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.")](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
+  [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
 Podcast
 -------
@@ -250,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[South Korea's Yoon and Japan's Ishiba agree to continue 'shuttle diplomacy'](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/south-korea-japan-yoon-ishiba/ "South Korea's Yoon and Japan's Ishiba agree to continue 'shuttle diplomacy'")
+
+4 hours ago
+
+[Ishiba says Japan not ready for rate hike after meeting BOJ's Ueda](https://www.japantimes.co.jp/business/2024/10/02/ueda-ishiba-meeting/ "Ishiba says Japan not ready for rate hike after meeting BOJ's Ueda")
+
+5 hours ago
+
+[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
+
+6 hours ago
+
 [Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
-32 mins ago
+6 hours ago
 
 [Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
-1 hours ago
-
-[Canada marks expansion of coast guard cooperation with Japan port call](https://www.japantimes.co.jp/news/2024/10/02/japan/canada-coast-guard-japan/ "Canada marks expansion of coast guard cooperation with Japan port call")
-
-1 hours ago
-
-[Japan's deep-sea vessel digs for answers to 2011 earthquake](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
-
-1 hours ago
-
-[Nomura CEO apologizes after bond market manipulation probe](https://www.japantimes.co.jp/business/2024/10/02/companies/nomura-apology-probe/ "Nomura CEO apologizes after bond market manipulation probe")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
