@@ -12,16 +12,11 @@
 
 Main Menu
 
-* [Homeowners](https://www.onlinehsa.com/homeowners/)Menu Toggle
-    * [Seller Benefits](https://www.onlinehsa.com/homeowners/seller-benefits/)
-    * [Buyer Benefits](https://www.onlinehsa.com/homeowners/buyer-benefits/)
-    * [Homeowner Resource Center](https://www.onlinehsa.com/homeowners/homeowner-resource-center/)
-* [Real Estate Professionals](https://www.onlinehsa.com/real-estate-agents/)Menu Toggle
-    * [Media Center](https://www.onlinehsa.com/real-estate-agents/media-center/)
-    * [Partner Portal](https://own.onlinehsa.com/#new_tab)
-* [Contractors](https://contractor.frontdoorhome.com/)
-* [Coverage & Cost](https://www.onlinehsa.com/coverage-cost/)
-* [FAQs](https://www.onlinehsa.com/faqs/)
+* [Home](https://www.onlinehsa.com/)
+* [Contact](https://www.onlinehsa.com/contact/)
+* [About Us](https://www.onlinehsa.com/about-us/)
+* [Careers](https://www.onlinehsa.com/careers/)
+* [Resources](https://www.onlinehsa.com/homeowners/homeowner-resource-center/)
 * [MyAccount](https://www.myhomewarranty.com/my-account/pages/login.jsp) [Request Service](https://www.myhomewarranty.com/request-service)
     
 
