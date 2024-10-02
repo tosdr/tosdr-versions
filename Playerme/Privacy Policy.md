@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/throne-and-liberty-weapon-tier-list/)
+    [](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
     
-    ![Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/throne-and-liberty-weapon-tier-list/)
+    [](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
     
-    ![Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](https://player.me/wp-content/uploads/2024/10/Sabotage-Studio-Announces-Dawn-of-Equinox-a-Free-Content-Update-for-Sea-of-Stars-in-Thanks-for-5-Million-Supporters.png)
+
+[Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 2, 2024/
+
+As the release of the much-anticipated Throes of the Watchmaker DLC for Sea of Stars draws closer, Sabotage Studio is…
+
+[Read More](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
+
+![Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026](https://player.me/wp-content/uploads/2024/10/Death-of-the-Fallen-Lords-of-the-Fallen-Sequel-Is-Launching-in-2026.png)
+
+[Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 2, 2024/
+
+CI Games has officially confirmed that the sequel to last year’s Lords of the Fallen is in production. Titled Death…
+
+[Read More](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/)
+
 ![Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](https://player.me/wp-content/uploads/2024/10/Throne-and-Liberty-Weapon-Tier-List.png)
 
 [Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](https://player.me/throne-and-liberty-weapon-tier-list/)
@@ -218,32 +244,6 @@ September 27, 2024/
 After over a decade of letting players create their version of Springfield, The Simpsons: Tapped Out is officially winding down.…
 
 [Read More](https://player.me/the-simpsons-tapped-out-is-shutting-down-on-january-2025/)
-
-![Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/wp-content/uploads/2024/09/Backyard-Baseball-Is-Launching-on-Steam-on-October-10-with-Three-New-Game-Modes.png)
-
-[Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 26, 2024/
-
-The iconic ’90s PC game Backyard Baseball is making its long-awaited return, launching on Steam on October 10. Originally released…
-
-[Read More](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
-
-![Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ](https://player.me/wp-content/uploads/2024/09/Meta-Connect-2024-Rundown.png)
-
-[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 26, 2024/
-
-Meta Connect 2024 kicked off as one of the most highly anticipated developer events of the year. The keynote, delivered…
-
-[Read More](https://player.me/meta-connect-2024-rundown/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](https://player.me/wp-content/uploads/2024/10/Sabotage-Studio-Announces-Dawn-of-Equinox-a-Free-Content-Update-for-Sea-of-Stars-in-Thanks-for-5-Million-Supporters.png)
+
+[Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 2, 2024/
+
+As the release of the much-anticipated Throes of the Watchmaker DLC for Sea of Stars draws closer, Sabotage Studio is…
+
+[Read More](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
+
+![Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026](https://player.me/wp-content/uploads/2024/10/Death-of-the-Fallen-Lords-of-the-Fallen-Sequel-Is-Launching-in-2026.png)
+
+[Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 2, 2024/
+
+CI Games has officially confirmed that the sequel to last year’s Lords of the Fallen is in production. Titled Death…
+
+[Read More](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/)
+
 ![Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](https://player.me/wp-content/uploads/2024/10/Throne-and-Liberty-Weapon-Tier-List.png)
 
 [Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](https://player.me/throne-and-liberty-weapon-tier-list/)
@@ -379,32 +405,6 @@ September 26, 2024/
 Meta Connect 2024 kicked off as one of the most highly anticipated developer events of the year. The keynote, delivered…
 
 [Read More](https://player.me/meta-connect-2024-rundown/)
-
-![Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/wp-content/uploads/2024/09/Monster-Hunter-Wilds-Will-Launch-on-February-28-2025-with-Pre-Order-Bonuses-Revealed.png)
-
-[Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 25, 2024/
-
-During Sony’s September 2024 State of Play, Capcom delighted fans by revealing the much-anticipated release date of Monster Hunter Wilds,…
-
-[Read More](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
-
-![Horizon Zero Dawn Remastered Release Date for PS5 and PC Set on October 31](https://player.me/wp-content/uploads/2024/09/Horizon-Zero-Dawn-Remastered-Release-Date-for-PS5-and-PC-Set-on-October-31.png)
-
-[Horizon Zero Dawn Remastered Release Date for PS5 and PC Set on October 31](https://player.me/horizon-zero-dawn-remastered-releases-on-october-31/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 25, 2024/
-
-Guerrilla Games has officially announced Horizon Zero Dawn Remastered, bringing the beloved 2017 action RPG to PlayStation 5 and PC.…
-
-[Read More](https://player.me/horizon-zero-dawn-remastered-releases-on-october-31/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ A year after OpenAI shut down its AI classifier, a tool the company claimed to d
 
 player.me
 
+[](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/ "Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters")
+
+[Sabotage Studio Announces Dawn of Equinox, a Free Content Update for Sea of Stars in Thanks for 5 Million Supporters](https://player.me/sabotage-studio-announces-dawn-of-equinox-update/)
+
+October 2, 2024
+
+[](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/ "Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026")
+
+[Death of the Fallen, Lords of the Fallen Sequel, Is Launching in 2026](https://player.me/death-of-the-fallen-lords-of-the-fallen-sequel-2026/)
+
+October 2, 2024
+
 [](https://player.me/throne-and-liberty-weapon-tier-list/ "Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?")
 
 [Throne and Liberty Weapon Tier List: Which 7 Weapon Combo Is the Best?](https://player.me/throne-and-liberty-weapon-tier-list/)
@@ -853,22 +865,10 @@ September 27, 2024
 
 September 27, 2024
 
-[](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/ "Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes")
-
-[Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
-
-September 26, 2024
-
-[](https://player.me/meta-connect-2024-rundown/ "Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ")
-
-[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
-
-September 26, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 568,838 times, 11 visit(s) today
+Visited 568,885 times, 58 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
