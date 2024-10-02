@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Evolution of Bodybuilding](/wp-content/thumbnails/9909-100x70.jpg?x53432)
+* [![Prison: From the Inside](/wp-content/thumbnails/13961-100x70.jpg?x53432)
     
-    Evolution of Bodybuilding
+    Prison: From the Inside
     
-    Bodybuilding is routed in the tradition of self improvement, both in terms of body image and self worth, with a subculture rich in history, these men have given rise to a world of intense competition,](https://documentaryheaven.com/evolution-of-bodybuilding/ "Evolution of Bodybuilding")
-* [![The Century Of The Self](/wp-content/thumbnails/6275-100x70.jpg?x53432)
+    A two-part BBC documentary series which delves into the stories which lie behind the crimes of several men and women serving time in Northern Ireland's prisons. Through a number of intimate interviews](https://documentaryheaven.com/prison-inside/ "Prison: From the Inside")
+* [![Free For All](/wp-content/thumbnails/2232-100x70.jpg?x53432)
     
-    The Century Of The Self
+    Free For All
     
-    "This series is about how those in power have used Freud's theories to try and control the dangerous crowd in an age of mass democracy." —Adam Curtis' introduction to the first episode.Part 1-Happ](https://documentaryheaven.com/the-century-of-the-self/ "The Century Of The Self")
-* [![The Templar Code](/wp-content/thumbnails/2022-100x70.jpg?x53432)
+    Can we trust our elections? My name is John. Since I was a kid, I have been a proud American. But after questionable elections led to disastrous outcomes for my country, I felt I had to find out if ou](https://documentaryheaven.com/free-for-all-2/ "Free For All")
+* [![Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt](/wp-content/thumbnails/135-100x70.png?x53432)
     
-    The Templar Code
+    Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt
     
-    For nearly two centuries, the Knights Templar were the most powerful order in the Medieval world, a fearsome and unstoppable Crusader militia. Then came accusations of unspeakable crimes. Who were the](https://documentaryheaven.com/the-templar-code/ "The Templar Code")
-* [![The Girl In The Box](/wp-content/thumbnails/14067-100x70.jpg?x53432)
+    In this BBC documentary film about Atheism, Jonathan Miller visits the absent Twin Towers to consider the religious implications of the 9/11 terror attacs and meets Arthur Miller and the philosopher C](https://documentaryheaven.com/atheism-jonathan-miller%e2%80%99s-brief-history-of-disbelief-shadows-of-doubt/ "Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt")
+* [![HyperNormalisation](/wp-content/thumbnails/12842-100x70.png?x53432)
     
-    The Girl In The Box
+    HyperNormalisation
     
-    In May 1977, 20-year-old Colleen Stan was kidnapped by Cameron Hooker, a violent sexual sadist who's goal was to have his very own perfect slave. For nearly seven years Hooker kept Stan captive in a c](https://documentaryheaven.com/girl-in-box/ "The Girl In The Box")
-* [![The Billionaires’ Tea Party](/wp-content/thumbnails/6359-100x70.jpg?x53432)
+    HyperNormalisation is a film by British filmmaker Adam Curtis, it tells the incredible story of how we have managed to get to this bizarre time of uncertainty and confusion, a time where we see those](https://documentaryheaven.com/hypernormalisation/ "HyperNormalisation")
+* [![Darwin’s Struggle: The Evolution of the Origin of Species](/wp-content/thumbnails/520-100x70.png?x53432)
     
-    The Billionaires’ Tea Party
+    Darwin’s Struggle: The Evolution of the Origin of Species
     
-    The Tea Party movement has taken American politics by storm. But is this truly a populist uprising or one of the greatest feats of propaganda ever seen? Australian filmmaker Taki Oldham sets out answe](https://documentaryheaven.com/the-billionaires-tea-party/ "The Billionaires’ Tea Party")
+    This stunning documentary tells the little-known story of how Darwin came to write his great masterpiece, On the Origin of Species, a book which explains the wonderful variety of the natural world as](https://documentaryheaven.com/darwins-struggle-the-evolution-of-the-origin-of-species/ "Darwin’s Struggle: The Evolution of the Origin of Species")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
