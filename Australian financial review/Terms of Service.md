@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1535%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8104355ac60709e6426425b2e388ecf8663a90ec)](https://www.afr.com/technology/ocean-cruising-too-slow-for-you-speed-things-up-with-this-action-cam-20240909-p5k92k)
+[![Tjornuvik village in the Faroe Islands, Denmark.](https://static.ffx.io/images/$zoom_0.2036%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e1d7caf5947ae12ebd9988cbf4ff3eac68632c4d)](https://www.afr.com/life-and-luxury/travel/travel-insider-five-great-deals-from-the-kimberley-to-scandinavia-20240909-p5k91k)
 
-### [Ocean cruising too slow for you? Speed things up with this action cam](https://www.afr.com/technology/ocean-cruising-too-slow-for-you-speed-things-up-with-this-action-cam-20240909-p5k92k)
+### [Travel insider: five great deals from the Kimberley to Scandinavia](https://www.afr.com/life-and-luxury/travel/travel-insider-five-great-deals-from-the-kimberley-to-scandinavia-20240909-p5k91k)
 
-* John Davidson
+* Life & Leisure
 
-* ### [Eight experts pick the best cruises for 2025](https://www.afr.com/life-and-luxury/travel/eight-experts-pick-the-best-cruises-for-2025-20240829-p5k6gc)
+* ### [The unexpected ingredients of a trip along the Rhône](https://www.afr.com/life-and-luxury/travel/the-unexpected-ingredients-of-a-trip-along-the-rh-ne-20240829-p5k6az)
     
-* ### [One bike is more than enough for this cycling-mad executive](https://www.afr.com/life-and-luxury/health-and-wellness/one-bike-is-more-than-enough-for-this-cycling-mad-executive-20240829-p5k6b1)
+* ### [What’s new in cruising: From a $2.5m suite to the rise of hotel yachts](https://www.afr.com/life-and-luxury/travel/what-s-new-in-cruising-from-a-2-5m-suite-to-the-rise-of-hotel-yachts-20240829-p5k6am)
     
 
 [Rich List](https://www.afr.com/rich-list)
