@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=127820034)  
-Electro-Heat
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=122200613)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=24642261)  
-OrgChart Hosting Pty Ltd
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=90574509)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=111476468)  
-Dr V Naik Consult
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=13211886)  
+Alliance Energy
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=130420235)  
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=130573577)  
 RADIO TYGERBERG 104FM NPC
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=119843672)  
-National Elite Security Services (PTY) LTD
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=117981108)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=51188914)  
-Immediate Health (pty)ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=82031309)  
+MONSTER SECURITY GUARDING
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=109861753)  
-TIGERDSL
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=210103829)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=38773791)  
-Skinz Printing & Branding
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=78167987)  
+Printo
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=107218522)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=39747259)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=122398668)  
-INVOICES/JOBCARDS ONLINE
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=11251460)  
+Vplay Grafix
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=203183450)  
-Iurus Inc
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=177396214)  
+Waterfinatics Swim School
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=109225481)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=140864938)  
+Sportspro Management (Pty) Ltd
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=159923364)  
-Cooper Power South Africa (Pty) LTD
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=161787008)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=86064707)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=113734735)  
+West Coast Horse Trails
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=19650184)  
-APTV Telecoms CC
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=13684219)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
@@ -262,7 +262,7 @@ Some Stats, we are growing rapidly
 * Over **R 10,000,000,000** invoiced
 * Over **R 10,000,000,000** in payments received
 
-[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-06-01](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-06-01") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
+[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-10-02](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-10-02") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
 
 All content copyright © [Invoices Online](https://www.invoicesonline.co.za/) 2024.  
 A product of Invoices Online PTY (Ltd)  
