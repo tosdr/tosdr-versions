@@ -36,18 +36,18 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
+    * [![Arc browser launches bug bounty program after fixing RCE bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Arc browser launches bug bounty program after fixing RCE bug](https://www.bleepingcomputer.com/news/security/arc-browser-launches-bug-bounty-program-after-fixing-rce-bug/)
+    * [![Microsoft fixes Outlook email sending issue for users with many folders](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft fixes Outlook email sending issue for users with many folders](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-email-sending-issue-for-users-with-many-folders/)
+    * [![Rackspace monitoring data stolen in ScienceLogic zero-day attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Rackspace monitoring data stolen in ScienceLogic zero-day attack](https://www.bleepingcomputer.com/news/security/rackspace-monitoring-data-stolen-in-sciencelogic-zero-day-attack/)
     * [![Get Office apps, OneDrive, and more with 42% off Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get Office apps, OneDrive, and more with 42% off Microsoft 365](https://www.bleepingcomputer.com/offer/deals/get-office-apps-onedrive-and-more-with-42-percent-off-microsoft-365/)
-    * [![Ransomware attack forces UMC Health System to divert some patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ransomware attack forces UMC Health System to divert some patients](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-umc-health-system-to-divert-some-patients/)
-    * [![Evil Corp hit with new sanctions, BitPaymer ransomware charges](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Evil Corp hit with new sanctions, BitPaymer ransomware charges](https://www.bleepingcomputer.com/news/security/evil-corp-hit-with-new-sanctions-bitpaymer-ransomware-charges/)
-    * [![Police arrest four suspects linked to LockBit ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Police arrest four suspects linked to LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
