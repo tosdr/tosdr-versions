@@ -44,7 +44,7 @@ We don't use anything complex to build our web experience, so we don't need thes
 
 We hope your interaction with the website is a happy one. We don't collect cookies to find that out. 
 
-![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_84,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
+![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_84,h_105,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
 
 [privacy policy](https://www.theowlworks.com/privacy-policy)
 
