@@ -190,7 +190,7 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
 
 [Select date and time](https://www.pandadoc.com/getdemo/)
 
-![Calendar](https://public-site.marketing.pandadoc-static.com/assets/assets/demo/calendar-49307821d2.png)
+![Calendar](https://public-site.marketing.pandadoc-static.com/assets/assets/demo/calendar-e6961218d7.png)
 
 * Contact Sales
     
