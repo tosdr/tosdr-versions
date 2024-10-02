@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: President Biden will visit Georgia on Thursday to survey Helene damage](https://www.ajc.com/politics/president-biden-will-visit-georgia-on-thursday-to-survey-helene-damage/NUSQ4ERV4NF2ZBWR63GJS5WATM/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-appreciating-the-braves/A7HK3K246ZEBFJD4LT5HW75HCM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
