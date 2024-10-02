@@ -1,4 +1,4 @@
-[Aller au contenu principal](#main-content) [Activer le contraste adaptéDésactiver le contraste adapté](javascript://;)
+[Aller au contenu principal](#main-content) [Activer le contraste adaptéDésactiver le contraste adapté](javascript://;)[](javascript://;)
 
 [Bourse](javascript:// "Bourse")
 
@@ -260,6 +260,8 @@ Les principaux cookies strictement nécessaires à la fourniture des services et
 | Espace Client  <br>Site Vitrine | JSESSIONID | Genesys | Création de logs pour la solution chat permettant à un commercial  <br>de discuter avec un Client ou un Prospect qui est sur le  <br>point d'ouvrir un compte bancaire ou un crédit immobilier,  <br>pour l'accompagner et répondre à ses questions | session |
 | Tous les Sites | didomi\_token  <br>didomi\_portal  <br>didomi\_prospect  <br>didomi\_cookies  <br>euconsent-v2  <br>cookie\_privacy\_gdpr  <br>AMP-CONSENT  <br>Didomi\* | Boursorama | Gestion des consentements | 12 mois |
 | Portail Non Connecté  <br>Portail Connecté  <br>Espace Client  <br>Espace Client Mobile | STICKY | ultimedia/digiteka | Equilibrage de la charge des équipements  <br>pour permettre la lecture de vidéos | session |
+| Portail Non Connecté  <br>Portail Connecté | themeA11y | Boursorama | Accessibilité : gestion du contraste | Infini |
+| Portail Non Connecté  <br>Portail Connecté | refreshAuto | Boursorama | Accessibilité : gestion du rafraîchissement automatique | Infini |
 
 Les principaux traceurs strictement nécessaires à la fourniture des services et au fonctionnement des Sites sont les suivants :
 
