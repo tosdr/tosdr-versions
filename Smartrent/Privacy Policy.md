@@ -55,22 +55,24 @@ Read More
 * #### Hardware
     
 
-###### The Basics
+###### Alloy Hardware
 
 * [Hubs](https://smartrent.com/hardware/hubs/)
-* [Locks & Lockboxes](https://smartrent.com/hardware/locks-lock-boxes/)
 * [Sensors](https://smartrent.com/hardware/sensors/)
-* [Thermostats](https://smartrent.com/hardware/thermostats/)
+* [Readers](https://smartrent.com/hardware/readers-panels-boards/)
+* [Intercoms](https://smartrent.com/hardware/intercoms/)
 
-[View All Hardware](https://smartrent.com/hardware/)
+[All Alloy Hardware](https://smartrent.com/hardware/alloy/)
 
 ###### Additional Devices
 
-* [Intercoms](https://smartrent.com/hardware/intercoms/)
+* [Locks & Lockboxes](https://smartrent.com/hardware/locks-lock-boxes/)
+* [Thermostats](https://smartrent.com/hardware/thermostats/)
 * [Lighting](https://smartrent.com/hardware/smart-lighting/)
-* [Readers](https://smartrent.com/hardware/readers-panels-boards/)
 
-[View All Integrations](https://smartrent.com/integrations-partnerships/)
+[All Hardware](https://smartrent.com/hardware/)
+
+[All Integrations](https://smartrent.com/integrations-partnerships/)
 
 ###### Featured
 
