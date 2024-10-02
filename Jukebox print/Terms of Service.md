@@ -164,7 +164,7 @@ EUR
     
     Information[#### Mini Business Cards](https://www.jukeboxprint.com/mini-business-cards)[Saying that the best things in life come in small packages might sound outworn, but these mini business cards prove that sometimes less is more, and the best way to attract attention is not to go big, but to go small.](https://www.jukeboxprint.com/mini-business-cards)
     
-    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
+    Information[#### Digital Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
     
     Information[#### Recycled Business Cards](https://www.jukeboxprint.com/recycled-business-cards)[If you're looking for our most environmentally-friendly business cards, look no further than our Mohawk 100% Recycled business cards.](https://www.jukeboxprint.com/recycled-business-cards)
     
