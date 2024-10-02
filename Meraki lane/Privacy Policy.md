@@ -41,6 +41,10 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Dress an Apple Body Shape: 7 Tips & Hacks | Learn how to style an apple body shape with these expert fashion tips. From flattering tops to ideal silhouettes, discover how to accentuate your best features and create balanced outfits that make you feel confident. Whether you’re dressing for casual days or special occasions, these styling hacks will help you find clothes that fit perfectly and enhance your figure while creating a defined waistline for that hourglass figure we all dream of!](https://www.merakilane.com/wp-content/uploads/2024/10/3.png)](https://www.merakilane.com/how-to-dress-an-apple-body-shape-7-tips-hacks/)
+    
+    ### [How to Dress an Apple Body Shape: 7 Tips & Hacks](https://www.merakilane.com/how-to-dress-an-apple-body-shape-7-tips-hacks/)
+    
     [![13 Protective Hairstyles for Sleeping for All Hair Lengths | Protect your hair overnight with these 13 quick, easy, and cute protective styles! These simple sleeping hairstyles prevent breakage, frizz, and tangles, keeping your natural hair healthy and strong while improving hair growth and preserving your hairline. Perfect for short, medium, and long hair that's straight, wavy, curly, or coily, these are the best overnight hairstyles for healthy hair!](https://www.merakilane.com/wp-content/uploads/2024/09/2-4.png)](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
     
     ### [13 Protective Hairstyles for Sleeping for All Hair Lengths](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
@@ -48,10 +52,6 @@ Main Menu
     [![10 Overnight Beauty Hacks Every Girl Should Know | Wake up with glowing skin with these overnight skin and hair hacks for lazy girls! From hydrating your skin to protecting your hair, adding these simple habits to your nighttime routine will have you looking refreshed every morning. Click to learn how to improve your beauty regimen while you sleep, with easy additions to your bedtime skincare and haircare routine that will keep your face and hair looking and feeling as healthy as possible.](https://www.merakilane.com/wp-content/uploads/2024/09/3-4.png)](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
     
     ### [10 Overnight Beauty Hacks Every Girl Should Know](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
-    
-    [![How to Dress an Hourglass Body Shape: 7 Tips & Hacks | Did you know only about 8% of women have an hourglass figure? If you have this body type, it can be hard to find pants that fit your curvy bottom without leaving a gap in the waistband. Click to learn how to dress an hourglass body shape with these 7 fashion tips and hacks that will enhance your curves and define your waist. From casual looks to formal wear, these tips will teach you how to choose outfits that flatter your natural shape!](https://www.merakilane.com/wp-content/uploads/2024/09/7-2.png)](https://www.merakilane.com/how-to-dress-an-hourglass-body-shape-7-tips-and-hacks/)
-    
-    ### [How to Dress an Hourglass Body Shape: 7 Tips and Hacks](https://www.merakilane.com/how-to-dress-an-hourglass-body-shape-7-tips-and-hacks/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![8 Dance Cardio Workouts You Can Do Anywhere | Get your heart rate up and burn calories with these fun dance cardio routines. Whether you’re at home, at the gym, or at the beach, these workouts offer a mix of beginner-friendly moves and high-intensity routines. Perfect for boosting cardiovascular health and endurance while also improving coordination, these full-body HIIT cardio workout videos will tighten and tone your body and help you lose weight while also having fun!](https://www.merakilane.com/wp-content/uploads/2024/09/1-5.png)](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
+    
+    ### [8 Dance Cardio Workouts You Can Do Anywhere](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
+    
     [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
     
     ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
@@ -74,10 +78,6 @@ Main Menu
     [![How to Get Rid of an Apron Belly | An apron belly, or pannus stomach, refers to excessive tissue and skin that hangs over the lower abdomen. It can appear after pregnancy, excessive weight gain, or significant weight loss and occurs when the belly and fat surrounding the internal organs expands, resulting in additional fat deposits in the omentum (a structure in the abdomen that protects the visceral organs). Click for the best diet, exercise, and workouts to help banish this type of belly fat!](https://www.merakilane.com/wp-content/uploads/2024/09/1-3.png)](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
     
     ### [How to Get Rid of an Apron Belly: 11 Tips and Workouts](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
-    
-    [![How to Make Your Own Pierogies | +16 Easy Recipes! | If you're looking for easy dinner ideas the whole family will enjoy that you can make ahead for busy weeknights, pierogies are always a good idea! Whether you call them perogies, pierogi, or pirohi, these tasty dumplings are the perfect comfort food you can make in batches and throw into the freezer. Homemade is best, and they are so easy to make. Click for our best tips, plus simple sweet and savory recipes for beginners and beyond!](https://www.merakilane.com/wp-content/uploads/2024/09/4-2.png)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
-    
-    ### [How to Make Your Own Pierogies (+16 Easy Recipes!)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -234,6 +234,12 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[pour me another... 🍷 #hashtags 🎥 @wildmed ![pour me another... 🍷
+#hashtags 
+🎥 @wildmediaco
+📸 @thisismaxpower 
+#womenover40 #perimenopause #perimenopausehealth #momhumor #momtruth #momtruths #funnymom #funnymoms #realmom #raisingdaughters #raisingteens #relatablememe #relatablereels #relatablemom #makemelaugh #imfunny #funnymemes4ya #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAiwmPwOejs/) 
+
 [when people are judging me, this quote really help ![when people are judging me, this quote really helps. ♡
 (photo taken while landing in toronto — do you see the cn tower?)
 🎥 @wildmediaco
@@ -254,11 +260,6 @@ Search  Search
 🎥 @wildmediaco
 📸 @thisismaxpower 
 #unapologetic #unbothered #mindingmybusiness #lessonslearned #lessonslearnedinlife #lifelessonslearned #powerfulwords #powerfulthoughts #adulting101 #thingsiwanttoremember #friendlyreminder #womenover40 #perimenopause #menopause](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAY0UBvvPdj/) 
-
-[aka gen x ✌🏻 🎥 @wildmediaco 📸 @thisism ![aka gen x ✌🏻
-🎥 @wildmediaco
-📸 @thisismaxpower 
-#womenover40 #canyourelate #relatablememes #relatablereels #40andfabulous #40andfit #perimenopause #menopause #raisingdaughters #raisingteens #funnymoms #momlife #momhumor #momlifebelike #imfunny #makemelaugh #trends #funnymemes #funnyreels](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAWARFHuCZp/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
