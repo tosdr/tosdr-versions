@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 842 utilisateurs actifs
+##### 491 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 24H2 : la liste des bugs et problèmes connus (à consulter avant d'installer la mise à jour)](https://lecrabeinfo.net/windows-11-24h2-la-liste-des-bugs-et-problemes-connus-a-consulter-avant-dinstaller-la-mise-a-jour.html)
 * [Télécharger les ISO de Windows 11](https://lecrabeinfo.net/telecharger-iso-windows-11.html)
 * [Windows 11 : les dates de fin de support](https://lecrabeinfo.net/windows-11-les-dates-de-fin-de-support.html)
-* [Télécharger et installer Windows 11 24H2 (3 méthodes)](https://lecrabeinfo.net/telecharger-et-installer-windows-11-24h2.html)
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 536 membres
-* 908 articles
+* 68 538 membres
+* 909 articles
 * 26 605 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
