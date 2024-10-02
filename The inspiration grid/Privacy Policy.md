@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-tomohiro-inaba-feature.jpg)
+
+[](https://theinspirationgrid.com/fading-away-incredible-sculptures-by-tomohiro-inaba/)
+
+### Fading Away: Incredible Sculptures by Tomohiro Inaba
+
+![](https://inspgr.id/app/uploads/2024/10/design-new-gameboy-feature.jpg)
+
+[](https://theinspirationgrid.com/the-new-game-boy-an-ingenious-modular-concept/)
+
+### The New Game Boy: An Ingenious Modular Concept
+
 ![](https://inspgr.id/app/uploads/2024/10/photography-calvin-freeman-feature.jpg)
 
 [](https://theinspirationgrid.com/bleed-atmospheric-photo-series-by-calvin-freeman/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/adorable-animal-paintings-by-angus-gardner/)
 
 ### Adorable Animal Paintings by Angus Gardner
-
-![](https://inspgr.id/app/uploads/2024/09/art-qimmy-shimmy-feature.jpg)
-
-[](https://theinspirationgrid.com/unsettling-sculptures-by-qimmyshimmy/)
-
-### Creepy-Cute: Unsettling Sculptures by QimmyShimmy
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-xnj-feature.jpg)
-
-[](https://theinspirationgrid.com/delicate-illustrations-by-xnj/)
-
-### Delicate Illustrations by XNJ
 
 Awesome products for creatives
 ------------------------------
