@@ -97,6 +97,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     
     [Safe Learning Environments](https://www2.ed.gov/teaching-and-administration/safe-learning-environments)
     
+    * [Disaster and Emergency Response](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/natural-disaster-resources)
     * [School Safety and Security](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/school-safety-and-security)
     
     [Supporting Students](https://www2.ed.gov/teaching-and-administration/supporting-students)
@@ -157,7 +158,6 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     [Civil Rights Laws](https://www2.ed.gov/laws-and-policy/civil-rights-laws)
     
     * [File a Complaint](https://www2.ed.gov/laws-and-policy/civil-rights-laws/file-complaint)
-    * [Race, Color, and National Origin](https://www2.ed.gov/laws-and-policy/civil-rights-laws/race-color-or-national-origin-discrimination)
     
     [Preschool to Grade 12 Education](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education)
     
