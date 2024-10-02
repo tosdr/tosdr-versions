@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Heart Like A TruckLainey Wilson<br><br>4:57am |
-| Damn Good Day To LeaveRiley Green<br><br>4:54am |
-| White HorseChris Stapleton<br><br>4:50am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:47am |
-| Beatles And EaglesThe Frontman<br><br>4:40am |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>11:39am |
+| Am I OkMegan Moroney<br><br>11:35am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:31am |
+| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>11:28am |
+| Thinkin 'Bout MeMorgan Wallen<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Pacific NW
+Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
