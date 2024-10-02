@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/van-woede-naar-kracht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/mijn-persoonlijke-ervaring-met-de-13-grootmoeders/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
