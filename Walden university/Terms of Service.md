@@ -255,7 +255,7 @@ Search Search Close
         * [EdS in Learning, Instruction, and Innovation](https://www.waldenu.edu/education-specialist/eds-in-learning-instruction-and-innovation)
         * [EdS in Reading, Literacy, and Assessment](https://www.waldenu.edu/education-specialist/eds-in-reading-literacy-and-assessment)
         * [EdS in Special Education](https://www.waldenu.edu/education-specialist/eds-in-special-education)
-        * [All Education Programs](https://www.waldenu.edu/programs/education)
+        * [All Education Specialist Programs](https://www.waldenu.edu/education-specialist)
     * Certificates
         * CERTIFICATE PROGRAMS
         * Fast and affordable option. Choose from over 60 career-focused certificate programs.
@@ -663,7 +663,7 @@ Call Us: [**8556465286**](tel:8556465286)
         * [EdS in Learning, Instruction, and Innovation](https://www.waldenu.edu/education-specialist/eds-in-learning-instruction-and-innovation "EdS in Learning, Instruction, and Innovation")
         * [EdS in Reading, Literacy, and Assessment](https://www.waldenu.edu/education-specialist/eds-in-reading-literacy-and-assessment "EdS in Reading, Literacy, and Assessment")
         * [EdS in Special Education](https://www.waldenu.edu/education-specialist/eds-in-special-education "EdS in Special Education")
-        * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
+        * [All Education Specialist Programs](https://www.waldenu.edu/education-specialist "All Education Specialist Programs")
         
     * [Certificates](# "Certificates")
         
