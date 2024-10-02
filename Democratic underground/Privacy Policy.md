@@ -2,7 +2,7 @@ Friendly forums for passionate Dems!
 
 [](https://www.democraticunderground.com/index.php "Democratic Underground Home")
 
-More than 91 million posts since 2001
+More than 92 million posts since 2001
 
 [Home](https://www.democraticunderground.com/index.php) [Latest](https://www.democraticunderground.com/?com=latest_threads) [Greatest](https://www.democraticunderground.com/?com=greatest_threads) [Videos](https://www.democraticunderground.com/?com=latest_videos) [Forums](https://www.democraticunderground.com/?com=forums) [Hide ads](https://www.democraticunderground.com/star) [Join up!](https://www.democraticunderground.com/?com=login&create=1) [Sign in](https://www.democraticunderground.com/?com=login)
 
