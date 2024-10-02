@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [German Railroads: Volume 6 - Entlang der Ostsee: Rostock - Stralsund](https://www.myabandonware.com/game/german-railroads-volume-6-entlang-der-ostsee-rostock-stralsund-s48)
+* [German Railroads: Volume 5 - Die Rollbahn 1963](https://www.myabandonware.com/game/german-railroads-volume-5-die-rollbahn-1963-s47)
 * [German Railroads: Volume 4 - Entlang der Mosel: Von Koblenz nach Trier](https://www.myabandonware.com/game/german-railroads-volume-4-entlang-der-mosel-von-koblenz-nach-trier-s46)
 * [Super Real Mahjong PI](https://www.myabandonware.com/game/super-real-mahjong-pi-smi)
 * [German Railroads: Volume 3 - Dampf im Werratal](https://www.myabandonware.com/game/german-railroads-volume-3-dampf-im-werratal-s45)
-* [Sundance](https://www.myabandonware.com/game/sundance-smh)
-* [Stunt Cycle](https://www.myabandonware.com/game/stunt-cycle-smg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
