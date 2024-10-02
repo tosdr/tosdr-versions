@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Tekken 4](https://www.myabandonware.com/game/tekken-4-smc)
-* [Tatsunoko vs. Capcom: Cross Generation of Heroes](https://www.myabandonware.com/game/tatsunoko-vs-capcom-cross-generation-of-heroes-smb)
-* [Tank II](https://www.myabandonware.com/game/tank-ii-sma)
-* [Time Crisis 3](https://www.myabandonware.com/game/time-crisis-3-sm8)
-* [The Rumble Fish](https://www.myabandonware.com/game/the-rumble-fish-sm7)
+* [German Railroads: Volume 4 - Entlang der Mosel: Von Koblenz nach Trier](https://www.myabandonware.com/game/german-railroads-volume-4-entlang-der-mosel-von-koblenz-nach-trier-s46)
+* [Super Real Mahjong PI](https://www.myabandonware.com/game/super-real-mahjong-pi-smi)
+* [German Railroads: Volume 3 - Dampf im Werratal](https://www.myabandonware.com/game/german-railroads-volume-3-dampf-im-werratal-s45)
+* [Sundance](https://www.myabandonware.com/game/sundance-smh)
+* [Stunt Cycle](https://www.myabandonware.com/game/stunt-cycle-smg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
