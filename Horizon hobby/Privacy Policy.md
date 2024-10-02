@@ -1,7 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
 New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
 
  
 
@@ -86,7 +85,6 @@ My store
 [](#)
 
 New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
