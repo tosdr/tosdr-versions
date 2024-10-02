@@ -1,39 +1,123 @@
-[![TechCrunch Logo](https://techcrunch.com/wp-content/themes/tc-23/dist/svg/tc-logo.svg)](https://techcrunch.com/)
+ [![](https://techcrunch.com/wp-content/uploads/2024/09/tc-lockup.svg) TechCrunch Desktop Logo](https://techcrunch.com/)
 
-[Login](https://oidc.techcrunch.com/login/?dest=https%3A%2F%2Ftechcrunch.com%2Fcode-of-conduct%2F) [](https://techcrunch.com/my-account/)
+ [![](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg) TechCrunch Mobile Logo](https://techcrunch.com/)
 
-* [Search](#)
+* [Latest](https://techcrunch.com/latest/)
 * [Startups](https://techcrunch.com/category/startups/)
 * [Venture](https://techcrunch.com/category/venture/)
 * [Apple](https://techcrunch.com/tag/apple/)
 * [Security](https://techcrunch.com/category/security/)
 * [AI](https://techcrunch.com/category/artificial-intelligence/)
 * [Apps](https://techcrunch.com/category/apps/)
+
 * [Events](https://techcrunch.com/events/)
-* [Startup Battlefield](https://techcrunch.com/startup-battlefield/)
-* More
-    * [Fintech](https://techcrunch.com/category/fintech/)
-    * [Cloud Computing](https://techcrunch.com/tag/cloud-computing/)
-    * [Layoffs](https://techcrunch.com/tag/layoffs/)
-    * [Hardware](https://techcrunch.com/category/hardware/)
-    * [Google](https://techcrunch.com/tag/google/)
-    * [Microsoft](https://techcrunch.com/tag/microsoft/)
-    * [Transportation](https://techcrunch.com/category/transportation/)
-    * [EVs](https://techcrunch.com/tag/evs/)
-    * [Meta](https://techcrunch.com/tag/meta/)
-    * [Instagram](https://techcrunch.com/tag/instagram/)
-    * [Amazon](https://techcrunch.com/tag/amazon/)
-    * [TikTok](https://techcrunch.com/tag/tiktok/)
-    * [Newsletters](https://techcrunch.com/newsletters/)
-    * [Podcasts](https://techcrunch.com/podcasts/)
-    * [Partner Content](https://techcrunch.com/sponsored/)
-    * [Crunchboard Jobs](https://www.crunchboard.com/)
-    * [Contact Us](https://techcrunch.com/contact-us/)
+* [Podcasts](https://techcrunch.com/podcasts/)
+* [Newsletters](https://techcrunch.com/newsletters/)
+
+[Sign In](https://oidc.techcrunch.com/login/?dest=https%3A%2F%2Ftechcrunch.com%2Fcode-of-conduct%2F) [](https://techcrunch.com/my-account/)
 
 Search
 
+Submit
+
+Site Search Toggle
+
+Mega Menu Toggle
+
+### Topics
+
+[Latest](https://techcrunch.com/latest-news/)
+
+[AI](https://techcrunch.com/category/artificial-intelligence/)
+
+[Amazon](https://techcrunch.com/tag/amazon/)
+
+[Apps](https://techcrunch.com/category/apps/)
+
+[Biotech & Health](https://techcrunch.com/category/biotech-health/)
+
+[Climate](https://techcrunch.com/category/climate/)
+
+[Cloud Computing](https://techcrunch.com/tag/cloud-computing/)
+
+[Commerce](https://techcrunch.com/category/commerce/)
+
+[Crypto](https://techcrunch.com/category/cryptocurrency/)
+
+[Enterprise](https://techcrunch.com/category/enterprise/)
+
+[EVs](https://techcrunch.com/tag/evs/)
+
+[Fintech](https://techcrunch.com/category/fintech/)
+
+[Fundraising](https://techcrunch.com/category/fundraising/)
+
+[Gadgets](https://techcrunch.com/category/gadgets/)
+
+[Gaming](https://techcrunch.com/category/gaming/)
+
+[Google](https://techcrunch.com/tag/google/)
+
+[Government & Policy](https://techcrunch.com/category/government-policy/)
+
+[Hardware](https://techcrunch.com/category/hardware/)
+
+[Instagram](https://techcrunch.com/tag/instagram/)
+
+[Layoffs](https://techcrunch.com/tag/layoffs/)
+
+[Media & Entertainment](https://techcrunch.com/category/media-entertainment/)
+
+[Meta](https://techcrunch.com/tag/meta/)
+
+[Microsoft](https://techcrunch.com/tag/microsoft/)
+
+[Privacy](https://techcrunch.com/category/privacy/)
+
+[Robotics](https://techcrunch.com/category/robotics/)
+
+[Security](https://techcrunch.com/category/security/)
+
+[Social](https://techcrunch.com/category/social/)
+
+[Space](https://techcrunch.com/category/space/)
+
+[Startups](https://techcrunch.com/category/startups/)
+
+[TechCrunch](https://techcrunch.com/category/startups/)
+
+[TikTok](https://techcrunch.com/tag/tiktok/)
+
+[Transportation](https://techcrunch.com/category/transportation/)
+
+[Venture](https://techcrunch.com/category/venture/)
+
+### More from TechCrunch
+
+[Events](https://techcrunch.com/events/)
+
+[Startup Battlefield](https://techcrunch.com/startup-battlefield/)
+
+[StrictlyVC](https://strictlyvc.com/)
+
+[Newsletters](https://techcrunch.com/newsletters/)
+
+[Podcasts](https://techcrunch.com/podcasts/)
+
+[Videos](https://techcrunch.com/video/)
+
+[Crunchboard](https://www.crunchboard.com/)
+
+[Partner Content](https://techcrunch.com/sponsored/)
+
+[TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)
+
+[Contact Us](https://techcrunch.com/contact-us/)
+
+[Sign In](https://oidc.techcrunch.com/login/?dest=https%3A%2F%2Ftechcrunch.com%2Fcode-of-conduct%2F) [](https://techcrunch.com/my-account/)
+
 Code of Conduct
----------------
+===============
 
 ![](https://techcrunch.com/wp-content/uploads/2016/02/16758204214_218dd14c1c_o.jpg "TechCrunch Disrupt NY 2015 - Day 2")
 
@@ -71,8 +155,15 @@ If you experience or witness a Code of Conduct violation, report it to TechCrunc
 
 We base the TechCrunch Code of Conduct on the principles of inclusion, equality, diversity and respect. These guidelines are necessary to ensure that everyone can safely enjoy TechCrunch events. By purchasing a ticket to, working for, vending at or sponsoring any TechCrunch event, conference and conference-related social event, you agree to the policies set forth above.
 
-About
------
+[![TechCrunch Logo](https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg)](https://techcrunch.com/)
+
+* [X](https://twitter.com/techcrunch)
+* [LinkedIn](https://www.linkedin.com/company/techcrunch)
+* [Facebook](https://www.facebook.com/techcrunch)
+* [Instagram](https://instagram.com/techcrunch)
+* [youTube](https://www.youtube.com/user/techcrunch)
+* [Mastodon](https://mstdn.social/@TechCrunch)
+* [Threads](https://www.threads.net/@techcrunch)
 
 * [TechCrunch](https://techcrunch.com/)
 * [Staff](https://techcrunch.com/about-techcrunch/)
@@ -80,9 +171,6 @@ About
 * [Advertise](https://techcrunch.com/advertise/)
 * [Crunchboard Jobs](https://www.crunchboard.com/)
 * [Site Map](https://techcrunch.com/site-map/)
-
-Legal
------
 
 * [Terms of Service](https://guce.techcrunch.com/terms)
 * [Privacy Policy](https://guce.techcrunch.com/privacy-policy)
@@ -94,9 +182,6 @@ Legal
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-Trending Tech Topics
---------------------
-
 * [OpenAI’s Dev Day](https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/)
 * [Microsoft Copilot](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/)
 * [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
@@ -105,14 +190,4 @@ Trending Tech Topics
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
-* [Facebook](https://www.facebook.com/techcrunch)
-* [X](https://twitter.com/techcrunch)
-* [YouTube](https://www.youtube.com/user/techcrunch)
-* [Instagram](https://instagram.com/techcrunch)
-* [LinkedIn](https://www.linkedin.com/company/techcrunch)
-* [Mastodon](https://mstdn.social/@TechCrunch)
-* [Threads](https://www.threads.net/@techcrunch)
-
-© 2024 Yahoo. All rights reserved.
-
-Powered by [WordPress VIP](https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit)
+© 2024 Yahoo.
