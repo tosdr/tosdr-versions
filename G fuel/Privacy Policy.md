@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                               
+Privacy policy – G FUEL                                                                                                     
 
 [Skip to content](#MainContent)  
 
@@ -665,6 +665,6 @@ Rated 4.7 out of 5 stars
 
 Rated 4.4 out of 5 stars
 
-405 Reviews
+406 Reviews
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/bloood-2.png?v=1727209813)
