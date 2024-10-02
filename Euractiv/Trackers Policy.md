@@ -107,6 +107,10 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ###### Advertisement
 
+###### Advertisement
+
+###### Advertisement
+
 ### Subscribe to our newsletters
 
 [Subscribe](https://www.euractiv.com/newsletters/)
