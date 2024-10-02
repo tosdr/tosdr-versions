@@ -8,15 +8,15 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-[****Falling leaves. Falling prices 🍂**** 70% Off for 3 Months. **Buy Now & Save**
+[****Fall in love with FreshBooks 🍂**** 50% off for 6 months. **Buy Now & Save**
 
 📣 Only
 
 0 0 Days : 0 0 Hours : 0 0 Minutes : 0 0 Seconds
 
-Left to Get 70% Off for 3 Months **BUY NOW & SAVE**
+Left to Get 50% Off for 6 Months **BUY NOW & SAVE**
 
-**70% Off for 3 Months Buy Now & Save**
+**50% off for 6 months Buy Now & Save**
 
 ![Close promo banner](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/promo-topbar-close.965a416c.svg)](https://www.freshbooks.com/pricing)
 
