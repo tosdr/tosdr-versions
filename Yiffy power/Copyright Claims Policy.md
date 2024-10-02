@@ -75,31 +75,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 716 1
+0 724 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/mal0-olezhaklim-scp-1471-and-scp-1471-a-scp-foundation-and-etc-created-by-keesandwich/)
+[](https://yiff-party.com/yiff/toriel-undertale-series-created-by-berseepon09/)
 
-[mal0, olezhaklim, scp-1471, and scp-1471-a (scp foundation and etc) created by keesandwich](https://yiff-party.com/yiff/mal0-olezhaklim-scp-1471-and-scp-1471-a-scp-foundation-and-etc-created-by-keesandwich/)
+[toriel (undertale (series)) created by berseepon09](https://yiff-party.com/yiff/toriel-undertale-series-created-by-berseepon09/)
 
 0 2 0
 
 October 2, 2024
 
-[](https://yiff-party.com/yiff-gif/retsuko-aggretsuko-and-etc-created-by-demagabarega/)
+[](https://yiff-party.com/yiff/diego-blue-sky-studios-and-etc-created-by-jumpy-jackal/)
 
-[retsuko (aggretsuko and etc) created by demagabarega](https://yiff-party.com/yiff-gif/retsuko-aggretsuko-and-etc-created-by-demagabarega/)
+[diego (blue sky studios and etc) created by jumpy jackal](https://yiff-party.com/yiff/diego-blue-sky-studios-and-etc-created-by-jumpy-jackal/)
 
-0 150 0
+0 129 0
 
 September 2, 2024
 
-[](https://yiff-party.com/yiff/skye-and-vivian-rose-created-by-thousandfoldfeathers/)
+[](https://yiff-party.com/yiff/kovu-directed-by-knox-synth/)
 
-[skye and vivian rose created by thousandfoldfeathers](https://yiff-party.com/yiff/skye-and-vivian-rose-created-by-thousandfoldfeathers/)
+[kovu directed by knox synth](https://yiff-party.com/yiff/kovu-directed-by-knox-synth/)
 
-0 123 0
+0 127 0
 
 September 2, 2024
 
