@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 5 , 7 5 6
+1 , 0 6 5 , 7 9 5
 
 * [Play](#)
     
@@ -40,7 +40,7 @@ Active Players
     
     Special Offers
     
-    Gem Offers Referral Offers
+    Gem Offers Referral Offers PMR Halloween Pack
     
     Collectibles
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727859906) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727882459) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727859906) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1727882459) to resend activation email.
 
 OK
 
@@ -1031,6 +1031,62 @@ $12.99 $3.99 Auto Renews Weekly. Cancel Anytime
 
 ×
 
+![550% value](https://statics.pipeflare.io/assets/images/modals/vip/label_bg.svg) 550%  
+value
+
+October PMR Special Pack
+
+![x3 Tower Key](https://statics.pipeflare.io/assets/images/modals/october-pack/01.png)
+
+x3 Tower  
+Key
+
+![x2 Spider Queen Blood](https://statics.pipeflare.io/assets/images/modals/october-pack/02.png)
+
+x2 Spider  
+Queen Blood
+
+![x2 Spider Queen Blood](https://statics.pipeflare.io/assets/images/modals/october-pack/03.png)
+
+x2 Spider  
+Queen Blood
+
+![x2 Crystal Of Purity](https://statics.pipeflare.io/assets/images/modals/october-pack/04.png)
+
+x2 Crystal  
+Of Purity
+
+![x2 Talisman Of Defense](https://statics.pipeflare.io/assets/images/modals/october-pack/05.png)
+
+x2 Talisman  
+Of Defense
+
+![x2 Potion Life](https://statics.pipeflare.io/assets/images/modals/october-pack/06.png)
+
+x2 Potion  
+Life
+
+![x2 Sword Dance](https://statics.pipeflare.io/assets/images/modals/october-pack/07.png)
+
+x2 Sword  
+Dance
+
+![x2 Sword Soul](https://statics.pipeflare.io/assets/images/modals/october-pack/08.png)
+
+x2 Sword  
+Soul
+
+![x1 Raging Dragon](https://statics.pipeflare.io/assets/images/modals/october-pack/09.png)
+
+x1 Raging  
+Dragon
+
+$17.99
+
+Below effects only works in October. You will get + 50% ATK/DEF/HP, +100% chance to spawn a small explosive spider when being attacked by an enemy
+
+×
+
 Gem Offers - Limited Time Gem Offers  
 Limited Time
 
@@ -1100,7 +1156,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 255000
+x 260000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1129,7 +1185,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 420000
+x 425000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1165,7 +1221,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 255000
+x 260000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1194,7 +1250,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 420000
+x 425000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
