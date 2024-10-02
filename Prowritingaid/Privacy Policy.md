@@ -64,7 +64,7 @@ What do we use your information for?
 Do we review your content?
 --------------------------
 
-We never use or access your content unless you specifically permit us to or where it’s required in order to comply with the law. For grammar checking, once checking has been completed, all submitted texts and their improvements will be deleted. When using ProWritingAid, your texts will not be used to improve the quality of our services. Beware: other providers do not take this approach, and you may granting them rights to use your content as they wish. We use texts hand corrected by professional copyeditors to train our algorithms to ensure that our data is of the highest quality.
+We never use or access your content unless you specifically permit us to or where it’s required in order to comply with the law. For grammar checking, once checking has been completed, all submitted texts and their improvements will be deleted. When using ProWritingAid, your texts will not be used to improve the quality of our services. Beware: other providers do not take this approach, and you may be granting them rights to use your content as they wish. We use texts hand corrected by professional copyeditors to train our algorithms to ensure that our data is of the highest quality.
 
 You retain ownership of all content you post, upload to, or otherwise share on the site.
 
