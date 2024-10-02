@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You’re a great VPN with fabulous customer service! Much appreciated!
+Thanks again for your help. You guys are awesome.
 
-Jaci Stephen
+Joe Wilkinson
