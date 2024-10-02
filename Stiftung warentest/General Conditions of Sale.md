@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Online-Banking: So lassen Sie Online-Banking-Betrüger auflaufen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Online-Banking - So lassen Sie Online-Banking-Betrüger auflaufen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Service Stiftung Warentest
 
