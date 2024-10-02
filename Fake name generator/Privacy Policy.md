@@ -25,7 +25,7 @@ Fake Name Generator does use cookies to store information about visitors' prefer
 
 * Google, as a third party vendor, uses cookies to serve ads on Fake Name Generator.
 * Google's use of the DART cookie enables it to serve ads to our users based on their visits to Fake Name Generator and other sites on the Internet.
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy\_ads.html](http://www.google.com/privacy_ads.html)
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy\_ads.html](https://www.google.com/privacy_ads.html)
 
 ### Advertising Partners
 
