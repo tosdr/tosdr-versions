@@ -1,4 +1,4 @@
-Wednesday, October 2 2024
+Thursday, October 3 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -174,7 +174,7 @@ Quick Guides
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    5 days ago
+    6 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -246,7 +246,7 @@ Quick Guides
     
     [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
     
-    1 day ago
+    2 days ago
     
 
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
