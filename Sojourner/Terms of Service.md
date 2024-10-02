@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0858d031d0be8d09e50ce79bf25e0911
+e4e323f5f144416c9fc2ee86a6872d52
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Amber zebra stripe random teardrop beads](https://sojourner.biz/images/cache/glass/GL0043.200.jpg)](https://sojourner.biz/beads/glass/amber-zebra-stripe-random-teardrop-beads.html "Amber zebra stripe random teardrop beads")
+[![Faux amber bracelet clasp](https://sojourner.biz/images/cache/SKU0448front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-amber-bracelet-clasp.html "Faux amber bracelet clasp")
 
-#### [Amber zebra stripe random teardrop beads](https://sojourner.biz/beads/glass/amber-zebra-stripe-random-teardrop-beads.html "Amber zebra stripe random teardrop beads")
+#### [Faux amber bracelet clasp](https://sojourner.biz/clasps/faux-stone/faux-amber-bracelet-clasp.html "Faux amber bracelet clasp")
 
-$10.00
+$27.00
 
 ### Best Sellers
 
