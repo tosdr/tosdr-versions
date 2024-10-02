@@ -36,18 +36,18 @@
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
-    * [![DrayTek fixed critical flaws in over 700,000 exposed routers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Critical Ivanti RCE flaw with public exploit now used in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        DrayTek fixed critical flaws in over 700,000 exposed routers](https://www.bleepingcomputer.com/news/security/draytek-fixed-critical-flaws-in-over-700-000-exposed-routers/)
-    * [![Microsoft blocks Windows 11 24H2 on some Intel PCs over BSOD issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Critical Ivanti RCE flaw with public exploit now used in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
+    * [![Fake browser updates spread updated WarmCookie malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft blocks Windows 11 24H2 on some Intel PCs over BSOD issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-intel-pcs-over-bsod-issues/)
-    * [![Microsoft warns of Windows 11 24H2 gaming performance issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
+    * [![Train for the Azure certification exams with this prep bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft warns of Windows 11 24H2 gaming performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-windows-11-24h2-gaming-performance-issues/)
-    * [![This refurbished MacBook Air M1 deal will get you away from your PC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Train for the Azure certification exams with this prep bundle deal](https://www.bleepingcomputer.com/offer/deals/train-for-the-azure-certification-exams-with-this-prep-bundle-deal/)
+    * [![Microsoft Office 2024 now available for Windows and macOS users](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This refurbished MacBook Air M1 deal will get you away from your PC](https://www.bleepingcomputer.com/offer/deals/this-refurbished-macbook-air-m1-deal-will-get-you-away-from-your-pc/)
+        Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
