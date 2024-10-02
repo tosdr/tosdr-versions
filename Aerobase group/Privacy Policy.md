@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Pentagon taps commercial vendors for low-cost, throwaway drones](https://www.defensenews.com/unmanned/2024/10/02/pentagon-taps-commercial-vendors-for-low-cost-throwaway-drones/)  
+    10/02/24 11:21am  
+    
+    The Defense Innovation Unit is seeking low-cost commercial drones that can carry a range of payloads — from weapons to surveillance and communication systems. (Getty Images)
+    
 * [Iran fires missiles at Israel](https://www.defensenews.com/global/mideast-africa/2024/10/01/iran-fires-missiles-at-israel/)  
     10/01/24 01:55pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     09/30/24 12:00pm  
     
     The JASSM and LRASM contract is part of a Pentagon effort to make multiyear procurements of key munitions. Here, a LRASM launches from an Air Force B-1B Lancer during flight testing in 2013. (DARPA)
-    
-* [Marines to receive new system for zapping drone swarms out of the sky](https://www.defensenews.com/news/your-marine-corps/2024/09/30/marines-to-receive-new-system-for-zapping-drone-swarms-out-of-the-sky/)  
-    09/30/24 10:58am  
-    
-    A mock-up of the recently announced Eprius counter-drone system that can zap swarms of enemy drones out of the sky. (Epirus)
     
 
 Recent parts by keyword  
