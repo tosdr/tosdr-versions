@@ -194,7 +194,7 @@ Use of the Best Buy Properties.
 
 You may use the Best Buy Properties for your personal, noncommercial use only. You may not use any Best Buy Property if you are under the age of 13. If you are between the ages of 13 and 18, you may use the Best Buy Properties only with involvement of a parent or guardian.
 
-![](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-44833-icnhd-help-2002241-206914.png;maxHeight=160;maxWidth=160)
+![](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-44833-icnhd-help-2002241-206914.png;maxHeight=160;maxWidth=160?format=webp)
 
 [Help Center](https://www.bestbuy.com/site/customer-service/help-topics/pcmcat203400050001.c?id=pcmcat203400050001)
 -------------------------------------------------------------------------------------------------------------------
