@@ -108,8 +108,6 @@ GET IT ON
 * [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations Nearby")
 * [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
 * [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
-* [Fall Fashion](https://shop.simon.com/blogs/fashion/the-biggest-trends-for-fall-winter-2024-2025?utm_source=Simon&utm_medium=Header&utm_campaign=Simon_Fall_Fashion "Trend Report For Fall/Winter 2024-2025")
-* [@themall](https://meetmeatthemall.simon.com/ "Meet Me @themall™")
 
 Menu
 
@@ -120,8 +118,6 @@ Use your location to find centers near you
 * [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations Nearby")
 * [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
 * [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
-* [Fall Fashion](https://shop.simon.com/blogs/fashion/the-biggest-trends-for-fall-winter-2024-2025?utm_source=Simon&utm_medium=Header&utm_campaign=Simon_Fall_Fashion "Trend Report For Fall/Winter 2024-2025")
-* [@themall](https://meetmeatthemall.simon.com/ "Meet Me @themall™")
 * Shop Online
     
     Women's Most Popular
