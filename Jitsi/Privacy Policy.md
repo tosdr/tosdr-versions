@@ -48,7 +48,7 @@ To provide the meet.jit.si service, 8×8 may process and store third-party accou
 
 If you have any questions or concerns about our use of your personal information, please contact our data protection officer at: [\[email protected\]](https://jitsi.org/cdn-cgi/l/email-protection).
 
-Use of YouTube livestreaming is governed by Google, by using the livestreaming users are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). YouTube API Services are used for retrieving the livestream id. 8×8 access to data can be revoked at any time using Google’s [security settings page](https://security.google.com/settings/security/permissions).
+Use of YouTube livestreaming is governed by Google, by using the livestreaming users are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). YouTube API Services are used for retrieving the livestream id. [YouTube API Client](https://developers.google.com/youtube/terms/developer-policies#d.-accessing-youtube-api-services) stores, accesses or collects (or allows third parties to do so) information directly or indirectly on or from users’ devices, including by placing, accessing or recognizing cookies or similar technology on users’ devices or browsers. 8×8 access to data can be revoked at any time using Google’s [security settings page](https://security.google.com/settings/security/permissions).
 
 Jitsi is a trademark of © 8x8, Inc. [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
