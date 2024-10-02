@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [4 top-of-mind challenges for CISOs](https://www.onetrust.com/resources/4-top-of-mind-challenges-for-cisos-infographic/)
+* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
 * [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
-* [Proven ROI with OneTrust](https://www.onetrust.com/resources/proven-roi-with-onetrust/)
-* [Navigating risk in financial services with third-party management](https://www.onetrust.com/resources/navigating-risk-in-financial-services-with-third-party-management-infographic/)
 
 ### Platform
 
