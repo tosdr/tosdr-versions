@@ -69,7 +69,7 @@ Can’t find an answer for your question? [Contact us](https://prowritingaid.com
 4\. Copyright and intellectual property
 ---------------------------------------
 
-4.1 Subject to Clause 4.2, we never use or access your content unless you specifically permit us to or where it’s required in order to comply with the law. For grammar checking, once checking has been completed, all submitted texts and their improvements will be deleted. When using ProWritingAid, your texts will not be used to improve the quality of our services. Beware: other providers do not take this approach, and you may granting them rights to use your content as they wish. We use texts hand corrected by professional copyeditors to train our algorithms to ensure that our data is of the highest quality.
+4.1 Subject to Clause 4.2, we never use or access your content unless you specifically permit us to or where it’s required in order to comply with the law. For grammar checking, once checking has been completed, all submitted texts and their improvements will be deleted. When using ProWritingAid, your texts will not be used to improve the quality of our services. Beware: other providers do not take this approach, and you may be granting them rights to use your content as they wish. We use texts hand corrected by professional copyeditors to train our algorithms to ensure that our data is of the highest quality.
 
 4.2 We own our stuff; you own yours.
 
