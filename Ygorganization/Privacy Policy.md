@@ -135,35 +135,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/doublefusionpromo/ "The Next V Jump Promo Is… [VJMP]")
+[](https://ygorganization.com/unownwasher/ "Blessed Be The “Azamina”! [ROTA]")
 
-#### [The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/doublefusionpromo/)
+#### [Blessed Be The “Azamina”! \[ROTA\]](https://ygorganization.com/unownwasher/)
 
-September 19, 2024
+September 26, 2024
 
-[](https://ygorganization.com/tournamentpackyugo/ "[24TP] Tournament Pack 2024 Vol. 4 (Round 2)")
+[](https://ygorganization.com/event-pack-2024-vol-3-24ep-jp3/ "Event Pack 2024 Vol.3 [24EP-JP3]")
 
-#### [\[24TP\] Tournament Pack 2024 Vol. 4 (Round 2)](https://ygorganization.com/tournamentpackyugo/)
+#### [Event Pack 2024 Vol.3 \[24EP-JP3\]](https://ygorganization.com/event-pack-2024-vol-3-24ep-jp3/)
 
-September 19, 2024
+September 26, 2024
 
-[](https://ygorganization.com/cdp_malisslivetwin/ "CDP: Maliss Live Twin Cynet, ft. DBCB Support")
+[](https://ygorganization.com/theomajinaiinthemirrorisme/ "The Remaining Cards! [24TP-JP4]")
 
-#### [CDP: Maliss Live Twin Cynet, ft. DBCB Support](https://ygorganization.com/cdp_malisslivetwin/)
+#### [The Remaining Cards! \[24TP-JP4\]](https://ygorganization.com/theomajinaiinthemirrorisme/)
 
-September 18, 2024
+September 26, 2024
 
-[](https://ygorganization.com/yourfirststepintoalargerworld/ "Alternative Artworks Confirmed For World Premiere Pack 2024 [WPP5]")
+[](https://ygorganization.com/cdp_theresanewslimeintown/ "CDP: Mimighoul Kashtira, ft. ROTA Support")
 
-#### [Alternative Artworks Confirmed For World Premiere Pack 2024 \[WPP5\]](https://ygorganization.com/yourfirststepintoalargerworld/)
+#### [CDP: Mimighoul Kashtira, ft. ROTA Support](https://ygorganization.com/cdp_theresanewslimeintown/)
 
-September 18, 2024
+September 25, 2024
 
-[](https://ygorganization.com/1812overture/ "Counterattack With “Ancient Gear Barrage”! [RD/LGP2]")
+[](https://ygorganization.com/cutenessonthefuryroad/ "Various Card Reveals [ROTA-EN]")
 
-#### [Counterattack With “Ancient Gear Barrage”! \[RD/LGP2\]](https://ygorganization.com/1812overture/)
+#### [Various Card Reveals \[ROTA-EN\]](https://ygorganization.com/cutenessonthefuryroad/)
 
-September 18, 2024
+September 25, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
