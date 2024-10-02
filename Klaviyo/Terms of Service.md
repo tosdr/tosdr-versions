@@ -24,12 +24,6 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
-[](https://community.klaviyo.com/events/klaviyo-connect-bfcm-chicago-239)
-
-Klaviyo Connect: BFCM (Chicago)
-
-(Tue, 1 Oct, 6:00 pm)
-
 * [Home](https://community.klaviyo.com/)
 * Terms
 
