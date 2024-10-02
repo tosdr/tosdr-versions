@@ -240,10 +240,24 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Get started with our public cloud! Deliver computing services - servers, data, networking, software and more - over the internet (“the cloud”).
+### DNSSEC
 
   
-[Learn More](https://www.dynu.com/Cloud-VPS-Phoenix)  
+
+#### Our redundant DNS solution is fully supported with DNSSEC
+
+  
+
+  
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
   
 
 ### News
