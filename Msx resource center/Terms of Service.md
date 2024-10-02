@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=119 "Please help testing upcoming openMSX release!")
-* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=3 "Hi From Cuba, Need Help Z80 ;)")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=120 "Please help testing upcoming openMSX release!")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
+* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=3 "Hi From Cuba, Need Help Z80 ;)")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=61 "WonderTANG! Who wants to juice up your MSX?")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=8 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
