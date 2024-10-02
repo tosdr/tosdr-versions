@@ -1,580 +1,314 @@
-[![SchoolNow-logo](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/SchoolNow-logo.svg "SchoolNow-logo")](https://www.campussuite.com/)
+[Skip to content](#page-section)
 
-* [Solutions](javascript:;)
-    * [](javascript:;)
-* [Services](javascript:;)
-    * [](javascript:;)
-* [Learn](javascript:;)
-    * [](javascript:;)
-* [Company](javascript:;)
-    * [](javascript:;)
-* [Contact](https://www.schoolnow.com/contact)
+Just Launched: [SchoolStatus Sites & Apps](https://www.schoolstatus.com/products/sites-and-apps)!
 
-* [Help?](#help_window_popup)
-* [See a demo](https://staging-schoolnow-com.sandbox.hs-sites.com/schedule-a-schoolnow-school-communication-platform-demo)
+![Topbar Close icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
 
-* [Solutions](javascript:;)
-    * [Social Media](javascript:;)
-    * [Website](javascript:;)
-    * [Messages](javascript:;)
-    * [Mobile App](javascript:;)
-    * [See our feature overview](javascript:;)
-* [Services](javascript:;)
-    * [Digital brand launch](javascript:;)
-    * [Website accessibility](javascript:;)
-    * [Website design](javascript:;)
-    * [See our website design library](javascript:;)
-* [Learn](javascript:;)
-    * [Blog](javascript:;)
-    * [Guides and videos](javascript:;)
-    * [Case studies](javascript:;)
-    * [Website accessibility](javascript:;)
-    * [Customer help center](javascript:;)
-    * [See all resources](javascript:;)
-* [Company](javascript:;)
-    * [About us](javascript:;)
-    * [Careers](javascript:;)
-    * [Become a partner](javascript:;)
-* [Contact](javascript:;)
-* [Help?](javascript:;)
-* [See a demo](javascript:;)
+[![Site Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.schoolstatus.com/)
 
-The all-in-one communication hub
+* Solutions
+    * [Solutions Overview](https://www.schoolstatus.com/solutions)
+    * [Meaningful Engagement](https://www.schoolstatus.com/solutions/meaningful-engagement)
+    * [Improved Attendance](https://www.schoolstatus.com/solutions/improved-attendance)
+    * [Actionable Insights](https://www.schoolstatus.com/solutions/actionable-insights)
+    * [Educator Effectiveness](https://www.schoolstatus.com/solutions/educator-effectiveness)
+    * [Operational Efficiency](https://www.schoolstatus.com/solutions/operational-efficiency)
+* Who It’s For
+    * [Superintendents](https://www.schoolstatus.com/who-its-for/superintendents)
+    * [District Leaders](https://www.schoolstatus.com/who-its-for/district-leaders)
+    * [School Leaders](https://www.schoolstatus.com/who-its-for/school-leaders)
+    * [Educators & Staff](https://www.schoolstatus.com/who-its-for/educators-staff)
+    * [Families](https://www.schoolstatus.com/who-its-for/families)
+* Products
+    * [Product Overview](https://www.schoolstatus.com/products)
+    * [Connect: Communications Portal](https://www.schoolstatus.com/products/connect)
+    * [Attend: Attendance Platform](https://www.schoolstatus.com/products/attend)
+    * [Boost: Teacher Development](https://www.schoolstatus.com/products/boost)
+    * [Forms & Flows: Digitize Paperwork](https://www.schoolstatus.com/products/forms-and-flows)
+    * [Sites & Apps: Engaging Websites](https://www.schoolstatus.com/products/sites-and-apps)
+* Resources
+    * [Resource Library](https://www.schoolstatus.com/resource-library)
+    * [Blog](https://www.schoolstatus.com/blog)
+    * [Case Studies](https://www.schoolstatus.com/resource-library/case-studies)
+    * [Checklists & Infographics](https://www.schoolstatus.com/resource-library/checklists-and-infographics)
+    * [eBooks](https://www.schoolstatus.com/resource-library/ebooks-and-whitepapers)
+    * [Guides & Playbooks](https://www.schoolstatus.com/resource-library/guides-and-playbooks)
+    * [Reports](https://www.schoolstatus.com/resource-library/reports)
+    * [Webinars](https://www.schoolstatus.com/resource-library/webinars)
+* About
+    * [About SchoolStatus](https://www.schoolstatus.com/about)
+    * [Careers](https://www.schoolstatus.com/careers)
+    * [News & Press](https://www.schoolstatus.com/news-press)
+    * [Contact](https://www.schoolstatus.com/contact)
 
-[![website-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/website-icon.svg)
+[Request a Demo](https://www.schoolstatus.com/request-a-demo "Request a Demo") [Log In](https://www.schoolstatus.com/log-in "Log In")
 
-Website
+[Request a Demo](https://www.schoolstatus.com/request-a-demo "Request a Demo") [Log In](https://www.schoolstatus.com/log-in "Log In")
 
-The official hub of all your school communication](https://www.schoolnow.com/school-websites)
+Privacy Policy
+==============
 
-[![mobile-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/mobile-icon.svg)
+**SchoolStatus Privacy Notice**
 
-Mobile app
+**Effective Date: May 1, 2024**
 
-Your school right where and when everyone wants](https://www.schoolnow.com/school-mobile-app)
+This Privacy Notice describes how SchoolStatus (“our,” “we”) collects, uses, and shares personal information. In particular, this Privacy Notice applies to:
 
-[![social-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/social-icon.svg)
+* Our website at https://www.schoolstatus.com, its subdomains and associated domains, including https://classtag.com, https://teachboost.com, https://www.schoolnow.com/, https://smore.com/, https://operoo.com/, and subdomains of each, as available to the general public (our “General Website”). This Privacy Notice applies to visitors to our General Website (“Visitors”).
+* Our platforms and other online services that post this Notice (collectively, our “Services”). Our Services include functionality that requires a login, including the login available on our General Website. Our Services include the following: SchoolStatus Attend, SchoolStatus Boost, and SchoolStatus Connect, as well as Operoo, Smore, ClassTag, TeachBoost, School Innovations & Achievement, and SchoolNow.
 
-Social media
+We provide products and solutions that support teachers, educators, coaches, counselors, and administrators (“Educators”) at schools to analyze student (“Students”) information to improve academic outcomes. Schools may also designate account contacts or administrators to help manage their Services (“School Account Managers”). In addition, our Services support functionality that allows schools and Educators to Connect with Students and their parents and/or guardians (“Parents”).
 
-Sharing all your great stories in social and school feeds](https://www.schoolnow.com/social-media-manager)
+For all users who interact with us online, we collect information you choose to give us and other information that may be collected from your use of our Services, including from your device. We use that information to operate our business and for a variety of other purposes set forth below. Below, we also describe the choices we offer with respect to your information. This Privacy Notice does not apply to information that cannot be identified to any individual, household, or their devices, such as de-identified or anonymized information. 
 
-[![messages-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/messages-icon.svg)
+This Privacy Notice does not apply to third parties. We are not responsible for other third parties’ privacy practices or communications. You should contact these parties directly to understand their practices. For example, if you are a Student or Parent who wants to understand your school’s practices when handling your information, you should contact the school directly.
 
-Messages
+If you are a resident of California, Colorado, Connecticut, Virginia, or Texas please see our state-specific Additional Notices:
 
-Every kind of message delivered just how families want](https://www.schoolnow.com/notifications)
+* Additional Notice for California Residents
+* Additional Notice for Colorado Residents
+* Additional Notice for Connecticut Residents
+* Additional Notice for Virginia Residents
+* Additional Notice for Texas Residents
 
-[![auto-notices-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/auto-notices-icon.svg)
+**Information We Collect**
 
-Auto-notices
+To provide our Services and General Website, we collect information by which you may be personally identified. We may also collect information about the devices and equipment you use to access our Services and General Website, including usage information.
 
-From attendance to automated reminders](https://www.schoolnow.com/auto-notices)
+We collect this information from a variety of sources, including:
 
-[See all features and plans](https://www.schoolnow.com/plans)
+* Directly from you when you provide it to us
+* From Educators, Students, or Parents who utilize our Services
+* Automatically as you utilize the General Website or Services
+* With respect to our General Website, from third parties including analytics providers
+* With respect to our Services, from third-party sources such as other educational program/technology providers whom your school has permitted to share data directly with us to support our service
 
-![service_icon_1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/service_icon_1.png?width=56&height=56&name=service_icon_1.png)
+**Personal Information Collection on Our Services**
 
-Digital brand
+Our Services are available to School Account Managers, Educators, Parents, and Students. Below, we summarize our key practices for each.
 
-Give families the choice for connecting
+|     |     |     |
+| --- | --- | --- |
+| Category of User | Personal Information Collected | Key Information Uses |
+| School Account Managers | First and last name, contact information (e.g., email address, phone number, mailing address), school affiliation, role, login credentials, logging, and technical usage information when interacting with a Service, support communications, or other interactions with us, information regarding communications or interactions with others on our Services (including other Educators, Parents, or School Administrations), and any information required to provide the particular Service. | Manage the business relationship and Services account on behalf of your school or organizationPermit you to login to the ServicesProvide Service functionality, including facilitating your interactions as a School Account Manager with others on the Service (e.g., to set up and monitor your particular Educator accounts)Process transactions and paymentsManage your account and provide support.Provide information about new or related services we may offerFor other general purposes noted below (e.g., to enforce legal terms or comply with law) (see Other Ways We Use Information We Collect) |
+| Educators | First and last name, contact information (e.g., email address, phone number, mailing address), school affiliation, professional credentials, job title, login credentials, logging, and technical usage information when interacting with a Service, support communications or other interactions with us, information regarding communications or interactions with others on our Services (including other Educators, Parents, or School Administrations), and any information required to provide the particular Service. By its nature, our Service also allows us to associate Educators with the particular schools, Parents, Students, and classes they may support. | Permit you to login to the ServicesProvide Service functionality. Depending on the particular Service, this could include using information for: (1) interacting with others through our Services; (2) measuring and reporting on Student outcomes and benchmarks; (3) monitoring attendance and discipline programs, (4) tracking state and local assessments, and (5) maintaining other Student information and recordsManage your account and provide supportFor other general purposes noted below (e.g., to enforce legal terms or comply with law) (see Other Ways We Use Information We Collect) |
+| Parents | If you are a Parent, School Administrators and Educators may use our Services to interact with you. Information about Parents which may be collected via our Services include: First and last name, contact information (e.g., email address, phone number, mailing address), school affiliation, logging, and technical usage information when interacting with a Service, support communications, or other interactions with us, and information required to provide the particular Service. By its nature, our Service also allows us to associate you with the particular schools and Educators your Student(s) may associate with. | Facilitate communications, notices, and interactions between Parents and schools, including with Educators regarding StudentsFor other general purposes noted below (e.g., to enforce legal terms or comply with law) (see Other Ways We Use Information We Collect) |
+| Students | We collect Student information directly from schools, Educators, Parents, Students, and other educational program/technology providers whom your school has permitted to share data directly with us to support our service.  Information about Students that may be collected via our Services includes: first and last name, contact information (e.g., email address, phone number, mailing address), school affiliation, grade level, and any information required to provide the particular Service. With respect to particular Services, for example, we may collect information about your academic performance, attendance information, discipline information, poverty status, truancy information, and tutoring information. We may receive medical, health, or disability-related information in connection with support for particular school activities, such as sports activities. By its nature, our Service also allows us to associate you with the particular schools, Parents, and Educators you may associate with. | Analyze and report on student outcomes, including academic performance, attendance, assessments, and other information of interest to Educators and ParentsFor other general purposes noted below (e.g., to enforce legal terms or comply with law) (see Other Ways We Use Information We Collect) |
 
-[](https://www.schoolnow.com/branding)
+See additional information below to understand additional information collection practices.
 
-![service_icon_2](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/service_icon_2.png?width=67&height=52&name=service_icon_2.png)
+**Information Collection on Our General Website**
 
-Website design
+If you are a Visitor on our General Website, we may collect your name, email, district, or school name, job title, phone number, and state. We may collect this or other information you choose to provide when you request a service demonstration from us, fill out a form on our website, reach out to us via email, or otherwise communicate with us. We use this information to communicate with you and provide you with information that you request from us, including marketing communications and promotions.
 
-Give families the choice for connecting
+**Other Information Collection, Logging, and Automatically Collected Information**
 
-[](https://www.schoolnow.com/design)
+In all cases, we may collect and use other information you choose to provide or with your consent.
 
-![Website-Accessibility-icon](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(4).png?width=64&height=63&name=Group%20(4).png)
+In addition, if you interact with any of our websites or online services, your browser or device will be subject to collection of logging and other automatically collected information. This includes information collection via cookies, web beacons, and other automatically collected information. This information may include your IP address, date and time you access our websites or online services and the pages and content you access during your visit, websites that you link to or from, whether you receive or open an email or other communication from us (or via our Services), and the links you click on within those emails. We may also collect information from your mobile device or your computer about how you interact with our website or online services, including the time of arrival and length of visit, the type of device used and the operating system on that device, browser type, a list of files downloaded or pages viewed, and any errors encountered. This information helps us address customer support issues, provide you with a personalized experience, prevent fraudulent use of our services, and manage the website and online services we provide you, including gathering aggregated information about engagement.
 
-Compliance
+**Other Ways We Use Information We Collect**
 
-Website accessibility and privacy
+We use information as described above. In addition, we may use all of the information we collect in order to:
 
-[](https://www.schoolnow.com/accessibility)
+* Maintain, analyze, customize, and improve our Services and your experience
+* To provide customer and technical support
+* To monitor and enforce our contracts, legal terms, acceptable use or other policies or similar terms
+* To comply with law and satisfy our regulatory and compliance obligations, including responding to your exercise of your rights. Additionally, we may use information to support compliance efforts on behalf of others and ourselves that support our provision of services to you
+* To monitor information security, manage and protect our technical infrastructure (servers, networks, etc.), detect and prevent fraud and other prohibited, illicit, or illegal activity, and to protect the rights and vital interests of you, others, and ourselves
+* To address existing or anticipated disputes
+* To otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases)
+* To fulfill any other purpose for which you provide your information to us
+* As permitted by law, we may combine the information we gather about you in identifiable form, including information from third parties
+* For other purposes permitted by law, described to you when you provide your information or to which you consent
 
-![service_icon_4-1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/service_icon_4-1.png?width=58&height=58&name=service_icon_4-1.png)
+To enhance our services, we may also retain and use your information in an anonymized or de-identified format where your identity is not recognizable. Such information is not subject to the same usage restrictions as personal information and can be used to improve our products and services, conduct research, or for other business purposes.
 
-Customers
+**How We Secure Information**
 
-Give families the choice for connecting
+We are committed to maintaining measures to protect the security of your information. For example, we use the following methods subject to our internal policies and procedures:
 
-[](https://www.schoolnow.com/customers)
+* **Encryption**: We utilize encryption to protect confidential and sensitive user information, including encryption controls at rest and in transit.
+* **Authentication**: We require users who maintain an account with us to authenticate their identity using a username and strong password or single sign-on solution. This helps ensure that only authorized users can access the information.
+* **Additional Information Protection Services**: We use other measures (information backup, firewall, anti-virus) to protect our systems as well.
 
-Bridgestone design
+Of course, despite these measures, no network or system is ever entirely secure and we cannot guarantee the security of networks and systems that we operate or that are operated on our behalf.
 
-[See our website design library](https://www.schoolnow.com/design-library)
+**Information Retention**
 
-[![9B8C926C-C179-4545-B001-A703AAFE3ADA-1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg?width=500&height=352&name=9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg)
+If you are an Educator, Parent, or Student, please note that we may retain your information for the duration of our Services as provided to your school or organization, or after you terminate your use of the Services in line with our information backup procedures and according to the terms in our contractual agreement with the Customer. We may keep your information for longer periods if required to protect or defend against claims, as required by federal, state, or local law, or as permitted under applicable contractual terms.
 
-I am a parent](https://www.schoolnow.com/get-started/schoolnow)
+In certain circumstances, such as when the information is subject to litigation, we may retain the information for extended periods as required.
 
-[![staff-member-support](https://www.schoolnow.com/hubfs/staff-member-support.svg)
+**How We Share Information**
 
-I am school staff](https://www.schoolnow.com/support)
+We may share your information with third parties as reasonable to operate our business, to provide the General Website and Services to you and others, as permitted or required by law, or as directed or authorized by you.
 
-[![Group (5)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(5).png?width=66&height=64&name=Group%20(5).png)
+Intra-Service Sharing. If you are a School Account Manager, Educator, Parent, or Student, your information may be accessible to other Service users. For instance, if you are a Parent of a Student, information in your Student’s profile may be accessible to other users of our Service, including those Educators in your school or school district who you choose to communicate with.
 
-Blog
+Affiliated Companies. For all users, we may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us. For example, if you are a School Account Manager, Educator, Parent, or Student, we may share information with affiliates who act to support the provision of Services to particular schools or organizations.
 
-Sharing learning for school professionals](https://www.schoolnow.com/blog)
+Service Providers and Third Party Sharing. Like most companies, we work with third parties to help us provide our Services and to support our internal operations. In some cases, these third parties may use information subject to their own privacy policies and to comply with their own legal and regulatory obligations. We work with different types of third parties, presently including:
 
-[![Guides-videos-icon](https://www.schoolnow.com/hubfs/Guides-videos-icon.svg)
+* Information hosting, storage, and cloud service providers
+* Payment processing companies
+* Security service providers
+* Technical and customer support providers
+* Analytics providers (though we generally do not permit analytics providers to utilize information for their own purposes with respect to Parents, Educators, or Students)
+* Marketing and promotions providers (though we generally do not work with marketing and promotions providers on our own behalf with respect to Parents, Educators, or Students)
 
-Resources
+In general, we have contracts with our service providers that address their protection of information. We reserve the right to modify which particular third parties we work with at any time. We may update this Privacy Notice regarding such third parties. See the Updates to Our Privacy Notice section to learn how to become informed of these updates. Please note that we do not control and are not responsible for third parties that schools may choose to work with.
 
-Plans and best practices for schools](https://www.schoolnow.com/resources)
+Professional Advisors, Law Enforcement, and Regulators. We may share your information with our professional advisors who provide legal, compliance, auditing, accounting, banking, consulting, or similar services, and with teachers, school districts, regulators, law enforcement, or government agencies to:
 
-[![Group (7)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(7).png?width=66&height=52&name=Group%20(7).png)
+* Comply with our legal and regulatory obligations, including those compliance obligations of federal, state, or local regulators
+* Protect our interests, property, or legal rights, or those of our customers or third parties
+* Respond to a subpoena, court order, or similar law enforcement request, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of this Privacy Notice or other applicable terms
+* For other legal purposes, such as to enforce our terms and conditions, or to exercise or defend legal claims
 
-Case studies
+Corporate Transaction. In the event of a corporate transaction, we may share your personal information with companies or other entities in connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, restructuring, divestiture, or dissolution of all or a portion of our business, or other similar event.
 
-Learn about the challenges and solution](https://www.schoolnow.com/case-studies)
+Other Disclosures. In addition to the above disclosures, we may disclose personal information in the event that we believe such disclosure is (i) necessary to provide our services or operate our business; (ii) in accordance with purposes we describe when you share it with us; (iii) permitted by law; or (iv) at your direction.
 
-[![Group (4) (1)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(4)%20(1).png?width=64&height=63&name=Group%20(4)%20(1).png)
+If you are a Visitor on our General Website, we may share your information with advertisers, ad networks, and other promotional partners.
 
-Website Accessibility
+**What Choices Do I Have?**
 
-Resources to put in place compliance](https://www.schoolnow.com/accessibility-center)
+Update personal information. If you are an Educator or School Administrator, you can update certain information that you have provided by logging into your account. As permitted by law, we may not accommodate a request to change or delete information if we believe the change would violate any law or legal requirement, cause the information to be incorrect, or prevent the provision of our Services.
 
-How-to resources
+If you are the Parent of a Student and would like to update your or their information as maintained by a particular school or organization that utilizes our Services, please contact that school or organization directly to do so.
 
-[Communication
+Marketing and Other Communications. If you are a Visitor or School Administrator, or if you have expressly consented, you may receive marketing communications from SchoolStatus. We do not target marketing communications to Parents or Students. You may opt out of receiving marketing emails from us by following the unsubscribe link in each email. Please note that you may continue to receive non-marketing emails from us after you opt-out. If you are a Parent or Student, you may receive messages from Educators through our platform. They, and not we, are responsible for such messaging.
 
-The complete communication planning guide for schools](https://www.schoolnow.com/school-communications-planning-guide)
+Cookies. You have a number of choices regarding certain cookies. Most web browsers automatically accept cookies, but you may modify your browser’s settings to notify you of cookie placement or decline cookies. If you choose to decline cookies, certain features of our website may not function properly or at all as a result.
 
-[website
+Other Rights. You may have additional rights—such as rights to access or delete your personal information—if you are a resident of certain states. Please see the additional notices for residents of California, Colorado, Virginia, Connecticut, and Texas.
 
-Steps to create a school website design for results](https://www.schoolnow.com/school-website-design-guide)
+**Updates to Our Privacy Notice**
 
-[Website accessibility guide
+We may update this Privacy Notice from time to time in order to provide clarification or notice of changes to our practices. If we make changes, we will revise the Effective Date at the top of this Privacy Notice. Changes to this Privacy Notice will be effective once they are posted unless otherwise indicated. We may choose to notify you by email to the email address in our records.
 
-School Website accessibility guide](https://www.schoolnow.com/school-website-accessibility-guide)
+**Contact Information**
 
-[See all resources](https://www.campussuite.com/resources)
+If you have any questions or concerns about this privacy notice or the privacy practices at SchoolStatus, please contact us by emailing us at [\[email protected\]](https://www.campussuite.com/cdn-cgi/l/email-protection). Additionally, you can write to us at:
 
-[![Group (9)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(9).png?width=56&height=56&name=Group%20(9).png)
+**SchoolStatus, LLC**
 
-About us
+Attn: Legal Notices
 
-Who we are, our vision and history](https://www.schoolnow.com/company)
+800 Woodlands Pkwy
 
-[![Group (10)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(10).png?width=59&height=52&name=Group%20(10).png)
+Suite 107
 
-Careers
+Ridgeland, Mississippi 39157
 
-Give families the choice for connecting](https://www.schoolnow.com/company/careers)
+* * *
 
-[![Group (11)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(11).png?width=64&height=44&name=Group%20(11).png)
+![Badge, Supes' Choice](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODIiIGhlaWdodD0iMTgzIiB2aWV3Qm94PSIwIDAgMTgyIDE4MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Partner network
+![Black badge, winner 2023, Top Ed Tech Products.](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODMiIGhlaWdodD0iMTgzIiB2aWV3Qm94PSIwIDAgMTgzIDE4MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Collaborate for customer success](https://www.schoolnow.com/partner-program)
+![EdTech Trendsetter Awards Finalist](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNDI0IiB2aWV3Qm94PSIwIDAgMzAwIDQyNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-SchoolNow™ Privacy Policy
-=========================
+![Codie 2021 Siia Codie Winner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODUiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCAxODUgNjAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
 
-![Ferpa](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/Ferpa.png?width=236&height=236&name=Ferpa.png)
+![Top 100](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNDE4IiB2aWV3Qm94PSIwIDAgMzAwIDQxOCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-SchoolNow™ collects some Personal Data from its Users and this Statement governs all the services that we provide directly to you. Whether you are browsing our websites, receiving our newsletters, or using our SchoolNow™ products and services. We take your privacy seriously so please take the time to review how we collect and use your information. By accessing or using the Service, you are consenting to the collection, use, disclosure and other handling of your information as described below. 
+![1EdTech Trusted Education App Certified Badge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzIyIiB2aWV3Qm94PSIwIDAgMzAwIDMyMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Additionally, this Statement governs the use of personal information for all our products and services that we provide directly to you as a so-called ‘data controller.’
+![Best Meets Requirements Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-What personal information we collect and how we use it will depend on your relationship with SchoolNow.  The following section is mainly for informational purposes and describes how your information is generally used when we provide products and services to you on behalf of a client. How your information is used depends on your institution, so you should read your institution’s privacy statement.
+![Best Relationship Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-### Student Submitted Information within Schools
+![Best Results Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Prior to a student submitting any information within a School environment by accessing SchoolNow for the purpose of using the notification system, publishing any Student Personal Identifiable Information (PII) on district/school-sponsored website as well as the social media integration, the Teacher must certify that they have received the appropriate consent by either: a) choosing to act as the agent of the Parent and consent on the Parents behalf which is commonly referred to as School Consent, or b) collect the parental consent directly from the parent.
+![Best Support Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-The first and simplest way is for teachers to agree to act as the parent's agent, and provide consent on their behalf to use SchoolNow solely in the educational context. This form is commonly referred to as "school consent". Under this type of consent, no Student PII or related content submitted by students will be shown publicly, unless parents give additional parental consent to School. Teachers, Staff or IT Administrators should not be publishing any Student PII without the appropriate parental consent.
+![Best Usability Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-### Types of Data collected
+![Easiest to do Business With Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies; Usage Data.
+![Easiest to Use Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Complete details on each type of Personal Data collected are provided below, and in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection. Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
+![Users Most Likely to Recommend Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-For the purposes of sending notifications to parents, school staff, students and administrators, we receive the following PII from the school’s SIS system. Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
+![Easiest Admin Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-PII data collected: First name, last name, email address, phone number, password and gender.
+![Leader Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Other data collected: Language, country, grades
+![Momentum Leader Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+![Users Love Us Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Users logging into the platform are responsible for any third-party Personal Data obtained, published or shared through the platform and confirm that they have the third party's consent to provide the Data to the Owner.
+![Document icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MSIgaGVpZ2h0PSIxMDMiIHZpZXdCb3g9IjAgMCA5MSAxMDMiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
 
-SchoolNow outsources some development of our software to a trusted third party for the purpose of processing the contact information coming from a school’s SIS and normalizing it into our system for email, text and voice communications. In this case, we have a signed Non-Disclosure Agreement in place that includes our expectations of data handling, security and privacy.
+Ready to explore the platform for yourself?
+-------------------------------------------
 
-SchoolNow allows end-users to change, at any time, email addresses and phone numbers that have been synchronized to us from the school. To change this personal information, log into the parent portal, review the information, and make the appropriate changes. This will result in an automatic notice sent to the school asking them to update the information in their SIS, Active Directory or system that is synchronizing data to us so that the proper contact information is correctly sent to us during the next synchronization.
+[Request a Demo](https://www.schoolstatus.com/request-a-demo "Request a Demo")
 
-### Mode and place of processing the Data
+[![Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.schoolstatus.com/)
 
-#### Methods of processing
+Want Updates?
+-------------
 
-The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+Stay connected with news, articles, and tips delivered to your inbox.
 
-The Data processing is carried out using computers and/or IT-enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+### Stay in the Loop
 
-If SchoolNow becomes aware of a systems security breach by an unauthorized party or that any user data was used for an unauthorized purpose, we will comply with relevant state and other data breach laws. We will notify users of any breach resulting in unauthorized release of data electronically, at minimum, and without unreasonable delay so that you can take appropriate steps. The notification will include: date of the breach, the types of information that were subject to the breach, general description of what occurred, and steps SchoolNow is taking to address the breach.
+[](https://www.facebook.com/SchoolStatus/)[](https://www.linkedin.com/company/schoolstatus/)[](https://www.youtube.com/channel/UC4eeYA6et0OkDIcyLmdybMA)[](https://twitter.com/SchoolStatusApp)
 
-#### Legal basis of processing
+Solutions
+---------
 
-The Owner may process Personal Data relating to Users if one of the following applies:
+* [How it Works](https://www.schoolstatus.com/solutions)
+* [Meaningful Engagement](https://www.schoolstatus.com/solutions/meaningful-engagement)
+* [Improved Attendance](https://www.schoolstatus.com/solutions/improved-attendance)
+* [Actionable Insights](https://www.schoolstatus.com/solutions/actionable-insights)
+* [Educator Effectiveness](https://www.schoolstatus.com/solutions/educator-effectiveness)
+* [Operational Efficiency](https://www.schoolstatus.com/solutions/operational-efficiency)
 
-* Users have given their consent for one or more specific purposes. Note: Under some legislations, the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
-* provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
-* processing is necessary for compliance with a legal obligation to which the Owner is subject;
-* processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
-* processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+Who It’s For
+------------
 
-In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+* [Superintendents](https://www.schoolstatus.com/who-its-for/superintendents)
+* [District Leaders](https://www.schoolstatus.com/who-its-for/district-leaders)
+* [School Leaders](https://www.schoolstatus.com/who-its-for/school-leaders)
+* [Educators & Staff](https://www.schoolstatus.com/who-its-for/educators-staff)
+* [Families](https://www.schoolstatus.com/who-its-for/families)
 
-#### Requests to Review, Change or Remove Personal Data
+Products
+--------
 
-Data is synchronized one-way from the school to SchoolNow in order for us to provide notifications services. Any party seeking access to their personal information stored by SchoolNow can make a request to the school sharing the data. 
-
-SchoolNow allows end-users to change, at any time, email addresses and phone numbers that have been synchronized to us from the school. To change this personal information, log into the parent portal, review the information, and make the appropriate changes. This will result in an automatic notice sent to the school asking them to update the information in their SIS, Active Directory or system that is synchronizing data to us so that the proper contact information is correctly sent to us during the next synchronization.
-
-Student information may be visible during Customer Support and/or troubleshooting. Personally identifiable information such as Student Name, Student Email Address, login dates and times could be viewed by SchoolNow Product Support Staff.
-
-Educators can delete an account at your request by contacting them directly. When they delete your account, that information will not sync over during the next synchronization process, and the data in SchoolNow will be deleted. Please note that some content may not be deleted given various compliance and recordkeeping obligations schools have. Please contact your (or your child’s) school if you would like this content deleted. 
-
-Below are some general user rights specified in the SchoolNow Privacy Policy:
-
-The rights of Users
-
-* Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
-* Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
-* Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
-* Restrict the processing of their Data. Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
-* Have their Personal Data deleted or otherwise removed. Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
-
-#### Place
-
-The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
-
-Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
-
-Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
-
-If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
-
-#### Retention time
-
-Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
-
-Therefore:
-
-* Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
-* Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
-
-NOTE: The Owner may be obliged to retain Personal Data for a longer period whenever required upon order of an authority.
-
-Once the retention period expires, Personal Data shall be deleted [according to our data storage and retention policy](https://www.campussuite.com/data-storage-retention). Therefore, the right to access, the right to erasure, the right to rectification, and the right to data portability cannot be enforced after expiration of the retention period.
-
-#### The purposes of processing
-
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Access to third-party accounts and Analytics.
-
-For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
-
-### Third-Party Subprocessors
-
-It's important to us that we keep your information safe and secure. In order to help us provide, maintain, protect and improve our products and services, SchoolNow shares information with other partners, vendors and trusted organizations to process it on our behalf in accordance with our instructions, Privacy Policy, and any other appropriate confidentiality, security or other requirements we deem appropriate.  These companies will only have access to the information they need to provide the SchoolNow service.
-
-You can find information on these partners and subprocessors we work with below, including what data we share with them or they provide to us, the service they provide for SchoolNow, and links to their respective privacy policies. We’ll make changes to this list as necessary.
-
-**Amazon Web Services®** powers the SchoolNow platform and provides a secure, scalable, and always accessible environment. Information collected: 
-
-* Network and connection information, such as the Internet protocol (IP) address used to connect your computer or other devices to the Internet and information about your Internet service provider; 
-* Computer and device information, such as device, application, or browser type and version, browser plug-in type and version, operating system, or time zone setting; 
-* The location of your device or computer;
-
-  
-Amazon Privacy Policy: [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)
-
-**Appnitro Software MachForm** used to create web customized forms that are embedded in your website pages. 
-
-Information shared: Form Data. Stores form data (questions and responses) created by customers for the purpose of retrieval later.
-
-MachForm Privacy Policy: [https://www.machform.com/privacy-policy/](https://www.machform.com/privacy-policy/)
-
-**Hubspot** tracks product users to understand how they are using SchoolNow and allows us to provide relevant help tools, tips, etc.  
-Information collected: IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.) If you subscribe to our blog, sign up for a webinar, or request customer support, we also collect personal information such as your name, e-mail address, company name, address, phone number.  
-  
-Hubspot Privacy Policy: [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy?__hstc=233546881.85b5ae653a82c304731b6df8ebe9f19d.1672755157117.1678373856023.1678377047947.55&__hssc=233546881.21.1678377047947&__hsfp=2164298326)
-
-**Chameleon** is used to help show more targeted and relevant content, and to assess which users engaged with in-product tours.
-
-Information collected: Chameleon does not collect any personal data of end users by default. When the Chameleon code snippet is loaded on a customer's software page, the only data Chameleon obtains by default is ‘user agent’  and ‘URL’. 
-
-Chameleon Privacy Policy: [https://www.chameleon.io/privacy](https://www.chameleon.io/privacy)
-
-**Google Analytics and Forms** help our school customers understand how visitors interact with their website hosted with us. This snippet is obtained from the customer and installed on their behalf.
-
-Information collected: Customers who create a Google account provide them with personal information that includes name, email and password. The tracking snippet customers provide us collects browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, application version number, apps, browsers, and devices, including IP address, crash reports, system activity, and the date, time, and referrer URL of each request.
-
-Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-### Facebook and Twitter permissions asked for by this Application
-
-When a “User” (typically the IT director at a school, but sometimes a principal or superintendent) chooses to connect the social media manager to the school's Facebook page or Twitter profile, this Application asks for some permissions allowing it to perform actions on the User's behalf. For example, posting something to the school’s Facebook page or Twitter wall. When making this connection, certain information is shared with us enabling the SchoolNow website to post and share information to the chosen social networks. 
-
-The social media manager is not available to all website users, and only a school-approved administrator(s) who already has access to post to the school's social networks. It is only this user authorizing the connection whose data is being shared.
-
-The permissions asked are the following:
-
-#### Basic information
-
-By default, this includes the User’s Data such as id, name, email address, picture and locale. If the User has made more of their Data public within the privacy settings of their social network, more information may be available.
-
-#### Access Page CTA
-
-Provides the access to manage call to actions on User-managed Pages.
-
-#### App Notifications
-
-Send notifications to the social network on the users behalf.
-
-#### Business Management API
-
-Read and write with Business Management API.
-
-#### Contact email
-
-Access the User's contact email address.
-
-#### Create Events
-
-Enables the application to create and modify events on the User's behalf.
-
-### Detailed information on the processing of Personal Data
-
-Personal Data of the user authorizing the social network connection is collected for the following purposes and using the following services:
-
-#### Access to third-party accounts
-
-This type of service allows this Application to access Data from your account on a third-party service and perform actions with it. These services are not activated automatically, but require explicit authorization by the User.
-
-#### Facebook account access (Facebook, Inc.)
-
-This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
-
-Permissions asked: Access Page CTA; Access private data; Contact email; Create Events; Current City; Events; Manage Notifications; Manage Pages, News Feed and Wall, Publish as Page.
-
-Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0).
-
-#### Google Drive account access (Google LLC)
-
-This service allows this Application to connect with the User's account on Google Drive, provided by Google LLC.
-
-Permissions asked: Access to files for sharing to the website.
-
-Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
-
-#### Twitter account access (Twitter, Inc.)
-
-This service allows this Application to connect with the User's account on the Twitter social network, provided by Twitter, Inc.
-
-When you view Twitter content or Twitter products integrated into other websites using Twitter for Websites, Twitter may receive information including the web page you visited, your IP address, browser type, operating system, and cookie information. 
-
-[Read more detail about the Twitter API and how we use it by clicking here](https://developer.twitter.com/en/developer-terms/policy/privacy-and-control-are-key).
-
-### Analytics
-
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-
-#### Google Analytics (Google Inc.)
-
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
-
-Data processed: Cookies; Usage Data.
-
-To protect user privacy, Google policies mandate that no data be passed to Google that Google could use or recognize as personally identifiable information (PII). [Read more detail about PII and Google Analytics by clicking here](https://policies.google.com/privacy).
-
-### The rights of Users
-
-Users may exercise certain rights regarding their Data processed by the Owner.
-
-In particular, Users have the right to do the following:
-
-* Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
-* Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
-* Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
-* Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
-* Restrict the processing of their Data. Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
-* Have their Personal Data deleted or otherwise removed. Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
-* Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine-readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of, or on pre-contractual obligations thereof.
-* Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.  
-      
-    
-
-### How to exercise these rights
-
-Any requests to exercise User rights can be directed to the Owner through the contact details provided at the bottom of this policy. These requests can be exercised free of charge and will be addressed by both the school and the Owner as early as possible and always within one month.
-
-### Additional information about Data collection and processing
-
-####   
-Legal action
-
-The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services. The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
-
-#### Additional information about User's Personal Data
-
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services.
-
-#### System logs and maintenance
-
-For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) and use other Personal Data (such as the IP Address) for this purpose.
-
-#### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
-
-#### How “Do Not Track” requests are handled
-
-This Application does not support “Do Not Track” requests. To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
-
-#### Changes to this privacy policy
-
-Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or – as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. 
-
-We will not reduce your rights under this Privacy Policy without your explicit consent. If we make any significant changes, we'll provide prominent notice by posting a notice on the Service or the Campus Suite Website and/or notifying you by email (using the email address you provided), so you can review and make sure you know about them.
-
-We encourage you to review this Privacy Policy from time to time taking note of the revision date listed at the bottom of this page, to stay informed about the collection, use, and disclosure of personal information through the Service and SchoolNow app. If you don't agree with any changes to the Privacy Policy, you may terminate your account. By continuing to use the Service or SchoolNow after the revised Privacy Policy has become effective, you acknowledge that you accept and agree to the current version of the Privacy Policy.
-
-Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
-
-#### Change of Control
-
-Over time, SchoolNow may grow or reorganize. We may share your information, including personal information, with third parties, including but not limited to affiliates such as a parent company, subsidiaries, joint venture partners or other companies that we control or that are under common control with us, in the event of a merger, acquisition, sale of any of our assets, restructuring, or in the unlikely event of a bankruptcy.
-
-### Definitions and legal references
-
-Personal Data (or Data)
-
-Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
-
-#### Usage Data
-
-Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
-
-#### User
-
-The individual using this Application who, unless otherwise specified, coincides with the Data Subject.
-
-#### Data Subject
-
-The natural person to whom the Personal Data refers.
-
-#### Data Processor (or Data Supervisor)
-
-The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
-
-#### Data Controller (or Owner)
-
-The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-#### This Application
-
-The means by which the Personal Data of the User is collected and processed.
-
-#### Service
-
-The service provided by this Application as described in the relative terms (if available) and on this site/application.
-
-#### European Union (or EU)
-
-Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
-
-#### Cookie
-
-Cookies are Trackers consisting of small sets of data stored in the User's browser.
-
-#### Tracker
-
-Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
-
-### Legal information
-
-This Privacy statement has been prepared based on provisions of multiple legislations, including GDPR and FERPA, 20 U.S.C. Section 1232g and relates solely to this application, if not stated otherwise within this document.
-
-This policy can be printed for reference by using the print command in the settings of any browser. If you have questions or concerns about this Privacy Policy or our collection, use, or disclosure of your personal information, please contact us in one of the following ways:
-
-Owner and Data Controller
-
-Innersync Studio, Ltd. (dba SchoolNow™)  
-752 Dunwoodie Dr.  
-Cincinnati, OH 45230  
-[Owner contact email](mailto:helpdesk@schoolnow.com)
-
-Relevant Documents
-
-* [Terms and Conditions](https://www.campussuite.com/app-terms)
-* [Data Storage and Retention Policy](https://www.campussuite.com/data-storage-retention)  
-
-Contact SchoolNow
-
-Get a personalized demo.
-
-If you want to see SchoolNow in action or just want to learn more, let us know.
-
-[Schedule a demo](https://content.schoolnow.com/schedule-a-schoolnow-school-communication-platform-demo)
-
-[Speak to a specialist](https://www.schoolnow.com/contact)
-
-![Request demo for school website, notifications and school mobile app](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/Frame%20523-2.jpg "Request demo for school website, notifications and school mobile app")
-
-[![SchoolNow-logo](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/SchoolNow-logo.svg "SchoolNow-logo")](https://www.campussuite.com/)
-
-Communication
-
-* [Websites](https://www.schoolnow.com/school-websites)
-* [Messages](https://www.schoolnow.com/notifications)
-* [Mobile app](https://www.schoolnow.com/school-mobile-app)
-* [Social media](https://www.schoolnow.com/social-media-manager)
-* [Feature list](https://www.schoolnow.com/plans)
-
-Services
-
-* [Digital branding](https://www.schoolnow.com/branding)
-* [Website Design](https://www.schoolnow.com/design)
-* [Compliance](https://www.schoolnow.com/accessibility)
-* [Customers](https://www.schoolnow.com/customers)
+* [Product Overview](https://www.schoolstatus.com/products-old)
+* [SchoolStatus Connect](https://www.schoolstatus.com/products/connect)
+* [SchoolStatus Attend](https://www.schoolstatus.com/products/attend)
+* [SchoolStatus Boost](https://www.schoolstatus.com/products/boost)
+* [SchoolStatus Forms & Flows](https://www.schoolstatus.com/products/forms-and-flows)
+* [SchoolStatus Sites & Apps](https://www.schoolstatus.com/products/sites-and-apps)
 
 Company
+-------
 
-* [About us](https://www.schoolnow.com/company)
-* [Careers](javascript:void(0);)
-* [Partner program](https://www.schoolnow.com/partner-program)
-* [Contact us](https://www.schoolnow.com/contact)
+* [About SchoolStatus](https://www.schoolstatus.com/about)
+* [Careers](https://www.schoolstatus.com/careers)
+* [News & Press](https://www.schoolstatus.com/news-press)
+* [Contact](https://www.schoolstatus.com/contact)
 
 Resources
+---------
 
-* [Blog](javascript:void(0);)
-* [Guides and videos](https://www.schoolnow.com/resources)
-* [Case studies](https://www.schoolnow.com/case-studies)
-* [Website Accessibility](https://www.schoolnow.com/accessibility)
-* [Log in](https://app.campussuite.com/_instances/)
-* [Customer Support](https://www.campussuite.com/support)
+* [Resource Library](https://www.schoolstatus.com/resource-library)
+* [Blog](https://www.schoolstatus.com/blog)
+* [Case Studies](https://www.schoolstatus.com/resource-library/case-studies)
+* [eBooks & Whitepapers](https://www.schoolstatus.com/resource-library/ebooks-and-whitepapers)
+* [Webinars](https://www.schoolstatus.com/resource-library/webinars)
+* [Help Center](https://www.schoolstatus.com/schoolstatus-help-center)
+* [Customer Support](https://www.schoolstatus.com/customer-support)
 
-### Follow Us on
+* [Website Terms of Use](https://www.schoolstatus.com/website-terms-of-use)
+* [Privacy Policy](https://www.schoolstatus.com/privacy-policy)
+* [Accessibility](https://www.schoolstatus.com/accessibility)
+* [Sitemap](https://www.schoolstatus.com/sitemap)
 
-* [![SchoolNow on Twitter](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/x-icon.png)](https://twitter.com/goschoolnow)
-* [![SchoolNow on Facebook](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/facebook-icon.png)](https://www.facebook.com/getschoolnow/)
-* [![SchoolNow on LinkedIn](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/linkedin-icon.png)](https://www.linkedin.com/company/schoolnow/)
-* [![SchoolNow on YouTube](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/youtube-icon.png)](https://www.youtube.com/@schoolnow)
-* [![SchoolNow on Instagram](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/instagram-icon.png)](https://www.instagram.com/schoolnowapp/)
-* [![SchoolNow on Soundcloud](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/soundcloud-icon.png)](https://soundcloud.com/schoolnow)
-
-© 2023 SchoolNow. All Rights Reserved.
-
-* [Privacy policy](https://staging-schoolnow-com.sandbox.hs-sites.com/privacy-policy)
-* [Website accessibility](https://staging-schoolnow-com.sandbox.hs-sites.com/accessibility)
-* [Terms and conditions](https://staging-schoolnow-com.sandbox.hs-sites.com/campus-suite-terms-conditions)
+© 2024 SchoolStatus. All rights reserved
