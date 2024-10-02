@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
 
 Service Stiftung Warentest
 
