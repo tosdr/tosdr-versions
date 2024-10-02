@@ -278,9 +278,9 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-iPhone 15 Pro Max on us with new line. No trade-in req’d. Online Only. Ends Monday. | [Buy now.](https://www.verizonwireless.com/smartphones/apple-iphone-15-pro-max/) Or get up to $540 when you [bring your own phone.](https://www.verizonwireless.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
+iPhone 16 Pro. Get it on us. | [Buy now.](https://www.verizonwireless.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone.](https://www.verizonwireless.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
 
-iPhone: $1,099.99 (256 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus plan (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $1,099.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
+iPhone: $999.99 (128 GB only) purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req’d. Less $1,000 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Smartphone trade-in must be from Apple, Google or Samsung; trade-in terms apply.  
   
 Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus and Unlimited Welcome or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers.
 
