@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://www.theepochtimes.com/us/speaker-johnson-congress-already-provided-funds-for-helene-response-5733889)
+* [Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733233-AP24274608835042.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-congress-already-provided-funds-for-helene-response-5733889)
-* [3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://www.theepochtimes.com/world/3-swedes-arrested-after-explosions-near-israeli-embassy-in-denmark-5733929)
+    ![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734224-GettyImages-2175443146-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
+* [New York City Mayor Could Face More Charges, Prosecutors Say](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
     
-    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733927-2024-10-02T061414Z_1_LYNXMPEK9105R_RTROPTP_4_DENMARK-BLAST-ISRAEL-1-205x123.jpg.webp)](https://www.theepochtimes.com/world/3-swedes-arrested-after-explosions-near-israeli-embassy-in-denmark-5733929)
-* [What We Know About Iran’s Missile Attack on Israel](https://www.theepochtimes.com/world/what-we-know-about-irans-missile-attack-on-israel-5733780)
+    ![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731603-NYC_Mayor_Investigations_24271606106076-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
+* [In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
     
-    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![What We Know About Iran’s Missile Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What We Know About Iran’s Missile Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733849-Israel-Iran-Missile5.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-we-know-about-irans-missile-attack-on-israel-5733780)
-* [How Israel Defended Itself Against Iran’s Missile Attacks](https://www.theepochtimes.com/world/how-israel-defended-itself-against-irans-missile-attacks-5733776)
+    ![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733634-NC-voters-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
+* [Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![How Israel Defended Itself Against Iran’s Missile Attacks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How Israel Defended Itself Against Iran’s Missile Attacks](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733848-GettyImages-1254495486.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/how-israel-defended-itself-against-irans-missile-attacks-5733776)
-* [Vance, Walz Focus on Policy in Vice Presidential Debate](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
+    ![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734152-GettyImages-1975562456-205x123.jpg.webp)](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
+* [Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
     
-    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733850-Walz-Vance-GettyImages-2175340178.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
-* [Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
+    ![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5717123-GettyImages-1583882702-LSeditKOKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
+* [EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://www.theepochtimes.com/business/eu-targets-algorithms-of-youtube-tiktok-snapchat-amid-harmful-content-concerns-5734054)
     
-    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733981-Gavin-Newsom-11_JF_09252024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
-* [Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
+    ![EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/eu-targets-algorithms-of-youtube-tiktok-snapchat-amid-harmful-content-concerns-5734054)
+* [Bank of America Customers Report Widespread Outage](https://www.theepochtimes.com/business/bank-of-america-customers-report-widespread-outage-5734159)
     
-    7hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bank of America Customers Report Widespread Outage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733877-harris-africa-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
-* [In Helene-Hit North Carolina Counties, Politics Are On Pause](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
+    ![Bank of America Customers Report Widespread Outage](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734230-ATM-San-Francisco.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/bank-of-america-customers-report-widespread-outage-5734159)
+* [FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://www.theepochtimes.com/us/fema-other-agencies-readying-for-multi-year-helene-recovery-5733439)
     
-    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733161-AP24274608835042-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
-* [5 Takeaways From the Vance-Walz Vice Presidential Debate](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
+    ![FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733923-GettyImages-2175137908-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-other-agencies-readying-for-multi-year-helene-recovery-5733439)
+* [Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://www.theepochtimes.com/us/texas-city-of-abilene-stops-adding-fluoride-to-drinking-water-5734110)
     
-    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733853-GettyImages-2175345121-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
-* [Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
+    ![Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686207-GettyImages-1519932122-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-city-of-abilene-stops-adding-fluoride-to-drinking-water-5734110)
+* [Israel Bans UN Chief From Entering Country](https://www.theepochtimes.com/world/israel-bans-un-chief-from-entering-country-5733945)
     
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Bans UN Chief From Entering Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733847-Vlaming_25.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
+    ![Israel Bans UN Chief From Entering Country](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734146-2.downloadKO-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-bans-un-chief-from-entering-country-5733945)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
