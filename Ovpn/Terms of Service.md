@@ -411,7 +411,7 @@ OVPN
 
 Policy
 
-[Terms of service](https://www.ovpn.com/en/tos "Terms of service") [Privacy policy](https://www.ovpn.com/en/privacy-policy "Privacy policy") [Cookie policy](https://www.ovpn.com/en/cookie-policy "Cookie policy") [Transparency](https://www.ovpn.com/en/transparency "Transparency")
+[Terms of service](https://www.ovpn.com/en/tos "Terms of service") [Privacy policy](https://www.ovpn.com/en/privacy-policy "Privacy policy") [Cookie policy](https://www.ovpn.com/en/cookie-policy "Cookie policy") [Cookie preferences](javascript:void(0);) [Transparency](https://www.ovpn.com/en/transparency "Transparency")
 
 Guides
 
