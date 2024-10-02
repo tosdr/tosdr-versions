@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Half Ton Man](/wp-content/thumbnails/1453-100x70.jpg?x53432)
+* [![Who Will Save the Euro?](/wp-content/thumbnails/6074-100x70.jpg?x53432)
     
-    Half Ton Man
+    Who Will Save the Euro?
     
-    Weighing the same as five baby elephants and a shade less than a Mini Cooper, Patrick Deuel is one of the heaviest men ever and a medical miracle. His heart and other organs should have collapsed long](https://documentaryheaven.com/half-ton-man/ "Half Ton Man")
-* [![Michael Jackson: The Making Of Thriller](/wp-content/thumbnails/7608-100x70.jpg?x53432)
+    It is not just the banks that are in danger of going under. It is entire economies. They are the ones in need of emergency cash to stay afloat. For some time we have been saying that Europe's financia](https://documentaryheaven.com/who-will-save-the-euro/ "Who Will Save the Euro?")
+* [![Zero Days](/wp-content/thumbnails/10082-100x70.jpg?x53432)
     
-    Michael Jackson: The Making Of Thriller
+    Zero Days
     
-    Michael Jackson's Thriller is an American 13-minute music video for the song of the same name released on December 2, 1983. It was directed by John Landis, who also co-wrote the sc](https://documentaryheaven.com/michael-jackson-making-thriller/ "Michael Jackson: The Making Of Thriller")
-* [![No Laughing Matter: Inside the Bill Cosby Allegations](/wp-content/thumbnails/10545-100x70.jpg?x53432)
+    While we all quietly surf around on the internet an elite of the smartest hackers scan it day and night looking for undetected safety leaks. They convert these secret leaks as if by magic into buildin](https://documentaryheaven.com/zero-days/ "Zero Days")
+* [![The Gulf War of 1991](/wp-content/thumbnails/8660-100x70.jpg?x53432)
     
-    No Laughing Matter: Inside the Bill Cosby Allegations
+    The Gulf War of 1991
     
-    In the fall 2014, Bill Cosby was re-staking his claim as an A-list celebrity at the age of 77, he was staring right into the eyes of a career rejuvenation and 30 years after his NBC blockbuster series](https://documentaryheaven.com/no-laughing-matter/ "No Laughing Matter: Inside the Bill Cosby Allegations")
-* [![The Gatekeepers](/wp-content/thumbnails/12130-100x70.jpg?x53432)
+    February 24th 1991, American tanks roll across the Saudi Arabian desert towards the Iraq border, their part of a multinational force with a clear and simple mission, to drive Saddam Hussein's Iraqi ar](https://documentaryheaven.com/gulf-war-of-1991/ "The Gulf War of 1991")
+* [![Americas Book of Secrets: The White House](/wp-content/thumbnails/8295-100x70.jpg?x53432)
     
-    The Gatekeepers
+    Americas Book of Secrets: The White House
     
-    Directed by Dror Morech and originally released in 2012 The Gatekeepers is a film which sets out to tell the story of the Israeli internal security service, Shin Bet or known in Hebrew as 'S](https://documentaryheaven.com/gatekeepers/ "The Gatekeepers")
-* [![Human All Too Human: Jean-Paul Sartre](/wp-content/thumbnails/4516-100x70.jpg?x53432)
+    It is home to the most powerful person in the world, it is a center of global military power and it is one of the most heavily protected fortresses ever built, but behind the classic columns and lush](https://documentaryheaven.com/americas-book-secrets-white-house/ "Americas Book of Secrets: The White House")
+* [![How Terri-Lynne McClintic Became a Killer](/wp-content/thumbnails/7084-100x70.jpg?x53432)
     
-    Human All Too Human: Jean-Paul Sartre
+    How Terri-Lynne McClintic Became a Killer
     
-    Human, All Too Human is a three-part 1999 documentary television series produced by the BBC. It follows the lives of three prominent philosophers; Friedrich Nietzsche, Martin Heidegger, and Jean-Paul](https://documentaryheaven.com/human-all-too-human-jean-paul-sartre/ "Human All Too Human: Jean-Paul Sartre")
+    It was one of the most heinous crimes – the abduction, rape and murder of eight year old Victoria Elizabeth Stafford.Michael Rafferty and Terri-Lynne McClintic both found guilty on all counts, now](https://documentaryheaven.com/how-terri-lynne-mcclintic-became-a-killer/ "How Terri-Lynne McClintic Became a Killer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
