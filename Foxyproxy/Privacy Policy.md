@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have to say I am impressed by your flexibility and helpfulness.
+Hi there ..Thanks for your service - it was great!!!!!!!!!! I will came back next month.
 
-Tony Dunbar
+Carlos
