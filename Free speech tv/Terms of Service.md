@@ -155,7 +155,7 @@ These terms and conditions are governed by and construed in accordance with the 
 
 Help Close the Gap
 
-Thank you for standing with FSTV at this critical moment. Every dollar you give today keeps fearless, independent news on the air as we head into the most pivotal 36 days of the election season.  
+Every dollar you give today keeps fearless, independent news on the air as we head into the most pivotal final days of the election season. Thank you for standing with FSTV at this critical moment. Donate now to help close the gap before it’s too late.  
 **[Donate Now!](https://freespeech.org/donate-all/?utm_source=popup)**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20645%2097'%3E%3C/svg%3E)
