@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Who won the VP debate? Here's what polls say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175348166.jpg?ve=1&tl=1)
+ [![Denton massage business linked to sex trafficking, officials say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/04/32/18/69a20774-cda82051-df085967-police-lights-day.jpg?ve=1&tl=1)
 
- ![Who won the VP debate? Here's what polls say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175348166.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/who-won-vp-debate-what-polls-say)
+ ![Denton massage business linked to sex trafficking, officials say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/04/32/18/592/333/69a20774-cda82051-df085967-police-lights-day.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/denton-massage-business-linked-sex-trafficking-officials-say)
 
-### [Who won the VP debate? Here's what polls say](https://www.fox4news.com/news/who-won-vp-debate-what-polls-say)
+### [Denton massage business linked to sex trafficking, officials say](https://www.fox4news.com/news/denton-massage-business-linked-sex-trafficking-officials-say)
 
- [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/Eddie-Lacy-Getty-mugshot-scaled.jpg?ve=1&tl=1)
+ [![Joshua the goat escapes pumpkin patch to join town's half-marathon](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/joshua-half-marathon-ii.jpg?ve=1&tl=1)
 
- ![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/Eddie-Lacy-Getty-mugshot-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
+ ![Joshua the goat escapes pumpkin patch to join town's half-marathon](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/joshua-half-marathon-ii.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/joshua-goat-escapes-joins-half-marathon)
 
-### [Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
+### [Joshua the goat escapes pumpkin patch to join town's half-marathon](https://www.fox4news.com/news/joshua-goat-escapes-joins-half-marathon)
 
- [![Rowlett's only early voting location in jeopardy over safety concerns](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/8397TZ-ROWLETT-EARLY-VOTING-SITE_00.00.20.52.jpg?ve=1&tl=1)
+ [![Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-wedding-cleared.jpg?ve=1&tl=1)
 
- ![Rowlett's only early voting location in jeopardy over safety concerns](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/8397TZ-ROWLETT-EARLY-VOTING-SITE_00.00.20.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/rowlett-early-voting-location-safety-concerns-election-2024)
+ ![Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-wedding-cleared.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-wedding-dad-treks-miles-walk-daughter-down-aisle)
 
-### [Rowlett's only early voting location in jeopardy over safety concerns](https://www.fox4news.com/election/rowlett-early-voting-location-safety-concerns-election-2024)
+### [Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://www.fox4news.com/news/hurricane-helene-wedding-dad-treks-miles-walk-daughter-down-aisle)
 
- [![Top US states where you're most likely to discover gold today](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-113280193.jpg?ve=1&tl=1)
+ [![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance-debate.jpg?ve=1&tl=1)
 
- ![Top US states where you're most likely to discover gold today](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-113280193.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/top-states-for-gold-discovery)
+ ![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance-debate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
 
-### [Top US states where you're most likely to discover gold today](https://www.fox4news.com/news/top-states-for-gold-discovery)
+### [Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
 
- [![Woman shot man in alleged road rage incident; police investigating possible self-defense](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1)
+ [![Dak Prescott appears in trailer for new ‘Venom’ movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dak-prescott-venom-commercial_mp4_00.00.21.06.jpg?ve=1&tl=1)
 
- ![Woman shot man in alleged road rage incident; police investigating possible self-defense](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
+ ![Dak Prescott appears in trailer for new ‘Venom’ movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dak-prescott-venom-commercial_mp4_00.00.21.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dak-prescott-venom-movie-trailer)
 
-### [Woman shot man in alleged road rage incident; police investigating possible self-defense](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
+### [Dak Prescott appears in trailer for new ‘Venom’ movie](https://www.fox4news.com/news/dak-prescott-venom-movie-trailer)
 
 ###### [News](https://www.fox4news.com/news)
 
