@@ -18,7 +18,7 @@ Core solutions
 
 Advanced capabilities
 
-[Cloud Infrastructure Entitlement Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/cloud-infrastructure-entitlement-management)
+[SailPoint CIEMに関して](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/cloud-infrastructure-entitlement-management)
 
 [Non-Employee Risk Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/non-employee-risk-management)
 
@@ -196,7 +196,7 @@ Software based identity security](https://www.sailpoint.com/products/identity-se
 
 Advanced capabilities
 
-[Cloud Infrastructure Entitlement Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/cloud-infrastructure-entitlement-management)[Non-Employee Risk Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/non-employee-risk-management)[Data Access Security](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/data-access-security)[Password Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/password-management)[Access Risk Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/access-risk-management)
+[SailPoint CIEMに関して](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/cloud-infrastructure-entitlement-management)[Non-Employee Risk Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/non-employee-risk-management)[Data Access Security](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/data-access-security)[Password Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/password-management)[Access Risk Management](https://www.sailpoint.com/products/identity-security-cloud/atlas/add-ons/access-risk-management)
 
 Connectivity & Integrations
 
