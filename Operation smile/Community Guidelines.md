@@ -14,13 +14,13 @@
     
             ![](/wp-content/uploads/2024/08/COL_2019_Bogota_1861_Laura_After_Photo_014-2057x1371-8bddb7e-aspect-ratio-600-450-1.webp)
     
-    [Read Laura's Story](https://operationsmile.org/story/lauras-lifelong-journey-of-care/)
+    [Read Laura's Story](https://www.operationsmile.org/story/lauras-lifelong-journey-of-care/)
     
 * Global Health Equity
     
     We are transforming communities through education, empowerment and collaboration.
     
-    [Explore Global Initiatives](https://operationsmile.org/global-health-equity/)
+    [Explore Global Initiatives](https://www.operationsmile.org/global-health-equity/)
     
     * [Where We Work](https://www.operationsmile.org/global-health-equity/where-we-work/) Explore the countries and regions we work in.
     * [Health Workforce Strengthening](https://www.operationsmile.org/global-health-equity/health-workforce-strengthening/) Read how we're educating health care providers.
@@ -39,7 +39,7 @@
     * [Student Programs](https://www.operationsmile.org/make-an-impact/student-programs/) Join our global community of students.
     
     * [Advocate for Us](https://www.operationsmile.org/make-an-impact/advocate-for-us/) Spread the word about us.
-    * [Partner With Us](https://www.operationsmile.org/make-an-impact/partner-with-us/) Become a corporate partner.
+    * [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/) Become a corporate partner.
     
 * About Us
     
@@ -58,9 +58,9 @@
 * [Donate Now](https://www.operationsmile.org/code-conduct?form=FUNZKBCNZQY)
 
 * [Cleft Explained](https://www.operationsmile.org/transformational-care/cleft-explained/)
-* [En Español](https://www.operationsmile.org/)
-* [Smile Shop](https://www.operationsmile.org/)
-* [Partner With Us](https://www.operationsmile.org/make-an-impact/partner-with-us/)
+* [En Español](https://espanol.operationsmile.org/)
+* [Smile Shop](https://operationsmile.brandfuel.org/)
+* [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/)
 
 [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)
 
@@ -75,7 +75,7 @@
     
     We are transforming communities through education, empowerment and collaboration.
     
-    [Explore Global Initiatives](https://operationsmile.org/global-health-equity/)
+    [Explore Global Initiatives](https://www.operationsmile.org/global-health-equity/)
     
     * [Where We Work](https://www.operationsmile.org/global-health-equity/where-we-work/)
     * [Health Workforce Strengthening](https://www.operationsmile.org/global-health-equity/health-workforce-strengthening/)
@@ -91,7 +91,7 @@
     * [Share Your Medical Expertise](https://www.operationsmile.org/make-an-impact/share-your-medical-expertise/)
     * [Student Programs](https://www.operationsmile.org/make-an-impact/student-programs/)
     * [Advocate for Us](https://www.operationsmile.org/make-an-impact/advocate-for-us/)
-    * [Partner With Us](https://www.operationsmile.org/make-an-impact/partner-with-us/)
+    * [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/)
 * About Us
     
     Since our founding in 1982, Operation Smile has believed that access to safe surgery is not a privilege, but a universal human right.
@@ -105,9 +105,9 @@
     * [Careers](https://www.operationsmile.org/about-us/careers/)
 
 * [Cleft Explained](https://www.operationsmile.org/transformational-care/cleft-explained/)
-* [En Español](https://www.operationsmile.org/)
-* [Smile Shop](https://www.operationsmile.org/)
-* [Partner With Us](https://www.operationsmile.org/make-an-impact/partner-with-us/)
+* [En Español](https://espanol.operationsmile.org/)
+* [Smile Shop](https://operationsmile.brandfuel.org/)
+* [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/)
 
 Donate
 
@@ -330,7 +330,7 @@ Get Involved
 
 You can give children a chance to grow up without life-threatening health problems, social stigma, isolation and feelings of hopelessness.
 
-[More Ways to Get Involved](https://operationsmile.org/make-an-impact/ways-to-give/)
+[More Ways to Get Involved](https://www.operationsmile.org/make-an-impact/ways-to-give/)
 
 ### Make Your Gift
 
@@ -360,7 +360,7 @@ Virginia Beach, VA 23453
 1-888-677-6453  
 +1-757-321-7645
 
-[Contact Us](https://operationsmile.org/contact-us/)
+[Contact Us](https://www.operationsmile.org/contact-us/)
 
 ##### Sign Up for Our Newsletter
 
@@ -368,7 +368,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
