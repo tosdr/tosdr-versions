@@ -119,9 +119,9 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * Popular Games
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
-* [Nuga-Cel!](https://www.spriters-resource.com/playstation_2/nugacel/)
-* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
+* [Puella Magi Madoka M...](https://www.spriters-resource.com/mobile/puellamagimadokamagicasidestorymagiarecord/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
+* [Final Fantasy: Recor...](https://www.spriters-resource.com/mobile/finalfantasyrecordkeeper/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
