@@ -1,6 +1,6 @@
 5.38.15
 
-1727879801842
+1727902004996
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.15.0
 
-1727880343314
+1727902255254
 
-     Next Terms & Conditions | T&C's | Next Official Site                                  
+ Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727880385099
+1727902369227
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,16 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### 15% off on Selected Elemis Promotion
+
+Up to 15% off on selected Elemis products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
 
 ### £5 off when you shop our app
 
@@ -2576,7 +2586,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727880007541
+1727902787943
 
 ### Our Social Networks
 
