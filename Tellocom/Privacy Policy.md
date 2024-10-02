@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=003e1e51ab643f91a5b61997d342fceb)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=0b5788d09a510d9b8e07db8c8604e232)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -44,10 +44,10 @@ Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 Tello Privacy and Cookie Policy
 -------------------------------
 
-Effective Date: July 31, 2023  
+Effective Date: October 1st, 2024  
   
-This privacy policy describes how Tello collects and uses the personal information you provide on the website and app: Tello.com, a service of Miron Enterprises, LLC ("Miron") dba KeepCalling, one of the largest ethnic telecommunication providers in the world based in Atlanta, Georgia.  
-The scope of this Privacy Policy encompasses all services, sites, brands, and applications owned by Miron Enterprises, LLC ("Miron") doing business as KeepCalling, except where explicitly stated otherwise.  
+This privacy policy describes how Tello collects and uses the personal information you provide on the website and app: Tello.com, a service of Tello LLC.  
+The scope of this Privacy Policy encompasses all services, sites, brands, and applications owned by Tello LLC except where explicitly stated otherwise.  
   
 At Tello we care about the privacy of our visitors and we are committed to protecting your private data at all times. This privacy policy describes how Tello collects and uses the personal information, why we collect it and how we use it for our web site: Tello.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
   
@@ -60,7 +60,7 @@ If you have questions or complaints regarding our privacy policy or practices, p
 Personal information we collect
 -------------------------------
 
-The data collected by tello.com is initially managed and processed by the owning company, Miron Enterprises, LLC ("Miron") doing business as KeepCalling. Additionally, any information gathered by the company is further shared with the app developer Miron Enterprises (KeepCalling).  
+The data collected by tello.com is initially managed and processed by the owning company, Tello LLC.  
   
 Personal information means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
   
