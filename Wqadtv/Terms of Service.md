@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_360x203.jpg)](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
+        
+        #### [Speed cameras shut down across Iowa following DOT rulings — Here are the ones that are still active](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
         #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_16x9.jpeg) ![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_360x203.jpeg)](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
-        
-        #### [Frank Fritz, 'American Pickers' star, dies at 60](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-50°
+43°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
