@@ -56,7 +56,7 @@ Solutions
 
 #### Use cases
 
-[ChatGPT Summary](https://tactiq.io/solutions/summarize-meetings-with-chatgpt)
+[ChatGPT Summary](https://tactiq.io/features/summarize-meetings-with-chatgpt)
 
 [Transcribe Zoom](https://tactiq.io/transcribe/zoom)
 
