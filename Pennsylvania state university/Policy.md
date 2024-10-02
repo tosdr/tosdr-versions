@@ -1,49 +1,57 @@
 [Skip to main content](#main-content)
 
-Search  Submit
+[![Home](/themes/custom/policy/assets/logo.svg)](https://www.psu.edu/ "Home")
 
-in: Penn State Policies Penn State Penn State Directory
+[Penn State Policies](https://www.psu.edu/ "Home")
 
-[Penn State University](http://www.psu.edu/ "Directs to Penn State homepage") [Penn State University](http://www.psu.edu/ "Directs to Penn State homepage")
+Start Search
 
-* [Penn State Policies](https://policy.psu.edu/ "Penn State Policies Home")
-    =========================================================================
-    
-* [Menu](#)
+in:Penn State PoliciesPenn StatePenn State Directory
+
+ 
+
+ 
+
+Main navigation
+---------------
 
 * [Home](https://policy.psu.edu/)
 * [About](https://policy.psu.edu/about)
 * [Updates](https://policy.psu.edu/updates)
 * [GURU](https://guru.psu.edu/)
 
-Search the website  Search
+Search for a Policy 
 
-You are here
-------------
+Main navigation
+---------------
 
 * [Home](https://policy.psu.edu/)
-* [Policies and Guidelines](https://policy.psu.edu/policies)
-* [Affirmative Action in Employment at the Pennsylvania State University](#)
+* [About](https://policy.psu.edu/about)
+* [Updates](https://policy.psu.edu/updates)
+* [GURU](https://guru.psu.edu/)
+
+1. [Home](https://policy.psu.edu/)
+2. [All Policies](https://policy.psu.edu/policies)
+3. Affirmative Action in Employment at the Pennsylvania State University
 
 Human Resources Policies
 
 HR11 Affirmative Action in Employment at the Pennsylvania State University
 ==========================================================================
 
-### Policy Status: 
+Policy Status
 
 Active
 
-### Subject Matter Expert: 
+Subject Matter Expert
 
 Suzanne Adair, 814-863-0471, sca917@psu.edu
 
-### Policy Steward: 
+Policy Steward
 
 Vice President for Human Resources
 
 POLICY'S INITIAL DATE: July 25, 1978  
-  
 THIS VERSION EFFECTIVE: June 26, 2023
 
 ### **Contents:**
@@ -55,6 +63,8 @@ THIS VERSION EFFECTIVE: June 26, 2023
 * [Resolution of Complaints](#E)
 * [Affirmative Action Compliance](#F)
 * [Cross Reference](#G)
+
+* * *
 
 ### PURPOSE:
 
@@ -88,27 +98,40 @@ The Affirmative Action Office shall be responsible for preparing guidelines and 
 
 [HR01](https://policy.psu.edu/policies/hr01) - Fair Employment Practices
 
-### Date Approved: 
+* * *
 
-June 26, 2023
+Date Approved
 
-### Date Published: 
+Mon, 06/26/2023 - 12:00
 
-June 26, 2023
+Date Published
 
-### Effective Date: 
+Mon, 06/26/2023 - 12:00
 
-June 26, 2023
+Effective Date
 
-[](http://www.psu.edu/)
+Mon, 06/26/2023 - 12:00
 
-![Penn State University mark](/sites/all/themes/custom/f5_psul/images/ul/psu_mark_footer.png)
+[![Home](/themes/custom/policy/assets/logo.svg)](https://www.psu.edu/ "Home")  
 
-Copyright ©2015 The Pennsylvania State University.  
-All Rights reserved.
+The Pennsylvania State University  
+201 Old Main  
+University Park, PA 16802
 
-[Legal Statements](http://www.psu.edu/ur/legal.html) | [PSU Hotlines](http://www.psu.edu/ur/hotline.html)
+Phone: [1-814-865-4700](tel:18148654700)
 
-* [Contact Us](https://policy.psu.edu/contact-us)
-* [Accessibility](http://www.psu.edu/accessibilitystatement)
-* [Staff Login](https://policy.psu.edu/login)
+* [](https://www.instagram.com/pennstate "Follow us on Instagram")
+* [](https://www.facebook.com/pennstate "Follow us on Facebook")
+* [](https://www.linkedin.com/school/penn-state-university "Follow us on LinkedIn")
+* [](https://www.youtube.com/channel/@pennstate "Follow us on Youtube")
+* [](https://www.tiktok.com/@pennstate "Follow us on TikTok")
+
+* [Hotline](https://universityethics.psu.edu/hotline)
+* [Privacy Statements](https://www.psu.edu/web-privacy-statement)
+* [Non Discrimination](https://policy.psu.edu/policies/ad85)
+* [Accessibility](https://www.psu.edu/accessibilitystatement)
+* [Equal Opportunity](https://policy.psu.edu/policies/hr11)
+* [Legal Statements](https://www.psu.edu/legal-statements)
+
+Copyright ©2024 The Pennsylvania State University.  
+All rights reserved. Except where otherwise noted, this work is subject to a [Creative Commons Attribution 4.0 license.](http://creativecommons.org/licenses/by/4.0/) [Details and exceptions.](https://libraries.psu.edu/psu-libraries-copyright-statement)
