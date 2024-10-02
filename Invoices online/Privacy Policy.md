@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=69699626)  
-Lion Software Develepment
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=161496732)  
+Kainos (Pty) Ltd
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=40674288)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=55516287)  
+ELLIE'S CLEANING CHICKS
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=1251460)  
-J.M. HUMAN RESOURCES
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=80087774)  
+Salvage Genie
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=16167149)  
-Quad Biking Cape Town
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=184710705)  
+Westside Car Audio CC
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=142815482)  
-MR Compressors& Industrial Supplies
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=73796447)  
+Fox Alarms & Security CC
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=48279980)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=136335001)  
+Electro-Heat
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=119622985)  
-Nogana Events and Decor
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=175354363)  
+OptaServ
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=24429568)  
-TurboFibre
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=201086421)  
+West Coast Horse Trails
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=131785443)  
-National Elite Security Services (PTY) LTD
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=45057954)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=157769060)  
-SMART GUY PCS (PTY) LTD
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=85281828)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=80672513)  
-Lily Fern & Co
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=173880096)  
+webb it services
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=23277619)  
-Van Der Merwe Olieverspreiders
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=184648256)  
+WIP Digital Solutions
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=210518259)  
-AquariumSmiths
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=133893744)  
+Cape Adventure Zone
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=77422698)  
-PROGRAPHIX PTY LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=199701240)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=211587764)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7ca398a212746581798b51f366e20f052213224d367cba09e1f7bf6d5f7aed26&c=27389002)  
+MONSTER CONNECT (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
