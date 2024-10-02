@@ -2,7 +2,6 @@ top of page
 
 [![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_187,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
-* [Home](https://www.team-cymru.com/)
 * [Products](https://www.team-cymru.com/products)
     
     * [Threat Intelligence Solutions](https://www.team-cymru.com/threat-intelligence-solutions)
@@ -14,7 +13,7 @@ top of page
     * [Attack Surface Management](https://www.team-cymru.com/attack-surface-management-tools)
     * [Threat Feeds](https://www.team-cymru.com/threat-feeds)
     
-* [Threat Vectors](https://www.team-cymru.com/threat-vectors)
+* [Use Cases](https://www.team-cymru.com/threat-vectors)
     
     * [Supply Chain Risks and Threats](https://www.team-cymru.com/supply-chain-risks-and-threats)
     * [Ransomware](https://www.team-cymru.com/ransomware)
@@ -410,9 +409,9 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_49,h_10,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_76,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_49,h_10,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 PRODUCTS
 
@@ -474,9 +473,9 @@ Emergencies: +1 847-378-3301
 
 [Modern Slavery Act](https://www.team-cymru.com/modernslaveryact)
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_49,h_10,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_185,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
-[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_233,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
+[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_54,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
 bottom of page
 
