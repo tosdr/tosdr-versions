@@ -42,6 +42,8 @@ Ville, code postal...
 
 [Toutes les actualités locales](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
 
+Rechercher sur Le Parisien
+
 * [À la une](https://www.leparisien.fr/)
     
 * [En continu](https://www.leparisien.fr/actualites-en-continu/)
@@ -536,9 +538,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=739)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=740)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=739)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=740)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
