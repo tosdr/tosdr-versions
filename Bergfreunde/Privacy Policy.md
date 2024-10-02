@@ -73,10 +73,6 @@ Portofrei ab € 69 (DE)
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
 
-[Lagerräumung - Spare bis zu 60%](https://www.bergfreunde.de/marken/patagonia/?listorderby=oxinsert&listorder=desc)
-
-BUILT FOR YEARS, NOT SEASONS. Patagonia
-
 Menü
 
 [![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/bergfreunde-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
@@ -1144,7 +1140,7 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreundin Lisa - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-lisa.png) Bergfreundin Lisa - Versand
+![Bergfreund Thomas - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-thomas.png) Bergfreund Thomas - Versand
 
 "Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
 
@@ -1154,11 +1150,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43927 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43938 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.927 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.938 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
