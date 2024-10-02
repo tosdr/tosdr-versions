@@ -29,8 +29,8 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 274 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 183 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 92 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 192 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 101 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 13 files
@@ -44,6 +44,54 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Evil Corp/REvil Malware Crime Group Outed As Family Affair](https://packetstormsecurity.com/news/view/36423/Evil-Corp-REvil-Malware-Crime-Group-Outed-As-Family-Affair.html)
+
+Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:42:21 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36423/) | [View](https://www.scworld.com/news/evil-corprevil-malware-crime-group-outed-as-a-family-affair)
+
+[NIST's Security Flaw Database Still Backlogged With 17k+ Unprocessed Bugs. Not Great](https://packetstormsecurity.com/news/view/36421/NISTs-Security-Flaw-Database-Still-Backlogged-With-17k-Unprocessed-Bugs.-Not-Great.html)
+
+Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:42:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36421/) | [View](https://www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/)
+
+[Record Breaking DDoS Attack Peaked At 3.8 Tbps, 2.14 Billion Pps](https://packetstormsecurity.com/news/view/36420/Record-Breaking-DDoS-Attack-Peaked-At-3.8-Tbps-2.14-Billion-Pps.html)
+
+Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:41:58 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36420/) | [View](https://www.securityweek.com/record-breaking-ddos-attack-peaked-at-3-8-tbps-2-14-billion-pps/)
+
+[Cybersecurity Experts Praise Veto Of California's AI Safety Bill](https://packetstormsecurity.com/news/view/36416/Cybersecurity-Experts-Praise-Veto-Of-Californias-AI-Safety-Bill.html)
+
+Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:24 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [botnet](https://packetstormsecurity.com/news/tags/botnet)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36416/) | [View](https://www.scworld.com/news/cybersecurity-experts-praise-veto-of-californias-ai-safety-bill)
+
+[Rackspace Internal Monitoring Web Servers Hit By Zero Day](https://packetstormsecurity.com/news/view/36415/Rackspace-Internal-Monitoring-Web-Servers-Hit-By-Zero-Day.html)
+
+Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:19 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36415/) | [View](https://www.theregister.com/2024/09/30/rackspace_zero_day_attack/)
+
+[Ransomware Forces Hospital To Turn Away Ambulances](https://packetstormsecurity.com/news/view/36414/Ransomware-Forces-Hospital-To-Turn-Away-Ambulances.html)
+
+Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:13 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [terror](https://packetstormsecurity.com/news/tags/terror), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36414/) | [View](https://www.theregister.com/2024/09/30/texan_hospital_ransomware/)
+
 [Organizations Warned Of Exploited SAP, Gpac, And D-Link Vulnerabilities](https://packetstormsecurity.com/news/view/36413/Organizations-Warned-Of-Exploited-SAP-Gpac-And-D-Link-Vulnerabilities.html)
 
 Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:08 UTC")
@@ -51,6 +99,14 @@ Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:2
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36413/) | [View](https://www.securityweek.com/organizations-warned-of-exploited-sap-gpac-and-d-link-vulnerabilities/)
+
+[Systems Used By Courts And Governments Across The US Riddled By Vulnerabilities](https://packetstormsecurity.com/news/view/36412/Systems-Used-By-Courts-And-Governments-Across-The-US-Riddled-By-Vulnerabilities.html)
+
+Posted [Oct 1, 2024](https://packetstormsecurity.com/news/date/2024-10-01/ "13:29:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36412/) | [View](https://arstechnica.com/security/2024/09/systems-used-by-courts-and-govs-across-the-us-riddled-with-vulnerabilities/)
 
 [US Charges 3 Iranians Over Presidential Campaign Hacking](https://packetstormsecurity.com/news/view/36411/US-Charges-3-Iranians-Over-Presidential-Campaign-Hacking.html)
 
@@ -67,62 +123,6 @@ Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36410/) | [View](https://www.securityweek.com/accounting-firm-wmddh-discloses-data-breach-impacting-127000/)
-
-[Cloud Threats Have Execs The Most Freaked Out Because They're Not Prepared](https://packetstormsecurity.com/news/view/36409/Cloud-Threats-Have-Execs-The-Most-Freaked-Out-Because-Theyre-Not-Prepared.html)
-
-Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:11 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36409/) | [View](https://www.theregister.com/2024/09/30/pwc_security_survey/)
-
-[Opinion: How To Design A US Data Privacy Law](https://packetstormsecurity.com/news/view/36408/Opinion-How-To-Design-A-US-Data-Privacy-Law.html)
-
-Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:48:03 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36408/) | [View](https://arstechnica.com/tech-policy/2024/09/opinion-how-to-design-a-us-data-privacy-law/)
-
-[Attacking Unix Systems Via CUPS, Part I](https://packetstormsecurity.com/news/view/36407/Attacking-Unix-Systems-Via-CUPS-Part-I.html)
-
-Posted [Sep 30, 2024](https://packetstormsecurity.com/news/date/2024-09-30/ "12:47:55 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36407/) | [View](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
-
-[Critical Nvidia Bug Allows Container Escape, Host Takeover](https://packetstormsecurity.com/news/view/36406/Critical-Nvidia-Bug-Allows-Container-Escape-Host-Takeover.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:54 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36406/) | [View](https://www.theregister.com/2024/09/26/critical_nvidia_bug_container_escape/)
-
-[Five Eyes Agencies Release Guidance On Detecting Active Directory Intrusions](https://packetstormsecurity.com/news/view/36405/Five-Eyes-Agencies-Release-Guidance-On-Detecting-Active-Directory-Intrusions.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:52 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [canada](https://packetstormsecurity.com/news/tags/canada), [britain](https://packetstormsecurity.com/news/tags/britain), [australia](https://packetstormsecurity.com/news/tags/australia), [new zealand](https://packetstormsecurity.com/news/tags/new_zealand)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36405/) | [View](https://www.securityweek.com/five-eyes-agencies-release-guidance-on-detecting-active-directory-intrusions/)
-
-[EU Privacy Regulator Fines Meta 91 Million Euros Over Password Storage](https://packetstormsecurity.com/news/view/36404/EU-Privacy-Regulator-Fines-Meta-91-Million-Euros-Over-Password-Storage.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:49 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [password](https://packetstormsecurity.com/news/tags/password), [facebook](https://packetstormsecurity.com/news/tags/facebook), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36404/) | [View](https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-91-million-euros-over-password-storage-2024-09-27/)
-
-[Ransomware Gang Using Stolen MS Entra ID Creds To Bust Into Cloud](https://packetstormsecurity.com/news/view/36403/Ransomware-Gang-Using-Stolen-MS-Entra-ID-Creds-To-Bust-Into-Cloud.html)
-
-Posted [Sep 27, 2024](https://packetstormsecurity.com/news/date/2024-09-27/ "14:17:38 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [password](https://packetstormsecurity.com/news/tags/password), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36403/) | [View](https://www.theregister.com/2024/09/27/microsoft_storm_0501/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1069510329&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1069510329.1727859620.1727859620.1727859620.1%3B%2B__utmz%3D32867617.1727859620.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2676789220&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2676789220.1727882143.1727882143.1727882143.1%3B%2B__utmz%3D32867617.1727882143.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
