@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110716-past-performance-predicts-2024-10-02)
+     [](https://patriotpost.us/memes/110754-the-untrue-drug-mule-2024-10-02)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander Harris’s Bald-Faced Lies — Endorsed by CNN](https://patriotpost.us/alexander/110753-harriss-bald-faced-lies-endorsed-by-cnn-2024-10-02)
 *      [The Washington Stand Iran Launches Missiles at Israel After Israeli Forces Enter Lebanon](https://patriotpost.us/opinion/110726-iran-launches-missiles-at-israel-after-israeli-forces-enter-lebanon-2024-10-02)
 *      [Rich Lowry Kamala Harris, Faux Border Hawk](https://patriotpost.us/opinion/110724-kamala-harris-faux-border-hawk-2024-10-02)
 *      [Byron York Trump Numbers Show How GOP Went Wrong on Immigration](https://patriotpost.us/opinion/110723-trump-numbers-show-how-gop-went-wrong-on-immigration-2024-10-02)
@@ -132,6 +133,7 @@ Last Updated: November 15, 2011.
 *      [Tony Perkins Let’s Emulate the Boldness and Conviction of Harrison Butker](https://patriotpost.us/opinion/110725-lets-emulate-the-boldness-and-conviction-of-harrison-butker-2024-10-02)
 *      [Betsy McCaughey The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://patriotpost.us/opinion/110719-the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders-2024-10-02)
 *      [Star Parker How We Cope Shows Men and Women Are Different](https://patriotpost.us/opinion/110720-how-we-cope-shows-men-and-women-are-different-2024-10-02)
+*      [The Babylon Bee DOJ Indicts JD Vance for Brutally Beating 3 Women](https://patriotpost.us/opinion/110752-doj-indicts-jd-vance-for-brutally-beating-3-women-2024-10-02)
 *      [Guest Commentary A Different Kind of Trump Rap Sheet](https://patriotpost.us/opinion/110750-a-different-kind-of-trump-rap-sheet-2024-10-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
