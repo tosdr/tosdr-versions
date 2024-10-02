@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Coyotes have the face muscles for that ‘sad-puppy’ look](https://www.sciencenews.org/article/coyotes-face-muscles-sad-puppy)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")4 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")10 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [The fruit fly revolutionized biology. Now it’s boosting science in Africa](https://www.sciencenews.org/article/fruit-fly-biology-africa-research)
             
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")11 hours ago
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")17 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Bird nests made with a toxic fungus seem to fend off attacking ants](https://www.sciencenews.org/article/bird-nests-toxic-fungus-ant-attacks)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")14 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")20 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Why Hurricane Helene was so devastating](https://www.sciencenews.org/article/hurricane-helene-devastation-explainer)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")8 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")14 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
