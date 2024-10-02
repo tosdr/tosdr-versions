@@ -184,14 +184,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Lindsey Webster Sings "I Didn't Mean It"** | Jazz Music Awards 2023](https://video.nhpbs.org/video/lindsey-webster-sings-i-didnt-mean-it-xpa2jb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Are We At The Tipping Point?** | Weathered](https://video.nhpbs.org/video/are-we-at-the-tipping-point-udlvvz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Traqueros and the Building of the Southwest** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/traqueros-and-the-building-of-the-southwest-6gd2p0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Students From Immigrant Families Reflect on Their Heritage** | Citizen Nation](https://video.nhpbs.org/video/students-from-immigrant-families-reflect-on-their-heritage-abhwdb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Appraisal: Victorian Memorial Hair Wreath, ca. 1875** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-victorian-memorial-hair-wreath-ca-1875-anp711?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**VOCES** | WORLD Channel](https://video.nhpbs.org/video/voces-5gicnd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Volcano Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-preview-aa1lwf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What the dockworkers strike means for U.S. consumers** | PBS News Hour](https://video.nhpbs.org/video/port-strike-1727813644?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Arts Center of Kershaw County, Camden** | Southern Songwriters with Patrick Davis](https://video.nhpbs.org/video/arts-center-of-kershaw-county-camden-LHucG1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Veterans** | Life In The Heart Land](https://video.nhpbs.org/video/veterans-xvdmn4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Art Bites 167** | Rick Steves' Europe](https://video.nhpbs.org/video/art-bites-167-plkoZC?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
