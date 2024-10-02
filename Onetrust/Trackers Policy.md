@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Establishing a scalable AI governance framework: Key steps and tech for success](https://www.onetrust.com/resources/establishing-a-scalable-ai-governance-framework-key-steps-and-tech-for-success-ebook/)
+* [Essential checklist for simplifying third-party risk management](https://www.onetrust.com/resources/essential-checklist-for-simplifying-third-party-risk-management-checklist/)
 * [4 top-of-mind challenges for CISOs](https://www.onetrust.com/resources/4-top-of-mind-challenges-for-cisos-infographic/)
-* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
-* [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
 
 ### Platform
 
