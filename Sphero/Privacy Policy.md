@@ -18,7 +18,7 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[Free Sphero Session: Cross-Curricular Learning with BOLT+ on 10/2! Attend for a chance to win a BOLT+. Register Now >](https://sphero.zoom.us/webinar/register/9317259816716/WN_WMJZnnITRAWckeZy2J0gsw#/registration)
+[⚡ Looking to upgrade your BOLT robot to BOLT+? Learn more here > ⚡](https://sphero.activehosted.com/f/296)
 
 * Shop
 * Educator Resources
