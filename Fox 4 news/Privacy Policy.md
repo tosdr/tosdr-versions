@@ -400,37 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance.jpg?ve=1&tl=1)
+
+ ![Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+
+Live Now
+
+### [Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+
  [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/GettyImages-176717918-scaled.jpg?ve=1&tl=1)
 
  ![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/GettyImages-176717918-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
 ### [Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
- [![Amber Alert issued for missing Hurst 16-year-old girl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/Hurst-Amber-Alert.jpg?ve=1&tl=1)
+ [![Texas man executed for fatally stabbing twin teenage girls in 1989](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/Garcia-Glen-White-mug.jpg?ve=1&tl=1)
 
- ![Amber Alert issued for missing Hurst 16-year-old girl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/Hurst-Amber-Alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-hurst-zoe-rowbotham)
+ ![Texas man executed for fatally stabbing twin teenage girls in 1989](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/Garcia-Glen-White-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
 
-### [Amber Alert issued for missing Hurst 16-year-old girl](https://www.fox4news.com/news/amber-alert-hurst-zoe-rowbotham)
+### [Texas executes man for killing twin teen girls](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
 
- [![Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175288947.jpg?ve=1&tl=1)
+ [![Diddy lawsuit: Buzbee Law Firm says cases go back to 1991, youngest victim was 9](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Buzbee-diddy.jpg?ve=1&tl=1)
 
- ![Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175288947.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iran-missiles-israel)
+ ![Diddy lawsuit: Buzbee Law Firm says cases go back to 1991, youngest victim was 9](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Buzbee-diddy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-lawsuit-upcoming-press-conference-from-buzbee-law-firm-allegations-against-diddy)
 
-Developing
+### [Shocking Allegations: Dozens accuse Sean 'Diddy' Combs of sexual assault](https://www.fox4news.com/news/diddy-lawsuit-upcoming-press-conference-from-buzbee-law-firm-allegations-against-diddy)
 
-### [Watch live: Iran fires missiles at Israel, residents told to shelter in place](https://www.fox4news.com/news/iran-missiles-israel)
+ [![Iran launches missiles at Israel; Netanyahu promises retaliation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175288947.jpg?ve=1&tl=1)
 
- [![Stuffed shells recipe from Mimi's Kitchen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100124-Andi-Murray-Mimis-KitchenC7-KDFWEME001_09__00.10.14.18.jpg?ve=1&tl=1)
+ ![Iran launches missiles at Israel; Netanyahu promises retaliation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175288947.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iran-missiles-israel)
 
- ![Stuffed shells recipe from Mimi's Kitchen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100124-Andi-Murray-Mimis-KitchenC7-KDFWEME001_09__00.10.14.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stuffed-shells-recipe-from-mimis-kitchen)
-
-### [Stuffed shells recipe from Mimi's Kitchen](https://www.fox4news.com/news/stuffed-shells-recipe-from-mimis-kitchen)
-
- [!["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Immigrants-at-the-border.jpg?ve=1&tl=1)
-
- !["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Immigrants-at-the-border.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ice-releases-data-immigrants)
-
-### ["13,000 murderers" claim: Here's what ICE's numbers say about immigrants](https://www.fox4news.com/news/ice-releases-data-immigrants)
+### [Iran launches missiles at Israel; Netanyahu promises retaliation](https://www.fox4news.com/news/iran-missiles-israel)
 
 ###### [News](https://www.fox4news.com/news)
 
