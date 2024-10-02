@@ -118,61 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=184664447)  
-Goju-Ryu Pretoria East
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=69699626)  
+Lion Software Develepment
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=187938421)  
-Depot Diesel (Pty) Ltd
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=74257651)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=204620461)  
-Redlum Group (Pty) Ltd
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=142711984)  
-Bchange Online CC
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=53631924)  
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=40674288)  
 Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=182161129)  
-NEW BEGINNINGS DESIGNS
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=1251460)  
+J.M. HUMAN RESOURCES
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=3752666)  
-Entidee Enterprise PTY (ltd)
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=16167149)  
+Quad Biking Cape Town
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=212033841)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=142815482)  
+MR Compressors& Industrial Supplies
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=214062679)  
-Kainos (Pty) Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=48279980)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=18570182)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=28128234)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=80135858)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=119622985)  
 Nogana Events and Decor
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=158954456)  
-Dr V Naik Consult
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=24429568)  
+TurboFibre
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f146c01ada4feadcaa2bc9a2009370cfc179c3a7551ab84e1a4885ac7d6e4887&c=139652206)  
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=131785443)  
 National Elite Security Services (PTY) LTD
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=157769060)  
+SMART GUY PCS (PTY) LTD
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=80672513)  
+Lily Fern & Co
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=23277619)  
+Van Der Merwe Olieverspreiders
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=210518259)  
+AquariumSmiths
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=77422698)  
+PROGRAPHIX PTY LTD
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f2df5ca380fbf9594257375202cc50fce0243f09679b29af11223f1595364114&c=211587764)  
+Digifax (Pty) Ltd trading as Digirent
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
