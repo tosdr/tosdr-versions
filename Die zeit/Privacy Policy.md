@@ -1990,12 +1990,11 @@ Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Ihre Cookies im 
 
 Kontakt
 
-[kontakt@zeit.de](mailto:kontakt@zeit.de)  
-+49 (0) 40 3280 0
-
 ZEIT Online GmbH  
-Buceriusstraße - Speersort 1  
+Buceriusstraße, Eingang Speersort 1  
 20095 Hamburg
 
-[Impressum](https://www.zeit.de/impressum/index)  
-[Allgemeine Geschäftsbedingungen](https://www.zeit.de/administratives/agb-kommentare-artikel)
+Geschäftsführung: Dr. Rainer Esser, Christian Röpke, Enrique Tarragona
+
+[kontakt@zeit.de](mailto:kontakt@zeit.de)  
++49 40 3280 0
