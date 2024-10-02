@@ -1,4 +1,4 @@
-✨ Now on Coursera! Enroll in [Generative AI for Software Development](https://bit.ly/4gqWjyZ)
+✨ New course! Enroll in [Retrieval Optimization: From Tokenization to Vector Quantization](https://bit.ly/3Y3pjp2)
 
 [](https://www.deeplearning.ai/)
 
