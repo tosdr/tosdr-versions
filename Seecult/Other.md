@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/otvaranje-paviljona-srbije/otvaranje2.jpg?itok=_Owp2HiO)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-31)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/plava-slika.jpg?itok=gVCw1Z3W)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka/magacin-zurka-005.jpg?itok=0RlXiEiO)](http://seecult.org/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/manastir-visoki-decani/ikona-decani-prestonaikona-sa-ikonstasa-arh-gavrilo-oko1350.jpg?itok=w7LtVutN)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri/manastir-visoki-de%C4%8Dani)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
