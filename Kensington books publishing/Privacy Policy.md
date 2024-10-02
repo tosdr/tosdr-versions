@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    Join Our Authors for Upcoming Events
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
