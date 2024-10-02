@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
+
+Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen](https://www.bild.de/news/kopenhagen-explosionen-nahe-der-israelischen-botschaft-66fce5b93fca14794a65a038)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
