@@ -262,6 +262,7 @@ Faça parte, é 100% gratuito.
 * Suporte
 * [Lojas](https://www.pelando.com.br/cupons-de-descontos)
 * [Fale conosco](https://www.pelando.com.br/atendimento)
+* [Central de ajuda](https://ajuda.pelando.com.br/hc/pt-br)
 
 * * *
 
@@ -269,7 +270,7 @@ Baixe o App
 
 [Google play](https://play.google.com/store/apps/details?id=com.tippingcanoe.pelando)[App store](https://apps.apple.com/br/app/pelando-promo%C3%A7%C3%B5es-e-cupons/id1045614200)
 
-Siga o Pelando[](https://www.instagram.com/pelandobr/ "Instagram Pelando")[](https://www.facebook.com/tapelando/ "Facebook Pelando")[](https://twitter.com/pelandobr)[](https://www.tiktok.com/@pelandobr "Tiktok Pelando")
+Siga o Pelando[](https://www.instagram.com/pelandobr)[](https://www.facebook.com/tapelando)[](https://x.com/pelandobr)[](https://www.tiktok.com/@pelandobr)
 
 Acesse descontos  
 exclusivos no App
