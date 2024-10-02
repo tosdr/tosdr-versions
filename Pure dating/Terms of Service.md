@@ -62,14 +62,6 @@ Anything but boring is in Pure’s DNA. Not yet another dating, but a place to b
 
 [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](https://pure-blog-production.soulplatform.com/332244064_5891525104265442_1417817413503885105_n_2ec1c420c7.jpg)
-
-1004
-
-9](https://www.instagram.com/p/Co9uJS7MuaD/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
 ![](https://pure-blog-production.soulplatform.com/331536397_883414152719839_5131973776668290746_n_4ff17c142e.jpg)
 
 763
