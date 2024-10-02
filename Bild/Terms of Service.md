@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an
-
-Nach Irans Raketen-Angriff — Israel kündigt massive Luftschläge in der Nacht an](https://www.bild.de/politik/ausland-und-internationales/militaersprecher-kuendigt-an-israel-will-in-der-nacht-massive-luftschlaege-fliegen-66fc4270b0218f0624bf2000)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
