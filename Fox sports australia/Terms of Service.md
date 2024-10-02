@@ -82,6 +82,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240202)
 * Cricket
     
+* [Women's T20 WC
+    
+    3/10 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAN | –   |
+    | SCO | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250101)
 * [WNCL
     
     3/10 9:30 AEST
@@ -104,128 +114,120 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=711)
+* Basketball
+    
+* [NBL
+    
+    3/10 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADL | –   |
+    | SEM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030001)
 * Football
     
 * [UCL
     
-    3/10 2:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DON | –   |
-    | ATA | –   |
+    | DON | 0   |
+    | ATA | 3   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250219)
 * [UCL
     
-    3/10 2:45 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | GIR | –   |
-    | FEY | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250221)
-* [UCL
-    
-    3/10 5:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | LIV | –   |
-    | BOL | –   |
+    | LIV | 1   |
+    | BOL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250225)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | DZ  | –   |
-    | MCO | –   |
+    | DZ  | 1   |
+    | MCO | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250223)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | RBL | –   |
-    | JUV | –   |
+    | RBL | 1   |
+    | JUV | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250233)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | SG  | –   |
-    | CB  | –   |
+    | SG  | 0   |
+    | CB  | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250231)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | LIL | –   |
-    | RMD | –   |
+    | LIL | 1   |
+    | RMD | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250227)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | BEN | –   |
-    | AMD | –   |
+    | BEN | 1   |
+    | AMD | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250229)
 * [UCL
     
-    3/10 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | AVL | –   |
-    | BAY | –   |
+    | AVL | 0   |
+    | BAY | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250235)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | GIR | 2   |
+    | FEY | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250221)
 * Baseball
     
 * [MLB
     
-    Final
+    Top 5th Innings
     
     |     |     |
     | --- | --- |
-    | MIL | 4   |
-    | NYM | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500211498)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | SD  | 4   |
-    | ATL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500250931)
-* [MLB
-    
-    3/10 4:32 AEST
-    
-    |     |     |
-    | --- | --- |
-    | HOU | –   |
-    | DET | –   |
+    | HOU | 0   |
+    | DET | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002D15FE)
 * [MLB
