@@ -15,7 +15,7 @@ Program Areas
 Funding
 
 * [Funding Opportunities](https://www.simonsfoundation.org/funding-opportunities/)
-* [Independence Awards](https://www.simonsfoundation.org/funding-opportunities/simons-foundation-independence-awards/)
+* [Fellows-to-Faculty](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/)
 * [Policies and Procedures](https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures/)
 * [Award Instructions](https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures?tab=award-instructions/)
 * [Simons Award Manager (SAM) FAQs and Videos](https://www.simonsfoundation.org/funding-opportunities/simons-award-manager-sam-faq-and-instructional-videos/)
