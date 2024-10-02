@@ -38,7 +38,7 @@ Login
 
 [Ukraine](https://www.euractiv.com/topics/ukraine) [The Capitals](https://www.euractiv.com/sections/the-capitals) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/)
 
-[Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/digital) [Energy, Environment & Transport](https://www.euractiv.com/sections/energy-environment)
+[Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/tech) [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 
 [Looking to access paid articles across multiple policy topics?
 
