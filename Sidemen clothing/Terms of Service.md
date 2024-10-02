@@ -45,6 +45,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 * [NEW](https://www.sidemenclothing.com/collections/new)
 * COLLECTIONS
     
+    * [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
     * [Studios ®](https://www.sidemenclothing.com/collections/studios)
     * [Y2K](https://www.sidemenclothing.com/collections/y2k)
     * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
@@ -121,6 +122,7 @@ Country
 [Account](https://www.sidemenclothing.com/account)
 
 * COLLECTIONS
+* [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
 * [Studios ®](https://www.sidemenclothing.com/collections/studios)
 * [Y2K](https://www.sidemenclothing.com/collections/y2k)
 * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
