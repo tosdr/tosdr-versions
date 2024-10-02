@@ -325,7 +325,7 @@ Learn More
 * [Generative AI](https://www.grammarly.com/ai)
 * [Blog](https://www.grammarly.com/blog/)
 * [Tech Blog](https://www.grammarly.com/blog/engineering/)
-* [Education Blog](https://www.grammarly.com/blog/category/education/)
+* [Education Blog](https://www.grammarly.com/blog/institutions/)
 * [Business Blog](https://www.grammarly.com/business/learn/)
 
 Features
