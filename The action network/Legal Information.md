@@ -46,11 +46,11 @@ Happy 10th Birthday, Action Network! Click here to read Executive Director Brian
 Privacy Policy
 ==============
 
-_Last revised February 27, 2024_
+_Last revised October 2, 2024_
 
 #### Summary
 
-Action Network — made up of Action Network and Action Squared, Inc. (“we,” “us,” or “our”), values your privacy. The Privacy Notice explains who we are, how we collect, share and use Personal Information about you, and how you can exercise your privacy rights. This Privacy Notice applies to Personal Information that we collect through our websites at [https://actionnetwork.org](https://actionnetwork.org/) and [https://actionbuilder.org](https://actionbuilder.org/) (“the Sites”) or Site-embedded functionality. We will never sell or share your Personal Information outside of what you allow through normal use of the Sites.
+Action Network — made up of Action Network and Action Squared, Inc. (“we,” “us,” or “our”), values your privacy. The Privacy Notice explains who we are, how we collect, share and use Personal Information about you, and how you can exercise your privacy rights. This Privacy Notice applies to Personal Information that we collect through our websites at [https://actionnetwork.org](https://actionnetwork.org/) and [https://actionbuilder.org](https://actionbuilder.org/) (“the Sites”) or Site-embedded functionality. We will never sell or share your Personal Information outside of what you allow through normal use of the Sites.  
 
 #### Quick Links
 
@@ -221,9 +221,9 @@ If you are a visitor from the EEA using the Action Network tool (Action Builder 
 
 For all the data collected where we are acting as processor of so-called Third Party Personal Information, our third-party partner makes the determination.
 
-We have taken appropriate safeguards to require that your Personal Information will remain protected in accordance with this Notice. These safeguards include implementing the European Commission’s Standard Contractual Clauses for transfers of Third Party Personal Information with our third-party service providers and partners, which require all parties to protect Third Party Personal Information they process from the EEA in accordance with European data protection law.
+We have taken appropriate safeguards to require that your Personal Information will remain protected in accordance with this Notice. These safeguards include implementing the European Commission’s Standard Contractual Clauses for transfers of Third Party Personal Information with our third-party service providers and partners, which require all parties to protect Third Party Personal Information they process from the EEA in accordance with European data protection law.If we collect and use your Personal Information in reliance on our legitimate interests, this interest will normally be to operate the Site and service, communicating with you as necessary to provide our services, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
 
-We have self-certified adherence to the principles of the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) and [designated JAMS](https://www.jamsadr.com/) as our alternative dispute resolution provider under the Framework.
+We have self-certified adherence to the principles of the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) with regard to personal data transferred from the European Union and the United Kingdom and we have [designated JAMS](https://www.jamsadr.com/) as our alternative dispute resolution provider under the Framework.
 
 Where we are acting as a controller of data, we will normally collect Personal Information from you only (i) where we need the Personal Information to perform a contract with you, (ii) where the processing is in our legitimate interest and not overridden by your rights, (iii) where we have your consent to do so. In some cases, we may also have a legal obligation to collect Personal Information from you.
 
@@ -251,7 +251,7 @@ We may update the Notice at any time to reflect changes in our practices. If we 
 
 If you have any questions or concerns about, or want to exercise your rights under the Notice, please contact [support@actionnetwork.org](mailto:support@actionnetwork.org).
 
-If you are a visitor from the EEA and need to get in touch with our Data Protection Officer, please contact dataprotection@actionnetwork.org.
+If you are a visitor from the EEA and need to get in touch with our Data Protection Officer, please contact [dataprotection@actionnetwork.org](mailto:dataprotection@actionnetwork.org).
 
 If you are an EEA visitor the data controller of your Personal Information is Action Squared, Inc. or our relevant partner.
 
