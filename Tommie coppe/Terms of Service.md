@@ -1,32 +1,30 @@
 [Skip to main content](#main-content)
 
-Save 50% Sitewide! DETAILS
+One Day Sale: Up To 50% Savings! DETAILS
 
-ONE DAY ONLY!
+UP TO 50% SAVINGS!
 
 Close the Modal
 
-#### Save 50% Sitewide!
+#### Shop the October One Day Sale!
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
+[SHOP NOW](https://www.tommiecopper.com/special/big-sale/)
 
-Offer valid 10/1/2024 8AM ET - 10/2/2024 6AM ET.
+Offer valid 10/2/2024 8AM ET - 10/3/2024 6AM ET.
 
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-**Excludes Easy-On Compression Socks.**
+October One Day Sale discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Pain Relief Liquid Roller on Orders $100+
+#### Free Baseball Hat on Orders $150+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
+Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
 
-Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
