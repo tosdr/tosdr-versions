@@ -5,11 +5,9 @@ Toggle Menu
 * [Docs](https://developer.stackblitz.com/)
 * [Pricing](https://stackblitz.com/pricing)
 * [Enterprise](https://stackblitz.com/enterprise)
-* [Design Systems](https://stackblitz.com/design-systems)
+* [WebContainer API](https://webcontainers.io/)
 * [Blog](https://blog.stackblitz.com/)
 * [NEWViteConf](https://viteconf.org/?utm_campaign=stackblitz-on-page&utm_source=public-site&utm_medium=nav-button)
-
-[Sign in](https://stackblitz.com/sign_in)[Get started](https://stackblitz.com/register)
 
 Terms of Service
 ----------------
