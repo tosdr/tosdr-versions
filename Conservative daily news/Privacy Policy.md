@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Massachusetts Governor Healey Subverts Democratic Process And The Second Amendment](https://www.thegunpage.com/massachusetts-governor-healey-subverts-democratic-process-and-the-second-amendment/10610947)
+* [Las Vegas Homeowner Shoots And Kills Intruder](https://www.thegunpage.com/las-vegas-homeowner-shoots-and-kills-intruder/10610945)
+* [JK Armament's New "Do-It-All" 155 G.O.A.T. HF 5.56mm Suppressor](https://www.thegunpage.com/jk-armaments-new-do-it-all-155-g-o-a-t-hf-5-56mm-suppressor/10610941)
+* [Gun-Rights Groups Join To Battle Lifetime 2A Ban For Nonviolent Offenders](https://www.thegunpage.com/gun-rights-groups-join-to-battle-lifetime-2a-ban-for-nonviolent-offenders/10610939)
+* [Kimber's New R7 Mako Carbon Compact – Optic Ready & Suppressor Ready](https://www.thegunpage.com/kimbers-new-r7-mako-carbon-compact-optic-ready-suppressor-ready/10610942)
 * [Florida police chief learns hard lesson, un-bans guns and ammo](https://www.thegunpage.com/florida-police-chief-learns-hard-lesson-un-bans-guns-and-ammo/10610936)
 * [Vance, Walz Tackle Issue of Gun Violence During VP Debate](https://www.thegunpage.com/vance-walz-tackle-issue-of-gun-violence-during-vp-debate/10610933)
 * [Semmerling’s Backwards Cold War Pistol](https://www.thegunpage.com/semmerlings-backwards-cold-war-pistol/10610935)
 * [TFB Review: XS Sights DXT2 – Fixing The Desert Eagle’s Biggest Flaw](https://www.thegunpage.com/tfb-review-xs-sights-dxt2-fixing-the-desert-eagles-biggest-flaw/10610931)
 * [POTD: Ohio Ordnance Works HCAR – The Ultimate .30-06?](https://www.thegunpage.com/potd-ohio-ordnance-works-hcar-the-ultimate-30-06/10610932)
-* [A Real Gun Beats a Fake One Every Time: Victim Turns Tables on Philly Robber](https://www.thegunpage.com/a-real-gun-beats-a-fake-one-every-time-victim-turns-tables-on-philly-robber/10610930)
-* [New Massachusetts Gun Law Could Effectively Ban Nonresident Hunters](https://www.thegunpage.com/new-massachusetts-gun-law-could-effectively-ban-nonresident-hunters/10610928)
-* [Barrett Wins First International Government Contract With The MRADELR](https://www.thegunpage.com/barrett-wins-first-international-government-contract-with-the-mradelr/10610926)
-* [My Bad: City Officials Now Claim Emergency Order Banning Guns was a Mistake](https://www.thegunpage.com/my-bad-city-officials-now-claim-emergency-order-banning-guns-was-a-mistake/10610923)
-* [C&G Holsters Improved Gen6 Concealment Holsters](https://www.thegunpage.com/cg-holsters-improved-gen6-concealment-holsters/10610924)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* Carlo Morey on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782415)
+* Carmen Holmes on [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/#comment-782408)
 * Richard McDonough on [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/#comment-782382)
 * Stanley Warner on [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/#comment-782381)
 * Stanley Warner on [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/#comment-782380)
@@ -235,8 +237,6 @@ Recent Comments
 * WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
 * Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
-* Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
-* Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
 
 [Close](#)
 
