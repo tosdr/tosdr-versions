@@ -1,6 +1,6 @@
 [Skip to Main Content](#__layout)
 
-![A bell ringing](//images.ctfassets.net/j9e1b5ly4280/40vdqz9F4VXyCH7ZEIeGmh/310e9af5bf50aaf729f9d196db224ab7/bell-ring-solid_1.svg)**October 15** is Tax Day for extension filers. TaxAct makes it easy to file today.
+![A bell ringing](//images.ctfassets.net/j9e1b5ly4280/40vdqz9F4VXyCH7ZEIeGmh/310e9af5bf50aaf729f9d196db224ab7/bell-ring-solid_1.svg)We’re here to help you file before the **October 15 tax deadline**.
 
 [TaxAct **Business** ![Right pointing arrow icon](https://images.ctfassets.net/j9e1b5ly4280/2P8y5oEhgYqEA6FWQV13k/6c234b73373724c766bcc8e9c1fc513a/button_arrow_purple.svg)](https://www.taxact.com/business-returns) 
 
