@@ -133,7 +133,21 @@ Terms & Conditions EU Data Processing Addendum China Data Processing Agreement D
 Terms & Conditions
 ==================
 
-Last updated: 22nd April, 2024
+#### Notice of Updated Terms & Conditions
+
+We’ve recently updated our Terms & Conditions to provide greater clarity on several important areas:
+
+* **Fees and Services**, including our free trial period and discount policy
+* **Billing Cycle**
+* **License and Acceptable Use**
+* **Limitation of Liabilities**
+* **Proprietary Rights Notice**
+
+These updates are intended to enhance transparency and reflect the latest improvements in our Services. The updated terms will take effect on **October 21, 2024**. By continuing to use our services after this date, you agree to be bound by the new terms.  
+
+* * *
+
+Last updated: October 2, 2024
 
 1\. Acceptance of terms
 -----------------------
@@ -181,6 +195,8 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 “Game Data” means the information data concerning the characteristics and activities of Players that is collected through use of the Tracking Code and then forwarded to the Servers and analyzed by the Processing Software;
 
+“MarketIQ”: GameAnalytics’ premium analytics tool that provides advanced insights into mobile game performance and market trends. This tool offers features such as custom reporting, benchmarking, competitor analysis, and predictive analytics, enabling users to make data-driven decisions. MarketIQ includes, but is not limited to, the services described at the MarketIQ web page available at https://gameanalytics.com/marketiq/, and is subject to the terms and conditions applicable to premium services under the GameAnalytics platform.
+
 “Party” means a party to this Agreement and shall be a reference to You or GameAnalytics, as the context requires and “Parties” shall mean both GameAnalytics and You collectively;
 
 “Player” means a user of Your Game;
@@ -227,7 +243,23 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 5.4 GameAnalytics may at its sole discretion change its Fees and payment policies for the GA Portal from time to time and GameAnalytics shall provide You notice of the changes to the Fees or payment policies at https://gameanalytics.com (or such other URL as GameAnalytics may nominate for this use from time to time) and Your continued use of the GameAnalytics Platform following such notification shall be deemed to be acceptance of such change.
 
-5.5 Discount Policy: GameAnalytics may, at its sole discretion, apply a variable discount to the Services provided under this Agreement. GameAnalytics reserves the right to change or cancel any discounts at any time without further notice and any change will be reflected in the subsequent invoice for the services provided at the agreed-upon rate.
+5.5 Free Trial Period and Discount Policy:
+
+5.5.1 Eligibility and Duration: GameAnalytics may offer a free trial period for certain premium services (“Free Trial”). The duration of the Free Trial shall be determined at the time access is granted to eligible users, and is subject to change at GameAnalytics’ sole discretion.
+
+5.5.2 Trial Features and Access: During the Free Trial, users will have access to the specified premium services, which may include limited features or functionality. GameAnalytics reserves the right to modify or limit access during the trial at any time without prior notice.
+
+5.5.3 Automatic Conversion and Payment: Upon expiration of the Free Trial, unless canceled before the trial ends, users will be automatically enrolled in the applicable paid subscription plan at the standard rate. To access the Free Trial, users are required to provide valid credit card details, which will be collected and processed by a third-party service provider on behalf of GameAnalytics. GameAnalytics does not directly collect or store credit card information. Users will be charged for the first subscription period immediately upon the conclusion of the Free Trial unless the trial is canceled before the expiration date.
+
+5.5.4 Cancellation and Termination: Users may cancel the Free Trial at any time before the trial expires to avoid charges. Cancellations can be made through the user account settings or by contacting support. Once canceled, access to the premium services may immediately terminate.
+
+5.5.5 The Free Trial is offered “as is” with no warranties of any kind. GameAnalytics does not provide refunds or credits for partial use or failure to cancel the trial before its expiration.
+
+5.5.6 Data and Privacy During Trial: Data collected during the Free Trial will be treated in accordance with the GameAnalytics Privacy Policy. If the user does not transition to a paid subscription, GameAnalytics may, at its discretion, delete or retain data based on its retention policies.
+
+5.5.7 GameAnalytics reserves the right to modify, cancel, or terminate the Free Trial program at any time without notice.
+
+5.5.8 Discount Policy: GameAnalytics may, at its sole discretion, apply a variable discount to the services provided under this Agreement, including any services following the Free Trial. GameAnalytics reserves the right to change or cancel any discounts at any time without further notice, and any such changes will be reflected in the subsequent invoice for the services provided at the agreed-upon rate. Discounts will only apply for the period specified and will not extend beyond the defined promotional or trial period unless otherwise agreed in writing.
 
 5.6 Billing Cycle: Our Services are subject to a billing cycle that determines how and when you are billed for using them. The billing cycle is a critical component of our Agreement with You, outlining the period over which service fees will be calculated and charged.
 
@@ -265,7 +297,7 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 7.2.3 use any “deep-link”, “page-scrape”, “robot”, “spider” or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Websites and the Software, or in any way reproduce or circumvent the navigational structure or presentation of the Websites and the Software, to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Websites and the Software;
 
-7.2.4 rent, sublicense, lease, sell, assign or otherwise transfer rights (or purport to do any of the same) in or to the Tracking Code, the Processing Software, the Documentation or the Service;
+7.2.4 rent, sublicense, lease, sell, assign or otherwise transfer rights (or purport to do any of the same) in or to the Tracking Code, the Processing Software, the Documentation, any information acquired from the Service or the Service;
 
 7.2.5 remove any proprietary notices or labels on the Software or which are otherwise placed by the Service; or
 
@@ -294,7 +326,7 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 by accessing and using the Service, You acknowledge and agree to the following terms regarding the downloaded reports and exported data:
 
-8.4.1 Confidentiality Obligations: The reports and exported data downloaded from the GameAnalytics Platform (“Downloaded Data”) are considered confidential and proprietary information. Company agrees to maintain the utmost confidentiality with respect to the Downloaded Data and treat it as strictly confidential.
+8.4.1 Confidentiality Obligations: The materials, information, reports and exported data downloaded from the GameAnalytics Platform (“Downloaded Data”) are considered confidential and proprietary information. Company agrees to maintain the utmost confidentiality with respect to the Downloaded Data and treat it as strictly confidential.
 
 8.4.2 Prohibition of Resale: You expressly agree not to resell, distribute, publish, reproduce, or otherwise make the Downloaded Data available to any third party, whether for commercial or non-commercial purposes, without obtaining our prior written consent. This prohibition includes, but is not limited to, selling, licensing, sublicensing, leasing, or providing access to the Downloaded Data to any other individual, organization, or entity.
 
@@ -403,6 +435,8 @@ by accessing and using the Service, You acknowledge and agree to the following t
 
 13.6 Subject to Clauses 13.1 and 13.2, GameAnalytics’ (and its wholly owned subsidiaries’) total cumulative liability (whether in contract, tort – including negligence – or otherwise) to You under or in connection with this Agreement shall not exceed DKK 1,000.
 
+13.7 WHEN ACCESSING AND USING MARKETIQ, YOU MAY ENCOUNTER THIRD-PARTY INFORMATION, DATA, OPINIONS, IMAGES, VIDEOS, ETC. GAMEANALYTICS DOES NOT REVIEW OR CONTROL SUCH THIRD-PARTY CONTENT. YOU ARE RESPONSIBLE FOR VERIFYING THE AUTHENTICITY, LEGALITY, AND VALIDITY OF THIRD-PARTY CONTENT AND ASSUME ALL ASSOCIATED RISKS.
+
 14\. Proprietary rights notice
 ------------------------------
 
@@ -415,6 +449,10 @@ by accessing and using the Service, You acknowledge and agree to the following t
 14.2.2 register, attempt to register or assist any third party to register or attempt to register any trademark, service mark, trade or business name, logo, domain name, other distinctive brand feature or any other copyrighted material or proprietary right associated with the Service or with GameAnalytics, otherwise than in the name of GameAnalytics and with GameAnalytics express prior written consent;
 
 14.2.3 remove, obscure or alter any notice of copyright, trademark or other proprietary right notice appearing in or on any item included with the Service.
+
+14.3 Especially when accessing and using the MarketIQ product, You acknowledge that the contents displayed through the product may be sourced from publicly available information, and ownership remains with the original rights holders. **You confirm and agree that these contents are provided solely for monitoring and learning purposes. You can not use the contents for any commercial or illegal purposes. The materials displayed are subject to the nature of public advertisements and are not intended for redistribution or commercial exploitation.**
+
+14.4 Based on the fact that the MarketIQ product has the function of displaying and analyzing advertising materials, **You understand and agree that the materials viewed by GameAnalytics or GameAnalytics’s partners using the MarketIQ product may include advertising materials placed on mobile applications and websites by You. GameAnalytics will not be held legally liable for the use of Your advertising materials in any way.**
 
 15\. Term and termination
 -------------------------
