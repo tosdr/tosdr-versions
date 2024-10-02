@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is a Full Backup?](https://www.backup4all.com/full-backup-kb.html)  
+* [Troubleshooting installation errors](https://www.backup4all.com/troubleshooting-installation-errors-kb.html)  
     
-* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
+* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
     
-* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
+* [How to back up to multiple destinations](https://www.backup4all.com/how-to-back-up-to-multiple-destinations-kb.html)  
     
-* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
+* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
     
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
+* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
     
 
 Choose language:
