@@ -309,7 +309,7 @@ Help
 
 * [Support Center](https://zenfolio.com/support/)
 * [Online Training](https://zenfolio.com/community/events/)
-* [Site Status (opens in a new tab)](https://status.zenfolio.com/)
+* [Site Status](https://status.zenfolio.com/)
 
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
