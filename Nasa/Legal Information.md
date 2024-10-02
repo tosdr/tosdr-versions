@@ -263,19 +263,19 @@ article 6 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
+[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+
+3 min read
+
+### NASA Prepares for Lunar Terrain Vehicle Testing
+
+article 3 hours ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
 
 2 min read
 
 ### Risk of radiation-induced cancers
 
-article 22 hours ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![Aurora](https://www.nasa.gov/wp-content/uploads/2023/06/aurora1.png?w=1024)
-
-1 min read
-
-### Space Radiation Risks
-
-article 22 hours ago](https://www.nasa.gov/space-radiation-risks/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
 
 2 min read
 
@@ -285,7 +285,13 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Highlights
 
-[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
+
+4 min read
+
+### Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds
+
+article 4 hours ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find-new-gamma-ray-emission-in-storm-clouds/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
@@ -297,39 +303,39 @@ article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-cap
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
-
-11 min read
-
-### NASA’s Eyes for Museums
-
-article 7 days ago](https://science.nasa.gov/eyes/museums/)
+article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)
 
 ### Highlights
 
-[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+
+6 min read
+
+### What’s Up: October 2024 Skywatching Tips from NASA
+
+article 4 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
+
+7 min read
+
+### NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
+
+article 5 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![October’s Night Sky Notes: Catch Andromeda Rising!](https://science.nasa.gov/wp-content/uploads/2023/07/Andromeda_Galaxy.jpeg)
-
-3 min read
-
-### October’s Night Sky Notes: Catch Andromeda Rising!
-
-article 1 day ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/catch-andromeda-rising/)[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
-
-3 min read
-
-### How NASA Uses and Improves Solar Power
-
-article 6 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)
+article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
 
 ### Featured
 
-[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
+[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+
+6 min read
+
+### NASA’s TESS Spots Record-Breaking Stellar Triplets
+
+article 5 hours ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
 
 2 min read
 
@@ -341,35 +347,29 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
-
-11 min read
-
-### NASA’s Eyes for Museums
-
-article 7 days ago](https://science.nasa.gov/eyes/museums/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/09/iss070e117532.jpg?w=1024)
-
-6 min read
-
-### NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
-
-article 23 hours ago](https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
-
-4 min read
-
-### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
-
-article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Eclipsing Binary Patrol](https://science.nasa.gov/wp-content/uploads/2024/09/ebs-logo.jpeg)
+[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
 
 2 min read
 
-### Eclipsing Binary Patrol
+### Amendment 57: ROSES-24 Changes for 2 CFR 200 Update
 
-article 2 days ago](https://science.nasa.gov/citizen-science/eclipsing-binary-patrol/)
+article 1 hour ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![GeneLab for High Schools (GL4HS) Education Resources translated to Spanish.](https://www.nasa.gov/wp-content/uploads/2024/09/gl4hs-spanish.png?w=266)
+
+2 min read
+
+### GeneLab Educational Resources Now Available in Spanish!
+
+article 3 hours ago](https://www.nasa.gov/genelab-educational-resources-now-available-in-spanish/)[![Image of detectors on spacecraft operating Beyond Low Earth Orbit (BLEO) that have been added to RadLab.](https://www.nasa.gov/wp-content/uploads/2024/09/bleo-annotated-withcopyrights.png?w=1024)
+
+2 min read
+
+### RadLab Portal Expands Horizons
+
+article 3 hours ago](https://www.nasa.gov/radlab-portal-expands-horizons/)
 
 ### Highlights
 
@@ -407,7 +407,7 @@ article 5 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoff
 
 ### NASA’s Record-Breaking Laser Demo Completes Mission
 
-article 7 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
+article 1 week ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
 
 1 min read
 
@@ -445,7 +445,7 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
 
-article 7 days ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
+article 1 week ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
 
 4 min read
 
