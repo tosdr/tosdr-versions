@@ -87,7 +87,6 @@ SearchSubmit search
 
 ##### Currently open for proposals:
 
-* [NGI0 Core](https://nlnet.nl/core/)
 * [NGI0 Commons Fund](https://nlnet.nl/commonsfund/)
 * [NGI TALER](https://nlnet.nl/taler/)
 * [NGI Mobifree](https://nlnet.nl/mobifree/)
