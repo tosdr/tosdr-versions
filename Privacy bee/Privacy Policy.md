@@ -311,7 +311,7 @@ _6.8.3_ To request access to or deletion of your Personal Data, or to exercise a
 
 **7\.** **Data Processing**. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries and territories, which may have different privacy laws from your country of residence.
 
-**8\.** **Information Retention**. We will retain information your information for as long as you utilize the Services, as required to comply with privacy requests, to manage active accounts, as required by law, in order to resolve disputes or to enforce our agreements. We may also retain copies of your information for disaster recovery purposes.
+**8\. Information Retention**. We will retain information your information for as long as you utilize the Services plus up to one year after you terminate your relationship with Privacy Bee, as required to comply with privacy requests, to manage active accounts, as required by law, in order to resolve disputes or to enforce our agreements. We may also retain copies of your information for disaster recovery purposes. If you specifically request we delete your data, we will fully purge it as quickly as possible, while staying legally compliant.
 
 **9\.** **Security**. We take security seriously and have implemented administrative, physical, and technological measures to protect your information from unauthorized access, loss, misuse, disclosure, alteration and destruction. If you wish to report a security concern or if you have a question around security, please submit your inquiry to _[\[email protected\]](https://privacybee.com/cdn-cgi/l/email-protection)_.
 
