@@ -96,90 +96,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Human Body
-
-[![](/i/Main%20Stage%20-%201400x1050/dna_tech_1400x1050.jpg)](https://www.icr.org/article/latest-dna-tech-still-light-years-behind)
-
-[Latest DNA Tech Still Light-Years Behind](https://www.icr.org/article/latest-dna-tech-still-light-years-behind/)
-
-Let’s say you recorded a library of books onto DNA. Hundreds of books could fit on your fingertip, but how would you find the one book you wanted? As...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/Hyperbaric_Research_1400x1050.jpg)](https://www.icr.org/article/hyperbaric-research-and-the-pre-flood-atmosphere)
-
-[Hyperbaric Research and the Pre-Flood Atmosphere](https://www.icr.org/article/hyperbaric-research-and-the-pre-flood-atmosphere/)
-
-Creationists have long speculated about the earth’s environment prior to the global Flood—conditions which may have contributed to the long...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/Sinus_Bacteria_Health_1400x1050.jpg)](https://www.icr.org/article/divine-engineered-sinus-bacteria-essential-health)
-
-[Divinely Engineered Sinus Bacteria Essential for Health](https://www.icr.org/article/divine-engineered-sinus-bacteria-essential-health/)
-
-Many people are aware that our digestive tract is full of beneficial bacteria that not only help us process our food, but also support a strong immune...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-More Creation Q&A
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/lions_always_lions.jpg)](https://www.icr.org/article/have-lions-always-been-lions)
-
-[Have Lions Always Been Lions?](https://www.icr.org/article/have-lions-always-been-lions/)
-
-“Can you hunt the prey for the lion, or satisfy the appetite of the young lions, when they crouch in their dens, or lurk in their lairs to lie...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_radioisotope_dating.jpg)](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth)
-
-[Does Radioisotope Dating Prove an Old Earth?](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth/)
-
-Tim Clarey, Ph.D., and Vernon R. Cupps, Ph.D.\* When most people think about radioisotope dating, they think of carbon-14 (C-14), or radiocarbon...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/is_bible_evidence.jpg)](https://www.icr.org/article/is-the-bible-evidence-for-creation)
-
-[Is the Bible Evidence for Creation?](https://www.icr.org/article/is-the-bible-evidence-for-creation/)
-
-Have you ever had a skeptic tell you to keep the Bible out of it when discussing origins? Skeptics claim we Christians argue in a circle, that we are...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
-
-The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
-
-$9.99
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
-
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
-
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
-
-$14.99
-
-$19.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
@@ -232,7 +148,7 @@ Content ©2024 Institute for Creation Research
     * [Bible](https://www.icr.org/defenders_chapters/)
     * [Creation Kids](https://www.icr.org/creationkids/)
     * [Technical Papers](https://www.icr.org/articles/type/12/)
-    * [Books](http://store.icr.org/New-Resources/products/17/)
+    * [Catalog](https://www.icr.org/article/icr-2024-resource-catalog/)
     * [Subscriptions](https://www.icr.org/subscriptions/)
     * [Submissions](https://www.icr.org/submissions/)
 * [Media](https://www.icr.org/video/)
