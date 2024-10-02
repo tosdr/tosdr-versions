@@ -1,124 +1,130 @@
-[Support](https://help.bill.com/direct/s/)
-
-Login
-
-[AP & AR Login
-
-(Accounts Payable & Receivable)](https://login.us.bill.com/login)[Spend & Expense Login
-
-(Formerly Divvy)](https://app.divvy.co/login)[Need help logging in?](https://help.bill.com/direct/s/article/2562)
-
-Accounting Firm Login
-
-[Accountant Console Login](https://login.us.bill.com/login)[Spend & Expense Login
-
-(Formerly Divvy)](https://app.divvy.co/login)[Need help logging in?](https://help.bill.com/direct/s/article/2562)
-
-[Support](https://help.bill.com/direct/s/)[Login](https://login.us.bill.com/neo/login)
-
 [![Logo](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/649488c838360d22ac08b864_bill-logo.svg)](https://getdivvy.com/)
 
-Product
+AP & AR
 
-![illustrated dollar bill](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c296425929eaa1d0d60_spot-addpayment-1-orange.webp)
+Overview
 
-Accounts Payable & Receivable
+[Accounts Payable](https://getdivvy.com/product/accounts-payable)[Accounts Receivable](https://getdivvy.com/product/accounts-receivable)[Cashflow Forecasting](https://getdivvy.com/product/cash-flow-forecasting)[Integrations](https://getdivvy.com/integrations)
 
-Streamline how you pay and get paid
+Features
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645ab74d75e323b33814e6da_arrow-right.svg)
+[Pay By Card](https://getdivvy.com/product/pay-by-card)[Invoicing](https://getdivvy.com/product/invoicing)[ACH Payments](https://getdivvy.com/product/ach-payment-processing)[Controls](https://getdivvy.com/product/accounts-payable-controls)[International Payments](https://getdivvy.com/product/international-payments)[Security](https://getdivvy.com/product/security)[Approvals](https://getdivvy.com/product/payment-approvals)[API](https://getdivvy.com/product/api)
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/64d4766ff4a21126a576024e_spot-card-1.webp)
+[Explore BILL's Integrated Platform](https://getdivvy.com/product)[Support](https://help.bill.com/direct/s/)
+
+Streamline how you pay and get paid.
+
+[Request a Demo](https://getdivvy.com/demo-request)
+
+![a financial manager getting payments quickly approved](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66d7836ee798f153d075915e_navimg-apar.png)
 
 Spend & Expense
 
-Get credit, control budgets, manage spend
+Overview
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645ab74d75e323b33814e6da_arrow-right.svg)
+[BILL Spend & Expense](https://getdivvy.com/product/spend-and-expense)[Business Credit](https://getdivvy.com/product/credit)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Integrations](https://getdivvy.com/integrations)
 
-[Accounts Payable](https://getdivvy.com/product/accounts-payable)[Accounts Receivable](https://getdivvy.com/product/accounts-receivable)[Accountant Console](https://getdivvy.com/product/accountant-console)[Pay By Card](https://getdivvy.com/product/pay-by-card)[ACH Payments](https://getdivvy.com/product/ach-payment-processing)[International Payments](https://getdivvy.com/product/international-payments)[Invoicing](https://getdivvy.com/product/invoicing)[Approvals](https://getdivvy.com/product/payment-approvals)[Integrations](https://getdivvy.com/integrations)[Controls](https://getdivvy.com/product/accounts-payable-controls)[Cash Flow Forecasting](https://getdivvy.com/product/cash-flow-forecasting)[Security](https://getdivvy.com/product/security)
+Features
 
-[Explore BILL's Integrated Platform](https://getdivvy.com/product)
+[Expense Management](https://getdivvy.com/product/expenses)[Rewards](https://getdivvy.com/product/rewards)[Budget Management](https://getdivvy.com/product/budgets)[Reimbursements](https://getdivvy.com/product/reimbursements)[Mobile App](https://getdivvy.com/product/download)[Payments Services](https://getdivvy.com/product/payments-services)[Reporting & Insights](https://getdivvy.com/product/reporting)[API](https://getdivvy.com/product/api)
 
-[Spend & Expense](https://getdivvy.com/product/spend-and-expense)[Expense Management](https://getdivvy.com/product/expenses)[Rewards](https://getdivvy.com/product/rewards)[Budget Management](https://getdivvy.com/product/budgets)[Mobile App](https://getdivvy.com/product/download)[Business Credit](https://getdivvy.com/product/credit)[Payments Services](https://getdivvy.com/product/payments-services)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Reporting & Insights](https://getdivvy.com/product/reporting)[Reimbursements](https://getdivvy.com/product/reimbursements)[Integrations](https://getdivvy.com/integrations)
+[Explore BILL's Integrated Platform](https://getdivvy.com/product)[Support](https://help.bill.com/direct/s/)
 
-[Explore BILL's Integrated Platform](https://getdivvy.com/product)
+Get credit, control budgets, and manage spend.
 
-Learn how you can simplify your bills.
+[Request a Demo](https://getdivvy.com/demo-request)
 
-[Start using BILL today](https://getdivvy.com/signup)
+![A team member getting rewards for spending with her corporate card](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66d7836d1bf257cbf4875868_navimg-se.png)
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
+Accounting Firms
+
+[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9da443eb2cd50b6ce_spot-invoice-1.png)
+
+BILL for Accounting Firms
+
+Maximize efficiency and accelerate growth](https://getdivvy.com/for-accountants)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9bb39c6130ed2c6b5_spot-devices-1.png)
+
+BILL for Wealth Management
+
+Manage high-net worth clients with confidence](https://getdivvy.com/wealth-management)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9ee22b8c61afa5725_spot-search-1.png)
+
+Accountant Resource Center
+
+Tips, tools, and training for accountants](https://getdivvy.com/accountant-resource-center)
+
+Learn & Connect
+
+[Accountant Console](https://getdivvy.com/product/accountant-console)[Accountant Partner Program](https://getdivvy.com/accountant-partner-program)[Pricing for Accountants](https://getdivvy.com/product/pricing#accountants)[Accountant Community Login](https://billcommunity.bettermode.io/)[Request a Demo](https://getdivvy.com/demo-request)
+
+Your change management checklist
+
+[Read the Article](https://getdivvy.com/accountant-resource-center/articles/your-change-management-checklist)
+
+![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66a26129cb5afa06332ba16b_spot-complete-check.png)
 
 Solutions
 
-[![illustrated computer and package](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c3bbbaf4633c440d976_spot-shopping-1-orange.webp)
+[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09aca900305865770915a_spot-shopping-1.png)
 
 Small Businesses
 
-Easily manage & automate your processes](https://getdivvy.com/solutions/small-businesses)[![illustrated buildings](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4aafc045f818b46b53_spot-vendor-1-orange.webp)
+Easily manage & automate your processes](https://getdivvy.com/solutions/small-businesses)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9de6b1f4cac625652_spot-vendor-1.png)
 
 Midsize Companies
 
-Scale your finance operations efficiently](https://getdivvy.com/solutions/mid-sized-companies)
+Scale your financial operations efficiently](https://getdivvy.com/solutions/mid-sized-companies)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac93a366222e2320ba3_spot-multi-entity.png)
 
-###### By Industry
+Multi-Entity
 
-[Construction](https://getdivvy.com/solutions/construction)[Professional Services](https://getdivvy.com/solutions/professional-services)[Education](https://getdivvy.com/solutions/education)[Retail and Ecommerce](https://getdivvy.com/solutions/retail-ecommerce)[Healthcare](https://getdivvy.com/solutions/healthcare)[Software and Technology](https://getdivvy.com/solutions/software-and-technology)[Hospitality](https://getdivvy.com/solutions/hospitality)[Multi-Entity Solutions](https://getdivvy.com/solutions/multi-entity)[Nonprofits](https://getdivvy.com/solutions/nonprofits)[Wealth Management](https://getdivvy.com/wealth-management)[Manufacturing](https://getdivvy.com/solutions/manufacturing)
+Automate for multiple entities or locations](https://getdivvy.com/solutions/multi-entity)
+
+By Industry
+
+[Construction](https://getdivvy.com/solutions/construction)[Nonprofits](https://getdivvy.com/solutions/nonprofits)[Education](https://getdivvy.com/solutions/education)[Professional Services](https://getdivvy.com/solutions/professional-services)[Healthcare](https://getdivvy.com/solutions/healthcare)[Retail and Ecommerce](https://getdivvy.com/solutions/retail-ecommerce)[Hospitality](https://getdivvy.com/solutions/hospitality)[Software and Technology](https://getdivvy.com/solutions/software-and-technology)[Manufacturing](https://getdivvy.com/solutions/manufacturing)[Wealth Management](https://getdivvy.com/wealth-management)
 
 Millions of businesses and accounting firms trust BILL.
 
-[Explore customer stories](https://getdivvy.com/case-study)
+[Explore Customer Stories](https://getdivvy.com/case-study)
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
+![a satisfied small business owner](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66d7836dc5527a86ad4de149_navimg-solutions.png)
 
 Resources
 
-[![illustrated glasses with document](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4200149851f1b06189_spot-tutorial-1-orange.webp)
+[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9e6adc1ce3364e60d_spot-tutorial-1.png)
 
 Resource Center
 
-Explore events, guides, and downloadable tools related to your topics of interest](https://getdivvy.com/resources)[![illustrated pen](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c34afe8ee31e20214e4_spot-pen-1-orange.webp)
+Guides, events, and downloadables from BILL](https://getdivvy.com/resources)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac92b0f08ca5c75976b_spot-pen-1.png)
 
-Blog
+BILL Blog
 
-Stay up-to-date with the latest articles to improve your financial operations.](https://getdivvy.com/blog)[![illustrated delivery man](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4a00f52910c52d1b87_spot-vendor-2-orange.webp)
+The #1 blog on all things financial operations](https://getdivvy.com/blog)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09aca9003058657709151_spot-vendor-2.png)
 
 Customer Stories
 
-Discover why millions of businesses and top accounting firms use BILL](https://getdivvy.com/case-study)
+See how BILL helps thousands of businesses](https://getdivvy.com/case-study)
 
-###### Learn & Connect
+Learn & Connect
 
-[Learning Center](https://getdivvy.com/learning)[Guides](https://getdivvy.com/guides)[BILL Product Updates](https://getdivvy.com/product-updates)[Webinars](https://getdivvy.com/webinars)[Find an Accountant](https://getdivvy.com/find-an-accountant)[Business Templates](https://getdivvy.com/business-templates)[Accountant Resource Center](https://getdivvy.com/accountant-resource-center)
-
-###### Recently Featured
-
-[![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66ecee7085d3393ae269135d_guide-hero.png)
+[Learning Center](https://getdivvy.com/learning)[Guides](https://getdivvy.com/guides)[Webinars](https://getdivvy.com/webinars)[Business Templates](https://getdivvy.com/business-templates)[BILL Product Updates](https://getdivvy.com/product-updates)[Find an Accountant](https://getdivvy.com/find-an-accountant)
 
 4 ways financial automation amplifies efficiency in healthcare
 
-Download the guide](https://getdivvy.com/guides/4-ways-financial-automation-amplifies-efficiency-in-healthcare)
+[Get the Guide](https://getdivvy.com/guides/4-ways-financial-automation-amplifies-efficiency-in-healthcare)
 
-[![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66bd3eeeedeb9d6ee29e31ad_webinar-ai.png)
-
-Bringing AI to Accounting Firms
-
-Download the guide](https://getdivvy.com/guides/bringing-ai-to-accounting-firms)
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
+![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66ecee7085d3393ae269135d_guide-hero.png)
 
 Company
 
-[![illustrated stack of invoices](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c2bb935463bf973dd68_spot-document-2-orange.webp)
+[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9023abfe4518dd07c_spot-document-2.png)
 
 Press Releases
 
-Official communications from BILL](https://getdivvy.com/press-release)[![illustrated magnifying glass](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c48642592281e1d0f7b_spot-search-1-orange.webp)
+Official communications from BILL](https://getdivvy.com/press-release)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac944381a7eed835878_spot-group-1.png)
 
 Investor Relations
 
-Information and resources for investors](https://investor.bill.com/overview/default.aspx)[![illustrated 3 people](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c380014989949b0613e_spot-group-1-orange.webp)
+Information and resources for investors](https://investor.bill.com/overview/default.aspx)[![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66e09ac9d8e9cc913add3861_spot-careers.png)
 
 Careers
 
@@ -126,121 +132,19 @@ We're Hiring!
 
 Careers overview and current job openings](https://getdivvy.com/about-us/careers)
 
-###### About BILL
+About BILL
 
 [Our Story](https://getdivvy.com/about-us)[Leadership](https://getdivvy.com/leadership)[News Coverage](https://getdivvy.com/about-us/newsroom)[Press Kit](https://getdivvy.com/press-kit)[Contact Us](https://getdivvy.com/contact-us)
 
 BILL is making the financial back office a better place.
 
-[Start using BILL today](https://getdivvy.com/signup)
+[Start Using BILL Today](https://getdivvy.com/signup)
 
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
-
-[Accounting Firms](https://getdivvy.com/for-accountants)
+![A motivated businessman working at his desk](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/66d7836eb1d768dd31fcfd9c_navimg-company.png)
 
 [Pricing](https://getdivvy.com/product/pricing)
 
-[Get Started](https://getdivvy.com/signup)
-
-Product
-
-###### Accounts Payable & Receivable Features
-
-Streamline how you pay and get paid
-
-[Accounts Payable](https://getdivvy.com/product/accounts-payable)[Accounts Receivable](https://getdivvy.com/product/accounts-receivable)[Accountant Console](https://getdivvy.com/product/accountant-console)[Pay By Card](https://getdivvy.com/product/pay-by-card)[ACH Payments](https://getdivvy.com/product/ach-payment-processing)[International Payments](https://getdivvy.com/product/international-payments)[Invoicing](https://getdivvy.com/product/invoicing)[Approvals](https://getdivvy.com/product/payment-approvals)[Integrations](https://getdivvy.com/integrations)[Controls](https://getdivvy.com/product/accounts-payable-controls)[Cash Flow Forecasting](https://getdivvy.com/product/cash-flow-forecasting)[Security](https://getdivvy.com/product/security)
-
-###### Spend & Expense Features
-
-Get credit, control budgets, manage spend
-
-[Spend & Expense](https://getdivvy.com/product/spend-and-expense)[Expense Management](https://getdivvy.com/product/expenses)[Rewards](https://getdivvy.com/product/rewards)[Budget Management](https://getdivvy.com/product/budgets)[Mobile App](https://getdivvy.com/product/download)[Business Credit](https://getdivvy.com/product/credit)[Payments Services](https://getdivvy.com/product/payments-services)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Reporting & Insights](https://getdivvy.com/product/reporting)[Reimbursements](https://getdivvy.com/product/reimbursements)[Integrations](https://getdivvy.com/integrations)
-
-[Explore BILL's Integrated Platform](https://getdivvy.com/signup)
-
-Learn how you can simplify your bills.
-
-[Experience a Product Demo](https://getdivvy.com/signup)
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
-
-Solutions
-
-[![illustrated computer and package](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c3bbbaf4633c440d976_spot-shopping-1-orange.webp)
-
-Small Businesses
-
-Easily manage & automate your processes](https://getdivvy.com/solutions/small-businesses)[![illustrated buildings](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4aafc045f818b46b53_spot-vendor-1-orange.webp)
-
-Midsize Companies
-
-Scale your finance operations efficiently](https://getdivvy.com/solutions/mid-sized-companies)
-
-###### By Industry
-
-[Construction](https://getdivvy.com/solutions/construction)[Professional Services](https://getdivvy.com/solutions/professional-services)[Education](https://getdivvy.com/solutions/education)[Retail and Ecommerce](https://getdivvy.com/solutions/retail-ecommerce)[Healthcare](https://getdivvy.com/solutions/healthcare)[Software and Technology](https://getdivvy.com/solutions/software-and-technology)[Hospitality](https://getdivvy.com/solutions/hospitality)[Multi-Entity Solutions](https://getdivvy.com/solutions/multi-entity)[Nonprofits](https://getdivvy.com/solutions/nonprofits)[Wealth Management](https://getdivvy.com/wealth-management)[Manufacturing](https://getdivvy.com/solutions/manufacturing)
-
-Millions of businesses and accounting firms trust BILL.
-
-[Explore customer stories](https://getdivvy.com/case-study)
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
-
-Resources
-
-[![illustrated glasses with document](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4200149851f1b06189_spot-tutorial-1-orange.webp)
-
-Resource Center
-
-Explore events, guides, and downloadable tools related to your topics of interest](https://getdivvy.com/resources)[![illustrated pen](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c34afe8ee31e20214e4_spot-pen-1-orange.webp)
-
-Blog
-
-Stay up-to-date with the latest articles to improve your financial operations.](https://getdivvy.com/blog)[![illustrated delivery man](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c4a00f52910c52d1b87_spot-vendor-2-orange.webp)
-
-Customer Stories
-
-Discover why millions of businesses and top accounting firms use BILL](https://getdivvy.com/case-study)
-
-###### Learn & Connect
-
-[Learning Center](https://getdivvy.com/learning)[Webinars](https://getdivvy.com/webinars)[Guides](https://getdivvy.com/guides)[Business Templates](https://getdivvy.com/business-templates)[BILL Product Updates](https://getdivvy.com/product-updates)[Accountant Resource Center](https://getdivvy.com/accountant-resource-center)[Find an Accountant](https://getdivvy.com/find-an-accountant)
-
-###### Recently Featured
-
-No items found.
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
-
-Company
-
-[![illustrated stack of invoices](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c2bb935463bf973dd68_spot-document-2-orange.webp)
-
-Press Releases
-
-Official communications from BILL](https://getdivvy.com/press-release)[![illustrated magnifying glass](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c48642592281e1d0f7b_spot-search-1-orange.webp)
-
-Investor Relations
-
-Information and resources for investors](https://investor.bill.com/overview/default.aspx)[![illustrated 3 people](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/644f1c380014989949b0613e_spot-group-1-orange.webp)
-
-Careers
-
-We're Hiring!
-
-Careers overview and current job openings](https://getdivvy.com/about-us/careers)
-
-###### About BILL
-
-[Our Story](https://getdivvy.com/about-us)[Leadership](https://getdivvy.com/leadership)[News Coverage](https://getdivvy.com/about-us/newsroom)[Press Kit](https://getdivvy.com/press-kit)[Contact Us](https://getdivvy.com/contact-us)
-
-BILL is making the financial back office a better place.
-
-[Start using BILL today](https://getdivvy.com/signup)
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
-
-[Accounting Firms](https://getdivvy.com/for-accountants)[Pricing](https://getdivvy.com/product/pricing)
+[Login](https://login.us.bill.com/neo/login)
 
 [Get Started](https://getdivvy.com/signup)
 
