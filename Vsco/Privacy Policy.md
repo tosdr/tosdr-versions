@@ -19,19 +19,19 @@ If you’re a resident of California, Colorado, Connecticut, Montana, Oregon, Te
 Table of Contents
 -----------------
 
-1. [Data we collect](#)
-2. [How we use your data](#)
-3. [How we share your data](#)
-4. [How long we keep your data](#)
-5. [Your choices](#)
-6. [How we secure your data](#)
-7. [International data transfer](#)
-8. [General audience service](#)
-9. [Changes to this Privacy Policy](#)
-10. [How to contact us](#)
-11. [U.S. State Law Privacy Rights](#)
-12. [Privacy Notice to European Creators](#)
-13. [**Privacy Notice for China Residents**](#)
+1. [Data we collect](#1-data-we-collect)
+2. [How we use your data](#2-how-we-use-your-data)
+3. [How we share your data](#3-how-we-share-your-data)
+4. [How long we keep your data](#4-how-long-we-keep-your-data)
+5. [Your choices](#5-your-choices)
+6. [How we secure your data](#6-how-we-secure-your-data)
+7. [International data transfer](#7-international-data-transfer)
+8. [General audience service](#8-general-audience-service)
+9. [Changes to this Privacy Policy](#9-changes-to-this-privacy-policy)
+10. [How to contact us](#10-how-to-contact-us)
+11. [U.S. State Law Privacy Rights](#11-state-law-privacy-rights)
+12. [Privacy Notice to European Creators](#12-privacy-notice-to-european-countires)
+13. [Privacy Notice for China Residents](#13-privacy-notice-for-china-residents)
 
 #### Data we collect
 
