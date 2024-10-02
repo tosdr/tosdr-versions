@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://www.theepochtimes.com/us/speaker-johnson-congress-already-provided-funds-for-helene-response-5733889)
+    
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Speaker Johnson: Congress Already Provided FEMA Funds for Helene Response](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733233-AP24274608835042.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-congress-already-provided-funds-for-helene-response-5733889)
+* [3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://www.theepochtimes.com/world/3-swedes-arrested-after-explosions-near-israeli-embassy-in-denmark-5733929)
+    
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![3 Swedes Arrested After Explosions Near Israeli Embassy in Denmark](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733927-2024-10-02T061414Z_1_LYNXMPEK9105R_RTROPTP_4_DENMARK-BLAST-ISRAEL-1-205x123.jpg.webp)](https://www.theepochtimes.com/world/3-swedes-arrested-after-explosions-near-israeli-embassy-in-denmark-5733929)
+* [What We Know About Iran’s Missile Attack on Israel](https://www.theepochtimes.com/world/what-we-know-about-irans-missile-attack-on-israel-5733780)
+    
+    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![What We Know About Iran’s Missile Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What We Know About Iran’s Missile Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733849-Israel-Iran-Missile5.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-we-know-about-irans-missile-attack-on-israel-5733780)
+* [How Israel Defended Itself Against Iran’s Missile Attacks](https://www.theepochtimes.com/world/how-israel-defended-itself-against-irans-missile-attacks-5733776)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![How Israel Defended Itself Against Iran’s Missile Attacks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Israel Defended Itself Against Iran’s Missile Attacks](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733848-GettyImages-1254495486.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/how-israel-defended-itself-against-irans-missile-attacks-5733776)
 * [Vance, Walz Focus on Policy in Vice Presidential Debate](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
     
-    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733643-Walz-Vance-GettyImages-2175340178-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
+    ![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733850-Walz-Vance-GettyImages-2175340178.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
 * [Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
     
-    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730138-Gavin-Newsom-11_JF_09252024-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
+    ![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733981-Gavin-Newsom-11_JF_09252024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
 * [Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
     
-    NEW By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    7hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
     
     [![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/uploads/2023/04/03/id5168298-harris-africa-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
+    ![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733877-harris-africa-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
 * [In Helene-Hit North Carolina Counties, Politics Are On Pause](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
     
-    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733161-AP24274608835042-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
 * [5 Takeaways From the Vance-Walz Vice Presidential Debate](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
     
-    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733761-GettyImages-2175345121-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
+    ![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733853-GettyImages-2175345121-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
 * [Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/uploads/2019/10/03/Vlaming_25-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
-* [Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
-    
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
-* [Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
-    
-    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733509-GettyImages-2175293229-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
-* [Vance, Walz Debate Middle East, Border, Abortion](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
-    
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733645-Walz-Vance-debate-GettyImages-2175342498-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
-* [FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
-    
-    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733583-shutterstock_227614513_food_color_food_additives-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
+    ![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733847-Vlaming_25.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
