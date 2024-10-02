@@ -40,7 +40,7 @@ Back
 
 [![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
 
-All Policies](https://volteuropa.org/policies/policy-portfolio)
+All Policies](https://volteuropa.org/policies/all-policies)
 
 Themes
 
