@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Michele Fiore in an ad seeking to become the Republican nominee for governor of Nevada.](https://lawandcrime.com/wp-content/uploads/2024/07/Michele-Fiore-Youtube-screenshot-432x243.jpg)](https://lawandcrime.com/high-profile/trial-for-lady-trump-in-public-corruption-case-goes-sideways-as-defense-witness-appears-to-incriminate-herself-on-the-stand-obtains-lawyers-then-returns-to-plead-the-5th/)
+1. [![Terry Robinson Jr. and Destiny Culvahouse](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Terry-Robinson-Jr.-and--432x243.jpg)](https://lawandcrime.com/crime/stepfather-fatally-beat-5-year-old-boy-for-stealing-then-went-grocery-shopping-and-applied-for-a-job-cops/)
     
-    ### [Trial for 'Lady Trump' in public corruption case goes sideways as defense witness appears to incriminate herself on the stand, obtains lawyers, then returns to plead the 5th](https://lawandcrime.com/high-profile/trial-for-lady-trump-in-public-corruption-case-goes-sideways-as-defense-witness-appears-to-incriminate-herself-on-the-stand-obtains-lawyers-then-returns-to-plead-the-5th/)
+    ### [Stepfather fatally beat 5-year-old boy for 'stealing,' then went grocery shopping and applied for a job: Cops](https://lawandcrime.com/crime/stepfather-fatally-beat-5-year-old-boy-for-stealing-then-went-grocery-shopping-and-applied-for-a-job-cops/)
     
-2. [![Nicholas Carter](https://lawandcrime.com/wp-content/uploads/2024/10/Nicholas-Carter-432x243.jpg)](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+2. [![Background: The Children's Courtyard location in South Austin, Tex. (Google Maps). Insets: Screengrabs of an allegedly abusive interaction between a caregiver and a child (via court filing).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Childrens-Courtyard-lawsuit-432x243.jpg)](https://lawandcrime.com/lawsuit/worst-nightmare-became-a-reality-day-care-worker-yanks-and-dangles-child-before-tossing-her-on-to-nap-mat-lawsuit-says/)
     
-    ### ['Several clumps of fuzzy fecal matter': Father calls home with 5 children living in urine, mold and rotting food 'a little dirty,' cops say](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+    ### ['Worst nightmare became a reality': Day care worker 'yanks' and 'dangles' child before tossing her on to nap mat, lawsuit says](https://lawandcrime.com/lawsuit/worst-nightmare-became-a-reality-day-care-worker-yanks-and-dangles-child-before-tossing-her-on-to-nap-mat-lawsuit-says/)
     
-3. [![Carter J. Curtis appears in a booking photo](https://lawandcrime.com/wp-content/uploads/2024/10/Carter-Curtis-432x243.jpg)](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
+3. [![Pretty woman escorts](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Pretty-Woman-escorts-432x243.jpg)](https://lawandcrime.com/crime/mother-son-duo-arrested-for-running-pretty-woman-escorts-service-with-one-of-the-most-lucrative-vip-client-lists-in-south-florida-for-25-years-cops-allege/)
+    
+    ### [Mother-son duo arrested for running Pretty Woman Escorts service with 'one of the most lucrative VIP client lists in South Florida' for 25 years, cops allege](https://lawandcrime.com/crime/mother-son-duo-arrested-for-running-pretty-woman-escorts-service-with-one-of-the-most-lucrative-vip-client-lists-in-south-florida-for-25-years-cops-allege/)
+    
+4. [![Background: Thomas Manis takes a field sobriety test administered by Tennessee Highway Patrol (WSMV). Insets, top to bottom: Angela Manis, Thomas Manis (WSMV).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Manis-Angela-Manis-432x243.jpg)](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
+    
+    ### [Sober driver arrested for DUI and thrown in jail because officer knew his brother, 'guaranteed' he had weed in the car: Lawsuit](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
+    
+5. [![Carter J. Curtis appears in a booking photo](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Carter-Curtis-432x243.jpg)](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
     
     ### ['I had to do it': Teen who 'has never been violent' hands rifle to mom and walks away after putting bullet in dad's head, police say](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
-    
-4. [![Cassidy Hutchinson](https://lawandcrime.com/wp-content/uploads/2023/09/Cassidy-Hutchinson-Andrew-Weissmann-Stefan-Passantino-432x243.jpg)](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
-    
-    ### [Top Mueller prosecutor Andrew Weissmann fails to dismiss Trump WH lawyer's defamation suit over tweet claiming he 'coached' star Jan. 6 witness to 'lie'](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
-    
-5. [![FILE - Hunter Biden departs from federal court June 11, 2024, in Wilmington, Del. (AP Photo/Matt Slocum)](https://lawandcrime.com/wp-content/uploads/2024/09/Hunter-Biden-24248537937022-432x243.jpg)](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
-    
-    ### [IRS fails to get rid of Hunter Biden lawsuit over leaked tax returns](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
     
 
 [](http://eepurl.com/c89Jdb)
