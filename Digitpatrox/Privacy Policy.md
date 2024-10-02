@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, October 1 2024
+Wednesday, October 2 2024
 
 Latest
 
-* [Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
-* [Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
-* [Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
-* [Surging energy consumption and rising cloud costs have IT leaders sweating](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
-* [11 FREE Keyword Research Templates to Streamline SEO](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
-* [Our favorite Alexa speaker just dropped to $30 at Amazon — plus get a free smart bulb](https://digitpatrox.com/our-favorite-alexa-speaker-just-dropped-to-30-at-amazon-plus-get-a-free-smart-bulb/)
-* [We tested six smart rings, and there’s a clear winner](https://digitpatrox.com/we-tested-six-smart-rings-and-theres-a-clear-winner/)
-* [Microsoft Revamps Copilot AI with a Fresh UI, Copilot Voice, Vision, & More](https://digitpatrox.com/microsoft-revamps-copilot-ai-with-a-fresh-ui-copilot-voice-vision-more/)
-* [Microsoft expands Copilot across the Windows ecosystem, with new Vision and Copilot PC features](https://digitpatrox.com/microsoft-expands-copilot-across-the-windows-ecosystem-with-new-vision-and-copilot-pc-features/)
-* [you and your business need satellite comms – Computerworld](https://digitpatrox.com/you-and-your-business-need-satellite-comms-computerworld/)
+* [Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
+* [How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
+* [How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
+* [Graphics Cards Once Had Upgradable VRAM, So Why Not Today?](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
+* [What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
+* [Sleep hot? Cool off with Sleep Number’s latest smart bed, available now](https://digitpatrox.com/sleep-hot-cool-off-with-sleep-numbers-latest-smart-bed-available-now/)
+* [The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://digitpatrox.com/the-next-iphone-se-may-lose-the-home-button-add-face-id-and-apple-intelligence/)
+* [8 Best Games like Dress to Impress (DTI), Ranked](https://digitpatrox.com/8-best-games-like-dress-to-impress-dti-ranked/)
+* [Jamf appoints new CISO and global channel lead](https://digitpatrox.com/jamf-appoints-new-ciso-and-global-channel-lead/)
+* [WWW creator Tim Berners-Lee closes down his foundation – Computerworld](https://digitpatrox.com/www-creator-tim-berners-lee-closes-down-his-foundation-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-smaller-taskbar-icons-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3543512-0-32532100-1727806854-Copilot-Daily.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
     
-    [Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
-    
-    8 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727378617/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Cyber-Readiness-Report-0924)](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
-    
-    [Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
+    [Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
     
     18 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/imac-2021.png)](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
+* [![](https://lifehacker.com/imagery/articles/01J94Y27SV0TM96704V6JSTF80/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
     
-    [Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
+    [How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
     
-    19 mins ago
+    43 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/6zvLhxX6fpdjzFD8FCfGAN-1200-80.jpg)](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1665175031/prod/content/dam/CRO-Images-2022/Home/10October/CR-Home-Inlinehero-how-to-set-up-generator-fast-1022png)](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
     
-    [Surging energy consumption and rising cloud costs have IT leaders sweating](https://digitpatrox.com/surging-energy-consumption-and-rising-cloud-costs-have-it-leaders-sweating/)
+    [How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
+    
+    1 hour ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gpu-with-some-numbers-around-it.jpg)](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
+    
+    [Graphics Cards Once Had Upgradable VRAM, So Why Not Today?](https://digitpatrox.com/graphics-cards-once-had-upgradable-vram-so-why-not-today/)
     
     1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/keyword_research_templates_featured_10012024-min.png)](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/windows-update-oct-24.png)](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
     
-    [11 FREE Keyword Research Templates to Streamline SEO](https://digitpatrox.com/11-free-keyword-research-templates-to-streamline-seo/)
+    [What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
-    
-    ### Windows 11 adds option to make Taskbar icons smaller (build 22635.4291) in Beta Channel](https://digitpatrox.com/windows-11-adds-option-to-make-taskbar-icons-smaller-build-22635-4291-in-beta-channel/)
 * [18 mins ago
     
-    ### Digital Scams More Likely to Hurt Black and Latino Consumers](https://digitpatrox.com/digital-scams-more-likely-to-hurt-black-and-latino-consumers/)
-* [19 mins ago
+    ### Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
+* [43 mins ago
     
-    ### Your iMac Could Get This Display Bug](https://digitpatrox.com/your-imac-could-get-this-display-bug/)
+    ### How to Set Time Limits in ‘Fortnite’](https://digitpatrox.com/how-to-set-time-limits-in-fortnite/)
+* [1 hour ago
+    
+    ### How to Safely Set Up a Generator](https://digitpatrox.com/how-to-safely-set-up-a-generator/)
 
 Most Popular Topics
 
-* [August 20, 2024
+* [5 days ago
     
-    ### Reanimal is a Horrific Successor to The Little Nightmares Franchise](https://digitpatrox.com/reanimal-is-a-horrific-successor-to-the-little-nightmares-franchise/)
-* [4 weeks ago
+    ### All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
+* [September 1, 2024
     
-    ### Volvo EX90 first drive: not fully baked](https://digitpatrox.com/volvo-ex90-first-drive-not-fully-baked/)
-* [August 15, 2024
+    ### Should You Buy a Samsung Bespoke Fridge?](https://digitpatrox.com/should-you-buy-a-samsung-bespoke-fridge/)
+* [August 27, 2024
     
-    ### RayNeo Air 2S review | Tom’s Guide](https://digitpatrox.com/rayneo-air-2s-review-toms-guide/)
+    ### BCG execs: AI across the company increased productivity, ‘employee joy’](https://digitpatrox.com/bcg-execs-ai-across-the-company-increased-productivity-employee-joy/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### We tested six smart rings, and there’s a clear winner](https://digitpatrox.com/we-tested-six-smart-rings-and-theres-a-clear-winner/)
 * [3 hours ago
     
-    ### Microsoft Revamps Copilot AI with a Fresh UI, Copilot Voice, Vision, & More](https://digitpatrox.com/microsoft-revamps-copilot-ai-with-a-fresh-ui-copilot-voice-vision-more/)
+    ### The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://digitpatrox.com/the-next-iphone-se-may-lose-the-home-button-add-face-id-and-apple-intelligence/)
 * [4 hours ago
     
-    ### Microsoft expands Copilot across the Windows ecosystem, with new Vision and Copilot PC features](https://digitpatrox.com/microsoft-expands-copilot-across-the-windows-ecosystem-with-new-vision-and-copilot-pc-features/)
+    ### 8 Best Games like Dress to Impress (DTI), Ranked](https://digitpatrox.com/8-best-games-like-dress-to-impress-dti-ranked/)
+* [5 hours ago
+    
+    ### Jamf appoints new CISO and global channel lead](https://digitpatrox.com/jamf-appoints-new-ciso-and-global-channel-lead/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
