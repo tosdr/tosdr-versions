@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Nicholas Carter](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Carter-432x243.jpg)](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
-    
-    ### ['Several clumps of fuzzy fecal matter': Father calls home with 5 children living in urine, mold and rotting food 'a little dirty,' cops say](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
-    
-2. [![Beatrice Taylor and Edward Anderson](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Beatrice-Taylor-and-Edward-Anderson-432x243.jpg)](https://lawandcrime.com/crime/he-was-old-anyway-so-what-does-it-matter-home-health-aide-ignored-86-year-old-mans-deadly-fall-to-go-back-to-sleep-deputies-say/)
+1. [![Beatrice Taylor and Edward Anderson](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Beatrice-Taylor-and-Edward-Anderson-432x243.jpg)](https://lawandcrime.com/crime/he-was-old-anyway-so-what-does-it-matter-home-health-aide-ignored-86-year-old-mans-deadly-fall-to-go-back-to-sleep-deputies-say/)
     
     ### ['He was old anyway so what does it matter?': Home health aide ignored 86-year-old man's deadly fall to go back to sleep, deputies say](https://lawandcrime.com/crime/he-was-old-anyway-so-what-does-it-matter-home-health-aide-ignored-86-year-old-mans-deadly-fall-to-go-back-to-sleep-deputies-say/)
     
-3. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-claims-trump-and-jd-vance-committed-felonies-by-inducing-panic-with-lies-about-immigrants-eating-the-cats/)
+2. [![Carter J. Curtis appears in a booking photo](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Carter-Curtis-432x243.jpg)](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
+    
+    ### ['I had to do it': Teen who 'has never been violent' hands rifle to mom and walks away after putting bullet in dad's head, police say](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
+    
+3. [![Michael Cohen, Donald Trump](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Cohen-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
+    
+    ### ['That cannot be the law': Michael Cohen begs Supreme Court one more time to let him sue Trump for 'retaliatory imprisonment' over tell-all book](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
+    
+4. [![Michele Fiore in an ad seeking to become the Republican nominee for governor of Nevada.](https://am23.mediaite.com/lc/cnt/uploads/2024/07/Michele-Fiore-Youtube-screenshot-432x243.jpg)](https://lawandcrime.com/high-profile/trial-for-lady-trump-in-public-corruption-case-goes-sideways-as-defense-witness-appears-to-incriminate-herself-on-the-stand-obtains-lawyers-then-returns-to-plead-the-5th/)
+    
+    ### [Trial for 'Lady Trump' in public corruption case goes sideways as defense witness appears to incriminate herself on the stand, obtains lawyers, then returns to plead the 5th](https://lawandcrime.com/high-profile/trial-for-lady-trump-in-public-corruption-case-goes-sideways-as-defense-witness-appears-to-incriminate-herself-on-the-stand-obtains-lawyers-then-returns-to-plead-the-5th/)
+    
+5. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-claims-trump-and-jd-vance-committed-felonies-by-inducing-panic-with-lies-about-immigrants-eating-the-cats/)
     
     ### ['This was no accident': Haitian group now accuses Trump and JD Vance of felony 'inducing panic' with 'unrelenting lies' about immigrants 'eating the cats' and pets of Springfield](https://lawandcrime.com/high-profile/haitian-group-claims-trump-and-jd-vance-committed-felonies-by-inducing-panic-with-lies-about-immigrants-eating-the-cats/)
-    
-4. [![FILE - Hunter Biden departs from federal court June 11, 2024, in Wilmington, Del. (AP Photo/Matt Slocum)](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Hunter-Biden-24248537937022-432x243.jpg)](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
-    
-    ### [IRS fails to get rid of Hunter Biden lawsuit over leaked tax returns](https://lawandcrime.com/high-profile/irs-fails-to-get-rid-of-hunter-biden-lawsuit-over-leaked-tax-returns/)
-    
-5. [![Cassidy Hutchinson](https://am21.mediaite.com/lc/cnt/uploads/2023/09/Cassidy-Hutchinson-Andrew-Weissmann-Stefan-Passantino-432x243.jpg)](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
-    
-    ### [Top Mueller prosecutor Andrew Weissmann fails to dismiss Trump WH lawyer's defamation suit over tweet claiming he 'coached' star Jan. 6 witness to 'lie'](https://lawandcrime.com/high-profile/former-trump-white-house-lawyer-lawsuit-against-mueller-prosecutor-andrew-weissmann-heading-to-discovery/)
     
 
 [](http://eepurl.com/c89Jdb)
