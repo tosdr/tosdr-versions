@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Postman Pat: Greendale Fun](https://www.myabandonware.com/game/postman-pat-greendale-fun-s3y)
+* [Postman Pat: Special Delivery Service](https://www.myabandonware.com/game/postman-pat-special-delivery-service-s3x)
+* [Postman Pat Activity Centre](https://www.myabandonware.com/game/postman-pat-activity-centre-s3w)
 * [Shoot the Roach](https://www.myabandonware.com/game/shoot-the-roach-s3v)
 * [Tonka Firefighter](https://www.myabandonware.com/game/tonka-firefighter-s3u)
-* [Aliens, Inc: Attack on Earth](https://www.myabandonware.com/game/aliens-inc-attack-on-earth-s3s)
-* [The King of Fighters XI](https://www.myabandonware.com/game/the-king-of-fighters-xi-sm3)
-* [The King of Fighters: Neowave](https://www.myabandonware.com/game/the-king-of-fighters-neowave-sm2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
