@@ -113,9 +113,8 @@ For more information on how the Google Marketing Platform uses the data collecte
 
 In addition to the automatic collection mechanisms listed above, we may also:
 
-·          As an advertising publisher, use tags in connection with the Nielsen Digital Ad Ratings Service for Google Ad Manager; and
-
-·          Use Microsoft’s Bing Universal Event Tracking (UET) feature, in which case Microsoft collects your personal information (_see_ [**Microsoft Privacy Statement**](https://privacy.microsoft.com/en-us/privacystatement)).
+* As an advertising publisher, use tags in connection with the Nielsen Digital Ad Ratings Service for Google Ad Manager; and
+* Use Microsoft’s Bing Universal Event Tracking (UET) feature, in which case Microsoft collects your personal information (_see_ [**Microsoft Privacy Statement**](https://privacy.microsoft.com/en-us/privacystatement)).
 
 Depending on your personal device and App permission settings, when using the App, we may collect or have access to your:
 
@@ -240,11 +239,9 @@ We will take reasonable steps verify your identity before responding to your req
 **_Opt Out Targeted Advertising or the “Sale” or “Sharing” of Personal Information  
 _**You may direct us not to “sell” or “share” certain personal information or use your personal information for targeted advertising as these terms are defined in state privacy laws.  You can exercise these rights by:
 
-·       Clicking on “Your Privacy Choices ” in our Website footer and either toggling off Non Essential Targeting, Social Media, Analytics, & Functional Cookies or clicking “Reject All” and then clicking “Save choices.”  Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” facilitated through web-initiated device tracking.    
-
-·       Selecting “Opt-Out of Sale, Sharing, or Targeted Advertising” when you complete and submit a [**Data Request Form**](https://www.chipotle.com/datarequest). Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” of your personal information directly with third parties; or
-
-·        Contacting us by phone at 833-506-0473 to make a general request.
+* Clicking on “Your Privacy Choices ![](https://www.chipotle.com/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png)” in our Website footer and either toggling off Non Essential Targeting, Social Media, Analytics, & Functional Cookies or clicking “Reject All” and then clicking “Save choices.”  Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” facilitated through web-initiated device tracking.    
+* Selecting “Opt-Out of Sale, Sharing, or Targeted Advertising” when you complete and submit a [**Data Request Form**](https://www.chipotle.com/datarequest). Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” of your personal information directly with third parties; or
+* Contacting us by phone at 833-506-0473 to make a general request.
 
 Your choices do not apply to services hosted and managed by our service providers. Those service providers will present you with their own cookie consent options for the services they provide.
 
