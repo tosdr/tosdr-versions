@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/7/csm_principe-William-reproducao-redes-sociais_d0a0c4b0c7.jpg)
-
-Revelações
-
-Revelações
-
-Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry
-
-Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry](https://www.tnh1.com.br/noticia/nid/principe-william-teria-exigido-para-avo-que-nao-autorizasse-meghan-a-usar-nenhuma-joia-real-em-casamento-com-harry/ "Príncipe William teria exigido para avó que não autorizasse Meghan a usar nenhuma joia real em casamento com Harry ")[![Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/a/csm_csm_harry-e-meghan-divulgacao-netflix_4d0ae1ce8b_814e2b3fd4.png)
+[![Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/a/csm_csm_harry-e-meghan-divulgacao-netflix_4d0ae1ce8b_814e2b3fd4.png)
 
 Gente Famosa
 
@@ -214,7 +206,7 @@ Gente Famosa
 
 Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site
 
-Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-estao-vibrando-apos-nome-de-membro-da-familia-real-surgir-no-caso-diddy-diz-site/ "Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site")[![Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_acidente-carro-caminhonte-mato-grosso-motorista-morte-divulgacao_7a8848ceb1.jpg)
+Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-estao-vibrando-apos-nome-de-membro-da-familia-real-surgir-no-caso-diddy-diz-site/ "Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site")[![Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_acidente-carro-caminhonte-mato-grosso-motorista-morte-divulgacao_7a8848ceb1.jpg)
 
 ESTÁ FORAGIDO
 
@@ -222,7 +214,7 @@ ESTÁ FORAGIDO
 
 Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros
 
-Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros](https://www.tnh1.com.br/noticia/nid/motorista-morre-em-acidente-e-irmao-da-vitima-mata-sobreviventes-a-tiros/ "Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ")[![Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
+Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros](https://www.tnh1.com.br/noticia/nid/motorista-morre-em-acidente-e-irmao-da-vitima-mata-sobreviventes-a-tiros/ "Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ")[![Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
 
 centenário
 
@@ -230,7 +222,15 @@ centenário
 
 Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol
 
-Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-falsa-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol")
+Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-falsa-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol")[![Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sandy_e_novo_namorado_-_foto_reproducao_instagram_5b0972cce6.jpg)
+
+Romance
+
+Romance
+
+Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?
+
+Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
 
 [![Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
