@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Country Girl (Shake It For Me)Luke Bryan<br><br>11:36pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>11:33pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>11:30pm |
-| LosersPost Malone Ft Jelly Roll<br><br>11:26pm |
-| You ProofMorgan Wallen<br><br>11:24pm |
+| Heart Like A TruckLainey Wilson<br><br>4:57am |
+| Damn Good Day To LeaveRiley Green<br><br>4:54am |
+| White HorseChris Stapleton<br><br>4:50am |
+| I Ain'T Sayin'Jordan Davis<br><br>4:47am |
+| Beatles And EaglesThe Frontman<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
