@@ -1,6 +1,6 @@
-[Sephora Canada: Get up to 50% off hair care must-haves from Amika, Vegamour and more + 2% Cash Back
+[Best Buy: The Ultimate PC Gaming Sale is on now + Up to 4% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/sephora?store=sephora&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/best-buy?store=best-buy&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -399,7 +399,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/sport-chek-canada)[MEC
         
-        2% Cash Back](https://www.rakuten.ca/mec)[Lululemon
+        4% Cash Back](https://www.rakuten.ca/mec)[Lululemon
         
         4% Cash Back](https://www.rakuten.ca/lululemon)[Columbia Sportswear Canada
         
