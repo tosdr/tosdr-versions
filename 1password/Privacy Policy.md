@@ -490,7 +490,7 @@ Show options
 
 * [Support Community](https://support.1password.com/)
     
-* [Customer support](mailto:support@1password.com)
+* [Customer support](https://support.1password.com/contact-support/)
     
 * [Privacy support](mailto:privacy@1password.com)
     
@@ -538,11 +538,13 @@ Show options
 
 [Terms of Service](https://1password.com/legal/terms-of-service)
 
+Your Privacy Choices
+
 [Cookie Policy](https://1password.com/legal/cookie-policy)
 
-[Privacy Policy](https://1password.com/legal/privacy)
-
 Your Privacy Options
+
+[Privacy Policy](https://1password.com/legal/privacy)
 
 [Accessibility](https://1password.com/legal/accessibility)
 
