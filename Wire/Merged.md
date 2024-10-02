@@ -17,7 +17,7 @@
     
 * Resources
     
-    * [Download](https://wire.com/en/app-download)
+    * [Download](https://wire.com/app-download)
     * [Blog](https://wire.com/en/blog)
     * [Support](https://support.wire.com/)
     * [GitHub](https://github.com/wireapp/)
@@ -98,7 +98,7 @@ Legislation & Compliance 
 
 ### Resources
 
-* [Download](https://wire.com/en/app-download)
+* [Download](https://wire.com/app-download)
 * [Support](https://support.wire.com/)
 * [Blog](https://wire.com/blog)
 * [GitHub](https://github.com/wireapp/)
@@ -106,7 +106,7 @@ Legislation & Compliance 
 
 ### Company
 
-* [About Us](https://wire.com/en/about-us)
+* [About Us](https://wire.com/about-us)
 * [Career](https://wire.bamboohr.com/careers)
 * [Transparency](https://wire.com/en/transparency-report)
 * [Wire Cloud Status](https://status.wire.com/)
