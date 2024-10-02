@@ -205,22 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Embarrassing Injuries](https://www.somethingawful.com/comedy-goldmine/embarrassing-injuries-goons/1/)
-* [Mummy: The Resurrection (2001)](https://www.somethingawful.com/dungeons-and-dragons/mummy-white-wolf/1/)
-* [Weekend Web Classics: GameFAQs](https://www.somethingawful.com/weekend-web/classic-gamefaqs/1/)
-* [Timetraveling Fads](https://www.somethingawful.com/comedy-goldmine/timetraveling-fads/1/)
+* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
+* [Paintings of Light (Part 1)](https://www.somethingawful.com/photoshop-phriday/paintings-light-part/1/)
+* [Let's Draw A Beautiful Woman ... Together!](https://www.somethingawful.com/comedy-goldmine/draw-beautiful-woman/1/)
+* [The Great American Reach Around - Headin' South & Australia and New Zealand](https://www.somethingawful.com/news/gara-week-six/1/)
+* [Thorpe's Notes: R. Kelly's Trapped In The Closet Chapters 6-12](https://www.somethingawful.com/your-band-sucks/thorpes-notes-kellys-2/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [If a tree falls in the forest and no one hears it, does it make a sound?](http://forums.somethingawful.com/showthread.php?threadid=4071721 "If a tree falls in the forest and no one hears it, does it make a sound?")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Do YouTube people have emotions?](http://forums.somethingawful.com/showthread.php?threadid=4071732 "Do YouTube people have emotions?")
 
 ### Random Articles
 
-* [Special Bulletin: Something Awful Remembers Leslie Nielsen](https://www.somethingawful.com/feature-articles/remembering-leslie-nielsen/)
-* [Erotic Saturday Morning Cartoon Fanfic, Part 2](https://www.somethingawful.com/comedy-goldmine/erotic-saturday-morning-2/1/)
-* [This Wasn't A Good Idea](https://www.somethingawful.com/daily-dirt/for-a-friend/)
-* [ROTOR](https://www.somethingawful.com/movie-reviews/rotor/1/)
-* [Holdup Suspender Company (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/holdup-suspender-company/)
+* [LiveWED: Get Cyber Married](https://www.somethingawful.com/awful-links/awful-link-863/)
+* [Captain America: The Winter Soldier; Sabotage; Noah](https://www.somethingawful.com/current-movie-reviews/winter-soldier-sabotage/1/)
+* [21st Century Digital Power Chatting eSeminar](https://www.somethingawful.com/news/21st-century-digital/)
+* [The Something Awful 2009 Mock NFL Draft](https://www.somethingawful.com/feature-articles/nfl-draft-2009/1/)
+* [Ouija: In Death We Stand On Chickens](https://www.somethingawful.com/news/ouija-mexico-ghosts/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
