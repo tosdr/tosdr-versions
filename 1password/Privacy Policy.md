@@ -35,7 +35,7 @@ As part of providing our Services to you, we may collect information from or abo
 
 We collect Personal Information when
 
-* You give us it to us
+* You give it to us
     
 * We collect it automatically; or
     
