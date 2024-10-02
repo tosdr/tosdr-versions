@@ -31,9 +31,6 @@ Products
     Consumer services
     -----------------
     
-    Need help choosing?
-    -------------------
-    
 * [View What's New](https://www.cloudflare.com/whats-new/)
 * [Register domain](https://www.cloudflare.com/products/registrar/)
 
@@ -48,9 +45,6 @@ Pricing
     
     Compare all plans
     -----------------
-    
-    Need help choosing?
-    -------------------
     
     Register domain
     ---------------
@@ -486,7 +480,6 @@ Getting Started
 * [Free plans](https://www.cloudflare.com/plans/free/)
 * [For enterprises](https://www.cloudflare.com/enterprise/)
 * [Compare plans](https://www.cloudflare.com/plans/)
-* [Get a recommendation](https://www.cloudflare.com/about-your-website/)
 * [Request a demo](https://www.cloudflare.com/plans/enterprise/demo/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
