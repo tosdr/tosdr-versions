@@ -3,7 +3,7 @@
 [BILD Logo](https://www.bild.de/)
 
 * [Bild-KI](https://bild.de/hey-ki-helfer)
-* [BILDplus IconInfos zu BILDplus](https://angebot.bild.de/info)
+* [Infos zu BILDplus](https://angebot.bild.de/50cent/)
 * [Wetter IconWetter](https://wetter.bild.de/)
 * [Video IconVideo & Audio](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
 * [Marktplatz](https://marktplatz.bild.de/)
@@ -204,28 +204,6 @@ Menü
 4. AGB
     ===
     
-
-[BreakingNews
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen
-
-Dänische Polizei meldet: Explosionen nahe israelischer Botschaft in Kopenhagen](https://www.bild.de/news/kopenhagen-explosionen-nahe-der-israelischen-botschaft-66fce5b93fca14794a65a038)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
