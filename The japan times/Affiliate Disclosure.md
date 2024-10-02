@@ -134,6 +134,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
+[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
+
+  [![New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425208.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
+
 [Ishiba announces new leadership lineup ahead of general election](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
   [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
@@ -146,10 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
 
-[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
-  [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
 Editors' Picks
 --------------
 
@@ -160,6 +160,14 @@ Editors' Picks
 By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston") and [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara")  
+
+  [![New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425208.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -185,14 +193,6 @@ By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Hima
 
   [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
-
-  [![Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424727.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba speaks at the Liberal Democratic Party headquarters in Tokyo after being elected the party's new leader Friday.")](https://www.japantimes.co.jp/business/2024/09/30/markets/nikkei-plunges-ishiba/ "Tokyo stocks fall 4.8% in first day of trading after Ishiba's victory")
-
 Podcast
 -------
 
@@ -212,9 +212,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,19 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
+[Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
 
-8 hours ago
+15 mins ago
 
-[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+[In Noto, fears rain will thwart recovery efforts 9 months after quake](https://www.japantimes.co.jp/news/2024/10/02/japan/society/noto-quake-nine-months/ "In Noto, fears rain will thwart recovery efforts 9 months after quake")
 
-10 hours ago
+58 mins ago
 
-[Plaintiff denied compensation for decadeslong stay at hospital](https://www.japantimes.co.jp/news/2024/10/01/japan/crime-legal/schizophrenia-hospitalization-ruling/ "Plaintiff denied compensation for decadeslong stay at hospital")
+[After being ousted, Britain's Conservatives plan their return to power](https://www.japantimes.co.jp/news/2024/10/02/world/politics/britain-conservatives-plot-return/ "After being ousted, Britain's Conservatives plan their return to power")
 
-[California enacts car data privacy law to curb domestic violence](https://www.japantimes.co.jp/news/2024/10/01/world/crime-legal/california-privacy-law-domestic-violence/ "California enacts car data privacy law to curb domestic violence")
+59 mins ago
 
-[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+[Sheinbaum takes office as the first woman to be Mexico's president](https://www.japantimes.co.jp/news/2024/10/02/world/politics/sheinbaum-mexico-woman-president/ "Sheinbaum takes office as the first woman to be Mexico's president")
+
+1 hours ago
+
+[Number of women in Japan's Cabinet drops to two](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/ishiba-cabinet-women-ministers/ "Number of women in Japan's Cabinet drops to two")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
