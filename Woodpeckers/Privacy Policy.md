@@ -18,7 +18,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 [Skip to Content](#contentarea)
 
-Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1726762395/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
+Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
 
 [Join our newsletter](https://www.woodpeck.com/sign-up-for-newsletter)
 
@@ -380,9 +380,10 @@ Strongsville, OH 44149
 * [Dealers](https://www.woodpeck.com/dealers)
 * [Gift Certificates](https://www.woodpeck.com/accessories/gift-certificate.html)
 * [Join Our Team](https://www.woodpeck.com/join-our-team)
-* [Pre-Order Tool Status Page](https://www.woodpeck.com/order-status-ott)
 * [Order Status](https://www.woodpeck.com/index.php/sales/order/history/)
-* _[OneTIME Tools](https://www.woodpeck.com/one-time-tools.html)_
+* _[OneTIME Tools](https://www.woodpeck.com/one-time-tools.html)  
+    _
+* [Pre-Order Tool Status Page](https://www.woodpeck.com/order-status-ott)
 * [Privacy Policy](https://www.woodpeck.com/privacy-policy)
 * [Returns](https://www.woodpeck.com/rma)[/Repairs](https://www.woodpeck.com/rma)
 * [Shop By Brands](https://www.woodpeck.com/shop-by-brands.html)
@@ -399,7 +400,7 @@ Sign Up for Our Newsletter:
 
 Subscribe
 
-![Woodpeckers](https://cdn.woodpeck.com/static/version1726762395/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
+![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
 
   
 [Do Not Sell My Personal Information](https://www.woodpeck.com/ccpa-opt-out)
