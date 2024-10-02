@@ -66,7 +66,7 @@ Suchen
 
 #### Letzte Beiträge
 
-* [#126 75 Jahre Volksrepublik China](https://www.sinoskop.de/blog/126-75-jahre-volksrepublik-china/)
+* [#126 75 Jahre Volksrepublik China](https://www.sinoskop.de/blog/75-jahre-volksrepublik-china/)
 * [#125 Herr Putin aus Russland zu Besuch in der Mongolei](https://www.sinoskop.de/blog/mongolei-russland-putin-besuch-2024/)
 * [#124 „Vision 2050“ – Die Mongolei nach der Parlamentswahl 2024](https://www.sinoskop.de/blog/vision-2050-mongolei-parlamentswahl-2024/)
 * [#123 Italien, China und der „Silk Road Spirit“ – Giorgia Meloni trifft Xi Jinping](https://www.sinoskop.de/blog/giorgia-meloni-xi-jinping-italien-china/)
