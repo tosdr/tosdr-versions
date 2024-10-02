@@ -73,6 +73,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/u51ctfdu/adobestock_162465692-1-min.jpeg?rmode=max&width=230&height=295&v=1db14518622dda0)
+    
+    Posted 2 October 2024
+    
+    The Access Group has entered into an agreement to acquire best in class job management platform, Tradify
+    
+    [Read article on The Access Group has entered into an agreement to acquire best in class job management platform, Tradify](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-best-in-class-job-management-platform-tradify/)
+    
     ![](/media/qogbosyo/qikserve3.png?rmode=max&width=230&height=295&v=1db0f2861b9b2f0)
     
     Posted 25 September 2024
