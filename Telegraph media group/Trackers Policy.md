@@ -7,7 +7,7 @@ Save
 
 Share icon
 
-03 July 2024 10:00am
+29 September 2024 10:00am
 
 Save
 
@@ -275,7 +275,7 @@ If we change how we use this technology in the future, we will let you know if i
 
 14.1 If you believe that we have not adhered to this Policy, please notify us by email at [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) and we will try to solve the problem promptly. If you are not satisfied with our response, or have any other queries, you can also contact the Information Commissioner at [www.ico.org.uk](http://www.ico.org.uk/) or 0303 123 1113.
 
-This policy was last updated on 3rd July 2024.
+This policy was last updated on 29th September 2024.
 
 **Our Brands**
 
