@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-YOU are brilliant.
+I have to say I am impressed by your flexibility and helpfulness.
 
-Wolfgang Kannenberg
+Tony Dunbar
