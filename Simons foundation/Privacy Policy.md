@@ -826,6 +826,8 @@ Continue
     * [Fellows-to-Faculty](#)
         
         * [Fellows-to-Faculty](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/)
+        * [Apply Here](https://www.simonsfoundation.org/grant/fellows-to-faculty-award/)
+            
         * [Fellows](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/fellows/)
             
         * [History](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/history/)
