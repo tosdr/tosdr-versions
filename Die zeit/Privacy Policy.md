@@ -1804,7 +1804,8 @@ Wir haben mit dem Anbieter einen Auftragsverarbeitungsvertrag geschlossen, der d
 
 Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement "Datenschutzerklärung von Utiq")) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
 
-Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben.  
+Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben.
+
 Die Utiq-Technologie ist standardmäßig ausgeschaltet und erfordert Ihre Einwilligung, um aktiviert und verwendet zu werden. Die Technologie ist nur verfügbar, wenn Sie Kunde eines der teilnehmenden Telekommunikationsnetzbetreiber sind.
 
 Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als gemeinsamer Datenverantwortlicher. Als Teil dieser gemeinsamen Datenverantwortlichkeit:
