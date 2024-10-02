@@ -3171,6 +3171,7 @@
                         * [ ]  [Working issues and MRs](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/working_issues_and_mrs/)
                         * [ ]  [Working tickets](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/working_tickets/)
                         * [ ]  [Zendesk maintenance](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/zendesk_maintenance/)
+                    * [ ]  [Readiness Gem](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/gem/)
                     * [ ]  [SFDC Docs](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/salesforce/)
                     * [ ]  [Slack](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/slack/)
                         * [ ]  [Notify Oncall](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/slack/notify_oncall/)
