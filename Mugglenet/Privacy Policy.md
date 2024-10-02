@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
 
 ### Potter History
 
-August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
+March 27, 2006 – Harry Potter and the Goblet of Fire becomes the fastest selling DVD ever in the United Kingdom. It was estimated that, in the first six days after its release, three copies were sold every second.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“Harry — yer a wizard.”
 
 [](#)
 
