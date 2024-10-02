@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Art Bites 166** | Rick Steves' Europe](https://video.nhpbs.org/video/art-bites-166-8iiI67?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The American Vice President** | American Experience](https://video.nhpbs.org/video/the-american-vice-president-qricaq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Judy-Lynn del Rey: The Galaxy Gal \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/judy-lynn-del-rey-the-galaxy-gal-asl-oc-yfedu4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Traqueros and the Building of the Southwest** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/traqueros-and-the-building-of-the-southwest-6gd2p0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Students From Immigrant Families Reflect on Their Heritage** | Citizen Nation](https://video.nhpbs.org/video/students-from-immigrant-families-reflect-on-their-heritage-abhwdb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Appraisal: Victorian Memorial Hair Wreath, ca. 1875** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-victorian-memorial-hair-wreath-ca-1875-anp711?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**VOCES** | WORLD Channel](https://video.nhpbs.org/video/voces-5gicnd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Solar System: Volcano Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-preview-aa1lwf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Arts Center of Kershaw County, Camden** | Southern Songwriters with Patrick Davis](https://video.nhpbs.org/video/arts-center-of-kershaw-county-camden-LHucG1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Veterans** | Life In The Heart Land](https://video.nhpbs.org/video/veterans-xvdmn4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 4 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-4-preview-jqpw2s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 4 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-4-preview-upxgyg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Why many college students are spending more on housing** | PBS News Hour](https://video.nhpbs.org/video/rethinking-college-1727728117?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 30, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-30-2024-fr5gkx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Nissan Z NISMO & 2025 Mazda CX-70** | MotorWeek](https://video.nhpbs.org/video/2024-nissan-z-nismo-2025-mazda-cx-70-l9sqgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Art Bites 167** | Rick Steves' Europe](https://video.nhpbs.org/video/art-bites-167-plkoZC?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Judy-Lynn del Rey: The Galaxy Gal** | American Masters](https://video.nhpbs.org/video/judy-lynn-del-rey-3q6lsp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
