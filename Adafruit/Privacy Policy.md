@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found”
+“ If I have seen further it is by standing on the shoulders of giants”
 
-[Pema Chödrön](https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n)
+[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
 
 [](https://www.adafruit.com/about)
 
