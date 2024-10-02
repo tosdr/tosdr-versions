@@ -330,17 +330,15 @@ _Date dernière mise à jour : Juin 2024_
 Les plus lus
 ------------
 
-1. [![Marine Le Pen au Parlement européen, à Strasbourg, le 17 janvier 2016.
-    ](https://images.bfmtv.com/H9qAkVXQ0Ef__aGBK20ORbcX9Lo=/0x0:1200x675/300x0/images/Marine-Le-Pen-au-Parlement-europeen-a-Strasbourg-le-17-janvier-2016-1946771.webp)
+1. [![Benjamin Netanyahu lors d'une réunion avec son cabinet à la Kirya, à Tel-Aviv, le 31 décembre 2023](https://images.bfmtv.com/etqOMKf0rsm9m3gKx8IcBzPmvaM=/0x142:1888x1204/300x0/images/Benjamin-Netanyahu-lors-d-une-reunion-avec-son-cabinet-a-la-Kirya-a-Tel-Aviv-1779204.jpg)
     
-    ![Marine Le Pen au Parlement européen, à Strasbourg, le 17 janvier 2016.
-    ](https://images.bfmtv.com/H9qAkVXQ0Ef__aGBK20ORbcX9Lo=/0x0:1200x675/300x0/images/Marine-Le-Pen-au-Parlement-europeen-a-Strasbourg-le-17-janvier-2016-1946771.webp)
+    ![Benjamin Netanyahu lors d'une réunion avec son cabinet à la Kirya, à Tel-Aviv, le 31 décembre 2023](https://images.bfmtv.com/etqOMKf0rsm9m3gKx8IcBzPmvaM=/0x142:1888x1204/300x0/images/Benjamin-Netanyahu-lors-d-une-reunion-avec-son-cabinet-a-la-Kirya-a-Tel-Aviv-1779204.jpg)
     
-    ### Affaire des faux assistants parlementaires: tout comprendre au procès du RN qui s'ouvre ce lundi](https://www.bfmtv.com/police-justice/proces/affaire-des-faux-assistants-parlementaires-tout-comprendre-au-proces-du-rn-qui-s-ouvre-ce-lundi_AN-202409300029.html "Affaire des faux assistants parlementaires: tout comprendre au procès du RN qui s'ouvre ce lundi")
-2. [### Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre](https://www.bfmtv.com/economie/economie-social/revalorisation-des-apl-petites-retraites-prix-du-gaz-tout-ce-qui-change-au-1er-octobre_AD-202410010047.html "Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre")
-3. [### Ce que l'on sait trois mois après la disparition de Narjesse, 17 ans, à Villeurbanne](https://www.bfmtv.com/lyon/ce-que-l-on-sait-trois-mois-apres-la-disparition-de-narjesse-17-ans-a-villeurbanne_AV-202409300824.html "Ce que l'on sait trois mois après la disparition de Narjesse, 17 ans, à Villeurbanne")
-4. [### "C'est catastrophique": les commerçants parisiens s'inquiètent de la mise en place de la zone à trafic limité](https://www.bfmtv.com/paris/c-est-catastrophique-les-commercants-parisiens-s-inquietent-de-la-mise-en-place-de-la-zone-a-trafic-limite_AV-202409300849.html ""C'est catastrophique": les commerçants parisiens s'inquiètent de la mise en place de la zone à trafic limité")
-5. [### "J’ai vécu des trucs ignobles": Inès Reg revient sur son altercation avec Natasha St-Pier](https://www.bfmtv.com/people/j-ai-vecu-des-trucs-ignobles-ines-reg-revient-sur-son-altercation-avec-natasha-st-pier_AN-202409300812.html ""J’ai vécu des trucs ignobles": Inès Reg revient sur son altercation avec Natasha St-Pier")
+    ### "L'Iran en paiera le prix": à quelle riposte s'attendre de la part d'Israël après les tirs de missiles de Téhéran?](https://www.bfmtv.com/international/moyen-orient/israel/l-iran-en-paiera-le-prix-a-quelle-riposte-s-attendre-de-la-part-d-israel-apres-les-tirs-de-missiles-de-teheran_AV-202410011059.html ""L'Iran en paiera le prix": à quelle riposte s'attendre de la part d'Israël après les tirs de missiles de Téhéran?")
+2. [### Impôts, retraites, immigration... Ce qu'il faut retenir du discours de politique générale de Michel Barnier](https://www.bfmtv.com/politique/gouvernement/impots-retraites-immigration-ce-qu-il-faut-retenir-de-la-declaration-de-politique-generale-de-michel-barnier_AV-202410010699.html "Impôts, retraites, immigration... Ce qu'il faut retenir du discours de politique générale de Michel Barnier")
+3. [### Smic: quel sera son montant au 1er novembre après la hausse annoncée par Michel Barnier?](https://www.bfmtv.com/economie/smic-quel-sera-son-montant-au-1er-novembre-apres-la-hausse-annoncee-par-michel-barnier_AN-202410010719.html "Smic: quel sera son montant au 1er novembre après la hausse annoncée par Michel Barnier?")
+4. [### Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre](https://www.bfmtv.com/economie/economie-social/revalorisation-des-apl-petites-retraites-prix-du-gaz-tout-ce-qui-change-au-1er-octobre_AD-202410010047.html "Revalorisation des APL, petites retraites, prix du gaz... Tout ce qui change au 1er octobre")
+5. [### Meurtre de Philippine: la demande d'extradition du suspect en cours de formulation](https://www.bfmtv.com/paris/meurtre-de-philippine-la-demande-d-extradition-du-principal-suspect-en-cours-de-formulation_AN-202410011004.html "Meurtre de Philippine: la demande d'extradition du suspect en cours de formulation")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
