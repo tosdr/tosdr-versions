@@ -85,7 +85,7 @@ Sign Up for Special Offers
 
   
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-Promotional-Ticket_4-Park.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-FL-Resident-Ticket_4-Day.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/04/DSRAH-Fall-from-79-night.jpg)](https://disneyspringshotels.com/magic/)
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/04/DSRAH-Fall-from-79-night.jpg)](https://disneyspringshotels.com/magic/)
 
 _Disney Springs®_ Resort Area Hotels
 
