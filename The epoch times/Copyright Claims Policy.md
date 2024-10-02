@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Vance, Walz Focus on Policy in Vice Presidential Debate](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
+    
+    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Vance, Walz Focus on Policy in Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733643-Walz-Vance-GettyImages-2175340178-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-focus-on-policy-in-vice-presidential-debate-5732846)
+* [Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
+    
+    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    
+    [![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Newsom Signs Bill Banning Local Voter ID Rule, Vetoes Voter Registration Bill](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730138-Gavin-Newsom-11_JF_09252024-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-signs-bill-banning-local-voter-id-rule-vetoes-voter-registration-bill-5733502)
+* [Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
+    
+    NEW By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    
+    [![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Flagship US–Africa Trade Program in Jeopardy Whether It’s Trump or Harris, Analysts Say](https://img.theepochtimes.com/assets/uploads/2023/04/03/id5168298-harris-africa-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/flagship-us-africa-trade-program-in-jeopardy-whether-its-trump-or-harris-analysts-say-5733437)
+* [In Helene-Hit North Carolina Counties, Politics Are On Pause](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
+    
+    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Helene-Hit North Carolina Counties, Politics Are On Pause](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733161-AP24274608835042-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-helene-hit-north-carolina-counties-politics-are-on-pause-5733586)
+* [5 Takeaways From the Vance-Walz Vice Presidential Debate](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
+    
+    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Takeaways From the Vance-Walz Vice Presidential Debate](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733761-GettyImages-2175345121-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-takeaways-from-the-vance-walz-vice-presidential-debate-5733746)
 * [Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/uploads/2019/10/03/Vlaming_25-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
 * [Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
 * [Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
     
-    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733509-GettyImages-2175293229-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
 * [Vance, Walz Debate Middle East, Border, Abortion](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733645-Walz-Vance-debate-GettyImages-2175342498-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
 * [FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
     
-    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
     [![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733583-shutterstock_227614513_food_color_food_additives-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
-* [Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://www.theepochtimes.com/us/trump-assassination-attempt-suspect-trial-starting-november-judge-orders-5733499)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727757-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-assassination-attempt-suspect-trial-starting-november-judge-orders-5733499)
-* [Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://www.theepochtimes.com/us/justice-department-finds-georgia-officials-have-lost-control-of-state-prisons-5733415)
-    
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733621-GettyImages-125713264KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/justice-department-finds-georgia-officials-have-lost-control-of-state-prisons-5733415)
-* [Economic Implications of 1st Port Worker Strike Since 1977](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733622-Major_Port_StrikeKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
-* [Port Strike Could Cost the US Billions: Here’s What to Know](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
-* [Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
-    
-    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732973-1.downloadKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
