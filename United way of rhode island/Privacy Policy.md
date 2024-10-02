@@ -274,6 +274,6 @@ Mon. - Fri.
 
 [50 Valley Street, Providence RI 02909](https://goo.gl/maps/SB1Z16Z6RXx)
 
-Join us for our 98th Annual Celebration: United in Action!
+Early Voting Begins October 16 - Questions? Call 211
 
-[GET TICKETS](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035)
+[VOTER INFORMATION](https://vote.sos.ri.gov/)
