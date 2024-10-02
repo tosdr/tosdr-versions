@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66fd78a1bf2a97.3747720191b&xhSessionToken=f6a682de4c0ffa8ec4beb4ddba324d461173ce20&xhSessionStartedAt=1727887521)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66fdca169e1e76.43896636191&xhSessionToken=ee31157411a9737c221c4079a29254ada2c26735&xhSessionStartedAt=1727908374)
 
 [Categories](https://xhamster.com/categories)
 
@@ -369,7 +369,7 @@ Last Modified: January 04, 2024
 * [](https://xhamster.com/info/eu-digital-services-act)
 * [](https://xhamster.com/info/trust-and-safety)
 
-* [](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
 * [](https://xhamster.com/creators/contest)
 * [](https://xhamster.com/creator?source=footerCcp)
 
