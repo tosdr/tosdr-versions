@@ -172,42 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [DNS security and "bus factor" improvements](https://f-droid.org/en/2024/09/30/dns-security-and-bus-factor-improvements.html) Sep 30, 2024
 * [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
 * [Encode your nostalgia](https://f-droid.org/en/2024/09/12/twif.html) Sep 12, 2024
 * [Voice your updates](https://f-droid.org/en/2024/09/05/twif.html) Sep 05, 2024
-* [It's all about self-hosting it](https://f-droid.org/en/2024/08/29/twif.html) Aug 29, 2024
 
-### Last Updated
-
-[![](https://f-droid.org/repo/ua.com.radiokot.photoprism/en-US/icon_W_5TnleHSiMH-MyytjFp3GcUAbzrps9k-6bgbWwryW8=.png)
-
-#### Gallery for PhotoPrism
-
-A convenient gallery for PhotoPrism with plenty of useful features](https://f-droid.org/en/packages/ua.com.radiokot.photoprism/)[![](https://f-droid.org/repo/org.sbv.pockettracker/en-US/icon_XYqZ3C0KEzJ1La7ydXCCZrTdZl9HmgMbnHFk2uDOacg=.png)
-
-#### PocketTRacker
-
-An app to reliably track the scores of your straight pool games](https://f-droid.org/en/packages/org.sbv.pockettracker/)[![](https://f-droid.org/repo/org.privacymatters.safespace/en-US/icon_PE26zYSBlKPklqpmkuQdvBI0veNcd7WxFYKOP3b3Os8=.png)
-
-#### Safe Space
-
-A safe space for your digital valuables.](https://f-droid.org/en/packages/org.privacymatters.safespace/)
-
-### Latest Apps
-
-[![](https://f-droid.org/repo/com.craxiom.networksurvey/en-US/icon_4dp_e-0c4N0NUjvSRENzfOSVAx4msaiVNy1D7S7qvoQ=.png)
-
-#### Network Survey
-
-Displays and Logs Cellular, Wi-Fi, Bluetooth, and GNSS Network Survey Details](https://f-droid.org/en/packages/com.craxiom.networksurvey/)[![](https://f-droid.org/repo/io.gitlab.coolreader_ng.lxreader.fdroid/en-US/icon_HtbU1wbPCe4V2yi0qXe5nCdLtou3Q8olszbmLwXhB1U=.png)
-
-#### LxReader
-
-E-book reader](https://f-droid.org/en/packages/io.gitlab.coolreader_ng.lxreader.fdroid/)[![](https://f-droid.org/repo/dev.jdtech.jellyfin/en-US/icon_8s2ojVlZrNHg-zHCEN7YKjoI98lcglyEJw0qVbYBnsM=.png)
-
-#### Findroid
-
-Third-party native Jellyfin app](https://f-droid.org/en/packages/dev.jdtech.jellyfin/)
-
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.269](https://gitlab.com/fdroid/fdroid-website/tree/813072a6e8)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.271](https://gitlab.com/fdroid/fdroid-website/tree/8d1a92ca0d)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
