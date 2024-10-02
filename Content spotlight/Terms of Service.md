@@ -20,7 +20,7 @@ A KEYWORD RESEARCH SEO COMPANY
     * [SEO in India | Search Engine rankings matter](https://contentspotlight.org/seo-in-india-search-engine-rankings-matter/)
     * [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
     * [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
-* [Content](https://contentspotlight.org/content/)
+* [Blog](https://contentspotlight.org/blog/)
     * [Content Writing Agency in India | Premium writing services](https://contentspotlight.org/content-writing-agency-in-india-premium-writing-services/)
     * [Content Writing Company in India | Premium Copywriting agency](https://contentspotlight.org/content-writing-company-in-india-premium-copywriting-agency/)
     * [Content writing agency in Kolkata | Premium writing services](https://contentspotlight.org/content-writing-agency-in-kolkata-premium-writing-services/)
