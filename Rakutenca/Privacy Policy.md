@@ -251,7 +251,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)[Estee Lauder Canada
         
-        3% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
+        6% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
         $3 Cash Back](https://www.rakuten.ca/weight-watchers-canada)[Aveda
         
@@ -327,7 +327,7 @@ FR
         
         Estee Lauder Canada
         
-        3% Cash Back](https://www.rakuten.ca/ticket/campaign/17CategoryFeaturedStores/store/esteelauder?sourceName=nav-menu)
+        6% Cash Back](https://www.rakuten.ca/ticket/campaign/17CategoryFeaturedStores/store/esteelauder?sourceName=nav-menu)
         
     * [Make Your Move](https://www.rakuten.ca/stores/make-your-move "Make Your Move Promo Codes and Coupons")
         
