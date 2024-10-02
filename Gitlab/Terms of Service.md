@@ -623,7 +623,6 @@
             * [ ]  [Practices](https://handbook.gitlab.com/handbook/engineering/architecture/practice/)
                 * [ ]  [Scalability](https://handbook.gitlab.com/handbook/engineering/architecture/practice/scalability/)
             * [ ]  [Technology Roadmap](https://handbook.gitlab.com/handbook/engineering/architecture/roadmap/)
-        * [ ]  [compensation-roadmaps](https://handbook.gitlab.com/handbook/engineering/compensation-roadmaps/)
         * [ ]  [Core Development Department](https://handbook.gitlab.com/handbook/engineering/core-development/)
         * [ ]  [Cross Functional Prioritization](https://handbook.gitlab.com/handbook/engineering/cross-functional-prioritization/)
         * [ ]  [CTO Leadership Team](https://handbook.gitlab.com/handbook/engineering/cto-leadership-team/)
