@@ -180,23 +180,27 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/se.arctosoft.vault/en-US/icon_O-U3JRoNgZ4gL272ZdZJ---yZfQ32Lwn4ZoOxhl_Lz0=.png)
+[![](https://f-droid.org/repo/ua.com.radiokot.photoprism/en-US/icon_W_5TnleHSiMH-MyytjFp3GcUAbzrps9k-6bgbWwryW8=.png)
 
-#### Valv
+#### Gallery for PhotoPrism
 
-An encrypted gallery vault for Android devices](https://f-droid.org/en/packages/se.arctosoft.vault/)[![](https://f-droid.org/repo/player.efis.pfd/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png)
+A convenient gallery for PhotoPrism with plenty of useful features](https://f-droid.org/en/packages/ua.com.radiokot.photoprism/)[![](https://f-droid.org/repo/org.sbv.pockettracker/en-US/icon_XYqZ3C0KEzJ1La7ydXCCZrTdZl9HmgMbnHFk2uDOacg=.png)
 
-#### Kwik EFIS
+#### PocketTRacker
 
-Glass Cockpit / Electronic Flight Information System](https://f-droid.org/en/packages/player.efis.pfd/)[![](https://f-droid.org/repo/net.ibbaa.keepitup/en-US/icon_GNqHXLJRV7i1DLHBE-FFFbEpervoBYhTXNnkvjjoCQM=.png)
+An app to reliably track the scores of your straight pool games](https://f-droid.org/en/packages/org.sbv.pockettracker/)[![](https://f-droid.org/repo/org.privacymatters.safespace/en-US/icon_PE26zYSBlKPklqpmkuQdvBI0veNcd7WxFYKOP3b3Os8=.png)
 
-#### Keep it up
+#### Safe Space
 
-Simple network monitoring](https://f-droid.org/en/packages/net.ibbaa.keepitup/)
+A safe space for your digital valuables.](https://f-droid.org/en/packages/org.privacymatters.safespace/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/io.gitlab.coolreader_ng.lxreader.fdroid/en-US/icon_HtbU1wbPCe4V2yi0qXe5nCdLtou3Q8olszbmLwXhB1U=.png)
+[![](https://f-droid.org/repo/com.craxiom.networksurvey/en-US/icon_4dp_e-0c4N0NUjvSRENzfOSVAx4msaiVNy1D7S7qvoQ=.png)
+
+#### Network Survey
+
+Displays and Logs Cellular, Wi-Fi, Bluetooth, and GNSS Network Survey Details](https://f-droid.org/en/packages/com.craxiom.networksurvey/)[![](https://f-droid.org/repo/io.gitlab.coolreader_ng.lxreader.fdroid/en-US/icon_HtbU1wbPCe4V2yi0qXe5nCdLtou3Q8olszbmLwXhB1U=.png)
 
 #### LxReader
 
@@ -204,10 +208,6 @@ E-book reader](https://f-droid.org/en/packages/io.gitlab.coolreader_ng.lxreader.
 
 #### Findroid
 
-Third-party native Jellyfin app](https://f-droid.org/en/packages/dev.jdtech.jellyfin/)[![](https://f-droid.org/repo/com.labnex.app/en-US/icon_qwVP-JgIQn-pF42-5cYGLV709rWjhZWvBWDsvsp6OG0=.png)
+Third-party native Jellyfin app](https://f-droid.org/en/packages/dev.jdtech.jellyfin/)
 
-#### LabNex
-
-Android app for GitLab](https://f-droid.org/en/packages/com.labnex.app/)
-
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-30, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.269](https://gitlab.com/fdroid/fdroid-website/tree/813072a6e8)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
