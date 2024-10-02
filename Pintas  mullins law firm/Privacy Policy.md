@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How can a nursing home abuse or neglect lawyer help my family?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family-scaled.jpg "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/ "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")
+[![What are the types of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-are-the-types-of-lung-cancer.jpg "What Are the Types of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer "What Are the Types of Lung Cancer?")
 
-[#### How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/)
+[#### What Are the Types of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer)
 
-[![Can mesothelioma spread to other organs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-can-mesothelioma-spread-to-other-organs.jpg "Can Mesothelioma Spread to Other Organs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/ "Can Mesothelioma Spread to Other Organs?")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### Can Mesothelioma Spread to Other Organs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![Does johnson & johnson still use talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-does-johnson-and-johnson-still-use-talcum-powder.jpg "Does Johnson & Johnson Still Use Talcum Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/does-johnson-and-johnson-still-use-talcum-powder "Does Johnson & Johnson Still Use Talcum Powder?")
+[![What is mesothelioma caused by?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-mesothelioma-caused-by.jpg "What Is Mesothelioma Caused By?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/ "What Is Mesothelioma Caused By?")
 
-[#### Does Johnson & Johnson Still Use Talcum Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/does-johnson-and-johnson-still-use-talcum-powder)
+[#### What Is Mesothelioma Caused By?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
