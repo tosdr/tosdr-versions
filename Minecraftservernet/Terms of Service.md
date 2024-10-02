@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+[![PlayNoPay](plugins/MineCraft/icons/25x25xPlayNoPay_1632052343.png.pagespeed.ic.aOBdPpUgag.png)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+PlayNoPay](https://minecraft-server.net/details/PlayNoPay/ "PlayNoPay")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1727792125.png.pagespeed.ic.1xUB5Ka4gQ.png)
 
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Minetown - 1.8 - 1.21.1](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.1")[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1727833671.png.pagespeed.ic.L5Ygs_RV_u.jpg)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
+Termina - Towny Wartime (Raiding) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Wartime (Raiding) (SMP) [Crossplay]")[![Simply_Vanilla](plugins/MineCraft/icons/25x25xSimply_Vanilla_1684023850.png.pagespeed.ic.Ehl4GTYmlr.jpg)
 
-EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+Simply Vanilla - 1.20.1](https://minecraft-server.net/details/Simply_Vanilla/ "Simply Vanilla - 1.20.1")[![Advancius](plugins/MineCraft/icons/25x25xAdvancius_1710775022.png.pagespeed.ic.Rl94rqItDF.png)
 
-BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")
+Advancius Network ⭐FREE RANKS⭐](https://minecraft-server.net/details/Advancius/ "Advancius Network ⭐FREE RANKS⭐")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07949 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06107 - Created by [Debaucus](https://debauc.us/)
