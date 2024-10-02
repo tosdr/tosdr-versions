@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| ParkTyler Hubbard<br><br>4:21am |
-| Til You Can'TCody Johnson<br><br>4:17am |
-| Forever To MeCole Swindell<br><br>4:14am |
-| AustinDasha<br><br>4:11am |
-| Fall Of SummerScotty Mccreery<br><br>4:08am |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>11:39am |
+| Am I OkMegan Moroney<br><br>11:35am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:31am |
+| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>11:28am |
+| Thinkin 'Bout MeMorgan Wallen<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
+Top 40 • Pacific NW
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
