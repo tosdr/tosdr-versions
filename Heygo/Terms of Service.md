@@ -543,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
 [![10 sun-soaked cruise destinations for 2024-2025](https://media.restless.co.uk/uploads/2024/05/best-cruise-destinations-for-2024-2025-768x512.jpg)](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/)
 
 ### [10 sun-soaked cruise destinations for 2024-2025](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/) 
@@ -573,14 +579,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
-[![the most colourful travel destinations in the world](https://media.restless.co.uk/uploads/2023/06/the-most-colourful-travel-destinations-in-the-world-768x519.jpeg)](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
-
-### [11 of the most colourful travel destinations in the world](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
-
-[Read More »](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
-
 Popular travel guides
 ---------------------
+
+[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![9 holiday destinations you can fly to in two hours or under](https://media.restless.co.uk/uploads/2023/07/holiday-destinations-you-can-fly-to-in-two-hours-or-under-768x525.jpg)](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
 
@@ -611,12 +617,6 @@ Popular travel guides
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![10 amazing countries you can get to in under four hours](https://media.restless.co.uk/uploads/2023/10/amazing-countries-you-can-get-to-in-under-four-hours-768x512.jpg)](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
