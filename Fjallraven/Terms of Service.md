@@ -32,7 +32,9 @@ Back to
 
 [](https://www.fjallraven.com/us/en-us/)
 
-[Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)[![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/) [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
+ [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)[![](https://www.fjallraven.com/4a75b5/globalassets/fjallraven/us/homepage/2024/fjr_nav_pre-loved_rgb-4.svg)
+
+Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage) [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
 
 English | United States ($)
 
@@ -269,7 +271,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=1c079ced-ea36-4b91-8fb6-6201c7940b70)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=68d661bf-d05c-42ee-a5f2-f329c27076a3)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -428,7 +430,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=1c079ced-ea36-4b91-8fb6-6201c7940b70)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=68d661bf-d05c-42ee-a5f2-f329c27076a3)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -483,8 +485,10 @@ Asia
 * * Change Region **English** / **United States** (USD $)
         
          
-* * [Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)
-    *  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
+* *  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
+    * [![](https://www.fjallraven.com/4a75b5/globalassets/fjallraven/us/homepage/2024/fjr_nav_pre-loved_rgb-4.svg)
+        
+        Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)
     * [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
@@ -685,7 +689,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=1c079ced-ea36-4b91-8fb6-6201c7940b70)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=68d661bf-d05c-42ee-a5f2-f329c27076a3)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
