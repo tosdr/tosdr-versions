@@ -1,8 +1,7 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+-----------------------------------------------------------------------------------------
 
  
 
@@ -86,9 +85,8 @@ My store
 
 [](#)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+-----------------------------------------------------------------------------------------
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
