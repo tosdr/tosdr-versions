@@ -24,17 +24,14 @@ EN
 
 [Log In](https://es.wallapop.com/login)
 
-We have updated our Terms and Conditions for you to have a better experience using Wallapop:
-
-* we have improved the information provided to Users, and
-* we have included information related to the Digital Services Act (DSA).
+We have updated our Terms and Conditions  to improve the information provided to Users.
 
 Wallapop Terms and Conditions of Use
 ====================================
 
-**Last revision:** 22 May 2024
+**Last revision:** 2 October 2024
 
-Thank you for using Wallapop. Right now you are in a very important space: our Terms and Conditions of Use which, together with the specific conditions ([Specific Terms and Conditions of the Wallapop Shipping Service](https://about.wallapop.com/en/specific-terms-and-conditions-of-the-wallapop-shipping-service/)), the [Privacy Policy](https://about.wallapop.com/en/privacy-policy/), the [Cookies Policy](https://about.wallapop.com/en/cookies/), the [Legal Notice](https://about.wallapop.com/en/legal-notice/), the [Community Guidelines](https://ayuda.wallapop.com/hc/en-us/articles/360019800078-Community-Guidelines) and the regulations in force, regulate our relationship. We do not expect you to find it fun, but at least intelligible, useful, practical and complete. From Wallapop we strive for our community to understand, within how complex the laws are becoming more and more complex, the legal conditions that establish the rules of our relationship.
+Thank you for using Wallapop. Right now you are in a very important space: our Terms and Conditions of Use which, together with the specific conditions ([Specific Terms and Conditions of the Wallapop Shipping Service](https://about.wallapop.com/en/specific-terms-and-conditions-of-the-wallapop-shipping-service/) and [Specific Conditions regarding the Wallet](https://about.wallapop.com/en/specific-conditions-regarding-the-wallet/)), the [Privacy Policy](https://about.wallapop.com/en/privacy-policy/), the [Cookies Policy](https://about.wallapop.com/en/cookies/), the [Legal Notice](https://about.wallapop.com/en/legal-notice/), the [Community Guidelines](https://ayuda.wallapop.com/hc/en-us/articles/360019800078-Community-Guidelines) and the regulations in force, regulate our relationship. We do not expect you to find it fun, but at least intelligible, useful, practical and complete. From Wallapop we strive for our community to understand, within how complex the laws are becoming more and more complex, the legal conditions that establish the rules of our relationship.
 
 These Terms and Conditions of Use (“**Terms and Conditions**“) set forth the conditions under which users are offered access to Wallapop’s websites, services and applications (the “**Service**“).
 
@@ -57,11 +54,17 @@ The acceptance of these Terms and Conditions by the Users is a prior and indispe
 * “**Interlinked Sites**“: other Internet pages and portals accessible through technical linking devices, directories and search tools.
 * “**Platform**“: means the Wallapop website, applications and any other means of access to the Wallapop platform. It includes the Services and all content, tools, features and functionalities offered on or through the Platform.
 * “**Products**“: refers to the products/items that Users advertise in the Catalog for sale.
-* “**Professional User**“: any natural person acting within the framework of a commercial or professional activity or any legal entity (e.g. a company, foundation or association) that offers goods or services to consumer users through our platform for purposes related to their trade, business, trade or profession. These users are identified on the platform under the name “Business Account” which you can find in their Wallapop profile.
+* “**Professional User**“: any natural person acting within the framework of a commercial or professional activity or any legal entity (e.g. a company, foundation or association) that offers goods or services to consumer users through our platform for purposes related to their trade, business, trade or profession and that has identified himself at Wallapop as a user that operates the Platform as professional. These users are identified on the platform under the name “Business Account” which you can find in their Wallapop profile.
 * “**Refurbished Products**“: refers to those Products that are second-hand and have been inspected, cleaned and repaired if necessary, replacing or upgrading certain components of the product by a Professional Seller or a specialized third party, so that they can be offered for sale again in optimal conditions of performance, quality and safety. These Products are identified on the platform under the designation “Refurbished” which you will be able to locate with a green badge on the Product’s photograph.
 * “**Seller**“: means any User, Consumer or Professional, who sells one or more Products on the Platform.
 * “**Service Content**“: refers to the works, protected services and any content or elements on which intellectual and industrial property rights are held that are used in the Service. It includes, among others, texts, photographs, graphics, images, icons, technology, software, databases and other audiovisual or sound contents, as well as their graphic design and source codes used in the Service.
-* “**Service**“: refers to access to and use of the WebsitePlatform services.
+* “**Service**“: refers to access to and/or use of the Platform services.
+* “**Subscription Services**“: service comprised of a series of specific benefits that vary depending on the chosen subscription. You can learn more about the types of subscriptions [here](https://ayuda.wallapop.com/hc/en-us/sections/360000493638-Type-of-subscriptions).
+* “**Terms and Conditions**“: refers to the Terms and Conditions of Use included in this text and available at the following link [here](https://about.wallapop.com/en/legal-terms-and-conditions/).
+* “**User Content**“: refers to the works, protected services and any other elements protected by intellectual or industrial property that the User incorporates in the Service.
+* “**User**” or “**Users**”: means any person who has created an account on the Platform. He/she may be a Consumer User or a Professional User.
+* “**Visibility Services**“: services to increase the visibility of the ads uploaded by the User on Wallapop. You can get more information [here](https://ayuda.wallapop.com/hc/en-us/sections/360000489837-Featured-items).
+* “**Wallet**”: refers to the service offered to Users that allows them to receive, store, withdraw and use funds electronically within the Platform, and which is managed by Mangopay, S.A. as a payment service provider.
 
 **2.- Introduction**
 
@@ -95,7 +98,7 @@ The data you enter must be accurate, current and truthful. As a registered User 
 
 Likewise, the User undertakes to make proper use of the Service and not to use it to carry out any type of illicit or criminal activity that infringes the rights of third parties or violates any rule of the legal system.
 
-**3.1.2.-** In addition, by using the Service, by way of example and in no case limited or exclusive, the User agrees to:
+**3.1.2.-** In addition, by using the Service, by way of example and in no case limited or exclusive, the User  or the Platform’s visitor agrees to:
 
 1. Not to introduce or disseminate content or propaganda of a racist, xenophobic, pornographic, apology of terrorism, armed conflict, incitement to hatred or that violate human rights.
 2. Not to disseminate, transmit or make available to third parties any type of information, element or content that violates the fundamental rights and public freedoms recognized in the Constitution and in international treaties.
@@ -111,11 +114,13 @@ Likewise, the User undertakes to make proper use of the Service and not to use i
 12. Do not create valuations of transactions that have not been carried out.
 13. Failure to repeatedly report falsely or incorrectly.
 14. Use Wallapop services correctly. For example, do not create User accounts to benefit from shipping service promotions or to avoid paying for professional subscriptions.
-15. Not to systematically extract or reuse part or all of the content of the Wallapop Services without our express written consent. In particular, the use of search and data mining tools or robots for the extraction (whether on one or more occasions) of substantial parts of the Wallapop Services for reuse without our express written consent is not permitted.
+15. Not to systematically extract or reuse part or all of the content of the Platform, without our express written consent. In particular, you may not (i) use search tools or robots, or (ii) extract data (whether on one or more occasions or in bulk -data mining-).
+16. Not to disassemble, decompile or reverse engineer any part of the Platform.
+17. Not to use external software tools (bots, etc.), unless such use is authorized or permitted by us.
 
 **3.2.- Specific rules on the publication of announcements**
 
-**3.2.1.-** When publishing advertisements, the User must respect and take into account the following considerations:
+**3.2.1-** When publishing advertisements, the User must respect and take into account the following considerations:
 
 1. It is not allowed to publish advertisements with images of sexual content.
 2. It is not allowed to publish ads related to sex, eroticism or fetishism, as well as those related to massages, companionship or friendship services.
@@ -126,7 +131,7 @@ Likewise, the User undertakes to make proper use of the Service and not to use i
 7. It is not allowed to publish ads related to animals.
 8. It is not allowed to publish ads that exceed the maximum established for the Product category in question.
 
-**3.2.2.-** In addition, when posting their ads the User agrees to comply with the [Rules of publication](https://ayuda.wallapop.com/hc/en-us/articles/360004667717-Prohibited-Listing-Policy). In any case, the User may consult more information on how to post ads by accessing here, as well as examine in greater detail the operation of the platform by consulting the sections “[Buy and sell](https://ayuda.wallapop.com/hc/en-us/categories/360000213137-Buy-and-sell)” of our Help Center.
+**3.2.2-** In addition, when posting their ads the User agrees to comply with the [Rules of publication](https://ayuda.wallapop.com/hc/en-us/articles/360004667717-Prohibited-Listing-Policy). In any case, the User may consult more information on how to post ads by accessing here, as well as examine in greater detail the operation of the platform by consulting the sections “[Buy and sell](https://ayuda.wallapop.com/hc/en-us/categories/360000213137-Buy-and-sell)” of our Help Center.
 
 **3.3.- Specific rules on User Ratings**
 
@@ -143,13 +148,16 @@ Likewise, the User undertakes to make proper use of the Service and not to use i
 
 1. By purchasing a Product for an established price, the User is entering into a contract of sale with another User and, therefore, may be considered a taxpayer of the Tax on Onerous Property Transfers and Documented Legal Acts (“**ITPAJD**“), modality TPO, with the tax obligations that this entails on its part.
 2. When publishing a real estate rental advertisement in some municipalities in Catalonia, the User must include the Reference Price Index as required by the “Law 11/2020, of September 18, on urgent measures regarding rent containment in housing rental contracts” which came into force in September 2020.
-3. When selling a Product, Professional Users acting in the development of their business or professional activity as Seller are responsible for complying with all relevant legal and tax obligations. Among them, to issue and send the corresponding invoice to the Consumer-Buyer Users and all those included in the Royal Legislative Decree 1/2007, of November 16, which approves the revised text of the General Law for the Defense of Consumers and Users and other complementary laws (hereinafter, “**Consumer Regulations**” or “**TRLGDCU**“).
+3. When selling a Product, Professional Users acting in the development of their business or professional activity as Seller are responsible for complying with all applicable legal and tax obligations. Among them, to (i) issue and send the corresponding invoice to the Users, (ii) comply with the tax obligations arising from its status as taxpayer of Value Added Tax (VAT), and (iii) comply with all applicable  obligations included in the Royal Legislative Decree 1/2007, of November 16, which approves the revised text of the General Law for the Defense of Consumers and Users and other complementary laws (hereinafter, “**Consumer Regulations**” or “**TRLGDCU**“).
 
 **4.- Content moderation and corrective measures**
 
 **4.1.-** Wallapop will take corrective measures and/or moderate the contents uploaded by the Users if it becomes aware that they are violating the rules described in these Terms and Conditions, in the Community Guidelines, has actual knowledge of an illegal activity contrary to the law, morality or public order or there is a law that obliges Wallapop to implement restrictions and/or limitations on Users.
 
-For example, in Portugal, in accordance with Article 80-A of the Value Added Tax Code, Wallapop reserves the right to freeze the activity of platform Users by blocking their accounts if they do not comply with their tax obligations and have not rectified their situation by providing the appropriate supporting documentation to Wallapop**.**
+Regarding the latter case, for example:
+
+* Pursuant to the DAC7 Directive, Wallapop may apply restrictions on your account, including the possibility of (i) blocking the Wallet balance and/or (ii) blocking and/or preventing access to or use, in whole or in part, of the Service.
+* In Portugal, in accordance with Article 80-A of the _Código do Imposto sobre o Valor Acrescentado_, Wallapop reserves the right to paralyze the activity of the Users of the Platform by blocking their accounts in the event that they do not comply with their tax obligations and have not regularized their situation by providing the corresponding supporting documentation to Wallapop.
 
 **4.2.-** The corrective and/or content moderation measures that Wallapop may apply may vary depending on the type of activity and/or content not permitted on the basis of these Terms and Conditions or unlawful, and may include one or more of the following:
 
@@ -158,9 +166,9 @@ For example, in Portugal, in accordance with Article 80-A of the Value Added Tax
 * Delete Product ratings;
 * Block access to or delete advertisements or offers of Products, temporarily or permanently.
 
-**4.3.-** If Wallapop takes any or some of the corrective measures indicated above, it will inform the User of the restriction applied, the reason(s) and the remedies available, among others. However this information will not be provided if exceptionally it is not necessary according to the applicable law, if it violates any regulation or contradicts the instructions of any public authority.
+**4.3-** If Wallapop takes any or some of the corrective measures indicated above, it will inform the User of the restriction applied, the reason(s) and the remedies available, among others. However this information will not be provided if exceptionally it is not necessary according to the applicable law, if it violates any regulation or contradicts the instructions of any public authority.
 
-**4.4.-** Users are informed that, in the case of disagreement with the corrective measures applied by Wallapop, they may appeal the decision within 6 months from the date of the notification. For more information on how this process works, as well as to access the form, please [click here](https://ayuda.wallapop.com/hc/en-us/articles/23097488159889-Appeals-and-other-review-possibilities).
+**4.4.-** Users are informed that, in the case of disagreement with the corrective measures applied by Wallapop as a result of content moderation, they may appeal the decision within 6 months from the date of the notification. For more information on how this process works, as well as to access the form, please [click here](https://ayuda.wallapop.com/hc/en-us/articles/23097488159889-Appeals-and-other-review-possibilities).
 
 If Users still disagree with the decision taken by Wallapop, they can submit a request to one of the certified extrajudicial dispute resolution bodies (the complete list is available here), or file a lawsuit before the national courts under the applicable law. More information is available [here](https://ayuda.wallapop.com/hc/en-us/articles/23097488159889-Appeals-and-other-review-possibilities).
 
@@ -194,7 +202,7 @@ Therefore, Wallapop does not review or validate the Articles that Users offer th
 
 By accepting these Terms and Conditions, Users acknowledge and agree that they are fully responsible for any Product or advertisement offered on the Platform, as well as for the information provided through the description, photographs, and statements made to buyers or other Users and the accuracy of other details provided. In addition, Users shall be solely responsible for transactions made with other Users and any disputes that may arise therefrom.
 
-**5.6.-** Consequently, the User undertakes to indemnify Wallapop against any possible claim, fine, penalty or sanction that Wallapop may be obliged to bear as a result of the User’s breach of any of its legal obligations and/or the Rules for use of the service mentioned in these Terms and Conditions, and Wallapop also reserves the right to request compensation for any damages that may be due.
+**5.6.**– Consequently, the User undertakes to indemnify Wallapop against any possible claim, fine, penalty or sanction that Wallapop may be obliged to bear as a result of the User’s breach of any of its legal obligations and/or the Rules for use of the service mentioned in these Terms and Conditions, and Wallapop also reserves the right to request compensation for any damages that may be due.
 
 **6.- Content and services linked through the Service**
 
@@ -276,9 +284,7 @@ Similarly, in the event that Wallapop, due to a technical incident, does not eff
 
 **9.15.-** If you are a Consumer User, we inform you that in the Visibility Service the exercise of the right of withdrawal is not applicable. This is due to the nature of this service, which is activated automatically.
 
-**9.16.-** Our payment solutions in visibility are provided by Mangopay, S.A., a limited liability company incorporated under Luxembourg law whose registered office is located at 2, Avenue Amélie, L-1125 Luxembourg and which is registered with the Luxembourg Commerce and Companies Registry under number B173459 (“**Mangopay**“). Mangopay is an e-money institution authorized and regulated by the Luxembourg financial sector supervisory body (Commission de Surveillance du Secteur Financier). Mangopay processes payments made within our platform and stores information relating to credit cards, debit cards, PayPal and any other payment method supported by Wallapop for these types of transactions.
-
-**9.17.-** This service is currently only available in Spain. For more information about Visibility Services, please [click here](https://ayuda.wallapop.com/hc/en-us/sections/360000489837-Featured-items).
+**9.16.-** This service is currently only available in Spain. For more information about Visibility Services, please [click here](https://ayuda.wallapop.com/hc/en-us/sections/360000489837-Featured-items).
 
 **10.- Subscription Service** 
 
@@ -328,13 +334,15 @@ By accessing and making any purchase transaction of the Wallapop Subscription Se
 
 **11.2.2.**– The price of the Refurbished Products is shown inclusive of taxes and is freely fixed by the Seller. Together with the price of the Products, the Buyer must pay an amount relating to the “handling fees” of the purchase, calculated as a percentage of the amount of the price. The Buyer will be able to see the specific amount broken down in the purchase process under the name “handling fees”.
 
-**11.2.3**.- The shipment of the Products shall be free of charge for the Buyer. Delivery will be made according to the method chosen by the Buyer. The Buyer may, through his account, follow the process and status of the order. The delivery date will depend on the delivery method chosen by the Buyer.
+**11.2.3**.- The User is informed that the photographs included in the advertisements of the Refurbished Products may correspond to generic photographs of the same model and brand as the one offered in the advertisement. Therefore, the photographs may not correspond specifically to the specific device offered by the Seller and/or purchased by the Buyer.
 
-**11.2.4**.**–** In order to expedite the resolution of any possible incidents with orders of Refurbished Products, Wallapop recommends that the Buyer, at the time of delivery of the Product, verify the correct condition of the Product. In the event that the Product has been damaged or defective during transport, we recommend that you make reservations to the carrier. In the event that the Buyer subsequently notices this, the Buyer must inform Wallapop within two working days after delivery. Users can find more information about shipments at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22675854053265-Shipping-of-refurbished-items).
+**11.2.4.-** The shipment of the Products shall be free of charge for the Buyer. Delivery will be made according to the method chosen by the Buyer. The Buyer may, through his account, follow the process and status of the order. The delivery date will depend on the delivery method chosen by the Buyer.
 
-**11.2.5.-** Payment for the Products shall be made exclusively online, in accordance with these Terms and Conditions of Use.
+**11.2.5**.- In order to expedite the resolution of any possible incidents with orders of Refurbished Products, Wallapop recommends that the Buyer, at the time of delivery of the Product, verify the correct condition of the Product. In the event that the Product has been damaged or defective during transport, we recommend that you make reservations to the carrier. In the event that the Buyer subsequently notices this, the Buyer must inform Wallapop within two working days after delivery. Users can find more information about shipments at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22675854053265-Shipping-of-refurbished-items).
 
-**11.2.6.-** Users can find more information about the purchase process of the Refurbished Products at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22675668074257-Purchases-of-refurbished-items).
+**11.2.6.-** Payment for the Products shall be made exclusively online, in accordance with these Terms and Conditions of Use.
+
+**11.2.7.**– Users can find more information about the purchase process of the Refurbished Products at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22675668074257-Purchases-of-refurbished-items).
 
 **11.3.- Right of withdrawal for Refurbished Products**
 
@@ -346,13 +354,13 @@ Users are informed that the right of withdrawal is exercised before the Seller, 
 
 **11.3.2.-** To exercise their right of withdrawal, Buyers must send their request to the Seller through Wallapop following the instructions indicated in the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22676101799441-Return-instructions-for-refurbished-products).
 
-**11.3.3.-** The Product must be returned:
+**11.3.3.**– The Product must be returned:
 
 (i) in the same condition in which it was received, including all accompanying accessories (charging and/or connection cables, headphones, etc.), and
 
 (ii) without any personal data or information stored in the Product and without the Product being connected to any account.
 
-**11.3.4**.**–** The Buyer shall have a maximum period of 14 calendar days from the time he/she informs the Seller of his/her decision to return the Refurbished Product, to return the Product to the Seller through Wallapop’s shipping service, following the instructions indicated in the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22676101799441-Return-instructions-for-refurbished-products).
+**11.3.4**.- The Buyer shall have a maximum period of 14 calendar days from the time he/she informs the Seller of his/her decision to return the Refurbished Product, to return the Product to the Seller through Wallapop’s shipping service, following the instructions indicated in the following [link](https://ayuda.wallapop.com/hc/en-us/articles/22676101799441-Return-instructions-for-refurbished-products).
 
 It is the Buyer’s responsibility to pack the Product correctly so that it is not damaged in transit.
 
@@ -374,7 +382,7 @@ A Product shall be considered compliant when:
 
 (ii) has the characteristics mutually agreed upon by the parties or is suitable for any special use sought by Buyer, made known to Seller and accepted by Seller.
 
-**11.4.3.-** In the event of non-conformity, the Buyer may demand conformity of the Product from the Seller and choose between (i) repair or (ii) replacement of the Product. The Seller may not grant the option chosen by the Buyer in the event that the choice is impossible or involves a manifestly disproportionate cost.
+**11.4.3**.- In the event of non-conformity, the Buyer may demand conformity of the Product from the Seller and choose between (i) repair or (ii) replacement of the Product. The Seller may not grant the option chosen by the Buyer in the event that the choice is impossible or involves a manifestly disproportionate cost.
 
 Buyer may return the Product to Seller and receive a refund of the price from Seller (or keep the Product and receive a partial refund for the Product) when:
 
@@ -384,33 +392,33 @@ Buyer may return the Product to Seller and receive a refund of the price from Se
 
 The exercise of the right of warranty shall not give rise to any costs for the Buyer.
 
-**11.4.4**.**–** Users can obtain more information about how to exercise their right of guarantee at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/21412642822289-Return-policy-and-warranty-for-refurbished-items).
+**11.4.4**.- Users can obtain more information about how to exercise their right of guarantee at the following [link](https://ayuda.wallapop.com/hc/en-us/articles/21412642822289-Return-policy-and-warranty-for-refurbished-items).
 
 Users are informed that the warranty request must be made by the same User who purchased the Refurbished Product through Wallapop. Therefore, Wallapop will not handle warranty claims for Refurbished Products when the request is not made by the Purchaser of the Product.
 
-**11.4.5.-** The warranty is excluded in the cases set forth in our [Return and Warranty Policy for Refurbished Products](https://ayuda.wallapop.com/hc/en-us/articles/21412642822289-Return-policy-and-warranty-for-refurbished-items).
+**11.4.5.**– The warranty is excluded in the cases set forth in our [Return and Warranty Policy for Refurbished Products](https://ayuda.wallapop.com/hc/en-us/articles/21412642822289-Return-policy-and-warranty-for-refurbished-items).
 
-**12.- Payment methods**
+**12.- Payment methods and payment service platform**
 
-**12.1.-** Below we explain how you can pay for the Products you purchase through Wallapop. Our payment methods can be used for both face-to-face transactions and remote transactions where the Wallapop shipping service has been used, except for payment via PayPal, which is currently only available when using the shipping service.
+**12.1.-** Below we explain how you can pay for the Products and Visibility Services you purchase at or through Wallapop as a User. Our payment methods can be used for both in the purchase of Visibility Services and in face-to-face or remote transactions where the Wallapop shipping service has been used, except for payment via PayPal, which is currently only available when using the shipping service.
 
-**12.2.-** Our payment solutions for remote and face-to-face Product transactions are provided by Mangopay, S.A., a limited liability company incorporated under Luxembourg law whose registered office is located at 2, Avenue Amélie, L-1125 Luxembourg and which is registered with the Luxembourg Commerce and Companies Registry under number B173459 (“**Mangopay**“). Mangopay is an e-money institution authorized and regulated by the Luxembourg financial sector supervisory body (Commission de Surveillance du Secteur Financier).
+**12.2.-** With the exception of the payment of Visibility Services (more information in Clause 10.12), our payment solutions for remote and face-to-face Product transactions are provided by Mangopay, S.A., a limited liability company incorporated under Luxembourg law whose registered office is located at 2, Avenue Amélie, L-1125 Luxembourg and which is registered with the Luxembourg Commerce and Companies Registry under number B173459 (“**Mangopay**“). Mangopay is an e-money institution authorized and regulated by the Luxembourg financial sector supervisory body (Commission de Surveillance du Secteur Financier).
 
 **12.3.-** Mangopay processes the payments made within our platform and stores the information related to credit cards, debit cards, PayPal and any other payment method supported by Wallapop for this type of transactions.
 
-**12.4.-** Wallapop does not provide electronic payment services nor does it intermediate in their provision. By accessing and making any payment transaction on Wallapop using the integrated payment services of Mangopay, you confirm that you have carefully read, understood, and accepted Mangopay’s [Terms and Conditions of Use](https://www.mangopay.com/es/update-terms/), [Privacy Policy](https://www.mangopay.com/es/privacy/), and other legal texts, as well as those of Wallapop.
+**12.4.-** Wallapop does not provide electronic payment services nor does it intermediate in their provision. By accessing and making any payment transaction on Wallapop using the integrated payment services of Mangopay, you confirm that you have carefully read, understood, and accepted Mangopay’s [Terms and Conditions of Use](https://mangopay.com/terms-and-conditions/payment-services?_gl=1*b6559o*_up*MQ..*_ga*MjE1ODU0ODA1LjE3MjQwNzc3MTU.*_ga_VZLQHP6CFB*MTcyNDA3NzcxNC4xLjEuMTcyNDA3NzcxNC4wLjAuMA..), [Privacy Policy](https://www.mangopay.com/es/privacy/), and other legal texts, as well as those of Wallapop.
 
 **12.5.-** Any claim or dispute that may arise in connection with the payment services provided by Mangopay, should be handled through our customer service.
 
-**12.6.-** Below, we present detailed information on the payment methods available to you for transactions made on Wallapop. The payment methods available on Wallapop are as follows:
+**12.6.-** Below, we present detailed information on the payment methods available at Wallapop as a User:
 
-* **Debit or credit cards**: you can pay for articles you want to buy using a credit or debit card. If there are suspicions that the credit or debit card is not yours, you may be asked for more information to verify that the card or payment method belongs to you.
+* **Debit or credit cards**: you can pay for Products or Visibility Services you want to buy using a credit or debit card. If there are suspicions that the credit or debit card is not yours, you may be asked for more information to verify that the card or payment method belongs to you.
 * **PayPal**: you can also use PayPal to purchase articles you are interested in on Wallapop. For more information about using PayPal on Wallapop, please click [here](https://ayuda.wallapop.com/hc/en-us/articles/360017580017-Payment-with-PayPal).
-* **Wallet**: the wallet is one of the payment methods supported by Wallapop. It is an easy and secure way for Users to manage money from the transactions they make via Wallapop. If you want to buy a product and your e-wallet has money, the balance will be used automatically on a preferential basis. If you do not have enough money in your wallet to purchase the product you are interested in, you can cover the rest of the price using other payment methods that are available depending on the type of transaction. For more information about the Wallet, please click [here](https://about.wallapop.com/en/specific-conditions-regarding-the-wallet/).
+* **Wallet**: the wallet is one of the payment methods supported by Wallapop. It is an easy and secure way for Users to manage money from the transactions they make via Wallapop. If you want to buy a product and your e-wallet has money, the balance will be used automatically on a preferential basis. If you do not have enough money in your wallet to purchase the product or service you are interested in, you can cover the rest of the price using other payment methods that are available depending on the type of transaction. By using the Wallet, the User accepts the Specific conditions of the Wallet available [here](https://about.wallapop.com/en/specific-conditions-regarding-the-wallet/), which are a part of this Terms and Conditions.
 
 We do not accept cash on delivery or prepaid or virtual cards.
 
-You can also make mixed payments using both the wallet and your card. If you have money in your wallet, you can pay with the total balance available and use your card to cover the remainder. At the time of payment, you can choose the payment option you prefer.
+You can also make mixed payments using both the Wallet and your card. If you have money in your Wallet, you can pay with the total balance available and use your card to cover the remainder. At the time of payment, you can choose the payment option you prefer.
 
 For more information about payments, please click [here](https://ayuda.wallapop.com/hc/en-us/categories/360000219718-Payments-and-refunds).
 
@@ -422,17 +430,13 @@ For more information about payments, please click [here](https://ayuda.wallapop.
 
 **13.3.- The specific price established by the carriers will be indicated to the User before making the purchase of the Article.** The prices related to the shipping service include the Value Added Tax of 21%. In those cases in which, by application of the rules of localization of the tax established in Law 37/1992, of December 28, 1992, on Value Added Tax, the tax rate is not applicable, Wallapop undertakes to adjust the amount of the tax rate.
 
-**13.4.-** For more information about the Wallapop Shipping Service, the User may consult the specific Terms and Conditions of the Wallapop Shipping Service available [here](https://about.wallapop.com/en/specific-terms-and-conditions-of-the-wallapop-shipping-service/)[.](https://about.wallapop.com/it/termini-e-condizioni-specifiche-del-servizio-di-spedizione-wallapop/)
+**13.4.-** By using the Wallapop Shipping Service, the User accepts the specific Terms and Conditions of the Wallapop Shipping Service available [here](https://about.wallapop.com/en/specific-terms-and-conditions-of-the-wallapop-shipping-service/), which are a part of this Terms and Conditions.
 
 The User is informed that Wallapop, for business reasons, may carry out occasional tests that modify the shipping prices agreed upon with the shipping providers informed in the specific Conditions of Wallapop’s shipping service. As indicated in Clause 13.3 of these Conditions, the User shall be duly informed, before making the purchase of the Product, of the shipping costs associated with the purchase.
 
-**13.5.- Payment platform**
-
-Payments through the platform are made through Mangopay, which allows secure payments and collections between Users over the Internet. See our “**Section 12. Payment Methods**” above for more information.
-
 **13.6.- Wallapop Protection**
 
-**13.6.1.- Content of the Wallapop Protection**
+**13.6.1. Content of the Wallapop Protection**
 
 By using the Wallapop shipping service, Users benefit from the “Wallapop Protection” service, which includes:
 
@@ -462,6 +466,8 @@ Both the Buyer and the Seller are informed that “Wallapop Protection”:
 
 * It is a service offered by Wallapop as part of the shipping service of Products purchased through the platform and does **not constitute, in any case, an insurance**.
 * **It does not constitute or replace, in any way, any legal right or warranty that Buyer may have under applicable law**.
+
+In order to claim for loss or damage during transport, it is essential to have and provide Wallapop with the proof of delivery provided by the carrier when the Product is deposited at the collection point or when the Product is delivered, as applicable in each case. In this regard, Wallapop recommends that you keep the proof of delivery of the Product at least until the Buyer has stated that they have received the Product and that it is correct or, in the case of a return, until the Seller has stated that they have received the Product and that everything is correct.
 
 **13.6.2.- Cost of Protection Wallapop**
 
@@ -499,6 +505,8 @@ The Wallapop Support Team will evaluate the case, taking into consideration (i) 
 
 **_a)_** **In the event** that, as a result of the dispute, **it is determined that the Product is damaged** (provided such damage is not attributable to the carrier) **or does not match the description and/or photographs provided by Seller**, Buyer shall return the Product (as received) to Seller following the steps outlined
 
+Exceptionally, Wallapop may exempt the Buyer from this obligation when the Product has been sent to the Buyer for clearly deceptive purposes and is of extremely low value. Such exception shall be expressly announced by Wallapop to the Buyer.
+
 Buyer has a maximum of 10 calendar days to deliver the Product to the nearest office or transportation delivery point. Once this period has elapsed, the dispute will be cancelled and payment will be made to the Seller.
 
 Once the carrier notifies the Seller that the shipment has been delivered or made available, the reimbursement order will automatically be executed for the Buyer.
@@ -531,7 +539,7 @@ Your data may be shared and processed for fraud prevention or dispute management
 
 **14.- Wallapop Chatbot**
 
-**14.1.- Functionality of the Chatbot** 
+**14.1.- Functionality of the Chatbot**
 
 Wallapop offers its Users an automated messaging service, powered by artificial intelligence (hereinafter referred to as “**Chatbot**“), to assist them in resolving queries and to provide them with information about the operation of the platform, related products and services.
 
@@ -539,7 +547,7 @@ Wallapop offers its Users an automated messaging service, powered by artificial 
 
 Users may access the Chatbot through the Wallapop application or the web platform. Wallapop reserves the right to suspend or discontinue access to the Chatbot at any time and without prior notice.
 
-**14.3.- Limitation of Liability**
+ **14.3.- Limitation of Liability**
 
 Wallapop shall not be liable for any errors, interruptions or failures in the operation of the Chatbot, including but not limited to technical, software or Internet connection errors. The operation of the Chatbot may be affected by a number of variables, including but not limited to the following:
 
@@ -547,9 +555,9 @@ Wallapop shall not be liable for any errors, interruptions or failures in the op
 * Complexity of queries made by Users.
 * Changes in Wallapop’s policies.
 
-Wallapop strives to ensure the accuracy of the answers provided by the Chatbot. However, it does not guarantee the accuracy, completeness or suitability of the information provided. It is recommended that Users verify the information with additional sources. In situations that require it, the User will be redirected to the most suitable communication channel. 
+Wallapop strives to ensure the accuracy of the answers provided by the Chatbot. However, it does not guarantee the accuracy, completeness or suitability of the information provided. It is recommended that Users verify the information with additional sources. In situations that require it, the User will be redirected to the most suitable communication channel.
 
-The answers provided through the Chatbot are solely and exclusively informative but not binding for Wallapop. 
+The answers provided through the Chatbot are solely and exclusively informative but not binding for Wallapop.
 
 **14.4.- User Responsibility**
 
@@ -559,7 +567,7 @@ Users warrant that they will not engage in the following actions, listed but not
 
 1. Use the Chatbot for purposes or effects that are unlawful, fraudulent, defamatory, illegal, contravene these Terms and Conditions or infringe the rights of Wallapop or third parties.
 2. Use the Chatbot to generate content that expresses or promotes hatred, harassment or violence, exploits or harms children, encourages self-harm, presents illegal, sexual, political, harmful, false, misleading or deceptive information, misuses personal data, contains malware, unsolicited bulk content, ransomware, viruses or other software.
-3. Use the Chatbot in any manner that could damage, disable, overburden, or impair the Service or the Chatbot itself. 
+3. Use the Chatbot in any manner that could damage, disable, overburden, or impair the Service or the Chatbot itself.
 4. Impersonate another User, entity or person.
 5. Attempt to access or use other Users’ accounts, devices or computer systems without authorization.
 6. Violate the intellectual property rights of others, including but not limited to copyrights, trademarks, patents or trade secrets.
@@ -567,11 +575,11 @@ Users warrant that they will not engage in the following actions, listed but not
 
 In any case, the User shall be liable for any damages of any nature that Wallapop may suffer as a result of a breach of any of the obligations under these Terms and Conditions or applicable law in connection with the use of the Chatbot.
 
-Wallapop reserves the right to block the accounts of Users, temporarily or permanently, who misuse the Chatbot and contravene these Terms and Conditions. 
+Wallapop reserves the right to block the accounts of Users, temporarily or permanently, who misuse the Chatbot and contravene these Terms and Conditions.
 
 **14.5.- Privacy and Data Protection**
 
-By using the Chatbot, Users agree that Wallapop may collect and process certain personal data in accordance with our [Privacy Policy](https://about.wallapop.com/en/privacy-policy/). Wallapop implements appropriate security measures to protect information collected through the Chatbot against unauthorized access, disclosure, alteration or destruction.
+By using the Chatbot, Users agree that Wallapop may collect and process certain personal data in accordance with our [Privacy Policy.](https://about.wallapop.com/en/privacy-policy/) Wallapop implements appropriate security measures to protect information collected through the Chatbot against unauthorized access, disclosure, alteration or destruction.
 
 **14.6.- Modifications and Updates**
 
@@ -606,7 +614,7 @@ If any clause included in these Terms and Conditions is declared totally or part
 
 The name and the Wallapop™ logo are registered trademarks of Wallapop, S.L.
 
-Copyright Wallapop, S.L. © 2024 – All rights reserved.
+Copyright Wallapop, S.L. © 2013-2024 – All rights reserved.
 
 * * *
 
