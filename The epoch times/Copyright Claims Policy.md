@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Virginia School Board Settles for $575,000 With Teacher Fired Over Transgender Pronoun Dispute](https://img.theepochtimes.com/assets/uploads/2019/10/03/Vlaming_25-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-school-board-settles-for-575000-with-teacher-fired-over-transgender-pronoun-dispute-5733366)
+* [Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
+    
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Taxpayer-Funded Incentives to Buy EVs Hit $2 Billion This Year, Treasury Says](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/taxpayer-funded-incentives-to-buy-evs-hit-2-billion-this-year-treasury-says-5733567)
+* [Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
+    
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Dockworkers Strike, Centennial Moment, President-Elects](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733509-GettyImages-2175293229-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dockworkers-strike-centennial-moment-president-elects-5733209)
+* [Vance, Walz Debate Middle East, Border, Abortion](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Vance, Walz Debate Middle East, Border, Abortion](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733645-Walz-Vance-debate-GettyImages-2175342498-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-walz-to-face-off-in-debate-5733595)
+* [FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
+    
+    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FDA Reorganizes to Address Food Additives, Deal With ‘One of the Big Concerns,’ Expert Says](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733583-shutterstock_227614513_food_color_food_additives-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-reorganizes-to-address-food-additives-deal-with-one-of-the-big-concerns-expert-says-5733383)
+* [Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://www.theepochtimes.com/us/trump-assassination-attempt-suspect-trial-starting-november-judge-orders-5733499)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Assassination Attempt Suspect Trial Starting November, Judge Orders](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727757-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-assassination-attempt-suspect-trial-starting-november-judge-orders-5733499)
+* [Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://www.theepochtimes.com/us/justice-department-finds-georgia-officials-have-lost-control-of-state-prisons-5733415)
+    
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Justice Department Finds Georgia Officials Have ‘Lost Control’ of State Prisons](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733621-GettyImages-125713264KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/justice-department-finds-georgia-officials-have-lost-control-of-state-prisons-5733415)
 * [Economic Implications of 1st Port Worker Strike Since 1977](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
     
-    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733162-Major_Port_Strike-205x123.jpg.webp)](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
+    ![Economic Implications of 1st Port Worker Strike Since 1977](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733622-Major_Port_StrikeKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/economic-implications-of-1st-port-worker-strike-since-1977-post-5733393)
 * [Port Strike Could Cost the US Billions: Here’s What to Know](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Port Strike Could Cost the US Billions: Here’s What to Know](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/port-strike-could-cost-the-us-billions-heres-what-to-know-5733353)
 * [Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Agency Investigating Chemical Plant Fire in Georgia After Evacuations](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732973-1.downloadKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-investigating-chemical-plant-fire-in-georgia-after-evacuations-5733240)
-* [North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://www.theepochtimes.com/us/north-carolina-communities-wiped-off-the-map-by-helene-governor-says-5733304)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![North Carolina Communities ‘Wiped Off the Map’ by Helene, Governor Says](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733461-Hurricane-Helene-AP24274607077324-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-communities-wiped-off-the-map-by-helene-governor-says-5733304)
-* [Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://www.theepochtimes.com/opinion/japans-next-prime-minister-is-likely-to-pursue-a-balanced-international-policy-experts-say-5733062)
-    
-    5hr By [Jon Sun](https://www.theepochtimes.com/author/jon-sun) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
-    
-    [![Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Japan’s Next Prime Minister Is Likely to Pursue a Balanced International Policy, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733363-ishibaAP-LS.jpg-205x123.webp)](https://www.theepochtimes.com/opinion/japans-next-prime-minister-is-likely-to-pursue-a-balanced-international-policy-experts-say-5733062)
-* [2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
-    
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![2 Sentenced for Selling Data on Millions of US Consumers to Fraudsters](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718109-GettyImages-1066101390-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-sentenced-for-selling-data-on-millions-of-u-s-consumers-to-fraudsters-5733189)
-* [US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
-    
-    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Job Openings Unexpectedly Top 8 Million as Labor Market Stays Intact](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733334-09192024-DSC09513-Now-hiringKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-job-openings-unexpectedly-top-8-million-as-labor-market-stays-intact-5733282)
-* [Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Boeing’s 737 Faces Another Safety Issue: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733333-Unknown-7KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeings-737-faces-another-safety-issue-heres-what-we-know-5733210)
-* [Iran Launches Barrage of Ballistic Missiles at Israel](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
-    
-    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Iran Launches Barrage of Ballistic Missiles at Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Iran Launches Barrage of Ballistic Missiles at Israel](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733378-GettyImages-2175283516-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-preparing-ballistic-missile-attack-on-israel-us-warns-5733266)
-* [Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
-    
-    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Many More Arizona Voters Missing Proof of Citizenship Than First Disclosed: Official](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733332-GettyImages-1244781462KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/many-more-arizona-voters-missing-proof-of-citizenship-than-first-disclosed-official-5733143)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
