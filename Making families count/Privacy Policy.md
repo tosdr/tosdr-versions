@@ -44,11 +44,11 @@ As part of our project “Life Beyond the Cubicle”, we are currently developin
 Recent Posts
 ------------
 
+* [Media Release](https://www.makingfamiliescount.org.uk/2024/10/02/media-release/)
+* [Life Beyond the Cubicle: Co-production to develop resources to improve outcomes for people in a mental health crisis](https://www.makingfamiliescount.org.uk/2024/10/02/life-beyond-the-cubicle-blog/)
 * [New Bespoke Training at Surrey and Borders](https://www.makingfamiliescount.org.uk/2024/04/05/new-bespoke-training-at-surrey-and-borders/)
 * [Trevor Stevens Speaks on Radio 4](https://www.makingfamiliescount.org.uk/2024/03/25/trevor-stevens-speaks-on-radio-4/)
 * [Making Families Count at RCPCH Annual Conference](https://www.makingfamiliescount.org.uk/2024/03/18/making-families-count-at-rcpch-annual-conference/)
-* [New MFC Members](https://www.makingfamiliescount.org.uk/2024/03/13/new-mfc-members/)
-* [Patient Safety Education Network](https://www.makingfamiliescount.org.uk/2024/03/06/patient-safety-education-network/)
 
 A to Z of Useful Information.
 -----------------------------
