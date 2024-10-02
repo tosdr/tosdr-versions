@@ -16,8 +16,7 @@
 * [Our studios](#)
     * [Montreal](https://www.bhvr.com/montreal/)
     * [Toronto](https://www.bhvr.com/toronto/)
-    * [UK – North](https://www.bhvr.com/uk-north/)
-    * [UK – South](https://www.bhvr.com/uk-south/)
+    * [UK](https://www.bhvr.com/uk/)
     * [Rotterdam](https://www.bhvr.com/rotterdam/)
 * [News](#)
     * [Press Room](https://media.bhvr.com/)
@@ -373,8 +372,7 @@ California’s “Shine the Light” law (Civil Code Section § 1798.83) permits
 * [Our studios](#)
     * [Montreal](https://www.bhvr.com/montreal/)
     * [Toronto](https://www.bhvr.com/toronto/)
-    * [UK – North](https://www.bhvr.com/uk-north/)
-    * [UK – South](https://www.bhvr.com/uk-south/)
+    * [UK](https://www.bhvr.com/uk/)
     * [Rotterdam](https://www.bhvr.com/rotterdam/)
 * [News](#)
     * [Press Room](https://media.bhvr.com/)
@@ -384,11 +382,11 @@ California’s “Shine the Light” law (Civil Code Section § 1798.83) permits
 * [En](https://www.bhvr.com/privacy-policy/ "En")
 * [Fr](https://www.bhvr.com/fr/vie-privee/ "Fr")
 
-* [](https://twitter.com/behaviour)
-* [](https://www.facebook.com/behaviourinteractive/)
-* [](https://linkedin.com/company/behaviour-interactive/)
-* [](https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ)
-* [](https://instagram.com/behaviour_interactive)
+* [twitter](https://twitter.com/behaviour)
+* [facebook](https://www.facebook.com/behaviourinteractive/)
+* [linkedin](https://linkedin.com/company/behaviour-interactive/)
+* [youtube](https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ)
+* [instagram](https://instagram.com/behaviour_interactive)
 
 ©2024 and BEHAVIOUR and other related trademarks and logos belong to Behaviour Interactive Inc. All rights reserved.
 
