@@ -69,6 +69,7 @@ Main navigation
     * [Getting Hired](https://www.valero.com/careers/getting-hired)
     * [Careers in Renewables](https://www.valero.com/careers/careers-renewables)
     * [View U.S. Opportunities](https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en)
+    * [Global Opportunities](https://www.valero.com/careers/global-opportunities)
     
     Featured Content [Apply & Join Us](https://www.valero.com/careers/apply-join-us)
     
