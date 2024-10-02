@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_64306_2024/64306-2024-lemauga-lydia-sosene-to-the-minister-of-internal/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/copyright/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_64306_2024/64306-2024-lemauga-lydia-sosene-to-the-minister-of-internal/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/copyright/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
