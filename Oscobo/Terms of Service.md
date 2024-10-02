@@ -1,10 +1,7 @@
 [![](images/logo-small.png)](https://www.oscobo.com/)
 
-* [Web](https://www.oscobo.com/search.php?q=&a=&u=&t=)
-* [Images](https://www.oscobo.com/images.php?q=&a=&u=&t=)
-* [Videos](https://www.oscobo.com/videos.php?q=&a=&u=&t=)
+* [Web](https://www.oscobo.com/find.php?q=&a=&u=&t=)
 * [Maps](https://www.oscobo.com/maps.php?q=&a=&u=&t=)
-* [News](https://www.oscobo.com/news.php?q=&a=&u=&t=)
 
 Oscobo Terms of Service
 =======================
