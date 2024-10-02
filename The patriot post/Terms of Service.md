@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110697-mid-day-digest-2024-10-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110751-mid-day-digest-2024-10-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110697-mid-day-digest-2024-10-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110751-mid-day-digest-2024-10-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,23 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34305)
+     [](https://patriotpost.us/cartoons/34307)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Christine Flowers Harris Prefers Visiting Abortion Clinics Over Visiting the Border](https://patriotpost.us/opinion/110680-harris-prefers-visiting-abortion-clinics-over-visiting-the-border-2024-10-01)
-*      [Dennis Prager People Hate Those Who Fight Evil Far More Than Those Who Are Evil](https://patriotpost.us/opinion/110679-people-hate-those-who-fight-evil-far-more-than-those-who-are-evil-2024-10-01)
-*      [Daniel McCarthy Iran Targets America’s Elections — and Trump](https://patriotpost.us/opinion/110678-iran-targets-americas-elections-and-trump-2024-10-01)
-*      [Salena Zito In Pennsylvania Tour, Trump Hits All the Right Places and Messages](https://patriotpost.us/opinion/110677-in-pennsylvania-tour-trump-hits-all-the-right-places-and-messages-2024-10-01)
-*      [Gary Bauer America Last](https://patriotpost.us/opinion/110676-america-last-2024-10-01)
-*      [Victor Joecks Why Harris Struggles With ‘White Dudes’](https://patriotpost.us/opinion/110675-why-harris-struggles-with-white-dudes-2024-10-01)
-*      [Cal Thomas VP Harris Visits the ‘BINO’](https://patriotpost.us/opinion/110674-vp-harris-visits-the-bino-2024-10-01)
-*      [Stephen Moore Can We All Get Along? Yes, by Letting the States Decide.](https://patriotpost.us/opinion/110673-can-we-all-get-along-yes-by-letting-the-states-decide-2024-10-01)
+*      [The Washington Stand Iran Launches Missiles at Israel After Israeli Forces Enter Lebanon](https://patriotpost.us/opinion/110726-iran-launches-missiles-at-israel-after-israeli-forces-enter-lebanon-2024-10-02)
+*      [Rich Lowry Kamala Harris, Faux Border Hawk](https://patriotpost.us/opinion/110724-kamala-harris-faux-border-hawk-2024-10-02)
+*      [Byron York Trump Numbers Show How GOP Went Wrong on Immigration](https://patriotpost.us/opinion/110723-trump-numbers-show-how-gop-went-wrong-on-immigration-2024-10-02)
+*      [John Stossel Politicians Steal Homes](https://patriotpost.us/opinion/110722-politicians-steal-homes-2024-10-02)
+*      [Tim Graham Rachel Maddow Smears Vance as a Fascist Speech-Squasher](https://patriotpost.us/opinion/110721-rachel-maddow-smears-vance-as-a-fascist-speech-squasher-2024-10-02)
+*      [Gary Bauer Iran Attacks Israel](https://patriotpost.us/opinion/110718-iran-attacks-israel-2024-10-02)
+*      [Ian Haworth Trump Must Do These 3 Things to Win](https://patriotpost.us/opinion/110717-trump-must-do-these-3-things-to-win-2024-10-02)
+*      [Tony Perkins Let’s Emulate the Boldness and Conviction of Harrison Butker](https://patriotpost.us/opinion/110725-lets-emulate-the-boldness-and-conviction-of-harrison-butker-2024-10-02)
+*      [Betsy McCaughey The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://patriotpost.us/opinion/110719-the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders-2024-10-02)
+*      [Star Parker How We Cope Shows Men and Women Are Different](https://patriotpost.us/opinion/110720-how-we-cope-shows-men-and-women-are-different-2024-10-02)
+*      [Guest Commentary A Different Kind of Trump Rap Sheet](https://patriotpost.us/opinion/110750-a-different-kind-of-trump-rap-sheet-2024-10-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,13 +227,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“It will not be doubted, that with reference either to individual, or National Welfare, Agriculture is of primary importance. In proportion as Nations advance in population, and other circumstances of maturity, this truth becomes more apparent; and renders the cultivation of the Soil more and more, an object of public patronage.” —George Washington (1796)
+“The second office of this government is honorable & easy, the first is but a splendid misery.” —Thomas Jefferson (1797)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
