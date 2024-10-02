@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance-debate.jpg?ve=1&tl=1)
+ [![Who won the VP debate? Here's what polls say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175348166.jpg?ve=1&tl=1)
 
- ![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance-debate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+ ![Who won the VP debate? Here's what polls say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175348166.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/who-won-vp-debate-what-polls-say)
 
-### [Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+### [Who won the VP debate? Here's what polls say](https://www.fox4news.com/news/who-won-vp-debate-what-polls-say)
 
- [![Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/P-DAVID-RANSOMWARE-ATTACKS-INDICTMENT-9P_00.01.02.48.jpg?ve=1&tl=1)
+ [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/Eddie-Lacy-Getty-mugshot-scaled.jpg?ve=1&tl=1)
 
- ![Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/P-DAVID-RANSOMWARE-ATTACKS-INDICTMENT-9P_00.01.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aleksandr-ryzhenkov-indictment-north-texas-businesses-ransomware)
-
-### [Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://www.fox4news.com/news/aleksandr-ryzhenkov-indictment-north-texas-businesses-ransomware)
-
- [![Harris vs. Trump: Who is winning the 2024 election right now?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2172377704-scaled.jpg?ve=1&tl=1)
-
- ![Harris vs. Trump: Who is winning the 2024 election right now?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2172377704-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-trump-polls-election-white-house)
-
-### [Harris vs. Trump: Who is winning the 2024 election right now?](https://www.fox4news.com/news/harris-trump-polls-election-white-house)
-
- [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/GettyImages-176717918-scaled.jpg?ve=1&tl=1)
-
- ![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/GettyImages-176717918-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
+ ![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/Eddie-Lacy-Getty-mugshot-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
 ### [Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://www.fox4news.com/news/eddie-lacy-ex-nfl-running-back-accused-dui-arizona)
 
- [![Texas man executed for fatally stabbing twin teenage girls in 1989](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/Garcia-Glen-White-mug.jpg?ve=1&tl=1)
+ [![Rowlett's only early voting location in jeopardy over safety concerns](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/8397TZ-ROWLETT-EARLY-VOTING-SITE_00.00.20.52.jpg?ve=1&tl=1)
 
- ![Texas man executed for fatally stabbing twin teenage girls in 1989](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/Garcia-Glen-White-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
+ ![Rowlett's only early voting location in jeopardy over safety concerns](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/8397TZ-ROWLETT-EARLY-VOTING-SITE_00.00.20.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/rowlett-early-voting-location-safety-concerns-election-2024)
 
-### [Texas executes man for killing twin teen girls](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
+### [Rowlett's only early voting location in jeopardy over safety concerns](https://www.fox4news.com/election/rowlett-early-voting-location-safety-concerns-election-2024)
+
+ [![Top US states where you're most likely to discover gold today](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-113280193.jpg?ve=1&tl=1)
+
+ ![Top US states where you're most likely to discover gold today](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-113280193.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/top-states-for-gold-discovery)
+
+### [Top US states where you're most likely to discover gold today](https://www.fox4news.com/news/top-states-for-gold-discovery)
+
+ [![Woman shot man in alleged road rage incident; police investigating possible self-defense](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1)
+
+ ![Woman shot man in alleged road rage incident; police investigating possible self-defense](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
+
+### [Woman shot man in alleged road rage incident; police investigating possible self-defense](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
 
 ###### [News](https://www.fox4news.com/news)
 
