@@ -335,6 +335,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Mule-on-out-scaled-300x200.jpg)](https://www.theadvocates.org/old-man-mountain-weeps/)
+    
+    #### [Old Man Mountain Weeps](https://www.theadvocates.org/old-man-mountain-weeps/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x200.jpg)](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
     
     #### [The A Word (Gasp) – Anarchy](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
@@ -362,10 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-12-at-5.07.51 PM-300x200.png)](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
     
     #### [The Absurdity of the Presidency](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-05-at-8.12.12 PM-300x200.png)](https://www.theadvocates.org/were-creating-an-infinite-game/)
-    
-    #### [We’re Creating an Infinite Game](https://www.theadvocates.org/were-creating-an-infinite-game/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
