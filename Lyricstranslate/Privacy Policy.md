@@ -107,67 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![SiHo_92](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1367737-1664576535.jpg)](https://lyricstranslate.com/en/translator/siho92 "SiHo_92")
+[![MattsunSanAddict](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1549618-1706574407.png)](https://lyricstranslate.com/en/translator/mattsunsanaddict "MattsunSanAddict")
 
 New translation
 
-[The Carpenters - This Masquerade](https://lyricstranslate.com/en/carpenters-masquerade-german)
+[Golden Child - Genie](https://lyricstranslate.com/en/golden-child-genie-thai)
 
-English → German
+Korean → Thai
 
-[![IsraelWu](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/israelwu "IsraelWu")
-
-New comment
-
-Hi Igor, How are you? I fully understand what ...  [more](https://lyricstranslate.com/en/comment/1167785#comment-1167785)
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+[![Suze](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1469228-1718476904.jpg)](https://lyricstranslate.com/en/translator/suze "Suze")
 
 Transcription request fulfilled
 
-[Mama sure could swing a deal](https://lyricstranslate.com/en/magic-lanterns-mama-sure-could-swing-d-lyrics)
-
-English
-
-[![vasan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1200737-1694515434.jpg)](https://lyricstranslate.com/en/translator/vasan "vasan")
-
-New song
-
-[Papa Roach - Leave A Light On (Talk Away The Dark)](https://lyricstranslate.com/en/papa-roach-leave-light-talk-aw-lyrics)
-
-English
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New song
-
-[The Magic Lanterns - Mama sure could swing a deal](https://lyricstranslate.com/en/magic-lanterns-mama-sure-could-swing-d-lyrics)
-
-English
-
-[![inthemiddle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1630304-1726999748.jpg)](https://lyricstranslate.com/en/translator/inthemiddle "inthemiddle")
-
-New translation
-
-[Ruslana (Ukraine) - Wild Dances (English Version)](https://lyricstranslate.com/en/ruslana-ukraine-wild-dances-english-vers-turkish)
-
-English → Turkish
-
-[![Lightbee](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616265-1714037139.png)](https://lyricstranslate.com/en/translator/lightbee "Lightbee")
-
-New song
-
-[Doe Maar - Macho](https://lyricstranslate.com/en/doe-maar-macho-lyrics)
+[Durf Te Dromen](https://lyricstranslate.com/en/droomvlucht-de-musical-o-durf-te-dromen-lyrics)
 
 Dutch
 
-[![LEELOO](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leeloo "LEELOO")
+[![Suze](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1469228-1718476904.jpg)](https://lyricstranslate.com/en/translator/suze "Suze")
 
-New request
+New song
 
-[Jewel - Daddy](https://lyricstranslate.com/en/request/daddy-19)
+[Droomvlucht De Musical (OST) - Durf Te Dromen](https://lyricstranslate.com/en/droomvlucht-de-musical-o-durf-te-dromen-lyrics)
 
-English → Polish
+Dutch
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[Milva - La folla](https://lyricstranslate.com/en/milva-la-folla-polish)
+
+Italian → Polish
+
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+
+New comment
+
+Hi Mattia, gelungen! Nebenbei: "la grana" hat ...  [more](https://lyricstranslate.com/en/comment/1168067#comment-1168067)
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[La Oreja de Van Gogh - Cuídate](https://lyricstranslate.com/en/la-oreja-de-van-gogh-cuidate-polish)
+
+Spanish → Polish
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[Georges Moustaki - Heureusement qu' il y a de l' herbe](https://lyricstranslate.com/en/georges-moustaki-heureusement-qu-il-y-d-polish)
+
+French → Polish
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[Els Catarres - Un sostre fet d'estrelles](https://lyricstranslate.com/en/els-catarres-un-sostre-fet-destrelles-polish)
+
+Catalan → Polish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
