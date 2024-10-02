@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Scientists Decode Key Mutation in Many Cancers](https://www.sciencedaily.com/releases/2024/10/241002122918.htm)
+* [Record-Breaking Stellar Triplets Spotted](https://www.sciencedaily.com/releases/2024/10/241002123146.htm)
+* [Playing Bottlenose Dolphins 'Smile' at Each ...](https://www.sciencedaily.com/releases/2024/10/241002123030.htm)
+* [Entire Brain of Adult Fruit Fly Mapped](https://www.sciencedaily.com/releases/2024/10/241002123138.htm)
+* [Decade After Hurricane, Thousands of Early ...](https://www.sciencedaily.com/releases/2024/10/241002123012.htm)
+* [AI Lets You Glimpse Potential Future Self](https://www.sciencedaily.com/releases/2024/10/241002104856.htm)
+* [Do Coyotes Have Puppy Dog Eyes?](https://www.sciencedaily.com/releases/2024/10/241002104655.htm)
+* [Reducing Daily Sitting May Prevent Back Pain](https://www.sciencedaily.com/releases/2024/10/241002104547.htm)
 * [Using Antimatter to Detect Nuclear Radiation](https://www.sciencedaily.com/releases/2024/10/241001124604.htm)
 * [High Airborne Plastic Chemical Levels](https://www.sciencedaily.com/releases/2024/10/241001170432.htm)
-* [Air Pollution And Children's Brains](https://www.sciencedaily.com/releases/2024/10/241001170430.htm)
-* [Min-Robots in Convoy for Endoscopic Surgery](https://www.sciencedaily.com/releases/2024/10/241001114926.htm)
-* [Possible Future Climate Scenarios](https://www.sciencedaily.com/releases/2024/10/241001124656.htm)
-* [Meet Our New Neighbor: Exoplanet Next Door](https://www.sciencedaily.com/releases/2024/10/241001114845.htm)
-* [Feet First: How Infants Connect With Their World](https://www.sciencedaily.com/releases/2024/10/241001114836.htm)
-* [Temp-Controlled Clothing: Squid-Inspired Fabric](https://www.sciencedaily.com/releases/2024/10/241001114730.htm)
-* [Pluto's Moon Charon: Record of Ancient Processes](https://www.sciencedaily.com/releases/2024/10/241001114722.htm)
-* [What Triggered Tongan Volcanic Eruption?](https://www.sciencedaily.com/releases/2024/09/240930212840.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
-
 [Asthma](https://www.sciencedaily.com/news/health_medicine/asthma/)
+
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
-[Kuiper Belt](https://www.sciencedaily.com/news/space_time/kuiper_belt/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
