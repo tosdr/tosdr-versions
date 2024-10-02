@@ -226,11 +226,11 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
-[![Femi Azeez. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/08/DSC_2624-2024-08-24T13_49_05.431-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
+[![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
-### [Millwall boss gives update on Femi Azeez ahead of Cardiff City clash](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
+### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
-[28th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-update-on-player-missing-from-squad/)
+[1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
 ### Featured Articles
 
