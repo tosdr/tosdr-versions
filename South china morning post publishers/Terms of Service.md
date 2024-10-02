@@ -1,7 +1,3 @@
-[](https://www.scmp.com/?module=masthead&pgtype=page)
-
-[](https://www.scmp.com/?module=masthead&pgtype=page)
-
 Terms & Conditions
 ==================
 
