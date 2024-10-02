@@ -446,129 +446,119 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-177K](https://rumble.com/v5h5ky5-tampon-tim-gets-dog-walked-at-the-debate-ep.-2341-10022024.html "The Dan Bongino Show")
-
 [Bannons War Room
 
-12.2K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+7.68K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Candace Show Podcast
 
-6.38K](https://rumble.com/v5h4sk5-badlands-daily-wednesday-october-2-2024.html "Badlands Media")
+4.55K](https://rumble.com/v5h7r8x-kamalas-family-reaches-out-candace-ep-77.html "Candace Show Podcast")
 
 [NEWSMAX
 
-6.11K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[The Rubin Report
-
-4.96K](https://rumble.com/v5h6ais-tim-walz-panics-as-moderator-points-out-his-lie-during-jd-vance-debate.html "The Rubin Report")
+3.93K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-352](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
-
-[Geeks + Gamers
-
-280](https://rumble.com/v5h69mq-star-wars-outlaws-a-disaster-for-ubisoft-lucasfilm-wants-to-triple-down-on-.html "Geeks + Gamers")
-
-[Caleb Hammer
-
-188](https://rumble.com/v5h30jw-she-hates-her-husband-but-cant-escape-financial-audit.html "Caleb Hammer")
-
-[Mostly Sports With Mark Titus and Brandon Walker
-
-138](https://rumble.com/v5h6ahx-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+312](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [barstoolsports
 
-138](https://rumble.com/v5h6ahx-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "barstoolsports")
+133](https://rumble.com/v5h7a3p-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister.html "barstoolsports")
 
-[Mike Crispi
+[Mostly Sports With Mark Titus and Brandon Walker
 
-88](https://rumble.com/v5h5tur-jd-vance-shines-in-debate-dismantles-coach-walz.html "Mike Crispi")
+132](https://rumble.com/v5h7a3p-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister.html "Mostly Sports With Mark Titus and Brandon Walker")
 
 [Major League Fishing
 
 5](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
 [Akademiks](https://rumble.com/c/Akademiks "Akademiks")
 
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
 
 [Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
 
 [World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
 
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
 
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
 
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
 
-[Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
 
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
 
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
 
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
 
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
 
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
-
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
 
 [Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
 
-[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
 
 [Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
 
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
 
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
 
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
 
-[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
 
 ### Theme
 
