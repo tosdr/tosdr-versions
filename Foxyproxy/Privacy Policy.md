@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Hi there ..Thanks for your service - it was great!!!!!!!!!! I will came back next month.
+Thank you very much for your good service.
 
-Carlos
+Gil Lessard
