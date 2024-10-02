@@ -137,37 +137,38 @@ MSX Music player
 
 Latest reactions
 
-* [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
+* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
+* [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
-* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper](https://www.msx.org/photoshoots/bussum-2001/one-winners-msxorg-quiz-bas-kornalijnslijper "One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper")
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
-* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 
 Latest forum posts
 
-* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=8 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
+* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
+* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=3 "Hi From Cuba, Need Help Z80 ;)")
+* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [V9990](https://www.msx.org/forum/msx-talk/hardware/v9990?page=2 " V9990")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=61 "WonderTANG! Who wants to juice up your MSX?")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=120 "Please help testing upcoming openMSX release!")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=62 "WonderTANG! Who wants to juice up your MSX?")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
-* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=3 "Hi From Cuba, Need Help Z80 ;)")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=3 "HB-F1XD reboots/freezes in basic")
 * [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
-* [MSXDOS 2.2 sources and new 32K rom mod](https://www.msx.org/forum/msx-talk/development/msxdos-22-sources-and-new-32k-rom-mod?page=4 "MSXDOS 2.2 sources and new 32K rom mod")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
@@ -180,7 +181,6 @@ News headlines
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
-* [Final Fantasy MSX2 translation](https://www.msx.org/news/translations/en/final-fantasy-msx2-translation "Final Fantasy MSX2 translation ")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
