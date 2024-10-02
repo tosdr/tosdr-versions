@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [That Insidious Beast: A Great Haul](https://www.somethingawful.com/news/insidious-beast-haul/1/)
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [1992 Graphics for Everything!](https://www.somethingawful.com/comedy-goldmine/videogame-graphics-1992/1/)
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [(Intentionally) Bad Comics!](https://www.somethingawful.com/photoshop-phriday/mspaint-rage-terrible/)
+* [Pretty Ricky - Late Night Special](https://www.somethingawful.com/awful-links/pretty-ricky-airhumping/)
+* [I am very, VERY disappointed!](https://www.somethingawful.com/awfulvision/mossels-warcraft-pangaea/1/)
+* [Band Name Movies](https://www.somethingawful.com/photoshop-phriday/band-name-movies/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [GameTalk and TightRope](https://www.somethingawful.com/weekend-web/gametalk-and-tightrope/1/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [Something Awful (and Rifftrax): in movie theaters TODAY!](https://www.somethingawful.com/news/something-awful-rifftrax/)
-* [Free Laptops >>> CLIK HERE <<<](https://www.somethingawful.com/hogosphere/free-laptops-clik/)
-* [Monstergeddon 2011 Results!](https://www.somethingawful.com/news/monstergeddon-2011-results/1/)
-* [Abraxas: Guardian of the Universe](https://www.somethingawful.com/movie-reviews/abraxas-guardian-universe/1/)
-* [Let's Annoy Harlan Ellison!](https://www.somethingawful.com/news/lets-annoy-harlan/)
+* [Better Taglines for Jaws](https://www.somethingawful.com/news/jaws-taglines-shark/)
+* [Where Have All the Teen Shoppers Gone?](https://www.somethingawful.com/news/teen-shoppers-gone/)
+* [Jerry Jones Is A Menace And Possibly A Scofflaw](https://www.somethingawful.com/news/jerry-jones-accusations/)
+* [Defending the Indefensible: Kings of Leon](https://www.somethingawful.com/garbage-day/kings-leon-sundown/)
+* [Dimensional Failure (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/dimensional-failure-part1/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
