@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a066622f3c485fe3c4690270b4ca7f78
+0858d031d0be8d09e50ce79bf25e0911
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Medium crane scissors](https://sojourner.biz/images/cache/SZ005.200.jpg)](https://sojourner.biz/beads/tools/medium-crane-scissors.html "Medium crane scissors")
+[![Amber zebra stripe random teardrop beads](https://sojourner.biz/images/cache/glass/GL0043.200.jpg)](https://sojourner.biz/beads/glass/amber-zebra-stripe-random-teardrop-beads.html "Amber zebra stripe random teardrop beads")
 
-#### [Medium crane scissors](https://sojourner.biz/beads/tools/medium-crane-scissors.html "Medium crane scissors")
+#### [Amber zebra stripe random teardrop beads](https://sojourner.biz/beads/glass/amber-zebra-stripe-random-teardrop-beads.html "Amber zebra stripe random teardrop beads")
 
-$38.00
+$10.00
 
 ### Best Sellers
 
