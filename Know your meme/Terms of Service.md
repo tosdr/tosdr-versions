@@ -1,4 +1,4 @@
-[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-september-2024s-meme-of-the-month)
+[🥇 See Who Won The KYM Poll For Meme Of The Month! 🥇](https://knowyourmeme.com/editorials/see-the-winner-of-september-2024s-meme-of-the-month/)
 
 [](https://knowyourmeme.com/ "Know Your Meme")
 
@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade](https://i.kym-cdn.com/featured_items/icons/wide/000/026/086/1.jpg "Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade")
+* [![It's Time for "Spooktober!"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/103/maxresdefault_(25).jpg "Ohhh Guess What Time It Is Folks: Spooktober Time")
     
-    Professor Utonium Spilling Chemical X Has Been A Staple 'PowerPuff Girls' Meme For Over A Decade](https://knowyourmeme.com/memes/the-powerpuff-girls-opening-parodies-professor-utonium-spilling-chemical-x)
+    Ohhh Guess What Time It Is Folks: Spooktober Time](https://knowyourmeme.com/memes/spooktober)
     
-* [![Wikihow illustration of a hissing cat | Please do not the cat ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/084/Screen_Shot_2020-08-31_at_1.47.44_PM.png "Five Years Ago The 'Please Do Not Cat' Meme Went Viarl On Facebook")
+* [![Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral](https://i.kym-cdn.com/featured_items/icons/wide/000/026/102/1.jpg "Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral")
     
-    Five Years Ago The 'Please Do Not Cat' Meme Went Viarl On Facebook](https://knowyourmeme.com/memes/please-do-not-the-cat)
+    Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral](https://knowyourmeme.com/memes/dont-worry-about-it-the-boys-got-me)
     
-* [![This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/083/1.jpg "This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme ")
+* [![Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real](https://i.kym-cdn.com/featured_items/icons/wide/000/026/101/cover2.jpg "Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real")
     
-    This Irreverent Quote From Rocky IV Has Been A Long-Standing Intimidation Meme](https://knowyourmeme.com/memes/i-must-break-you)
+    Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real](https://knowyourmeme.com/memes/underground-transgender-mafia)
     
-* [![Anyway, Frank Reynolds Starts Blasting In This Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/082/It's_Always_Sunny_in_Philadelphia_-_Frank_Reynolds_on_the_gun_controversy_-_FULL_SCENE_0-43_screenshot.png "Five Years Ago On This Day, Everyone Decided To Start Blasting")
+* [![Demi Moore looking at the mirror in a scene from The Substance film.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/100/The_Substance_cover.jpg "'The Substance:' Demi Moore’s New Body Horror Film Critique Of Hollywood Beauty Standards Also Inspired Memes On The Internet")
     
-    Five Years Ago On This Day, Everyone Decided To Start Blasting](https://knowyourmeme.com/memes/so-anyway-i-started-blasting)
+    'The Substance:' Demi Moore’s New Body Horror Film Critique Of Hollywood Beauty Standards Also Inspired Memes On The Internet](https://knowyourmeme.com/memes/subcultures/the-substance-2024)
     
-* [![Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/081/1.jpg "Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online")
+* [![The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/099/1.jpg "The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'")
     
-    Chappell Roan's Comments About Kamala Harris Lead To Firestorm Online](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments)
+    The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'](https://knowyourmeme.com/memes/big-dawgs-by-hanumankind)
     
 
 ##### Also Trending:
 
-[J.D. Vance's "You Guys Weren’t Going To Fact Check"](https://knowyourmeme.com/memes/jd-vances-you-guys-werent-going-to-fact-check "J.D. Vance's "You Guys Weren’t Going To Fact Check"") [2024 Earth's Mini-Moon](https://knowyourmeme.com/memes/events/2024-earths-mini-moon "2024 Earth's Mini-Moon")
+[J.D. Vance's "You Guys Weren’t Going To Fact Check"](https://knowyourmeme.com/memes/jd-vances-you-guys-werent-going-to-fact-check "J.D. Vance's "You Guys Weren’t Going To Fact Check"") [Tim Walz "I've Become Friends With School Shooters"](https://knowyourmeme.com/memes/tim-walz-ive-become-friends-with-school-shooters "Tim Walz "I've Become Friends With School Shooters"") [2024 Earth's Mini-Moon](https://knowyourmeme.com/memes/events/2024-earths-mini-moon "2024 Earth's Mini-Moon") [J.D. Vance Side Eye](https://knowyourmeme.com/memes/jd-vance-side-eye "J.D. Vance Side Eye") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
