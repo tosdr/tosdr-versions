@@ -6,8 +6,6 @@ Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache je
 
 [Klicken Sie hier, um unsere Erklärung zur Barrierefreiheit anzuzeigen](https://de.iherb.com/info/accessibility)
 
-[28% Rabatt zum 28. Jubiläum](https://de.iherb.com/lp/anniversary)
-
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
@@ -25,8 +23,6 @@ DE
 DE
 
 EUR
-
-[28% Rabatt zum 28. Jubiläum](https://de.iherb.com/lp/anniversary)
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
@@ -145,9 +141,9 @@ Themenwelten
 
 [Neu](https://de.iherb.com/new-products)[Specials!](https://de.iherb.com/specials)[Testprodukte](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/topsellers)
 
-[28% Rabatt zum 28. Jubiläum](https://de.iherb.com/lp/anniversary)
-
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+
+[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
 [Nahrungsergänzungen](https://de.iherb.com/c/supplements)
 
@@ -1105,6 +1101,8 @@ Wohlbefinden & Pflege
 
 [21st Century](https://de.iherb.com/c/21st-century-health-care)
 
+SALE
+
 [ACURE](https://de.iherb.com/c/acure)
 
 [Advanced Clinicals](https://de.iherb.com/c/advanced-clinicals)
@@ -1148,8 +1146,6 @@ Wohlbefinden & Pflege
 [iHerb Brands](https://de.iherb.com/c/iherb-brands)
 
 [Irwin Naturals](https://de.iherb.com/c/irwin-naturals)
-
-SALE
 
 [Jarrow Formulas](https://de.iherb.com/c/jarrow-formulas)
 
@@ -1203,6 +1199,8 @@ SALE
 
 [Solaray](https://de.iherb.com/c/solaray)
 
+SALE
+
 [Solgar](https://de.iherb.com/c/solgar)
 
 [Source Naturals](https://de.iherb.com/c/source-naturals)
@@ -1227,25 +1225,27 @@ SALE
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/IRW/1652231840.png)](https://de.iherb.com/c/irwin-naturals)
+[![](https://s3.images-iherb.com/brand/logo/CEN/1651251604.png)](https://de.iherb.com/c/21st-century-health-care)
 
-[![](https://s3.images-iherb.com/brand/logo/OLE/1710188132.png)](https://de.iherb.com/c/olly)
+[![](https://s3.images-iherb.com/brand/logo/NBC/1652406038.png)](https://de.iherb.com/c/nutribiotic)
 
-[![](https://s3.images-iherb.com/brand/logo/NCR/1652403191.png)](https://de.iherb.com/c/new-chapter)
+[![](https://s3.images-iherb.com/brand/logo/NTH/1689797354.png)](https://de.iherb.com/c/nature-s-truth)
 
-[![](https://s3.images-iherb.com/brand/logo/LFB/1686763516.png)](https://de.iherb.com/c/lifeable)
+[![](https://s3.images-iherb.com/brand/logo/SMA/1655249287.png)](https://de.iherb.com/c/smartypants)
 
-[![](https://s3.images-iherb.com/brand/logo/PTF/1658872203.png)](https://de.iherb.com/c/planetary-herbals)
+[![](https://s3.images-iherb.com/brand/logo/BOI/1689792909.png)](https://de.iherb.com/c/boiron)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf tausende Artikel
+[\-10% ab 80 USD
 
- 
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=GOLD80)
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
+[\-20% auf Feuchtigkeitspflege & Gesichtscremes
+
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/face-moisturizers-creams)
 
       
 
