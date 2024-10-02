@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_360x203.jpg)](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_360x203.jpg)](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
         
-        #### [Iowa speed cameras shut down following DOT rulings — Here are the ones that are still active](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
+        #### [Genesis Health System is now MercyOne Genesis](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673) [![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_360x203.jpg)](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
         
-    *  [![](https://media.tegna-media.com/assets/KFSM/images/f841abc7-dda8-4334-a3ac-3f3edd31a2d3/20240927T214505/f841abc7-dda8-4334-a3ac-3f3edd31a2d3_16x9.jpg) ![](https://media.tegna-media.com/assets/KFSM/images/f841abc7-dda8-4334-a3ac-3f3edd31a2d3/20240927T214505/f841abc7-dda8-4334-a3ac-3f3edd31a2d3_360x203.jpg)](https://www.wqad.com/article/news/regional/deer-crashes-on-roads-spike-during-fall-heres-why-missouri-department-of-transportation/63-dcb184d4-2ddd-49aa-afd1-670756f9fad6)
+        #### [Quad Cities-based health system rebrands to MercyOne Genesis](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/sterling-fire-domestic-marshall/526-ecf49f6c-0209-442a-86bd-1330d17c3a80)
         
-        #### [Motorists in the Midwest take caution as deer become more prevalent along roadways](https://www.wqad.com/article/news/regional/deer-crashes-on-roads-spike-during-fall-heres-why-missouri-department-of-transportation/63-dcb184d4-2ddd-49aa-afd1-670756f9fad6)
+        #### [Sterling man suspected of arson after police respond to domestic battery call](https://www.wqad.com/article/news/local/public-safety/sterling-fire-domestic-marshall/526-ecf49f6c-0209-442a-86bd-1330d17c3a80)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/d7951d97-16d7-44d8-8d6d-b048b06295ba/20241002T122853/d7951d97-16d7-44d8-8d6d-b048b06295ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/d7951d97-16d7-44d8-8d6d-b048b06295ba/20241002T122853/d7951d97-16d7-44d8-8d6d-b048b06295ba_360x203.jpg)](https://www.wqad.com/article/tech/science/environment/iowa-fall-colors-dry-weather-impacts-current-fall-foliage-map/524-e5bb1352-2654-47ec-8c9c-354994594a94)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Experts say Iowa's recent dry weather could impact fall foliage](https://www.wqad.com/article/tech/science/environment/iowa-fall-colors-dry-weather-impacts-current-fall-foliage-map/524-e5bb1352-2654-47ec-8c9c-354994594a94)
+        #### [More temperature swings through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WTSP/images/1d480c20-7651-430a-aec6-314f094dc104/20241001T001628/1d480c20-7651-430a-aec6-314f094dc104_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/1d480c20-7651-430a-aec6-314f094dc104/20241001T001628/1d480c20-7651-430a-aec6-314f094dc104_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/city-bradenton-beach-destroyed-officials/67-5886d4f3-48a3-4cb7-9d85-817dc174b5fc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_360x203.jpg)](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
-        #### [Florida officials say beach town nearly 90% to 95% destroyed](https://www.wqad.com/article/weather/hurricane/helene/city-bradenton-beach-destroyed-officials/67-5886d4f3-48a3-4cb7-9d85-817dc174b5fc)
+        #### [What to expect this upcoming winter 2024-2025](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-66°
+70°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
@@ -94,15 +95,16 @@ Davenport, IA »](https://www.wqad.com/weather)
 
 [Weather](https://www.wqad.com/weather/alerts) [Closings](https://www.wqad.com/closings)
 
-* [Sports](https://www.wqad.com/sports)
+* [Download News 8+](https://www.wqad.com/article/about-us/wqad-plus-news-8-streaming-app-24-7-news-channel-roku-amazon-fire-stick-tv/526-8541371e-0493-4bcb-943b-4f265cfa63ce)
 * [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 * [As Seen On TV](https://www.wqad.com/as-seen-on-tv)
+* [Meet the Team](https://www.wqad.com/meet-the-team)
 * [Contact Us](https://www.wqad.com/contact-us)
+* [Sports](https://www.wqad.com/sports)
 * [TV Listings](https://www.wqad.com/tv-listings)
 * [Radars](https://www.wqad.com/radar)
 * [Contests](https://www.wqad.com/contests)
 * [Advertise With Us](https://www.wqad.com/advertise)
-* [Meet the Team](https://www.wqad.com/meet-the-team)
 * [Gas Prices](https://www.wqad.com/gas-prices-quad-cities)
 * [Pay It Forward](https://www.wqad.com/pay-it-forward)
 * [Deals](https://wqad.incentrev.com/quad-cities/deals)
