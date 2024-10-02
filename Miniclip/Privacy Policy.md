@@ -148,6 +148,7 @@ Miniclip is driven to create the best and most fun games for our millions of pla
 * [Terms and Conditions](https://www.miniclip.com/terms-and-conditions)
 * [Privacy Policy](https://www.miniclip.com/privacy-policy)
 * [Content and Conduct Policy](https://www.miniclip.com/content-and-conduct-policy)
+* [Privacy Policy for Developers](https://www.miniclip.com/publishing-policy)
 * [Cookie Policy](https://www.miniclip.com/cookie-policy)
 * Privacy Settings
 
