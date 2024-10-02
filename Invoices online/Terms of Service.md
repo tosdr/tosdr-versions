@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Henry Venter
+Anri van der Linde
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=197034115)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=127820034)  
+Electro-Heat
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=43214521)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=189823683)  
-Tracknetics
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=212882954)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=121407186)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=23078601)  
-MONSTER SECURITY SERVICES
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=191101227)  
-OptaServ
-
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=187991671)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=139388946)  
-Website Café (PTY) LTD
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=49330915)  
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=24642261)  
 OrgChart Hosting Pty Ltd
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=29434408)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=111476468)  
+Dr V Naik Consult
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=19356640)  
-MONSTER SECURITY GUARDING
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=130420235)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=116722235)  
-Myfinance-Online
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=119843672)  
+National Elite Security Services (PTY) LTD
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=126935428)  
-TRACKFORCE (Pty) Ltd
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=51188914)  
+Immediate Health (pty)ltd
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=e72e7bdf0a5429372d4d92c60b9caa7dbc80e2ca914004c191bc49001f9df789&c=154662739)  
-Frameless Fanatix (Pty) Ltd.
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=109861753)  
+TIGERDSL
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=38773791)  
+Skinz Printing & Branding
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=107218522)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=122398668)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=203183450)  
+Iurus Inc
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=109225481)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=159923364)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=86064707)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=863755bd1e1897ce0e83133239140b0ada6010550cb10c5cd9faea0b25e0d841&c=19650184)  
+APTV Telecoms CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
