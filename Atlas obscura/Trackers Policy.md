@@ -14,88 +14,17 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-Mexico • 7 days, 6 nights
-
-[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-from
-
-   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-New Zealand • 12 days, 11 nights
-
-[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
-
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
-
-In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
-
-   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
-
-How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
-
-   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
-
-How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
-
-   [![](https://img.atlasobscura.com/x1AclDXAwwat_G3FRJPYQqB8WWNB2P1iBTurmJzPGrg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8wYzM2/NDYyMC02ZThkLTRj/YjItYmM0Mi0yMzQ0/ZWIzNGU1YmMyOWQ2/NjNjNDMzZTllOWE0/Y2JfZGltLWhvdS1i/ZkZYOUtaSnZoUS11/bnNwbGFzaC5qcGc.jpg)
-
-Thrills & Chills: Horror Story Writing With Nino Cipri](https://www.atlasobscura.com/experiences/horror-writing-course)
-
-   [![](https://img.atlasobscura.com/y9x6Tvc0fCC7F24WyLB5oKxbvXB-JOGRaLMLhNgBIRU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hZmZl/N2M4Yi0yMTkwLTQw/MDgtOGIwYy01YjJh/ZjM1MzA3ZTc0Y2Zk/YzE4NmNiNjA0NzYw/ZDhfRDkzNTExQzQt/MTI4Ni00Mjc0LUI5/NkQtOUNGNDAzMERC/NUMyLmpwZw.jpg)
-
-Nature’s Palette: Foraging Natural Pigments With Hayley Dayis & Alexander Fals](https://www.atlasobscura.com/experiences/foraged-pigments-course)
+Loading...
 
 Loading...
 
 Loading...
 
-Recent Stories
+Loading...
 
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![](https://img.atlasobscura.com/dcuPX_VwEA5GzSSbI_es6Mg3yN0rebJAWwlEwuPmIMY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iMzg0NWVlMi03/NzM0LTQ2NGEtYTdm/Ny03ZWE5ZTMxNmU5/MjZmN2MzM2EyMTY3/NmQ0MmZkYWJfU3Vu/X1d1a29uZ19jcm9w/LmpwZw.jpg)
-
-The Video Game 'Black Myth: Wukong' Has Ancient Roots](https://www.atlasobscura.com/articles/black-myth-wukong-story)
-
-   [![Brands of all sorts used recipes to sell products in the post-war era.](https://img.atlasobscura.com/OddCefitHaApBVSGtDjZ97Z9C03ayXIA1tnu6bxnOb8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kNzRhZjliMy1k/YmM5LTQ2MzYtYWZh/Ny01NDE3YjNjNzZi/YzkxYTM1ODdmZTYz/ZjM5ZTM4NmJfUGFn/ZSAxMjAgYW5kIDEy/MSBqb2luZWQgMi5q/cGc.jpg)
-
-American Food Traditions That Started as Marketing Ploys](https://www.atlasobscura.com/articles/american-food-traditions-that-started-as-marketing-ploys)
-
-   [![Few folk figures have endured like Baba Yaga, who has been described as witch, mentor, villain, trickster, and now, perhaps, a feminist icon.](https://img.atlasobscura.com/wTs9M1y7d1E73GkSlJluvkfQ5SVnZ59GQOu2dyzDNK4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83YTEyZWJhMzYz/MGQ5MzY4NjBfU3Bp/c2FrX0JlY29taW5n/IGJhYmEgeWFnYV9j/cm9wLmpwZw.jpg)
-
-Who Is Baba Yaga?](https://www.atlasobscura.com/articles/who-is-baba-yaga)
-
-   [![](https://img.atlasobscura.com/SeNSuXnhP4cMEJKIv7KPBS9_JQ3R-L09kXESIw5vFCw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iYWVkZDMyZjM1/Njc4Zjc1YzhfQnJv/dGhlckx1Y2tXaW5l/RGlubmVyXzExMS5q/cGc.jpg)
-
-Meet the Chef Blending Global Cuisines with Colorado Flavors](https://www.atlasobscura.com/articles/colorado-culinary)
+Loading...
 
 No search results found for  
 “”
