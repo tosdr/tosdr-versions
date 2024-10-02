@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/theresultsengine.com.svg)](https://www.theresultsengine.com/?ueid=E2BA7728-1E47-448B-9647-9FEC46FB71E9&ad=dirN&capLimitBypass=false "What's your question?")
+[![What's your question?](/static/logos/theresultsengine.com.svg)](https://www.theresultsengine.com/?ueid=28C10BA5-23A4-4991-867F-A726533BDD24&ad=dirN&capLimitBypass=false "What's your question?")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,7 +276,7 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.theresultsengine.com/privacy?ueid=E2BA7728-1E47-448B-9647-9FEC46FB71E9&ad=dirN&capLimitBypass=false "Privacy Policy")
-* [Terms of Service](https://www.theresultsengine.com/terms?ueid=E2BA7728-1E47-448B-9647-9FEC46FB71E9&ad=dirN&capLimitBypass=false "Terms of Service")
+* [Privacy Policy](https://www.theresultsengine.com/privacy?ueid=28C10BA5-23A4-4991-867F-A726533BDD24&ad=dirN&capLimitBypass=false "Privacy Policy")
+* [Terms of Service](https://www.theresultsengine.com/terms?ueid=28C10BA5-23A4-4991-867F-A726533BDD24&ad=dirN&capLimitBypass=false "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * © 2024 Ask Media Group, LLC
