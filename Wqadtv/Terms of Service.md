@@ -32,11 +32,11 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/82e9d0fb-53c5-4dff-8136-a8b0841bf34b/20241002T040416/82e9d0fb-53c5-4dff-8136-a8b0841bf34b_360x203.jpg)](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
         
-        #### [Speed cameras shut down across Iowa following DOT rulings — Here are the ones that are still active](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
+        #### [Iowa speed cameras shut down following DOT rulings — Here are the ones that are still active](https://www.wqad.com/article/news/local/speed-cameras-shut-down-iowa-dot-rulings/526-2d02fe03-55e7-4a16-bd05-d095743b2ff8)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/KFSM/images/f841abc7-dda8-4334-a3ac-3f3edd31a2d3/20240927T214505/f841abc7-dda8-4334-a3ac-3f3edd31a2d3_16x9.jpg) ![](https://media.tegna-media.com/assets/KFSM/images/f841abc7-dda8-4334-a3ac-3f3edd31a2d3/20240927T214505/f841abc7-dda8-4334-a3ac-3f3edd31a2d3_360x203.jpg)](https://www.wqad.com/article/news/regional/deer-crashes-on-roads-spike-during-fall-heres-why-missouri-department-of-transportation/63-dcb184d4-2ddd-49aa-afd1-670756f9fad6)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Motorists in the Midwest take caution as deer become more prevalent along roadways](https://www.wqad.com/article/news/regional/deer-crashes-on-roads-spike-during-fall-heres-why-missouri-department-of-transportation/63-dcb184d4-2ddd-49aa-afd1-670756f9fad6)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/28a41cb6-4bf3-47f7-af72-02d9447c8e56/20241001T212925/28a41cb6-4bf3-47f7-af72-02d9447c8e56_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/28a41cb6-4bf3-47f7-af72-02d9447c8e56/20241001T212925/28a41cb6-4bf3-47f7-af72-02d9447c8e56_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/d7951d97-16d7-44d8-8d6d-b048b06295ba/20241002T122853/d7951d97-16d7-44d8-8d6d-b048b06295ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/d7951d97-16d7-44d8-8d6d-b048b06295ba/20241002T122853/d7951d97-16d7-44d8-8d6d-b048b06295ba_360x203.jpg)](https://www.wqad.com/article/tech/science/environment/iowa-fall-colors-dry-weather-impacts-current-fall-foliage-map/524-e5bb1352-2654-47ec-8c9c-354994594a94)
         
-        #### [A swing in temperatures in the days ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Experts say Iowa's recent dry weather could impact fall foliage](https://www.wqad.com/article/tech/science/environment/iowa-fall-colors-dry-weather-impacts-current-fall-foliage-map/524-e5bb1352-2654-47ec-8c9c-354994594a94)
         
-    *  [![](https://media.tegna-media.com/assets/WBIR/images/f6e6bee3-b239-4bdc-8b83-4010281eb132/20240930T023611/f6e6bee3-b239-4bdc-8b83-4010281eb132_16x9.jpg) ![](https://media.tegna-media.com/assets/WBIR/images/f6e6bee3-b239-4bdc-8b83-4010281eb132/20240930T023611/f6e6bee3-b239-4bdc-8b83-4010281eb132_360x203.jpg)](https://www.wqad.com/article/news/national/erwin-police-department-k-9-officer-dead-missing-unicoi-co-flood/51-3e0e6fb8-7ca6-4f0f-99b8-aa507bbd1650)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/1d480c20-7651-430a-aec6-314f094dc104/20241001T001628/1d480c20-7651-430a-aec6-314f094dc104_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/1d480c20-7651-430a-aec6-314f094dc104/20241001T001628/1d480c20-7651-430a-aec6-314f094dc104_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/city-bradenton-beach-destroyed-officials/67-5886d4f3-48a3-4cb7-9d85-817dc174b5fc)
         
-        #### [Tennessee police K-9 found dead after going missing in Hurricane Helene flooding](https://www.wqad.com/article/news/national/erwin-police-department-k-9-officer-dead-missing-unicoi-co-flood/51-3e0e6fb8-7ca6-4f0f-99b8-aa507bbd1650)
+        #### [Florida officials say beach town nearly 90% to 95% destroyed](https://www.wqad.com/article/weather/hurricane/helene/city-bradenton-beach-destroyed-officials/67-5886d4f3-48a3-4cb7-9d85-817dc174b5fc)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-43°
+66°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
