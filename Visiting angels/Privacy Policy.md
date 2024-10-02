@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
+[Does Your Mom Need Companion Care?](https://www.visitingangels.com/knowledge-center/care-options/does-your-mom-need-companion-care/425)
 
-[3 Reasons Why Elderly Socialization is Critical](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/3-reasons-why-elderly-socialization-is-critical/3)
+[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
 
-[The Best Senior Care: Treat Them with Respect](https://www.visitingangels.com/knowledge-center/why-in-home-care/the-best-senior-care-treat-them-with-respect/476)
+[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
 
-[Don't Ignore These 5 Signs Your Elderly Loved One Needs Help Immediately](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/dont-ignore-these-5-signs-your-elderly-loved-one-needs-help-immediately/309)
+[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
 
-[Understanding the Different Kinds of Senior Care Available](https://www.visitingangels.com/knowledge-center/care-options/understanding-the-different-kinds-of-senior-care-available/282)
+[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
