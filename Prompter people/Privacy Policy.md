@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-176972584536)                     
+![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-176984882993)                     
 
 ![](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1)
 
@@ -7,16 +7,14 @@
 [Menu](#)
 
 * [Product Line](https://prompterpeople.com/shop-Teleprompter-by-Product-Line/)
-    * [ProLine Plus](https://prompterpeople.com/proline-plus-details/)
-    * [Flex Plus](https://prompterpeople.com/flex-plus-Details/)
     * [Pocket Cue](https://prompterpeople.com/pocket-cue/)
     * [Prompter Pal](https://prompterpeople.com/prompter-pal/)
-    * [Robo](https://prompterpeople.com/roboprompter-ptz-robotic-teleprompter/)
+    * [Flex Plus](https://prompterpeople.com/flex-plus-Details/)
+    * [ProLine Plus](https://prompterpeople.com/proline-plus-details/)
     * [Presidential Stage](https://prompterpeople.com/presidential-stage/)
-    * [Power Cue](https://prompterpeople.com/Power-Cue-Budget-Teleprompter/)
-    * [Desktop](https://prompterpeople.com/desktop-Teleprompter-Remote-Prompting/)
+    * [Robo](https://prompterpeople.com/roboprompter-ptz-robotic-teleprompter/)
     * [QPro](https://prompterpeople.com/qgear-broadcast-system-integrator-teleprompters/)
-    * [Over | Under Camera](https://prompterpeople.com/over-under-camera/)
+    * [Desktop](https://prompterpeople.com/desktop-Teleprompter-Remote-Prompting/)
 * [Shop Type](https://prompterpeople.com/shop-by-type/)
     * [Studio](https://prompterpeople.com/studio-broadcast/)
     * [Location](https://prompterpeople.com/location/)
