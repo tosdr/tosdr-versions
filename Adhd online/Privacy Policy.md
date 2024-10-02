@@ -210,6 +210,51 @@ California Civil Code Section 1798.83 (California’s “Shine the Light” law)
 
 ### Contact us
 
+### Company
+
+### More info
+
+### Get our newsletter
+
+[Facebook](https://www.facebook.com/adhdonline) [](https://twitter.com/ADHD_ONLINE)[Linkedin](https://www.linkedin.com/company/adhddiagnosis/) [Instagram](https://www.instagram.com/adhdonline/) [Youtube](https://www.youtube.com/channel/UCkWi6OoUOEGV8JI-ZlgZD4g)[](https://www.threads.net/@adhdonline)
+
+[Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)  
+Phone: [888-493-ADHD (2343)](tel:888-493-2343)  
+Monday – Friday  
+9:00 AM – 5:00 PM EST
+
+* [About us](https://mentavi.com/about-us/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
+* [Partners](https://mentavi.com/business-partnerships/)
+* [Powered by Mentavi](http://mentavi.com/)
+
+* [About us](https://mentavi.com/about-us/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
+* [Partners](https://mentavi.com/business-partnerships/)
+* [Powered by Mentavi](http://mentavi.com/)
+
+* [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
+* [Medication Shortage](https://adhdonline.com/medication-shortage/)
+* [Symptoms](https://adhdonline.com/symptoms/)
+* [For Pharmacists](https://adhdonline.com/pharmacists/)
+
+* [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
+* [Medication Shortage](https://adhdonline.com/medication-shortage/)
+* [Symptoms](https://adhdonline.com/symptoms/)
+* [For Pharmacists](https://adhdonline.com/pharmacists/)
+
+   
+
+Name 
+
+Email 
+
+Subscribe
+
+![](https://adhdonline.com/wp-content/uploads/2024/10/7038222.png)
+
+### Contact us
+
 [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)  
 Phone: [888-493-ADHD (2343)](tel:888-493-2343)  
 Monday – Friday  
@@ -219,22 +264,12 @@ Monday – Friday
 
 * [About us](https://mentavi.com/about-us/)
 * [Careers](https://adhdonline.bamboohr.com/careers)
-* [Partners](https://adhdonline.com/partnerships/)
+* [Partners](https://mentavi.com/business-partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
 * [Careers](https://adhdonline.bamboohr.com/careers)
-* [Partners](https://adhdonline.com/partnerships/)
-* [Powered by Mentavi](http://mentavi.com/)
-
-* [About us](https://mentavi.com/about-us/)
-* [Careers](https://adhdonline.bamboohr.com/careers)
-* [Partners](https://adhdonline.com/partnerships/)
-* [Powered by Mentavi](http://mentavi.com/)
-
-* [About us](https://mentavi.com/about-us/)
-* [Careers](https://adhdonline.bamboohr.com/careers)
-* [Partners](https://adhdonline.com/partnerships/)
+* [Partners](https://mentavi.com/business-partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 ### More info
@@ -249,17 +284,23 @@ Monday – Friday
 * [Symptoms](https://adhdonline.com/symptoms/)
 * [For Pharmacists](https://adhdonline.com/pharmacists/)
 
-* [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
-* [Medication Shortage](https://adhdonline.com/medication-shortage/)
-* [Symptoms](https://adhdonline.com/symptoms/)
-* [For Pharmacists](https://adhdonline.com/pharmacists/)
+### Join our email list
 
-* [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
-* [Medication Shortage](https://adhdonline.com/medication-shortage/)
-* [Symptoms](https://adhdonline.com/symptoms/)
-* [For Pharmacists](https://adhdonline.com/pharmacists/)
+   
+
+Name 
+
+Email 
+
+Subscribe
 
 [Facebook](https://www.facebook.com/adhdonline) [](https://twitter.com/ADHD_ONLINE)[Linkedin](https://www.linkedin.com/company/adhddiagnosis/) [Instagram](https://www.instagram.com/adhdonline/) [Youtube](https://www.youtube.com/channel/UCkWi6OoUOEGV8JI-ZlgZD4g)[](https://www.threads.net/@adhdonline)
+
+![](https://adhdonline.com/wp-content/uploads/2024/10/7038222.png)
+
+If you have a concern about the safety and quality of care, please contact ADHD Online’s Chief Compliance Officer at [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection)
+
+© 2024 Mentavi Health, Inc. All Rights Reserved. | [Privacy policy](https://adosandboxsite.wpenginepowered.com/privacy-policy/) | [Notice of privacy practices](https://adosandboxsite.wpenginepowered.com/notice-of-privacy-practices/) | [Terms & conditions](https://adosandboxsite.wpenginepowered.com/terms-conditions/) | [No Show & Refund policy](https://adosandboxsite.wpenginepowered.com/refund-policy/)
 
 If you have a concern about the safety and quality of care, please contact ADHD Online’s Chief Compliance Officer at [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection).
 
