@@ -268,14 +268,14 @@ Please enter a search term
 Privacy Policy
 ==============
 
-Last updated: September 2023
+Last updated: October 2024 
 
 1.  Introduction
 ----------------
 
 As a global professional services business with law at its core, we are committed to safeguarding the privacy and security of the personal information in our care.  This policy explains how we collect your personal information, what we do with it and your rights in respect of it.  We have a separate policy which sets out similar information relating to the cookies that we use, which can be found [here](https://www.pinsentmasons.com/legal-notices/cookie-settings).
 
-When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referring to all or any of the entities which make up the international Pinsent Masons group, as the context requires.  An explanation of some of the other terminology that we use in this policy is set out in section 10.
+When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referring to all or any of the entities which make up the international Pinsent Masons group, as the context requires.  An explanation of some of the other terminology that we use in this policy is set out in section 11.
 
 2.  Who and where we are
 ------------------------
@@ -298,9 +298,9 @@ Where we transfer your personal data to third parties, in certain circumstances 
 
 We want to offer you a means of contacting the right people in our organisation as swiftly and easily as possible. We therefore have in place dedicated email addresses, which are managed by our team of Privacy specialists, who support our global network on Privacy matters. 
 
-You may contact our Privacy specialists with any questions about this policy, or our Privacy practices more generally at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). You have rights in respect of the personal information of yours in our care.  More information about these rights is set out in section 7 of this policy.  You may exercise your rights by emailing our Privacy specialists at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Whilst our team of Privacy specialists operate through our centralised business operations in the UK, for which Pinsent Masons LLP is the data controller, the team works closely with information law and data protection specialists working from PM offices across our global network.  As such, our dedicated email addresses have global reach, and your communications are directed to the appropriate data controller within the Pinsent Masons group, as appropriate. 
+You may contact our Privacy specialists with any questions about this policy, or our Privacy practices more generally at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). You have rights in respect of the personal information of yours in our care.  More information about these rights is set out in section 8 of this policy.  You may exercise your rights by emailing our Privacy specialists at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Whilst our team of Privacy specialists operate through our centralised business operations in the UK, for which Pinsent Masons LLP is the data controller, the team works closely with information law and data protection specialists working from PM offices across our global network.  As such, our dedicated email addresses have global reach, and your communications are directed to the appropriate data controller within the Pinsent Masons group, as appropriate. 
 
-You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 12.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
+You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 13.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
 
 3.  Transfers of personal information across our business and to our suppliers
 ------------------------------------------------------------------------------
@@ -503,7 +503,7 @@ If you would like more details about the specific legal basis we are relying on 
     
     If you apply for a job, work placement or vacation scheme with us, including if you proceed to the onboarding stage having been successful in your application (excluding Vario applicants; see 5.4).
     
-    In certain of the jurisdictions in which we operate, we carry out pre-employment vetting checks. For details of our pre-employment vetting practices in respect of criminal offences (UK only), please refer to section 13 of this Policy.
+    In certain of the jurisdictions in which we operate, we carry out pre-employment vetting checks. For details of our pre-employment vetting practices in respect of criminal offences (UK only), please refer to section 14 of this Policy.
     
     #### Data controller
     
@@ -534,7 +534,7 @@ If you would like more details about the specific legal basis we are relying on 
     * To protect the public against dishonesty.
     * To prevent fraud.
     
-    For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK only, please refer to section 13 of this Policy.
+    For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK only, please refer to section 14 of this Policy.
     
     #### Types of personal data 
     
@@ -542,7 +542,7 @@ If you would like more details about the specific legal basis we are relying on 
     * Next-of-kin and dependants' information.
     * Special category personal data, e.g. ethnicity, health and religious/philosophical beliefs where we are legally permitted to do so.
     * Information concerning your/your parent’s  socio-economic background where you choose to provide this to us e.g. where you apply for a fee earning role in the UK, your previous eligibility for free school meals, whether you were ever in care or are/were a carer, your parents’ occupations, whether you were the first in your household to attend university or whether you are/were a refugee/asylum seeker.
-    * Pre-employment vetting information including the results of financial and criminal records checks, verification of address and qualifications, references, official forms of ID and right to work status. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK only, please refer to section 13 of this Policy.
+    * Pre-employment vetting information including the results of financial and criminal records checks, verification of address and qualifications, references, official forms of ID and right to work status. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK only, please refer to section 14 of this Policy.
     * Financial information including bank details and identifiers (e.g. National Insurance numbers).
     * Personal data contained in documents and correspondence exchanged with you or relating to you, including statements and opinions of yours or statements about you or opinions of you.
     * Technical information, e.g. IP address, records of your visits to our website, your online registration details and login credentials (for our website application facility), records of your visits to our premises (e.g. turnstile/ swipe access logs).
@@ -551,11 +551,11 @@ If you would like more details about the specific legal basis we are relying on 
     #### Collection
     
     * Directly from you, e.g. via your application, submission of your CV, completing our diversity questionnaires, in interviews, and at recruitment events and networking occasions.
-    * From third parties, including recruitment agencies/platforms, our own staff by way of the Staff Introduction scheme, providers of background checking services, former employers or other referees, academic institutions, professional bodies, and publicly available resources, including professional social media such as LinkedIn. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 13 of this Policy.
+    * From third parties, including recruitment agencies/platforms, our own staff by way of the Staff Introduction scheme, providers of background checking services, former employers or other referees, academic institutions, professional bodies, and publicly available resources, including professional social media such as LinkedIn. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 14 of this Policy.
     
     #### Use
     
-    * For our recruitment processes, including vetting and background checks where appropriate, and to assess suitability, eligibility and fitness to work. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 13 of this Policy.
+    * For our recruitment processes, including vetting and background checks where appropriate, and to assess suitability, eligibility and fitness to work. For details of the pre-employment vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 14 of this Policy.
     * For human resources administration, in respect of your application and our onboarding process (if applicable).
     * For health and safety reasons, (e.g. to inform access, adjustment and dietary requirements and the application, audit and enforcement of our policies in respect of in person meetings/ interviews and, if applicable, for your future role at Pinsent Masons.
     * For ensuring fair and non-discriminatory recruitment practices and for diversity reporting/monitoring statistics where we are legally permitted to do so. 
@@ -585,7 +585,7 @@ If you would like more details about the specific legal basis we are relying on 
     
     If you apply to become, or are working with us as, a Vario.
     
-    In certain of the jurisdictions in which we operate, we carry out pre-joining vetting checks. For details of our pre-joining vetting practices in respect of criminal offences (UK only), please refer to section 13 of this Policy.
+    In certain of the jurisdictions in which we operate, we carry out pre-joining vetting checks. For details of our pre-joining vetting practices in respect of criminal offences (UK only), please refer to section 14 of this Policy.
     
     #### Data controller
     
@@ -613,14 +613,14 @@ If you would like more details about the specific legal basis we are relying on 
     * To protect the public against dishonesty.
     * To prevent fraud.
     
-    For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 13 of this Policy.
+    For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 14 of this Policy.
     
     #### Types of personal data
     
     * Personal information, including name, date of birth, address, contact details, qualifications, and education and employment history.
     * Next-of-kin information (where applicable, e.g. emergency contact information for Vario’s placed at Pinsent Masons).
     * Special category personal data, e.g. diversity, ethnicity, health and religious/philosophical beliefs.
-    * Pre-employment vetting information including the results of financial and criminal records checks, verification of address and qualifications, references, official forms of ID and right to work status. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 13 of this Policy.
+    * Pre-employment vetting information including the results of financial and criminal records checks, verification of address and qualifications, references, official forms of ID and right to work status. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 14 of this Policy.
     * Character suitability information, including the results of psychometric tests.
     * Financial information including bank details and identifiers, e.g. National Insurance numbers.
     * Technical information, e.g. IP address, browsing preferences, online registration details and login credentials, records of your visits to our premises (e.g. turnstile/ swipe access logs).
@@ -631,11 +631,11 @@ If you would like more details about the specific legal basis we are relying on 
     
     * Directly from you, e.g. via your application to become a Vario, submission of your CV, completion of our diversity questionnaires, populating your information in our CRM System, when you visit our premises, in interviews, in catch-ups, and at events and networking occasions.
     
-    * From third parties, including recruitment agencies, clients of ours with whom you may be placed, providers of background checking services, providers of psychometric testing, former employers or other referees, academic institutions, professional bodies, and publicly available resources, including professional social media platforms such as LinkedIn. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in certain of the jurisdictions in which we operate, please refer to section 13 of this Policy.
+    * From third parties, including recruitment agencies, clients of ours with whom you may be placed, providers of background checking services, providers of psychometric testing, former employers or other referees, academic institutions, professional bodies, and publicly available resources, including professional social media platforms such as LinkedIn. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in certain of the jurisdictions in which we operate, please refer to section 14 of this Policy.
     
     #### Use
     
-    * For recruitment purposes, including vetting and background checks where appropriate, and to assess suitability, eligibility and fitness to work. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 13 of this Policy.
+    * For recruitment purposes, including vetting and background checks where appropriate, and to assess suitability, eligibility and fitness to work. For details of the pre-joining vetting practices in respect of criminal offences that we carry out in the UK (only), please refer to section 14 of this Policy.
     * For administration and management purposes including remuneration, managing all aspects of our relationship with you, and connecting and placing Varios with suitable clients.
     * For health and safety reasons (e.g. to inform access, adjustment and dietary requirements for interviews, placements and for our meetings and events), and for the application, audit and enforcement of our policies and other terms and conditions relating to you becoming or working as a Vario.
     * For information security and the prevention and detection of criminal and dishonest activity, including to ensure the security of our website and premises, and protect our information systems against data breaches, viruses and similar threats, e.g. by monitoring patterns of activity and scanning communications for appropriate content, attachments and viruses.
@@ -756,7 +756,23 @@ If you would like more details about the specific legal basis we are relying on 
     Some of these recipients may be acting as data controller.  In all cases, personal information of yours that is shared or stored outside of the Pinsent Masons group will be limited to the minimum required for the relevant purpose and subject to the appropriate provisions and safeguards regarding data subjects’ rights, information security, disclosure, confidentiality and data protection.  For more information about personal data transfers, please see section 3 of this policy.
     
 
-6.  For how long do we keep your information?
+6\. Our Use of New and Novel Technologies
+-----------------------------------------
+
+We strive to be at the forefront of innovation, both when providing legal services to our clients, as well as ensuring that our back-office processes are as efficient and cost-effective as possible. To this end, we may occasionally adopt new technology tools and develop innovative digital solutions of our own. Such tools may leverage artificial intelligence or cloud-based technologies owned by third parties. 
+
+New technology tools may be used for the following purposes:
+
+* To automate repetitive tasks;
+* To assist with our anti-money laundering (AML) and know your client (KYC) procedures;
+* To help manage emails, meetings and tasks;
+* To assist with reviews of large volumes of documents;
+* To generate machine translations; and
+* To develop, test and train the tools themselves.
+
+Prior to the adoption of any tool which takes advantage of artificial intelligence or cloud-based functionality, we conduct an extensive due diligence process in line with industry best practice, including with reference to our internal data privacy policies and security certifications. This ensures that confidentiality, security and the transparent, ethical use of new technologies are always prioritised. Where such tools are used as part of the provision of legal services to our clients, any outputs they generate will be vetted by appropriately-qualified and experienced members of our fee-earning team. Where necessary, we will seek client consent for the use of any tool which is used for client work outside of our normal business operations.
+
+7.  For how long do we keep your information?
 ---------------------------------------------
 
 Your personal information is retained by us in accordance with applicable law and regulation.   Our data retention periods vary depending on the location, nature and context of the personal information that we have in our care, and are calculated taking into account the following factors:
@@ -769,9 +785,9 @@ Your personal information is retained by us in accordance with applicable law an
 
 This means that, in general, we delete personal information when: the purpose for its processing has been fulfilled or the contractual relationship with our client, you or your company has ended; all mutual claims have been fulfilled; and there are no other legal obligations to retain the personal information nor legal bases for further processing.  Typically, we retain personal information in client files for 10 years after the completion of the matter, unless there are specific circumstances compelling us to retain the client files for a longer period.
 
-More information about your rights in respect of the personal information of yours in our care, including how to contact us to exercise these or with questions around our retention practices in respect of your personal information, is set out in section 7 of this Policy.
+More information about your rights in respect of the personal information of yours in our care, including how to contact us to exercise these or with questions around our retention practices in respect of your personal information, is set out in section 8 of this Policy.
 
-7.  Your rights
+8.  Your rights
 ---------------
 
 Depending on where you are in the world and which of the Pinsent Masons entities processes your personal information, you may have rights in respect of that personal information. For example, the following rights are provided for under the UK and EU data protection regimes:
@@ -786,7 +802,7 @@ Depending on where you are in the world and which of the Pinsent Masons entities
 * in certain circumstances, to request that we delete your personal information; and
 * to object to our processing of your personal information for direct marketing purposes.
 
-Not all of these rights are absolute, which means that they may only apply in certain situations and may be subject to legal exceptions and exemptions.  To exercise your rights, please email us at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  You may also write to us at Privacy Team, Pinsent Masons, 55 Colmore Row, Birmingham, B3 2FG, United Kingdom. Please also refer to section 12.1 of this policy for any further information concerning certain of our non-European offices in respect of exercising your rights in relation to your personal information.
+Not all of these rights are absolute, which means that they may only apply in certain situations and may be subject to legal exceptions and exemptions.  To exercise your rights, please email us at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  You may also write to us at Privacy Team, Pinsent Masons, 55 Colmore Row, Birmingham, B3 2FG, United Kingdom. Please also refer to section 13.1 of this policy for any further information concerning certain of our non-European offices in respect of exercising your rights in relation to your personal information.
 
 You may change your marketing preferences or let us know that you no longer wish to receive any marketing communications from us by:
 
@@ -794,23 +810,23 @@ You may change your marketing preferences or let us know that you no longer wish
 * sending an email to [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection); or
 * writing to us at Privacy Team, Pinsent Masons, 55 Colmore Row, Birmingham, B3 2FG, United Kingdom.
 
-8.  How to make a complaint
+9.  How to make a complaint
 ---------------------------
 
 Our Privacy Team oversees our compliance with data protection laws and this policy, and provides guidance and advice to the firm and our people.  Our Compliance Officer for Legal Practice ('COLP') oversees compliance with our professional responsibilities and the reporting of any failures to comply with legislative requirements, including data protection.
 
 Please direct any complaint relating to how the firm has processed your personal information to [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). You may also write to us at Privacy Team, Pinsent Masons, 55 Colmore Row, Birmingham, B3 2FG, United Kingdom.  We hope that we can resolve any query or concern you raise about our processing of your personal information.
 
-The [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) and certain other applicable data protection laws give you the right to lodge a complaint with a data protection supervisory authority ('DPA'), usually in the country or state where you work, normally live or where any alleged infringement of data protection laws has occurred. Details of EU Member State DPAs and EEA DPAs can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en).  Details of the DPAs relevant to other jurisdictions in which we operate, including the UK, are set out in section 12 of this policy.
+The [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) and certain other applicable data protection laws give you the right to lodge a complaint with a data protection supervisory authority ('DPA'), usually in the country or state where you work, normally live or where any alleged infringement of data protection laws has occurred. Details of EU Member State DPAs and EEA DPAs can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en).  Details of the DPAs relevant to other jurisdictions in which we operate, including the UK, are set out in section 13 of this policy.
 
-9\. Links to other websites
----------------------------
+10\. Links to other websites
+----------------------------
 
 We sometimes provide you with links to other websites, but these websites are not under our control. We are not liable to you for any issues arising in connection with their use of your information, the website content or the services offered to you by those websites.
 
 We recommend that you check the privacy policy and terms and conditions on each website to see how each third party will process your information.
 
-10\. Terminology used in this Privacy Policy
+11\. Terminology used in this Privacy Policy
 --------------------------------------------
 
 When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referring to all or any of the entities which make up the international Pinsent Masons group, as the context requires.  An explanation of some of the other terminology we use in this policy is set out below.
@@ -837,10 +853,10 @@ When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referri
 | "UK GDPR" | means the Data Protection Act 2018 and the UK GDPR (as defined in the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019); and |
 | "Vario" | a consultant working for Pinsent Masons' freelance legal and professional services resource business. |
 
-11\. Defined terms used in our Standard Terms of Business for the provision of professional services to our clients
+12\. Defined terms used in our Standard Terms of Business for the provision of professional services to our clients
 -------------------------------------------------------------------------------------------------------------------
 
-The data protection and marketing provisions of the Pinsent Masons Standard Terms of Business for the provision of professional services to our clients include certain defined terms. These defined terms and the meanings attributed to them are set out below, with further variances specific to certain jurisdictions described in 12.1.
+The data protection and marketing provisions of the Pinsent Masons Standard Terms of Business for the provision of professional services to our clients include certain defined terms. These defined terms and the meanings attributed to them are set out below, with further variances specific to certain jurisdictions described in 13.1.
 
 |     |     |
 | --- | --- |
@@ -851,16 +867,16 @@ The data protection and marketing provisions of the Pinsent Masons Standard Term
 | EU Data Protection Law | means (a) General Data Protection Regulation (EU) 2016/679 (“GDPR”); (b) Directive 2002/58/EC on privacy and electronic communications as incorporated into law by applicable implementing legislation; and (c) any other applicable member state laws in the European Economic Area from time to time; |
 | “personal data” | means (a) “personal data” or “personal information” or equivalent term as defined any information relating to a data subject as set out in the Data Protection Laws where applicable; |
 | “process” and “processing” | shall have the meaning set out in the Data Protection Laws, where applicable, or equivalent term used to define any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means; |
-| Regulator | means any supervisory authority or independent public authority which has competence to monitor, apply and/or enforce the Data Protection Laws, in order to protect the rights and freedoms of natural persons in relation to processing of personal data, including those organisations referred to in sections 8 and 12 of this Privacy Policy; |
+| Regulator | means any supervisory authority or independent public authority which has competence to monitor, apply and/or enforce the Data Protection Laws, in order to protect the rights and freedoms of natural persons in relation to processing of personal data, including those organisations referred to in sections 9 and 13 of this Privacy Policy; |
 | Restricted Country | means a country, territory or jurisdiction which is not deemed to provide adequate protection of personal data in accordance with the Data Protection Laws (and in particular, where applicable, Article 45 (1) of GDPR); |
 | Security Requirements | means the requirements regarding the security of personal data, as set out in the Data Protection Laws (including, where applicable, the measures set out in Article 32(1) of GDPR (taking due account of the matters described in Article 32(2) of GDPR)); |
 | Transparency Requirements | means the requirements of lawfulness, fairness and transparency set out in the Data Protection Laws, (and in particular, where applicable, Articles 13 and 14 of GDPR); and |
 | UK Data Protection Law | means the Data Protection Act 2018 and the Privacy and Electronic Communications Regulations 2003 and the GDPR as the same are amended in accordance with the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (as amended by SI 2020 no. 1586). |
 
-12\. Further information in relation to our non-European office and the relevant DPAs
+13\. Further information in relation to our non-European office and the relevant DPAs
 -------------------------------------------------------------------------------------
 
-* [### 12.1 Important differences in how personal information is processed by our non-European offices](#)
+* [### 13.1 Important differences in how personal information is processed by our non-European offices](#)
     
     We explain below any essential differences in how personal data is processed by our international offices.
     
@@ -872,7 +888,7 @@ The data protection and marketing provisions of the Pinsent Masons Standard Term
     
     Our PAIA and POPIA Manual also provide copies of the necessary forms that you must use if you wish to exercise certain rights.
     
-* [### 12.2 Non-European DPAs](#)
+* [### 13.2 Non-European DPAs](#)
     
     |     |     |
     | --- | --- |
@@ -888,7 +904,7 @@ The data protection and marketing provisions of the Pinsent Masons Standard Term
 
   
 
-13\. Our personnel vetting practices in respect of criminal offences
+14\. Our personnel vetting practices in respect of criminal offences
 --------------------------------------------------------------------
 
 Criminal offence information may be requested of prospective PM people and prospective Varios as part of our UK recruitment processes before an offer of employment is made unconditional.  This practice is limited to our UK operations.  This Privacy Policy is regularly reviewed and updated, and should our practice of requesting criminal offence information of prospective PM people and prospective Varios for certain roles expand outside the UK, we will tell you here.  Our vetting practices are carried out always in accordance with applicable law.
@@ -987,18 +1003,18 @@ Other notices and information
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
-* [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
-* [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings)
-* [Accessibility](https://www.pinsentmasons.com/legal-notices/accessibility)
-* [Careers](https://www.pinsentmasons.com/careers)
-* [Modern Slavery](https://www.pinsentmasons.com/legal-notices/modern-slavery)
+* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
+* [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
+* [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
+* [Accessibility](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
+* [Careers](https://www.pinsentmasons.com/en-gb/careers)
+* [Modern Slavery](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
 
 ### We have over 27 offices across 4 continents
 
 ![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=045c074fac11430daa17b706aa5d540d&hash=5FF54396C1D1C58C956BBE00BF48A792)
 
-[Find your nearest office](https://www.pinsentmasons.com/office-finder)
+[Find your nearest office](https://www.pinsentmasons.com/en-gb/office-finder)
 
 2024 Copyright Pinsent Masons LLP
 
