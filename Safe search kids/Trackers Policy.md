@@ -666,7 +666,6 @@ Share This Article
 
 [The Problem with Spy Apps](https://www.safesearchkids.com/spy-apps-on-phones-balancing-privacy-and-trust-with-child-safety/)
 
-* [Amazon Prime 6 FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 * [12 Must-Read Parenting Books](https://www.safesearchkids.com/parenting-books/)
 
 ### Parenting and Well-Being
