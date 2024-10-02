@@ -1,7 +1,7 @@
 be\_ixf;ym\_202410 d\_02; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=Threat-Detection&utm\_content=Nurture-Email&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=321e36d582844b839015609dcb24293f&elqaid=1813&elqat=1&elqCampaignId=29&elqak=8AF541333672897DE7488CBE005E2BDE3D8E6FA767019B5CF35BD0016161CBD816AF
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -203,7 +203,7 @@ be\_ixf;ym\_202410 d\_02; ct\_50
             
             ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://cyber.levelblue.com/m/a307cf8c232b229/original/WP-Orgs-Prioritize-Incident-Response.pdf)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
