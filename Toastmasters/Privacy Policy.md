@@ -31,10 +31,6 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
-[×](#)
-
-Club officer paying dues? [Click here](https://www.toastmasters.org/my-toastmasters/profile/club-central) to access Club Central. Please note: due to the volume of renewal payments and club business, you may experience delays in accessing areas of our website, or extended response times.
-
 Privacy Policy
 ==============
 
