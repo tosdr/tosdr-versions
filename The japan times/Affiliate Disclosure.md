@@ -142,13 +142,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+[Guardiola promises strong City side in Slovan Champions League tie](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
 
-  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+  [![Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425034.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.")](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
 
-[Food price hikes in Japan in October to be largest so far in 2024](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
+[Tokaido Shinkansen marks 60th anniversary](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
 
-  [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
+  [![JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425035.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.")](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
 
 Editors' Picks
 --------------
@@ -177,21 +177,17 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 
   [![LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "LDP policy chief Itsunori Onodera, Secretary-General Hiroshi Moriyama, Vice President Yoshihide Suga, Shunichi Suzuki, chairman of the general affairs council, and Shinjiro Koizumi, chairman of the election committee, at the party's headquarters on Monday")](https://www.japantimes.co.jp/news/2024/09/30/japan/politics/ldp-leadership-executive/ "Ishiba announces new leadership lineup ahead of general election")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[SOCCER](https://www.japantimes.co.jp/sports/soccer/ "SOCCER")
 
-[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+[Guardiola promises strong City side in Slovan Champions League tie](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
 
-By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thorbecke/ "Catherine Thorbecke")  
-
-  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
+  [![Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425034.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Manchester City manager Pep Guardiola addresses a news conference in Bratislava on Monday.")](https://www.japantimes.co.jp/sports/2024/10/01/soccer/guardiola-champions-league-slovan-bratislava/ "Guardiola promises strong City side in Slovan Champions League tie")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Food price hikes in Japan in October to be largest so far in 2024](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
+[Tokaido Shinkansen marks 60th anniversary](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
 
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424847.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prices of nearly 3,000 food and beverage products will rise in October, due to the soaring costs of ingredients.")](https://www.japantimes.co.jp/news/2024/09/30/japan/society/october-price-hikes/ "Food price hikes in Japan in October to be largest so far in 2024")
+  [![JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425035.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "JR Tokai officials send off the Nozomi No. 1 bullet train bound for Hakata, Fukuoka Prefecture, at Tokyo Station on Tuesday as the Tokaido Shinkansen marked the 60th anniversary of its services the same day.")](https://www.japantimes.co.jp/news/2024/10/01/japan/japan-tokaido-shinkansen-60-years/ "Tokaido Shinkansen marks 60th anniversary")
 
 Podcast
 -------
@@ -212,9 +208,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
-15 mins ago
+32 mins ago
 
-[In Noto, fears rain will thwart recovery efforts 9 months after quake](https://www.japantimes.co.jp/news/2024/10/02/japan/society/noto-quake-nine-months/ "In Noto, fears rain will thwart recovery efforts 9 months after quake")
-
-58 mins ago
-
-[After being ousted, Britain's Conservatives plan their return to power](https://www.japantimes.co.jp/news/2024/10/02/world/politics/britain-conservatives-plot-return/ "After being ousted, Britain's Conservatives plan their return to power")
-
-59 mins ago
-
-[Sheinbaum takes office as the first woman to be Mexico's president](https://www.japantimes.co.jp/news/2024/10/02/world/politics/sheinbaum-mexico-woman-president/ "Sheinbaum takes office as the first woman to be Mexico's president")
+[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
 1 hours ago
 
-[Number of women in Japan's Cabinet drops to two](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/ishiba-cabinet-women-ministers/ "Number of women in Japan's Cabinet drops to two")
+[Canada marks expansion of coast guard cooperation with Japan port call](https://www.japantimes.co.jp/news/2024/10/02/japan/canada-coast-guard-japan/ "Canada marks expansion of coast guard cooperation with Japan port call")
 
 1 hours ago
+
+[Japan's deep-sea vessel digs for answers to 2011 earthquake](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
+
+1 hours ago
+
+[Nomura CEO apologizes after bond market manipulation probe](https://www.japantimes.co.jp/business/2024/10/02/companies/nomura-apology-probe/ "Nomura CEO apologizes after bond market manipulation probe")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
