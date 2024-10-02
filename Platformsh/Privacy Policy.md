@@ -385,7 +385,7 @@ This policy was last reviewed and updated: November 2023. 
 
 [](https://github.com/platformsh)[](https://x.com/platformsh)[](https://www.linkedin.com/company/platformsh)[](https://www.facebook.com/platform.sh/)[](https://www.youtube.com/channel/UCkFKfPy8Cqpuv4Iif6UNuow)
 
-[![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
+![](/static/7bd1bd0b33dde9818dc0710cd87e0796/bcorp_14257fdf3c.svg)[![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
 
 ###### Company
 
@@ -413,7 +413,7 @@ Field required
 
 Subscribe
 
-[![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
+![](/static/7bd1bd0b33dde9818dc0710cd87e0796/bcorp_14257fdf3c.svg)[![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
 
 [System Status](https://status.platform.sh/)[Privacy](https://platform.sh/trust-center/privacy/privacy-policy/)[Terms of Service](https://platform.sh/trust-center/legal/tos/)[Impressum](https://platform.sh/trust-center/legal/impressum/)[WCAG Compliance](https://platform.sh/trust-center/legal/wcag/)[Acceptable Use Policy](https://platform.sh/trust-center/legal/aup/)Manage your cookie preferences[Report a security issue](https://platform.sh/trust-center/security/responsible-disclosure/)
 
