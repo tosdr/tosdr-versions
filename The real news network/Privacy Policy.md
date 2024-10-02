@@ -73,15 +73,15 @@ Trending Posts
 --------------
 
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
-* [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
+* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
 
 Close
 
@@ -137,15 +137,15 @@ Trending Posts
 --------------
 
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
-* [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
+* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
 
 [Skip to content](#main)
 
