@@ -179,7 +179,7 @@ Hootsuite’s affiliates also provide the following services:
 
 #### Talkwalker Services
 
-Talkwalker’s social listening and consumer intelligence services are provided by Talkwalker S.à.r.l.,  in Luxembourg, and its affiliates. Talkwalker gathers real-time data across social channels and the web to provide its customers with comprehensive insights and data-driven solutions to optimize their social media strategies, uncover hidden trends, discover new audiences, and be crisis-ready.
+Talkwalker’s social listening and consumer intelligence services are provided by Talkwalker S.à.r.l., in Luxembourg, and its affiliates. Talkwalker gathers real-time data across social channels and the web to provide its customers with comprehensive insights and data-driven solutions to optimize their social media strategies, uncover hidden trends, discover new audiences, and be crisis-ready.
 
 #### Sparkcentral Services
 
