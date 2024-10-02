@@ -127,7 +127,6 @@ KFH Auto
 * [Calculators](https://www.kfh.com/en/home/Personal/Tools-services/calculators.html)
 * [Career](https://www.kfh.com/en/home/Personal/Tools-services/Career.html)
 * [Currency Rates](https://www.kfh.com/en/home/Personal/Tools-services/Currency-Rates.html)
-* [Additional Banking Tools and Services](https://www.kfh.com/en/home/Personal/Tools-services/Additional-Banking-Tools-and-Services.html)
 * [IBAN number & Swift code](https://www.kfh.com/en/home/Personal/Tools-services/IBAN-Number---Swift-Code.html)
 * [Safe Deposits Box Service](https://www.kfh.com/en/home/Personal/Tools-services/Safe-Deposit-Box-Service.html)
 * [KFH Quran App](https://www.kfh.com/en/home/Personal/Tools-services/KFH-Quran-App.html)
@@ -189,7 +188,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DlQhK-hdQwAVdNMFLl-zt_MFKLkUlcmY7LGKZyORIPGxElCPFPIHW!-688794795 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
