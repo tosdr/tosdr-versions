@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Zachary Levi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-zachary-levi/)
+[![40 Facts About Muslim Conquest Of Persia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/40-facts-about-muslim-conquest-of-persia/)
+
+Historical Events
+
+02 Oct 2024
+
+[40 Facts About Muslim Conquest Of Persia](https://facts.net/history/historical-events/40-facts-about-muslim-conquest-of-persia/)
+
+[![40 Facts About John Ashton ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-john-ashton/)
 
 Celebrity
 
-01 Oct 2024
+02 Oct 2024
 
-[50 Facts About Zachary Levi](https://facts.net/celebrity/50-facts-about-zachary-levi/)
-
-[![35 Facts About Project Isabela ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/human-activities/impact-of-human-activity/35-facts-about-project-isabela/)
-
-Impact of Human Activity
-
-01 Oct 2024
-
-[35 Facts About Project Isabela](https://facts.net/human-activities/impact-of-human-activity/35-facts-about-project-isabela/)
+[40 Facts About John Ashton](https://facts.net/celebrity/40-facts-about-john-ashton/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
