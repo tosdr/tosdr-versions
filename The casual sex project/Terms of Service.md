@@ -92,17 +92,27 @@ Spotlight
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/the-perception-of-crime-since-2020-the-case-of-chattanooga.jpg)[](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/ "Read More")
 
-Report Public Safety
+Report Public Safety, Cities
 
 Sep 26 2024
 
-Report Public Safety
+Report Public Safety, Cities
 
 Sep 26 2024
 
 ### [The Perception of Crime Since 2020](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/) The Case of Chattanooga
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/americas-disorder-problem.jpg)[](https://admin.mi52siterestore.com/article/americas-disorder-problem/ "Read More")
+
+Commentary Public Safety Crime Control
+
+Oct 01 2024
+
+[America’s Disorder Problem](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/mayor-hochul-to-the-rescue-guv-can-help-nyc-amid-adams-weakens.jpg)[](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/ "Read More")
 
@@ -133,16 +143,6 @@ Sep 27 2024
 [The Most Galling Part of the Whole Eric Adams Affair](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
 
 By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/uplifting-the-man-farthest-down.jpg)[](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/ "Read More")
-
-Commentary Health, Culture Serious Mental Illness
-
-Sep 26 2024
-
-[Uplifting the Man Farthest Down](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
-
-By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
 
 Our Policy Areas
 ----------------
