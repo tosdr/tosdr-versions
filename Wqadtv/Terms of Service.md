@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_16x9.jpeg) ![](https://media.tegna-media.com/assets/WQAD/images/bf555148-9e60-4958-affb-7d04d26711aa/bf555148-9e60-4958-affb-7d04d26711aa_360x203.jpeg)](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
         
         #### [Frank Fritz, 'American Pickers' star, dies at 60](https://www.wqad.com/article/news/local/frank-fritz-american-pickers-star-dies/526-3d340fcd-9883-4c43-9114-e1402b57be93)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cc444c45-886c-4466-8d57-f7f9114e1491/20240926T184132/cc444c45-886c-4466-8d57-f7f9114e1491_360x203.jpg)](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
-        
-        #### [McManus Orthodontics Coloring Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/mcmanus-orthodontics-coloring-sweepstakes-2024/526-f347b3bc-07c0-423d-ab1b-906dfdd4c801)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-66°
+50°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
