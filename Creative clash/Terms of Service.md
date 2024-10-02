@@ -197,10 +197,6 @@ Registration Terms
 
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
 
-* [IPS Theme](https://www.ipsfocus.com/) by [IPSFocus](https://www.ipsfocus.com/)
-* [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
-* [Cookies](https://xcreativeclashx.net/cookies/)
-
 [Powered by Invision Community](https://www.invisioncommunity.com/ "Invision Community")
 
 [×](#)
