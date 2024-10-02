@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [AL does something to YL (88)](https://forum.nationstates.net/viewtopic.php?t=555977&f=25&view=unread#unread ""AL does something to YL" (88 posts)")
-* [Would you chill with AU¿ (1,304)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,304 posts)")
-* [Guess Who BN Is! (4,898)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,898 posts)")
-* [Ukrainian War VII: Everything has a p… (5,977)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,977 posts)")
+* [Genocide in Artsakh one year on (119)](https://forum.nationstates.net/viewtopic.php?t=556128&f=20&view=unread#unread ""Genocide in Artsakh one year on" (119 posts)")
+* [YN's soldier describes life as a POW… (53)](https://forum.nationstates.net/viewtopic.php?t=556011&f=25&view=unread#unread ""YN's soldier describes life as a POW under AN's captivity." (53 posts)")
+* [UK Politics Thread: Conservative Lead… (11,299)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,299 posts)")
+* [The Mutual Cooperation Pact (IC Assem… (58)](https://forum.nationstates.net/viewtopic.php?t=555739&f=5&view=unread#unread ""The Mutual Cooperation Pact (IC Assembly)" (58 posts)")
 
 Advertisement
 
