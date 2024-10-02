@@ -342,15 +342,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Fred and George Weasley were born on April Fools’ Day.
+The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
 
 ### Potter History
 
-November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
+January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
 
 ### Potter Quote
 
-“Honestly, if you were any slower, you’d be going backward.”
+“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
 
 [](#)
 
