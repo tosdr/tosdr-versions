@@ -20,11 +20,11 @@ CLOSE
 
 this is the Legal Content modal content
 
-[![Promoflo Community Logo](//cdn1.cloudwrx.com/images/2130/ui/G-UI-Logo-Client-Wide-Mono-C7.png?w=200&_ci=638632917883063223 "Go to Promoflo Community Home")](https://promoflo.com/?ix=Home)
+[![Promoflo Community Logo](//cdn1.cloudwrx.com/images/2130/ui/G-UI-Logo-Client-Wide-Mono-C7.png?w=200&_ci=638634549600659653 "Go to Promoflo Community Home")](https://promoflo.com/?ix=Home)
 
 [](https://promoflo.com/?ix=Home)
 
-![](https://cdn1.cloudwrx.com/assets/1/vendor/wrx/util/flags/1.0.0/1x1/.svg?w=1920&quality=90&_ci=638632917883063223)
+![](https://cdn1.cloudwrx.com/assets/1/vendor/wrx/util/flags/1.0.0/1x1/US.svg?w=1920&quality=90&_ci=638634549600659653)
 
 Network Terms & Conditions
 ==========================
@@ -184,7 +184,7 @@ Force Majeure
 
 [Copyright](https://promoflo.com/?ix=Legal-CopyrightPolicy) 2024 © Promoflo Network | Promoflo Community
 
-[![Promoflo network](//cdn1.cloudwrx.com/Images/1/gen/logos/network/G-UI-Logo-Network-Promoflo-Wide-Mono-C11.png?w=200&_ci=638632917883063223 "Visit Promoflo network")](#)
+[![Promoflo network](//cdn1.cloudwrx.com/Images/1/gen/logos/network/G-UI-Logo-Network-Promoflo-Wide-Mono-C11.png?w=200&_ci=638634549600659653 "Visit Promoflo network")](#)
 
 We use cookies
 --------------
