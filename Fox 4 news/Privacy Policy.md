@@ -400,13 +400,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance.jpg?ve=1&tl=1)
+ [![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance-debate.jpg?ve=1&tl=1)
 
- ![Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+ ![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance-debate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
 
-Live Now
+### [Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
 
-### [Watch live: Tim Walz, JD Vance face off in vice presidential debate](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+ [![Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/P-DAVID-RANSOMWARE-ATTACKS-INDICTMENT-9P_00.01.02.48.jpg?ve=1&tl=1)
+
+ ![Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/P-DAVID-RANSOMWARE-ATTACKS-INDICTMENT-9P_00.01.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aleksandr-ryzhenkov-indictment-north-texas-businesses-ransomware)
+
+### [Russian hacker wanted for targeting North Texas businesses in ransomware attacks](https://www.fox4news.com/news/aleksandr-ryzhenkov-indictment-north-texas-businesses-ransomware)
+
+ [![Harris vs. Trump: Who is winning the 2024 election right now?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2172377704-scaled.jpg?ve=1&tl=1)
+
+ ![Harris vs. Trump: Who is winning the 2024 election right now?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2172377704-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-trump-polls-election-white-house)
+
+### [Harris vs. Trump: Who is winning the 2024 election right now?](https://www.fox4news.com/news/harris-trump-polls-election-white-house)
 
  [![Eddie Lacy, ex-NFL running back, accused of DUI in Arizona](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/GettyImages-176717918-scaled.jpg?ve=1&tl=1)
 
@@ -419,18 +429,6 @@ Live Now
  ![Texas man executed for fatally stabbing twin teenage girls in 1989](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/Garcia-Glen-White-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
 
 ### [Texas executes man for killing twin teen girls](https://www.fox4news.com/news/texas-man-executed-fatally-stabbing-twin-teenage-girls-1989)
-
- [![Diddy lawsuit: Buzbee Law Firm says cases go back to 1991, youngest victim was 9](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Buzbee-diddy.jpg?ve=1&tl=1)
-
- ![Diddy lawsuit: Buzbee Law Firm says cases go back to 1991, youngest victim was 9](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Buzbee-diddy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-lawsuit-upcoming-press-conference-from-buzbee-law-firm-allegations-against-diddy)
-
-### [Shocking Allegations: Dozens accuse Sean 'Diddy' Combs of sexual assault](https://www.fox4news.com/news/diddy-lawsuit-upcoming-press-conference-from-buzbee-law-firm-allegations-against-diddy)
-
- [![Iran launches missiles at Israel; Netanyahu promises retaliation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-2175288947.jpg?ve=1&tl=1)
-
- ![Iran launches missiles at Israel; Netanyahu promises retaliation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-2175288947.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iran-missiles-israel)
-
-### [Iran launches missiles at Israel; Netanyahu promises retaliation](https://www.fox4news.com/news/iran-missiles-israel)
 
 ###### [News](https://www.fox4news.com/news)
 
