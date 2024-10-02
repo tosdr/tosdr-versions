@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5deec52be4dbbd1d5b5cc11d29ba5680
+2fa37462157472e31ecadd04519f070e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm thin Baroque silver pearls](https://www.sojourner.biz/images/cache/pearls/PE0046.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
+[![Topaz dentelles Swarovksi clasp](https://www.sojourner.biz/images/cache/SKU0381front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/topaz-dentelles-swarovksi-clasp.html "Topaz dentelles Swarovksi clasp")
 
-#### [12 mm thin Baroque silver pearls](https://www.sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
+#### [Topaz dentelles Swarovksi clasp](https://www.sojourner.biz/clasps/swarovski/topaz-dentelles-swarovksi-clasp.html "Topaz dentelles Swarovksi clasp")
 
-$25.00
+$40.00
 
 ### Best Sellers
 
