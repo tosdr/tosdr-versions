@@ -254,7 +254,7 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (78)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (77)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
@@ -263,7 +263,7 @@ Hi
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
-        * [Salad Kits (24)](https://www.smithbrothersfarms.com/salads)
+        * [Salad Kits (23)](https://www.smithbrothersfarms.com/salads)
             
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
