@@ -175,16 +175,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: XS Sights DXT2 – Fixing The Desert Eagle’s Biggest Flaw](https://www.thegunpage.com/tfb-review-xs-sights-dxt2-fixing-the-desert-eagles-biggest-flaw/10610931)
+* [POTD: Ohio Ordnance Works HCAR – The Ultimate .30-06?](https://www.thegunpage.com/potd-ohio-ordnance-works-hcar-the-ultimate-30-06/10610932)
+* [A Real Gun Beats a Fake One Every Time: Victim Turns Tables on Philly Robber](https://www.thegunpage.com/a-real-gun-beats-a-fake-one-every-time-victim-turns-tables-on-philly-robber/10610930)
+* [New Massachusetts Gun Law Could Effectively Ban Nonresident Hunters](https://www.thegunpage.com/new-massachusetts-gun-law-could-effectively-ban-nonresident-hunters/10610928)
+* [Barrett Wins First International Government Contract With The MRADELR](https://www.thegunpage.com/barrett-wins-first-international-government-contract-with-the-mradelr/10610926)
 * [My Bad: City Officials Now Claim Emergency Order Banning Guns was a Mistake](https://www.thegunpage.com/my-bad-city-officials-now-claim-emergency-order-banning-guns-was-a-mistake/10610923)
 * [C&G Holsters Improved Gen6 Concealment Holsters](https://www.thegunpage.com/cg-holsters-improved-gen6-concealment-holsters/10610924)
 * [Gun Owners Urged to Register and VOTE](https://www.thegunpage.com/gun-owners-urged-to-register-and-vote/10610920)
+* [Competitors’ Corner: October 2024](https://www.thegunpage.com/competitors-corner-october-2024/10610925)
 * [Ukraine's Border Guards Discover WW1 Weapons Cache](https://www.thegunpage.com/ukraines-border-guards-discover-ww1-weapons-cache/10610917)
-* [Florida City Illegally Bans Guns and Ammo Sales During Hurricane Helene](https://www.thegunpage.com/florida-city-illegally-bans-guns-and-ammo-sales-during-hurricane-helene/10610915) 
-* [AK-Compatible Forced Reset Trigger – Trigger Empire KONO](https://www.thegunpage.com/ak-compatible-forced-reset-trigger-trigger-empire-kono/10610918)
-* [Heckler & Koch Launches HK USA to Meet Growing U.S. Demand](https://www.thegunpage.com/heckler-koch-launches-hk-usa-to-meet-growing-u-s-demand/10610913)
-* [10 Great Photos From The 2024 NRA National Smallbore Rifle Championships](https://www.thegunpage.com/10-great-photos-from-the-2024-nra-national-smallbore-rifle-championships/10610919)
-* [New: Magpul AMAG 15 SG9 Metal Magazines For SIG P320 Compact Pistols](https://www.thegunpage.com/new-magpul-amag-15-sg9-metal-magazines-for-sig-p320-compact-pistols/10610914)
-* [New: XS Sights Pre-Drilled Sights For Smith & Wesson, Ruger Revolvers](https://www.thegunpage.com/new-xs-sights-pre-drilled-sights-for-smith-wesson-ruger-revolvers/10610912)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
