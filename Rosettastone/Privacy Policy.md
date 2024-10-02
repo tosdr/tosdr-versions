@@ -175,6 +175,7 @@ Rosetta Stone LLC.All Rights Reserved.
 
 A division of IXL Learning
 
+* Your Privacy Rights
 * [Terms & Conditions](https://resources.rosettastone.com/CDN/us/pdfs/eulas/US_terms_and_conditions.pdf)
 * [Privacy Policy](https://www.rosettastone.com/rsassets/pdf/US_Privacy_Policy_EN_SP_11092023.pdf)
 * [Agreements](https://www.rosettastone.com/legal/agreements/)
