@@ -278,6 +278,7 @@ Take Action
 * [Find medical equipment & suppliers](https://www.medicare.gov/medical-equipment-suppliers/ "Find medical equipment & suppliers")
 * [Find a Medicare Supplement Insurance (Medigap) policy](https://www.medicare.gov/medigap-supplemental-insurance-plans/ "Find a Medicare Supplement Insurance (Medigap) policy")
 * [Find publications](https://www.medicare.gov/publications "Find publications")
+* [Get Medicare information in other languages](https://www.medicare.gov/about-us/other-languages "Get information in other languages")
 * [Talk to someone](https://www.medicare.gov/talk-to-someone "Talk to someone")
 * [Manage your email preferences](https://public.govdelivery.com/accounts/USCMSMYMEDICARE/subscriber/edit)
 
