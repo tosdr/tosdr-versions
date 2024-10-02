@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/mijn-persoonlijke-ervaring-met-de-13-grootmoeders/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/facebook-mensen-delen-te-weinig-persoonlijks/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
