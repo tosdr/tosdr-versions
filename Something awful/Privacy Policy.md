@@ -205,25 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
-* [Fun with Mike Tyson's Punch-Out Sprites](https://www.somethingawful.com/comedy-goldmine/tyson-punchout-sprites/1/)
-* [Postcards From the Edge](https://www.somethingawful.com/photoshop-phriday/postcards-from-edge/1/)
-* [The Best Of...](https://www.somethingawful.com/great-goon-database/great-goon-best/1/)
+* [That Insidious Beast: A Great Haul](https://www.somethingawful.com/news/insidious-beast-haul/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [1992 Graphics for Everything!](https://www.somethingawful.com/comedy-goldmine/videogame-graphics-1992/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [(Intentionally) Bad Comics!](https://www.somethingawful.com/photoshop-phriday/mspaint-rage-terrible/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [My roommate just moved out and I realized](http://forums.somethingawful.com/showthread.php?threadid=4071538 "My roommate just moved out and I realized")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [itemlabel: has anyone ever actually bought any these things?](http://forums.somethingawful.com/showthread.php?threadid=4071529 "itemlabel: has anyone ever actually bought any these things?")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [whats the over under on pete rose dying at 83?](http://forums.somethingawful.com/showthread.php?threadid=4071525 "whats the over under on pete rose dying at 83?")
-
 ### Random Articles
 
-* [The Klurfs - Prank Call](https://www.somethingawful.com/flash-tub/klurf-cartoon-prank/)
-* [Best Names For Horses](https://www.somethingawful.com/news/best-names-horses/)
-* [The Clavo Times Christmas Pageant 2007 Review](https://www.somethingawful.com/news/clavo-pageant-conex/1/)
-* [Corporate Correspondent Capers!](https://www.somethingawful.com/comedy-goldmine/corporate-correspondent-capers/1/)
-* [Selling Transformers and Action Movie Scripts on eBay](https://www.somethingawful.com/news/selling-transformers-action/)
+* [Something Awful (and Rifftrax): in movie theaters TODAY!](https://www.somethingawful.com/news/something-awful-rifftrax/)
+* [Free Laptops >>> CLIK HERE <<<](https://www.somethingawful.com/hogosphere/free-laptops-clik/)
+* [Monstergeddon 2011 Results!](https://www.somethingawful.com/news/monstergeddon-2011-results/1/)
+* [Abraxas: Guardian of the Universe](https://www.somethingawful.com/movie-reviews/abraxas-guardian-universe/1/)
+* [Let's Annoy Harlan Ellison!](https://www.somethingawful.com/news/lets-annoy-harlan/)
 
 [Random!](https://www.somethingawful.com/random/)
 
