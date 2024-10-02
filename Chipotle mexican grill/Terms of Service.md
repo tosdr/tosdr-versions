@@ -28,65 +28,69 @@ The Services are provided on an “as is, as available” basis without any repr
 
 In no event shall Chipotle or any of Chipotle’s Providers be liable to any person for damages of any kind under any legal theory, including, but not limited to, any direct, indirect, special, consequential, punitive, or other damages (lost profits, business interruption, or loss of information, programs, or data) resulting from your use or inability to use the Services, even if Chipotle has been advised of the possibility of such damages. Because some states do not permit the exclusion or limitation of certain damages, in such jurisdictions, liability is limited to the fullest extent permitted by such state law.
 
-###### INDEMNIFICATION
+**ELIGIBILITY**
+
+Creating a Chipotle account is open to legal residents of the 50 United States of America and Washington, D.C. who are 13 years of age or older. Chipotle accounts are intended for personal use only. Commercial use is prohibited. Chipotle accounts are not targeted toward, nor intended for use by, anyone under the age of 13. If you are between the ages of 13 and 18, you may create a Chipotle account only with the permission and under the supervision of a parent or legal guardian who has read these Terms with you and agrees to be bound by them directly and on your behalf if you are between the ages of 13 and 18.
+
+**INDEMNIFICATION**
 
 You agree to indemnify, defend, and hold harmless Chipotle, its affiliates, its providers, and its officers, directors, employees, attorneys, and agents from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees), and expenses that arise directly or indirectly out of or from: (1) your breach of these Terms; and/or (2) your activities in connection with the Services and/or materials, programs, and features made available therein.
 
-###### COMMUNICATING WITH CHIPOTLE
+**COMMUNICATING WITH CHIPOTLE**
 
 The Services may give you the ability to contact Chipotle by electronic mail, for example, to sign up for services such as e-mail notifications and newsletters about Chipotle’s products or to register for a particular sweepstakes or contest. The information that you provide to Chipotle through the Services is governed by [**Chipotle’s Privacy Policy**](https://chipotle.com/privacy-policy).
 
-###### CHIPOTLE PROPERTY
+**CHIPOTLE PROPERTY**
 
 The Services contain many valuable trademarks owned and used by Chipotle throughout the world. These trademarks are used to distinguish Chipotle’s quality products and services. The text, graphics, and html code contained on this Website and throughout the Services are the exclusive property of Chipotle (“Chipotle Content”). Chipotle Content is protected from reproduction and simulation under national and international laws and, except where otherwise noted, is not to be copied, distributed, displayed, reproduced, or transmitted in any form, by any means, without the prior express written consent of Chipotle.
 
-###### USER-SUBMITTED CONTENT
+**USER-SUBMITTED CONTENT**
 
 Certain areas of the Services be enable you to submit remarks, ideas, images, photos, suggestions, graphics, and/or other materials and content (“Submitted Content”). You acknowledge that you are responsible for whatever material you submit, and you, not Chipotle, have full responsibility for the message, including its legality, reliability, appropriateness, originality, and copyright. By posting, displaying, publishing, or otherwise submitting Submitted Content on or through the Services, you understand and acknowledge that any materials, ideas, or other communications you transmit will not be treated as confidential or proprietary. Furthermore, such Submitted Content will forever be the property of Chipotle and Chipotle is entitled to use the Submitted Content for any commercial or other purpose whatsoever without compensation to you.
 
-###### ONLINE PURCHASES
+**ONLINE PURCHASES**
 
 To purchase food products, merchandise, or other items through the Services, you must provide valid payment card and billing information. Such information will be collected by Chipotle. Your information will be collected and used in accordance with Chipotle’s Privacy Policy. When you purchase items through the Services, prices will be made clear during the order process. You agree to pay the price that is stated at the time of your order, as well as any applicable taxes. You also agree to have your payment card billed for the total amount displayed at check out. By purchasing items through the Services, you represent and warrant to Chipotle that you are capable of entering into a contract under the applicable law.
 
-###### WEBSITE ACCESS
+**WEBSITE ACCESS**
 
 Chipotle hereby grants you permission to use the Services as set forth in these Terms, provided that: (i) your use of the Services as permitted is solely for your personal, noncommercial use; (ii) you will not copy or distribute any part of the Services in any medium without Chipotle’s prior written authorization; (iii) you will not alter or modify any part of the Services other than as may be reasonably necessary to use the Services for their intended purpose; and (iv) you will otherwise comply with these Terms.
 
 In order to access some features of the Services, you will have to create an account. You may never use another’s account without permission. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. Although Chipotle will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of Chipotle or others due to such unauthorized use.
 
-###### HYPERLINKS
+**HYPERLINKS**
 
 The Services may link to sites not maintained by or related to Chipotle. Hypertext links are provided as a service to users and are not necessarily sponsored by or affiliated with the Services or Chipotle. Chipotle has not necessarily reviewed the sites hyperlinked to or from the Services and is not responsible for the content of any other site. These links are to be accessed at the user’s own risk. Chipotle makes no representations or warranties about the content, completeness, or accuracy of these links or the sites hyperlinked to or from the Services. Furthermore, Chipotle does not implicitly endorse third-party sites hyperlinked to or from this Website.
 
-###### TEXT MESSAGING NOTICE
+**TEXT MESSAGING NOTICE**
 
-If you choose to participate in any Chipotle promotion that may involve the use of text messaging (either sending or receiving), Chipotle will not charge you for the text messaging; however, standard text messaging rates will apply to each text message sent or received as provided in your wireless rate plan (contact your carrier for pricing plans and details).
+If you choose to participate in any Chipotle promotion that may involve the use of text (SMS) messaging (either sending or receiving), Chipotle will not charge you for the text messaging; however, standard text messaging rates will apply to each text message sent or received as provided in your wireless rate plan (contact your carrier for pricing plans and details).
 
-###### MOBILE TERMS & CONDITIONS
+**MOBILE TERMS & CONDITIONS**
 
-**MOBILE ALERTS**  
+**MOBILE ALERTS**
 
 1. You must be 13 years of age or older to participate in the Chipotle mobile text program.
 2. By participating in the Chipotle mobile text program and signing up for mobile offers and text updates, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Chipotle. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
 3. Message and data rates may apply. All charges are billed by and payable to your mobile service provider. Chipotle does not charge you for sending or receiving text messages to 888222.
-4. If you would like to be removed from the Chipotle mobile text program, you must text STOP to 888222 (U.S.) or 888333 (Canada) to opt-out. This is the exclusive method for opting out. After texting STOP to 888222 you will receive one additional message confirming that your request has been processed.
-5. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “HELP” to 888222 (U.S.) or 888333 (Canada) or contact us [**here**](https://www.chipotle.com/contact-us).
+4. If you would like to be removed from the Chipotle mobile text program, you can text STOP to 888222 (U.S.) or 888333 (Canada) to opt-out. After texting STOP to 888222 you will receive one additional message confirming that your request has been processed.
+5. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “HELP” to 888222 (U.S.) or 888333 (Canada) or contact us [**here**](https://www.chipotle.com/contact-us)**.**
 6. In the event that you change or deactivate your mobile number it is your responsibility to notify Chipotle [**here**](https://www.chipotle.com/contact-us) to have your number removed.
 7. Chipotle will not be liable for any delays in the receipt of any SMS messages or undelivered messages. T-Mobile policies require that we specify that T-Mobile, also, will not be liable for any delays in the receipt of any SMS messages or undelivered messages.
 8. Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
 9. These terms and conditions are subject to change at any time without notice.
 
-###### VIOLATION OF THESE TERMS AND REMEDIES
+**VIOLATION OF THESE TERMS AND REMEDIES**
 
 You agree that Chipotle may, in its sole discretion and without prior notice, block and/or terminate your access to the Services if Chipotle determines that you have violated these Terms or other agreements or guidelines that may be associated therewith. You also agree that any violation, or threatened violation, by you of these Terms constitutes an unlawful and unfair business practice, and will cause irreparable and unquantifiable harm to Chipotle. You also agree that monetary damages would be inadequate for such harm and consent to Chipotle’s obtaining any injunctive or equitable relief that Chipotle deems necessary or appropriate. These remedies are in addition to any other remedies that Chipotle may have at law or in equity.
 
 If Chipotle takes legal action against you as a result of your violation of these Terms, Chipotle will be entitled to recover from you, and you agree to pay, all reasonable attorneys’ fees and costs of such action, in addition to any other relief granted to Chipotle. You agree that Chipotle will not be liable to you or to any third party for termination of your access to the Services, mobile app, programs, and/or services as a result of any violation of these Terms.
 
-###### GOVERNING LAW AND JURISDICTION
+**GOVERNING LAW AND JURISDICTION**
 
 These Terms are governed by United States law and are subject to all applicable federal, state, and local laws and regulations. All issues and questions concerning the construction, validity, interpretation, and enforceability of these Terms, or the rights and obligations of you or Chipotle in connection with your use of the Services or your Submitted Content, shall be governed by, and construed in accordance with, the laws of the State of Colorado, without giving effect to the conflict of laws rules thereof.
 
-###### DISPUTE RESOLUTION, ARBITRATION CLAUSE AND CLASS ACTION WAIVER
+**DISPUTE RESOLUTION, ARBITRATION CLAUSE AND CLASS ACTION WAIVER**
 
 You agree that any claim or dispute at law or equity that has arisen or may arise relating in any way to or arising out of these Terms will be resolved in accordance with the provisions set forth in this Dispute Resolution section. PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS AND WILL HAVE A SUBSTANTIAL IMPACT ON HOW CLAIMS YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED.
 
@@ -94,7 +98,7 @@ You agree that whenever you have a disagreement with Chipotle arising out of, co
 
 You agree that you will not file a class action or collective action against Chipotle, and that you will not participate in a class action or collective action against them. You agree that you will not join your claims to those of any other person. Notwithstanding any other provision in these Terms, if this class action waiver is invalidated, then the agreement to arbitrate is null and void, as though it were never entered into, and any arbitration dispute at that time will be dismissed without prejudice and may be refiled in a court. Under no circumstances do you or Chipotle agree to class or collective procedures in arbitration or the joinder of claims in arbitration. Chipotle agrees that we will submit all disputes with you to arbitration before the Arbitrator.
 
-###### MISCELLANEOUS
+**MISCELLANEOUS**
 
 These Terms constitute the entire agreement between you and Chipotle and govern your use of the Services and supersede all prior or contemporaneous communications and proposals whether electronic, oral or written, between you and Chipotle with respect to the Services. Both you and Chipotle acknowledge and agree that no partnership is formed and neither you nor Chipotle has the power or the authority to obligate or bind the other.
 
@@ -106,9 +110,11 @@ The headings in these Terms are for your convenience and reference. These headin
 
 If any provision of these Terms shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
 
-###### BINDING AGREEMENT
+**BINDING AGREEMENT**
 
 These Terms constitute a binding agreement between you and Chipotle, and are accepted by you upon your use of the Services. This agreement constitutes the entire agreement between you and Chipotle regarding the use of the Services and the features therein and supersedes and replaces any prior agreements between you and Chipotle regarding the use of the Services. By using the Services, you represent that you are capable of entering into a binding agreement, and that you agree to be bound by these Terms.
+
+Last Updated: October 1, 2024
 
 [CONTACT SUPPORT](https://www.chipotle.com/contact-us)
 
