@@ -56,7 +56,7 @@ Down icon
 
 **Personal use**](https://preyproject.com/products/individuals)
 
-**For Industries**
+**By Industries**
 
 [Business
 
@@ -88,7 +88,7 @@ Resources
 
 Down icon
 
-**For Industries**
+**Learn more**
 
 [Notebook with bookmark icon
 
