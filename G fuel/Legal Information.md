@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                       
+Terms of service – G FUEL                                                                                                         
 
 [Skip to content](#MainContent)  
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/578/assets/fearfest-search-icon-black.png?v=70690630930442313831727802434)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/580/assets/fearfest-search-icon-black.png?v=70690630930442313831727818209)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-account-icon.png?v=50085873134992036791727802434) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-search-icon-black.png?v=70690630930442313831727802434) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/578/assets/bloody-hamburger-menu.png?v=86003260733675859121727802434) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/578/assets/fearfest-cart-icon.png?v=54831520779337061261727802434) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/580/assets/fearfest-account-icon.png?v=50085873134992036791727818209) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/580/assets/fearfest-search-icon-black.png?v=70690630930442313831727818209) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/580/assets/bloody-hamburger-menu.png?v=86003260733675859121727818209) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/580/assets/fearfest-cart-icon.png?v=54831520779337061261727818209) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -575,7 +575,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/578/assets/app-store-badge.svg?v=123926581890561309811727802434)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/578/assets/google-play-badge.png?v=132395384020293405351727802434)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/580/assets/app-store-badge.svg?v=123926581890561309811727818209)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/580/assets/google-play-badge.png?v=132395384020293405351727818209)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -595,7 +595,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.4 out of 5 stars
 
-1,777 Reviews
+1,778 Reviews
 
 4.7
 
@@ -631,7 +631,7 @@ Rated 4.7 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-1,192 Reviews
+1,193 Reviews
 
 4.6
 
