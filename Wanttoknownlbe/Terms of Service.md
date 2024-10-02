@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wetenschap-maakt-muizensperma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/standing-rock-veteranen-vragen-vergiffenis/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
