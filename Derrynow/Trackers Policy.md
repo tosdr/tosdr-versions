@@ -266,13 +266,6 @@ Most Popular
 [PICTURES: GAA Dads & Lads from around Ireland roll back the years for huge football blitz](https://www.derrynow.com/news/gaa/1618818/pictures-gaa-dads-lads-from-around-ireland-roll-back-the-years-for-huge-football-blitz.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 1 2024](https://www.derrynow.com/news/deaths/1618149/derry-death-notices-tuesday-october-1-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry man who crashed car through a hedge and into a field at 110mph jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who crashed car through a hedge and into a field at 110mph jailed")](https://www.derrynow.com/news/local-news/1618909/county-derry-man-who-crashed-car-through-a-hedge-and-into-a-field-at-110mph-jailed.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -321,6 +314,22 @@ PSNI
 [IN PICTURES: Celebrating 30 years of Daleview House](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Police in Derry appealing for information after hit and run of man and his dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for information after hit and run of man and his dog")](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
+
+The incident happened in the vicinity of John Street.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry appeal for witnesses after man and his dog struck in hit-and-run](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 2 2024](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Tributes paid to Derry teacher, actress and singer Carita Kerr](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid to Derry teacher, actress and singer Carita Kerr")](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
 
 Carita Kerr with her husband John during his time as mayor of Derry
@@ -329,13 +338,6 @@ Carita Kerr with her husband John during his time as mayor of Derry
 
 [Tributes paid to Derry teacher, actress and singer Carita Kerr](https://www.derrynow.com/news/local-news/1619022/tributes-paid-to-derry-teacher-actress-and-singer-carita-kerr.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![City of Derry Airport to hold emergency training exercise](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "City of Derry Airport to hold emergency training exercise")](https://www.derrynow.com/news/local-news/1618641/city-of-derry-airport-to-hold-emergency-training-exercise.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[City of Derry Airport to hold emergency training exercise](https://www.derrynow.com/news/local-news/1618641/city-of-derry-airport-to-hold-emergency-training-exercise.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 2 2024](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police in Derry appealing for information after hit and run of man and his dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for information after hit and run of man and his dog")](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
 
 The incident happened in the vicinity of John Street.
@@ -522,7 +531,7 @@ The incident happened in the vicinity of John Street.
 [Police in Derry appeal for witnesses after man and his dog struck in hit-and-run](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video")](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
+[![IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](https://www.derrynow.com/resizer/165/93/true/2017/10/10110855/Macklemore-image-2.jpg--.jpg "IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video")](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
@@ -551,15 +560,6 @@ Head Girl, Ruby Armstrong, and Head Boy, Joel Osbourne, present a gift to Guest 
 
 [Murphy unveils drive to bring regional balance to NI economy](https://www.derrynow.com/news/local-news/1618912/murphy-unveils-drive-to-bring-regional-balance-to-ni-economy.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_01/IDNT_3-10-24_Hargy_2-1727787238153.jpg--.jpg?1727787238575 "Derry City")](https://www.derrynow.com/news/derry-sport/1618945/the-players-have-to-realise-the-magnitude-of-what-s-at-stake.html)
-
-Sean Hargan celebrates with team mates and fans after defeating Shamrock Rovers to win the 2002 FAI Cup.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-['The players have to realise the magnitude of what's at stake'](https://www.derrynow.com/news/derry-sport/1618945/the-players-have-to-realise-the-magnitude-of-what-s-at-stake.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
