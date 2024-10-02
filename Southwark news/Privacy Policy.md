@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+    
+    ### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+    
+    [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+    
+    ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+    
+    [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    [![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-360x180.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+    
+    ### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+    
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
     
     ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
@@ -34,26 +54,6 @@
     [![Shaun Hutchinson against Bristol City. Image: Milwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Hutch-frustrating-360x180.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
     
     ### [Millwall boss reveals injury problems set to continue – as Hutch joins absentee list](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
-    
-    [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
-    
-    ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
-    
-    [![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-    
-    ### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-    
-    [![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-360x180.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-    
-    ### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-    
-    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
-    
-    ### [TEAM NEWS: Cardiff City vs Millwall – Harris names unchanged side](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
-    
-    [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-    
-    ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+    
+    ### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+    
+    [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+    
+    ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+    
+    [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    [![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-360x180.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+    
+    ### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+    
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
     
     ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
@@ -114,26 +134,6 @@ View All Result
     [![Shaun Hutchinson against Bristol City. Image: Milwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Hutch-frustrating-360x180.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
     
     ### [Millwall boss reveals injury problems set to continue – as Hutch joins absentee list](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms/)
-    
-    [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
-    
-    ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
-    
-    [![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-    
-    ### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-    
-    [![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-360x180.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-    
-    ### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-    
-    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
-    
-    ### [TEAM NEWS: Cardiff City vs Millwall – Harris names unchanged side](https://southwarknews.co.uk/sport/football/millwall/team-news-cardiff-city-vs-millwall-harris-names-unchanged-side/)
-    
-    [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-    
-    ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -374,42 +374,41 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+
+### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+
+[![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+
+### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+
+[![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+
+### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+
+[![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-120x86.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+
+### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
+
 [![Bottom left: the proposed Northern Line station entrance](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-10.27-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
 
 ### [Northern Line tunnels will link platforms and give step-free access to new Elephant & Castle station entrance](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
 
 [1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/northern-line-tunnels-will-link-platforms-and-give-step-free-access-to-new-elephant-castle-station-entrance/)
-
-[![The apartment is a stone's throw away from The Shard (Dexter's)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-01-10-2024-at-13.13-120x86.jpg)](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-
-### [London Bridge bell tower apartment above historic operating theatre is up for rent at £4k a month](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-
-[1st October 2024](https://southwarknews.co.uk/area/borough/london-bridge-bell-tower-apartment-above-historic-operating-theatre-is-up-for-rent-at-4k-a-month/)
-
-[![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
-### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
-[1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
-[![Andy Parsons 
-Photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/andy-parsons-1600-x-1200-1024x768-1-120x86.jpg)](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
-
-### [13 things to do in south London this October](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
-
-[30th September 2024](https://southwarknews.co.uk/area/south-london/13-things-to-do-in-south-london-this-october/)
-
-[![Schoolchildren led a three-year campaign to gets lights installed along a route through Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00006-6-120x86.jpeg)](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-
-### [Pupils ‘scared’ by walk through crime-ridden Burgess Park get lights installed after three-year campaign](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-
-[30th September 2024](https://southwarknews.co.uk/news/community/pupils-scared-by-walk-through-crime-ridden-burgess-park-get-lights-installed-after-three-year-campaign/)
-
-[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-[30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
 
 ### USEFUL PAGES
 
