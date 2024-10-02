@@ -134,7 +134,7 @@ Search all IEEE websites
     * [Join an IEEE Society](https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType)
     * [See the IEEE Regions](https://www.ieee.org/communities/regional-world-map.html?utm_source=wdw&utm_campaign=region_map&utm_medium=com&utm_term=regions%20map)
     * [View the MGA Operations Manual](https://mga.ieee.org/board-committees/operations-manual)
-    * [Find information on IEEE Technical Activities](https://www.ieee.org/about/volunteers/tab/home/index.html)
+    * [Find information on IEEE Technical Activities](https://www.ieee.org/about/volunteers/home/index.html)
     * [Get IEEE Chapter resources](https://mga.ieee.org/resources-operations/geographic-unit/chapters)
     * [Find IEEE Sections, Chapters, Student Branches, and other communities](https://www.ieee.org/communities/geographic-activities.html?utm_source=wdw&utm_campaign=geo_act&utm_medium=com&utm_term=geographic%20activities)
     * [Learn how to create an IEEE Student Chapter](https://students.ieee.org/student-branches/)
