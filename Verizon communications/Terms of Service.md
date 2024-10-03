@@ -278,7 +278,7 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-iPhone 16 Pro. Get it on us. | [Buy now.](https://www.verizonwireless.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone.](https://www.verizonwireless.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
+iPhone 16 Pro. Get it on us. | [Buy now.](https://www.verizon.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
 
 iPhone: $999.99 (128 GB only) purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req’d. Less $1,000 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Smartphone trade-in must be from Apple, Google or Samsung; trade-in terms apply.  
   
