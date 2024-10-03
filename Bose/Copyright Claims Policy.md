@@ -218,7 +218,7 @@ Attn: Copyright Agent
 [copyright@bose.com](mailto:copyright@bose.com)
 
 1. [Home](https://www.bose.com/home)
-2. template.legal/copyright-policy
+2. Bose Copyright Policy
 
 ##### Notify me
 
