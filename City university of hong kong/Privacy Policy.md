@@ -129,7 +129,6 @@ Search Keywords  Submit Search
         * [Humanities Academy](https://www.cityu.edu.hk/lib/about/facility/ha/index.htm)
         * [Mini Theatre](https://www.cityu.edu.hk/lib/about/facility/mt/index.htm)
         * [Wofoo Foundation Gallery](https://www.cityu.edu.hk/lib/about/facility/mplobby/index.htm)
-        * [CAVE Virtual Reality](https://www.cityu.edu.hk/lib/about/facility/3d/index-vr.htm)
     * Rooms
         * [Study Carrels](https://www.cityu.edu.hk/lib/about/facility/studyrm/index.htm)
         * [Group Study Rooms](https://www.cityu.edu.hk/lib/about/facility/ha/index.htm)
