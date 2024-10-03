@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Allen West The Role of Federal Government](https://patriotpost.us/opinion/110791-the-role-of-federal-government-2024-10-03)
 *      [Cal Thomas Lebanon Then and Now](https://patriotpost.us/opinion/110771-lebanon-then-and-now-2024-10-03)
 *      [Ben Shapiro The Power of Victory](https://patriotpost.us/opinion/110770-the-power-of-victory-2024-10-03)
 *      [Ann Coulter The Democrats’ Idea of a Regular Guy](https://patriotpost.us/opinion/110773-the-democrats-idea-of-a-regular-guy-2024-10-03)
@@ -144,7 +145,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
