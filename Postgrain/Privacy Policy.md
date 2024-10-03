@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Agende-seus-conteudos-do-TikTok-no-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12618)
+[![Nova Métrica do Reels - A imagem que ilustra o tema tem o fundo de uma mesa de escritório e, em destaque, tem duas mãos, segurando um celular e, na tela dele, tem a imagem do ícone do reels sobrepondo um fundo branco.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Nova-Metrica-do-Reels-O-formato-que-viralizou-580x290.jpg)](https://postgrain.com/?post_type=post&p=12635)
 
-[Agende seus TikToks no Postgrain!](https://postgrain.com/?post_type=post&p=12618)
+[Nova Métrica do Reels: Saiba a quantidade de dias que o seu post foi visualizado! \[2024\]](https://postgrain.com/?post_type=post&p=12635)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12618)
+[Leia mais](https://postgrain.com/?post_type=post&p=12635)
 
 Ilustração de um dos personagens do Postgrain
 
