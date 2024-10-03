@@ -1,8 +1,4 @@
-[![](/_nuxt/image/eecfc0.svg)
-
-GitLab Duo Enterprise is now available. Ship more secure software faster with AI throughout the entire SDLC.
-
-Learn more
+ [![](/_nuxt/image/eecfc0.svg) GitLab Duo Enterprise is now available.
 
 ![](/_nuxt/image/c843cb.svg)](https://about.gitlab.com/gitlab-duo/)
 
