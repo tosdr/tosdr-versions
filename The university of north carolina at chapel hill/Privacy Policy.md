@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/LHRPreviewHero-250x141.jpg)
+    
+    Carolina to hold chancellor installation on University Day](https://www.unc.edu/posts/2024/10/02/carolina-to-hold-chancellor-installation-on-university-day/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/10/Policy-hero-250x141.jpg)
     
     Resources, reminders for civic discourse and events](https://www.unc.edu/posts/2024/10/01/carolina-shares-civic-discourse-resources-reminders/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/BrunoHero-250x141.jpg)
-    
-    Covenant Scholar’s dentistry path leads back to rural service](https://www.unc.edu/posts/2024/10/01/covenant-scholars-dentistry-path-leads-back-to-rural-service/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c9ff6e6b30&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=a659077d47&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
