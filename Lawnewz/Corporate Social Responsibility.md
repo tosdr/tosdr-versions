@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Michael Cohen, Donald Trump](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Cohen-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
+1. [![Donald Trump, on the left; Sidney Powell, on the right.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Powell-432x243.jpg)](https://lawandcrime.com/high-profile/trump-mocked-and-laughed-at-sidney-powell-while-she-was-on-speakerphone-compared-her-crazy-and-unhinged-election-claims-to-star-trek-but-promoted-them-anyway-jack-smith-immunity-brie/)
     
-    ### ['That cannot be the law': Michael Cohen begs Supreme Court one more time to let him sue Trump for 'retaliatory imprisonment' over tell-all book](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
+    ### [Trump 'mocked and laughed at' Sidney Powell while she was on speakerphone, compared her 'crazy' and 'unhinged' election claims to 'Star Trek' but promoted them anyway: Jack Smith immunity brief](https://lawandcrime.com/high-profile/trump-mocked-and-laughed-at-sidney-powell-while-she-was-on-speakerphone-compared-her-crazy-and-unhinged-election-claims-to-star-trek-but-promoted-them-anyway-jack-smith-immunity-brie/)
     
-2. [![Nicholas Carter](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Carter-432x243.jpg)](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+2. [![Background: Investigators search the home of Jessica Barnes on Sept. 12, 2024 (WYFF/YouTube). Insets, clockwise from top left: Brandon Barnes, Victoria Tippett, Kendall Mims (Anderson County Sheriff's Office), Jessica Barnes (Town of Pendleton Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Jessica-Barnes-Brandon-Barnes-Victoria-Tippett-Kendall-Mims-432x243.jpg)](https://lawandcrime.com/crime/housemates-helped-husband-hide-wifes-body-after-he-manually-strangled-her-to-death-in-their-home-police/)
     
-    ### ['Several clumps of fuzzy fecal matter': Father calls home with 5 children living in urine, mold and rotting food 'a little dirty,' cops say](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
+    ### [Housemates helped husband hide wife's body after he manually strangled her to death in their home: Police](https://lawandcrime.com/crime/housemates-helped-husband-hide-wifes-body-after-he-manually-strangled-her-to-death-in-their-home-police/)
     
-3. [![Background: Thomas Manis takes a field sobriety test administered by Tennessee Highway Patrol (WSMV). Insets, top to bottom: Angela Manis, Thomas Manis (WSMV).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Manis-Angela-Manis-432x243.jpg)](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
+3. [![Former Mayor of New York Rudy Giuliani speaks during a news conference outside the federal courthouse in Washington, Dec. 15, 2023. AP Photo/Jose Luis Magana.](https://am22.mediaite.com/lc/cnt/uploads/2024/05/giuliani-1-432x243.jpg)](https://lawandcrime.com/high-profile/not-one-scintilla-of-information-judge-slams-rudy-giuliani-for-abject-conjecture-about-grand-jury-in-arizona-fake-electors-case/)
     
-    ### [Sober driver arrested for DUI and thrown in jail because officer knew his brother, 'guaranteed' he had weed in the car: Lawsuit](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
+    ### ['Not one scintilla of information': Judge slams Rudy Giuliani for 'abject conjecture' about grand jury in Arizona fake electors case](https://lawandcrime.com/high-profile/not-one-scintilla-of-information-judge-slams-rudy-giuliani-for-abject-conjecture-about-grand-jury-in-arizona-fake-electors-case/)
     
-4. [![Donald Trump, U.S. District Judge Aileen Cannon, special counsel Jack Smith](https://am23.mediaite.com/lc/cnt/uploads/2024/03/Trump-Cannon-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/correctly-dismissed-the-indictment-lawyers-professors-and-former-prosecutor-go-to-bat-for-trump-in-11th-circuit-filing-saying-mar-a-lago-judge-did-nothing-wrong/)
+4. [![Leniz Escobar (U.S. Attorney's Office). Background: The location in New York where three teens and a 20-year-old man were hacked to death (PIX11).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/msmurders-432x243.jpg)](https://lawandcrime.com/crime/ms-13s-little-devil-willingly-and-enthusiastically-planned-carried-out-quadruple-machete-slaughters-of-3-men-and-16-year-old-boy/)
     
-    ### ['Correctly dismissed the indictment': Lawyers, professors, and former prosecutor go to bat for Trump in 11th Circuit filing saying Mar-a-Lago judge did nothing wrong](https://lawandcrime.com/high-profile/correctly-dismissed-the-indictment-lawyers-professors-and-former-prosecutor-go-to-bat-for-trump-in-11th-circuit-filing-saying-mar-a-lago-judge-did-nothing-wrong/)
+    ### [MS-13's 'Little Devil' 'willingly and enthusiastically' planned, carried out quadruple machete slaughters of 3 men and 16-year-old boy](https://lawandcrime.com/crime/ms-13s-little-devil-willingly-and-enthusiastically-planned-carried-out-quadruple-machete-slaughters-of-3-men-and-16-year-old-boy/)
     
-5. [![Donald Trump, Jack Smith](https://am23.mediaite.com/lc/cnt/uploads/2024/04/Donald-Trump-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/trump-tells-judge-special-counsel-jack-smiths-jan-6-details-must-remain-out-of-public-view/)
+5. [![The Herbert family in happier times.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Herbert-Family-432x243.jpg)](https://lawandcrime.com/crime/changed-orientation-of-his-phone-to-landscape-5-times-trucker-sending-multiple-sex-chats-on-his-phone-when-he-caused-crash-that-killed-womans-unborn-child-police-say/)
     
-    ### [Trump lawyers suddenly concerned about 'sensitive witness statements' spilling out in Jan. 6 case after pushing Mar-a-Lago judge to name 'all witnesses'](https://lawandcrime.com/high-profile/trump-tells-judge-special-counsel-jack-smiths-jan-6-details-must-remain-out-of-public-view/)
+    ### ['Changed orientation of his phone to landscape 5 times': Trucker sending multiple sex chats on his phone when he caused crash that killed woman's unborn child, police say](https://lawandcrime.com/crime/changed-orientation-of-his-phone-to-landscape-5-times-trucker-sending-multiple-sex-chats-on-his-phone-when-he-caused-crash-that-killed-womans-unborn-child-police-say/)
     
 
 [](http://eepurl.com/c89Jdb)
