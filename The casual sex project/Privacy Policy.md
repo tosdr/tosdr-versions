@@ -75,7 +75,7 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/Sep-05.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/OctoberOp4-1.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
@@ -103,6 +103,16 @@ Sep 26 2024
 ### [The Perception of Crime Since 2020](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/) The Case of Chattanooga
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-four-forces-that-have-shaped-the-subway-system.jpg)[](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/ "Read More")
+
+Commentary Cities New York, New York City
+
+Oct 02 2024
+
+[The Four Forces That Have Shaped the System](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/americas-disorder-problem.jpg)[](https://admin.mi52siterestore.com/article/americas-disorder-problem/ "Read More")
 
@@ -133,16 +143,6 @@ Sep 28 2024
 [Why Florida Could End Up with the Same Issues as NY If It Makes Pot Legal](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-deserves-better-than-this.jpg)[](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/ "Read More")
-
-Commentary Governance New York
-
-Sep 27 2024
-
-[The Most Galling Part of the Whole Eric Adams Affair](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
 
 Our Policy Areas
 ----------------
