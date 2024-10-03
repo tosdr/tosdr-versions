@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=F9D7BBFA-9CDC-4EBB-BA21-51D61B1B66F3&ad=dirN&capLimitBypass=false "What's your question?")
+[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=C5BD2A2D-E455-43EF-B545-88DF4D1CD700&ad=dirN&capLimitBypass=false "What's your question?")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,7 +276,7 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=F9D7BBFA-9CDC-4EBB-BA21-51D61B1B66F3&ad=dirN&capLimitBypass=false "Privacy Policy")
-* [Terms of Service](https://www.allresultsweb.com/terms?ueid=F9D7BBFA-9CDC-4EBB-BA21-51D61B1B66F3&ad=dirN&capLimitBypass=false "Terms of Service")
+* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=C5BD2A2D-E455-43EF-B545-88DF4D1CD700&ad=dirN&capLimitBypass=false "Privacy Policy")
+* [Terms of Service](https://www.allresultsweb.com/terms?ueid=C5BD2A2D-E455-43EF-B545-88DF4D1CD700&ad=dirN&capLimitBypass=false "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * © 2024 Ask Media Group, LLC
