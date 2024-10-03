@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Hugo van Sittert
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=116714283)  
-Sonic Electrical Services PTY Ltd
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=98637828)  
+Desygn
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=125183227)  
-KTEN PARTS
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=13954597)  
+Blue Sky Solar Services
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=185133014)  
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=1768818)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=45862707)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=2069028)  
+Brilliant Roof Products
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=65657284)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=60612702)  
+Sarabi
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=108322396)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=91328277)  
+Tracknetics
+
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=111116659)  
+MR Compressors& Industrial Supplies
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=7699019)  
+Karino Merinos ( PTY ) LTD
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=152559275)  
 ELLIE'S CLEANING CHICKS
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=91305105)  
-Immediate Health (pty)ltd
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=18097358)  
+Druce Digital
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=93159419)  
-Kaylas Creations
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=170493727)  
+Oukraal Merino's
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=89198529)  
-CGHK Enterprises (PTY) LTD
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=136577037)  
-Alliance Energy
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=48466727)  
-Network Grey (Pty) Ltd
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=36599763)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=170108638)  
-IYD
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=13658039)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=212467851)  
-Wiselink Broadband Dundee
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=88452518)  
-FX ACCOUNTING
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=65014237)  
-WIP Digital Solutions
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=30094969)  
-Cpower Projects t/a Pro Pure Water
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=10199587)  
+McKaynine Mobility
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
