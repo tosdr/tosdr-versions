@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://cdn.er.ru/media/news/October2024/068iMCTdisk2ig34JYw0-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
+
+[Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#экономический рост](https://er.ru/activity/news?tags%5B0%5D=15324) [#достижение целей](https://er.ru/activity/news?tags%5B0%5D=48415) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
+
+Сегодня 12:28
+
+[![Андрей Турчак вступил в должность главы Республики Алтай](https://cdn.er.ru/media/news/October2024/hrGZWsnUPvaG5dGEyt7y-small.jpg)](https://er.ru/activity/news/andrej-turchak-vstupil-v-dolzhnost-glavy-respubliki-altaj)
+
+[Андрей Турчак вступил в должность главы Республики Алтай](https://er.ru/activity/news/andrej-turchak-vstupil-v-dolzhnost-glavy-respubliki-altaj)
+
+[#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 11:20
+
 [![Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://cdn.er.ru/media/news/October2024/kfs14KinykSAKO8UrZFB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
 
 [Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
@@ -330,22 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#поддержкасемей](https://er.ru/activity/news?tags%5B0%5D=114032) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
 02.10.24
-
-[![О социальных планах Госдумы на осеннюю сессию. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/P3g9tVBdqn5WAvdYTnnG-small.jpg)](https://er.ru/activity/news/o-socialnyh-planah-gosdumy-na-osennyuyu-sessiyu-statya-andreya-isaeva)
-
-[О социальных планах Госдумы на осеннюю сессию. Статья Андрея Исаева](https://er.ru/activity/news/o-socialnyh-planah-gosdumy-na-osennyuyu-sessiyu-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666)
-
-02.10.24
-
-[![«Единая Россия» разработает поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/October2024/N0Xrf5unsk0rSzeTBGNE-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
-
-[«Единая Россия» разработает поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-razrabotaet-popravki-ko-vtoromu-chteniyu-byudzheta)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#ПосланиеПрезидентаФедеральномуСобранию](https://er.ru/activity/news?tags%5B0%5D=116509) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
-
-01.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
