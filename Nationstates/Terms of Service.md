@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Best NS Player of October 2024!!! (110)](https://forum.nationstates.net/viewtopic.php?t=556296&f=25&view=unread#unread ""Best NS Player of October 2024!!!" (110 posts)")
-* [UK Politics Thread: Conservative Lead… (11,306)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,306 posts)")
-* [Make a meme about AN (revival) (5)](https://forum.nationstates.net/viewtopic.php?t=556397&f=25&view=unread#unread ""Make a meme about AN (revival)" (5 posts)")
-* [Based on AN flag, what do they export… (432)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (432 posts)")
-* [.::The List of National Capitals::. (7,642)](https://forum.nationstates.net/viewtopic.php?t=191905&f=23&view=unread#unread "".::The List of National Capitals::." (7,642 posts)")
+* [Why Socialists are getting more liberal? (748)](https://forum.nationstates.net/viewtopic.php?t=555723&f=20&view=unread#unread ""Why Socialists are getting more liberal?" (748 posts)")
+* [What Music Are You Listening to? v18 (11,513)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,513 posts)")
+* [ORCA Security Summit of 2024 (IC) (TW… (17)](https://forum.nationstates.net/viewtopic.php?t=555060&f=4&view=unread#unread ""ORCA Security Summit of 2024 (IC) (TWI-Only)" (17 posts)")
+* [Transformers: Electric Trepidation (8,757)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (8,757 posts)")
+* [\[TWI-Only\]\[OOC\]Organisation of Region… (21)](https://forum.nationstates.net/viewtopic.php?t=536576&f=4&view=unread#unread ""[TWI-Only][OOC]Organisation of Regional Cooperation in Argus" (21 posts)")
 
 Advertisement
 
