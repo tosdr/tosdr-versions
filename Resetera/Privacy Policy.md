@@ -108,6 +108,8 @@ Light/Dark
 
 * [](https://www.resetera.com/account/dismiss-notice?notice_id=399 "Dismiss notice")If you have been following the news, you should be aware that the people of Lebanon have been under a violent bombardment that has recently escalated. Please consider [donating](https://www.resetera.com/threads/raising-funds-for-the-displaced-affected-by-the-war-lebanon.997968) to help them if you can or trying to spread word of the fundraiser.
     
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=402 "Dismiss notice")Asheville and Western North Carolina at large are in crisis after Helene, [please consider contributing to these local organizations and helping the people whose lives have been destroyed.](https://www.resetera.com/threads/asheville-and-western-north-carolina-at-large-are-in-crisis-after-helene-consider-contributing-to-these-local-organizations.1000155/)
+    
 
 Privacy policy
 ==============
