@@ -38,8 +38,8 @@ Une vigilance absolue s'impose](https://vigilance.meteofrance.fr/fr)
 PUBLIC - Menu principal
 
 * [Previsions](https://meteofrance.com/ "Prévisions Météo-France")
-* [Meteo des plages](https://meteofrance.com/meteo-plages "Météo des Plages")
 * [Meteo Marine](https://meteofrance.com/meteo-marine "Météo Marine")
+* [Meteo Montagne](https://meteofrance.com/meteo-montagne "Météo Montagne")
 * [Climat](https://meteofrance.com/climat "Climat et Changement climatique")
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
