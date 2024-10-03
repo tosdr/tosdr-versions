@@ -14,11 +14,12 @@
     * [Keşfet](https://mynetiz.com/kesfet)
     * [Kültür Sanat](https://mynetiz.com/kultur-sanat)
     * [Kütüphane](https://mynetiz.com/kutuphane)
+    * [Linux](https://mynetiz.com/linux)
     * [Takım Çantası](https://mynetiz.com/yazanlar)
         * [Android](https://mynetiz.com/yazanlar/android)
         * [Araçlar](https://mynetiz.com/yazanlar/araclar)
-        * [İnceleme](https://mynetiz.com/yazanlar/inceleme)
         * [İnternet](https://mynetiz.com/yazanlar/internet)
+        * [İpucu](https://mynetiz.com/yazanlar/ipucu)
         * [Mobil](https://mynetiz.com/yazanlar/mobil)
         * [Program/Yazılım](https://mynetiz.com/yazanlar/program-yazilim)
         * [Uygulama](https://mynetiz.com/yazanlar/uygulama)
@@ -38,7 +39,7 @@ October 3, 2024
 
 Yeni
 
-[Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Türkiye’de Darpa Sunucularıyla İlgili İlginç Detay](https://mynetiz.com/turkiyede-darpa-sunuculariyla-ilgili-ilginc-detay-6.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [Ubuntu 20.yılında, 24.10 sürümü me zaman?](https://mynetiz.com/ubuntu-20-yilinda-24-10-surumu-me-zaman.html) [Ne bileyim?](https://mynetiz.com/ne-bileyim.html) [Çakır: “Yeni ekonomi havzaları ulusal bir güvenlik konusudur”](https://mynetiz.com/cakir-yeni-ekonomi-havzalari-ulusal-bir-guvenlik-konusudur.html) [SORUN BENDE OLMALI…](https://mynetiz.com/sorun-bende-olmali.html) [Çin Haoji Demiryolu Köprüsü](https://mynetiz.com/cin-haoji-demiryolu-koprusu.html)
+[Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Potansiyel Ordu](https://mynetiz.com/potansiyel-ordu.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [GEDİK](https://mynetiz.com/gedik.html)
 
 Privacy Policy
 ==============
