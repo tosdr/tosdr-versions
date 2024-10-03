@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/hurricanes-cause-more-deaths-after-storms-pass-1440x810.jpg)
+
+Hurricanes Can Cause Deaths for 15 Years Afterward](https://www.everydayhealth.com/public-health/hurricanes-can-cause-deaths-for-fifteen-years-afterwards/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/measure-body-roundness-risk-cardiovascular-disease-1440x810.jpg)
 
 Body Roundness Index May Help Predict Heart Disease Risk](https://www.everydayhealth.com/heart-health/body-roundness-index-may-help-predict-heart-disease-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/weekend-warrior-physical-activity-may-help-diseases-1440x810.jpg)
-
-‘Weekend Warrior’ Workouts Boost Health as Much as Exercise Throughout the Week](https://www.everydayhealth.com/fitness/weekend-warrior-workouts-boost-health/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
