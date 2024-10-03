@@ -258,7 +258,7 @@ actual Purchase amount. If this happens, it will make less credit available to y
 
 (a) Events of Default. The Bank may, without prior notice, declare you in default under thisAgreement if any of the following occur (each, a “Default”): (i) you fail to meet the conditions,perform any obligation, or make any required payment under this Agreement or any otheragreement that you make with us relating to the Debt; (ii) you have given the Bank false ormisleading information or made misrepresentations; (iii) you exceeded your Credit Limit; (iv) youdie; (v) any government authority takes action that the Bank believes adversely affects yourfinancial condition or ability to repay the Debt; (vi) any guaranty or other agreement required inconnection with the Debt is violated or ineffective; (vii) you default on any other account you havewith the Bank; or (viii) you file a bankruptcy petition, a bankruptcy petition is filed against you, oryou make a general assignment for the benefit of creditors.
 
-(b) Our Rights Upon Your Default. If you Default, the Bank may declare all the Debt immediately dueand payable, subject to any notice and rights to cure you may have under applicable law. Uponany Default, we are authorized to exercise all of our rights under the security interest that youhave granted to us in your Security Deposit Account. Without limiting the foregoing, we may actas owner of the Security Deposit Account and apply all or any portion of the funds in the SecurityDeposit Account to repayment of the Debt and our costs in enforcing our rights hereunder. YourSecurity Deposit Account does not secure any obligations to us other than the Debt. We areirrevocably appointed as attorney-in-fact for the limited purpose of executing any instrumentsrequired to satisfy the Debt. In addition and by way of example, if you are in Default, we may closeyour Card Account without notice and require you to pay your unpaid balance immediately,except to the extent prohibited by applicable law, and we can also begin collection activities. Tothe extent permitted by law, if you are in Default because you have failed to pay us, we will requireyou to pay our collection costs, attorneys’ fees, court costs, and all other expenses of enforcingour rights under this Agreement.
+(b) Our Rights Upon Your Default. If you Default, the Bank may declare all the Debt immediately dueand payable, subject to any notice and rights to cure you may have under applicable law. Uponany Default, we are authorized to exercise all of our rights under the security interest that youhave granted to us in your Security Deposit Account. Additionally, we may apply any funds thatpost to your Card Account after default to the Debt owed to us. Without limiting the foregoing, wemay act as owner of the Security Deposit Account and apply all or any portion of the funds in theSecurity Deposit Account to repayment of the Debt and our costs in enforcing our rightshereunder. Your Security Deposit Account does not secure any obligations to us other than theDebt. We are irrevocably appointed as attorney-in-fact for the limited purpose of executing anyinstruments required to satisfy the Debt. In addition and by way of example, if you are in Default,we may close your Card Account without notice and require you to pay your unpaid balanceimmediately, except to the extent prohibited by applicable law, and we can also begin collectionactivities. To the extent permitted by law, if you are in Default because you have failed to pay us,we will require you to pay our collection costs, attorneys’ fees, court costs, and all other expensesof enforcing our rights under this Agreement.
 
 Our rights stated in this Agreement are in addition to any other rights the Bank has under applicablelaw. If there is a conflict regarding the security interest between this Agreement and any otheragreement, this Agreement will control. You represent that no insolvency proceeding or generalassignment for creditors is pending that would affect the Bank’s security interest. If the Bank waivesor delays exercising a right, it does not forfeit that right or any others. You waive any defense you mayhave against the Bank. The Bank can exercise its rights against the Security Deposit Account even ifyou are no longer liable on the Debt because of a statute of limitations or because of other reasons.Until the Debt is fully repaid and you have no further obligations under this Agreement, you willsubordinate in favor of the Bank any right of subrogation and any right to enforce a remedy the Banknow has or may later have.
 
@@ -368,7 +368,7 @@ and personal representatives. We may sell your Card Account and Security Deposit
 
 (b) We May Close Your Card Account. Even if you are not in Default, we may: (i) close your CardAccount, (ii) cancel or suspend your privileges to make Purchases or obtain Cash Advances, or (iii)otherwise cancel or suspend any Card Account privileges or benefits (whether or not suchprivileges or benefits are described or referred to in this Agreement). We may do so for anyreason, including Card Account inactivity, in our sole discretion. We will provide you with noticeof any such action if required to do so by applicable law.
 
-(c) No More Transactions if Card Account is Closed. If either you or we close your Card Account, youmay not make further Purchases or Cash Advances with your Card or Card Account. However, youwill remain responsible and must pay for all credit owed to us (extended to you or arising fromuse of your Card Account prior to or subsequent to cancellation). We also will return the fundsfrom your Security Deposit Account to you as described in this Agreement.
+(c) No More Transactions if Card Account is Closed. If either you or we close your Card Account, youmay not make further Purchases or Cash Advances with your Card or Card Account. However, youwill remain responsible and must pay for all credit owed to us (extended to you or arising fromuse of your Card Account prior to or subsequent to cancellation). We also will return the fundsfrom your Security Deposit Account to you as described in this Agreement. If you are in defaultafter your Card account has closed, we may apply any funds that post to the account after closureto the Debt owed on your Card Account.
 
 
 
@@ -384,9 +384,15 @@ and personal representatives. We may sell your Card Account and Security Deposit
 
 
 
-27. Foreign Transactions. If you use your Card to make a Purchase or Cash Advance in a currency otherthan U.S. dollars, the merchant, network, or card association that processes the transaction mayconvert any related debit or credit into U.S. dollars in accordance with its then-current policies. Visacurrently uses a conversion rate that is either: (a) selected from a range of rates available in wholesale
+27. Foreign Transactions. If you use your Card to make a Purchase or Cash Advance in a currency otherthan U.S. dollars, the merchant, network, or card association that processes the transaction mayconvert any related debit or credit into U.S. dollars in accordance with its then-current policies. Visa
 
 15
+
+
+
+currently uses a conversion rate that is either: (a) selected from a range of rates available in wholesale
+
+16
 
 
 
@@ -414,7 +420,7 @@ We monitor your Card Account for signs of potential fraud, which could include t
 
 32. Military Annual Percentage Rate Disclosure. Federal law provides important protections to activeduty members of the Armed Forces and their dependents relating to extensions of consumer credit.In general, the cost of consumer credit to a member of the Armed Forces and his or her dependentmay not exceed an annual percentage rate of 36 percent. This rate must include, as applicable to thecredit transaction or account: The costs associated with credit insurance premiums; fees for ancillaryproducts sold in connection with the credit transaction; any application fee charged (other than
 
-16
+17
 
 
 
@@ -452,7 +458,7 @@ PURSUANT TO 10 U.S.C § 987 AND ITS IMPLEMENTING REGULATIONS, IT IS UNLAWFUL FOR
 
 (b) Arbitration of Claims. Except as expressly provided herein, any claim, dispute, or controversy(whether based upon contract; tort, intentional or otherwise; constitution; statute; common law;or equity and whether pre-existing, present, or future), including initial claims, counter-claims,cross-claims, and third-party claims, arising from or relating to: (i) your Card or Card Account; (ii)any service relating to your Card or Card Account; (iii) the marketing of your Card or Card Account;(iv) this Agreement, including the validity, enforceability, interpretation, scope, or application of
 
-17
+18
 
 
 
@@ -468,7 +474,7 @@ this Agreement and this arbitration provision (except for the prohibition on cla
 
 (g) Procedure. A single arbitrator will resolve the Claims. The arbitrator will be a lawyer with at leastten years’ experience or who is a former or retired judge. The arbitration will follow the AAA’srules and procedures in effect on the date the arbitration is filed, except when there is a conflictor inconsistency between the AAA’s rules and procedures and this arbitration provision, in whichcase this arbitration provision will govern. Any in-person arbitration hearing for a Claim will takeplace within the federal judicial district in which you live or at such other reasonably convenientlocation as agreed by the parties. The arbitrator will apply applicable substantive law consistentwith the Federal Arbitration Act, 9 U.S.C. §§ 1 et seq. (the “FAA”), and will honor all claims ofprivilege and confidentiality recognized at law. All statutes of limitations that would otherwise beapplicable will apply to any arbitration proceeding. The arbitrator will be empowered to grantwhatever relief would be available in court under law or in equity. Any appropriate court may
 
-18
+19
 
 
 
@@ -536,7 +542,7 @@ While we investigate whether or not there has been an error:
 
 After we finish our investigation, one of two things will happen:
 
-19
+20
 
 
 
@@ -580,7 +586,7 @@ While we investigate, the same rules apply to the disputed amount as discussed a
 
 This Security Agreement governs your Security Deposit Account.
 
-20
+21
 
 
 
@@ -594,7 +600,7 @@ This Security Agreement governs your Security Deposit Account.
 
 (e) Closing Your Security Deposit Account; Returning the Funds. You may not close your SecurityDeposit Account until your obligations under this Agreement have been fully paid and your CardAccount is closed. We may, in our discretion, close your Security Deposit Account at any time. Ifyou or we close your Security Deposit Account, we may return the funds in your Security DepositAccount to you by any of the following means: (i) by a transfer of the funds to your GO2bank BankAccount; (ii) by sending a check to you at the address we have in our records; or (iii) some othermethod deemed sufficient by us. However, if the balance in your Security Deposit Account is $1.00or less, we will not issue a refund to you unless you request it in writing. In addition, we may usethe funds in your Security Deposit Account to pay any balances on your Card Account. You agreethat if your Card Account is closed for any reason, we may apply the funds in your Security DepositAccount to pay off any balance on your Card Account. We also may hold the funds in your SecurityDeposit Account for as long as 60 days after you have paid off your Card Account balance and yourCard Account is closed. If a check we send to you is returned as undeliverable or if we cannot locateyou, we will hold the funds from your Security Deposit Account until you either contact us andprovide information on how to send the funds to you or until we are required to remit your fundsto a state under an applicable unclaimed property law, whichever occurs first. For this
 
-21
+22
 
 
 
@@ -616,7 +622,7 @@ reason, it is important that you promptly notify us if you change any contact in
 
 (ii) Subsequent Deposits. Except as otherwise provided in this Agreement, you may makedeposits to your Security Deposit Account to secure your Card Account at any time, up to yourCredit Limit. If you attempt to make a deposit that would cause the balance of your SecurityDeposit Account to exceed your Credit Limit, we may reject the deposit. If we allow thedeposit, we are not required to allow deposits in the future. In addition, increasing the balanceof your Security Deposit Account will not necessarily increase your Credit Line. If you
 
-22
+23
 
 
 
@@ -634,7 +640,7 @@ choose to make deposits to your Security Deposit Account to secure your Card Acc
 
 (iii) In Case of Errors or Questions about your Transfers. Call us at (855) 459-1334 or write us atP.O. Box 9, West Chester, OH 45071-0009 as soon as you can, if you think your statement orreceipt is wrong or if you need more information about a Transfer listed on the statement orreceipt. We must hear from you no later than 60 days after we sent the FIRST statement onwhich the problem or error appeared. When notifying us, you will need to tell us: (1) yourname and Card Account number; (2) why you believe there is an error and the dollar amountinvolved; and (3) approximately when the error took place. If you tell us orally, we may requirethat you also send us your complaint or question in writing within ten Business Days. We willdetermine whether an error occurred within ten Business Days after we hear from you andwill correct any error promptly. If we need more time, however, we may take up to 45 daysto investigate your complaint or question. If we decide to do this, we will provide a provisionalcredit your Security Deposit Account within ten Business Days for the amount you think is in
 
-23
+24
 
 
 
@@ -648,4 +654,4 @@ error, so that you will have the benefit of your money during the time it takes 
 
 (p) Information Given to Third Parties. We may disclose information to third parties about you andyour Security Deposit Account: (i) where it is necessary or helpful for completing transactions; (ii)in order to verify the existence and condition of your Security Deposit Account for a third party;(iii) in order to comply with government agency or court orders; (iv) if you give us your consent;(v) to service providers who administer your Security Deposit Account or perform data processing,records management, collections, and other similar services for us, in order that they may performthose services; (vi) in order to identify, prevent, investigate, or report possible suspicious or illegalactivity; (vii) to disclose the existence, history, and condition of your Security Deposit Account toconsumer reporting agencies; and (viii) as permitted by our Privacy Policy. See our Privacy Policyfor further details. We may also disclose information that is not personally identifiable for otherpurposes.
 
-Rev. 6/2024
+Rev. Oct. 2024
