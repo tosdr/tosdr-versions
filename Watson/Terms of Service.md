@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
-* [People](https://www.watson.ch/fr/people/)
-* [Agression](https://www.watson.ch/fr/agression/)
 * [Zurich](https://www.watson.ch/fr/zurich/)
-* [Transports](https://www.watson.ch/fr/transports/)
-* [Tennis](https://www.watson.ch/fr/tennis/)
+* [People](https://www.watson.ch/fr/people/)
+* [Iran](https://www.watson.ch/fr/iran/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Liban](https://www.watson.ch/fr/liban/)
+* [Championnats du monde](https://www.watson.ch/fr/championnats-du-monde/)
+* [Agression](https://www.watson.ch/fr/agression/)
 * [Suisse alémanique](https://www.watson.ch/fr/suisse-alemanique/)
-* [Sciences](https://www.watson.ch/fr/sciences/)
-* [Argent](https://www.watson.ch/fr/argent/)
 * [Enfants](https://www.watson.ch/fr/enfants/)
+* [Interview](https://www.watson.ch/fr/interview/)
+* [Argent](https://www.watson.ch/fr/argent/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [France](https://www.watson.ch/fr/france/)
-* [tribunal](https://www.watson.ch/fr/tribunal/)
 * [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
-* [Carlos Alcaraz](https://www.watson.ch/fr/carlos-alcaraz/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Insolite](https://www.watson.ch/fr/insolite/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
