@@ -47,8 +47,8 @@
     
     [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    [5 Celebrities We're Begging To Read Memoirs From](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
-    ========================================================================================================================
+    [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    ====================================================================================================================
     
     While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
     
