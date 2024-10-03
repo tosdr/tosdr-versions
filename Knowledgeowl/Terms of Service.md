@@ -819,7 +819,7 @@ Table of Contents Table of Contents Toggle navigation
             
             * [What are author teams?](https://www.knowledgeowl.com/help/author-teams-intro)
             * [Create author teams](https://www.knowledgeowl.com/help/create-author-teams)
-            * [Change the order of author teams](https://www.knowledgeowl.com/help/change-the-order-of-author-teams)
+            * [Reorder author teams](https://www.knowledgeowl.com/help/change-the-order-of-author-teams)
             * [Restrict content to author teams](https://www.knowledgeowl.com/help/restrict-content-to-author-teams)
             * [Inherited author team restrictions](https://www.knowledgeowl.com/help/refining-inherited-author-team-restrictions)
             * [Remove author team restrictions](https://www.knowledgeowl.com/help/removing-author-team-restrictions)
