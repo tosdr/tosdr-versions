@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+* [![Madness in the Desert: Paris to Dakar](/wp-content/thumbnails/7774-100x70.jpg?x53432)
     
-    EP 4/6 The Private Life of Plants
+    Madness in the Desert: Paris to Dakar
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    In 1977 French motorcyclist Thierry Sabine was in serious trouble, lost in the Libyan desert and dying from thirst. Whilst most men would weep and think back over their lives, Thierry thought about co](https://documentaryheaven.com/madness-desert-paris-dakar/ "Madness in the Desert: Paris to Dakar")
+* [![In The Wild, With Robin Williams: Dolphins](/wp-content/thumbnails/8987-100x70.gif?x53432)
     
-    Pedigree Dogs Exposed
+    In The Wild, With Robin Williams: Dolphins
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The 9/11 Decade](/wp-content/thumbnails/6447-100x70.png?x53432)
+    A documentary from 1997 were the late Robin Williams goes on an adventure to the Bahamas and Hawaii trying to discover all there is to know about dolphins who happen to be some of the most endearing a](https://documentaryheaven.com/in-wild-with-robin-williams-dolphins/ "In The Wild, With Robin Williams: Dolphins")
+* [![Three Days That Shook Paris](/wp-content/thumbnails/14070-100x70.jpg?x53432)
     
-    The 9/11 Decade
+    Three Days That Shook Paris
     
-    Immediately after 9/11, the US announced that the gloves were coming off in the fight against al-Qaeda. In the first of three films on the aftermath of 9/11, we examine the highs and lows of the inte](https://documentaryheaven.com/the-911-decade/ "The 9/11 Decade")
-* [![Nuremberg: Nazis on Trial EP1/3](/wp-content/thumbnails/4724-100x70.png?x53432)
+    This is the story of the deadliest terror attack in France for over 50 years, 17 people murdered, dozens wounded, free speech under attack, a nation traumatised as the world looked on in horror but th](https://documentaryheaven.com/three-days-shook-paris/ "Three Days That Shook Paris")
+* [![Bobby Sands: The 1981 Hungerstrike](/wp-content/thumbnails/8628-100x70.jpg?x53432)
     
-    Nuremberg: Nazis on Trial EP1/3
+    Bobby Sands: The 1981 Hungerstrike
     
-    Episode 1: Albert Speer In November 1945, in the German city of Nuremberg, the victors of the World War Two began the first international war crimes trial. The choice of the city was significant for i](https://documentaryheaven.com/nuremberg-nazis-on-trial-1/ "Nuremberg: Nazis on Trial EP1/3")
-* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
+    The 1981 Irish hunger strike was the culmination of a five-year protest during "the Troubles" by Irish republican prisoners in Northern Ireland. The protest began as the blanket protest in 1976, when](https://documentaryheaven.com/bobby-sands-the-1981-hungerstrike/ "Bobby Sands: The 1981 Hungerstrike")
+* [![The Peoples Kitchen](/wp-content/thumbnails/8508-100x70.jpg?x53432)
     
-    Wired: South Korea
+    The Peoples Kitchen
     
-    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
+    The Peoples Kitchen is a project that happens each and every week in Dalston, London a group of volunteers meet and go around the area collecting food that would otherwise be thrown away as waste from](https://documentaryheaven.com/peoples-kitchen/ "The Peoples Kitchen")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
