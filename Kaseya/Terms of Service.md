@@ -355,6 +355,14 @@
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/10/ransomware-as-a-service-raas-600x400.jpeg)
+    
+    What is Ransomware-as-a-Service (RaaS)?
+    
+    October 3
+    
+    10 minute read](https://www.kaseya.com/blog/ransomware-as-a-service-raas/)
+    
     [![Automation](https://www.kaseya.com/wp-content/uploads/2024/09/rmm_automation-AdobeStock_220609182-600x400.jpeg)
     
     The RMM advantage: Automate IT processes to boost efficiency, cut costs and reduce burnout
@@ -362,14 +370,6 @@
     September 30
     
     8 minute read](https://www.kaseya.com/blog/rmm-solutions-automate-it-operations-efficiency/)
-    
-    [![](https://www.kaseya.com/wp-content/uploads/2024/04/kaseya-365-ushers-in-new-600x400.png)
-    
-    The Kaseya Advantage: 10 Years and $12B in the Making
-    
-    September 27
-    
-    2 minute read](https://www.kaseya.com/blog/the-kaseya-advantage-10-years-and-12b-in-the-making/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
