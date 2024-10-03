@@ -39,7 +39,7 @@ Best Buy Privacy Hub
 
 [View page as printable PDF](https://files.bbystatic.com/8b1b54c067add97428fa52dfe919ff4b/file_by_path/BestBuy_US/dam/Best-Buy-Privacy-Hub-241001-18df5ae8-8737-4c88-b3a0-95007de44b36.pdf)
 
-![Privacy discussion](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-32416-pm-privacy-190303_der-67672.jpg)
+![Privacy discussion](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-32416-pm-privacy-190303_der-67672.jpg?format=webp)
 
 A privacy resource for our customers.
 -------------------------------------
@@ -75,7 +75,7 @@ Protecting privacy on your devices.
 
 Customer privacy is a major priority at Best Buy, and we take great care to protect your information. The Best Buy Privacy Policy lays out the ways in which we gather and protect information, and how you can control your personal information. Read [How Best Buy Interacts with Your Devices](https://www.bestbuy.com/site/help-topics/privacy-policy/site/privacy-policy/devices/pcmcat1488391980823.c?id=pcmcat1488391980823) to learn more about our commitment to protecting your data and your privacy.
 
-[![](https://pisces.bbystatic.com/image2/BestBuy_US/dam/GL-32416-pol-ftc-identity-190303_der1-206902-1bf0d7da-9b91-422c-89e1-965443bc8ddc.png;maxHeight=130;maxWidth=192)](https://consumer.ftc.gov/features/identity-theft)
+[![](https://pisces.bbystatic.com/image2/BestBuy_US/dam/GL-32416-pol-ftc-identity-190303_der1-206902-1bf0d7da-9b91-422c-89e1-965443bc8ddc.png;maxHeight=130;maxWidth=192?format=webp)](https://consumer.ftc.gov/features/identity-theft)
 
 [FTC identity theft](https://consumer.ftc.gov/features/identity-theft)
 
@@ -112,7 +112,7 @@ While only required by a relatively small number of US states, we provide the fo
 * **Deletion**: You can ask us to delete certain personal information we have about you by submitting a [deletion request](https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete). Exceptions apply.
 * **Advertising Opt-Outs**: Some states have nuanced requirements that, for Best Buy, impact sharing of information for advertising purposes. We’ve provided the opportunity [to make an opt-out choice](https://www.bestbuy.com/sentry/landing?type=donottarget) that meets or exceeds applicable state-law requirements.
 
-![Consumer Data Privacy](https://pisces.bbystatic.com/image2/BestBuy_US/dam/GL-60026-pol-consumer-privacy-210217-210063-02268243-e40e-40f6-91ba-78e40ae884d2.png;maxHeight=700;maxWidth=350)
+![Consumer Data Privacy](https://pisces.bbystatic.com/image2/BestBuy_US/dam/GL-60026-pol-consumer-privacy-210217-210063-02268243-e40e-40f6-91ba-78e40ae884d2.png;maxHeight=700;maxWidth=350?format=webp)
 
 Collection
 ----------
