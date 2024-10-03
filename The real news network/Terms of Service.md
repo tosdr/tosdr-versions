@@ -104,14 +104,14 @@ Trending Posts
 
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
+* ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
 
 Close
 
@@ -168,14 +168,14 @@ Trending Posts
 
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
+* ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
 
 [Skip to content](#main)
 
@@ -367,14 +367,14 @@ Trending Posts
 
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
+* ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
