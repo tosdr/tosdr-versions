@@ -197,57 +197,56 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=122200613)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=13126873)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=90574509)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=60161502)  
+Tagline Brands
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=13211886)  
-Alliance Energy
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=11372482)  
+KTEN PARTS
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=130573577)  
-RADIO TYGERBERG 104FM NPC
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=71934090)  
+Mtunzini Group
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=117981108)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=52236203)  
+Tiny Cuddles Photography
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=82031309)  
-MONSTER SECURITY GUARDING
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=100869826)  
+Nilbet T/A Waterman
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=210103829)  
-TRACKFORCE (Pty) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=71431629)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=78167987)  
-Printo
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=7480262)  
+Enhle Oarabile Kea
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=39747259)  
-Frequency Fanatics (Pty) Ltd
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=28695766)  
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=11251460)  
-Vplay Grafix
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=114192292)  
+Multi CNC Solutions CC
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=177396214)  
-Waterfinatics Swim School
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=126230831)  
+SLOANE STAR MEAT MARKET
 
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=140864938)  
-Sportspro Management (Pty) Ltd
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=161787008)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=113734735)  
-West Coast Horse Trails
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=e6538b37b0661891ae9524943ebde8db44dd72b18af5590adf461330f25c25b6&c=13684219)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=177758656)  
 FJW Security Cc
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=206824509)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=63440910)  
+McKaynine Mobility
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=5a592b4e55541bbc971fcc37960205997803568cd2e71fae69e9ff5e113ea703&c=93518255)  
+Dombieterfontein (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
