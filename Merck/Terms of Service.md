@@ -24,7 +24,7 @@
         * [Executive team](https://www.merck.com/company-overview/leadership/executive-team/)
     * [Culture & values](https://www.merck.com/company-overview/culture-and-values/)
         * [Culture & values overview](https://www.merck.com/company-overview/culture-and-values/)
-        * [Code of conduct & compliance](https://www.merck.com/company-overview/culture-and-values/code-of-conduct/)
+        * [Code of conduct, ethics & compliance](https://www.merck.com/company-overview/culture-and-values/code-of-conduct/)
     * [Diversity & inclusion](https://www.merck.com/company-overview/diversity-and-inclusion/)
     * [Policies & positions](https://www.merck.com/company-overview/policies-and-positions/)
     * [Suppliers](https://www.merck.com/company-overview/suppliers/)
