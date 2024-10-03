@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_360x203.jpg)](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
+    *  [![](https://media.king5.com/assets/KREM/images/0f466b7f-9c6c-41ff-941e-f891fe2f38d8/20240919T001457/0f466b7f-9c6c-41ff-941e-f891fe2f38d8_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/0f466b7f-9c6c-41ff-941e-f891fe2f38d8/20240919T001457/0f466b7f-9c6c-41ff-941e-f891fe2f38d8_360x203.jpg)](https://www.king5.com/article/news/local/radioactive-waste-hanford-through-spokane/293-de936e54-fc8a-4f5d-807e-a174c1d1944f)
         
-        #### [Authorities searching for 'sexually violent predator' after he removed ankle monitor in Seattle](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b) [![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_360x203.jpg)](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
+        #### [Radioactive waste from Hanford Nuclear Site set to travel through Spokane](https://www.king5.com/article/news/local/radioactive-waste-hanford-through-spokane/293-de936e54-fc8a-4f5d-807e-a174c1d1944f)
         
-        #### ['Sexually violent predator' on loose in Seattle after removing ankle monitor](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
-    *  [![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_360x203.jpg)](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
+    *  [![](https://media.king5.com/assets/KGW/images/d9743722-6c98-4757-b4a6-f9aa07562e8b/d9743722-6c98-4757-b4a6-f9aa07562e8b_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/d9743722-6c98-4757-b4a6-f9aa07562e8b/d9743722-6c98-4757-b4a6-f9aa07562e8b_360x203.jpg)](https://www.king5.com/article/news/local/political-attack-ad-fact-check-joe-kent-3rd-district/283-d6331c19-cb57-44ab-82b9-dc2187153912)
         
-        #### [Police interviewing convicted child molesters to help parents protect kids](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
+        #### [Fact-check: Attack ad against Washington 3rd Congressional District candidate Joe Kent](https://www.king5.com/article/news/local/political-attack-ad-fact-check-joe-kent-3rd-district/283-d6331c19-cb57-44ab-82b9-dc2187153912)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+62°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
