@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-elite-heeft-al-lang-verloren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/mediaplichtig/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
