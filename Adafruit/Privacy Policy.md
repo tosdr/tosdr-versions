@@ -83,13 +83,13 @@ Search
     
     $1.50](https://www.adafruit.com/product/6054)
     
-    ![Angle Shot of the Raspberry Pi AI Camera.](https://cdn-shop.adafruit.com/230x173/6009-00.jpg)[Raspberry Pi AI Camera with Sony IMX500
-    
-    $70.00](https://www.adafruit.com/product/6009)
-    
     ![black, square-shaped breakout board with DVI and 22-pin FPC connectors connected to a black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/6055-01.jpg)[Adafruit RP2350 22-pin FPC HSTX to DVI Adapter for HDMI Displays
     
     $4.50](https://www.adafruit.com/product/6055)
+    
+    ![Demo Shot of the Lego Slide Switch.](https://cdn-shop.adafruit.com/230x173/6053-00.jpg)[Slide Switch Mount for LEGO-Compatible Brick Systems
+    
+    $0.95](https://www.adafruit.com/product/6053)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Being honest may not get you a lot of friends but it’ll always get you the right ones”
+“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
 
-[John Lennon](https://en.wikipedia.org/wiki/John_Lennon)
+[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
 
 [](https://www.adafruit.com/about)
 
