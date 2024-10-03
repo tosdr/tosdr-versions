@@ -22,7 +22,7 @@ Back
 
 [![Trimble](https://assets2.brandfolder.io/bf-boulder-prod/vrtrvr5w9hthwbxnrkf7hjn4/v/1006286746/original/TrimbleR-Horiz-RGB-White.svg)](https://www.sketchup.com/en/)
 
-Sign In[Create account](https://id.trimble.com/ui/sign_up.html)
+Sign InCreate account
 
 Explore Trimble
 
