@@ -1,6 +1,6 @@
 [To main content](#main)
 
-**[Send in your ideas. Deadline December 1, 2024](https://nlnet.nl/news/2024/20241201-call.html)**
+**[Send in your ideas. Deadline December 1, 2024](https://nlnet.nl/news/2024/20241001-call.html)**
 
 [![NLnet logo](/logo/banner.svg)](https://nlnet.nl/)
 
@@ -117,9 +117,9 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 ### News
 
-[Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241201-call.html) 2024-12-01
-
 [49 Free and Open Source Projects Receive NGI0 Core Grants](https://nlnet.nl/news/2024/20241003-announcing-Core-call.html) 2024-10-03
+
+[Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241001-call.html) 2024-10-01
 
 [NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
 
