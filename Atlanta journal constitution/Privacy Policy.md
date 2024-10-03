@@ -1,6 +1,4 @@
-[Breaking: President Biden will visit Georgia on Thursday to survey Helene damage](https://www.ajc.com/politics/president-biden-will-visit-georgia-on-thursday-to-survey-helene-damage/NUSQ4ERV4NF2ZBWR63GJS5WATM/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1705)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1705)](https://www.ajc.com/)
 
 Log In
 
@@ -23,7 +21,7 @@ Log In
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1698)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1705)
 
 * Quick Links
     
@@ -147,7 +145,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1698)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1705)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
