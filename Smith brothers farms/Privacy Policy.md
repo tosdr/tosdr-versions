@@ -190,7 +190,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (51)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (46)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (10)](https://www.smithbrothersfarms.com/on-special)
         
@@ -243,7 +243,7 @@ Hi
             
         * [Sliced Cheese (4)](https://www.smithbrothersfarms.com/sliced-cheese)
             
-        * [Shreds & Crumbles (12)](https://www.smithbrothersfarms.com/shreds-crumbles)
+        * [Shreds & Crumbles (11)](https://www.smithbrothersfarms.com/shreds-crumbles)
             
         * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
             
