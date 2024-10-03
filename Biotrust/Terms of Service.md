@@ -178,9 +178,9 @@ MY ACCOUNT expand
 
 [MY ACCOUNT expand](https://www.biotrust.com/account)
 
- [![Cart Icon](//www.biotrust.com/cdn/shop/t/41/assets/cart.png?v=66477680444600225761726098759)](https://www.biotrust.com/cart)[MY CART (0) items](https://www.biotrust.com/cart)
+ [![Cart Icon](//www.biotrust.com/cdn/shop/t/41/assets/cart_30x30.png?v=66477680444600225761726098759)](https://www.biotrust.com/cart)[MY CART (0) items](https://www.biotrust.com/cart)
 
-[![BioTRUST](//www.biotrust.com/cdn/shop/files/naturally-honest_911b83fb-85cd-42d6-8bc9-aab9bb97abb8_300x300.png?v=1674668138)
+[![BioTRUST](//www.biotrust.com/cdn/shop/files/naturally-honest_911b83fb-85cd-42d6-8bc9-aab9bb97abb8_300x102.png?v=1674668138)
 
 ![BioTRUST](//www.biotrust.com/cdn/shop/files/naturally-honest_911b83fb-85cd-42d6-8bc9-aab9bb97abb8_70x.png?v=1674668138)](https://www.biotrust.com/)
 
