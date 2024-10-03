@@ -1,3 +1,5 @@
+[Introducing Tanga Rewards - Shop & Save!](https://www.tanga.com/forum/blogs/fd381f4b352a/introducing-tanga-rewards-shop-save)
+
 [![tanga deals](https://assetcdn2.tanga.com/assets/logos/tanga_w_triangles_white-a57e9354ac73687f0c551b8efa53ff9f4aa5c867e79328b8f2ca1544d20aee93.svg)](https://www.tanga.com/)
 
 [Log In](https://www.tanga.com/login?return_path=%2Fpages%2Fterms-and-conditions) [Sign Up](https://www.tanga.com/users/new?return_path=%2Fpages%2Fterms-and-conditions)
@@ -10,7 +12,7 @@
 
 out of 5 based on
 
-74643
+74645
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
@@ -149,6 +151,11 @@ Support
 * [Customer Support](https://www.tanga.com/support)
 * [Shipping](https://help.tanga.com/hc/en-us/sections/202505046-Shipping)
 * [Returns](https://help.tanga.com/hc/en-us/articles/211368266-Can-I-Return-or-Exchange-My-Order-)
+
+Loyalty Rewards
+
+* [Rewards Program](https://www.tanga.com/rewards)
+* [Rewards FAQ](https://www.tanga.com/rewards-faq)
 
 Work With Us
 
