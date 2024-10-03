@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
+[![Can a ct scan tell if a lung nodule is cancerous?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous.jpg "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/ "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")
 
-[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
+[#### Can a CT Scan Tell If a Lung Nodule Is Cancerous?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/)
 
-[![What is utah hb90 law?](https://www.pintas.com/wp-content/uploads/2023/04/general-photo-300x200.jpg "What Is Utah HB90 Law?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/ "What Is Utah HB90 Law?")
+[![What type of lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-type-of-lung-cancer-is-caused-by-asbestos.jpg "What Type of Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/ "What Type of Lung Cancer Is Caused By Asbestos?")
 
-[#### What Is Utah HB90 Law?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/)
+[#### What Type of Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/)
 
-[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
+[![Who should i call if i suspect abuse at an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/personal-injury-assisted-living-accident-lawyer-who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility-300x160.jpg "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/ "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")
 
-[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
+[#### Who Should I Call if I Suspect Abuse at an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
