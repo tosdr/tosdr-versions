@@ -86,9 +86,9 @@ Sharethrough is a global omnichannel ad exchange, with a mission to provide user
 
 **Press**
 
-Complementary capabilities and inventory create a commercially scaled industry player with a powerful global presence.
+Equativ and Sharethrough commissioned independent research to explore how brands and agencies are adapting to the rapidly changing landscape.
 
-[Learn More →](https://www.sharethrough.com/company/press/sharethrough-and-equativ-are-merging)
+[Learn More →](https://www.sharethrough.com/company/press/79-of-adtech-leaders-prioritize-sustainability-and-social-issues-driving-demand-for-future-proof-partnerships)
 
 Resources
 
@@ -110,11 +110,11 @@ Stay up-to-date on our latest product updates, case studies and market analysis 
 
 **Recent Blog Post**
 
-Discover the New AI-Powered Features and Research Results of Sharethrough’s Upgraded Headline Analyzer
+Customer Satisfaction, Brand Safety, and Sustainability Among Top Priorities For Advertisers
 
-August 21, 2024
+October 3, 2024
 
-[Read Blog Post →](https://www.sharethrough.com/blog/discover-the-new-ai-powered-features-and-research-results-of-sharethroughs-upgraded-headline-analyzer)
+[Read Blog Post →](https://www.sharethrough.com/blog/customer-satisfaction-brand-safety-and-sustainability-among-top-priorities-for-advertisers)
 
 [Contact](https://www.sharethrough.com/contact)
 
