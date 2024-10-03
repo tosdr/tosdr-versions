@@ -1,6 +1,6 @@
-[Breaking: Conyers plant fire: Atlanta mayor advises staying indoors if haze reaches city](https://www.ajc.com/news/crime/conyers-plant-fire-atlanta-mayor-advises-staying-indoors-if-haze-reaches-city/CMXIGCNJXNEJBOK2YPRXOYCF6I/)
+[Breaking: Helene in Georgia: Death toll rises to 33; nearly 300K still without power](https://www.ajc.com/news/crime/helene-in-georgia-death-toll-rises-to-33-nearly-300k-still-without-power/CK5O5AUOPFBMLASFJD7I4PVTGY/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1706)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1706)](https://www.ajc.com/)
 
 Log In
 
@@ -16,7 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-are-music-festivals-ok/23DCOIKVSBDYRB42YNPJLVMERU/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend/FTTAUQNCPJCWFMLE7MG47IHV5A/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
@@ -24,7 +24,7 @@ Log In
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1698)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1706)
 
 * Quick Links
     
@@ -148,7 +148,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1698)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1706)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
