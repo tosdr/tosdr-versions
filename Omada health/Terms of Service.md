@@ -566,7 +566,7 @@ These Terms of Use (the “Terms”) cover your access to and use of our Service
 
 * our digitally based health care programs (the “Omada Programs”);1
 * our mobile applications, including Omada and Omada for Joint & Muscle Health (the “Apps”); 
-* the websites that we operate (including [go.omadahealth.com](http://go.omadahealth.com/) and [www.omadahealth.com](https://www.omadahealth.com/) and www.physera.com) (the “Sites”); and
+* the websites that we operate (including [go.omadahealth.com](https://go.omadahealth.com/) and [www.omadahealth.com](https://www.omadahealth.com/) and www.physera.com) (the “Sites”); and
 * all related services and features that we provide.
 
 Throughout these Terms, we distinguish between individuals that use different aspects of our Services with the following terms:2
@@ -702,7 +702,7 @@ WE HEREBY DISCLAIM ALL RESPONSIBILITY AND LIABILITY FOR THE COLLECTION AND USE B
 
 In connection with your participation in an Omada Program, we may provide you with Omada-Supplied Devices. The device manufacturers of some Omada-Supplied Devices have agreed that those devices will not ask you to read or consent to the device manufacturer’s terms of service, privacy policy, or other user agreements (the “Manufacturer User Agreements”) or prevent you from connecting your Omada-Supplied Device to the Services without first consenting to those agreements. The manufacturers of some other Omada-Supplied Devices (the “Devices with Additional Terms”) may ask you to read and consent to the Manufacturer User Agreements when you first activate the device and may prevent you from connecting your Devices with Additional Terms without first consenting to the Manufacturer User Agreements. 
 
-Some of the manufacturers of Devices with Additional Terms have agreed that, while you are a participant in the Services, the Manufacturer User Agreements will not apply to your use of those Devices with Additional Terms to the extent that they conflict with these Agreements. Those manufacturers of Devices with Additional Terms also have agreed that, while you are enrolled in the applicable Omada Program, only Omada’s [Privacy Policy](http://go.omadahealth.com/privacy) and [Notice of HIPAA Privacy Practices](http://go.omadahealth.com/hipaa-notice) and not the manufacturer’s privacy policy will apply to your use of the Devices with Additional Terms. If you have questions about whether the manufacturer of your Omada-Supplied Device has agreed to this arrangement, please contact us at support@omadahealth.com. Even where this arrangement is in place, if you continue to use any Device with Additional Terms after you terminate your account with us or after you are otherwise disenrolled or terminated from the Omada Program applicable to that device, the Manufacturer User Agreements will apply in full to your use of that Device with Additional Terms from that point forward.
+Some of the manufacturers of Devices with Additional Terms have agreed that, while you are a participant in the Services, the Manufacturer User Agreements will not apply to your use of those Devices with Additional Terms to the extent that they conflict with these Agreements. Those manufacturers of Devices with Additional Terms also have agreed that, while you are enrolled in the applicable Omada Program, only Omada’s [Privacy Policy](https://go.omadahealth.com/privacy) and [Notice of HIPAA Privacy Practices](https://go.omadahealth.com/hipaa-notice) and not the manufacturer’s privacy policy will apply to your use of the Devices with Additional Terms. If you have questions about whether the manufacturer of your Omada-Supplied Device has agreed to this arrangement, please contact us at support@omadahealth.com. Even where this arrangement is in place, if you continue to use any Device with Additional Terms after you terminate your account with us or after you are otherwise disenrolled or terminated from the Omada Program applicable to that device, the Manufacturer User Agreements will apply in full to your use of that Device with Additional Terms from that point forward.
 
 ### 12\. RIGHTS TO AND RESPONSIBILITIES FOR USER SUBMISSIONS
 
@@ -891,7 +891,7 @@ Estos Términos de uso (los “Términos”) tratan sobre su acceso a nuestros S
 
 * nuestros programas digitales de atención médica (los “Programas de Omada”);1
 * nuestras aplicaciones móviles, incluidas Omada y Omada for Joint & Muscle Health (las “Aplicaciones”); 
-* los sitios web que operamos (incluidos [go.omadahealth.com](http://go.omadahealth.com/) y [www.omadahealth.com](https://www.omadahealth.com/) y www.physera.com) (los “Sitios”) y
+* los sitios web que operamos (incluidos [go.omadahealth.com](https://go.omadahealth.com/) y [www.omadahealth.com](https://www.omadahealth.com/) y www.physera.com) (los “Sitios”) y
 * todos los servicios y las funciones relacionados que ofrecemos.
 
 A lo largo de estos Términos, distinguimos entre personas que utilizan diferentes aspectos de nuestros Servicios con los siguientes términos:2
