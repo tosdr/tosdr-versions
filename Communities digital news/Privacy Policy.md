@@ -26,57 +26,55 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ahmadinejad-1200x630.jpg)](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[Crazier than fiction! Head of Iranian spy group was an Israeli double agent](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-goldberg-levi-1200x630.jpg)](https://americanwirenews.com/whoopi-says-hollywood-is-a-very-right-leaning-town-after-shazam-star-backs-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-texas-el-paso-migrants-1200-x-628-1200x630.jpg)](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
 
-[Whoopi says Hollywood is ‘a very right-leaning town’ after ‘Shazam!’ star backs Trump](https://americanwirenews.com/whoopi-says-hollywood-is-a-very-right-leaning-town-after-shazam-star-backs-trump/)
+[GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1137737008-1200x630.jpg)](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-and-doug-emhoff-1200x630.jpg)](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
 
-[Hill sources: Congressional Republicans eye investigating China National Tobacco Corporation (CNTC) for alleged role in illegal vape distribution](https://americanwirenews.com/hill-sources-congressional-republicans-eye-investigating-china-national-tobacco-corporation-cntc-for-alleged-role-in-illegal-vape-distribution/)
+[Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-trump-1200x630.jpg)](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-1200x630.jpg)](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
 
-[Trump celebrates JD Vance after veep debate, rejects 2nd debate with Kamala: ‘Not looking to do it again’](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+[Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-vance-4-1200x630.jpg)](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-1200x630.jpg)](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
 
-[‘As promised’: JD Vance produces receipts on illegal immigrant impact on housing costs](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-wolfe-frank-fritz-1200x630.jpg)](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1200x630.jpg)](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
 
-[Rumors of a feud put to rest after death of ‘American Pickers’ star Frank Fritz](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-trump-harris-2-1200x630.jpg)](https://americanwirenews.com/new-poll-shows-trump-pulling-away-from-kamala-in-key-battleground-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joy-reid-1200x630.jpg)](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
 
-[New poll shows Trump pulling away from Kamala in key battleground state](https://americanwirenews.com/new-poll-shows-trump-pulling-away-from-kamala-in-key-battleground-state/)
+[Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-olivia-nuzzi-sg-ryan-lizza-1200x630.jpg)](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melaniafox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
 
-[Olivia Nuzzi: Ex-fiancé leaked details of ‘affair’ with RFK Jr in bizarre blackmail scheme](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
+[Melania Trump’s sit-down interview with Sean Hannity, part one](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-emhoff-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-1200x630.jpg)
 
-(Official White House Photo by Adam Schultz)
-
-### Kamala Harris’s husband accused of 2012 assault of ex-girlfriend](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
+### Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Jill Stein says Dems experiencing ‘fear of God’ over new polling, explains why Kamala can’t win](https://americanwirenews.com/green-party-candidate-jill-stein-may-be-the-spoiler-for-trump-that-no-one-saw-coming-report/)
+### [‘The government ain’t coming to save you’: North Carolina woman delivers urgent call to Americans](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
 
-### [‘Amazing’: Elon Musk releases game-changing Starlink Mini internet device and its timing was crucial](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
+### [Consequential demographic still fleeing Calif and NY for red states by the thousands](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
 
-### [Biden reportedly ‘stung’ as he becomes the lamest duck with little mention on Kamala’s campaign trail](https://americanwirenews.com/biden-reportedly-stung-as-he-becomes-the-lamest-duck-with-little-mention-on-kamalas-campaign-trail/)
+### [Longshoremen union boss slammed for fiery, threat-filled statement: ‘Things are about to get wild’](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
 
-### [John Kerry: A Democrat win would allow us to ‘change’ the First Amendment to stop ‘disinformation’](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
+### [‘Bold move’: Spirit Halloween claps back at ‘SNL’ for premier spoof](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
 
-### [Tim Walz likened to ‘Gavin Newsom in a flannel shirt’](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
+### [218,000 people in Ariz. who did not provide proof of citizenship will be allowed to vote, despite requirement](https://americanwirenews.com/218000-people-in-ariz-who-did-not-provide-proof-of-citizenship-will-be-allowed-to-vote-despite-requirement/)
 
-### [Controlled fire: Still no press conferences but Kamala does NBA ‘All the Smoke’ podcast](https://americanwirenews.com/controlled-fire-still-no-press-conferences-but-kamala-does-nba-all-the-smoke-podcast/)
+### [Man who claimed to have bomb at Trump rally makes a spectacle in court](https://americanwirenews.com/man-who-claimed-to-have-bomb-at-trump-rally-makes-a-spectacle-in-court/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -88,9 +86,43 @@ Search for:
 
 [So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ahmadinejad-220x180.jpg)](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+
+[Crazier than fiction! Head of Iranian spy group was an Israeli double agent](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-emhoff-220x180.jpg)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
+
+[Kamala Harris’s husband accused of 2012 assault of ex-girlfriend](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
+
+(Official White House Photo by Adam Schultz)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-trump-220x180.jpg)](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+
+[Trump celebrates JD Vance after veep debate, rejects 2nd debate with Kamala: ‘Not looking to do it again’](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-goldberg-levi-220x180.jpg)](https://americanwirenews.com/whoopi-says-hollywood-is-a-very-right-leaning-town-after-shazam-star-backs-trump/)
+
+[Whoopi says Hollywood is ‘a very right-leaning town’ after ‘Shazam!’ star backs Trump](https://americanwirenews.com/whoopi-says-hollywood-is-a-very-right-leaning-town-after-shazam-star-backs-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-trump-harris-2-220x180.jpg)](https://americanwirenews.com/new-poll-shows-trump-pulling-away-from-kamala-in-key-battleground-state/)
+
+[New poll shows Trump pulling away from Kamala in key battleground state](https://americanwirenews.com/new-poll-shows-trump-pulling-away-from-kamala-in-key-battleground-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-wolfe-frank-fritz-220x180.jpg)](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+
+[Rumors of a feud put to rest after death of ‘American Pickers’ star Frank Fritz](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-vance-4-220x180.jpg)](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+
+[‘As promised’: JD Vance produces receipts on illegal immigrant impact on housing costs](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaines-220x180.jpg)](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
 
 [‘Major win’ in culture war: U of New Mexico checked in ruling over ‘hefty’ fees for conservative speaker](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-olivia-nuzzi-sg-ryan-lizza-220x180.jpg)](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
+
+[Olivia Nuzzi: Ex-fiancé leaked details of ‘affair’ with RFK Jr in bizarre blackmail scheme](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/trump-gofundme-220x180.jpg)](https://americanwirenews.com/trump-gofundme-campaign-for-hurricane-victims-nears-4-million/)
 
@@ -143,44 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hostages-220x180.jpg)](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
 
 [American hostages told to fork over overdue tax bills to IRS upon return to U.S.](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-leigh-brown-hurricane-220x180.jpg)](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
-
-[‘The government ain’t coming to save you’: North Carolina woman delivers urgent call to Americans](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-city-traffic-220x180.jpg)](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
-
-[Consequential demographic still fleeing Calif and NY for red states by the thousands](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
-
-(Image: Pixabay)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-daggett-220x180.jpg)](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
-
-[Longshoremen union boss slammed for fiery, threat-filled statement: ‘Things are about to get wild’](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/ssg-snl-spirit-halloween-220x180.jpg)](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
-
-[‘Bold move’: Spirit Halloween claps back at ‘SNL’ for premier spoof](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-voter-data-error-220x180.jpg)](https://americanwirenews.com/218000-people-in-ariz-who-did-not-provide-proof-of-citizenship-will-be-allowed-to-vote-despite-requirement/)
-
-[218,000 people in Ariz. who did not provide proof of citizenship will be allowed to vote, despite requirement](https://americanwirenews.com/218000-people-in-ariz-who-did-not-provide-proof-of-citizenship-will-be-allowed-to-vote-despite-requirement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-rf-nauta-220x180.jpg)](https://americanwirenews.com/man-who-claimed-to-have-bomb-at-trump-rally-makes-a-spectacle-in-court/)
-
-[Man who claimed to have bomb at Trump rally makes a spectacle in court](https://americanwirenews.com/man-who-claimed-to-have-bomb-at-trump-rally-makes-a-spectacle-in-court/)
-
-Image via Kent County Jail
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-swift-guitar-220x180.jpg)](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
-
-[Texas man pays $4K for guitar autographed by Taylor Swift, then he grabs a hammer…](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-helene-220x180.jpg)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
-
-[Trump treated as if ‘he is a sitting president’ amid Helene rescue efforts and shatters donation goal](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
-
-(Photo by Michael M. Santiago/Getty Images)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -242,9 +236,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wilmore-williams-spacex-1200x630.jpg)](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-2-1200x630.jpg)](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
 
-[‘Elon to the rescue!’ SpaceX launches mission to get stranded astronauts home](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
+[‘Amazing’: Elon Musk releases game-changing Starlink Mini internet device and its timing was crucial](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-2-220x180.jpg)](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
+
+[‘Amazing’: Elon Musk releases game-changing Starlink Mini internet device and its timing was crucial](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wilmore-williams-spacex-220x180.jpg)](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
 
@@ -262,35 +260,35 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Pro-cop coffee shop owner awarded $4 million in free speech lawsuit against university](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-geordi-220x180.png)](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
-
-[Elon Musk’s innovative brilliance leads to new device that enables the blind to see](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-firearm-lock-1200x630.jpg)](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-helene-1200x630.jpg)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
 
-[Florida city police chief bans guns after declaring state of emergency, prompts swift reaction](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+(Photo by Michael M. Santiago/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-firearm-lock-220x180.jpg)](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+[Trump treated as if ‘he is a sitting president’ amid Helene rescue efforts and shatters donation goal](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
 
-[Florida city police chief bans guns after declaring state of emergency, prompts swift reaction](https://americanwirenews.com/florida-city-police-chief-bans-guns-after-declaring-state-of-emergency-prompts-swift-reaction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-helene-220x180.jpg)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/tim-walz-is-more-famous-for-lies-than-joe-biden-so-how-will-you-tell-at-tonights-debate/)
+[Trump treated as if ‘he is a sitting president’ amid Helene rescue efforts and shatters donation goal
 
-[Tim Walz is more famous for lies than Joe Biden, so how will you tell at tonight’s debate?](https://americanwirenews.com/tim-walz-is-more-famous-for-lies-than-joe-biden-so-how-will-you-tell-at-tonights-debate/)
+(Photo by Michael M. Santiago/Getty Images)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalateeth-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/october-surprise-psyop-is-the-dock-strike-staged-so-kamala-can-swoop-in-and-save-the-day/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jill-stein-220x180.jpg)](https://americanwirenews.com/green-party-candidate-jill-stein-may-be-the-spoiler-for-trump-that-no-one-saw-coming-report/)
 
-[October surprise psyop! Is the dock strike staged so Kamala can swoop in and save the day?](https://americanwirenews.com/october-surprise-psyop-is-the-dock-strike-staged-so-kamala-can-swoop-in-and-save-the-day/)
+[Jill Stein says Dems experiencing ‘fear of God’ over new polling, explains why Kamala can’t win](https://americanwirenews.com/green-party-candidate-jill-stein-may-be-the-spoiler-for-trump-that-no-one-saw-coming-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-RudyGiulianiSpeaks-1200-x-628-220x180.jpg)](https://americanwirenews.com/rudy-giulianis-leftist-daughter-endorses-kamala-harris-in-the-most-victim-like-way-possible/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-harris-220x180.jpg)](https://americanwirenews.com/biden-reportedly-stung-as-he-becomes-the-lamest-duck-with-little-mention-on-kamalas-campaign-trail/)
 
-[Rudy Giuliani’s leftist daughter endorses Kamala Harris in the most victim-like way possible](https://americanwirenews.com/rudy-giulianis-leftist-daughter-endorses-kamala-harris-in-the-most-victim-like-way-possible/)
+[Biden reportedly ‘stung’ as he becomes the lamest duck with little mention on Kamala’s campaign trail](https://americanwirenews.com/biden-reportedly-stung-as-he-becomes-the-lamest-duck-with-little-mention-on-kamalas-campaign-trail/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sanders-220x180.jpg)](https://americanwirenews.com/nervous-dems-distance-themselves-from-comrade-bernies-move-to-block-israel-aid/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kerry-220x180.jpg)](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
 
-[Nervous Dems distance themselves from Comrade Bernie’s move to block Israel aid](https://americanwirenews.com/nervous-dems-distance-themselves-from-comrade-bernies-move-to-block-israel-aid/)
+[John Kerry: A Democrat win would allow us to ‘change’ the First Amendment to stop ‘disinformation’](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tom-emmer-220x180.png)](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
+
+[Tim Walz likened to ‘Gavin Newsom in a flannel shirt’](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -320,11 +318,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-515218066-1200x630.jpg)](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-swift-guitar-1200x630.jpg)](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
 
-Getty Images
+[Texas man pays $4K for guitar autographed by Taylor Swift, then he grabs a hammer…](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
 
-[Reactions pour in after death of controversial baseball legend](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-swift-guitar-220x180.jpg)](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
+
+[Texas man pays $4K for guitar autographed by Taylor Swift, then he grabs a hammer…](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-515218066-220x180.jpg)](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
 
@@ -345,9 +345,5 @@ Images via Washington County Tennessee Sheriff's Office](https://americanwirenew
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-robschneider-mutombo-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
 
 [Actor suggests NBA legend’s death may be linked to COVID jabs](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-u.s.-immigration-and-customs-enforcement-erik-evans-bryan-daniel-aldana-arevalo-split-220x180.jpg)](https://americanwirenews.com/string-of-alleged-migrant-sex-crimes-has-nantucket-parents-fearful-for-their-children/)
-
-[String of alleged migrant sex crimes has Nantucket parents fearful for their children](https://americanwirenews.com/string-of-alleged-migrant-sex-crimes-has-nantucket-parents-fearful-for-their-children/)
 
 © 2024. All Rights Reserved. American Wire News
