@@ -223,16 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -244,6 +234,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar/vid-buff.jpg?itok=mBG4cXbs)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/price-stories/rezignacija/resignation/rezignacija-vii.?itok=1kGpGzxF)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/price-stories/rezignacija-resignation)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/decani-jug.jpg?itok=1ZqaymLd)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/decov.jpg?itok=CkXI0jyT)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Prepisivanje života - kada država ne radi svoj posao](http://seecult.org/vest/prepisivanje-zivota-kada-drzava-ne-radi-svoj-posao)
 * [Palestinci i Izraelci na Slobodnoj zoni](http://seecult.org/vest/palestinci-i-izraelci-na-slobodnoj-zoni)
 * [Koskar 18. FSFF-a Aleksi Gajiću](http://seecult.org/vest/koskar-18-fsff-aleksi-gajicu)
 * [Početak 56. Bemusa u znaku Jonasa Kaufmana](http://seecult.org/vest/pocetak-56-bemusa-u-znaku-jonasa-kaufmana)
@@ -349,10 +350,10 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Optimistično dezorijentisani - 13. GoetheFEST](http://seecult.org/vest/optimisticno-dezorijentisani-13-goethefest)
 * [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
 * [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
-* [Počeo 18. Festival srpskog filma fantastike](http://seecult.org/vest/poceo-18-festival-srpskog-filma-fantastike)
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za 4. Međunarodno bijenale litografije](http://seecult.org/konkurs/konkurs-za-4-medunarodno-bijenale-litografije)
 * [Konkurs za volontere jubilarnog, 20. Filmskog festivala Slobodna zona](http://seecult.org/konkurs/konkurs-za-volontere-jubilarnog-20-filmskog-festivala-slobodna-zona)
 * [Produžen konkurs za otkup dela vizuelnih umetnosti - Slika grada](http://seecult.org/konkurs/produzen-konkurs-za-otkup-dela-vizuelnih-umetnosti-slika-grada)
 * [Konkurs za 31. Jesenji likovni salon u Velikoj Plani](http://seecult.org/konkurs/konkurs-za-31-jesenji-likovni-salon-u-velikoj-plani)
@@ -360,7 +361,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Konkurs za prijavu filmova za 15. MikroFAF – Fresh Frames](http://seecult.org/konkurs/konkurs-za-prijavu-filmova-za-15-mikrofaf-fresh-frames)
 * [Kulturpunktova novinarska školica u Zagrebu i onlajn](http://seecult.org/konkurs/kulturpunktova-novinarska-skolica-u-zagrebu-i-onlajn)
 * [Konkurs za stipendije Žarana Papić](http://seecult.org/konkurs/konkurs-za-stipendije-zarana-papic-0)
-* [Konkurs za izlaganje na Trijenalu crteža i male plastike](http://seecult.org/konkurs/konkurs-za-izlaganje-na-trijenalu-crteza-i-male-plastike)
 
 * [Kritika](#tab2_1)
 
