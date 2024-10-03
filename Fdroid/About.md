@@ -172,10 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Earliest next update in...](https://f-droid.org/en/2024/10/03/twif.html) Oct 03, 2024
 * [DNS security and "bus factor" improvements](https://f-droid.org/en/2024/09/30/dns-security-and-bus-factor-improvements.html) Sep 30, 2024
 * [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
+* [F-Droid website now available in Czech!](https://f-droid.org/en/2024/09/23/czech-language.html) Sep 23, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
-* [Encode your nostalgia](https://f-droid.org/en/2024/09/12/twif.html) Sep 12, 2024
-* [Voice your updates](https://f-droid.org/en/2024/09/05/twif.html) Sep 05, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.271](https://gitlab.com/fdroid/fdroid-website/tree/8d1a92ca0d)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.272](https://gitlab.com/fdroid/fdroid-website/tree/0d3f5540a0)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
