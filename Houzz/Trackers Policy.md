@@ -515,37 +515,37 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Furniture Sale Sale](https://www.houzz.com/sales)
+[Living Room Sale Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Furniture Sale](https://www.houzz.com/sales)
+[Living Room Sale](https://www.houzz.com/sales)
 
-[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/7201a34306f4de7b_3771-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Living Room Seating Sale](https://st.hzcdn.com/fimgs/2511be0c06fdd435_0965-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 50% OFF
+UP TO 60% OFF
 
-The Ultimate Vanity Sale](https://www.houzz.com/ideabooks/108801176) 
+The Ultimate Living Room Seating Sale](https://www.houzz.com/ideabooks/105958620) 
 
-[![The Ultimate Dining Room Sale](https://st.hzcdn.com/fimgs/2511271206f4de79_3769-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 70% OFF
-
-The Ultimate Dining Room Sale](https://www.houzz.com/ideabooks/114561520) 
-
-[![The Ultimate Living Room Furniture Sale](https://st.hzcdn.com/fimgs/7de1a35406f4de7a_3770-w150-h150-b0-p0--home-design.jpg)
+[![Living Room Furniture Sale](https://st.hzcdn.com/fimgs/16215ad606fdd43a_0971-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
-The Ultimate Living Room Furniture Sale](https://www.houzz.com/ideabooks/120775457) 
+Living Room Furniture Sale](https://www.houzz.com/ideabooks/150611099) 
 
-[![The Ultimate Bedroom Sale](https://st.hzcdn.com/fimgs/ea71cb4c06f4de74_3766-w150-h150-b0-p0--home-design.jpg)
+[![Earth Tones for Lighting & Decor](https://st.hzcdn.com/fimgs/9dc152ac06fdd438_0968-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 65% OFF
+TRENDING NOW
 
-The Ultimate Bedroom Sale](https://www.houzz.com/ideabooks/120778100) 
+Earth Tones for Lighting & Decor](https://www.houzz.com/ideabooks/166749683) 
+
+[![Rugs With Free Shipping](https://st.hzcdn.com/fimgs/bb31d9e706fdd439_0970-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 70% OFF
+
+Rugs With Free Shipping](https://www.houzz.com/ideabooks/177333062) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/fdf1162a06f55fb6_6869-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
