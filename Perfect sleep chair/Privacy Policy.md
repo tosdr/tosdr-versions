@@ -440,8 +440,6 @@ Technical Specs & Manual
 
 [**Click here to watch the Perfect Sleep Chair unboxing and assembly video (2:50)**](https://www.shopjourney.com/products/perfect-sleep-chair# "https://www.shopjourney.com/products/perfect-sleep-chair#")
 
-[**Download Perfect Sleep Chair Specs**](https://cdn.shopify.com/s/files/1/0556/3016/8147/files/PSC_Comparison_Sheet_12-13-23.pdf?v=1707502472 "https://cdn.shopify.com/s/files/1/0556/3016/8147/files/PSC_Comparison_Sheet_12-13-23.pdf?v=1707502472")
-
 [**Download PSC Deluxe Manual**](https://cdn.shopify.com/s/files/1/0556/3016/8147/files/Perfect_Sleep_Chair_Deluxe_Manual_v2.pdf?v=1707502722 "https://cdn.shopify.com/s/files/1/0556/3016/8147/files/Perfect_Sleep_Chair_Deluxe_Manual_v2.pdf?v=1707502722")
 
 [**Download PSC Deluxe Plus Manual**](https://cdn.shopify.com/s/files/1/0556/3016/8147/files/Perfect_Sleep_Chair_Deluxe_Plus_Manual_v2.pdf?v=1707502722 "https://cdn.shopify.com/s/files/1/0556/3016/8147/files/Perfect_Sleep_Chair_Deluxe_Plus_Manual_v2.pdf?v=1707502722")
