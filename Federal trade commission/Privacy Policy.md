@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Refunds to Consumers Who Bought Pyrex Glass Manufacturer’s Products Falsely Advertised as Made in USA](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-refunds-consumers-who-bought-pyrex-glass-manufacturers-products-falsely-advertised-made)
+    ### [FTC Sends More Than $1.1 Million in Refunds to Consumers Deceived by Bait-and-Switch Ads for LASIK Vision Correction Procedures](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-11-million-refunds-consumers-deceived-bait-switch-ads-lasik-vision-correction)
     
-    October 1, 2024
+    October 3, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
