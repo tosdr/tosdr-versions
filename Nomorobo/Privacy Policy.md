@@ -7,6 +7,7 @@
 * [How it Works](https://www.nomorobo.com/#learn)
 * [FAQ's](https://www.nomorobo.com/#faq)
 * [Pricing](https://www.nomorobo.com/#pricing)
+* [Election 2024](https://www.nomorobo.com/election2024)
 * [Log in](https://www.nomorobo.com/login)
 * [Get Started](https://www.nomorobo.com/signup)
 
@@ -810,6 +811,8 @@ Covered by US Patent #9,288,319.
 
 ###### Discover
 
+* [Election 2024 Robocalls](https://www.nomorobo.com/election2024)
+    
 * [Auto Warranty Robocalls](https://www.nomorobo.com/autowarranty)
     
 * [Coronavirus Robocalls](https://www.nomorobo.com/coronavirus)
