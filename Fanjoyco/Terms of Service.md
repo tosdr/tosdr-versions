@@ -28,7 +28,7 @@
     
 * [Create Your Own](https://fanjoy.co/pages/partner)
 
-[Log in](https://fanjoy.co/customer_identity/redirect?locale=en)
+[Log in](https://fanjoy.co/customer_identity/redirect?locale=en&region_country=US)
 
 Country/region
 --------------
@@ -73,7 +73,7 @@ United States | USD $
 * [United Kingdom GBP £](#)
 * [United States USD $](#)
 
- Search [Log in](https://fanjoy.co/customer_identity/redirect?locale=en) [Cart](https://fanjoy.co/cart)
+ Search [Log in](https://fanjoy.co/customer_identity/redirect?locale=en&region_country=US) [Cart](https://fanjoy.co/cart)
 
 Item added to your cart
 -----------------------
