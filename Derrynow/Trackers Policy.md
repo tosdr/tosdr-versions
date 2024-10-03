@@ -266,12 +266,14 @@ Most Popular
 [Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Spacious Derry four-bed hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spacious Derry four-bed hits the market")](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
+[![Derry man who left bag of drugs behind in tanning salon jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who left bag of drugs behind in tanning salon jailed")](https://www.derrynow.com/news/local-news/1620907/derry-man-who-left-bag-of-drugs-behind-in-tanning-salon-jailed.html)
 
-[Property](https://www.derrynow.com/section/1232/property)
+Derry Magistrate's Court
 
-[PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who left bag of drugs behind in tanning salon jailed](https://www.derrynow.com/news/local-news/1620907/derry-man-who-left-bag-of-drugs-behind-in-tanning-salon-jailed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
 
@@ -279,13 +281,6 @@ Most Popular
 
 [Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut")](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
-
-[Home](https://www.derrynow.com/)
-
-['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman who told shop owner to 'go back to the s--t hole you came from' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who told shop owner to 'go back to the s--t hole you came from' jailed")](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
 
@@ -296,6 +291,36 @@ Derry Magistrate's Court
 [Woman who told shop owner to 'go back to the s--t hole you came from' jailed](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Kneecap set to rock Derry's St Columb's Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap set to rock Derry's St Columb's Park")](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
+
+Kneecap will play in November
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry woman is the face of new breast cancer awareness campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman is the face of new breast cancer awareness campaign")](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
 
 Hive Cancer Support member Theresa Kelly pictured centre at the launch of the new Hive Cancer Support Breast Cancer Awareness campaign at the back of Free Derry Corner.
@@ -305,35 +330,14 @@ Hive Cancer Support member Theresa Kelly pictured centre at the launch of the ne
 [Derry woman is the face of new breast cancer awareness campaign](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+[![Two men returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
-
-[Home](https://www.derrynow.com/)
-
-[Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Graffiti attack at Creggan Neighbourhood Partnership condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graffiti attack at Creggan Neighbourhood Partnership condemned")](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Graffiti attack at Creggan Neighbourhood Partnership condemned](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Traffic delays in Cookstown Road area of Moneymore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Traffic delays in Cookstown Road area of Moneymore")](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
-
-The PSNI
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Traffic delays in Cookstown Road area of Moneymore](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -354,6 +358,13 @@ Multimedia
 
 [PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: The University Roadshow comes to County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: The University Roadshow comes to County Derry")](https://www.derrynow.com/story-telling/local-news/1619167/in-pictures-the-university-roadshow-comes-to-county-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[IN PICTURES: The University Roadshow comes to County Derry](https://www.derrynow.com/story-telling/local-news/1619167/in-pictures-the-university-roadshow-comes-to-county-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!")](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
 
@@ -403,13 +414,6 @@ Multimedia
 
 [Throwback Tuesday: Out and About @ MacMillan Coffee Morning at St. Patrick's College, Dungiven (2014)](https://www.derrynow.com/story-telling/pictures---videos/1618148/throwback-tuesday-out-and-about-macmillan-coffee-morning-at-st-patrick-s-college-dungiven-2014.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Hurt open new state-of-the-art premises in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hurt open new state-of-the-art premises in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Hurt open new state-of-the-art premises in Derry](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,53 +515,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+[![LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter")](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DfI urged to approve safety upgrade at Derry's Caw roundabout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DfI urged to approve safety upgrade at Derry's Caw roundabout")](https://www.derrynow.com/news/local-news/1621014/dfi-urged-to-approve-safety-upgrade-at-derry-s-caw-roundabout.html)
+[![County Derry businesses recognised at Tourism NI event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry businesses recognised at Tourism NI event")](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
 
-Caw roundabout
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[DfI urged to approve safety upgrade at Derry's Caw roundabout](https://www.derrynow.com/news/local-news/1621014/dfi-urged-to-approve-safety-upgrade-at-derry-s-caw-roundabout.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Hutchinson-1727954169963.jpg--.jpg?1727954170557 "Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity")](https://www.derrynow.com/news/home/1620887/kilrea-company-hutchinson-creating-57-jobs-in-a-multi-million-pound-investment-to-boost-productivity.html)
-
-Jeremy Fitch, Director of Business Growth Group, Invest NI; Mark Hutchinson, CEO, Hutchinson; Economy Minister Conor Murphy; and Richard Hutchinson, Innovation Director, Hutchinson.
+David Douglas, from Derrie Danders Walking and Audio Tours, Dermot Friel from Friel’s Bar and Restaurant with Dr Vicky Kell and Eimear Callaghan.
 
 [Home](https://www.derrynow.com/)
 
-[Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity](https://www.derrynow.com/news/home/1620887/kilrea-company-hutchinson-creating-57-jobs-in-a-multi-million-pound-investment-to-boost-productivity.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry businesses recognised at Tourism NI event](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Stormont intends to assume responsibility for City of Derry Airport](https://www.derrynow.com/resizer/165/93/true/1634216177518.jpg--.jpg?1634216177000 "Stormont intends to assume responsibility for City of Derry Airport")](https://www.derrynow.com/news/local-news/1620957/stormont-intends-to-assume-responsibility-for-city-of-derry-airport.html)
+[![Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/resizer/165/93/true/2024_08_21/F4_-_MT3424432JOC_-_Copy-1724259144603.jpg--.jpg?1724259144749 "Kneecap set to rock Derry's St Columb's Park")](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Stormont intends to assume responsibility for City of Derry Airport](https://www.derrynow.com/news/local-news/1620957/stormont-intends-to-assume-responsibility-for-city-of-derry-airport.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+Kneecap will play in November
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Executive on track to raise £113m target without need for new revenue measures](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_03/1727957102824_0.jpg--.jpg?1727957102978 "Executive on track to raise £113m target without need for new revenue measures")](https://www.derrynow.com/news/local-news/1621171/executive-on-track-to-raise-113m-target-without-need-for-new-revenue-measures.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Executive on track to raise £113m target without need for new revenue measures](https://www.derrynow.com/news/local-news/1621171/executive-on-track-to-raise-113m-target-without-need-for-new-revenue-measures.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Culmore_Community_Play_Park-1727968204509.jpg--.jpg?1727968204540 "Contractor appointed for Culmore Community Play Park")](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
