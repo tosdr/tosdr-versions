@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>11:36pm |
-| Love You, Miss You, Mean ItLuke Bryan<br><br>11:32pm |
-| 4x4xuLainey Wilson<br><br>11:29pm |
-| Thinkin 'Bout MeMorgan Wallen<br><br>11:26pm |
-| Thinking 'Bout YouDustin Lynch Ft Mackenzie Porter<br><br>11:23pm |
+| Gone CountryAlan Jackson<br><br>4:57am |
+| Church BellsCarrie Underwood<br><br>4:54am |
+| Gonna Love YouParmalee<br><br>4:52am |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:48am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>4:46am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Sports • Midwest
+Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
