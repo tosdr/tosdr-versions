@@ -64,4 +64,4 @@ This policy is effective as of **2024-25-12**
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [\[email protected\]](https://ornet.io/cdn-cgi/l/email-protection).You can also contact us with your ideas about privacy and UI improvements.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [OrNET support](https://strongerapps.freshdesk.com/support/home).You can also contact us with your ideas about privacy and UI improvements.
