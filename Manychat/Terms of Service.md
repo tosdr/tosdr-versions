@@ -8,9 +8,9 @@ Instagram](https://manychat.com/product/instagram)[![](https://mccdn.me/martech/
 
 WhatsApp](https://manychat.com/product/whatsapp)[![](https://mccdn.me/martech/next-lp//_next/static/media/messenger.aac6546b.svg)
 
-Messenger](https://manychat.com/product/messenger-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/sms.b1647791.svg)
+Messenger](https://manychat.com/product/messenger-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/ai.9f66e1b4.svg)
 
-SMS](https://manychat.com/sms-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/integrations.56fc2a5f.svg)
+Manychat AI](https://manychat.com/product/ai)[![](https://mccdn.me/martech/next-lp//_next/static/media/integrations.56fc2a5f.svg)
 
 Integrations](https://manychat.com/integrations)
 
@@ -72,11 +72,11 @@ Connect with your Customers Instantly](https://manychat.com/product/whatsapp)[![
 
 Messenger
 
-Facebook Messenger chatbot #1](https://manychat.com/product/messenger-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/sms.b1647791.svg)
+Facebook Messenger chatbot #1](https://manychat.com/product/messenger-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/ai.9f66e1b4.svg)
 
-SMS
+Manychat AI
 
-Text with Customers](https://manychat.com/sms-marketing)[![](https://mccdn.me/martech/next-lp//_next/static/media/integrations.56fc2a5f.svg)
+A Smarter Way to Chat Automation](https://manychat.com/product/ai)[![](https://mccdn.me/martech/next-lp//_next/static/media/integrations.56fc2a5f.svg)
 
 Integrations
 
@@ -527,6 +527,7 @@ Product
 
 * [Messenger](https://manychat.com/product/messenger-marketing)
 * [Instagram](https://manychat.com/product/instagram)
+* [Manychat AI](https://manychat.com/product/ai/)
 * [SMS Marketing](https://manychat.com/sms-marketing)
 * [Integrations](https://manychat.com/integrations)
 * [For eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)
