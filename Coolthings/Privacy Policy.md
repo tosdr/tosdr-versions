@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
+    
+    [Govee Christmas String Lights 2 Offers Unique Customizations, AI Light Effects, and More](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/garmin-inreach-messenger-plus-satellite-communicator-picture-voice-messaging/)
     
     [Garmin InReach Messenger Plus Adds Picture and Voice Messaging to the Satellite Communicator](https://www.coolthings.com/garmin-inreach-messenger-plus-satellite-communicator-picture-voice-messaging/)
@@ -24,11 +29,6 @@
     
     [Yashica Explorer Night Vision Goggles Allow Full Color Visibility in Very Low Light Situations](https://www.coolthings.com/yashica-explorer-night-vision-goggles-full-color-low-light-black-white-pitch-darkness/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/logitech-mx-creative-console-customizable-controls-display-buttons-dial-wheel/)
-    
-    [Logitech MX Creative Console Brings Stream Deck-Style Display Buttons to Photoshop, Premiere Pro, and Other Creative Apps](https://www.coolthings.com/logitech-mx-creative-console-customizable-controls-display-buttons-dial-wheel/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
+    
+    [Bose SoundLink Home May Be the Most Stylish Portable Speaker We’ve Seen](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-insulated-lunch-boxes-for-packing-your-meals-at-work/)
     
     [The Best Insulated Lunch Boxes for Packing Your Meals at Work](https://www.coolthings.com/the-best-insulated-lunch-boxes-for-packing-your-meals-at-work/)
@@ -52,11 +57,6 @@
     
     [The Best Key Organizers to Help Tidy Up Your EDC](https://www.coolthings.com/the-best-key-organizers-to-help-tidy-up-your-edc/)
     --------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jayflex-hyperbell-cable-dumbbell-cable-machine-pullup-bar/)
-    
-    [Jayflex Hyperbell Cable Turns Any Pull-Up Bar into a Functional Cable Machine](https://www.coolthings.com/jayflex-hyperbell-cable-dumbbell-cable-machine-pullup-bar/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
+    
+    [Govee Christmas String Lights 2 Offers Unique Customizations, AI Light Effects, and More](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-bidet-attachments-to-improve-your-bathroom-experience/)
     
     [The Best Bidet Attachments to Improve Your Bathroom Experience](https://www.coolthings.com/the-best-bidet-attachments-to-improve-your-bathroom-experience/)
@@ -104,11 +109,6 @@
     
     [Backup by BioLite Offers a Simpler Way to Add Backup Battery Power to Your Home](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
-    
-    [The Best Wi-Fi Wireless Speakers to Enjoy Room-Filling Sound in Your Home](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
