@@ -475,7 +475,7 @@ Mobile Menu
         * [Solar Power Initiatives](https://www.cityofgp.com/city-services/energy/solar-power-initiatives)
     * [Environment](https://www.cityofgp.com/city-services/environment)
         * [FireSmart™](https://www.cityofgp.com/city-services/environment/firesmarttm)
-            * [FRIAA FireSmart™ Vegetation Management Program](https://www.cityofgp.com/vegmanagement)
+            * [FireSmart™ Vegetation Management Program](https://www.cityofgp.com/vegmanagement)
         * [GP Grows](https://www.cityofgp.com/city-services/environment/gp-grows)
         * [Naturalization](https://www.cityofgp.com/city-services/environment/naturalization)
         * [Park Maintenance](https://www.cityofgp.com/city-services/environment/park-maintenance)
