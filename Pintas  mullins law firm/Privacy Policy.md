@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
+[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
 
-[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
+[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
 
-[![Suing for abuse at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility-300x200.jpg "Suing for Abuse at Assisted Living Facilities")](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/ "Suing for Abuse at Assisted Living Facilities")
+[![Can you have lung cancer and not know it?](https://www.pintas.com/wp-content/uploads/2020/11/can-you-have-lung-cancer-and-not-know-it.jpg "Can You Have Lung Cancer and Not Know it?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-and-not-know-it/ "Can You Have Lung Cancer and Not Know it?")
 
-[#### Suing for Abuse at Assisted Living Facilities](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/)
+[#### Can You Have Lung Cancer and Not Know it?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-and-not-know-it/)
 
-[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
+[![Elderly risk in extreme assisted living temps](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities-scaled.jpg "Elderly Risk in Extreme Assisted Living Temps")](https://www.pintas.com/faq/why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities/ "Elderly Risk in Extreme Assisted Living Temps")
 
-[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
+[#### Elderly Risk in Extreme Assisted Living Temps](https://www.pintas.com/faq/why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -352,7 +352,7 @@ Chicago, IL 60654
 * [San Jose](https://www.pintas.com/near-me/california/san-jose/clergy-abuse-lawyer)
 * [San Diego](https://www.pintas.com/near-me/california/san-diego/nursing-home-abuse-lawyer)
 
-© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms of Use](https://www.pintas.com/website-terms-of-use/) | [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)
+© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms of Use](https://www.pintas.com/website-terms-of-use/) | [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) | [Data Request](https://www.pintas.com/data-request/)
 
 The information on this website is for general information purposes only. Nothing on this site should be taken as legal advice for  
 any individual case or situation. This information is not intended to create, and receipt or viewing does not constitute, an  
