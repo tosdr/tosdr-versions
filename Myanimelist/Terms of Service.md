@@ -448,6 +448,6 @@ If you have questions about our Services, you can find additional information at
 
 [Tokyo Otaku Mode](http://otakumode.com/fb/5aO) [Honeyfeed](https://www.honeyfeed.fm/) [Manga Store](https://myanimelist.net/store?_location=mal_f_m)
 
-MyAnimeList.net is a property of MyAnimeList Co.,Ltd. ©2024 All Rights Reserved.
+MyAnimeList.net is a property of MyAnimeList Co., Ltd. ©2024 All Rights Reserved.
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
