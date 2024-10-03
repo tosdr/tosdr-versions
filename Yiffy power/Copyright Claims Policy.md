@@ -75,31 +75,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 737 1
+0 755 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/darkeater-midir-fromsoftware-and-etc-created-by-scrambledeve/)
+[](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-promagentis/)
 
-[darkeater midir (fromsoftware and etc) created by scrambledeve](https://yiff-party.com/yiff/darkeater-midir-fromsoftware-and-etc-created-by-scrambledeve/)
+[nick wilde directed by promagentis](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-promagentis/)
 
 0 2 0
 
 October 3, 2024
 
-[](https://yiff-party.com/yiff/kindred-league-of-legends-and-etc-created-by-softuftos/)
+[](https://yiff-party.com/yiff-ai-premium/steele-directed-by-jackson-maxston-director/)
 
-[kindred (league of legends and etc) created by softuftos](https://yiff-party.com/yiff/kindred-league-of-legends-and-etc-created-by-softuftos/)
+[steele directed by jackson maxston (director)](https://yiff-party.com/yiff-ai-premium/steele-directed-by-jackson-maxston-director/)
 
-0 98 0
+0 62 0
 
 September 3, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/zoelli-directed-by-mindry/)
+[](https://yiff-party.com/yiff/twilight-sparkle-friendship-is-magic-and-etc-created-by-br333/)
 
-[zoelli directed by mindry](https://yiff-party.com/yiff-ai-premium/zoelli-directed-by-mindry/)
+[twilight sparkle (friendship is magic and etc) created by br333](https://yiff-party.com/yiff/twilight-sparkle-friendship-is-magic-and-etc-created-by-br333/)
 
-0 49 0
+0 128 0
 
 September 3, 2024
 
