@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
+* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=63 "WonderTANG! Who wants to juice up your MSX?")
+* [MSXDev 2023 NotebookLM podcast](https://www.msx.org/forum/msx-talk/general-discussion/msxdev-2023-notebooklm-podcast "MSXDev 2023 NotebookLM podcast")
+* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [SVI-605B HDD Controller](https://www.msx.org/forum/msx-talk/hardware/svi-605b-hdd-controller "SVI-605B HDD Controller")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
-* [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=3 "Hi From Cuba, Need Help Z80 ;)")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=62 "WonderTANG! Who wants to juice up your MSX?")
-* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [openMSX cartridge type](https://www.msx.org/forum/msx-talk/openmsx/openmsx-cartridge-type?page=1 "openMSX cartridge type")
 * [A1WX - General Port 1 Issues](https://www.msx.org/forum/msx-talk/hardware/a1wx-general-port-1-issues "A1WX - General Port 1 Issues")
 * [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
-* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
