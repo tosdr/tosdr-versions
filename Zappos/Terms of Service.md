@@ -136,10 +136,10 @@ OUR ADDRESS
 
 Zappos.com LLC, 400 E. Stewart Avenue, Las Vegas, NV 89101
 
-Get on the List
----------------
+Join Our List, Get 10% Off
+--------------------------
 
-Subscribe to Zappos emails for exclusive product launches, early notifications for sales, and a few extra-special surprises.
+Sign up for Zappos emails—new subscribers get 10% off a future order!\* Plus, get early access to sales, coupons, and more. (One code per email address.)
 
 Email AddressJoin the Party
 
