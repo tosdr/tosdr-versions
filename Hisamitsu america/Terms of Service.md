@@ -152,7 +152,6 @@ Generally, we have a policy of accepting requests for links to our website.
 However, this website is not operated by an individual; therefore, consideration of such a request is left up to our organization. In regards to linking, please contact the webmaster.
 
 * [Facebook](https://www.facebook.com/Salonpas)
-* [Twitter](https://twitter.com/salonpas)
 * [YouTube](http://www.youtube.com/user/MRSALONPAS)
 
 * [Global Site](http://global.hisamitsu/)
