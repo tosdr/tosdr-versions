@@ -1,11 +1,5 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-![](https://img.gg.deals/6f/67/0ec5ed8e494c5b043e7f92b8cd6d78295667_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/6f/67/0ec5ed8e494c5b043e7f92b8cd6d78295667_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/us/redirect/e4674acaff26ca48508e111f945211ea55154bff/?utm_campaign=top-banner&utm_source=page%2Fpage)
-
 Region: United States
 
 Keyshops: Enabled
