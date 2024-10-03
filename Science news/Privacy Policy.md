@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
+            
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [Brain-controlled bionic limbs are inching closer to reality](https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics)
             
-            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")2 hours ago
+            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")8 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [The world’s oldest cheese is now revealing some of its secrets](https://www.sciencenews.org/article/oldest-ancient-cheese-origins)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")September 26, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 25, 2024
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")September 26, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
+            
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")3 hours ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Scientists have traced all 54.5 million connections in a fruit fly’s brain](https://www.sciencenews.org/article/fruit-fly-brain-connections-traced)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Coyotes have the face muscles for that ‘sad-puppy’ look](https://www.sciencenews.org/article/coyotes-face-muscles-sad-puppy)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")October 1, 2024
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [The fruit fly revolutionized biology. Now it’s boosting science in Africa](https://www.sciencenews.org/article/fruit-fly-biology-africa-research)
-            
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")October 1, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
