@@ -35,7 +35,7 @@ This site uses cookies – small text files that are placed on your machine to h
 New E-Learning Resource
 -----------------------
 
-As part of our project “Life Beyond the Cubicle”, we are currently developing an e-learning resource for involving families during a mental health crisis.
+As part of our project “Life Beyond the Cubicle”, we have developed new eLearning resources. Life Beyond the Cubicle helps those working in mental health services and emergency departments to work well with families during a mental health crisis.
 
 [![A scene from a video segment of ](https://www.makingfamiliescount.org.uk/wp-content/uploads/2023/08/LBTC6-300x169.jpeg)](https://www.makingfamiliescount.org.uk/life-beyond-the-cubicle/)
 
@@ -44,7 +44,7 @@ As part of our project “Life Beyond the Cubicle”, we are currently developin
 Recent Posts
 ------------
 
-* [Media Release](https://www.makingfamiliescount.org.uk/2024/10/02/media-release/)
+* [Media Release: Life Beyond the Cubicle resources](https://www.makingfamiliescount.org.uk/2024/10/02/media-release/)
 * [Life Beyond the Cubicle: Co-production to develop resources to improve outcomes for people in a mental health crisis](https://www.makingfamiliescount.org.uk/2024/10/02/life-beyond-the-cubicle-blog/)
 * [New Bespoke Training at Surrey and Borders](https://www.makingfamiliescount.org.uk/2024/04/05/new-bespoke-training-at-surrey-and-borders/)
 * [Trevor Stevens Speaks on Radio 4](https://www.makingfamiliescount.org.uk/2024/03/25/trevor-stevens-speaks-on-radio-4/)
