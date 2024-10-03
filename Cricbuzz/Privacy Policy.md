@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SLK vs GAW - Live](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-caribbean-premier-league-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - Live")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93657/rsa-vs-ire-1st-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 1st ODI - RSA Won")[PAKW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94550/pakw-vs-slw-2nd-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Sri Lanka Women, 2nd Match, Group A - Preview")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")[BANW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94541/banw-vs-scow-1st-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v Scotland Women, 1st Match, Group B - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MUM vs ROI - Live](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")[BANW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94541/banw-vs-scow-1st-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v Scotland Women, 1st Match, Group B - Preview")[SLK vs GAW - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-caribbean-premier-league-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - SLK Won")[PAKW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94550/pakw-vs-slw-2nd-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Sri Lanka Women, 2nd Match, Group A - Preview")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93657/rsa-vs-ire-1st-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 1st ODI - RSA Won")
 
 AllLive NowToday
 
@@ -72,11 +72,7 @@ AllLive NowToday
     
 * ICC Mens East Asia-Pacific T20WCQB
     
-    [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/102774/jpn-vs-idn-5th-match-icc-mens-east-asia-pacific-t20wcqb "Japan v Indonesia, 5th Match - JPN Won")
-    
-    5th Match
-    
-* [Philippines vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102783/phi-vs-skr-6th-match-icc-mens-east-asia-pacific-t20wcqb "Philippines v South Korea, 6th Match - PHI Won")
+    [Philippines vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102783/phi-vs-skr-6th-match-icc-mens-east-asia-pacific-t20wcqb "Philippines v South Korea, 6th Match - PHI Won")
     
     6th Match
     
@@ -99,6 +95,10 @@ AllLive NowToday
 * [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/102817/idn-vs-jpn-11th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Japan, 11th Match - Upcoming")
     
     11th Match
+    
+* [South Korea vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102826/skr-vs-phi-12th-match-icc-mens-east-asia-pacific-t20wcqb "South Korea v Philippines, 12th Match - Upcoming")
+    
+    12th Match
     
 * Canada Tri-Series 2024
     
@@ -136,21 +136,17 @@ AllLive NowToday
     
     Eliminator
     
-* [Saint Lucia Kings vs Guyana Amazon Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - Live")
+* [Saint Lucia Kings vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - SLK Won")
     
     Qualifier 1
     
-* [TBC vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92959/tbc-vs-br-qualifier-2-cpl-2024 "TBC v Barbados Royals, Qualifier 2 - Upcoming")
+* [Guyana Amazon Warriors vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92959/gaw-vs-br-qualifier-2-cpl-2024 "Guyana Amazon Warriors v Barbados Royals, Qualifier 2 - Upcoming")
     
     Qualifier 2
     
 * CSA T20 Challenge
     
-    [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - Upcoming")
-    
-    7th Match
-    
-* [Dolphins vs Titans](https://www.cricbuzz.com/live-cricket-scores/103422/dol-vs-tit-6th-match-csa-t20-challenge "Dolphins v Titans, 6th Match - Upcoming")
+    [Dolphins vs Titans](https://www.cricbuzz.com/live-cricket-scores/103422/dol-vs-tit-6th-match-csa-t20-challenge "Dolphins v Titans, 6th Match - Upcoming")
     
     6th Match
     
@@ -161,6 +157,10 @@ AllLive NowToday
 * [North West vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103440/nwest-vs-wpr-8th-match-csa-t20-challenge "North West v Western Province, 8th Match - Upcoming")
     
     8th Match
+    
+* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - Upcoming")
+    
+    7th Match
     
 * CSA T20 Knock Out Competition
     
@@ -198,7 +198,7 @@ AllLive NowToday
     
     Irani Cup 2024
     
-    [Mumbai vs Rest of India](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
+    [Mumbai vs Rest of India  LIVE](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")
     
     Irani Cup
     
@@ -210,13 +210,13 @@ AllLive NowToday
     
 * ICC CWC Challenge League A, 2024-26
     
-    [Qatar vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108153/qat-vs-png-9th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Papua New Guinea, 9th Match - PNG Won")
-    
-    9th Match
-    
-* [Jersey vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/108113/jer-vs-kuw-8th-match-icc-cwc-challenge-league-a-2024-26 "Jersey v Kuwait, 8th Match - JER Won")
+    [Jersey vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/108113/jer-vs-kuw-8th-match-icc-cwc-challenge-league-a-2024-26 "Jersey v Kuwait, 8th Match - JER Won")
     
     8th Match
+    
+* [Qatar vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108153/qat-vs-png-9th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Papua New Guinea, 9th Match - PNG Won")
+    
+    9th Match
     
 * [Kuwait vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108121/kuw-vs-ken-11th-match-icc-cwc-challenge-league-a-2024-26 "Kuwait v Kenya, 11th Match - KUW Won")
     
@@ -233,6 +233,14 @@ AllLive NowToday
 * [Kenya vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108129/ken-vs-qat-12th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Qatar, 12th Match - Upcoming")
     
     12th Match
+    
+* [Kenya vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108139/ken-vs-png-14th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Papua New Guinea, 14th Match - Upcoming")
+    
+    14th Match
+    
+* [Denmark vs Jersey](https://www.cricbuzz.com/live-cricket-scores/108145/den-vs-jer-15th-match-icc-cwc-challenge-league-a-2024-26 "Denmark v Jersey, 15th Match - Upcoming")
+    
+    15th Match
     
 * WOMEN
     
@@ -274,17 +282,17 @@ AllLive NowToday
     
 * ICC Womens T20 World Cup Warm-up Matches
     
-    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106161/indw-vs-rsaw-10th-match-icc-womens-t20-world-cup-warm-up-matches "India Women v South Africa Women, 10th Match - INDW Won")
-    
-    10th Match
-    
-* [New Zealand Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106153/nzw-vs-engw-9th-match-icc-womens-t20-world-cup-warm-up-matches "New Zealand Women v England Women, 9th Match - ENGW Won")
+    [New Zealand Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106153/nzw-vs-engw-9th-match-icc-womens-t20-world-cup-warm-up-matches "New Zealand Women v England Women, 9th Match - ENGW Won")
     
     9th Match
     
 * [Australia Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/108435/ausw-vs-wiw-8th-match-icc-womens-t20-world-cup-warm-up-matches "Australia Women v West Indies Women, 8th Match - AUSW Won")
     
     8th Match
+    
+* [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106161/indw-vs-rsaw-10th-match-icc-womens-t20-world-cup-warm-up-matches "India Women v South Africa Women, 10th Match - INDW Won")
+    
+    10th Match
     
 
 Privacy Policy
@@ -593,41 +601,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131845/johnson-charles-faf-du-plessis-power-saint-lucia-kings-to-cpl-final "Charles, Faf power Saint Lucia Kings to CPL final")
+
+[Charles, Faf power Saint Lucia Kings to CPL final](https://www.cricbuzz.com/cricket-news/131845/johnson-charles-faf-du-plessis-power-saint-lucia-kings-to-cpl-final "Charles, Faf power Saint Lucia Kings to CPL final")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131844/rickelton-stubbs-set-up-south-africas-big-win " Rickelton, Stubbs set up South Africa's big win")
+
+[Rickelton, Stubbs set up South Africa's big win](https://www.cricbuzz.com/cricket-news/131844/rickelton-stubbs-set-up-south-africas-big-win " Rickelton, Stubbs set up South Africa's big win")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131843/india-banking-on-stability-in-pursuit-of-elusive-silverware "India banking on stability in pursuit of elusive silverware ")
+
+[India banking on stability in pursuit of elusive silverware](https://www.cricbuzz.com/cricket-news/131843/india-banking-on-stability-in-pursuit-of-elusive-silverware "India banking on stability in pursuit of elusive silverware ")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131842/indomitable-australia-carry-expectations-on-their-shoulders-and-a-target-on-their-back "Indomitable Australia carry expectations on their shoulders and a target on their back")
 
 [Indomitable Australia carry expectations on their shoulders and a target on their back](https://www.cricbuzz.com/cricket-news/131842/indomitable-australia-carry-expectations-on-their-shoulders-and-a-target-on-their-back "Indomitable Australia carry expectations on their shoulders and a target on their back")
 
-33m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131841/captains-call-for-lessons-to-be-learned-from-governance-in-mens-game "Captains call for lessons to be learned from governance in men's game")
 
 [Captains call for lessons to be learned from governance in men's game](https://www.cricbuzz.com/cricket-news/131841/captains-call-for-lessons-to-be-learned-from-governance-in-mens-game "Captains call for lessons to be learned from governance in men's game")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131840/buttler-set-for-white-ball-return-on-tour-of-west-indies "Buttler set for white-ball return on tour of West Indies")
 
 [Buttler set for white-ball return on tour of West Indies](https://www.cricbuzz.com/cricket-news/131840/buttler-set-for-white-ball-return-on-tour-of-west-indies "Buttler set for white-ball return on tour of West Indies")
 
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131839/doubts-arise-over-crickets-inclusion-in-2026-asian-games "Doubts arise over cricket's inclusion in 2026 Asian Games")
-
-[Doubts arise over cricket's inclusion in 2026 Asian Games](https://www.cricbuzz.com/cricket-news/131839/doubts-arise-over-crickets-inclusion-in-2026-asian-games "Doubts arise over cricket's inclusion in 2026 Asian Games")
-
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131838/plucky-sri-lanka-look-to-close-the-gap-to-traditional-heavyweights "Plucky Sri Lanka look to close the gap to traditional heavyweights")
-
-[Plucky Sri Lanka look to close the gap to traditional heavyweights](https://www.cricbuzz.com/cricket-news/131838/plucky-sri-lanka-look-to-close-the-gap-to-traditional-heavyweights "Plucky Sri Lanka look to close the gap to traditional heavyweights")
-
-10h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131837/inexperience-inefficiency-weigh-heavy-on-pakistan-at-the-world-cup "Inexperience, inefficiency weigh heavy on Pakistan at the World Cup")
-
-[Inexperience, inefficiency weigh heavy on Pakistan at the World Cup](https://www.cricbuzz.com/cricket-news/131837/inexperience-inefficiency-weigh-heavy-on-pakistan-at-the-world-cup "Inexperience, inefficiency weigh heavy on Pakistan at the World Cup")
-
-11h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
