@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c6522a82eec814a16ab3b64e12a6d8b7
+c4f8d09b81a7f79048ad96004cf9295a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round orange polka dot Czech discs](https://www.sojourner.biz/images/cache/glass/GL0014.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-orange-polka-dot-czech-discs.html "10 mm round orange polka dot Czech discs")
+[![6 mm transparent pink heart beads](https://www.sojourner.biz/images/cache/glass/HRT016.200.jpg)](https://www.sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
 
-#### [10 mm round orange polka dot Czech discs](https://www.sojourner.biz/beads/glass/10-mm-round-orange-polka-dot-czech-discs.html "10 mm round orange polka dot Czech discs")
+#### [6 mm transparent pink heart beads](https://www.sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
 
-$10.00
+$2.00
 
 ### Best Sellers
 
