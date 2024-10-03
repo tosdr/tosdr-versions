@@ -46,18 +46,6 @@ FOX SCORES
     | NTD | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/state-championships/match-centre/NSC20240101)
-* AFL
-    
-* [AFL Women's
-    
-    3/10 19:15 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MEL | –   |
-    | GWS | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240604)
 * Cricket
     
 * [Women's T20 WC
@@ -82,12 +70,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250102)
 * [WNCL
     
+    QLD won by 8 wkts
+    
     |     |     |
     | --- | --- |
-    | QLD |     |
+    | QLD | 2 /83 |
     | WA  | 81  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250107)
+* AFL
+    
+* [AFL Women's
+    
+    3/10 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | GWS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240604)
 * Motorsport
     
 * [MotoGP
@@ -218,16 +220,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002D15FE)
 * [MLB
     
-    Top 8th Innings
-    
-    |     |     |
-    | --- | --- |
-    | MIL | 2   |
-    | NYM | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500220201)
-* [MLB
-    
     Final
     
     |     |     |
@@ -238,12 +230,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240050026161B)
 * [MLB
     
-    Top 5th Innings
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | MIL | 5   |
+    | NYM | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500220201)
+* [MLB
+    
+    Final
     
     |     |     |
     | --- | --- |
     | SD  | 5   |
-    | ATL | 1   |
+    | ATL | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002BB194)
 
@@ -958,6 +960,7 @@ FOX SCORES
 [UFC](https://www.foxsports.com.au/video/ufc)
 
 * [UFC](https://www.foxsports.com.au/video/ufc/ufc)
+* [Fight Week](https://www.foxsports.com.au/video/ufc/fight-week)
 * [Press Conferences](https://www.foxsports.com.au/video/ufc/press-conferences)
 
 [Sponsored](https://www.foxsports.com.au/video/sponsored)
