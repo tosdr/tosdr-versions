@@ -224,6 +224,20 @@ out of 5 based on
 
 > Oct 3, 2024
 
+> The itenary provided for our trip to…
+
+> The itenary provided for our trip to Victoria Falls by Shann Shaw was clear and concise. Settlement of online deposit payment was seemless. Will provide more reviews when we complete outr trip.
+
+Vas
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 3, 2024
+
 > Kim Abraham is Great!
 
 > Kim Abraham worked through all of my questions, always with a pleasant response. This is our trip of a lifetime, and Kim made sure that we are getting it.
@@ -325,20 +339,6 @@ US
 > Shann was really fast in answering and…
 
 > Shann was really fast in answering and give me exactly the information i requested. The booking went smoothly !
-
-Kunde
-
-,
-
-DE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 30, 2024
-
-> Very good and fast service at the…
-
-> Very good and fast service at the booking so far.
 
 Kunde
 
