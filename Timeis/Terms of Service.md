@@ -23,16 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-06:06:45PM
+12:10:43AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Wednesday, October 2, 2024
+Thursday, October 3, 2024
 
-[International Day of Non-Violence](https://en.wikipedia.org/wiki/International_Day_of_Non-Violence) - to commemorate the birthday of Mahatma Gandhi
+[German Unity Day](https://en.wikipedia.org/wiki/German_Unity_Day)
 
-Sun: ↑ 06:53AM ↓ 06:37PM (11h 44m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 06:54AM ↓ 06:36PM (11h 42m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
