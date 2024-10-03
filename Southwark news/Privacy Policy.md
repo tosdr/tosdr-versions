@@ -19,10 +19,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
     [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
     
     ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
@@ -31,17 +27,17 @@
     
     ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
     
-    [![Ryan Wintle enters the Den ahead of Millwall's game against Preston North End. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-882-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
     
-    ### [Neil Harris ‘delighted’ by surprise availability of loan signing](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
+    
+    ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
     [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
     
     ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/BAT_8203-2024-10-01T21_04_16.788-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-urges-patience-over-development-of-young-striker/)
-    
-    ### [Millwall head coach urges patience over development of young striker](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-urges-patience-over-development-of-young-striker/)
     
     [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
     
@@ -54,6 +50,10 @@
     [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
     
     ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,10 +99,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
     [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
     
     ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
@@ -111,17 +107,17 @@ View All Result
     
     ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
     
-    [![Ryan Wintle enters the Den ahead of Millwall's game against Preston North End. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-882-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
     
-    ### [Neil Harris ‘delighted’ by surprise availability of loan signing](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
+    
+    ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
     [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
     
     ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/BAT_8203-2024-10-01T21_04_16.788-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-urges-patience-over-development-of-young-striker/)
-    
-    ### [Millwall head coach urges patience over development of young striker](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-urges-patience-over-development-of-young-striker/)
     
     [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
     
@@ -134,6 +130,10 @@ View All Result
     [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
     
     ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
+    
+    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
+    
+    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
