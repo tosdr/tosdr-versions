@@ -108,7 +108,7 @@ from$0.09/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
 
 [Site Unblocker
 
-from$6/GB](https://smartproxy.com/proxies/site-unblocker/pricing)
+from$1.6/1K req](https://smartproxy.com/proxies/site-unblocker/pricing)
 
 [Scrapers](https://smartproxy.com/scraping)
 
@@ -172,17 +172,15 @@ WHAT'S NEW
 
 ![](https://images.smartproxy.com/knowledge_Hub_c0bfdd889d/knowledge_Hub_c0bfdd889d.svg)
 
-Webinar Alert
+Smartproxy Knowledge Hub
 
-Mastering web scraping and managing large data volumes for AI training
+Advanced scraping tutorials, proxy setup and integration guides.
 
-[Register now](https://www.bigmarker.com/smartproxy/Web-Scraping-at-Scale-Strategies-for-Handling-Large-Volumes-of-Data?utm_bmcr_source=SPwebsite)
+[Explore](https://smartproxy.com/devs)
 
 Resources
 
 Setup
-
-[How it Works](https://smartproxy.com/how-it-works)
 
 [Quick Start Guide
 
@@ -282,6 +280,8 @@ For more detailed information on how Onfido handles your data when performing ve
 To perform identity verification and related checks, we process certain personal information received from you and/or access information about you, which is processed by Onfido. The majority of the personal information described below is not directly collected or fully processed by us. Instead, it is gathered, stored, and processed by Onfido to perform identity verification, complete checks, and generate the report („Onfido Report“).
 
 Once your identity is verified and/ or a check is completed, Onfido generates the Onfido Report that is provided to us. If your identity is verified and no issues are detected, the report will indicate a “Clear” result. If your identity cannot be verified or there are signs of fraud, the report will indicate a “Consider” result, with details explaining why. We do not have access to the categories of personal information listed below unless the Onfido Report returns a "Consider" result. In such instances, we may obtain access to the personal information utilized by Onfido. We access this information to make informed decisions regarding the provision of services to you. However, we do not store any of this information on our systems. We only have access to it through Onfido.
+
+We only use the data for the purpose specified below. We do not sell, lease, trade, or otherwise profit from the data collected, as described below.
 
 **Identification Document (ID) checks**
 
