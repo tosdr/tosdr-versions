@@ -225,9 +225,11 @@ Main Menu
         
     * Offers & Savings Close Menu
 
-Show contact page
+![Open Chat](/static/images/icons/sfec-chat-open.png)
 
-Open search box
+Help popup
+
+Open search box popup
 
 1. [HomeCreated with Lunacy](https://www.enfamil.com/)
 2. Terms of Use
@@ -334,7 +336,7 @@ Follow us
 * [Created with sketchtool.youtube](https://www.youtube.com/user/enfamil)
 * [TikTok](https://www.tiktok.com/@enfamil)
 
-[![](https://d28v1qz47twks.cloudfront.net/media/cache/f/0/0/c/b/4/f00cb4b37695bb0442ab49326cfd96737b4e7564.webp)Chat with us](https://www.enfamil.com/help-center/#live-chat)
+![](/static/images/icons/sfec-chat-open.png)Chat with us
 
 Monday - Friday: 8 a.m. to 8 p.m. ET  
 Saturday: 9 a.m. to 5:30 p.m. ET  
@@ -378,7 +380,7 @@ By clicking “Join now ” I agree to join Enfamil Family Beginnings and receiv
 
 By clicking “Join now” I agree to participate in the sweepstakes. I agree to join Enfamil Family Beginnings and receive free samples, offers and other communications from Enfamil, and may receive communication about Enfamil’s affiliated [Reckitt brands](https://www.reckitt.com/us/brands). I understand and agree to the [Terms of Use](https://www.enfamil.com/terms-of-use/ "https://www.enfamil.com/terms-of-use/"), [Privacy Policy](https://www.enfamil.com/privacy-policy/) and [Sweepstakes Official Rules.](https://www.enfamil.com/free-formula-sweepstakes/)
 
-[![](https://d28v1qz47twks.cloudfront.net/media/cache/f/0/0/c/b/4/f00cb4b37695bb0442ab49326cfd96737b4e7564.webp)Chat with us](https://www.enfamil.com/help-center/#live-chat)
+![](/static/images/icons/sfec-chat-open.png)Chat with us
 
 Monday - Friday: 8 a.m. to 8 p.m. ET  
 Saturday: 9 a.m. to 5:30 p.m. ET  
@@ -459,3 +461,5 @@ Your Privacy Choices
 * [Return Policy](https://www.enfamil.com/terms-of-sale/#returns)
 
 Do Not Sell or Share My Personal Information / Opt-Out of Targeted Ad
+
+![Open Chat](/static/images/icons/sfec-chat-open.png) ![Close Chat](/static/images/icons/sfec-chat-close.svg)
