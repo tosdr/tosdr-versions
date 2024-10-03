@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys rock!
+A great service ... I'm almost sorry that I don't need it right now! But I will again later in the year and I will be back!
 
-Neil Lupton
+Mike Fells
