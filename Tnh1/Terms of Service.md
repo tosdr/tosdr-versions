@@ -222,49 +222,49 @@ centenário
 
 Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol
 
-Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-falsa-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol")[![Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sandy_e_novo_namorado_-_foto_reproducao_instagram_5b0972cce6.jpg)
+Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-falsa-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol")[![Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
 
-Romance
+investigações
 
-Romance
+investigações
 
-Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?
+Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió
 
-Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?](https://www.tnh1.com.br/noticia/nid/sandy-e-medico-ja-circulam-como-casal-em-sp-quem-e-o-novo-namorado-da-cantora/ "Sandy e médico já circulam como casal em SP; quem é o novo namorado da cantora?")
+Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://www.tnh1.com.br/noticia/nid/integrante-de-faccao-no-rj-orientou-grupo-que-tentou-assaltar-empresarial-em-maceio/ "Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió")
 
-[![Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_luana-gilson-a-fazenda_reproducao-tv_record_55324d92ee.jpg)
+[![Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/5/csm_grupo-faxineiros-descoberta-bizarra-reproducao_fc60b3f3cc.jpg)
 
-confusão
+Na Dinamarca
 
-confusão
+Na Dinamarca
 
-Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16
+Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia
 
-Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16](https://www.tnh1.com.br/noticia/nid/luana-cospe-em-gilsao-e-o-chama-de-trembolona-em-a-fazenda-16/ "Luana cospe em Gilsão e o chama de 'Trembolona' em A Fazenda 16")[!['Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_crianca-envenenada-rio-de-janeiro-reproducao_5821b06e38.png)
+Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia](https://www.tnh1.com.br/noticia/nid/faxineiros-acham-ter-encontrado-cadaver-de-cobra-mas-descobrem-ser-penis-de-baleia/ "Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia")[![Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_israel-novaes-fala-esposa-reproducao_46ad96d8c7.jpg)
 
-cobrou justiça
+Gente Famosa
 
-cobrou justiça
+Gente Famosa
 
-'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ
+Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'
 
-'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ](https://www.tnh1.com.br/noticia/nid/aproveitaram-a-fome-dele-para-matar-diz-tia-de-crianca-envenenada-no-rj/ "'Aproveitaram a fome dele para matar', diz tia de criança envenenada no RJ")[![PRF passa a usar drones para multar motoristas em rodovias federais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/0/csm_drone-multa-motoristas-prf_b6ed264a72.png)
+Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'](https://www.tnh1.com.br/noticia/nid/esposa-de-israel-novaes-rebate-fala-do-sertanejo-que-diz-que-luta-para-ser-fiel/ "Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'")[![Marburg: entenda vírus com potencial pandêmico que preocupa a África](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_vue-face-du-controle-medical-pour-concept-covid19_23-2148777437_b284d5f05f.jpg)
 
-INFRAÇÕES DE TRÂNSITO
+enfermidade grave
 
-INFRAÇÕES DE TRÂNSITO
+enfermidade grave
 
-PRF passa a usar drones para multar motoristas em rodovias federais
+Marburg: entenda vírus com potencial pandêmico que preocupa a África
 
-PRF passa a usar drones para multar motoristas em rodovias federais](https://www.tnh1.com.br/noticia/nid/prf-passa-a-usar-drones-para-multar-motoristas-em-rodovias-federais/ "PRF passa a usar drones para multar motoristas em rodovias federais")[![Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_silvio-almeida-e-anielle-franco-1725650086682_v2_900x506.jpg_023a788700.jpg)
+Marburg: entenda vírus com potencial pandêmico que preocupa a África](https://www.tnh1.com.br/noticia/nid/marburg-entenda-virus-com-potencial-pandemico-que-preocupa-a-africa/ "Marburg: entenda vírus com potencial pandêmico que preocupa a África")[!['Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_Mulher_que_perdeu_grana_em_aposta_-_foto_Arquivo_pessoal_9fd48fb206.jpg)
 
-acusações
+34 anos
 
-acusações
+34 anos
 
-Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022
+'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas
 
-Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022](https://www.tnh1.com.br/noticia/nid/anielle-franco-diz-em-depoimento-que-assedio-de-silvio-almeida-comecou-em-2022/ "Anielle Franco diz em depoimento que assédio de Silvio Almeida começou em 2022")
+'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas](https://www.tnh1.com.br/noticia/nid/gastei-toda-a-heranca-de-minha-mae-de-r-300-mil-fiquei-tao-deprimida-que-meu-leite-secou-diz-viciada-em-apostas/ "'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
