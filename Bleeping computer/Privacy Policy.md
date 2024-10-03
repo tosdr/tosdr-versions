@@ -36,6 +36,9 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![This hardware VPN router is cheaper many software subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This hardware VPN router is cheaper many software subscriptions](https://www.bleepingcomputer.com/offer/deals/this-hardware-vpn-router-is-cheaper-many-software-subscriptions/)
     * [![FIN7 hackers launch deepfake nude “generator” sites to spread malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
@@ -45,9 +48,6 @@
     * [![Fake browser updates spread updated WarmCookie malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
-    * [![Train for the Azure certification exams with this prep bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Train for the Azure certification exams with this prep bundle deal](https://www.bleepingcomputer.com/offer/deals/train-for-the-azure-certification-exams-with-this-prep-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
