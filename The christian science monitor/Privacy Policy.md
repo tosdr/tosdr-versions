@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Safety
+
+### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
+
 [Community
 
 ### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
@@ -99,10 +103,6 @@ Recent Stories
 [Respect
 
 ### Civility’s art of listening](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1002/Civility-s-art-of-listening "Civility’s art of listening")
-
-[Safety
-
-### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 01, 2024
+October 02, 2024
 
-Israel’s guiding principle
+The VP candidates were civil. So what?
 
-“Escalate to deescalate.” That is a key idea in today’s story by Christa Case Bryant and Anna Mulrine Grobe. It is the principle behind Israel’s invasion of Lebanon to dismantle Hezbollah. It is the principle behind the devastation in Gaza. It is now clearly Israel’s guiding principle post-Oct. 7, mirroring the United States’ reaction to 9/11. Will it make Israel safer? Or will it spawn new cycles of violence? The answer will reverberate globally. Today, we look at Iran’s response, America’s own tough decisions, and whether Israel knows where this new stage of the war is going.
+Calls for civility can seem vague and at times naive. In the current political climate, civility can be seen as merely nice to have, or even an impediment to progress. Today’s Daily shows why none of that is true. Cameron Joseph’s story from Georgia about the distrust of poll workers is poignant and worrisome. A key driver of that loss of faith is incivility. So when the U.S. vice presidential candidates treat each other with civility, as we discuss in an article and the editorial, it is more than a change of pace. It is a path forward. What the world most needs is not our opinions but our higher natures.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
+
 [### Her power in Poland came accidentally. She kept it with stamina – and Facebook.](https://www.csmonitor.com/World/Europe/2024/1002/influencer-Ewa-Letowska-Poland-democracy-Facebook "Her power in Poland came accidentally. She kept it with stamina – and Facebook.")
 
 [### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
-
-[### Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink](https://www.csmonitor.com/World/Middle-East/2024/1001/israeli-invasion-lebanon-hezbollah-iranian-missiles "Iranian missiles and Israeli invasion of Lebanon bring Mideast back to the brink")
 
 * * *
 
