@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1)
+
+ ![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
+
+### [Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
+
  [![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1)
 
  ![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
 
 ### [Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
 
+ [![Will the US port strike raise gas prices? What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175950155.jpg?ve=1&tl=1)
+
+ ![Will the US port strike raise gas prices? What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175950155.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-impact-gas-prices)
+
+### [Will the US port strike raise gas prices? What you need to know](https://www.fox4news.com/news/port-strike-impact-gas-prices)
+
+ [![Ted Cruz vs. Collin Allred: Texas Senate race tightens with 34 days until election](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/colin-allred.jpg?ve=1&tl=1)
+
+ ![Ted Cruz vs. Collin Allred: Texas Senate race tightens with 34 days until election](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/colin-allred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-vs-collin-allred-texas-senate-race-tightens-34-days-until-election)
+
+### [34 Days to Election Day: Can Collin Allred close the gap on Ted Cruz?](https://www.fox4news.com/news/ted-cruz-vs-collin-allred-texas-senate-race-tightens-34-days-until-election)
+
  [![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/manuel-hernandez-hernandez-mug.png?ve=1&tl=1)
 
  ![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/manuel-hernandez-hernandez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
 
 ### [Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
-
- [![Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dionne-unt-wrongful-convicted-panel-4p_kdfw7de8__00.00.24.42.jpg?ve=1&tl=1)
-
- ![Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dionne-unt-wrongful-convicted-panel-4p_kdfw7de8__00.00.24.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wrongly-convicted-former-inmates-spotlight-criminal-justice-reform)
-
-### [Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://www.fox4news.com/news/wrongly-convicted-former-inmates-spotlight-criminal-justice-reform)
-
- [![Trackdown: Help find the Mesquite storage unit burglars](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/trackdown-storage-unit.png?ve=1&tl=1)
-
- ![Trackdown: Help find the Mesquite storage unit burglars](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/trackdown-storage-unit.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-public-storage-burglaries-3443-sorrento-drive)
-
-### [Trackdown: Help find the Mesquite storage unit burglars](https://www.fox4news.com/news/mesquite-public-storage-burglaries-3443-sorrento-drive)
-
- [![Woman shot man in alleged Dallas road rage incident](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1)
-
- ![Woman shot man in alleged Dallas road rage incident](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
-
-### [Woman shot man in alleged Dallas road rage incident](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
 
 ###### [News](https://www.fox4news.com/news)
 
