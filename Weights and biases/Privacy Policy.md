@@ -490,9 +490,13 @@ Copyright © Weights & Biases. All rights reserved.
 
 * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
 * [Privacy policy](https://wandb.ai/site/privacy)
+* [English](https://wandb.ai/site/privacy "English")
+    * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
 
 * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
 * [Privacy policy](https://wandb.ai/site/privacy)
+* [English](https://wandb.ai/site/privacy "English")
+    * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
 
 * Platform
     
@@ -614,20 +618,3 @@ Copyright © Weights & Biases. All rights reserved.
     * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
     * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
     * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
-    
-
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
-    
-    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
-    
-    English](https://wandb.ai/site/privacy)
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
-    
-    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
-    
-    日本語 (Japanese)](https://wandb.ai/site/ja/privacy/)
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
-    
-    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)
-    
-    한국어 (Korean)](https://wandb.ai/site/ko/privacy/)
