@@ -16,7 +16,7 @@ Nouveau : votre permis en 4x sans frais et dès 559,99€ seulement ! [J'en pro
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
-Permis de conduire
+[Permis de conduire](https://www.ornikar.com/permis)
 
 [Permis B
 
@@ -24,7 +24,7 @@ Permis de conduire
 
 [Code de la route](https://www.ornikar.com/code)
 
-Assurance
+[Assurance](https://www.ornikar.com/assurance-auto)
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)[Assurance habitation
 
@@ -137,8 +137,6 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6644b574570720ee62bdb281_icon_close-modal.svg)](#)
 
-[](https://www.ornikar.com/)
-
 [Code](https://www.ornikar.com/code)[Assurance Auto](https://www.ornikar.com/assurance-auto)[Auto Ecole](https://www.ornikar.com/auto-ecole)[Permis](https://www.ornikar.com/permis)[Conduite Accompagnée](https://www.ornikar.com/conduite-accompagnee)[A propos](https://www.ornikar.com/a-propos)
 
 /
@@ -172,502 +170,548 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 Politique de confidentialité
 ============================
 
-Par :
+[](#)
+
+![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66facc3ec83765ba85ec3bf5_amaury.webp)
+
+Amaury Le Scornet
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f52a190022b84a15936329_6191a88a1c0e39463c2bf022_placeholder-image.svg)
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f52ad18f156a0ee781317b_ornikar-bg-pattern.svg)
+
+Sommaire
+
+[Example H2](#)
 
 [](#)
 
-Publié le
+No items found.
 
-/
-
-/
-
-Au programme
-
-[Sommaire](#)
-
-[Ornikar,  
-votre assurance auto jeune conducteur au prix juste !
-
-Pour une assurance qui vous protège sans vous surtaxer.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance
-
-Ornikar,  
-votre assurance auto jeune conducteur au prix juste !
-
-Pour une assurance qui vous protège sans vous surtaxer.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
-
-l’auto-école qui assure même après le permis !
-
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
-
-Je découvre](https://www.ornikar.com/)[Ornikar,  
-l’auto-école qui assure même après le permis !
-
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
-
-Je découvre](https://www.ornikar.com/)[Code de la route
-
-Avec Ornikar,  
-le code c’est dans la poche
-
-À moins de 1€, mais avec tout ce qu’il faut pour réussir !
-
-Je découvre](https://www.ornikar.com/code)[Avec Ornikar,  
-le code c’est dans la poche
-
-À moins de 3€/mois, mais avec tout ce qu’il faut pour réussir !
-
-Je découvre](https://www.ornikar.com/code)[Permis
-
-Et si vous testiez la conduite avec Ornikar ?
-
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
-
-Je découvre](https://www.ornikar.com/permis)[Et si vous testiez la conduite avec Ornikar ?
-
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
-
-Je découvre](https://www.ornikar.com/permis)[Assurance
-
-Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
-
-Découvrez et choisissez la formule la plus  
-adaptée à votre profil de conducteur.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
-
-Découvrez et choisissez la formule la plus  
-adaptée à votre profil de conducteur.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Le permis financé avec le CPF !
-
-Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis de conduire ? Avec Ornikar c’est possible !
-
-Je découvre](https://www.ornikar.com/financer-permis-cpf)
-
-[_Télécharger la version actuelle_](https://ornikar.cdn.prismic.io/ornikar/ec711fca-9db1-4395-80a0-c3c47d214808_ORNIKAR+-+Politique+de+Confidentialit%C3%A9+-+24.01.2023+-+CLEAN.pdf)
+[_Télécharger la version actuelle_](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66fbc0d69bbb0b15e2971dc0_POLITIQUE%20DE%20CONFIDENTIALITE%CC%81%20Ornikar%20-%2001_10_024.pdf)
 
 [_Voir les versions précédentes_](https://www.ornikar.com/a-propos/charte-de-confidentialite#versions-precedentes-2)
 
-**Date de dernière mise à jour : 24 Janvier 2023**
+‍**Cette version de la politique de confidentialité a vocation à apporter de la clarté à toutes les personnes concernées sur le traitement de données personnelles opéré par Ornikar.** 
 
-La présente politique de confidentialité est soumise par :  
+‍**Date de dernière mise à jour : 01 octobre 2024**
+
+La présente politique de confidentialité est soumise par :  
 
 * MARIANNE FORMATION, société par actions simplifiée au capital de 23.235,90 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.                  
-* ORNIKAR ASSURANCES, société par actions simplifiée à associé unique au capital de 10.000 euros, dont le siège social se situe au 170 boulevard de la Villette à Paris (75019) immatriculée au RCS de Paris sous le numéro 883 361 123, inscrite à l’ORIAS sous le numéro 18005211 et représentée par MARIANNE FORMATION, son Président.
+* ORNIKAR Assurances, Société par Actions Simplifiée au capital de 2 000 000 euros, dont le siège social est situé au 170 Boulevard de la Villette 75019 Paris, inscrite au Registre du Commerce et des Sociétés de Paris, sous le numéro unique 883 361 123  inscrite à l’ORIAS sous le numéro 18005211 et représentée par MARIANNE FORMATION, son Président.
 
-Ci-après « **Ornikar** » ou « **notre Société** » ou « **Nous** » ou le « **Groupe Ornikar** ».
+Ci-après « **Ornikar** » ou « **notre Société** » ou « **Nous** » ou le « **Groupe Ornikar** ».
 
-La présente politique de confidentialité décrit la façon dont Ornikar recueille et utilise certaines données à caractère personnel Vous concernant, au sens du Règlement général du Parlement européen et du Conseil relatif à la protection des données personnelles n° 2016/679 du 27 avril 2016 (ci-après le "**RGPD**") et de la Loi Informatique & Libertés n° 78/17 du 6 janvier 1978 dans sa version en vigueur (ci-après la "**Loi Informatique & Libertés**"), pour Vous fournir ses Produits et/ou Services. 
+La présente politique de confidentialité décrit la façon dont Ornikar recueille et utilise certaines données à caractère personnel Vous concernant, au sens du Règlement général du Parlement européen et du Conseil relatif à la protection des données personnelles n° 2016/679 du 27 avril 2016 (ci-après le "**RGPD**") et de la Loi Informatique & Libertés n° 78/17 du 6 janvier 1978 dans sa version en vigueur (ci-après la "**Loi Informatique & Libertés**"), pour Vous fournir ses Produits et/ou Services. 
 
-La présente politique s'applique à tous les Utilisateurs du Site, qu'il s'agisse : 
-
-* des candidats inscrits pour présenter l'examen théorique et/ou pratique du permis de conduire ; ou 
-* des assurés ayant souscrits à l’un de nos produits d’assurance ainsi que leurs potentiels ayants droits et bénéficiaires ; ou
-* des enseignants inscrits pour former nos candidats à l'examen pratique du permis de conduire ; ou
-* des prospects ; ou 
-* des visiteurs de nos sites.
-
-La présente politique de confidentialité complète les conditions générales d'utilisation du site internet d'ORNIKAR [https://www.ornikar.com/a-propos/conditions-generales-d-utilisation](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation) ainsi que les conditions générales de vente d'ORNIKAR [https://www.ornikar.com/a-propos/conditions-generales-de-vente](https://www.ornikar.com/a-propos/conditions-generales-de-vente). Les termes précédés d'une majuscule au sein de la politique de confidentialité sont définis ci-dessous ou bien au sein des conditions générales d'utilisation ou des conditions générales de vente.
+La présente politique de confidentialité complète les conditions générales d'utilisation du [site internet d'ORNIKAR](https://www.ornikar.com/) ainsi que les [conditions générales de vente d'ORNIKAR](https://www.ornikar.com/a-propos/conditions-generales-de-vente). Les termes précédés d'une majuscule au sein de la politique de confidentialité sont définis ci-dessous ou bien au sein des conditions générales d'utilisation ou des conditions générales de vente.
 
 Nous pouvons mettre à jour cette politique de confidentialité de manière occasionnelle. En cas d'évolution majeure, Nous Vous avertirons par e-mail ou sur le Site. Dans la mesure où la législation applicable l'autorise, utiliser nos Services après un tel avertissement équivaut à accepter les mises à jour de cette politique.
 
-Nous Vous encourageons à consulter régulièrement cette politique afin de connaître les dernières informations relatives à nos pratiques concernant la confidentialité.
+Nous Vous encourageons à consulter régulièrement cette politique afin de connaître les dernières informations relatives à nos pratiques concernant la confidentialité. 
 
-ARTICLE 1 – Responsable du traitement 
---------------------------------------
+‍
 
-Les responsables du traitement des données sont : 
+ARTICLE 1 : Description des traitements de données à caractère personnel
+------------------------------------------------------------------------
 
-* la société MARIANNE FORMATION, société par actions simplifiée au capital de 17.515 euros, dont le siège social se situe au 170 boulevard de la Villette à Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, n° de TVA intracommunautaire FR42799351887 et 
-* la société ORNIKAR ASSURANCES société par actions simplifiée au capital de 10.000 euros, dont le siège social se situe au 170 boulevard de la Villette à Paris (75019) immatriculée au RCS de Paris sous le n° 883 361 123.
+La présente politique s'applique à tous les Utilisateurs du Site/des applications, qu'il s'agisse : 
 
-ARTICLE 2 – Informations collectées par ORNIKAR
------------------------------------------------
+1. [des candidats inscrits pour présenter l'examen théorique et/ou pratique du permis de conduire ; ou](https://pprod-ornikar.webflow.io/articles/a-propos-rr-charte-de-confidentialite#11-traitement-de-donnees-des-candidats-prospects-ou-inscrits-pour-presenter-lexamen-theorique-etou-pratique-du-permis-de-conduire)
+2. [des assurés ayant souscrits à l’un de nos produits d’assurance ainsi que assurés potentiels (prospects) ; ou](https://pprod-ornikar.webflow.io/articles/a-propos-rr-charte-de-confidentialite#12-traitement-de-donnees-des-prospects-et-clients-assures)
+3. [des enseignants de la conduite ; ou](https://pprod-ornikar.webflow.io/articles/a-propos-rr-charte-de-confidentialite#13-traitement-de-donnees-des-enseignants-partenaires)
+4. [des visiteurs de nos sites ou toute autre personne concernée.](https://pprod-ornikar.webflow.io/articles/a-propos-rr-charte-de-confidentialite#14-traitement-de-donnees-generaux-et-transversaux)
 
-Ornikar procède à la collecte et au traitement de données à caractère personnel Vous concernant au sens du RGPD et de la Loi Informatique et Libertés (ci-après indifféremment désignées par les « **informations** » ou les « **données** »).
+‍
 
-À cet égard, Ornikar recueille à la fois des informations que Vous fournissez à Ornikar, par exemple lorsque Vous créez un compte Ornikar, ainsi que des informations créées lorsque Vous utilisez nos Services et Produits, comme celles concernant vos disponibilités, vos leçons, ou encore vos réservations.
+1.1 Traitement de données des candidats prospects ou inscrits pour présenter l'examen théorique et/ou pratique du permis de conduire
+------------------------------------------------------------------------------------------------------------------------------------
 
-### 2.1 Informations que Vous fournissez à Ornikar
+‍
 
-Cela peut comprendre :
+MARIANNE FORMATION est Responsable de Traitement.
 
-* **Profil Utilisateur et données d’identification :** Nous recueillons des informations lorsque Vous créez ou mettez à jour votre compte Ornikar. Cela peut comprendre votre nom, votre adresse e-mail, votre numéro de téléphone, votre identifiant de connexion et votre mot de passe, votre adresse, votre date de naissance, votre photo, votre numéro NEPH. Cela comprend également les informations relatives au véhicule ou à l'assurance des enseignants.
-* **Données relatives à votre profil Assurance :** les informations que vous nous transmettez dans le cadre d’une demande de devis ou de souscription d’un produit assurance auto, telles que les informations nécessaires à l’appréciation du risque ou celles relatives à la détermination ou à l’évaluation des préjudices. 
-* **Données relatives à vos réseaux sociaux** : Dans le cas où Vous vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Nous aurons accès à certaines données (notamment, vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné. L’accès aux réseaux sociaux implique au préalable votre acceptation de leurs conditions contractuelles, incluant leurs engagements au regard du RGPD pour les traitements effectués par ces derniers, et ce indépendamment de nos pages sur lesdits réseaux sociaux (Facebook, Instagram, Twitter, etc.). Pour en savoir plus sur la protection de vos Données Personnelles lors de la navigation sur ces réseaux sociaux, Nous vous invitons à consulter leurs politiques de confidentialité respectives. Nous sommes également susceptibles de recueillir certaines de vos données lorsque vous naviguez sur les pages de nos réseaux sociaux, lorsque Vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime ».
-* **Données démographiques :** Nous pouvons recueillir des informations démographiques à votre sujet, y compris au moyen d'enquêtes réalisées auprès des Utilisateurs.
-* **Contenu Utilisateur :** Nous pouvons recueillir des informations que Vous envoyez lorsque Vous contactez l'assistance client Ornikar, lorsque Vous laissez des avis sur notre site internet, ou lorsque Vous contactez Ornikar dans tout autre contexte. Également, nous pouvons être amené, dans le cadre de l’organisation de jeux concours, à utiliser vos noms, prénom, date de naissance, photographie éventuelle du profil, sexe, réseaux, Identifiant utilisateur du Réseau Social, ainsi que toutes informations rendues publiques et plus généralement des Données Personnelles. Lorsqu’un jeu concours est en cours, le règlement est disponible sur le Site. 
-* **Données bancaires** : Vous devez insérer vos informations de paiement lors du paiement de votre commande. Nous nous appuyons sur les dernières normes de sécurité et ne disposons à aucun moment de vos informations bancaires.
+Ces traitements concernent les personnes ayant ouvert un compte Ornikar pour les services Educatifs (code de la route et permis de conduire). Cela comprend les personnes ayant effectué des achats (Clients) ainsi que les personnes ayant accès aux services gratuits mis à disposition sur la plateforme via la création de leur compte Ornikar (Titulaire d’un compte). 
 
-### 2.2 Données créées lorsque Vous utilisez nos Services
+‍
 
-Elles peuvent comprendre :
+![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/66fbc390b89bd405a8ef4fee_66fbbc184c9942ac19058392_Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202024-10-01%2520a%25CC%2580%252011.08.15.png)
 
-* **Les informations relatives aux transactions sur le Site (achat d'un pack, etc.)**
-* **Les informations relatives à l'utilisation du Site (comme l'historique de navigation sur le Site)**
-* **Les informations relatives à votre  parcours de formation (parcours et heures de révision du code, etc.)**
-* **Les informations sur l'appareil utilisé pour se connecter au Site** 
-* **Les données comportementales, lors de l’utilisation de nos Produits et/ou Services**
-* **Les données de géolocalisation** 
-* **Des données de communication**
+‍
 
-Celles-ci peuvent comprendre :
+#### Données personnelles traitées
 
-* les Utilisateurs envoyant des commentaires, comme des notes ou des compliments ;
-* les Utilisateurs fournissant des informations à votre sujet dans le cadre de programmes de parrainage ;
-* les Utilisateurs demandant des Services pour Vous ou en votre nom ;
-* les Utilisateurs ou autres personnes fournissant des informations dans le cadre de réclamations ou de litiges ;
-* les partenaires commerciaux d'Ornikar par le biais desquels Vous créez votre compte Ornikar ou y accédez, comme les prestataires de paiement ou les réseaux sociaux ;
-* les prestataires d'assurance  ;
-* les sources publiques ;
-* les prestataires de Services marketing.
+* **Profil Utilisateur et données d’identification :** Nous recueillons des informations lorsque Vous créez ou mettez à jour votre compte Ornikar. Cela peut comprendre votre nom, votre adresse e-mail, votre numéro de téléphone, votre identifiant de connexion et votre mot de passe, votre adresse, votre date de naissance, votre photo, votre numéro NEPH.
+* **Enregistrement d’appels téléphoniques :** Dans le cadre de l’une des finalités mentionnées ci-dessus, veuillez noter que les appels téléphoniques peuvent être enregistrés.
+* **Données d’utilisation de nos Services** : Les informations relatives aux activités sur nos environnements (transactions sur le Site, l'historique de navigation sur le Site, parcours et heures de révision du code, informations sur l'appareil utilisé pour se connecter au Site, données comportementales lors de l’utilisation de nos Produits et/ou Services, communications, commentaires et notes dans Notre environnement).
 
-Ornikar peut associer les informations recueillies auprès de ces sources à d'autres informations en sa possession.
+_Ces données sont collectées et traitées par Marianne Formation pour Vous créer un profil. Ce profil peut ensuite être transmis à Ornikar Assurances pour Vous proposer un prix adapté lors de votre devis._
 
-ARTICLE 3 - Comment Nous utilisons vos informations
----------------------------------------------------
+* **Les données de géolocalisation** si elles ont été activées, dans le cadre d’un projet spécifique.
+* **Données relatives à Vos réseaux sociaux** : Dans le cas où Vous Vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Nous aurons accès à certaines données (notamment, Vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné. L’accès aux réseaux sociaux implique au préalable votre acceptation de leurs conditions contractuelles, incluant leurs engagements au regard du RGPD pour les traitements effectués par ces derniers, et ce indépendamment de nos pages sur lesdits réseaux sociaux (Facebook, Instagram, Twitter, etc.). Pour en savoir plus sur la protection de Vos Données Personnelles lors de la navigation sur ces réseaux sociaux, Nous Vous invitons à consulter leurs politiques de confidentialité respectives. Nous sommes également susceptibles de recueillir certaines de Vos données lorsque Vous naviguez sur les pages de nos réseaux sociaux, lorsque Vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime ».
+* **Données démographiques :** Nous pouvons recueillir des informations démographiques à votre sujet, y compris au moyen d'enquêtes réalisées auprès des Utilisateurs.
+* **Données concernant Vos proches,** lorsque Vous les fournissez et utilisez les fonctionnalités de partage aux proches ou de parrainage ou lorsqu’un utilisateur demande des Services pour Vous ou en votre nom
+* **Contenu Utilisateur** : Nous recueillons des informations que Vous envoyez lorsque Vous contactez l'assistance client Ornikar, lorsque Vous laissez des avis sur notre site internet, ou lorsque Vous contactez Ornikar dans tout autre contexte. Également, Nous pouvons être amené, dans le cadre de l’organisation de jeux concours, à utiliser Vos noms, prénom, date de naissance, photographie éventuelle du profil, sexe, réseaux, Identifiant utilisateur du Réseau Social, ainsi que toutes informations rendues publiques et plus généralement des Données Personnelles. Lorsqu’un jeu concours est en cours,le règlement est disponible sur le Site.
+* **Données bancaires** : Vous devez insérer Vos informations de paiement lors du paiement de votre commande. Nous Nous appuyons sur les dernières normes de sécurité et ne disposons à aucun moment de Vos informations bancaires.
 
-Ornikar recueille et utilise des informations pour que Vous puissiez profiter de nos Services de formation à la conduite et nos Services d’assurance. 
+‍
 
-Nous utilisons ainsi les informations que Nous recueillons pour les finalités suivantes
+Les sources de données peuvent être : 
 
-* **Pour la passation et la gestion des contrats de prestation de services et de vente de Produits et leur exécution, y compris des contrats d’assurance**
-* **Pour la gestion des fichiers clients** 
-* **Pour la gestion des fichiers prospects**
-* **Pour l’élaboration de statistiques et études actuarielles**
-* **Pour la création de profils permettant d’évaluer les risques, d’adapter votre parcours de formation ou vos conditions d’assurance**
-* **Pour la réalisation des enquêtes de satisfactions**
-* **Pour l’exercice des recours et la gestion des réclamations et des contentieux**
-* **Pour fournir, personnaliser, entretenir et améliorer nos ventes de Produits, prestation de Services et fonctionnalités du Site**
-* **Pour améliorer la sécurité de nos Utilisateurs et de nos Services**
-* **Pour l'assistance client**
-* **Pour la recherche et le développement**
-* **Pour permettre la communication à destination des Utilisateurs ou entre Utilisateurs**
-* **Pour organiser des promotions, des bonus ou des concours**
-* **Pour respecter nos obligations réglementaires et notamment la lutte contre la fraude, le blanchiement d’argent et le financement du terrorisme**
-* **Dans le cadre des procédures judiciaires**
-* **Pour la gestion des demandes d’exercices des droits reconnus aux personnes concernées au titre de la règlementation applicable au traitement des données personnelles**
+* données que Vous fournissez ou générez ;
+* les partenaires commerciaux d'Ornikar ;
+* une autre entité du Groupe Ornikar ;
+* les sources publiques ;
+* les organismes et autorités administratives.
 
-Ornikar ne vend pas et ne partage pas vos informations personnelles avec des tiers à des fins de marketing direct sous réserve de l’application de l’article 5.4.
+‍
 
-Plus particulièrement, Ornikar utilise les informations recueillies aux fins suivantes :
+#### Durées de conservation des données
 
-### 3.1. Vente de Produits, prestation de Services et de fonctionnalités
+Nous conservons Vos données aussi longtemps que Votre contrat avec Nous est en vigueur, ou que Vos tokens sont valables.
+
+Plus précisément : 
+
+* 5 ans après la dernière utilisation de votre compte.
+* 3 ans pour les données de nos prospects à compter du dernier contact (en cas de démarchage, de demande de renseignements ou de documentation, par exemple).
+* Certaines de Vos données pourront être anonymisées à des fins de recherche ou de statistiques. N’étant plus considérées comme des données personnelles, elles pourront être conservées sans limitation dans le temps. 
+* 10 ans pour les données financières et comptables.
+
+Après cette période, Vos données sont conservées à des fins de défense des intérêts judiciaires et réglementaires d’Ornikar, le temps que courent les délais juridiques de prescription.
+
+Dans l’hypothèse où votre compte a été suspendu ou bloqué, Vos données sont susceptibles d’être conservées afin d’éviter tout contournement de votre part des règles en vigueur sur nos plateformes.
+
+Dans certaines circonstances, Ornikar peut se voir dans l'impossibilité d'archiver votre compte, par exemple s'il existe un crédit impayé sur votre compte, ou une réclamation ou un litige non résolu.
+
+‍
+
+#### Destinataires des Données
+
+Vos données ne sont pas transmises à l’extérieur du Groupe Ornikar, sauf dans ces cas précis : 
+
+* Communication de Données Personnelles nécessaires aux enseignants partenaires, à des fins de prestations des services objet du contrat de formation (ex : pour envoyer un SMS lors de l’arrivée sur le point de rdv)
+* Vous avez donné votre consentement à la communication de Vos données à nos partenaires sélectionnés
+* RDV Permis pour permettre la réservation des examens de conduite
+* Vous bénéficiez du dispositif du Compte Personnel de Formation, ce pour quoi Ornikar a l’obligation d’échanger des éléments avec l’Administration,
+* Administration, organisations publiques, organismes de réglementation ou entités gouvernementales pour répondre à des demandes, des réquisitions ou dans le cadre d’enquêtes.
+
+En dehors de ces cas-là, seuls les prestataires de services ou d’outils peuvent être amenés à traiter Vos données personnelles, dans la limite des finalités énoncées ci-dessus, dans le respect du RGPD et conformément à des clauses de protection des données strictes. Certains de ces prestataires peuvent se trouver en dehors de l’Union Européenne, impliquant un transfert de données, encadré conformément aux garanties prévues par le Chapitre V du RGPD.
+
+Le Groupe Ornikar recueille et utilise des informations pour que Vous puissiez profiter de nos Services de formation à la conduite et nos Services d’assurance. Cela implique une transmission de la part de Marianne Formation vers Ornikar Assurances ou d’Ornikar Assurances vers Marianne Formation pour Vous permettre de bénéficier de l’accompagnement d’Ornikar dans les meilleures conditions de suivi de relations clientèle.
+
+‍
+
+1.2. Traitement de données des prospects et clients assurés
+-----------------------------------------------------------
+
+‍
+
+ORNIKAR ASSURANCES est Responsable de Traitement.
+
+Ces traitements concernent les personnes ayant effectué un devis d’assurance ou ayant souscrit une assurance chez Ornikar Assurances. 
+
+‍
+
+#### Tableau des finalités
+
+En tant que Courtier en assurance, Ornikar traite Vos données personnelles pour deux finalités principales (Groupe de finalités), qui sont détaillées dans le tableau ci-dessous. Ces traitements sont parfois menés conjointement avec le porteur de risque d’assurance. 
+
+‍
+
+![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/66fbc390b89bd405a8ef4fda_66fbbd28946afd816286bf59_Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202024-10-01%2520a%25CC%2580%252011.13.03.png)
+
+‍
+
+\*Certains des traitement cités ci-dessus s’appuient sur le _profilage_
+
+Le profilage est un traitement exploitant Vos données à caractère personnel et ayant pour finalité d’analyser et de prédire Votre comportement. Il permet également de l’évaluer et définir Vos préférences pour créer un profil. Ornikar peut notamment être amené à réaliser des actions de profilage afin de lutter contre la fraude ; pour proposer des contenus adaptés dans ses offres commerciales ; pour la recherche et le développement et pour l'amélioration de ses Produits et Services, de sa connaissance client ; pour l’évaluation et la prédiction de votre situation, la personnalisation de votre expérience client.
+
+En outre, concernant la souscription, la gestion des contrats d’assurance et la gestion des sinistres des décisions entièrement automatisées basées sur le profilage peuvent être prises à Votre égard, sur la base des informations que Vous Nous aurez fournies.
+
+Concernant ces décisions, Vous disposez du droit d’obtenir une intervention humaine, d’exprimer votre point de vue, et de contester la décision en écrivant à l’adresse indiqué à l’Article 4. 
+
+Veuillez noter qu’une mention d’information concernant le traitement de Vos données personnelles Vous est fournie également dans les conditions générales de votre contrat d’assurance.
+
+‍
+
+#### Données personnelles traitées
+
+* **Profil Utilisateur et données d’identification :** Nous recueillons des informations lorsque Vous créez votre devis et lorsque Vous envoyez Vos documents obligatoires. Cela peut comprendre votre nom, votre adresse e-mail, votre numéro de téléphone, votre identifiant de connexion et votre mot de passe, votre adresse, votre date de naissance.
+* **Données relatives à votre profil Assurance :** les informations que Vous Nous transmettez dans le cadre d’une demande de devis ou de souscription d’un produit assurance auto, telles que les informations nécessaires à l’appréciation du risque ou celles relatives à la détermination ou à l’évaluation des préjudices. 
+* **Vos documents officiels** : Les documents que Vous Nous transmettez dans le cadre de la souscription, de la gestion ou de l’exécution de Votre contrat.
+
+* **Enregistrement d’appels téléphoniques :** Dans le cadre de l’une des finalités mentionnées ci-dessus, veuillez noter que les appels téléphoniques peuvent être enregistrés.
+* **Données liés à votre contrat** : Les informations relatives aux éléments liés à Votre contrat d’assurance (données concernant le véhicule, historique d’assurance, n° de contrat, etc)
+* **Données de transaction et de navigation** : Les informations concernant votre parcours et Vos achats, signatures et paiements sont collectées
+* **Données relatives aux infractions et condamnations** : Ces données sont nécessaires pour la passation, la gestion et l'exécution des contrats d'assurance ou peuvent être nécessaires dans le cadre des contentieux liés à l'activité et permettant notamment à l'entreprise d'assurer la constatation, l'exercice ou la défense de ses droits en justice ou la défense des personnes concernées. Ces traitements ne peuvent en aucun cas faire l'objet d'une mutualisation des informations entre les organismes d'assurance à l'exclusion de l'AGIRA.
+* **Les données de géolocalisation** si elles ont été activées, dans le cadre d’un projet spécifique.
+* **Données démographiques :** Nous pouvons recueillir des informations démographiques à votre sujet, y compris au moyen d'enquêtes réalisées auprès des Utilisateurs.
+* **Données relatives à Vos réseaux sociaux** : Dans le cas où Vous Vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Nous aurons accès à certaines données (notamment, Vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné. L’accès aux réseaux sociaux implique au préalable votre acceptation de leurs conditions contractuelles, incluant leurs engagements au regard du RGPD pour les traitements effectués par ces derniers, et ce indépendamment de nos pages sur lesdits réseaux sociaux (Facebook, Instagram, Twitter, etc.). Pour en savoir plus sur la protection de Vos Données Personnelles lors de la navigation sur ces réseaux sociaux, Nous Vous invitons à consulter leurs politiques de confidentialité respectives. Nous sommes également susceptibles de recueillir certaines de Vos données lorsque Vous naviguez sur les pages de nos réseaux sociaux, lorsque Vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime »
+* **Données concernant Vos proches,** lorsque Vous les fournissez et utilisez les fonctionnalités de partage aux proches ou de parrainage ou lorsqu’un utilisateur demande des Services pour Vous ou en votre nom.
+* **Données relatives aux réclamations** : Les données concernant les éventuelles réclamations sont utilisées (n° de réclamation, date, motif, historique des appels, etc)
+* **Données bancaires** : Vous devez insérer Vos informations de paiement lors du paiement de votre commande. Nous nous appuyons sur les dernières normes de sécurité et ne disposons à aucun moment de Vos informations bancaires.
+
+‍
+
+Les sources de données peuvent être :  
+
+* informations que Vous Nous fournissez ou que Vous générez ;
+* partenaires commerciaux d’Ornikar ;
+* une autre entité du Groupe Ornikar ;
+* les bases de données d’organismes publics rendues accessibles par les autorités (par exemple le registre AGIRA, le Système d’Immatriculation des Véhicules, Fichier des Véhicules Assurés,
+
+* les données mises à disposition publiquement (media, informations manifestement rendues publiques par la personne concernée, annuaires, etc)
+
+‍
+
+#### Durées de conservation des données
+
+Vos données personnelles sont conservées a minima pendant l’exécution des traitements liés à la relation contractuelle que Vous avez avec Ornikar. Après ce délai, les données sont conservées afin de répondre aux règles de prescription légale et des obligations légales et réglementaires de conservation auxquelles Ornikar est soumise, en tant que Courtier en Assurance.
+
+Concernant les prospects, les données ne seront pas utilisées au-delà du délai de  3 ans après notre dernière interaction. Certaines données peuvent être conservées 5 ans lorsqu’elles permettent la constatation, la défense ou l’exercice de droit en justice, elles peuvent être conservées pendant une durée maximale de 5 ans de notre dernière interaction (cela en application du délai de prescription de droit commun).
+
+Après cette période, Vos données sont conservées à des fins de défense des intérêts judiciaires et réglementaires d’Ornikar, le temps que courent les délais juridiques de prescription.
+
+Dans l’hypothèse où votre compte a été suspendu ou bloqué, Vos données sont susceptibles d’être conservées afin d’éviter tout contournement de votre part des règles en vigueur sur nos plateformes.
+
+Dans certaines circonstances, Ornikar peut se voir dans l'impossibilité d'archiver votre compte, par exemple s'il existe un crédit impayé sur votre compte, ou une réclamation ou un litige non résolu.
+
+‍
+
+#### Destinataires des Données
+
+Vos données ne sont pas transmises à l’extérieur du Groupe Ornikar, sauf dans ces cas précis : 
+
+* Vous avez donné votre consentement à la communication de Vos données à nos partenaires sélectionnés
+* l’AGIRA (l’Association pour la Gestion des Informations sur le Risque en Assurance)
+* l’ALFA (Agence de Lutte contre la Fraude à l’Assurance) pour détection des sinistres communs à ceux d’autres compagnies d’assurance
+* Administration, organisations publiques, organismes de réglementation ou entités gouvernementales pour répondre à des demandes, des réquisitions ou dans le cadre d’enquêtes.
+
+En dehors de ces cas-là, seuls les prestataires de services ou d’outils peuvent être amenés à traiter Vos données personnelles, dans la limite des finalités énoncées ci-dessus, dans le respect du RGPD et conformément à des clauses de protection des données strictes. Certains de ces prestataires peuvent se trouver en dehors de l’Union Européenne, impliquant un transfert de données, encadré conformément aux garanties prévues par le Chapitre V du RGPD.
+
+‍
+
+#### Les Atouts du Groupe Ornikar
+
+Le Groupe Ornikar Vous accompagne dans Votre accès à la mobilité. Pour ce faire, il recueille et utilise des informations pour que Vous puissiez profiter de tous nos Services de façon adaptée. Cela implique une transmission de la part de Marianne Formation vers Ornikar Assurances ou d’Ornikar Assurances vers Marianne Formation pour Vous permettre de bénéficier de l’accompagnement d’Ornikar dans les meilleures conditions de suivi de relations clientèle.
 
 Ornikar utilise les informations recueillies (notamment via un transfert de données entre les différentes entités du Groupe Ornikar) pour fournir, personnaliser, entretenir et améliorer ses Produits et Services.
 
- Cela comprend notamment l'utilisation des informations pour :
+‍
 
-* créer et mettre à jour votre compte ;
-* vérifier votre identité ;
-* proposer des produits et services adaptés à vos besoins ; 
-* proposer, obtenir, fournir ou faciliter des solutions d'assurance ou de financement en lien avec nos Services, réaliser des études actuarielles, etc ; 
-* appuyer votre parcours de formation avec des conseils et alertes grâce aux informations relatives à votre  parcours de formation ;
-* créer un profil et opérer à l’évaluation et la prédiction de votre situation par le biais notamment de scores (que ce soit lors de votre formation au code de la route, de votre apprentissage de la conduite ou de la souscription d’un contrat d’assurance)
-* proposer les services assurantiels adaptés, grâce aux informations relatives à votre  parcours de formation et scores associés ;
-* effectuer des opérations internes nécessaires à la prestation de nos Services, comme le dépannage des bugs logiciels ou la résolution des problèmes opérationnels, l'analyse de données, les tests et la recherche, ainsi que le suivi et l'analyse de l'utilisation et des tendances de l'activité ; 
-* Effectuer des opérations de prospection.
+1.3. Traitement de données des enseignants partenaires
+------------------------------------------------------
 
-### 3.2. Sécurité
+‍
 
-Nous utilisons vos données pour garantir la sécurité et l'intégrité de nos Services et de nos Utilisateurs. Cela comprend, par exemple :
+MARIANNE FORMATION est Responsable de Traitement.
 
-* la sélection des enseignants-partenaires avant de les autoriser à utiliser nos Services et le contrôle à intervalles réguliers par la suite ;
-* l'utilisation des notes des Utilisateurs pour faciliter la mise en relation des Utilisateurs ou pour inciter les Utilisateurs concernés à s'améliorer, et comme fondement pour désactiver les Utilisateurs dont la note est inférieure à un minimum donné.   
-    Le calcul et la désactivation peuvent être effectués à l'aide d'un processus de prise de décision automatique. Vous avez le droit de Vous opposer à ce type de traitement. 
+Ces traitements concernent les personnes enseignant la conduite ou en cours de formation pour devenir enseignant de la conduite. Cela comprend les enseignants partenaires d’Ornikar (Enseignants Partenaires), les enseignants qui n’ont pas encore noué de partenariat avec Ornikar (Enseignants Prospects) et les apprentis en cours de formation pour devenir enseignants de la conduite (Apprentis Enseignants)
 
-### 3.3. Assistance client
+‍
 
-Ornikar utilise les informations recueillies (notamment les enregistrements des appels à l'assistance client après Vous en avoir averti et avec votre accord) afin de Vous aider lorsque Vous contactez nos Services d'assistance client, notamment aux fins suivantes :
+![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/66fbc3d3b21acda8aa2519ad_66fbbfb108fa53e748a67fb8_Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202024-10-01%2520a%25CC%2580%252011.23.53.png)
 
-* adresser vos questions au bon interlocuteur au sein de l'assistance client ;
-* effectuer des recherches et répondre à vos préoccupations ;
-* assurer le suivi et améliorer les réponses de l'assistance client.
+‍
 
-### 3.4. Recherche et développement
+#### Données personnelles traitées
 
-Nous pouvons utiliser les informations que Nous recueillons à des fins de test, de recherche, de profilage, d'analyse et de développement de Produits, de statistiques, de satisfaction client. Cela Nous permet d'améliorer la sécurité de nos Services, de développer de nouvelles fonctionnalités et de nouveaux Produits et Services, et de faciliter les solutions d'assurance et de financement en lien avec nos Services notamment en analysant vos données recueillies dans le cadre de nos Services de formation à la conduite et en les croisant de manière cryptée avec nos partenaires assureurs.
+* **Profil Enseignant et données d’identification :** Nous recueillons des informations lorsque Vous créez ou mettez à jour votre compte de Partenaire Ornikar. Cela peut comprendre votre nom, votre adresse e-mail, votre numéro de téléphone, votre identifiant de connexion et votre mot de passe, votre code postal, votre photo, Vos documents administratifs.
+* **Enregistrement d’appels téléphoniques :** Dans le cadre de l’une des finalités mentionnées ci-dessus, veuillez noter que les appels téléphoniques peuvent être enregistrés.
+* **Données d’utilisation de nos outils et applications :** Les informations relatives aux activités sur nos environnements (par exemple, les paramétrages et suivi des services opérés par l’Enseignant partenaires sur nos solutions et applications mises à disposition) 
+* **Données démographiques :** Nous pouvons recueillir des informations démographiques à votre sujet, y compris au moyen d'enquêtes réalisées auprès des Utilisateurs.
+* **Les données de géolocalisation** si elles ont été activées, dans le cadre d’un projet spécifique.
+* **Données relatives à Vos réseaux sociaux** : Dans le cas où Vous Vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Nous aurons accès à certaines données (notamment, Vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné. L’accès aux réseaux sociaux implique au préalable votre acceptation de leurs conditions contractuelles, incluant leurs engagements au regard du RGPD pour les traitements effectués par ces derniers, et ce indépendamment de nos pages sur lesdits réseaux sociaux (Facebook, Instagram, Twitter, etc.). Pour en savoir plus sur la protection de Vos Données Personnelles lors de la navigation sur ces réseaux sociaux, Nous Vous invitons à consulter leurs politiques de confidentialité respectives. Nous sommes également susceptibles de recueillir certaines de Vos données lorsque Vous naviguez sur les pages de nos réseaux sociaux, lorsque Vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime ».
+* **Contenu Utilisateur** : Nous recueillons des informations que Vous envoyez lorsque Vous contactez l'assistance Ornikar, lorsque Vous laissez des avis sur notre site internet, ou lorsque Vous contactez Ornikar dans tout autre contexte. Également, Nous pouvons être amené, dans le cadre de l’organisation de jeux concours, à utiliser Vos noms, prénom, date de naissance, photographie éventuelle du profil, sexe, réseaux, Identifiant utilisateur du Réseau Social, ainsi que toutes informations rendues publiques et plus généralement des Données Personnelles. Lorsqu’un jeu concours est en cours,le règlement est disponible sur le Site.
+* **Données financières** : Vous devez Nous fournir Vos informations bancaires afin de pouvoir régler Vos prestations, objet de notre partenariat. 
 
-Plus spécifiquement, l’Occitanie fait l’objet d’une expérience courant sur l’année 2023.
+Les sources de données peuvent être : 
 
-Les données de géolocalisation des enseignants volontaires en Occitanie vont être collectées lors des leçons dispensées pour Ornikar. 
+* les données que Vous fournissez ou générez
+* les partenaires commerciaux d'Ornikar 
+* les sources publiques.
 
-Les enseignants en Occitanie recevront des informations et explications relatives à l’expérience et ils pourront choisir d’y participer en consentant au traitement de leur données de géolocalisation pendant leurs heures de conduite Ornikar.
+‍
 
-Les données sont collectées par Ornikar à l’aide d’un SDK de géolocalisation, c'est-à-dire un extrait de code ajouté à l’application professionnelle d’Ornikar. L’éditeur de ce SDK est Drivequant, sous traitant technique pour ce traitement de données personnelles.
+#### Durées de conservation des données
 
-_DRIVEQUANT, éditeur de la solution applicative mobile -Société par Actions Simplifiée au capital de 1 200 000 Euros, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 827 527 817, dont le siège social est situé 46/48 rue René Clair, 75018 Paris - est qualifiée de sous-traitant technique._
+Nous conservons Vos données aussi longtemps que Votre contrat avec Nous est en vigueur.
 
-**Données traitées**
+Plus précisément : 
 
-Les nom et prénom de l’enseignant, son adresse mail, les date et heure des trajets pour Ornikar, les données GPS de ses trajets en véhicules motorisés pendant les leçons pour Ornikar, ainsi que des informations relatives à son téléphone : modèle, version de l'OS, niveau de batterie, état du Bluetooth, sont collectées.
+* 5 ans après la dernière utilisation de votre compte professionnel
+* 3 ans pour les données de nos prospects à compter du dernier contact (en cas de démarchage, de demande de renseignements ou de documentation, par exemple).
+* 10 ans pour les données financières et comptables.
 
-Pour détecter et analyser les trajets du véhicule, l'application utilise la localisation en arrière-plan des enseignants volontaires. 
+Après cette période, Vos données sont conservées à des fins de défense des intérêts judiciaires et réglementaires d’Ornikar, le temps que courent les délais juridiques de prescription.
 
-Cela permet ainsi la collecte de données relatives aux durée des trajets, distances parcourues, types de routes, zones géographiques concernées, intensité des accélérations et des freinages, intensité des prises de virage, vitesse moyenne. Ces données sont transmises directement à notre prestataire pour lui permettre de calculer des indicateurs sur le comportement de conduite du candidat en y intégrant des données de contexte (météo, cartographie…..)
+Dans l’hypothèse où votre compte a été suspendu ou bloqué, Vos données sont susceptibles d’être conservées afin d’éviter tout contournement de votre part des règles en vigueur sur nos plateformes.
 
-L'application analyse la vitesse et le déplacement pour calculer les indicateurs de conduite des candidats à travers l’analyse :
+Dans certaines circonstances, Ornikar peut se voir dans l'impossibilité d'archiver votre compte, par exemple s'il existe une réclamation ou un litige non résolu.
 
-* Des données sur le score de sécurité, calculé à partir des événements d'accélérations / freinages ou encore les limites de perte d'adhérence détectés au cours des trajets motorisés,
-* Des données relatives au score d’éco-conduite, calculé à partir de la régularité de la vitesse, de l’accélération et du freinage
+‍
 
-**Finalité de traitement**
+#### Destinataires des Données
 
-Les données seront ainsi liées au candidat afin d’approfondir les recherches d’Ornikar destinées à améliorer le parcours de formation et l’établissement de scores et de profils conducteurs, pour ses activités d’assurance. Ce test a lieu en Occitanie uniquement. 
+Vos données ne sont pas transmises à l’extérieur du Groupe Ornikar, sauf dans ces cas précis : 
 
-La collecte est basée sur le consentement de l’enseignant volontaire. Le traitement de recherche et d’analyse des données liées au profil du candidat est basé sur l’intérêt légitime d’Ornikar d’amélioration continue de ses produits et services. 
+* Communication de Données Personnelles nécessaires aux enseignants partenaires, à des fins de prestations des services objet du contrat de formation (ex : pour envoyer un SMS lors de l’arrivée sur le point de rdv)
+* Vous avez donné votre consentement à la communication de Vos données à nos partenaires sélectionnés
+* Vous bénéficiez du dispositif du Compte Personnel de Formation, ce pour quoi Ornikar a l’obligation d’échanger des éléments avec l’Administration,
+* Administration, organisations publiques, organismes de réglementation ou entités gouvernementales pour répondre à des demandes, des réquisitions ou dans le cadre d’enquêtes.
 
-**Accès et conservation des données**
+En dehors de ces cas-là, seuls les prestataires de services ou d’outils peuvent être amenés à traiter Vos données personnelles, dans la limite des finalités énoncées ci-dessus, dans le respect du RGPD et conformément à des clauses de protection des données strictes. Certains de ces prestataires peuvent se trouver en dehors de l’Union Européenne, impliquant un transfert de données, encadré conformément aux garanties prévues par le Chapitre V du RGPD.
 
-Dans le cadre de cette expérience, les données seront transmises aux autres équipes techniques d’Ornikar pour les analyser et effectuer de la recherche sur la pédagogie et sur les comportements de conduite des candidats.
+Le Groupe Ornikar recueille et utilise des informations pour que Vous puissiez profiter de nos Services de formation à la conduite et nos Services d’assurance. Cela implique une transmission de la part de Marianne Formation vers Ornikar Assurances ou d’Ornikar Assurances vers Marianne Formation pour Vous permettre de bénéficier de l’accompagnement d’Ornikar dans les meilleures conditions de suivi de relations clientèle.
 
-Ces données ne seront pas gardées plus de 5 ans après la collecte, sauf si l’un des droits relatifs à la protection des données est exercé, comme mentionné dans l’Article 7 de la présente politique de confidentialité.
+Il est à noter que les enseignants partenaires ont également un rôle de responsable de traitement, en tant qu’enseignant indépendant de la conduite. Ils demeurent responsables des traitements de données effectués pour leur propre compte.
 
-Aucune donnée n’est transférée en dehors de l’Union Européenne, les services sont intégrés sur des serveurs d’un Hébergeur en France : OVH
+‍
 
-### 3.5. Communications entre Utilisateurs
+1.4. Traitement de données généraux et transversaux
+---------------------------------------------------
 
-Ornikar utilise les informations recueillies pour permettre la communication entre Utilisateurs. Par exemple, un enseignant peut appeler un élève ou lui envoyer un SMS pour confirmer un lieu de rendez-vous.
+‍
 
-###  3.6. Communications de la part d'Ornikar
+MARIANNE FORMATION et ORNIKAR ASSURANCES sont Responsables de Traitement.
 
-Ornikar peut utiliser les informations recueillies (notamment via un transfert de données entre les différentes entités du Groupe Ornikar) pour communiquer avec Vous au sujet des Produits, des Services, des promotions, des études, des enquêtes, des actualités, des mises à jour et des événements.
+Ces traitements concernent les personnes naviguant sur notre site ou entrant en interactions avec Nous dans un contexte autre que les services que Nous proposons.
 
-Ornikar peut également utiliser ces informations pour promouvoir et gérer des concours et des loteries, remettre les lots associés et diffuser auprès des Utilisateurs des publicités et du contenu ciblé concernant nos Services et ceux de nos partenaires commerciaux. Il est possible que Vous receviez certaines de ces communications en fonction de votre profil d'Utilisateur Ornikar. Vous avez le droit de Vous opposer à ce type de traitement, conformément à l’article 7 de la présente Politique de confidentialité. 
+‍
 
-### 3.7. Procédures judiciaires et exigences légales
+![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/66fbc3d3b21acda8aa2519a6_66fbbfe2d3d6baad2385cae2_Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202024-10-01%2520a%25CC%2580%252011.24.40.png)
 
-Nous pouvons utiliser les informations que Nous recueillons pour enquêter ou répondre à des demandes, réclamations ou à des litiges concernant votre utilisation des Services d'Ornikar, ou pour répondre à la demande d'organismes de réglementation ou d'entités gouvernementales, ou dans le cadre d'enquêtes administratives. Nous pouvons utiliser vos données dans le cadre de l’exercice des recours et la gestion des réclamations et des contentieux. 
+‍
 
-Nous pouvons également utiliser Vos données dans le cadre du recouvrement.
+#### Données personnelles traitées
 
-ARTICLE 4 - Cookies et technologies tierces
+* **Données d’identification :** Nous recueillons des informations lorsque Vous remplissez un formulaire de contact sur notre Site. Cela peut comprendre nom, votre adresse e-mail, votre numéro de téléphone.
+* **Données de navigation** : Les informations relatives aux activités sur nos environnements 
+* **Données nécessaires à la candidature** : Pour les procédés de recrutement, certaines de Vos données personnelles sont nécessaires tels que Vos CVs, données relatives à votre vie professionnelle, etc
+* **Données nécessaires à la gestion d’un contentieux ou d’une alert** : Pour la gestion de ces évènements, des données spécifiques à l’objet du contentieux ou de l’alerte sont collectées, comprenant des données personnelles
+* **Données de vie professionnelle** : Dans le cadre de la gestion des données de contacts de fournisseurs ou du recrutement.
+
+‍
+
+#### Durées de conservation des données
+
+Nous conservons Vos données aussi longtemps que nécessaire pour répondre aux finalités mentionnées ci-dessus, et sont ensuite archivées à des fins de conservation de la preuve, durant le délai des prescriptions légales.
+
+Concernant les données collectées dans le cadre du recrutement, elles peuvent être conservées afin de constituer une “CVthèque” sauf si Vous Vous y opposez.
+
+‍
+
+#### Destinataires des Données
+
+Vos données ne sont pas transmises à l’extérieur du Groupe Ornikar, sauf dans ces cas précis : 
+
+* Communication de Données Personnelles nécessaires aux enseignants partenaires, à des fins de prestations des services objet du contrat de formation (ex : pour envoyer un SMS lors de l’arrivée sur le point de rdv)
+* Vous avez donné votre consentement à la communication de Vos données à nos partenaires sélectionnés
+* Vous bénéficiez du dispositif du Compte Personnel de Formation, ce pour quoi Ornikar a l’obligation d’échanger des éléments avec l’Administration,
+* Administration, organisations publiques, organismes de réglementation ou entités gouvernementales pour répondre à des demandes, des réquisitions ou dans le cadre d’enquêtes.
+
+En dehors de ces cas-là, seuls les prestataires de services ou d’outils peuvent être amenés à traiter Vos données personnelles, dans la limite des finalités énoncées ci-dessus, dans le respect du RGPD et conformément à des clauses de protection des données strictes.
+
+Le Groupe Ornikar recueille et utilise des informations pour que Vous puissiez profiter de nos Services de formation à la conduite et nos Services d’assurance. Cela implique une transmission de la part de Marianne Formation vers Ornikar Assurances ou d’Ornikar Assurances vers Marianne Formation pour Vous permettre de bénéficier de l’accompagnement d’Ornikar dans les meilleures conditions de suivi de relations clientèle.
+
+‍
+
+ARTICLE 2 - Cookies et technologies tierces
 -------------------------------------------
+
+‍
 
 **_Ornikar et ses partenaires utilisent des cookies et d'autres technologies d'identification sur ses applications, sites Internet, e-mails et publicités en ligne._**
 
-Les cookies sont de petits fichiers textes qui sont stockés dans votre navigateur ou votre appareil par les sites Internet, les applications, les médias en ligne et les publicités. **Ornikar utilise des cookies et des techniques similaires sur le Site, notamment aux fins suivantes** :
+Les cookies sont de petits fichiers textes qui sont stockés dans votre navigateur ou votre appareil par les sites Internet, les applications, les médias en ligne et les publicités. **Ornikar utilise des cookies et des techniques similaires sur le Site, notamment aux fins suivantes** :
 
 * authentifier des Utilisateurs
 * se souvenir des préférences et des paramètres des Utilisateurs
 * établir la popularité d'un contenu
 * délivrer et mesurer l'efficacité des campagnes publicitaires
-* analyser le trafic du site et les tendances et, d'une manière générale, comprendre les comportements en ligne et les intérêts des personnes qui interagissent avec nos Services.
+* analyser le trafic du site et les tendances et, d'une manière générale, comprendre les comportements en ligne et les intérêts des personnes qui interagissent avec nos Services. 
 
 Nous pouvons également autoriser des tiers à fournir des Services d'analyse et de mesure d'audience pour notre Société, à diffuser des publicités pour notre compte sur Internet et à suivre et établir des rapports sur les résultats de ces publicités. Ces entités peuvent utiliser des cookies, des pixels de tracking, des kits de développement logiciel et d'autres techniques pour identifier votre appareil lorsque Vous consultez notre Site et utilisez nos Services, ainsi que lorsque Vous naviguez sur d'autres sites ou services en ligne.
 
-Pour en savoir plus sur la manière dont Ornikar utilise les cookies, veuillez Vous référer à la “Politique de cookies” d’Ornikar [https://www.ornikar.com/a-propos/cookies](https://www.ornikar.com/a-propos/cookies). 
+‍
 
-ARTICLE 5 - Partage et divulgation d'informations
+\*Pour en savoir plus sur la manière dont Ornikar utilise les cookies, veuillez Vous référer à la “Politique de cookies” d’Ornikar **\[LIEN\]**. 
+
+‍
+
+ARTICLE 3 - Partage et divulgation d'informations
 -------------------------------------------------
+
+‍
 
 **_Certains des Produits, Services et fonctionnalités d'Ornikar nécessitent que Nous transmettions des informations à d'autres Utilisateurs ou à votre demande._**
 
-Ornikar peut communiquer les informations recueillies :
+Ornikar peut communiquer les informations recueillies :
 
-### 5.1. À d'autres Utilisateurs
+‍
+
+### **3.1. À d'autres Utilisateurs**
 
 * Par exemple, si Vous êtes un élève, Nous pouvons communiquer votre prénom et votre numéro de téléphone à nos enseignants.
-* Si Vous êtes enseignant, Nous pouvons communiquer des informations à votre ou vos élèves, notamment votre nom et votre photo.
+* Si Vous êtes enseignant, Nous pouvons communiquer des informations à votre ou Vos élèves, notamment votre nom et votre photo.
 
-### 5.2. A d’autres entités faisant partie du Groupe Ornikar
+‍
 
-Les entités du Groupe Ornikar sont susceptibles d’échanger Vos données entre elles, dans le cadre prévu par la présente politique.
+### **3.2. A d’autres entités faisant partie du Groupe Ornikar**
 
-### 5.3. À tout le monde lorsque Vous envoyez du contenu sur un forum public
+Les entités du Groupe Ornikar sont susceptibles d’échanger Vos données entre elles, dans le cadre prévu par la présente politique. 
 
-Nous adorons avoir des retours de nos Utilisateurs, notamment par le biais de forums publics comme les réseaux sociaux. Lorsque Vous communiquez avec Nous par ces moyens, vos messages peuvent être consultés par tout le monde.
+‍
 
-### 5.4. Aux prestataires de Services et partenaires commerciaux d'Ornikar
+### **3.3. À tout le monde lorsque Vous envoyez du contenu sur un forum public**
+
+Nous adorons avoir des retours de nos Utilisateurs, notamment par le biais de forums publics comme les réseaux sociaux. Lorsque Vous communiquez avec Nous par ces moyens, Vos messages peuvent être consultés par tout le monde.
+
+###   
+**3.4. Aux prestataires de Services et partenaires commerciaux d'Ornikar**
 
 Ornikar peut fournir des informations à ses fournisseurs, à ses partenaires marketing, à des sociétés de recherche et à d'autres prestataires de Services ou partenaires commerciaux qui sont expressément tenus par contrat écrit de ne pas divulguer ni utiliser les informations Vous concernant à toute autre fin. Ils sont en effet tenus contractuellement à des obligations de confidentialité et de sécurité au moins équivalentes à celles prévues dans la présente politique de confidentialité.  
-Cela peut concerner, par exemple :
+Cela peut concerner, par exemple :
 
-* des organismes de traitement des paiements ;
-* des fournisseurs de stockage sur le cloud ;
-* des partenaires marketing et des fournisseurs de plateformes marketing ;
-* des fournisseurs d'analyse de données ;
-* des consultants, des avocats, des comptables et d'autres prestataires de Services professionnels ;
-* des partenaires en assurance et des partenaires financiers ;
+* des organismes de traitement des paiements ;
+* des fournisseurs de stockage sur le cloud ;
+* des partenaires marketing et des fournisseurs de plateformes marketing ;
+* des fournisseurs d'analyse de données ;
+* des consultants, des avocats, des comptables et d'autres prestataires de Services professionnels ;
+* des partenaires en assurance et des partenaires financiers ;
 * des huissiers, dans le cadre de tirages au sort de jeux concours ;
 * des prestataires de solutions pour les véhicules ou des fournisseurs de véhicules tiers.
 
-### 5.5. Pour des raisons juridiques ou en cas de litige
+Veuillez noter que certains de nos partenaires ou prestataires de services peuvent se trouver en dehors de l’Espace Economique Européen. Dans ce cas-là, Ornikar met en place les mesures techniques et organisationnelles nécessaires, et validées par la Commission Européenne pour encadrer les transferts de Vos données.
 
-Ornikar peut communiquer vos informations si Nous estimons que la législation, la réglementation, un contrat d'exploitation, une procédure judiciaire ou une demande du gouvernement l'exigent.
+‍
 
-Cela implique la communication de vos informations aux autorités, aux parties intéressées ou intervenants au contrat d’assurance aux institutions gouvernementales, ou à d'autres tiers pour appliquer nos conditions d'utilisation, notre accord avec les Utilisateurs ou d'autres règles, afin de protéger les droits ou les biens d'Ornikar, ou les droits, la sécurité ou les biens de tiers, ou en cas de réclamation ou de litige concernant votre utilisation de nos Services et Produits. 
+### **3.5. Pour des raisons juridiques ou en cas de litige**
 
-Cela implique également la communication de vos informations à des tiers en relation avec une fusion, une vente d'actifs, un regroupement, une restructuration, un financement ou l'acquisition de tout ou partie de notre entreprise par une société.
+Ornikar peut communiquer Vos informations si Nous estimons que la législation, la réglementation, un contrat d'exploitation, une procédure judiciaire ou une demande du gouvernement l'exigent.
 
-### 5.6. Avec votre accord
+Cela implique la communication de Vos informations aux autorités, aux parties intéressées ou intervenants au contrat d’assurance aux institutions gouvernementales, ou à d'autres tiers pour appliquer nos conditions d'utilisation, notre accord avec les Utilisateurs ou d'autres règles, afin de protéger les droits ou les biens d'Ornikar, ou les droits, la sécurité ou les biens de tiers, ou en cas de réclamation ou de litige concernant votre utilisation de nos Services et Produits.
 
-Ornikar peut transmettre vos informations autrement que ce qui est décrit dans la présente politique si Nous Vous en avertissons et si Vous Nous donnez votre accord.
+Cela implique également la communication de Vos informations à des tiers en relation avec une fusion, une vente d'actifs, un regroupement, une restructuration, un financement ou l'acquisition de tout ou partie de notre entreprise par une société.  
+  
+**‍**
 
-ARTICLE 6 – Conservation et suppression des informations
---------------------------------------------------------
+### **3.6. Avec votre accord**
 
-**6.1.** Vos données sont conservées pendant les périodes suivantes :
+Ornikar peut transmettre Vos informations autrement que ce qui est décrit dans la présente politique si Nous Vous en avertissons et si Vous Nous donnez votre accord.
 
-* 5 ans après la dernière utilisation de votre compte, si vous ne l’avez pas fermé.
-* 3 ans pour les données de nos prospects à compter du dernier contact (en cas de démarchage, de demande de renseignements ou de documentation, par exemple).
-* 1 an après la fermeture de votre compte, sauf si vous avez reçu un avis négatif ou un signalement, auquel cas vos données sont conservées pendant 2 ans suivant le dernier avis négatif ou signalement reçu si cette durée est plus longue.
-* 10 ans pour les données financières et comptables.
+‍
 
-Ces données sont susceptibles d’être archivées de manière sécurisée conformément aux dispositions légales en vigueur.
-
-**6.2.** Les catégories de Données Personnelles suivantes sont susceptibles d’être conservées pour des durées différentes :
-
-* Les données financières (par exemple les paiements, remboursements, etc.) sont conservées pour la durée requise par les lois applicables en matière fiscale et comptable ;
-* Les données collectées dans le cadre de la souscription à des produits d’assurance sont conservées pour la durée du contrat d’assurance souscrit et la durée nécessaire à la gestion de vos sinistres le cas échéant ou une durée plus longue si les lois applicables le permettent ;
-* Les contenus créés par vous lorsque vous utilisez nos Services (tels que les commentaires, avis et notation) sont rendus anonymes passés les délais mentionnés au 6.1 mais demeurent visibles sur nos plateformes ;
-* Certaines de vos données pourront être anonymisées à des fins de recherche ou de statistiques. N’étant plus considérées comme des données personnelles, elles pourront être conservées sans limitation dans le temps.
-
-**6.3.** Dans l’hypothèse où votre compte a été suspendu ou bloqué, Vos données sont susceptibles d’être conservées afin d’éviter tout contournement de votre part des règles en vigueur sur nos plateformes.
-
-Dans certaines circonstances, Ornikar peut se voir dans l'impossibilité d'archiver votre compte, par exemple s'il existe un crédit impayé sur votre compte, ou une réclamation ou un litige non résolu. 
-
-**6.4.** Ornikar peut également conserver certaines informations si nécessaire pour servir ses intérêts légitimes, par exemple pour prévenir la fraude et améliorer la sécurité des Utilisateurs.
-
-Par exemple, si Ornikar archive le compte d'un Utilisateur parce qu'il a un comportement dangereux, Ornikar peut conserver certaines informations au sujet de ce compte afin d'éviter que cet Utilisateur en ouvre un autre par la suite.
-
-**6.5.** En matière de gestion du contentieux : 
-
-* Les données traitées pour gérer un précontentieux seront supprimées dès le règlement amiable du litige ou, à défaut, dès la prescription de l’action en justice correspondante. 
-* Les données traitées pour gérer un contentieux seront supprimées lorsque les recours ne sont plus possibles contre la décision rendue pour la faire exécuter.
-* À l’expiration de ces périodes, les données sont supprimées de manière sécurisée ou archivées conformément à la délibération de la Commission n° 2005-213 du 11 octobre 2005 concernant l’archivage électronique pour les organismes du secteur privé. 
-* Les décisions prononcées peuvent être conservées par Ornikar à titre d’archive définitive en raison d’un intérêt historique.
-
-**6.6.** En matière de gestion des demandes d’exercices des droits reconnus aux personnes concernées au titre de la règlementation applicable au traitement des données personnelles : 
-
-* Les données traitées sont conservées le temps de l’instruction de votre demande, puis archivées conformément aux délais de prescription en vigueur (5 ans) ; 
-* Les données relatives aux pièces d'identité seront conservées pendant un délai d’un (1) an dans le respect des délais légaux applicables ; 
-* En cas d’opposition, les données seront conservées pendant une durée minimale de trois (3) ans dans le seul but de garantir l’effectivité de votre droit d’opposition.
-
-Pour de plus amples informations sur les durées de conservation de vos données, vous pouvez vous rapprocher du DPO d’ORNIKAR (Cf. Art. 7 de la présente Politique).
-
-ARTICLE 7 - Droits des Utilisateurs au sein de l'Union européenne
+ARTICLE 4 - Droits des Utilisateurs au sein de l'Union européenne
 -----------------------------------------------------------------
 
-Ornikar respecte les droits qui Vous sont accordés par le RGPD et la Loi Informatique & Libertés.
+‍
 
-Ainsi, Vous disposez du droit de demander l'accès aux données personnelles Vous concernant et qui sont conservées par Ornikar, de même que la rectification ou l'effacement de celles-ci, voire la limitation du traitement relatif aux données personnelles Vous concernant, ainsi que le droit de Vous opposer à leur traitement.
+Vous disposez du droit de demander l'accès aux données personnelles Vous concernant et qui sont conservées par Ornikar, de même que la rectification ou l'effacement de celles-ci, voire la limitation du traitement relatif aux données personnelles Vous concernant, ainsi que le droit de Vous opposer à leur traitement. 
 
-En vertu du droit à la portabilité, Vous avez la possibilité de récupérer une partie de vos données dans un format ouvert et lisible par une machine ou de demander à Ornikar de les transmettre à un autre organisme. Seules sont concernées par ce droit, les données que vous avez fournies activement et consciemment à Ornikar (par exemple, les données que vous avez renseignées dans un formulaire en ligne) ou les données générées lors de l’utilisation d’un service ou d’un dispositif dans le cadre de la conclusion ou de la gestion de votre contrat, et qui sont traitées de manière automatisée, sur la base du consentement ou de l’exécution d’un contrat.
+En vertu du droit à la portabilité, Vous avez la possibilité de récupérer une partie de Vos données dans un format ouvert et lisible par une machine ou de demander à Ornikar de les transmettre à un autre organisme. Seules sont concernées par ce droit, les données que Vous avez fournies activement et consciemment à Ornikar (par exemple, les données que Vous avez renseignées dans un formulaire en ligne) ou les données générées lors de l’utilisation d’un service ou d’un dispositif dans le cadre de la conclusion ou de la gestion de votre contrat, et qui sont traitées de manière automatisée, sur la base du consentement ou de l’exécution d’un contrat.
 
 Toutefois, en cas de limitation du traitement ou d'opposition au traitement, Ornikar pourra ne plus être en mesure de Vous permettre d'accéder à votre compte, voire Vous fournir les Produits et/ou Services que Vous avez commandés. Par ailleurs, en cas d'exercice du droit d'opposition ou du droit à l'oubli, certaines informations pourront malgré tout être conservées par Ornikar afin de se conformer à ses obligations légales.
 
-Certains traitements mis en œuvre par Ornikar reposent sur le recueil préalable de votre consentement. C’est le cas notamment des traitements relatifs aux opérations de prospection. Dans la mesure où vous avez exprimé votre consentement à faire l’objet d’une prospection de la part d’Ornikar, vous avez le droit de retirer votre consentement à tout moment. En exerçant ce droit, vous ne recevrez plus de prospection commerciale de la part d’Ornikar.
+Certains traitements mis en œuvre par Ornikar reposent sur le recueil préalable de votre consentement. C’est le cas notamment des traitements relatifs aux opérations de prospection. Dans la mesure où Vous avez exprimé votre consentement à faire l’objet d’une prospection de la part d’Ornikar, Vous avez le droit de retirer votre consentement à tout moment. En exerçant ce droit, Vous ne recevrez plus de prospection commerciale de la part d’Ornikar.
 
-Par exception, Ornikar est en droit d’utiliser vos données personnelles dans le cadre de la prospection sans recueil préalable de votre consentement si :
+Par exception, Ornikar est en droit d’utiliser Vos données personnelles dans le cadre de la prospection sans recueil préalable de votre consentement si :
 
-\- Vous êtes déjà client d’Ornikar et si la prospection concerne des services analogues à ceux qui vous ont déjà été fournis ;
+\- Vous êtes déjà client d’Ornikar et si la prospection concerne des services analogues à ceux qui Vous ont déjà été fournis ;
+
+\-  La prospection s’adresse à Vous en tant  que professionnel, et non en tant que consommateur
 
 \- La prospection n’est pas de nature commerciale.
 
-Vous disposez dans tous les cas de la possibilité de vous opposer à cette utilisation.
+Vous disposez dans tous les cas de la possibilité de Vous opposer à cette utilisation.
 
-Vous pouvez également définir des directives relatives à la conservation, à l’effacement et à la communication de vos données personnelles après votre décès. En l'absence de telles directives, les données personnelles Vous concernant seront conservées conformément aux paragraphes ci-dessus, à moins que vos héritiers ne demandent une suppression plus rapide.
+Vous pouvez également définir des directives relatives à la conservation, à l’effacement et à la communication de Vos données personnelles après votre décès. En l'absence de telles directives, les données personnelles Vous concernant seront conservées conformément aux paragraphes ci-dessus, à moins que Vos héritiers ne demandent une suppression plus rapide.
 
 Pour exercer ces droits, Vous pouvez envoyer (i) un e-mail à l'adresse [\[email protected\]](https://www.ornikar.com/cdn-cgi/l/email-protection) ou (ii) un courrier postal à l'adresse suivante : ORNIKAR, Protection des Données personnelles, 170 boulevard de la Villette à Paris (75019). Toute demande doit préciser, en objet, le motif de la demande (exercice du droit d’accès, d’opposition, …), l’adresse à laquelle doit parvenir la réponse et la société concernée par la demande. 
 
-Pour exercer vos droits, vous devez justifier de votre identité par tout moyen. Lorsqu’ORNIKAR a des doutes raisonnables quant à votre identité, il peut vous être demandé de fournir des informations supplémentaires nécessaires pour confirmer votre identité. 
+Pour exercer Vos droits, Vous devez justifier de votre identité par tout moyen. Lorsqu’ORNIKAR a des doutes raisonnables quant à votre identité, il peut Vous être demandé de fournir des informations supplémentaires nécessaires pour confirmer votre identité. 
 
-ORNIKAR vous adressera sa réponse dans un délai maximum d’un (1) mois, à compter de la date de réception de votre demande. Ce délai peut toutefois être prolongé de deux (2) mois en raison de la complexité et du nombre de demandes.
+ORNIKAR Vous adressera sa réponse dans un délai maximum d’un (1) mois, à compter de la date de réception de votre demande. Ce délai peut toutefois être prolongé de deux (2) mois en raison de la complexité et du nombre de demandes. 
 
-Par ailleurs, Vous êtes informé que Vous pouvez Vous opposer au démarchage téléphonique en Vous inscrivant sur le site internet [www.bloctel.fr](http://www.bloctel.fr/).
+Par ailleurs, Vous êtes informé que Vous pouvez Vous opposer au démarchage téléphonique en Vous inscrivant sur le site internet [www.bloctel.fr](http://www.bloctel.fr/). 
 
-Enfin, Vous avez le droit d’introduire une réclamation à tout moment auprès de l’autorité de contrôle compétente pour la protection des données. Pour ce faire, Vous pouvez Vous adresser à l’autorité de contrôle compétente pour la protection des données de la région dans laquelle Vous demeurez ou, en tout état de cause, la CNIL pour la France : [www.cnil.fr](https://www.cnil.fr/).
+Enfin, Vous avez le droit d’introduire une réclamation à tout moment auprès de l’autorité de contrôle compétente pour la protection des données. Pour ce faire, Vous pouvez Vous adresser à l’autorité de contrôle compétente pour la protection des données de la région dans laquelle Vous demeurez ou, en tout état de cause, la CNIL pour la France : [www.cnil.fr](https://www.cnil.fr/).
 
-ARTICLE 8 – Bases légales de traitement
----------------------------------------
+‍
 
-Ornikar traite les informations relatives aux Utilisateurs dans le cadre du ou des fondements légaux suivants :
-
-* l'**exécution d'un contrat** : pour la plupart, les données que Nous collectons sont celles qui sont nécessaires à l'exécution du contrat conclu entre Vous  et Nous, que ce soit pour la souscription d’un produit d’assurance  ou  afin de Vous permettre d'utiliser les heures de conduite que Vous avez commandées ou encore _in fine_ de passer l'examen du code et/ou du permis de conduire. Ou pour les enseignants, afin de faciliter ou d’accélérer votre lancement sur notre plateforme (vos données peuvent notamment être communiquées à des tiers, comme des partenaires) ;
-* les **obligations légales** d'Ornikar : certaines informations doivent nécessairement être collectées par Notre Société afin de se conformer aux obligations légales qui pèsent sur les établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière, sur les établissements dans le secteur de l’assurance ou toute autre obligation légale incombant à Notre Société;
-* votre **consentement** : Nous traitons certaines  données après l’obtention de votre consentement, par exemple pour les opérations de prospection . Les données obligatoires sont signalées d'un astérisque ;
-* **intérêts légitimes d'Ornikar** : enfin, certaines données collectées sont nécessaires aux fins légitimes que Nous poursuivons, en particulier  et sans que cela ne soit limitatif, la gestion du Site, la recherche le développement et l'amélioration de nos Produits et Services (notamment via des sondages), l’évaluation et la prédiction de votre situation par le biais notamment de scores (que ce soit lors de votre formation au code de la route, de votre apprentissage de la conduite ou de la souscription d’un contrat d’assurance), la personnalisation de votre expérience client, la prévention de la fraude, la sécurité des réseaux. Etant précisé que ni la collecte ni le traitement de ces données ne sont susceptibles de porter atteinte aux intérêts ou aux libertés fondamentales qui sont les vôtres.
-
-ARTICLE 9 – Mesures de protection des informations personnelles
----------------------------------------------------------------
-
-En sa qualité de responsable de traitement, Ornikar s’engage à mettre en œuvre et à maintenir, à ses frais, des mesures techniques et organisationnelles appropriées en matière de traitement et de sécurité des données personnelles, conformément aux articles 32 à 34 du RGPD et 121 de la Loi Informatique & Libertés. 
-
-Ornikar veille ainsi à ce que ces mesures techniques et organisationnelles soient de tous temps adaptées aux risques particuliers présentés par ses activités de traitement, au regard de la nature des informations susceptibles d'être collectées par elle, en particulier pour protéger vos données personnelles contre la destruction, la perte, la modification, la divulgation non autorisée, de manière accidentelle ou illicite.
-
-Ainsi, s'agissant des mesures techniques mises en place par Ornikar :
-
-* vos données personnelles sont principalement conservées sur des serveurs situés au sein de l'Union européenne ;  Par ailleurs, si Vos données venaient à être transférées hors de l’Union européenne et de l’Espace Économique Européen, par le biais de nos sous-traitants notamment, nous apporterions une attention toute particulière à ce que ces derniers traitent vos données dans le plus strict respect de la règlementation en vigueur en matière de protection des données personnelles. Dans le cas où ces derniers seraient situés ou transféraient des données dans un pays ne faisant pas l’objet d’une décision d’adéquation par la Commission Européenne, reconnaissant un niveau de protection équivalant à celui prévu par l’Union Européenne, un contrat type sera rédigé afin de se conformer au modèle établi par la Commission Européenne et à la règlementation en vigueur.
-* votre mot de passe est chiffré et n'est accessible par personne à part Vous. Seul un _hash_ des mots de passe des Utilisateurs est stocké sur les serveurs d’Ornikar ;
-* les accès à notre Site sont sécurisés par le service CloudFare, qui permet également de réduire le risque d’attaques par déni de service (DDoS). Le service CloudFare permet de bloquer les adresses IP effectuant trop de tentatives de connexion ou de créations de Compte ;
-* les accès administratifs à nos serveurs sont limités à certaines personnes dûment identifiées auprès de notre prestataire d'hébergement.
-
-S'agissant des mesures organisationnelles :
-
-* seuls certains membres du personnel d'Ornikar sont autorisés à avoir accès aux données personnelles Vous concernant ;
-* l’accès aux données est protégé par des noms d’Utilisateurs et mots de passe.
-
-Ornikar s’engage par ailleurs à tenir, mettre à jour et conserver des registres complets et précis concernant les traitements de données personnelles mis en œuvre par Ornikar. Ces registres détaillent ses activités de traitement.
-
-ARTICLE 10 – Profilage et décision entièrement automatisée
-----------------------------------------------------------
+**_Informations concernant le profilage_**
 
 Le profilage est un traitement exploitant Vos données à caractère personnel et ayant pour finalité d’analyser et de prédire Votre comportement. Il permet également de l’évaluer et définir Vos préférences pour créer un profil. Ornikar peut notamment être amené à réaliser des actions de profilage afin de lutter contre la fraude, la recherche et le développement et l'amélioration de nos Produits et Services, l’évaluation et la prédiction de votre situation, la personnalisation de votre expérience client.
 
 En outre, concernant la souscription, la gestion des contrats d’assurance et la gestion des sinistres des décisions entièrement automatisées basées sur le profilage peuvent être  prises à Votre égard.
 
-Concernant ces décisions, vous disposez du droit d’obtenir une intervention humaine, d’exprimer votre point de vue, et de contester la décision en écrivant à l’adresse indiqué à l’Article 7.
+Concernant ces décisions, Vous disposez du droit d’obtenir une intervention humaine, d’exprimer votre point de vue, et de contester la décision.
+
+‍
+
+ARTICLE 5 – Mesures de protection des informations personnelles
+---------------------------------------------------------------
+
+‍
+
+En sa qualité de responsable de traitement, Ornikar s’engage à mettre en œuvre et à maintenir, à ses frais, des mesures techniques et organisationnelles appropriées en matière de traitement et de sécurité des données personnelles, conformément aux articles 32 à 34 du RGPD et 121 de la Loi Informatique & Libertés. 
+
+Ornikar veille ainsi à ce que ces mesures techniques et organisationnelles soient de tous temps adaptées aux risques particuliers présentés par ses activités de traitement, au regard de la nature des informations susceptibles d'être collectées par elle, en particulier pour protéger Vos données personnelles contre la destruction, la perte, la modification, la divulgation non autorisée, de manière accidentelle ou illicite.
+
+Vos données personnelles sont principalement conservées sur des serveurs situés au sein de l'Union européenne.
+
+Par ailleurs, si et lorsque Vos données venaient à être transférées hors de l’Union européenne et de l’Espace Économique Européen, par le biais de nos sous-traitants notamment, Nous apporterions une attention toute particulière à ce que ces derniers traitent Vos données dans le plus strict respect de la réglementation en vigueur en matière de protection des données personnelles. Dans le cas où ces derniers seraient situés ou transféraient des données dans un pays ne faisant pas l’objet d’une décision d’adéquation par la Commission Européenne, reconnaissant un niveau de protection équivalant à celui prévu par l’Union Européenne, un contrat type sera rédigé afin de se conformer au modèle établi par la Commission Européenne et à la réglementation en vigueur.  
+
+‍
+
+A ce jour, Ornikar opère un transfert de données personnelles dans les pays suivants : 
+
+* Etats-Unis, (transfert encadré par le Data Privacy Framework ou les clauses contractuelles types)
+* Maurice,  (transfert encadré par les clauses contractuelles types) - Services Education
+* Maroc, (transfert encadré par les clauses contractuelles types) - Services Assurance
+
+‍
 
 Versions précédentes
 --------------------
 
+* [Version applicable du 3 juillet 2023 au 30 septembre 2024](https://ornikar.cdn.prismic.io/ornikar/ec711fca-9db1-4395-80a0-c3c47d214808_ORNIKAR+-+Politique+de+Confidentialit%C3%A9+-+24.01.2023+-+CLEAN.pdf)
 * [Version applicable du 15 septembre 2020 au 02 juillet 2021](https://ornikar.cdn.prismic.io/ornikar/f1bf1b67-67c0-4867-ba8f-1b023ea783da_Politique+de+confidentialit%C3%A9+-+15+septembre+2020.pdf)
 * [Version applicable du 03 juillet 2021 au 06 décembre 2022](https://ornikar.cdn.prismic.io/ornikar/0d5f3863-dec7-45bd-9e37-101882f36a2e_Politique+de+confidentialit%C3%A9+07-12-2022.pdf)
 * [Version applicable du 07 décembre 2022 au 23 janvier 2023](https://ornikar.cdn.prismic.io/ornikar/acde4f3b-c410-46c1-9f29-284fe587fcc4_Politique+de+confidentialit%C3%A9+actuelle+07-12-2022.pdf)
 
-_Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler._
-
-[](https://www.ornikar.com/)
-
-[](https://www.ornikar.com/)
-
-[](https://www.ornikar.com/)
-
-[Découvrir nos offres](https://www.ornikar.com/)
+Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
 [Ornikar
 
-Ornikar, l’auto-école qui assure même après le permis !
+La 1ère auto-école de France !
 
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/)[Permis B
+Je découvre](https://www.ornikar.com/)[Ornikar
 
-Et si vous testiez la conduite avec Ornikar ?
+La 1ère auto-école de France !
 
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)
+Je découvre](https://www.ornikar.com/permis)
 
 [Code de la route
 
-Avec Ornikar, le code c’est dans la poche
+Votre code pour moins de 3€/mois !
 
-À moins de 15€/an, mais avec tout ce qu’il faut pour réussir !
+Et du 1er coup, comme plus de 3 millions d'élèves Ornikar !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code)
+Je découvre](https://www.ornikar.com/code)
 
 [Assurance auto
 
@@ -675,189 +719,111 @@ Ornikar, votre assurance auto jeune conducteur au prix juste !
 
 Pour une assurance qui vous protège sans vous surtaxer.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
 
-Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
+Assurez votre véhicule à moindre coût grâce à Ornikar Assurance !
 
 Découvrez et choisissez la formule la plus  
 adaptée à votre profil de conducteur.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar, l’auto-école qui assure même après le permis !
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+
+Ornikar, l’auto-école qui assure même après le permis !
 
 Notre mission : rendre l’autonomie accessible à toutes et à tous.
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/)[Et si vous testiez la conduite avec Ornikar ?
+Je découvre](https://www.ornikar.com/)[SATISFAIT OU REMBOURSÉ
 
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
+Et si vous testiez la conduite avec Ornikar ?
 
-Je découvre
+Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous, on vous rembourse si vous n'êtes pas satisfait.e ! 
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-[Avec Ornikar, le code c’est dans la poche
+Je découvre](https://www.ornikar.com/permis)
 
-À moins de 15€, mais avec tout ce qu’il faut pour réussir !
+[Code de la route
 
-Je découvre
+Votre code pour moins de 3€/mois !
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code)
+Et du 1er coup, comme plus de 3 millions d'élèves Ornikar !
 
-[Ornikar, votre assurance auto jeune conducteur au prix juste !
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
+
+Je découvre](https://www.ornikar.com/code)
+
+[Assurance auto
+
+Ornikar, votre assurance auto jeune conducteur au prix juste !
 
 Pour une assurance qui vous protège sans vous surtaxer.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+
+Assurez votre véhicule à moindre coût grâce à Ornikar Assurance !
 
 Découvrez et choisissez la formule la plus  
 adaptée à votre profil de conducteur.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ne risquez pas un échec.
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
 
-Faites le choix Ornikar
+Votre permis dès 559,€
 
-J'apprends à conduire
+Avec la 1ère auto-école de France et les meilleurs enseignants de France.
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)[Ne risquez pas un échec.
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Faites le choix Ornikar.
+Je découvre](https://www.ornikar.com/permis)[OFFERT
 
-Démarrez un test de Code Gratuit
+1 série de code
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code/gratuit)[Le permis financé avec le CPF !
+Pour tester gratuitement !
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66c4a91107897c58e1ab6b8b_Illustration%20code%20(1).png)
+
+Démarrer une série de code offerte](https://www.ornikar.com/code/gratuit)[Permis B
+
+Le permis financé avec le CPF !
 
 Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis ? Avec Ornikar c’est possible !
 
-Je finance mon permis
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)](https://www.ornikar.com/financer-permis-cpf)[![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a7a96b6ea34b6c01fca56b_Badge%20Acheel%20rouge.svg)
+Je finance mon permis](https://www.ornikar.com/financer-permis-cpf)[Nouveau
 
-ASSURANCE HABITATION
+L'assurance habitation
 
 Une assurance transparente et personnalisable, dès 2,17€/mois seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)[VOTRE CARTE GRISE EN MOINS DE 48H !
+Je découvre](https://www.ornikar.com/assurance-habitation)[Carte Grise
+
+VOTRE CARTE GRISE EN MOINS DE 48H !
 
 Grâce à notre service partenaire.
 
-J'en profite
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)](https://certimat.fr/prescripteurs?partner=5361)
+J'en profite](https://certimat.fr/prescripteurs?partner=5361)
 
 ### A lire également
 
-Aucun article pour le moment
+No items found.
 
-Envie d'en savoir plus
+### Envie d’aller plus loin ?
 
-[Codes promos Ornikar](https://www.ornikar.com/a-propos/code-promo-ornikar)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
-
-[Jeu concours Ornikar - JO Juillet 2024](https://www.ornikar.com/a-propos/promo-juillet-2024)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-juillet-2024)
-
-[Règlement jeu concours - Juin 2024](https://www.ornikar.com/a-propos/reglement-jeu-concours-juin-2024)
-
-[Promo juin 2024](https://www.ornikar.com/a-propos/promo-juin-2024)
-
-[Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-mai-2024)
-
-[Partenaires d'Ornikar](https://www.ornikar.com/a-propos/nos-partenaires-education-et-assurance)
-
-[Promo Flash Avril 2024](https://www.ornikar.com/a-propos/bons-plans/promo-flash-avril-2024)
-
-[Offres promotionnelles février 2024](https://www.ornikar.com/a-propos/bons-plans/promotions-fevrier-2024)
-
-[Promotion janvier 2024](https://www.ornikar.com/a-propos/bons-plans/promotion-janvier)
-
-[Xmas Days 2023](https://www.ornikar.com/a-propos/bons-plans/xmas-days)
-
-[Jeu concours Instagram Black Friday 2023](https://www.ornikar.com/a-propos/bons-plans/concours-instagram)
-
-[Black Friday 2023](https://www.ornikar.com/a-propos/bons-plans/black-friday-2023)
-
-[Maîtriser son budget](https://www.ornikar.com/a-propos/bons-plans/maitriser-budget)
-
-[Ornikar Days](https://www.ornikar.com/a-propos/bons-plans/ornikar-days)
-
-[Offre assurance octobre 2023](https://www.ornikar.com/a-propos/bons-plans/offre-assurance-10-2023)
-
-[Partenariat Ornikar](https://www.ornikar.com/a-propos/partenariat-ornikar)
-
-[Avis Ornikar : nos candidats à la conduite](https://www.ornikar.com/a-propos/temoignages-conduite)
-
-[Rédactrice Lea Doumerc](https://www.ornikar.com/a-propos/redacteurs/lea-doumerc)
-
-[Avis Ornikar : nos candidats au code de la route](https://www.ornikar.com/a-propos/temoignages-code)
-
-[Revue de presse d'Ornikar](https://www.ornikar.com/a-propos/revue-de-presse)
-
-[Rédacteur Amaury Le Scornet](https://www.ornikar.com/a-propos/redacteurs/amaury-le-scornet)
-
-[Rédacteurs d'Ornikar](https://www.ornikar.com/a-propos/redacteurs)
-
-[Pourquoi Ornikar et pas Ornicar ?](https://www.ornikar.com/a-propos/pourquoi-ornikar-avec-un-k-et-pas-ornicar-avec-un-c)
-
-[Ornikar : champion de la Frenchtech](https://www.ornikar.com/a-propos/ornikar-champion-frenchtech)
-
-[Qui sommes-nous ?](https://www.ornikar.com/a-propos/nous-sommes-ornikar)
-
-[Mentions légales et conditions générales d'utilisation](https://www.ornikar.com/a-propos/mentions-legales)
-
-[Pourquoi Ornikar est parfaitement légal ?](https://www.ornikar.com/a-propos/legalite)
-
-[La lettre du 25 mars 2016 décryptée](https://www.ornikar.com/a-propos/la-lettre-du-25-mars-2016-decryptee)
-
-[Utilisation des cookies](https://www.ornikar.com/a-propos/cookies)
-
-[Inscription sur Ornikar](https://www.ornikar.com/a-propos/inscription)
-
-[Contactez-nous](https://www.ornikar.com/a-propos/contact)
-
-[Conditions générales d'utilisation](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
-
-[Conditions générales de vente](https://www.ornikar.com/a-propos/conditions-generales-de-vente)
-
-[Communiqués de presse d'Ornikar](https://www.ornikar.com/a-propos/communiques)
-
-[Charte sanitaire](https://www.ornikar.com/a-propos/charte-sanitaire)
-
-[Politique de confidentialité](https://www.ornikar.com/a-propos/charte-de-confidentialite)
-
-[Charte d'engagement Ornikar](https://www.ornikar.com/a-propos/charte-engagement)
-
-[Start-up à suivre](https://www.ornikar.com/a-propos/bons-plans/startups-auto-suivre)
-
-[Stages de pilotage](https://www.ornikar.com/a-propos/bons-plans/stages-pilotage-circuit)
-
-[Pièces pour moto sur internet](https://www.ornikar.com/a-propos/bons-plans/pieces-moto)
-
-[Bons plans](https://www.ornikar.com/a-propos/bons-plans)
-
-[Acheter un panneau de signalisation sur le net](https://www.ornikar.com/a-propos/bons-plans/ou-acheter-panneau)
-
-[Se loger en étant étudiant](https://www.ornikar.com/a-propos/bons-plans/logement)
-
-[App Ornikar](https://www.ornikar.com/a-propos/app-mobile)
-
-[Avis Ornikar Assurances](https://www.ornikar.com/a-propos/avis-ornikar-assurance)
-
-[Avis Ornikar : qu'en pensent nos utilisateurs ?](https://www.ornikar.com/a-propos/avis)
+No items found.
 
 [Trustpilot](https://fr.trustpilot.com/review/ornikar.com)
 
