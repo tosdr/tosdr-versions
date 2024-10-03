@@ -206,5 +206,3 @@ Au développement [![Agence digitale Lille](data:image/svg+xml,%3Csvg%20xmlns='h
 
 ![Agence digitale Lille](https://www.worldcleanupday.fr/wp-content/uploads/2020/03/crea-box-agence-de-communication.png)](https://crea-box.com/ "Agence digitale Lille")  
 © 2023 World Cleanup Day FRANCE
-
-Nous utilisons des cookies de manière anonyme pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait. [Politique de confidentialité](https://www.worldcleanupday.fr/mentions-legales/)[Ok](#)
