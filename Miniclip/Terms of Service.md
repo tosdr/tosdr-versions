@@ -2,6 +2,7 @@
 
 Toggle Menu
 
+* [Publishing](https://www.miniclip.com/publishing)
 * [Our Story](https://www.miniclip.com/our-story)
 * [Games](https://www.miniclip.com/games)
 * [Web Games](https://www.miniclip.com/games/web)
@@ -129,6 +130,7 @@ Miniclip is driven to create the best and most fun games for our millions of pla
 
 [![Miniclip Logo](/_nuxt/img/bw.65cf9d4.svg)](https://www.miniclip.com/)
 
+* [Publishing](https://www.miniclip.com/publishing)
 * [Our Story](https://www.miniclip.com/our-story)
 * [Games](https://www.miniclip.com/games)
 * [Web Games](https://www.miniclip.com/games/web)
