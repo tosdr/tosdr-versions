@@ -543,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![9 awe-inspiring travel destinations best explored by small ships](https://media.restless.co.uk/uploads/2024/09/awe-inspiring-travel-destinations-best-explored-by-small-ships-768x418.jpg)](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
+### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
+[Read More »](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
 [![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 ### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
@@ -572,12 +578,6 @@ New in travel
 ### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
 [Read More »](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
-
-[![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
 Popular travel guides
 ---------------------
