@@ -446,111 +446,133 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[The Dan Bongino Show
+
+158K](https://rumble.com/v5hatp8-the-deep-state-strikes-back-after-the-disastrous-debate-ep.-2342-10032024.html "The Dan Bongino Show")
+
+[Tate Speech by Andrew Tate
+
+15.3K](https://rumble.com/v5hb1gb-emergency-meeting-episode-79-positive-energy.html "Tate Speech by Andrew Tate")
+
+[Bannons War Room
+
+12.9K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+5.95K](https://rumble.com/v5h9v0r-badlands-daily-thursday-october-3-2024.html "Badlands Media")
+
 [NEWSMAX
 
-1.84K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+4.43K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[The Rubin Report
+
+2.46K](https://rumble.com/v5hb2ld-charlamagne-tha-god-gets-quiet-when-republican-shows-him-receipts.html "The Rubin Report")
+
+[Due Dissidence
+
+929](https://rumble.com/v5h8gyq-ta-nehisi-coates-schools-host-on-israel-jose-vega-disrupts-krugman-trump-le.html "Due Dissidence")
+
+[Geeks + Gamers
+
+338](https://rumble.com/v5hb0f1-hollywood-admits-disney-star-wars-sucks-rachel-zegler-keeps-attacking-fans.html "Geeks + Gamers")
 
 [Lofi Girl
 
-242](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+327](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[barstoolsports
+
+316](https://rumble.com/v5havnx-the-unnamed-show-with-dave-portnoy-kirk-minihane-ryan-whitney-episode-31.html "barstoolsports")
+
+[Dave Portnoy
+
+202](https://rumble.com/v5havnx-the-unnamed-show-with-dave-portnoy-kirk-minihane-ryan-whitney-episode-31.html "Dave Portnoy")
+
+[Mostly Sports With Mark Titus and Brandon Walker
+
+114](https://rumble.com/v5h84m5-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+
+[Mike Crispi
+
+95](https://rumble.com/v5haihe-kamala-says-fema-is-out-of-money....html "Mike Crispi")
 
 [Major League Fishing
 
-2](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
-
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+1](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
 [Havoc](https://rumble.com/c/Havoc "Havoc")
 
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
-
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
-
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
 [Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
 
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
 
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
 [Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
 
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
 
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
 
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
 [SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
 
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
 
-[Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
-[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
 
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
 
 ### Theme
 
