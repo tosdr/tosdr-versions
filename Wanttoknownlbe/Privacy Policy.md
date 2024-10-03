@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/viering-venus-transit-in-jeruzalem/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/amazone-indianen-berooft-van-hun-habitat/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
