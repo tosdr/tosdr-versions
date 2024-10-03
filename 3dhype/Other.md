@@ -28,9 +28,9 @@ Categories [Quick Recipes](https://casihelper.com/category/quick-recipes/) [Leav
 [Banana Pecan Caramel Layer Cake: A Decadent Treat](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
 -----------------------------------------------------------------------------------------------------------------------------
 
-September 26, 2024
+October 3, 2024September 26, 2024
 
-[![Banana Pecan Caramel Layer Cake](https://casihelper.com/wp-content/uploads/2024/09/Banana-Pecan-Caramel-Layer-Cake.jpg)](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
+[![Banana Pecan Caramel Layer Cake](https://casihelper.com/wp-content/uploads/2024/09/Bloc-1-Bloc-1-find-more-fall-recipes-casihelper.com-16.webp)](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
 
 Indulge in the ultimate dessert with a Banana Pecan Caramel Layer Cake, blending rich flavors for an unforgettable homemade treat.
 
@@ -135,7 +135,7 @@ Page1 [Page2](https://casihelper.com/page/2/) … [Page5](https://casihelper.com
 * [![These crispy cauliflower patties with vegan tartar sauce are a delicious, healthy, and easy-to-make plant-based dish perfect for any meal.](https://casihelper.com/wp-content/uploads/2024/09/Bloc-1-Bloc-1-find-more-fall-recipes-casihelper.com-12-240x300.webp)](https://casihelper.com/crispy-cauliflower-patties-with-vegan-tartar-sauce/)
     
     [Crispy Cauliflower Patties with Vegan Tartar Sauce](https://casihelper.com/crispy-cauliflower-patties-with-vegan-tartar-sauce/)
-* [![Banana Pecan Caramel Layer Cake](https://casihelper.com/wp-content/uploads/2024/09/Banana-Pecan-Caramel-Layer-Cake-300x171.jpg)](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
+* [![Banana Pecan Caramel Layer Cake](https://casihelper.com/wp-content/uploads/2024/09/Bloc-1-Bloc-1-find-more-fall-recipes-casihelper.com-16-240x300.webp)](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
     
     [Banana Pecan Caramel Layer Cake: A Decadent Treat](https://casihelper.com/banana-pecan-caramel-layer-cake-a-decadent-treat/)
 * [![Lemon Zucchini Heaven Bread](https://casihelper.com/wp-content/uploads/2024/09/Lemon-Zucchini-Heaven-Bread-300x171.jpg)](https://casihelper.com/moist-easy-lemon-zucchini-heaven-bread-recipe/)
