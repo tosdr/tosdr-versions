@@ -186,6 +186,6 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Sonos](https://techcrunch.com/2024/10/01/sonos-outlines-turnaround-plan-following-app-disaster/)
 * [Ford BlueCruise](https://techcrunch.com/2024/10/01/ford-cuts-price-bluecruise-hands-free-driving/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* ChatGPT
 
 © 2024 Yahoo.
