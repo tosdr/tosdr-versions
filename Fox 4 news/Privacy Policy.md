@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Denton massage business linked to sex trafficking, officials say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/04/32/18/69a20774-cda82051-df085967-police-lights-day.jpg?ve=1&tl=1)
+ [![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1)
 
- ![Denton massage business linked to sex trafficking, officials say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/04/32/18/592/333/69a20774-cda82051-df085967-police-lights-day.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/denton-massage-business-linked-sex-trafficking-officials-say)
+ ![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
 
-### [Denton massage business linked to sex trafficking, officials say](https://www.fox4news.com/news/denton-massage-business-linked-sex-trafficking-officials-say)
+### [Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
 
- [![Joshua the goat escapes pumpkin patch to join town's half-marathon](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/joshua-half-marathon-ii.jpg?ve=1&tl=1)
+ [![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/manuel-hernandez-hernandez-mug.png?ve=1&tl=1)
 
- ![Joshua the goat escapes pumpkin patch to join town's half-marathon](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/joshua-half-marathon-ii.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/joshua-goat-escapes-joins-half-marathon)
+ ![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/manuel-hernandez-hernandez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
 
-### [Joshua the goat escapes pumpkin patch to join town's half-marathon](https://www.fox4news.com/news/joshua-goat-escapes-joins-half-marathon)
+### [Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
 
- [![Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-wedding-cleared.jpg?ve=1&tl=1)
+ [![Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dionne-unt-wrongful-convicted-panel-4p_kdfw7de8__00.00.24.42.jpg?ve=1&tl=1)
 
- ![Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-wedding-cleared.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-wedding-dad-treks-miles-walk-daughter-down-aisle)
+ ![Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dionne-unt-wrongful-convicted-panel-4p_kdfw7de8__00.00.24.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wrongly-convicted-former-inmates-spotlight-criminal-justice-reform)
 
-### [Dad treks miles through Hurricane Helene aftermath to walk daughter down aisle](https://www.fox4news.com/news/hurricane-helene-wedding-dad-treks-miles-walk-daughter-down-aisle)
+### [Wrongly convicted former inmates spotlight criminal justice reform in Denton County](https://www.fox4news.com/news/wrongly-convicted-former-inmates-spotlight-criminal-justice-reform)
 
- [![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/Walz-Vance-debate.jpg?ve=1&tl=1)
+ [![Trackdown: Help find the Mesquite storage unit burglars](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/trackdown-storage-unit.png?ve=1&tl=1)
 
- ![Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/Walz-Vance-debate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+ ![Trackdown: Help find the Mesquite storage unit burglars](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/trackdown-storage-unit.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-public-storage-burglaries-3443-sorrento-drive)
 
-### [Walz, Vance vice presidential debate in New York: Moment-by-moment recap](https://www.fox4news.com/news/tim-walz-jd-vance-face-off-vice-presidential-debate)
+### [Trackdown: Help find the Mesquite storage unit burglars](https://www.fox4news.com/news/mesquite-public-storage-burglaries-3443-sorrento-drive)
 
- [![Dak Prescott appears in trailer for new ‘Venom’ movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dak-prescott-venom-commercial_mp4_00.00.21.06.jpg?ve=1&tl=1)
+ [![Woman shot man in alleged Dallas road rage incident](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1)
 
- ![Dak Prescott appears in trailer for new ‘Venom’ movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dak-prescott-venom-commercial_mp4_00.00.21.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dak-prescott-venom-movie-trailer)
+ ![Woman shot man in alleged Dallas road rage incident](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/DALLAS-FREEWAY-SHOOTING-TVS-_-KDFWU20_3340_MXF_KDF_22.27.29.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
 
-### [Dak Prescott appears in trailer for new ‘Venom’ movie](https://www.fox4news.com/news/dak-prescott-venom-movie-trailer)
+### [Woman shot man in alleged Dallas road rage incident](https://www.fox4news.com/news/road-rage-shooting-dallas-oak-cliff)
 
 ###### [News](https://www.fox4news.com/news)
 
