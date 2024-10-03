@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c1fd5c28a5459900901670615aca9f9e
+f281a097e124f4edd408d331a3b9fdf7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![4 mm to 6 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0010.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/4-mm-to-6-mm-turquoise-nuggets.html "4 mm to 6 mm turquoise nuggets")
+[![8 mm twisted gray and gold rounds](https://sojourner.biz/images/cache/glass/GL0366.200.jpg)](https://sojourner.biz/beads/glass/8-mm-twisted-gray-and-gold-rounds.html "8 mm twisted gray and gold rounds")
 
-#### [4 mm to 6 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/4-mm-to-6-mm-turquoise-nuggets.html "4 mm to 6 mm turquoise nuggets")
+#### [8 mm twisted gray and gold rounds](https://sojourner.biz/beads/glass/8-mm-twisted-gray-and-gold-rounds.html "8 mm twisted gray and gold rounds")
 
-$15.00
+$4.00
 
 ### Best Sellers
 
