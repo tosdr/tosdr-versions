@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f281a097e124f4edd408d331a3b9fdf7
+427dbbc53ad7ceb7f5b2b1266f1af23e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,9 +142,9 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm twisted gray and gold rounds](https://sojourner.biz/images/cache/glass/GL0366.200.jpg)](https://sojourner.biz/beads/glass/8-mm-twisted-gray-and-gold-rounds.html "8 mm twisted gray and gold rounds")
+[![9 mm by 9 or 10 mm by 10 mm glass foil-lined lampwork barrels](https://sojourner.biz/images/cache/glass/GL0190.200.jpg)](https://sojourner.biz/beads/glass/9-mm-by-9-or-10-mm-by-10-mm-glass-foil-lined-lampwork-barrels.html "9 mm by 9 or 10 mm by 10 mm glass foil-lined lampwork barrels")
 
-#### [8 mm twisted gray and gold rounds](https://sojourner.biz/beads/glass/8-mm-twisted-gray-and-gold-rounds.html "8 mm twisted gray and gold rounds")
+#### [9 mm by 9 or 10 mm by 10 mm glass foil-lined lampwork barrels](https://sojourner.biz/beads/glass/9-mm-by-9-or-10-mm-by-10-mm-glass-foil-lined-lampwork-barrels.html "9 mm by 9 or 10 mm by 10 mm glass foil-lined lampwork barrels")
 
 $4.00
 
