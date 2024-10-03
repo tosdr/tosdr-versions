@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Minuto Anime](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253938.thumb.png.74b06d4ed55ec23e727848bd0db9977a.png)](https://www.clubedohardware.com.br/profile/1253938-minuto-anime/ "Ir ao perfil de Minuto Anime")
+    * [![WesleyG](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251767.thumb.png.e0ccf37c94de7526e9895ef74e0e9e85.png)](https://www.clubedohardware.com.br/profile/1251767-wesleyg/ "Ir ao perfil de WesleyG")
         
         0
         
-        [Recomendação PC Full HD para muito tempo e possíveis upgrades futuros](https://www.clubedohardware.com.br/forums/topic/1698796-recomenda%C3%A7%C3%A3o-pc-full-hd-para-muito-tempo-e-poss%C3%ADveis-upgrades-futuros/?do=getNewComment "Recomendação PC Full HD para muito tempo e possíveis upgrades futuros")
+        [Comprei uma placa de vídeo mas só abre alguns jogos](https://www.clubedohardware.com.br/forums/topic/1698816-comprei-uma-placa-de-v%C3%ADdeo-mas-s%C3%B3-abre-alguns-jogos/?do=getNewComment "Comprei uma placa de vídeo mas só abre alguns jogos")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [WesleyG](https://www.clubedohardware.com.br/profile/1251767-wesleyg/ "Ir ao perfil de WesleyG")  
+        2 minutos atrás
+        
+    * [![rodrigo18283](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253960.thumb.jpeg.54e20f9d66e28a01baee7f721b3e2518.jpeg)](https://www.clubedohardware.com.br/profile/1253960-rodrigo18283/ "Ir ao perfil de rodrigo18283")
+        
+        0
+        
+        [pc não dá Vídeo](https://www.clubedohardware.com.br/forums/topic/1698815-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "pc não dá Vídeo")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [rodrigo18283](https://www.clubedohardware.com.br/profile/1253960-rodrigo18283/ "Ir ao perfil de rodrigo18283")  
+        7 minutos atrás
+        
+    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
+        
+        0
+        
+        [pc am5 com 8600g](https://www.clubedohardware.com.br/forums/topic/1698814-pc-am5-com-8600g/?do=getNewComment "pc am5 com 8600g")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Minuto Anime](https://www.clubedohardware.com.br/profile/1253938-minuto-anime/ "Ir ao perfil de Minuto Anime")  
-        11 minutos atrás
+        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
+        1 hora atrás
         
-    * [![Welbson](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/imported-photo-1063033.thumb.jpeg.96ddbe5a1b1e49f5fdd2b438353b02dd.jpeg)](https://www.clubedohardware.com.br/profile/1063033-welbson/ "Ir ao perfil de Welbson")
-        
-        2
-        
-        [Tenho uma placa-mãe Gigabyte GA-AB350M-DS3H V2 e quero colocar um SSD](https://www.clubedohardware.com.br/forums/topic/1698795-tenho-uma-placa-m%C3%A3e-gigabyte-ga-ab350m-ds3h-v2-e-quero-colocar-um-ssd/?do=getNewComment "Tenho uma placa-mãe Gigabyte GA-AB350M-DS3H V2 e quero colocar um SSD")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Welbson](https://www.clubedohardware.com.br/profile/1063033-welbson/ "Ir ao perfil de Welbson")  
-        25 minutos atrás
-        
-    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
+    * [![DarkLink](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253955.thumb.png.deda37816db4e2cf3cc66aec9d91c060.png)](https://www.clubedohardware.com.br/profile/1253955-darklink/ "Ir ao perfil de DarkLink")
         
         1
         
-        [Preciso de 32g de RAM mas não sei qual marca escolher](https://www.clubedohardware.com.br/forums/topic/1698794-preciso-de-32g-de-ram-mas-n%C3%A3o-sei-qual-marca-escolher/?do=getNewComment "Preciso de 32g de RAM mas não sei qual marca escolher")
+        [Eu comprei um pc novo e quero saber se meu filtro de linha vai suportar](https://www.clubedohardware.com.br/forums/topic/1698813-eu-comprei-um-pc-novo-e-quero-saber-se-meu-filtro-de-linha-vai-suportar/?do=getNewComment "Eu comprei um pc novo e quero saber se meu filtro de linha vai suportar")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        44 minutos atrás
-        
-    * [![Ginke](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/Patrick.thumb.jpg.5da8e0eee9a5b06ba9cbf3d005840276.jpg)](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")
-        
-        7
-        
-        [Ar-condicionado faz a diferença na hora de resfriar o PC mesmo?](https://www.clubedohardware.com.br/forums/topic/1698793-ar-condicionado-faz-a-diferen%C3%A7a-na-hora-de-resfriar-o-pc-mesmo/?do=getNewComment "Ar-condicionado faz a diferença na hora de resfriar o PC mesmo?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Ginke](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [DarkLink](https://www.clubedohardware.com.br/profile/1253955-darklink/ "Ir ao perfil de DarkLink")  
         1 hora atrás
         
-    * [![vaber9](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1029665.thumb.png.f975c32da518ecf2cf3a52b3d3ae813e.png)](https://www.clubedohardware.com.br/profile/1029665-vaber9/ "Ir ao perfil de vaber9")
+    * [![Nosila19](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1237879.thumb.jpeg.94c03599c3832d7523806ee71632ee5b.jpeg)](https://www.clubedohardware.com.br/profile/1237879-nosila19/ "Ir ao perfil de Nosila19")
+        
+        0
+        
+        [RX6600 imagens de cabelos e barbas muito ruins](https://www.clubedohardware.com.br/forums/topic/1698812-rx6600-imagens-de-cabelos-e-barbas-muito-ruins/?do=getNewComment "RX6600 imagens de cabelos e barbas muito ruins")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Nosila19](https://www.clubedohardware.com.br/profile/1237879-nosila19/ "Ir ao perfil de Nosila19")  
+        2 horas atrás
+        
+    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
+        
+        1
+        
+        [Preciso melhorar os fans do meu gabinete? 1100 RPM e 36 CFM](https://www.clubedohardware.com.br/forums/topic/1698811-preciso-melhorar-os-fans-do-meu-gabinete-1100-rpm-e-36-cfm/?do=getNewComment "Preciso melhorar os fans do meu gabinete? 1100 RPM e 36 CFM")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
+        2 horas atrás
+        
+    * [![Lucas44vgg](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249128.thumb.png.648a3cb7c944a3275843a615a48db1fb.png)](https://www.clubedohardware.com.br/profile/1249128-lucas44vgg/ "Ir ao perfil de Lucas44vgg")
+        
+        1
+        
+        [Qual windows e melhor pra jogo windows 10 22h2 ou o windows 11 24h2???](https://www.clubedohardware.com.br/forums/topic/1698810-qual-windows-e-melhor-pra-jogo-windows-10-22h2-ou-o-windows-11-24h2/?do=getNewComment "Qual windows e melhor pra jogo windows 10 22h2 ou o windows 11 24h2???")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Lucas44vgg](https://www.clubedohardware.com.br/profile/1249128-lucas44vgg/ "Ir ao perfil de Lucas44vgg")  
+        2 horas atrás
+        
+    * [![pedropaes1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252450.thumb.png.d184f91aea55e54f46ce61c280cb8181.png)](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")
         
         3
         
-        [Computador com 1070 ti quanto vale?](https://www.clubedohardware.com.br/forums/topic/1698792-computador-com-1070-ti-quanto-vale/?do=getNewComment "Computador com 1070 ti quanto vale?")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [vaber9](https://www.clubedohardware.com.br/profile/1029665-vaber9/ "Ir ao perfil de vaber9")  
-        1 hora atrás
-        
-    * [![UMARIZAL](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/2021-200x200.thumb.jpg.52a208353eb4523391150926b9efe534.jpg)](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")
-        
-        0
-        
-        [Onde encontro trava tool less?](https://www.clubedohardware.com.br/forums/topic/1698791-onde-encontro-trava-tool-less/?do=getNewComment "Onde encontro trava tool less?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [UMARIZAL](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")  
-        1 hora atrás
-        
-    * [![Vabrvap](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253932.thumb.png.524f700230d679774ad62f7fb54060db.png)](https://www.clubedohardware.com.br/profile/1253932-vabrvap/ "Ir ao perfil de Vabrvap")
-        
-        2
-        
-        [Meu computador não entrega o desempenho esperado](https://www.clubedohardware.com.br/forums/topic/1698790-meu-computador-n%C3%A3o-entrega-o-desempenho-esperado/?do=getNewComment "Meu computador não entrega o desempenho esperado")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Vabrvap](https://www.clubedohardware.com.br/profile/1253932-vabrvap/ "Ir ao perfil de Vabrvap")  
-        2 horas atrás
-        
-    * [![lolaking](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1228041-lolaking/ "Ir ao perfil de lolaking")
-        
-        0
-        
-        [Fui hackeada no facebook](https://www.clubedohardware.com.br/forums/topic/1698788-fui-hackeada-no-facebook/?do=getNewComment "Fui hackeada no facebook")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [lolaking](https://www.clubedohardware.com.br/profile/1228041-lolaking/ "Ir ao perfil de lolaking")  
-        2 horas atrás
-        
-    * [![brodyy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253401.thumb.png.5dfeb87805c64638b63771d28bf3bdd3.png)](https://www.clubedohardware.com.br/profile/1253401-brodyy/ "Ir ao perfil de brodyy")
-        
-        2
-        
-        [Símbolo de embalagem no ícone de alguns arquivos danificados](https://www.clubedohardware.com.br/forums/topic/1698787-s%C3%ADmbolo-de-embalagem-no-%C3%ADcone-de-alguns-arquivos-danificados/?do=getNewComment "Símbolo de embalagem no ícone de alguns arquivos danificados")
-        
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [brodyy](https://www.clubedohardware.com.br/profile/1253401-brodyy/ "Ir ao perfil de brodyy")  
-        2 horas atrás
-        
-    * [![vitorzs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1168970.thumb.png.746e2293c90309b740a3f22d13f6f554.png)](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")
-        
-        9
-        
-        [Desempenho abaixo do esperado ao pegar uma placa de marca diferente](https://www.clubedohardware.com.br/forums/topic/1698786-desempenho-abaixo-do-esperado-ao-pegar-uma-placa-de-marca-diferente/?do=getNewComment "Desempenho abaixo do esperado ao pegar uma placa de marca diferente")
+        [temperatura da placa de Vídeo no red dead 2](https://www.clubedohardware.com.br/forums/topic/1698809-temperatura-da-placa-de-v%C3%ADdeo-no-red-dead-2/?do=getNewComment "temperatura da placa de Vídeo no red dead 2")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [vitorzs](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")  
+        Por [pedropaes1](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")  
+        2 horas atrás
+        
+    * [![clhard](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23627ac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/510210-clhard/ "Ir ao perfil de clhard")
+        
+        0
+        
+        [Impressora HP OfficeJet Pro 9010 conectada não imprime](https://www.clubedohardware.com.br/forums/topic/1698808-impressora-hp-officejet-pro-9010-conectada-n%C3%A3o-imprime/?do=getNewComment "Impressora HP OfficeJet Pro 9010 conectada não imprime")
+        
+        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
+        Por [clhard](https://www.clubedohardware.com.br/profile/510210-clhard/ "Ir ao perfil de clhard")  
+        3 horas atrás
+        
+    * [![Giovani T](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253951.thumb.png.2631e96e6dcd742de51f4c558a1a34d7.png)](https://www.clubedohardware.com.br/profile/1253951-giovani-t/ "Ir ao perfil de Giovani T")
+        
+        1
+        
+        [GPU em 100% c/ FPS Baixo e PC não esquenta com Memory clock travado](https://www.clubedohardware.com.br/forums/topic/1698807-gpu-em-100-c-fps-baixo-e-pc-n%C3%A3o-esquenta-com-memory-clock-travado/?do=getNewComment "GPU em 100% c/ FPS Baixo e PC não esquenta com Memory clock travado")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Giovani T](https://www.clubedohardware.com.br/profile/1253951-giovani-t/ "Ir ao perfil de Giovani T")  
         3 horas atrás
         
     
