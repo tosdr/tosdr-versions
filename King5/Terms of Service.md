@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/432d9add-8b38-4c51-8a3d-8a80243f4bf7/20241002T034708/432d9add-8b38-4c51-8a3d-8a80243f4bf7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/432d9add-8b38-4c51-8a3d-8a80243f4bf7/20241002T034708/432d9add-8b38-4c51-8a3d-8a80243f4bf7_360x203.jpg)](https://www.king5.com/article/news/local/man-serving-paperwork-fatally-shoots-west-seattle-woman-armed-shotgun/281-6508edd6-e4df-4228-b6c4-f3813f018817)
+    *  [![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_360x203.jpg)](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
         
-        #### [Armed woman killed while being served paperwork at her West Seattle home identified](https://www.king5.com/article/news/local/man-serving-paperwork-fatally-shoots-west-seattle-woman-armed-shotgun/281-6508edd6-e4df-4228-b6c4-f3813f018817)
+        #### [Authorities searching for 'sexually violent predator' after he removed ankle monitor in Seattle](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b) [![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bfe89611-60f3-491f-a412-e53dfe888bde/20241003T140957/bfe89611-60f3-491f-a412-e53dfe888bde_360x203.jpg)](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
         
-    *  [![](https://media.king5.com/assets/KING/images/364604811/364604811_16x9.jpg) ![](https://media.king5.com/assets/KING/images/364604811/364604811_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-police-to-identify-man-accused-groping-young-women-on-bus/281-ad4e5782-40a2-4055-acaa-569e72e1e14d)
+        #### ['Sexually violent predator' on loose in Seattle after removing ankle monitor](https://www.king5.com/article/news/local/seattle/authorities-search-sexually-violent-predator-seattle/281-41342d3a-307a-4f0f-9c65-4a67c945378b)
+    *  [![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_360x203.jpg)](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
         
-        #### [Lynnwood police working to identify man accused of groping young woman at bus stop](https://www.king5.com/article/news/local/lynnwood-police-to-identify-man-accused-groping-young-women-on-bus/281-ad4e5782-40a2-4055-acaa-569e72e1e14d)
+        #### [Police interviewing convicted child molesters to help parents protect kids](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08/20241003T053148/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08/20241003T053148/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e5a9d6ef-f68e-40ed-9554-0754eda9273c/20241003T125953/e5a9d6ef-f68e-40ed-9554-0754eda9273c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e5a9d6ef-f68e-40ed-9554-0754eda9273c/20241003T125953/e5a9d6ef-f68e-40ed-9554-0754eda9273c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+48°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
