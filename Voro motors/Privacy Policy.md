@@ -119,7 +119,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
     *  [](#)
 * [Community](https://forum.voromotors.com/public/)
-* [Login](https://www.voromotors.com/customer_identity/redirect?locale=en)
+* [Login](https://www.voromotors.com/customer_identity/redirect?locale=en&region_country=US)
 * English
     
     * English
