@@ -168,6 +168,6 @@ Analytics Preferences
 
 © Nintendo. Games are property of their respective owners. Nintendo of America Inc. Headquarters are in Redmond, Washington, USA
 
-[Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/interest-based-ads-policy/terms-of-use/)
+[Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/us/terms-of-use/)
 
 [![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/region-selector/)
