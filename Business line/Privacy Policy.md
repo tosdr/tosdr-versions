@@ -1,49 +1,5 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   84,299.78
-
- -1,272.07
-
-##### NIFTY   25,810.85
-
- -368.10
-
-##### CRUDEOIL   5,745.00
-
-+ 51.00
-
-##### GOLD   74,924.00
-
-+ 55.00
-
-##### SILVER   90,641.00
-
- -78.00
-
-##### SENSEX   84,299.78
-
- -1,272.07
-
-##### NIFTY   25,810.85
-
- -368.10
-
-##### NIFTY   25,810.85
-
- -368.10
-
-##### CRUDEOIL   5,745.00
-
-+ 51.00
-
-##### CRUDEOIL   5,745.00
-
-+ 51.00
-
-##### GOLD   74,924.00
-
-+ 55.00
-
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
 * [Companies](https://www.thehindubusinessline.com/companies/) 
@@ -77,6 +33,8 @@ MENU ![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images
 * [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/)
 * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/)
 * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/)
+* [Nifty 50](https://www.thehindubusinessline.com/markets/nifty-50/)
+* [Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/)
 
 ##### [Portfolio](https://www.thehindubusinessline.com/portfolio/)
 
@@ -187,6 +145,8 @@ TO ENJOY ADDITIONAL BENEFITS
     * [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/) 
     * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/) 
     * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/) 
+    * [Nifty 50](https://www.thehindubusinessline.com/markets/nifty-50/) 
+    * [Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/) 
 * #####  [Companies](https://www.thehindubusinessline.com/companies/)
     
     * [MSME](https://www.thehindubusinessline.com/companies/msme/) 
@@ -696,6 +656,8 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
     * [Age Calculator](https://www.thehindubusinessline.com/money-and-banking/age-calculator/article67124194.ece)
     * [Gold rate today](https://www.thehindubusinessline.com/gold-rate-today/)
     * [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/)
+    * [Nifty 50](https://www.thehindubusinessline.com/markets/nifty-50/)
+    * [Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/)
 
 ##### Trending on businessline
 
