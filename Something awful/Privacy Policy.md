@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AwfulVision: Handi-Capable!](https://www.somethingawful.com/awfulvision/wheelchair-weezer-cheeseburger/1/)
-* [Let's Draw Xenomorphs!](https://www.somethingawful.com/comedy-goldmine/draw-xenomorphs-mspaint/1/)
-* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
-* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
+* [Muppet Movie Mayhem!](https://www.somethingawful.com/photoshop-phriday/muppets-movie-mayhem/1/)
+* [Let's Draw Characters from Memory!](https://www.somethingawful.com/comedy-goldmine/draw-characters-memory/1/)
+* [Chewbacca Gone Wild](https://www.somethingawful.com/comedy-goldmine/chewbacca-gone-wild/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Old People At McDonalds](https://www.somethingawful.com/comedy-goldmine/old-people-mcdonalds/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Do YouTube people have emotions?](http://forums.somethingawful.com/showthread.php?threadid=4071732 "Do YouTube people have emotions?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [If a tree falls in the forest and no one hears it, does it make a sound?](http://forums.somethingawful.com/showthread.php?threadid=4071721 "If a tree falls in the forest and no one hears it, does it make a sound?")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Do YouTube people have emotions?](http://forums.somethingawful.com/showthread.php?threadid=4071732 "Do YouTube people have emotions?")
 
 ### Random Articles
 
-* [You pinched me on St. Patrick’s Day. Today you pay.](https://www.somethingawful.com/news/irish-pinch-patricks/)
-* [RICH PERRY IS OUT TIME TO RAISE SOME CAIN](https://www.somethingawful.com/levi-johnston/levi-herman-cain/1/)
-* [July 3, 2012](https://www.somethingawful.com/twitter-tuesday/tt07-03-12/1/)
-* [The Art of Menstruation](https://www.somethingawful.com/awful-links/awful-link-3279/)
-* [Things](https://www.somethingawful.com/movie-reviews/things-1989/1/)
+* [Catpage](https://www.somethingawful.com/awful-links/awful-link-3138/)
+* [Memos from Bear Cave](https://www.somethingawful.com/news/bear-cave-soup/)
+* [Bridesmaids; POM Wonderful Presents: The Greatest Movie Ever Sold](https://www.somethingawful.com/current-movie-reviews/bridesmaids-greatest-story/1/)
+* [Memorable Dialogue: Mike Tyson's Punch Out!](https://www.somethingawful.com/video-game-article/punch-out-tyson/)
+* [Understanding The NFL Lockout](https://www.somethingawful.com/news/nfl-lockout-demands/)
 
 [Random!](https://www.somethingawful.com/random/)
 
