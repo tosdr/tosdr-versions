@@ -576,6 +576,14 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Super kind and fast at removing everything. Best service!
+
+Nevada Rai Calgary 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 The team was fast and efficient getting everything done
 
 Kyle Jackson Calgary 28/09/2024
@@ -595,14 +603,6 @@ Meg Gillies Calgary 28/09/2024
 Excellent service from Carlos and Kayla!
 
 Alexandra Calgary 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Super kind and fast at removing everything. Best service!
-
-Nevada Rai Calgary 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -864,6 +864,14 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Darontay Davey!
+
+Anna Webster Seattle 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Ayden and Sam did a great job! Very professional! Hardly took any time. Took many large items. Highly recommend!
 
 Erika Mantsch Wisconsin 28/09/2024
@@ -920,9 +928,33 @@ Teresa Neely Madison 28/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darontay Davey!
+Guys did a great job getting rid of my old stuff
 
-Anna Webster Seattle 28/09/2024
+D Smith Cincinnati 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The 2 guys that removed stuff for me today were awesome. Friendly, flexible with their time and made my day so much easier. Thank you!!
+
+Becky Pharo Madison 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Caleb and Tanner were very kind and helpful, also fast
+
+Kye Schraith Madison 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Pablo and Day Excellent customer service!
+
+Yusuke Ito Seattle 27/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -971,38 +1003,6 @@ Dan Shull Cincinnati 27/09/2024
 Steve and Pat from Naples were great. They showed care when in our house, and I will be calling them again.
 
 Jake Osburn Naples 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Guys did a great job getting rid of my old stuff
-
-D Smith Cincinnati 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The 2 guys that removed stuff for me today were awesome. Friendly, flexible with their time and made my day so much easier. Thank you!!
-
-Becky Pharo Madison 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Caleb and Tanner were very kind and helpful, also fast
-
-Kye Schraith Madison 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Pablo and Day Excellent customer service!
-
-Yusuke Ito Seattle 27/09/2024
 
 ### 
 
