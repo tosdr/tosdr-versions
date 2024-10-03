@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Trust
+
+### Forgiveness in time of war](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1003/Forgiveness-in-time-of-war "Forgiveness in time of war")
+
+[Equality
+
+### Brazil has struggled to elect women to political office. Upcoming elections could change that.](https://www.csmonitor.com/World/Americas/2024/1003/Brazil-women-elections "Brazil has struggled to elect women to political office. Upcoming elections could change that.")
+
 [Justice
 
 ### Transgender rights, ghost guns – and an election? The Supreme Court returns.](https://www.csmonitor.com/USA/Justice/2024/1003/supreme-court-transgender-rights-ghost-guns-election-2024 "Transgender rights, ghost guns – and an election? The Supreme Court returns.")
-
-[Safety
-
-### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
-
-[Community
-
-### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### As Mideast emotions run high, is there room for restraint?](https://www.csmonitor.com/World/Middle-East/2024/1003/Israel-Iran-war-escalation-restraint "As Mideast emotions run high, is there room for restraint?")
+
+[### Brazil has struggled to elect women to political office. Upcoming elections could change that.](https://www.csmonitor.com/World/Americas/2024/1003/Brazil-women-elections "Brazil has struggled to elect women to political office. Upcoming elections could change that.")
+
 [### The renewable energy of bike-powered French children and a battery-powered Melbourne](https://www.csmonitor.com/World/Points-of-Progress/2024/1003/Melbourne-Australia-battery-France-school-bike "The renewable energy of bike-powered French children and a battery-powered Melbourne")
-
-[### Transgender rights, ghost guns – and an election? The Supreme Court returns.](https://www.csmonitor.com/USA/Justice/2024/1003/supreme-court-transgender-rights-ghost-guns-election-2024 "Transgender rights, ghost guns – and an election? The Supreme Court returns.")
-
-[### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
 
 * * *
 
