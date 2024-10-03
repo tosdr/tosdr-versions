@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [German Railroads: Volume 9 - Mit der Reichsbahn nach Rügen](https://www.myabandonware.com/game/german-railroads-volume-9-mit-der-reichsbahn-nach-ruegen-s4b)
-* [German Railroads: Die Siebziger - Entlang der Bigge (Edition 2006)](https://www.myabandonware.com/game/german-railroads-die-siebziger-entlang-der-bigge-edition-2006-s4a)
-* [German Railroads: Volume 7 - Der Bayrische Wald](https://www.myabandonware.com/game/german-railroads-volume-7-der-bayrische-wald-s49)
-* [German Railroads: Volume 6 - Entlang der Ostsee: Rostock - Stralsund](https://www.myabandonware.com/game/german-railroads-volume-6-entlang-der-ostsee-rostock-stralsund-s48)
-* [German Railroads: Volume 5 - Die Rollbahn 1963](https://www.myabandonware.com/game/german-railroads-volume-5-die-rollbahn-1963-s47)
+* [Solar Assault](https://www.myabandonware.com/game/solar-assault-sn5)
+* [Soccer](https://www.myabandonware.com/game/soccer-sn4)
+* [Smashing Drive](https://www.myabandonware.com/game/smashing-drive-sn3)
+* [Slashout](https://www.myabandonware.com/game/slashout-sn2)
+* [Speed Race](https://www.myabandonware.com/game/speed-race-sn1)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Lenny’s Time Machine](https://www.myabandonware.com/game/lenny-s-time-machine-pnu)
-* [221 B Baker Street Case Library 2](https://www.myabandonware.com/game/221-b-baker-street-case-library-2-l2d)
-* [Chō Aniki: Kyūkyoku Muteki Ginga Saikyō Otoko](https://www.myabandonware.com/game/cho-aniki-kyukyoku-muteki-ginga-saikyo-otoko-pck)
+* [Addicted to Fun: Ninja Collection](https://www.myabandonware.com/game/addicted-to-fun-ninja-collection-kny)
+* [Shuffle Pix](https://www.myabandonware.com/game/shuffle-pix-7iv)
+* [Miss Maggie's Earth Adventures](https://www.myabandonware.com/game/miss-maggie-s-earth-adventures-nok)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
