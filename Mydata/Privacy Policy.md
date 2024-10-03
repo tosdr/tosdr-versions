@@ -28,10 +28,8 @@ MyData
 * [Events](https://mydata.org/events/)
     * [Community Calendar](https://mydata.org/community-calendar/)
     * [All events](https://mydata.org/event/)
-    * [MyData Workshop: Portability tool testing for DMA compliance](https://mydata.org/event/mydata-workshop-portability-tool-testing-for-dma-compliance/)
     * [Explainer Webinar: Insights and tactics for raising early capital](https://mydata.org/event/explainer-webinar-insights-and-tactics-for-raising-early-capital/)
-    * [Making Sense of Wallets 2: Anticipating Public Sector Demand](https://mydata.org/event/making-sense-of-wallets-2-anticipating-public-sector-demand/)
-    * [Webinars](https://mydata.org/event_cat/webinar/)
+    * [Thematic Networking: AI and Human-Centric Data](https://mydata.org/event/thematic-networking-ai-and-human-centric-data/)
 * [News](https://mydata.org/updates/)
     * [Member Opportunities and Resource Board](https://mydata.org/member-opportunities/)
 
