@@ -499,10 +499,6 @@ Revised June 1, 2022
 
   [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
-[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
-
-  [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
-
 Podcast
 -------
 
@@ -566,23 +562,17 @@ Latest News
 
 [Starbucks buys research farms as climate change threatens coffee supply](https://www.japantimes.co.jp/business/2024/10/03/starbucks-research-farms-climate-change/ "Starbucks buys research farms as climate change threatens coffee supply")
 
-5 hours ago
+10 hours ago
 
-[1 in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "1 in 6 workers in Japan use resignation agencies to change jobs")
+[One in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "One in 6 workers in Japan use resignation agencies to change jobs")
 
-5 hours ago
+11 hours ago
 
 [7-Eleven owner seeking to sell off part of stake in banking unit](https://www.japantimes.co.jp/business/2024/10/03/7eleven-owner-bank-unit-stake/ "7-Eleven owner seeking to sell off part of stake in banking unit")
 
-6 hours ago
-
 [Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-6 hours ago
-
 [Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
