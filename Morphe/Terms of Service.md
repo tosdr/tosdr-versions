@@ -6,11 +6,11 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
-![icon](//www.morphe.com/cdn/shop/t/899/assets/checkmark_cart.svg?v=32248314250182966831727725894)
+![icon](//www.morphe.com/cdn/shop/t/903/assets/checkmark_cart.svg?v=32248314250182966831727894080)
 
-![icon](//www.morphe.com/cdn/shop/t/899/assets/gift_icon.svg?v=3524224353090864161727725923)
+![icon](//www.morphe.com/cdn/shop/t/903/assets/gift_icon.svg?v=3524224353090864161727894108)
 
-![](//www.morphe.com/cdn/shop/t/899/assets/shipping_icon.svg?v=127807994505907103401727725996)
+![](//www.morphe.com/cdn/shop/t/903/assets/shipping_icon.svg?v=127807994505907103401727894176)
 
    
 
@@ -39,13 +39,13 @@ Terms of Use
 
 #### Free shipping on US orders $35+](https://www.morphe.com/collections/shop-all)
 
-* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/899/assets/hamburger-icon-black.svg?v=37398962526372985731727725924)
-* ![Search](//www.morphe.com/cdn/shop/t/899/assets/search-icon-black.svg?v=109393770938569529511727725991)
+* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/903/assets/hamburger-icon-black.svg?v=37398962526372985731727894108)
+* ![Search](//www.morphe.com/cdn/shop/t/903/assets/search-icon-black.svg?v=109393770938569529511727894172)
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new_400x.png?v=1704369663)](https://www.morphe.com/)
 
 * [Login](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/899/assets/cart-icon-new.svg?v=164380968832671469731727725892)
+* ![Bag](//www.morphe.com/cdn/shop/t/903/assets/cart-icon-new.svg?v=164380968832671469731727894078)
     
     Items in cart 0
     
@@ -69,13 +69,13 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
 * ### Makeup
     
@@ -103,7 +103,7 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
 * ### Brushes & Tools
     
@@ -127,13 +127,13 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
 * ### Sets & Gifts
     
@@ -153,13 +153,13 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
 * [### Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
 * ### Discover
@@ -188,16 +188,16 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
 
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
 
-![Search](//www.morphe.com/cdn/shop/t/899/assets/dt-search-icon.svg?v=101893264991972337941727725910)
+![Search](//www.morphe.com/cdn/shop/t/903/assets/dt-search-icon.svg?v=101893264991972337941727894095)
 
-![Bag](//www.morphe.com/cdn/shop/t/899/assets/dt-cart-icon.svg?v=143133360700128768681727725910)
+![Bag](//www.morphe.com/cdn/shop/t/903/assets/dt-cart-icon.svg?v=143133360700128768681727894095)
 
 Items in cart 0
 
@@ -414,13 +414,13 @@ Main navigation
 
 Aug 20, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
 
 #### 10 Morphe Makeup Must-Haves You Need for Summer
 
 Aug 20, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/899/assets/clock-icon.svg?v=42723469760392072181727725895) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+![clock icon](//www.morphe.com/cdn/shop/t/903/assets/clock-icon.svg?v=42723469760392072181727894081) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
 
 Terms of Use
 ============
