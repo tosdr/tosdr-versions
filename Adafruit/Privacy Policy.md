@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ When you destroy art, you make it stronger”
+“ Premature optimization is the root of all evil”
 
-[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
+[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 
 [](https://www.adafruit.com/about)
 
