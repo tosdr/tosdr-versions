@@ -9,33 +9,19 @@
         * [Halk Sağlığı](https://mynetiz.com/bilim-ve-teknoloji/halk-sagligi)
         * [Mitoloji](https://mynetiz.com/bilim-ve-teknoloji/mitoloji)
         * [Teknoloji](https://mynetiz.com/bilim-ve-teknoloji/teknoloji)
+        * [Uzay](https://mynetiz.com/bilim-ve-teknoloji/uzay)
         * [Yaşam](https://mynetiz.com/bilim-ve-teknoloji/yasam)
-    * [Çeviriler](https://mynetiz.com/ceviriler)
-        * [Afrika](https://mynetiz.com/ceviriler/afrika)
-        * [Amerika](https://mynetiz.com/ceviriler/amerika)
-            * [Güney Amerika](https://mynetiz.com/ceviriler/amerika/guney-amerika)
-        * [Asya](https://mynetiz.com/ceviriler/asya)
-        * [Avrupa](https://mynetiz.com/ceviriler/avrupa)
-        * [Ortadoğu](https://mynetiz.com/ceviriler/ortadogu)
-    * [Haber](https://mynetiz.com/haber)
-        * [Dem.Kit.Mslk.Örg.](https://mynetiz.com/haber/dem-kit-mslk-org)
-        * [Güncel Haber-Yorum](https://mynetiz.com/haber/guncel-haber-yorum)
-        * [İşçi-Sendikalar](https://mynetiz.com/haber/isci-sendikalar)
-        * [Kamuoyuna](https://mynetiz.com/haber/kamuoyuna)
-        * [Kamuoyundan](https://mynetiz.com/haber/kamuoyundan)
-        * [Kavramlar-Süreçler](https://mynetiz.com/haber/kavramlar-surecler)
-        * [Köylü Kooperatifler](https://mynetiz.com/haber/koylu-kooperatifler)
-        * [Kütüphane](https://mynetiz.com/haber/kutuphane)
     * [Keşfet](https://mynetiz.com/kesfet)
     * [Kültür Sanat](https://mynetiz.com/kultur-sanat)
-    * [Kuvayi Milliye Dergisi](https://mynetiz.com/kuvayi-milliye-dergisi)
-    * [Medya Haber-Yorum](https://mynetiz.com/medya-haber-yorum)
+    * [Kütüphane](https://mynetiz.com/kutuphane)
     * [Takım Çantası](https://mynetiz.com/yazanlar)
         * [Android](https://mynetiz.com/yazanlar/android)
+        * [Araçlar](https://mynetiz.com/yazanlar/araclar)
         * [İnceleme](https://mynetiz.com/yazanlar/inceleme)
         * [İnternet](https://mynetiz.com/yazanlar/internet)
         * [Mobil](https://mynetiz.com/yazanlar/mobil)
         * [Program/Yazılım](https://mynetiz.com/yazanlar/program-yazilim)
+        * [Uygulama](https://mynetiz.com/yazanlar/uygulama)
 
 [Pixelfed](https://pixelfed.social/mynetiz) • [Telegram](https://t.me/mynetiz) • [𝕏](https://twitter.com/mynetiz) • [Rumble](https://rumble.com/c/c-3429590) • [Vimeo](https://vimeo.com/mynetiz) • [Youtube](https://www.youtube.com/c/mynetiz) • [Soundcloud](https://soundcloud.com/mynetiz) • [Gitlab](https://gitlab.com/mynetiz) • [Github](https://github.com/mynetiz)
 
@@ -52,7 +38,7 @@ October 3, 2024
 
 Yeni
 
-[Filistin Olayının Düşündürdükleri](https://mynetiz.com/filistin-olayinin-dusundurdukleri.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Türkiye’de Darpa Sunucularıyla İlgili İlginç Detay](https://mynetiz.com/turkiyede-darpa-sunuculariyla-ilgili-ilginc-detay-6.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [Ubuntu 20.yılında, 24.10 sürümü me zaman?](https://mynetiz.com/ubuntu-20-yilinda-24-10-surumu-me-zaman.html) [Ne bileyim?](https://mynetiz.com/ne-bileyim.html) [Çakır: “Yeni ekonomi havzaları ulusal bir güvenlik konusudur”](https://mynetiz.com/cakir-yeni-ekonomi-havzalari-ulusal-bir-guvenlik-konusudur.html) [SORUN BENDE OLMALI…](https://mynetiz.com/sorun-bende-olmali.html) [Türkiye’nin Arması Ne Olmalı?](https://mynetiz.com/turkiyenin-armasi-ne-olmali.html)
+[Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Türkiye’de Darpa Sunucularıyla İlgili İlginç Detay](https://mynetiz.com/turkiyede-darpa-sunuculariyla-ilgili-ilginc-detay-6.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [Ubuntu 20.yılında, 24.10 sürümü me zaman?](https://mynetiz.com/ubuntu-20-yilinda-24-10-surumu-me-zaman.html) [Ne bileyim?](https://mynetiz.com/ne-bileyim.html) [Çakır: “Yeni ekonomi havzaları ulusal bir güvenlik konusudur”](https://mynetiz.com/cakir-yeni-ekonomi-havzalari-ulusal-bir-guvenlik-konusudur.html) [SORUN BENDE OLMALI…](https://mynetiz.com/sorun-bende-olmali.html) [Çin Haoji Demiryolu Köprüsü](https://mynetiz.com/cin-haoji-demiryolu-koprusu.html)
 
 Privacy Policy
 ==============
@@ -225,7 +211,7 @@ Should we update, amend or make any changes to this document, those changes will
 * [Kullanım Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
 * [İletişim](https://mynetiz.com/ileti)
 
-02.06.2010 tarihinde yenilendi 03.10.2024 tarihinde yenilendi
+03.10.2024 tarihinde yenilendi
 
 [![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/images/logow.png)](https://kutuphanemizden.com/ "Kütüphanemizden") © 2024 · [KBT](https://github.com/swashata/ipt-knowledgebase-theme-wp "WP Knowledge Base Theme")
 
