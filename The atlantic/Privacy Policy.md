@@ -79,7 +79,7 @@
 Privacy Policy
 ==============
 
-**Date Last Updated: June 27, 2024**
+**Date Last Updated: October 1, 2024**
 
 The Atlantic Monthly Group LLC and its subsidiaries (referred to throughout this policy as “The Atlantic,” “we,” and “our”) cares about your privacy and the security of your information. This policy details our practices in connection with our print, digital, and live event products and services, including The Atlantic magazine, theatlantic.com, our mobile applications, newsletters, and any other content we provide (collectively, the “Services”) as they relate to your data. It describes the kinds of personal information we may gather about you in connection with the Services, how we use that information, to whom we disclose it, and how you can manage it.
 
@@ -90,7 +90,7 @@ Our services are constantly under development, which may cause our data practice
 If you are located in the European Economic Area , United Kingdom, or Switzerland, please see the [Additional Information for Users in Europe and the United Kingdom](#9.%20Additional%20Information%20for%20Users%20in%20Europe%20and%20the%20United%20Kingdom) section of this policy.
 
   
-If you are a resident of California, Colorado, Connecticut, Oregon, Texas, Utah, or Virginia  please see the [Additional Information for Users in Certain U.S. Jurisdictions](#10.%20Additional%20Information%20for%20Users%20in%20Certain%20U.S.%20Jurisdictions) section of this policy.
+If you are a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia  please see the [Additional Information for Users in Certain U.S. Jurisdictions](#10.%20Additional%20Information%20for%20Users%20in%20Certain%20U.S.%20Jurisdictions) section of this policy.
 
 ### Table of Contents
 
@@ -349,7 +349,7 @@ If you believe that we have processed your personal information in violation of 
 
 10\. Additional Information for Users in Certain U.S. Jurisdictions
 
-_This section only applies to residents of California, Colorado, Connecticut, Oregon, Texas, Utah, and Virginia. Residents of these U.S. states are afforded additional rights in accordance with their respective state data privacy laws. It describes how we collect, use, and share personal information in operating our business as well as your individual rights with respect to your personal information._
+_This section only applies to residents of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia. Residents of these U.S. states are afforded additional rights in accordance with their respective state data privacy laws. It describes how we collect, use, and share personal information in operating our business as well as your individual rights with respect to your personal information._
 
 **How We Collect, Use, and Share your Personal Information**  
 
@@ -376,7 +376,7 @@ _**Identifiers**_ (e.g., device identifier, IP address, unique browser ID, cooki
 
 The sources from which we collect information and additional details on the information we collect are described in [Section 1](#1.%20Information%20Collected) of this policy; the business and commercial purposes for which we collect this information are described in [Section 2](#2.%20How%20We%20Use%20Your%20Information) of this policy; and the ways in which we may share this information are described in [Section 3](#3.%20How%20We%20Share%20Your%20Information) of this policy.
 
-**Your Privacy Rights and How to Exercise Them** As a California, Colorado, Connecticut, Oregon, Texas, Utah, or Virginia resident, you have certain rights related to your personal information, which are detailed below. We encourage you to invoke these rights if you wish. Rest assured that we will not discriminate or retaliate against you for doing so.
+**Your Privacy Rights and How to Exercise Them** As a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia resident, you have certain rights related to your personal information, which are detailed below. We encourage you to invoke these rights if you wish. Rest assured that we will not discriminate or retaliate against you for doing so.
 
 Except where otherwise noted, you can exercise these rights by visiting our [Help Center](https://support.theatlantic.com/hc/en-us/requests/new?ticket_form_id=360002309013) or by contacting us at privacy@theatlantic.com. If you opt to email us, please include as detailed a description of your request as possible.
 
