@@ -195,8 +195,8 @@ Please contact the Designated Agent to Receive Notification of Claimed Infringem
 
 Copyright Agent  
 The Markup News, Inc.  
-P.O. Box 1103  
-N.Y., N.Y. 10159
+1017 L Street #261  
+Sacramento, CA 95814
 
 [Return to The Markup's homepage](https://themarkup.org/)
 
