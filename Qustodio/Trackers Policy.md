@@ -26,11 +26,11 @@
         Balance screen time, filter content, and view activity reports in the way that suits your family.
         
         View all features](https://www.qustodio.com/en/features/ "Features")
-    * [Get Started
+    * [Get started
         
         Begin protecting and supervising your child within minutes.
         
-        Learn how](https://www.qustodio.com/en/get-started/ "Get Started")
+        Learn how](https://www.qustodio.com/en/get-started/ "Get started")
     * [Downloads
         
         Get Qustodio for every device, from smartphones and tablets to desktops, Chromebooks, and more.
