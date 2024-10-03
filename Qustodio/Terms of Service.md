@@ -1,4 +1,4 @@
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.1)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.15.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -13,7 +13,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.1)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.15.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
@@ -26,11 +26,11 @@
         Balance screen time, filter content, and view activity reports in the way that suits your family.
         
         View all features](https://www.qustodio.com/en/features/ "Features")
-    * [Get Started
+    * [Get started
         
         Begin protecting and supervising your child within minutes.
         
-        Learn how](https://www.qustodio.com/en/get-started/ "Get Started")
+        Learn how](https://www.qustodio.com/en/get-started/ "Get started")
     * [Downloads
         
         Get Qustodio for every device, from smartphones and tablets to desktops, Chromebooks, and more.
