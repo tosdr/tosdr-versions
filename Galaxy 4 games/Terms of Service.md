@@ -6,6 +6,7 @@
 * [Services](#)
     * [Game development](https://galaxy4games.com/services/galaxy4games-game-development/)
     * [Game Production](https://galaxy4games.com/services/game-production/)
+    * [Telegram games development](https://galaxy4games.com/services/telegram-games-development/)
     * [Metaverse](https://galaxy4games.com/services/metaverse/)
     * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
     * [Blockchain](https://galaxy4games.com/services/blockchain/)
@@ -25,6 +26,7 @@
 * [Services](#)
     * [Game development](https://galaxy4games.com/services/galaxy4games-game-development/)
     * [Game Production](https://galaxy4games.com/services/game-production/)
+    * [Telegram games development](https://galaxy4games.com/services/telegram-games-development/)
     * [Metaverse](https://galaxy4games.com/services/metaverse/)
     * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
     * [Blockchain](https://galaxy4games.com/services/blockchain/)
@@ -209,7 +211,7 @@ Get in touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Star. 
+Please prove you are human by selecting the Flag. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
@@ -235,4 +237,4 @@ Get In Touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Heart.
+Please prove you are human by selecting the Plane.
