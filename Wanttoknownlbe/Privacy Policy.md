@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/facebook-mensen-delen-te-weinig-persoonlijks/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/drunvalo/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
