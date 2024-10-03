@@ -99,7 +99,7 @@ Service
 * [DNS lookup](https://dns-loopup.wpx.nl/)
 * [MD5](https://md5hashgenerator.wpx.nl/)
 * [Password generator](https://passwordgenerator.wpx.nl/)
-* [Privacy Policy](https://www.wpx.nl/privacy-policy-2/)
+* [Privacy Policy](https://www.wpx.nl/privacy-policy/)
 
 WPX
 
