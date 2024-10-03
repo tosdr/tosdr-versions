@@ -29,6 +29,6 @@
 * [Pricing](https://splice.com/plans)
 
 * Login
-* Try free
+* 
 
 Loading...
