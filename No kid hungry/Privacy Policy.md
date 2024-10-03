@@ -48,7 +48,7 @@ Main navigation
     * [Feeding Kids at Home](https://www.nokidhungry.org/what-we-do/feeding-kids-home "Learn about how we're helping families feed kids in their homes. ")
 * [Ways You Can Help](https://www.nokidhungry.org/ways-you-can-help)
     * [Brands That Give](https://impact.nokidhungry.org/brands-that-give)
-    * [Donate](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166_donation=form1&s_src=web&s_subsrc=1I000DD2400W0AX0GN0)
+    * [Donate](https://p2p.onecause.com/nokidhungry/donate)
     * [Fundraise](https://www.nokidhungry.org/ways-you-can-help/fundraising)
     * [Events & Experiences](https://www.nokidhungry.org/ways-you-can-help/events-experiences)
     * [Speak Up for Kids](https://www.nokidhungry.org/ways-you-can-help/speak-kids)
@@ -77,11 +77,11 @@ Spam Control Text: Please leave this field empty
 
   
 
-[DONATE](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_banner&s_subsrc=1I000DD2400W0AX0GN0)
+[DONATE](https://p2p.onecause.com/nokidhungry/donate)
 
-* [MONTHLY](https://secure.nokidhungry.org/site/Donation2?df_id=18771&mfc_pref=T&18771.donation=form1&s_src=web_banner&s_subsrc=1I000DD2400W0AS0GN0)
-* [ONE-TIME](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_banner&s_subsrc=1I000DD2400W0AX0GN0)
-* [IN HONOR OF](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_banner&s_subsrc=1I000DD2400W0AX0GN0)
+* [MONTHLY](https://p2p.onecause.com/nokidhungry/donate)
+* [ONE-TIME](https://p2p.onecause.com/nokidhungry/donate)
+* [IN HONOR OF](https://p2p.onecause.com/nokidhungry/donate)
 
 Search
 ------
@@ -259,11 +259,11 @@ Spam Control Text: Please leave this field empty
 
  
 
-[DONATE](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_footer&s_subsrc=1I000DD2400W0AX0GN0)
+[DONATE](https://p2p.onecause.com/nokidhungry/donate)
 
-* [ONE-TIME](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_footer&s_subsrc=1I000DD2400W0AX0GN0)
-* [MONTHLY](https://secure.nokidhungry.org/site/Donation2?df_id=18771&mfc_pref=T&18771.donation=form1&s_src=web_footer&s_subsrc=1I000DD2400W0AS0GN0)
-* [IN HONOR OF](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166.donation=form1&s_src=web_footer&s_subsrc=1I000DD2400W0AX0GN0)
+* [ONE-TIME](https://p2p.onecause.com/nokidhungry/donate)
+* [MONTHLY](https://p2p.onecause.com/nokidhungry/donate)
+* [IN HONOR OF](https://p2p.onecause.com/nokidhungry/donate)
 
 Footer Social Media Links
 -------------------------
@@ -294,7 +294,7 @@ Main navigation
     * [Feeding Kids at Home](https://www.nokidhungry.org/what-we-do/feeding-kids-home "Learn about how we're helping families feed kids in their homes. ")
 * [Ways You Can Help](https://www.nokidhungry.org/ways-you-can-help)
     * [Brands That Give](https://impact.nokidhungry.org/brands-that-give)
-    * [Donate](https://secure.nokidhungry.org/site/Donation2?df_id=20166&mfc_pref=T&20166_donation=form1&s_src=web&s_subsrc=1I000DD2400W0AX0GN0)
+    * [Donate](https://p2p.onecause.com/nokidhungry/donate)
     * [Fundraise](https://www.nokidhungry.org/ways-you-can-help/fundraising)
     * [Events & Experiences](https://www.nokidhungry.org/ways-you-can-help/events-experiences)
     * [Speak Up for Kids](https://www.nokidhungry.org/ways-you-can-help/speak-kids)
