@@ -234,7 +234,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [In a victory for metaphor, San Francisco erects rubber barricades to deter johns from hooking up with sex workers](https://www.fark.com/goto/13414052) ( [sfstandard.com](https://www.fark.com/goto/13414052) ) » [(19 comments)](https://www.fark.com/comments/13414052/In-a-victory-for-metaphor-San-Francisco-erects-rubber-barricades-to-deter-johns-from-hooking-up-with-sex-workers) |
-| [Discussion](https://www.fark.com/discussion/) | ["Is my mom's love for her grandchildren toxic?"](https://www.fark.com/goto/13414028) ( [slate.com](https://www.fark.com/goto/13414028) ) » [(2 comments)](https://www.fark.com/comments/13414028/Is-my-moms-love-for-her-grandchildren-toxic) |
-| [Sports](https://www.fark.com/sports/) | [It's a Tigers sweep](https://www.fark.com/goto/13414518) ( [freep.com](https://www.fark.com/goto/13414518) ) » [(6 comments)](https://www.fark.com/comments/13414518/Its-a-Tigers-sweep) |
-| [Business](https://www.fark.com/business/) | [Breaking: CVS](https://www.fark.com/goto/13414362) ( [statnews.com](https://www.fark.com/goto/13414362) ) » [(2 comments)](https://www.fark.com/comments/13414362/Breaking-CVS) |
-| [STEM](https://www.fark.com/stem/) | [Let me guess...cold and flu?](https://www.fark.com/goto/13414492) ( [globalnews.ca](https://www.fark.com/goto/13414492) ) » [(0 comments)](https://www.fark.com/comments/13414492/Let-me-guesscold-flu) |
-| [Entertainment](https://www.fark.com/entertainment/) | [In a crime more horrific than killing their parents, the Menendez brothers have made Milli Vanilli popular again](https://www.fark.com/goto/13414474) ( [thedailybeast.com](https://www.fark.com/goto/13414474) ) » [(3 comments)](https://www.fark.com/comments/13414474/In-a-crime-more-horrific-than-killing-their-parents-Menendez-brothers-have-made-Milli-Vanilli-popular-again) |
-| [Fandom](https://www.fark.com/fandom/) | [Nice GPU, but can it run DOOM?](https://www.fark.com/goto/13414508) ( [techspot.com](https://www.fark.com/goto/13414508) ) » [(2 comments)](https://www.fark.com/comments/13414508/Nice-GPU-but-can-it-run-DOOM) |
-| [D'awww](https://www.fark.com/dawww/) | [Everyone take a deep breath of relief as Nibi the rescued beaver has received a stay of release into the wild by Gov. Maura Healey of Massachusetts](https://www.fark.com/goto/13414358) ( [msn.com](https://www.fark.com/goto/13414358) ) » [(2 comments)](https://www.fark.com/comments/13414358/Everyone-take-a-deep-breath-of-relief-as-Nibi-rescued-beaver-has-received-a-stay-of-release-into-wild-by-Gov-Maura-Healey-of-Massachusetts) |
-| [Food](https://www.fark.com/food/) | [How to grow those enormous gourds](https://www.fark.com/goto/13414326) ( [wbur.org](https://www.fark.com/goto/13414326) ) » [(0 comments)](https://www.fark.com/comments/13414326/How-to-grow-those-enormous-gourds) |
-| [Politics](https://www.fark.com/politics/) | [Robert Reich explains why voters are morons](https://www.fark.com/goto/13414386) ( [theguardian.com](https://www.fark.com/goto/13414386) ) » [(40 comments)](https://www.fark.com/comments/13414386/Robert-Reich-explains-why-voters-are-morons) |
+| [Main](https://www.fark.com/) | [Your newest colorful California criminal is the Pasadena Pee Bandit, if you cross him urine trouble now](https://www.fark.com/goto/13414604) ( [patch.com](https://www.fark.com/goto/13414604) ) » [(5 comments)](https://www.fark.com/comments/13414604/Your-newest-colorful-California-criminal-is-Pasadena-Pee-Bandit-if-you-cross-him-urine-trouble-now) |
+| [Discussion](https://www.fark.com/discussion/) | ["Is my mom's love for her grandchildren toxic?"](https://www.fark.com/goto/13414028) ( [slate.com](https://www.fark.com/goto/13414028) ) » [(3 comments)](https://www.fark.com/comments/13414028/Is-my-moms-love-for-her-grandchildren-toxic) |
+| [Sports](https://www.fark.com/sports/) | [Oh, you thought that was a "lifetime" ban, ghost of Pete Rose?](https://www.fark.com/goto/13414622) ( [apnews.com](https://www.fark.com/goto/13414622) ) » [(20 comments)](https://www.fark.com/comments/13414622/Oh-you-thought-that-was-a-lifetime-ban-ghost-of-Pete-Rose) |
+| [Business](https://www.fark.com/business/) | [Union boss Harold Daggett: Please return your cargo cranes to their upright, stowed and locked positions, we'll ride this out. I'll be in my luxe 7,000 square-foot mansion](https://www.fark.com/goto/13414580) ( [nypost.com](https://www.fark.com/goto/13414580) ) » [(19 comments)](https://www.fark.com/comments/13414580/Union-boss-Harold-Daggett-Please-return-your-cargo-cranes-to-their-upright-stowed-locked-positions-well-ride-this-out-Ill-be-in-my-luxe-7000-square-foot-mansion) |
+| [STEM](https://www.fark.com/stem/) | [J.D. Vance has a lot in common with the orbit of the Moon. Here comes the science](https://www.fark.com/goto/13414592) ( [youtube.com](https://www.fark.com/goto/13414592) ) » [(5 comments)](https://www.fark.com/comments/13414592/JD-Vance-has-a-lot-in-common-with-orbit-of-Moon-Here-comes-science) |
+| [Entertainment](https://www.fark.com/entertainment/) | [That's like the pot calling the kettle...some other color](https://www.fark.com/goto/13414598) ( [hot97.com](https://www.fark.com/goto/13414598) ) » [(7 comments)](https://www.fark.com/comments/13414598/Thats-like-pot-calling-kettlesome-other-color) |
+| [Fandom](https://www.fark.com/fandom/) | [A DC Comics/Star Wars crossover was proposed but HAHAHAHAHA that's just too stupid](https://www.fark.com/goto/13414564) ( [slashfilm.com](https://www.fark.com/goto/13414564) ) » [(25 comments)](https://www.fark.com/comments/13414564/A-DC-ComicsStar-Wars-crossover-was-proposed-but-HAHAHAHAHA-thats-just-too-stupid) |
+| [D'awww](https://www.fark.com/dawww/) | [That's Nacho cat](https://www.fark.com/goto/13414596) ( [ottawa.ctvnews.ca](https://www.fark.com/goto/13414596) ) » [(2 comments)](https://www.fark.com/comments/13414596/Thats-Nacho-cat) |
+| [Food](https://www.fark.com/food/) | [How to grow those enormous gourds](https://www.fark.com/goto/13414326) ( [wbur.org](https://www.fark.com/goto/13414326) ) » [(3 comments)](https://www.fark.com/comments/13414326/How-to-grow-those-enormous-gourds) |
+| [Politics](https://www.fark.com/politics/) | [More money for seniors? In our moment of triumph?](https://www.fark.com/goto/13414468) ( [msn.com](https://www.fark.com/goto/13414468) ) » [(1 comment)](https://www.fark.com/comments/13414468/More-money-for-seniors-In-our-moment-of-triumph) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 02 2024 21:44:01  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 03 2024 03:42:16  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
