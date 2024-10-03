@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Miami Dolphins ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/50-facts-about-miami-dolphins/)
+[![35 Facts About Camping ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/human-activities/35-facts-about-camping/)
+
+Human Activities
+
+03 Oct 2024
+
+[35 Facts About Camping](https://facts.net/human-activities/35-facts-about-camping/)
+
+[![40 Facts About Dan Evans ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/40-facts-about-dan-evans/)
 
 Sports
 
-02 Oct 2024
+03 Oct 2024
 
-[50 Facts About Miami Dolphins](https://facts.net/lifestyle/sports/50-facts-about-miami-dolphins/)
-
-[![30 Facts About Briartite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-briartite/)
-
-Earth Sciences
-
-02 Oct 2024
-
-[30 Facts About Briartite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-briartite/)
+[40 Facts About Dan Evans](https://facts.net/lifestyle/sports/40-facts-about-dan-evans/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
