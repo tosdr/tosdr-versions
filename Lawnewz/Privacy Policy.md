@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Terry Robinson Jr. and Destiny Culvahouse](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Terry-Robinson-Jr.-and--432x243.jpg)](https://lawandcrime.com/crime/stepfather-fatally-beat-5-year-old-boy-for-stealing-then-went-grocery-shopping-and-applied-for-a-job-cops/)
+1. [![Michael Cohen, Donald Trump](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Cohen-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
     
-    ### [Stepfather fatally beat 5-year-old boy for 'stealing,' then went grocery shopping and applied for a job: Cops](https://lawandcrime.com/crime/stepfather-fatally-beat-5-year-old-boy-for-stealing-then-went-grocery-shopping-and-applied-for-a-job-cops/)
+    ### ['That cannot be the law': Michael Cohen begs Supreme Court one more time to let him sue Trump for 'retaliatory imprisonment' over tell-all book](https://lawandcrime.com/high-profile/michael-cohen-begs-scotus-one-more-time-to-let-him-sue-trump-for-retaliating-against-him-over-book/)
     
-2. [![Background: The Children's Courtyard location in South Austin, Tex. (Google Maps). Insets: Screengrabs of an allegedly abusive interaction between a caregiver and a child (via court filing).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Childrens-Courtyard-lawsuit-432x243.jpg)](https://lawandcrime.com/lawsuit/worst-nightmare-became-a-reality-day-care-worker-yanks-and-dangles-child-before-tossing-her-on-to-nap-mat-lawsuit-says/)
+2. [![Nicholas Carter](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Carter-432x243.jpg)](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
     
-    ### ['Worst nightmare became a reality': Day care worker 'yanks' and 'dangles' child before tossing her on to nap mat, lawsuit says](https://lawandcrime.com/lawsuit/worst-nightmare-became-a-reality-day-care-worker-yanks-and-dangles-child-before-tossing-her-on-to-nap-mat-lawsuit-says/)
+    ### ['Several clumps of fuzzy fecal matter': Father calls home with 5 children living in urine, mold and rotting food 'a little dirty,' cops say](https://lawandcrime.com/crime/several-clumps-of-fuzzy-fecal-matter-father-calls-home-with-5-children-living-in-urine-mold-and-rotting-food-a-little-dirty-cops-say/)
     
-3. [![Pretty woman escorts](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Pretty-Woman-escorts-432x243.jpg)](https://lawandcrime.com/crime/mother-son-duo-arrested-for-running-pretty-woman-escorts-service-with-one-of-the-most-lucrative-vip-client-lists-in-south-florida-for-25-years-cops-allege/)
-    
-    ### [Mother-son duo arrested for running Pretty Woman Escorts service with 'one of the most lucrative VIP client lists in South Florida' for 25 years, cops allege](https://lawandcrime.com/crime/mother-son-duo-arrested-for-running-pretty-woman-escorts-service-with-one-of-the-most-lucrative-vip-client-lists-in-south-florida-for-25-years-cops-allege/)
-    
-4. [![Background: Thomas Manis takes a field sobriety test administered by Tennessee Highway Patrol (WSMV). Insets, top to bottom: Angela Manis, Thomas Manis (WSMV).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Manis-Angela-Manis-432x243.jpg)](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
+3. [![Background: Thomas Manis takes a field sobriety test administered by Tennessee Highway Patrol (WSMV). Insets, top to bottom: Angela Manis, Thomas Manis (WSMV).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Manis-Angela-Manis-432x243.jpg)](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
     
     ### [Sober driver arrested for DUI and thrown in jail because officer knew his brother, 'guaranteed' he had weed in the car: Lawsuit](https://lawandcrime.com/lawsuit/sober-driver-arrested-for-dui-and-thrown-in-jail-because-officer-knew-his-brother-guaranteed-he-had-weed-in-the-car-lawsuit/)
     
-5. [![Carter J. Curtis appears in a booking photo](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Carter-Curtis-432x243.jpg)](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
+4. [![Donald Trump, U.S. District Judge Aileen Cannon, special counsel Jack Smith](https://am23.mediaite.com/lc/cnt/uploads/2024/03/Trump-Cannon-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/correctly-dismissed-the-indictment-lawyers-professors-and-former-prosecutor-go-to-bat-for-trump-in-11th-circuit-filing-saying-mar-a-lago-judge-did-nothing-wrong/)
     
-    ### ['I had to do it': Teen who 'has never been violent' hands rifle to mom and walks away after putting bullet in dad's head, police say](https://lawandcrime.com/crime/i-had-to-do-it-teen-who-has-never-been-violent-hands-rifle-to-mom-and-walks-away-after-putting-bullet-in-dads-head-police-say/)
+    ### ['Correctly dismissed the indictment': Lawyers, professors, and former prosecutor go to bat for Trump in 11th Circuit filing saying Mar-a-Lago judge did nothing wrong](https://lawandcrime.com/high-profile/correctly-dismissed-the-indictment-lawyers-professors-and-former-prosecutor-go-to-bat-for-trump-in-11th-circuit-filing-saying-mar-a-lago-judge-did-nothing-wrong/)
+    
+5. [![Donald Trump, Jack Smith](https://am23.mediaite.com/lc/cnt/uploads/2024/04/Donald-Trump-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/trump-tells-judge-special-counsel-jack-smiths-jan-6-details-must-remain-out-of-public-view/)
+    
+    ### [Trump lawyers suddenly concerned about 'sensitive witness statements' spilling out in Jan. 6 case after pushing Mar-a-Lago judge to name 'all witnesses'](https://lawandcrime.com/high-profile/trump-tells-judge-special-counsel-jack-smiths-jan-6-details-must-remain-out-of-public-view/)
     
 
 [](http://eepurl.com/c89Jdb)
