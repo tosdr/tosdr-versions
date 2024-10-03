@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Danse en talons / Heels Dance](/storage/highlights/61014/highlight.webp?v=785587)
+[![image Danse en talons / Heels Dance](/storage/highlights/61014/highlight.webp?v=901103)
 
 ##### Danse en talons / Heels Dance
 
@@ -92,7 +92,7 @@ ven. 11 octobre 2024 - **18:30** à Crissier salle 2
 
 Ce cours te permet de mettre en avant ton côté féminin ainsi que ta sensualité! Cours ouvert à...](https://app.pole-emotion.ch/cours/61014)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=787303)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=902675)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
