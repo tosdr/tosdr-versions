@@ -29,7 +29,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
     * [Collection Catalog](https://en.geneanet.org/fonds/)
     * [Hints](https://en.geneanet.org/product/compare)
 * [Projects](javascript:;)
-    * [Save our Graves](https://en.geneanet.org/a-cemetery-for-posterity)
+    * [Save our Graves](https://en.geneanet.org/a-cemetery-for-posterity/)
     * [War Memorials](https://en.geneanet.org/memorials/)
     * [Archival Registers](https://en.geneanet.org/archival-registers/)
     * [All Projects](https://en.geneanet.org/community/)
@@ -79,7 +79,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 [Projects](javascript:;)
 ------------------------
 
-[Save our Graves](https://en.geneanet.org/a-cemetery-for-posterity)
+[Save our Graves](https://en.geneanet.org/a-cemetery-for-posterity/)
 
 [War Memorials](https://en.geneanet.org/memorials/)
 
@@ -125,7 +125,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 October 4-6, 2024, participate in Geneanet's "Save our Graves" Weekend!
 
-50,626 photos
+52,274 photos
 
 [Participate](https://en.geneanet.org/genealogyblog/post/2024/09/geneanet-save-our-graves-weekend-october-04-06-2024)
 
@@ -222,7 +222,7 @@ DeutschEnglishEspañolSuomiFrançaisItalianoNederlandsNorskPortuguêsSvenska
 
 **OUR APPS**
 
-* [GeneaGraves](https://en.geneanet.org/a-cemetery-for-posterity)
+* [GeneaGraves](https://en.geneanet.org/a-cemetery-for-posterity/)
 * [Now and Then](https://en.geneanet.org/now-and-then/)
 
 **FOLLOW US**
