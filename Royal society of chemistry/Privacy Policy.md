@@ -1,7 +1,5 @@
 [Skip to main content](#maincontent)
 
-Due to essential system maintenance, the members' area is temporarily unavailable. If you have any questions about your membership, please [contact the team here](http://www.rsc.org/membership-and-community/join/ask-us-a-question/). Thank you for your understanding and patience.
-
 [![Royal Society of Chemistry](https://epi-rsc.rsc-cdn.org/public/img/template/rsc-logo.png?version=20240326094334 "Royal Society of Chemistry")](http://www.rsc.org/)
 
 [Members' area](https://members.rsc.org/) [Make a donation](http://www.rsc.org/donations/)
