@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![It's Time for "Spooktober!"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/103/maxresdefault_(25).jpg "Ohhh Guess What Time It Is Folks: Spooktober Time")
+* [![Anyway Here's Wonderwall](https://i.kym-cdn.com/featured_items/icons/wide/000/026/117/ezgif-4-cdfcafd69872.png "Today's A Very Special Day, When Oasis Dropped This Classic Tune")
     
-    Ohhh Guess What Time It Is Folks: Spooktober Time](https://knowyourmeme.com/memes/spooktober)
+    Today's A Very Special Day, When Oasis Dropped This Classic Tune](https://knowyourmeme.com/memes/wonderwall)
     
-* [![Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral](https://i.kym-cdn.com/featured_items/icons/wide/000/026/102/1.jpg "Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral")
+* [![Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters](https://i.kym-cdn.com/featured_items/icons/wide/000/026/116/cover11.jpg "Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters")
     
-    Fours Years Of Simple Lay-Ups Has Made This BasketBall Meme Actually Go Viral](https://knowyourmeme.com/memes/dont-worry-about-it-the-boys-got-me)
+    Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters](https://knowyourmeme.com/memes/events/2024-earths-mini-moon)
     
-* [![Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real](https://i.kym-cdn.com/featured_items/icons/wide/000/026/101/cover2.jpg "Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real")
+* [![Blush Meter Meme Finds Artists Depicting Their OC's Losing It](https://i.kym-cdn.com/featured_items/icons/wide/000/026/115/731.jpg "Blush Meter Meme Finds Artists Depicting Their OC's Losing It")
     
-    Underground Transgender Mafia Doesn't Exist, And Neither Does Liz Truss' Quote, But Memes About It Are Very Much Real](https://knowyourmeme.com/memes/underground-transgender-mafia)
+    Blush Meter Meme Finds Artists Depicting Their OC's Losing It](https://knowyourmeme.com/memes/blush-meter-meme)
     
-* [![Demi Moore looking at the mirror in a scene from The Substance film.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/100/The_Substance_cover.jpg "'The Substance:' Demi Moore’s New Body Horror Film Critique Of Hollywood Beauty Standards Also Inspired Memes On The Internet")
+* [![Trend In Recent Media is a parody art trend that grew popular on Twitter (now called X) in September 2024. Inspired by a slew of viral art trends that complained about trends in modern movies and television, X user @PaintraSeaPea posted a series of humorous art bemoaning niche and hyperspecific aspects of movies and TV, asking if anyone else had noticed the "trend" in "recent media." In particular, @PaintraSeaPea's comic about a "quick to anger ducklike character" and his "three color-coordinated nephews" became the subject of a redraw trend.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/114/trend_in_recent_media.jpg "Twitter Artists Are Making Fun Of Clichéd Art Trends About Tropes In 'Recent Media'")
     
-    'The Substance:' Demi Moore’s New Body Horror Film Critique Of Hollywood Beauty Standards Also Inspired Memes On The Internet](https://knowyourmeme.com/memes/subcultures/the-substance-2024)
+    Twitter Artists Are Making Fun Of Clichéd Art Trends About Tropes In 'Recent Media'](https://knowyourmeme.com/memes/trend-in-recent-media)
     
-* [![The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/099/1.jpg "The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'")
+* [![Larry David's Bad Framing screenshot.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/113/Larry_David_Zoom_Call_Framing_cover_v2.jpg "Larry David's Bad Framing During A Zoom Call Becomes Viral Reaction Meme On Twitter")
     
-    The Indian Artist Hanumankind Made A Big Splash With His Hit Song 'Big Dawgs'](https://knowyourmeme.com/memes/big-dawgs-by-hanumankind)
+    Larry David's Bad Framing During A Zoom Call Becomes Viral Reaction Meme On Twitter](https://knowyourmeme.com/memes/larry-davids-zoom-call-framing)
     
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [America's Hitler](https://knowyourmeme.com/memes/americas-hitler "America's Hitler")
+[America's Hitler](https://knowyourmeme.com/memes/americas-hitler "America's Hitler") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
