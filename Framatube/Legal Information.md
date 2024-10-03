@@ -108,6 +108,10 @@ Conformément aux dispositions de l’article 34 de la loi n° 48-87 du 6 ja
 
 La modification interviendra dans des délais raisonnables à compter de la réception de la demande de l’utilisateur.
 
+### Règlement général sur la protection des données
+
+Vous trouverez toutes les informations concernant notre conformité au RGPD sur le site [rgpd.framasoft.org](https://rgpd.framasoft.org/). Celle-ci reste encore imparfaite, mais notre association promouvant le respect de la vie privée, nous avons à cœur de la respecter.
+
 * * *
 
 Limitation de responsabilité
