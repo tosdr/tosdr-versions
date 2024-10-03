@@ -60,24 +60,24 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250101)
 * [Women's T20 WC
     
-    4/10 0:00 AEST
+    PAK won by 31 runs
     
     |     |     |
     | --- | --- |
-    | PAK | –   |
-    | SRI | –   |
+    | PAK | 9 /116 |
+    | SRI | 9 /85 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250102)
-* [WNCL
+* [Women's T20 WC
     
-    QLD won by 8 wkts
+    4/10 20:00 AEST
     
     |     |     |
     | --- | --- |
-    | QLD | 2 /83 |
-    | WA  | 81  |
+    | RSA | –   |
+    | WI  | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250107)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250103)
 * [WNCL
     
     4/10 9:30 AEST
@@ -110,6 +110,18 @@ FOX SCORES
     | GWS | 3.7.25 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240604)
+* NFL
+    
+* [NFL
+    
+    4/10 10:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ATL | –   |
+    | TB  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250509)
 * Motorsport
     
 * [MotoGP
@@ -134,38 +146,18 @@ FOX SCORES
     | SEM | 83  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030001/play-by-play)
+* [NBL
+    
+    4/10 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAI | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030002)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | BAL | 1   |
-    | KC  | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240050026161B)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | MIL | 5   |
-    | NYM | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400500220201)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | SD  | 5   |
-    | ATL | 4   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002BB194)
 * [MLB
     
     4/10 9:08 AEST
