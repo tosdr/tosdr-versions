@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Deep Brain Stimulation After Brain Injury, ...](https://www.sciencedaily.com/releases/2024/10/241001115019.htm)
-* [Ovarian Cancer: Detecting 96% of Cases](https://www.sciencedaily.com/releases/2024/09/240930212848.htm)
+* [Stem Cell Transplants Close Macular Holes](https://www.sciencedaily.com/releases/2024/10/241003123121.htm)
+* [Animal Movements Accurately Replicated](https://www.sciencedaily.com/releases/2024/10/241002104709.htm)
+* [Plastic-Eating Microbe in Wastewater](https://www.sciencedaily.com/releases/2024/10/241003123307.htm)
+* [Lunar Ice Deposits Are Widespread](https://www.sciencedaily.com/releases/2024/10/241003123252.htm)
+* [Most Tropical Lightning Storms Are Radioactive](https://www.sciencedaily.com/releases/2024/10/241002123025.htm)
+* [Deep Brain Stimulation After Brain Injury](https://www.sciencedaily.com/releases/2024/10/241001115019.htm)
 * [How Plant Respond to Warming Climate](https://www.sciencedaily.com/releases/2024/10/241002154002.htm)
 * [Scientists Create Flies That Halt in Red Light](https://www.sciencedaily.com/releases/2024/10/241002123015.htm)
 * [Scientists Decode Key Mutation in Many Cancers](https://www.sciencedaily.com/releases/2024/10/241002122918.htm)
 * [Record-Breaking Stellar Triplets Spotted](https://www.sciencedaily.com/releases/2024/10/241002123146.htm)
-* [Playing Bottlenose Dolphins 'Smile' at Each ...](https://www.sciencedaily.com/releases/2024/10/241002123030.htm)
-* [Entire Brain of Adult Fruit Fly Mapped](https://www.sciencedaily.com/releases/2024/10/241002123138.htm)
-* [Decade After Hurricane, Thousands of Early ...](https://www.sciencedaily.com/releases/2024/10/241002123012.htm)
-* [AI Lets You Glimpse Potential Future Self](https://www.sciencedaily.com/releases/2024/10/241002104856.htm)
 
 Trending Topics
 ---------------
@@ -249,9 +249,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
@@ -259,17 +259,17 @@ this week
 
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Geology](https://www.sciencedaily.com/news/earth_climate/geology/)
-
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
