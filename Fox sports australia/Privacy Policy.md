@@ -50,12 +50,12 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    3/10 20:00 AEST
+    BAN won by 16 runs
     
     |     |     |
     | --- | --- |
-    | BAN | –   |
-    | SCO | –   |
+    | BAN | 7 /119 |
+    | SCO | 7 /103 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250101)
 * [Women's T20 WC
@@ -78,16 +78,36 @@ FOX SCORES
     | WA  | 81  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250107)
+* [WNCL
+    
+    4/10 9:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NSW | –   |
+    | VIC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250108)
+* [WNCL
+    
+    4/10 10:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250109)
 * AFL
     
 * [AFL Women's
     
-    3/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | MEL | –   |
-    | GWS | –   |
+    | MEL | 6.5.41 |
+    | GWS | 3.7.25 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240604)
 * Motorsport
@@ -106,118 +126,16 @@ FOX SCORES
     
 * [NBL
     
-    3/10 19:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ADL | –   |
-    | SEM | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030001)
-* Football
-    
-* [UCL
-    
     Full Time
     
     |     |     |
     | --- | --- |
-    | DON | 0   |
-    | ATA | 3   |
+    | ADL | 93  |
+    | SEM | 83  |
     
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250219)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GIR | 2   |
-    | FEY | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250221)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIV | 2   |
-    | BOL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250225)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SG  | 0   |
-    | CB  | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250231)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AVL | 1   |
-    | BAY | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250235)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIL | 1   |
-    | RMD | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250227)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BEN | 4   |
-    | AMD | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250229)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DZ  | 2   |
-    | MCO | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250223)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | RBL | 2   |
-    | JUV | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250233)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030001/play-by-play)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 2   |
-    | DET | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002D15FE)
 * [MLB
     
     Final
@@ -248,6 +166,16 @@ FOX SCORES
     | ATL | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002BB194)
+* [MLB
+    
+    4/10 9:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIL | –   |
+    | NYM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002D953D)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -994,7 +922,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
