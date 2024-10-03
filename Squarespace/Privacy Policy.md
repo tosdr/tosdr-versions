@@ -24,11 +24,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
-
-New
-
-→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
+[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
 
 New
 
@@ -102,11 +98,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
-
-New
-
-→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
+[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
 
 New
 
