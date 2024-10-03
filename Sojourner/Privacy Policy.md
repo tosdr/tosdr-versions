@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c4f8d09b81a7f79048ad96004cf9295a
+3e7d502e8b1f18dcaa4305b2eb0c527d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,9 +171,9 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm transparent pink heart beads](https://www.sojourner.biz/images/cache/glass/HRT016.200.jpg)](https://www.sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
+[![11 mm light purple lozenge beads](https://www.sojourner.biz/images/cache/glass/GL0244.200.jpg)](https://www.sojourner.biz/beads/glass/11-mm-light-purple-lozenge-beads.html "11 mm light purple lozenge beads")
 
-#### [6 mm transparent pink heart beads](https://www.sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
+#### [11 mm light purple lozenge beads](https://www.sojourner.biz/beads/glass/11-mm-light-purple-lozenge-beads.html "11 mm light purple lozenge beads")
 
 $2.00
 
