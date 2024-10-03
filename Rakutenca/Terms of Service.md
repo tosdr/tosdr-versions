@@ -277,15 +277,15 @@ FR
         
         [Simba Sleep Canada
         
-        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
+        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Dyson
+        
+        2.5% Cash Back](https://www.rakuten.ca/dyson)[Wayfair
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
         2% Cash Back](https://www.rakuten.ca/well)[Michaels Canada
         
-        3% Cash Back](https://www.rakuten.ca/michaels-canada)[Alexanian Carpet & Flooring
-        
-        up to 5% Cash Back](https://www.rakuten.ca/alexanian)
+        3% Cash Back](https://www.rakuten.ca/michaels-canada)
         
         Featured Shops & Deals
         
@@ -367,7 +367,7 @@ FR
         
         [Chewy
         
-        2.5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
+        2% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
         2% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
