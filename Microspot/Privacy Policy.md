@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5820.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/3074.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -130,6 +130,8 @@ Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0644-CM3-Supercash-P102.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzI1Nzh8aW1hZ2UvanBlZ3xhR1UzTDJobVlpOHhNVGd3ZURNMU1GOUpNalJmTURZME5GOURUVE5mVTNWd1pYSmpZWE5vWDFBeE1ESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qUTBYME5OTTE5VGRYQmxjbU5oYzJoZlVERXdNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZmM5ODU2OGI5MTYyZjZlZjdkOThiMGE1YTgyZGY4NzMxZjMwZGQ4MWE3ZWQxM2NkZjQ0M2VlNWM5NWY3MDY1Mw&w=2360&q=75)](https://www.microspot.ch/fr/cms/supercard)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-10-P10-Glu-cksrad-Herbst2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4OTQ3NnxpbWFnZS9qcGVnfGFEQTNMMmhrWXk4eE1UZ3dlRE0xTUY5Sk1qUmZNVEJmVURFd1gwZHNkY3lJWTJ0emNtRmtYMGhsY21KemRESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4eE1GOVFNVEJmUjJ4MXpJaGphM055WVdSZlNHVnlZbk4wTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDZjY2U2YWFlNTc4ZWExNjJjYTZhMjNkNDEzMTcwZjBlMDRhYjhkNzVlYzA3MmNlMzVlMmU0YjU0ZTdlM2ZjMjc&w=2360&q=75)](https://gagner.interdiscount.ch/?ref=online_homepage)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0629-Herofest2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NjY5OXxpbWFnZS9qcGVnfGFHWTJMMmc1Tmk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFl5T1Y5SVpYSnZabVZ6ZERJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TmpJNVgwaGxjbTltWlhOME1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2IzNWM4MWRkOTEwNjEzODZiZTQwMTI0MjIxNTZhYThiZmMwMzE3NjU5NDA5ZDkyN2M2MTcyYjZhM2IxZjc5&w=2360&q=75)](https://www.microspot.ch/fr/cms/gaming)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F7450-40-PH-OneBlade-Icon-League-MobileContentAd-Banner-1180x350-FR-RZ-CR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzQ1NTJ8aW1hZ2UvanBlZ3xhRE0yTDJobE5TODNORFV3TFRRd1gxQklYMDl1WlVKc1lXUmxYMGxqYjI1ZlRHVmhaM1ZsWDAxdlltbHNaVU52Ym5SbGJuUkJaRjlDWVc1dVpYSmZNVEU0TUhnek5UQmZSbEpmVWxwZlExSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemMwTlRBdE5EQmZVRWhmVDI1bFFteGhaR1ZmU1dOdmJsOU1aV0ZuZFdWZlRXOWlhV3hsUTI5dWRHVnVkRUZrWDBKaGJtNWxjbDh4TVRnd2VETTFNRjlHVWw5U1dsOURVaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NTY0YmQ3YmU0ODhkYTA0YTk3YmY3ZTk3ZjY4NDM1NDEwNjZkOTMwMzY4YjcxNWFmNjI4MDc0YWNkNzU2MGY1Yw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F7450-40-PH-OneBlade-Icon-League-MobileContentAd-Banner-1180x350-FR-RZ-CR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzQ1NTJ8aW1hZ2UvanBlZ3xhRE0yTDJobE5TODNORFV3TFRRd1gxQklYMDl1WlVKc1lXUmxYMGxqYjI1ZlRHVmhaM1ZsWDAxdlltbHNaVU52Ym5SbGJuUkJaRjlDWVc1dVpYSmZNVEU0TUhnek5UQmZSbEpmVWxwZlExSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemMwTlRBdE5EQmZVRWhmVDI1bFFteGhaR1ZmU1dOdmJsOU1aV0ZuZFdWZlRXOWlhV3hsUTI5dWRHVnVkRUZrWDBKaGJtNWxjbDh4TVRnd2VETTFNRjlHVWw5U1dsOURVaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NTY0YmQ3YmU0ODhkYTA0YTk3YmY3ZTk3ZjY4NDM1NDEwNjZkOTMwMzY4YjcxNWFmNjI4MDc0YWNkNzU2MGY1Yw&w=2360&q=75)](https://www.microspot.ch/fr/product/philips-oneblade-pro-360-qp6552-15-0014110029)
 
@@ -211,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
