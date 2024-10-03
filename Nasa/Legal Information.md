@@ -76,7 +76,7 @@ article4 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hagu
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article7 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 6 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+article 7 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
 
 3 min read
 
@@ -269,7 +269,7 @@ article 6 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### NASA Prepares for Lunar Terrain Vehicle Testing
 
-article 5 hours ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
+article 11 hours ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
 
 2 min read
 
@@ -291,13 +291,13 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds
 
-article 6 hours ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find-new-gamma-ray-emission-in-storm-clouds/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+article 12 hours ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find-new-gamma-ray-emission-in-storm-clouds/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
@@ -313,19 +313,19 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### What’s Up: October 2024 Skywatching Tips from NASA
 
-article 6 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
+article 12 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
 
 7 min read
 
 ### NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
 
-article 7 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+article 13 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
+article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
 
 ### Featured
 
@@ -335,41 +335,41 @@ article 1 day ago](https://science.nasa.gov/missions/juice/nasas-instruments-cap
 
 ### NASA’s TESS Spots Record-Breaking Stellar Triplets
 
-article 7 hours ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
+article 13 hours ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
 
 2 min read
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)
+article 7 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)
 
 ### Highlights
 
-[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
+[![Why NASA is studying flames in space ](https://science.nasa.gov/wp-content/uploads/2024/10/jsc2023e013681medium.jpg)
+
+4 min read
+
+### Why NASA is studying flames in space 
+
+article 6 hours ago](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
 
 2 min read
 
 ### Amendment 57: ROSES-24 Changes for 2 CFR 200 Update
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![GeneLab for High Schools (GL4HS) Education Resources translated to Spanish.](https://www.nasa.gov/wp-content/uploads/2024/09/gl4hs-spanish.png?w=266)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![Transform to Open Science (TOPS) Logo](https://www.nasa.gov/wp-content/uploads/2024/09/tops-final.jpg?w=256)
 
 2 min read
 
-### GeneLab Educational Resources Now Available in Spanish!
+### Using AI/ML for Space Biology Research
 
-article 5 hours ago](https://www.nasa.gov/genelab-educational-resources-now-available-in-spanish/)[![Image of detectors on spacecraft operating Beyond Low Earth Orbit (BLEO) that have been added to RadLab.](https://www.nasa.gov/wp-content/uploads/2024/09/bleo-annotated-withcopyrights.png?w=1024)
-
-2 min read
-
-### RadLab Portal Expands Horizons
-
-article 5 hours ago](https://www.nasa.gov/radlab-portal-expands-horizons/)
+article 11 hours ago](https://www.nasa.gov/using-ai-ml-for-space-biology-research/)
 
 ### Highlights
 
