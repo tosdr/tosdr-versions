@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/irak-veteraan-camilo-ineens-denk-je-ik-ga-niet-meer-vechten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/weer-succesvolle-malaria-behandeling-met-mms/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
