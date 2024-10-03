@@ -158,7 +158,7 @@ No problem. Just give us a call so we can make special arrangements with you. Ca
 Pricing Policy
 --------------
 
-Bob's Watches is dedicated to always offering the best value to our customers. We will match the price, at the time of purchase, on a Low Price Guarantee product if you find the same item at a lower price at a Designated Major Online Retailer. However, Bob's Watches reserves the right to make any change to pricing, specifications, and inventory availability without prior notice. Statements made on this site are the opinion of Bob's Watches.
+Bob's Watches is dedicated to always offering the best value to our customers, whether you are buying or selling We will match the price from a listed competitor ( see list below )  if you find the same item at a lower price at a Designated Major Online Retailer, or if you are offered more when selling one from one of these qualified competitors. However, Bob's Watches reserves the right to make any change to pricing, specifications, and inventory availability without prior notice. Statements made on this site are the opinion of Bob's Watches.
 
 Here's How:
 
@@ -171,7 +171,7 @@ Some exclusions apply. See the list of [Designated Major Online Retailers](# "De
 
 ![Low Price Guarantee](/images/low-price-guarantee-zoom.gif)
 
-If you find a lower price on an identical, qualifying product at a designated major online retailer, we will match the price. At the time of purchase, we will match the current pre-tax price for new, identical, immediately available products from a designated major online retailer: Amazon, 1st Dibs, Watchfinder, Mr Porter, Bloomingdales.
+If you find a better price when selling, or lower price on an identical when buying a qualifying product at a designated major online retailer, we will match the price. At the time of purchase, we will match the current pre-tax price for new, identical, immediately available products from these designated major online retailers: Amazon, 1st Dibs, Crown & Caliber, Mr Porter, Bloomingdales.
 
 The Guarantee is limited to one price match per identical item, per guest and does not apply to: the online prices of retailers not listed, the online prices of third party vendors (Marketplace vendors) on designated major online retailers websites, post purchase price match requests to competitor's prices, offers that include financing, gift card offers, bundling of items, free items, pricing errors, mail-in offers, coupon offers, competitors' service prices, items that are advertised as limited-quantity, out of stock, open-box, clearance, refurbished/used items, our and our competitor's Deal of the Day, daily deals, special hour sale event items and credit card offers, BobsWatches.com Clearance & More and Marketplace items, and items for sale Thanksgiving Day through the Monday after Thanksgiving.
 
