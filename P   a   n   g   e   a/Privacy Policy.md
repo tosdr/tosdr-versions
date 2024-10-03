@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,417 members - 451,908,799 ads shown  
+131,419 members - 451,932,985 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,417 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,419 MEMBERS!  
   
   
 
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
 
+[![](https://viraltrafficgames.com/getimg.php?id=1)](https://viraltrafficgames.com/?rid=10247)
+
+[![](https://boomerangblaster.com/banner23.gif)](https://boomerangblaster.com/purplegerbil)
+
 [![](https://boomerangblaster.com/ban99.gif)](https://boomerangblaster.com/romanjeff)
-
-[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
-
-[![](https://funkymonkeyhits.com/getimg.php?id=9)](https://funkymonkeyhits.com/?rid=1098)
 
 ![](26yrs0.gif)
 
