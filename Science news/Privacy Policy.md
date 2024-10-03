@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Brain-controlled bionic limbs are inching closer to reality](https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics)
+            
+            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")2 hours ago
+            
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [The world’s oldest cheese is now revealing some of its secrets](https://www.sciencenews.org/article/oldest-ancient-cheese-origins)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 25, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Semaglutide may reduce opioid overdoses, a new study suggests](https://www.sciencenews.org/article/semaglutide-ozempic-opioid-overdose) 
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")September 25, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scientists have traced all 54.5 million connections in a fruit fly’s brain](https://www.sciencenews.org/article/fruit-fly-brain-connections-traced)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")18 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")October 2, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 2, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 2, 2024
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
