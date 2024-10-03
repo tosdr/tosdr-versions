@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Yahoo Answers Part I](https://www.somethingawful.com/weekend-web/yahoo-answers-part1/1/)
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Awful Arcade Machines!](https://www.somethingawful.com/comedy-goldmine/awful-arcade-machines/1/)
-* [Ask an Ex-Fetish Artist!](https://www.somethingawful.com/comedy-goldmine/sex-picture-maker/)
-* [Before and After Movies](https://www.somethingawful.com/photoshop-phriday/before-after-movies/1/)
+* [UNIVERSITY!](https://www.somethingawful.com/news/hyurgi-online-university/1/)
+* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
+* [The Complete History Of Video Games](https://www.somethingawful.com/video-game-article/history-video-games/)
+* [This is COOL](https://www.somethingawful.com/news/sega-saturn-cool/)
+* [Canceled After One Episode](https://www.somethingawful.com/news/canceled-tv-series/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Do YouTube people have emotions?](http://forums.somethingawful.com/showthread.php?threadid=4071732 "Do YouTube people have emotions?")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [The one thing you ALWAYS forget to do. ALWAYS.](http://forums.somethingawful.com/showthread.php?threadid=4071814 "The one thing you ALWAYS forget to do. ALWAYS.")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [ITT: we are dipshits in a cyberpunk dystopia](http://forums.somethingawful.com/showthread.php?threadid=4071800 "ITT: we are dipshits in a cyberpunk dystopia")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [The one thing you ALWAYS forget to do. ALWAYS.](http://forums.somethingawful.com/showthread.php?threadid=4071814 "The one thing you ALWAYS forget to do. ALWAYS.")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Is the entire concept of soda insane to anyone else?](http://forums.somethingawful.com/showthread.php?threadid=4071823 "Is the entire concept of soda insane to anyone else?")
+* ![](https://fi.somethingawful.com/forums/posticons/aids.png) [How will you die?](http://forums.somethingawful.com/showthread.php?threadid=4071839 "How will you die?")
 
 ### Random Articles
 
-* [In Praise of David Thorpe's Brother](https://www.somethingawful.com/news/david-thorpe-brother/1/)
-* [Skyrim Classified Ads](https://www.somethingawful.com/news/skyrim-classifieds/)
-* [DEEEETROIT BASKETBALL](https://www.somethingawful.com/daily-dirt/deeeetroit-basketball/)
-* [Why Are You Sleeping with the Man from the Halloween Store?](https://www.somethingawful.com/news/halloween-store-adulterer/)
-* [Mama had a baby and its' head popped off!](https://www.somethingawful.com/daily-dirt/mama-had-baby/)
+* [If You Like Super Mario Bros., Try These Games](https://www.somethingawful.com/video-game-article/super-mario-try/)
+* [The Strangest Star Wars Products!](https://www.somethingawful.com/comedy-goldmine/strange-starwars-products/)
+* [MS Paint Nintendo! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/mspaint-nintendo-mario/1/)
+* [Tyra's Virtual Studio](https://www.somethingawful.com/mmo-roulette/tyrastudio/1/)
+* [Sara's Super Site](https://www.somethingawful.com/awful-links/awful-link-878/)
 
 [Random!](https://www.somethingawful.com/random/)
 
