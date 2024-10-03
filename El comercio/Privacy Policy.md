@@ -31,6 +31,185 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Daniel Noboa decreta estado de excepción para Quito y seis provincias
+=====================================================================
+
+Este nuevo estado de excepción incluye 'toque de queda' en 19 cantones. Quito no está incluido en el listado y tendrá libre circulación.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa decretó un nuevo estado de excepción para 6 provincias y Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Daniel-Noboa.jpg)
+
+A partir de este 3 de octubre de 2024, rige un **nuevo estado de excepción** decretado por el gobierno del **presidente Daniel Noboa**.
+
+### Más noticias
+
+* [Calles cerradas en Quito por tareas de limpieza tras inundaciones](https://www.elcomercio.com/actualidad/quito/calles-cerradas-en-quito-por-tareas-de-limpieza-tras-inundaciones.html "Calles cerradas en Quito por tareas de limpieza tras inundaciones")
+* [Inundaciones en varios barrios del sur de Quito por las intensas lluvias](https://www.elcomercio.com/actualidad/quito/lluvias-inundaciones-barrios-quito-sur.html "Inundaciones en varios barrios del sur de Quito por las intensas lluvias")
+
+Según el Decreto Ejecutivo 410 se declara **estado de excepción** en las siguientes provincias:
+
+* Guayas
+* Los Ríos
+* Manabí
+* Orellana
+* Santa Elena
+* El Oro
+
+Además, se incluye al **Distrito Metropolitano de Quito** de la provincia de Pichincha y, al **cantón Camilo Ponce Enríquez** de la provincia de Azuay.
+
+Esta declaratoria se fundamenta en el **incremento de hostilidades**, cometimiento de delitos e intensidad de la **presencia prolongada de grupos armados organizados**.
+
+Este estado de excepción tendrá una vigencia de **60 días a partir de este 3 de octubre**.
+
+¿Qué contempla este estado de excepción?
+----------------------------------------
+
+En las zonas incluidas en este decreto **se suspende el derecho a la inviolabilidad de domicilio.** Es decir, que se pueden realizar inspecciones, allanamientos y requisas por parte de la Policía y Fuerzas Armadas. También la toma física de los materiales o instrumentos que se considere que sirven para el cometimiento de delitos, a fin de neutralizar amenazas.
+
+Además, se suspende el derecho a la libertad de reunión, lo cual impide cualquier acción  
+que afecte la seguridad y el orden público.
+
+¿Hay toque de queda?
+--------------------
+
+El estado de excepción restringe la libertad de tránsito todos los días desde las 22:00 hasta las 05:00 solamente en los siguientes cantones:
+
+* Azuay: cantón Camilo Ponce Enríquez
+* Guayas: cantones Durán y Balao y parroquia Tenguel
+* Los Ríos: cantones Babahoyo, Buena Fe, Quevedo, Pueblo Viejo, Vinces, Valencia, Ventanas, Mocache, Urdaneta, Baba, Palenque, Quinsaloma, Montalvo.
+* Orellana: cantones La Joya De Los Sachas, Puerto Francisco de Orellana y Loreto
+
+Las personas que **circulen durante el horario temporal** de restricción serán puestas a órdenes de las autoridades competentes, [añad](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")[e](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") [el decreto](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa").
+
+**En Quito, no se aplicará ‘toque de queda’.**
+
+Noticia en desarrollo…
+
+Estado de excepción anterior
+----------------------------
+
+El presidente de la República, Daniel Noboa, emitió el Decreto Ejecutivo, mediante el cual se dispone un toque de queda en varias provincias del país en el marco del estado de excepción. Esta medida regirá desde las 22:00 del miércoles 18 de septiembre hasta las 6:00 del jueves 19 de septiembre de 2024.
+
+Las provincias afectadas por la medida incluyen Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay.
+
+Según el comunicado oficial emitido por la Secretaría General de Comunicación de la Presidencia, el objetivo de esta medida es reforzar la seguridad ciudadana y proteger a la población ante la creciente preocupación por la violencia y la criminalidad.
+
+El Bloque de Seguridad del Gobierno intensificará las acciones para precautelar la seguridad en las zonas donde rige la restricción, prestando especial atención en los cantones y parroquias afectados. Además, se prevé que en los próximos días se anuncien medidas adicionales en función de la evolución de la situación.
+
+  
+
+Calles cerradas en Quito por tareas de limpieza tras inundaciones
+=================================================================
+
+La AMT asiste en la zona de emergencia para gestionar el tránsito vehicular en el barrio La Lucha de los Pobres, sur de Quito
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Personal de la Empresa del Agua trabajan en tareas de limpieza en la Lucha de los Pobres.](https://www.elcomercio.com/wp-content/uploads/2024/10/limpieza.jpg)
+
+En la tarde y noche del miércoles 2 de octubre, **fuertes lluvias** cayeron sobre la ciudad capital. Esto causó estragos, sobre todo en barrios del sur de Quito.
+
+### Más noticias
+
+* [Inundaciones en varios barrios del sur de Quito por las intensas lluvias](https://www.elcomercio.com/actualidad/quito/lluvias-inundaciones-barrios-quito-sur.html "Inundaciones en varios barrios del sur de Quito por las intensas lluvias")
+* [Torrencial lluvia desbordó una quebrada y un río en el sur de Quito](https://www.elcomercio.com/actualidad/quito/torrencial-lluvia-desborde-rios-quebradas-sur-quito.html "Torrencial lluvia desbordó una quebrada y un río en el sur de Quito")
+* [Así funciona el Pico y placa en Quito este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-3-de-octubre.html "Así funciona el Pico y placa en Quito este jueves 3 de octubre")
+
+Una de las principales emergencias registradas fue **el desbordamiento de la quebrada en Caupicho**, que puso en **riesgo la seguridad** del personal y estudiantes de una escuela cercana.
+
+En La **Lucha de los Pobres**, las calles quedaron cubiertas de agua y lodo por el desbordamiento del río Machángara.
+
+Nueve viviendas y **22 personas afectadas** es el saldo de las inundaciones del miércoles 2 de octubre, según información del COE Metropolitano.
+
+Calles cerradas por tareas de limpieza
+--------------------------------------
+
+Este jueves 3 de octubre, la **Empresa Metropolitana de Agua Potable** informó que trabaja en el sector de La Lucha de los Pobres desde la noche del miércoles. En la **calle 21 de Agosto** realizan tareas de limpieza del material arrastrado por la lluvia y evacúan agua acumulada.
+
+Además, realizan la **limpieza de sumideros con un hidrosuccionador** y un equipo operativo. La cuadrilla trabaja en los exteriores de la escuela Francisco Javier Salazar, en la cual se suspendieron las clases.
+
+Debido a estas tareas de limpieza, **algunas calles del sur de Quito están cerradas**. La Agencia Metropolitana de Tránsito (AMT) asiste en los cierres para gestionar el flujo vehicular.
+
+Las intersecciones que están [cerradas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") en el sur de Quito son:
+
+* E1 G y 21 de Agosto
+* Pérez Bustamante y 21 de Agosto
+* Av. Maldonado y 21 de Agosto
+* Av. Maldonado y El Paraíso
+* E1 G y el Paraíso
+* Paraíso y 21 de Agosto
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Escuela Francisco Javier Salazar  
+> 🚧 Cierre: Calle 21 de Agosto  
+> 🛣️ Toda la vía en los exteriores del plantel educativo.  
+> ❌ Motivo: limpieza del sector a cargo de [@aguadequito](https://twitter.com/aguadequito?ref_src=twsrc%5Etfw)  
+>   
+> 👆🏼 Con precaución y atención en las vías  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zfzo2tdzyb](https://t.co/Zfzo2tdzyb)
+> 
+> — AMTQuito (@AMT\_Quito) [October 3, 2024](https://twitter.com/AMT_Quito/status/1841789219905179724?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este jueves 3 de octubre
+==============================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-y-placa-jueves.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Inscripción para lotería de visas arranca hoy, estos son los pasos](https://www.elcomercio.com/actualidad/negocios/loteria-de-visas-inscripcion-arranca-estos-son-pasos.html "Inscripción para lotería de visas arranca hoy, estos son los pasos")
+* [Dos jóvenes mueren en una furgoneta, en Guayaquil; esta fue la causa](https://www.elcomercio.com/actualidad/ecuador/dos-jovenes-mueren-en-una-furgoneta-guayaquil-causa.html "Dos jóvenes mueren en una furgoneta, en Guayaquil; esta fue la causa")
+* [Cortes de luz en Guayaquil este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-miercoles-2-de-octubre.html "Cortes de luz en Guayaquil este miércoles 2 de octubre")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
+> Si la placa de tu vehículo termina en el dígito 9️⃣ octubre es tu mes.  
+>   
+> ✅ Realiza la Revisión Técnica Vehicular y matricula tu automotor. ¡Evita multas!  
+>   
+> 💡 El proceso culmina con el permiso de circulación.  
+>   
+> 💪 Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Er6f3k56iD](https://t.co/Er6f3k56iD)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841206736901795987?ref_src=twsrc%5Etfw)
+
 Cartas a Quito / 3 de octubre de 2024
 =====================================
 
@@ -47,6 +226,34 @@ En numerosos países, en todas las regiones, la FAO colabora con las comunidades
 Los agricultores pueden marcar la diferencia mediante la práctica de una agricultura sostenible que mejore la biodiversidad y gestione los recursos naturales de manera responsable. Las empresas pueden hacer que los alimentos nutritivos y diversos disponibles sean más asequibles. El mundo académico y la sociedad civil pueden pedir cuentas a los gobiernos mediante la recopilación de datos, la identificación de esferas de mejora, la aplicación de soluciones científico-técnicas y la medición de los progresos realizados hacia el logro de las metas. La ciencia y la innovación, en particular las tecnologías de la información (TI), la biotecnología, la inteligencia artificial (IA) y la agricultura digital, y otros, serán una fuerza decisiva para la transformación de los sistemas agroalimentarios. Por último, todos nosotros como consumidores podemos y debemos desempeñar nuestra función para reducir la “huella alimentaria”, practicando estilos de vida saludables, alzando la voz para influir en la toma de decisiones, reduciendo el desperdicio de alimentos y fomentando la diversidad de los alimentos. Este Día Mundial de la Alimentación nos permite renovar nuestro compromiso de crear sistemas agroalimentarios más eficientes, más inclusivos, más resilientes y más sostenibles que respeten el derecho de todos a alimentos variados y nutritivos. Juntos podemos retomar el camino hacia el cumplimiento de la Agenda 2030 para el Desarrollo Sostenible —nuestro compromiso común de adoptar medidas en favor de las personas, el planeta y la prosperidad—. Podemos lograrlo mediante la transformación de los sistemas agroalimentarios mundiales para garantizar las cuatro mejoras: una mejor producción, una mejor nutrición, un mejor medio ambiente y una vida mejor, sin dejar a nadie atrás. Nuestras acciones son nuestro futuro.
 
 **_QU Dongyu, Director General de la Organización de las Naciones Unidas para la Alimentación y la Agricultura_**
+
+Un ecuatoriano en Pekín
+=======================
+
+Imitar no es necesariamente malo, y a China tampoco.
+----------------------------------------------------
+
+![José Félix Valdivieso, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Jose-Felix-Valdivieso.jpg)
+
+Nadie está a salvo. Todo el **mundo** puede ser llamado **bárbaro**. Basta ubicarse en un **punto geográfico**, para que todo aquello que quede fuera del mismo sea calificado como tal.  Así operan las **fronteras**, así operan los **países**, en todas las **latitudes**. Lo observó muy bien, hace casi un siglo, Henri Michaux, en su libro «_Un Bárbaro en Asia_», que subdividió en diferentes capítulos, _Un **bárbaro** en la **India**_, _Un bárbaro en Japón_… Y por supuesto, uno en la **China**, que hoy nos ocupa. Muy astuto el galo, a la hora de disimular _la grandeur._
+
+**Bárbaros** somos todos, como decía, y también este **ecuatoriano**, que hoy les escribe y que visitó El País del Centro el pasado septiembre. No es mal mes para visitarlo. Se han esfumado ya los **sofocantes calores** estivales, y todavía no ha asomado el **gélido invierno** de las **estepas**. El tiempo moderado templa el juicio, cuando los ánimos se agitan, azuzados por la política y las **guerras comerciales**, por decir lo menos.
+
+Es cierto que lo que recogió **Michaux**, a principios del pasado siglo, ya no es totalmente válido. Sin embargo, varias de sus observaciones todavía aplican, y mal haríamos en desecharlas, si queremos sacar el máximo provecho del **Tratado** de **Libre Comercio** entre nuestro país y China. ¡Nada como un francés para poner orden!!
+
+El **chino** lo imita todo con una sumisión al modelo, que nos deja **perplejos** —viene a decir Michaux. El chino imita hasta un vestido parisino o un **sarcófago**, sin equivocación, ni aprendizaje —no deja de recalcar **Michaux**. Como es bien sabido, la innovación, en la que se fundamenta el **progreso** de los países, se compone tanto de la prestigiosa **invención**, como de la denostada imitación. El motor de la **industria manufacturera** china, que ha obrado el **milagro** de sacar de la **pobreza** a 800 millones de personas, se ha basado en lo que se podría llamar _el modelo de **imitación** masiva_, esto es, la reproducción indiscriminada de la **innovación** de otros países, por medio de esa misma pobre e **ingente** mano de obra disponible. No por nada, **China** se ha ganado la reputación de **imitador global**.
+
+Por **soberbia** criolla, o bárbara, tendemos a despreciar la **imitación**. Sin embargo, no despreciamos a Apple, porque Steve Jobs copiase la idea del ratón de Xerox. Nadie llega solo a ningún sitio. Hasta los genios roban. Para competir con **China**, o con quien sea, la **imitación** debe ser un arma más. Los pintores se hartan de copiar e imitar a los clásicos, y a todo el mundo le parece bien. La **imitación** debería ser una opción más antes de equivocarse. Una de las **tácticas** del **ajedrez** es realizar **movimientos** similares al del oponente. 
+
+Algunas de las **empresas internacionales** más de moda lo han comprendido, y en busca de **inspiración**, no le quitan el ojo a sus **rivales chinos**. Eso fue lo que hizo Facebook en 2019 cuando agregó una opción de pago integrada a su función de _chat_, cinco años después de que **WeChat** introdujera una opción similar a gran escala, en un **ejemplo pionero** de cómo fusionar productivamente los mundos de la **tecnología social** y **comercial**.
+
+Así operó Amazon, cuando modeló su Prime Day (un evento anual tremendamente exitoso durante el cual los miembros _Prime_ reciben todo tipo de **ofertas** y **descuentos**), basándose en _El Día de los Solteros_ de Alibaba. Instagram tomó de TikTok la idea de su función _Reels_. Y la lista sigue y sigue.
+
+Si bien la **innovación** está girando hacia el Este, China tan solo ocupa el **undécimo** puesto en el **Índice** Global de Innovación (2022). Según el informe de La OMPI (Organización Mundial de la Propiedad Intelectual) de 2022, hubo unos 1,58 millones de **solicitudes** de **patentes** chinas.   A China le siguieron los Estados Unidos (505 539), Japón (405 361), la República de Corea (272 315) y Alemania 155 896). Sin embargo, como señala el **experto** en China, Mario Esteban, «_el desarrollar un **ecosistema** tecnológico líder en **innovación** es mucho más complejo_»(Introducción a la China actual, septiembre 2024).   No solo se trata de liderar el ranking de solicitud de patentes, como lo **lidera** **china**.
+
+Para hacernos una idea de cómo está la situación en **nuestro país**, en opinión de investigadores de la Universidad Politécnica Estatal del Carchi, «_existen apenas 18 **patentes** concedidas en el año 2020. En comparación con la producción **mundial,** Ecuador apenas aporta con el 0.013%, considerando los 3.224200 millones de solicitudes de patentes globales_» (**Panorama tecnológico** ecuatoriano: Solicitudes de **patentes** en Ecuador entre 2011 y 2020, una revisión 2021).
+
+Decía también **Michaux**, que «el chino _se **adapta, comercia, calcula e intercambia**_». Mucho de esto, y de lo otro, hace falta en Ecuador para mejorar, detectando en China, cuáles de sus **mejores prácticas**, son imitables e **intercambiables**, tal y como hemos hecho con las de **Estados Unidos**.
 
 El “Pacto del Futuro”, ¿un espejismo?
 =====================================
@@ -109,34 +316,6 @@ Las comunidades locales deben involucrarse en la promoción de su entorno como d
 Es vital recordar que el turismo es una fuente de empleo para más de 600 mil familias ecuatorianas. El reto está en coordinar esfuerzos y ejecutar acciones concretas. Entre ellas está identificar las zonas con potencial turístico seguro y garantizar acceso a servicios básicos como electricidad y agua.
 
 Incrementar la seguridad mediante patrullajes y presencia policial, y desarrollar campañas de promoción que proyecten una imagen positiva del país es clave. Con determinación y creatividad, podemos superar los desafíos actuales y asegurar un futuro prometedor para el turismo en Ecuador.
-
-Un ecuatoriano en Pekín
-=======================
-
-Imitar no es necesariamente malo, y a China tampoco.
-----------------------------------------------------
-
-![José Félix Valdivieso, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Jose-Felix-Valdivieso.jpg)
-
-Nadie está a salvo. Todo el **mundo** puede ser llamado **bárbaro**. Basta ubicarse en un **punto geográfico**, para que todo aquello que quede fuera del mismo sea calificado como tal.  Así operan las **fronteras**, así operan los **países**, en todas las **latitudes**. Lo observó muy bien, hace casi un siglo, Henri Michaux, en su libro «_Un Bárbaro en Asia_», que subdividió en diferentes capítulos, _Un **bárbaro** en la **India**_, _Un bárbaro en Japón_… Y por supuesto, uno en la **China**, que hoy nos ocupa. Muy astuto el galo, a la hora de disimular _la grandeur._
-
-**Bárbaros** somos todos, como decía, y también este **ecuatoriano**, que hoy les escribe y que visitó El País del Centro el pasado septiembre. No es mal mes para visitarlo. Se han esfumado ya los **sofocantes calores** estivales, y todavía no ha asomado el **gélido invierno** de las **estepas**. El tiempo moderado templa el juicio, cuando los ánimos se agitan, azuzados por la política y las **guerras comerciales**, por decir lo menos.
-
-Es cierto que lo que recogió **Michaux**, a principios del pasado siglo, ya no es totalmente válido. Sin embargo, varias de sus observaciones todavía aplican, y mal haríamos en desecharlas, si queremos sacar el máximo provecho del **Tratado** de **Libre Comercio** entre nuestro país y China. ¡Nada como un francés para poner orden!!
-
-El **chino** lo imita todo con una sumisión al modelo, que nos deja **perplejos** —viene a decir Michaux. El chino imita hasta un vestido parisino o un **sarcófago**, sin equivocación, ni aprendizaje —no deja de recalcar **Michaux**. Como es bien sabido, la innovación, en la que se fundamenta el **progreso** de los países, se compone tanto de la prestigiosa **invención**, como de la denostada imitación. El motor de la **industria manufacturera** china, que ha obrado el **milagro** de sacar de la **pobreza** a 800 millones de personas, se ha basado en lo que se podría llamar _el modelo de **imitación** masiva_, esto es, la reproducción indiscriminada de la **innovación** de otros países, por medio de esa misma pobre e **ingente** mano de obra disponible. No por nada, **China** se ha ganado la reputación de **imitador global**.
-
-Por **soberbia** criolla, o bárbara, tendemos a despreciar la **imitación**. Sin embargo, no despreciamos a Apple, porque Steve Jobs copiase la idea del ratón de Xerox. Nadie llega solo a ningún sitio. Hasta los genios roban. Para competir con **China**, o con quien sea, la **imitación** debe ser un arma más. Los pintores se hartan de copiar e imitar a los clásicos, y a todo el mundo le parece bien. La **imitación** debería ser una opción más antes de equivocarse. Una de las **tácticas** del **ajedrez** es realizar **movimientos** similares al del oponente. 
-
-Algunas de las **empresas internacionales** más de moda lo han comprendido, y en busca de **inspiración**, no le quitan el ojo a sus **rivales chinos**. Eso fue lo que hizo Facebook en 2019 cuando agregó una opción de pago integrada a su función de _chat_, cinco años después de que **WeChat** introdujera una opción similar a gran escala, en un **ejemplo pionero** de cómo fusionar productivamente los mundos de la **tecnología social** y **comercial**.
-
-Así operó Amazon, cuando modeló su Prime Day (un evento anual tremendamente exitoso durante el cual los miembros _Prime_ reciben todo tipo de **ofertas** y **descuentos**), basándose en _El Día de los Solteros_ de Alibaba. Instagram tomó de TikTok la idea de su función _Reels_. Y la lista sigue y sigue.
-
-Si bien la **innovación** está girando hacia el Este, China tan solo ocupa el **undécimo** puesto en el **Índice** Global de Innovación (2022). Según el informe de La OMPI (Organización Mundial de la Propiedad Intelectual) de 2022, hubo unos 1,58 millones de **solicitudes** de **patentes** chinas.   A China le siguieron los Estados Unidos (505 539), Japón (405 361), la República de Corea (272 315) y Alemania 155 896). Sin embargo, como señala el **experto** en China, Mario Esteban, «_el desarrollar un **ecosistema** tecnológico líder en **innovación** es mucho más complejo_»(Introducción a la China actual, septiembre 2024).   No solo se trata de liderar el ranking de solicitud de patentes, como lo **lidera** **china**.
-
-Para hacernos una idea de cómo está la situación en **nuestro país**, en opinión de investigadores de la Universidad Politécnica Estatal del Carchi, «_existen apenas 18 **patentes** concedidas en el año 2020. En comparación con la producción **mundial,** Ecuador apenas aporta con el 0.013%, considerando los 3.224200 millones de solicitudes de patentes globales_» (**Panorama tecnológico** ecuatoriano: Solicitudes de **patentes** en Ecuador entre 2011 y 2020, una revisión 2021).
-
-Decía también **Michaux**, que «el chino _se **adapta, comercia, calcula e intercambia**_». Mucho de esto, y de lo otro, hace falta en Ecuador para mejorar, detectando en China, cuáles de sus **mejores prácticas**, son imitables e **intercambiables**, tal y como hemos hecho con las de **Estados Unidos**.
 
 Candidaturas en firme, pasos clave para la validación en las elecciones de 2025
 ===============================================================================
@@ -920,194 +1099,3 @@ En el último cuarto de hora, la **‘U’ acorraló a El Nacional** en su mitad
 Bryan Ramírez se fue expulsado en los minutos finales por dura falta sobre Fernando Mora y Liga de Quito se quedó con 10 hombres.
 
 El partido se definió desde los once pasos y El Nacional avanzó a la siguiente fase. La gran figura del partido fue David Cabezas, que atajó dos penales a Ezequiel Piovi y Leonel Quiñónez, respectivamente.
-
-Gobierno de Ecuador firmará contratos con petrolera argentina
-=============================================================
-
-La petrolera PCR invertirá 800 millones de dólares en Ecuador hasta 2048, tras la extensión de sus contratos en varios bloques petroleros.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Francisco Arévalo, gerente general de PCR. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/pcr.jpg)
-
-Está previsto que la petrolera **argentina PCR** (Petroquímica Comodoro Rivadavia) llegue a un acuerdo con el **Gobierno de Ecuador** para extender el contrato de exploración y explotación en el campo **Palanda Yuca Sur**, en la provincia de **Orellana**[.](https://es.wikipedia.org/wiki/PCR_(Petroqu%C3%ADmica_Comodoro_Rivadavia) "https://es.wikipedia.org/wiki/PCR_(Petroqu%C3%ADmica_Comodoro_Rivadavia)")
-
-### Más noticias
-
-* [Más pozos de petróleo en el Yasuní se cierran](https://www.elcomercio.com/actualidad/negocios/apagado-pozos-petroleo-yasuni-bloque-itt.html "Pozos de petróleo en el Yasuní se cierran")
-* [Producción de petróleo no se recupera en Ecuador](https://www.elcomercio.com/actualidad/produccion-petroleo-ecuador-caida-economia-ecuador.html "Producción de petróleo no se recupera en Ecuador")
-* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
-
-La firma del contrato de ampliación del **Bloque Palanda** está prevista para este jueves 3 de octubre de 2024, así lo informó **Francisco Arévalo,** gerente general de la petrolera. La extensión de la operación en este bloque será hasta 2037, con una inversión adicional de **50 millones de dólares** para desarrollo y exploración.
-
-PCR inició la operación en Ecuador en 1999 y ha invertido 293 millones de dólares en estos 25 años, señaló Arévalo.
-
-Además, agregó que la empresa también está negociando la extensión del contrato en el **Bloque Pindo**, en Orellana, con un compromiso de inversión de 67 millones de dólares. El objetivo es descubrir nuevas **reservas petroleras**. Aún no hay fecha para la firma de la ampliación de este contrato.
-
-En cuanto a la producción, **Palanda** actualmente genera 2 000 barriles diarios, mientras que el **Bloque Pindo** produce 4 000. Con las nuevas inversiones se espera aumentar la producción.
-
-Los contratos de extensión que se firmarán bajo el modelo de **prestación de servicios**, como está contemplado en el contrato original.
-
-Seis bloques adjudicados a la empresa argentina
------------------------------------------------
-
-Aparte de Palanda y Pindo, PCR se adjudicó cuatro bloques más: **Sahino, Arazá Este, Saywa y VHR Este**.
-
-Entre la ampliación del plazo de los dos bloques y las inversiones de explotación en los bloques de la ronda de **Intracampo I**: Sahino y Arazá Este y las inversiones exploratorias y de explotación en los bloques de la ronda **Intracacampos II,** **Saywa y VHR Este**, la empresa proyecta que en los próximos 24 años realizará una inversión de 800 millones de dólares en Ecuador, aseguró Arévalo, quien participó en el XVII Encuentro Anual de Energía y Petróleo (ENAEP) 2024, organizado por Seminarium, este miércoles 2 de octubre de 2024, en Quito.
-
-Respecto de los contratos de **Intracampos II**, firmados el 18 de mayo pasado, PCR ha entrado en las actividades exploratorias. Para avanzar a la siguiente fase se requiere el apoyo de las autoridades en el proceso de aprobación de los estudios de impacto ambiental con el fin de obtener las licencias, lo que permitirá avanzar en la perforación de los pozos exploratorios propuestos. La fase exploratoria tomará entre 3 y 4 años para después entrar en fase de explotación.
-
-“Entre los 6 bloques a cargo de la empresa, se estima alrededor de 90 millones de barriles entre reservas y recursos que, de ser confirmados, aportarán a la producción nacional, al crecimiento de la contratista, así como a la generación de nuevas fuentes de empleo”, dijo Arévalo.
-
-Inundaciones en varios barrios del sur de Quito por las intensas lluvias
-========================================================================
-
-En Quito se registraron varias inundaciones, sobre todo en los barrios del sur. En Guajaló hubo el deslizamiento de una quebrada.
----------------------------------------------------------------------------------------------------------------------------------
-
-![En el sur de Quito se registraron inundaciones por las fuertes lluvias de este 2 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/inunduaciones-sur-quito-.jpg)
-
-Las lluvias **i**ntensas en **Quito** provocaron **inundaciones** en **varios barrios** de la capital. El Cuerpo de Bomberos y el ECU 911 informaron este 2 de octubre del 2024 que debieron atender varias emergencias por inundaciones, sobre todo en el **sur** de Quito.
-
-### Más noticias
-
-* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
-* [Un tronco conservado miles de años aporta claves de solución climática](https://www.elcomercio.com/tendencias/ambiente/tronco-conservado-miles-anos-aporta-claves-solucion-climatica.html "Un tronco conservado miles de años aporta claves de solución climática")
-
-El ECU 911 informó además que las zonas más comprometidas por las **lluvias** son Nueva Aurora, Caupicho, Guajaló y La Lucha de los Pobres baja.
-
-Las inundaciones en los barrios del Sur de Quito
-------------------------------------------------
-
-En la Nueva Aurora y en Quitumbe, a la altura del Estadio del Aucas (av. Rumichaca y Moro Moro) y Solanda el Cuerpo de Bomberos trabajaba para destapar las alcantarrillas. Se pide a quienes circulan por estas zonas reducir la velocidad, encender las luces de sus vehículos y manejar con precaución ante la acumulación de agua.
-
-Vías cerradas
--------------
-
-La Agencia Metropolitana de Tránsito de Quito informó del cierre de varias vías por las inundaciones. Hubo una vía cerrada por la caída de un árbol, en la avenida Universitaria. Pero los más complejos fueron en el sur, sobre todo a la altura de la Lucha de los Pobres.
-
-La calle El Paraíso y avenida Maldonado estuvieron cerrados al tránsito por las lluvias. Las vías alternas eran la Simón Bolívar y la Mariscal Sucre.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Lucha de Los Pobres  
-> 🚧 Cierres:  
-> ▶️ Calle El Paraíso  
-> ▶️Intersección de la av. Maldonado y 21 de agosto  
-> ⛈️ Motivo: inundación  
->   
-> 👮‍☀ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/3lrDb4NOjG](https://t.co/3lrDb4NOjG)
-> 
-> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841591353211552187?ref_src=twsrc%5Etfw)
-
-La fuerza de la lluvia
-----------------------
-
-Varios videos circularon sobre la fuerza de la lluvia que caía en algunos sectores de Quito. En la red social X (anterior Twitter), uno de los más impactantes fueron los que se subieron a la cuenta de @Con\_GanasDe, en el que se ve a una moto que iba en sentido de las aguas.
-
-> [#Alerta](https://twitter.com/hashtag/Alerta?src=hash&ref_src=twsrc%5Etfw) 🚨 | Otra vez fuertes [#lluvias](https://twitter.com/hashtag/lluvias?src=hash&ref_src=twsrc%5Etfw) y [#tormentas](https://twitter.com/hashtag/tormentas?src=hash&ref_src=twsrc%5Etfw) en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). Desde el Municipio confirman que atienden varias alertas por acumulación de agua, especialmente en el sector sur de Quito. Confirma [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) cierre vial de la Calle El Paraíso Intersección de la av. Maldonado y 21… [pic.twitter.com/A5vLfWzcWY](https://t.co/A5vLfWzcWY)
-> 
-> — Con Ganas De (@Con\_GanasDe) [October 2, 2024](https://twitter.com/Con_GanasDe/status/1841596412901130617?ref_src=twsrc%5Etfw)
-
-Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre
-======================================================================================
-
-La fuerte lluvia que cayó sobre Quito complicó la movilidad en el norte, centro y sur de la ciudad.
----------------------------------------------------------------------------------------------------
-
-![Algunas calles se inundaron en el sur de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/q-lluvias.jpg)
-
-La Agencia Metropolitana de Tránsito (**AMT**) informó de al menos **cinco cierres viales** en Quito, la tarde y noche de este miércoles 2 de octubre de 2024.
-
-Cerca de las **18:00**, la entidad confirmó un siniestro de tránsito en la extensión de la **av. Simón Bolívar** y San José de Morán, en el norte.
-
-### Más noticias
-
-* [Cortes de luz en Quito para este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-jueves-3-de-octubre.html "Cortes de luz en Quito para este jueves 3 de octubre")
-* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
-* [Adulta mayor falleció tras ser atropellada en el sur de Quito](https://www.elcomercio.com/actualidad/quito/adulta-mayor-fallecio-atropello-sur-quito.html "Adulta mayor falleció tras ser atropellada en el sur de Quito")
-
-En este lugar permanece cerrado el carril izquierdo, en sentido **norte-sur**.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: San José de Morán  
-> 🚧 Cierre: av. Simón Bolívar y San José de Morán  
-> 🛣️ Carriles cerrados: izquierdo, sentido norte-sur sobre la av. Simón Bolívar  
-> 💥Motivo: siniestro de tránsito.  
->   
-> 👆🏼 Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/usGnzFNXQx](https://t.co/usGnzFNXQx)
-> 
-> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841613724265627855?ref_src=twsrc%5Etfw)
-
-Siniestro de tránsito en La Argelia
------------------------------------
-
-Dos horas antes, alrededor de las **16:00**, un hecho similar ocurrió en la vía, pero a la altura de **La Argelia**.
-
-Dos **vehículos pesados** se chocaron en el carril central del sentido norte-sur, antes del desvío a Tambillo.
-
-Mientras la emergencia fue atendida, agentes de la AMT cerraron este tramo de la vía hasta las **17:40**.
-
-Se desconoce si hubo personas afectadas en ambos siniestros.
-
-Cierre vial en Guápulo
-----------------------
-
-En la misma carretera perimetral, pero en el sector de **Guápulo**, hubo un tercer cierre vial.
-
-Al mediodía, parte de la carretera estuvo restringida al paso vehicular por al menos **una hora**, debido al deslizamiento de material pétreo en el carril derecho del sentido norte-sur.
-
-Árboles caídos y deslizamientos
--------------------------------
-
-Pasadas las 16:30, la **caída de un árbol** obstaculizó el tránsito vehicular en parte de la av. Universitaria, en el sector de **Miraflores**, centro norte de Quito.
-
-En este lugar se cerró el carril derecho del sentido norte-sur, en la bajada hacia Miraflores.
-
-En otros sectores de la ciudad, las lluvias provocaron **inundaciones** en las calles.
-
-Lluvias afectaron la movilidad
-------------------------------
-
-En los barrios Nueva Aurora, Capucicho, Guajaló y Lucha de los Pobres, en el **sur de Quito**, se registró acumulación de agua en las vías.
-
-El sector más afectado fue este último. El **Cuerpo de Bomberos** confirmó que en la entrada a este sector, en Guajaló, una quebrada se desbordó; cerca existe una escuela que corría riesgo.
-
-Los estudiantes de la unidad educativa fueron **evacuados**.
-
-> 🌧🏠 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Las fuertes lluvias de esta tarde provocaron acumulación de agua en varios lugares del sur de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 👩🏻‍🚒 Nuestro equipo realiza labores para evacuar el agua acumulada.  
->   
-> 📞 En caso de emergencia llama al 9-1-1.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/d5V4G7mFbs](https://t.co/d5V4G7mFbs)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 2, 2024](https://twitter.com/BomberosQuito/status/1841601123427189115?ref_src=twsrc%5Etfw)
-
-Por esta alerta se mantienen cerradas las **avenidas** Maldonado, El Paraíso y 21 de agosto.
-
-Efectivos de los Bomberos y AMT rescataron un vehículo que se quedó atrapado en medio del agua.
-
-En la alerta se utilizó maquinaria pesada, cinco camionetas, tres polivalentes y dos motocicletas.
-
-Toma precauciones al conducir bajo la lluvia
---------------------------------------------
-
-Si conduces bajo la lluvia, recuerda que debes tomar **más precauciones** que lo habitual.
-
-El riesgo de sufrir un siniestro aumenta debido a **varios factores** que afectan la visibilidad, el control del vehículo y la seguridad en general.
-
-Con la lluvia, la **fricción** entre los neumáticos y la superficie se reduce, por ello, reduce la velocidad, aumenta la distancia de seguridad y frena con más tiempo.
-
-Además, te recomendamos **encender las luces** y evitar los movimientos bruscos con el vehículo.
-
-Al pasar por charcos de agua baja la velocidad para no mojar a los transeúntes.
-
-> ⛈️ [#SeguroTeMueves](https://twitter.com/hashtag/SeguroTeMueves?src=hash&ref_src=twsrc%5Etfw) | ¡Conduce con precaución!  
->   
-> ☔️ Se registra lluvia y neblina en varios sectores de la ciudad, baja la velocidad, enciende las luces y mantén una distancia segura.  
->   
-> 🫶🏽 Queremos que llegues sano y salvo a tu destino. 🫡  
->   
-> Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WqqNXC6YGO](https://t.co/WqqNXC6YGO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841576686938124539?ref_src=twsrc%5Etfw)
