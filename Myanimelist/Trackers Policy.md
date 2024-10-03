@@ -106,9 +106,9 @@ And of course, if you have installed our mobile app on your mobile device and yo
 
 1. 1 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
 2. 2 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
-3. 3 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-4. 4 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
-5. 5 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+3. 3 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
+4. 4 [One Piece](https://myanimelist.net/anime/21/One_Piece)
+5. 5 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
