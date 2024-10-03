@@ -1,12 +1,12 @@
    
 
-* [Home](https://www.ihyperg.com/)
+* [Home](http://www.ihyperg.com/)
 * [ ]  News
     * [Tech](https://www.ihyperg.com/search/label/Tech%20News)
     * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
     * [Apps](https://www.ihyperg.com/search/label/Apps%20News)
     * [Space](https://www.ihyperg.com/search/label/Space%20News)
-    * [Gaming](https://www.ihyperg.com/search/label/Gaming%20News)
+    * [Gaming](https://www.ihyperg.com/search/label/Games%20News)
     * [AI & Machine Learning](https://www.ihyperg.com/search/label/AI%20News)
     * [Cybersecurity](https://www.ihyperg.com/search/label/Cybersecurity%20News)
     * [Crypto](https://www.skyversed.com/search/label/Crypto%20News)
@@ -32,7 +32,7 @@
 
 Stay ahead with the latest tech news – follow us for more --> [Open](https://twitter.com/ihyperg_com)
 
-[Home](https://www.ihyperg.com/) 
+[Home](http://www.ihyperg.com/) 
 
 IHYPERG PRIVACY POLICY
 ======================
@@ -169,7 +169,7 @@ If you have any questions about this Privacy Policy, please contact us:
 
 By email: [hyperghelp@gmail.com](mailto:hyperghelp@gmail.com)
 
-* [](https://www.ihyperg.com/)
+* [](http://www.ihyperg.com/)
 
 © 2023 IHYPERG - All Rights Reserved 😀
 
