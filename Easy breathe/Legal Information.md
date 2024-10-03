@@ -20,7 +20,7 @@ Close search
 
 [](https://www.easybreathe.com/account)
 
-* [Log in](https://easybreathe.com/customer_identity/redirect?locale=en)
+* [Log in](https://easybreathe.com/customer_identity/redirect?locale=en&region_country=US)
 * [Create an account](https://www.easybreathe.com/account/register)
 
 [0](https://www.easybreathe.com/cart)
@@ -111,7 +111,7 @@ Search
 
 [](https://www.easybreathe.com/account)
 
-* [Log in](https://easybreathe.com/customer_identity/redirect?locale=en)
+* [Log in](https://easybreathe.com/customer_identity/redirect?locale=en&region_country=US)
 * [Create an account](https://www.easybreathe.com/account/register)
 
 [0](https://www.easybreathe.com/cart)
