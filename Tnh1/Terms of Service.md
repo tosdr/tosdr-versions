@@ -18,11 +18,23 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_assalto_padaria_biu_cf8a54ddd6.jpg)
+   [![Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/8/csm_17-01-22-Vacinacao-Infantil-Maceio-Shopping-Dra.-Celia-Elder-Maia-SMS-Victor-Vercant-32_2024-10-03-133239_zdmu_e90a22f114.jpg)
+
+Saúde
+
+Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos](https://www.tnh1.com.br/noticia/nid/sem-doses-maceio-suspende-vacinacao-contra-covid-para-criancas-menores-de-cinco-anos/ "Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos")   [![Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_Vacinacao-Pfizer_2023-12-14-163238_mtor_48db85dc9b.jpg)
+
+por logística
+
+Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local](https://www.tnh1.com.br/noticia/nid/ponto-de-vacinacao-de-shopping-na-parte-alta-de-maceio-funcionara-em-novo-local/ "Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local")   [![Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+
+Benedito Bentes
+
+Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso](https://www.tnh1.com.br/noticia/nid/mulher-tenta-terminar-relacionamento-e-leva-soco-no-rosto-companheiro-e-preso/ "Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso")   [![Vídeo: homem vestido de gari assalta padaria a mão armada no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_assalto_padaria_biu_cf8a54ddd6.jpg)
 
 NESTA MANHÃ
 
-Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/video-homem-vestido-de-gari-realiza-assalto-a-mao-armada-em-padaria-no-benedito-bentes/ "Vídeo: homem vestido de gari realiza assalto a mão armada em padaria no Benedito Bentes")   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
+Vídeo: homem vestido de gari assalta padaria a mão armada no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/video-homem-vestido-de-gari-assalta-padaria-a-mao-armada-no-benedito-bentes/ "Vídeo: homem vestido de gari assalta padaria a mão armada no Benedito Bentes")   [![Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutrição da Ufal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_maconha-apreendida-ufal_68da301042.jpg)
 
 Em Hidrante
 
@@ -30,19 +42,7 @@ Polícia apreende drogas que foram colocadas em hidrante dentro de bloco de nutr
 
 Suspeito foragido
 
-Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")   [![Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_suspeito-roubar-carro-pajucara_2336a5ac65.jpg)
-
-Na Pajuçara
-
-Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito](https://www.tnh1.com.br/noticia/nid/video-homem-usa-dispositivo-para-destravar-carro-e-furta-bolsa-com-notebook-e-cartoes-de-credito/ "Vídeo: homem usa dispositivo para destravar carro e furta bolsa com notebook e cartões de crédito")   [![“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/1/csm_tentativa_de_assalto_empresarial_maceio_88506d3ff4.jpg)
-
-em maceió
-
-“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial](https://www.tnh1.com.br/noticia/nid/nao-tinham-postura-de-policiais-diz-testemunha-sobre-suspeitos-de-tentativa-de-assalto-em-empresarial/ "“Não tinham postura de policiais”, diz testemunha sobre suspeitos de tentativa de assalto em empresarial")   [![Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_policia-prisao-assaltantes-cortesia_57e303029b.png)
-
-No Farol
-
-Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-policiais-interceptando-falsos-pms-durante-tentativa-de-assalto-em-empresarial-em-maceio/ "Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em empresarial, em Maceió")
+Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo](https://www.tnh1.com.br/noticia/nid/homem-e-perseguido-e-tem-moto-incendiada-no-tabuleiro-do-martins-video/ "Homem é perseguido e tem moto incendiada no Tabuleiro do Martins; vídeo")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vídeo mostra policiais interceptando falsos PMs durante tentativa de assalto em
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_edcc9260bb.png)
+   [![Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/4/csm_afogamento_paifilho_c387cf365c.png)
+
+Sufoco
+
+Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/guarda-vidas-salvam-pai-e-filho-de-afogamento-na-praia-do-frances/ "Guarda-vidas salvam pai e filho de afogamento na Praia do Francês")   [![Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_menino_morto_pai_9068f16327.png)
+
+alagoano em SP
+
+Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://www.tnh1.com.br/noticia/nid/alagoano-fere-esposa-mata-filho-de-3-anos-a-facadas-e-e-morto-apos-confronto-com-policiais/ "Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais")   [![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_edcc9260bb.png)
 
 lei seca em Alagoas
 
-Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")   [![Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/d/csm_CARTELA_ELEICAO_53ab51f5c2.png)
+Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")   [![Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/d/csm_CARTELA_ELEICAO_53ab51f5c2.png)
 
 multiplataforma
 
-Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-tnh1-tv-pajucara-e-radio-pajucara-terao-cobertura-especial-neste-domingo/ "Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo")   [![Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_carmelita_-_foto_arquivo_pessoal_89cd17f201.jpg)
+Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-tnh1-tv-pajucara-e-radio-pajucara-terao-cobertura-especial-neste-domingo/ "Eleições 2024 - TNH1, TV Pajuçara e Rádio Pajuçara terão cobertura especial neste domingo")   [![Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_carmelita_-_foto_arquivo_pessoal_89cd17f201.jpg)
 
 Dona Carmelita
 
-Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-que-mora-em-sp-quer-encontrar-familia-perdida-em-alagoas/ "Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas")   [![Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-que-mora-em-sp-quer-encontrar-familia-perdida-em-alagoas/ "Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas")   [![Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
 
 inmet
 
-Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://www.tnh1.com.br/noticia/nid/sete-cidades-de-alagoas-tem-alerta-de-baixa-umidade-disparado-para-esta-quarta-feira/ "Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_semarh-alagoas-previsao_84bf845024.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-2/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (2)")   [![Veja como será o esquema de policiamento nas eleições municipais de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/4/csm_reuniao_pm_06bf03abb3.png)
-
-policiamento
-
-Veja como será o esquema de policiamento nas eleições municipais de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-esquema-de-policiamento-nas-eleicoes-municipais-de-alagoas/ "Veja como será o esquema de policiamento nas eleições municipais de Alagoas ")
+Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira](https://www.tnh1.com.br/noticia/nid/sete-cidades-de-alagoas-tem-alerta-de-baixa-umidade-disparado-para-esta-quarta-feira/ "Sete cidades de Alagoas têm alerta de baixa umidade disparado para esta quarta-feira")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Veja como será o esquema de policiamento nas eleições municipais de Alagoas](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_4edd53da70.jpeg)
+   [![Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/d/csm_primos_mortos_coruripe_-_foto_arquivo_pessoal_530544bb3f.jpg)
 
-VIOLÊNCIA SEXUAL
+Duplo homicídio
 
-Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/mulher-com-transtorno-mental-e-estuprada-pelo-proprio-sobrinho-no-interior-de-alagoas/ "Mulher com transtorno mental é estuprada pelo próprio sobrinho no interior de Alagoas ")   [![Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_pf_operacao_compra_de_votos_ascom_9daaaf1c1e.jpg)
+Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe](https://www.tnh1.com.br/noticia/nid/primos-sao-executados-a-tiros-enquanto-dormiam-em-casas-diferentes-em-coruripe/ "Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe")   [![Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_menino_morto_pai_9068f16327.png)
 
-barra de santo antônio
+alagoano em SP
 
-Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte](https://www.tnh1.com.br/noticia/nid/denuncia-de-compra-de-votos-pf-cumpre-mandados-de-busca-e-apreensao-no-litoral-norte/ "Denúncia de compra de votos: PF cumpre mandados de busca e apreensão no Litoral Norte")   [![Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_montagem-desaparecidosequestro-satuba_e3c6e100f4.jpg)
+Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://www.tnh1.com.br/noticia/nid/alagoano-fere-esposa-mata-filho-de-3-anos-a-facadas-e-e-morto-apos-confronto-com-policiais/ "Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais")   [![Homem é baleado nas costas e tem fratura exposta em tentativa de homicídio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_homem-baleado-paripueira_374afe83c8.jpg)
 
-investigação
+Em Paripueira
 
-Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia](https://www.tnh1.com.br/noticia/nid/desaparecidos-sequestro-de-taxista-e-amigo-em-satuba-completa-1-ano-veja-o-que-diz-a-policia/ "Desaparecidos: sequestro de taxista e amigo em Satuba completa 1 ano; veja o que diz a Polícia")   [![Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_mandado_PRF_8a7ad05370.jpeg)
+Homem é baleado nas costas e tem fratura exposta em tentativa de homicídio](https://www.tnh1.com.br/noticia/nid/homem-e-baleado-nas-costas-e-tem-fratura-exposta-em-tentativa-de-homicidio/ "Homem é baleado nas costas e tem fratura exposta em tentativa de homicídio")   [![Vídeo: dupla em moto para em cruzamento e garupa toma celular de mulher em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/9/csm_assalto_clima_bom_reproducao_video_ab9ac03fc4.png)
 
-Polícia
+Roubo
 
-Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF](https://www.tnh1.com.br/noticia/nid/homem-com-mandado-de-prisao-por-nao-pagar-pensao-e-preso-em-abordagem-da-prf/ "Homem com mandado de prisão por não pagar pensão é preso em abordagem da PRF ")   [![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_f5005e7a5b.jpg)
+Vídeo: dupla em moto para em cruzamento e garupa toma celular de mulher em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-em-moto-para-em-cruzamento-e-garupa-toma-celular-de-mulher-em-maceio/ "Vídeo: dupla em moto para em cruzamento e garupa toma celular de mulher em Maceió")   [![Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
 
-Tentativa de assalto
+Benedito Bentes
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")   [![Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_material-descartado-clinica-jatiuca_702afa7b73.jpg)
+Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso](https://www.tnh1.com.br/noticia/nid/mulher-tenta-terminar-relacionamento-e-leva-soco-no-rosto-companheiro-e-preso/ "Mulher tenta terminar relacionamento e leva soco no rosto; companheiro é preso")   [![Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_4a540e1b45.jpg)
 
-inquérito policial
+"chefe" do tráfico
 
-Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica](https://www.tnh1.com.br/noticia/nid/dona-de-clinica-de-estetica-na-jatiuca-e-indiciada-por-crime-ambiental-e-investigada-como-falsa-biomedica/ "Dona de clínica de estética na Jatiúca é indiciada por crime ambiental e investigada como falsa biomédica ")
+Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://www.tnh1.com.br/noticia/nid/denuncia-de-reuniao-entre-traficantes-mobiliza-pms-e-lider-de-grupo-e-preso-em-maceio/ "Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ Tiros e prisões
 
 Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol
 
-Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-o-assalto-frustrado-de-falsos-policiais-no-farol/ "Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol")[![Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
-
-Está preso
-
-Está preso
-
-Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou
-
-Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://www.tnh1.com.br/noticia/nid/como-eram-as-festas-de-p-diddy-modelo-choca-ao-revelar-tudo-o-que-presenciou/ "Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
+Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-o-assalto-frustrado-de-falsos-policiais-no-farol/ "Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
 
 Tentativa de assalto
 
@@ -222,49 +214,57 @@ Tentativa de assalto
 
 Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_Uniforme_falso_do_Bope_-_foto_Reproducao_a76e0bbe33.jpeg)
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_d789a4ecc7.png)
 
-assalto em maceió
+lei seca em Alagoas
 
-assalto em maceió
+lei seca em Alagoas
 
-Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado
+Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada
 
-Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://www.tnh1.com.br/noticia/nid/denuncia-apontou-que-grupo-encomendou-uniformes-falsos-do-bope-diz-delegado/ "Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado")
+Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")[![Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_8f0c68667e.jpg)
 
-[![Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/5/csm_grupo-faxineiros-descoberta-bizarra-reproducao_fc60b3f3cc.jpg)
+"chefe" do tráfico
 
-Na Dinamarca
+"chefe" do tráfico
 
-Na Dinamarca
+Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió
 
-Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia
+Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://www.tnh1.com.br/noticia/nid/denuncia-de-reuniao-entre-traficantes-mobiliza-pms-e-lider-de-grupo-e-preso-em-maceio/ "Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió")
 
-Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia](https://www.tnh1.com.br/noticia/nid/faxineiros-acham-ter-encontrado-cadaver-de-cobra-mas-descobrem-ser-penis-de-baleia/ "Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia")[![Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_israel-novaes-fala-esposa-reproducao_46ad96d8c7.jpg)
+[![Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/4/csm_afogamento_paifilho_76fc819f70.png)
 
-Gente Famosa
+Sufoco
 
-Gente Famosa
+Sufoco
 
-Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'
+Guarda-vidas salvam pai e filho de afogamento na Praia do Francês
 
-Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'](https://www.tnh1.com.br/noticia/nid/esposa-de-israel-novaes-rebate-fala-do-sertanejo-que-diz-que-luta-para-ser-fiel/ "Esposa de Israel Novaes rebate fala do sertanejo que diz que 'luta para ser fiel'")[![Marburg: entenda vírus com potencial pandêmico que preocupa a África](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_vue-face-du-controle-medical-pour-concept-covid19_23-2148777437_b284d5f05f.jpg)
+Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/guarda-vidas-salvam-pai-e-filho-de-afogamento-na-praia-do-frances/ "Guarda-vidas salvam pai e filho de afogamento na Praia do Francês")[![Veja o que disse Cid Moreira na última entrevista para a TV](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/03/1_cid_moreira-reproducao_redes_sociais.jpg)
 
-enfermidade grave
+em setembro
 
-enfermidade grave
+em setembro
 
-Marburg: entenda vírus com potencial pandêmico que preocupa a África
+Veja o que disse Cid Moreira na última entrevista para a TV
 
-Marburg: entenda vírus com potencial pandêmico que preocupa a África](https://www.tnh1.com.br/noticia/nid/marburg-entenda-virus-com-potencial-pandemico-que-preocupa-a-africa/ "Marburg: entenda vírus com potencial pandêmico que preocupa a África")[!['Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_Mulher_que_perdeu_grana_em_aposta_-_foto_Arquivo_pessoal_9fd48fb206.jpg)
+Veja o que disse Cid Moreira na última entrevista para a TV](https://www.tnh1.com.br/noticia/nid/veja-o-que-disse-cid-moreira-na-ultima-entrevista-para-a-tv/ "Veja o que disse Cid Moreira na última entrevista para a TV")[![Cid Moreira deu voz a salmos da Bíblia e foi dublador no cinema; relembre projetos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/c/csm_cid_moreira_e_biblia_Alexandre_Campbell-Folhapress_fe058c5d8c.jpeg)
 
-34 anos
+ICÔNICO
 
-34 anos
+ICÔNICO
 
-'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas
+Cid Moreira deu voz a salmos da Bíblia e foi dublador no cinema; relembre projetos
 
-'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas](https://www.tnh1.com.br/noticia/nid/gastei-toda-a-heranca-de-minha-mae-de-r-300-mil-fiquei-tao-deprimida-que-meu-leite-secou-diz-viciada-em-apostas/ "'Gastei toda a herança de minha mãe, de R$ 300 mil; fiquei tão deprimida que meu leite secou', diz viciada em apostas")
+Cid Moreira deu voz a salmos da Bíblia e foi dublador no cinema; relembre projetos](https://www.tnh1.com.br/noticia/nid/cid-moreira-deu-voz-a-salmos-da-biblia-e-foi-dublador-no-cinema-relembre-projetos/ "Cid Moreira deu voz a salmos da Bíblia e foi dublador no cinema; relembre projetos")[![Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/d/csm_primos_mortos_coruripe_-_foto_arquivo_pessoal_a2ef0814da.jpg)
+
+Duplo homicídio
+
+Duplo homicídio
+
+Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe
+
+Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe](https://www.tnh1.com.br/noticia/nid/primos-sao-executados-a-tiros-enquanto-dormiam-em-casas-diferentes-em-coruripe/ "Primos são executados a tiros enquanto dormiam em casas diferentes, em Coruripe")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
