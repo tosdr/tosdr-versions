@@ -1,8 +1,3 @@
-* **Fall Hours**
-    
-    We have introduced a new fall hours schedule. See current hours at [www.spl.org/hours](https://www.spl.org/hours).
-    
-
 [Skip to Main Content](https://www.spl.org/about-us/policies/confidentiality-of-patron-information#main-content)
 
  [![The Seattle Public Library logo](/Seattle-Public-Library/images/Header-images/logo-white.svg) ![The Seattle Public Library logo graphic](/Seattle-Public-Library/images/Header-images/spl-stickylogo.png)](https://www.spl.org/ "SPL - Home")
