@@ -63,6 +63,7 @@ Search site
 ###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
+* [The Ten](https://www.fox4news.com/shows/theten)
 * [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
@@ -400,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Grand Prairie ISD says suspended superintendent violated policy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gpisd-superintendent.jpg?ve=1&tl=1)
+ [![Texas sues TikTok over allegedly sharing minor's data](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/GettyImages-1230726785.jpg?ve=1&tl=1)
 
- ![Grand Prairie ISD says suspended superintendent violated policy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gpisd-superintendent.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-says-suspended-superintendent-violated-policy)
+ ![Texas sues TikTok over allegedly sharing minor's data](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/GettyImages-1230726785.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-sues-tiktok-ken-paxton-privacy-laws)
 
-### [Grand Prairie ISD says suspended superintendent violated policy](https://www.fox4news.com/news/grand-prairie-isd-says-suspended-superintendent-violated-policy)
+### [Texas sues TikTok over allegedly sharing minor's data](https://www.fox4news.com/news/texas-sues-tiktok-ken-paxton-privacy-laws)
 
- [![Dallas girl injured while playing with gun, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-overton-rd-shooting-9p_00.00.01.50.jpg?ve=1&tl=1)
+ [![Fort Worth man shot by nephew’s girlfriend, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
 
- ![Dallas girl injured while playing with gun, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-overton-rd-shooting-9p_00.00.01.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-girl-injured-while-playing-gun-police-say)
+ ![Fort Worth man shot by nephew’s girlfriend, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-berry-street)
 
-### [Dallas girl injured while playing with gun, police say](https://www.fox4news.com/news/dallas-girl-injured-while-playing-gun-police-say)
+### [Fort Worth man shot by nephew’s girlfriend, police say](https://www.fox4news.com/news/fort-worth-shooting-berry-street)
 
- [![Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-fw-grain-silo-rescue-4a_00.00.06.00.jpg?ve=1&tl=1)
+ [![Rapper, social media star Lucas Coly dies at age 27](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/recording-studio.jpg?ve=1&tl=1)
 
- ![Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-fw-grain-silo-rescue-4a_00.00.06.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/abandoned-fort-worth-grain-silo-urbex-explorer-rescue)
+ ![Rapper, social media star Lucas Coly dies at age 27](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/recording-studio.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rapper-social-media-star-lucas-coly-dies)
 
-### [Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://www.fox4news.com/news/abandoned-fort-worth-grain-silo-urbex-explorer-rescue)
+### [Rapper, social media star Lucas Coly dies at age 27](https://www.fox4news.com/news/rapper-social-media-star-lucas-coly-dies)
 
- [![Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-03-06h12m08s844.jpg?ve=1&tl=1)
+ [![Death toll rises above 200 one week after Helene decimates Southeast](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175494745-scaled-copy.jpg?ve=1&tl=1)
 
- ![Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-03-06h12m08s844.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-panic-buying-costco-toilet-paper-frenzy-making-rounds-social-media)
+ ![Death toll rises above 200 one week after Helene decimates Southeast](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175494745-scaled-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-death-toll-200)
 
-### [Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://www.fox4news.com/news/port-strike-panic-buying-costco-toilet-paper-frenzy-making-rounds-social-media)
+### [Death toll rises above 200 one week after Helene decimates Southeast](https://www.fox4news.com/news/hurricane-helene-death-toll-200)
 
- [![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1)
+ [![Frisco’s new Kaleidoscope Park opening with free events this weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/4497tz-kaleidoscope-park-grand-opening_00.00.32.16.jpg?ve=1&tl=1)
 
- ![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
+ ![Frisco’s new Kaleidoscope Park opening with free events this weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/4497tz-kaleidoscope-park-grand-opening_00.00.32.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-kaleidoscope-park-grand-opening)
 
-### [Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
+### [Frisco’s new Kaleidoscope Park opening with free events this weekend](https://www.fox4news.com/news/frisco-kaleidoscope-park-grand-opening)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -476,6 +477,7 @@ Please note that, in some instances, we may decline to honor your request where,
 ###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
+* [The Ten](https://www.fox4news.com/shows/theten)
 * [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
