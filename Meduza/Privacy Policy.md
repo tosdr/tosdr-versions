@@ -2,7 +2,7 @@
 
 [](https://meduza.io/)
 
-[Новости](https://meduza.io/)[Истории](https://meduza.io/articles)[Разбор](https://meduza.io/razbor)[Подкасты](https://meduza.io/podcasts)[Шапито](https://meduza.io/shapito)
+[Новости](https://meduza.io/)[Истории](https://meduza.io/articles)[Разбор](https://meduza.io/razbor)[Подкасты](https://meduza.io/podcasts)[Магаз](https://magaz.meduza.io/?utm_source=web&utm_medium=rubrika)
 
 Войти
 
