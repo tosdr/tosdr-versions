@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Who’s Your Gun Daddy? The Republicans Have It Hands Down](https://www.thegunpage.com/whos-your-gun-daddy-the-republicans-have-it-hands-down/10610955)
 * [Massachusetts Governor Healey Subverts Democratic Process And The Second Amendment](https://www.thegunpage.com/massachusetts-governor-healey-subverts-democratic-process-and-the-second-amendment/10610947)
+* [Coming Soon! Mantis AK-47 Blackbeard Laser Dry Fire System](https://www.thegunpage.com/coming-soon-mantis-ak-47-blackbeard-laser-dry-fire-system/10610951)
 * [Las Vegas Homeowner Shoots And Kills Intruder](https://www.thegunpage.com/las-vegas-homeowner-shoots-and-kills-intruder/10610945)
+* [New: Springfield Armory Echelon 4.5F Comp 9 mm Pistol](https://www.thegunpage.com/new-springfield-armory-echelon-4-5f-comp-9-mm-pistol/10610952)
 * [JK Armament's New "Do-It-All" 155 G.O.A.T. HF 5.56mm Suppressor](https://www.thegunpage.com/jk-armaments-new-do-it-all-155-g-o-a-t-hf-5-56mm-suppressor/10610941)
 * [Gun-Rights Groups Join To Battle Lifetime 2A Ban For Nonviolent Offenders](https://www.thegunpage.com/gun-rights-groups-join-to-battle-lifetime-2a-ban-for-nonviolent-offenders/10610939)
 * [Kimber's New R7 Mako Carbon Compact – Optic Ready & Suppressor Ready](https://www.thegunpage.com/kimbers-new-r7-mako-carbon-compact-optic-ready-suppressor-ready/10610942)
 * [Florida police chief learns hard lesson, un-bans guns and ammo](https://www.thegunpage.com/florida-police-chief-learns-hard-lesson-un-bans-guns-and-ammo/10610936)
 * [Vance, Walz Tackle Issue of Gun Violence During VP Debate](https://www.thegunpage.com/vance-walz-tackle-issue-of-gun-violence-during-vp-debate/10610933)
-* [Semmerling’s Backwards Cold War Pistol](https://www.thegunpage.com/semmerlings-backwards-cold-war-pistol/10610935)
-* [TFB Review: XS Sights DXT2 – Fixing The Desert Eagle’s Biggest Flaw](https://www.thegunpage.com/tfb-review-xs-sights-dxt2-fixing-the-desert-eagles-biggest-flaw/10610931)
-* [POTD: Ohio Ordnance Works HCAR – The Ultimate .30-06?](https://www.thegunpage.com/potd-ohio-ordnance-works-hcar-the-ultimate-30-06/10610932)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
