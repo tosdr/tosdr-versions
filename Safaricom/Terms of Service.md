@@ -224,6 +224,30 @@ out of 5 based on
 
 > Oct 3, 2024
 
+> Shaw was very helpful and knowledgeable in hotels and tours.
+
+> Shaw was very helpful and patience. Answered all the questions about the hotels and tours options. She is very knowledgeable in travel industry and highly recommend her as a personal travel agent.
+
+Yaso Nadesakumaran
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 3, 2024
+
+> WHAT MADE YOUR EXPERIENCE?ANSER;NOTHING
+
+> WHAT MADE YOUR EXPERIENCE?ANSER; NOTHING COMPANY DOING WEL?ANSER; LOTS LOTS OF MONEY
+
+arvin ongjunco I'm handsome
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 3, 2024
+
 > The itenary provided for our trip to…
 
 > The itenary provided for our trip to Victoria Falls by Shann Shaw was clear and concise. Settlement of online deposit payment was seemless. Will provide more reviews when we complete outr trip.
@@ -317,34 +341,6 @@ Megan Whitmore
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 30, 2024
-
-> Amazing Experience working with Leigh-Ann Croeser
-
-> Amazing Experience working with Leigh-Ann. She was very informative and accommodating. This process was seamless and effortless. Thank you so much!
-
-Enel
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 30, 2024
-
-> Shann was really fast in answering and…
-
-> Shann was really fast in answering and give me exactly the information i requested. The booking went smoothly !
-
-Kunde
-
-,
-
-DE
 
 VIP service
 
