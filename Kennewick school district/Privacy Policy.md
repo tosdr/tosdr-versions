@@ -56,7 +56,6 @@
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
     * [Students In Transition (Homeless)](https://www.ksd.org/programs/students-in-transition)
     * [Summer School](https://www.ksd.org/programs/summer-school)
-    * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
@@ -196,7 +195,6 @@ toggle mobile menu
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
     * [Students In Transition (Homeless)](https://www.ksd.org/programs/students-in-transition)
     * [Summer School](https://www.ksd.org/programs/summer-school)
-    * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
