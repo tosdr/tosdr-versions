@@ -6,7 +6,7 @@
 
 Search Search Reset 
 
-[Log in](https://martineztools.com/customer_identity/redirect?locale=en) [Cart](https://martineztools.com/cart)
+[Log in](https://martineztools.com/customer_identity/redirect?locale=en&region_country=US) [Cart](https://martineztools.com/cart)
 
 Menu
 
