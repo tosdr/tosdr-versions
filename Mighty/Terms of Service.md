@@ -2,7 +2,7 @@
 
 [![Logo](https://cdn.playground.com/logo/Logo_monochrome.png)](https://www.mightyapp.com/)
 
-[API](https://www.mightyapp.com/enterprise/api)[Pricing](https://www.mightyapp.com/design/pricing)Download iOS appLog inGet started for free
+[Creators](https://www.mightyapp.com/become-a-creator)[Pricing](https://www.mightyapp.com/design/pricing)Download iOS appLog inGet started for free
 
 [Start designing](https://www.mightyapp.com/design)
 
