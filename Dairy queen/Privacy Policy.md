@@ -37,7 +37,7 @@ DOWNLOAD THE APP
 OUR FAMILY
 ----------
 
-[](https://www.dairyqueen.com/en-us/cakes/)[](http://www.orangejulius.com/)
+[](https://www.dairyqueen.com/en-us/cakes/)[](https://www.orangejulius.com/)
 
 [](https://twitter.com/dairyqueen)[](https://www.facebook.com/dairyqueen)[](https://www.instagram.com/dairyqueen/)[](https://www.tiktok.com/@dairyqueen)
 
