@@ -503,6 +503,6 @@ Customer Success
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 * [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
 
-We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.att.com/privacy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
+We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
 
 [](#)
