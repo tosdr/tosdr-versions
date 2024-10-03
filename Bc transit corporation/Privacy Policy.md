@@ -82,7 +82,7 @@ Search transit system
 
 [Close mobile menu](#)
 
-[Change Transit System](#) BC Transit Regional Transit System
+[Change Transit System](#) BC Transit Regional Transit
 
 [Skip Main Content](#inner-sidebar)
 
