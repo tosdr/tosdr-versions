@@ -208,9 +208,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,23 +252,17 @@ Latest News
 
 [Starbucks buys research farms as climate change threatens coffee supply](https://www.japantimes.co.jp/business/2024/10/03/starbucks-research-farms-climate-change/ "Starbucks buys research farms as climate change threatens coffee supply")
 
-5 hours ago
+10 hours ago
 
-[1 in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "1 in 6 workers in Japan use resignation agencies to change jobs")
+[One in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "One in 6 workers in Japan use resignation agencies to change jobs")
 
-5 hours ago
+11 hours ago
 
 [7-Eleven owner seeking to sell off part of stake in banking unit](https://www.japantimes.co.jp/business/2024/10/03/7eleven-owner-bank-unit-stake/ "7-Eleven owner seeking to sell off part of stake in banking unit")
 
-6 hours ago
-
 [Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-6 hours ago
-
 [Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
