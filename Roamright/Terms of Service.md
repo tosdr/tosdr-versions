@@ -1,3 +1,8 @@
+* **COVERAGE ALERT:** Travel insurance must have been purchased prior to the date when an event became foreseeable to be eligible for coverage. The following event is considered known and foreseeable as of the date listed. Tropical Storm Leslie: October 3, 2024.
+    
+
+Close
+
  
 
  
