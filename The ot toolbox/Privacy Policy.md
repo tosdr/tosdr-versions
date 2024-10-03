@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Picture of broom sweeping. Text reads: "How to improve executive functioning with chores"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Image with pie chart that says heavy Work in the classroom. On the pie chart it reads integrated in learning, sensory diets, classroom jobs, class wide brain breaks, and transition periods.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Picture of broom sweeping. Text reads: "How to improve executive functioning with chores"](https://www.theottoolbox.com/wp-content/uploads/2024/06/executive-function-chores.png)](https://www.theottoolbox.com/chores-and-executive-functioning-skills/)
+                ![Image with pie chart that says heavy Work in the classroom. On the pie chart it reads integrated in learning, sensory diets, classroom jobs, class wide brain breaks, and transition periods.](https://www.theottoolbox.com/wp-content/uploads/2024/10/heavy-work-in-the-classroom.jpg)](https://www.theottoolbox.com/heavy-work-in-the-classroom/)
                 
-                #### [Chores and Executive Functioning Skills](https://www.theottoolbox.com/chores-and-executive-functioning-skills/)
+                #### [Heavy Work in the Classroom](https://www.theottoolbox.com/heavy-work-in-the-classroom/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
