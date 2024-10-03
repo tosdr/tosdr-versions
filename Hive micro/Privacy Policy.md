@@ -614,7 +614,7 @@ Contact Us
 
 [](https://thehive.ai/)© Copyright 2024
 
-[Status Dashboard](https://status.thehive.ai/)[Terms of Use](https://thehive.ai/terms-of-use)[Privacy Policy](https://thehive.ai/privacy)[Ethics Policy](https://thehive.ai/ethics)
+[Status Dashboard](https://status.thehive.ai/)[Terms of Use](https://thehive.ai/terms-of-use)[Privacy Policy](https://thehive.ai/privacy)[Cookie Policy](https://thehive.ai/cookie-policy)[Ethics Policy](https://thehive.ai/ethics)
 
 #### AI Models
 
