@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://www.theepochtimes.com/world/israel-continues-strikes-in-lebanon-hitting-central-beirut-5734410)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734411-Lebanon-Israel-strike-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-continues-strikes-in-lebanon-hitting-central-beirut-5734410)
+* [This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://www.theepochtimes.com/us/this-colorado-mom-reversed-her-chemical-abortion-now-the-process-is-banned-5733479)
+    
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733883-Chelsea-Mynyk-of-Castle-Rock-Womens-Health-205x123.png.webp)](https://www.theepochtimes.com/us/this-colorado-mom-reversed-her-chemical-abortion-now-the-process-is-banned-5733479)
+* [Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://www.theepochtimes.com/us/why-these-trump-supporters-are-going-back-to-the-butler-shooting-site-5733485)
+    
+    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://img.theepochtimes.com/assets/uploads/2024/08/10/id5703477-Trump-rally-shooting-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/why-these-trump-supporters-are-going-back-to-the-butler-shooting-site-5733485)
 * [Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720925-Maura-Healey-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
 * [Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
     
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734361-Biden-GettyImages-2175472071-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
 * [Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734316-Matthew-Perry-doctor-AP24276618885127KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
 * [Your Future Doctor May Be Able to Advise You on Nutrition](https://www.theepochtimes.com/health/your-future-doctor-may-be-able-to-advise-you-on-nutrition-5734077)
     
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    12hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
     [![Your Future Doctor May Be Able to Advise You on Nutrition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Your Future Doctor May Be Able to Advise You on Nutrition](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734306-shutterstock_2471292935_healthy_food_diet_nutrition-205x123.jpg.webp)](https://www.theepochtimes.com/health/your-future-doctor-may-be-able-to-advise-you-on-nutrition-5734077)
 * [Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
     
-    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734224-GettyImages-2175443146-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
 * [New York City Mayor Could Face More Charges, Prosecutors Say](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
     
-    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    13hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731603-NYC_Mayor_Investigations_24271606106076-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
 * [China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://www.theepochtimes.com/china/china-says-its-coast-guard-entered-arctic-for-1st-time-in-patrols-with-russia-5734068)
     
-    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    13hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://img.theepochtimes.com/assets/uploads/2023/07/25/id5421944-GettyImages-871612676-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-says-its-coast-guard-entered-arctic-for-1st-time-in-patrols-with-russia-5734068)
-* [In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
-    
-    7hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733634-NC-voters-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
-* [Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734152-GettyImages-1975562456-205x123.jpg.webp)](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
-* [Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
-    
-    8hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718809-Jack-Smith-Donald-Trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
