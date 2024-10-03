@@ -1,30 +1,36 @@
 [Skip to main content](#main-content)
 
-One Day Sale: Up To 50% Savings! DETAILS
+BOGO Free Shirts & Bras! DETAILS
 
-UP TO 50% SAVINGS!
-
-Close the Modal
-
-#### Shop the October One Day Sale!
-
-[SHOP NOW](https://www.tommiecopper.com/special/big-sale/)
-
-Offer valid 10/2/2024 8AM ET - 10/3/2024 6AM ET.
-
-October One Day Sale discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $150+
+#### Mix & match or double up. Compression shirts and bras are buy one get one FREE!
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/special/best-selling-shirts-bras)
 
-Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
+Offer valid 10/3/2024 8AM ET - 10/4/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+**Excludes: Back Support Bra**
+
+**
+
+To receive Buy 1 Get 1 Free discount on Compression Bras & Shirts, must add two (2) eligible full-price bras and/or shirts to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+**
+
+**INFRARED & RED LIGHT THERAPY
+
+Close the Modal
+
+#### Save Up To $75 on Infrared & Red Light Therapy Devices
+
+[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+
+Offer valid 9/18/2024 8AM ET - 9/20/2024 6AM ET.
+
+Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
@@ -326,4 +332,4 @@ We Accept
 
 We use cookies to collect data to improve your shopping experience. By using our website you are agreeing to the collection of data as described in our [Privacy Policy](https://www.tommiecopper.com/privacy-policy). Accept
 
-X
+X**
