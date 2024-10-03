@@ -112,7 +112,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
