@@ -177,6 +177,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [VP Debate: Contrast Was Clear on Second Amendment Views](https://www.thegunpage.com/vp-debate-contrast-was-clear-on-second-amendment-views/10610961)
+* [Greatest Resurgence Of Interest In Marksmanship Since World War II: 1955 National Matches](https://www.thegunpage.com/greatest-resurgence-of-interest-in-marksmanship-since-world-war-ii-1955-national-matches/10610960)
 * [The History of PKM, the Most Common Machine Gun in the World (Part 2)](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-2/10610958)
 * [POTD: The M9 Service Pistol](https://www.thegunpage.com/potd-the-m9-service-pistol/10610959)
 * [Who’s Your Gun Daddy? The Republicans Have It Hands Down](https://www.thegunpage.com/whos-your-gun-daddy-the-republicans-have-it-hands-down/10610955)
@@ -185,8 +187,6 @@ Recent Posts
 * [Las Vegas Homeowner Shoots And Kills Intruder](https://www.thegunpage.com/las-vegas-homeowner-shoots-and-kills-intruder/10610945)
 * [New: Springfield Armory Echelon 4.5F Comp 9 mm Pistol](https://www.thegunpage.com/new-springfield-armory-echelon-4-5f-comp-9-mm-pistol/10610952)
 * [JK Armament's New "Do-It-All" 155 G.O.A.T. HF 5.56mm Suppressor](https://www.thegunpage.com/jk-armaments-new-do-it-all-155-g-o-a-t-hf-5-56mm-suppressor/10610941)
-* [Gun-Rights Groups Join To Battle Lifetime 2A Ban For Nonviolent Offenders](https://www.thegunpage.com/gun-rights-groups-join-to-battle-lifetime-2a-ban-for-nonviolent-offenders/10610939)
-* [Kimber's New R7 Mako Carbon Compact – Optic Ready & Suppressor Ready](https://www.thegunpage.com/kimbers-new-r7-mako-carbon-compact-optic-ready-suppressor-ready/10610942)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
