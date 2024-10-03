@@ -471,6 +471,10 @@ Revised June 1, 2022
 
   [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
 
+[Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+
+  [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+
 [Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
@@ -478,10 +482,6 @@ Revised June 1, 2022
 [Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
 
   [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
-
-[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
-
-  [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
 [A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
@@ -498,6 +498,10 @@ Revised June 1, 2022
 [What’s a mother to do when your non-Japanese child is bullied in school?](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
 
   [![Helping your child through their first experience with a school bully can be a difficult situation to navigate — doubly so if you're trying to do so as a non-Japanese resident in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424027.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Helping your child through their first experience with a school bully can be a difficult situation to navigate — doubly so if you're trying to do so as a non-Japanese resident in Japan.")](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
+
+[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
+
+  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
 Podcast
 -------
@@ -518,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -560,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[South Korea's Yoon and Japan's Ishiba agree to continue 'shuttle diplomacy'](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/south-korea-japan-yoon-ishiba/ "South Korea's Yoon and Japan's Ishiba agree to continue 'shuttle diplomacy'")
+[Private drone operators seek bigger role in disaster response](https://www.japantimes.co.jp/news/2024/10/03/japan/society/drones-noto-disaster-relief/ "Private drone operators seek bigger role in disaster response")
 
-9 hours ago
+10 mins ago
 
-[Ishiba says Japan not ready for rate hike after meeting BOJ's Ueda](https://www.japantimes.co.jp/business/2024/10/02/ueda-ishiba-meeting/ "Ishiba says Japan not ready for rate hike after meeting BOJ's Ueda")
+[Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says](https://www.japantimes.co.jp/news/2024/10/03/world/politics/trump-so-what-pence-jan-6-us/ "Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says")
 
-11 hours ago
+27 mins ago
 
-[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
+[Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say](https://www.japantimes.co.jp/news/2024/10/03/world/iran-khamenei-nasrallah-israeli-plot/ "Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say")
 
-[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+1 hours ago
 
-[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+[Guns and transgender rights cases loom as U.S. Supreme Court returns](https://www.japantimes.co.jp/news/2024/10/03/world/crime-legal/gun-porn-us-supreme-court/ "Guns and transgender rights cases loom as U.S. Supreme Court returns")
+
+1 hours ago
+
+[Russia's Lavrov says stands alongside China on Taiwan, other issues](https://www.japantimes.co.jp/news/2024/10/03/asia-pacific/russia-lavrov-china-taiwan/ "Russia's Lavrov says stands alongside China on Taiwan, other issues")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
