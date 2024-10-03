@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
+* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
     
-    A Guide to Truman Capote Books
+    The Most Exciting Picture Books Coming Fall 2024
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     Books Bans Are on the Rise in America
     
     Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
+    
+    New Stories to Listen to
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
