@@ -136,6 +136,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     [Grants for Higher Education](https://www2.ed.gov/grants-and-programs/grants-higher-education)
     
     * [Fund for the Improvement of Postsecondary Education (FIPSE)](https://www2.ed.gov/about/ed-offices/ope/fipse/overview)
+    * [TRIO programs](https://www2.ed.gov/grants-and-programs/grants-higher-education/trio-home-page)
     
     [Grants for Special Populations](https://www2.ed.gov/grants-and-programs/grants-special-populations)
     
@@ -321,23 +322,23 @@ October 1, 2024
 Related Content
 ---------------
 
+### [Letter to Chief State School Officers on Arts Education](https://www2.ed.gov/node/7113)
+
+The Department continues to support equitable access to the Arts, the Humanities, and Museum and Library Services.
+
+October 3, 2024
+
+### [Higher Education Opportunity Act of 2008](https://www2.ed.gov/node/7112)
+
+Find information on the Department's implementation of the Higher Education Opportunity Act of 2008.
+
+October 3, 2024
+
 ### [Secretary’s Cover Letter: A Focus on Improving the FAFSA® Experience](https://www2.ed.gov/node/7030)
 
 From the very beginning, the drive to build a Better FAFSA was about one thing: bringing higher education within reach for more students across our nation.
 
 September 23, 2024
-
-### [The EDFacts Initiative](https://www2.ed.gov/node/7024)
-
-EDFacts is a U.S. Department of Education (ED) initiative to collect, analyze, and promote the use of high-quality, pre-kindergarten through grade 12 data.
-
-September 20, 2024
-
-### [Raising the Bar Across America: State by State Fact Sheets](https://www2.ed.gov/node/7003)
-
-The Biden-Harris Administration has made billions of dollars in crucial investments to strengthen education in schools, colleges, and universities across America. 
-
-September 18, 2024
 
 [Return to top](#)
 
