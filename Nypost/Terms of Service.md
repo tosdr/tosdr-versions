@@ -264,7 +264,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
 * [Email](https://email.nypost.com/?c=9u3u4hfnkjbfgu)
 * [YouTube](https://www.youtube.com/nypost)
 
-* [Sections & Features](#)
+* Sections & Features
     * [US News](https://nypost.com/us-news/)
     * [Metro](https://nypost.com/metro/)
     * [World News](https://nypost.com/world-news/)
