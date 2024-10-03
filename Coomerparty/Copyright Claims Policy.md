@@ -18,13 +18,11 @@
 
 Community
 
-[Partychan](https://chan.kemono.party/coomer) [Telegram](https://t.me/kemonopartywelcome) [Live Sex](https://s.zlinkl.com/d.php?z=5301986) [ThePornDude](https://theporndude.com/?coomer.party)
+[Partychan](https://chan.kemono.party/coomer) [Telegram](https://t.me/kemonopartywelcome) [AI JERK OF🫦](https://s.zlinkl.com/d.php?z=5301986) [ThePornDude](https://theporndude.com/?coomer.party)
 
 ![](/static/menu.svg)
 
 [Home](https://coomer.party/) [Creators](https://coomer.party/artists) [Posts](https://coomer.party/posts) [Import](https://coomer.party/importer) [Register](https://coomer.party/account/register?location=/dmca) [Login](https://coomer.party/account/login?location=/dmca)
-
-[**JOIN BRAZZERS 7 DAYS FOR FREE!!! >>> CLICK HERE <<<**](https://a.adtng.com/get/10014806)
 
 #### DMCA Notice
 
