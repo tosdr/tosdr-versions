@@ -146,7 +146,7 @@ Conditions générales
 
 [Mobile](#)
 
-[Conditions particulières – Téléphonie mobile(PDF, 187Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-09-27-09-06-55~cache.pdf)
+[Conditions particulières – Téléphonie mobile(PDF, 187Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-06-03-15-56-00~cache.pdf)
 
 [Internet policy(PDF, 162Kb)](https://www.proximus.be/dam/jcr:ffaf036a-cc5b-4087-ad57-637a0e06c344/cdn/sites/iportal/documents/pdfs/common/Conditions_internetpolicy_fr~2023-01-02-06-29-42~cache.pdf)
 
