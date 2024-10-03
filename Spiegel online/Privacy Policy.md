@@ -775,7 +775,7 @@ SPIEGEL Gruppe
     
 * [Startseite](https://www.spiegel.de/ "Startseite")
 * [Schlagzeilen](https://www.spiegel.de/schlagzeilen/ "Schlagzeilen")
-* [Israel-Gaza-Krieg](https://www.spiegel.de/thema/angriff-auf-israel-2023/ "Israel-Gaza-Krieg")
+* [Nahostkonflikt](https://www.spiegel.de/thema/nahostkonflikt/ "Nahostkonflikt")
 * [US-Wahl](https://www.spiegel.de/thema/us-praesidentschaftswahl-2024/ "US-Wahl")
 * [Ukraine-Krieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukraine-Krieg")
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
