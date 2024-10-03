@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA Astronaut Nick Hague Boosts Human Health Research in Space
 
-article4 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article5 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -253,79 +253,79 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 7 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+article 1 week ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
 
 3 min read
 
 ### NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
 
-article 6 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
+article 7 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
 
 ### Highlights
 
-[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
+
+1 min read
+
+### Gateway Stands Tall for Stress Test
+
+article 28 mins ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
 
 3 min read
 
 ### NASA Prepares for Lunar Terrain Vehicle Testing
 
-article 11 hours ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
+article 22 hours ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/nsrl.png?w=1024)
 
 2 min read
 
 ### Risk of radiation-induced cancers
 
-article 1 day ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)[![A group of astronauts poses for a photo inside the International Space Station. The scene shows eight crew members floating in microgravity, with some positioned upside down and others upright, surrounded by cargo bags and equipment. One astronaut in the foreground holds a welcome sign, while all wear matching NASA flight suits.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067e006334orig.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Sept. 27, 2024
-
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/)
+article 2 days ago](https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/)
 
 ### Highlights
 
-[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
+[![iss072e001650 (Sept. 25, 2024) -- Hurricane Helene is pictured from the International Space Station as it orbited 257 above the Gulf of Mexico off the coast of Mississippi.](https://www.nasa.gov/wp-content/uploads/2024/10/iss072e001650.jpg?w=1024)
+
+1 min read
+
+### NASA Efforts on Hurricane Helene
+
+article 30 mins ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
 
 4 min read
 
 ### Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds
 
-article 12 hours ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find-new-gamma-ray-emission-in-storm-clouds/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
-
-4 min read
-
-### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
-
-article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
-
-1 min read
-
-### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
-
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)
-
-### Highlights
-
-[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
-
-6 min read
-
-### What’s Up: October 2024 Skywatching Tips from NASA
-
-article 12 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
-
-7 min read
-
-### NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
-
-article 13 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
+article 23 hours ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find-new-gamma-ray-emission-in-storm-clouds/)[![NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt](https://science.nasa.gov/wp-content/uploads/2024/09/psd-pep-hijuice.jpg)
 
 4 min read
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
 article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
+
+### Highlights
+
+[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
+
+1 min read
+
+### Gateway Stands Tall for Stress Test
+
+article 28 mins ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+
+6 min read
+
+### What’s Up: October 2024 Skywatching Tips from NASA
+
+article 23 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
+
+7 min read
+
+### NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
+
+article 24 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### NASA’s TESS Spots Record-Breaking Stellar Triplets
 
-article 13 hours ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
+article 24 hours ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 7 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-
 
 ### Why NASA is studying flames in space 
 
-article 6 hours ago](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
+article 17 hours ago](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
 
 2 min read
 
 ### Amendment 57: ROSES-24 Changes for 2 CFR 200 Update
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![Transform to Open Science (TOPS) Logo](https://www.nasa.gov/wp-content/uploads/2024/09/tops-final.jpg?w=256)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![Transform to Open Science (TOPS) Logo](https://www.nasa.gov/wp-content/uploads/2024/09/tops-final.jpg?w=256)
 
 2 min read
 
 ### Using AI/ML for Space Biology Research
 
-article 11 hours ago](https://www.nasa.gov/using-ai-ml-for-space-biology-research/)
+article 22 hours ago](https://www.nasa.gov/using-ai-ml-for-space-biology-research/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 5 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
