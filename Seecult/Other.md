@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/houston-texas.jpg?itok=WG2UMDtF)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-skoplje/odmazda-skoplje5.jpg?itok=Nt4unS2m)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-skoplje)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mirko-ilic-galerija-haos/haos-beograd.jpg?itok=yEujOnsT)](http://seecult.org/galerija/foto-galerija/foto-arhiva/mirko-ilic-galerija-haos)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/toasters.jpg?itok=h45ap55j)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Snažna završnica 58. Bitefa](http://seecult.org/vest/snazna-zavrsnica-58-bitefa)
 * [Prepisivanje života - kada država ne radi svoj posao](http://seecult.org/vest/prepisivanje-zivota-kada-drzava-ne-radi-svoj-posao)
 * [Palestinci i Izraelci na Slobodnoj zoni](http://seecult.org/vest/palestinci-i-izraelci-na-slobodnoj-zoni)
 * [Koskar 18. FSFF-a Aleksi Gajiću](http://seecult.org/vest/koskar-18-fsff-aleksi-gajicu)
@@ -349,7 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [20\. Kids Fest - Kadar mog odrastanja](http://seecult.org/vest/20-kids-fest-kadar-mog-odrastanja)
 * [Optimistično dezorijentisani - 13. GoetheFEST](http://seecult.org/vest/optimisticno-dezorijentisani-13-goethefest)
 * [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
-* [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
 
 * [Konkursi](#tab1_1)
 
