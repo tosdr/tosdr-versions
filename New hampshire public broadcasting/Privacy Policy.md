@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Inundation District Boston's Made Land** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-boston-made-land?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview The Civil War's Lost Massacre** | Secrets of the Dead](https://video.nhpbs.org/video/preview-the-civil-wars-lost-massacre-asv8c9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Braxton Cook Performs "No Doubt"** | Jazz Music Awards 2023](https://video.nhpbs.org/video/braxton-cook-performs-no-doubt-cdaflj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Scha'nexw Elhtal'nexw Salmon People: Preserving a Way of Life Trailer** | Local, USA](https://video.nhpbs.org/video/local-usa-schanexw-elhtalnexw-salmon-people-preserving-a-way-of-life-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Megalopolis, Part 1** | Flicks](https://video.nhpbs.org/video/megalopolis-part-1-hf0gxo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Are We At The Tipping Point?** | Weathered](https://video.nhpbs.org/video/are-we-at-the-tipping-point-udlvvz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Renegades: Five people with disabilities who changed history \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/renegades-five-people-with-disabilities-who-changed-history-asl-oc-7pebr8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 2, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-2-2024-pbs-news-hour-full-episode-1727841601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Renegades: Five people with disabilities who changed history \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/renegades-five-people-with-disabilities-who-changed-history-asl-oc-7pebr8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 2, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-2-2024-bohjoq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Traqueros and the Building of the Southwest** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/traqueros-and-the-building-of-the-southwest-6gd2p0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Students From Immigrant Families Reflect on Their Heritage** | Citizen Nation](https://video.nhpbs.org/video/students-from-immigrant-families-reflect-on-their-heritage-abhwdb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
