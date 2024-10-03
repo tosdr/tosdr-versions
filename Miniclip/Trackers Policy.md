@@ -2,6 +2,7 @@
 
 Toggle Menu
 
+* [Publishing](https://www.miniclip.com/publishing)
 * [Our Story](https://www.miniclip.com/our-story)
 * [Games](https://www.miniclip.com/games)
 * [Web Games](https://www.miniclip.com/games/web)
@@ -165,6 +166,7 @@ If you wish to contact Miniclip about this Cookies Policy and the use of cookies
 
 [![Miniclip Logo](/_nuxt/img/bw.65cf9d4.svg)](https://www.miniclip.com/)
 
+* [Publishing](https://www.miniclip.com/publishing)
 * [Our Story](https://www.miniclip.com/our-story)
 * [Games](https://www.miniclip.com/games)
 * [Web Games](https://www.miniclip.com/games/web)
