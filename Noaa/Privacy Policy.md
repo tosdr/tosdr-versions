@@ -47,7 +47,7 @@ Enter City, State or ZIP code
 
 [![NOAA mobile logo](/themes/custom/noaa_guswds/images/noaa_logo_mobile.svg)](https://www.noaa.gov/ "Home")
 
- [![Home](/themes/custom/noaa_guswds/images/noaa_digital_logo.svg)](https://www.noaa.gov/ "Home")[National Oceanic and Atmospheric Administration](https://www.noaa.gov/ "Home") [U.S. Department of Commerce](https://www.commerce.gov/)
+ [![NOAA logo](/themes/custom/noaa_guswds/images/noaa_digital_logo.svg)](https://www.noaa.gov/ "National Oceanic and Atmospheric Administration home")[National Oceanic and Atmospheric Administration](https://www.noaa.gov/ "National Oceanic and Atmospheric Administration home") [U.S. Department of Commerce](https://www.commerce.gov/)
 
   Enter Search Terms  
 
@@ -202,4 +202,4 @@ Science. Service. Stewardship.
 
 [NOAA on Twitter](https://twitter.com/NOAA) [NOAA on Facebook](https://www.facebook.com/NOAA) [NOAA on Instagram](https://www.instagram.com/noaa) [NOAA on YouTube](https://www.youtube.com/usnoaagov)
 
-[Back to top](#top--wDjERTAPXMI "Back to top")
+[Back to top](#top--LlLkzF2SQes "Back to top")
