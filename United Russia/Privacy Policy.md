@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://cdn.er.ru/media/news/October2024/QlDC2M3942C1THxqeBfL-small.jpg)](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
+
+[Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
+
+Сегодня 17:31
+
+[![Николай Журавлёв: «Единая Россия» провела более 2700 мероприятий по обучению жителей регионов финансовой грамотности](https://cdn.er.ru/media/news/October2024/NcdWZCYNcYWt9Mqkf5xl-small.JPG)](https://er.ru/activity/news/nikolaj-zhuravlyov-edinaya-rossiya-provela-bolee-2700-meropriyatij-po-obucheniyu-zhitelej-regionov-finansovoj-gramotnosti)
+
+[Николай Журавлёв: «Единая Россия» провела более 2700 мероприятий по обучению жителей регионов финансовой грамотности](https://er.ru/activity/news/nikolaj-zhuravlyov-edinaya-rossiya-provela-bolee-2700-meropriyatij-po-obucheniyu-zhitelej-regionov-finansovoj-gramotnosti)
+
+[#Журавлев](https://er.ru/activity/news?tags%5B0%5D=10192) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#ЦБ](https://er.ru/activity/news?tags%5B0%5D=5834)
+
+Сегодня 15:50
+
+[![«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://cdn.er.ru/media/news/October2024/uPbLLnV0tGoHaPvpR885-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
+
+[«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
+
+[#Хубезов](https://er.ru/activity/news?tags%5B0%5D=151297) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЗдоровоеБудущее](https://er.ru/activity/news?tags%5B0%5D=1091239) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#готовксанитарнойобороне](https://er.ru/activity/news?tags%5B0%5D=1095557) [#перваяпомощь](https://er.ru/activity/news?tags%5B0%5D=109898) [#курсы](https://er.ru/activity/news?tags%5B0%5D=5653) [#оказаниепомощи](https://er.ru/activity/news?tags%5B0%5D=136712) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
+
+Сегодня 14:11
+
+[![Секретарь Кабардино-Балкарского отделения «Единой России» Казбек Коков переизбран главой Республики](https://cdn.er.ru/media/news/October2024/2hXI5iBdT0T4kVp3VXNI-small.jpg)](https://er.ru/activity/news/sekretar-kabardino-balkarskogo-otdeleniya-edinoj-rossii-kazbek-kokov-pereizbran-glavoj-respubliki)
+
+[Секретарь Кабардино-Балкарского отделения «Единой России» Казбек Коков переизбран главой Республики](https://er.ru/activity/news/sekretar-kabardino-balkarskogo-otdeleniya-edinoj-rossii-kazbek-kokov-pereizbran-glavoj-respubliki)
+
+[#Коков](https://er.ru/activity/news?tags%5B0%5D=51908) [#Кабардино-Балкарская Республика](https://er.ru/activity/news?tags%5B0%5D=1091050) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#главарегиона](https://er.ru/activity/news?tags%5B0%5D=130296) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
+
+Сегодня 12:50
+
 [![Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://cdn.er.ru/media/news/October2024/068iMCTdisk2ig34JYw0-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
 
 [Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
@@ -314,38 +346,6 @@
 [#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 Сегодня 11:20
-
-[![Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://cdn.er.ru/media/news/October2024/kfs14KinykSAKO8UrZFB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
-
-[Владимир Якушев: Уверен, дальнейшая совместная работа полпредства УрФО и регионов будет активной под руководством Артёма Жоги](https://er.ru/activity/news/vladimir-yakushev-uveren-dalnejshaya-sovmestnaya-rabota-polpredstva-urfo-i-regionov-budet-aktivnoj-pod-rukovodstvom-artyoma-zhogi)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
-
-02.10.24
-
-[![«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://cdn.er.ru/media/news/October2024/NFcOZykgLuYRmlEx58Yj-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
-
-[«Молодая Гвардия Единой России» и Минобрнауки продолжат работу по открытию представительств МГЕР в вузах страны](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-minobrnauki-prodolzhat-rabotu-po-otkrytiyu-predstavitelstv-mger-v-vuzah-strany)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Петрова](https://er.ru/activity/news?tags%5B0%5D=4885) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#представительство](https://er.ru/activity/news?tags%5B0%5D=2104) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-02.10.24
-
-[![«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://cdn.er.ru/media/news/October2024/F0Ltnt773toMUsn73cvf-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
-
-[«Единая Россия» защитит граждан от увеличения долговой нагрузки](https://er.ru/activity/news/edinaya-rossiya-zashitit-grazhdan-ot-uvelicheniya-dolgovoj-nagruzki)
-
-[#Бахарев](https://er.ru/activity/news?tags%5B0%5D=53590) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980) [#банкротство](https://er.ru/activity/news?tags%5B0%5D=2633) [#кредитныйлимит](https://er.ru/activity/news?tags%5B0%5D=1095780) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#недобросовестная реклама](https://er.ru/activity/news?tags%5B0%5D=40882)
-
-02.10.24
-
-[![«Единая Россия» внесла в Госдуму законопроект о студенческих семьях](https://cdn.er.ru/media/news/October2024/id9xFIV2VQidXEPUUOYI-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-studencheskih-semyah)
-
-[«Единая Россия» внесла в Госдуму законопроект о студенческих семьях](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-studencheskih-semyah)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#поддержкасемей](https://er.ru/activity/news?tags%5B0%5D=114032) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
-
-02.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
