@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187252139489)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187266227031)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
@@ -596,7 +596,7 @@ OK Cancel
 * [Key Education](https://www.carsondellosa.com/key-education-special-learning)
 * [Mark Twain Media](https://www.carsondellosa.com/brands/mark-twain-media/)
 * [Rourke Educational Media](https://www.carsondellosa.com/rourke-educational-media-carson-dellosa-education/)
-* [Spectrum](https://www.carsondellosa.com/brands/spectrum/)
+* [Spectrum](https://www.carsondellosa.com/spectrum)
 * [Summer Bridge](https://www.carsondellosa.com/summer-bridge-activities/)
 
 ![CarsonDellosa.com](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg "CarsonDellosa.com")
