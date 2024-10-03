@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
 
 ### Potter History
 
-March 24, 2010 – Universal announces that the Wizarding World of Harry Potter will open on June 18.
+February 24, 2009 – Warner Bros. announces that Harry Potter and the Deathly Hallows – Part 2 will be released in theaters on July 15, 2011.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“I think they think I’m a bit odd, you know. Some people call me ‘Loony’ Lovegood, actually.”
 
 [](#)
 
