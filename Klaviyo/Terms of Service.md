@@ -24,9 +24,9 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
-[](https://community.klaviyo.com/events/real-stories-real-success-with-kelly-o-connell-240)
+[](https://community.klaviyo.com/events/real-stories-real-success-with-lighthouse-keeper-s-pantry-240)
 
-Real Stories, Real Success with Kelly O'Connell
+Real Stories, Real Success with Lighthouse Keeper's Pantry
 
 (Wed, 9 Oct, 4:00 pm)
 
