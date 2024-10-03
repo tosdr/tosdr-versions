@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
+[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
 
-[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
+[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
 
-[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
+[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
 
-[If You Don’t Know What Palliative Care Is, You Should](https://www.visitingangels.com/knowledge-center/care-options/if-you-dont-know-what-palliative-care-is-you-should/335)
+[Important Resources Your Veteran Loved One Can Use, Including Home Care](https://www.visitingangels.com/knowledge-center/selecting-care/important-resources-your-veteran-loved-one-can-use-including-home-care/334)
 
-[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
+[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
