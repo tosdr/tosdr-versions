@@ -50,6 +50,7 @@ Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274
         * [Elder Care Negligence](https://www.pugetlawgroup.com/washington/elder-care-negligence-lawyer/)
         * [Product Liability](https://www.pugetlawgroup.com/tacoma-wa/product-liability-lawyer/)
         * [Corporate/ Government Liability](https://www.pugetlawgroup.com/washington/corporate-government-liability-lawyer/)
+    * [View All Practice Areas](https://www.pugetlawgroup.com/practice-areas/)
 * [Areas We Serve](https://www.pugetlawgroup.com/areas-we-serve/)
     * [Bellevue](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
     * [Kirkland](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
