@@ -88,7 +88,7 @@ Check Availability - Mega menu (Upper)
     
     * Resources
         
-        * [Account Request Form](https://www.1800gotjunk.com/us_en/Commercial/contact_national_accounts)
+        * [Account Request Form](https://www.1800gotjunk.com/Commercial/contact_national_accounts)
             
         * [Locations](https://www.1800gotjunk.com/us_en/locations)
             
@@ -118,7 +118,7 @@ Check Availability - Mega menu (Upper)
     
 * [What We Take](https://www.1800gotjunk.com/what-we-take/what_we_take)
     
-* [Franchising](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
+* [Franchising](https://www.1800gotjunk.com/franchise/business-opportunity)
     
 
 Sub Menu
@@ -131,8 +131,6 @@ Sub Menu
 * [Book An Appointment](https://request.1800gotjunk.com/us_en/onlinebooking)
 
 search
-
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
 
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
@@ -481,7 +479,7 @@ Company
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
 * [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
-* [Blog](https://www.1800gotjunk.com/us_en/blog)
+* [Blog](https://www.1800gotjunk.com/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
 * [Start a Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
@@ -504,7 +502,7 @@ Company
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
 * [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
-* [Blog](https://www.1800gotjunk.com/us_en/blog)
+* [Blog](https://www.1800gotjunk.com/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
 * [Start a Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
@@ -578,14 +576,6 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Super kind and fast at removing everything. Best service!
-
-Nevada Rai Calgary 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The team was fast and efficient getting everything done
 
 Kyle Jackson Calgary 28/09/2024
@@ -605,6 +595,14 @@ Meg Gillies Calgary 28/09/2024
 Excellent service from Carlos and Kayla!
 
 Alexandra Calgary 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super kind and fast at removing everything. Best service!
+
+Nevada Rai Calgary 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,22 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tanner & Luis were amazing, top notch
-
-Teresa Neely Madison 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Darontay Davey!
-
-Anna Webster Seattle 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Ayden and Sam did a great job! Very professional! Hardly took any time. Took many large items. Highly recommend!
 
 Erika Mantsch Wisconsin 28/09/2024
@@ -925,6 +907,22 @@ David Nutt Cincinnati 28/09/2024
 Gio and Kegan were great and accommodating to remove my furniture
 
 Corliss Maxon Naples 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Tanner & Luis were amazing, top notch
+
+Teresa Neely Madison 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Darontay Davey!
+
+Anna Webster Seattle 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
