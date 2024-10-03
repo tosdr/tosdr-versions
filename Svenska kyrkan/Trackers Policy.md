@@ -672,8 +672,6 @@ Sök Meny
             
     * [Fonder, stöd och stipendier](https://www.svenskakyrkan.se/fonder-stod-och-stipendier)
         
-        * [Stipendier för studier i ekumenik och religionsdialog](https://www.svenskakyrkan.se/ekumeniska-stipendier)
-            
     * [Forskning och analys](https://www.svenskakyrkan.se/forskning-och-analys)
         
     * [Församlingen](https://www.svenskakyrkan.se/forsamlingen-finns-nara-dig)
@@ -824,24 +822,24 @@ Sök Meny
         
         * [Ekumeniska samarbeten](https://www.svenskakyrkan.se/ekumenik/samarbeten)
             
-            * [Konferensen för europeiska kyrkor (KEK) – generalförsamling 2023](https://www.svenskakyrkan.se/konferensen-for-europeiska-kyrkor-generalforsamling-2023)
-                
-            * [Lutherska världsförbundets generalförsamling 2023](https://www.svenskakyrkan.se/lvf-generalforsamling)
-                
-            * [Kyrkornas världsråds generalförsamling 2022](https://www.svenskakyrkan.se/kyrkornas-varldsrads-generalforsamling-2022)
+            * [Ekumeniska året 2025](https://www.svenskakyrkan.se/ekumeniska-aret-2025)
                 
             * [Skapelsetid](https://www.svenskakyrkan.se/skapelsetid) 
                 
-            * [Förbönscykel Borgågemenskapen](https://www.svenskakyrkan.se/ekumenik/forbonscykel-borgagemenskapen)
+            * [Generalförsamlingar](https://www.svenskakyrkan.se/generalforsamlingar)
                 
+                * [Konferensen för europeiska kyrkor (KEK) – generalförsamling 2023](https://www.svenskakyrkan.se/konferensen-for-europeiska-kyrkor-generalforsamling-2023)
+                    
+                * [Lutherska världsförbundets generalförsamling 2023](https://www.svenskakyrkan.se/lvf-generalforsamling)
+                    
+                * [Kyrkornas världsråds generalförsamling 2022](https://www.svenskakyrkan.se/kyrkornas-varldsrads-generalforsamling-2022)
+                    
         * [Religionsdialog](https://www.svenskakyrkan.se/ekumenik/religionsmoten)
             
-            * [Rapport Svenska kyrkans interreligiösa sammanhang](https://www.svenskakyrkan.se/ekumenik/interreligiosa-sammanhang)
-                
-            * [Åtaganden och arbete mot antisemitism](https://www.svenskakyrkan.se/svenska-kyrkans-ataganden-och-arbete-mot-antisemitism)
-                
-            * [Samarbete med Islamic Relief och Ibn Rushd](https://www.svenskakyrkan.se/svenska-kyrkans-samarbete-med-muslimska-organisationer-)
-                
+        * [Stipendier för studier](https://www.svenskakyrkan.se/ekumeniska-stipendier)
+            
+        * [Plattform för ekumenik och interreligiös samverkan](https://www.svenskakyrkan.se/svenska-kyrkans-plattform-for-ekumenik-och-interreligios-samverkan)
+            
     * [Migration och integration](https://www.svenskakyrkan.se/migration)
         
         * [Så arbetar vi](https://www.svenskakyrkan.se/sa-arbetar-vi-med-manniskor-pa-flykt)
