@@ -806,7 +806,7 @@ Browse
 
 * [👋 We're the electronics specialist](https://www.maplin.co.uk/pages/about-us)
 
-[Log in](https://www.maplin.co.uk/customer_identity/redirect?locale=en)
+[Log in](https://www.maplin.co.uk/customer_identity/redirect?locale=en&region_country=GB)
 
 [](https://www.maplin.co.uk/)
 
@@ -820,7 +820,7 @@ Browse
 
  Search 
 
-[Log in](https://www.maplin.co.uk/customer_identity/redirect?locale=en) [](https://help.maplin.co.uk/)[Cart](https://www.maplin.co.uk/cart)
+[Log in](https://www.maplin.co.uk/customer_identity/redirect?locale=en&region_country=GB) [](https://help.maplin.co.uk/)[Cart](https://www.maplin.co.uk/cart)
 
 * [Batteries](https://www.maplin.co.uk/pages/batteries)
     
