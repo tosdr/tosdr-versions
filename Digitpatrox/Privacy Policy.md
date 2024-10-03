@@ -20,16 +20,16 @@ Thursday, October 3 2024
 
 Latest
 
-* [8 easy ways to transfer files between Windows and your phone – Computerworld](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
-* [Wordle Answer for Today, October 3, 2024](https://digitpatrox.com/wordle-answer-for-today-october-3-2024/)
-* [Our Members Love Their Black-and-White Laser Printer. You .](https://digitpatrox.com/our-members-love-their-black-and-white-laser-printer-you/)
-* [How to Prevent Windows 11 or Windows 10 From Locking Itself](https://digitpatrox.com/how-to-prevent-windows-11-or-windows-10-from-locking-itself/)
-* [Migrating to enterprise voice: A strategic approach for modern businesses](https://digitpatrox.com/migrating-to-enterprise-voice-a-strategic-approach-for-modern-businesses/)
-* [What Is It & What Can It Do?](https://digitpatrox.com/what-is-it-what-can-it-do/)
-* [Home Depot’s ‘Decor Days’ knocks up to 50% off furniture and decor — 17 stylish deals I’d shop now](https://digitpatrox.com/home-depots-decor-days-knocks-up-to-50-off-furniture-and-decor-17-stylish-deals-id-shop-now/)
-* [Critical Ivanti RCE flaw with public exploit now used in attacks](https://digitpatrox.com/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
-* [Best cheap phone: five smartphones for under $500](https://digitpatrox.com/best-cheap-phone-five-smartphones-for-under-500/)
-* [Agatha All Along: Rio Vidal and Agatha’s Relationship Explained](https://digitpatrox.com/agatha-all-along-rio-vidal-and-agathas-relationship-explained/)
+* [Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
+* [How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
+* [OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
+* [Amazon Echo Smart Speakers Are up to 55% Off Ahead of October Prime Day](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
+* [VDI Setup, Installation, and Configuration Guide 2024](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
+* [Best Ellipticals of 2024](https://digitpatrox.com/best-ellipticals-of-2024/)
+* [I’ve Paid for iCloud Storage for Years, Here’s Why I Don’t Regret It](https://digitpatrox.com/ive-paid-for-icloud-storage-for-years-heres-why-i-dont-regret-it/)
+* [IT channel leaders remain buoyant about future of partnerships](https://digitpatrox.com/it-channel-leaders-remain-buoyant-about-future-of-partnerships/)
+* [Google Updates Confidential Computing Portfolio](https://digitpatrox.com/google-updates-confidential-computing-portfolio/)
+* [How to clean a Shark vacuum cleaner](https://digitpatrox.com/how-to-clean-a-shark-vacuum-cleaner/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3542871-0-72281300-1727900390-transfer-files-windows-pc-phone.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Redwood-Software-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-redwood-software/)
     
-    [8 easy ways to transfer files between Windows and your phone – Computerworld](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
+    [Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
     
-    17 mins ago
+    39 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J8ZX6W4M877Y60K4QQ5X1QBQ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-october-3-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/rcggK9pkAbTthEnDrC7pPh-1200-80.jpg)](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
     
-    [Wordle Answer for Today, October 3, 2024](https://digitpatrox.com/wordle-answer-for-today-october-3-2024/)
+    [How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
     
-    43 mins ago
+    58 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1673385851/prod/content/dam/CRO%20Images%202019/Electronics/02February/CR-Electronics-Inlinehero-black-and-white-laser-printers-0219)](https://digitpatrox.com/our-members-love-their-black-and-white-laser-printer-you/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3544921-0-47596000-1727954369-sam-altman-openai-100950687-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
     
-    [Our Members Love Their Black-and-White Laser Printer. You .](https://digitpatrox.com/our-members-love-their-black-and-white-laser-printer-you/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-windows-laptop-with-a-lock-and-a-warning-sign-next-to-it.jpg)](https://digitpatrox.com/how-to-prevent-windows-11-or-windows-10-from-locking-itself/)
-    
-    [How to Prevent Windows 11 or Windows 10 From Locking Itself](https://digitpatrox.com/how-to-prevent-windows-11-or-windows-10-from-locking-itself/)
+    [OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/FxxwCQMyqyWdnMqqB5xZq6-1200-80.jpg)](https://digitpatrox.com/migrating-to-enterprise-voice-a-strategic-approach-for-modern-businesses/)
+* [![](https://lifehacker.com/imagery/articles/01J2F8Q9KDE20HSCYV3HX2M1K5/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
     
-    [Migrating to enterprise voice: A strategic approach for modern businesses](https://digitpatrox.com/migrating-to-enterprise-voice-a-strategic-approach-for-modern-businesses/)
+    [Amazon Echo Smart Speakers Are up to 55% Off Ahead of October Prime Day](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/VDI-Setup-Installation-and-Configuration-Guide.jpeg)](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
+    
+    [VDI Setup, Installation, and Configuration Guide 2024](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
     
     2 hours ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 mins ago
+* [39 mins ago
     
-    ### 8 easy ways to transfer files between Windows and your phone – Computerworld](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
-* [43 mins ago
+    ### Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
+* [58 mins ago
     
-    ### Wordle Answer for Today, October 3, 2024](https://digitpatrox.com/wordle-answer-for-today-october-3-2024/)
+    ### How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
 * [1 hour ago
     
-    ### Our Members Love Their Black-and-White Laser Printer. You .](https://digitpatrox.com/our-members-love-their-black-and-white-laser-printer-you/)
+    ### OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
 
 Most Popular Topics
 
-* [1 week ago
+* [3 weeks ago
     
-    ### These Are the Best Breads for French Toast](https://digitpatrox.com/these-are-the-best-breads-for-french-toast/)
-* [4 weeks ago
+    ### Best ebook readers for 2024](https://digitpatrox.com/best-ebook-readers-for-2024/)
+* [1 day ago
     
-    ### Hybrid workers aren’t disconnected from office colleagues — they’re happier, more productive, and have better workplace relationships](https://digitpatrox.com/hybrid-workers-arent-disconnected-from-office-colleagues-theyre-happier-more-productive-and-have-better-workplace-relationships/)
-* [August 19, 2024
+    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+* [August 22, 2024
     
-    ### CyberGhost vs ExpressVPN (2024): Which VPN Is Better?](https://digitpatrox.com/cyberghost-vs-expressvpn-2024-which-vpn-is-better/)
+    ### OnePlus Buds Pro 3 Review: Nothing Comes Close](https://digitpatrox.com/oneplus-buds-pro-3-review-nothing-comes-close/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### I’ve Paid for iCloud Storage for Years, Here’s Why I Don’t Regret It](https://digitpatrox.com/ive-paid-for-icloud-storage-for-years-heres-why-i-dont-regret-it/)
 * [3 hours ago
     
-    ### Home Depot’s ‘Decor Days’ knocks up to 50% off furniture and decor — 17 stylish deals I’d shop now](https://digitpatrox.com/home-depots-decor-days-knocks-up-to-50-off-furniture-and-decor-17-stylish-deals-id-shop-now/)
+    ### IT channel leaders remain buoyant about future of partnerships](https://digitpatrox.com/it-channel-leaders-remain-buoyant-about-future-of-partnerships/)
 * [3 hours ago
     
-    ### Critical Ivanti RCE flaw with public exploit now used in attacks](https://digitpatrox.com/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
-* [3 hours ago
-    
-    ### Best cheap phone: five smartphones for under $500](https://digitpatrox.com/best-cheap-phone-five-smartphones-for-under-500/)
+    ### Google Updates Confidential Computing Portfolio](https://digitpatrox.com/google-updates-confidential-computing-portfolio/)
 
 Most Viewed Topics
 
