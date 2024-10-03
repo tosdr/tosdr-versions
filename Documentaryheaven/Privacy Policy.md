@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Baadasssss Cinema](/wp-content/thumbnails/2458-100x70.jpg?x53432)
+* [![Las Calles Hablan](/wp-content/thumbnails/7129-100x70.png?x53432)
     
-    Baadasssss Cinema
+    Las Calles Hablan
     
-    With archive film clips and interviews, this brief look at a frequently overlooked historical period of filmmaking acts as an introduction rather than a complete record. Features interviews with some](https://documentaryheaven.com/baadasssss-cinema/ "Baadasssss Cinema")
-* [![Darwin’s Struggle: The Evolution of the Origin of Species](/wp-content/thumbnails/520-100x70.png?x53432)
+    Las Calles Hablan is a feature length documentary film about street art in Barcelona. Until now there hasn't been a definitive film made in Barcelona which explores the history, motivation, politics a](https://documentaryheaven.com/las-calles-hablan/ "Las Calles Hablan")
+* [![Future Weapons: Future Combat S2/E12](/wp-content/thumbnails/1895-100x70.jpg?x53432)
     
-    Darwin’s Struggle: The Evolution of the Origin of Species
+    Future Weapons: Future Combat S2/E12
     
-    This stunning documentary tells the little-known story of how Darwin came to write his great masterpiece, On the Origin of Species, a book which explains the wonderful variety of the natural world as](https://documentaryheaven.com/darwins-struggle-the-evolution-of-the-origin-of-species/ "Darwin’s Struggle: The Evolution of the Origin of Species")
-* [![The Ghostman of Skye](/wp-content/thumbnails/5879-100x70.jpg?x53432)
+    In this episode of Future Weapons Richard shows us the Active Denial System, a non-lethal way of protecting troops, the Crusher unmanned ground combat vehicle, and the US Army's Future Combat Systems](https://documentaryheaven.com/future-weapons-future-combat-s2e12/ "Future Weapons: Future Combat S2/E12")
+* [![Finding Paul Miller](/wp-content/thumbnails/7078-100x70.jpg?x53432)
     
-    The Ghostman of Skye
+    Finding Paul Miller
     
-    The Isle of Skye is a place marked out not just by its rugged Scottish beauty, but also by an extraordinarily high number of reports of ghost experiences. Local crofters, churchmen and policemen are a](https://documentaryheaven.com/the-ghostman-of-skye/ "The Ghostman of Skye")
-* [![The Politics of Food: Smokies](/wp-content/thumbnails/9222-100x70.jpg?x53432)
+    "I was wrong.One year ago I left the internet. I thought it was making me unproductive. I thought it lacked meaning. I thought it was "corrupting my soul."It's a been a year now since I "surfed th](https://documentaryheaven.com/finding-paul-miller/ "Finding Paul Miller")
+* [![IRL – In Real Life](/wp-content/thumbnails/6431-100x70.jpg?x53432)
     
-    The Politics of Food: Smokies
+    IRL – In Real Life
     
-    In the UK there is a lot of cultural diversity and most of these people try access the food which is traditional to them but often those foods and the ingredients that go into these dishes can be ille](https://documentaryheaven.com/politics-food-smokies/ "The Politics of Food: Smokies")
-* [![How the States Got Their Shapes](/wp-content/thumbnails/5685-100x70.jpg?x53432)
+    “IRL – In Real Life” is a short, light-hearted documentary, which takes a look at the effects of World of Warcraft addiction/compulsion.It was produced as part of a 3rd Year Film Production projec](https://documentaryheaven.com/irl-in-real-life/ "IRL – In Real Life")
+* [![Ben: Diary Of A Heroin Addict](/wp-content/thumbnails/3227-100x70.jpg?x53432)
     
-    How the States Got Their Shapes
+    Ben: Diary Of A Heroin Addict
     
-    Every line on the U.S. map tells a story. Every border reflects their history – their struggles for independence, their internal conflicts over states rights and slavery, their westward expansion, and](https://documentaryheaven.com/how-the-states-got-their-shapes/ "How the States Got Their Shapes")
+    As a bright schoolboy from a loving, middle-class family Ben Rogers was expected to make a success of his life. Raised in a quiet, picturesque village Ben was a Boy Scout, loved cricket, played in](https://documentaryheaven.com/ben-diary-of-a-heroin-addict/ "Ben: Diary Of A Heroin Addict")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
