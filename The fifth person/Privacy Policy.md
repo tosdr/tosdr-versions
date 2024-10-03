@@ -1,4 +1,4 @@
-Thursday, October 3 2024
+Friday, October 4 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -170,11 +170,13 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    6 days ago
+    7 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -185,8 +187,6 @@ Quick Guides
     3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
@@ -200,7 +200,7 @@ Quick Guides
     
     [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -224,7 +224,7 @@ Quick Guides
     
     [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
     
-    2 days ago
+    3 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -236,21 +236,21 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
+    
+    [揭秘2024年令吉升值的原因](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
+    
+    3 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
     [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
     September 13, 2022
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
-    
-    [Hartalega 2024 股东大会的10个重要启示](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
-    
-    1 week ago
     
 
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
