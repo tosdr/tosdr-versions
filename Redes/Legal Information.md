@@ -96,7 +96,7 @@ El plazo de presentación de las solicitudes se realiza a través de la sede ele
 
 [La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar-para-acceder-bonos "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado")
 
-![](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20Digital%20notiweb%20sin%20copy3.png?h=16b33b25&itok=so9cKbxQ)   
+![](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20Digital%20notiweb%20sin%20copy2.png?h=7355a072&itok=g0ml6tBB)   
 
 Noticia
 
@@ -128,9 +128,9 @@ Noticia
 
 Internacionalización
 
-El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad
+Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital
 
-[El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad](http://red.es/es/actualidad/noticias/desafia-suiza-primera-edicion-startups-sostenibilidad "Ir al contenido de: El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad")
+[Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital](http://red.es/es/actualidad/noticias/desafia-nordicos-segunda-edicion-startups-salud-digital "Ir al contenido de: Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
