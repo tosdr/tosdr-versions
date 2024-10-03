@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Prison: From the Inside](/wp-content/thumbnails/13961-100x70.jpg?x53432)
+* [![Baadasssss Cinema](/wp-content/thumbnails/2458-100x70.jpg?x53432)
     
-    Prison: From the Inside
+    Baadasssss Cinema
     
-    A two-part BBC documentary series which delves into the stories which lie behind the crimes of several men and women serving time in Northern Ireland's prisons. Through a number of intimate interviews](https://documentaryheaven.com/prison-inside/ "Prison: From the Inside")
-* [![Free For All](/wp-content/thumbnails/2232-100x70.jpg?x53432)
-    
-    Free For All
-    
-    Can we trust our elections? My name is John. Since I was a kid, I have been a proud American. But after questionable elections led to disastrous outcomes for my country, I felt I had to find out if ou](https://documentaryheaven.com/free-for-all-2/ "Free For All")
-* [![Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt](/wp-content/thumbnails/135-100x70.png?x53432)
-    
-    Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt
-    
-    In this BBC documentary film about Atheism, Jonathan Miller visits the absent Twin Towers to consider the religious implications of the 9/11 terror attacs and meets Arthur Miller and the philosopher C](https://documentaryheaven.com/atheism-jonathan-miller%e2%80%99s-brief-history-of-disbelief-shadows-of-doubt/ "Atheism: Jonathan Miller’s Brief History of Disbelief: Shadows of Doubt")
-* [![HyperNormalisation](/wp-content/thumbnails/12842-100x70.png?x53432)
-    
-    HyperNormalisation
-    
-    HyperNormalisation is a film by British filmmaker Adam Curtis, it tells the incredible story of how we have managed to get to this bizarre time of uncertainty and confusion, a time where we see those](https://documentaryheaven.com/hypernormalisation/ "HyperNormalisation")
+    With archive film clips and interviews, this brief look at a frequently overlooked historical period of filmmaking acts as an introduction rather than a complete record. Features interviews with some](https://documentaryheaven.com/baadasssss-cinema/ "Baadasssss Cinema")
 * [![Darwin’s Struggle: The Evolution of the Origin of Species](/wp-content/thumbnails/520-100x70.png?x53432)
     
     Darwin’s Struggle: The Evolution of the Origin of Species
     
     This stunning documentary tells the little-known story of how Darwin came to write his great masterpiece, On the Origin of Species, a book which explains the wonderful variety of the natural world as](https://documentaryheaven.com/darwins-struggle-the-evolution-of-the-origin-of-species/ "Darwin’s Struggle: The Evolution of the Origin of Species")
+* [![The Ghostman of Skye](/wp-content/thumbnails/5879-100x70.jpg?x53432)
+    
+    The Ghostman of Skye
+    
+    The Isle of Skye is a place marked out not just by its rugged Scottish beauty, but also by an extraordinarily high number of reports of ghost experiences. Local crofters, churchmen and policemen are a](https://documentaryheaven.com/the-ghostman-of-skye/ "The Ghostman of Skye")
+* [![The Politics of Food: Smokies](/wp-content/thumbnails/9222-100x70.jpg?x53432)
+    
+    The Politics of Food: Smokies
+    
+    In the UK there is a lot of cultural diversity and most of these people try access the food which is traditional to them but often those foods and the ingredients that go into these dishes can be ille](https://documentaryheaven.com/politics-food-smokies/ "The Politics of Food: Smokies")
+* [![How the States Got Their Shapes](/wp-content/thumbnails/5685-100x70.jpg?x53432)
+    
+    How the States Got Their Shapes
+    
+    Every line on the U.S. map tells a story. Every border reflects their history – their struggles for independence, their internal conflicts over states rights and slavery, their westward expansion, and](https://documentaryheaven.com/how-the-states-got-their-shapes/ "How the States Got Their Shapes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
