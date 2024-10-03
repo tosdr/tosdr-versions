@@ -266,13 +266,6 @@ Most Popular
 [PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 2 2024](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man who raped and sexually assaulted 16-year-old schoolgirl jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who raped and sexually assaulted 16-year-old schoolgirl jailed")](https://www.derrynow.com/news/local-news/1620146/derry-man-who-raped-and-sexually-assaulted-16-year-old-schoolgirl-jailed.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -310,19 +303,19 @@ Derry Magistrate's Court
 [Man charged with racist messages about Derry mayor has case adjourned](https://www.derrynow.com/news/local-news/1620045/man-charged-with-racist-messages-about-derry-mayor-has-case-adjourned.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Ballymena man (41) who breached bail warned he could face custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymena man (41) who breached bail warned he could face custody")](https://www.derrynow.com/news/local-news/1620038/ballymena-man-41-who-breached-bail-warnedhe-could-face-custody.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Ballymena man (41) who breached bail warned he could face custody](https://www.derrynow.com/news/local-news/1620038/ballymena-man-41-who-breached-bail-warnedhe-could-face-custody.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry tech entrepreneur named finalist for 'Catalyst for Change Award' at INVENT 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry tech entrepreneur named finalist for 'Catalyst for Change Award' at INVENT 2024")](https://www.derrynow.com/news/business/1619138/derry-tech-entrepreneur-named-finalist-for-catalyst-for-change-award-at-invent-2024.html)
-
-[Business](https://www.derrynow.com/section/1339/business)
-
-[Derry tech entrepreneur named finalist for 'Catalyst for Change Award' at INVENT 2024](https://www.derrynow.com/news/business/1619138/derry-tech-entrepreneur-named-finalist-for-catalyst-for-change-award-at-invent-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
 
@@ -332,6 +325,13 @@ Author of ‘Cityview - 30 years of Missing A-Z Interviews’, Andrew Cassidy.
 
 [New book tracks down Derry City legends from all over the world](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+
+[Home](https://www.derrynow.com/)
+
+[Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,14 +509,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+[![Derry woman is the face of new breast cancer awareness campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman is the face of new breast cancer awareness campaign")](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
+
+Hive Cancer Support member Theresa Kelly pictured centre at the launch of the new Hive Cancer Support Breast Cancer Awareness campaign at the back of Free Derry Corner.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman is the face of new breast cancer awareness campaign](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/resizer/165/93/true/2024_10_02/Untitled_design-1727883033439.png--.png?1727883033554 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
 
 [Home](https://www.derrynow.com/)
 
 [Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Executive gives green light to A5 upgrade on ‘momentous’ day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Executive gives green light to A5 upgrade on ‘momentous’ day")](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
+[![Executive gives green light to A5 upgrade on ‘momentous’ day](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_02/1727893501904_0.jpg--.jpg?1727893501992 "Executive gives green light to A5 upgrade on ‘momentous’ day")](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -538,22 +554,6 @@ Staff who were recognised for their service.
 
 [O’Neill says internal Sinn Fein inquiry into McMonagle issues ‘not required’](https://www.derrynow.com/news/local-news/1620484/oneill-says-internal-sinn-fein-inquiry-into-mcmonagle-issues-not-required.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![O’Neill confident she took ‘correct action’ over McMonagle](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_02/1727881524707_0.jpg--.jpg?1727881524803 "O’Neill confident she took ‘correct action’ over McMonagle")](https://www.derrynow.com/news/local-news/1620469/oneill-confident-she-took-correct-action-over-mcmonagle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[O’Neill confident she took ‘correct action’ over McMonagle](https://www.derrynow.com/news/local-news/1620469/oneill-confident-she-took-correct-action-over-mcmonagle.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Autumn brings a captivating events programme to Seamus Heaney HomePlace](https://www.derrynow.com/resizer/165/93/true/2024_10_02/Frances_-30-1727873617831_1727873692.jpg--.jpg?1727873692084 "Autumn brings a captivating events programme to Seamus Heaney HomePlace")](https://www.derrynow.com/news/what-s-on/1620133/autumn-brings-a-captivating-events-programme-to-seamus-heaney-homeplace.html)
-
-The legendary Irish singer, Frances Black, will perform in Bellaghy.
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Autumn brings a captivating events programme to Seamus Heaney HomePlace](https://www.derrynow.com/news/what-s-on/1620133/autumn-brings-a-captivating-events-programme-to-seamus-heaney-homeplace.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
