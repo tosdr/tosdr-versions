@@ -109,7 +109,7 @@ Close Menu
     * [Rolex Watches for Women](https://www.bobswatches.com/rolex/watches-womens)
     * [OMEGA Watches for Women](https://www.bobswatches.com/omega/womens)
 * [Accessories](https://www.bobswatches.com/accessories/)
-* [Auctions](https://www.bobswatches.com/auctions/)
+* [Auctions](https://www.bobswatches.com/auctions)
 
 * * *
 
@@ -396,7 +396,7 @@ MON - FRI 9AM - 5PM (EST)
 * [Authenticity Pledge](https://www.bobswatches.com/authenticity-pledge)
 * [Buyers Protection Plan](https://www.bobswatches.com/bobs-buyers-protection-plan)
 * [Locations](https://www.bobswatches.com/usa)
-* [Testimonial Reviews](https://www.bobswatches.com/reviews)
+* [Testimonial Reviews](https://www.bobswatches.com/bobs-watches-reviews-and-testimonials)
 
 **Shipping & Returns**
 
