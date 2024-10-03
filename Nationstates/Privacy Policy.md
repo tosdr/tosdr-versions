@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Genocide in Artsakh one year on (119)](https://forum.nationstates.net/viewtopic.php?t=556128&f=20&view=unread#unread ""Genocide in Artsakh one year on" (119 posts)")
-* [YN's soldier describes life as a POW… (53)](https://forum.nationstates.net/viewtopic.php?t=556011&f=25&view=unread#unread ""YN's soldier describes life as a POW under AN's captivity." (53 posts)")
-* [UK Politics Thread: Conservative Lead… (11,299)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,299 posts)")
-* [The Mutual Cooperation Pact (IC Assem… (58)](https://forum.nationstates.net/viewtopic.php?t=555739&f=5&view=unread#unread ""The Mutual Cooperation Pact (IC Assembly)" (58 posts)")
+* [Best NS Player of October 2024!!! (110)](https://forum.nationstates.net/viewtopic.php?t=556296&f=25&view=unread#unread ""Best NS Player of October 2024!!!" (110 posts)")
+* [UK Politics Thread: Conservative Lead… (11,306)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,306 posts)")
+* [Make a meme about AN (revival) (5)](https://forum.nationstates.net/viewtopic.php?t=556397&f=25&view=unread#unread ""Make a meme about AN (revival)" (5 posts)")
+* [Based on AN flag, what do they export… (432)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (432 posts)")
+* [.::The List of National Capitals::. (7,642)](https://forum.nationstates.net/viewtopic.php?t=191905&f=23&view=unread#unread "".::The List of National Capitals::." (7,642 posts)")
 
 Advertisement
 
