@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Study reveals that tackling periodontal diseases i ![Study reveals that tackling periodontal diseases in patients with diabetes demands a dual approach: effective dental treatment coupled with proactive diabetes management. By fostering collaboration between medical and dental professionals from the outset, the onset and progression of periodontal diseases can be mitigated in those living with diabetes. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAoEGebNU5k/) 
+
 [Proper peri-implant maintenance is essential for p ![Proper peri-implant maintenance is essential for preventing and managing common biological and mechanical complications. Link in bio.⁠
 ⁠
 ⁠
@@ -220,13 +227,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAbMJ0BMSWr/) 
-
-[The mouth is home to a bustling ecosystem where ba ![The mouth is home to a bustling ecosystem where bacteria such as Corynebacterium matruchotii divide in extraordinary ways. New research reveals how these bacteria not only multiply but also shape the complex structure of dental plaque, providing insights into the intricate world of the human microbiome. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAYgdizteUq/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
