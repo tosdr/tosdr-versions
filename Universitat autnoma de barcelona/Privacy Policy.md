@@ -88,7 +88,7 @@ Web map
     * [Research calls portal](https://portalajuts.uab.cat/)
     * [EGRETA: UAB research output](https://www.uab.cat/web/research/itineraries/research-management/egreta-1345831017218.html)
     * [Knowledge transfer and innovation](https://www.uab.cat/web/research/itineraries/innovation-and-knowledge-transfer/knowledge-transfer-and-innovation-1345911792519.html "Innovation, knowledge transfer & business")
-    * [SCT services](https://www.uab.cat/web/research/scientific-technical-services/scientific-and-technical-services--1345667278676.html)
+    * [Scientific and technical services](https://www.uab.cat/web/research/itineraries/innovation-and-knowledge-transfer/scientific-technical-services/scientific-and-technical-services--1345667278676.html)
 * [International](#)
     * [Mobility & International Exchange](https://www.uab.cat/web/mobility-international-exchange-1345680336097.html)
     * [Academic Offer in English](https://www.uab.cat/web/international/academic-offer-in-english-1345839089227.html)
