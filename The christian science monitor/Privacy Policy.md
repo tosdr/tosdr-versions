@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Justice
+
+### Transgender rights, ghost guns – and an election? The Supreme Court returns.](https://www.csmonitor.com/USA/Justice/2024/1003/supreme-court-transgender-rights-ghost-guns-election-2024 "Transgender rights, ghost guns – and an election? The Supreme Court returns.")
+
 [Safety
 
 ### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
@@ -99,10 +103,6 @@ Recent Stories
 [Community
 
 ### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
-
-[Respect
-
-### Civility’s art of listening](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1002/Civility-s-art-of-listening "Civility’s art of listening")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### The renewable energy of bike-powered French children and a battery-powered Melbourne](https://www.csmonitor.com/World/Points-of-Progress/2024/1003/Melbourne-Australia-battery-France-school-bike "The renewable energy of bike-powered French children and a battery-powered Melbourne")
+
+[### Transgender rights, ghost guns – and an election? The Supreme Court returns.](https://www.csmonitor.com/USA/Justice/2024/1003/supreme-court-transgender-rights-ghost-guns-election-2024 "Transgender rights, ghost guns – and an election? The Supreme Court returns.")
+
 [### Fueling Israel-Iran escalation: Dangerous parallel universes](https://www.csmonitor.com/World/Middle-East/2024/1002/iran-israel-lebanon-hezbollah-missiles-deterrence "Fueling Israel-Iran escalation: Dangerous parallel universes")
-
-[### Her power in Poland came accidentally. She kept it with stamina – and Facebook.](https://www.csmonitor.com/World/Europe/2024/1002/influencer-Ewa-Letowska-Poland-democracy-Facebook "Her power in Poland came accidentally. She kept it with stamina – and Facebook.")
-
-[### How a front-line husband-and-wife reporting team gets the news out in Ukraine](https://www.csmonitor.com/World/Europe/2024/1002/ukraine-war-russia-news-sumy "How a front-line husband-and-wife reporting team gets the news out in Ukraine")
 
 * * *
 
