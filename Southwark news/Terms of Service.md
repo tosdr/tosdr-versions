@@ -226,11 +226,11 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
-[![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+[![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
 
-### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
 
-[1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+[1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
 
 ### Featured Articles
 
