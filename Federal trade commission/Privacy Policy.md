@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct02
+    Oct03
     
-    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Bedoya’s Office and NCTA](https://www.ftc.gov/news-events/events/2024/10/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-bedoyas-office-ncta)
+    ### [Chair Lina M. Khan speaker at a listening session on healthcare](https://www.ftc.gov/news-events/events/2024/10/chair-lina-m-khan-speaker-listening-session-healthcare)
     
-    Wednesday, October 2, 2024 | 10:00AM
+    Thursday, October 3, 2024 | 9:30AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
