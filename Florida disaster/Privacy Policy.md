@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, October 2, 2024**
+**Thursday, October 3, 2024**
 
-**...Similar Conditions to Yesterday...Mostly Dry Conditions Throughout Panhandle and Big Bend; Spotty Showers and Thunderstorms Possible Along Eastern Big Bend and Suwannee Valley this Afternoon...Scattered to Numerous Showers and Thunderstorms Across the Peninsula, Especially Central Florida...Localized Flooding Possible With Additional Heavy Downpours Over Saturated Grounds...Heat Index Values in Middle to Upper 90s and Triple Digits Throughout Eastern Big Bend and Peninsula...Patchy to Locally Dense Fog Possible Overnight and Early Thursday Morning...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor Flooding Ongoing or Forecast for Apalachicola, Ochlockonee and Withlacoochee Rivers...Moderate Risk for Rip Currents Continues Nearly Statewide...Atlantic Basin Remains Active with Two (1) Named/Numbered Systems and Monitoring One (1) Disturbance...**
+**...Increasing Rain Chances Along Panhandle Throughout teh Day After Days of Mostly Dry Conditions...Scattered to Numerous Showers and Thunderstorms Across the Peninsula, Especially Central Florida...Localized Flooding Possible With Additional Heavy Downpours Over Saturated Grounds...Heat Index Values in Middle to Upper 90s and Triple Digits Throughout Eastern Big Bend and Peninsula...Patchy to Locally Dense Fog Possible Overnight and Early Friday Morning Along Suwannee River Valley...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor Flooding Ongoing or Forecast for Apalachicola, Ochlockonee and Withlacoochee Rivers...Moderate Risk for Rip Currents Continues Nearly Statewide...Atlantic Basin Remains Active with Two (2) Named Systems and Monitoring One (1) Disturbance...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
