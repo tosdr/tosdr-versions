@@ -39,7 +39,6 @@
     * [ALA logo and identity](https://www.ala.org.au/ala-logo-and-identity/ "ALA logo and identity")
     * [Biosecurity Hub](https://www.ala.org.au/biosecurity "Biosecurity Hub")
     * [Data Mobilisation Program](https://www.ala.org.au/abdmp/ "Data Mobilisation Program")
-    * [Education Resources](https://www.ala.org.au/education-resources/ "Education Resources")
     * [ALA Labs](https://labs.ala.org.au/ "ALA Labs")
 * [About](# "About")
     * [About us](https://www.ala.org.au/about-ala/ "About us")
@@ -225,7 +224,6 @@ Visualise and analyse relationships between species, location and environment.
     * [ALA logo and identity](https://www.ala.org.au/ala-logo-and-identity/ "ALA logo and identity")
     * [Biosecurity Hub](https://www.ala.org.au/biosecurity "Biosecurity Hub")
     * [Data Mobilisation Program](https://www.ala.org.au/abdmp/ "Data Mobilisation Program")
-    * [Education Resources](https://www.ala.org.au/education-resources/ "Education Resources")
     * [ALA Labs](https://labs.ala.org.au/ "ALA Labs")
 
 * [About](https://www.ala.org.au/about-ala/ "About")
