@@ -1,4 +1,4 @@
-[Next-Gen Innovation: See how we’re transforming metadata-driven data access](https://hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story?utm_campaign=2024-10-wb-fed-hasura-v2-to-ddn&utm_source=website&utm_medium=referral&utm_content=top-cta)
+[Hasura Data Delivery Network is now GA - Read the release blog](https://hasura.io/blog/launching-hasura-ddn)
 
 [![Hasura Logo](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
