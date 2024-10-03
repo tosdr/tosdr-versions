@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are 1,100,086 words in the entire “Harry Potter” series.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-September 22, 2008 – Scholastic announces that Harry Potter and the Deathly Hallows will be released in paperback on July 7, 2009.
+March 24, 2010 – Universal announces that the Wizarding World of Harry Potter will open on June 18.
 
 ### Potter Quote
 
-“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
