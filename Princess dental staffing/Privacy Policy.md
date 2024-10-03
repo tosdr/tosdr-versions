@@ -29,7 +29,7 @@ Privacy Policy
 
 * * *
 
-_Last updated: September 21, 2024_
+_Last updated: October 03, 2024_
 
 Princess Dental Staffing offers various services to help its users find dental staff and coordinate dental employment opportunities in the dental community. Princess Dental Staffing’s Privacy Policy ("Privacy Policy") is designed to explain the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of [www.PrincessDentalStaffing.com](https://www.princessdentalstaffing.com/) and any web pages, mobile applications and mobile websites operated by Princess Dental Staffing (collectively, the "Site"), including those who are seeking to find dental professionals through Princess Dental Staffing ("Employers") as well as those who are looking to promote their profiles through Princess Dental Staffing ("Candidates"), and any users of any of the various services that Princess Dental Staffing or its subsidiaries provide through the Site or any other channels, including over the telephone (collectively, "Services"). Please note that certain of our subsidiaries have separate privacy policies.
 
@@ -503,7 +503,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-281440)
+Don’t have an account? [Sign up](#sign-up-524357)
 
 Sign up for an account
 
@@ -521,7 +521,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-281440)
+Already have an account? [Sign in](#sign-in-524357)
 
 Log in to your account
 
@@ -541,7 +541,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-769636)
+Don’t have an account? [Sign up](#sign-up-277549)
 
 Sign up for an account
 
@@ -559,7 +559,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-769636)
+Already have an account? [Sign in](#sign-in-277549)
 
 Success
 
