@@ -1,7 +1,8 @@
-Wednesday, October 2 2024
+Thursday, October 3 2024
 
 Breaking News
 
+* [Israel Reportedly Warned Iran It Would Strike Nuclear Sites If It Was Attacked](https://www.conservativedailynews.com/2024/10/israel-reportedly-warned-iran-it-would-strike-nuclear-sites-if-it-was-attacked/)
 * [Ex-Federal Prosecutor Says He’s ‘Pretty Much Given Up Hope’ That Trump Will Be ‘Detained’ Before Election](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
 * [Trump Has Caused Seismic Shift Among Blue Collar Voters](https://www.conservativedailynews.com/2024/10/trump-has-caused-seismic-shift-among-blue-collar-voters/)
 * [The Worst Thing A Politician Can Say](https://www.conservativedailynews.com/2024/10/the-worst-thing-a-politician-can-say/)
@@ -9,7 +10,6 @@ Breaking News
 * [New Democrat Campaign Strategy:  Nothingness](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
 * [President Joe Biden’s Schedule for Wednesday, October 2, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
 * [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
-* [Democrats Funded Likely Illegal Efforts to Steal High-Stakes Elections](https://www.conservativedailynews.com/2024/10/democrats-funded-likely-illegal-efforts-to-steal-high-stakes-elections/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,24 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Biden iran](https://www.conservativedailynews.com/wp-content/uploads/2024/02/stg020124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-reportedly-warned-iran-it-would-strike-nuclear-sites-if-it-was-attacked/)
+    
+    [Israel Reportedly Warned Iran It Would Strike Nuclear Sites If It Was Attacked](https://www.conservativedailynews.com/2024/10/israel-reportedly-warned-iran-it-would-strike-nuclear-sites-if-it-was-attacked/)
+    
+    October 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/the-power-of-victory/)
+    
+    [The Power of Victory](https://www.conservativedailynews.com/2024/10/the-power-of-victory/)
+    
+    October 2, 2024
+    
+* [![J.D. Vance Tim Walz 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/01-vance-debate-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/simply-put/)
+    
+    [Simply Put](https://www.conservativedailynews.com/2024/10/simply-put/)
+    
+    October 2, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/Donald-Trump-mugshot-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
     
     [Ex-Federal Prosecutor Says He’s ‘Pretty Much Given Up Hope’ That Trump Will Be ‘Detained’ Before Election](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
@@ -156,27 +174,11 @@ Recent Posts
     
     October 2, 2024
     
-* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
-    
-    [New Democrat Campaign Strategy:  Nothingness](https://www.conservativedailynews.com/2024/10/new-democrat-campaign-strategy-nothingness/)
-    
-    October 2, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/04/images-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, October 2, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-octobber-2-2024/)
-    
-    October 2, 2024
-    
-* [![Tim Walz liar](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
-    
-    [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
-    
-    October 2, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The History of PKM, the Most Common Machine Gun in the World (Part 2)](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-2/10610958)
+* [POTD: The M9 Service Pistol](https://www.thegunpage.com/potd-the-m9-service-pistol/10610959)
 * [Who’s Your Gun Daddy? The Republicans Have It Hands Down](https://www.thegunpage.com/whos-your-gun-daddy-the-republicans-have-it-hands-down/10610955)
 * [Massachusetts Governor Healey Subverts Democratic Process And The Second Amendment](https://www.thegunpage.com/massachusetts-governor-healey-subverts-democratic-process-and-the-second-amendment/10610947)
 * [Coming Soon! Mantis AK-47 Blackbeard Laser Dry Fire System](https://www.thegunpage.com/coming-soon-mantis-ak-47-blackbeard-laser-dry-fire-system/10610951)
@@ -185,8 +187,6 @@ Recent Posts
 * [JK Armament's New "Do-It-All" 155 G.O.A.T. HF 5.56mm Suppressor](https://www.thegunpage.com/jk-armaments-new-do-it-all-155-g-o-a-t-hf-5-56mm-suppressor/10610941)
 * [Gun-Rights Groups Join To Battle Lifetime 2A Ban For Nonviolent Offenders](https://www.thegunpage.com/gun-rights-groups-join-to-battle-lifetime-2a-ban-for-nonviolent-offenders/10610939)
 * [Kimber's New R7 Mako Carbon Compact – Optic Ready & Suppressor Ready](https://www.thegunpage.com/kimbers-new-r7-mako-carbon-compact-optic-ready-suppressor-ready/10610942)
-* [Florida police chief learns hard lesson, un-bans guns and ammo](https://www.thegunpage.com/florida-police-chief-learns-hard-lesson-un-bans-guns-and-ammo/10610936)
-* [Vance, Walz Tackle Issue of Gun Violence During VP Debate](https://www.thegunpage.com/vance-walz-tackle-issue-of-gun-violence-during-vp-debate/10610933)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
