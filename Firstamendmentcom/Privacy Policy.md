@@ -296,11 +296,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[25 Sep](https://twitter.com/walterslawgroup/status/1838743196811358455)
+[27 Sep](https://twitter.com/walterslawgroup/status/1839727136199913966)
 
-U.S. House Revives Controversial KOSA in 2.0 Version
+Happening now.
 
-[Reply on Twitter 1838743196811358455](https://twitter.com/intent/tweet?in_reply_to=1838743196811358455&related=walterslawgroup) [Retweet on Twitter 1838743196811358455](https://twitter.com/intent/retweet?tweet_id=1838743196811358455&related=walterslawgroup) [Like on Twitter 1838743196811358455](https://twitter.com/intent/like?tweet_id=1838743196811358455&related=walterslawgroup) [Twitter 1838743196811358455](https://twitter.com/walterslawgroup/status/1838743196811358455)
+[Reply on Twitter 1839727136199913966](https://twitter.com/intent/tweet?in_reply_to=1839727136199913966&related=walterslawgroup) [Retweet on Twitter 1839727136199913966](https://twitter.com/intent/retweet?tweet_id=1839727136199913966&related=walterslawgroup) [Like on Twitter 1839727136199913966 2](https://twitter.com/intent/like?tweet_id=1839727136199913966&related=walterslawgroup) [Twitter 1839727136199913966](https://twitter.com/walterslawgroup/status/1839727136199913966)
 
 [Load More](javascript:void(0);)
 
