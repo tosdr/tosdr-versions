@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_360x203.jpg)](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52/20241003T023441/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52/20241003T023441/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52_360x203.jpg)](https://www.wqad.com/article/news/local/bettendorf-healthiest-state-walk-encouraging-residents-to-get-active/526-64b3ab74-4c68-4916-b454-8bbd6e0c92f0)
         
-        #### [Genesis Health System is now MercyOne Genesis](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673) [![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e440c542-68c9-40c8-86fa-a9eddff13f76/20241002T200927/e440c542-68c9-40c8-86fa-a9eddff13f76_360x203.jpg)](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
+        #### [Bettendorf families get moving at 14th annual Healthiest State Walk](https://www.wqad.com/article/news/local/bettendorf-healthiest-state-walk-encouraging-residents-to-get-active/526-64b3ab74-4c68-4916-b454-8bbd6e0c92f0)
         
-        #### [Quad Cities-based health system rebrands to MercyOne Genesis](https://www.wqad.com/article/news/local/genesis-health-davenport-renamed-mercyone-genesis/526-bb03cbc6-8749-4e43-b3af-07adefef9673)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/sterling-fire-domestic-marshall/526-ecf49f6c-0209-442a-86bd-1330d17c3a80)
+    *  [![](https://media.tegna-media.com/assets/WGRZ/images/a9964db7-dfb0-460f-8905-9d9cdec2e92b/20240927T211744/a9964db7-dfb0-460f-8905-9d9cdec2e92b_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/a9964db7-dfb0-460f-8905-9d9cdec2e92b/20240927T211744/a9964db7-dfb0-460f-8905-9d9cdec2e92b_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/traffic-safety-quad-cities-muscatine-kewanee-public-input-wanted/526-943cbc5f-5542-4de9-81a4-7fd6616dfbee)
         
-        #### [Sterling man suspected of arson after police respond to domestic battery call](https://www.wqad.com/article/news/local/public-safety/sterling-fire-domestic-marshall/526-ecf49f6c-0209-442a-86bd-1330d17c3a80)
+        #### [Study hoping to improve traffic safety in the Quad Cities area: Here's how you can participate](https://www.wqad.com/article/news/local/public-safety/traffic-safety-quad-cities-muscatine-kewanee-public-input-wanted/526-943cbc5f-5542-4de9-81a4-7fd6616dfbee)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WOI/images/b9a634fd-76e5-48f8-8162-c717f0be7b7f/b9a634fd-76e5-48f8-8162-c717f0be7b7f_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/b9a634fd-76e5-48f8-8162-c717f0be7b7f/b9a634fd-76e5-48f8-8162-c717f0be7b7f_360x203.jpg)](https://www.wqad.com/article/news/agriculture/dry-spell-in-iowa-impacting-harvest-dry-drought-fire-feild-weather-farming-rain-iowa-secretary-of-agriculture/524-45cee346-d733-4996-8ca9-ee6dcc9bf9a1)
+        
+        #### [Iowa soybean farmers working to tackle the statewide dry spell, worries of fire](https://www.wqad.com/article/news/agriculture/dry-spell-in-iowa-impacting-harvest-dry-drought-fire-feild-weather-farming-rain-iowa-secretary-of-agriculture/524-45cee346-d733-4996-8ca9-ee6dcc9bf9a1)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [More temperature swings through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_360x203.jpg)](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
-        
-        #### [What to expect this upcoming winter 2024-2025](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-70°
+57°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
