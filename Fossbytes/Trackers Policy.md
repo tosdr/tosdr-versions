@@ -7,6 +7,7 @@
 * [Explained](https://fossbytes.com/category/more/what-is/)
 * [Reviews](https://fossbytes.com/category/reviews/)
 * [Sponsored](https://fossbytes.com/category/sponsored/)
+* [Stories](https://fossbytes.com/web-stories/)
 
 Search
 
@@ -73,6 +74,7 @@ Hopefully that has clarified things for you and as was previously mentioned if t
 * [Explained](https://fossbytes.com/category/more/what-is/)
 * [Reviews](https://fossbytes.com/category/reviews/)
 * [Sponsored](https://fossbytes.com/category/sponsored/)
+* [Stories](https://fossbytes.com/web-stories/)
 
 Search
 
