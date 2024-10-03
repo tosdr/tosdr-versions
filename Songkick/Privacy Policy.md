@@ -5,8 +5,6 @@
         
         *  [![Primus Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Primus  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42175406-primus-at-pnc-bank-arts-center)
-        *  [![Shakey Graves Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Shakey Graves  
-            White Eagle Hall](https://www.songkick.com/concerts/42187024-shakey-graves-at-white-eagle-hall)
         *  [![Thomas Rhett Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Thomas Rhett  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42175592-thomas-rhett-at-pnc-bank-arts-center)
         *  [![Hindsight Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Hindsight  
