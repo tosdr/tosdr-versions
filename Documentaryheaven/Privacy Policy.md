@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Las Calles Hablan](/wp-content/thumbnails/7129-100x70.png?x53432)
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    Las Calles Hablan
+    EP 4/6 The Private Life of Plants
     
-    Las Calles Hablan is a feature length documentary film about street art in Barcelona. Until now there hasn't been a definitive film made in Barcelona which explores the history, motivation, politics a](https://documentaryheaven.com/las-calles-hablan/ "Las Calles Hablan")
-* [![Future Weapons: Future Combat S2/E12](/wp-content/thumbnails/1895-100x70.jpg?x53432)
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    Future Weapons: Future Combat S2/E12
+    Pedigree Dogs Exposed
     
-    In this episode of Future Weapons Richard shows us the Active Denial System, a non-lethal way of protecting troops, the Crusher unmanned ground combat vehicle, and the US Army's Future Combat Systems](https://documentaryheaven.com/future-weapons-future-combat-s2e12/ "Future Weapons: Future Combat S2/E12")
-* [![Finding Paul Miller](/wp-content/thumbnails/7078-100x70.jpg?x53432)
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+* [![The 9/11 Decade](/wp-content/thumbnails/6447-100x70.png?x53432)
     
-    Finding Paul Miller
+    The 9/11 Decade
     
-    "I was wrong.One year ago I left the internet. I thought it was making me unproductive. I thought it lacked meaning. I thought it was "corrupting my soul."It's a been a year now since I "surfed th](https://documentaryheaven.com/finding-paul-miller/ "Finding Paul Miller")
-* [![IRL – In Real Life](/wp-content/thumbnails/6431-100x70.jpg?x53432)
+    Immediately after 9/11, the US announced that the gloves were coming off in the fight against al-Qaeda. In the first of three films on the aftermath of 9/11, we examine the highs and lows of the inte](https://documentaryheaven.com/the-911-decade/ "The 9/11 Decade")
+* [![Nuremberg: Nazis on Trial EP1/3](/wp-content/thumbnails/4724-100x70.png?x53432)
     
-    IRL – In Real Life
+    Nuremberg: Nazis on Trial EP1/3
     
-    “IRL – In Real Life” is a short, light-hearted documentary, which takes a look at the effects of World of Warcraft addiction/compulsion.It was produced as part of a 3rd Year Film Production projec](https://documentaryheaven.com/irl-in-real-life/ "IRL – In Real Life")
-* [![Ben: Diary Of A Heroin Addict](/wp-content/thumbnails/3227-100x70.jpg?x53432)
+    Episode 1: Albert Speer In November 1945, in the German city of Nuremberg, the victors of the World War Two began the first international war crimes trial. The choice of the city was significant for i](https://documentaryheaven.com/nuremberg-nazis-on-trial-1/ "Nuremberg: Nazis on Trial EP1/3")
+* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
     
-    Ben: Diary Of A Heroin Addict
+    Wired: South Korea
     
-    As a bright schoolboy from a loving, middle-class family Ben Rogers was expected to make a success of his life. Raised in a quiet, picturesque village Ben was a Boy Scout, loved cricket, played in](https://documentaryheaven.com/ben-diary-of-a-heroin-addict/ "Ben: Diary Of A Heroin Addict")
+    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
