@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, October 2 2024
+Thursday, October 3 2024
 
 Latest
 
-* [How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
-* [GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
-* [I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
-* [Fake browser updates spread updated WarmCookie malware](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
-* [FCC is offering $200 million to protect schools and libraries from hackers](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
-* [Joker 2 Review: An Off-Key Musical Disaster](https://digitpatrox.com/joker-2-review-an-off-key-musical-disaster/)
-* [How It Works and Key Services Explained 2024](https://digitpatrox.com/how-it-works-and-key-services-explained-2024/)
-* [BT launches Global Fabric, a new AI-ready network as a service platform](https://digitpatrox.com/bt-launches-global-fabric-a-new-ai-ready-network-as-a-service-platform/)
-* [What to expect from Apple this October and beyond – Computerworld](https://digitpatrox.com/what-to-expect-from-apple-this-october-and-beyond-computerworld/)
-* [That Amazon ‘Deal’ Might Actually Be a Hidden Price Hike](https://digitpatrox.com/that-amazon-deal-might-actually-be-a-hidden-price-hike/)
+* [How to upgrade to Windows 11 24H2](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
+* [100 Calories of Halloween Candy | Portion Control](https://digitpatrox.com/100-calories-of-halloween-candy-portion-control/)
+* [Amazon Prime Video Is Piling on Even More Ads](https://digitpatrox.com/amazon-prime-video-is-piling-on-even-more-ads/)
+* [NetApp lands its ‘intelligent data infrastructure’ rebrand at Insight 2024](https://digitpatrox.com/netapp-lands-its-intelligent-data-infrastructure-rebrand-at-insight-2024/)
+* [Best ACH Payment Processing for Businesses in 2024](https://digitpatrox.com/best-ach-payment-processing-for-businesses-in-2024/)
+* [NYT Connections today hints and answers — Thursday, October 3 (#480)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-october-3-480/)
+* [FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://digitpatrox.com/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
+* [How to follow live sports scores on your iPhone lockscreen](https://digitpatrox.com/how-to-follow-live-sports-scores-on-your-iphone-lockscreen/)
+* [Charter will offer Peacock for free with some cable subscriptions next year](https://digitpatrox.com/charter-will-offer-peacock-for-free-with-some-cable-subscriptions-next-year/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 3](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-3/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/5RFhni4vXgrHuyV3RmYktg-1200-80.jpg)](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/06/windows-11-24h2-upgarde-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
     
-    [How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+    [How to upgrade to Windows 11 24H2](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
     
-    18 mins ago
+    11 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241002-generative-ai-eu-economy-google.jpg)](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1632320200/prod/content/dam/CRO-Images-2021/Home/09Sept/CR-Health-InlineHero-100-Calories-Halloween-Candy-0921)](https://digitpatrox.com/100-calories-of-halloween-candy-portion-control/)
     
-    [GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
+    [100 Calories of Halloween Candy | Portion Control](https://digitpatrox.com/100-calories-of-halloween-candy-portion-control/)
+    
+    20 mins ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/38-1.jpg)](https://digitpatrox.com/amazon-prime-video-is-piling-on-even-more-ads/)
+    
+    [Amazon Prime Video Is Piling on Even More Ads](https://digitpatrox.com/amazon-prime-video-is-piling-on-even-more-ads/)
     
     22 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/VzBhkSUDZ9d3Af9EWst2KY-1200-80.jpg)](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
+* [![](https://cdn.mos.cms.futurecdn.net/CnYPwGZASsM4DBkmxL9Mpk-1200-80.jpg)](https://digitpatrox.com/netapp-lands-its-intelligent-data-infrastructure-rebrand-at-insight-2024/)
     
-    [I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
-    
-    38 mins ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/02/Cookies.jpg)](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
-    
-    [Fake browser updates spread updated WarmCookie malware](https://digitpatrox.com/fake-browser-updates-spread-updated-warmcookie-malware/)
+    [NetApp lands its ‘intelligent data infrastructure’ rebrand at Insight 2024](https://digitpatrox.com/netapp-lands-its-intelligent-data-infrastructure-rebrand-at-insight-2024/)
     
     1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/hWvUxuvUt5W7VoHsfV7ZDY3S9Q0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23262657/VRG_Illo_STK001_B_Sala_Hacker.jpg)](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/AdobeStock_444029450.jpg)](https://digitpatrox.com/best-ach-payment-processing-for-businesses-in-2024/)
     
-    [FCC is offering $200 million to protect schools and libraries from hackers](https://digitpatrox.com/fcc-is-offering-200-million-to-protect-schools-and-libraries-from-hackers/)
+    [Best ACH Payment Processing for Businesses in 2024](https://digitpatrox.com/best-ach-payment-processing-for-businesses-in-2024/)
     
     1 hour ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [11 mins ago
     
-    ### How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+    ### How to upgrade to Windows 11 24H2](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
+* [20 mins ago
+    
+    ### 100 Calories of Halloween Candy | Portion Control](https://digitpatrox.com/100-calories-of-halloween-candy-portion-control/)
 * [22 mins ago
     
-    ### GenAI Could Add €1.4 Trillion to the EU’s GDP by 2034](https://digitpatrox.com/genai-could-add-e1-4-trillion-to-the-eus-gdp-by-2034/)
-* [38 mins ago
-    
-    ### I watched all of Netflix’s ‘Monsters: The Lyle and Erik Menendez Story’ — and I have regrets](https://digitpatrox.com/i-watched-all-of-netflixs-monsters-the-lyle-and-erik-menendez-story-and-i-have-regrets/)
+    ### Amazon Prime Video Is Piling on Even More Ads](https://digitpatrox.com/amazon-prime-video-is-piling-on-even-more-ads/)
 
 Most Popular Topics
 
-* [August 26, 2024
+* [2 days ago
     
-    ### Best Pressure Washers of 2024](https://digitpatrox.com/best-pressure-washers-of-2024/)
-* [August 28, 2024
+    ### Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+* [August 12, 2024
     
-    ### NYT Connections Today: Hints and Answers for August 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-28-2024/)
-* [2 weeks ago
+    ### The 5 Best Retail POS Systems for 2024](https://digitpatrox.com/the-5-best-retail-pos-systems-for-2024/)
+* [August 13, 2024
     
-    ### Boruto Two Blue Vortex Chapter 14: A New God Tree Antagonist Has Emerged](https://digitpatrox.com/boruto-two-blue-vortex-chapter-14-a-new-god-tree-antagonist-has-emerged/)
+    ### Google Pixel 9, Pixel 9 Pro and Pixel 9 Pro Fold Revealed](https://digitpatrox.com/google-pixel-9-pixel-9-pro-and-pixel-9-pro-fold-revealed/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [2 hours ago
     
-    ### How It Works and Key Services Explained 2024](https://digitpatrox.com/how-it-works-and-key-services-explained-2024/)
-* [3 hours ago
+    ### FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://digitpatrox.com/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
+* [2 hours ago
     
-    ### BT launches Global Fabric, a new AI-ready network as a service platform](https://digitpatrox.com/bt-launches-global-fabric-a-new-ai-ready-network-as-a-service-platform/)
-* [3 hours ago
+    ### How to follow live sports scores on your iPhone lockscreen](https://digitpatrox.com/how-to-follow-live-sports-scores-on-your-iphone-lockscreen/)
+* [2 hours ago
     
-    ### What to expect from Apple this October and beyond – Computerworld](https://digitpatrox.com/what-to-expect-from-apple-this-october-and-beyond-computerworld/)
+    ### Charter will offer Peacock for free with some cable subscriptions next year](https://digitpatrox.com/charter-will-offer-peacock-for-free-with-some-cable-subscriptions-next-year/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
