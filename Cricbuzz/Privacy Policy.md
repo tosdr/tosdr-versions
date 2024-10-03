@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93657/rsa-vs-ire-1st-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 1st ODI - RSA Won")[GAW vs SLK - Preview](https://www.cricbuzz.com/live-cricket-scores/92950/gaw-vs-slk-qualifier-1-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Qualifier 1 - Preview")[PAKW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94550/pakw-vs-slw-2nd-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Sri Lanka Women, 2nd Match, Group A - Preview")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")[BANW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94541/banw-vs-scow-1st-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v Scotland Women, 1st Match, Group B - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SLK vs GAW - Live](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-caribbean-premier-league-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - Live")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93657/rsa-vs-ire-1st-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 1st ODI - RSA Won")[PAKW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94550/pakw-vs-slw-2nd-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Sri Lanka Women, 2nd Match, Group A - Preview")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")[BANW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94541/banw-vs-scow-1st-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v Scotland Women, 1st Match, Group B - Preview")
 
 AllLive NowToday
 
@@ -96,29 +96,23 @@ AllLive NowToday
     
     10th Match
     
+* [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/102817/idn-vs-jpn-11th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Japan, 11th Match - Upcoming")
+    
+    11th Match
+    
 * Canada Tri-Series 2024
     
-    [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/107715/can-vs-oman-3rd-match-canada-tri-series-2024 "Canada v Oman, 3rd Match - OMAN Won")
-    
-    3rd Match
-    
-* [Nepal vs Canada](https://www.cricbuzz.com/live-cricket-scores/107723/nep-vs-can-4th-match-canada-tri-series-2024 "Nepal v Canada, 4th Match - CAN Won")
+    [Nepal vs Canada](https://www.cricbuzz.com/live-cricket-scores/107723/nep-vs-can-4th-match-canada-tri-series-2024 "Nepal v Canada, 4th Match - CAN Won")
     
     4th Match
     
-* [Nepal vs Oman  LIVE](https://www.cricbuzz.com/live-cricket-scores/107729/nep-vs-oman-5th-match-canada-tri-series-2024 "Nepal v Oman, 5th Match - Live")
+* [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/107729/nep-vs-oman-5th-match-canada-tri-series-2024 "Nepal v Oman, 5th Match - NEP Won")
     
     5th Match
     
 * [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/107731/can-vs-oman-6th-match-canada-tri-series-2024 "Canada v Oman, 6th Match - Upcoming")
     
     6th Match
-    
-* Serbia tour of Gibraltar, 2024
-    
-    [Serbia vs Gibraltar](https://www.cricbuzz.com/live-cricket-scores/108291/srb-vs-gib-2nd-t20i-serbia-tour-of-gibraltar-2024 "Serbia v Gibraltar, 2nd T20I - GIB Won")
-    
-    2nd T20I
     
 * Namibia Tri-Series 2024
     
@@ -142,17 +136,17 @@ AllLive NowToday
     
     Eliminator
     
-* [Guyana Amazon Warriors vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92950/gaw-vs-slk-qualifier-1-cpl-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Qualifier 1 - Preview")
+* [Saint Lucia Kings vs Guyana Amazon Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - Live")
     
     Qualifier 1
     
+* [TBC vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92959/tbc-vs-br-qualifier-2-cpl-2024 "TBC v Barbados Royals, Qualifier 2 - Upcoming")
+    
+    Qualifier 2
+    
 * CSA T20 Challenge
     
-    [North West vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103440/nwest-vs-wpr-8th-match-csa-t20-challenge "North West v Western Province, 8th Match - Upcoming")
-    
-    8th Match
-    
-* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - Upcoming")
+    [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - Upcoming")
     
     7th Match
     
@@ -163,6 +157,10 @@ AllLive NowToday
 * [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-5th-match-csa-t20-challenge "Boland v Knights, 5th Match - Upcoming")
     
     5th Match
+    
+* [North West vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103440/nwest-vs-wpr-8th-match-csa-t20-challenge "North West v Western Province, 8th Match - Upcoming")
+    
+    8th Match
     
 * CSA T20 Knock Out Competition
     
@@ -270,19 +268,23 @@ AllLive NowToday
     
     3rd T20I
     
+* [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107755/jpnw-vs-sinw-4th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 4th T20I - Upcoming")
+    
+    4th T20I
+    
 * ICC Womens T20 World Cup Warm-up Matches
     
-    [New Zealand Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106153/nzw-vs-engw-9th-match-icc-womens-t20-world-cup-warm-up-matches "New Zealand Women v England Women, 9th Match - ENGW Won")
+    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106161/indw-vs-rsaw-10th-match-icc-womens-t20-world-cup-warm-up-matches "India Women v South Africa Women, 10th Match - INDW Won")
+    
+    10th Match
+    
+* [New Zealand Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106153/nzw-vs-engw-9th-match-icc-womens-t20-world-cup-warm-up-matches "New Zealand Women v England Women, 9th Match - ENGW Won")
     
     9th Match
     
 * [Australia Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/108435/ausw-vs-wiw-8th-match-icc-womens-t20-world-cup-warm-up-matches "Australia Women v West Indies Women, 8th Match - AUSW Won")
     
     8th Match
-    
-* [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106161/indw-vs-rsaw-10th-match-icc-womens-t20-world-cup-warm-up-matches "India Women v South Africa Women, 10th Match - INDW Won")
-    
-    10th Match
     
 
 Privacy Policy
@@ -591,41 +593,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131842/indomitable-australia-carry-expectations-on-their-shoulders-and-a-target-on-their-back "Indomitable Australia carry expectations on their shoulders and a target on their back")
+
+[Indomitable Australia carry expectations on their shoulders and a target on their back](https://www.cricbuzz.com/cricket-news/131842/indomitable-australia-carry-expectations-on-their-shoulders-and-a-target-on-their-back "Indomitable Australia carry expectations on their shoulders and a target on their back")
+
+33m ago
+
   [](https://www.cricbuzz.com/cricket-news/131841/captains-call-for-lessons-to-be-learned-from-governance-in-mens-game "Captains call for lessons to be learned from governance in men's game")
 
 [Captains call for lessons to be learned from governance in men's game](https://www.cricbuzz.com/cricket-news/131841/captains-call-for-lessons-to-be-learned-from-governance-in-mens-game "Captains call for lessons to be learned from governance in men's game")
 
-49m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131840/buttler-set-for-white-ball-return-on-tour-of-west-indies "Buttler set for white-ball return on tour of West Indies")
 
 [Buttler set for white-ball return on tour of West Indies](https://www.cricbuzz.com/cricket-news/131840/buttler-set-for-white-ball-return-on-tour-of-west-indies "Buttler set for white-ball return on tour of West Indies")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131839/doubts-arise-over-crickets-inclusion-in-2026-asian-games "Doubts arise over cricket's inclusion in 2026 Asian Games")
 
 [Doubts arise over cricket's inclusion in 2026 Asian Games](https://www.cricbuzz.com/cricket-news/131839/doubts-arise-over-crickets-inclusion-in-2026-asian-games "Doubts arise over cricket's inclusion in 2026 Asian Games")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131838/plucky-sri-lanka-look-to-close-the-gap-to-traditional-heavyweights "Plucky Sri Lanka look to close the gap to traditional heavyweights")
 
 [Plucky Sri Lanka look to close the gap to traditional heavyweights](https://www.cricbuzz.com/cricket-news/131838/plucky-sri-lanka-look-to-close-the-gap-to-traditional-heavyweights "Plucky Sri Lanka look to close the gap to traditional heavyweights")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131837/inexperience-inefficiency-weigh-heavy-on-pakistan-at-the-world-cup "Inexperience, inefficiency weigh heavy on Pakistan at the World Cup")
 
 [Inexperience, inefficiency weigh heavy on Pakistan at the World Cup](https://www.cricbuzz.com/cricket-news/131837/inexperience-inefficiency-weigh-heavy-on-pakistan-at-the-world-cup "Inexperience, inefficiency weigh heavy on Pakistan at the World Cup")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131836/transitioning-south-africa-out-to-be-on-the-right-side-of-the-evolutionary-curve "Transitioning South Africa out to be on the right side of the evolutionary curve")
-
-[Transitioning South Africa out to be on the right side of the evolutionary curve](https://www.cricbuzz.com/cricket-news/131836/transitioning-south-africa-out-to-be-on-the-right-side-of-the-evolutionary-curve "Transitioning South Africa out to be on the right side of the evolutionary curve")
-
-6h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
