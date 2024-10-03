@@ -29,7 +29,7 @@ Check In
 
 Check Out
 
-3 nights selected
+4 nights selected
 
 October 2024
 
@@ -2244,4 +2244,4 @@ USD
 
 © 1999-2024 Hostelworld.com Limited
 
-[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice")[Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal")[Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons")[Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers")[Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing")[Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
+[Data Protection Notice & DSA](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice & DSA")[Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal")[Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons")[Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers")[Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing")[Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
