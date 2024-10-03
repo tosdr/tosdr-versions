@@ -28,7 +28,7 @@ Open menu
     * [Use cases](https://www.ovhcloud.com/en-ie/use-cases/)
     * [Developer Centre](https://www.ovhcloud.com/en-ie/developer-center/)
     * [Learning Centre](https://www.ovhcloud.com/en-ie/learn/)
-    * [Compliance](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/)
+    * [Compliance](https://www.ovhcloud.com/en-ie/compliance/)
     * [Case Studies](https://www.ovhcloud.com/en-ie/case-studies/)
     * [Videos](https://www.ovhcloud.com/en-ie/video/)
     * [Stories](https://www.ovhcloud.com/en-ie/stories/)
@@ -292,13 +292,6 @@ Log in to order, manage your products and services, and track your orders.
             
             * [Microsoft 365](https://www.ovhcloud.com/en-ie/collaborative-tools/microsoft-365/) Your data on Microsoft Word, Excel, Powerpoint and several other tools is secure wherever you are
             * [All our collaborative solutions](https://www.ovhcloud.com/en-ie/collaborative-tools/) Compare all our business collaborative solutions
-    * [CI/CD Web Platform](https://www.ovhcloud.com/en-ie/web-paas/)
-        * Back to menu
-        * [CI/CD Web Platform](https://www.ovhcloud.com/en-ie/web-paas/)
-            
-        * CI/CD Web Platform
-            
-            * [Web Paas](https://www.ovhcloud.com/en-ie/web-paas/) Focus on your code. We’ll take care of the rest.
     * [Essential options](https://www.ovhcloud.com/en-ie/web-hosting/options/)
         * Back to menu
         * [Essential options](https://www.ovhcloud.com/en-ie/web-hosting/options/)
@@ -335,7 +328,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Public Cloud free trial](https://www.ovhcloud.com/en-ie/public-cloud/free-trial/) Test our solutions at no cost
             * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en-ie/public-cloud/why-ovh-public-cloud/) Explore cloud computing solutions to fit your needs
             * [Cloud computing](https://www.ovhcloud.com/en-ie/public-cloud/cloud-computing/) Find out more about this growing practice
-            * [Compliance & Certifications](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/) Explore how OVHcloud builds trusted solutions
+            * [Compliance & Certifications](https://www.ovhcloud.com/en-ie/compliance/) Explore how OVHcloud builds trusted solutions
             * Trusted Zones Deploy your critical data in high-security zones
             * [Availability by region](https://www.ovhcloud.com/en-ie/public-cloud/regions-availability/) Explore our catalogue coverage by region
             * [Local Zone New](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
@@ -529,7 +522,7 @@ Log in to order, manage your products and services, and track your orders.
             * PCI DSS Financial data hosting
             * ISO/IEC 27001, 27017 and 27018 Information Security Management
             * ISO/IEC 27701 Managing the security of personal data processing
-            * [ISO 50001](https://www.ovhcloud.com/en-ie/enterprise/certification-conformity/iso-50001/) Energy management
+            * [ISO 50001](https://www.ovhcloud.com/en-ie/compliance/iso-50001/) Energy management
             * SOC 1, 2 and 3 AICPA SSAE 16/ISAE 3402 type II attestation and reports
             * EBA and ACPR Compliance for financial services operators in Europe
             * G-Cloud Public sector cloud service delivery in the UK
