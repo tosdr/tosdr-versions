@@ -2,7 +2,7 @@
 
 * [Products](#)
     
-    [DNS Hosting](https://alviy.com/en/dns-hosting) [Dynamic DNS](https://alviy.com/en/blog/ddns) [Backup DNS](https://alviy.com/en/secondary)
+     [![](\static\icons\shield.svg) Site protection](https://alviy.com/en/dns-hosting) [![](\static\icons\type-aaaa.svg) DNS Hosting](https://alviy.com/en/dns-hosting) [![](\static\icons\signpost-split.svg) Dynamic DNS](https://alviy.com/en/blog/ddns) [![](\static\icons\inbox.svg) Backup DNS](https://alviy.com/en/secondary)
     
 * [Prices](https://alviy.com/en/price)
 * [Info](#)
