@@ -2,8 +2,6 @@
 
 [50 State Applied Behavior Analysis Medicaid benefit comparison is now available!](https://assets-002.noviams.com/novi-file-uploads/casp/Medicaid_Data_for_Distribution_FINAL-7db94214.pdf)
 
-ACKNOWLEDGE
-
 [in your cart View Cart](https://www.casproviders.org/products/checkout)
 
 * [Cart](https://www.casproviders.org/products/checkout)
