@@ -3,7 +3,7 @@
  [![Old Dominion University](/themes/custom/odu/images/odu-logo.svg) ![Old Dominion University Crown](/themes/custom/odu/images/odu-crown.svg)](https://ww1.odu.edu/)
 
 * [Apply](https://ww1.odu.edu/apply)
-* [Visit](https://ww1.odu.edu/about/visitors/campus-tours)
+* [Visit](https://ww1.odu.edu/visit)
 * [Give](https://give.odu.edu/)
 * [myODU](https://my.odu.edu/)
 
