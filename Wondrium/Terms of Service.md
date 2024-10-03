@@ -1190,7 +1190,7 @@ Gifting Options
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1726147072/frontend/Wondrium/default/en_US/images/logo.svg)
+![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1727795098/frontend/Wondrium/default/en_US/images/logo.svg)
 
 New Password Required
 
