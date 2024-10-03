@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/30c819df-81b3-47e7-ba99-f2cd607db6f5/20241003T003358/30c819df-81b3-47e7-ba99-f2cd607db6f5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/30c819df-81b3-47e7-ba99-f2cd607db6f5/20241003T003358/30c819df-81b3-47e7-ba99-f2cd607db6f5_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-western-smokehouse-jobs/526-a6574eae-1f8b-4426-86b4-e59dbf7fbd96)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
         
-        #### [Western Smokehouse expansion could bring up to 180 jobs to Galesburg](https://www.wqad.com/article/news/local/galesburg-western-smokehouse-jobs/526-a6574eae-1f8b-4426-86b4-e59dbf7fbd96)
+        #### [87-year-old killed in Des Moines County crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b27d9bdc-60a4-4c8d-8655-ed46497470e3/20241003T120010/b27d9bdc-60a4-4c8d-8655-ed46497470e3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b27d9bdc-60a4-4c8d-8655-ed46497470e3/20241003T120010/b27d9bdc-60a4-4c8d-8655-ed46497470e3_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-elementary-school-teacher-teaches-class-outdoors/526-7dae27ce-3bc6-4283-a278-57f4e44cb6d5)
+        #### [Mediapolis woman killed in car crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
         
-        #### [Pay It Forward | Kindergarten teacher instills life lessons with hands-on experiences](https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-elementary-school-teacher-teaches-class-outdoors/526-7dae27ce-3bc6-4283-a278-57f4e44cb6d5)
+        #### [87-year-old Mediapolis woman killed in crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1/20241003T201124/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1/20241003T201124/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1_360x203.jpg)](https://www.wqad.com/article/news/local/silvis-railroading-heritage-of-midwestern-america-historic-locomotive-restoration/526-b5dd58fc-a013-4c9b-91fd-31fb52f89318)
+        
+        #### [History comes back to life in Silvis rail shop](https://www.wqad.com/article/news/local/silvis-railroading-heritage-of-midwestern-america-historic-locomotive-restoration/526-b5dd58fc-a013-4c9b-91fd-31fb52f89318)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WBNS/images/a960ac67-8a5e-4373-b056-d10267515f2b/20241002T193636/a960ac67-8a5e-4373-b056-d10267515f2b_16x9.jpg) ![](https://media.tegna-media.com/assets/WBNS/images/a960ac67-8a5e-4373-b056-d10267515f2b/20241002T193636/a960ac67-8a5e-4373-b056-d10267515f2b_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-biltmore-asheville-10-1-2024/275-7315126f-66ec-4f4f-b7d8-1b4473622bb2)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5cc89e24-281d-4fac-842b-211758031a58/20241003T213138/5cc89e24-281d-4fac-842b-211758031a58_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5cc89e24-281d-4fac-842b-211758031a58/20241003T213138/5cc89e24-281d-4fac-842b-211758031a58_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [How did Helene impact the Biltmore Estate in Asheville?](https://www.wqad.com/article/weather/hurricane/helene/helene-biltmore-asheville-10-1-2024/275-7315126f-66ec-4f4f-b7d8-1b4473622bb2)
+        #### [Small rainfall opportunity arrives before dawn on Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3ef73ed1-3878-457e-adc2-aa64c5a00a12/20241003T121245/3ef73ed1-3878-457e-adc2-aa64c5a00a12_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3ef73ed1-3878-457e-adc2-aa64c5a00a12/20241003T121245/3ef73ed1-3878-457e-adc2-aa64c5a00a12_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_360x203.jpg)](https://www.wqad.com/article/weather/minute-pirate-bugs-bite-in-the-fall/526-993a2db4-ed1c-4033-8cbd-e183617242fd)
         
-        #### [Small rainfall opportunity arrives Friday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [The tiny fall bug with a big bite](https://www.wqad.com/article/weather/minute-pirate-bugs-bite-in-the-fall/526-993a2db4-ed1c-4033-8cbd-e183617242fd)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +89,7 @@ Navigation
 
 Davenport, IA »
 
-72°
+79°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
