@@ -68,7 +68,6 @@ Reddit Content Policy
         * [Data API Terms](https://redditinc.com/policies/data-api-terms?hsLang=en)
         * [Embeds Terms of Use](https://redditinc.com/policies/embeds-terms?hsLang=en)
         * [Trademark Use Policy](https://redditinc.com/policies/trademark-use-policy?hsLang=en)
-            * [October 3, 2024](https://redditinc.com/policies/trademark-use-policy-october-3-2024?hsLang=en)
         * [Transparency](https://redditinc.com/policies/transparency?hsLang=en)
         * [Guidelines for Law Enforcement](https://redditinc.com/policies/guideline-for-law-enforcement?hsLang=en)
         * [Reddit's Anti-Slavery and Human Trafficking Statement](https://redditinc.com/policies/reddits-anti-slavery-and-human-trafficking-statement?hsLang=en)
