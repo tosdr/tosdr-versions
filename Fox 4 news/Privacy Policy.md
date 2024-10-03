@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Grand Prairie ISD says suspended superintendent violated policy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gpisd-superintendent.jpg?ve=1&tl=1)
+
+ ![Grand Prairie ISD says suspended superintendent violated policy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gpisd-superintendent.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-says-suspended-superintendent-violated-policy)
+
+### [Grand Prairie ISD says suspended superintendent violated policy](https://www.fox4news.com/news/grand-prairie-isd-says-suspended-superintendent-violated-policy)
+
+ [![Dallas girl injured while playing with gun, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-overton-rd-shooting-9p_00.00.01.50.jpg?ve=1&tl=1)
+
+ ![Dallas girl injured while playing with gun, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-overton-rd-shooting-9p_00.00.01.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-girl-injured-while-playing-gun-police-say)
+
+### [Dallas girl injured while playing with gun, police say](https://www.fox4news.com/news/dallas-girl-injured-while-playing-gun-police-say)
+
+ [![Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-fw-grain-silo-rescue-4a_00.00.06.00.jpg?ve=1&tl=1)
+
+ ![Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-fw-grain-silo-rescue-4a_00.00.06.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/abandoned-fort-worth-grain-silo-urbex-explorer-rescue)
+
+### [Urbex explorer rescued after falling in abandoned Fort Worth grain silo](https://www.fox4news.com/news/abandoned-fort-worth-grain-silo-urbex-explorer-rescue)
+
+ [![Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-03-06h12m08s844.jpg?ve=1&tl=1)
+
+ ![Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-03-06h12m08s844.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-panic-buying-costco-toilet-paper-frenzy-making-rounds-social-media)
+
+### [Port strike panic buying? Costco toilet paper frenzy making the rounds on social media](https://www.fox4news.com/news/port-strike-panic-buying-costco-toilet-paper-frenzy-making-rounds-social-media)
+
  [![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1)
 
  ![Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-campaign-against-charter-props-9p_00.00.03.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
 
 ### [Former top Dallas leaders warn against city charter propositions: 'It would paralyze the city'](https://www.fox4news.com/news/city-of-dallas-city-charter-amendments-dallas-hero-propositions)
-
- [![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1)
-
- ![Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/angelica-ramsey-fort-worth-isd-headshot-photo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
-
-### [Here’s how much Fort Worth ISD will have to pay its ousted superintendent to leave](https://www.fox4news.com/news/fort-worth-isd-angelica-ramsey-resignation-agreement-payout)
-
- [![Will the US port strike raise gas prices? What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175950155.jpg?ve=1&tl=1)
-
- ![Will the US port strike raise gas prices? What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175950155.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-impact-gas-prices)
-
-### [Will the US port strike raise gas prices? What you need to know](https://www.fox4news.com/news/port-strike-impact-gas-prices)
-
- [![Ted Cruz vs. Collin Allred: Texas Senate race tightens with 34 days until election](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/colin-allred.jpg?ve=1&tl=1)
-
- ![Ted Cruz vs. Collin Allred: Texas Senate race tightens with 34 days until election](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/colin-allred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-vs-collin-allred-texas-senate-race-tightens-34-days-until-election)
-
-### [34 Days to Election Day: Can Collin Allred close the gap on Ted Cruz?](https://www.fox4news.com/news/ted-cruz-vs-collin-allred-texas-senate-race-tightens-34-days-until-election)
-
- [![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/manuel-hernandez-hernandez-mug.png?ve=1&tl=1)
-
- ![Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/manuel-hernandez-hernandez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
-
-### [Thieves tied up Dallas woman, threatened to cut off fingers during robbery: affidavit](https://www.fox4news.com/news/elsby-avenue-robbery-northwest-dallas-manuel-hernandez-hernandez)
 
 ###### [News](https://www.fox4news.com/news)
 
