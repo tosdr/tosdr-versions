@@ -13,7 +13,7 @@ Header - Shapes Theme
 * [Merch](https://www.unspeakable.com/collections/merch)
 * [Rewards](https://www.unspeakable.com/pages/rewards)
 
-* [Log in](https://www.unspeakable.com/customer_identity/redirect?locale=en)
+* [Log in](https://www.unspeakable.com/customer_identity/redirect?locale=en&region_country=US)
 * [Create account](https://www.unspeakable.com/account/register)
 
 * Toys
@@ -66,7 +66,7 @@ Header - Shapes Theme
 
 [![Unspeakable](//www.unspeakable.com/cdn/shop/files/unspeakable_logo.svg?v=1683242185&width=800)](https://www.unspeakable.com/)
 
-[Log in](https://www.unspeakable.com/customer_identity/redirect?locale=en)
+[Log in](https://www.unspeakable.com/customer_identity/redirect?locale=en&region_country=US)
 
 [Search our site](https://www.unspeakable.com/search)
 
