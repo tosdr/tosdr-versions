@@ -198,39 +198,39 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/a/csm_csm_harry-e-meghan-divulgacao-netflix_4d0ae1ce8b_814e2b3fd4.png)
+[![Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_0d7a2bb74a.jpeg)
 
-Gente Famosa
+Tiros e prisões
 
-Gente Famosa
+Tiros e prisões
 
-Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site
+Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol
 
-Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-estao-vibrando-apos-nome-de-membro-da-familia-real-surgir-no-caso-diddy-diz-site/ "Príncipe Harry e Meghan Markle estão 'vibrando' após nome de membro da Família Real surgir no caso Diddy, diz site")[![Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_acidente-carro-caminhonte-mato-grosso-motorista-morte-divulgacao_7a8848ceb1.jpg)
+Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-o-assalto-frustrado-de-falsos-policiais-no-farol/ "Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol")[![Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
-ESTÁ FORAGIDO
+Está preso
 
-ESTÁ FORAGIDO
+Está preso
 
-Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros
+Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou
 
-Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros](https://www.tnh1.com.br/noticia/nid/motorista-morre-em-acidente-e-irmao-da-vitima-mata-sobreviventes-a-tiros/ "Motorista morre em acidente e irmão da vítima mata sobreviventes a tiros ")[![Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
+Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou](https://www.tnh1.com.br/noticia/nid/como-eram-as-festas-de-p-diddy-modelo-choca-ao-revelar-tudo-o-que-presenciou/ "Como eram as festas de P. Diddy? Modelo choca ao revelar tudo o que presenciou")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
 
-centenário
+Tentativa de assalto
 
-centenário
+Tentativa de assalto
 
-Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol
 
-Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol](https://www.tnh1.com.br/noticia/nid/suspeitos-vestidos-com-farda-falsa-da-pm-sao-presos-em-tentativa-de-assalto-em-empresarial-no-farol/ "Suspeitos vestidos com farda falsa da PM são presos em tentativa de assalto em empresarial, no Farol")[![Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_52adcdb660.jpeg)
+Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_Uniforme_falso_do_Bope_-_foto_Reproducao_a76e0bbe33.jpeg)
 
-investigações
+assalto em maceió
 
-investigações
+assalto em maceió
 
-Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió
+Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado
 
-Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió](https://www.tnh1.com.br/noticia/nid/integrante-de-faccao-no-rj-orientou-grupo-que-tentou-assaltar-empresarial-em-maceio/ "Integrante de facção no RJ orientou grupo que tentou assaltar empresarial em Maceió")
+Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado](https://www.tnh1.com.br/noticia/nid/denuncia-apontou-que-grupo-encomendou-uniformes-falsos-do-bope-diz-delegado/ "Denúncia apontou que grupo encomendou uniformes falsos do Bope, diz delegado")
 
 [![Faxineiros acham ter encontrado cadáver de cobra, mas descobrem ser pênis de baleia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/5/csm_grupo-faxineiros-descoberta-bizarra-reproducao_fc60b3f3cc.jpg)
 
