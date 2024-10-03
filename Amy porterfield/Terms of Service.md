@@ -197,7 +197,7 @@ The Online Business Starter Suite: Please [click here](https://www.amyporterfiel
   
 Systems That Scale®️: Please [click here](https://www.amyporterfield.com/sts-terms/) to review the program terms and conditions.  
   
-Digital Course Academy®️: Please [click here](https://www.amyporterfield.com/dca-sept-2023-terms/) to review the program terms and conditions.  
+Digital Course Academy®️: Please [click here](https://www.amyporterfield.com/dca-sept-2024-terms/https://www.amyporterfield.com/dca-sept-2024-terms/) to review the program terms and conditions.  
   
 The Momentum Membership Experience: Please [click here](https://www.amyporterfield.com/momentum-terms/) to review the program terms and conditions.  
   
