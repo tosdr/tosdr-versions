@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of black, rectangular hall sensor breakout board.](https://cdn-shop.adafruit.com/230x173/6051-00.jpg)[ScoutMakes DRV5032 Digital Magnetic Hall Effect Sensor
+    
+    $4.95](https://www.adafruit.com/product/6051)
+    
     ![Demo Shot of the Prop Maker Feather Lego.](https://cdn-shop.adafruit.com/230x173/6054-00.jpg)[Adafruit Feather Mount for LEGO-Compatible Brick Systems
     
     $1.50](https://www.adafruit.com/product/6054)
@@ -83,13 +87,9 @@ Search
     
     $70.00](https://www.adafruit.com/product/6009)
     
-    ![Demo Shot of the Lego Slide Switch.](https://cdn-shop.adafruit.com/230x173/6053-00.jpg)[Slide Switch Mount for LEGO-Compatible Brick Systems
+    ![black, square-shaped breakout board with DVI and 22-pin FPC connectors connected to a black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/6055-01.jpg)[Adafruit RP2350 22-pin FPC HSTX to DVI Adapter for HDMI Displays
     
-    $0.95](https://www.adafruit.com/product/6053)
-    
-    ![Angled shot of LED strip in a spiral, emitting pink and blue colors.](https://cdn-shop.adafruit.com/230x173/6016-00.jpg)[Adafruit NeoPixel Silicone Bead LED Strip - 180 LEDs per Meter
-    
-    $24.95](https://www.adafruit.com/product/6016)
+    $4.50](https://www.adafruit.com/product/6055)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I don't think there's anything like saving someone's life to bring you satisfaction and happiness”
+“ Being honest may not get you a lot of friends but it’ll always get you the right ones”
 
-[Stephanie Kwolek](http://en.wikipedia.org/wiki/Stephanie_Kwolek)
+[John Lennon](https://en.wikipedia.org/wiki/John_Lennon)
 
 [](https://www.adafruit.com/about)
 
