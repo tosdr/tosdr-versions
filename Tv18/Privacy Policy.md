@@ -93,6 +93,7 @@ Discover CNBCTV18
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
+* [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
 * [NewLatest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 * [NewCNBC-TV18 Edge](https://www.cnbctv18.com/edge "CNBC-TV18 Edge")
