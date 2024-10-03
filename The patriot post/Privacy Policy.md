@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110754-the-untrue-drug-mule-2024-10-02)
+     [](https://patriotpost.us/memes/110760-already-subbed-2024-10-03)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -143,11 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
