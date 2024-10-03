@@ -25,7 +25,7 @@ Start with our 34-day free trial and you'll both get an **additional free month*
 
 [Start Your Free Trial](https://www.youneedabudget.com/sign-up)
 
-[![It's pronounced Why-NAB](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64870a06e2f95839889cc1a5_Logo-Buttermilk.png)
+[![It's pronounced Why-NAB](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66fdcbae99333809c14a9de3_Logotype%20Buttermilk.svg)
 
 It's pronounced ”why-nab”](https://www.youneedabudget.com/)
 
