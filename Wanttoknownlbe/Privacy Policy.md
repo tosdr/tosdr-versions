@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/drunvalo/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/viering-venus-transit-in-jeruzalem/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
