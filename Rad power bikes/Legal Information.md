@@ -2,7 +2,7 @@
 
 [](# "Previous")
 
-* [Up to $300 off ebikes](https://www.radpowerbikes.com/pages/sales-deals "Up to $300 off ebikes")
+* [Up to $400 off ebikes](https://www.radpowerbikes.com/pages/sales-deals "Up to $400 off ebikes")
     
 * [Shipments may be delayed up to 5 business days due to Hurricane Helene.](https://support.radpowerbikes.com/Orders%2C_shipping_and_returns/Shipping_and_order_information/Shipping_details "Shipments may be delayed up to 5 business days due to Hurricane Helene.")
     
