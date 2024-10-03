@@ -140,11 +140,9 @@ Women in Trust
 
 Improving representation in cybersecurity leadership](https://safebase.io/women-in-trust)
 
-Featured Resource
+Upcoming Webinar
 
-[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/664645b4e8fb19d9f60366fb_How%20to%20Create%20Your%20Trust%20Center%20Strategy.png)
-
-What is a Trust Center?](https://safebase.io/resources/what-is-a-trust-center)
+[![](https://cdn.prod.website-files.com/65397ce059ca157da9e02a14/66feeb344fbaa7af75a0605d_Resource%20Web%20Card%20-%20Oct%2016%20webinar.png)](https://safebase.io/events/ai-questionnaire-assistance-wiz-webinar)
 
 [Login](https://app.safebase.io/api/auth/login)[Book a demo](https://safebase.io/schedule)
 
