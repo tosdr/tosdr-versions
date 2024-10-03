@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
+“ When you destroy art, you make it stronger”
 
-[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
+[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
 
 [](https://www.adafruit.com/about)
 
