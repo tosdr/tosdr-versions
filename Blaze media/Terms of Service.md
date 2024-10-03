@@ -13,6 +13,7 @@
 * [Fearless](https://www.theblaze.com/fearless/)
 * [Exclusive](https://www.theblaze.com/exclusive/)
 * [Original](https://www.theblaze.com/original/)
+* [Politics](https://www.theblaze.com/politics/)
 * [Your Opinion](https://www.theblaze.com/your-opinion/)
 * [Quiz](https://www.theblaze.com/quiz/)
 * [Profile](https://www.theblaze.com/profile/)
