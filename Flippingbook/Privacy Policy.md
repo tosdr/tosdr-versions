@@ -1,4 +1,4 @@
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
 Products
 
@@ -8,17 +8,17 @@ Most popular
 
 Web service for converting PDFs into HTML5 flipbooks
 
-![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
+![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
 
 [Overview](https://flippingbook.com/online-publishing-service?from=products-menu) [Sharing and embedding](https://flippingbook.com/share-documents-online?from=products-menu) [Content protection](https://flippingbook.com/content-protection?from=products-menu) [Document tracking](https://flippingbook.com/document-tracking?from=products-menu) [Teamwork](https://flippingbook.com/teamwork?from=products-menu) [Sales tools](https://flippingbook.com/sales-tools?from=products-menu) [Marketing tools](https://flippingbook.com/online-marketing-tools?from=products-menu) [Video and links](https://flippingbook.com/adding-video-and-links?from=products-menu) [All features](https://flippingbook.com/online-service-features?from=products-menu)
 
 More Products
 
- [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/products/desktop.svg) FlippingBook Publisher
+ [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/products/desktop.svg) FlippingBook Publisher
 
-Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/products/server.svg) FlippingBook Automation
+Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/products/server.svg) FlippingBook Automation
 
-Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/products/salespal.svg) Salespal
+Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/products/salespal.svg) Salespal
 
 Mobile platform: use flipbooks in sales and at tradeshows](https://flippingbook.com/salespal?from=products-menu)
 
@@ -34,15 +34,15 @@ Help
 
 [Contact sales](https://flippingbook.com/book-a-demo)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=%2fSw82c95HXAuIfzhlJp3yDpTUxIKyEopUkV7GfvBYpZYQv4KjjUsORfi0FoOHurk) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=6yy5lbgtTGmFgBV3DsHAORaEv*sGVSTgmHZmE6H%2fGfdDdrOR3fPTx%2fVR7ozIOXeT)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=0ECBZZ*Hfylao6xR42lTH28QZgvfzSDKNoXKmzwWUNEibxc70VikhanmmRM00mR7) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=H9M3QKuYSt8xtQ4haJw6B66vH0*QXN8cSDC1WwERaqIGIco63SRxX0Vke7JZLmGQ)
 
 [My account](https://flippingbook.com/account)
 
-![Crumb left](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/menu-arrow-left.svg)
+![Crumb left](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/menu-arrow-left.svg)
 
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=c8NBpD6JBlmVAIru92w7GsNd02W56F%2fjNuCMkIt1YtsxVtqpdrv5C6xm8q4%2faVdl) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=2M8PxHV6FSGs1lgJyJ61luzKN%2fF9Apke3OhLjbDnn1dLWasPG2Bq5pQSF*a3Mk5J)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=r7lNbfIUYAIjd3jaOVvOJ0DFziGdRmrb16xb%2fy9ocn1hYk5oL5jUvORqnlYncIza) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=01DpywnDirHn8edgHv5q%2fcveTR7UM52oyUqyKeLAesaaDOPFXa3r4SIA6zqA0QaX)
 
 [My account](https://flippingbook.com/account/autonav) [Log out](https://flippingbook.com/account/logout)
 
@@ -388,14 +388,14 @@ Was this article helpful?  Yes No The information is confusing I couldn't find t
 Other Resources
 ---------------
 
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
 
 ;
 
- [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
+ [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
 
 [FlippingBook Online](https://flippingbook.com/online-publishing-service?from=footer)
 
@@ -417,7 +417,7 @@ Batch converter from PDF to HTML5
 
 Mobile platform for sales and tradeshow collateral
 
-![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/planet-grey.svg) English
+![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/planet-grey.svg) English
 
 * [English](https://flippingbook.com/en/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
 * [Deutsch](https://flippingbook.com/de/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
@@ -462,7 +462,7 @@ Mobile platform for sales and tradeshow collateral
 
 **Company** [About us](https://flippingbook.com/about?from=mobile-footer) [Reseller Program](https://flippingbook.com/partner/reseller?from=mobile-footer) [Privacy Policy](https://flippingbook.com/help/common/privacy-policy-and-disclaimer?from=mobile-footer)
 
-![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/common/planet-grey.svg) English Deutsch Español Français
+![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/common/planet-grey.svg) English Deutsch Español Français
 
 FlippingBook
 
@@ -472,4 +472,4 @@ Follow us: [Facebook](https://www.facebook.com/flippingbook), [Twitter](https://
 
 Copyright © FlippingBook.com. All rights reserved.
 
-![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10103/icons/drift/chat.svg)
+![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10104/icons/drift/chat.svg)
