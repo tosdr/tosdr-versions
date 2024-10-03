@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Billard Deluxe](https://www.myabandonware.com/game/billard-deluxe-s4j)
+* [RIS: Delitti Imperfetti](https://www.myabandonware.com/game/ris-delitti-imperfetti-s4h)
 * [Prism: Light the Way](https://www.myabandonware.com/game/prism-light-the-way-s4g)
 * [Sega Super GT](https://www.myabandonware.com/game/sega-super-gt-snf)
 * [Space King](https://www.myabandonware.com/game/space-king-sne)
-* [Space Bugger](https://www.myabandonware.com/game/space-bugger-snc)
-* [SoulCalibur III](https://www.myabandonware.com/game/soulcalibur-iii-snb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
