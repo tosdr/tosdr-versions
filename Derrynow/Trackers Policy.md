@@ -259,49 +259,19 @@ Advertise with Us
 
 Most Popular
 
+[![Throwback Thursday: Out and about pubs and clubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Out and about pubs and clubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PICTURES: Spacious Derry four-bed hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spacious Derry four-bed hits the market")](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
 
 [Property](https://www.derrynow.com/section/1232/property)
 
 [PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who raped and sexually assaulted 16-year-old schoolgirl jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who raped and sexually assaulted 16-year-old schoolgirl jailed")](https://www.derrynow.com/news/local-news/1620146/derry-man-who-raped-and-sexually-assaulted-16-year-old-schoolgirl-jailed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who raped and sexually assaulted 16-year-old schoolgirl jailed](https://www.derrynow.com/news/local-news/1620146/derry-man-who-raped-and-sexually-assaulted-16-year-old-schoolgirl-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man caused £1,271 worth of damage to gambling machine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man caused £1,271 worth of damage to gambling machine")](https://www.derrynow.com/news/local-news/1620050/derry-man-caused1-271-worth-of-damage-togambling-machine.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man caused £1,271 worth of damage to gambling machine](https://www.derrynow.com/news/local-news/1620050/derry-man-caused1-271-worth-of-damage-togambling-machine.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut")](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
-
-[Home](https://www.derrynow.com/)
-
-['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Limavady man charged with possessing a machete with intent to commit murder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady man charged with possessing a machete with intent to commit murder")](https://www.derrynow.com/news/local-news/1619866/limavady-man-charged-with-possessing-a-machete-with-intent-to-commit-murder.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Limavady man charged with possessing a machete with intent to commit murder](https://www.derrynow.com/news/local-news/1619866/limavady-man-charged-with-possessing-a-machete-with-intent-to-commit-murder.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with racist messages about Derry mayor has case adjourned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with racist messages about Derry mayor has case adjourned")](https://www.derrynow.com/news/local-news/1620045/man-charged-with-racist-messages-about-derry-mayor-has-case-adjourned.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with racist messages about Derry mayor has case adjourned](https://www.derrynow.com/news/local-news/1620045/man-charged-with-racist-messages-about-derry-mayor-has-case-adjourned.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
 
@@ -310,21 +280,37 @@ Derry Magistrate's Court
 [Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballymena man (41) who breached bail warned he could face custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymena man (41) who breached bail warned he could face custody")](https://www.derrynow.com/news/local-news/1620038/ballymena-man-41-who-breached-bail-warnedhe-could-face-custody.html)
+[!['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut")](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
+
+[Home](https://www.derrynow.com/)
+
+['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman who told shop owner to 'go back to the s--t hole you came from' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who told shop owner to 'go back to the s--t hole you came from' jailed")](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Ballymena man (41) who breached bail warned he could face custody](https://www.derrynow.com/news/local-news/1620038/ballymena-man-41-who-breached-bail-warnedhe-could-face-custody.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman who told shop owner to 'go back to the s--t hole you came from' jailed](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
+[![Derry woman is the face of new breast cancer awareness campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman is the face of new breast cancer awareness campaign")](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
 
-Author of ‘Cityview - 30 years of Missing A-Z Interviews’, Andrew Cassidy.
+Hive Cancer Support member Theresa Kelly pictured centre at the launch of the new Hive Cancer Support Breast Cancer Awareness campaign at the back of Free Derry Corner.
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[New book tracks down Derry City legends from all over the world](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman is the face of new breast cancer awareness campaign](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
 
@@ -333,11 +319,34 @@ Author of ‘Cityview - 30 years of Missing A-Z Interviews’, Andrew Cassidy.
 [Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Graffiti attack at Creggan Neighbourhood Partnership condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graffiti attack at Creggan Neighbourhood Partnership condemned")](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Graffiti attack at Creggan Neighbourhood Partnership condemned](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Traffic delays in Cookstown Road area of Moneymore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Traffic delays in Cookstown Road area of Moneymore")](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
+
+The PSNI
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Traffic delays in Cookstown Road area of Moneymore](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Thursday: Out and about pubs and clubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Out and about pubs and clubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Spacious Derry four-bed hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spacious Derry four-bed hits the market")](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
 
@@ -400,13 +409,6 @@ Multimedia
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Hurt open new state-of-the-art premises in Derry](https://www.derrynow.com/story-telling/pictures---videos/1618147/in-pictures-hurt-open-new-state-of-the-art-premises-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: First day at school for Hollybush PS Primary 1's](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: First day at school for Hollybush PS Primary 1's")](https://www.derrynow.com/story-telling/pictures---videos/1618146/in-pictures-first-day-at-school-for-hollybush-ps-primary-1-s.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: First day at school for Hollybush PS Primary 1's](https://www.derrynow.com/story-telling/pictures---videos/1618146/in-pictures-first-day-at-school-for-hollybush-ps-primary-1-s.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -509,51 +511,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry woman is the face of new breast cancer awareness campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman is the face of new breast cancer awareness campaign")](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
-
-Hive Cancer Support member Theresa Kelly pictured centre at the launch of the new Hive Cancer Support Breast Cancer Awareness campaign at the back of Free Derry Corner.
+[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry woman is the face of new breast cancer awareness campaign](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
+[![DfI urged to approve safety upgrade at Derry's Caw roundabout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DfI urged to approve safety upgrade at Derry's Caw roundabout")](https://www.derrynow.com/news/local-news/1621014/dfi-urged-to-approve-safety-upgrade-at-derry-s-caw-roundabout.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Caw roundabout
 
-[Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/resizer/165/93/true/2024_10_02/Untitled_design-1727883033439.png--.png?1727883033554 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+[DfI urged to approve safety upgrade at Derry's Caw roundabout](https://www.derrynow.com/news/local-news/1621014/dfi-urged-to-approve-safety-upgrade-at-derry-s-caw-roundabout.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Hutchinson-1727954169963.jpg--.jpg?1727954170557 "Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity")](https://www.derrynow.com/news/home/1620887/kilrea-company-hutchinson-creating-57-jobs-in-a-multi-million-pound-investment-to-boost-productivity.html)
+
+Jeremy Fitch, Director of Business Growth Group, Invest NI; Mark Hutchinson, CEO, Hutchinson; Economy Minister Conor Murphy; and Richard Hutchinson, Innovation Director, Hutchinson.
 
 [Home](https://www.derrynow.com/)
 
-[Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Kilrea company Hutchinson creating 57 jobs in a multi-million pound investment to boost productivity](https://www.derrynow.com/news/home/1620887/kilrea-company-hutchinson-creating-57-jobs-in-a-multi-million-pound-investment-to-boost-productivity.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Executive gives green light to A5 upgrade on ‘momentous’ day](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_02/1727893501904_0.jpg--.jpg?1727893501992 "Executive gives green light to A5 upgrade on ‘momentous’ day")](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Executive gives green light to A5 upgrade on ‘momentous’ day](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Roe Park Resort employees honoured with Long Service Awards](https://www.derrynow.com/resizer/165/93/true/2024_10_02/Front_row_%28left_to_right%29_Julieanne_McNicholl_%2810_years%29%2C_George_Graham_%28GM%29%2C_Glenda_Moore_%2820_years%29%2C_Ita_Cielava_%2810_years%29._%281%29-1727888447607.jpg--.jpg?1727888447807 "Roe Park Resort employees honoured with Long Service Awards")](https://www.derrynow.com/news/home/1620442/roe-park-resort-employees-honoured-with-long-service-awards.html)
-
-Staff who were recognised for their service.
-
-[Home](https://www.derrynow.com/)
-
-[Roe Park Resort employees honoured with Long Service Awards](https://www.derrynow.com/news/home/1620442/roe-park-resort-employees-honoured-with-long-service-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![O’Neill says internal Sinn Fein inquiry into McMonagle issues ‘not required’](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_02/1727892302859_0.jpg--.jpg?1727892302913 "O’Neill says internal Sinn Fein inquiry into McMonagle issues ‘not required’")](https://www.derrynow.com/news/local-news/1620484/oneill-says-internal-sinn-fein-inquiry-into-mcmonagle-issues-not-required.html)
+[![Stormont intends to assume responsibility for City of Derry Airport](https://www.derrynow.com/resizer/165/93/true/1634216177518.jpg--.jpg?1634216177000 "Stormont intends to assume responsibility for City of Derry Airport")](https://www.derrynow.com/news/local-news/1620957/stormont-intends-to-assume-responsibility-for-city-of-derry-airport.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[O’Neill says internal Sinn Fein inquiry into McMonagle issues ‘not required’](https://www.derrynow.com/news/local-news/1620484/oneill-says-internal-sinn-fein-inquiry-into-mcmonagle-issues-not-required.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Stormont intends to assume responsibility for City of Derry Airport](https://www.derrynow.com/news/local-news/1620957/stormont-intends-to-assume-responsibility-for-city-of-derry-airport.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
