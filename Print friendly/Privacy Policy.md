@@ -64,7 +64,7 @@ Sign & Security
 
 Sign PDF](https://www.printfriendly.com/pdf-tools/sign-pdf)
 
-[Convert](https://www.printfriendly.com/pdf-tools/pdf-converter)[Compress](https://www.printfriendly.com/pdf-tools/compress-pdf)[Edit](https://www.printfriendly.com/pdf-tools/edit-pdf)
+[Convert](https://www.printfriendly.com/pdf-tools/pdf-converter)[Compress](https://www.printfriendly.com/pdf-tools/compress-pdf)[Edit](https://www.printfriendly.com/pdf-tools/edit-pdf)[Document Library](https://www.printfriendly.com/docs)
 
 Website Tools
 
@@ -171,6 +171,8 @@ Sign PDF](https://www.printfriendly.com/pdf-tools/sign-pdf)
 [Compress](https://www.printfriendly.com/pdf-tools/compress-pdf)
 
 [Edit](https://www.printfriendly.com/pdf-tools/edit-pdf)
+
+[Document Library](https://www.printfriendly.com/docs)
 
 Website Tools
 
@@ -362,7 +364,7 @@ PrintFriendly makes web pages printer-friendly and exports them to PDFs.
 
 ###### Product
 
-[PDF Tools](https://www.printfriendly.com/pdf-tools)[Print Button](https://www.printfriendly.com/button)[Print Button Pro](https://www.printfriendly.com/button/pro)[WordPress Plugin](https://www.printfriendly.com/wordpress-plugin)[HTML to PDF API](https://www.printfriendly.com/api)
+[PDF Tools](https://www.printfriendly.com/pdf-tools)[Print Button](https://www.printfriendly.com/button)[Print Button Pro](https://www.printfriendly.com/button/pro)[WordPress Plugin](https://www.printfriendly.com/wordpress-plugin)[HTML to PDF API](https://www.printfriendly.com/api)[Document Library](https://www.printfriendly.com/docs)
 
 ###### Extensions
 
