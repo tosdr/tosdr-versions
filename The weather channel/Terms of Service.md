@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/storms/hurricane/video/time-lapse-footage-shows-helenes-descent-on-florida)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/time-lapse-footage-shows-helenes-descent-on-florida)
+[Top Weather Stories](https://weather.com/storms/hurricane/video/rv-camper-plunges-over-waterfall-helene-virginia)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/rv-camper-plunges-over-waterfall-helene-virginia)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoHelene](https://weather.com/storms/hurricane/video/time-lapse-footage-shows-helenes-descent-on-florida?adRef=nav_trpcl)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoHelene](https://weather.com/storms/hurricane/video/rv-camper-plunges-over-waterfall-helene-virginia?adRef=nav_trpcl)
 
 More ForecastsMoreArrow down
 
