@@ -86,7 +86,7 @@ AI Marketing OS
 
 Featured articles
 
-[GTM AI Platform vs. AI Point Solutions](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
 
 [Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
 
@@ -216,7 +216,7 @@ AI Marketing OS
 
 Featured articles
 
-[GTM AI Platform vs. AI Point Solutions](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
 
 [Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
 
@@ -496,7 +496,7 @@ AI Marketing OS
 
 Featured articles
 
-[GTM AI Platform vs. AI Point Solutions](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
 
 [Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
 
@@ -626,7 +626,7 @@ AI Marketing OS
 
 Featured articles
 
-[GTM AI Platform vs. AI Point Solutions](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
 
 [Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
 
