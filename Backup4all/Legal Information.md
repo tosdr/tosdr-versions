@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Troubleshooting installation errors](https://www.backup4all.com/troubleshooting-installation-errors-kb.html)  
+* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
     
-* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
+* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
     
-* [How to back up to multiple destinations](https://www.backup4all.com/how-to-back-up-to-multiple-destinations-kb.html)  
+* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
     
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
     
-* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
+* [Backup strategy: run a full backup locally an ...](https://www.backup4all.com/backup-strategy-make-a-full-backup-locally-and-subsequent-incremental-backups-to-ftp-kb.html)  
     
 
 Choose language:
