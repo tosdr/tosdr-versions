@@ -33,7 +33,6 @@ Menu
     * [Web Rings.](https://www.s-config.com/webrings/ "Community Based linkage.")
 * [COM](# "Communications for social and E-mail.")
     * [E-Mail](https://www.s-config.com/email/)
-    * [Online](https://www.s-config.com/contact/)
     * [Social](https://www.s-config.com/social/)
 
 Privacy Notice
@@ -214,7 +213,6 @@ Pages
 * [Audio Testing.](https://www.s-config.com/audio-testing/)
 * [Black Mirrors](https://www.s-config.com/black-mirrors/)
 * [Cellar Door. A.K.A. Blogroll Linkage.](https://www.s-config.com/cellar-door/)
-* [Contact Us via Social or E-Mail.](https://www.s-config.com/contact/)
 * [Downloads, Binaries, and mods.](https://www.s-config.com/download/)
 * [E-mail and the Physical.](https://www.s-config.com/email/)
 * [FAQ and/or TOS.](https://www.s-config.com/faq/)
