@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am more than happy with the service, as the availability, speed and functionality are perfect for me, and I will be setting up a new subscription immediately after sending this. Thank you for the continued excellent customer service.
+I’m very grateful for your swift support.
 
-Roger Sigrist
+Ray Brown
