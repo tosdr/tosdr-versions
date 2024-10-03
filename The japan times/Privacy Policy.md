@@ -479,9 +479,21 @@ Revised June 1, 2022
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
-  [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+  [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+
+[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+
+  [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+
+[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+
+  [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+
+[Japan's deep-sea vessel digs for answers to 2011 earthquake](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
+
+  [![The deep-sea drilling vessel Chikyu is docked at the Port of Shimizu on Sept. 5 ahead of a 106-day expedition by researchers from the Japan Agency for Marine-Earth Science and Technology.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425433.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The deep-sea drilling vessel Chikyu is docked at the Port of Shimizu on Sept. 5 ahead of a 106-day expedition by researchers from the Japan Agency for Marine-Earth Science and Technology.")](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
 
 [A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
@@ -490,18 +502,6 @@ Revised June 1, 2022
 [How far will Japanese players go in this year’s MLB playoffs?](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
 
   [![Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425018.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.")](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
-
-[Shigeru Ishiba’s tenure as prime minister could be short-lived](https://www.japantimes.co.jp/commentary/2024/09/30/ishiba-shigerus-premiership-short-lived/ "Shigeru Ishiba’s tenure as prime minister could be short-lived")
-
-  [![Shigeru Ishiba (center) celebrates in Tokyo on Friday after he was elected president of the ruling Liberal Democratic Party. He defeated economic security minister Sanae Takaichi (second from left) in a runoff vote.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba (center) celebrates in Tokyo on Friday after he was elected president of the ruling Liberal Democratic Party. He defeated economic security minister Sanae Takaichi (second from left) in a runoff vote.")](https://www.japantimes.co.jp/commentary/2024/09/30/ishiba-shigerus-premiership-short-lived/ "Shigeru Ishiba’s tenure as prime minister could be short-lived")
-
-[What’s a mother to do when your non-Japanese child is bullied in school?](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
-
-  [![Helping your child through their first experience with a school bully can be a difficult situation to navigate — doubly so if you're trying to do so as a non-Japanese resident in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424027.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Helping your child through their first experience with a school bully can be a difficult situation to navigate — doubly so if you're trying to do so as a non-Japanese resident in Japan.")](https://www.japantimes.co.jp/community/2024/09/30/our-lives/bullying-school-non-japanese-children-parenting/ "What’s a mother to do when your non-Japanese child is bullied in school?")
-
-[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
-
-  [![Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/29/424676.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, newly elected leader of the Liberal Democratic Party, speaks at a news conference after winning the party's leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
 Podcast
 -------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Private drone operators seek bigger role in disaster response](https://www.japantimes.co.jp/news/2024/10/03/japan/society/drones-noto-disaster-relief/ "Private drone operators seek bigger role in disaster response")
+[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-10 mins ago
+50 mins ago
 
-[Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says](https://www.japantimes.co.jp/news/2024/10/03/world/politics/trump-so-what-pence-jan-6-us/ "Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says")
-
-27 mins ago
-
-[Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say](https://www.japantimes.co.jp/news/2024/10/03/world/iran-khamenei-nasrallah-israeli-plot/ "Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say")
+[Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
 
 1 hours ago
 
-[Guns and transgender rights cases loom as U.S. Supreme Court returns](https://www.japantimes.co.jp/news/2024/10/03/world/crime-legal/gun-porn-us-supreme-court/ "Guns and transgender rights cases loom as U.S. Supreme Court returns")
+[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
 1 hours ago
 
-[Russia's Lavrov says stands alongside China on Taiwan, other issues](https://www.japantimes.co.jp/news/2024/10/03/asia-pacific/russia-lavrov-china-taiwan/ "Russia's Lavrov says stands alongside China on Taiwan, other issues")
+[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
 
-1 hours ago
+2 hours ago
+
+[SoftBank’s Son envisions AI running households in the next few years](https://www.japantimes.co.jp/business/2024/10/03/companies/softbank-son-ai-push/ "SoftBank’s Son envisions AI running households in the next few years")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
