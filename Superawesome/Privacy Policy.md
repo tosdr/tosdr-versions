@@ -59,7 +59,7 @@
 AwesomeAds Marketplace Privacy Policy
 =====================================
 
-Last updated: 11 July 2024
+Last updated: 2 October 2024
 
 ![](https://www.superawesome.com/wp-content/uploads/2020/08/AwesomeAds_long_blue-1-1024x195.png)
 
