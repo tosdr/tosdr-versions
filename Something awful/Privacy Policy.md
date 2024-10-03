@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Muppet Movie Mayhem!](https://www.somethingawful.com/photoshop-phriday/muppets-movie-mayhem/1/)
-* [Let's Draw Characters from Memory!](https://www.somethingawful.com/comedy-goldmine/draw-characters-memory/1/)
-* [Chewbacca Gone Wild](https://www.somethingawful.com/comedy-goldmine/chewbacca-gone-wild/1/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Old People At McDonalds](https://www.somethingawful.com/comedy-goldmine/old-people-mcdonalds/1/)
+* [Yahoo Answers Part I](https://www.somethingawful.com/weekend-web/yahoo-answers-part1/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [Awful Arcade Machines!](https://www.somethingawful.com/comedy-goldmine/awful-arcade-machines/1/)
+* [Ask an Ex-Fetish Artist!](https://www.somethingawful.com/comedy-goldmine/sex-picture-maker/)
+* [Before and After Movies](https://www.somethingawful.com/photoshop-phriday/before-after-movies/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [If a tree falls in the forest and no one hears it, does it make a sound?](http://forums.somethingawful.com/showthread.php?threadid=4071721 "If a tree falls in the forest and no one hears it, does it make a sound?")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Do YouTube people have emotions?](http://forums.somethingawful.com/showthread.php?threadid=4071732 "Do YouTube people have emotions?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [The one thing you ALWAYS forget to do. ALWAYS.](http://forums.somethingawful.com/showthread.php?threadid=4071814 "The one thing you ALWAYS forget to do. ALWAYS.")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [ITT: we are dipshits in a cyberpunk dystopia](http://forums.somethingawful.com/showthread.php?threadid=4071800 "ITT: we are dipshits in a cyberpunk dystopia")
 
 ### Random Articles
 
-* [Catpage](https://www.somethingawful.com/awful-links/awful-link-3138/)
-* [Memos from Bear Cave](https://www.somethingawful.com/news/bear-cave-soup/)
-* [Bridesmaids; POM Wonderful Presents: The Greatest Movie Ever Sold](https://www.somethingawful.com/current-movie-reviews/bridesmaids-greatest-story/1/)
-* [Memorable Dialogue: Mike Tyson's Punch Out!](https://www.somethingawful.com/video-game-article/punch-out-tyson/)
-* [Understanding The NFL Lockout](https://www.somethingawful.com/news/nfl-lockout-demands/)
+* [In Praise of David Thorpe's Brother](https://www.somethingawful.com/news/david-thorpe-brother/1/)
+* [Skyrim Classified Ads](https://www.somethingawful.com/news/skyrim-classifieds/)
+* [DEEEETROIT BASKETBALL](https://www.somethingawful.com/daily-dirt/deeeetroit-basketball/)
+* [Why Are You Sleeping with the Man from the Halloween Store?](https://www.somethingawful.com/news/halloween-store-adulterer/)
+* [Mama had a baby and its' head popped off!](https://www.somethingawful.com/daily-dirt/mama-had-baby/)
 
 [Random!](https://www.somethingawful.com/random/)
 
