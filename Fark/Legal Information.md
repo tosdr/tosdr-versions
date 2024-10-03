@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["Nothing stinks like a pile of unpublished writing." -Sylvia Plath. Huh, and there I was, thinking the reason my novel wasn't published was because it stunk. This is your Fark Writer's Thread, Olfactory Evidence Edition](https://www.fark.com/goto/13414244) ( [farkfiction.net](https://www.fark.com/goto/13414244) ) » [(1 comment)](https://www.fark.com/comments/13414244/Nothing-stinks-like-a-pile-of-unpublished-writing-Sylvia-Plath-Huh-there-I-was-thinking-reason-my-novel-wasnt-published-was-because-it-stunk-This-is-your-Fark-Writers-Thread-Olfactory-Evidence-Edition) |
-| [Discussion](https://www.fark.com/discussion/) | ["Nothing stinks like a pile of unpublished writing." -Sylvia Plath. Huh, and there I was, thinking the reason my novel wasn't published was because it stunk. This is your Fark Writer's Thread, Olfactory Evidence Edition](https://www.fark.com/goto/13414244) ( [farkfiction.net](https://www.fark.com/goto/13414244) ) » [(1 comment)](https://www.fark.com/comments/13414244/Nothing-stinks-like-a-pile-of-unpublished-writing-Sylvia-Plath-Huh-there-I-was-thinking-reason-my-novel-wasnt-published-was-because-it-stunk-This-is-your-Fark-Writers-Thread-Olfactory-Evidence-Edition) |
-| [Sports](https://www.fark.com/sports/) | [The 4000-plus haircuts of Pete Rose through the years. Well, not that many, and few were hits](https://www.fark.com/goto/13414152) ( [sabrbaseballcards.blog](https://www.fark.com/goto/13414152) ) » [(1 comment)](https://www.fark.com/comments/13414152/The-4000-plus-haircuts-of-Pete-Rose-through-years-Well-not-that-many-few-were-hits) |
-| [Business](https://www.fark.com/business/) | [Conagra stock going flaccid on news that hotdog production came up short due to an equipment failure. Hey pal, we've all been there before. It's nothing to be ashamed of](https://www.fark.com/goto/13414184) ( [finance.yahoo.com](https://www.fark.com/goto/13414184) ) » [(2 comments)](https://www.fark.com/comments/13414184/Conagra-stock-going-flaccid-on-news-that-hotdog-production-came-up-short-due-to-an-equipment-failure-Hey-pal-weve-all-been-there-before-Its-nothing-to-be-ashamed-of) |
-| [STEM](https://www.fark.com/stem/) | [Scientists have successfully mapped the brain and all it's connections. Just a fruit fly so far, not yours. We wouldn't know where to start with yours](https://www.fark.com/goto/13414268) ( [bbc.com](https://www.fark.com/goto/13414268) ) » [(5 comments)](https://www.fark.com/comments/13414268/Scientists-have-successfully-mapped-brain-all-its-connections-Just-a-fruit-fly-so-far-not-yours-We-wouldnt-know-where-to-start-with-yours) |
-| [Entertainment](https://www.fark.com/entertainment/) | [She gets too hungry for dinner at eight She likes the theater and never comes late She never bothers with people she'd hate That's why the lady is a tramp](https://www.fark.com/goto/13413748) ( [yorkshireeveningpost.co.uk](https://www.fark.com/goto/13413748) ) » [(1 comment)](https://www.fark.com/comments/13413748/She-gets-too-hungry-for-dinner-at-eight-She-likes-theater-never-comes-late-She-never-bothers-with-people-shed-hate-Thats-why-lady-is-a-tramp) |
-| [Fandom](https://www.fark.com/fandom/) | [Epic CEO: The games industry is undergoing a "generational change," which apparently means gamers no longer want to play overproduced games that are basically reskins of other games and released with more bugs than functions](https://www.fark.com/goto/13413836) ( [pcgamer.com](https://www.fark.com/goto/13413836) ) » [(34 comments)](https://www.fark.com/comments/13413836/Epic-CEO-The-games-industry-is-undergoing-a-generational-change-which-apparently-means-gamers-no-longer-want-to-play-overproduced-games-that-are-basically-reskins-of-other-games-released-with-more-bugs-than-functions) |
-| [D'awww](https://www.fark.com/dawww/) | [Do coyotes have puppy dog eyes? Researchers at the Bette Davis Institute want to know](https://www.fark.com/goto/13413782) ( [eurekalert.org](https://www.fark.com/goto/13413782) ) » [(4 comments)](https://www.fark.com/comments/13413782/Do-coyotes-have-puppy-dog-eyes-Researchers-at-Bette-Davis-Institute-want-to-know) |
-| [Food](https://www.fark.com/food/) | [The bread counts as much as the cheese](https://www.fark.com/goto/13414012) ( [eatingwell.com](https://www.fark.com/goto/13414012) ) » [(2 comments)](https://www.fark.com/comments/13414012/The-bread-counts-as-much-as-cheese) |
-| [Politics](https://www.fark.com/politics/) | [Judge Aileen Cannon set Nov 18 to be the start of the trial involving Ryan Routh](https://www.fark.com/goto/13414202) ( [wpbf.com](https://www.fark.com/goto/13414202) ) » [(29 comments)](https://www.fark.com/comments/13414202/Judge-Aileen-Cannon-set-Nov-18-to-be-start-of-trial-involving-Ryan-Routh) |
+| [Main](https://www.fark.com/) | [In a victory for metaphor, San Francisco erects rubber barricades to deter johns from hooking up with sex workers](https://www.fark.com/goto/13414052) ( [sfstandard.com](https://www.fark.com/goto/13414052) ) » [(19 comments)](https://www.fark.com/comments/13414052/In-a-victory-for-metaphor-San-Francisco-erects-rubber-barricades-to-deter-johns-from-hooking-up-with-sex-workers) |
+| [Discussion](https://www.fark.com/discussion/) | ["Is my mom's love for her grandchildren toxic?"](https://www.fark.com/goto/13414028) ( [slate.com](https://www.fark.com/goto/13414028) ) » [(2 comments)](https://www.fark.com/comments/13414028/Is-my-moms-love-for-her-grandchildren-toxic) |
+| [Sports](https://www.fark.com/sports/) | [It's a Tigers sweep](https://www.fark.com/goto/13414518) ( [freep.com](https://www.fark.com/goto/13414518) ) » [(6 comments)](https://www.fark.com/comments/13414518/Its-a-Tigers-sweep) |
+| [Business](https://www.fark.com/business/) | [Breaking: CVS](https://www.fark.com/goto/13414362) ( [statnews.com](https://www.fark.com/goto/13414362) ) » [(2 comments)](https://www.fark.com/comments/13414362/Breaking-CVS) |
+| [STEM](https://www.fark.com/stem/) | [Let me guess...cold and flu?](https://www.fark.com/goto/13414492) ( [globalnews.ca](https://www.fark.com/goto/13414492) ) » [(0 comments)](https://www.fark.com/comments/13414492/Let-me-guesscold-flu) |
+| [Entertainment](https://www.fark.com/entertainment/) | [In a crime more horrific than killing their parents, the Menendez brothers have made Milli Vanilli popular again](https://www.fark.com/goto/13414474) ( [thedailybeast.com](https://www.fark.com/goto/13414474) ) » [(3 comments)](https://www.fark.com/comments/13414474/In-a-crime-more-horrific-than-killing-their-parents-Menendez-brothers-have-made-Milli-Vanilli-popular-again) |
+| [Fandom](https://www.fark.com/fandom/) | [Nice GPU, but can it run DOOM?](https://www.fark.com/goto/13414508) ( [techspot.com](https://www.fark.com/goto/13414508) ) » [(2 comments)](https://www.fark.com/comments/13414508/Nice-GPU-but-can-it-run-DOOM) |
+| [D'awww](https://www.fark.com/dawww/) | [Everyone take a deep breath of relief as Nibi the rescued beaver has received a stay of release into the wild by Gov. Maura Healey of Massachusetts](https://www.fark.com/goto/13414358) ( [msn.com](https://www.fark.com/goto/13414358) ) » [(2 comments)](https://www.fark.com/comments/13414358/Everyone-take-a-deep-breath-of-relief-as-Nibi-rescued-beaver-has-received-a-stay-of-release-into-wild-by-Gov-Maura-Healey-of-Massachusetts) |
+| [Food](https://www.fark.com/food/) | [How to grow those enormous gourds](https://www.fark.com/goto/13414326) ( [wbur.org](https://www.fark.com/goto/13414326) ) » [(0 comments)](https://www.fark.com/comments/13414326/How-to-grow-those-enormous-gourds) |
+| [Politics](https://www.fark.com/politics/) | [Robert Reich explains why voters are morons](https://www.fark.com/goto/13414386) ( [theguardian.com](https://www.fark.com/goto/13414386) ) » [(40 comments)](https://www.fark.com/comments/13414386/Robert-Reich-explains-why-voters-are-morons) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 02 2024 15:43:28  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 02 2024 21:44:01  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
