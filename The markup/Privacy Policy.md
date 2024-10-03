@@ -68,9 +68,7 @@ You can reach us with questions at privacy@themarkup.org.
 You can also reach us at the address below:
 
 The Markup  
-P.O. Box 1103  
-N.Y., N.Y. 10159  
-(347) 717-4094
+1017 L Street #261, Sacramento, CA 95814
 
 [↩︎ link](#the-fine-print)
 
