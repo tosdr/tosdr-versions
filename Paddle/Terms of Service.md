@@ -1,4 +1,8 @@
-WebinarLearn how to execute a web2app strategy to drive more revenue   [Join us live](https://paddle.com/events/webinars/app-monetization-2.0-and-whats-next-for-consumer-subscription-apps?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q3_core_web_monetization_gp_bullhound_sept25&utm_content=homepage-banner "Join us")
+Webinar
+
+Selling your mobile app on the web: Proven tactics to earn more revenue
+
+[Join us live](https://paddle.com/events/webinars/selling-your-mobile-app-on-the-web-proven-tactics-to-earn-more-revenue)
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
