@@ -20,16 +20,16 @@ Thursday, October 3 2024
 
 Latest
 
-* [Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
-* [How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
-* [OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
-* [Amazon Echo Smart Speakers Are up to 55% Off Ahead of October Prime Day](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
-* [VDI Setup, Installation, and Configuration Guide 2024](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
-* [Best Ellipticals of 2024](https://digitpatrox.com/best-ellipticals-of-2024/)
-* [I’ve Paid for iCloud Storage for Years, Here’s Why I Don’t Regret It](https://digitpatrox.com/ive-paid-for-icloud-storage-for-years-heres-why-i-dont-regret-it/)
-* [IT channel leaders remain buoyant about future of partnerships](https://digitpatrox.com/it-channel-leaders-remain-buoyant-about-future-of-partnerships/)
-* [Google Updates Confidential Computing Portfolio](https://digitpatrox.com/google-updates-confidential-computing-portfolio/)
-* [How to clean a Shark vacuum cleaner](https://digitpatrox.com/how-to-clean-a-shark-vacuum-cleaner/)
+* [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
+* [Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
+* [Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
+* [How to make a multi-cloud strategy safe for your business](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
+* [OpenAI continues to burn money – Computerworld](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
+* [How to Check a Product’s Price History on Amazon](https://digitpatrox.com/how-to-check-a-products-price-history-on-amazon/)
+* [Vendor Spotlight: Idera](https://digitpatrox.com/vendor-spotlight-idera/)
+* [Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
+* [Best Dehumidifiers of 2024 – Consumer Reports](https://digitpatrox.com/best-dehumidifiers-of-2024-consumer-reports/)
+* [Spotify’s Newest Feature Would’ve Been a Godsend on My Last Flight](https://digitpatrox.com/spotifys-newest-feature-wouldve-been-a-godsend-on-my-last-flight/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Redwood-Software-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-redwood-software/)
+* [![](https://cdn.vox-cdn.com/thumbor/Ea5p_Y53WwJvgJApDnKYuvlpxnc=/0x0:2805x1870/1200x628/filters:focal(1403x935:1404x936)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656330/ankersoundcore1.jpg)](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
     
-    [Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
+    [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
     
-    39 mins ago
+    17 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rcggK9pkAbTthEnDrC7pPh-1200-80.jpg)](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
+* [![](https://beebom.com/wp-content/uploads/2023/12/dandadan-poster.jpg)](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
     
-    [How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
+    [Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
     
-    58 mins ago
+    31 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3544921-0-47596000-1727954369-sam-altman-openai-100950687-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Find-Great-People-hacked-SSNs-compromised.jpg)](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
     
-    [OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
-    
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J2F8Q9KDE20HSCYV3HX2M1K5/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
-    
-    [Amazon Echo Smart Speakers Are up to 55% Off Ahead of October Prime Day](https://digitpatrox.com/amazon-echo-smart-speakers-are-up-to-55-off-ahead-of-october-prime-day/)
+    [Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/VDI-Setup-Installation-and-Configuration-Guide.jpeg)](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/b9vuhUGxaz34KQhGb2fPoV-1200-80.jpg)](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
     
-    [VDI Setup, Installation, and Configuration Guide 2024](https://digitpatrox.com/vdi-setup-installation-and-configuration-guide-2024/)
+    [How to make a multi-cloud strategy safe for your business](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
+    
+    2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3545092-0-95704000-1727974489-shutterstock_2453873041.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
+    
+    [OpenAI continues to burn money – Computerworld](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [39 mins ago
+* [17 mins ago
     
-    ### Vendor Spotlight: Redwood Software](https://digitpatrox.com/vendor-spotlight-redwood-software/)
-* [58 mins ago
+    ### Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
+* [31 mins ago
     
-    ### How to stop hackers attacking hybrid clouds](https://digitpatrox.com/how-to-stop-hackers-attacking-hybrid-clouds/)
-* [1 hour ago
+    ### Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
+* [2 hours ago
     
-    ### OpenAI demands investors shun rivals such as Anthropic, Elon Musk’s xAI – Computerworld](https://digitpatrox.com/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai-computerworld/)
+    ### Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [2 weeks ago
     
-    ### Best ebook readers for 2024](https://digitpatrox.com/best-ebook-readers-for-2024/)
-* [1 day ago
+    ### GTA 6 Hasn’t Been Delayed and Will Release in Fall 2025, Affirms Take Two](https://digitpatrox.com/gta-6-hasnt-been-delayed-and-will-release-in-fall-2025-affirms-take-two/)
+* [2 weeks ago
     
-    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
-* [August 22, 2024
+    ### The Five Factors That Determine Your Credit Score](https://digitpatrox.com/the-five-factors-that-determine-your-credit-score/)
+* [August 24, 2024
     
-    ### OnePlus Buds Pro 3 Review: Nothing Comes Close](https://digitpatrox.com/oneplus-buds-pro-3-review-nothing-comes-close/)
+    ### Mortal Kombat 1: Reiko Moves and Combos Guide](https://digitpatrox.com/mortal-kombat-1-reiko-moves-and-combos-guide/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### I’ve Paid for iCloud Storage for Years, Here’s Why I Don’t Regret It](https://digitpatrox.com/ive-paid-for-icloud-storage-for-years-heres-why-i-dont-regret-it/)
 * [3 hours ago
     
-    ### IT channel leaders remain buoyant about future of partnerships](https://digitpatrox.com/it-channel-leaders-remain-buoyant-about-future-of-partnerships/)
+    ### Vendor Spotlight: Idera](https://digitpatrox.com/vendor-spotlight-idera/)
 * [3 hours ago
     
-    ### Google Updates Confidential Computing Portfolio](https://digitpatrox.com/google-updates-confidential-computing-portfolio/)
+    ### Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
+* [3 hours ago
+    
+    ### Best Dehumidifiers of 2024 – Consumer Reports](https://digitpatrox.com/best-dehumidifiers-of-2024-consumer-reports/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 21, 2024
+* [August 13, 2024
     
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
