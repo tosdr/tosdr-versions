@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -928,7 +928,7 @@ Product category, brand navigation and general site naviation
         
     * Services
         
-        Services options - 5 groups of items - 15 total selections
+        Services options - 5 groups of items - 16 total selections
         
         * Troubleshooting & Repair
             
@@ -936,6 +936,7 @@ Product category, brand navigation and general site naviation
             * [Laptop Screen Repair](https://www.microcenter.com/product/607202/laptop-screen-repair-service)
             * [Laptop Battery Replacement](https://www.microcenter.com/site/products/laptop-batteries.aspx)
             * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
+            * [Computer Hardware Repair](https://www.microcenter.com/site/service/instore-service-diagnostics.aspx)
             * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
         * Custom Builds & Upgrades
             
