@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+*  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
-    ====================================================================================================================
+    [5 Celebrities We're Begging To Read Memoirs From](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    ========================================================================================================================
     
-    No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
+    While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
     
-    By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+    By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
     
-* *  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
+* *  [![Princess Diana at event](https://www.women.com/img/gallery/princess-dianas-stunning-hair-transformation/intro-1727795663.jpg)](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
         
-        ### [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
+        ### [Princess Diana's Stunning Hair Transformation](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
         
-        People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
+        Princess Diana's hair told a story of the bashful bride, dutiful wife, happy mother, and later, a woman stepping into power and independence.
         
-        By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
+        By Bernadette Roe [Read More](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
         
-    *  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+    *  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [5 Spicy Meghan Markle Outfits She Never Could Have Worn As A Royal](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+        ### [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
         
-        From cutouts to trend dressing, now that she's no longer a working royal, Meghan Markle's spiciest ensembles let her true personality shine.
+        No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+        By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
         
 
 More Stories
@@ -93,6 +93,30 @@ More Stories
     To make Eterneva Diamonds happen, Adelle Archer and Garrett Ozar needed help. So they took their business to Shark Tank.
     
     By Emily Hutchinson [Read More](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
+    
+*  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    
+    ### [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
+    
+    People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
+    
+    By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
+    
+*  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Spicy Meghan Markle Outfits She Never Could Have Worn As A Royal](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
+    
+    From cutouts to trend dressing, now that she's no longer a working royal, Meghan Markle's spiciest ensembles let her true personality shine.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
     
 *  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
@@ -381,30 +405,6 @@ More Stories
     From lived-in eyeliner to clean, dewy skin, fall 2024's hottest makeup trends are all about keeping things extra low-key.
     
     By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
-*  [![Kylie Jenner and Timotheé Chalamet at an event](https://www.women.com/img/gallery/red-flags-in-kylie-jenner-and-timothe-chalamets-relationship/intro-1726508612.jpg)](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
-    
-    ### [Red Flags In Kylie Jenner And Timotheé Chalamet's Relationship](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
-    
-    Kylie Jenner and Timothee Chalamet might seem like the perfect Hollywood couple, but a closer look at the pair's relationship reveals some glaring red flags.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
-    
-*  [![Joe Jonas with Sophie Turner](https://www.women.com/img/gallery/sophie-turner-is-stepping-up-her-style-game-post-joe-jonas-divorce/intro-1726617067.jpg)](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Sophie Turner Is Stepping Up Her Style Game Post-Joe Jonas Divorce](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-    
-    After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
     
 
 Back
