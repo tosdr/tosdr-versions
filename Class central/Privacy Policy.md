@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
-2. [6 Best SEO Courses for 2024: Rank Higher on Google](https://www.classcentral.com/report/best-seo-courses/)
-3. [8 Best ZBrush Courses for 2024: Sculpting in 3D](https://www.classcentral.com/report/best-zbrush-courses/)
-4. [7 Best Free Human Anatomy Courses for 2024](https://www.classcentral.com/report/best-human-anatomy-courses/)
-5. [Can I Get Academic Credit from Online Courses?](https://www.classcentral.com/report/academic-credit-online-courses/)
+1. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
+2. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
+3. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
+4. [6 Best SEO Courses for 2024: Rank Higher on Google](https://www.classcentral.com/report/best-seo-courses/)
+5. [8 Best ZBrush Courses for 2024: Sculpting in 3D](https://www.classcentral.com/report/best-zbrush-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. digital marketing
     
-2. c
+2. hacking
     
-3. html
+3. data science
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Web Development
     
-    3,912 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Computer Science
+    12,604 courses](https://www.classcentral.com/subject/web-development)
+2. [Communication Skills
     
-    33,564 courses](https://www.classcentral.com/subject/cs)
-3. [Graphic Design
+    3,913 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Digital Marketing
     
-    4,163 courses](https://www.classcentral.com/subject/graphic-design)
+    5,798 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Learn to Program: The Fundamentals
+1. [Molecular Biology - Part 1: DNA Replication and Repair
     
-    University of Toronto](https://www.classcentral.com/course/programming1-385)
-2. [Product Management Essentials
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/molecular-biology-massachusetts-institute-of-tech-2907)
+2. [Computational Social Science Methods
     
-    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
-3. [Critical Thinking at University: An Introduction
+    University of California, Davis](https://www.classcentral.com/course/computational-social-science-methods-17299)
+3. [The Science of Everyday Thinking
     
-    University of Leeds](https://www.classcentral.com/course/critical-thinking-at-university-12273)
+    University of Queensland](https://www.classcentral.com/course/thinking-the-university-of-queensland-the-science-1332)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
