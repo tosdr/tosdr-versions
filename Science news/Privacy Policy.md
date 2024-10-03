@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scientists have traced all 54.5 million connections in a fruit fly’s brain](https://www.sciencenews.org/article/fruit-fly-brain-connections-traced)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")13 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")18 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")13 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")13 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
