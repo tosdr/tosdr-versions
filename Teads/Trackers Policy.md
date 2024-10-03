@@ -28,7 +28,7 @@ Beware of phishing attacks, Teads will never ask for your credentials on social 
 
 * [en](https://www.teads.com/ad-policies/?wg-choose-original=true)
 
-[![Teads Logo Black](https://www.teads.com/wp-content/uploads/2019/07/Teads_logo_Black.svg)](https://www.teads.com/)
+[![Teads Logo Black](/wp-content/uploads/2019/07/Teads_logo_Black.svg)](https://www.teads.com/)
 
 * [The Global Media Platform](https://www.teads.com/the-global-media-platform/)
 * [For Advertisers](#)
@@ -54,7 +54,7 @@ Beware of phishing attacks, Teads will never ask for your credentials on social 
 
 [Login](https://login.teads.tv/login)
 
-[![Teads Logo Black](https://www.teads.com/wp-content/uploads/2019/07/Teads_logo_Black.svg)](https://www.teads.com/)
+[![Teads Logo Black](/wp-content/uploads/2019/07/Teads_logo_Black.svg)](https://www.teads.com/)
 
 Menu
 
@@ -592,7 +592,7 @@ About Teads
 * [Engineering at Teads](https://engineering.teads.com/)
 * [Security at Teads](https://www.teads.com/security/)
 
-![](https://www.teads.com/wp-content/uploads/2019/07/Teads_logo_White.svg)
+![](/wp-content/uploads/2019/07/Teads_logo_White.svg)
 
 [Contact Us](https://www.teads.com/teads-contact/)
 
@@ -651,7 +651,7 @@ Analytical cookies are used to understand how visitors interact with the website
 
 SAVE & ACCEPT
 
-![Outbrain + Teads Merge](https://www.teads.com/wp-content/uploads/2024/08/tiger-blog-card-768x337.png)
+![Outbrain + Teads Merge](/wp-content/uploads/2024/08/tiger-blog-card-768x337.png)
 
 Teads and Outbrain Merge To Form Leading Omnichannel Advertising Platform…
 
