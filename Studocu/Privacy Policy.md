@@ -132,17 +132,14 @@ Your personal data are visible to other users in a public account on StuDocu. Yo
 
 When you respond to documents and messages from fellow students, your first name is shown, which is visible to other students.
 
-The following personal data is processed when you use StuDocu with your account:
+The following personal data is processed when you use Studocu with your account:
 
-* Number of points earned in the current and previous month
-* Numbers of lots
 * Number of fellow students that you have helped: your impact level
 * Uploaded documents: uploads, upvotes/downvotes and reactions on it from fellow students
 * Statistics
 * Books that you read and courses you follow
 * Reported documents: ‘I cannot open this document;’ ‘The description of this document is wrong; ’This document belongs to another subject or book;’ ‘Otherwise: it is an open text.’
-* Payment details, including the amount of compensation you received from us and your  
-    PayPal account.
+* Payment details and your PayPal account.
 
 We process this personal data for the following purposes:
 
