@@ -29,6 +29,8 @@ Update
 
 Complete Checkout
 
+[Flash Sale! | Additional 20% Off Site! | Save automatically at Cart](https://magicalbutter.com/collections/bundle-deals)
+
           
 
  * [Subscribe & Save](https://magicalbutter.com/collections/subscriptions)
