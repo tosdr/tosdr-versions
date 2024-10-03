@@ -252,7 +252,6 @@ Browse
     * PC & Laptop
         
         * [PC & Laptop](https://www.maplin.co.uk/collections/pc-laptop-accessories)
-        * [Laptop Chargers](https://www.maplin.co.uk/collections/laptop-chargers)
         * [Webcams](https://www.maplin.co.uk/collections/webcams)
         * [Headsets](https://www.maplin.co.uk/collections/headsets)
         * [Laptop Stands](https://www.maplin.co.uk/collections/laptop-stands)
@@ -261,14 +260,12 @@ Browse
         * [Mice](https://www.maplin.co.uk/collections/mice)
         * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
         * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
+        * [Flash Drives](https://www.maplin.co.uk/collections/flash-drives)
         * [External CD / DVD Drives](https://www.maplin.co.uk/collections/external-dvd-drives)
         
     * Phone & Tablet
         
         * [Phone & Tablet](https://www.maplin.co.uk/collections/phone-tablet-accessories)
-        * [Phone & Tablet Chargers](https://www.maplin.co.uk/collections/phone-tablet-chargers)
-        * [Wireless Chargers](https://www.maplin.co.uk/collections/wireless-chargers)
-        * [Power Banks](https://www.maplin.co.uk/collections/power-banks)
         * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
         * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
         * [Styluses](https://www.maplin.co.uk/collections/styluses)
@@ -1053,7 +1050,6 @@ Browse
     
     [PC & Laptop](https://www.maplin.co.uk/collections/pc-laptop-accessories)
     
-    * [Laptop Chargers](https://www.maplin.co.uk/collections/laptop-chargers)
     * [Webcams](https://www.maplin.co.uk/collections/webcams)
     * [Headsets](https://www.maplin.co.uk/collections/headsets)
     * [Laptop Stands](https://www.maplin.co.uk/collections/laptop-stands)
@@ -1062,13 +1058,11 @@ Browse
     * [Mice](https://www.maplin.co.uk/collections/mice)
     * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
     * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
+    * [Flash Drives](https://www.maplin.co.uk/collections/flash-drives)
     * [External CD / DVD Drives](https://www.maplin.co.uk/collections/external-dvd-drives)
     
     [Phone & Tablet](https://www.maplin.co.uk/collections/phone-tablet-accessories)
     
-    * [Phone & Tablet Chargers](https://www.maplin.co.uk/collections/phone-tablet-chargers)
-    * [Wireless Chargers](https://www.maplin.co.uk/collections/wireless-chargers)
-    * [Power Banks](https://www.maplin.co.uk/collections/power-banks)
     * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
     * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
     * [Styluses](https://www.maplin.co.uk/collections/styluses)
