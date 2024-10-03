@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Deep Brain Stimulation After Brain Injury, ...](https://www.sciencedaily.com/releases/2024/10/241001115019.htm)
+* [Ovarian Cancer: Detecting 96% of Cases](https://www.sciencedaily.com/releases/2024/09/240930212848.htm)
+* [How Plant Respond to Warming Climate](https://www.sciencedaily.com/releases/2024/10/241002154002.htm)
+* [Scientists Create Flies That Halt in Red Light](https://www.sciencedaily.com/releases/2024/10/241002123015.htm)
+* [Scientists Decode Key Mutation in Many Cancers](https://www.sciencedaily.com/releases/2024/10/241002122918.htm)
 * [Record-Breaking Stellar Triplets Spotted](https://www.sciencedaily.com/releases/2024/10/241002123146.htm)
 * [Playing Bottlenose Dolphins 'Smile' at Each ...](https://www.sciencedaily.com/releases/2024/10/241002123030.htm)
-* [Entire Brain of an Adult Fruit Fly Mapped](https://www.sciencedaily.com/releases/2024/10/241002123138.htm)
+* [Entire Brain of Adult Fruit Fly Mapped](https://www.sciencedaily.com/releases/2024/10/241002123138.htm)
 * [Decade After Hurricane, Thousands of Early ...](https://www.sciencedaily.com/releases/2024/10/241002123012.htm)
 * [AI Lets You Glimpse Potential Future Self](https://www.sciencedaily.com/releases/2024/10/241002104856.htm)
-* [Do Coyotes Have Puppy Dog Eyes?](https://www.sciencedaily.com/releases/2024/10/241002104655.htm)
-* [Reducing Daily Sitting May Prevent Back Pain](https://www.sciencedaily.com/releases/2024/10/241002104547.htm)
-* [Using Antimatter to Detect Nuclear Radiation](https://www.sciencedaily.com/releases/2024/10/241001124604.htm)
-* [High Airborne Plastic Chemical Levels](https://www.sciencedaily.com/releases/2024/10/241001170432.htm)
-* [Air Pollution And Children's Brains](https://www.sciencedaily.com/releases/2024/10/241001170430.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
-[Asthma](https://www.sciencedaily.com/news/health_medicine/asthma/)
+[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
 
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
 [Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
-
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
