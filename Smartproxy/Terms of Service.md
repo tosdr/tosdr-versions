@@ -108,7 +108,7 @@ from$0.09/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
 
 [Site Unblocker
 
-from$6/GB](https://smartproxy.com/proxies/site-unblocker/pricing)
+from$1.6/1K req](https://smartproxy.com/proxies/site-unblocker/pricing)
 
 [Scrapers](https://smartproxy.com/scraping)
 
@@ -172,17 +172,15 @@ WHAT'S NEW
 
 ![](https://images.smartproxy.com/knowledge_Hub_c0bfdd889d/knowledge_Hub_c0bfdd889d.svg)
 
-Webinar Alert
+Smartproxy Knowledge Hub
 
-Mastering web scraping and managing large data volumes for AI training
+Advanced scraping tutorials, proxy setup and integration guides.
 
-[Register now](https://www.bigmarker.com/smartproxy/Web-Scraping-at-Scale-Strategies-for-Handling-Large-Volumes-of-Data?utm_bmcr_source=SPwebsite)
+[Explore](https://smartproxy.com/devs)
 
 Resources
 
 Setup
-
-[How it Works](https://smartproxy.com/how-it-works)
 
 [Quick Start Guide
 
