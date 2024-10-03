@@ -36,18 +36,18 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
-    * [![This hardware VPN router is cheaper many software subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Dutch Police: ‘State actor’ likely behind recent data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This hardware VPN router is cheaper many software subscriptions](https://www.bleepingcomputer.com/offer/deals/this-hardware-vpn-router-is-cheaper-many-software-subscriptions/)
-    * [![FIN7 hackers launch deepfake nude “generator” sites to spread malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Dutch Police: ‘State actor’ likely behind recent data breach](https://www.bleepingcomputer.com/news/security/dutch-police-state-actor-likely-behind-recent-data-breach/)
+    * [![This ethical hacking course lays the groundwork for a career in cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
-    * [![Critical Ivanti RCE flaw with public exploit now used in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        This ethical hacking course lays the groundwork for a career in cybersecurity](https://www.bleepingcomputer.com/offer/deals/this-ethical-hacking-course-lays-the-groundwork-for-a-career-in-cybersecurity/)
+    * [![Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical Ivanti RCE flaw with public exploit now used in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
-    * [![Fake browser updates spread updated WarmCookie malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-and-doj-seize-spear-phishing-domains-used-by-star-blizzard-russian-hackers/)
+    * [![Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
+        Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](https://www.bleepingcomputer.com/news/security/over-4-000-adobe-commerce-magento-shops-hacked-in-cosmicsting-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
