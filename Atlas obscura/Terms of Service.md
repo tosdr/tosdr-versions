@@ -16,113 +16,15 @@ Open main menu
 
 Loading...
 
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/4lnSORRHftHNFSJnX2vgq7vz1D7DNAxzjzZx6pwH6rI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84NDE4/NmExYi1hZjc1LTQ5/ODUtYWNkNy0xNWRi/NmVkYjUyZmVkMzEw/YzZmODMzMjg5YmYx/ZGRfeXJxWlM4VkEu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-san-francisco)
-
-   [![](https://img.atlasobscura.com/XI6KeU7ZYS2Ec45uq9gM7aA-D7uMh3GbDxv0u4lDl8c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yM2Qy/YjBiYy0yN2E2LTQ4/YTctYTNmOC0wYzgx/Yzk5NWE5NzdjNzY2/YzAxNmJhZDE0OWZj/YzFfdWMzeGtqa1Eu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
+Loading...
 
 Loading...
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![](https://img.atlasobscura.com/4NiHJjsB_bzubXnp1gCPWos43bpft8BDzRN3Yc_l8ck/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMWJk/MTg1ZC03ODY4LTRh/YzQtYWQ2Yy1hN2Ey/ZWRlMDY4MzJlMGM2/MzAzODc2MjAzM2E2/NTNfMjAyNDA4MjNf/MTUyMDIzLmpwZw.jpg)
-
-Sod House on the Prairie](https://www.atlasobscura.com/places/sod-house-on-the-prairie)
-
-   [![Behold, the king of terrible lizards.](https://img.atlasobscura.com/yVHrjYU5gjO6eZ355GfoyeB7YafPBag5hr3nDdh-KsU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYTFl/Mzc4ZC0xNjc4LTQz/NjUtYTI3NS0xZjE3/ZTg2ZDE2YmZkNjEx/NDkwYTE1ZDA0OGU2/MjBfSU1HXzcyMTAu/anBn.jpg)
-
-Dragon Rock](https://www.atlasobscura.com/places/dino-mite-rock)
-
-   [![The world's largest jellyfish collection is tucked away in a relatively small Japanese city.](https://img.atlasobscura.com/xfkhk_3YG6XS7UuhRVkgB6Y774YkR26d7agLQ2wEsdg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mYTc4/OWQ3Yzc1ODJkNzg1/MjJfOTEzNTM5NzM5/Nl9mNjY5YmQzZTJi/X2MuanBn.jpg)
-
-Kamo Aquarium](https://www.atlasobscura.com/places/kamo-aquarium)
-
-   [![](https://img.atlasobscura.com/LELDqS8bFhAcovPfqMnfCtbs56U_8exGoUMMBXaFQzM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83M2I2/N2JlNy0xNjE2LTQz/YWItYjg1ZS00OGVl/ZmNjMTUxMTMzMjU0/YjFjZDgxOTRkYTYw/NzZfMTAwMDA4MzM2/Ny5qcGc.jpg)
-
-Yokai Art Museum](https://www.atlasobscura.com/places/yokai-art-museum)
+Loading...
 
 Loading...
 
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![In Sardinian folktales, the accabadora was an older woman who slipped into the homes of those lingering near death to send them on their way.](https://img.atlasobscura.com/eD6TN9o5AQQJ8SV7Vhzxqv-NsarnxR7OX-eU--pcLUI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82N2E4NjNlZS0y/NzIxLTRmZGQtYjgy/ZC1lNDg1MjY0NmFi/YTFjZWI3ZTNlMjc1/OGQ3YTI3YWZfZmVt/bWluYSBhY2NhYmFk/b3JhIEZJTkFMLmpw/Zw.jpg)
-
-Death as a Woman: The Accabadora of Sardinia](https://www.atlasobscura.com/articles/death-as-a-woman-accabadora-sardinia)
-
-   [![](https://img.atlasobscura.com/mhRCuLFWsw4bh7dmuc26aGtEhw_stkUtFyTeL6Ha4C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jYTU3MGYwN2Fj/ZGIzNjU1MjlfQU9f/SUZBUV9NQl92N19G/aW5hbC4wMF8wM18y/M18wMS5TdGlsbDAx/MCAoMikuanBn.jpg)
-
-Meet Myrtle Beach's Mini-Golf Master](https://www.atlasobscura.com/articles/infrequently-asked-questions-meet-myrtle-beach-mini-golf-master)
-
-   [![](https://img.atlasobscura.com/dcuPX_VwEA5GzSSbI_es6Mg3yN0rebJAWwlEwuPmIMY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iMzg0NWVlMi03/NzM0LTQ2NGEtYTdm/Ny03ZWE5ZTMxNmU5/MjZmN2MzM2EyMTY3/NmQ0MmZkYWJfU3Vu/X1d1a29uZ19jcm9w/LmpwZw.jpg)
-
-The Video Game 'Black Myth: Wukong' Has Ancient Roots](https://www.atlasobscura.com/articles/black-myth-wukong-story)
-
-   [![Brands of all sorts used recipes to sell products in the post-war era.](https://img.atlasobscura.com/OddCefitHaApBVSGtDjZ97Z9C03ayXIA1tnu6bxnOb8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kNzRhZjliMy1k/YmM5LTQ2MzYtYWZh/Ny01NDE3YjNjNzZi/YzkxYTM1ODdmZTYz/ZjM5ZTM4NmJfUGFn/ZSAxMjAgYW5kIDEy/MSBqb2luZWQgMi5q/cGc.jpg)
-
-American Food Traditions That Started as Marketing Ploys](https://www.atlasobscura.com/articles/american-food-traditions-that-started-as-marketing-ploys)
+Loading...
 
 No search results found for  
 “”
