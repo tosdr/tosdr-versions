@@ -536,7 +536,7 @@ English
 * Product
     * [Invoice Software](https://www.freshbooks.com/invoice)
     * [Expenses and Receipts](https://www.freshbooks.com/expenses-and-receipts-tracking)
-    * [Accounting](https://www.freshbooks.com/accounting)
+    * [Accounting Software](https://www.freshbooks.com/accounting)
     * [Time Tracking](https://www.freshbooks.com/timesheets-and-time-tracking)
     * [Managing Projects](https://www.freshbooks.com/projects-and-collaboration)
     * [Estimating Software](https://www.freshbooks.com/estimating-software)
