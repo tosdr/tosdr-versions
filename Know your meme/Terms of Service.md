@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[J.D. Vance's "You Guys Weren’t Going To Fact Check"](https://knowyourmeme.com/memes/jd-vances-you-guys-werent-going-to-fact-check "J.D. Vance's "You Guys Weren’t Going To Fact Check"") [Tim Walz "I've Become Friends With School Shooters"](https://knowyourmeme.com/memes/tim-walz-ive-become-friends-with-school-shooters "Tim Walz "I've Become Friends With School Shooters"") [2024 Earth's Mini-Moon](https://knowyourmeme.com/memes/events/2024-earths-mini-moon "2024 Earth's Mini-Moon") [J.D. Vance Side Eye](https://knowyourmeme.com/memes/jd-vance-side-eye "J.D. Vance Side Eye") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia")
+[Jimmy Carter 100th Birthday Photo](https://knowyourmeme.com/memes/jimmy-carter-100th-birthday-photo "Jimmy Carter 100th Birthday Photo") [America's Hitler](https://knowyourmeme.com/memes/americas-hitler "America's Hitler") [J.D. Vance's "You Guys Weren’t Going To Fact Check"](https://knowyourmeme.com/memes/jd-vances-you-guys-werent-going-to-fact-check "J.D. Vance's "You Guys Weren’t Going To Fact Check"") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Long Bacon Store](https://knowyourmeme.com/memes/long-bacon-store "Long Bacon Store") [Tim Walz Worried Face](https://knowyourmeme.com/memes/tim-walz-worried-face "Tim Walz Worried Face") [Underground Transgender Mafia](https://knowyourmeme.com/memes/underground-transgender-mafia "Underground Transgender Mafia")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
