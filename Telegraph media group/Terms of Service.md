@@ -200,8 +200,6 @@ More from The Telegraph
     * [SIM-only deals](https://www.telegraph.co.uk/compare/mobile/sim-only-deals)
     
 
-     
-
 Terms and Conditions
 ====================
 
@@ -213,7 +211,7 @@ Save
 
 Share icon
 
-31 August 2023 11:29am
+31 August 2023 11:29am BST
 
 Save
 
