@@ -7661,7 +7661,7 @@ Ready to get started?
 * [Global coverage](https://plaid.com/global/)
 * [Plaid Blog](https://plaid.com/blog/)
 * [Industry resources](https://plaid.com/resources/)
-* [Annual conference](https://plaid.com/events/threads/)
+* [Annual conference](https://plaid.com/events/effects/)
 * [Customer stories](https://plaid.com/customer-stories/)
 
 * About us
@@ -7680,7 +7680,7 @@ Ready to get started?
 * [Global coverage](https://plaid.com/global/)
 * [Plaid Blog](https://plaid.com/blog/)
 * [Industry resources](https://plaid.com/resources/)
-* [Annual conference](https://plaid.com/events/threads/)
+* [Annual conference](https://plaid.com/events/effects/)
 * [Customer stories](https://plaid.com/customer-stories/)
 
 * Use Cases
