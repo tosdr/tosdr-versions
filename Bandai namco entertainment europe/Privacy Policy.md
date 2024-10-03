@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [ARMORED CORE VI FIRES OF RUBICON - Patch Notes 1.07.1](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-patch-notes-1071)
 * [Elden Ring – Patch Notes Version 1.15](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-115)
-* [TEKKEN 8 - Patch 1.08](https://en.bandainamcoent.eu/tekken/news/tekken-8-patch-108)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
