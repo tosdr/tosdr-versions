@@ -554,11 +554,6 @@ Kaiserstr. 89
 
 ### SECUSO Events
 
-**Wednesday, 02 Oct 2024**  
-[Ninth International Joint Conference on Electronic Voting](https://secuso.aifb.kit.edu/english/76.php/event/51913#calendar_top)
-
-* * *
-
 **Friday, 08 Nov 2024**  
 [39\. AIK-Symposium](https://secuso.aifb.kit.edu/english/76.php/event/53037#calendar_top)
 
