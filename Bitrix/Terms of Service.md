@@ -50,7 +50,7 @@ Product
 
 [Mobile tasks Task creation, task tracking, notifications, comments, chat on the go](https://www.bitrix24.com/tools/tasks_and_projects/mobile-tasks.php)
 
-[Project collaboration Take advantage of checklists & sub-tasks, task summary, time tracking, focus & supervisor mode](https://www.bitrix24.com/tools/tasks_and_projects/project-collaboration.php)
+[Project collaboration Work faster with chat, video calls, comments, file storage, documents, external users, task templates](https://www.bitrix24.com/tools/tasks_and_projects/project-collaboration.php)
 
 [Automation Save time with automatic task creation and workflow automation](https://www.bitrix24.com/tools/tasks_and_projects/automation.php)
 
