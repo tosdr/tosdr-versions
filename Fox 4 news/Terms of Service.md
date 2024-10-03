@@ -63,6 +63,7 @@ Search site
 ###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
+* [The Ten](https://www.fox4news.com/shows/theten)
 * [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
@@ -438,6 +439,7 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 ###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
+* [The Ten](https://www.fox4news.com/shows/theten)
 * [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
