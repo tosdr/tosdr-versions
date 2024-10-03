@@ -119,13 +119,13 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 [Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241201-call.html) 2024-12-01
 
+[49 Free and Open Source Projects Receive NGI0 Core Grants](https://nlnet.nl/news/2024/20241003-announcing-Core-call.html) 2024-10-03
+
 [NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
 
 [Meet the Projects Receiving NGI Taler grants](https://nlnet.nl/news/2024/20240806-Taler-selection.html) 2024-08-06
 
 [45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html) 2024-06-18
-
-[node-oidc-provider Wins BlueHats Prize for FOSS maintainers](https://nlnet.nl/news/2024/20240610-Winner-of-2nd-BlueHatsPrize.html) 2024-06-10
 
 * [More news](https://nlnet.nl/news)
 
