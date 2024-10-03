@@ -7,6 +7,7 @@ Menu [Contact](https://www.cardshack.co.uk/s/contact) Account [Basket \- £0.00 
  Enter your search Search
 
 * [Home](https://www.cardshack.co.uk/)
+* [Halloween](https://www.cardshack.co.uk/c/halloween)
 * [Birthday](https://www.cardshack.co.uk/c/birthday)
     
     Back [View all](https://www.cardshack.co.uk/c/birthday) [Birthday Cards](https://www.cardshack.co.uk/c/birthday/birthday-cards)
