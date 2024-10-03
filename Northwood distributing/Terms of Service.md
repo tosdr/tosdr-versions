@@ -104,7 +104,7 @@
 * [Botanicals](https://northwoodcandlesupply.com/collections/botanicals)
 * [All Collections](https://northwoodcandlesupply.com/collections)
 
-[Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en)
+[Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en&region_country=US)
 
 [Favourites (0)](https://northwoodcandlesupply.com/pages/wishlist " Favourites")
 
@@ -206,7 +206,7 @@
 
 Search
 
- Search [Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en) [Favourites 0](https://northwoodcandlesupply.com/pages/wishlist "Favourites") [Shopping bag](https://northwoodcandlesupply.com/cart)
+ Search [Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en&region_country=US) [Favourites 0](https://northwoodcandlesupply.com/pages/wishlist "Favourites") [Shopping bag](https://northwoodcandlesupply.com/cart)
 
 Item added to your cart
 -----------------------
