@@ -241,7 +241,7 @@ August 29, 2024
 
 5 Month Update -- Get This App!! The small monthly price is worth every penny. It's an election year and the fundraising texts are out of control. This app saves me from 20-40 texts per day and I love it! It is saving my sanity, and there are so many different ways to filter. I almost exclusively use the "Context" filter which looks at specific words in the text message. You can filter by everyone or only unknown contacts which is an excellent feature. This app is exactly what I need.
 
-7 people found this review helpful
+8 people found this review helpful
 
 Did you find this helpful?
 
@@ -307,7 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGY5ZkhMcDEyRFFsR0tqaG1xazBMRnc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJs1ZI)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFBJdHRIWjFaMGdKcVdaWkpuclJCeVE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKKXDw)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
