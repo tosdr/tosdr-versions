@@ -56,10 +56,10 @@ Advertising Preferences
 
 There are other ways you can limit interest-based ads. Some advertising service providers may permit you to generally opt-out of some or all interest-based advertising from third parties who are members of self-regulated programs such as the [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1) or the [Digital Advertising Alliance](https://optout.aboutads.info/?c=2&lang=EN). [Google](https://adssettings.google.com/authenticated), [Microsoft](https://account.microsoft.com/privacy/ad-settings/signedout?ru=https%3A%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings) and [Facebook](https://www.facebook.com/ads/settings) also offer you certain ad choices. Please note that Zappos does not control these opt-outs, which may be updated or removed in accordance with those parties’ own respective policies. If you opt-out using any of the above methods you will still see ads (including ads provided by Zappos), but they may not be personalized, and you may still see personalized product recommendations and other similar features on Zappos and its affiliated sites.
 
-Get on the List
----------------
+Join Our List, Get 10% Off
+--------------------------
 
-Subscribe to Zappos emails for exclusive product launches, early notifications for sales, and a few extra-special surprises.
+Sign up for Zappos emails—new subscribers get 10% off a future order!\* Plus, get early access to sales, coupons, and more. (One code per email address.)
 
 Email AddressJoin the Party
 
