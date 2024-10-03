@@ -360,7 +360,7 @@ Depending on your location and subject to applicable law, you may have the follo
 
 ### Access, review, correct, or delete your information (EEA, UK, and Swiss residents)
 
-Depending on your location, you may have the right to access, request correction or deletion of any personal information that we process about you, as provided under applicable data protection laws. You can send an email to [\[email protected\]](https://sift.com/cdn-cgi/l/email-protection) or use our [web form](http://sift.com/data-request) to exercise these rights. [Data Rights Request – Sift](https://sift.com/data-request).
+Depending on your location, you may have the right to access, request correction or deletion of any personal information that we process about you, as provided under applicable data protection laws. You can send an email to [\[email protected\]](https://sift.com/cdn-cgi/l/email-protection) or use our [web form](http://sift.com/data-request) to exercise these rights.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws, and treat each according to the requirements of the applicable jurisdiction. To protect your privacy and security, we may need to take reasonable steps to verify your identity before responding to your request. Specifically, we (or our third party service provider acting on our behalf) may need to collect a copy of your photo ID and any other information necessary to confirm your identity. Such information will be securely processed in accordance with this Notice and only used for the purpose of verifying your identity.
 
