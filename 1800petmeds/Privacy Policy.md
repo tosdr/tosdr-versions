@@ -232,7 +232,7 @@ Popular Searches
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
-    * [National Dog Week Use Code HAPPYPETS Sitewide](https://www.1800petmeds.com/)
+    * [Save 35% on first Autoship Use Code FOOD35](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     
 * [Pet Health Resources](#)
     * [Pet Health Advice](https://www.1800petmeds.com/education)
@@ -836,7 +836,7 @@ Navigation [×](javascript:void(0))
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4acf06ec/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
-    * [National Dog Week Use Code HAPPYPETS Sitewide](https://www.1800petmeds.com/)
+    * [Save 35% on first Autoship Use Code FOOD35](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw186d3792/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw83281fe9/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
