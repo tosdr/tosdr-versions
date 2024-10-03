@@ -24,6 +24,12 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
+[](https://community.klaviyo.com/events/real-stories-real-success-with-kelly-o-connell-240)
+
+Real Stories, Real Success with Kelly O'Connell
+
+(Wed, 9 Oct, 4:00 pm)
+
 * [Home](https://community.klaviyo.com/)
 * Terms
 
