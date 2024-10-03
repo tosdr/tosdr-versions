@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-WATCH LIVE | Governor Kemp's Hurricane Helene Recovery Update At 10:30 A.M.
----------------------------------------------------------------------------
-
-[WATCH HERE!](https://www.gpb.org/events/news/2024/10/03/hurricane-helene-recovery-update)
-
 Messages
 --------
 
