@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 2, 2024**
+**October 3, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
-
-[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
-
 [Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+
+[Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
+
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
-
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
-
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[Geology](https://www.sciencedaily.com/news/earth_climate/geology/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
   
 
