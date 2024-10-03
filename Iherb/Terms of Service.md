@@ -1199,8 +1199,6 @@ SALE
 
 [Solaray](https://de.iherb.com/c/solaray)
 
-SALE
-
 [Solgar](https://de.iherb.com/c/solgar)
 
 [Source Naturals](https://de.iherb.com/c/source-naturals)
