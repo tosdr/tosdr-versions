@@ -53,7 +53,7 @@ Menu
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
-[On/Off Ramp](https://paybis.com/crypto-widget/)
+[Widget](https://paybis.com/crypto-widget/)
 
 [Sign In](https://paybis.com/user/login/)
 
@@ -116,7 +116,7 @@ Live Chat
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
-[Widget](https://paybis.com/crypto-widget/)
+[Crypto Widget](https://paybis.com/crypto-widget/)
 
 Tools
 
