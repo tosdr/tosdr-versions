@@ -146,9 +146,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
-  [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+  [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
 Editors' Picks
 --------------
@@ -185,13 +185,11 @@ By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jess
 
   [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba cool on Abenomics, pragmatic and a bit of a mystery](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425106.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An electronic stock board displays the 225-issue Nikkei average and the rate of the yen against the U.S. dollar outside a securities firm in Tokyo on Monday.")](https://www.japantimes.co.jp/business/2024/10/01/economy/pm-ishiba-economic-policy/ "Ishiba cool on Abenomics, pragmatic and a bit of a mystery")
+  [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
 Podcast
 -------
@@ -254,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Private drone operators seek bigger role in disaster response](https://www.japantimes.co.jp/news/2024/10/03/japan/society/drones-noto-disaster-relief/ "Private drone operators seek bigger role in disaster response")
+[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-10 mins ago
+50 mins ago
 
-[Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says](https://www.japantimes.co.jp/news/2024/10/03/world/politics/trump-so-what-pence-jan-6-us/ "Trump said ‘so what’ when told of Pence's peril on Jan. 6, U.S. says")
-
-27 mins ago
-
-[Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say](https://www.japantimes.co.jp/news/2024/10/03/world/iran-khamenei-nasrallah-israeli-plot/ "Iran's Khamenei warned Nasrallah of Israeli plot to kill him, sources say")
+[Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
 
 1 hours ago
 
-[Guns and transgender rights cases loom as U.S. Supreme Court returns](https://www.japantimes.co.jp/news/2024/10/03/world/crime-legal/gun-porn-us-supreme-court/ "Guns and transgender rights cases loom as U.S. Supreme Court returns")
+[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
 1 hours ago
 
-[Russia's Lavrov says stands alongside China on Taiwan, other issues](https://www.japantimes.co.jp/news/2024/10/03/asia-pacific/russia-lavrov-china-taiwan/ "Russia's Lavrov says stands alongside China on Taiwan, other issues")
+[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
 
-1 hours ago
+2 hours ago
+
+[SoftBank’s Son envisions AI running households in the next few years](https://www.japantimes.co.jp/business/2024/10/03/companies/softbank-son-ai-push/ "SoftBank’s Son envisions AI running households in the next few years")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
