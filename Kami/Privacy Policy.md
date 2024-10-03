@@ -7,7 +7,7 @@
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [Efficacy](https://www.kamiapp.com/efficacy/)
+    * [Efficacy research](https://www.kamiapp.com/efficacy-research/)
     * [What’s New](https://www.kamiapp.com/new-world/)
 * [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
@@ -53,7 +53,7 @@ Menu
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [Efficacy](https://www.kamiapp.com/efficacy/)
+    * [Efficacy research](https://www.kamiapp.com/efficacy-research/)
     * [What’s New](https://www.kamiapp.com/new-world/)
 * [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
@@ -97,7 +97,7 @@ Menu
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [Efficacy](https://www.kamiapp.com/efficacy/)
+    * [Efficacy research](https://www.kamiapp.com/efficacy-research/)
     * [What’s New](https://www.kamiapp.com/new-world/)
 * [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
@@ -144,7 +144,7 @@ PRODUCT
 
 [Features](https://www.kamiapp.com/features/)
 
-[Efficacy](https://www.kamiapp.com/efficacy/)
+[Efficacy research](https://www.kamiapp.com/efficacy-research/)
 
 [What’s new](https://www.kamiapp.com/new-world/)
 
@@ -582,7 +582,7 @@ PRODUCT
 
 [Features](https://www.kamiapp.com/features/)
 
-[Efficacy](https://www.kamiapp.com/efficacy)
+[Efficacy research](https://www.kamiapp.com/efficacy-research/)
 
 [What’s new](https://www.kamiapp.com/new-world/)
 
@@ -673,6 +673,8 @@ PRODUCT
 [Product overview](https://www.kamiapp.com/product/)
 
 [Features](https://www.kamiapp.com/features/)
+
+[Efficacy research](https://www.kamiapp.com/efficacy-research/)
 
 [What’s new](https://www.kamiapp.com/new-world/)
 
