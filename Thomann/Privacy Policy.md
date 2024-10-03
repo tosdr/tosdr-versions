@@ -21,7 +21,7 @@ Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 search  
 
 * [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
-* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
+* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
