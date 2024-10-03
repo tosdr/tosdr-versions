@@ -26,7 +26,6 @@ Company
 * [Blog](https://blog.railway.app/)
 * [Shop](https://shop.railway.app/)
 * [Trust](https://trust.railway.app/)
-* [Startup Program](https://startup.railway.app/)
 
 Contact
 
