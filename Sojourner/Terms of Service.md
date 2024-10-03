@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e4e323f5f144416c9fc2ee86a6872d52
+c1fd5c28a5459900901670615aca9f9e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Faux amber bracelet clasp](https://sojourner.biz/images/cache/SKU0448front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-amber-bracelet-clasp.html "Faux amber bracelet clasp")
+[![4 mm to 6 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0010.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/4-mm-to-6-mm-turquoise-nuggets.html "4 mm to 6 mm turquoise nuggets")
 
-#### [Faux amber bracelet clasp](https://sojourner.biz/clasps/faux-stone/faux-amber-bracelet-clasp.html "Faux amber bracelet clasp")
+#### [4 mm to 6 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/4-mm-to-6-mm-turquoise-nuggets.html "4 mm to 6 mm turquoise nuggets")
 
-$27.00
+$15.00
 
 ### Best Sellers
 
