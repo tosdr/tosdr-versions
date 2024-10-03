@@ -121,3 +121,5 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
 
 Certain products and services offered are provided by BillGO MT, Inc. NMLS#2005089  
 Phone: +1 (800) 457-3682
+
+[![BillGO, Inc. BBB Business Review](https://seal-wynco.bbb.org/logo/ruhzbam/bbb-46101876.png)](https://www.bbb.org/us/co/fort-collins/profile/bill-paying-services/billgo-inc-0805-46101876/#sealclick)
