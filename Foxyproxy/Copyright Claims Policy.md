@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-i came across FOXYPROXY when i first came to America for 3 months and i wanted to watch UK sports and continue purchasing National Lottery tickets online & bet on betfair etc... but it barred my location, so i googled how to access these accounts whilst in USA and came across FP. i have been able to do anything now with the proxy, its so easy and cheap, yet the betting sites and lottery thinks im in ENGLAND when i log in and i have full access and get paid winnings into my account... this is not the end... it comes with a VPN which i set up on my iphone and now i can watch SKYSPORTS TV whilst on the go on my iphone cos it thinks im in the UK too and can access certain UK apps too and log in! absolutely the best thing i've ever tried and worth every penny if not more !! thank you FP !!!
+It has worked quite well, a few days with service problems but no more than 1% of the time I've used it. I've subscribed again!
 
-Nate Grossnass
+Juan Mara
