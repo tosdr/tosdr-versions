@@ -15,9 +15,26 @@
 * [](https://escape-the-boom.com/%e4%b8%ad%e6%96%87/)
 * [WORKSHOPS](https://escape-the-boom.com/workshops/)
 
+[](#main-container "Go to top")
+
+* [/](https://escape-the-boom.com/)
+* [](https://escape-the-boom.com/deutsch/)
+* [](https://escape-the-boom.com/espanol/)
+* [](https://escape-the-boom.com/francais/)
+* [](https://escape-the-boom.com/italiano/)
+* [](https://escape-the-boom.com/portugues/)
+* [](https://escape-the-boom.com/cesky/)
+* [](https://escape-the-boom.com/magyar/)
+* [](https://escape-the-boom.com/polska/)
+* [](https://escape-the-boom.com/turkce/)
+* [](https://escape-the-boom.com/%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%81%d1%8c%d0%ba%d0%b0/)
+* [](https://escape-the-boom.com/%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9/)
+* [](https://escape-the-boom.com/%e4%b8%ad%e6%96%87/)
+* [WORKSHOPS](https://escape-the-boom.com/workshops/)
+
 * [CONTACT](https://escape-the-boom.com/contact/)
 
-[Menü](#offcanvas)
+Menü
 
 IMPRESSUM
 =========
@@ -62,23 +79,6 @@ Quelle: [https://www.e-recht24.de](https://www.e-recht24.de/)
 * [CONTACT](https://escape-the-boom.com/contact/)
 * [IMPRINT \[DE\]](https://escape-the-boom.com/contact/imprint-de/)
 
-[Facebook](https://www.facebook.com/Escape-the-BOOM-1184631061714127) [Twitter](https://twitter.com/EscapeTheBoom) [Instagram](https://www.instagram.com/escapetheboom/)
+[](https://www.facebook.com/Escape-the-BOOM-1184631061714127)[](https://www.instagram.com/escapetheboom/)[](https://mastodon.social/@EscapeTheBOOM)
 
 No tracking cookies were used, harmed or eaten in the making of this website. Enjoy surfing without cookie warnings.
-
-[](# "Go to top")
-
-* [/](https://escape-the-boom.com/)
-* [](https://escape-the-boom.com/deutsch/)
-* [](https://escape-the-boom.com/espanol/)
-* [](https://escape-the-boom.com/francais/)
-* [](https://escape-the-boom.com/italiano/)
-* [](https://escape-the-boom.com/portugues/)
-* [](https://escape-the-boom.com/cesky/)
-* [](https://escape-the-boom.com/magyar/)
-* [](https://escape-the-boom.com/polska/)
-* [](https://escape-the-boom.com/turkce/)
-* [](https://escape-the-boom.com/%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%81%d1%8c%d0%ba%d0%b0/)
-* [](https://escape-the-boom.com/%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9/)
-* [](https://escape-the-boom.com/%e4%b8%ad%e6%96%87/)
-* [WORKSHOPS](https://escape-the-boom.com/workshops/)
