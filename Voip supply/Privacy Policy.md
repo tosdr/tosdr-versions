@@ -1015,17 +1015,19 @@ Glenn Buchheit
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
+![](https://www.voipsupply.com/media/version1727917778/Voipsupply/User/resized/300/300/matt.png)
+
 Matt Dansa
 
 [\--](tel:)
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1727917778/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
-
 [![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1727917778/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
 
 [![Let us program your phone!](https://www.voipsupply.com/media/version1727917778/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
+
+[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1727917778/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
 
 **VoIP Supply Programs and Tools**
 
