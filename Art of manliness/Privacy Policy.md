@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
+
+[Podcast #1,027
+
+###### The Imagination Muscle — Where Good Ideas Come From (And How to Have More of Them)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
 [Podcast #1,026
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,025
 
 ###### The Life and Legacy of Louis L’Amour](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
-
-[Podcast #1,024
-
-###### The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
