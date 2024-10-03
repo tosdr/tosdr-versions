@@ -197,59 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=70482415)  
-Moving Made Easy (PTY) Ltd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=5758459)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=16486095)  
-Network Grey (Pty) Ltd
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=49972228)  
+VIR Electrical (PTY) LTD
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=144428744)  
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=207045975)  
+FX ACCOUNTING
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=167570831)  
+Electro-Heat
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=132667543)  
+Skinz Printing & Branding
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=206958274)  
+Itroniq (Pty) Ltd
+
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=39392568)  
+Tracknetics
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=100920415)  
+Enhle Oarabile Kea
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=55167591)  
+van Schaik rentals
+
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=151136243)  
 SAUL ATHOL ACRES RENTAL
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=44942260)  
-SafeTclip
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=47150027)  
+Sportspro Management (Pty) Ltd
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=5805083)  
-Testpro Laboratory (Pty) Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=31256912)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=27489504)  
-Brilliant Roof Products
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=86389095)  
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=145011713)  
 Sonic Electrical Services PTY Ltd
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=88976332)  
-kidoscabbie
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=140499265)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=3977019)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=8928514)  
-TurboFibre
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=111036539)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=25354877)  
-BD Maintenance
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=208008967)  
-Firstweb Hosting & Design
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=29903545)  
-Repairs In Motion
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b725b20bfebd477581dc7559eb04170238a19b194f7b528f35daf3c32314a2bb&c=106860073)  
-United Paintball Federation
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=1317297)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
