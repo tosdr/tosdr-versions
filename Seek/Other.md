@@ -435,7 +435,7 @@ Employers
 
 [Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
 
-About SEEK
+About us
 
 [About SEEK](https://www.seek.com.au/about)
 
@@ -443,7 +443,7 @@ About SEEK
 
 [Investors](https://www.seek.com.au/about/investors)
 
-[Work for SEEK](https://www.seek.com.au/work-for-seek)
+[Careers](https://www.seek.com.au/work-for-seek)
 
 International partners
 
