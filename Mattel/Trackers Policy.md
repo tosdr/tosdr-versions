@@ -333,11 +333,14 @@ Shop & Learn
 * [Shop Fisher-Price](https://shop.mattel.com/pages/fisher-price)
 * [Mattel Playroom](https://www.mattel.com/playroom)
 
-Contact
+Customer Service
 
 * [Customer Service](https://service.mattel.com/us/home.aspx)
-* [General Inquiries](https://corporate.mattel.com/contact-us)
-* [Corporate Communications](https://corporate.mattel.com/en-us/contact-us#media-contacts)
+* [Contact Us](https://shop.mattel.com/pages/contact-us)
+* [FAQs](https://shop.mattel.com/pages/faq)
+* [Shipping Rates & Policy](https://shop.mattel.com/pages/shipping-rates-policy-page)
+* [Return Policy](https://shop.mattel.com/pages/return-policy)
+* [Terms of Service](https://corporate.mattel.com/terms-conditions)
 
 Helpful Links
 
@@ -352,6 +355,7 @@ About Us
 * [Mattel Corporate](https://corporate.mattel.com/en-us)
 * [Careers](https://jobs.mattel.com/)
 * [Investor Relations](https://investors.mattel.com/)
+* [Corporate Communications](https://corporate.mattel.com/en-us/contact-us#media-contacts)
 
 Legal
 
