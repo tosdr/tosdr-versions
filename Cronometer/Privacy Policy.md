@@ -302,7 +302,7 @@ Under California, Colorado, Connecticut, Montana, Oregon, Texas, and Virginia la
   
 ‍**Right to Restrict Automated Decision Making.**  We do not engage in any automated decision making regarding our users.  In the event we do so in the future, we will add a notice to this policy and provide you with a means to exercise your right to restrict us from making any automated decision that has legal or significant effects for you.    
   
-‍**ADDITIONAL PRIVACY NOTICE TO RESIDENTS OF THE EUROPEAN UNION, UNITED KINGOM AND CANADA  
+‍**ADDITIONAL PRIVACY NOTICE TO RESIDENTS OF THE EUROPEAN UNION, UNITED KINGDOM AND CANADA  
 ‍  
 ‍**Cronometer adopted this section to comply with the European Union’s General Data Protection Regulations (“GDPR”) and other jurisdictions with similar data protection laws such as Canada. This section applies to Site visitors, users, and others who are residents of the European Union, United Kingdom and Canada. We endeavor to uphold GDPR principles for data subjects in the EU as well as those in other jurisdictions with similar rights. Without limiting the foregoing, to the extent that Cronometer’s activities implicate the GDPR or other similar laws now or in the future, this section provides those individuals with information about our relevant privacy practices.  
   
