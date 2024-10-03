@@ -111,7 +111,7 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
-* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 
 Close
 
@@ -175,7 +175,7 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
-* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 
 [Skip to content](#main)
 
@@ -374,7 +374,7 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
-* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
