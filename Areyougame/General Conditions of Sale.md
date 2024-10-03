@@ -126,7 +126,7 @@ Search
         * [Pretend Play](https://areyougame.com/collections/pretend-play-sets)
         * [Sand & Moldable Toys](https://areyougame.com/collections/play-sand-for-kids)
         * [Skill & Action Toys](https://areyougame.com/collections/skill-action-games)
-* [AREYOUGAME COLLECTION](https://areyougame.com/collections/areyougame-collection)
+* [MADE BY AREYOUGAME](https://areyougame.com/collections/areyougame-collection)
     * [SHOP BY AGE](#)
         * [Preschool](https://areyougame.com/collections/ayg-preschool)
         * [Ages 5-8](https://areyougame.com/collections/ayg-ages-5-8)
@@ -285,7 +285,7 @@ Search
         * [Skill & Action Toys](https://areyougame.com/collections/skill-action-games)
         
     
-* [AREYOUGAME COLLECTION](https://areyougame.com/collections/areyougame-collection)
+* [MADE BY AREYOUGAME](https://areyougame.com/collections/areyougame-collection)
     
     * [SHOP BY AGE](#)
         
