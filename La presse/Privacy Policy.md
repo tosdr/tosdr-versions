@@ -261,12 +261,6 @@ H2Y 2Z4.
 
 [Par courriel](https://aide.lapresse.ca/hc/fr-ca/requests/new?ticket_form_id=1500001181141)
 
-### Ensemble, continuons de faire vivre l’info.
-
-Vos dons permettent à nos journalistes de signer aujourd’hui les articles qui façonnent demain
-
-Je soutiens La Pres
-
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2760%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![](/_next/image?url=https%3A%2F%2Fcms-info.lapresse.ca%2Fapp%2Fuploads%2F2022%2F04%2FLaPresse-60.png&w=128&q=80)
