@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Jamey Johnson Signs New Deal With...](https://classiccountrymusic.com/jamey-johnson-signs-new-deal-with-warner-music-nashville/)
+* [Video Resurfaces Of The Highwaymen Sharing...](https://classiccountrymusic.com/video-resurfaces-of-the-highwaymen-sharing-their-favorite-country-songs/)
 * [Kris Kristofferson Helps Fan Deliver Baby...](https://classiccountrymusic.com/kris-kristofferson-helps-fan-deliver-baby-in-hilarious-prank-set-up-by-willie-nelson/)
-* [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
-* [Meet Kris Kristofferson’s Devoted Wife Of...](https://classiccountrymusic.com/meet-kris-kristoffersons-devoted-wife-of-41-years-lisa-meyers/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [‘CMT’ To Air Special Tribute To...](https://classiccountrymusic.com/cmt-to-air-special-tribute-to-kris-kristofferson/)
+* [Video Resurfaces Of The Highwaymen Sharing...](https://classiccountrymusic.com/video-resurfaces-of-the-highwaymen-sharing-their-favorite-country-songs/)
 * [Kris Kristofferson Helps Fan Deliver Baby...](https://classiccountrymusic.com/kris-kristofferson-helps-fan-deliver-baby-in-hilarious-prank-set-up-by-willie-nelson/)
-* [Country Artists React To News Of...](https://classiccountrymusic.com/country-artists-react-to-news-of-kris-kristoffersons-death/)
-* [Kris Kristofferson And Barbra Streisand Recreate...](https://classiccountrymusic.com/kris-kristofferson-and-barbra-streisand-recreate-a-star-is-born-duet-43-years-later/)
 
 Terms of Use
 ============
