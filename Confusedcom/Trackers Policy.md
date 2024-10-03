@@ -422,7 +422,7 @@ Empowering people to make confident financial decisions.
 
 Services you can trust
 
-![Website approved by the Plain English Campaign](/-/media/confused/redesign/images/footer/plain-english-campaign-approved.png)
+![Website approved by the Plain English Campaign](https://www.confused.com/-/media/confused/redesign/images/footer/plain-english-campaign-approved.png)
 
 Authorised and regulated by the Financial Conduct Authority
 
@@ -430,19 +430,19 @@ Our customers say
 
 Excellent
 
-![4.5 green stars](/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilottrue-star-number45.svg)
+![4.5 green stars](https://www.confused.com/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilottrue-star-number45.svg)
 
 Confused.com scores a **4.3** out of 5 rating  
 based on [**7135** reviews](https://uk.trustpilot.com/review/confused.com) as of 17/04/2024
 
-![Trustpilot logo](/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilot-logo.svg)
+![Trustpilot logo](https://www.confused.com/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilot-logo.svg)
 
 **© Copyright 2008 - 2024 Confused.com. All rights reserved. An RVU Company**
 
 Confused.com, 2nd Floor, Greyfriars House, Greyfriars Road, Cardiff, CF10 3AL, United Kingdom  
 Confused.com is a trading name of Inspop.com Limited and is authorised and regulated by the Financial Conduct Authority (Firm reference no. 310635)
 
-![RVU logo](/-/media/confused/redesign/images/logos/rvu_horizontal_white.svg?la=en-GB&hash=FC9583FBB7FE421777AEF81A22CE96E5)
+![RVU logo](https://www.confused.com/-/media/confused/redesign/images/logos/rvu_horizontal_white.svg?la=en-GB&hash=FC9583FBB7FE421777AEF81A22CE96E5)
 
 * [Facebook](https://www.facebook.com/confused)
 * [Twitter](https://twitter.com/confused_com)
@@ -453,11 +453,11 @@ Download our app to help manage your car dates, running costs and insurance
 
 Save money and get organised with our app. Never miss a date with insurance, tax & MOT reminders. Plus get a quick quote in just a few taps. Scan the QR code to get started.
 
-![QR code to download the app](/-/media/confused/redesign/images/footer/app-link-qr.svg)
+![QR code to download the app](https://www.confused.com/-/media/confused/redesign/images/footer/app-link-qr.svg)
 
 [More on our app](https://www.confused.com/app)
 
-* [![Apple app store logo](/-/media/confused/apps/app-store-icons/apple-app-store.svg?la=en-GB&h=42&w=140&hash=BAFE3609E9DA41ADF4D5F8C4CF9AC46A)](https://confusedprod.page.link/LWfC "Confused.com iOS app")
-* [![Google app store logo](/-/media/confused/apps/app-store-icons/google-app-store.svg?la=en-GB&h=42&w=140&hash=0D852E0857B243722E3C1B3C664C78D4)](https://confusedprod.page.link/LWfC "Confused.com Google app")
+* [![Apple app store logo](https://www.confused.com/-/media/confused/apps/app-store-icons/apple-app-store.svg?la=en-GB&h=42&w=140&hash=BAFE3609E9DA41ADF4D5F8C4CF9AC46A)](https://confusedprod.page.link/LWfC "Confused.com iOS app")
+* [![Google app store logo](https://www.confused.com/-/media/confused/apps/app-store-icons/google-app-store.svg?la=en-GB&h=42&w=140&hash=0D852E0857B243722E3C1B3C664C78D4)](https://confusedprod.page.link/LWfC "Confused.com Google app")
 
 [Back to top](#)
