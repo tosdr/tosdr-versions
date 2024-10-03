@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,7 +149,6 @@
 Сейчас читают
 
 * [Грог кофейный](https://www.russianfood.com/recipes/recipe.php?rid=68676)
-* [Фахитос из говядины и гуакамоле](https://www.russianfood.com/recipes/recipe.php?rid=126811)
 * [Подлива к лапше](https://www.russianfood.com/recipes/recipe.php?rid=863)
 * [Кекс на молоке, с цедрой и лимонной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=160735)
 
@@ -173,6 +172,62 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Пять способов вкусно удивить. Время ПЕРЦА (33)](https://www.russianfood.com/reading/?post_id=22676) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/690/sm_689203.jpg)](https://www.russianfood.com/reading/?post_id=22676)
+
+Фаршированный перец с картофелем и беконом. Сырные лепёшки с перцем. Фунчоза с морепродуктами, кабачком и перцем. Сливочный суп с печенью, рисом и перцем. Салат с нутом, перцем и огурцами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22676)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22676#comments) | 03.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) |     |
+
+[![Фото к рецепту: Баурсаки](//img1.russianfood.com/dycontent/images_upl/741/sm_740161.jpg "Фото к рецепту: Баурсаки")](https://www.russianfood.com/recipes/recipe.php?rid=174408)
+
+Баурсаки представляют собой небольшие воздушные подушечки, обжаренные во фритюре. Похожие на пончики, с хрустящей золотистой корочкой, внутри мягкие и нежные. Баурсаки подаются с мёдом, вареньем, сладкими соусами или же посыпаются сахарной пудрой.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174408)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174408#comments) | 03.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) |     |
+
+[![Фото к рецепту: Лисички с картошкой](//img1.russianfood.com/dycontent/images_upl/742/sm_741423.jpg "Фото к рецепту: Лисички с картошкой")](https://www.russianfood.com/recipes/recipe.php?rid=174477)
+
+Или картошка с лисичками. А собственно, какая разница, как эту еду назвать? Важно, что получается действительно безумно вкусно, – отвечаю. Я пробовал готовить картошку с грибами по-разному. Но! Вот этот способ, или рецепт – как хотите, действительно безупречен. Получается очень ароматно, вкусно, и, что очень важно, на мой взгляд, – вкусы не смешиваются в что-то такое "оно всё в одном флаконе", а именно совмещаются, дополняя друг друга.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174477)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174477#comments) | 03.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Творожные конвертики с яблоком и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174480) |     |
+
+[![Фото к рецепту: Творожные конвертики с яблоком и бананом](//img1.russianfood.com/dycontent/images_upl/742/sm_741438.jpg "Фото к рецепту: Творожные конвертики с яблоком и бананом")](https://www.russianfood.com/recipes/recipe.php?rid=174480)
+
+Нежное творожное тесто, немного рассыпчатое, со сливочным вкусом, и сочная начинка из яблок и нежного банана. Рецепт простой, рекомендую приготовить такие чудесные творожные конвертики к чаю.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174480)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174480#comments) | 03.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -328,62 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22668#comments) | 01.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Дома всегда вкуснее. Лучшие рецепты из КАРТОФЕЛЯ (27)](https://www.russianfood.com/reading/?post_id=22664) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/707/sm_706060.jpg)](https://www.russianfood.com/reading/?post_id=22664)
-
-Картофель с мясом и овощами. Картофель с курицей в горчичном соусе. Дрожжевая лепёшка с картошкой. Картофельная запеканка с индейкой. Картофельный салат с грибами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22664)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22664#comments) | 30.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Изобилие вариантов на любой вкус. Лучшие САЛАТЫ №24-40](https://www.russianfood.com/reading/?post_id=22663) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/738/sm_737919.jpg)](https://www.russianfood.com/reading/?post_id=22663)
-
-Салат с крабовыми палочками, помидорами и яичными блинчиками. Салат с кальмарами и овощами. Салат с курицей и апельсинами. Салат с креветками, помидорами и орехами. Салат с сельдереем и грушей. Салат с грушами и фетой. Салат с капустой, свёклой и красной рыбой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22663)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22663#comments) | 30.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Утолим голод по-быстрому! Лучшие рецепты БЫСТРЕЕ! №24-40](https://www.russianfood.com/reading/?post_id=22662) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712906.jpg)](https://www.russianfood.com/reading/?post_id=22662)
-
-Жаркое из свинины с арахисом. Рагу с индейкой и овощами. Салат с курицей, овощами и имбирем. Яично-йогуртовое суфле. Грибной суп с гречкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22662)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22662#comments) | 30.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Отварная картошка, жаренная с болгарским перцем и луком](https://www.russianfood.com/recipes/recipe.php?rid=173881) |     |
-
-[![Фото к рецепту: Отварная картошка, жаренная с болгарским перцем и луком](//img1.russianfood.com/dycontent/images_upl/733/sm_732488.jpg "Фото к рецепту: Отварная картошка, жаренная с болгарским перцем и луком")](https://www.russianfood.com/recipes/recipe.php?rid=173881)
-
-Хороший способ придать отварному картофелю более выраженный вкус – это обжарить его с луком на растительном масле. Ещё добавим болгарский перец – он обеспечит яркий аромат и интересную текстуру. А если в холодильнике осталась вчерашняя картошка, то приготовление в разы сократится.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173881)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_16 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173881#comments) | 29.09.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -455,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733111.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173182) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737145.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736814.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173488) | [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
-| [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [Куриные голени, фаршированные сыром, в слоёном тесте](https://www.russianfood.com/recipes/recipe.php?rid=173182) | [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Слоёный пирог с творогом, голубикой, вареньем и сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [Маффины на йогурте, с ягодами и штрейзелем](https://www.russianfood.com/recipes/recipe.php?rid=173488) | [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
-| [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733477.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174096) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173399) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732105.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173058) | [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727246.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173925) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736646.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173411) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735551.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173381) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723984.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173439) |
-| [Песочные рогалики с ореховым безе](https://www.russianfood.com/recipes/recipe.php?rid=174096) | [Чечевица с мясом и овощами (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=173399) | [Дрожжевой рулет с клюквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=173058) | [Жёлтый торт "Конфетти" с шоколадным сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=173925) | [Суп с жареными фрикадельками и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173411) | [Спагетти с креветками и шпинатом в томатно-сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173381) | [Закрытый песочный пирог с яблочно-луковой начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173439) |
+| [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741438.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
+| [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [Творожные конвертики с яблоком и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Паскуалина (слоёный пирог со шпинатом, сыром и яйцами)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
+| [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) |
+| [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -475,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(133)
+(94)
