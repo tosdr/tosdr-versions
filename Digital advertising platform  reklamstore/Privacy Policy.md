@@ -444,4 +444,4 @@ Subscribe to our event
 
 Subscribe
 
-©️ ReklamStore// Sayfa yüklendiğinde bu fonksiyon çalışacak window.onload = function() { // Geçerli yılı al var currentYear = new Date().getFullYear(); // Yıl bilgisini ilgili elemente yerleştir document.getElementById('current-year').textContent = currentYear; };
+©️ 2024 ReklamStore
