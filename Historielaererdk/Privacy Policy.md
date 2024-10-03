@@ -159,9 +159,9 @@ Tilmeld mig nyhedsbrevet.
 Populært i denne måned
 ----------------------
 
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 176 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
-* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 161 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 124 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 178 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 174 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 125 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63755-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) [AFLYST — KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) 115 visninger | af [Benny Larsen](https://historielaerer.dk/author/benny/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 108 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63754-featured-50x50.jpg)](https://historielaerer.dk/noter-242-italien/) [Noter #242 — Italien](https://historielaerer.dk/noter-242-italien/) 95 visninger | af [Kristian B. Arentsen & tina@historielaerer.dk](https://historielaerer.dk/author/kristianb-arentsen/?mab_v3=63754)
@@ -172,16 +172,6 @@ Populært i denne måned
 
 ### Aktu­el­le arrangementer
 
-* ![AFLYST - KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/wp-content/uploads/2024/08/Putin-historibrug-150x150.jpg)
-    
-    [AFLYST - KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/)
-    
-    3 okt 24
-    
-    København K
-    
-      
-    
 * ![HO og DHO](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
     
     [HO og DHO](https://historielaerer.dk/kurser/ho-og-dho/)
@@ -240,6 +230,16 @@ Populært i denne måned
     
       
     
+* ![Kildearbejde og problemstillinger](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [Kildearbejde og problemstillinger](https://historielaerer.dk/kurser/kildearbejde-og-problemstillinger/)
+    
+    27 mar 25
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
 * [se alle](https://historielaerer.dk/kurser/ "se alle")
 
 [![Gruppeskaberens profilbillede af Fagkonsulentens forum](https://historielaerer.dk/wp-content/uploads/group-avatars/23/1699446734-bpfull.jpg)](https://historielaerer.dk/grupper/fagkonsulenten/)
@@ -254,9 +254,9 @@ For ALLE gymnasiale historielærere, det kræver ikke medlemsskab af historielæ
 Trender
 -------
 
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
 * [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/43391-featured-50x50.jpg)](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) [Noter #228: For­bry­del­se og straf](https://historielaerer.dk/noter-228-forbrydelse-og-straf/) af [Amalia Dea Bonné](https://historielaerer.dk/author/amalia/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
