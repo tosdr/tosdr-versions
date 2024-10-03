@@ -441,7 +441,7 @@ San Diego, CA 92101
     * [Contact form](http://store.eset.com/us/contact-sales "Contact form")
     * [Try before you buy](https://www.eset.com/us/business/trial/ "Try before you buy")
     * [Support chat](https://helpus.eset.com/ "Support chat")
-    * [Existing customer](#business "Existing customer")
+    * [Existing customer](https://www.eset.com/us/existing-customers/#business "Existing customer")
     
     [Why ESET](https://www.eset.com/us/business/why-eset/industry-analysts-recognition/) Why ESET
     
@@ -650,7 +650,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/existing-customers/)
+[United States (EN)](https://www.eset.com/us/business/resource-center/webinars/security-success-blueprint-trends-and-insights/)
 
 * * *
 
