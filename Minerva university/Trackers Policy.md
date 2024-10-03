@@ -120,7 +120,7 @@ Resources
 
 [Non-Discrimination Policy](https://www.minerva.edu/resources/non-discrimination-policy)
 
-[Undergraduate Student Handbook](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/6613f403f7142db00649848c_Final__2023-24_Minerva_University_Student_Handbook_September_14.pdf)[Graduate Student Handbook](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/667edaea615caf0da87c1e94_Graduate%20Student%20Handbook_AY2024-25.pdf)[Annual Security Report](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/651e2e09749c60cb418a6f71_Annual%20Security%20Report%202022-2023.pdf)
+[Undergraduate Student Handbook](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/6613f403f7142db00649848c_Final__2023-24_Minerva_University_Student_Handbook_September_14.pdf)[Graduate Student Handbook](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/66fe6f80b949b48e762330fb_Graduate%20Student%20Handbook_AY2024-25%20(1).pdf)[Annual Security Report](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/651e2e09749c60cb418a6f71_Annual%20Security%20Report%202022-2023.pdf)
 
 [Emergency Resources](https://www.minerva.edu/emergency-resources)
 
