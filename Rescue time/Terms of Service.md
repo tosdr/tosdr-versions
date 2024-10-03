@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)      
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-fee42620ca8b828fcf15e214ebd7da5698cb5654a5cf553952a44f1791fd6a63.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
 
 * [Guided Focus Session ⏤ LIVE NOW!](https://workfrom.com/@rescuetime)
 * [For Teams](https://teams.rescuetime.com/)
@@ -81,7 +81,7 @@ RescueTime may provide notices to you pursuant to the TOS through email, regular
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-fee42620ca8b828fcf15e214ebd7da5698cb5654a5cf553952a44f1791fd6a63.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
 
 **Product**
 
