@@ -84,7 +84,7 @@
     
     ###### Learn
     
-    [###### Events & webinars](https://boomi.com/company/events/)[###### Blog](https://boomi.com/blog/)[###### Analyst reports](https://resources.boomi.com/?content_type=analyst-report)[###### Ebooks](https://resources.boomi.com/?content_type=ebook)[###### Podcast](https://boomi.com/boomi-podcast/)
+    [###### Events & webinars](https://boomi.com/company/events/)[###### Blog](https://boomi.com/blog/)[###### Analyst reports](https://boomi.com/resources/?content_type=analyst-report)[###### Ebooks](https://boomi.com/resources/?content_type=ebook)[###### Podcast](https://boomi.com/boomi-podcast/)
     
     ###### Support
     
@@ -294,8 +294,8 @@
     
     * [###### Events & webinars](https://boomi.com/company/events/)
     * [###### Blog](https://boomi.com/blog/)
-    * [###### Analyst reports](https://resources.boomi.com/?content_type=analyst-report)
-    * [###### Ebooks](https://resources.boomi.com/?content_type=ebook)
+    * [###### Analyst reports](https://boomi.com/resources/?content_type=analyst-report)
+    * [###### Ebooks](https://boomi.com/resources/?content_type=ebook)
     * [###### Podcast](https://boomi.com/boomi-podcast/)
     
     [Support](javascript:void(0))
@@ -659,11 +659,11 @@ The #1 intelligent iPaaS for digital transformation.
     * [ServiceNow](https://boomi.com/solutions/application/servicenow/)
     * [Slack](https://boomi.com/solutions/application/slack/)
     * [All connectors](https://boomi.com/connectors/)
-* [Resources](https://resources.boomi.com/)
+* [Resources](https://boomi.com/resources)
     * [Blog](https://boomi.com/blog/)
     * [Events & webinars](https://boomi.com/company/events/)
-    * [Analyst Reports](https://resources.boomi.com/?content_type=analyst-report)
-    * [Ebooks](https://resources.boomi.com/?content_type=ebook)
+    * [Analyst Reports](https://boomi.com/resources/?content_type=analyst-report)
+    * [Ebooks](https://boomi.com/resources/?content_type=ebook)
     * [Case studies](https://boomi.com/customers/)
     * [Training](https://boomi.com/services/training/)
     * [Community](https://community.boomi.com/s/)
