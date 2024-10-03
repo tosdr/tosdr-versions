@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3F_gl%3D1*v6goa1*_gcl_au*MTE1MjMzNzYxLjE3Mjc5MjU5Mzc.*_ga*NjA0MTA2NzAuMTcyNzkyNTkzNw..*_ga_3TRK53PM75*MTcyNzkyNTkzNi4xLjEuMTcyNzkyNTk4MS4xNS4wLjA.&_ga=2.203360727.790462556.1727925937-60410670.1727925937)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3F_gl%3D1*9m2a8r*_gcl_aw*R0NMLjE3Mjc5NDcxMTkuQ2p3S0NBandnZm0zQmhCZUVpd0FGZnhyR3g1ZDY3SnFnQVdwOW0yeDJGNmpFeFBoX2J6dVRGNldrell6andiQ3RsbVlLb1JNdnNWM1NSb0N1UEVRQXZEX0J3RQ..*_gcl_au*NzUyNjMxODA5LjE3Mjc5NDExMjU.*_ga*MzQ4MjQ0MjE0LjE3Mjc5MzY3NjI.*_ga_3TRK53PM75*MTcyNzk0NjUwNS40LjEuMTcyNzk0NzEyOC41OS4wLjA.&_ga=2.258168268.775171414.1727941122-348244214.1727936762)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
