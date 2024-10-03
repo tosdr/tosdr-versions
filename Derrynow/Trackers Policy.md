@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-02 Oct 2024
+03 Oct 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![PICTURES: Spacious Derry four-bed hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spacious Derry four-bed hits the market")](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1618960/derry-death-notices-wednesday-october-2-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -280,15 +287,6 @@ Most Popular
 [Derry man caused £1,271 worth of damage to gambling machine](https://www.derrynow.com/news/local-news/1620050/derry-man-caused1-271-worth-of-damage-togambling-machine.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry appealing for information after hit and run of man and his dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for information after hit and run of man and his dog")](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
-
-The incident happened in the vicinity of John Street.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry appeal for witnesses after man and his dog struck in hit-and-run](https://www.derrynow.com/news/local-news/1619617/police-in-derry-appeal-for-witnesses-after-man-and-his-dog-struck-in-hit-and-run.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [!['Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Imagine it’s an O’Neills size 5 and let it fly' - Lavey man kicks up a storm in US football debut")](https://www.derrynow.com/news/home/1620048/imagine-its-an-oneills-size-5-and-let-it-fly-lavey-man-kicks-up-a-storm-in-us-football-debut.html)
 
 [Home](https://www.derrynow.com/)
@@ -304,13 +302,6 @@ Derry Magistrate's Court
 
 [Limavady man charged with possessing a machete with intent to commit murder](https://www.derrynow.com/news/local-news/1619866/limavady-man-charged-with-possessing-a-machete-with-intent-to-commit-murder.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video")](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[IRA and PSNI Land Rover feature in Macklemore's new pro-Palestine music video](https://www.derrynow.com/news/derry-news/1618939/ira-and-psni-land-rover-feature-in-macklemore-s-new-pro-palestine-music-video.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged with racist messages about Derry mayor has case adjourned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with racist messages about Derry mayor has case adjourned")](https://www.derrynow.com/news/local-news/1620045/man-charged-with-racist-messages-about-derry-mayor-has-case-adjourned.html)
 
@@ -332,6 +323,15 @@ Derry Magistrate's Court
 
 [Derry tech entrepreneur named finalist for 'Catalyst for Change Award' at INVENT 2024](https://www.derrynow.com/news/business/1619138/derry-tech-entrepreneur-named-finalist-for-catalyst-for-change-award-at-invent-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
+
+Author of ‘Cityview - 30 years of Missing A-Z Interviews’, Andrew Cassidy.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[New book tracks down Derry City legends from all over the world](https://www.derrynow.com/news/derry-sport/1619996/new-book-tracks-down-derry-city-legends-from-all-over-the-world.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,6 +509,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Meet the Child Behaviour Analyst who gives hope to parents with struggling children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the Child Behaviour Analyst who gives hope to parents with struggling children")](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+
+[Home](https://www.derrynow.com/)
+
+[Meet the Child Behaviour Analyst who gives hope to parents with struggling children](https://www.derrynow.com/news/home/1620373/meet-the-child-behaviour-analyst-who-gives-hope-to-parents-with-struggling-children.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Executive gives green light to A5 upgrade on ‘momentous’ day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Executive gives green light to A5 upgrade on ‘momentous’ day")](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -516,7 +523,7 @@ Advertise with Us
 [Executive gives green light to A5 upgrade on ‘momentous’ day](https://www.derrynow.com/news/local-news/1620489/executive-gives-green-light-to-a5-upgrade-on-momentous-day.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Roe Park Resort employees honoured with Long Service Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Park Resort employees honoured with Long Service Awards")](https://www.derrynow.com/news/home/1620442/roe-park-resort-employees-honoured-with-long-service-awards.html)
+[![Roe Park Resort employees honoured with Long Service Awards](https://www.derrynow.com/resizer/165/93/true/2024_10_02/Front_row_%28left_to_right%29_Julieanne_McNicholl_%2810_years%29%2C_George_Graham_%28GM%29%2C_Glenda_Moore_%2820_years%29%2C_Ita_Cielava_%2810_years%29._%281%29-1727888447607.jpg--.jpg?1727888447807 "Roe Park Resort employees honoured with Long Service Awards")](https://www.derrynow.com/news/home/1620442/roe-park-resort-employees-honoured-with-long-service-awards.html)
 
 Staff who were recognised for their service.
 
@@ -547,15 +554,6 @@ The legendary Irish singer, Frances Black, will perform in Bellaghy.
 
 [Autumn brings a captivating events programme to Seamus Heaney HomePlace](https://www.derrynow.com/news/what-s-on/1620133/autumn-brings-a-captivating-events-programme-to-seamus-heaney-homeplace.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Traffic delays in Cookstown Road area of Moneymore](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Traffic delays in Cookstown Road area of Moneymore")](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
-
-The PSNI
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Traffic delays in Cookstown Road area of Moneymore](https://www.derrynow.com/news/county-derry-post/1620366/traffic-delays-in-cookstown-road-area-of-moneymore.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
