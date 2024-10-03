@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-verborgen-gevaren-van-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-elite-heeft-al-lang-verloren/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
