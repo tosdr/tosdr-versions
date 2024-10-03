@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Rick Brumble](https://cdn.returningveterans.org/images/honor/17_Brumble.jpg)  
+![Waseem Bawa](https://cdn.returningveterans.org/images/honor/Waseem_Bawa_Class_As_MS.jpg)  
 
-**In Honor of Rick Brumble**  
-United States Air National Guard  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Waseem Bawa**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/02/24 - 2:28:59  
+Printed 10/02/24 - 8:33:14  
 © 2024 Returning Veterans Project
