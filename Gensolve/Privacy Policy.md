@@ -976,9 +976,9 @@ Share on linkedin
 
 #### RECENT NEWS
 
-[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/07/telehealthhelp.jpg)](https://www.gensolve.com/nz/2024/07/05/gensolve-telehealth-help/)
+[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/10/gpmwebthmb.jpg)](https://www.gensolve.com/nz/2024/10/03/browser-booking-sneak-peek-nz/)
 
-### [Gensolve Telehealth Help](https://www.gensolve.com/nz/2024/07/05/gensolve-telehealth-help/)
+### [The future of Gensolve has arrived: Introducing our New Practice Manager and Booking Portal.](https://www.gensolve.com/nz/2024/10/03/browser-booking-sneak-peek-nz/)
 
 #### SUBSCRIBE
 
