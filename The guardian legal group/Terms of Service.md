@@ -189,7 +189,10 @@ Commentsmore details
 
 unbounce\_id
 
-By clicking the "Submit" Button, you consent to be called/texted at the number provided above by Guardian Legal Group, LLC, its affiliates, and law firm partners about our services. These calls/texts may be delivered via automated technology as soon as possible after your submission regardless of the time of day. You can opt-out at any time by replying STOP or calling us at 833-216-1581.Text Message frequency may vary. Message & Data rates may apply. You may view our full [SMS Terms & Privacy policy here.](https://www.getguardianlegal.com/privacy-policy-disclaimer/)
+By clicking the "Submit" Button, you consent to be called/texted at the number provided above by Goldwater Law Firm, Guardian Legal Group, LLC, its affiliates, and law firm partners about our services. These calls/texts may be delivered via automated technology as soon as possible after your submission regardless of the time of day. You can opt-out at any time by replying STOP or calling us at 833-216-1581.  
+Text Message frequency may vary. Message & Data rates may apply. You may view our full [SMS Terms & Privacy Policy here](https://www.getguardianlegal.com/privacy-policy-disclaimer/). This consent overrides any state, federal, or corporate do-not-call registry rules or list.
+
+  
 
 I accept the [Terms & Conditions](https://guardianlegal.wpengine.com/terms-of-use/)
 
@@ -223,15 +226,15 @@ Next_keyboard\_arrow\_right_
 
 © 2024 Copyright The Guardian Legal Group | [Privacy Policy](https://theguardianlegalnetwork.com/privacy-policy/) | [Terms of Service](https://guardianlegal.wpengine.com/terms-of-use/)
 
-Legal Disclaimer: Please be advised that certain states may consider this an attorney advertisement for legal services paid for by a non-attorney spokesperson. Guardian Legal Network is an advertising group that represents lawyers jointly advertising their services. Guardian Legal Network is not a law firm or lawyer referral service.
+THIS IS A PAID ADVERTISEMENT FOR LEGAL SERVICES. RESPONSIBLE ATTORNEY: Bob Goldwater, Goldwater Law Firm (11811 N. Tatum Blvd. Suite 3031, Phoenix, AZ 85028) is licensed to practice law only in Arizona, but associates with attorneys throughout the country. While this firm maintains joint responsibility, cases of this type are referred to other attorneys for principal responsibility. Not available in all states. The hiring of a lawyer is an important decision that should not be based solely upon advertisements. No representation is made that the quality of the legal services to be performed is greater than the quality of legal services performed by other lawyers.
 
-You may be entitled to compensation if you or a loved one have been injured by a dangerous drug, medical device or product. The choice of a lawyer is an important decision that should not be based solely upon advertisements. No representation is made that the quality of the legal services to be performed is greater than the quality of the legal services performed by other lawyers. Results are not guaranteed.
+You may be entitled to compensation if you or a loved one have been injured by a dangerous drug, medical device or product. The choice of hiring lawyer is an important decision that should not be based solely upon advertisements. No representation is made that the quality of the legal services to be performed is greater than the quality of legal services performed by other lawyers.
 
-You should not rely upon any information herein as legal or medical advice. Any medical decision is important. Please consult your physician before altering usage of any drug.
+You should not rely upon any information herein as legal or medical advice. any medical decision is important. Please consult your physician before altering usage of any drug.
 
-By contacting Guardian Legal Network, you agree to receive a call back by up to two different legal service providers, even if you are on the “Do Not Call” registry. If there are multiple participating legal service providers, matching of an initial inquiry to a specific legal service providers is done by an internal random process. Some cases may be transferred to other attorneys, discuss with your attorney. Guardian Legal Network is not otherwise affiliated with or responsible for the representations or services provided by the legal service providers.
+By contacting guardian legal network, you agree to receive a call back by up to two different legal service providers, even if you are on the “do not call” registry. If there are multiple participating legal service providers, matching of an initial inquiry to a specific legal service providers is done by an internal random process. Some cases may be transferred to other attorneys, discuss with your attorney. Guardian legal network is not otherwise affiliated with or responsible for the representations or services provided by the legal service providers.
 
-By visiting this site and/or replying to our TV Advertisements, you agree that Guardian Legal Network is not responsible or liable for any claim, loss or damage or any kind, directly or indirectly resulting from your use of any law firm, legal advice or any information obtained from Guardian Legal Network. By placing a call or entering Guardian Legal Network getguardianlegal.com (and the links accessible through this site) you expressly acknowledge your understanding and agreement to all of the disclaimers and agreements contained herein.
+By visiting this site and/or replying to our advertisements, you agree that guardian legal network is not responsible or liable for any claim, loss or damage or any kind, directly or indirectly resulting from your use of any law firm, legal advice or any information obtained from guardian legal network. By placing a call or entering Guardian Legal Network GETGUARDIANLEGAL.COM (and the links accessible through this site) you expressly acknowledge your understanding and agreement to all of the disclaimers and agreements contained herein.
 
 © 2024 Copyright Guardian Legal Network
 
