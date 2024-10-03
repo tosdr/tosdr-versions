@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720925-Maura-Healey-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
+* [Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
+    
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734361-Biden-GettyImages-2175472071-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
+* [Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734316-Matthew-Perry-doctor-AP24276618885127KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
+* [Your Future Doctor May Be Able to Advise You on Nutrition](https://www.theepochtimes.com/health/your-future-doctor-may-be-able-to-advise-you-on-nutrition-5734077)
+    
+    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![Your Future Doctor May Be Able to Advise You on Nutrition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Your Future Doctor May Be Able to Advise You on Nutrition](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734306-shutterstock_2471292935_healthy_food_diet_nutrition-205x123.jpg.webp)](https://www.theepochtimes.com/health/your-future-doctor-may-be-able-to-advise-you-on-nutrition-5734077)
 * [Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Missile Attack, School Bus Fire, and Visiting Officials](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734224-GettyImages-2175443146-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-missile-attack-school-bus-fire-and-visiting-officials-5733924)
 * [New York City Mayor Could Face More Charges, Prosecutors Say](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
     
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York City Mayor Could Face More Charges, Prosecutors Say](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731603-NYC_Mayor_Investigations_24271606106076-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-could-face-more-charges-prosecutors-say-5734149)
+* [China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://www.theepochtimes.com/china/china-says-its-coast-guard-entered-arctic-for-1st-time-in-patrols-with-russia-5734068)
+    
+    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    
+    [![China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China Says Its Coast Guard Entered Arctic for 1st Time in Patrols With Russia](https://img.theepochtimes.com/assets/uploads/2023/07/25/id5421944-GettyImages-871612676-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-says-its-coast-guard-entered-arctic-for-1st-time-in-patrols-with-russia-5734068)
 * [In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
     
-    1hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    7hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Battleground North Carolina, Voters Say Border, Inflation Top Issues](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733634-NC-voters-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-battleground-north-carolina-voters-say-border-inflation-top-issues-5731638)
 * [Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Cybersecurity Chief Says Foreign Interference Won’t Significantly Alter US Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734152-GettyImages-1975562456-205x123.jpg.webp)](https://www.theepochtimes.com/us/cybersecurity-chief-says-foreign-interference-wont-significantly-alter-us-election-results-5734131)
 * [Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
     
-    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    8hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5717123-GettyImages-1583882702-LSeditKOKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
-* [EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://www.theepochtimes.com/business/eu-targets-algorithms-of-youtube-tiktok-snapchat-amid-harmful-content-concerns-5734054)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![EU Targets Algorithms of YouTube, TikTok, Snapchat Amid Harmful Content Concerns](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/eu-targets-algorithms-of-youtube-tiktok-snapchat-amid-harmful-content-concerns-5734054)
-* [Bank of America Customers Report Widespread Outage](https://www.theepochtimes.com/business/bank-of-america-customers-report-widespread-outage-5734159)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Bank of America Customers Report Widespread Outage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Bank of America Customers Report Widespread Outage](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734230-ATM-San-Francisco.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/bank-of-america-customers-report-widespread-outage-5734159)
-* [FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://www.theepochtimes.com/us/fema-other-agencies-readying-for-multi-year-helene-recovery-5733439)
-    
-    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FEMA, Other Agencies Readying for Multi-Year Helene Recovery](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733923-GettyImages-2175137908-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-other-agencies-readying-for-multi-year-helene-recovery-5733439)
-* [Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://www.theepochtimes.com/us/texas-city-of-abilene-stops-adding-fluoride-to-drinking-water-5734110)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Texas City of Abilene Stops Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686207-GettyImages-1519932122-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-city-of-abilene-stops-adding-fluoride-to-drinking-water-5734110)
-* [Israel Bans UN Chief From Entering Country](https://www.theepochtimes.com/world/israel-bans-un-chief-from-entering-country-5733945)
-    
-    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Israel Bans UN Chief From Entering Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Bans UN Chief From Entering Country](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734146-2.downloadKO-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-bans-un-chief-from-entering-country-5733945)
+    ![Federal Judge Unseals Special Counsel’s Immunity Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718809-Jack-Smith-Donald-Trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-special-counsels-immunity-filing-in-trump-election-case-5734182)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
