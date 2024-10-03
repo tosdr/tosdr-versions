@@ -118,57 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=210597217)  
-Chiron Medical Solutions
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=205162800)  
+Network Grey (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=3558203)  
-MONSTER SECURITY SERVICES
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=141672842)  
+Alliance Energy
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=16485898)  
-Kaylas Creations
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=170393036)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=5724568)  
-Glass and Allied Industries
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=194221226)  
+CLEVER STUDENTS
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=141710942)  
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=68790089)  
+MR Compressors& Industrial Supplies
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=150870877)  
+Cooper Logistics (Pty) Ltd
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=134896835)  
+FX ACCOUNTING
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=163144779)  
 Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=164724605)  
-Vplay Grafix
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=40222212)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=80223175)  
-Immediate Health (pty)ltd
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=146877889)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=12897615)  
-Konsortium Operations (PTY) LTD
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=124121112)  
+Wiselink Broadband Vryheid
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=204274965)  
-Depot Diesel (Pty) Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=39865112)  
+webb it services
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=102788372)  
-OrgChart Hosting Pty Ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=96510428)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=129749882)  
-Tagline Brands
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=180086220)  
+NGB HOLDINGS PTY LTD
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=22192188)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=209718803)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=145055746)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=64ddd6de92baad261803a8d80ff5125fb69d882a7ee72ad18d56ea9abfe1299d&c=203205008)  
-Redlum Group (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=5e4a0353f053f836f57599b58d81d20552455c043b04805d7efb38663ef9127c&c=146615544)  
+MONSTER SECURITY GUARDING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
