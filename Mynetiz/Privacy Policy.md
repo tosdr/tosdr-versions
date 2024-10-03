@@ -35,27 +35,24 @@
         * [İnceleme](https://mynetiz.com/yazanlar/inceleme)
         * [İnternet](https://mynetiz.com/yazanlar/internet)
         * [Mobil](https://mynetiz.com/yazanlar/mobil)
+        * [Program/Yazılım](https://mynetiz.com/yazanlar/program-yazilim)
 
 [Pixelfed](https://pixelfed.social/mynetiz) • [Telegram](https://t.me/mynetiz) • [𝕏](https://twitter.com/mynetiz) • [Rumble](https://rumble.com/c/c-3429590) • [Vimeo](https://vimeo.com/mynetiz) • [Youtube](https://www.youtube.com/c/mynetiz) • [Soundcloud](https://soundcloud.com/mynetiz) • [Gitlab](https://gitlab.com/mynetiz) • [Github](https://github.com/mynetiz)
 
-October 2, 2024
+October 3, 2024
 
 * [Anasayfa](https://mynetiz.com/)
-* [Kullanım ve Gizlilik Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
-* [](#)
-    * [Privacy Policy](https://mynetiz.com/privacy-policy)
-    * [Çerez Politikası](https://mynetiz.com/cerez-politikasi)
 * [İletişim](https://mynetiz.com/ileti)
 
 [](#)
 
-[![](https://mynetiz.com/wp-content/uploads/2024/07/mynetiz_logo_taslak_20240713_164211_0000.png)](https://mynetiz.com/)
+[![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/logo.png)](https://mynetiz.com/)
 
-![upArrow](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp8.1-main/images/arrow1.png)
+![upArrow](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/images/arrow1.png)
 
 Yeni
 
-[Filistin Olayının Düşündürdükleri](https://mynetiz.com/filistin-olayinin-dusundurdukleri.html) [Türkiye’de Darpa Sunucularıyla İlgili İlginç Detay](https://mynetiz.com/turkiyede-darpa-sunuculariyla-ilgili-ilginc-detay-6.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [Ubuntu 20.yılında, 24.10 sürümü me zaman?](https://mynetiz.com/ubuntu-20-yilinda-24-10-surumu-me-zaman.html) [Ne bileyim?](https://mynetiz.com/ne-bileyim.html) [Çakır: “Yeni ekonomi havzaları ulusal bir güvenlik konusudur”](https://mynetiz.com/cakir-yeni-ekonomi-havzalari-ulusal-bir-guvenlik-konusudur.html) [SORUN BENDE OLMALI…](https://mynetiz.com/sorun-bende-olmali.html) [Türkiye’nin Arması Ne Olmalı?](https://mynetiz.com/turkiyenin-armasi-ne-olmali.html) [Değirmene su taşımak](https://mynetiz.com/degirmene-su-tasimak.html)
+[Filistin Olayının Düşündürdükleri](https://mynetiz.com/filistin-olayinin-dusundurdukleri.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Türkiye’de Darpa Sunucularıyla İlgili İlginç Detay](https://mynetiz.com/turkiyede-darpa-sunuculariyla-ilgili-ilginc-detay-6.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [Ubuntu 20.yılında, 24.10 sürümü me zaman?](https://mynetiz.com/ubuntu-20-yilinda-24-10-surumu-me-zaman.html) [Ne bileyim?](https://mynetiz.com/ne-bileyim.html) [Çakır: “Yeni ekonomi havzaları ulusal bir güvenlik konusudur”](https://mynetiz.com/cakir-yeni-ekonomi-havzalari-ulusal-bir-guvenlik-konusudur.html) [SORUN BENDE OLMALI…](https://mynetiz.com/sorun-bende-olmali.html) [Türkiye’nin Arması Ne Olmalı?](https://mynetiz.com/turkiyenin-armasi-ne-olmali.html)
 
 Privacy Policy
 ==============
@@ -225,14 +222,11 @@ Update
 Should we update, amend or make any changes to this document, those changes will be prominently posted here.
 
 * [Anasayfa](https://mynetiz.com/)
-* [Kullanım ve Gizlilik Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
-* [](#)
-    * [Çerez Politikası](https://mynetiz.com/cerez-politikasi)
-    * [Privacy Policy](https://mynetiz.com/privacy-policy)
+* [Kullanım Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
 * [İletişim](https://mynetiz.com/ileti)
 
-02.06.2010 tarihinde yenilendi 30.09.2024 tarihinde yenilendi
+02.06.2010 tarihinde yenilendi 03.10.2024 tarihinde yenilendi
 
-[![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp8.1-main/images/Sitelogodark.png)](https://mynetiz.com/ "MyNetiz") © 2024 · • Tüm hakları saklıdır. İçerikten yazarları sorumludur. Kaynak gösterilmeksizin kopyalanamaz, alıntı yapılamaz. • Tema : [knt](https://github.com/swashata/ipt-knowledgebase-theme-wp "WP Knowledge Base Theme") Geliştiren : US
+[![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/images/logow.png)](https://kutuphanemizden.com/ "Kütüphanemizden") © 2024 · [KBT](https://github.com/swashata/ipt-knowledgebase-theme-wp "WP Knowledge Base Theme")
 
 Web sitemizde size en iyi deneyimi sunabilmemiz için çerezleri kullanıyoruz. Bu siteyi kullanmaya devam ederseniz, bunu kabul ettiğinizi varsayarız.[Tamam](#)
