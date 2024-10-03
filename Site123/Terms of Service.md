@@ -1036,7 +1036,7 @@ Copyright © 2024 All rights reserved - SITE123
 
 Close [Yes! I want to try](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/es.svg)  
-More than 2322 SITE123 websites created in ES today!
+![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/my.svg)  
+More than 1764 SITE123 websites created in MY today!
 
      ![](https://www.facebook.com/tr?id=1074611005929279&ev=PageView&noscript=1)![](https://px.ads.linkedin.com/collect/?pid=32899&fmt=gif)![](https://q.quora.com/_/ad/c8f86d2183d6400d8288bbf9f7d9e950/pixel?tag=ViewContent&noscript=1)![](/include/pix_manage.php)
