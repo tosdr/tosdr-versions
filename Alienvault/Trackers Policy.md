@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Demand Great Cybersecurity Troubleshooting Skills! Going Back to the Basics.
+            ##### LevelBlue: Driving Cyber Resilience in October (and Beyond)
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/demand-great-cybersecurity-troubleshooting-skills-going-back-to-the-basics)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/levelblue-driving-cyber-resilience-in-october-and-beyond)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![David J. Hernandez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David J. Hernandez
+#### Theresa Lanowitz
 
-Oct 2, 2024
+Oct 3, 2024
 
-### [Demand Great Cybersecurity Troubleshooting Skills! Going Back to the Basics.](https://cybersecurity.att.com/blogs/security-essentials/demand-great-cybersecurity-troubleshooting-skills-going-back-to-the-basics)
+### [LevelBlue: Driving Cyber Resilience in October (and Beyond)](https://cybersecurity.att.com/blogs/security-essentials/levelblue-driving-cyber-resilience-in-october-and-beyond)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
