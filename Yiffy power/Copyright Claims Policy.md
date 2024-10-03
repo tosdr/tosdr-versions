@@ -75,31 +75,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 755 1
+0 764 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-promagentis/)
+[](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
 
-[nick wilde directed by promagentis](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-promagentis/)
+[judy hopps and nick wilde directed by manedwolfascari](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
 
-0 2 0
+0 0 0
 
 October 3, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/steele-directed-by-jackson-maxston-director/)
+[](https://yiff-party.com/yiff/judy-hopps-and-nick-wilde-zootopia-and-etc-created-by-frezezyk/)
 
-[steele directed by jackson maxston (director)](https://yiff-party.com/yiff-ai-premium/steele-directed-by-jackson-maxston-director/)
+[judy hopps and nick wilde (zootopia and etc) created by frezezyk](https://yiff-party.com/yiff/judy-hopps-and-nick-wilde-zootopia-and-etc-created-by-frezezyk/)
 
-0 62 0
+0 216 0
 
 September 3, 2024
 
-[](https://yiff-party.com/yiff/twilight-sparkle-friendship-is-magic-and-etc-created-by-br333/)
+[](https://yiff-party.com/yiff-gif/benny-created-by-benign-light/)
 
-[twilight sparkle (friendship is magic and etc) created by br333](https://yiff-party.com/yiff/twilight-sparkle-friendship-is-magic-and-etc-created-by-br333/)
+[benny created by benign light](https://yiff-party.com/yiff-gif/benny-created-by-benign-light/)
 
-0 128 0
+0 158 0
 
 September 3, 2024
 
