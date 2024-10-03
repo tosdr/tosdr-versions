@@ -11,9 +11,17 @@
     [Compare live tariffs](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=nav)
     
     * [Business Gas](https://www.energyhelpline.com/business-energy/gas)
-    * [Gas Meter Installation](https://www.energyhelpline.com/business-energy/gas-meter-installation)
+        
+        [Business Gas](https://www.energyhelpline.com/business-energy/gas)
+        
+        * [Gas Meter Installation](https://www.energyhelpline.com/business-energy/gas/gas-meter-installation)
+        
     * [Business Electricity](https://www.energyhelpline.com/business-energy/electricity)
-    * [Electricity Meter Installation](https://www.energyhelpline.com/business-energy/electricity-meter-installation)
+        
+        [Business Electricity](https://www.energyhelpline.com/business-energy/electricity)
+        
+        * [Electricity Meter Installation](https://www.energyhelpline.com/business-energy/electricity/electricity-meter-installation)
+        
     
 * [For Home](https://www.energyhelpline.com/)
     
@@ -26,36 +34,7 @@
     * [Gas](https://www.energyhelpline.com/gas)
     * [Electricity](https://www.energyhelpline.com/)
     
-* [Suppliers](https://www.energyhelpline.com/suppliers)
-    
-    [Suppliers](https://www.energyhelpline.com/suppliers)
-    
-    Compare deals from suppliers you trust, in seconds
-    
-    [Compare Suppliers](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=nav)
-    
-    * [EON Next](https://www.energyhelpline.com/suppliers/eon-next)
-    * [Opus Energy](https://www.energyhelpline.com/suppliers/opus-energy)
-    * [Scottish Power](https://www.energyhelpline.com/suppliers/scottish-power)
-    * [EDF Energy](https://www.energyhelpline.com/suppliers/edf-energy)
-    * [British Gas](https://www.energyhelpline.com/suppliers/british-gas)
-    * [Crown Gas & Power](https://www.energyhelpline.com/suppliers/crown-gas-power)
-    * [Total Energies](https://www.energyhelpline.com/suppliers/total-energies)
-    * [Npower Business Solutions](https://www.energyhelpline.com/suppliers/npower-business-solutions)
-    * [Shell Energy](https://www.energyhelpline.com/suppliers/shell-energy)
-    * [SmartestEnergy](https://www.energyhelpline.com/suppliers/smartestenergy)
-    * [Valda Energy](https://www.energyhelpline.com/suppliers/valda-energy)
-    * [Utilita](https://www.energyhelpline.com/suppliers/utilita)
-    * [Octopus Energy](https://www.energyhelpline.com/suppliers/octopus-energy)
-    * [Ovo Energy](https://www.energyhelpline.com/suppliers/ovo-energy)
-    
 * [Resources](https://www.energyhelpline.com/help)
-    
-    [Resources](https://www.energyhelpline.com/help)
-    
-    * [Home Energy Help](https://www.energyhelpline.com/help)
-    * [Business Energy Help](https://www.energyhelpline.com/business-energy-help)
-    
 * [About](https://www.energyhelpline.com/about-us)
 * [Compare Tariffs Online](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
 
