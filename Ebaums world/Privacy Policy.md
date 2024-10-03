@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/) [24 Tasteless and Terrible Tattoos Inked With Regret](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/)
+    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
+    
+    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
     
     [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
     
-    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
-    
-    [![23 People Share What Happened After Someone Won the Lottery](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/) [23 People Share The 'Aftermath' Of Someone They Knew Winning the Lottery](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
     
 
 * Advertisement
