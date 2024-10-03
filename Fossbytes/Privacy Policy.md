@@ -7,6 +7,7 @@
 * [Explained](https://fossbytes.com/category/more/what-is/)
 * [Reviews](https://fossbytes.com/category/reviews/)
 * [Sponsored](https://fossbytes.com/category/sponsored/)
+* [Stories](https://fossbytes.com/web-stories/)
 
 Search
 
@@ -130,6 +131,7 @@ Fossbytes Media Private Limited is committed to providing secure and transparent
 * [Explained](https://fossbytes.com/category/more/what-is/)
 * [Reviews](https://fossbytes.com/category/reviews/)
 * [Sponsored](https://fossbytes.com/category/sponsored/)
+* [Stories](https://fossbytes.com/web-stories/)
 
 Search
 
