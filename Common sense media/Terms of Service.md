@@ -526,11 +526,11 @@ We're a nonprofit. [Support our work](https://www.commonsense.org/donate)
         * [Apply for Free Internet](https://getmyinternet.org/)
         * [We're Hiring](https://www.commonsensemedia.org/about-us/jobs)
 
-### Follow Commonsense Education
+### Follow Common Sense Education
 
 * [Facebook](https://www.facebook.com/CommonSenseEd)
 * [Twitter](https://twitter.com/CommonSenseEd)
-* [Instagram](https://www.instagram.com/commonsenseorg)
+* [Instagram](https://www.instagram.com/commonsenseedu/)
 * [YouTube](https://www.youtube.com/user/CommonSenseEducators)
 * [LinkedIn](https://www.linkedin.com/company/common-sense-media)
 
