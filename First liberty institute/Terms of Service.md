@@ -29,6 +29,7 @@
 * [CONNECT](https://firstliberty.org/contact-us/)
     * [GENERAL CONTACT](https://firstliberty.org/contact-us/)
     * [LEGAL HELP](https://firstliberty.org/request-legal-help/)
+    * [ELECTION RESOURCES](https://firstliberty.org/elections/)
     * [MEDIA INQUIRY](https://firstliberty.org/book-an-interview/)
     * [INVITE US TO SPEAK](https://firstliberty.org/request-a-speaker/)
     * [SIGN UP FOR FLI INSIDER](https://firstliberty.org/newsletter-sign-up/)
