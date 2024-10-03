@@ -1,7 +1,7 @@
 be\_ixf;ym\_202410 d\_02; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=Threat-Detection&utm\_content=Nurture-Email&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=321e36d582844b839015609dcb24293f&elqaid=1813&elqat=1&elqCampaignId=29&elqak=8AF541333672897DE7488CBE005E2BDE3D8E6FA767019B5CF35BD0016161CBD816AF
+* https://cybersecurity.att.com/terms/website
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -581,6 +581,6 @@ Customer Success
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 * [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
 
-We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.att.com/privacy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
+We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
 
 [](#)
