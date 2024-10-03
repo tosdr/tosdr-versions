@@ -68,13 +68,13 @@ Main navigation
             
               ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120)
             
-        * July 2024 product release
+        * Q4 2024 Retail Pulse Report
             
-            Save time with enhanced AI-powered surveys and easy insight-sharing—learn more by joining our product release webinar.
+            Get your finger on the pulse of consumer trends
             
-            [Save my spot](https://www.usertesting.com/resources/library/webinars/2024-july-product-release)
+            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
             
-              ![July 2024 product release mega menu tile](https://usertesting.widen.net/content/naz3kmlcu8/webp/RESC-2024-july-product-release-mega-menu-tile-120x120.png?w=120)
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
             
         
     * Divider
@@ -143,11 +143,13 @@ Main navigation
     
     * Featured Card
         
-        * Forrester: UserTesting delivers a 665% ROI over three years
+        * Q4 2024 Retail Pulse Report
             
-            [Download the report](https://www.usertesting.com/hub-2023-experience-research-industry-report)
+            Get your finger on the pulse of consumer trends
             
-              ![Top navigation CTA image for TEI Usertesting + Forrester Report](https://usertesting.widen.net/content/sfv58w7i84/webp/IMAGE-top-nav-cta-TEI-report-240x240.png?w=120)
+            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
+            
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
             
         * Top rated by TrustRadius Best of 2024 Award
             
@@ -318,19 +320,19 @@ Main navigation
     
     * Featured Card
         
-        * 2023 Experience Research Industry Report
+        * Q4 2024 Retail Pulse Report
             
-            How are experience research teams keeping pace?
+            Get your finger on the pulse of consumer trends
             
-            [Get the report](https://www.usertesting.com/2023-experience-research-report-form)
+            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
             
-              
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
             
         * The Human Insight Summit
             
             Join us in Austin for The Human Insight Summit, October 28-30, 2024.
             
-            [Learn More](https://www.usertesting.com/resources/this)
+            [Learn more](https://www.usertesting.com/resources/this)
             
               ![THiS Vertical Logo Lockup](https://usertesting.widen.net/content/jz5zfwke4e/webp/LOGO-2022-THiS-Vertical-Lockup-446x284.png?w=120)
             
@@ -559,7 +561,7 @@ We may collect the following types of data from you: 
 
 **Third parties**
 
-We may receive some information from you from Study Creators, as a processor for that Study Creator. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator). We maintain an up-to-date list of sub-processors at [https://usertesting.com/privacy-center/](https://usertesting.com/privacy-center/). These lists were last updated in February 2024. 
+We may receive some information from you from Study Creators, as a processor for that Study Creator. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator). We maintain an up-to-date list of sub-processors at [https://www.usertesting.com/privacy-center/](https://www.usertesting.com/privacy-center/). These lists were last updated in February 2024. 
 
 We treat your Test questions, responses and data as information that is private to you. We do not sell your survey data to third parties.
 
