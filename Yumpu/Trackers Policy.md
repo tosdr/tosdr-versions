@@ -1,10 +1,10 @@
-[![logo](https://assets.yumpu.com/release/6RTGauWCPHsy2Qt/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/mQHtlv8HDPIaF3S/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
 [English](https://www.yumpu.com/en "English")[Deutsch](https://www.yumpu.com/de "Deutsch")[Français](https://www.yumpu.com/fr "Français")[Español](https://www.yumpu.com/es "Español")[Português](https://www.yumpu.com/pt "Português")[Italiano](https://www.yumpu.com/it "Italiano")[Român](https://www.yumpu.com/ro "Român")[Nederlands](https://www.yumpu.com/nl "Nederlands")[Latina](https://www.yumpu.com/la "Latina")[Dansk](https://www.yumpu.com/da "Dansk")[Svenska](https://www.yumpu.com/sv "Svenska")[Norsk](https://www.yumpu.com/no "Norsk")[Magyar](https://www.yumpu.com/hu "Magyar")[Bahasa Indonesia](https://www.yumpu.com/id "Bahasa Indonesia")[Türkçe](https://www.yumpu.com/tr "Türkçe")[Suomi](https://www.yumpu.com/fi "Suomi")[Latvian](https://www.yumpu.com/lv "Latvian")[Lithuanian](https://www.yumpu.com/lt "Lithuanian")[český](https://www.yumpu.com/cs "český")[русский](https://www.yumpu.com/ru "русский")[български](https://www.yumpu.com/bg "български")[العربية](https://www.yumpu.com/ar "العربية")[Unknown](https://www.yumpu.com/xx "Unknown")
 
-[](https://www.yumpu.com/en/user/upload?utm_content=reg-pdf-upload-start)
+[](https://www.yumpu.com/en/user/registration?utm_content=reg-pdf-upload-start)
 
 [](#)
 
@@ -49,7 +49,7 @@ In the event of contradictions between the English and German versions of the Co
 
 Last Update: 2022-09-20
 
-![logo](https://assets.yumpu.com/release/6RTGauWCPHsy2Qt/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/mQHtlv8HDPIaF3S/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
