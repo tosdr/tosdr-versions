@@ -332,6 +332,14 @@ Recurs yearly
 
 Quirinus Quirrell
 
+#### Wed, Oct 9
+
+First Dumbledore's Army meeting occurs in the Room of Requirement
+
+Recurs yearly
+
+1995
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -342,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There were seven male white owls that played Hedwig.
+There are 1,100,086 words in the entire “Harry Potter” series.
 
 ### Potter History
 
-April 18, 2006 – Harry Potter and the Goblet of Fire grosses $20 million in IMAX.
+September 22, 2008 – Scholastic announces that Harry Potter and the Deathly Hallows will be released in paperback on July 7, 2009.
 
 ### Potter Quote
 
-“Kicked out of Hogwarts for endangering human life with a beast. Yet one of your teachers argued strongly against your expulsion. I wonder, what makes Albus Dumbledore so fond of you, Mr. Scamander?”
+“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
 
 [](#)
 
