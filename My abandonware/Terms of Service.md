@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Solar Assault](https://www.myabandonware.com/game/solar-assault-sn5)
-* [Soccer](https://www.myabandonware.com/game/soccer-sn4)
-* [Smashing Drive](https://www.myabandonware.com/game/smashing-drive-sn3)
-* [Slashout](https://www.myabandonware.com/game/slashout-sn2)
-* [Speed Race](https://www.myabandonware.com/game/speed-race-sn1)
+* [Prism: Light the Way](https://www.myabandonware.com/game/prism-light-the-way-s4g)
+* [Sega Super GT](https://www.myabandonware.com/game/sega-super-gt-snf)
+* [Space King](https://www.myabandonware.com/game/space-king-sne)
+* [Space Bugger](https://www.myabandonware.com/game/space-bugger-snc)
+* [SoulCalibur III](https://www.myabandonware.com/game/soulcalibur-iii-snb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
