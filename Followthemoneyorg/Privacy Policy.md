@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 and 2014: Monetary Competitiveness in State Legislative Races](/assets/Uploads/Comp-vs-Incumb.png)](https://www.followthemoney.org/research/institute-reports/2013-and-2014-monetary-competitiveness-in-state-legislative-races/)
+[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
