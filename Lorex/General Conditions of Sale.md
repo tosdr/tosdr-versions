@@ -148,7 +148,7 @@ triangle borderless
     * [Returns](https://returns.lorex.com/)
     * [About Sales Tax](https://pro.lorex.com/pages/about-sales-tax)
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
-    * [Reset Device Password](https://www.lorex.com/account/login?return_to=/pages/forgotnvrpin-setup)
+    * [Reset Device Password](https://help.lorextechnology.com/link/portal/57356/57366/Article/3774/how-reset-your-password)
     
 
 Country (US)
@@ -590,7 +590,7 @@ Your cart is empty
     * [Returns](https://returns.lorex.com/)
     * [About Sales Tax](https://pro.lorex.com/pages/about-sales-tax)
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
-    * [Reset Device Password](https://www.lorex.com/account/login?return_to=/pages/forgotnvrpin-setup)
+    * [Reset Device Password](https://help.lorextechnology.com/link/portal/57356/57366/Article/3774/how-reset-your-password)
 
 Terms of service
 ================
