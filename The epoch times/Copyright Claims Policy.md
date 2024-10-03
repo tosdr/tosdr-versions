@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Biden Signs Bill Cutting Environmental Reviews for Semiconductor Industry](https://www.theepochtimes.com/us/biden-signs-bill-cutting-environmental-reviews-for-semiconductor-industry-5734397)
+* [More Countries Evacuating Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
     
-    3hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Biden Signs Bill Cutting Environmental Reviews for Semiconductor Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![More Countries Evacuating Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Signs Bill Cutting Environmental Reviews for Semiconductor Industry](https://img.theepochtimes.com/assets/uploads/2023/09/07/id5487922-GettyImages-1243773148-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-signs-bill-cutting-environmental-reviews-for-semiconductor-industry-5734397)
-* [Greece to Spend €20 Billion to Reverse Population Decline](https://www.theepochtimes.com/world/greece-to-spend-e20-billion-to-reverse-population-decline-5734413)
+    ![More Countries Evacuating Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731575-GettyImages-2173933499KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
+* [Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Greece to Spend €20 Billion to Reverse Population Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Greece to Spend €20 Billion to Reverse Population Decline](https://img.theepochtimes.com/assets/uploads/2024/06/23/id5673846-GettyImages-1024819170-sb-205x123.jpg.webp)](https://www.theepochtimes.com/world/greece-to-spend-e20-billion-to-reverse-population-decline-5734413)
-* [Prosecutors Request Indefinite Delay in Trump Assassination Attempt Trial](https://www.theepochtimes.com/us/prosecutors-request-indefinite-delay-in-trump-assassination-attempt-trial-5734383)
+    ![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734888-GettyImages-2175657090-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
+* [Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
     
-    6hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Prosecutors Request Indefinite Delay in Trump Assassination Attempt Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Prosecutors Request Indefinite Delay in Trump Assassination Attempt Trial](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734628-GettyImages-2171765918-SB-205x123.jpg)](https://www.theepochtimes.com/us/prosecutors-request-indefinite-delay-in-trump-assassination-attempt-trial-5734383)
-* [Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://www.theepochtimes.com/world/israel-continues-strikes-in-lebanon-hitting-central-beirut-5734410)
+    ![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/uploads/2024/06/05/id5663193-mounjaro-205x123.jpg.webp)](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
+* [Patient Dies From Rare Cancer Linked to CAR T-Cell Therapy–What Are the Risks?](https://www.theepochtimes.com/health/patient-dies-from-rare-cancer-linked-to-car-t-cell-therapy-what-are-the-risks-5733839)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Patient Dies From Rare Cancer Linked to CAR T-Cell Therapy–What Are the Risks?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Continues Strikes in Lebanon, Hitting Central Beirut](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734618-Lebanon-Israel-strike.jpg-LSedit-SB_1-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-continues-strikes-in-lebanon-hitting-central-beirut-5734410)
-* [This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://www.theepochtimes.com/us/this-colorado-mom-reversed-her-chemical-abortion-now-the-process-is-banned-5733479)
+    ![Patient Dies From Rare Cancer Linked to CAR T-Cell Therapy–What Are the Risks?](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734779-shutterstock_2188249053_car_t-cell_therapy_T-cell_cancer-205x123.jpg.webp)](https://www.theepochtimes.com/health/patient-dies-from-rare-cancer-linked-to-car-t-cell-therapy-what-are-the-risks-5733839)
+* [Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
     
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![This Colorado Mom Reversed Her Chemical Abortion. Now the Process Is Banned.](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734522-Chelsea-Mynyk-of-Castle-Rock-Womens-Health.png-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/this-colorado-mom-reversed-her-chemical-abortion-now-the-process-is-banned-5733479)
-* [Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://www.theepochtimes.com/us/why-these-trump-supporters-are-going-back-to-the-butler-shooting-site-5733485)
+    ![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732228-GettyImages-2174055961-trump-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
+* [IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://www.theepochtimes.com/us/irs-vows-tax-enforcement-crackdown-after-audit-reveals-1-4-billion-in-unpaid-taxes-from-gambling-winnings-5734672)
     
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Why These Trump Supporters Are Going Back to the Butler Shooting Site](https://img.theepochtimes.com/assets/uploads/2024/08/10/id5703477-Trump-rally-shooting-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/why-these-trump-supporters-are-going-back-to-the-butler-shooting-site-5733485)
-* [Dominican Republic Plans to Start Deporting Up to 10,000 Haitians a Week](https://www.theepochtimes.com/world/dominican-republic-plans-to-start-deporting-up-to-10000-haitians-a-week-5734348)
+    ![IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589772-06282023-DSC05012-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-vows-tax-enforcement-crackdown-after-audit-reveals-1-4-billion-in-unpaid-taxes-from-gambling-winnings-5734672)
+* [Taxpayers Affected by Hurricane Helene Can Delay Their Tax Filing Deadline: IRS](https://www.theepochtimes.com/us/taxpayers-affected-by-hurricane-helene-can-delay-their-tax-filing-deadline-irs-5734669)
     
-    7hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Dominican Republic Plans to Start Deporting Up to 10,000 Haitians a Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Taxpayers Affected by Hurricane Helene Can Delay Their Tax Filing Deadline: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Dominican Republic Plans to Start Deporting Up to 10,000 Haitians a Week](https://img.theepochtimes.com/assets/uploads/2022/10/11/Dominican_Republic_Haiti_22284516011238-205x123.jpg.webp)](https://www.theepochtimes.com/world/dominican-republic-plans-to-start-deporting-up-to-10000-haitians-a-week-5734348)
-* [Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
+    ![Taxpayers Affected by Hurricane Helene Can Delay Their Tax Filing Deadline: IRS](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734917-GettyImages-2174887967-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/taxpayers-affected-by-hurricane-helene-can-delay-their-tax-filing-deadline-irs-5734669)
+* [Trump Asks to Lodge Oversize Filing After Jack Smith’s Lengthy Brief](https://www.theepochtimes.com/us/trump-asks-to-lodge-oversize-filing-after-jack-smiths-mega-brief-5734683)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Asks to Lodge Oversize Filing After Jack Smith’s Lengthy Brief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Massachusetts Governor Uses Emergency Powers to Fast-Track Sweeping Gun Control Law](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720925-Maura-Healey-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-governor-uses-emergency-powers-to-fast-track-sweeping-gun-control-law-5734298)
-* [Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
+    ![Trump Asks to Lodge Oversize Filing After Jack Smith’s Lengthy Brief](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718809-Jack-Smith-Donald-Trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-asks-to-lodge-oversize-filing-after-jack-smiths-mega-brief-5734683)
+* [US–India Semiconductor Deal Aims to Thwart Global Supply Chain Disruption: Experts](https://www.theepochtimes.com/world/us-india-semiconductor-deal-aims-to-thwart-global-supply-chain-disruption-experts-5728565)
     
-    16hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    5hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
     
-    [![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US–India Semiconductor Deal Aims to Thwart Global Supply Chain Disruption: Experts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden, Harris Make First Visit to States Hit by Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734361-Biden-GettyImages-2175472071-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-harris-make-first-visit-to-states-hit-by-hurricane-helene-5734270)
-* [Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
+    ![US–India Semiconductor Deal Aims to Thwart Global Supply Chain Disruption: Experts](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734732-GettyImages-2172809441-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-india-semiconductor-deal-aims-to-thwart-global-supply-chain-disruption-experts-5728565)
+* [Biden Administration’s Student Loan Forgiveness Plan Allowed to Proceed as Judge Declines to Renew Block](https://www.theepochtimes.com/us/biden-administrations-student-loan-forgiveness-plan-allowed-to-proceed-as-judge-declines-to-renew-block-5734616)
     
-    18hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Administration’s Student Loan Forgiveness Plan Allowed to Proceed as Judge Declines to Renew Block](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Doctor in Matthew Perry’s Ketamine Death Case Pleads Guilty to Conspiracy](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734316-Matthew-Perry-doctor-AP24276618885127KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctor-in-matthew-perrys-ketamine-death-case-pleads-guilty-to-conspiracy-5734183)
+    ![Biden Administration’s Student Loan Forgiveness Plan Allowed to Proceed as Judge Declines to Renew Block](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383721-07062023-DSC06370-Education-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-administrations-student-loan-forgiveness-plan-allowed-to-proceed-as-judge-declines-to-renew-block-5734616)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
