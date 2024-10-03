@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Hugo van Sittert
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=63094429)  
-Moving Made Easy (PTY) Ltd
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=116714283)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=9948051)  
-Glass and Allied Industries
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=125183227)  
+KTEN PARTS
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=22839191)  
-CGHK Enterprises (PTY) LTD
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=185133014)  
+ELLIE'S CLEANING CHICKS
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=77190728)  
-OXYAIDER (PTY) LTD
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=170942175)  
-NEW BEGINNINGS DESIGNS
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=47807424)  
-Sportspro Management (Pty) Ltd
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=140628895)  
-Sarabi
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=151825176)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=190569828)  
-kidoscabbie
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=120768863)  
-Kaylas Creations
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=178505126)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=56794548)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=61283226)  
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=91305105)  
 Immediate Health (pty)ltd
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=142922316)  
-MOSELA GROUP Pty(ltd)
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=93159419)  
+Kaylas Creations
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=f6542ec71a11a962c2272e9320f4b589a2f938636c705a42376190ccc565b3ee&c=9295835)  
-webb it services
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=89198529)  
+CGHK Enterprises (PTY) LTD
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=136577037)  
+Alliance Energy
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=48466727)  
+Network Grey (Pty) Ltd
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=36599763)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=170108638)  
+IYD
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=13658039)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=212467851)  
+Wiselink Broadband Dundee
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=88452518)  
+FX ACCOUNTING
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=65014237)  
+WIP Digital Solutions
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=deb83c7814f3f195e8762e6a3ba1008a1c9ea51d33658e90d898b89eab1d71b5&c=30094969)  
+Cpower Projects t/a Pro Pure Water
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
