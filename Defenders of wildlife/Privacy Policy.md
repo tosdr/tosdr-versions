@@ -501,7 +501,7 @@ Washington, DC 20036 
 
 Image
 
-   ![Get Updates and Alerts](https://defendersofwildlife-360365372.imgix.net/sites/default/files/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?fit=max&ixlib=php-3.3.1&w=2000)
+   ![Get Updates and Alerts](https://defendersofwildlife-360365372.imgix.net/sites/default/files/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?fit=max&ixlib=php-4.1.0&w=2000)
 
 ### Get Alerts & Updates
 
