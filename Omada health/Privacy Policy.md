@@ -574,7 +574,7 @@ This Privacy Policy applies to your access to and use of the following services,
 
 * our digitally based health care programs (the “Omada Programs”);1
 * our mobile applications, including Omada and Omada for Joint & Muscle Health (the “Apps”);
-* the websites that we operate (including [go.omadahealth.com](http://go.omadahealth.com/), [www.omadahealth.com](https://www.omadahealth.com/), and www.physera.com) (the “Sites”); and 
+* the websites that we operate (including [go.omadahealth.com](https://go.omadahealth.com/), [www.omadahealth.com](https://www.omadahealth.com/), and www.physera.com) (the “Sites”); and 
 * all related services and features that we provide.
 
 Throughout this Privacy Policy, we distinguish between individuals that use different aspects of our Services with the following terms:2
@@ -866,7 +866,7 @@ Esta Política de privacidad se aplica al acceso y uso que haga de los siguiente
 
 * nuestros programas digitales de atención médica (los “Programas de Omada”).1
 * nuestras aplicaciones móviles, incluidas Omada y Omada for Joint & Muscle Health (las “Aplicaciones”);
-* los sitios web que operamos (incluidos [go.omadahealth.com](http://go.omadahealth.com/) y  [www.omadahealth.com](https://www.omadahealth.com/) y www.physera.com) (los “Sitios”); y 
+* los sitios web que operamos (incluidos [go.omadahealth.com](https://go.omadahealth.com/) y  [www.omadahealth.com](https://www.omadahealth.com/) y www.physera.com) (los “Sitios”); y 
 * todos los servicios y funciones relacionados que  ofrecemos.
 
 A lo largo de esta Política de privacidad, distinguimos entre personas que utilizan diferentes aspectos de nuestros Servicios con las siguientes condiciones:2
