@@ -16,7 +16,7 @@ Nouveau : votre permis en 4x sans frais et dès 559,99€ seulement ! [J'en pro
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
-Permis de conduire
+[Permis de conduire](https://www.ornikar.com/permis)
 
 [Permis B
 
@@ -24,7 +24,7 @@ Permis de conduire
 
 [Code de la route](https://www.ornikar.com/code)
 
-Assurance
+[Assurance](https://www.ornikar.com/assurance-auto)
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)[Assurance habitation
 
@@ -137,8 +137,6 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6644b574570720ee62bdb281_icon_close-modal.svg)](#)
 
-[](https://www.ornikar.com/)
-
 [Code](https://www.ornikar.com/code)[Assurance Auto](https://www.ornikar.com/assurance-auto)[Auto Ecole](https://www.ornikar.com/auto-ecole)[Permis](https://www.ornikar.com/permis)[Conduite Accompagnée](https://www.ornikar.com/conduite-accompagnee)[A propos](https://www.ornikar.com/a-propos)
 
 /
@@ -172,82 +170,25 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 Les conditions générales de vente
 =================================
 
-Par :
+[](#)
+
+![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66facc3ec83765ba85ec3bf5_amaury.webp)
+
+Amaury Le Scornet
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f52a190022b84a15936329_6191a88a1c0e39463c2bf022_placeholder-image.svg)
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f52ad18f156a0ee781317b_ornikar-bg-pattern.svg)
+
+Sommaire
+
+[Example H2](#)
 
 [](#)
 
-Publié le
-
-/
-
-/
-
-Au programme
-
-[Sommaire](#)
-
-[Ornikar,  
-votre assurance auto jeune conducteur au prix juste !
-
-Pour une assurance qui vous protège sans vous surtaxer.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance
-
-Ornikar,  
-votre assurance auto jeune conducteur au prix juste !
-
-Pour une assurance qui vous protège sans vous surtaxer.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
-
-l’auto-école qui assure même après le permis !
-
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
-
-Je découvre](https://www.ornikar.com/)[Ornikar,  
-l’auto-école qui assure même après le permis !
-
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
-
-Je découvre](https://www.ornikar.com/)[Code de la route
-
-Avec Ornikar,  
-le code c’est dans la poche
-
-À moins de 1€, mais avec tout ce qu’il faut pour réussir !
-
-Je découvre](https://www.ornikar.com/code)[Avec Ornikar,  
-le code c’est dans la poche
-
-À moins de 3€/mois, mais avec tout ce qu’il faut pour réussir !
-
-Je découvre](https://www.ornikar.com/code)[Permis
-
-Et si vous testiez la conduite avec Ornikar ?
-
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
-
-Je découvre](https://www.ornikar.com/permis)[Et si vous testiez la conduite avec Ornikar ?
-
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
-
-Je découvre](https://www.ornikar.com/permis)[Assurance
-
-Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
-
-Découvrez et choisissez la formule la plus  
-adaptée à votre profil de conducteur.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
-
-Découvrez et choisissez la formule la plus  
-adaptée à votre profil de conducteur.
-
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Le permis financé avec le CPF !
-
-Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis de conduire ? Avec Ornikar c’est possible !
-
-Je découvre](https://www.ornikar.com/financer-permis-cpf)
+No items found.
 
 [**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
@@ -1556,43 +1497,35 @@ Versions précédentes
 * [**Version applicable du 15 septembre 2020 au 17 mai 2021**](https://ornikar.cdn.prismic.io/ornikar/efac27e1-de85-45d4-b948-b5c7363bdef0_CGV+Ornikar+15_09_2020.pdf)
 * [**Version applicable du 5 février 2019 au 14 septembre 2020**](https://ornikar.cdn.prismic.io/ornikar/44050f40-ac11-4173-beb2-3d17fcfcf272_CGV+05_02_2019.pdf)
 
-_Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler._
-
-[](https://www.ornikar.com/)
-
-[](https://www.ornikar.com/)
-
-[](https://www.ornikar.com/)
-
-[Découvrir nos offres](https://www.ornikar.com/)
+Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
 [Ornikar
 
-Ornikar, l’auto-école qui assure même après le permis !
+La 1ère auto-école de France !
 
-Notre mission : rendre l’autonomie accessible à toutes et à tous.
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/)[Permis B
+Je découvre](https://www.ornikar.com/)[Ornikar
 
-Et si vous testiez la conduite avec Ornikar ?
+La 1ère auto-école de France !
 
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)
+Je découvre](https://www.ornikar.com/permis)
 
 [Code de la route
 
-Avec Ornikar, le code c’est dans la poche
+Votre code pour moins de 3€/mois !
 
-À moins de 15€/an, mais avec tout ce qu’il faut pour réussir !
+Et du 1er coup, comme plus de 3 millions d'élèves Ornikar !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code)
+Je découvre](https://www.ornikar.com/code)
 
 [Assurance auto
 
@@ -1600,189 +1533,111 @@ Ornikar, votre assurance auto jeune conducteur au prix juste !
 
 Pour une assurance qui vous protège sans vous surtaxer.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
 
-Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
+Assurez votre véhicule à moindre coût grâce à Ornikar Assurance !
 
 Découvrez et choisissez la formule la plus  
 adaptée à votre profil de conducteur.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar, l’auto-école qui assure même après le permis !
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+
+Ornikar, l’auto-école qui assure même après le permis !
 
 Notre mission : rendre l’autonomie accessible à toutes et à tous.
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/)[Et si vous testiez la conduite avec Ornikar ?
+Je découvre](https://www.ornikar.com/)[SATISFAIT OU REMBOURSÉ
 
-Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous ! 
+Et si vous testiez la conduite avec Ornikar ?
 
-Je découvre
+Faites 1h de conduite avec un.e enseignant.e diplômé.e d’État près de chez vous, on vous rembourse si vous n'êtes pas satisfait.e ! 
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-[Avec Ornikar, le code c’est dans la poche
+Je découvre](https://www.ornikar.com/permis)
 
-À moins de 15€, mais avec tout ce qu’il faut pour réussir !
+[Code de la route
 
-Je découvre
+Votre code pour moins de 3€/mois !
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code)
+Et du 1er coup, comme plus de 3 millions d'élèves Ornikar !
 
-[Ornikar, votre assurance auto jeune conducteur au prix juste !
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
+
+Je découvre](https://www.ornikar.com/code)
+
+[Assurance auto
+
+Ornikar, votre assurance auto jeune conducteur au prix juste !
 
 Pour une assurance qui vous protège sans vous surtaxer.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurez votre véhicule à moindre coût grâce à **Ornikar Assurance !**
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Assurance auto
+
+Assurez votre véhicule à moindre coût grâce à Ornikar Assurance !
 
 Découvrez et choisissez la formule la plus  
 adaptée à votre profil de conducteur.
 
-J'obtiens mon tarif
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ne risquez pas un échec.
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
 
-Faites le choix Ornikar
+Votre permis dès 559,€
 
-J'apprends à conduire
+Avec la 1ère auto-école de France et les meilleurs enseignants de France.
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/permis)[Ne risquez pas un échec.
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Faites le choix Ornikar.
+Je découvre](https://www.ornikar.com/permis)[OFFERT
 
-Démarrez un test de Code Gratuit
+1 série de code
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code/gratuit)[Le permis financé avec le CPF !
+Pour tester gratuitement !
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66c4a91107897c58e1ab6b8b_Illustration%20code%20(1).png)
+
+Démarrer une série de code offerte](https://www.ornikar.com/code/gratuit)[Permis B
+
+Le permis financé avec le CPF !
 
 Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis ? Avec Ornikar c’est possible !
 
-Je finance mon permis
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)](https://www.ornikar.com/financer-permis-cpf)[![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a7a96b6ea34b6c01fca56b_Badge%20Acheel%20rouge.svg)
+Je finance mon permis](https://www.ornikar.com/financer-permis-cpf)[Nouveau
 
-ASSURANCE HABITATION
+L'assurance habitation
 
 Une assurance transparente et personnalisable, dès 2,17€/mois seulement !
 
-Je découvre
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)[VOTRE CARTE GRISE EN MOINS DE 48H !
+Je découvre](https://www.ornikar.com/assurance-habitation)[Carte Grise
+
+VOTRE CARTE GRISE EN MOINS DE 48H !
 
 Grâce à notre service partenaire.
 
-J'en profite
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)](https://certimat.fr/prescripteurs?partner=5361)
+J'en profite](https://certimat.fr/prescripteurs?partner=5361)
 
 ### A lire également
 
-Aucun article pour le moment
+No items found.
 
-Envie d'en savoir plus
+### Envie d’aller plus loin ?
 
-[Codes promos Ornikar](https://www.ornikar.com/a-propos/code-promo-ornikar)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
-
-[Jeu concours Ornikar - JO Juillet 2024](https://www.ornikar.com/a-propos/promo-juillet-2024)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-juillet-2024)
-
-[Règlement jeu concours - Juin 2024](https://www.ornikar.com/a-propos/reglement-jeu-concours-juin-2024)
-
-[Promo juin 2024](https://www.ornikar.com/a-propos/promo-juin-2024)
-
-[Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
-
-[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-mai-2024)
-
-[Partenaires d'Ornikar](https://www.ornikar.com/a-propos/nos-partenaires-education-et-assurance)
-
-[Promo Flash Avril 2024](https://www.ornikar.com/a-propos/bons-plans/promo-flash-avril-2024)
-
-[Offres promotionnelles février 2024](https://www.ornikar.com/a-propos/bons-plans/promotions-fevrier-2024)
-
-[Promotion janvier 2024](https://www.ornikar.com/a-propos/bons-plans/promotion-janvier)
-
-[Xmas Days 2023](https://www.ornikar.com/a-propos/bons-plans/xmas-days)
-
-[Jeu concours Instagram Black Friday 2023](https://www.ornikar.com/a-propos/bons-plans/concours-instagram)
-
-[Black Friday 2023](https://www.ornikar.com/a-propos/bons-plans/black-friday-2023)
-
-[Maîtriser son budget](https://www.ornikar.com/a-propos/bons-plans/maitriser-budget)
-
-[Ornikar Days](https://www.ornikar.com/a-propos/bons-plans/ornikar-days)
-
-[Offre assurance octobre 2023](https://www.ornikar.com/a-propos/bons-plans/offre-assurance-10-2023)
-
-[Partenariat Ornikar](https://www.ornikar.com/a-propos/partenariat-ornikar)
-
-[Avis Ornikar : nos candidats à la conduite](https://www.ornikar.com/a-propos/temoignages-conduite)
-
-[Rédactrice Lea Doumerc](https://www.ornikar.com/a-propos/redacteurs/lea-doumerc)
-
-[Avis Ornikar : nos candidats au code de la route](https://www.ornikar.com/a-propos/temoignages-code)
-
-[Revue de presse d'Ornikar](https://www.ornikar.com/a-propos/revue-de-presse)
-
-[Rédacteur Amaury Le Scornet](https://www.ornikar.com/a-propos/redacteurs/amaury-le-scornet)
-
-[Rédacteurs d'Ornikar](https://www.ornikar.com/a-propos/redacteurs)
-
-[Pourquoi Ornikar et pas Ornicar ?](https://www.ornikar.com/a-propos/pourquoi-ornikar-avec-un-k-et-pas-ornicar-avec-un-c)
-
-[Ornikar : champion de la Frenchtech](https://www.ornikar.com/a-propos/ornikar-champion-frenchtech)
-
-[Qui sommes-nous ?](https://www.ornikar.com/a-propos/nous-sommes-ornikar)
-
-[Mentions légales et conditions générales d'utilisation](https://www.ornikar.com/a-propos/mentions-legales)
-
-[Pourquoi Ornikar est parfaitement légal ?](https://www.ornikar.com/a-propos/legalite)
-
-[La lettre du 25 mars 2016 décryptée](https://www.ornikar.com/a-propos/la-lettre-du-25-mars-2016-decryptee)
-
-[Utilisation des cookies](https://www.ornikar.com/a-propos/cookies)
-
-[Inscription sur Ornikar](https://www.ornikar.com/a-propos/inscription)
-
-[Contactez-nous](https://www.ornikar.com/a-propos/contact)
-
-[Conditions générales d'utilisation](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
-
-[Conditions générales de vente](https://www.ornikar.com/a-propos/conditions-generales-de-vente)
-
-[Communiqués de presse d'Ornikar](https://www.ornikar.com/a-propos/communiques)
-
-[Charte sanitaire](https://www.ornikar.com/a-propos/charte-sanitaire)
-
-[Politique de confidentialité](https://www.ornikar.com/a-propos/charte-de-confidentialite)
-
-[Charte d'engagement Ornikar](https://www.ornikar.com/a-propos/charte-engagement)
-
-[Start-up à suivre](https://www.ornikar.com/a-propos/bons-plans/startups-auto-suivre)
-
-[Stages de pilotage](https://www.ornikar.com/a-propos/bons-plans/stages-pilotage-circuit)
-
-[Pièces pour moto sur internet](https://www.ornikar.com/a-propos/bons-plans/pieces-moto)
-
-[Bons plans](https://www.ornikar.com/a-propos/bons-plans)
-
-[Acheter un panneau de signalisation sur le net](https://www.ornikar.com/a-propos/bons-plans/ou-acheter-panneau)
-
-[Se loger en étant étudiant](https://www.ornikar.com/a-propos/bons-plans/logement)
-
-[App Ornikar](https://www.ornikar.com/a-propos/app-mobile)
-
-[Avis Ornikar Assurances](https://www.ornikar.com/a-propos/avis-ornikar-assurance)
-
-[Avis Ornikar : qu'en pensent nos utilisateurs ?](https://www.ornikar.com/a-propos/avis)
+No items found.
 
 [Trustpilot](https://fr.trustpilot.com/review/ornikar.com)
 
