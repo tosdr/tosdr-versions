@@ -4,7 +4,7 @@
 
 [Download app](#)
 
-[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Contact Us](https://www.thestardustapp.com/contact.html)
+[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Shop](https://shop.stardust.app/) [Contact Us](https://www.thestardustapp.com/contact.html)
 
 [Download iOS](https://apps.apple.com/us/app/stardust-period-tracker/id1495829322)[Download Android](https://play.google.com/store/apps/details?id=com.stardust.app&hl=en_US&gl=US)
 
