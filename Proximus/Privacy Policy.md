@@ -146,7 +146,7 @@ Conditions générales
 
 [Mobile](#)
 
-[Conditions particulières – Téléphonie mobile(PDF, 187Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-06-03-15-56-00~cache.pdf)
+[Conditions particulières – Téléphonie mobile(PDF, 187Kb)](https://www.proximus.be/dam/jcr:84da2c1f-7d97-4b34-8821-aa30c4b24d8d/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-particuli-res---T-l-phonie-mobile---FR~2024-09-27-09-06-55~cache.pdf)
 
 [Internet policy(PDF, 162Kb)](https://www.proximus.be/dam/jcr:ffaf036a-cc5b-4087-ad57-637a0e06c344/cdn/sites/iportal/documents/pdfs/common/Conditions_internetpolicy_fr~2023-01-02-06-29-42~cache.pdf)
 
@@ -603,7 +603,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Appels nationaux (ligne fixe)**
 
 * [_​_Free Calls National(PDF, 62.5Kb)](https://www.proximus.be/dam/jcr:b04107d6-bf68-4b5b-9cd1-693b9084310b/cdn/sites/iportal/documents/pdfs/res/rates_-free_calls_national-_fr~2023-07-03-06-10-29~cache.pdf)
-* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-12~cache.pdf)
+* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-13~cache.pdf)
 
 **Appels internationaux (ligne fixe)**
 
@@ -815,39 +815,6 @@ Vous avez une plainte? Dans ce cas, vous pouvez contacter votre service Proximus
 Vous pouvez également vous adresser au Service de Médiation pour les télécommunications par e-mail [plaintes@mediateurtelecom.be](mailto:plaintes@mediateurtelecom.be) ou par la poste: Boulevard du Roi Albert II 8 boîte 3 à 1000 Bruxelles ,  tél. 02 223 06 06. Ou bien vous contactez le [Online Dispute Resolution Platform](http://ec.europa.eu/odr).
 
 Certains fichiers PDF peuvent présenter des défauts d’accessibilité à certaines personnes. [Dans ce cas, nous vous invitons à nous contacter](https://www.proximus.be/fr/id_f_cr_ask_mail_express/particuliers/r-orphans/forms/f-cr-ask-mail-express.html).
-
-[](#)
-
-### Vous avez une question?
-
-#### Posez-la à l'un de nos conseillers. Faites votre choix:
-
-* Chattez avec nous via notre site
-    
-    Chattez avec nous via notre siteindisponible pour le moment
-    
-* [Forum](https://fr.forum.proximus.be/)
-    
-* [Proximus Center](https://www.proximus.be/fr/id_ar_poslocator)
-    
-
-\>Fermer
-
-Vous avez une question?
------------------------
-
-### Posez-la à l'un de nos conseillers. Faites votre choix:
-
-* Chattez avec nous via notre site
-    
-    Chattez avec nous via notre siteindisponible pour le moment
-    
-* [Forum](https://fr.forum.proximus.be/)
-    
-* [Proximus Center](https://www.proximus.be/fr/id_ar_poslocator)
-    
-
-Un conseil?
 
 [Contactez-nous](https://www.proximus.be/support/fr/id_cr_contact/particuliers/support/contactez-notre-service-client.html)
 
