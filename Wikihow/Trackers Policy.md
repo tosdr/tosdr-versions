@@ -138,23 +138,23 @@ Save settings
 
 ### Featured Articles
 
+[![Break Up with Your Friend](https://www.wikihow.com/images/thumb/6/6f/Break-Up-with-Your-Friend-Step-16-Version-3.jpg/-crop-126-120-126px-Break-Up-with-Your-Friend-Step-16-Version-3.jpg)
+
+Ready to End a Friendship? Expert Tips on How to Break Up](https://www.wikihow.com/Break-Up-with-Your-Friend)
+
+[![Write a Book](https://www.wikihow.com/images/thumb/7/75/Write-a-Book-Step-15-Version-3.jpg/-crop-126-120-126px-Write-a-Book-Step-15-Version-3.jpg)
+
+How to  
+Write a Book](https://www.wikihow.com/Write-a-Book)
+
+[![Learn Speed Reading](https://www.wikihow.com/images/thumb/5/5d/Learn-Speed-Reading-Step-13-Version-5.jpg/-crop-126-120-126px-Learn-Speed-Reading-Step-13-Version-5.jpg)
+
+The Best Ways to Speed Read & Become a Faster Reader](https://www.wikihow.com/Learn-Speed-Reading)
+
 [![Stop Worrying and Start Living](https://www.wikihow.com/images/thumb/7/70/Stop-Worrying-and-Start-Living-Step-13-Version-2.jpg/-crop-126-120-126px-Stop-Worrying-and-Start-Living-Step-13-Version-2.jpg)
 
 How to  
 Get Rid of Unwanted Thoughts and Start Enjoying Life](https://www.wikihow.com/Stop-Worrying-and-Start-Living)
-
-[![Get Internet Where There Is No Service](https://www.wikihow.com/images/thumb/1/16/Get-Internet-Where-There-Is-No-Service-Step-8.jpg/-crop-126-120-126px-Get-Internet-Where-There-Is-No-Service-Step-8.jpg)
-
-8 Easy Ways to Get Online Without Internet Service](https://www.wikihow.com/Get-Internet-Where-There-Is-No-Service)
-
-[![Start a Love Letter](https://www.wikihow.com/images/thumb/a/a9/Start-a-Love-Letter-Step-12-Version-3.jpg/-crop-126-120-126px-Start-a-Love-Letter-Step-12-Version-3.jpg)
-
-How to  
-Start a Love Letter](https://www.wikihow.com/Start-a-Love-Letter)
-
-[![Lie Down in Bed During Pregnancy](https://www.wikihow.com/images/thumb/9/91/Lie-Down-in-Bed-During-Pregnancy-Step-14.jpg/-crop-126-120-126px-Lie-Down-in-Bed-During-Pregnancy-Step-14.jpg)
-
-The Best Ways to Sleep When Pregnant](https://www.wikihow.com/Lie-Down-in-Bed-During-Pregnancy)
 
   
 
