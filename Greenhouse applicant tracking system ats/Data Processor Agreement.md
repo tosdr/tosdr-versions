@@ -188,10 +188,6 @@ Seattle, Washington 98121, USA
 
 **Note:** Additional country of processing - Germany
 
-  
-
----
-
 **Datadog, Inc.**  
 620 8th Ave., 45th Fl.  
 New York, NY 10018, USA  
@@ -216,25 +212,29 @@ Oakland, CA 94612, USA
 
 **Delivery of data to data warehouse**
 
+****Forethought Technologies, Inc.****  
+345 California Street, Suite 600,  
+San Francisco, CA 94104, USA  
   
-
----
-
+****Customer chatbot****  
+  
 **Gainsight, Inc.**  
 655 Montgomery St, 7th Floor  
 San Francisco, CA 94111, USA
 
-**Customer success platform**
-
+**Customer success platform**  
   
-
----
-
 **Google, Inc. (Google Workspace)**  
 1600 Amphitheatre Pkwy  
 Mountain View, CA 94043, USA
 
 **Email processing**  
+
+****Medallia, Inc.****  
+6220 Stoneridge Mall Rd, Floor 2  
+Pleasanton, CA 94588, USA  
+  
+****Customer satisfaction surveys and quality assurance****  
 
   
 
@@ -243,10 +243,6 @@ Mountain View, CA 94043, USA
 Raleigh, NC 27601, USA
 
 **In-app messages and guidance**
-
-  
-
----
 
 **Rollbar, Inc.**  
 51 Federal Street, Suite 401  
@@ -260,9 +256,7 @@ Denver, CO 80202, USA
 
 **Two-factor authentication and email delivery system**
 
-**  
-  
-Snowflake**  
+**Snowflake**  
 106 East Babcock St., Ste. 3A  
 Bozeman, MT 59715, USA
 
@@ -271,15 +265,7 @@ Bozeman, MT 59715, USA
 1019 Market Street  
 San Francisco, CA 94103, USA
 
-**Customer support ticketing system**
-
-**Zoom (Zoom Virtual Agent)**  
-55 Almaden Blvd, Suite 600  
-San Jose, CA 95113, USA
-
-**Support ticket processing; raising support tickets to Zendesk**  
-
-****Note:**** Optional for Greenhouse Recruiting; on by default  
+**Customer support ticketing system**  
 
 * * *
 
@@ -297,6 +283,12 @@ Londonderry, NH 03053, USA**Resume parsing**
 San Francisco, CA 94105, USA
 
 **Email services**  
+
+**Mapbox, Inc.**  
+1133 15th St NW Suite 845,  
+Washington, DC 20005, USA
+
+**Provides location auto-complete functionality**  
 
 * * *
 
@@ -355,6 +347,14 @@ Mountain View, CA 94043, USA
 
 ****Note:**** Optional for EU customers only; on by default
 
+**OpenAI, LLC**  
+3180 18th St  
+San Francisco, CA 94110, USA  
+  
+**Service provider for hosting large language models**  
+  
+**Note:** Opt-in subprocessor; off by default
+
 **Skilljar, Inc.**  
 720 Olive Way #700  
 Seattle, WA 98101, USA
@@ -396,7 +396,7 @@ Archived versions[](https://www.greenhouse.com/subprocessors-in-use-march-8-2024
 
 [Subprocessors in use - March 8, 2024](https://www.greenhouse.com/subprocessors-in-use-march-8-2024)
 
-be\_ixf;ym\_202410 d\_02; ct\_50
+be\_ixf;ym\_202410 d\_03; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/subprocessors-in-use
