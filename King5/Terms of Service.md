@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ada297bb-1963-4fc4-9abd-cd8037dba199/20241002T194331/ada297bb-1963-4fc4-9abd-cd8037dba199_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ada297bb-1963-4fc4-9abd-cd8037dba199/20241002T194331/ada297bb-1963-4fc4-9abd-cd8037dba199_360x203.jpg)](https://www.king5.com/article/news/local/seattle/overlook-walk-new-landmark-seattle-waterfront-open-this-week/281-155c462c-4400-4377-9675-e9d6fbddb739)
+    *  [![](https://media.king5.com/assets/KING/images/ba58e88d-a282-4bd9-b522-c9350ae76fd8/20241003T015014/ba58e88d-a282-4bd9-b522-c9350ae76fd8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba58e88d-a282-4bd9-b522-c9350ae76fd8/20241003T015014/ba58e88d-a282-4bd9-b522-c9350ae76fd8_360x203.jpg)](https://www.king5.com/article/news/local/families-alleged-molestation-survivors-sue-peninsula-school-district/281-91f095a4-1867-40b3-a17d-9aea13bc711f)
         
-        #### [Overlook Walk, a new landmark on Seattle's Waterfront, set to open this week](https://www.king5.com/article/news/local/seattle/overlook-walk-new-landmark-seattle-waterfront-open-this-week/281-155c462c-4400-4377-9675-e9d6fbddb739)
+        #### [Families of girls allegedly molested by teacher sue Peninsula School District](https://www.king5.com/article/news/local/families-alleged-molestation-survivors-sue-peninsula-school-district/281-91f095a4-1867-40b3-a17d-9aea13bc711f)
         
-    *  [![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-back-on-job-verbal-counseling-avery-moore/281-1ba97696-61de-47ca-813f-eefb970040f0)
+    *  [![](https://media.king5.com/assets/KING/images/23a3c588-b3d1-4761-a27b-fda0b9dcb494/20241003T010636/23a3c588-b3d1-4761-a27b-fda0b9dcb494_16x9.jpg) ![](https://media.king5.com/assets/KING/images/23a3c588-b3d1-4761-a27b-fda0b9dcb494/20241003T010636/23a3c588-b3d1-4761-a27b-fda0b9dcb494_360x203.jpg)](https://www.king5.com/article/news/local/norse-home-closure-forces-residents-out-seattle/281-85fd1dc7-9e82-4846-a06e-3bce50b2d7de)
         
-        #### [Tacoma police chief was placed on administrative leave due to personal use of a city asset](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-back-on-job-verbal-counseling-avery-moore/281-1ba97696-61de-47ca-813f-eefb970040f0)
+        #### [Closure of Seattle retirement home shocks residents](https://www.king5.com/article/news/local/norse-home-closure-forces-residents-out-seattle/281-85fd1dc7-9e82-4846-a06e-3bce50b2d7de)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/75e7345d-f4d1-4afd-9d72-a2cbf3f4acd7/20241002T122335/75e7345d-f4d1-4afd-9d72-a2cbf3f4acd7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/75e7345d-f4d1-4afd-9d72-a2cbf3f4acd7/20241002T122335/75e7345d-f4d1-4afd-9d72-a2cbf3f4acd7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/809834ef-5a34-44a3-b41c-d60abf59f01f/20241003T004054/809834ef-5a34-44a3-b41c-d60abf59f01f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/809834ef-5a34-44a3-b41c-d60abf59f01f/20241003T004054/809834ef-5a34-44a3-b41c-d60abf59f01f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+59°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
