@@ -2,8 +2,6 @@ Menu
 
 [![KiwiCo, Inc.](https://icdn.kiwico.com/site/search/kiwico-logo-horizontal-holiday.svg)](https://www.kiwico.com/)
 
-×
-
 [](https://www.kiwico.com/kt/cart)
 
 1. Clubs
