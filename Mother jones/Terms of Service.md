@@ -8,10 +8,10 @@
 
 *  
     
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-iron-dome-expensive-ridiculous-two-trillion-2024/)
-* [Rep. Ilhan Omar](https://www.motherjones.com/politics/2024/09/ilhan-omar-bernie-long-covid-house-bill/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-billionaire-tax-policy-corporations/)
-* [Gaza](https://www.motherjones.com/politics/2024/09/rep-rashida-tlaib-secretary-of-state-biden-blinken-resign/)
+* [Tim Walz](https://www.motherjones.com/politics/2024/10/tim-walz-jd-vance-january-6-trump-pence/)
+* [Repro Rights](https://www.motherjones.com/politics/2024/10/when-vance-said-abortion-rights-should-be-left-to-the-states-he-ignored-an-inconvenient-fact/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/10/rfk-jr-north-carolina-early-voting-hurricane-helene-septemeber/)
+* [JD Vance](https://www.motherjones.com/politics/2024/10/jd-vance-says-his-mamaw-had-eight-miscarriages/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-iron-dome-expensive-ridiculous-two-trillion-2024/)
-* [Rep. Ilhan Omar](https://www.motherjones.com/politics/2024/09/ilhan-omar-bernie-long-covid-house-bill/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-billionaire-tax-policy-corporations/)
-* [Gaza](https://www.motherjones.com/politics/2024/09/rep-rashida-tlaib-secretary-of-state-biden-blinken-resign/)
+* [Tim Walz](https://www.motherjones.com/politics/2024/10/tim-walz-jd-vance-january-6-trump-pence/)
+* [Repro Rights](https://www.motherjones.com/politics/2024/10/when-vance-said-abortion-rights-should-be-left-to-the-states-he-ignored-an-inconvenient-fact/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/10/rfk-jr-north-carolina-early-voting-hurricane-helene-septemeber/)
+* [JD Vance](https://www.motherjones.com/politics/2024/10/jd-vance-says-his-mamaw-had-eight-miscarriages/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
