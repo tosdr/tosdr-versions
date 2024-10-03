@@ -197,7 +197,7 @@ The use of the Services is done at your own discretion and risk and with the agr
 
 ###### Product  
 
-[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/solutions/customer-meetings)[Team meetings](https://tactiq.io/solutions/team-meetings)
+[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/use-cases/customer-meetings)[Team meetings](https://tactiq.io/use-cases/team-meetings)
 
 ###### Resources  
 
