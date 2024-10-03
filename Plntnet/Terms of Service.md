@@ -24,6 +24,7 @@
     * [Deutsch](https://identify.plantnet.org/de/terms_of_use)
     * [Deutsch (Österreich)](https://identify.plantnet.org/de-at/terms_of_use)
     * [Ελληνικά](https://identify.plantnet.org/el/terms_of_use)
+    * [English (Australia)](https://identify.plantnet.org/en-au/terms_of_use)
     * [Esperanto](https://identify.plantnet.org/eo/terms_of_use)
     * [Español](https://identify.plantnet.org/es/terms_of_use)
     * [Eesti keel](https://identify.plantnet.org/et/terms_of_use)
