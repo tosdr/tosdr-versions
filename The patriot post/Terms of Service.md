@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Allen West The Role of Federal Government](https://patriotpost.us/opinion/110791-the-role-of-federal-government-2024-10-03)
 *      [Cal Thomas Lebanon Then and Now](https://patriotpost.us/opinion/110771-lebanon-then-and-now-2024-10-03)
 *      [Ben Shapiro The Power of Victory](https://patriotpost.us/opinion/110770-the-power-of-victory-2024-10-03)
 *      [Ann Coulter The Democrats’ Idea of a Regular Guy](https://patriotpost.us/opinion/110773-the-democrats-idea-of-a-regular-guy-2024-10-03)
