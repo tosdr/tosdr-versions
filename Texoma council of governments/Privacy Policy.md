@@ -172,14 +172,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Oct 2
-
-1:30 pm - 3:30 pm
-
-### [Criminal Justice Advisory Committee](https://tcog.com/event/criminal-justice-advisory-committee-2/ "Criminal Justice Advisory Committee")
-
-Sherman
-
 Oct 5
 
 8:00 am - 12:00 pm
@@ -200,7 +192,7 @@ Oct 10
 
 5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
 
-### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2/2024-10-10/ "Executive Officers Committee")
+### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2024-10-10/ "Executive Officers Committee")
 
 Sherman
 
