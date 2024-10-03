@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/price-stories/rezignacija/resignation/rezignacija-vii.?itok=1kGpGzxF)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/price-stories/rezignacija-resignation)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/houston-texas.jpg?itok=WG2UMDtF)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/decov.jpg?itok=CkXI0jyT)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mirko-ilic-galerija-haos/haos-beograd.jpg?itok=yEujOnsT)](http://seecult.org/galerija/foto-galerija/foto-arhiva/mirko-ilic-galerija-haos)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
