@@ -291,43 +291,41 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Cartoonist David Rowe talks shop with Treasurer Jim Chalmers in Canberra.](https://static.ffx.io/images/$zoom_0.2847%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_166%2C$y_644/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f2cb8c5f6b53a016b707d28a091308e64e78d25b)](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
+[![This week on The Fin podcast, political editor Phillip Coorey and AFR Magazine editor Matthew Drummond take us behind the scenes of the 2024 Power Issue.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e5f08982a48b409ee2ec2b4a62b733530b3e9dfe)](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
 
-### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
+### [Who’s up and down in this year’s Power List – and who wanted to get out](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
 
-* Matthew Drummond
-
-* ### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
+* ### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
     
-* ### [The forces that shaped 2024’s list of Australia’s most powerful people](https://www.afr.com/politics/federal/election-season-and-rates-angst-are-behind-this-year-s-power-shifts-20240827-p5k5kt)
+* ### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Recruiters and consultants say our people skills are getting worse the more time we spend on our own in front of screens.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3af78b13383ce8639065d576d3922544fcd5180c)](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
+[![Australian fashion designer Erin Deering eats breakfast at The Bond Store cafe in Southbank, Melbourne.](https://static.ffx.io/images/$zoom_0.4103%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_183%2C$y_5/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d9eb361e6ad04a43c43344937436dfd67c907132)](https://www.afr.com/work-and-careers/workplace/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
 
-### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
+### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/workplace/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
 
 * Euan Black
 
-* ### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
+* ### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
     
-* ### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
+* ### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Tjornuvik village in the Faroe Islands, Denmark.](https://static.ffx.io/images/$zoom_0.2036%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e1d7caf5947ae12ebd9988cbf4ff3eac68632c4d)](https://www.afr.com/life-and-luxury/travel/travel-insider-five-great-deals-from-the-kimberley-to-scandinavia-20240909-p5k91k)
+[![Barramundi ](https://static.ffx.io/images/$zoom_0.1416%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bbbe2a1d3897311ca4717209963e279a425ecf7b)](https://www.afr.com/life-and-luxury/food-and-wine/would-you-eat-barramundi-sashimi-20240910-p5k9eq)
 
-### [Travel insider: five great deals from the Kimberley to Scandinavia](https://www.afr.com/life-and-luxury/travel/travel-insider-five-great-deals-from-the-kimberley-to-scandinavia-20240909-p5k91k)
+### [Would you eat barramundi sashimi?](https://www.afr.com/life-and-luxury/food-and-wine/would-you-eat-barramundi-sashimi-20240910-p5k9eq)
 
-* Life & Leisure
+* Necia Wilden
 
-* ### [The unexpected ingredients of a trip along the Rhône](https://www.afr.com/life-and-luxury/travel/the-unexpected-ingredients-of-a-trip-along-the-rh-ne-20240829-p5k6az)
+* ### [Travel far, travel light. Leave room for a $500,000 quokka](https://www.afr.com/life-and-luxury/fashion-and-style/travel-far-travel-light-leave-room-for-a-500-000-quokka-20240904-p5k7yb)
     
-* ### [What’s new in cruising: From a $2.5m suite to the rise of hotel yachts](https://www.afr.com/life-and-luxury/travel/what-s-new-in-cruising-from-a-2-5m-suite-to-the-rise-of-hotel-yachts-20240829-p5k6am)
+* ### [Can a Millennial overcome a mortal dread of cruising?](https://www.afr.com/life-and-luxury/travel/can-a-millennial-overcome-a-mortal-dread-of-cruising-20240731-p5jxvu)
     
 
 [Rich List](https://www.afr.com/rich-list)
