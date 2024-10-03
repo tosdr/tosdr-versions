@@ -373,6 +373,8 @@ Sonic Scrubber Exfoliation System
 
 $71.00$49.99](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash)
 
+FSA/HSA ELIGIBLE
+
 [![](//blackwolfnation.com/cdn/shop/files/92.png?v=1724699315&width=1080)
 
 ![](//blackwolfnation.com/cdn/shop/files/93.png?v=1724699315&width=1080)
