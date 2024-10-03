@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Drone technology transforming Australian agriculture](https://independentaustralia.net/article-display/politics-display/drone-technology-transforming-australian-agriculture,19014)
+[Historic strike remembered as Victorian police dispute escalates](https://independentaustralia.net/article-display/politics-display/historic-strike-remembered-as-victorian-police-dispute-escalates-,19030)
 
-[Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010)
+[Middle East genocide bears parallels to Australian colonisation](https://independentaustralia.net/article-display/middle-east-genocide-bears-parallels-to-australian-colonisation,19027)
 
-[Albanese's move to protect kids from social media 'problematic'](https://independentaustralia.net/article-display/albaneses-move-to-protect-kids-from-social-media-problematic,19009)
+[Media inflating false equivalency between Left and Right](https://independentaustralia.net/article-display/media-inflating-false-equivalency-between-left-and-right,19023)
 
 Privacy Policy
 
@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
+* [5 Efficient tips and ideas to enhance your photography](https://independentaustralia.net/article-display/5-efficient-tips-and-ideas-to-enhance-your-photography,19032 "Permanent Link : 5 Efficient tips and ideas to enhance your photography")
 * [Historic strike remembered as Victorian police dispute escalates](https://independentaustralia.net/article-display/historic-strike-remembered-as-victorian-police-dispute-escalates,19030 "Permanent Link : Historic strike remembered as Victorian police dispute escalates")
 * [Labor's asylum strategy struggling to rectify Coalition backlog](https://independentaustralia.net/article-display/labors-asylum-strategy-struggling-to-rectify-coalition-backlog,19029 "Permanent Link : Labor's asylum strategy struggling to rectify Coalition backlog")
 * [Cost of Australia's wildlife destruction immeasurable](https://independentaustralia.net/article-display/cost-of-australias-wildlife-destruction-immeasurable,19028 "Permanent Link : Cost of Australia's wildlife destruction immeasurable")
 * [Middle East genocide bears parallels to Australian colonisation](https://independentaustralia.net/article-display/middle-east-genocide-bears-parallels-to-australian-colonisation,19027 "Permanent Link : Middle East genocide bears parallels to Australian colonisation")
 * [The pros and cons of mass government cyber surveillance](https://independentaustralia.net/article-display/the-pros-and-cons-of-mass-government-cyber-surveillance,19026 "Permanent Link : The pros and cons of mass government cyber surveillance")
-* [Western world turns its back on Israeli genocide](https://independentaustralia.net/article-display/western-world-turns-its-back-on-israeli-genocide,19025 "Permanent Link : Western world turns its back on Israeli genocide")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
