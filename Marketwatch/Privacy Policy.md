@@ -54,7 +54,7 @@ Privacy Notice Sections
 **THE DOW JONES PRIVACY NOTICE**
 ================================
 
-**Effective Date: July 1, 2024**
+**Last Modified: October 1, 2024**
 
 1\. INTRODUCTION
 
@@ -246,7 +246,7 @@ For additional information for residents of the State of California [click here]
 
 5.4 Other U.S. States Privacy Rights
 
-For additional information for residents of [other states](https://www.dowjones.com/privacy-notice-list-of-other-us-states-with-privacy-rights-july2024/) that provide their residents with certain rights with respect to personal data, [click here](https://www.dowjones.com/the-dow-jones-privacy-notice-other-states/).
+For additional information for residents of [other states](https://www.dowjones.com/privacy-notice-list-of-other-us-states-with-privacy-rights) that provide their residents with certain rights with respect to personal data, [click here](https://www.dowjones.com/dowjones/the-dow-jones-privacy-notice-other-states/).
 
 5.5 For Residents of the European Economic Area and the United Kingdom
 
