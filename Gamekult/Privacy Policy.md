@@ -154,9 +154,9 @@ Vous pouvez contacter l'équipe très simplement en écrivant à dpo@neweb.com. 
 
 Abonnez-vous à la newsletter 
 
-[Toutes les franchises](https://www.gamekult.com/jeux/franchises.html) [Qui sommes-nous ?](https://www.gamekult.com/a-propos.html) [Pourquoi s’abonner à Gamekult](https://www.gamekult.com/utilisateur/s-abonner.html) [L'équipe](https://www.gamekult.com/equipe.html) [La notation](https://www.gamekult.com/notation.html) [Lexique](https://www.gamekult.com/lexique.html)
+[Toutes les franchises](https://www.gamekult.com/jeux/franchises.html) [Qui sommes-nous ?](https://www.gamekult.com/a-propos.html) [Pourquoi s’abonner à Gamekult](https://www.gamekult.com/utilisateur/s-abonner.html) [L'équipe](https://www.gamekult.com/equipe.html) [Contact / Signaler un contenu](https://www.gamekult.com/contact.html) [La notation](https://www.gamekult.com/notation.html) [Lexique](https://www.gamekult.com/lexique.html)
 
-[Contact / Signaler un contenu](https://www.gamekult.com/contact.html) [Mentions légales](https://www.gamekult.com/mentions-legales.html) [CGU](https://www.gamekult.com/conditions-generales-utilisation.html) [CGA](https://www.gamekult.com/conditions-generales-abonnement.html) [Politique de protection des données personnelles](https://www.gamekult.com/politique-de-confidentialite.html) [FAQ - Vos choix concernant l'utilisation de cookies](https://www.gamekult.com/faq-cookies.html) [Paramétrer les cookies](javascript:Didomi.preferences.show();)
+[Mentions légales](https://www.gamekult.com/mentions-legales.html) [CGU](https://www.gamekult.com/conditions-generales-utilisation.html) [CGA](https://www.gamekult.com/conditions-generales-abonnement.html) [Politique de protection des données personnelles](https://www.gamekult.com/politique-de-confidentialite.html) [Gérer Utiq](https://www.gamekult.com/utiq) [FAQ - Vos choix concernant l'utilisation de cookies](https://www.gamekult.com/faq-cookies.html) [Paramétrer les cookies](javascript:Didomi.preferences.show();)
 
 Gamekult.com. Tous droits réservés © 2000 - 2024
 
