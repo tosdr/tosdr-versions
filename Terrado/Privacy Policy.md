@@ -13,7 +13,7 @@ Main Menu
     
     Our climate fellowship is a 12-week intensive program covering climate science, impacts, and solutions, designed to get you working on climate.
     
-    * **Applications close on October 4, 2024**
+    * **Applications close on October 9, 2024**
         
     
     Apply now
