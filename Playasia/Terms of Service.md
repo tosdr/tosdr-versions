@@ -63,4 +63,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 113 | 1007 { 58 } | A: | WS: 1 | PT: 0.015 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
+SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.015 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
