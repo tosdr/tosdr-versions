@@ -142,6 +142,48 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 3, 2024
+
+> Kim Abraham is Great!
+
+> Kim Abraham worked through all of my questions, always with a pleasant response. This is our trip of a lifetime, and Kim made sure that we are getting it.
+
+Anita
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 3, 2024
+
+> Keith - best travel agent in the world
+
+> Keith is such an amazing communicator, very organised and helpful. This will be my first ever visit to the Kruger national park. As a fellow South African I never had the chance to visit the Kruger NP. Keith sent us voice recordings and I cried listening to his accent and hearing the beautiful nature in the background bringing back so many fond memories of our beautiful country. These messages were so special! I can’t wait to visit and am really looking forward to the most magical experience.
+
+Chané Brits
+
+,
+
+AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 1, 2024
+
+> Leché Miller was very personable and…
+
+> Leché Miller was very personable and understood exactly what our needs were. Within a couple of days we booked our trip and we are very much looking forward to our time. Leché was nice, very responsive and reliable. Thank you!
+
+M. Stahl
+
+,
+
+DE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 1, 2024
 
 > Easy booking process and efficient
@@ -223,48 +265,6 @@ Kunde
 ,
 
 DE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 30, 2024
-
-> Very trusted and supportive
-
-> while i did not have any opportunity to meet you or know yiu personally or socially but your dealings on the matters in respect of communication and help needed gave me confidence and trust. Hope my tour that you are organising will be an enjoyable one. Thanks Shann and take care
-
-Mohammad Obaidur Rahman
-
-,
-
-AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 28, 2024
-
-> Excellent Experience with Shann
-
-> Our experience with Safari.com was excellent. Shann was very helpful throughout the whole experience, from providing multiple options during the booking process to helping us during the trip if we ever had any questions. Everything was organised to perfection, and I would highly recommend Shann to anyone looking to book a holiday with Safari.com.
-
-Thomas Warren
-
-,
-
-GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 27, 2024
-
-> Excellent service from Tracey-lee Losper
-
-> Excellent service received from Tracey-lee Losper! From the first interaction that I had with Tracey, she was professional and willing to answer every question that I had, even over a period of days. She was always helpful, and patient and I never felt that I am only a number. Thank you, Tracey! I will definitely make use of Safari.com again!
-
-Elrina Oelofse
-
-,
-
-ZA
 
 VIP service
 
