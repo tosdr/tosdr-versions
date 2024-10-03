@@ -10,7 +10,7 @@ Yes
 
 Maybe Later
 
-CONTACT SALES
+CONTACT US
 
 LOG IN
 
@@ -81,7 +81,7 @@ Learn more about the benefits of Juniper’s Client-to-Cloud Architecture.
 * [Enterprise WAN](https://www.juniper.net/us/en/solutions/enterprise-wan.html)
 * [Enterprise at Home](https://www.juniper.net/us/en/solutions/enterprise-at-home.html)
 * [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/content/juniper/us/en/solutions/secure-ai-native-edge/sase)
 * [IoT](https://www.juniper.net/us/en/solutions/iot.html)
 
 [Service Provider](https://www.juniper.net/us/en/service-provider.html)
@@ -109,7 +109,7 @@ Enabling innovation for cloud operators.
 
 Make your network threat aware with Juniper Connected Security.
 
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/content/juniper/us/en/solutions/secure-ai-native-edge/sase)
 * [Next-Generation Firewalls](https://www.juniper.net/us/en/solutions/next-gen-firewall.html)
 * [Public Cloud Security](https://www.juniper.net/us/en/solutions/public-cloud-security.html)
 * [Threat Detection & Mitigation](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
@@ -128,7 +128,7 @@ Discover cloud delivered or on-premise offerings.
 * [Security](https://www.juniper.net/us/en/security.html)
 * [Telco Cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
 * [Juniper Flex Licensing](https://www.juniper.net/us/en/products/software/flex.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/content/juniper/us/en/solutions/secure-ai-native-edge/sase)
 
 Featured Products
 
@@ -157,7 +157,7 @@ Featured Solutions
 * [Data Center](https://www.juniper.net/us/en/solutions/data-center.html)
 * [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
 * [IP Transport](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/content/juniper/us/en/solutions/secure-ai-native-edge/sase)
 * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
 * [Wired Access](https://www.juniper.net/us/en/solutions/wired-access.html)
 * [Wireless Access](https://www.juniper.net/us/en/solutions/wireless-access.html)
@@ -401,14 +401,12 @@ Partners
 * [Public Cloud Partnerships](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
 * [Strategic Alliances](https://www.juniper.net/us/en/partners/strategic-alliances.html)
 * [Solution Partners](https://www.juniper.net/us/en/partners/solution-partners.html)
-* [Technology Alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
+* [Technology Alliances](https://www.juniper.net/content/juniper/us/en/partners-new/technology-alliances)
 
 * [](javascript:void(0);)
 
 * [Become a Partner](javascript:void(0);)
 * [Overview](https://www.juniper.net/us/en/partners.html)
-* [Solution Reseller Role](https://www.juniper.net/us/en/partners/advantage-program.html)
-* [NaaS Provider Role](https://www.juniper.net/us/en/partners/unified-managed-services-program.html)
 * [Create a Partner Account](https://juniper.my.site.com/prm/s/onboarding)
 
 * [Enrolled Partners](javascript:void(0);)
@@ -441,7 +439,7 @@ Company
 * [Community](https://community.juniper.net/home)
 * [Customer Success Stories](https://www.juniper.net/us/en/customers.html)
 * [Contact Sales](https://www.juniper.net/us/en/how-to-buy/form.html)
-* [Partnerships](https://www.juniper.net/us/en/partners.html)
+* [Partnerships](https://www.juniper.net/content/juniper/us/en/partners-old)
 
 Support
 
@@ -525,7 +523,7 @@ My Account
 * [Create an Account](https://userregistration.juniper.net/entitlement/setupAccountInfo.do)
 * [Log out](javascript:void(0);)
 
-[CONTACT SALES](https://www.juniper.net/us/en/how-to-buy/form.html)
+[CONTACT US](https://www.juniper.net/us/en/company/contact-us.html)
 
 [Try Now](https://www.juniper.net/us/en/try.html)
 
