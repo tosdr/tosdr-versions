@@ -7,7 +7,7 @@ Toggle Menu
 * [Enterprise](https://stackblitz.com/enterprise)
 * [WebContainer API](https://webcontainers.io/)
 * [Blog](https://blog.stackblitz.com/)
-* [NEWViteConf](https://viteconf.org/?utm_campaign=stackblitz-on-page&utm_source=public-site&utm_medium=nav-button)
+* [NEWTry Bolt.new](https://bolt.new/)
 
 Terms of Service
 ----------------
