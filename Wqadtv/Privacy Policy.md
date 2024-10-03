@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52/20241003T023441/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52/20241003T023441/f7e94b5c-fcf1-4419-aec7-9c61bb43ee52_360x203.jpg)](https://www.wqad.com/article/news/local/bettendorf-healthiest-state-walk-encouraging-residents-to-get-active/526-64b3ab74-4c68-4916-b454-8bbd6e0c92f0)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/30c819df-81b3-47e7-ba99-f2cd607db6f5/20241003T003358/30c819df-81b3-47e7-ba99-f2cd607db6f5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/30c819df-81b3-47e7-ba99-f2cd607db6f5/20241003T003358/30c819df-81b3-47e7-ba99-f2cd607db6f5_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-western-smokehouse-jobs/526-a6574eae-1f8b-4426-86b4-e59dbf7fbd96)
         
-        #### [Bettendorf families get moving at 14th annual Healthiest State Walk](https://www.wqad.com/article/news/local/bettendorf-healthiest-state-walk-encouraging-residents-to-get-active/526-64b3ab74-4c68-4916-b454-8bbd6e0c92f0)
+        #### [Western Smokehouse expansion could bring up to 180 jobs to Galesburg](https://www.wqad.com/article/news/local/galesburg-western-smokehouse-jobs/526-a6574eae-1f8b-4426-86b4-e59dbf7fbd96)
         
-    *  [![](https://media.tegna-media.com/assets/WGRZ/images/a9964db7-dfb0-460f-8905-9d9cdec2e92b/20240927T211744/a9964db7-dfb0-460f-8905-9d9cdec2e92b_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/a9964db7-dfb0-460f-8905-9d9cdec2e92b/20240927T211744/a9964db7-dfb0-460f-8905-9d9cdec2e92b_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/traffic-safety-quad-cities-muscatine-kewanee-public-input-wanted/526-943cbc5f-5542-4de9-81a4-7fd6616dfbee)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b27d9bdc-60a4-4c8d-8655-ed46497470e3/20241003T120010/b27d9bdc-60a4-4c8d-8655-ed46497470e3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b27d9bdc-60a4-4c8d-8655-ed46497470e3/20241003T120010/b27d9bdc-60a4-4c8d-8655-ed46497470e3_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-elementary-school-teacher-teaches-class-outdoors/526-7dae27ce-3bc6-4283-a278-57f4e44cb6d5)
         
-        #### [Study hoping to improve traffic safety in the Quad Cities area: Here's how you can participate](https://www.wqad.com/article/news/local/public-safety/traffic-safety-quad-cities-muscatine-kewanee-public-input-wanted/526-943cbc5f-5542-4de9-81a4-7fd6616dfbee)
+        #### [Pay It Forward | Kindergarten teacher instills life lessons with hands-on experiences](https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-elementary-school-teacher-teaches-class-outdoors/526-7dae27ce-3bc6-4283-a278-57f4e44cb6d5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/b9a634fd-76e5-48f8-8162-c717f0be7b7f/b9a634fd-76e5-48f8-8162-c717f0be7b7f_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/b9a634fd-76e5-48f8-8162-c717f0be7b7f/b9a634fd-76e5-48f8-8162-c717f0be7b7f_360x203.jpg)](https://www.wqad.com/article/news/agriculture/dry-spell-in-iowa-impacting-harvest-dry-drought-fire-feild-weather-farming-rain-iowa-secretary-of-agriculture/524-45cee346-d733-4996-8ca9-ee6dcc9bf9a1)
+    *  [![](https://media.tegna-media.com/assets/WBNS/images/a960ac67-8a5e-4373-b056-d10267515f2b/20241002T193636/a960ac67-8a5e-4373-b056-d10267515f2b_16x9.jpg) ![](https://media.tegna-media.com/assets/WBNS/images/a960ac67-8a5e-4373-b056-d10267515f2b/20241002T193636/a960ac67-8a5e-4373-b056-d10267515f2b_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-biltmore-asheville-10-1-2024/275-7315126f-66ec-4f4f-b7d8-1b4473622bb2)
         
-        #### [Iowa soybean farmers working to tackle the statewide dry spell, worries of fire](https://www.wqad.com/article/news/agriculture/dry-spell-in-iowa-impacting-harvest-dry-drought-fire-feild-weather-farming-rain-iowa-secretary-of-agriculture/524-45cee346-d733-4996-8ca9-ee6dcc9bf9a1)
+        #### [How did Helene impact the Biltmore Estate in Asheville?](https://www.wqad.com/article/weather/hurricane/helene/helene-biltmore-asheville-10-1-2024/275-7315126f-66ec-4f4f-b7d8-1b4473622bb2)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e2d08c82-e1bb-4062-a5ad-49196ea7c957/20241002T212351/e2d08c82-e1bb-4062-a5ad-49196ea7c957_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3ef73ed1-3878-457e-adc2-aa64c5a00a12/20241003T121245/3ef73ed1-3878-457e-adc2-aa64c5a00a12_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3ef73ed1-3878-457e-adc2-aa64c5a00a12/20241003T121245/3ef73ed1-3878-457e-adc2-aa64c5a00a12_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [More temperature swings through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Small rainfall opportunity arrives Friday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+72°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
