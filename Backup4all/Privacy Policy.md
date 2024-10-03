@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
+* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
     
-* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
+* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
     
-* [How to backup your data with SwiftStack](https://www.backup4all.com/how-to-backup-your-data-with-swiftstack-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [How to back up to multiple destinations](https://www.backup4all.com/how-to-back-up-to-multiple-destinations-kb.html)  
+* [How to Backup to SFTP?](https://www.backup4all.com/how-to-backup-to-sftp-kb.html)  
     
 
 Choose language:
