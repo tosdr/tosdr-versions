@@ -24,29 +24,7 @@ Loading...
 
 Loading...
 
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![In Sardinian folktales, the accabadora was an older woman who slipped into the homes of those lingering near death to send them on their way.](https://img.atlasobscura.com/eD6TN9o5AQQJ8SV7Vhzxqv-NsarnxR7OX-eU--pcLUI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82N2E4NjNlZS0y/NzIxLTRmZGQtYjgy/ZC1lNDg1MjY0NmFi/YTFjZWI3ZTNlMjc1/OGQ3YTI3YWZfZmVt/bWluYSBhY2NhYmFk/b3JhIEZJTkFMLmpw/Zw.jpg)
-
-Death as a Woman: The Accabadora of Sardinia](https://www.atlasobscura.com/articles/death-as-a-woman-accabadora-sardinia)
-
-   [![](https://img.atlasobscura.com/dcuPX_VwEA5GzSSbI_es6Mg3yN0rebJAWwlEwuPmIMY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iMzg0NWVlMi03/NzM0LTQ2NGEtYTdm/Ny03ZWE5ZTMxNmU5/MjZmN2MzM2EyMTY3/NmQ0MmZkYWJfU3Vu/X1d1a29uZ19jcm9w/LmpwZw.jpg)
-
-The Video Game 'Black Myth: Wukong' Has Ancient Roots](https://www.atlasobscura.com/articles/black-myth-wukong-story)
-
-   [![Brands of all sorts used recipes to sell products in the post-war era.](https://img.atlasobscura.com/OddCefitHaApBVSGtDjZ97Z9C03ayXIA1tnu6bxnOb8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kNzRhZjliMy1k/YmM5LTQ2MzYtYWZh/Ny01NDE3YjNjNzZi/YzkxYTM1ODdmZTYz/ZjM5ZTM4NmJfUGFn/ZSAxMjAgYW5kIDEy/MSBqb2luZWQgMi5q/cGc.jpg)
-
-American Food Traditions That Started as Marketing Ploys](https://www.atlasobscura.com/articles/american-food-traditions-that-started-as-marketing-ploys)
-
-   [![Few folk figures have endured like Baba Yaga, who has been described as witch, mentor, villain, trickster, and now, perhaps, a feminist icon.](https://img.atlasobscura.com/wTs9M1y7d1E73GkSlJluvkfQ5SVnZ59GQOu2dyzDNK4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83YTEyZWJhMzYz/MGQ5MzY4NjBfU3Bp/c2FrX0JlY29taW5n/IGJhYmEgeWFnYV9j/cm9wLmpwZw.jpg)
-
-Who Is Baba Yaga?](https://www.atlasobscura.com/articles/who-is-baba-yaga)
+Loading...
 
 No search results found for  
 “”
