@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-skoplje/odmazda-skoplje5.jpg?itok=Nt4unS2m)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-skoplje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/manik-full-size-image/kcb-full-size-image.jpg?itok=un1fRdvv)](http://seecult.org/galerija/galerija-umetnika/manik/manik-full-size-image)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/toasters.jpg?itok=h45ap55j)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![GMS, digitalizacija, SEEcult](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/predavanja-i-diskusije-o-digitalizaciji/gms-digitalizacija-vodic-seecult-czmko-predavanje.jpg?itok=btFlmIYD "GMS, digitalizacija, SEEcult")](http://seecult.org/galerija/foto-galerija/digitalizacija/predavanja-i-diskusije-o-digitalizaciji)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Filharmonijski Živeti sa neprijateljem](http://seecult.org/vest/filharmonijski-ziveti-sa-neprijateljem)
 * [Snažna završnica 58. Bitefa](http://seecult.org/vest/snazna-zavrsnica-58-bitefa)
 * [Prepisivanje života - kada država ne radi svoj posao](http://seecult.org/vest/prepisivanje-zivota-kada-drzava-ne-radi-svoj-posao)
 * [Palestinci i Izraelci na Slobodnoj zoni](http://seecult.org/vest/palestinci-i-izraelci-na-slobodnoj-zoni)
@@ -349,7 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Počela 21. Balkanima](http://seecult.org/vest/pocela-21-balkanima)
 * [20\. Kids Fest - Kadar mog odrastanja](http://seecult.org/vest/20-kids-fest-kadar-mog-odrastanja)
 * [Optimistično dezorijentisani - 13. GoetheFEST](http://seecult.org/vest/optimisticno-dezorijentisani-13-goethefest)
-* [Perišiću Gran pri 17. LIFFE, Mirjani Karanović specijalno priznanje](http://seecult.org/vest/perisicu-gran-pri-17-liffe-mirjani-karanovic-specijalno-priznanje)
 
 * [Konkursi](#tab1_1)
 
