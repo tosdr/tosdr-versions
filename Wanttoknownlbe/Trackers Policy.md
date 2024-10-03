@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/waar-is-layla/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/zijn-er-wellicht-meerdere-waarheden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
