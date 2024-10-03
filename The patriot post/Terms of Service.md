@@ -197,7 +197,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34307)
+     [](https://patriotpost.us/cartoons/34313)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -211,11 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Tim Graham Rachel Maddow Smears Vance as a Fascist Speech-Squasher](https://patriotpost.us/opinion/110721-rachel-maddow-smears-vance-as-a-fascist-speech-squasher-2024-10-02)
 *      [Gary Bauer Iran Attacks Israel](https://patriotpost.us/opinion/110718-iran-attacks-israel-2024-10-02)
 *      [Ian Haworth Trump Must Do These 3 Things to Win](https://patriotpost.us/opinion/110717-trump-must-do-these-3-things-to-win-2024-10-02)
-*      [Tony Perkins Let’s Emulate the Boldness and Conviction of Harrison Butker](https://patriotpost.us/opinion/110725-lets-emulate-the-boldness-and-conviction-of-harrison-butker-2024-10-02)
-*      [Betsy McCaughey The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://patriotpost.us/opinion/110719-the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders-2024-10-02)
-*      [Star Parker How We Cope Shows Men and Women Are Different](https://patriotpost.us/opinion/110720-how-we-cope-shows-men-and-women-are-different-2024-10-02)
-*      [The Babylon Bee DOJ Indicts JD Vance for Brutally Beating 3 Women](https://patriotpost.us/opinion/110752-doj-indicts-jd-vance-for-brutally-beating-3-women-2024-10-02)
-*      [Guest Commentary A Different Kind of Trump Rap Sheet](https://patriotpost.us/opinion/110750-a-different-kind-of-trump-rap-sheet-2024-10-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -229,11 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
