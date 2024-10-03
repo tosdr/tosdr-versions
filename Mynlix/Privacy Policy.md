@@ -493,7 +493,7 @@ Report security vulnerabilities (or suspicion thereof) to NL-ix’s Computer Eme
 * [About us](https://www.nl-ix.net/about/)
 * [About our network](https://www.nl-ix.net/about/about-our-network/)
 * [Privacy & Security](https://www.nl-ix.net/about/privacy-security/)
-* [General Agreement](https://www.nl-ix.net/documents/8/General_Agreement_2022-08.pdf)
+* [General Agreement](https://www.nl-ix.net/documents/31/General_Agreement_NL-ix_standard.pdf)
 * [Support](https://www.nl-ix.net/about/support/)
 * [Testimonials](https://www.nl-ix.net/about/testimonials/)
 
