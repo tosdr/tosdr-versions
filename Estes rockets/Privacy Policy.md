@@ -7,7 +7,7 @@ Your cart is empty
 
 Have an account?
 
-[Log in](https://estesrockets.com/customer_identity/redirect?locale=en) to check out faster.
+[Log in](https://estesrockets.com/customer_identity/redirect?locale=en&region_country=US) to check out faster.
 
 Your cart
 ---------
@@ -147,7 +147,7 @@ Check Out
     
 * [Help Center](https://help.estesrockets.com/hc/en-us)
 
-[Log in](https://estesrockets.com/customer_identity/redirect?locale=en)
+[Log in](https://estesrockets.com/customer_identity/redirect?locale=en&region_country=US)
 
 * [Twitter](https://twitter.com/EstesRockets)
 * [Facebook](https://www.facebook.com/estesrockets/)
@@ -251,7 +251,7 @@ Check Out
     
 * [Help Center](https://help.estesrockets.com/hc/en-us)
 
- Search [Log in](https://estesrockets.com/customer_identity/redirect?locale=en) [Cart](https://estesrockets.com/cart)
+ Search [Log in](https://estesrockets.com/customer_identity/redirect?locale=en&region_country=US) [Cart](https://estesrockets.com/cart)
 
 Privacy policy
 ==============
