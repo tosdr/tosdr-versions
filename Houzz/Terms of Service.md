@@ -547,7 +547,7 @@ UP TO 70% OFF
 
 Rugs With Free Shipping](https://www.houzz.com/ideabooks/177333062) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/fdf1162a06f55fb6_6869-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/1de100a606fe930a_9822-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
 [0](https://www.houzz.com/viewCart)
 
