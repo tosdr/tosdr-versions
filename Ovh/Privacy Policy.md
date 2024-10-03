@@ -28,7 +28,7 @@ Open menu
     * [Use cases](https://www.ovhcloud.com/en/use-cases/)
     * [Developer Centre](https://www.ovhcloud.com/en/developer-center/)
     * [Learning Centre](https://www.ovhcloud.com/en/learn/)
-    * [Compliance](https://www.ovhcloud.com/en/enterprise/certification-conformity/)
+    * [Compliance](https://www.ovhcloud.com/en/compliance/)
     * [Case Studies](https://www.ovhcloud.com/en/case-studies/)
     * [Videos](https://www.ovhcloud.com/en/video/)
     * [Stories](https://www.ovhcloud.com/en/stories/)
@@ -306,7 +306,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Public Cloud free trial](https://www.ovhcloud.com/en/public-cloud/free-trial/) Test our solutions at no cost
             * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en/public-cloud/why-ovh-public-cloud/) Explore cloud computing solutions to fit your needs
             * [Cloud computing](https://www.ovhcloud.com/en/public-cloud/cloud-computing/) Find out more about this growing practice
-            * [Compliance & Certifications](https://www.ovhcloud.com/en/enterprise/certification-conformity/) Explore how OVHcloud builds trusted solutions
+            * [Compliance & Certifications](https://www.ovhcloud.com/en/compliance/) Explore how OVHcloud builds trusted solutions
             * [Availability by region](https://www.ovhcloud.com/en/public-cloud/regions-availability/) Explore our catalogue coverage by region
             * [Local Zone New](https://www.ovhcloud.com/en/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
             * Our documentation Read our guides and tutorials
@@ -496,7 +496,7 @@ Log in to order, manage your products and services, and track your orders.
             * PCI DSS Financial data hosting
             * ISO/IEC 27001, 27017 and 27018 Information Security Management
             * ISO/IEC 27701 Managing the security of personal data processing
-            * [ISO 50001](https://www.ovhcloud.com/en/enterprise/certification-conformity/iso-50001/) Energy management
+            * [ISO 50001](https://www.ovhcloud.com/en/compliance/iso-50001/) Energy management
             * SOC 1, 2 and 3 AICPA SSAE 16/ISAE 3402 type II attestation and reports
             * EBA and ACPR Compliance for financial services operators in Europe
             * G-Cloud Public sector cloud service delivery in the UK
