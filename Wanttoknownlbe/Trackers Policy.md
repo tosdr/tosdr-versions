@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/gevoelens-je-meesters-emoties-je-kids/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/israel-zal-amen-zeggen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
