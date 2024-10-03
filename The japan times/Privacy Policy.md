@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 03, 2024](https://www.japantimes.co.jp/archive/2024/10/03/ "archive page")
+[October 04, 2024](https://www.japantimes.co.jp/archive/2024/10/04/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,45 +463,45 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
-
-  [![New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425208.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Prime Minister Shigeru Ishiba (front center) and other Cabinet ministers pose for a commemorative photo after an appointment and certification ceremony at the Imperial Palace in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/japan-ishiba-cabinet/ "New Prime Minister Shigeru Ishiba unveils Cabinet as LDP divide emerges")
-
-[China’s silence on U.S. Tiktok ban speaks volumes](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
-
-  [![U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424069.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. lawmakers and others speak at a news conference in Washington in March to voice their opposition to legislation cracking down on TikTok.")](https://www.japantimes.co.jp/commentary/2024/09/30/world/china-silence-on-us-tiktok-ban/ "China’s silence on U.S. Tiktok ban speaks volumes")
-
 [Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
 
   [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
 
-[Pair of powerful storms to approach Japan this week](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
 
-  [![A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/424814.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A satellite image taken early on Monday morning shows Typhoon Krathon over the northern waters of the Philippines and Tropical Storm Jebi over the waters around the Ogasawara Islands.")](https://www.japantimes.co.jp/news/2024/09/30/japan/two-typhoons-approaching-japan/ "Pair of powerful storms to approach Japan this week")
+  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
 
 [Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
   [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
 
-[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
-  [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+  [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+
+[Japan’s new prime minister moots minimum wage moon shot](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
+
+  [![Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425340.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.")](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
+
+[Who can challenge Onosato's dominance? Takerufuji might be the best bet.](https://www.japantimes.co.jp/sports/2024/10/02/sumo/takerufuji-onosato-challenger/ "Who can challenge Onosato's dominance? Takerufuji might be the best bet.")
+
+  [![Takerufuji, the most recent Emperor’s Cup winner apart from Terunofuji and Onosato, claimed the second-tier title in September in his first full tournament back from injury after a six-month absence. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425362.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takerufuji, the most recent Emperor’s Cup winner apart from Terunofuji and Onosato, claimed the second-tier title in September in his first full tournament back from injury after a six-month absence. ")](https://www.japantimes.co.jp/sports/2024/10/02/sumo/takerufuji-onosato-challenger/ "Who can challenge Onosato's dominance? Takerufuji might be the best bet.")
+
+[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
+
+  [![Newly appointed Foreign Minister Takeshi Iwaya speaks during his first news conference as Japan's top diplomat at the Foreign Ministry in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425507.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Newly appointed Foreign Minister Takeshi Iwaya speaks during his first news conference as Japan's top diplomat at the Foreign Ministry in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
 
 [Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
   [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
-[Japan's deep-sea vessel digs for answers to 2011 earthquake](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
+[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
-  [![The deep-sea drilling vessel Chikyu is docked at the Port of Shimizu on Sept. 5 ahead of a 106-day expedition by researchers from the Japan Agency for Marine-Earth Science and Technology.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425433.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The deep-sea drilling vessel Chikyu is docked at the Port of Shimizu on Sept. 5 ahead of a 106-day expedition by researchers from the Japan Agency for Marine-Earth Science and Technology.")](https://www.japantimes.co.jp/news/2024/10/02/japan/science-health/chikyu-drilling-ship/ "Japan's deep-sea vessel digs for answers to 2011 earthquake")
+  [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
 [A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
 
   [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
-
-[How far will Japanese players go in this year’s MLB playoffs?](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
-
-  [![Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425018.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani on deck in the ninth inning against the Rockies in Denver on Sept. 28.")](https://www.japantimes.co.jp/sports/2024/10/01/baseball/mlb/world-series-japanese-players/ "How far will Japanese players go in this year’s MLB playoffs?")
 
 Podcast
 -------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Starbucks buys research farms as climate change threatens coffee supply](https://www.japantimes.co.jp/business/2024/10/03/starbucks-research-farms-climate-change/ "Starbucks buys research farms as climate change threatens coffee supply")
+
+5 hours ago
+
+[1 in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "1 in 6 workers in Japan use resignation agencies to change jobs")
+
+5 hours ago
+
+[7-Eleven owner seeking to sell off part of stake in banking unit](https://www.japantimes.co.jp/business/2024/10/03/7eleven-owner-bank-unit-stake/ "7-Eleven owner seeking to sell off part of stake in banking unit")
+
+6 hours ago
+
 [Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-50 mins ago
+6 hours ago
 
 [Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
 
-1 hours ago
-
-[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
-
-1 hours ago
-
-[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
-
-2 hours ago
-
-[SoftBank’s Son envisions AI running households in the next few years](https://www.japantimes.co.jp/business/2024/10/03/companies/softbank-son-ai-push/ "SoftBank’s Son envisions AI running households in the next few years")
-
-3 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
