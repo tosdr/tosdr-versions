@@ -81,7 +81,7 @@ Trending Posts
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
-* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
+* [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 
 Close
 
@@ -145,7 +145,7 @@ Trending Posts
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
-* ["We can’t arrest our way to liberation"](https://therealnews.com/we-cant-arrest-our-way-to-liberation)
+* [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 
 [Skip to content](#main)
 
