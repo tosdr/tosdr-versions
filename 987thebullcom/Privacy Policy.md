@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:40pm |
-| 10,000 HoursDan Shay<br><br>5:38pm |
-| Fast CarLuke Combs<br><br>5:33pm |
-| Last NightMorgan Wallen<br><br>5:25pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>5:22pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>11:36pm |
+| Love You, Miss You, Mean ItLuke Bryan<br><br>11:32pm |
+| 4x4xuLainey Wilson<br><br>11:29pm |
+| Thinkin 'Bout MeMorgan Wallen<br><br>11:26pm |
+| Thinking 'Bout YouDustin Lynch Ft Mackenzie Porter<br><br>11:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,14 +495,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -510,6 +502,14 @@ Top 40 • Eastern
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
