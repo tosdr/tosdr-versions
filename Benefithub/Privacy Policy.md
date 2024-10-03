@@ -3,7 +3,7 @@
 * [Solutions](https://www.benefithub.com/benefithub-solutions) [ ] 
     * [Overview](https://www.benefithub.com/benefithub-solutions)
     * [Discount Marketplace](https://www.benefithub.com/benefithub-solutions/discount-marketplace)
-    * [Home & Auto Insurance](https://www.benefithub.com/benefithub-solutions/voluntary-benefits/home-and-auto-insurance)
+    * [Auto & Home Insurance](https://www.benefithub.com/benefithub-solutions/voluntary-benefits/home-and-auto-insurance)
     * [Lifestyle & Voluntary Benefits](https://www.benefithub.com/benefithub-solutions/voluntary-benefits)
     * [Rewards & Recognition](https://www.benefithub.com/benefithub-solutions/rewards-and-recognition)
 * [Why BenefitHub](https://www.benefithub.com/why-benefithub) [ ] 
@@ -279,7 +279,7 @@ BenefitHub will try to respond to these requests within 30 days, but some might 
 * [Solutions](https://www.benefithub.com/benefithub-solutions)
     * [Overview](https://www.benefithub.com/benefithub-solutions)
     * [Discount Marketplace](https://www.benefithub.com/benefithub-solutions/discount-marketplace)
-    * [Home & Auto Insurance](https://www.benefithub.com/benefithub-solutions/voluntary-benefits/home-and-auto-insurance)
+    * [Auto & Home Insurance](https://www.benefithub.com/benefithub-solutions/voluntary-benefits/home-and-auto-insurance)
     * [Lifestyle & Voluntary Benefits](https://www.benefithub.com/benefithub-solutions/voluntary-benefits)
     * [Rewards & Recognition](https://www.benefithub.com/benefithub-solutions/rewards-and-recognition)
 * [About Us](https://www.benefithub.com/about-benefithub)
