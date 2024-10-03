@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 3, 2024
+    
+    [U.S. Department of the Treasury, IRS Announce 30 Million Americans in 24 States Eligible For Direct File in Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2629)
+    
     October 2, 2024
     
     [U.S. Department of the Treasury Awards Over $9 Million to New York to Support Small Business Growth in Semiconductor and Microelectronic Industries](https://home.treasury.gov/news/press-releases/jy2628)
@@ -562,10 +566,6 @@ MENU MENU
     October 2, 2024
     
     [Treasury Sanctions Houthi Weapons Smuggling and Procurement Networks](https://home.treasury.gov/news/press-releases/jy2627)
-    
-    October 1, 2024
-    
-    [U.S. Department of the Treasury Announces More Than $2 Billion in Upfront Savings for Consumers on Electric and Plug-In Hybrid Vehicle Sales Under Biden-Harris Administration’s Inflation Reduction Act](https://home.treasury.gov/news/press-releases/jy2626)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
