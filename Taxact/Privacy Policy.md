@@ -37,35 +37,36 @@ Dallas, Texas 75019
 
 [privacy@taxact.com](mailto:privacy@taxact.com)
 
-**Contents**
+#### **Contents**
 
-Personal Information We Collect
-
-How We Use Your Personal Information
-
-How and Why We Disclose Your Personal Information
-
-Tax Return Information
-
-Cookies, Tracking Technologies, and Interest-Based Advertising
-
-How We Safeguard Your Personal Information
-
-Children’s Privacy
-
-Data Storage and Transfer
-
-Generative Artificial Intelligence, Machine Learning and Related Tools.
-
-Other Online Services
-
-Your Choices
-
-Additional California Disclosures
-
-Additional Oregon Disclosures
-
-Accessibility
+* [Personal Information We Collect](#personal-information)
+    
+* [How We Use Your Personal Information](#How-We-Use-Your-Personal-Information)
+    
+* [How and Why We Disclose Your Personal Information](#Disclose-Your-Personal-Information)
+    
+* [Tax Return Information](#Tax-Return-Information)
+    
+* [Cookies, Tracking Technologies, and Interest-Based Advertising](#Cookies-Tracking-Technologies)
+    
+* [How We Safeguard Your Personal Information](#Safeguard-Your-Personal-Information)
+    
+* [Children’s Privacy](#Children-Privacy)
+    
+* [Data Storage and Transfer](#Data-Storage-Transfer)
+    
+* [Generative Artificial Intelligence, Machine Learning and Related Tools](#Generative-Artificial-Intelligence)
+    
+* [Other Online Services](#Other-Online-Services)
+    
+* [Your Choices](#Your-Choices)
+    
+* [Additional California Disclosures](#Additional-California-Disclosures)
+    
+* [Additional Oregon Disclosures](#Additional-Oregon-Disclosures)
+    
+* [Accessibility](#Accessibility)
+    
 
 We at TaxAct ("**TaxAct**") respect your privacy and the confidentiality of your personal information as described in this Privacy Notice (the “**Privacy Notice**”). This Privacy Notice explains how and why TaxAct collects, uses, and discloses your personal information, and how you may exercise the choices and rights available to you with respect to your personal information.
 
@@ -77,8 +78,10 @@ If you have an unresolved privacy or data use concern you have raised that you f
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=001bd33c-81cd-4043-a17a-7e1ba12c4698)](https://privacy.truste.com/privacy-seal/validation?rid=001bd33c-81cd-4043-a17a-7e1ba12c4698)
 
+###   
+  
+  
 Personal Information We Collect
--------------------------------
 
 We, and our vendors, may collect personal information directly from you (such as when you register for and use the Services), automatically when you access the Services, through online tracking technologies (see Cookies and Other Tracking Technologies section below). Our primary goals in collecting personal information are to (i) offer, provide, and improve the features and content of our Services, (ii) administer your use of our Services, and (iii) enable our customers to enjoy and easily navigate our Services. The personal information we collect about you may vary depending on the nature of your interactions with us.
 
@@ -179,8 +182,10 @@ We may collect the following categories of personal information when you use or 
     * **Geolocation Data:** We may collect geolocation data, including information derived from your IP address and collected from our Services, for analytics, marketing, and access purposes. You may control certain geolocation collection through your browser or mobile device settings.
         
 
+###   
+  
+  
 How We Use Your Personal Information
-------------------------------------
 
 In addition to the other uses described in this Privacy Notice, we may use your personal information for the following purposes:
 
@@ -231,8 +236,10 @@ In addition to the other uses described in this Privacy Notice, we may use your 
 * In the event of corporate restructuring, including, evaluating or conducting a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal data held by us is among the assets transferred.
     
 
-How and Why We Disclose Your Personal Information
--------------------------------------------------
+###   
+  
+  
+How We Safeguard Your Personal Information
 
 We may disclose your personal information in the course of supporting and providing our Services, as follows:
 
@@ -255,8 +262,10 @@ We may disclose your personal information in the course of supporting and provid
 * **Mobile Phone Number:** We may disclose your mobile phone number with vendors that assist us with providing text message alerts for product information, tips or promotions, or other marketing activities; however, we will not disclose your mobile phone number with third parties for their own marketing purposes without your consent.
     
 
+###   
+  
+  
 Tax Return Information
-----------------------
 
 We use Tax Return Information you provide us in order to prepare a tax return. The use and disclosure of Tax Return Information is governed by Section 7216 of the Internal Revenue Code and many state codes and their associated regulations. We use your Tax Return Information only in accordance with applicable laws, including Section 7216 of the Internal Revenue Code, to do the following things:
 
@@ -273,8 +282,10 @@ We use Tax Return Information you provide us in order to prepare a tax return. T
 * As required by law.
     
 
+###   
+  
+  
 Cookies, Tracking Technologies, and Interest-Based Advertising
---------------------------------------------------------------
 
 We or our vendors may use tracking technologies, such as cookies, web beacons, and pixels (collectively, "**Cookies**"), to collect certain information when you interact with the Site. We may use Cookies for several purposes, including:
 
@@ -338,8 +349,10 @@ Certain web browsers allow users to opt out of tracking by websites and online s
 
 You can use mobile device settings to limit mobile tracking technologies and associated activities. For instance, you can adjust or reset the advertising identifiers on your mobile device in the device settings.
 
+###   
+  
+  
 How We Safeguard Your Personal Information
-------------------------------------------
 
 We work to safeguard your personal information from loss, misuse, or unauthorized access, alteration, and destruction by using industry standard safeguards, procedures, and practices.
 
@@ -347,13 +360,14 @@ These safeguards include physical, logical, and technical protections for physic
 
 No method of transmission over the Internet, or method of electronic storage, is completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of information transmitted via our Services. Additional details on our security measures can be found here: [taxact.com/security](https://www.taxact.com/security).
 
-Children’s Privacy
-------------------
+[Children’s Privacy](#Children-Privacy)
 
 We do not market our Services to children, and the Services are not intended for use by individuals under the age of 13. If we become aware that we have received any personal information from a child under 13, we will delete it in accordance with applicable law.
 
+###   
+  
+  
 Data Storage and Transfer
--------------------------
 
 In accordance with applicable laws, we keep and store your personal information to provide you with the Services and for the uses identified in this Privacy Notice.
 
@@ -361,13 +375,17 @@ The Services are intended for access and use in the United States. Any informati
 
 If you are located outside the United States and allow us to collect personal information about you, please be aware that TaxAct may, where permitted by law, transfer your personal information to other countries, including the United States, and process and store it there. By allowing collection of your personal information, you consent to having your personal data transferred to, processed, and stored in the United States.
 
-Generative Artificial Intelligence, Machine Learning, and Related Tools
------------------------------------------------------------------------
+###   
+  
+  
+Generative Artificial Intelligence, Machine Learning and Related Tools
 
 We may use generative artificial intelligence, machine learning, or related tools, such as chatbots (“**AI**") to improve, develop, and deliver our products and services. We may use AI to analyze how our Services are used and interacted with, or to process certain content our customers send or display through the Services, including by conducting data analytics to develop insights about your use of the Services, needs and preferences, so we can make more informed predictions, recommendations, and improve our products and Services. When utilizing AI technology, we will provide additional notice and the opportunity to opt out, when appropriate. We will not use AI to subject you to decisions based solely on automated decision-making that have a significant impact on you without providing additional notice, as appropriate.
 
+###   
+  
+  
 Other Online Services
----------------------
 
 **External** **Links:** Our Services may contain links to external websites, which are clearly identified and will direct you from TaxAct’s Site to an external site. Our link to a product or service does not by itself indicate our endorsement. Some of these external sites may collect personal information about you or request personal information from you. If accessing an external site via a link, you will be directed to that external website and governed by their privacy notice and policies. We encourage you to review their privacy statements or notices to learn more about what personal information is collected, how it is used, and how it is stored.
 
@@ -375,8 +393,10 @@ Other Online Services
 
 **Social Media:** We may monitor and collect information from interactions with our social media accounts (such as Twitter, LinkedIn, Facebook, Instagram, TikTok, or Google). Our Services includes social media features, such as the Facebook Like button and widgets, the share this button, or interactive mini programs that run on our Site. If you interact with us on social media or use features such as plugins, widgets, or other tools made available by social media platforms or networks in connection with our Services, we may collect personal information that you disclose to us or that the social media platforms disclose to us. Your interactions with these features are governed by the privacy notice of the company providing it.
 
+###   
+  
+  
 Your Choices
-------------
 
 We offer our users certain choices related to their personal information. If you are a California resident, you may have additional rights under state law, which are provided below in the section entitled Additional California Disclosures.
 
@@ -412,8 +432,10 @@ If you deactivate your account, you may no longer be able to access any of the i
 
 To deactivate your account, you can contact TaxAct support at [319-373-3600](tel:+13193733600).
 
+###   
+  
+  
 Additional California Disclosures
----------------------------------
 
 This section supplements the information contained in the Privacy Notice above, and applies solely to visitors, users, and others who reside in the State of California ("**residents**," "**consumers**," or "**you**"). In the event of any conflict between this section and our Privacy Notice above, this section shall govern for California residents. We adopt this section of the Privacy Notice to comply with the California Consumer Privacy Act ("**CCPA**") and other California privacy laws. Any terms defined in the CCPA have the same meaning when used in this Privacy Notice.
 
@@ -700,8 +722,10 @@ We do not offer any financial incentives or price or service difference in an at
 
 Once per calendar year, a California resident may opt out of disclosure of their Personal Information to other parties, including affiliates, for their direct marketing purposes during the immediately preceding calendar year. If you do not want TaxAct to disclose your Personal Information to other companies, including, affiliates, for their direct marketing purposes, please go to: [Opt Out of Sales or Sharing](https://www.taxact.com/do-not-sell-or-share) or click the button labeled "Do Not Sell or Share My Personal Information" on any TaxAct web page or contact us at [privacy@taxact.com](mailto:privacy@taxact.com).
 
+###   
+  
+  
 Additional Oregon Disclosures
-=============================
 
 This section supplements the information contained in the Privacy Notice above, and applies solely to visitors, users, and others who reside in the State of Oregon (“**residents**,” “**consumers**,” or “**you**”). In the event of any conflict between this section and our Privacy Notice above, this section shall govern for Oregon residents. We adopt this section of the Privacy Notice to comply with the Oregon Consumer Privacy Act (“OCPA”). Any terms defined in the OCPA have the same meaning when used in this Privacy Notice.
 
@@ -805,8 +829,10 @@ We will not discriminate against you for exercising your OCPA rights by:
 
 Please note, that certain information is required to effectively use our Services. For example, if you exercise the right to delete your information your account will be deactivated, which prevents the use of our goods and services. This in no way prevents you from creating a new account in the future.
 
+###   
+  
+  
 Accessibility
--------------
 
 TaxAct is committed to making our Privacy Notice accessible to individuals with disabilities. If you use assistive technology (such as a Braille reader, a screen reader, and text-enlargement programs) and the format of the Privacy Notice interferes with your ability to access any information in the Privacy Notice, please contact us at [privacy@taxact.com](mailto:privacy@taxact.com). Please indicate the nature of your accessibility problem, the preferred format you would like to receive the Privacy Notice, and your contact information so that we may respond in a manner that is helpful for you.
 
