@@ -1,5 +1,5 @@
-Cookie Policy of Bocconi - Institutional webite
------------------------------------------------
+Cookie Policy of OLD - Bocconi - Institutional webite
+-----------------------------------------------------
 
 This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Website.
 
@@ -630,7 +630,7 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: March 07, 2024
+Latest update: October 03, 2024
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
