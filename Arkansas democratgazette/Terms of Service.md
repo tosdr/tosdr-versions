@@ -76,6 +76,11 @@
     * [Daily Photos](https://www.arkansasonline.com/photos/galleries/sets/daily-photos/)
     * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
     * [Puzzles & Games](https://www.arkansasonline.com/games/)
+    * [Southern Fried podcast](https://www.arkansasonline.com/southernfried/)
+    * [Arkies in the Beltway podcast](https://www.arkansasonline.com/arkies-in-the-beltway/)
+    * [Devil of Pope County podcast](https://www.arkansasonline.com/devil-of-pope-county/)
+    * [Chasing Ghosts podcast](https://www.arkansasonline.com/chasing-ghosts/)
+    * [Hog Wild podcast](https://www.arkansasonline.com/news/hog-wild/)
 * ### Marketplace
     
     * [Classifieds](https://classifieds.arkansasonline.com/)
@@ -401,6 +406,11 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Daily Photos](https://www.arkansasonline.com/photos/galleries/sets/daily-photos/)
     * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
     * [Puzzles & Games](https://www.arkansasonline.com/games/)
+    * [Southern Fried podcast](https://www.arkansasonline.com/southernfried/)
+    * [Arkies in the Beltway podcast](https://www.arkansasonline.com/arkies-in-the-beltway/)
+    * [Devil of Pope County podcast](https://www.arkansasonline.com/devil-of-pope-county/)
+    * [Chasing Ghosts podcast](https://www.arkansasonline.com/chasing-ghosts/)
+    * [Hog Wild podcast](https://www.arkansasonline.com/news/hog-wild/)
 * ### Marketplace
     
     * [Classifieds](https://classifieds.arkansasonline.com/)
