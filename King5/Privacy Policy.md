@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ba58e88d-a282-4bd9-b522-c9350ae76fd8/20241003T015014/ba58e88d-a282-4bd9-b522-c9350ae76fd8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba58e88d-a282-4bd9-b522-c9350ae76fd8/20241003T015014/ba58e88d-a282-4bd9-b522-c9350ae76fd8_360x203.jpg)](https://www.king5.com/article/news/local/families-alleged-molestation-survivors-sue-peninsula-school-district/281-91f095a4-1867-40b3-a17d-9aea13bc711f)
+    *  [![](https://media.king5.com/assets/KING/images/432d9add-8b38-4c51-8a3d-8a80243f4bf7/20241002T034708/432d9add-8b38-4c51-8a3d-8a80243f4bf7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/432d9add-8b38-4c51-8a3d-8a80243f4bf7/20241002T034708/432d9add-8b38-4c51-8a3d-8a80243f4bf7_360x203.jpg)](https://www.king5.com/article/news/local/man-serving-paperwork-fatally-shoots-west-seattle-woman-armed-shotgun/281-6508edd6-e4df-4228-b6c4-f3813f018817)
         
-        #### [Families of girls allegedly molested by teacher sue Peninsula School District](https://www.king5.com/article/news/local/families-alleged-molestation-survivors-sue-peninsula-school-district/281-91f095a4-1867-40b3-a17d-9aea13bc711f)
+        #### [Armed woman killed while being served paperwork at her West Seattle home identified](https://www.king5.com/article/news/local/man-serving-paperwork-fatally-shoots-west-seattle-woman-armed-shotgun/281-6508edd6-e4df-4228-b6c4-f3813f018817)
         
-    *  [![](https://media.king5.com/assets/KING/images/23a3c588-b3d1-4761-a27b-fda0b9dcb494/20241003T010636/23a3c588-b3d1-4761-a27b-fda0b9dcb494_16x9.jpg) ![](https://media.king5.com/assets/KING/images/23a3c588-b3d1-4761-a27b-fda0b9dcb494/20241003T010636/23a3c588-b3d1-4761-a27b-fda0b9dcb494_360x203.jpg)](https://www.king5.com/article/news/local/norse-home-closure-forces-residents-out-seattle/281-85fd1dc7-9e82-4846-a06e-3bce50b2d7de)
+    *  [![](https://media.king5.com/assets/KING/images/364604811/364604811_16x9.jpg) ![](https://media.king5.com/assets/KING/images/364604811/364604811_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-police-to-identify-man-accused-groping-young-women-on-bus/281-ad4e5782-40a2-4055-acaa-569e72e1e14d)
         
-        #### [Closure of Seattle retirement home shocks residents](https://www.king5.com/article/news/local/norse-home-closure-forces-residents-out-seattle/281-85fd1dc7-9e82-4846-a06e-3bce50b2d7de)
+        #### [Lynnwood police working to identify man accused of groping young woman at bus stop](https://www.king5.com/article/news/local/lynnwood-police-to-identify-man-accused-groping-young-women-on-bus/281-ad4e5782-40a2-4055-acaa-569e72e1e14d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/809834ef-5a34-44a3-b41c-d60abf59f01f/20241003T004054/809834ef-5a34-44a3-b41c-d60abf59f01f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/809834ef-5a34-44a3-b41c-d60abf59f01f/20241003T004054/809834ef-5a34-44a3-b41c-d60abf59f01f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08/20241003T053148/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08/20241003T053148/f4a7c4f4-b41e-47d1-b90d-a79aa1a92a08_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-59°
+51°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
