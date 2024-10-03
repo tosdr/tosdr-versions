@@ -98,10 +98,10 @@ Conditions of Use, Notices, and Revisions
 
 If you choose to visit Zappos.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.zappos.com/terms-of-use), including limitations on damages, resolution of disputes, and application of the law of the State of Nevada. If you have any concern about privacy at Zappos.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and Conditions of Use may also change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. If you have any questions about the Privacy Notice, please [contact us](https://www.zappos.com/c/contact-us).
 
-Get on the List
----------------
+Join Our List, Get 10% Off
+--------------------------
 
-Subscribe to Zappos emails for exclusive product launches, early notifications for sales, and a few extra-special surprises.
+Sign up for Zappos emails—new subscribers get 10% off a future order!\* Plus, get early access to sales, coupons, and more. (One code per email address.)
 
 Email AddressJoin the Party
 
