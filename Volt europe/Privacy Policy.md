@@ -38,10 +38,6 @@ News
 
 Back
 
-[![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
-
-All Policies](https://volteuropa.org/policies/all-policies)
-
 Themes
 
 [A new economy that works for everyone](https://www.volteuropa.org/policies/a-new-economy-that-works-for-everyone)[The EU on the Global Stage](https://www.volteuropa.org/policies/foreign-affairs-and-defence-act)[Thriving Together](https://www.volteuropa.org/policies/thriving-together)[For chances without borders](https://www.volteuropa.org/policies/for-chances-without-borders)[A more humane and safe asylum system](https://www.volteuropa.org/policies/a-more-humane-and-safe-asylum-system)[A dynamic European labour market](https://www.volteuropa.org/policies/labour-migration)[A thriving EU with renewed legitimacy](https://www.volteuropa.org/policies/a-thriving-eu-with-renewed-democratic-legitimacy)[Empowering European Democracy](https://www.volteuropa.org/policies/european-democracy-act)[An ambitious climate agenda for Europe](https://www.volteuropa.org/policies/an-ambitious-climate-agenda-for-europe)[Healthy European Ecosystems](https://www.volteuropa.org/policies/healthy-european-ecosystems)
