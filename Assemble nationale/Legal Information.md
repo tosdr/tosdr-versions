@@ -13,6 +13,7 @@ Assemblée nationale
 * [](https://fr-fr.facebook.com/AssembleeNationale)
 * [](https://www.instagram.com/assembleenationale)
 * [](https://fr.linkedin.com/company/assemblee-nationale)
+* [](https://www.youtube.com/@Assemblee-nationale)
 
 [Accèder à la page d'accueil](https://www.assemblee-nationale.fr/)
 
@@ -195,6 +196,7 @@ l'Assemblée nationale
 * [](https://fr-fr.facebook.com/AssembleeNationale)
 * [](https://www.instagram.com/assembleenationale)
 * [](https://fr.linkedin.com/company/assemblee-nationale)
+* [](https://www.youtube.com/@Assemblee-nationale)
 
 [BOUTIQUE DE L'ASSEMBLEE](https://boutique.assemblee-nationale.fr/ "Accéder au site boutique de l'Assemblée nationale")
 
@@ -233,6 +235,7 @@ Vous n'avez pas encore de compte ?
 * [](https://fr-fr.facebook.com/AssembleeNationale)
 * [](https://www.instagram.com/assembleenationale)
 * [](https://fr.linkedin.com/company/assemblee-nationale)
+* [](https://www.youtube.com/@Assemblee-nationale)
 
 [](https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly)
 
