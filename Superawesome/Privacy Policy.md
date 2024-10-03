@@ -244,6 +244,7 @@ The data we process from End Users is limited to specific technical data relatin
 
 * If an End User sees the Ad on a **mobile app**, their Device Data consists of the device’s user agent string, IP address and the app’s BundleID (e.g. “com.acme.bestgamever”) from the End User’s mobile device 
 * If an End User sees the Ad on a **web browser**, their Device Data consists of the device’s user agent string, IP address and the site’s web domain address (e.g. “www.website.com”) where the Ad is shown
+* If an End User interacts with an Ad that includes augmented reality features, Device Data will include device type (e.g. phone or tablet) and browser information. We will ask for permission to access the device camera to enable a filter or overlay, but do not collect or share any images captured by the End User’s device.
 
 **How do we process End Users’ data?**
 --------------------------------------
@@ -278,7 +279,7 @@ The following tables outline the purposes for which we may process End Users’ 
 |     |     |     |
 | --- | --- | --- |
 | **Type of data processed by AwesomeAds Marketplace** | **Purpose of processing data** | **Lawful basis for processing data** |
-| End Users’ Device Data | Momentarily observed on the End User’s device to create a Marker for the purpose of facilitating an Ad request to AwesomeAds Marketplace | Legitimate interests to deliver safe Ads to End Users (who may be children) |
+| End Users’ Device Data | Momentarily observed on the End User’s device to create a Marker for the purpose of facilitating an Ad request to AwesomeAds Marketplace For Ads with augmented reality functionality, processed to serve the correct unit format and provide analytics on a device type/format basis | Legitimate interests to deliver safe Ads to End Users (who may be children) |
 
 |     |     |
 | --- | --- |
