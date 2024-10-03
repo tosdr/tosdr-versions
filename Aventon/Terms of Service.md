@@ -8,7 +8,7 @@ View All Offers 4
 
 SUPPORT
 
-[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations) [Refer A Friend](https://www.aventon.com/pages/share)
+[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/sections/28556998692507-User-Manuals) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations) [Refer A Friend](https://www.aventon.com/pages/share)
 
 Send us a message
 
@@ -287,7 +287,7 @@ YOUR OFFERS
         
         Support articles & resources
         
-        Download Here >](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information)
+        Download Here >](https://rideaventon.zendesk.com/hc/en-us/sections/28556998692507-User-Manuals)
     * [![](//www.aventon.com/cdn/shop/files/nav_shipping.png?v=1672262940&width=128)
         
         Shipping
@@ -537,7 +537,7 @@ Open menu
         
         Support articles & resources
         
-        Download Here >](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information)
+        Download Here >](https://rideaventon.zendesk.com/hc/en-us/sections/28556998692507-User-Manuals)
     * [![](//www.aventon.com/cdn/shop/files/nav_shipping.png?v=1672262940&width=128)
         
         Shipping
