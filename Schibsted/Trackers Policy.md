@@ -2,12 +2,9 @@
 
 [![Schibsted logo](/wp-content/uploads/2019/09/logo.png)](https://info.privacy.schibsted.com/en/)
 
-* [My account](https://info.privacy.schibsted.com/en/login-en/)
-
 Privacy
 
-* [Learn about privacy](https://info.privacy.schibsted.com/en/)
-* [My privacy choices](https://info.privacy.schibsted.com/en/login-en/)
+* [Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/)
 * Language English Norsk Bokmål Svenska Suomi Dansk
 
 [Library](https://info.privacy.schibsted.com/en/library/ "Go to Library.") > [Privacy and cookie policy](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/ "Go to the Privacy and cookie policy category archives.") > [Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/ "Go to Privacy and Cookie Policy, English, Schibsted.")
