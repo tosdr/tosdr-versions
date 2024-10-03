@@ -2,7 +2,15 @@
 
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
-3:35 PM on Aug 28, 2019 CDT — Updated at 11:17 AM on Sep 5, 2024 CDT
+Aug. 28, 2019
+
+|
+
+Updated Sep. 5, 2024 at 11:17 a.m. CDT
+
+|
+
+22 min. read
 
 ![The Rock of Truth stands over the entrance to the former Dallas Morning News headquarters...](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/Q7EOMBJKY7VQLXJUINHW4XD3YQ.jpg?auth=d31281a70866e9cb7086e6fb880679e88416c252b48b3912040c7d71792963cd&height=553&width=830&smart=true&quality=80)
 
