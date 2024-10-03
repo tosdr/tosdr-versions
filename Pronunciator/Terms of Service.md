@@ -11,6 +11,7 @@ Menu
     * [315 World Languages](https://www.pronunciator.com/languages/)
     * [144 Home Languages](https://www.pronunciator.com/home-languages/)
     * [English Courses and Citizenship Preparation](https://www.pronunciator.com/english-courses-and-citizenship-preparation/)
+    * [Librari: Testing and Certification](https://www.pronunciator.com/librari/)
 * [Libraries](https://www.pronunciator.com/libraries/)
 * [Pricing](https://www.pronunciator.com/pricing/)
 * [Resources](https://www.pronunciator.com/)
