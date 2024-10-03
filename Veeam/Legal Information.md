@@ -83,23 +83,23 @@ Menu
     
     Data Resilience By Veeam
     
-    [Comprehensive data resilience for hybrid, multi-cloud and SaaS data](https://www.veeam.com/products/veeam-portfolio.html)
+    [Comprehensive data resilience for hybrid, multi-cloud and SaaS data](https://www.veeam.com/products/veeam-portfolio.html?ad=menu-products-portfolio-data-resilience)
     
            ![Menu VDP diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/menu_vdp_diagramm.png.web.1920.1920.webp?ck=1724339356191)
     
-    [Data Backup](https://www.veeam.com/products/veeam-portfolio/data-backup.html)  
+    [Data Backup](https://www.veeam.com/products/veeam-portfolio/data-backup.html?ad=menu-products-portfolio-data-resilience)  
     Automated backup solutions that evolve across platforms and locations​
     
-    [Data Recovery​](https://www.veeam.com/products/veeam-portfolio/data-recovery.html)  
+    [Data Recovery​](https://www.veeam.com/products/veeam-portfolio/data-recovery.html?ad=menu-products-portfolio-data-resilience)  
     Plan, test, automate, and scale recovery operations to defy any disruption​
     
-    [Data Freedom​](https://www.veeam.com/products/veeam-portfolio/data-freedom.html)  
+    [Data Freedom​](https://www.veeam.com/products/veeam-portfolio/data-freedom.html?ad=menu-products-portfolio-data-resilience)  
     Move and store your data wherever you need it with no vendor lock-in​
     
-    [Data Security​](https://www.veeam.com/products/veeam-portfolio/data-security.html)  
+    [Data Security​](https://www.veeam.com/products/veeam-portfolio/data-security.html?ad=menu-products-portfolio-data-resilience)  
     Zero-Trust Solutions to protect, detect, react and recover your data​
     
-    [Data Intelligence​](https://www.veeam.com/products/veeam-portfolio/data-intelligence.html)  
+    [Data Intelligence​](https://www.veeam.com/products/veeam-portfolio/data-intelligence.html?ad=menu-products-portfolio-data-resilience)  
     AI-powered tools to automate analysis, enhance decisions, and stay secure
     
     Free Community Editions
