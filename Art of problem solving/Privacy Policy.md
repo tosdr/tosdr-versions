@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Why math competitions? [Join us on October 3rd](https://zoom.us/webinar/register/WN_rXuTr19TTVuZpESw4dWjeg) for our FREE webinar!
+[Enroll now for AMC 10 or 12 training classes](https://artofproblemsolving.com/school/schedule#contest-preparation) that finish before the competitions!  Classes start soon!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
