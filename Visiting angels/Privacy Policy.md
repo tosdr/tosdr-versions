@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
+[Isolation and Depression in the Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/isolation-and-depression-in-the-elderly/1)
 
-[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
+[Paranoia in the Elderly: Will it Warrant Additional Care?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/paranoia-in-the-elderly-will-it-warrant-additional-care/370)
 
-[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
+[The Special Role of Companion Care for Veterans](https://www.visitingangels.com/knowledge-center/selecting-care/the-special-role-of-companion-care-for-veterans/330)
 
-[Important Resources Your Veteran Loved One Can Use, Including Home Care](https://www.visitingangels.com/knowledge-center/selecting-care/important-resources-your-veteran-loved-one-can-use-including-home-care/334)
+[Why Caring for a Parent Who Has Dementia is the Ultimate Challenge](https://www.visitingangels.com/knowledge-center/selecting-care/why-caring-for-a-parent-who-has-dementia-is-the-ultimate-challenge/322)
 
-[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
+[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
