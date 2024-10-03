@@ -242,7 +242,7 @@ For questions about these SMS Terms or Bose’s text messaging programs, please 
 [Back to top](#maincontent)
 
 1. [Home](https://www.bose.com/home)
-2. template.legal/sms-terms-of-use
+2. Bose SMS Terms of Use
 
 ##### Notify me
 
