@@ -178,7 +178,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
 * [Email](https://email.nypost.com/?c=9u3u4hfnkjbfgu)
 * [YouTube](https://www.youtube.com/nypost)
 
-* [Sections & Features](#)
+* Sections & Features
     * [US News](https://nypost.com/us-news/)
     * [Metro](https://nypost.com/metro/)
     * [World News](https://nypost.com/world-news/)
