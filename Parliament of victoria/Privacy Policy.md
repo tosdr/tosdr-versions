@@ -56,7 +56,7 @@ Main menu
     * [Community connections](https://parliament.vic.gov.au/link/e4c996e771f24e95ac7f9e5e295ab4b3.aspx)
     * [Teach and learn](https://parliament.vic.gov.au/link/1558f66d07154cd8818f399500143f89.aspx)
     
-* [Members of Parliament](https://parliament.vic.gov.au/members/member-search/)Expand Members of Parliament
+* [Members of Parliament](https://parliament.vic.gov.au/members/)Expand Members of Parliament
     
     Previous Back
     
@@ -91,6 +91,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Laws to combat organised crime debated](https://parliament.vic.gov.au/link/1ac4bb8f32984fa5bc57b17f09cdc283.aspx)
+        
+        03 October 2024
+        
     * [Committee finds FOI laws need an overhaul](https://parliament.vic.gov.au/link/eabbb6db64f641679d6cc6bfd47587fc.aspx)
         
         24 September 2024
@@ -98,10 +102,6 @@ Main menu
     * [Short stay accommodation to be taxed and regulated](https://parliament.vic.gov.au/link/d119aa7e467546a7b3a0b70ac9363c3a.aspx)
         
         19 September 2024
-        
-    * [Creativity for a healthy future](https://parliament.vic.gov.au/link/1e70e18578014beeafd1caac28b4c660.aspx)
-        
-        13 September 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
