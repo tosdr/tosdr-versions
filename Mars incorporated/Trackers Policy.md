@@ -224,9 +224,9 @@ Africa
 
 South Africa
 
-[English](https://zaf.mars.com/)
+[English](https://www.mars.com/en-za)
 
-[English](https://zaf.mars.com/)
+[English](https://www.mars.com/en-za)
 
 Americas
 
@@ -258,9 +258,9 @@ Asia & Pacific
 
 Australia
 
-[English](https://aus.mars.com/)
+[English](https://www.mars.com/en-au)
 
-[English](https://aus.mars.com/)
+[English](https://www.mars.com/en-au)
 
 China
 
@@ -270,9 +270,9 @@ China
 
 India
 
-[English](https://ind.mars.com/)
+[English](https://www.mars.com/en-in)
 
-[English](https://ind.mars.com/)
+[English](https://www.mars.com/en-in)
 
 Indonesia
 
