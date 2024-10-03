@@ -158,6 +158,7 @@ Flooring and Wall Panels
 
 ##### Highlights
 
+* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/highlights/cremona_oak)
 * [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/highlights/rocko_tiles)
 * [Most Preferred](https://www.kronospan-worldwide.com/en_EN/highlights/most_preferred)
 * [Harmony Collection](https://www.kronospan-worldwide.com/en_EN/highlights/harmony_collection)
@@ -165,8 +166,8 @@ Flooring and Wall Panels
 * [Global Collection 3.0](https://www.kronospan-worldwide.com/en_EN/highlights/kronodesign_global_collection_3)
 * [Feelness](https://www.kronospan-worldwide.com/en_EN/highlights/feelness)
 * [Antibacterial surfaces](https://www.kronospan-worldwide.com/en_EN/highlights/antibacterial_surfaces)
-* [Slim Line Worktops Plus](https://www.kronospan-worldwide.com/en_EN/highlights/slim-line-worktops)
 
+* [Slim Line Worktops Plus](https://www.kronospan-worldwide.com/en_EN/highlights/slim-line-worktops)
 * [Kronoart](https://www.kronospan-worldwide.com/en_EN/highlights/kronoart)
 * [Acrylic Gloss & Acrylic Matt boards](https://www.kronospan-worldwide.com/en_EN/highlights/acrylic_matt_and_acrylic_gloss_boards)
 * [Worktops Collection](https://www.kronospan-worldwide.com/en_EN/highlights/worktops_collection)
@@ -469,6 +470,7 @@ Flooring and Wall Panels
 
 ##### [Highlights](https://www.kronospan-worldwide.com/en_EN/highlights "Highlights")
 
+* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/highlights/cremona_oak "cremona_oak")
 * [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/highlights/rocko_tiles "rocko_tiles")
 * [Most Preferred](https://www.kronospan-worldwide.com/en_EN/highlights/most_preferred "most_preferred")
 * [Harmony Collection](https://www.kronospan-worldwide.com/en_EN/highlights/harmony_collection "harmony_collection")
@@ -493,8 +495,6 @@ Flooring and Wall Panels
 * [Projects](https://www.kronospan-worldwide.com/en_EN/projects "Projects")
 
 [home](https://www.kronospan-worldwide.com/privacy/?controller=application&action=index&lang=0&module=public&controller=application&action=index "home")
-
-  
 
 ![](/images/404.svg)
 
