@@ -378,7 +378,7 @@ Klaviyo has adopted a policy of terminating, in appropriate circumstances, accou
 
 English - US
 
-* [English - US](https://www.klaviyo.com/)
+* [English - US](https://www.klaviyo.com/legal/dmca)
 * [English - UK](https://www.klaviyo.com/uk/)
 * [Français](https://www.klaviyo.com/fr/)
 
