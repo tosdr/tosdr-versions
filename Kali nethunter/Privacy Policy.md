@@ -460,14 +460,14 @@
 
 Learning Solutions Why OffSec Plans & Pricing Partners Kali & Community Resources
 
-![](/_astro/TH-200.BEQtM072_1DGmnU.svg)
+![](/_astro/ir-banner.CYWFNqR__ZvkWdI.svg)
 
-TH-200: Foundational Threat Hunting
------------------------------------
+IR-200: Foundational Incident Response
+--------------------------------------
 
-OffSec's brand new course and certification equips individuals and teams to proactively identify threats, protecting organizational infrastructure.
+OffSec's new incident response course and certification launches October 29th. In IR-200, Learners will gain a deep understanding of the incident response lifecycle, including incident detection, analysis, containment, eradication and recovery.
 
-[Learn more](https://www.offensive-security.com/courses/th-200/)
+[Learn more](https://www.offensive-security.com/learning/paths/incident-responder-foundations/)
 
 Legal
 =====
