@@ -2,7 +2,15 @@
 
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
-3:37 PM on Aug 28, 2019 CDT — Updated at 12:49 PM on Mar 15, 2023 CDT
+Aug. 28, 2019
+
+|
+
+Updated Mar. 15, 2023 at 12:49 p.m. CDT
+
+|
+
+21 min. read
 
 ![The Rock of Truth on the edifice of The Dallas Morning News' former home on Young Street. ](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/6RYGPE236E3FPMUJXSM6THEXZM.jpg?auth=17250f64f6714da7f9689419e4a797e6b5b997cfbf12cdd7d3a7a57a120b33e2&height=553&width=830&smart=true&quality=80)
 
