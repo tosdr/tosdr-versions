@@ -31,6 +31,457 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 3 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este jueves 3 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Ha llegado el momento de hacer realidad el “derecho a los alimentos” en favor de una dieta saludable, nutritiva y asequible (Parte 2)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+En numerosos países, en todas las regiones, la FAO colabora con las comunidades pesqueras y los gobiernos locales para ampliar la protección social y la inclusión económica de los más vulnerables y les ayuda a diversificar su producción, generar fuentes de ingresos alternativas y conectarse a los nuevos mercados. La inflación, especialmente en períodos de inestabilidad económica, puede dar lugar a la falta de asequibilidad de los alimentos. En algunos países africanos, por ejemplo, las iniciativas de la FAO incluyen transferencias de efectivo a los hogares más pobres, lo que les ayuda a poder comprar alimentos en momentos de hiperinflación. La crisis climática plantea una amenaza significativa para la seguridad alimentaria mundial. La irregularidad de los patrones meteorológicos y los desastres naturales pueden devastar los cultivos y el ganado. Por ejemplo, en algunos países de Asia, la FAO ha introducido técnicas de agricultura climáticamente inteligente para ayudar a los agricultores a adaptarse a los cambios de las condiciones climáticas, asegurando una producción constante de alimentos. Además, al colaborar estrechamente con los gobiernos, la FAO contribuye a la elaboración de marcos jurídicos y ha ayudado a formular políticas nacionales encaminadas a garantizar la seguridad alimentaria y la nutrición para todos. Se necesita una acción colectiva, pero no solo es a los gobiernos a los que pedimos que participen en esta lucha. La acción colectiva puede impulsar un cambio sustancial, con la colaboración mundial de todos los sectores y todos los asociados, a saber, gobiernos, el sector privado, el mundo académico, la sociedad civil y las personas individuales. Y especialmente los jóvenes, pues tienen derecho a un futuro con seguridad alimentaria. Ellos diseñan y deciden el futuro. Todos los llamamientos derivados de la Cumbre del Futuro de las Naciones Unidas vienen determinados por sus acciones.
+
+Los agricultores pueden marcar la diferencia mediante la práctica de una agricultura sostenible que mejore la biodiversidad y gestione los recursos naturales de manera responsable. Las empresas pueden hacer que los alimentos nutritivos y diversos disponibles sean más asequibles. El mundo académico y la sociedad civil pueden pedir cuentas a los gobiernos mediante la recopilación de datos, la identificación de esferas de mejora, la aplicación de soluciones científico-técnicas y la medición de los progresos realizados hacia el logro de las metas. La ciencia y la innovación, en particular las tecnologías de la información (TI), la biotecnología, la inteligencia artificial (IA) y la agricultura digital, y otros, serán una fuerza decisiva para la transformación de los sistemas agroalimentarios. Por último, todos nosotros como consumidores podemos y debemos desempeñar nuestra función para reducir la “huella alimentaria”, practicando estilos de vida saludables, alzando la voz para influir en la toma de decisiones, reduciendo el desperdicio de alimentos y fomentando la diversidad de los alimentos. Este Día Mundial de la Alimentación nos permite renovar nuestro compromiso de crear sistemas agroalimentarios más eficientes, más inclusivos, más resilientes y más sostenibles que respeten el derecho de todos a alimentos variados y nutritivos. Juntos podemos retomar el camino hacia el cumplimiento de la Agenda 2030 para el Desarrollo Sostenible —nuestro compromiso común de adoptar medidas en favor de las personas, el planeta y la prosperidad—. Podemos lograrlo mediante la transformación de los sistemas agroalimentarios mundiales para garantizar las cuatro mejoras: una mejor producción, una mejor nutrición, un mejor medio ambiente y una vida mejor, sin dejar a nadie atrás. Nuestras acciones son nuestro futuro.
+
+**_QU Dongyu, Director General de la Organización de las Naciones Unidas para la Alimentación y la Agricultura_**
+
+El “Pacto del Futuro”, ¿un espejismo?
+=====================================
+
+El Pacto Digital plantea la necesidad de regular las redes sociales, las empresas tecnológicas y la inteligencia artificial.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+El 22 de septiembre pasado, las Naciones Unidas aprobaron el “Pacto del Futuro”, en el marco de la Asamblea General 2024, con el respaldo de 143 países, incluido el Ecuador.
+
+Este documento forma parte de una iniciativa mundial, negociado a nivel intergubernamental, que **incluye 56 acciones y más de 100 propuestas de cambio,** con compromisos que intentan garantizar el crecimiento y la igualdad de oportunidades en los ámbitos sociales, culturales, ambientales, políticos y económicos.
+
+“Los líderes mundiales han aprobado un “Pacto del Futuro” que incluye un Pacto Digital Global y una Declaración sobre las Generaciones Futuras, que cubre una amplia gama de temas: **la paz y la seguridad, el desarrollo sostenible, el cambio climático, la cooperación digital, los derechos humanos, el género, la juventud, las generaciones futuras, y la transformación de la gobernanza global**”, expresa un comunicado de las Naciones Unidas. **El Pacto Digital plantea la necesidad de regular las redes sociales, las empresas tecnológicas y la inteligencia artificial.**
+
+Los optimistas consideran un **paso histórico**, comparable al que definió los **Ocho Objetivos de Desarrollo Sostenible del Milenio**, que comprendieron la erradicación de la pobreza, la educación primaria universal, la igualdad entre los géneros, la mortalidad infantil, materna, el avance del VIH/sida y el sustento del medio ambiente.
+
+**Otros, en cambio, ven espejismos,** buenas intenciones y resoluciones no vinculantes, **que no implican cambios estructurales en las Naciones Unidas,** pese a que siguen vigentes los objetivos trazados en 1945: “mantener la paz y la seguridad internacional, fomentar entre las naciones relaciones de amistad y promover el progreso social, la mejora del nivel de vida y los derechos humanos”.
+
+Sin embargo, la humanidad ve con preocupación **la escalada de conflictos, el aumento de la desigualdad y la pobreza, el poder de las empresas transnacionales, las mafias del narcotráfico, el comercio clandestino de armas, la desinformación, la migración descontrolada y la corrupción,** en diferentes regiones del planeta.
+
+143 países aprobaron este el “Pacto del Futuro”. Rusia, Irán, Bielorrusia, Corea del Norte, Nicaragua, Sudán y Siria se opusieron; 15 países se abstuvieron. **Argentina decidió no firmar esta declaración porque Javier Milei consideró que “Argentina será un faro de libertad”.**
+
+**“El multilateralismo ha caído en el abismo y hay que rescatarlo”,** anunció el **Secretario General de la ONU, Antonio Guterres**, quien, luego de la aprobación del referido acuerdo presentó varios desafíos a los líderes mundiales**:** “implementar el pacto, priorizar el diálogo y las negociaciones, **poner fin a las “guerras que desgarran nuestro mundo” desde Oriente Medio hasta Ucrania y Sudán**, reformar el poderoso Consejo de Seguridad de la ONU, emprender a mayor ritmo las **reformas del sistema financiero internacional, acelerar la transición hacia el abandono de los combustibles fósiles, escuchar a los jóvenes e incluirlos** en la toma de decisiones”.
+
+**El mundo no soporta más declaraciones que son ejercicios inútiles.** Los Estados deben ejercer acciones, con voluntad política, recursos, consensos y acuerdos vinculantes, para aplicar estos enunciados. De lo contrario, **los riesgos a corto plazo pueden ser catastróficos.** Se debe insistir, por ejemplo, no solo en los derechos humanos, sino en las obligaciones y responsabilidades correlativas.
+
+**Los ciudadanos exigimos un pacto con la verdad, la justicia y la transparencia en las relaciones internacionales. ¡Y que la ONU sea UNO!**
+
+Más zonas seguras y sostenibles para levantar el turismo de Ecuador
+===================================================================
+
+La clave es promover rutas y experiencias confiables y así mitigar la imagen negativa de violencia y crisis energética
+----------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Turistas llegando a Ecuador. Un letrero de bienvenida se lee al fondo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Imagen-Editorial.jpg)
+
+Ecuador afronta una vez más una difícil situación en su sector turístico. Los cortes de luz, de agua y los elevados niveles de violencia ponen en riesgo una industria clave para la economía nacional.
+
+Aunque el panorama pueda parecer sombrío es importante recordar que los momentos más oscuros son preámbulo de una renovación. Los problemas que se enfrenta como país no deben ser el reflejo de nuestra identidad ante el mundo. Es tiempo de reinventarnos, de encontrar soluciones innovadoras que permitan mantener y promover el turismo en un Ecuador megadiverso y pluricultural.
+
+Es evidente que las noticias sobre violencia pueden disuadir a los turistas. Sin embargo, hoy es crucial comunicar que no todas las áreas del país están afectadas de la misma forma.
+
+Promover destinos seguros, [sostenibles](https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html "https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html") y experiencias positivas puede cambiar la narrativa que a menudo es dominada por la negatividad. Los turistas nacionales e internacionales deben conocer rutas seguras para explorar. La promoción debe ir más allá de las islas Galápagos, el volcán Cotopaxi y Quito.
+
+Esto solo puede lograrse a través de una colaboración estrecha entre los sectores público y privado.
+
+A pesar de las dificultades, [el gasto turístico](https://www.turismo.gob.ec/el-carnaval-de-2024-genero-63-millones-de-dolares-por-gasto-turistico/#:~:text=El%20Carnaval%20de%202024%20gener%C3%B3,gasto%20tur%C3%ADstico%20%E2%80%93%20Ministerio%20de%20Turismo "https://www.turismo.gob.ec/el-carnaval-de-2024-genero-63-millones-de-dolares-por-gasto-turistico/#:~:text=El%20Carnaval%20de%202024%20gener%C3%B3,gasto%20tur%C3%ADstico%20%E2%80%93%20Ministerio%20de%20Turismo") del Carnaval 2024 alcanzó 63 millones de dólares, 31 millones menos que en 2023. Aunque esta cifra es inferior aún existe un interés por viajar dentro del país.
+
+> Con tres feriados a la vista –la independencia de Guayaquil, Cuenca y Difuntos–, se presenta una nueva oportunidad para el sector turístico. Hay que mostrar al mundo que Ecuador aún ofrece espacios para disfrutar con seguridad, tranquilidad y protección policial.
+
+Para lograr un impulso real en el turismo, es necesario trazar un plan integral. Éste debe incluir la generación de ingresos, fomentar un sentido de comunidad y anticiparse a los riesgos.
+
+No está de más tomar en cuenta cómo Colombia y México, pese a sus propias crisis, han sabido posicionar sus destinos seguros. Colombia ha logrado reposicionarse mediante campañas de promoción que destacan las zonas turísticas más seguras. México, por su parte, ha diversificado sus ofertas, atrayendo a diferentes tipos de viajeros. Ecuador puede seguir invirtiendo en campañas de mercadeo y creando experiencias únicas que muestren una estancia ordenada, atractiva y confiable en el país.
+
+La solución no solo radica en aumentar la presencia policial en áreas estratégicas. Es necesario fomentar iniciativas comunitarias que promuevan la paz y la seguridad.
+
+Las comunidades locales deben involucrarse en la promoción de su entorno como destino turístico seguro. Para esto hay que garantizar acceso a servicios esenciales y experiencias acogedoras.
+
+Es vital recordar que el turismo es una fuente de empleo para más de 600 mil familias ecuatorianas. El reto está en coordinar esfuerzos y ejecutar acciones concretas. Entre ellas está identificar las zonas con potencial turístico seguro y garantizar acceso a servicios básicos como electricidad y agua.
+
+Incrementar la seguridad mediante patrullajes y presencia policial, y desarrollar campañas de promoción que proyecten una imagen positiva del país es clave. Con determinación y creatividad, podemos superar los desafíos actuales y asegurar un futuro prometedor para el turismo en Ecuador.
+
+Un ecuatoriano en Pekín
+=======================
+
+Imitar no es necesariamente malo, y a China tampoco.
+----------------------------------------------------
+
+![José Félix Valdivieso, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Jose-Felix-Valdivieso.jpg)
+
+Nadie está a salvo. Todo el **mundo** puede ser llamado **bárbaro**. Basta ubicarse en un **punto geográfico**, para que todo aquello que quede fuera del mismo sea calificado como tal.  Así operan las **fronteras**, así operan los **países**, en todas las **latitudes**. Lo observó muy bien, hace casi un siglo, Henri Michaux, en su libro «_Un Bárbaro en Asia_», que subdividió en diferentes capítulos, _Un **bárbaro** en la **India**_, _Un bárbaro en Japón_… Y por supuesto, uno en la **China**, que hoy nos ocupa. Muy astuto el galo, a la hora de disimular _la grandeur._
+
+**Bárbaros** somos todos, como decía, y también este **ecuatoriano**, que hoy les escribe y que visitó El País del Centro el pasado septiembre. No es mal mes para visitarlo. Se han esfumado ya los **sofocantes calores** estivales, y todavía no ha asomado el **gélido invierno** de las **estepas**. El tiempo moderado templa el juicio, cuando los ánimos se agitan, azuzados por la política y las **guerras comerciales**, por decir lo menos.
+
+Es cierto que lo que recogió **Michaux**, a principios del pasado siglo, ya no es totalmente válido. Sin embargo, varias de sus observaciones todavía aplican, y mal haríamos en desecharlas, si queremos sacar el máximo provecho del **Tratado** de **Libre Comercio** entre nuestro país y China. ¡Nada como un francés para poner orden!!
+
+El **chino** lo imita todo con una sumisión al modelo, que nos deja **perplejos** —viene a decir Michaux. El chino imita hasta un vestido parisino o un **sarcófago**, sin equivocación, ni aprendizaje —no deja de recalcar **Michaux**. Como es bien sabido, la innovación, en la que se fundamenta el **progreso** de los países, se compone tanto de la prestigiosa **invención**, como de la denostada imitación. El motor de la **industria manufacturera** china, que ha obrado el **milagro** de sacar de la **pobreza** a 800 millones de personas, se ha basado en lo que se podría llamar _el modelo de **imitación** masiva_, esto es, la reproducción indiscriminada de la **innovación** de otros países, por medio de esa misma pobre e **ingente** mano de obra disponible. No por nada, **China** se ha ganado la reputación de **imitador global**.
+
+Por **soberbia** criolla, o bárbara, tendemos a despreciar la **imitación**. Sin embargo, no despreciamos a Apple, porque Steve Jobs copiase la idea del ratón de Xerox. Nadie llega solo a ningún sitio. Hasta los genios roban. Para competir con **China**, o con quien sea, la **imitación** debe ser un arma más. Los pintores se hartan de copiar e imitar a los clásicos, y a todo el mundo le parece bien. La **imitación** debería ser una opción más antes de equivocarse. Una de las **tácticas** del **ajedrez** es realizar **movimientos** similares al del oponente. 
+
+Algunas de las **empresas internacionales** más de moda lo han comprendido, y en busca de **inspiración**, no le quitan el ojo a sus **rivales chinos**. Eso fue lo que hizo Facebook en 2019 cuando agregó una opción de pago integrada a su función de _chat_, cinco años después de que **WeChat** introdujera una opción similar a gran escala, en un **ejemplo pionero** de cómo fusionar productivamente los mundos de la **tecnología social** y **comercial**.
+
+Así operó Amazon, cuando modeló su Prime Day (un evento anual tremendamente exitoso durante el cual los miembros _Prime_ reciben todo tipo de **ofertas** y **descuentos**), basándose en _El Día de los Solteros_ de Alibaba. Instagram tomó de TikTok la idea de su función _Reels_. Y la lista sigue y sigue.
+
+Si bien la **innovación** está girando hacia el Este, China tan solo ocupa el **undécimo** puesto en el **Índice** Global de Innovación (2022). Según el informe de La OMPI (Organización Mundial de la Propiedad Intelectual) de 2022, hubo unos 1,58 millones de **solicitudes** de **patentes** chinas.   A China le siguieron los Estados Unidos (505 539), Japón (405 361), la República de Corea (272 315) y Alemania 155 896). Sin embargo, como señala el **experto** en China, Mario Esteban, «_el desarrollar un **ecosistema** tecnológico líder en **innovación** es mucho más complejo_»(Introducción a la China actual, septiembre 2024).   No solo se trata de liderar el ranking de solicitud de patentes, como lo **lidera** **china**.
+
+Para hacernos una idea de cómo está la situación en **nuestro país**, en opinión de investigadores de la Universidad Politécnica Estatal del Carchi, «_existen apenas 18 **patentes** concedidas en el año 2020. En comparación con la producción **mundial,** Ecuador apenas aporta con el 0.013%, considerando los 3.224200 millones de solicitudes de patentes globales_» (**Panorama tecnológico** ecuatoriano: Solicitudes de **patentes** en Ecuador entre 2011 y 2020, una revisión 2021).
+
+Decía también **Michaux**, que «el chino _se **adapta, comercia, calcula e intercambia**_». Mucho de esto, y de lo otro, hace falta en Ecuador para mejorar, detectando en China, cuáles de sus **mejores prácticas**, son imitables e **intercambiables**, tal y como hemos hecho con las de **Estados Unidos**.
+
+Candidaturas en firme, pasos clave para la validación en las elecciones de 2025
+===============================================================================
+
+El CNE verifica requisitos y resuelve impugnaciones para oficializar las candidaturas en Ecuador para las elecciones 2025.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Votaciones en las elecciones anticipadas de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/09/papeletas.png)
+
+La participación en elecciones está regulada por una serie de normativas establecidas en el **Código de la Democracia.** Varios pasos se deberán cumplir para que las candidaturas estén en firme en las elecciones de 2025.
+
+### Más noticias
+
+* [Más binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Más binomios se inscribieron en el CNE para las elecciones 2025")
+* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
+* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html "Multas por realizar campaña anticipada a las elecciones de 2025")
+
+Los candidatos, así como los **partidos y movimientos políticos** que los postulan, deben cumplir con un conjunto de requisitos y procedimientos antes de ser **aceptados oficialmente en el proceso electoral**.
+
+Inscripción de la candidatura
+-----------------------------
+
+El primer paso para que una candidatura esté en firme es la inscripción ante el **Consejo Nacional Electoral (CNE)**. Los partidos o movimientos políticos tienen la r**esponsabilidad de presentar a sus candidatos** cumpliendo los requisitos establecidos.
+
+Los candidatos deben estar en pleno goce de sus **derechos políticos**, lo que implica no tener condenas ejecutoriadas que los inhabiliten. Además, deben haber sido seleccionados a través de **procesos internos** del **partido o movimiento político**, los cuales también son supervisados por el CNE para asegurar su **legalidad y transparencia**.
+
+> 🇪🇨 | [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) que, con corte a las 15h30 de este 30 de septiembre, 1⃣7⃣6️⃣ listas han solicitado la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 💻 Este hito del calendario electoral, se efectúa en línea y concluye a las 18h00 del miércoles, 2⃣ de octubre.🗳️ [pic.twitter.com/oN655F88pk](https://t.co/oN655F88pk)
+> 
+> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840861726604214612?ref_src=twsrc%5Etfw)
+
+Los movimientos o partidos que presenten candidaturas deben estar debidamente **registrados y actualizados en el CNE**. Los candidatos deben pertenecer a **listas completas**, en el caso de elecciones pluripersonales, y cumplir con las disposiciones de **alternabilidad y paridad de género**, lo cual es obligatorio según la **legislación ecuatoriana**.
+
+Revisión y calificación por parte del CNE
+-----------------------------------------
+
+Una vez presentada la solicitud de inscripción, el CNE se encarga de **revisar la documentación y los antecedentes de los candidatos**. Esta verificación incluye comprobar que los candidatos cumplan con los requisitos mínimos de edad, nacionalidad y residencia, entre otros aspectos.
+
+También se verifica que las listas presentadas respeten la **cuota de jóvenes y de paridad de género**, un principio establecido en la ley para fomentar la igualdad y la representación **inclusiva en el ámbito político**.
+
+El CNE tiene la **facultad de calificar o descalificar candidaturas sobre la base de estos criterios**. En caso de descalificación, el partido o movimiento tiene la posibilidad de **sustituir al candidato**, siempre que se haga dentro de los **plazos estipulados en el calendario electora**l.
+
+Impugnaciones y recursos
+------------------------
+
+El proceso de inscripción no está libre de cuestionamientos. Durante el **período establecido** para la revisión de candidaturas, cualquier **ciudadano o partido puede presentar impugnaciones** ante el Tribunal Contencioso Electoral (TCE).
+
+> [#EcuadorVotaInformado](https://twitter.com/hashtag/EcuadorVotaInformado?src=hash&ref_src=twsrc%5Etfw)🗳️🇪🇨  
+>   
+> El domingo 9 de febrero en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), las y los ecuatorianos empadronados en territorio nacional y en el exterior 🌐 elegiremos:  
+>   
+> ➡️ Binomio presidencial  
+> ➡️ Asambleístas nacionales, provinciales y por el exterior  
+> ➡️ Parlamentarios Andinos… [pic.twitter.com/u6lDSbGm5O](https://t.co/u6lDSbGm5O)
+> 
+> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840857255006376277?ref_src=twsrc%5Etfw)
+
+Las impugnaciones pueden referirse a **irregularidades en el proceso de selección interna del partido**, i**ncumplimiento de requisitos legales** o cualquier otra observación que afecte la validez de la candidatura.
+
+El TCE es la entidad encargada de **resolver estas disputas y emitir fallos vinculantes**. Si el tribunal falla a favor del impugnante, el CNE debe ajustar o rechazar la candidatura en cuestión.
+
+En caso de que **no existan impugnaciones**, o si las mismas son resueltas a favor del candidato, este quedará habilitado para participar en el proceso electoral.
+
+Oficialización y aceptación de la candidatura
+---------------------------------------------
+
+Una vez concluidas las **revisiones y resueltas las impugnaciones**, el CNE oficializa las candidaturas publicando la **lista definitiva de candidatos habilitado**s. Los candidatos, además, deben aceptar formalmente su postulación, lo que confirma su intención de participar en las elecciones.
+
+En este punto, la candidatura se considera en firme, permitiendo al candidato y a su equipo iniciar las **actividades de campaña electoral**.
+
+Es importante destacar que todos los procesos deben **respetar estrictamente los plazos fijados** en el calendario electoral. El CNE organiza las **diferentes etapas del proceso**, asegurándose de que cada una se cumpla en los **tiempos establecidos**.
+
+El proceso para que una **candidatura esté en firme en Ecuador** implica una serie de pasos administrativos y legales. Esto servirá para que garanticen que los candidatos cumplan con los **requisitos necesarios** y que las elecciones se realicen de manera **justa y transparente**.
+
+Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder
+============================================================================
+
+Un informe del fiscal a cargo de la investigación contra el expresidente fue difundido este miércoles 2 de septiembre.
+----------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump reaccionó a la difusión del informe completo del fiscal](https://www.elcomercio.com/wp-content/uploads/2024/10/trump-donald.jpg)
+
+La Justicia de **Estados Unidos** difundió el informe completo del fiscal a cargo de la investigación a **Donald Trump** sobre el caso del asalto al Capitolio, este miércoles 2 de octubre de 2024.
+
+Este documento aporta nuevas pruebas de los comportamientos del expresidente, calificadas como “**delictivas**“.
+
+### Más noticias
+
+* [La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/navidad-comienza-venezuela-adelanto-decretado-nicolas-maduro.html "La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro")
+* [Estados Unidos enviará tropas y aviones adicionales a Medio Oriente](https://www.elcomercio.com/actualidad/mundo/estados-unidos-tropas-aviones-medio-oriente.html "Estados Unidos enviará tropas y aviones adicionales a Medio Oriente")
+* [Candidatos a Vicepresidente de Estados Unidos debatieron sobre la crisis migratoria](https://www.elcomercio.com/actualidad/mundo/candidatos-vicepresidente-estados-unidos-crisis-migratoria.html "Candidatos a Vicepresidente de Estados Unidos debatieron sobre la crisis migratoria")
+
+El informe concluye que Trump incurrió en un intento “desesperado” de revertir los resultados de los comicios de **2020**.
+
+“Trabajando con un equipo de conspiradores privados, el acusado utilizó múltiples **medios criminales** para perturbar, mediante fraude y engaño, la función gubernamental”, sostiene el reporte.
+
+“Aunque era el presidente en ejercicio durante las conspiraciones denunciadas, su plan era fundamentalmente privado”, añade el texto.
+
+Cuando Trump perdió frente al demócrata **Joe Biden** en 2020, según el fiscal, “**recurrió a delitos para intentar mantenerse en el cargo**“.
+
+“Con cómplices privados, lanzó una serie de planes cada vez más desesperados para **anular los resultados electorales legítimos** en siete estados que había perdido: Arizona, Georgia, Míchigan, Nevada, Nuevo México, Pensilvania y Wisconsin”. Esos esfuerzos, añadió Smith, tenían como objetivo “el engaño”.
+
+El fiscal concluye que su esquema para seguir en la Casa Blanca fue “un **esfuerzo delictivo privado**“.
+
+Invasión al Capitolio
+---------------------
+
+Parte de las alegaciones muestran a Trump como responsable del ataque al **Capitolio**, al decir que mintió para exaltar a una multitud “grande y enfadada” a que fuera a ese edificio y alterara el recuento de los votos.
+
+Ese 6 de enero de 2021, unas 10 000 personas, la mayoría simpatizantes de Trump, marcharon hacia la sede del Congreso y unas **800 irrumpieron** en el edificio mientras se estaba certificando la victoria de Biden en esos comicios.
+
+Hubo en total **cinco muertos** y cerca de 140 agentes heridos.
+
+Trump está acusado de conspirar para **anular los resultados de los comicios**, algo que acabó en ese asalto.
+
+Este nuevo documento asegura que Trump actuó como candidato y no como presidente en sus interacciones con agentes estatales, en sus discursos y mensajes en X o al hablar con el personal de la Casa Blanca.
+
+La jueza que está al frente de ese proceso en Washington DC, Tanya Chutkan, había autorizado el pasado 5 de septiembre a la **Fiscalía** dar a conocer nuevas pruebas y su orden abría la puerta a que estas fueran públicas antes de las presidenciales del 5 de noviembre, en la que Trump es candidato.
+
+El documento, firmado por Smith, tiene **165 páginas** e intenta desmontar el argumento de que Trump gozaba de inmunidad presidencial y, por el contrario, asegura que actuó en una capacidad privada.
+
+Donald Trump se refirió al tema
+-------------------------------
+
+El expresidente estadounidense y candidato republicano a la Casa Blanca, **Donald Trump** (2017-2021), consideró que la difusión del nuevo informe “es un ejemplo más de la **politización** del Departamento de Justicia en su contra”.
+
+“Los demócratas están armando al Departamento de Justicia contra mí porque saben que voy ganando y están desesperados por apuntalar a su fallida candidata, Kamala Harris”, dijo en su red social, **Truth Social**.
+
+Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela
+=====================================================================
+
+El presidente de Venezuela, Nicolás Maduro, adelantó y extendió la Navidad.
+---------------------------------------------------------------------------
+
+![La Navidad adelantada en Venezuela, decretada por Nicolás Maduro, durará más de tres meses.](https://www.elcomercio.com/wp-content/uploads/2024/10/MUNDO-2-1.jpg)
+
+El presidente Nicolás Maduro no solo adelantó la Navidad a este martes 1 de octubre de 2024; sino que, también la extendió hasta el 15 de enero de 2025, en Venezuela.
+
+Maduro firmó un decreto ejecutivo fijando la fecha de inicio de la Navidad en ese país.
+
+* [La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/navidad-comienza-venezuela-adelanto-decretado-nicolas-maduro.html "La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro")
+* [Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?](https://www.elcomercio.com/actualidad/mundo/venezuela-celebra-navidad-octubre-maduro.html "Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?")
+
+Las festividades incluyen Fin de Año y el recibimiento del año 2025, dijo Maduro.
+
+La Navidad empezó este martes en Venezuela, con actos oficialistas en Caracas y varias regiones del país, luego de que el presidente Nicolás Maduro decretara el “adelanto” de esta temporada, para lo que varios espacios públicos han sido decorados con luces e imágenes típicas de la festividad.
+
+Con una cuenta regresiva, la alcaldesa de Caracas, Carmen Meléndez, lideró el encendido de una cruz que se ubica en el Waraira Repano, la principal formación de montañas de la capital de Venezuela, conocida como el Ávila, que se impone en el norte de la ciudad.
+
+Desde una plaza, la funcionaria hizo un llamado a celebrar unas “navidades felices, seguras y en familia”, mientras que el ministro de Cultura, Ernesto Villegas, quien también se encontraba en el acto, instó a aprovechar la temporada para reafirmar la identidad nacional.
+
+Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela
+---------------------------------------------------------------------
+
+Nicolás Maduro señaló que “el pueblo celebra (las navidades) hasta cuando quiera celebrarlas”.
+
+Esto lo dijo en respuesta a “unos tipos con sotana” que dijeron que no había navidades si ellos no lo decretaban.
+
+Así, desde el 1 de octubre hasta el 15 de enero “arrancan las navidades, Fin de Año y recibimiento del año 2025.
+
+Con la decisión, Venezuela tendrás tres meses y medios de estas festividades de fin de año.
+
+Torrencial lluvia desbordó una quebrada y un río en el sur de Quito
+===================================================================
+
+Las fuertes precipitaciones de este miércoles 2 de octubre inundaron varias casas y calles de la ciudad.
+--------------------------------------------------------------------------------------------------------
+
+![Las inundaciones afectaron a los moradores del sur de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-quito.jpg)
+
+Quito vivió una **torrencial lluvia** la tarde y noche de este miércoles 2 de octubre de 2024.
+
+Las precipitaciones, si bien no vinieron acompañadas de granizo como días anteriores, generaron **graves estragos** en el sur de la ciudad.
+
+### Más noticias
+
+* [Barrios de Quito con cortes de agua este jueves 3 de octubre](https://www.elcomercio.com/actualidad/barrios-quito-cortes-agua-octubre.html "Barrios de Quito con cortes de agua este jueves 3 de octubre")
+* [Cortes de luz en Quito para este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-jueves-3-de-octubre.html "Cortes de luz en Quito para este jueves 3 de octubre")
+* [Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre](https://www.elcomercio.com/actualidad/quito/varios-cierres-viales-siniestros-transito-quito.html "Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre")
+
+El ECU 911, el Cuerpo de Bomberos de Quito y entidades municipales coordinaron varias **emergencias** relacionadas con **inundaciones** en casas y calles.
+
+Los barrios más afectados fueron: Nueva Aurora, Caupicho, Guajaló y La Lucha de los Pobres.
+
+En estos lugares se registró el **deslizamiento** de piedras y lodo que fueron arrastrados por el agua; así como el **desbordamiento** de ríos y quebradas.
+
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | En el sector de Turubamba se realiza la limpieza de sumideros y cajas de revisión con el objetivo de evacuar el agua acumulada y la habilitación del sistema de alcantarillado.  
+>   
+> Se atiende estas labores emergentes con 1 hidrosuccionador, 1 operador y 2 sifoneros.… [pic.twitter.com/11ondDBJBx](https://t.co/11ondDBJBx)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 2, 2024](https://twitter.com/aguadequito/status/1841621767712080138?ref_src=twsrc%5Etfw)
+
+Quebrada en Caupicho y río Machángara se desbordaron
+----------------------------------------------------
+
+En **Caupicho,** por ejemplo, la quebrada se desbordó, poniendo en riesgo a los estudiantes y profesores de una **escuela** cercana, quienes tuvieron que ser evacuados por seguridad.
+
+Otra emergencia de gran consideración fue reportada en el sector de la **Lucha de los Pobres**.
+
+Aquí, algunas calles quedaron cubiertas por agua y lodo tras el desbordamiento del río **Machángara**.
+
+En otros barrios, como Nueva Aurora, Quitumbe, Turubamba y aleñados a la Ruta Viva, el Cuerpo de Bomberos y efectivos de la Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) trabajaron para destapar las **alcantarillas** y limpiar los sumideros.
+
+Los personeros tuvieron que ingresar a algunas casas para evacuar el **agua acumulada**.
+
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a la presencia de inundaciones en algunos sectores de la ciudad como Turubamba, Nueva Aurora y Lucha de los Pobres, nuestro personal acudió a las zonas y se encuentra trabajando para evacuar el agua acumulada.[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/BoAPsLriVJ](https://t.co/BoAPsLriVJ)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 2, 2024](https://twitter.com/aguadequito/status/1841615718644588948?ref_src=twsrc%5Etfw)
+
+No se conoce el número de afectados
+-----------------------------------
+
+**Esteban Cárdenas**, jefe de los Bomberos de la ciudad, confirmó que pasadas las **21:00** continúan los trabajos en los sectores afectados por las inundaciones.
+
+“A esta hora, con ayuda de una bomba de succión, nuestro equipo retira el agua acumulada en varios locales comerciales”, detalló.
+
+El funcionario indicó que el informe detallado de las afectaciones será entregado una vez se realice el levantamiento oficial.
+
+> 🔴A esta hora, nuestros equipos continúan trabajando en los sectores afectados por inundaciones.  
+>   
+> La información oficial será entregada una vez que se realice el levantamiento detallado de las afectaciones en la zona.  
+>   
+> Pedimos a la ciudadanía informarse por los canales oficiales. [pic.twitter.com/kMNyYqAGOX](https://t.co/kMNyYqAGOX)
+> 
+> — Esteban Cárdenas Varela (@ECardenasVarela) [October 3, 2024](https://twitter.com/ECardenasVarela/status/1841652956958966032?ref_src=twsrc%5Etfw)
+
+La **Secretaría de Riesgos** tampoco brindó reportes de afectaciones humanas y daños materiales.
+
+Cierres viales de esta noche
+----------------------------
+
+La Agencia Metropolitana de Tránsito (**AMT**) informó de al menos cinco cierres viales en Quito, la tarde y noche de este miércoles 2 de octubre.
+
+Algunos de estos fueron causados por **siniestros de tránsito**, como los dos que se registraron en la av. Simón Bolívar, uno a la altura de **La Argelia**, a las 16:00; y otro a las 18:00, en **San José de Morán**.
+
+Los conductores que se movilizaban por la **av. Universitaria**, en el sector de Miraflores, también tuvieron dificultades.
+
+En este lugar se cerró el carril derecho del sentido norte-sur, pasadas las 16:30.
+
+La **caída de un árbol** tras las fuertes lluvias afectó la circulación vehicular por el lugar.
+
+Apagones complican la movilidad
+-------------------------------
+
+A esta problemática se le sumó los **múltiples apagones** que registró Quito.
+
+La ejecución de los apagones programados han provocado el **caos vehicular** en la ciudad, qué, a decir por la ciudadanía a través de redes sociales, no ha sido contrarrestado de buena manera por parte de la AMT.
+
+La entidad optó por silenciar los comentarios de los usuarios en las publicaciones difundidas en este tema.
+
+Tras superar las históricas emergencias por **incendios forestales** que arrasaron miles de hectáreas de vegetación en Quito, ahora la ciudad enfrenta **inundaciones, apagones y cortes de agua**, en los primeros días de octubre.
+
+Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami
+=============================================================================
+
+En apenas dos años con el Inter Miami, Lionel Messi ya ganó los dos primeros títulos del club.
+----------------------------------------------------------------------------------------------
+
+![Lionel Messi ganó su segundo título con el Inter Miami.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T211249.105.jpg)
+
+**Lionel Messi** sigue haciendo historia con el Inter Miami en la Major League Soccer (MLS), donde juega el ecuatoriano Leonardo Campana. El argentino anotó un doblete este miércoles 2 de octubre para derrotar 3-2 al Columbus Crew y **asegurar el título del MLS Supporters’ Shield.**
+
+Con este nuevo logro, **Messi le dio el segundo trofeo en la historia a las ‘Garzas’** en tan solo cuatro años de existencia. Antes de su llegada en 2023, el equipo estaba sin rumbo en la MLS, pero ahora es considerado el mejor de Estados Unidos.
+
+### Más noticias:
+
+* [Leonardo Campana y sus 30 goles con el Inter Miami](https://www.elcomercio.com/deportes/leonardo-campana-y-sus-goles-con-el-inter-miami.html "Leonardo Campana y sus 30 goles con el Inter Miami")
+* [Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad](https://www.elcomercio.com/deportes/futbol/lionel-messi-modo-superheroe-ayudo-fan-a-escapar-de-la-seguridad.html "Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad")
+* [Árbitro revela que favoreció a Lionel Messi a cambio de un obsequio](https://www.elcomercio.com/deportes/lionel-messi-ayuda-arbitro-carlos-chandia.html "Árbitro revela que favoreció a Lionel Messi a cambio de un obsequio")
+
+Lionel Messi conquista el MLS Supporters’ Shield
+------------------------------------------------
+
+Gracias a la victoria sobre Columbus Crew, el Inter Miami alcanzó los 68 puntos, el puntaje más alto de ambas conferencias (Este y Oeste), y a falta de dos jornadas para el final de la fase regular, se aseguró el **MLS Supporters’ Shield.**
+
+Este título se otorga cada año al mejor equipo de la temporada regular y no debe confundirse con la MLS Cup, que es el trofeo más prestigioso en EE.UU. y Canadá, y lo obtiene el vencedor del ‘playoff’ de la MLS.
+
+El Supporters’ Shield es el segundo título en la joven historia del Inter Miami, después de la Leagues Cup conseguida en 2023, pocas semanas tras la llegada de Messi, Sergio Busquets y Jordi Alba.
+
+Lionel Messi y sus números con el Inter Miami
+---------------------------------------------
+
+La llegada de **Lionel Messi a la MLS** fue un fenómeno mediático y deportivo, ya que, a pesar de seguir en gran forma, eligió jugar en el Inter Miami sobre muchas ofertas que tuvo en 2023, tras su paso por el París Saint-Germain y su triunfo en el **Mundial de Qatar 2022** con la selección argentina.
+
+Su arribo causó un impacto masivo en la MLS, con ventas récord de camisetas, entradas y una creciente influencia en la sociedad estadounidense. Bajo esa presión, Messi no decepcionó a nadie.
+
+En su primera temporada, M**essi jugó 14 partidos, anotó 11 goles** y dio cinco asistencias, además de lograr el título de la Leagues Cup, el primero en la historia del club.
+
+Un año después, en la temporada 2024, sumó un nuevo título con el Supporters’ Shield. Hasta el momento, Messi **ha disputado 20 partidos, anotando 19 goles** y repartiendo 12 asistencias.
+
+En total, en 34 partidos con Inter Miami, **ha acumulado 30 goles** y 17 asistencias.
+
+Los goles de Lionel Messi que valieron un título
+------------------------------------------------
+
+> THIS IS FÚTBOL 💗🖤✨  
+>   
+> El pase de [@JordiAlba](https://twitter.com/JordiAlba?ref_src=twsrc%5Etfw) 😮‍💨, el control y la definición de Messi 🤯🐐 [pic.twitter.com/Q6s5wQnrmh](https://t.co/Q6s5wQnrmh)
+> 
+> — Inter Miami CF (@InterMiamiCF) [October 3, 2024](https://twitter.com/InterMiamiCF/status/1841640528254734551?ref_src=twsrc%5Etfw)
+
+> Don Lionel Andrés Messi Cuccittini. [pic.twitter.com/cSXGNiCzos](https://t.co/cSXGNiCzos)
+> 
+> — Inter Miami CF (@InterMiamiCF) [October 3, 2024](https://twitter.com/InterMiamiCF/status/1841641551388201246?ref_src=twsrc%5Etfw)
+
+Cortes de luz en Cuenca este jueves 3 de octubre
+================================================
+
+Los cortes de luz en Cuenca este jueves 3 de octubre tienen diferentes franjas horarias.
+----------------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca para este jueves 3 de octubre son definidos por CentroSur.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5.jpg)
+
+Los **cortes de luz** en **Cuenca** este **jueves 3 de octubre** de 2024 son de hasta 10 horas[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
+
+**Centrosur** dio a conocer el cronograma por sectores y franjas horarias.
+
+### Más noticias:
+
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
+
+Aunque el Gobierno de **Daniel Noboa** anunció la reducción de horas en los cortes de luz a escala nacional, esta disposición aún no está vigente.
+
+La disposición de la reducción de horas va del viernes 4 al domingo 20 de octubre de 2024.
+
+La reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
+
+Con esta medida, los cortes se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
+
+Mientras esto ocurre el viernes; el jueves 3 de octubre, los cortes de luz se mantienen con los horarios establecidos por las diferentes empresas de electricidad que existen en el país.
+
+Cortes de luz en Cuenca este jueves 3 de octubre
+------------------------------------------------
+
+Centrosur anunció los horarios de cortes de luz para Cuenca y otras ciudades de Azuay, Cañar y Morona Santiago.
+
+Los cortes serán en dos franjas que duran entre cuatro y cinco horas.
+
+Centrosur, al igual que las otras empresas eléctricas del país, recordaron que las horas pueden reducirse si las condiciones meteorológicas mejoran.
+
+A continuación, los horarios de los cortes de luz para este 3 de octubre en Cuenca y otras ciudades:
+
+  
+
 David Cabezas, el héroe de El Nacional que pide selección
 =========================================================
 
@@ -135,7 +586,7 @@ Los siguientes barrios tendrán la interrupción del servicio de agua potable de
 * Ferroviaria Alta
 * Ferroviaria Media
 * Alegría 1
-* El Recrero
+* El Recreo
 * Clemencia
 * La Forestal
 * Lucha de los Pobres
@@ -660,581 +1111,3 @@ Al pasar por charcos de agua baja la velocidad para no mojar a los transeúntes.
 > Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WqqNXC6YGO](https://t.co/WqqNXC6YGO)
 > 
 > — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841576686938124539?ref_src=twsrc%5Etfw)
-
-¿Cómo les fue a los ecuatorianos en la fecha 2 de la Champions League?
-======================================================================
-
-El camino de los ecuatorianos continúa en la Champions League, algunos van por buen camino, mientras otros buscan mejorar.
---------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié en un partido de Champions League con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T174446.211.jpg)
-
-La **Uefa Champions League** trajo nuevos partidos este martes 1 y miércoles 2 de octubre, correspondientes a la segunda jornada de la fase de grupos del torneo. Hubo acción de cuatro **ecuatorianos**, todos titulares y figuras en sus respectivos equipos.
-
-Entre lo más positivo de la segunda jornada, es que los cuatro equipos donde militan los ecuatorianos terminaron en **puestos de clasificación** a la siguiente ronda, algunos con cupos directos a octavos y otros a dieciseisavos de final.
-
-### Más noticias:
-
-* [Willian Pacho y el PSG sucumben ante el Arsenal en Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-sucumben-ante-arsenal-champions-league.html "Willian Pacho y el PSG sucumben ante el Arsenal en Champions League")
-* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
-* [El Sparta Praga de Angelo Preciado empata en Champions](https://www.elcomercio.com/deportes/angelo-preciado-sparta-praga-stuttgart-champions.html "El Sparta Praga de Angelo Preciado empata en Champions")
-
-Angelo Preciado continúa invicto
---------------------------------
-
-El primero de los ecuatorianos en mostrarse fue **Angelo Preciado**. El lateral derecho tuvo una destacada actuación con el **Sparta Praga**, y su equipo mantiene su invicto en la competencia.
-
-Los checos lograron un empate crucial 1-1 en su visita al **Stuttgart**, con una gran anotación de tiro libre de Kaan Kairinen.
-
-El Sparta Praga se encuentra en la **décima posición** con cuatro puntos.
-
-![Angelo Preciado durante el precalentamiento del Sparta Praga en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-01T131405.905-1024x683.jpg)
-
-**Willian Pacho sufre su primera derrota**
-------------------------------------------
-
-**Willian Pacho y el París Saint-Germain** se llevaron una dolorosa derrota, la primera de la temporada y en la competencia. El conjunto parisino cayó 0-2 ante el Arsenal en el Emirates Stadium, en Inglaterra.
-
-Aunque Pacho tuvo cierta complicidad en el primer gol por un error de marcaje, el ecuatoriano **mejoró notablemente su actuación** y fue clave en varios momentos del partido.
-
-El París Saint-Germain está en la **decimonovena posición** con tres puntos.
-
-![Willian Pacho junto con la plantilla del París Saint-Germain en la Uefa Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-01T154535.073-1024x683.jpg)
-
-Piero Hincapié suma su segunda victoria
----------------------------------------
-
-El **Bayer Leverkusen de Piero Hincapié** está llamado a ser uno de los protagonistas de esta Champions League, y lo está demostrando. Los ‘farmacéuticos’ lograron una importante victoria por 1-0 ante el AC Milan en Alemania.
-
-Hincapié fue titular y **estuvo muy cerca de marcar su primer gol en la Champions** League, pero Mike Maignan le negó el grito con una gran atajada. Como de costumbre, el defensor mostró solidez en la zaga.
-
-El Bayer Leverkusen ocupa la **cuarta posición** con seis puntos.
-
-![Piero Hincapié en la Bundesliga con el Bayer Leverkusen en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_piero_1-1024x683.jpg)
-
-Joel Ordóñez suma sus primeros puntos
--------------------------------------
-
-**Joel** **Ordóñez**, nuevamente titular con el Club Brujas, tuvo una destacada actuación en la victoria por 1-0 sobre el Sturm Graz del fútbol austríaco.
-
-Gracias a esta primera victoria en la Champions League, el conjunto belga escaló posiciones y **se ubica en el puesto 21**, con tres unidades.
-
-![Joel Ordóñez con el Club Brujas en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/ordonez_gol_1-1024x683.jpg)
-
-Dragonas Independiente debuta en la Copa Libertadores Femenina
-==============================================================
-
-Dragonas Independiente representará a Ecuador en la Copa Libertadores Femenina 2024 en Paraguay.
-------------------------------------------------------------------------------------------------
-
-![Karen Páez (c) es una de las figuras de Dragonas Independiente en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_1.jpg)
-
-Dragonas Independiente, **club que representa al Independiente del Valle de Ecuador**, comandadas por el técnico colombiano Gustavo Pineda, debutará el próximo viernes 4 de octubre de 2024, contras las experimentadas jugadoras de Ferroviaria, de Brasil, en la Copa Libertadores Femenina de Paraguay.
-
-El equipo ecuatoriano alcanzó, el pasado 21 de septiembre, su **primer título de la Superliga Femenina** al mando de Pineda, que llegó a comienzo de año desde el América de Cali, después de que el equipo de Quito había perdido las finales de 2022 contra Ñañas y en 2023 frente a Barcelona Sporting Club.
-
-### Más noticias:
-
-* [Sergio Busquets apoya una posible huelga de futbolistas](https://www.elcomercio.com/deportes/futbol/sergio-busquets-apoya-una-posible-huelga-de-futbolistas.html "Sergio Busquets apoya una posible huelga de futbolistas")
-* [Keny Arroyo brilla en Independiente del Valle y la Liga Pro](https://www.elcomercio.com/deportes/futbol/keny-arroyo-brilla-en-independiente-del-valle-y-la-liga-pro.html "Keny Arroyo brilla en Independiente del Valle y la Liga Pro")
-* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
-
-Las Dragonas resultaron imparables de principio a fin en el reciente torneo, **adjudicándose de manera invicta el título contra Barcelona de Guayaquil**, ganándole los dos partidos y dejando en claro que buscará los mejores resultados en la próxima Libertadores de Paraguay.
-
-Dragonas Independiente y sus refuerzos
---------------------------------------
-
-Pineda armó su equipo con la experimentada defensa paraguaya Verónica Riveros; **las volantes, la argentina Claudia Roldán**, la brasileña Larissa Nunes y la goleadora colombiana Karen Páez.
-
-Con ellas y el buen funcionamiento colectivo alcanzado, logró ensamblar un equipo con gran solvencia defensiva y efectividad sobre el arco contrario, **donde se destacaron durante la temporada local**, la ecuatoriana Nayely Bolaños y la colombiana Páez.
-
-Las grandes ausentes en Paraguay serán Ambar Torres y María Bravo, que se **recuperan de las cirugías a las que se sometieron** debidos a las lesiones sufridas, pero las Dragonas se han reforzado, para la Libertadores, con Rosa Miño y Naomy Gómez, de Las Guerreras Albas.
-
-Si bien, para Dragonas será el debut en el torneo sudamericano, su entrenador Pineda, **buscará la revancha de la Libertadores** que perdió en la final de 2020 con el América de Cali precisamente contra Ferroviaria, equipo brasileño que también ganó el título de 2015.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_2-1024x683.jpg)
-
-Foto: Facebook del club.
-
-Calendario del grupo C
-----------------------
-
-### Viernes 4/10
-
-20:00 Ferroviária vs. Dragonas Independiente
-
-Estadio: Arsenio Erico, Asunción
-
-### Lunes 7/10
-
-20:00 Dragonas Independiente vs. Santa Fe
-
-Estadio: Arsenio Erico, Asunción
-
-### Jueves 10/10
-
-17:30 Dragonas Independiente VS. Peñarol
-
-Estadio: CARFEM, Ypané
-
-Campeonas de la Copa Libertadores Femenina
-------------------------------------------
-
-2009: Santos (Brasil)
-
-**2010: Santos (Brasil)**
-
-2011: Sao José (Brasil)
-
-**2012: Colo-Colo (Chile)**
-
-2013: Sao Jorge (Brasil)
-
-**2014: Sao Jorge (Brasil)**
-
-2015: Ferroviária (Brasil)
-
-**2016: Sportivo Limpeño (Paraguay)**
-
-2017: Audax/Corinthians (Brasil)
-
-**2018: Atlético Huila (Colombia)**
-
-2019: Corinthians (Brasil)
-
-**2020: Ferroviária (Brasil)**
-
-2021: Corinthians (Brasil)
-
-**2022: Palmeiras (Brasil)**
-
-2023: Corinthians (Brasil)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_3-1024x683.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Así luce el río Amazonas ante devastadora sequía
-================================================
-
-Los niveles del río Amazonas estuvieron en descenso desde meses anteriores y este comportamiento.
--------------------------------------------------------------------------------------------------
-
-![Sequía en el río Amazonas.](https://www.elcomercio.com/wp-content/uploads/2024/10/rio-amazonas-tiempo.jpg)
-
-El director general de la **Unidad Nacional** para la **Gestión del Riesgo de Desastres (UNGRD),** Carlos Carrillo Arenas, lideró una **comisión técnica** de emergencia en el Amazonas debido a la grave [sequía](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html") que enfrenta el departamento. Esto genera una **disminución del 80 % de la lámina de agua** del río Amazonas.
-
-### Más noticias
-
-* [Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?](https://www.elcomercio.com/actualidad/negocios/colombia-suspende-venta-energia-ecuador-motivos.html "Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?")
-* [Este es el país más caro de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "Este es el país más caro de América Latina para vivir")
-* [Racionamientos de agua en Bogotá se deben a la reducción en los niveles de reservorios](https://www.elcomercio.com/actualidad/mundo/racionamientos-agua-bogota-reduccion-niveles-reservorios.html "Racionamientos de agua en Bogotá se deben a la reducción en los niveles de reservorios")
-
-El funcionario y su equipo técnico realizaron un **reconocimiento del estado del río**, recorriendo los puntos críticos, uno de ellos ubicado en el **municipio de Puerto Nariño**, donde se inspeccionó el río Loretoyaco, un brazo del Amazonas.
-
-La sequía interrupción su **conexión con el lago de Tarapoto,** afectando a los delfines rosados y al abastecimiento de agua para cerca de 10 comunidades indígenas, con una población de 3 000 personas.
-
-Actualmente las regiones de Amazonia**, occidente de la Orinoquia, Andina**, sur del Caribe y sur del Pacífico presentan déficit de lluvias por encima del 60 %; incluso el sur de la Amazonía está entre el 60 % y 80 %, de acuerdo con el Ideam.
-
-Además, los niveles del **río Amazonas estuvieron en descenso** desde meses anteriores y este comportamiento, aunque es típico en esta época del año, estuvo más acentuado que en años anteriores para el mes de agosto.
-
-Luego de un extenso **recorrido por el afluente,** la visita a las comunidades indígenas y la realización del Consejo Departamental de Gestión del Riesgo, el director de la UNGRD se comprometió a implementar acciones inmediatas para atender la emergencia causada por la sequía.
-
-Las primeras medidas incluyen la **entrega de motobombas y mangueras** para garantizar el suministro de agua en los territorios indígenas, hoy aislados por los bajos niveles del afluente.
-
-“Nuestra atención inmediata comienza con la entrega de **motobombas y mangueras,** y esperamos la estructuración del Plan de Acción Específico (PAE) para entregar tanques, plantas potabilizadoras portátiles y motobombas a presión para 11 comunidades indígenas aisladas. Además, iniciaremos un contrato de exploración técnica de fuentes subterráneas”, dijo Carrillo.
-
-El funcionario se comprometió a **brindar asistencia técnica al departamento para la elaboración** del Plan de Acción Específico (PAE), la Evaluación de Daños y Análisis de Necesidades (EDAN), el Registro Único de Damnificados (RUD) y la posible entrega de Asistencia Humanitaria de Emergencia, tanto alimentaria como no alimentaria.
-
-“Vamos a modificar la resolución que estandariza los kits de Asistencia Humanitaria de Emergencia Alimentaria, porque en el Amazonas hay una particularidad, los **granos y las legumbres** que se entregan normalmente se pierden, vamos a reemplazar estos productos por otros que se adapten al Plan de Alimentación Escolar del territorio”, concluyó el director.
-
-Shakira no incluye a Ecuador en su gira y los fans reaccionan en Instagram 
-===========================================================================
-
-Shakira anunció su gira mundial Las Mujeres Ya No Lloran y hasta el momento Ecuador no está incluido.
------------------------------------------------------------------------------------------------------
-
-![La noticia de que Ecuador no está incluido en el itinerario de la gira ha generado reacciones mixtas. Foto: www.thebostoncalendar.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/Shakira-gira-instagram.jpg)
-
-La icónica cantante colombiana **Shakira** ha anunciado oficialmente su tan esperada gira mundial **Las Mujeres Ya No Lloran**.  
-
-### Más noticias
-
-* [Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html") 
-* [(Video) Shakira enfrentó un incómodo momento en club de Miami](https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html?source=Internal&ref=Single+Content+Link") 
-
-El anuncio ha generado una **gran expectación** entre sus seguidores, quienes han esperado ansiosamente el **regreso de Shakira a los escenarios** desde su última gira en 2018. La gira incluirá fechas en México, Brasil, Argentina, Chile y Colombia, según [El Mundo](https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html "https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html"). 
-
-**Ecuador queda fuera de la gira de Shakira** 
-----------------------------------------------
-
-A pesar de la emoción generalizada, la noticia de que **Ecuador, hasta el momento, no está incluido en el itinerario de la gira** ha generado una ola de reacciones mixtas entre los fanáticos ecuatorianos. Muchos seguidores expresaron su decepción en redes sociales, al lamentar que su país no forme parte de esta celebración musical. 
-
-**Reacciones de los fans en Instagram** 
-----------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAoNOakvALb/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAoNOakvALb/?utm_source=ig_embed&utm_campaign=loading)
-
-Las **redes sociales** se llenaron rápidamente de comentarios de **fans ecuatorianos.** Algunos expresaron su tristeza y frustración, mientras que otros mostraron su apoyo incondicional a la artista. 
-
-En el [**Instagram de EL COMERCIO**](https://www.instagram.com/p/DAoNOakvALb/?img_index=1 "https://www.instagram.com/p/DAoNOakvALb/?img_index=1"), varias personas reaccionaron ante la noticia. Algunos, apesadumbrados, comentaron: \*no viene a Ecuador 😭”; “Tocó ir a Medellín, que tristeza 😍”. 
-
-Otros relacionaron la noticia con la **coyuntura actual del país y los apagones**: “No hay ni luz y esperan que haya conciertos 😢”; “Muy sensato no en Ecuador……será a capela y a la luz de la luna o de las velas 🤭”; “y para q va a venir a ecuador si nooo hay luz”. 
-
-En otros comentarios, recordaron el famoso mix de **Shakira y Bizarrap** dedicado a su **ex Piqué**, especialmente la parte en la que canta: “Las mujeres ya no lloran, las mujeres facturan,” que da nombre al tour: “Mejor que facture en otro lado 😂😂”; “Traigan a Pike y la @kingsworld #kingsleague eso si vale la pena”. 
-
-Entre los más creativos, algunos fans aludieron a que **Shakira**, en su pasado menos ‘famoso’, cuando despuntaba con canciones como **Pies descalzos**, sí había pasado por Ecuador: “Cuando tenías los pies descalzos jajaja buena michimercio 👏”; “Cuando era patallucha????😂😂😂”. 
-
-**Un tour que promete ser inolvidable** 
-----------------------------------------
-
-La gira **Las Mujeres Ya No Lloran** promete ser un evento inolvidable, con una producción de alta calidad y **un repertorio que incluirá tanto los nuevos éxitos de Shakira como sus clásicos más queridos**. La cantante ha trabajado arduamente para ofrecer u**n espectáculo que celebre la fuerza y la resiliencia de las mujeres**, un tema central en su último álbum. 
-
-16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador
-========================================================================
-
-De los 16 binomios presidenciales inscritos, cuatro ya fueron calificados y de uno se negó la calificación y la inscripción para las elecciones 2025.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El CNE cerró una etapa más en el proceso para las elecciones 2025 con 16 binomios presidenciales inscritos.](https://www.elcomercio.com/wp-content/uploads/2024/05/votaciones.jpg)
-
-El **Consejo Nacional Electoral (CNE)** cerró la etapa de inscripción de candidaturas para las **elecciones 2025** en Ecuador, este miércoles 2 de octubre de 2024, a las 18:00, con **16 binomios presidenciales inscritos**[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador))
-
-**De los 16 binomios presidenciales inscritos, cuatro ya fueron calificados y de uno se negó la calificación y la inscripción.**
-
-### Más noticias:
-
-* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
-* [Paridad es un requisito para la inscripción en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "Paridad es un requisito para la inscripción en las elecciones 2025")
-
-El **9 de febrero de 2025**, los ecuatorianos elegirán **Presidente y Vicepresidente de la República, asambleístas y parlamentarios andinos**.
-
-A las 18:54 de este miércoles, el CNE emitió un reporte preliminar con el número de listas inscritas por dignidad.
-
-Para asambleístas nacionales, se inscribieron 16 listas y, para parlamentarios andinos, 15 listas.
-
-Además, para asambleístas por el exterior están 32 listas, y provinciales y por circunscripción 463.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-4.png)
-
-Fuente y elaboración: CNE
-
-16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador
-------------------------------------------------------------------------
-
-El último binomio en inscribirse fue el de Pachakutik, con Leonidas Iza y Katiuska Molina.
-
-Lo hizo a través de un acto simbólico en el CNE y luego de forma virtual, para oficializar la candidatura.
-
-Las organizaciones políticas que inscribieron su binomio presidencial son: Creando Oportunidades (CREO), Acción Democrática Nacional (ADN).
-
-Además, Centro Democrático, Sociedad Patriótica, Unidad Popular, Partido Socialista, Revolución Ciudadana en alianza con Reto.
-
-Sociedad Unida Más Acción (SUMA), Democracia Sí, Construye, Movimiento Amigo/Acción Movilizadora Independiente, Generando Oportunidades.
-
-Izquierda Democrática (ID), Pueblo Igualdad Democracia (PID), Partido Social Cristiano (PSC), Avanza.
-
-Luego de la inscripción, el Pleno **del CNE califica cada una de las candidaturas.**
-
-La tarde de este miércoles, el Pleno del **CNE negó la candidatura del binomio conformado por Jimmy Jairala y Lucía Vallecilla**, de **Centro Democrático**.
-
-Jairala tiene 48 horas para subsanar los errores, pues no cumple con los requisitos legales establecidos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-3.png)
-
-Fuente y elaboración: CNE
-
-Cuatro de los 16 binomios presidenciales inscritos fueron calificados, uno tiene 48 horas para subsanar errores
----------------------------------------------------------------------------------------------------------------
-
-Hasta la tarde de este miércoles, el CNE había calificado a cuatro de los 16 binomios presidenciales inscritos.
-
-Estos son los binomios de: **Creando Oportunidades (CREO), Unidad Popular (UP), Sociedad Patriótica (SP) y Acción Democrática Nacional (ADN)**.
-
-Además, el Pleno del CNE negó la candidatura del binomio de **Centro Democrático (CD)** por errores en la declaración juramentada y falta de firma del secretario en el formulario.
-
-CD tiene 48 horas para subsanar estos errores.
-
-La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro
-=================================================================
-
-Con la renuncia de Henry Kronfle a la Asamblea Nacional, Viviana Veloz asumió la Presidencia y dejó una vacante en la Vicepresidencia.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Viviana Veloz luego de su posesión como nueva presidenta en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea-viviana.png)
-
-El cambio de mando en la **Asamblea Nacional** trae consigo una serie de **movimientos clave en la política** ecuatoriana. **Viviana Veloz**, de la bancada de la Revolución Ciudadana, asumió la presidencia del Legislativo en reemplazo del socialcristiano **Henry Kronfle** este 2 de octubre de 2024.
-
-### Más noticias
-
-* [Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?](https://www.elcomercio.com/actualidad/politica/henry-kronfle-renuncia-presidencia-asamblea-quien-lo-reemplazo.html "Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?")
-* [Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html "Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro")
-* [Henry Kronfle, en la recta final en la Asamblea, ¿y Daniel Noboa?](https://www.elcomercio.com/actualidad/politica/henry-kronfle-recta-final-asamblea-daniel-noboa.html "Henry  Kronfle, en la recta final en la Asamblea, ¿y Daniel Noboa?")
-
-No obstante, este relevo no será el único cambio importante. La **vicepresidencia que dejará vacante Veloz** se ha convertido en el nuevo **foco de disputas entre diferentes fuerzas políticas**, ya que quien ocupe este puesto presidirá la Asamblea durante la campaña para las **elecciones generales de 2025**.
-
-> [#AsambleaInforma](https://twitter.com/hashtag/AsambleaInforma?src=hash&ref_src=twsrc%5Etfw)  
-> La presidenta de la Legislatura, Viviana Veloz, expresa su compromiso: “Juntos vamos a hacer de la Asamblea una institución en la que ciudadanos y ciudadanas se sientan representados y escuchados”  
->   
-> ▶️[https://t.co/tOqDS18Ttd](https://t.co/tOqDS18Ttd) [pic.twitter.com/Xjg26ti1Dy](https://t.co/Xjg26ti1Dy)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 2, 2024](https://twitter.com/AsambleaEcuador/status/1841528067379876175?ref_src=twsrc%5Etfw)
-
-Las apuestas de Construye y el PSC
-----------------------------------
-
-Los nombres de **Gabriel Bedón, del movimiento Construye, y Otto Vera, del Partido Social Cristiano (PSC)**, emergen como los principales candidatos para ocupar la vicepresidencia. Bedón fue propuesto por su bancada cuando se instaló la Asamblea en noviembre de 2023, y su figura vuelve a sonar con fuerza en este nuevo proceso.
-
-**Jorge Peñafiel**, asambleísta de Construye, destacó que la **mayoría de votos será determinante para elegir al nuevo vicepresidente**. Asimismo, confía en que Bedón tiene las cualidades necesarias para ocupar el cargo.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | El asambleísta de Construye Jorge Peñafiel afirma que propondrán al jefe de bancada, Gabriel Bedón, como candidato a la primera Vicepresidencia de la Asamblea. Esto, una vez que Henry Kronfle renuncie y su cargo sea asumido por la asambleísta Viviana Veloz. [pic.twitter.com/9VYy1trRLA](https://t.co/9VYy1trRLA)
-> 
-> — Ecuador Chequea (@ECUADORCHEQUEA) [October 1, 2024](https://twitter.com/ECUADORCHEQUEA/status/1841138107158040582?ref_src=twsrc%5Etfw)
-
-Por su parte, Otto Vera sostiene que el PSC, a pesar de ser la **tercera minoría en la Asamblea**, merece la vicepresidencia. Su partido ha visto disminuir su fuerza debido a los cambios de camiseta que ha promovido el oficialismo.
-
-Sin embargo, Vera considera que su **experiencia y la trayectoria de su partido** son razones suficientes para ocupar este puesto estratégico.
-
-Correísmo y alianzas políticas
-------------------------------
-
-El voto del correísmo será crucial en esta contienda. Aunque **Construye** ha mantenido una distancia estratégica con esta fuerza política. Lo mismo con el **Partido Social Cristiano**, quien en algunas votaciones **no ha apoyado al correísmo**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAoq2nIOhzx/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAoq2nIOhzx/?utm_source=ig_embed&utm_campaign=loading)
-
-Mientras tanto, la bancada correísta, que ya tiene asegurada la presidencia con Viviana Veloz, sigue evaluando las posibilidades. La capacidad d**e negociación de los socialcristianos y la habilidad de Construye** para sumar apoyos serán factores **determinantes en los próximos días**.
-
-La pugna del oficialismo
-------------------------
-
-Acción Democrática Nacional (ADN), la bancada oficialista, también tiene **planes para la vicepresidencia**. Aunque actualmente **controlan la segunda vicepresidencia con Eckener Recald**e, el oficialismo estaría dispuesto a ceder ese puesto si a cambio logran **quedarse con la primera vicepresidencia**.
-
-> 🟣COMUNICADO🟣[#PalenciaContraElNarco](https://twitter.com/hashtag/PalenciaContraElNarco?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/eoZity54sC](https://t.co/eoZity54sC)
-> 
-> — Bancada ADN (@BancadaADN) [October 1, 2024](https://twitter.com/BancadaADN/status/1841104097518256460?ref_src=twsrc%5Etfw)
-
-Los próximos días serán clave para definir el **futuro de la vicepresidencia de la Asamblea Nacional** y el equilibrio de **poder dentro del legislativo**, mientras las distintas fuerzas políticas intensifican su cabildeo para asegurar el control de este puesto estratégico.
-
-La votación para conocer al nuevo vicepresidente de la **Asamblea Nacional** se realizaría el viernes 4 de octubre de 2024.
-
-Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv
-================================================================================
-
-Los combatientes de la Resistencia Islámica dispararon este miércoles 2 de octubre de 2024, un misil balístico tipo 'Qader-1'.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Oficiales forenses israelíes inspeccionan el lugar de un tiroteo en Tel Aviv, Israel, el 1 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/751afd337398b6c31ec15ef1fc5f9f77d8ef66fe.jpg)
-
-El grupo chií libanés [Hezbolá](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html") aseguró este miércoles, 2 de octubre de 2024, que lanzó un misil de crucero contra la **sede del servicio de inteligencia israelí** Mosad a las afueras de Tel Aviv, en medio de una **escalada sin precedentes** desde el inicio de los enfrentamientos entre las partes hace casi un año.
-
-Más noticias
-------------
-
-* [Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán")
-* [Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá](https://www.elcomercio.com/actualidad/mundo/opiniones-divididas-sobre-muerte-lider-hezbola-hasan-nasrala.html "Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá")
-* [Los ataques de Israel contra el Líbano dejan ya casi 2 000 fallecidos](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-2-000-muertos.html "Los ataques de Israel contra el Líbano dejan ya casi 2 000 fallecidos")
-
-“Los **combatientes de la Resistencia Islámica** dispararon este miércoles 2 de octubre de 2024, un **misil balístico tipo ‘Qader-1’** contra el cuartel general de la comandancia del Mosad en los suburbios de Tel Aviv, responsable del asesinato de líderes”, indicó Hizbulá en un comunicado. 
-
-Ataque terrorista en Tel Aviv
------------------------------
-
-Al menos cuatro personas murieron en un **tiroteo realizado por dos supuestos terroristas** el martes, 2 de octubre de 2024, en el barrio de Jaffa, cerca de la estación de tranvía al sur de Tel Aviv, en el que resultaron heridos además siete personas, según informó un portavoz de la Policía israelí.
-
-El portavoz indicó que hubo **cuatro civiles muertos** por los disparos de dos terroristas, en Sderot Yerushalim, en Tel Aviv, en un ataque en le que resultaron heridas siete personas con diferente grado de gravedad.
-
-La fuente añadió que “**ambos terroristas fueron neutralizados en el lugar**” y que hay un gran despliegue de seguridad en el lugar realizando registros en busca de “amenazas adicionales”.
-
-El comisionado de policía R.N.C. Danny Levy se encuentra en el lugar junto con el comando del distrito de Tel Aviv.
-
-El ataque se produjo minutos antes de que **saltaran las alarmas en Israel** por el ataque con misiles desde Irán, que ha llevado a las autoridades israelíes a llamar a la población a refugiarse en bunkers para protegerse de la acción militar.
-
-Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos 
-=======================================================
-
-El uso de 'cracks' y 'cheats' en videojuegos puede comprometer la seguridad digital.
-------------------------------------------------------------------------------------
-
-![Los ‘cracks’ eliminan restricciones en juegos y software, y los ‘cheats’ otorgan ventajas en el ‘gameplay’. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cracks-cheats-videojuegos.jpg)
-
-En el **mundo de los videojuegos**, la tentación de usar **‘cracks’ y ‘cheats’** es grande. Estos programas prometen **desbloquear contenido ‘premium’ o proporcionar ventajas injustas**. Sin embargo, los riesgos asociados con su uso son significativos y pueden **comprometer tanto la seguridad de tu dispositivo como tu información personal**. 
-
-### Más noticias
-
-* [Historia y evolución de Nintendo en sus 135 años de historia](https://elcomercio.com/games/nintendo-videojuegos-historia-hanafuda.html "https://elcomercio.com/games/nintendo-videojuegos-historia-hanafuda.html") 
-* [¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer!](https://www.elcomercio.com/games/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html "https://www.elcomercio.com/games/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html") 
-
-**¿Qué son los ‘cracks’ y ‘cheats’?** 
---------------------------------------
-
-Los **cracks**, a decir de [24 horas](https://www.24horas.cl/tendencias/videojuegos/los-riesgos-de-usar-cheats-y-cracks-en-los-videojuegos "https://www.24horas.cl/tendencias/videojuegos/los-riesgos-de-usar-cheats-y-cracks-en-los-videojuegos"), son **programas que alteran archivos específicos de un juego o ‘software’** para eliminar restricciones, como la verificación de licencia. Por ejemplo, un ‘crack’ puede **modificar el archivo ejecutable principal de un juego** para que siempre devuelva un resultado positivo, y permitir así **jugar sin pagar**. 
-
-Por otro lado, los **‘cheats’** modifican archivos de configuración o introducen nuevos archivos en el sistema del juego para **otorgar ventajas**, como salud infinita o munición ilimitada, según la página [Delfino](https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos "https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos"). 
-
-**Riesgos de seguridad** 
--------------------------
-
-Uno de los principales **riesgos de usar ‘cracks’ y ‘cheats’** es la posibilidad de **infectar un dispositivo con ‘malware’ (programas maliciosos)**. Estos programas pueden ser vehículos para que **programas maliciosos se adueñen de un PC**, comprometiendo la **seguridad digital.** 
-
-Los **antivirus** suelen detectar estos programas como maliciosos debido a su comportamiento similar al de ciertos tipos de ‘malware’, que también modifican archivos ejecutables benignos para insertar su propio código, de acuerdo con [Welivesecurity](https://www.welivesecurity.com/es/seguridad-digital/el-riesgo-usar-cracks-y-cheats/ "https://www.welivesecurity.com/es/seguridad-digital/el-riesgo-usar-cracks-y-cheats/").  
-
-**Martina López**, investigadora de Seguridad Informática de ESET Latinoamérica, explica: “Entendiendo el funcionamiento de este tipo de archivos, **un software de protección** los detectaría como **códigos maliciosos** sin importar si realiza o no acciones dañinas. Tanto la modificación de archivos críticos como la inyección de código en la memoria son técnicas que pueden ser utilizadas tanto por software legítimo como por ‘malware’. Sin embargo, **debido a su potencial para causar daño, estas técnicas suelen ser tratadas con sospecha por los programas ‘antimalware’**”. 
-
-**Robo de datos** 
-------------------
-
-Además del riesgo de ‘malware’, estos programas pueden ser utilizados para **robar datos sensibles**. Los **‘infostealers’**, un tipo de **‘malware’**, se infiltran en los dispositivos a través de estos programas y roban información personal, como contraseñas y datos bancarios, de acuerdo con [It.sitio](https://www.itsitio.com/co/seguridad/riesgos-cracks-cheats-videojuegos/ "https://www.itsitio.com/co/seguridad/riesgos-cracks-cheats-videojuegos/"). 
-
-**Consecuencias legales** 
---------------------------
-
-El uso de **‘cracks’ y ‘cheats’** también puede tener **consecuencias legales**. Las compañías de videojuegos están en una constante batalla contra los productores de estos programas. Por ejemplo, en enero de 2023, **Activision** ganó una demanda contra **EngineOwning**, un conocido proveedor de ‘cheats’ para juegos como **Call of Duty**, y se les ordenó pagar una compensación millonaria por daños, según informa [Delfino](https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos "https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos"). 
-
-**Impacto en la experiencia de juego** 
----------------------------------------
-
-El uso de **‘cheats’** no solo **afecta a la seguridad y legalidad**, sino también a la **experiencia de juego**. Los jugadores que usan estos programas **pueden ser baneados de plataformas de juego** en línea, y así perder acceso a sus cuentas y progresos. 
-
-**Alternativas seguras** 
--------------------------
-
-Para evitar los riesgos asociados, es recomendable **optar por alternativas legales**. Muchas plataformas de videojuegos **ofrecen descuentos y promociones que permiten acceder a juegos de manera asequible**. Además, existen **programas de recompensas y suscripciones** que ofrecen acceso a una amplia biblioteca de juegos por una tarifa mensual. 
-
-Cortes de luz en Quito para este jueves 3 de octubre
-====================================================
-
-Hasta este jueves 3 de octubre, los cortes de luz en Quito son de hasta 10 horas y tres franjas horarias. La reducción se aplicará desde el viernes.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este jueves 3 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-4.jpg)
-
-Los **cortes de luz** en **Quito** para este **jueves 3 de octubre** de 2024 son los mismos que han regido desde el pasado lunes, según la programación de la Empresa Eléctrica.
-
-Los cortes de luz serán de hasta **tres franjas horarias y diez horas** en la sumatoria total por sector.
-
-### Más noticias:
-
-* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
-* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
-
-Aunque el Gobierno de **Daniel Noboa** anunció la reducción de horas en los cortes de luz a escala nacional, esta disposición aún no está vigente.
-
-La disposición de la **reducción de horas va del viernes 4 al domingo 20 de octubre** de 2024.
-
-La reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
-
-Con esta medida, los cortes se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
-
-Mientras esto ocurre el viernes; **el jueves 3 de octubre, los cortes de luz se mantienen con los horarios establecidos** por las diferentes empresas de electricidad que existen en el país.
-
-Horarios y sectores de los cortes de luz en Quito para este jueves 3 de octubre
--------------------------------------------------------------------------------
-
-Los cortes de luz en Quito para este jueves se mantienen con 10 horas de suspensión en tres franjas horarias.
-
-Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epliclachima, Conocoto y Tumbaco tendrán cortes de luz **de 00:00 a 05:00 y de 12:00 a 17:00.**
-
-**De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00**, no contarán con luz los sectores de: La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero, El Obrajo (Machachi).
-
-**De 10:00 a 15:00 y de 20:00 a 00:00**, los sectores que tendrán cortes de luz son: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao e Inga Bajo.
-
-Doce sectores tendrán cortes **de 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00**. Estos son: Olímpico, Barrio Nuevo, El Bosque.
-
-Además, San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomasqui, El Quinche y Eugenio Espejo.
-
-**De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00**, los sectores que no tendrán luz son: Luluncoto, Chilibulo, Escuela Sucre, San Roque.
-
-Además, Granda Centeno, Río Coca, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.
-
-A continuación, el detalle de las franjas horarias por sectores:
-
-  
-
-Liga de Quito busca redimirse del fracaso ante El Nacional
-==========================================================
-
-Liga de Quito tiene una oportunidad de oro para redimirse de sus últimos tropiezos.
------------------------------------------------------------------------------------
-
-![Gabriel Villami y Alez Arce en un partido enter Liga de Quito y El Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T162939.912.jpg)
-
-**Liga de Quito** no está en su mejor momento. El cuadro capitalino pasó de dominar la Liga Pro y ser líder, a perder la punta y no ganar en sus últimos tres partidos, por lo que buscará revancha contra El Nacional.
-
-Cabe mencionar que los tres encuentros sin victoria fueron en la **Liga Pro**, mientras que este enfrentamiento ante el ‘Bi-Tri’ corresponde a los cuartos de final de la **Copa Ecuador.**
-
-### Más noticias:
-
-* [¿A qué hora juegan Liga y El Nacional en Copa Ecuador?](https://www.elcomercio.com/deportes/hora-liga-quito-el-nacional-copa-ecuador.html "¿A qué hora juegan Liga de Quito y El Nacional en Copa Ecuador?")
-* [Liga de Quito y El Nacional sin ventaja en los mano a mano](https://www.elcomercio.com/deportes/futbol/liga-quito-nacional-copa-ecuador.html "Liga de Quito y El Nacional sin ventaja en los mano a mano")
-* [Liga de Quito domina a El Nacional en títulos oficiales](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-titulos.html "Liga de Quito domina a El Nacional en títulos oficiales")
-
-Además, el partido estará cargado de una mayor rivalidad, ya que uno de los encuentros que Liga de Quito no ganó en el campeonato ecuatoriano fue justamente ante **El Nacional**, un empate en el Estadio Rodrigo Paz Delgado. Este es el momento perfecto para buscar venganza.
-
-Alineaciones Liga de Quito vs. El Nacional
-------------------------------------------
-
-### Liga de Quito
-
-**Arquero**: Alexander Domínguez
-
-**Defensas**: José Quintero, Ricardo Adé, Richard Mina y Leonel Quiñónez.
-
-**Mediocampistas**: Gabriel Villamil, Fernando Cornejo y Ezequiel Piovi. 
-
-**Delanteros**: Bryan Ramírez, Alex Arce y Luis Estupiñán. 
-
-> 💪 Alineación confirmada para esta tarde 💪  
->   
-> 🆚 [#LIGAElNacional](https://twitter.com/hashtag/LIGAElNacional?src=hash&ref_src=twsrc%5Etfw)  
-> 🏆 [#CopaEcuador](https://twitter.com/hashtag/CopaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/r7xb28K6jm](https://t.co/r7xb28K6jm)
-> 
-> — LDU Oficial (@LDU\_Oficial) [October 2, 2024](https://twitter.com/LDU_Oficial/status/1841583941012365616?ref_src=twsrc%5Etfw)
-
-### El Nacional
-
-**Arquero**: David Cabezas
-
-**Defensas**: Daniel Patiño, Rommel Cabezas, Anthony Bedoya,  y Fernando Mora
-
-**Mediocampistas**: Fidel Martínez, Marcos Olmedo, Luis Arce y Jorge Ordóñez, 
-
-**Delanteros**: Gabriel Cortez y Alejandro Cabeza. 
-
-> ¡Alineación titular del ÚNICO BITRICAMPEÓN! 🔴  
->   
-> ¡DALE ROJO! 💪  
->   
-> 🆚 [#LigaDeQuitoElNacional](https://twitter.com/hashtag/LigaDeQuitoElNacional?src=hash&ref_src=twsrc%5Etfw)  
-> 🏆 [#CopaEcuador](https://twitter.com/hashtag/CopaEcuador?src=hash&ref_src=twsrc%5Etfw)  
-> 🎽 Presentado por [@kaosportec](https://twitter.com/kaosportec?ref_src=twsrc%5Etfw) [pic.twitter.com/SqXlSLG3Yv](https://t.co/SqXlSLG3Yv)
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [October 2, 2024](https://twitter.com/elnacionalec/status/1841585844794359890?ref_src=twsrc%5Etfw)
-
-Liga de Quito y su racha negativa
----------------------------------
-
-Después de una **contundente victoria de la ‘U’ sobre Barcelona SC** por 3-0, y antes del parón por la fecha FIFA, el equipo se encontraba en su mejor momento, invicto y con ventaja en la cima de la tabla.
-
-Pero tras las eliminatorias sudamericanas, comenzó el declive de la escuadra capitalina. En la jornada siguiente, sorpresivamente, fue goleado por **Imbabura**, uno de los equipos que lucha por no descender.
-
-La ‘U’ **cayó 4-0 en su visita a Ibarra**.
-
-Después, **Liga de Quito recibió a El Nacional** en el Estadio Rodrigo Paz Delgado y nuevamente dejó puntos en el camino. Los locales igualaron 1-1 con el conjunto militar.
-
-Su último fracaso fue en la octava fecha de la Liga Pro. El equipo de Pablo ‘Vitamina’ Sánchez **visitó a Delfín en el Jocay de Manta y perdió 3-2**, con tres penales en contra.
-
-Detalles del partido de Copa Ecuador
-------------------------------------
-
-**Partido**: El Nacional vs. Liga de Quito.
-
-**Fecha**: miércoles 2 de octubre del 2024.
-
-**Hora**: 17:00.
-
-**Estadio**: Rodrigo Paz Delgado.
