@@ -50,21 +50,9 @@ Bring your AI clone to a simulation platform](https://chirper.ai/)[uSlap
 
 Take your voice and personality data to a motivational app](https://uslap.ai/home)
 
-Developers
+[Start Building](https://build.vana.org/)
 
-Developers
-
-[Run a validator
-
-Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a DLP
-
-Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[Docs
-
-Learn more about Vana and user-owned AI](http://docs.vana.org/)[Request a dataset
-
-Looking for a dataset? Fill out this form to let the community know](https://usevana.typeform.com/to/ne8x3wsf)
-
-[About](https://www.vana.com/why)
+[Why](https://www.vana.com/why)
 
 [Blog](https://www.vana.com/post)
 
@@ -180,7 +168,7 @@ Request a dataset
 
 Looking for a dataset? Fill out this form to let the community know](https://usevana.typeform.com/to/ne8x3wsf)
 
-[Ecosystem](#)[Developers](#)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
+[Ecosystem](#)[Start Building](https://build.vana.org/)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
 
 Terms & Conditions
 ==================
