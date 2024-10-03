@@ -55,7 +55,7 @@ Cancel
 
 Last Updated: September 17, 2024
 
-**These Terms of Use are effective immediately for Care.com users who first visit or join on or after September 17, 2024, and on October 18, 2024 for all other users.  To access the Terms of Use that remain in effect until October 18, 2024 for users who joined before September 17, 2024, please click here.**
+**These Terms of Use are effective immediately for Care.com users who first visit or join on or after September 17, 2024, and on October 18, 2024 for all other users.  To access the Terms of Use that remain in effect until October 18, 2024 for users who joined before September 17, 2024, please [click here](#march-2024).**
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -489,7 +489,7 @@ Austin, TX 78701
 
 Last Updated: March 5, 2024
 
-**These Terms of Use are effective immediately for Care.com users who first visit or join on or after March 5, 2024, and on April 15, 2024 for all other users. To access the Terms of Use that remain in effect until April 15, 2024 for members who joined before March 5, 2024, please [click here](#April-15-TOU).**
+**These Terms of Use are effective immediately for Care.com users who first visit or join on or after March 5, 2024, and on April 15, 2024 for all other users.** 
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
