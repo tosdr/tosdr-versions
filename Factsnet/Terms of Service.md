@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Muslim Conquest Of Persia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/40-facts-about-muslim-conquest-of-persia/)
+[![50 Facts About Duodenal Atresia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-duodenal-atresia/)
 
-Historical Events
+Health Science
 
-02 Oct 2024
+03 Oct 2024
 
-[40 Facts About Muslim Conquest Of Persia](https://facts.net/history/historical-events/40-facts-about-muslim-conquest-of-persia/)
+[50 Facts About Duodenal Atresia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-duodenal-atresia/)
 
-[![40 Facts About John Ashton ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-john-ashton/)
+[![40 Facts About Bunsenite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-bunsenite/)
 
-Celebrity
+Earth Sciences
 
-02 Oct 2024
+03 Oct 2024
 
-[40 Facts About John Ashton](https://facts.net/celebrity/40-facts-about-john-ashton/)
+[40 Facts About Bunsenite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-bunsenite/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
