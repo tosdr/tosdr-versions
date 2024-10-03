@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/amazone-indianen-berooft-van-hun-habitat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/pfizer-heeft-onschendbaarheid-waarom/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
