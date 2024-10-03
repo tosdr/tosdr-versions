@@ -5,7 +5,7 @@
 Main navigation
 ---------------
 
-* [orgasm day](https://www.lelo.com/discount-and-deals)
+* [prime deals](https://www.lelo.com/discount-and-deals)
 * [Best Selling Sex Toys](https://www.lelo.com/bestsellers)
 * [Sex Toys for Women](https://www.lelo.com/sex-toys-for-women)
     * [VIEW ALL PRODUCTS](https://www.lelo.com/sex-toys-for-women)
@@ -71,7 +71,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/privacy-policy)
 * [한국어](https://www.lelo.com/ko/privacy-policy)
 
-ORGASM DAY: UP TO 40% OFF \+ EXTRA 10% WITH COUPON ORGASM
+PRIME DEALS: UP TO 50% OFF + A FREE TOY
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
