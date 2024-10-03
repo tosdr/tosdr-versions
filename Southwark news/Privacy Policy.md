@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+    
+    ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+    
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+    
+    ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+    
+    [![Ryan Wintle enters the Den ahead of Millwall's game against Preston North End. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-882-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    
+    ### [Neil Harris ‘delighted’ by surprise availability of loan signing](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    
     [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
     
     ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
@@ -38,22 +54,6 @@
     [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
     
     ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    [![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-360x180.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-    
-    ### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
-    
-    ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
-    
-    [![Romain Esse is dragged back by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-444262-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
-    
-    ### [Neil Harris discusses on-field argument between Millwall pair](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
+    
+    [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+    
+    ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+    
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+    
+    ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+    
+    [![Ryan Wintle enters the Den ahead of Millwall's game against Preston North End. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-882-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    
+    ### [Neil Harris ‘delighted’ by surprise availability of loan signing](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+    
     [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
     
     ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
@@ -118,22 +134,6 @@ View All Result
     [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
     
     ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    [![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-360x180.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-    
-    ### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
-    
-    ### [TfL today holding drop-in sessions on plans to scrap bus route from Elephant and Castle](https://southwarknews.co.uk/area/camberwell/tfl-today-holding-drop-in-sessions-on-plans-to-scrap-bus-route-from-elephant-and-castle/)
-    
-    [![Romain Esse is dragged back by a Cardiff City defender. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-444262-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
-    
-    ### [Neil Harris discusses on-field argument between Millwall pair](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-lions-duo-passion-after-they-get-into-on-field-argument/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -374,6 +374,24 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+
+### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+
+[3rd October 2024](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/lin-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
+
+### [Neighbourhood has become ‘rat run’ for ‘hyena’ phone thieves who video their victims as ‘trophies’, say Rotherhithe residents](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
+
+[3rd October 2024](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
+
+[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+
+### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+
+[3rd October 2024](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
+
 [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
 
 ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
@@ -391,24 +409,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 [2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-[![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-
-### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-
-[![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-
-### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-
-[![credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/10/Stock-logo-fire-engine_cropped-120x86.jpg)](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-
-### [Fire in Nunhead causes damage to two flats but ‘no injuries’](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/nunhead/fire-in-nunhead-causes-damage-to-two-flats-but-no-injuries/)
 
 ### USEFUL PAGES
 
