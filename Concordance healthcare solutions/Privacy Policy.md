@@ -9,9 +9,13 @@
 
 [Search & Order Products](https://b2b.concordancehealthcare.com/wps/portal/en/login/)
 
+[HCS](https://www.concordancehealthcare.com/hcs-medical-products)
+
 [Get A Quote](https://www.concordancehealthcare.com/request-a-quote-for-medical-supplies-upload-option)
 
 [Search & Order Products](https://b2b.concordancehealthcare.com/wps/portal/en/login/)
+
+[HCS](https://www.concordancehealthcare.com/hcs-medical-products)
 
 [Get A Quote](https://www.concordancehealthcare.com/request-a-quote-for-medical-supplies-upload-option)
 
