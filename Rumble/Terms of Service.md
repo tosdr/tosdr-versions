@@ -446,133 +446,117 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-158K](https://rumble.com/v5hatp8-the-deep-state-strikes-back-after-the-disastrous-debate-ep.-2342-10032024.html "The Dan Bongino Show")
-
-[Tate Speech by Andrew Tate
-
-15.3K](https://rumble.com/v5hb1gb-emergency-meeting-episode-79-positive-energy.html "Tate Speech by Andrew Tate")
-
 [Bannons War Room
 
-12.9K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-5.95K](https://rumble.com/v5h9v0r-badlands-daily-thursday-october-3-2024.html "Badlands Media")
+6.96K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
 [NEWSMAX
 
-4.43K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+3.55K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[The Rubin Report
+[Drew Hernandez
 
-2.46K](https://rumble.com/v5hb2ld-charlamagne-tha-god-gets-quiet-when-republican-shows-him-receipts.html "The Rubin Report")
-
-[Due Dissidence
-
-929](https://rumble.com/v5h8gyq-ta-nehisi-coates-schools-host-on-israel-jose-vega-disrupts-krugman-trump-le.html "Due Dissidence")
-
-[Geeks + Gamers
-
-338](https://rumble.com/v5hb0f1-hollywood-admits-disney-star-wars-sucks-rachel-zegler-keeps-attacking-fans.html "Geeks + Gamers")
+1.55K](https://rumble.com/v5hb1wc-trump-rally-michigan-and-kamala-enabled-woman-abuser.html "Drew Hernandez")
 
 [Lofi Girl
 
-327](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+345](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[barstoolsports
+[Nitrocross
 
-316](https://rumble.com/v5havnx-the-unnamed-show-with-dave-portnoy-kirk-minihane-ryan-whitney-episode-31.html "barstoolsports")
-
-[Dave Portnoy
-
-202](https://rumble.com/v5havnx-the-unnamed-show-with-dave-portnoy-kirk-minihane-ryan-whitney-episode-31.html "Dave Portnoy")
-
-[Mostly Sports With Mark Titus and Brandon Walker
-
-114](https://rumble.com/v5h84m5-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
-
-[Mike Crispi
-
-95](https://rumble.com/v5haihe-kamala-says-fema-is-out-of-money....html "Mike Crispi")
+54](https://rumble.com/v5g7yt7-nitrocross-2425-salt-lake-city-press-conference-utah-motorsports-campus.html "Nitrocross")
 
 [Major League Fishing
 
 1](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
 
 [Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
 [After Skool](https://rumble.com/c/AfterSkool "After Skool")
 
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
 
 [A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
-
 [Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
 
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
 
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
 
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+
+[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
+
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
 [Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
-
-[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
 ### Theme
 
