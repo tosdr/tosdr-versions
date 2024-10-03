@@ -26,57 +26,105 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mayorkas-1200x630.jpg)](https://americanwirenews.com/mayorkas-says-fema-doesnt-have-enough-funds-for-hurricane-season-after-nearly-1-billion-given-to-illegals-report/)
 
-[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[Mayorkas says FEMA doesn’t have enough funds for hurricane season after nearly 1 BILLION given to illegals](https://americanwirenews.com/mayorkas-says-fema-doesnt-have-enough-funds-for-hurricane-season-after-nearly-1-billion-given-to-illegals-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-texas-el-paso-migrants-1200-x-628-1200x630.jpg)](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-helicopter-rescue-1200x630.jpg)](https://americanwirenews.com/rep-waltz-questions-pentagon-for-not-greenlighting-help-for-helene-victims-could-be-up-there-now-saving-lives/)
 
-[GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
+[Rep. Waltz questions Pentagon for not greenlighting help for Helene victims: ‘Could be up there now saving lives’](https://americanwirenews.com/rep-waltz-questions-pentagon-for-not-greenlighting-help-for-helene-victims-could-be-up-there-now-saving-lives/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-and-doug-emhoff-1200x630.jpg)](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rescue-effort-1200x630.jpg)](https://americanwirenews.com/volunteer-pilot-conducting-successful-rescue-missions-in-nc-says-he-was-stopped-threatened-with-arrest/)
 
-[Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
+[Volunteer pilot conducting successful rescue missions in NC says he was stopped, threatened with arrest](https://americanwirenews.com/volunteer-pilot-conducting-successful-rescue-missions-in-nc-says-he-was-stopped-threatened-with-arrest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-1200x630.jpg)](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/maricopa-county-jail-kaci-sloan-1200x630.jpg)](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
 
-[Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
+[Arizona student who stabbed ‘easy target’ on campus has attempted murder charges dismissed](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-1200x630.jpg)](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kaepernick-1200x630.jpg)](https://americanwirenews.com/kaepernick-raises-red-flags-when-he-surfaces-with-new-kids-book/)
 
-[‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
+[Kaepernick raises red flags when he surfaces with new kids book](https://americanwirenews.com/kaepernick-raises-red-flags-when-he-surfaces-with-new-kids-book/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1200x630.jpg)](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-mika-brzezinski-kamala-harris-split-1200x630.jpg)](https://americanwirenews.com/mika-brzezinski-urges-kamala-to-unleash-her-surrogates-all-over-maga-tv-to-reach-the-uninformed/)
 
-[Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
+[Mika Brzezinski urges Kamala to unleash her surrogates all over ‘MAGA TV’ to reach the uninformed](https://americanwirenews.com/mika-brzezinski-urges-kamala-to-unleash-her-surrogates-all-over-maga-tv-to-reach-the-uninformed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joy-reid-1200x630.jpg)](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nancy-pelosi-1200x630.jpg)](https://americanwirenews.com/gaslighting-pelosi-blames-trump-for-stronger-iran/)
 
-[Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
+[Gaslighting Pelosi blames Trump for stronger Iran](https://americanwirenews.com/gaslighting-pelosi-blames-trump-for-stronger-iran/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melaniafox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Merrick-Garland-1200x630.jpg)](https://americanwirenews.com/gop-demands-answers-from-garland-on-inaccurate-voter-rolls-accuse-doj-of-inaction-and-stonewalling-information/)
 
-[Melania Trump’s sit-down interview with Sean Hannity, part one](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
+[GOP demands answers from Garland on inaccurate voter rolls, accuse DOJ of ‘inaction’ and stonewalling information](https://americanwirenews.com/gop-demands-answers-from-garland-on-inaccurate-voter-rolls-accuse-doj-of-inaction-and-stonewalling-information/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melber-sondland-1200x630.jpg)
 
-### Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
+### Star impeachment witness AGAINST Trump stuns MSNBC host with his presidential pick: ‘It’s a yes for you?!’](https://americanwirenews.com/star-impeachment-witness-against-trump-stuns-msnbc-host-with-his-presidential-pick-its-a-yes-for-you/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [‘The government ain’t coming to save you’: North Carolina woman delivers urgent call to Americans](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
+### [Biden won’t use his authority to halt union dock worker strike; union boss who threatened to cripple America has one helluva shady past](https://americanwirenews.com/biden-wont-use-his-authority-to-halt-union-dock-worker-strike-union-boss-who-threatened-to-cripple-america-has-one-helluva-shady-past/)
 
-### [Consequential demographic still fleeing Calif and NY for red states by the thousands](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
+### [CNN anchor Christiane Amanpour says Iran ‘doesn’t want conflict’ even as missiles rained on Israel](https://americanwirenews.com/cnn-anchor-christiane-amanpour-says-iran-doesnt-want-conflict-even-as-missiles-rained-on-israel/)
 
-### [Longshoremen union boss slammed for fiery, threat-filled statement: ‘Things are about to get wild’](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
+### [Vivek floats gubernatorial run in state that shows him winning by a landslide](https://americanwirenews.com/vivek-floats-gubernatorial-run-in-state-that-shows-him-winning-by-a-landslide/)
 
-### [‘Bold move’: Spirit Halloween claps back at ‘SNL’ for premier spoof](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
+### [Walz pretends to look at pizza after debate to duck question on bizarre remark about befriending school shooters](https://americanwirenews.com/walz-pretends-to-look-at-pizza-after-debate-to-duck-question-on-bizarre-remark-about-befriending-school-shooters/)
 
-### [218,000 people in Ariz. who did not provide proof of citizenship will be allowed to vote, despite requirement](https://americanwirenews.com/218000-people-in-ariz-who-did-not-provide-proof-of-citizenship-will-be-allowed-to-vote-despite-requirement/)
+### [Biden-Harris DHS kept detention beds empty while transporting migrants throughout US](https://americanwirenews.com/biden-harris-dhs-kept-detention-beds-empty-while-transporting-migrants-throughout-us/)
 
-### [Man who claimed to have bomb at Trump rally makes a spectacle in court](https://americanwirenews.com/man-who-claimed-to-have-bomb-at-trump-rally-makes-a-spectacle-in-court/)
+### [Fox News’ Hume and Ingraham blast CBS debate moderators as ‘obnoxious,’ ‘smug and arrogant’](https://americanwirenews.com/fox-news-hume-and-ingraham-blast-cbs-debate-moderators-as-obnoxious-smug-and-arrogant/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-border-swanton-sector-220x180.jpg)](https://americanwirenews.com/meanwhile-illegal-crossings-at-us-northern-border-is-surging/)
+
+[Meanwhile, illegal crossings at US northern border is surging](https://americanwirenews.com/meanwhile-illegal-crossings-at-us-northern-border-is-surging/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sunny-hostin-220x180.jpg)](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
+
+[‘View’ co-hosts pump the brakes on Sunny Hostin’s INSANE Melania rant: ‘You don’t know all this!’](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Elon-1200-x-628-220x180.jpg)](https://americanwirenews.com/lawfare-costs-lives-biden-harris-fcc-revoked-grant-that-could-have-helped-save-lives-in-north-carolina/)
+
+[‘Lawfare costs lives’: Biden-Harris’ FCC revoked grant that could have helped save lives in North Carolina](https://americanwirenews.com/lawfare-costs-lives-biden-harris-fcc-revoked-grant-that-could-have-helped-save-lives-in-north-carolina/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melaniafox-1200-x-628-220x180.jpg)](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
+
+[Melania Trump’s sit-down interview with Sean Hannity, part one](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joy-reid-220x180.jpg)](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
+
+[Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-220x180.jpg)](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
+
+[Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-220x180.jpg)](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
+
+[‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-220x180.jpg)](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
+
+[Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-and-doug-emhoff-220x180.jpg)](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
+
+[Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-texas-el-paso-migrants-1200-x-628-220x180.jpg)](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
+
+[GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+
+[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
+
+[Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-acosta-lewandowski-220x180.jpg)](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
 
@@ -127,54 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/trump-gofundme-220x180.jpg)](https://americanwirenews.com/trump-gofundme-campaign-for-hurricane-victims-nears-4-million/)
 
 [Trump GoFundMe campaign for hurricane victims nears $4 million](https://americanwirenews.com/trump-gofundme-campaign-for-hurricane-victims-nears-4-million/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-corrupt-union-boss-220x180.jpg)](https://americanwirenews.com/biden-wont-use-his-authority-to-halt-union-dock-worker-strike-union-boss-who-threatened-to-cripple-america-has-one-helluva-shady-past/)
-
-[Biden won’t use his authority to halt union dock worker strike; union boss who threatened to cripple America has one helluva shady past](https://americanwirenews.com/biden-wont-use-his-authority-to-halt-union-dock-worker-strike-union-boss-who-threatened-to-cripple-america-has-one-helluva-shady-past/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-amanpour-220x180.jpg)](https://americanwirenews.com/cnn-anchor-christiane-amanpour-says-iran-doesnt-want-conflict-even-as-missiles-rained-on-israel/)
-
-[CNN anchor Christiane Amanpour says Iran ‘doesn’t want conflict’ even as missiles rained on Israel](https://americanwirenews.com/cnn-anchor-christiane-amanpour-says-iran-doesnt-want-conflict-even-as-missiles-rained-on-israel/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vivek-ramaswamy-220x180.png)](https://americanwirenews.com/vivek-floats-gubernatorial-run-in-state-that-shows-him-winning-by-a-landslide/)
-
-[Vivek floats gubernatorial run in state that shows him winning by a landslide](https://americanwirenews.com/vivek-floats-gubernatorial-run-in-state-that-shows-him-winning-by-a-landslide/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-timpizza-timdebate-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/walz-pretends-to-look-at-pizza-after-debate-to-duck-question-on-bizarre-remark-about-befriending-school-shooters/)
-
-[Walz pretends to look at pizza after debate to duck question on bizarre remark about befriending school shooters](https://americanwirenews.com/walz-pretends-to-look-at-pizza-after-debate-to-duck-question-on-bizarre-remark-about-befriending-school-shooters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ice-beds-220x180.jpg)](https://americanwirenews.com/biden-harris-dhs-kept-detention-beds-empty-while-transporting-migrants-throughout-us/)
-
-[Biden-Harris DHS kept detention beds empty while transporting migrants throughout US](https://americanwirenews.com/biden-harris-dhs-kept-detention-beds-empty-while-transporting-migrants-throughout-us/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbs-news-moderators-220x180.png)](https://americanwirenews.com/fox-news-hume-and-ingraham-blast-cbs-debate-moderators-as-obnoxious-smug-and-arrogant/)
-
-[Fox News’ Hume and Ingraham blast CBS debate moderators as ‘obnoxious,’ ‘smug and arrogant’](https://americanwirenews.com/fox-news-hume-and-ingraham-blast-cbs-debate-moderators-as-obnoxious-smug-and-arrogant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vp-debate-220x180.jpg)](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
-
-[Vance vs. Walz, highlights, reactions from big showdown AND Trump’s best live ‘play by play’ debate zingers](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/03/SG-Stahl-220x180.jpg)](https://americanwirenews.com/trump-campaign-slams-fake-news-reports-that-he-backed-out-of-60-minutes-interview/)
-
-[Trump campaign slams ‘fake news’ reports that he backed out of ’60 Minutes’ interview](https://americanwirenews.com/trump-campaign-slams-fake-news-reports-that-he-backed-out-of-60-minutes-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-collinsdonjr-220x180.png)](https://americanwirenews.com/cnns-kaitlan-collins-spars-with-don-jr-over-assassination-attempts-insists-media-bears-no-blame/)
-
-[CNN’s Kaitlan Collins spars with Don Jr. over assassination attempts, insists media bears no blame](https://americanwirenews.com/cnns-kaitlan-collins-spars-with-don-jr-over-assassination-attempts-insists-media-bears-no-blame/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buzbee-combs-220x180.jpg)](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
-
-[‘Many powerful people. Many dirty secrets’: Sean Diddy Combs case just got REAL](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-stelterbcnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
-
-[Brian Stelter proudly announces new CNN paywall, mockery ensues](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hostages-220x180.jpg)](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
-
-[American hostages told to fork over overdue tax bills to IRS upon return to U.S.](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -236,9 +236,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-2-1200x630.jpg)](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-stelterbcnn-1200-x-628-1200x630.jpg)](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
 
-[‘Amazing’: Elon Musk releases game-changing Starlink Mini internet device and its timing was crucial](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
+[Brian Stelter proudly announces new CNN paywall, mockery ensues](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-stelterbcnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
+
+[Brian Stelter proudly announces new CNN paywall, mockery ensues](https://americanwirenews.com/brian-stelter-proudly-announces-new-cnn-paywall-mockery-ensues/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/ssg-snl-spirit-halloween-220x180.jpg)](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
+
+[‘Bold move’: Spirit Halloween claps back at ‘SNL’ for premier spoof](https://americanwirenews.com/bold-move-spirit-halloween-claps-back-at-snl-for-premier-spoof/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-2-220x180.jpg)](https://americanwirenews.com/amazing-elon-musk-releases-game-changing-starlink-mini-internet-device-and-its-timing-was-crucial/)
 
@@ -252,43 +260,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Small business owners struggling to ‘keep up’ under Harris-Biden economy as election looms](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-220x180.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
-
-[Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-coffeejoint-1200-x-628-220x180.jpg)](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
-
-[Pro-cop coffee shop owner awarded $4 million in free speech lawsuit against university](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-helene-1200x630.jpg)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vp-debate-1200x630.jpg)](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
 
-(Photo by Michael M. Santiago/Getty Images)
+[Vance vs. Walz, highlights, reactions from big showdown AND Trump’s best live ‘play by play’ debate zingers](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
 
-[Trump treated as if ‘he is a sitting president’ amid Helene rescue efforts and shatters donation goal](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vp-debate-220x180.jpg)](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-helene-220x180.jpg)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
+[Vance vs. Walz, highlights, reactions from big showdown AND Trump’s best live ‘play by play’ debate zingers](https://americanwirenews.com/vance-vs-walz-highlights-reactions-from-big-showdown-and-trumps-best-live-play-by-play-debate-zingers/)
 
-[Trump treated as if ‘he is a sitting president’ amid Helene rescue efforts and shatters donation goal
+[![](https://americanwirenews.com/wp-content/uploads/2022/03/SG-Stahl-220x180.jpg)](https://americanwirenews.com/trump-campaign-slams-fake-news-reports-that-he-backed-out-of-60-minutes-interview/)
 
-(Photo by Michael M. Santiago/Getty Images)](https://americanwirenews.com/trump-treated-as-if-he-is-a-sitting-president-amid-helene-rescue-efforts-and-shatters-donation-goal/)
+[Trump campaign slams ‘fake news’ reports that he backed out of ’60 Minutes’ interview](https://americanwirenews.com/trump-campaign-slams-fake-news-reports-that-he-backed-out-of-60-minutes-interview/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jill-stein-220x180.jpg)](https://americanwirenews.com/green-party-candidate-jill-stein-may-be-the-spoiler-for-trump-that-no-one-saw-coming-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-collinsdonjr-220x180.png)](https://americanwirenews.com/cnns-kaitlan-collins-spars-with-don-jr-over-assassination-attempts-insists-media-bears-no-blame/)
 
-[Jill Stein says Dems experiencing ‘fear of God’ over new polling, explains why Kamala can’t win](https://americanwirenews.com/green-party-candidate-jill-stein-may-be-the-spoiler-for-trump-that-no-one-saw-coming-report/)
+[CNN’s Kaitlan Collins spars with Don Jr. over assassination attempts, insists media bears no blame](https://americanwirenews.com/cnns-kaitlan-collins-spars-with-don-jr-over-assassination-attempts-insists-media-bears-no-blame/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-harris-220x180.jpg)](https://americanwirenews.com/biden-reportedly-stung-as-he-becomes-the-lamest-duck-with-little-mention-on-kamalas-campaign-trail/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hostages-220x180.jpg)](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
 
-[Biden reportedly ‘stung’ as he becomes the lamest duck with little mention on Kamala’s campaign trail](https://americanwirenews.com/biden-reportedly-stung-as-he-becomes-the-lamest-duck-with-little-mention-on-kamalas-campaign-trail/)
+[American hostages told to fork over overdue tax bills to IRS upon return to U.S.](https://americanwirenews.com/american-hostages-told-to-fork-over-overdue-tax-bills-to-irs-upon-return-to-u-s/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kerry-220x180.jpg)](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-daggett-220x180.jpg)](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
 
-[John Kerry: A Democrat win would allow us to ‘change’ the First Amendment to stop ‘disinformation’](https://americanwirenews.com/john-kerry-a-democrat-win-would-allow-us-to-change-the-first-amendment-to-stop-disinformation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tom-emmer-220x180.png)](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
-
-[Tim Walz likened to ‘Gavin Newsom in a flannel shirt’](https://americanwirenews.com/tim-walz-likened-to-gavin-newsom-in-a-flannel-shirt/)
+[Longshoremen union boss slammed for fiery, threat-filled statement: ‘Things are about to get wild’](https://americanwirenews.com/longshoremen-union-boss-slammed-for-fiery-threat-filled-statement-things-are-about-to-get-wild/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -318,9 +314,23 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-swift-guitar-1200x630.jpg)](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buzbee-combs-1200x630.jpg)](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
 
-[Texas man pays $4K for guitar autographed by Taylor Swift, then he grabs a hammer…](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
+[‘Many powerful people. Many dirty secrets’: Sean Diddy Combs case just got REAL](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buzbee-combs-220x180.jpg)](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
+
+[‘Many powerful people. Many dirty secrets’: Sean Diddy Combs case just got REAL](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-leigh-brown-hurricane-220x180.jpg)](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
+
+[‘The government ain’t coming to save you’: North Carolina woman delivers urgent call to Americans](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-city-traffic-220x180.jpg)](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
+
+[Consequential demographic still fleeing Calif and NY for red states by the thousands
+
+(Image: Pixabay)](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-swift-guitar-220x180.jpg)](https://americanwirenews.com/texas-man-pays-4k-for-guitar-autographed-by-taylor-swift-then-he-grabs-a-hammer/)
 
@@ -331,19 +341,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [Reactions pour in after death of controversial baseball legend
 
 Getty Images](https://americanwirenews.com/reactions-pour-in-after-death-of-controversial-baseball-legend/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hazel-220x180.jpg)](https://americanwirenews.com/single-mom-challenges-miss-america-miss-world-pageant-rules-keeping-mothers-from-competing/)
-
-[Single mom challenges Miss America, Miss World pageant rules keeping mothers from competing](https://americanwirenews.com/single-mom-challenges-miss-america-miss-world-pageant-rules-keeping-mothers-from-competing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-tennessee-looters-220x180.jpg)](https://americanwirenews.com/team-of-migrants-arrested-for-allegedly-looting-in-a-hurricane-ravaged-community/)
-
-[Team of migrants arrested for allegedly looting in a hurricane-ravaged community
-
-Images via Washington County Tennessee Sheriff's Office](https://americanwirenews.com/team-of-migrants-arrested-for-allegedly-looting-in-a-hurricane-ravaged-community/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-robschneider-mutombo-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
-
-[Actor suggests NBA legend’s death may be linked to COVID jabs](https://americanwirenews.com/actor-suggests-nba-legends-death-may-be-linked-to-covid-jabs/)
 
 © 2024. All Rights Reserved. American Wire News
