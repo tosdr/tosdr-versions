@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH448053-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+
+CTA
+
+### [Cops trying to ID five suspects who robbed woman at Red Line station](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+
+[September 30, 2024 7:42 PM](https://cwbchicago.com/2024/09)
+
+CPD on Monday released extremely high-quality images of four people wanted in connection with a violent robbery at a Red Line station over the weekend.[](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/01/Elijah-Russell-and-CTA-suspect-326x245.jpg)](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+
+Chinatown
+
+### [31 years in prison for man who shot 16-year-old aboard the Red Line](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+
+[September 30, 2024 7:15 PM](https://cwbchicago.com/2024/09)
+
+A judge on Monday sentenced a Chicago man to 31 years in prison for shooting a teenager aboard a Red Line train near Chinatown. Prosecutors said the shooting left the 16-year-old victim blind in one eye.[](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Sierra-Evans-326x245.jpg)](https://cwbchicago.com/2024/09/nobody-reported-gunfire-when-robbers-shot-a-man-in-a-west-side-park-last-night-family-raises-money-for-woman-found-slain-saturday.html "Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday")
 
 East Garfield Park
@@ -252,26 +272,6 @@ East Garfield Park
 [September 30, 2024 10:58 AM](https://cwbchicago.com/2024/09)
 
 A man who was shot during a robbery in a West Side park on Sunday night sought help by walking to a nearby gas station. But, records show nobody called 911 to report the shots, which were fired in an area previously served by the city’s ShotSpotter network.[](https://cwbchicago.com/2024/09/nobody-reported-gunfire-when-robbers-shot-a-man-in-a-west-side-park-last-night-family-raises-money-for-woman-found-slain-saturday.html "Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Bobbi-Barnes-b-326x245.jpg)](https://cwbchicago.com/2024/09/woman-charged-with-firing-12-rounds-into-off-duty-chicago-cops-home.html "Woman charged with firing 12 rounds into off-duty Chicago cop’s home")
-
-Washington Heights
-
-### [Woman charged with firing 12 rounds into off-duty Chicago cop’s home](https://cwbchicago.com/2024/09/woman-charged-with-firing-12-rounds-into-off-duty-chicago-cops-home.html "Woman charged with firing 12 rounds into off-duty Chicago cop’s home")
-
-[September 30, 2024 9:52 AM](https://cwbchicago.com/2024/09)
-
-A downstate woman has been detained pending trial after prosecutors accused her of shooting a dozen rounds into an off-duty Chicago police officer’s home.[](https://cwbchicago.com/2024/09/woman-charged-with-firing-12-rounds-into-off-duty-chicago-cops-home.html "Woman charged with firing 12 rounds into off-duty Chicago cop’s home")
-
-[![](https://cwbchicago.com/wp-content/uploads/2018/09/PACKAGES.jpg)](https://cwbchicago.com/2024/09/arrest-number-60-something-serial-package-thief-on-parole-for-package-theft-is-charged-again-with-stealing-packages-in-lakeview.html "Arrest number 60-something: Serial package thief, on parole for package theft, is charged again with stealing packages in Lakeview")
-
-Lakeview
-
-### [Arrest number 60-something: Serial package thief, on parole for package theft, is charged again with stealing packages in Lakeview](https://cwbchicago.com/2024/09/arrest-number-60-something-serial-package-thief-on-parole-for-package-theft-is-charged-again-with-stealing-packages-in-lakeview.html "Arrest number 60-something: Serial package thief, on parole for package theft, is charged again with stealing packages in Lakeview")
-
-[September 30, 2024 9:11 AM](https://cwbchicago.com/2024/09)
-
-A six-time convicted felon, arrested no fewer than 60 times in his adult life and on parole for stealing packages in Lakeview, is back behind bars after prosecutors accused him of stealing packages in Lakeview again.[](https://cwbchicago.com/2024/09/arrest-number-60-something-serial-package-thief-on-parole-for-package-theft-is-charged-again-with-stealing-packages-in-lakeview.html "Arrest number 60-something: Serial package thief, on parole for package theft, is charged again with stealing packages in Lakeview")
 
 Search
 
