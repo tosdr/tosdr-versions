@@ -402,7 +402,6 @@ Follow @Mozilla
 ---------------
 
 * [X (formerly Twitter) (@mozilla)](https://twitter.com/mozilla)
-* [Mastodon (@mozilla)](https://mozilla.social/@Mozilla)
 * [Instagram (@mozilla)](https://www.instagram.com/mozilla/)
 * [LinkedIn (@mozilla)](https://www.linkedin.com/company/mozilla-corporation/)
 * [TikTok (@mozilla)](https://www.tiktok.com/@mozilla)
