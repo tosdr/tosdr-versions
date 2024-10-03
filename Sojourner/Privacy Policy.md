@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3e7d502e8b1f18dcaa4305b2eb0c527d
+961c1cf5424ca3fca5f0bd5da935605b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![11 mm light purple lozenge beads](https://www.sojourner.biz/images/cache/glass/GL0244.200.jpg)](https://www.sojourner.biz/beads/glass/11-mm-light-purple-lozenge-beads.html "11 mm light purple lozenge beads")
+[![12 mm transparent moss green heart beads](https://www.sojourner.biz/images/cache/glass/GL0023.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
 
-#### [11 mm light purple lozenge beads](https://www.sojourner.biz/beads/glass/11-mm-light-purple-lozenge-beads.html "11 mm light purple lozenge beads")
+#### [12 mm transparent moss green heart beads](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
 
-$2.00
+$9.00
 
 ### Best Sellers
 
