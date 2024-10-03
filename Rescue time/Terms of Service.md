@@ -2,6 +2,7 @@
 
 [![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-fee42620ca8b828fcf15e214ebd7da5698cb5654a5cf553952a44f1791fd6a63.svg)](https://www.rescuetime.com/)
 
+* [Guided Focus Session ⏤ LIVE NOW!](https://workfrom.com/@rescuetime)
 * [For Teams](https://teams.rescuetime.com/)
 * [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
 * [Sign In](https://www.rescuetime.com/login)
