@@ -31,1138 +31,1210 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El magnesio va más allá de ser un simple mineral; conoce sus propiedades y usos 
-================================================================================
-
-El magnesio es un mineral que regula diversas funciones del cuerpo.
--------------------------------------------------------------------
-
-![El magnesio, un mineral esencial para la nutrición humana, se obtiene principalmente de vegetales. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Magnesio.jpg)
-
-El **magnesio** es un **nutriente** que el cuerpo requiere para mantenerse sano, según el [National Institutes of Health](https://ods.od.nih.gov/factsheets/Magnesium-DatosEnEspanol/ "https://ods.od.nih.gov/factsheets/Magnesium-DatosEnEspanol/").  
-
-### Más noticias
-
-* [Cinco alimentos para aliviar síntomas asociados al ciclo menstrual](https://www.elcomercio.com/tendencias/salud/cinco-alimentos-hinchazon-menstrual-condicione-verano-salud.html "https://www.elcomercio.com/tendencias/salud/cinco-alimentos-hinchazon-menstrual-condicione-verano-salud.html")
-* [Una dieta de colores tiene claves para una alimentación saludable](https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html "https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html")
-
-Este mineral desempeña un **papel crucial en muchos procesos biológicos**. Regula la función de los músculos y el sistema nervioso. También **controla los niveles de azúcar en la sangre** y la presión arterial. Además, ayuda en la formación de proteínas, masa ósea y ADN, que es el material genético presente en las células. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAhUi0OI1JT/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Rafael Gomez (@procurador.gran.canaria)](https://www.instagram.com/reel/DAhUi0OI1JT/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Cuánto magnesio necesitas?** 
---------------------------------
-
-**La cantidad de magnesio que una persona necesita varía según la edad y el sexo**. Aquí están las cantidades promedio recomendadas por día en miligramos (mg), a decir de National Institutes of Health:
-
-![Foto: National Institutes of Health.](https://www.elcomercio.com/wp-content/uploads/2024/10/Magnesio-1-1024x683.jpg)
-
-Foto: National Institutes of Health.
-
-**Magnesio: un mineral esencial** 
-----------------------------------
-
-El magnesio es un **mineral indispensable para la nutrición humana**, de acuerdo con la [Clínica Universidad de Navarra](https://www.cun.es/chequeos-salud/vida-sana/nutricion/alimentos-ricos-magnesio "https://www.cun.es/chequeos-salud/vida-sana/nutricion/alimentos-ricos-magnesio"). Este nutriente desempeña un papel crucial en diversas funciones del cuerpo. **La mayor parte del magnesio en la dieta proviene de los vegetales**, especialmente de las **verduras de hoja verde oscura**. 
-
-**Los minerales son componentes inorgánicos que se encuentran en la naturaleza**. No forman parte de los seres vivos, pero **son vitales para nuestra salud**. Los minerales contribuyen a la formación de tejidos, la síntesis de hormonas y participan en la mayoría de las reacciones químicas del organismo. 
-
-**Alimentos ricos en magnesio** 
---------------------------------
-
-A continuación, basados en información de la Clínica Universidad de Navarra, presentamos una **tabla con algunos alimentos ricos en magnesio**. El contenido se expresa en miligramos por cada 100 gramos de porción comestible del producto: 
-
-![Foto: Clínica Universidad de Navarra.](https://www.elcomercio.com/wp-content/uploads/2024/10/Magnesio-2-1024x683.jpg)
-
-Foto: Clínica Universidad de Navarra.
-
-**Lo que debes saber sobre su ingesta y deficiencia** 
-------------------------------------------------------
-
-Según Medlineplus, los **efectos secundarios** de una alta ingesta de magnesio son poco comunes. Esto se aplica especialmente a **personas con función renal significativamente reducida**. El organismo suele **eliminar las cantidades excesivas de magnesio** de manera efectiva. Sin embargo, el **exceso de este mineral** se presenta principalmente cuando una persona: 
-
-* Toma demasiados suplementos de magnesio. 
-
-* Utiliza laxantes que contienen magnesio. 
-
-Aunque es raro que las personas sufran de una **verdadera deficiencia de magnesio**, algunos síntomas pueden aparecer. Estos incluyen: 
-
-* Demasiada excitabilidad. 
-
-* Debilidad muscular. 
-
-* Somnolencia. 
-
-La **falta de magnesio** puede ocurrir en **individuos que consumen alcohol en exceso**. También afecta a quienes **absorben menos magnesio**, como: 
-
-* Personas con enfermedades gastrointestinales o que han tenido cirugías que causan malabsorción. 
-
-* Adultos mayores. 
-
-* Personas con diabetes tipo 2. 
-
-Los síntomas de **deficiencia de magnesio** se pueden clasificar en tres categorías: 
-
-### **Síntomas Iniciales** 
-
-* Pérdida de apetito. 
-
-* Náuseas. 
-
-* Vómitos. 
-
-* Fatiga. 
-
-* Debilidad. 
-
-### **Síntomas de deficiencia moderada** 
-
-* Entumecimiento 
-
-* Hormigueo 
-
-* Contracciones musculares y calambres 
-
-* Convulsiones 
-
-* Cambios de personalidad 
-
-* Latidos cardíacos irregulares 
-
-* Deficiencia Grave 
-
-* Bajo nivel de calcio (hipocalcemia) 
-
-* Bajo nivel de potasio en la sangre (hipocaliemia) 
-
-Es importante **prestar atención a la ingesta de magnesio**. Un equilibrio adecuado contribuye a la salud y el bienestar general. 
-
-Quito, nuevamente en caos de tránsito por apagones, siniestros y obras
-======================================================================
-
-La AMT afirma atender los reportes por redes sociales. En la ciudad hay 1036 intersecciones con semáforos, en las cuales hay algunas con cinco y seis de ellas.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![En la autopísta General Rumiñahui, la congestión vehicular en la mañana fue intenso.](https://www.elcomercio.com/wp-content/uploads/2024/10/7052a7b2-ddc3-4109-8e73-335a116762d5.jpg)
-
-Las **congestiones vehiculares** parecen haberse radicalizado estos días. Largas filas de vehículos en algunas avenidas de la ciudad y por los ingresos a la ciudad desde los Valles, este 2 de octubre del 2024. El caos del tránsito en Quito tiene varias causas: **semáforos** apagados, **siniestros** de tránsito u **obras** del Municipio de la Ciudad.
-
-### Más noticias
-
-* [Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias](https://www.elcomercio.com/actualidad/quito/transito-vehicular-colapsa-quito-semaforos-apagados.html "Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias")
-* [¿Cómo será el servicio de telefonía móvil e Internet en los apagones?](https://www.elcomercio.com/actualidad/negocios/como-sera-el-servicio-de-telefonia-movil-e-internet-en-los-apagones.html "¿Cómo será el servicio de telefonía móvil e Internet en los apagones?")
-
-### Las quejas por el tránsito
-
-Los usuarios reclaman **la falta de presencia de agentes de tránsito** para intervenir en algunos cruces viales que requieren de ordenamiento.
-
-Luis Pasmay Álvarez, por ejemplo, envió un mensaje por X (Twitter) a la Agencia Metropolitana de Tránsito: “hasta cuándo será de esperar a los dueños del tránsito que hagan algo. La UDLA todos los días en la mañana, medio día y tarde es tierra de nadie”.
-
-> [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) hasta cuándo será d esperar a los dueños del transito q hagan algo la udla todos los días en la mañana medio día y tarde es tierra d nadie… [pic.twitter.com/8QqrzDYVHw](https://t.co/8QqrzDYVHw)
-> 
-> — LUIS PASMAY ALVAREZ (@pasmaylopez) [October 2, 2024](https://twitter.com/pasmaylopez/status/1841446550557368428?ref_src=twsrc%5Etfw)
-
-Por su parte, el concejal de Quito, Wilson Merino, y por la misma red social, sostenía que “a falta de previsión del Municipio convierte la movilidad en Quito en un caos: pésima ejecución presupuestaria, obras tardías, sin planificación, sin coordinación, sin agentes en las vías, nula comunicación con los ciudadanos, y hasta proyectos abandonados…”.
-
-> La falta de previsión del Municipio convierte la movilidad en Quito en un caos: pésima ejecución presupuestaria, obras tardías, sin planificación, sin coordinación, sin agentes en las vías, nula comunicación con los ciudadanos, y hasta proyectos abandonados…. [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [#Movilidad](https://twitter.com/hashtag/Movilidad?src=hash&ref_src=twsrc%5Etfw)
-> 
-> — Wilson Merino Rivadeneira (@WilsonMerinoR) [October 2, 2024](https://twitter.com/WilsonMerinoR/status/1841471969616626020?ref_src=twsrc%5Etfw)
-
-Su tuit tuvo más de 70 respuestas. Patricio Trujillo fue parte del debate: “se ve que hay mucha obra para ornamentar la ciudad y está bien, pero son prioritarias en estos momentos? El tránsito de Quito es un caos y se requieren urgente soluciones viales”.
-
-Ram Jaram (@ramisua) envió un mensaje el propio alcalde, Pabel Muñoz: “qué pasa con los agentes, caos en la Colón y ni un agente de tránsito. No puede ser. Si el gobierno es inepto, no tratemos de caer en lo mismo”.
-
-> [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw) que pasa con los agentes, caos en la colon ni un agente de tránsito no puede ser, si el gobierno es inepto nontratemos de caer en lo mismo….
-> 
-> — RAM JARAM (@ramisua) [October 2, 2024](https://twitter.com/ramisua/status/1841519090340397185?ref_src=twsrc%5Etfw)
-
-“Todo el verano sin obras. Y desde el inicio de clases se empezaron a romper calles. ¿El resultado? Caos viale. Sumen la falta de luz sin semáforos y sin agentes de tránsito. Quito abandonado”, escribió César Córdova (@CMCordova82).
-
-### Lo que dice la AMT
-
-Según Andrés Relinche, director de Comunicación de la Agencia Metropolitana de Tránsito, hay 1844 agentes civiles de tránsito. De esa cantidad, entre 1 500 y 1 600 van rotando en tres turnos durante las 24 horas del día. Los turnos donde se destina mayor cantidad de agentes (entre 500 y 550) es el de la mañana, a partir de las 06h00 hasta las 14h00, y luego releva igual número de agentes.
-
-“Sin embargo, no todos están destinados para gestión de tránsito por los apagones. Hay otras acciones como control de pico y placa, de buses, del buen uso del espacio público, gestión de siniestros de tránsito, entre otras, que no se pueden descuidar”, dice Relinche.
-
-Añade Relinche que monitorean las redes sociales y se pasan la alerta a la coordinación de operaciones para evitar molestias mayores. “Hacemos escucha social, en el buen sentido del término, para atender las quejas, reportes y alertas de los ciudadanos. Lo tomamos muy en serio las quejas que son reales y sustentadas”.
-
-### Los semáforos y los apagones
-
-Quito tiene 1 036 intersecciones semaforizadas, que no es lo mismo que 1 036 semáforos. Las intersecciones son los cuadrantes donde coinciden varias calles, es decir, puede haber de 6 hasta ocho semáforos, como ocurre, por ejemplo, por el estadio Olímpico Atahualpa, o en la Avenida Napo, al sur de Quito.
-
-Uno de los problemas, según Relinche, es que estas semanas la Empresa Eléctrica Quito “anunció un cronograma de cortes que no se cumple y eso genera que los agentes a veces están por gusto en una intersección y les toca ir a otra intersección en la que sí están apagados los semáforos”.
-
-Para Washington Martínez, director general de la AMT, “en estos ocho días de Corte, Quito no se ha paralizado. En este miércoles, con dos siniestros fuertes en la Simón Bolívar, con un siniestro en la Velasco Ibarra y un roce a la altura de El Condado, la velocidad promedio de velocidad fue de 22 km por hora. No lo digo yo, sino la plataforma Waze”.
-
-### Los siniestros complicaron el tránsito
-
-Ayer hubo un accidente en la Avenida Mariscal Sucre, a la altura de la Av. Mañosca por un siniestro de tránsito, que cerraron dos atcarrilles en el sentido norte-sur, informó la Agencia Metropolitana de Tránsito. No hubo información de víctimas fatales ni heridos. Las vías alternas son las avenidas América y De la Prensa.
-
-Por la mañana, aproximadamente a las 06:00, también hubo otro siniestro en la Avenida González Suárez y Bosmediano, que obligó también al cierre de las vías. Un camión, cuyo conductor estuvo con síntomas de ebriedad, se impactó contra un poste de luz y un árbol.
-
-A las 12:20, aproximadamente, la AMT anunció de otro siniestro vial en la avenida Simón Bolívar, a la altura de Guápulo, que cerró la vía norte sur.
-
-¿Quién es Ágatha Ruiz de la Prada?
-==================================
-
-El ícono del diseño de modas español vendrá a Ecuador.
-------------------------------------------------------
-
-![Ágatha Ruiz de la Prada compartió esta imagen en su cuenta de Instagram para celebrar la presentación de su libro en Guinea Ecuatorial. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/agatha-ruiz-dela-prada-El-comercio-3.jpg)
-
-Color, corazones, estrellas, labios pintados… Eso y mucho más es Ágatha Ruiz de la Prada, una diseñadora de modas que tiene previsto visitar **Ecuador** en 2024.
-
-**Miley Cyrus** es una de las famosas que han disfrutado de vestir la ropa que ella crea. La revista **Vogue España** la ha definido como “la **reina del color**“, porque ha convertido ese elemento y la diversión en su sello personal, creando un universo _fashion_ único y reconocible a simple vista.
-
-Desde las pasarelas de París hasta las calles de Tokio, sus creaciones han cautivado a millones con su optimismo y originalidad. Su influencia trasciende las fronteras, convirtiéndola en un ícono de la moda contemporánea.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/agatha-ruiz-dela-prada-El-comercio-2-1024x683.jpg)
-
-La cantante pop estadounidense ha sido una gran admiradora del estilo de Ágatha y ha lucido varios de sus diseños en eventos importantes, como la gala de los premios MTV.
-
-De la nobleza a la pasarela
----------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAIrKtzo80p/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Agatha Ruiz de la Prada (@agatharuizdlprada)](https://www.instagram.com/p/DAIrKtzo80p/?utm_source=ig_embed&utm_campaign=loading)
-
-Ágatha no solo es una diseñadora de moda, sino también una marquesa. Sí, así como se lee. Nació en una familia aristocrática, pero desde pequeña su pasión fue el arte y la moda.
-
-Y vaya que ha sabido combinar ambas cosas. Sus diseños, llenos de vida y alegría, han conquistado corazones en todo el mundo. Empezó a estudiar Arquitectura, pero luego se inclinó por el diseño de modas.
-
-Un estilo inconfundible
------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/agatha-ruiz-dela-prada-El-comercio-2-1-1024x683.jpg)
-
-¿Qué caracteriza a las **creaciones de Ágatha**? ¡El color! Los vestidos, los accesorios, todo está bañado en una paleta cromática que va desde el rosa más intenso hasta el azul más eléctrico.
-
-Pero no solo eso, sus diseños también se destacan por sus formas geométricas, sus estampados divertidos y sus mensajes positivos.
-
-Es conocida por evitar los vestidos negros, reservándolos solo para funerales, dice un [artículo](https://www.rtve.es/television/20210408/40-anos-agatha-ruiz-prada-moda/2085072.shtml "https://www.rtve.es/television/20210408/40-anos-agatha-ruiz-prada-moda/2085072.shtml") del sitio rtve.com
-
-La movida madrileña y Ágatha
-----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/agatha-ruiz-dela-prada-El-comercio-1-1-1024x683.jpg)
-
-Ágatha vivió en primera persona la **[Movida Madrileña](https://es.wikipedia.org/wiki/Movida_madrile%C3%B1a "https://es.wikipedia.org/wiki/Movida_madrile%C3%B1a")**, ese movimiento cultural que revolucionó España en los años ochenta. Su estilo desenfadado y colorido encajaba a la perfección con la energía de aquella época.
-
-Desde entonces, ha sido una figura clave en la escena cultural española. Durante los años 1980, “Ágatha Ruiz de la Prada se convirtió en una de las promotoras más importantes del movimiento”.
-
-Su talento no se limita al mundo de la moda. También ha diseñado escenarios para obras de teatro, ha creado colecciones de muebles y ha participado en numerosos proyectos artísticos. Su creatividad no tiene límites.
-
-Ágatha Ruiz de la Prada es una inspiración para todos aquellos que creen en la importancia de la alegría y la diversión. Sus diseños nos recuerdan que la moda puede ser mucho más que una simple prenda de vestir, puede ser una forma de expresión, una manera de ver el mundo con optimismo.
-
-La diseñadora traerá todo su color a **[Ecuador para participar en la Quito Fashion Week](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html")** que se llevará a cabo del 27 de noviembre al 3 de diciembre.  
-
-La defensa de la Selección de Ecuador es la mejor valorada
-==========================================================
-
-La Selección de Ecuador cuenta con un grupo de jóvenes defensas que destacan en clubes de América y Europa.
------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié con la Selección de Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/piero_valor_mercado_2.jpg)
-
-La **Selección de Ecuador** dentro de poco entra en la cuenta regresiva para afrontar la novena y décima fecha de las eliminatorias al Mundial 2026 ante Paraguay y Uruguay, respectivamente.
-
-El jueves 10 de octubre, la **Selección de Ecuador recibirá en el Rodrigo Paz Delgado a Paraguay**, que tiene como entrenador al argentino Gustavo Alfaro, exDT con la que la Tri disputó el Mundial  Catar 2022.
-
-### Más noticias:
-
-* [Liga de Quito domina a El Nacional en títulos oficiales](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-titulos.html "Liga de Quito domina a El Nacional en títulos oficiales")
-* [Willian Pacho y el PSG sucumben ante el Arsenal en Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-sucumben-ante-arsenal-champions-league.html "Willian Pacho y el PSG sucumben ante el Arsenal en Champions League")
-* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
-
-El martes **15 viajará a Montevideo para medirse con Uruguay en el Centenario**, en lo que supone el inicio de la rueda de revanchas en el largo proceso que terminará con seis selecciones clasificadas al Mundial y una para el repechaje.
-
-El viernes 5 de octubre el argentino **Sebastián Beccacece tiene planificado entregar la lista de convocados**, con una base de jugadores que no tendrán grandes cambios en relación con los citados en septiembre para medirse de visitante a Brasil (derrota 1-0) y de local a Perú (victoria 1-0).
-
-Dentro de ese grupo de jugadores, según Transfermarkt, los defensas son los **mejores valorados de todo  el plantel con un valor de mercado de 142,2 millones** de dólares y un promedio de edad de 25,3 años.
-
-En la referida valoración siguen los mediocampistas con 118 millones de dólares y un promedio de edad de 23,8; **luego los delanteros con 25,6 millones y una edad promedio de 26**; y los arqueros alcanzan 2,3 millones, siendo la más baja en costo, pero la más alta en edad con 27,8.
-
-Piero Hincapié, el mejor valorado
----------------------------------
-
-Piero Hincapié (22) está disputando su **cuarta temporada en el Bayer Leverkusen de Alemania**, al que llegó en el 2021 desde Talleres de Córdoba, Argentina, como una apuesta que a los alemanes les resultó a la perfección.
-
-**Con un valor de 40,1 millones de dólares**, Transfermarkt lo ubica como el segundo mejor valor de la Selección de Ecuador, solo por detrás de Moisés Caicedo que alcanza los 82,8 millones y es una de las principales figuras del Chelsea inglés.
-
-Hincapié con su valor de mercado es el **sexto más valioso de su club**, el 19 de la Bundesliga y el 53 a escala mundial.
-
-Con la Tri debutó en la Copa América Brasil 2021, en el 2022 fue uno de los **26 citados para el Mundial de Catar**, y en el 2023 volvió a repetir convocatoria para la Copa América que se desarrolló en Estados Unidos.
-
-Lleva jugados 39 partidos con la absoluta nacional y anotó tres goles: Venezuela, Honduras y Jamaica.
-
-Pacho comanda el segundo lote
------------------------------
-
-El segundo defensa con mejor valor de mercado es **Willian Pacho (22), actual jugador del París Saint-Germain de Francia**.
-
-Sus 38,6 millones lo sitúan como uno de los futbolistas de mejor proyección de la Selección y de su club.
-
-**Pervis Estupiñán (26) le sigue con 33,1 millones de dólares**. El jugador del Brighton de Inglaterra no pudo estar en la reciente Copa América por una lesión, pero una vez recuperado fue tomado en cuenta por Beccacece para la reciente doble fecha de eliminatorias.
-
-Si de jóvenes con una gran proyección hablamos hay que referirnos a **Joel Ordóñez (20)**. El Club Brujas de Bélgica lo observó y lo sumó a su plantel desde Independiente del Valle en agosto de 2022.
-
-Sus 9,9 millones de dólares de valoración lo ubican como el sexto más valioso de la Tri, el quinto de los belgas, el número 11 de la Primera División del referido país, y el 1 181 a escala global.
-
-Su posición mejora si se toman en cuenta solo a los jugadores sub-20. A escala global es el número 45 y dentro de los centrales el 211.
-
-Otro de los defensas destacados es **Félix Torres (26) con 4,9 millones**. Más allá del valor de mercado que tiene, sobresale el aporte de cuatro goles claves en las eliminatorias a los mundiales 2022 y 2026.
-
-Uruguay (2), Brasil (1) y Uruguay (1) sufrieron el olfato goleador del defensa central que se **formó en Barcelona Sporting Club**. En un amistoso el turno fue para Australia.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/piero_valor_mercado_1-1024x683.jpg)
-
-Foto: EFE.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Inscripción para lotería de visas arranca hoy, estos son los pasos
-==================================================================
-
-Ecuador es parte del listado de países que pueden acceder a una visa de residencia permanente en el territorio estadounidense
------------------------------------------------------------------------------------------------------------------------------
-
-![Las inscripciones arrancan este miércoles 2 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/loteria-de-visas.jpg)
-
-Este **miércoles 2 de octubre** de 2024, arranca el **Programa de Visas de Inmigrantes por Diversidad** 2026 o también conocido como **Lotería de Visas**.
-
-### Más noticias
-
-* [Dos jóvenes mueren en una furgoneta, en Guayaquil; esta fue la causa](https://www.elcomercio.com/actualidad/ecuador/dos-jovenes-mueren-en-una-furgoneta-guayaquil-causa.html "Dos jóvenes mueren en una furgoneta, en Guayaquil; esta fue la causa")
-* [Cortes de luz en Guayaquil este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-miercoles-2-de-octubre.html "Cortes de luz en Guayaquil este miércoles 2 de octubre")
-* [Cortes de luz en Quito este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-horarios-miercoles-2-de-octubre.html "Cortes de luz en Quito este miércoles 2 de octubre")
-
-La lotería de visas
--------------------
-
-Este es un programa en el que **algunos países pueden participar p**ara salir favorecidos con una ‘green card’ o **permiso de residencia.** Los países que conforman la lista son los que tienen bajas tasas de inmigración hacia Estados Unidos.
-
-Sin embargo, **los cupos son limitados** y se deben cumplir algunos requisitos. Los principales son tener 12 años de **educación primaria y secundaria** o su equivalente. También, tener, al menos, **dos años cumplidos** de experiencia laboral en los últimos cinco años. Y, por último, **ser ciudadano de uno de los países** que están en la lista; algunos de estos, en Sudamérica, son:
-
-* Argentina
-* Bolivia
-* Chile
-* Costa Rica
-* Ecuador
-* Guatemala
-* Nicaragua
-* Panamá
-* Perú
-* Uruguay
-
-Cómo registrarse para la lotería de visas
------------------------------------------
-
-Las fechas de las inscripciones cambian en cada año. **El registro para la lotería de visas** del 2026 arranca este miércoles **2 de octubre de 2024** a las 12:00 y **termina el 5 de noviembre** a las 12:00.
-
-Para registrarte debes llenar una [solicitud en línea](https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-instructions.html "https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-instructions.html"), luego de enviarla verás una confirmación con un número de registro único. Debes asegurarte de conservar este número de confirmación para consultar el [estado de su solicitud](https://es.wikipedia.org/wiki/Visa "https://es.wikipedia.org/wiki/Visa"), si prefieres imprímelo.
-
-Después del 3 de mayo de 2025, podrás **consultar el estado de tu solicitud** en la misma página en la que llenaste la aplicación.
-
-Ten en cuenta que **no se puede enviar más de una solicitud** por persona o serás descalificado del proceso.
-
-La Selección de Ecuador sub-15 presentó sus convocados
-======================================================
-
-La Selección de Ecuador sub-15 competirá con 22 jugadores en Bolivia. Cuatro juegan en Europa.
-----------------------------------------------------------------------------------------------
-
-![Justin Lerma es el jugador más destacado de la selección sub-15 de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_sub_15_1.jpg)
-
-La **Selección de Ecuador sub-15** presentó oficialmente la lista de 22 jugadores convocados para el Campeonato Sudamericano que se jugará en Bolivia del viernes 4 al sábado 19 de octubre de 2024.
-
-La Selección de Ecuador, **que está al mando del exjugador de El Nacional, Deportivo Quito y Universidad Católica, Juan Carlos Burbano**, tenía que jugar el torneo en el 2023, pero se aplazó un año, por lo que las reglas en cuanto a los jugadores elegibles cambió.
-
-### Más noticias:
-
-* [(Video) Ronaldo Johnson, ex Emelec, sorprende con su baile en la India](https://www.elcomercio.com/deportes/futbol/ronaldo-johnson-ex-emelec-sorprende-con-su-baile-en-la-india.html "(Video) Ronaldo Johnson, ex Emelec, sorprende con su baile en la India")
-* [Liga de Quito domina a El Nacional en títulos oficiales](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-titulos.html "Liga de Quito domina a El Nacional en títulos oficiales")
-* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
-
-La Conmebol estableció que “todos los jugadores del equipo deberán tener como **máximo 16 años al final del año natural** en el que se disputa la competición, es decir, todos deberán haber nacido el 1 de enero de 2008 o después de esta fecha”.
-
-Respecto a la edad mínima, agregó que “la competición **no tendrá un límite mínimo aplicable** a la edad de los jugadores”.
-
-La lista de la Tri está conformada por dos jugadores de 14 años, tres de 15 años, 17 de 16 y cuatro juegan en Europa.
-
-El entrenador Burbano tiene 55 años, fue mundialista en Corea-Japón 2002 y ganó el campeonato nacional de 1996 con la camiseta de El Nacional.
-
-La figura más destacada es el guayaquileño **Justin Lerma, mediocampista de Independiente del Valle** que ya fue transferido al Borussia Dortmund de Alemania. Se unirá en junio de 2026 cuando cumpla la mayoría de edad.
-
-Con el primer plantel de los del Valle **debutó en el 2024 en la Liga Pro, en la Copa Libertadores** y en la Sudamericana. Suma 11 partidos y 238 minutos en cancha.
-
-Antes de viajar a Bolivia, Ecuador jugó dos amistosos con Argentina. En el primero empató 2-2 en el estadio Monumental con goles de Deinner Ordóñez y Holguer Quintero; y en el segundo ganó 1-0 en el George Capwell, con tanto de Lerma.
-
-Ecuador integra el grupo B
---------------------------
-
-Ecuador es parte del grupo B junto con **Brasil, Argentina, Venezuela y Uruguay**. Esta zona se proyecta como la más pareja de las dos que competirán en Santa Cruz de la Sierra.
-
-A las semifinales solo **avanzarán los dos primeros clasificados**. Los ganadores irán a la final y los perdedores jugarán el partido por el tercer puesto.
-
-### Sábado 5/10
-
-Uruguay vs. Ecuador
-
-Estadio: Ramón Aguilera Costas
-
-### Miércoles 9/10
-
-Argentina vs. Ecuador
-
-Estadio: Ramón Aguilera Costas
-
-### Viernes 11/10
-
-Ecuador vs. Brasil
-
-Estadio: Ramón Aguilera Costas
-
-### Domingo 13/10
-
-Ecuador vs. Venezuela
-
-Estadio: Ramón Aguilera Costas
-
-![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_sub_15_3-1024x683.jpg)
-
-Foto: La Tri.
-
-Convocados
-----------
-
-### Arqueros
-
-Miguel Peralta – Independiente del Valle  
-Mijail Vaca – El Nacional  
-Jostin García – Liga de Quito
-
-Defensas
---------
-
-Virgilio Olaya – Aucas  
-Deinner Ordóñez – Independiente del Valle  
-Jordan Mejía – Elche (ESP)  
-Bolívar Torres – Emelec  
-Fricio Caicedo – Liga de Quito  
-Jalmar Ramírez – Elche (ESP)  
-Darío Castillo – Barcelona SC  
-Benny Atahualpa Birner – Kieler Holstein (ALE)
-
-Volantes
---------
-
-Holger Quintero – Independiente del Valle  
-Justin Lerma – Independiente del Valle  
-Edwin Quintero – Independiente del Valle  
-Renato Caicedo – Universidad Católica  
-Yaxi García – Barcelona SC  
-Ederson Castillo – Liga de Quito  
-Jhosué Minda – Liga de Quito  
-Malcom Dacosta – Bournemouth (ING)
-
-Delanteros
-----------
-
-Kevin Pineda – Liga de Quito  
-Demcy Manteca – Liga de Quito  
-Juan Riquelme Angulo – Independiente del Valle
-
-![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_sub_15_2-1024x683.jpg)
-
-Foto: La Tri.
-
-No te pierdas – El Confesionario
---------------------------------
-
-pozos en el Bloque ITT 43, en el Yasuní
-=======================================
-
-El Gobierno Nacional avanza en el cierre del Bloque 43-ITT, cumpliendo el mandato de la Consulta Popular de 2023.
------------------------------------------------------------------------------------------------------------------
-
-![Antonio Goncalves, ministro de Energía. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/08/antonio-goncalves.jpg)
-
-El ministro de Energía, **Antonio Goncalves**, aseguró este 2 de octubre del 2024 que se continúa con el apagado de pozos del **Bloque 43-ITT** (Ishpingo, Tambococha, Tiputini), ubicado en el **Parque Nacional Yasuní**, en la provincia de Orellana, Amazonía del Ecuador[.](https://es.wikipedia.org/wiki/Consulta_popular_de_Ecuador_de_2023 "https://es.wikipedia.org/wiki/Consulta_popular_de_Ecuador_de_2023")
-
-### Más noticias
-
-* [Bloque petrolero 43-ITT, en el Yasuní, se cierra a este costo para Ecuador](https://www.elcomercio.com/actualidad/negocios/costo-ecuador-cierre-desmontaje-bloque-43-itt-yasuni.html "Bloque petrolero 43-ITT, en el Yasuní, se cierra a este costo para Ecuador")
-* [Pueblo Waorani presiona con un plan el cierre petrolero en el Yasuní](https://www.elcomercio.com/actualidad/pueblo-waorani-presiona-con-un-plan-el-cierre-petrolero-en-el-yasuni.html "Pueblo Waorani presiona con un plan el cierre petrolero en el Yasuní")
-* [Gobierno cierra el primer pozo del Yasuní, faltan 246](https://www.elcomercio.com/actualidad/negocios/gobierno-cierra-pozo-yasuni-bloque43-itt-consulta-popular.html "Gobierno cierra el primer pozo del Yasuní, faltan 246")
-
-Según el ministro Goncalves, hasta el momento se han apagado cinco pozos de los 10 que está previsto se cierren este 2024. Estas declaraciones las hizo en el marco del XVII Encuentro Anual de Energía y Petróleo (ENAEP) 2024, organizado por Seminarium.
-
-Con el apagado de estos pozos, el Gobierno Nacional continúa con el proceso de **cierre del Bloque 43- ITT**, en cumplimiento a la **Consulta Popular** realizada en agosto de 2023. En este referendo, el 59% de los votantes se pronunció a favor de dejar el petróleo bajo tierra y desmantelar las instalaciones de este Bloque.
-
-**Miguel Robalino**, experto petrolero, señaló que el apagado de los pozos corresponde a la primera fase del cierre, denominado **cese de operaciones** en el **Plan de Cierre del Bloque 43-ITT**. Este fue presentado por el Comité de Ejecución de la Voluntad Popular Yasuní-ITT a la Corte Constitucional.
-
-Tras el apagado de los pozos se debe realizar la extracción del **equipo electro sumergible** y la **tubería de producción**. Además, se hacen labores de limpieza y posteriormente, se colocan tapones de cemento para el abandono definitivo de la estructura.
-
-“El Bloque ITT está en la fase de **cese de operaciones**, pero este proceso no es tan fácil porque se debe realizar el taponamiento. Para ello hay que hacer un vaciado de la tubería y también se debe sacar permisos ambientales”, agregó Robalino.
-
-El apagado de 247 pozos petroleros
-----------------------------------
-
-El **Bloque 43** cuenta con 247 pozos productores. El primer pozo se apagó el 28 de agosto pasado, en cumplimiento del mandato de la Consulta Popular.
-
-Se estima que las actividades técnicas destinadas al cese anticipado de operaciones y abandono del Bloque 43 le costarán al Ecuador más de 1 345 millones de dólares. El monto incluye costos por estudios, desmontaje, plataformas de recepción de material pétreo, revegetación, logística terrestre, entre otros.
-
-Solo el cierre de los **247 pozos petroleros** costará 246 millones de dólares. El abandono y taponado de los pozos se lo realiza con dos torres de reacondicionamiento, con un costo de 1 millón de dólares por pozo, con un tiempo estimado de 15 días por cada uno.
-
-**Este 2024, se abandonarán 10 pozos.** Mientras que, a partir del 2025 se apagarán y taparán 48 pozos por año. La tarea es larga y está previsto que la salida del bloque concluya en 2029.
-
-Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas
-==========================================================================
-
-El Santa Elena anunció que recibirá al Deportivo Quito en Salinas. Los chullas tienen previsto el viaje para el 4 de octubre del 2024.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito festejan un gol ante Santa Elena en el Ascenso Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/deportivoquito3.jpg)
-
-El **Santa Elena Sporting Club** anunció que el esperado partido contra **Deportivo Quito** se disputará en el **Estadio Daring de Salinas**, en lugar de Samborondón, como se había anunciado previamente.
-
-“Hasta el día de ayer se jugaba en Samborondón, pero hay que estar preparado para todo”, comentó **Carlos Castro,** DT de la ‘**Academia’** este 2 de octubre del 2024.
-
-Por parte del cuadro azulgrana todavía no ha habido una confirmación oficial del cambio de sede.
-
-Este encuentro, que forma parte de los 32avos de final del **Nacional de Ascenso**, se llevará a cabo el 6 de octubre de 2024, y promete ser un choque lleno de emociones.
-
-### Más noticias:
-
-* [José Pardo, de hincha a presidente de Deportivo Quito](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jose-pardo-presidente-dirigentes.html "José Pardo, de hincha a presidente de Deportivo Quito")
-* [Deportivo Quito presume orgulloso de su hinchada](https://www.elcomercio.com/deportes/futbol/deportivo-quito-presume-orgulloso-de-su-hinchada.html "Deportivo Quito presume orgulloso de su hinchada")
-* [Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-torneo-de-ascenso-serieb.html "Deportivo Quito brilla y golea en su debut en el Torneo de Ascenso")
-
-El cotejo está previsto para el domingo 6 de octubre del 2024, desde las 11:30.
-
-El precio de las entradas será de 10 dólares.
-
-Estadio Daring de Salinas
--------------------------
-
-El Estadio Daring se encuentra en la Parroquia Rural Presidente José Luis Tamayo, en el Cantón Salinas de la provincia de Santa Elena.
-
-Se trata de una edificación inaugurada en enero del 2023.
-
-Cuenta con una cancha de césped sintético de 105 metros de largo por 68 metros de ancho.
-
-“El equipo de la Península hará historia en Salinas, con su hinchada para enfrentar a Sociedad Deportivo Quito”, se publicó en las redes sociales del elenco local.
-
-¿Cómo llega Deportivo Quito al partido?
----------------------------------------
-
-El equipo de la Plaza del Teatro llega al partido con una sólida ventaja tras haber ganado el encuentro de ida 3-0.
-
-Ante el cambio de sede, la directiva del Deportivo Quito deberá volver a planificar el viaje.
-
-Eso sí, [**José Pardo,**](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jose-pardo-presidente-dirigentes.html) presidente de los chullas confirmó que el equipo tiene previsto viajar vía terrestre el viernes 4 de octubre, para poder entrenar el sábado 5 cerca del lugar del partido.
-
-La afición azulgrana, ansiosa por apoyar a su equipo, se organiza para acudir al estadio en el cantón Salinas.
-
-En su último encuentro, Deportivo Quito brilló con una victoria convincente.
-
-Jostin Chichande abrió el marcador con un tiro libre desviado a los 12 minutos. José Luis Rivera aumentó la ventaja con un cabezazo a los 55 minutos, y **Iker Morante** selló la victoria con otro gol a los 82 minutos.
-
-La ‘Academia’ busca el ascenso a la Serie B de la Liga Pro de Ecuador.
-
-> ¡ESTO ES CON NUESTRA GENTE! 👊🏻[#ElEquipoDeLaPeninsula](https://twitter.com/hashtag/ElEquipoDeLaPeninsula?src=hash&ref_src=twsrc%5Etfw) hará historia en Salinas, con su hinchada para enfrentar a Sociedad Deportivo Quito. 😎  
->   
-> 📆 Domingo, 06 de Octubre  
-> 🏟️ Estadio Daring / Salinas  
-> 🎟️ $10  
->   
-> Reservaciones al 0960491525 o en nuestras redes oficiales. 📨 [pic.twitter.com/6DLh5DRJsP](https://t.co/6DLh5DRJsP)
-> 
-> — Santa Elena Sporting Club (@StaElenaSC) [October 2, 2024](https://twitter.com/StaElenaSC/status/1841505701681631432?ref_src=twsrc%5Etfw)
-
-Los padres pueden controlar el tiempo que pasan sus hijos en Fortnite
-=====================================================================
-
-Los padres podrán gestionar controles temporales con una nueva herramienta en Fortnite y Unreal Editor for Fornite.
--------------------------------------------------------------------------------------------------------------------
-
-![Notificación del tiempo que queda de juego en Fortnite.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1-1.jpg)
-
-**Fortnite** ha incorporado este martes, 1 de octubre de 2024, dos nuevos **controles** parentales que permite **revisar** y limitar el **tiempo** que los **menores** pasan en el popular **videojuego** de **Epic Games**.
-
-### Más noticias
-
-* [Un estudio advierte que el ‘escroleo’ en redes sociales puede causar aburrimiento](https://www.elcomercio.com/tecnologia/redes-sociales-escroleo-investigacion.html "Un estudio advierte que el ‘escroleo’ en redes sociales puede causar aburrimiento  ")
-* [‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza](https://www.elcomercio.com/tendencias/cine/robot-salvaje-critica-cine-cartelera.html "‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza")
-* [¿Qué hay detrás del éxito de Lofi Girl en YouTube?](https://www.elcomercio.com/tecnologia/lofi-girl-yotube-musica.html "¿Qué hay detrás del éxito de Lofi Girl en YouTube? ")
-
-Los **padres** podrán gestionar controles temporales en **Fortnite** y Unreal Editor for Fornite, una nueva **herramienta** que les permite limitar la duración del juego por día, detallar una **franja horaria** e incluso habilitar si los menores pueden solicitar **tiempo adicional**.
-
-Si estos **controles temporales** se activan, los menores recibirán una **notificación** cuando el tiempo de juego esté próximo a terminar. Si este finaliza, o si ha pasado la **franja** horaria, ya no será posible acceder a Fortnite hasta el siguiente periodo de **juego** permitido.
-
-Estos **controles** pueden activarse desde el portal de la cuenta de Epic, y tienen validez para distintos **dispositivos**, siempre que el menor use la misma cuenta de juego, como explica Epic Games en su blog oficial.
-
-La otra novedad ofrece a los padres **informes** semanales, en los que es posible ver el tiempo que ha dedicado el menor en Fornite o Unreal Editor for Fornite cada día, y que recoge si se le ha permitido ampliar el **tiempo límite** establecido.
-
-Christian Nodal comparte foto desde el hospital
-===============================================
-
-El cantante fue internado de emergencia y está al cuidado de su esposa, Ángela Aguilar.
----------------------------------------------------------------------------------------
-
-![Nodal es una estrella de la música regional mexicana. Foto: Facebook.](https://www.elcomercio.com/wp-content/uploads/2024/10/nodal-El-comercio-7.jpg)
-
-El cantante de regional mexicano, **Christian Nodal**, fue hospitalizado de emergencia tras presentar malestares. Así lo dio a conocer a través de una **foto en sus redes sociales**.
-
-En una publicación inusual, **Nodal compartió una fotografía** donde se le ve **recostado en una camilla**, bajo el cuidado de **su** **esposa, Ángela Aguilar**.
-
-### Más noticias
-
-* **[Suben a 120 las acusaciones de abuso sexual contra P. Diddy](https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html")**
-* **[Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html")** 
-
-La noticia generó preocupación entre sus seguidores, quienes esperaban verlo en el escenario el 2 de octubre en un concierto en Pachuca, Hidalgo.
-
-Nodal pospuso su concierto
---------------------------
-
-A raíz de su hospitalización, Christian Nodal y su equipo emitieron un comunicado urgente para informar que su concierto en el palenque de Pachuca, programado para el 2 de octubre, será pospuesto.
-
-En el comunicado, se menciona que el evento se reprogramará para el lunes 14 de octubre y que los boletos adquiridos serán válidos para la nueva fecha.
-
-“Agradecemos el apoyo, cariño y comprensión de todos ustedes”, se lee en el mensaje.
-
-Rumores y misterio rodean la hospitalización de Nodal
------------------------------------------------------
-
-![Christian Nodal fue hospitalizado y canceló un concierto por problemas de salud. Foto: screenshot](https://www.elcomercio.com/wp-content/uploads/2024/10/nodal-El-comercio-6-1024x683.jpg)
-
-Christian Nodal fue hospitalizado y canceló un concierto por problemas de salud. Foto: screenshot
-
-Aunque Nodal no ha proporcionado detalles adicionales sobre su estado de salud, la hospitalización ha dado pie a especulaciones entre sus fans. Su **esposa, Ángela Aguilar,** ha permanecido al margen de la situación, sin hacer comentarios públicos.
-
-Cabe destacar que Nodal parecía estar en buen estado, ya que días antes había ofrecido un concierto sin problemas en Los Ángeles, donde incluso compartió escenario con Ángela.
-
-### Más del tema
-
-* **[Pepe Aguilar está furioso con ‘La Rosa de Guadalupe’](https://www.elcomercio.com/tendencias/entretenimiento/pepe-aguilar-furioso-rosa-guadalupe.html "https://www.elcomercio.com/tendencias/entretenimiento/pepe-aguilar-furioso-rosa-guadalupe.html")**
-* **[(Video) Christian Nodal explota contra la toxicidad de redes sociales](https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html "https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html")**
-
-Los rumores también han surgido respecto a una supuesta tensión familiar, especialmente tras una publicación en redes de Cristy Nodal, madre del cantante.
-
-Dicha publicación fue interpretada por algunos internautas como una indirecta hacia Pepe Aguilar. La polémica ha sido alimentada por la dedicatoria de la canción **[Cuídamela bien](http://Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal   Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/afull/pepe-aguilar-christian-nodal-cancion.html)**, que Pepe Aguilar le habría hecho a su yerno.
-
-Suben a 120 las acusaciones de abuso sexual contra P. Diddy
-===========================================================
-
-Las denuncias se distribuyen en varios estados, entre ellos, California, Nueva York, Georgia y Florida.
--------------------------------------------------------------------------------------------------------
-
-![Sean 'Diddy' Combs es un rapero estadounidense acusado de tráfico sexual. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/p.diddy-El-comercio-1.jpg)
-
-Un total de **120** nuevas personas acusan al rapero estadounidense **Sean “Diddy” Combs** de **abuso sexual** y explotación. De estos acusadores, 25 eran menores de edad al momento de los supuestos incidentes.
-
-Así lo informó **Tony Buzbee**, abogado encargado de los procesos legales. Las nuevas demandas detallan un patrón de abuso en fiestas organizadas por Combs.
-
-### Más noticias
-
-* **[Lady Gaga lanza nuevo disco inspirado en el ‘Joker’](https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html "https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html")** 
-* **[Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html")** 
-
-En dichos eventos las víctimas alegan haber sido drogadas y obligadas a tener relaciones sexuales bajo amenazas de violencia, inseguridad económica o daño reputacional.
-
-La detención de Diddy y las denuncias
--------------------------------------
-
-Combs, detenido el 16 de septiembre de 2024 bajo cargos de tráfico sexual y asociación ilícita, permanece en prisión a la espera de juicio. Según los fiscales, Combs encabezaba una **red criminal que forzaba a mujeres y menores a tener relaciones sexuales**.
-
-“Tienen miedo, y con razón, por su seguridad personal”, dijo uno de los fiscales sobre las presuntas víctimas del magnate de la música. Dice Infobae que los abogados indicaron que más de 3 000 personas se han puesto en contacto con ellos sobre posibles abusos.
-
-El abogado Buzbee aseguró que el 90% de las víctimas fueron drogadas en las fiestas promovidas por el rapero. Las acusaciones se extienden por diversos estados y los abogados continúan recibiendo testimonios de más posibles víctimas.
-
-### Más del tema
-
-* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
-* **[La escandalosa vida de P. Diddy entre un tiroteo, sospechas de un crimen y más](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html")**
-* **[10 claves sobre el escándalo de P. Diddy](https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html "https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html")**
-
-“Este es un asunto importante”, declaró Buzbee en rueda de prensa. “No dejaremos piedras sin remover hasta encontrar a todas las partes potencialmente responsables”, agregó.
-
-El impacto de las denuncias
----------------------------
-
-Las nuevas demandas representan el episodio más reciente en la compleja batalla legal de Combs, quien se ha declarado inocente. La investigación contra él comenzó tras las acusaciones de su exnovia, Cassie Ventura.
-
-La magnitud del caso ha dejado al descubierto presuntos abusos dentro de la industria del entretenimiento. “No descansaremos hasta que todos los responsables enfrenten la justicia”, afirmó Buzbee.
-
-Dos jóvenes mueren en una furgoneta, en Guayaquil; esta fue la causa
-====================================================================
-
-La llamada de emergencia se recibió en el 911 a las 07:08 de este miércoles 2 de octubre. Unidades de socorro acudieron para realizar los procedimientos de ley.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las unidades de auxilio llegaron al sitio para realizar los procedimientos de ley.](https://www.elcomercio.com/wp-content/uploads/2024/10/furgoneta.jpg)
-
-Este **miércoles 2 de octubre** de 2024, por redes sociales circulan fotos y **videos de un lamentable hecho** registrado en el centro de Guayaquil que alertó a los moradores.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-miercoles-2-de-octubre.html "Cortes de luz en Guayaquil este miércoles 2 de octubre")
-* [Pelea en cárcel de Turi habría dejado un reo fallecido](https://www.elcomercio.com/actualidad/seguridad/carcel-de-turi-pelea-reo-fallecido.html "Pelea en cárcel de Turi habría dejado un reo fallecido")
-* [¿A qué hora se puede ver el eclipse solar anular desde Ecuador?](https://www.elcomercio.com/tendencias/a-que-hora-se-puede-ver-eclipse-solar-anular-desde-ecuador.html "¿A qué hora se puede ver el eclipse solar anular desde Ecuador?")
-
-El hallazgo en la 9 de Octubre
-------------------------------
-
-El hallazgo se habría **registrado alrededor de las 07:00**, cuando unas personas que transitaban por la calle Junín se percataron de dos jóvenes dentro de una furgoneta blanca parqueada.
-
-Al parecer, estas personas **tocaron a la ventana** pensando que los jóvenes se quedaron dormidos, pero ellos no respondieron. **Fotos en redes sociales** mostraban a un joven en el asiento del conductor desvanecido sobre la ventana, eso fue lo que llamó la atención de los transeúntes, quienes al darse cuenta de que no respondía llamaron al 911.
-
-Según información del ECU911, **recibieron el reporte** a las 07:08 sobre una persona inconsciente en el interior de una van en la av. 9 de Octubre, entre Junín y Baquerizo Moreno, esquina del Banco Solidario.
-
-Lo que se sabe
---------------
-
-La Policía Nacional **confirmó el hallazgo de dos personas sin signos vitales** en el interior de la furgoneta. De forma preliminar se informó que al parecer se quedaron dormidos con el aire acondicionado encendido, por lo que **inhalaron monóxido de carbono.**
-
-Desde la Sala Operativa del servicio de emergencias se coordinó la ayuda de unidades especializadas a fin de realizar los trámites correspondientes. Asistieron **unidades de Policía** y Cuerpo de Bomberos de Guayaquil para brindar ayuda y proceder con lo que la ley exige.
-
-En redes sociales se comentaba que en la parte trasera del vehículo se halló también un **generador de energía** encendido, al que culpaban del monóxido de [carbono inhalado](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
-
-Kendry Páez recibe un guiño de la Copa América por su gol
+David Cabezas, el héroe de El Nacional que pide selección
 =========================================================
 
-Kendry Páez debutó con la Selección de Ecuador en el 2023 en las eliminatorias al Mundial 2026.
------------------------------------------------------------------------------------------------
+Sumario: El Nacional se metió entre los cuatro mejores de la Copa Ecuador gracias a su capitán y figura, David Cabezas.
+-----------------------------------------------------------------------------------------------------------------------
 
-![Kendry Páez celebra el gol marcado con Ecuador en la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_gol_1.jpg)
+![David Cabezas le dio la clasificación a semifinales de Copa Ecuador a El Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T202117.206.jpg)
 
-La **Copa América Estados Unidos 2024** fue histórica para la Selección de Argentina y para la de Ecuador, porque tuvo en su plantilla al joven Kendry Páez que en menos de un año se unirá a la disciplina del Chelsea de Inglaterra.
+En los últimos meses, **David Cabezas**, capitán de El Nacional, ha mostrado un **notable crecimiento futbolístico**. La noche del miércoles 2 de octubre, lo demostró con creces, dejando claro que está listo para retos mayores, como vestir la camiseta de la **Selección de Ecuador**.
 
-Para Argentina la **Copa América sirvió para ratificarse como la mejor Selección** del continente al lograr ganarla por segunda vez consecutiva, y como una despedida, en cancha, de Ángel Di María, uno de sus jugadores más trascendentes del siglo XXI. 
+Cabezas fue la figura clave en la clasificación de El Nacional a las semifinales de la **Copa Ecuador** por segunda vez en su historia. El guardameta de 29 años fue decisivo en la tanda de penales que aseguró la victoria de su equipo.
 
 ### Más noticias:
 
-* [Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jordy-caicedo-seleccion-ecuador-convocatoria.html "Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador")
-* [Ecuador da sus primeros pasos hacia la natación artística en el escenario internacional](https://www.elcomercio.com/deportes/otros/ecuador-natacion-artistica-seleccion-isalen-competencias.html "Ecuador da sus primeros pasos hacia la natación artística en el escenario internacional")
-* [El Sparta Praga de Angelo Preciado empata en Champions](https://www.elcomercio.com/deportes/angelo-preciado-sparta-praga-stuttgart-champions.html "El Sparta Praga de Angelo Preciado empata en Champions")
+* [¿David Cabezas merece ir](https://www.elcomercio.com/deportes/davd-cabezas-seleccion-ecuador-el-nacional.html "¿David Cabezas merece ir a la Selección de Ecuador?") [](https://www.elcomercio.com/deportes/davd-cabezas-seleccion-ecuador-el-nacional.html "¿David Cabezas merece ir a la Selección de Ecuador?")[a la Selección de Ecuador?](https://www.elcomercio.com/deportes/davd-cabezas-seleccion-ecuador-el-nacional.html "¿David Cabezas merece ir a la Selección de Ecuador?")
+* [El Nacional eliminó a Liga de Quito de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-resultado-copa-ecuador.html "El Nacional eliminó a Liga de Quito de la Copa Ecuador")
+* [(Video) Mario Pineida se mofa e insulta a Liga de Quito](https://www.elcomercio.com/deportes/futbol/video-mario-pineida-se-mofa-e-insulta-a-liga-de-quito.html "(Video) Mario Pineida se mofa e insulta a Liga de Quito")
 
-Para Ecuador sirvió para **consolidar un grupo de jóvenes jugadores** que avanzaron hasta los cuartos de final. Ahí fueron eliminados en penales por Argentina y marcó el final de la era del entrenador español Félix Sánchez.  
+En un partido complicado para el ‘Bi-Tri’, que jugó casi todo el segundo tiempo con un hombre menos ante Liga de Quito en el Estadio Rodrigo Paz Delgado, **Cabezas se destacó con intervenciones cruciales** a lo largo de los 90 minutos, manteniendo a su equipo en el juego y forzando la definición desde los once metros.
 
-Otro aspecto que marcó el camino de la Tri en la Copa América fue la **aparición de Kendry Páez**, joven jugador que con sus 17 años recién cumplidos empezó a romper e imponer sus propios récords, siempre ligados a su edad. 
+Fue desde el arco **donde Cabezas brilló**, **atajando dos penales**: el primero a Leonel Quiñónez y luego a Ezequiel Piovi, asegurando así el pase a la siguiente ronda y brindando una gran alegría a los hinchas nacionalistas, ya sea en el estadio o desde donde siguieran el compromiso.
 
-Con **17 años y 48 días, Páez se convirtió en el jugador más joven** en jugar una Copa América con la Selección de Ecuador y con la número 10 en su espalda. Fue en la derrota 1-2 ante Venezuela el 22 de junio. 
-
-Otro de los récords fue que con **17 años y 61 días se transformó en el jugador más joven** en jugar los cuartos de final del torneo. Fue ante Argentina el 4 de julio.  
-
-Kendry Páez tiene el récord de goleador 
-----------------------------------------
-
-Las cuentas oficiales en español e inglés de la Copa América, recordaron el **gol que Kendry Páez le marcó a Jamaica** en la segunda fecha del grupo B. 
-
-Fue el 26 de junio en el Allegiant Stadium en Paradise, Nevada, **con un tiro penal que fue a parar al fondo del arco** defendido por Jahmali Waite, en el minuto 45+4’ del primer tiempo. 
-
-Con ese tanto se transformó en el **segundo jugador más joven en anotar un gol** en toda la historia de la Copa América con 17 años y 53 días, según datos proporcionados por MisterChip.
-
-Este ítem está dominado por el **colombiano Johnnier Montaño**, que en Paraguay 1999 le anotó a Argentina con 16 años y 171 días.
-
-Del siglo XXI es el más joven en anotar en el torneo más antiguo de selecciones y de Ecuador, es el más joven en vulnerar el arco rival.
-
-![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_gol_2-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-Páez y la Selección de Ecuador 
--------------------------------
-
-Con 16 años y 128 días, **Kendry Páez hizo su debut en la Selección absoluta de Ecuado**r con Félix Sánchez en la zona técnica. 
-
-El 12 de septiembre de 2023 **saltó como titular en la victoria 2-1**, con doblete de Félix Torres, ante Uruguay en la primera fecha de las eliminatorias al Mundial 2026. 
-
-Esa tarde en el **Rodrigo Paz Delgado el guayaquileño jugó 70 minutos** y fue reemplazado por Joao Ortiz, su compañero en Independiente Del Valle. 
-
-En la tercera fecha ante **Bolivia en el Hernando Siles de La Paz, anotó su primer gol**. Lo hizo la noche del 13 de octubre en el triunfo tricolor de 1-2. 
-
-Según Transfermarkt, el mediocampista lleva **jugados 15 partidos, anotó dos goles y asistió tres veces**. Recibió tres amarillas y acumula 1 019 minutos. 
-
-Con la sub-20 fue citado por **Miguel Bravo para el Mundial Argentina 2023** con tan solo 16 años y 16 días. 
-
-Con la sub-17 alcanzó el **subcampeonato del Campeonato Sudamericano** y clasificó al Mundial en Indonesia, al cual no asistió. 
-
-Páez responde a las críticas
-----------------------------
-
-“Siempre me van a seguir las críticas, así esté bien, eso va a estar. Siempre tengo el apoyo de mi familia, y los cuestionamientos los tomo tranquilo; sin embargo, **hay momentos que afectan, porque uno es joven: yo tengo 17 años, y afecta, pero la gente no entiende**“, fueron las cortas declaraciones que el jugador emitió al programa Al Rojo Vivo.
-
-El jugador no accede con facilidad a los medios de comunicación. Sus apariciones han sido en ruedas de prensa con su club, con la **Selección nacional o para promover algún tema comercial privado** o personal.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAmDhrTy4fI/?utm_source=ig_embed&utm_campaign=loading)
+> ¿Y AHORA 🤪?  
+>   
+> ¡QUÉ GRANDE ERES DAVID!  
+> ¡QUÉ GRANDE ERES ROJO QUERIDO! [pic.twitter.com/6G8z9eGC0o](https://t.co/6G8z9eGC0o)
 > 
-> [Una publicación compartida por CONMEBOL Copa América™️ (@copaamerica)](https://www.instagram.com/reel/DAmDhrTy4fI/?utm_source=ig_embed&utm_campaign=loading)
+> — Club Deportivo El Nacional (@elnacionalec) [October 3, 2024](https://twitter.com/elnacionalec/status/1841641444282393054?ref_src=twsrc%5Etfw)
+
+David Cabezas se perfila para la Selección de Ecuador
+-----------------------------------------------------
+
+No es descabellado pensar que, dada la falta de arqueros en buen momento en la Selección, David Cabezas pueda ser una de las próximas convocatorias de **Sebastián Beccacece** para la siguiente fecha FIFA.
+
+El arquero ha ido de menos a más durante el año y, desde el segundo semestre, se ha consolidado como uno de los mejores en su posición en el fútbol ecuatoriano.
+
+En 2024, Cabezas **ha disputado 21 partidos entre la Liga Pro** y la Copa Ecuador, recibiendo 21 goles y dejando su arco invicto en ocho ocasiones. Aunque sus estadísticas numéricas no sean las más destacadas, el portero de 29 años es una de las **figuras principales de El Nacional.**
+
+Su seguridad en el arco ha brindado tranquilidad al equipo militar, algo que no se veía desde hace muchos años.
+
+A nivel global, según el portal especializado SofaScore, el arquero de El Nacional cuenta con una calificación de **7.14 por su rendimiento en el año**, superando a Hernán Galíndez, Moisés Ramírez y Gilmar Napa, quienes formaron parte de la última convocatoria de la Selección de Ecuador.
+
+Barrios de Quito con cortes de agua este jueves 3 de octubre
+============================================================
+
+La Epmaps detalló los sectores y los horarios en los que se suspenderá el servicio de agua potable.
+---------------------------------------------------------------------------------------------------
+
+![En algunos sectores de Quito el agua se entrega con tanqueros para alcanzar la demanda](https://www.elcomercio.com/wp-content/uploads/2024/10/AGUA-cortes.jpg)
+
+La Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) socializó el cronograma de cortes de agua para este jueves 3 de octubre de 2024.
+
+Los cortes se realizan con el objetivo de distribuir de una forma más equitativa el agua en la capital, en medio de la **crisis hídrica** que enfrenta Quito y el país.
+
+### Más noticias
+
+* [Inundaciones en varios barrios del sur de Quito por las intensas lluvias](https://www.elcomercio.com/actualidad/quito/lluvias-inundaciones-barrios-quito-sur.html "Inundaciones en varios barrios del sur de Quito por las intensas lluvias")
+* [Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre](https://www.elcomercio.com/actualidad/quito/varios-cierres-viales-siniestros-transito-quito.html "Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre")
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
+
+La suspensión afectará a los barrios que son abastecidos por la Planta de Tratamiento de Agua Potable de **Puengasí**, en el centro y sur de Quito.
+
+Barrios con cortes de agua programados
+--------------------------------------
+
+### Grupo 1
+
+Estos barrios no tendrán servicio de agua potable desde las 19:00 del jueves a las 07:00 del viernes:
+
+* González Suárez
+* Guápulo
+* Itchimbía
+* La Merced
+* González Suárez (Centro Histórico)
+* San Blas
+* La Tola
+* Paluco
+* San Marcos
+* La Loma
+* San Sebastián
+* México
+* Los Andes
+* Dos Puentes
+* Santa Ana
+* El Sena
+* Villaflora
+* La Recoleta
+* El Camal
+* El Recreo
+* Jefferson Pérez
+* Molinos
+* Luluncoto
+* La Estación
+
+Los sectores tampoco tendrán el servicio el lunes 7, martes 8 y miércoles 9 de octubre, en el mismo horario.
+
+### Grupo 2
+
+Los siguientes barrios tendrán la interrupción del servicio de agua potable de 07:00 a 19:00:
+
+* 20 de Mayo
+* Ferroviaria Alta
+* Ferroviaria Media
+* Alegría 1
+* El Recrero
+* Clemencia
+* La Forestal
+* Lucha de los Pobres
+* San Martín
+* Argelia Alta
+* San Mateo
+* San Blas
+* Ciudad Futura
+* Oriente Quiteño
+* El Mirador
+* Chachas
+* Aida León
+* Hierba Buena 2
+* Lotización Miravalle
+* Vertientes Unidas
+* Eplicachima
+* Lotización Quingaiza
+
+Estos horarios de cortes se repetirán el lunes 7, martes 8 y 9 de octubre.
+
+> 📅 [#CalendarioDeRacionamiento](https://twitter.com/hashtag/CalendarioDeRacionamiento?src=hash&ref_src=twsrc%5Etfw) | Debido a los días consecutivos de falta de lluvias y las altas temperaturas, se implementará el calendario temporal de racionamiento para las zonas centro y sur abastecido por la Planta de Tratamiento de Agua Potable Puengasí, que rige desde las… [pic.twitter.com/mRqpGsiDvc](https://t.co/mRqpGsiDvc)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 1, 2024](https://twitter.com/aguadequito/status/1841112843158003742?ref_src=twsrc%5Etfw)
+
+Otros cortes de agua en Quito
+-----------------------------
+
+Además de este cronograma, otras 20 parroquias del norte, centro y sur de la ciudad tendrán cortes con horarios esporádicos este jueves. Los sectores son:
+
+* Cochapamba
+* Comité del Puebo
+* Kennedy
+* San Isidro del Inca
+* Iñaquito
+* Jipijapa
+* Nayón
+* Conocoto
+* Chilibulo
+* Itchimbía
+* La Mena
+* Puengasí
+* El Condado
+* Cotocollao
+* Ponceano
+* La Argelia
+* La Ferroviaria
+* Alangasí
+* Chillogallo
+* La Ecuatoriana
+
+Para conocer la programación de cortes en los barrios y horarios de estas parroquias puedes visitar la página oficial de la [Epmaps](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/").
+
+(Video) Mario Pineida se mofa e insulta a Liga de Quito
+=======================================================
+
+Mario Pineida no se guardó nada tras eliminar a Liga de Quito con El Nacional
+-----------------------------------------------------------------------------
+
+![Mario Pineida en su etapa en Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T194404.651.jpg)
+
+El Nacional avanzó a las semifinales de la Copa Ecuador después de eliminar a **Liga de Quito** en el Estadio Rodrigo Paz Delgado. A pesar de haber sufrido durante los 90 minutos, el conjunto ‘Bi-Tri’ llevó el partido a la tanda de penales, donde **Mario Pineida** anotó uno de los goles y protagonizó una polémica celebración.
+
+Pineida, lateral de El Nacional, **dejó un momento desagradable al finalizar el compromiso** en ‘Casa Blanca’, insultando a Liga de Quito y a su hinchada ante las cámaras de televisión.
+
+### Más noticias:
+
+* [El Nacional eliminó a Liga de Quito de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-resultado-copa-ecuador.html "El Nacional eliminó a Liga de Quito de la Copa Ecuador")
+* [Liga de Quito y El Nacional sin ventaja en los mano a mano](https://www.elcomercio.com/deportes/futbol/liga-quito-nacional-copa-ecuador.html "Liga de Quito y El Nacional sin ventaja en los mano a mano")
+* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
+
+“Te di la vuelta olímpica en 2020 y **ahora dejamos afuera a estos perros**“, declaró el jugador tras la victoria.
+
+Las palabras de Pineida no cayeron bien entre los aficionados de Liga, quienes rápidamente expresaron su indignación en redes sociales por la falta de respeto del jugador hacia el club y su hinchada.
+
+Después, ya en las celebraciones en camerinos, el lateral se volvió a mofar del equipo universitario recordándoles la vez que apagaron las luces de su estadio.
+
+> "Te di la vuelta olímpica y ahora te dejamos afuera!! Te di la vuelta olímpica 2020 desde ahí están muertos perros!!!!"  
+>   
+> Don Pine 🤣 [pic.twitter.com/n2bAOKOq8l](https://t.co/n2bAOKOq8l)
+> 
+> — Fútbol 17 ⚽ (@Futbol17\_ec) [October 3, 2024](https://twitter.com/Futbol17_ec/status/1841633994133455085?ref_src=twsrc%5Etfw)
+
+Mario Pineida y su rivalidad con Liga de Quito
+----------------------------------------------
+
+Mario Pineida debutó como futbolista profesional en Independiente del Valle en 2010, pero fue en 2016, cuando fichó por **Barcelona SC,** que empezó a intensificarse su rivalidad con Liga de Quito, debido a los constantes enfrentamientos entre ambos equipos, considerados dos de los más grandes del país.
+
+En 2020, **Pineida fue campeón con Barcelona SC** tras vencer a Liga de Quito en una recordada final en el Estadio Rodrigo Paz Delgado.
+
+Aquel partido es famoso porque tras consagrarse campeones, las luces del estadio se apagaron. Además, esa victoria rompió el invicto de Liga en casa ante Barcelona, aunque estadísticamente el partido terminó empatado, ya que la serie se definió en penales.
+
+Tras un breve paso por Fluminense, **Pineida regresó a Barcelona SC en 2023**, donde nuevamente marcó un hito en la historia ante Liga. Formó parte del equipo que **rompió un invicto de 26 años** al ganar 0-1 en Casa Blanca, la primera victoria de Barcelona en ese estadio.
+
+Finalmente, en la Copa Ecuador, vistiendo la camiseta de **El Nacional, Pineida** volvió a ser clave para eliminar a Liga de Quito en su estadio, esta vez desde los penales, lo que avivó aún más su rivalidad con el ‘Rey de Copas’.
+
+Iker Morante, la nueva estrella del Deportivo Quito
+===================================================
+
+Deportivo Quito busca el ascenso hacia la Serie B e Iker Morante, una de sus figuras, luce como pieza clave para el objetivo.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Iker Morante (izq.), jugador del Deportivo Quito, encara a un rival en la Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-02T164634.787.jpg)
+
+El **Deportivo Quito** busca retornar a la Serie B y, tras su irrupción en ascenso nacional, ha vuelto a armarse. En el renovado equipo que ahora dirige Carlos Castro aparece una nueve figura y con el plus de la juventud: **Iker Morante**.
+
+Delgado, con una **melena rizada** como marca personal y alrededor de los 1,70 metros de estatura, se acerca asediado por las cámaras. No está acostumbrado a aquel tipo de atención, pero lo asume con madurez y, aunque empieza con voz baja, de a poco **gana confianza** y contesta más desenvuelto las preguntas.
+
+### Más noticias:
+
+* [Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-salinas-cancha-sintetica.html "Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas")
+* [José Pardo, de hincha a presidente de Deportivo Quito](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jose-pardo-presidente-dirigentes.html "José Pardo, de hincha a presidente de Deportivo Quito")
+* [Deportivo Quito vs. Santa Elena ya tiene horario confirmado](https://www.elcomercio.com/deportes/futbol/deportivo-quito-vs-santa-elena-horario-confirmado-partido-vuelta.html "Deportivo Quito vs. Santa Elena ya tiene horario confirmado")
+
+Su debut en el **Quito** fue ante el **Santa Elena FC** y llamó la atención por su gambeta y desborde. El punto máximo con los colores azulgrana se dio con uno de los goles que sirvió para firmar el 3-0 y dejar casi lista la clasificación a dieciseisavos de final de la **Segunda Categoría**.
+
+De cara al próximo partido de la ‘**Akd**‘, que se llevará a cabo en el Guayas, el futbolista se encuentra convencido de sus capacidades y de poder avanzar de ronda. Pese a ello, sus objetivos son más altos y va más allá, para el final de **2024** espera haber conseguido el ascenso hacia la división de plata del fútbol ecuatoriano[.](https://en.wikipedia.org/wiki/S.D._Quito "https://en.wikipedia.org/wiki/S.D._Quito")
+
+Iker Morante, una joya escondida en Deportivo Quito
+---------------------------------------------------
+
+De acuerdo a **José Pardo**, presidente del Deportivo Quito, Iker Morante es uno de los grandes prospectos que forma parte del equipo capitalino. Para él, este cuenta con un amplio potencial y puede dejarle réditos en distintos aspectos.
+
+“**Estoy contento y feliz por mi gol y que sea el primero de muchos en mi carrera. Voy a seguirme preparando y trabajar la definición para mejor en eso**“, sostiene después de uno de los entrenamientos del equipo de la Plaza del Teatro.
+
+Algunos le dicen ‘**Cucurella**‘ por su pelo y el parecido con el futbolista español de tal apellido. Le gusta. El haber llegado al conjunto capitalino, a su vez, acrecenta la alegría, y pese a estar en **Segunda Categoría**, le emociona la multitudinaria afición y que su familia lo puede ver.
+
+“Quiero enfocarme en el club y tengo el objetivo de ascender. Más adelante será lo que Dios quiera. Agradezco el apoyo de los hinchas. Sé que **Deportivo Quito** ha pasado por una mala racha y con el profe (Carlos) Castro estamos decididos a subir”, agrega.
+
+Una trayectoria forjada en el ascenso de la Segunda Categoría
+-------------------------------------------------------------
+
+Se inició en Quito, su ciudad natal, en una academia del sector de Tumbaco y, cuando se encontraba en la categoría sub-17, se mudó hacia Latacunga. En la capital de Cotopaxi, este se unió al Geinco y tras ello se mudó a las inferiores del **América** de Quito.
+
+Tras finalizar su etapa en el equipo cebollita, este se mudó al Miguel Iturralde. Para el vigente año llegó al **Patrón Mejía** y, después de que el equipo no pudiese disputar la fase nacional debido a problemas en su documentación, arribó al **Deportivo Quito** con 20 años.
+
+Después de mostrar su nivel en el primer cotejo del equipo chulla en las **eliminatorias** rumbo a la Serie B, este tendrá una nueva oportunidad. El **6 de octubre del 2024** será la vuelta del cotejo frente al Santa Elena y la chance para asegurar los dieciseisavos de final.
+
+Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó candidatura de Jimmy Jairala
+===============================================================================================
+
+El CNE debe calificar los 16 binomios presidenciales inscritos, el único negado hasta el momento es el de Jimmy Jairala, para las elecciones 2025.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El CNE negó la calificación del binomio presidencial de Jimmy Jairala, rumbo a las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/08/centro-democratico.jpg)
+
+El **Consejo Nacional Electoral (CNE)** calificó las candidaturas de cuatro de los **16 binomios presidenciales inscritos** y negó las candidaturas **Jimmy Jairala y Lucía Vallecilla** de **Centro Democrático (CD)**, rumbo a las **elecciones 2025**[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador))
+
+La etapa de inscripciones de candidaturas para las elecciones 2025 concluyó este miércoles 2 de octubre a las 18:00; días atrás, el Pleno del CNE inició con el proceso de calificación de las mismas.
+
+### Más noticias:
+
+* [16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador](https://www.elcomercio.com/actualidad/politica/16-binomios-presidenciales-inscritos-para-las-elecciones-2025-en-ecuador.html "16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador")
+* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
+
+La inscripción de candidaturas cerró la tarde de este martes con 16 listas para **binomio presidencial**, 16 listas para **asambleístas nacionales**.
+
+Además, 15 listas para **parlamentarios andinos**, 32 listas para **asambleístas en el exterior**, y 463 listas para **asambleístas provinciales y por circunscripción**, según un **reporte preliminar** del CNE.
+
+El **9 de febrero de 2025**, los ecuatorianos elegirán Presidente y Vicepresidente de la República, asambleístas y parlamentarios andinos.
+
+Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó la candidatura Jimmy Jairala
+-----------------------------------------------------------------------------------------------
+
+Todas las candidaturas inscritas deben pasar por la calificación del Pleno del CNE para continuar en la contienda electoral.
+
+De los 16 binomios presidenciales inscritos, cuatro fueron calificados y uno fue negado, hasta el momento.
+
+Los cuatro binomios presidenciales calificados son: **Francesco Tabacchi y Blanca Sacancela de Creando Oportunidades (CREO).**
+
+**Jorge Escala y Pacha Terán de Unidad Popular (UP), Andrea González y Galo Moncayo de Sociedad Patriótica (SP)**.
+
+Finalmente, **Daniel Noboa y María José Pinto de Acción Democrática Nacional (ADN).**
+
+La calificación de la candidatura del binomio de **Centro Democrático (CD)**, conformado por **Jimmy Jairala y Lucía Vallecilla** fue negada.
+
+El Pleno del CNE negó la candidatura del binomio de Centro Democrático por errores en la declaración juramentada y falta de firma del secretario en el formulario.
+
+CD tiene 48 horas para subsanar estos errores.
+
+Luego de la calificación, las candidaturas deben superar posibles **apelaciones**, el último paso para quedar en firme.  
+
+La Copa Ecuador tiene sus cuatro semifinalistas
+===============================================
+
+La Copa Ecuador 2024 tendrá entre los cuatro semifinalistas solo a equipos de la región Sierra.
+-----------------------------------------------------------------------------------------------
+
+![Los cuatro equipos finalistas de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_semifinales_5.jpg)
+
+Los cuatro mejores equipos de la Copa Ecuador 2024 están definidos: **Universidad Católica, Independiente del Valle, Mushuc Runa** y El Nacional son los semifinalistas. 
+
+En las semifinales la **Copa Ecuador cambia su formato y ya no se jugará a partido único**, sino que serán de ida y vuelta para definir a la gran final que se jugará en un solo partido en una sede que la Federación Ecuatoriana de Fútbol (FEF) aún no define. 
+
+### Más noticias:
+
+* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
+* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
+* [Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-salinas-cancha-sintetica.html "Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas")
+
+Salvo Universidad Católica, los tres restantes equipos ya disputaron, al menos una vez, las **semifinales de la Copa Ecuador**, por lo que los de Jorge Celico van por la sorpresa y están a dos partidos de lograrlo. 
+
+El campeón de la Copa Ecuador ganará cómo premio deportivo clasificar a la Copa Libertadores 2025 como Ecuador 4. 
+
+Tendrá que jugar desde la primera fase de eliminación. Para llegar a la fase de grupos **tendrá que superar tres fases**, aunque si llega a la tercera, se asegurará un cupo en la Copa Sudamericana. 
+
+De los tres semifinalistas, **Independiente del Valle es el único clasificado a la Libertadores** como Ecuador 1, por lo que si llega a la final de la Copa Ecuador tendrá que darle su cupo al otro finalista.
+
+Universidad Católica  
+----------------------
+
+Universidad Católica clasificó a las semifinales al eliminar en la tanda de penales a Técnico Universitario en el Olímpico Atahualpa por 4-3. En los 90 minutos empataron 2-2 en un cierre inesperado. 
+
+El arquero venezolano **Rafael Romo fue la gran figura de la ‘Chatoleí’** al atajar los penales del argentino Diego Ledesma y el colombiano Juan David Jiménez. 
+
+El camino de la ‘Cato’ arrancó en los dieciseisavos de final con un triunfo 0-1 ante La Paz de Manabí en el estadio Reales Tamarindos de Portoviejo. 
+
+En los **octavos de final fueron contundentes y golearon por 1-4** a Santa Elena Sumpa en Los Chirijos de Milagro.   
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_semifinales_1-1024x683.jpg)
+
+Foto: Instagram del club.
+
+Independiente del Valle 
+------------------------
+
+Independiente Del Valle fue campeón de la **Copa Ecuador en 2022**. En la final le ganó 3-1 a 9 de Octubre en el Olímpico Atahualpa. 
+
+En los cuartos de final de esta edición **eliminó 1-2 a Guayaquil City en el Christian Benítez**. Los del ‘Puerto principal’ eran el único equipo de la Serie B y una de las sorpresas. 
+
+Para los Del Valle el trayecto en la Copa Ecuador comenzó con un empate 0-0 en los 90 minutos ante Olmedo en el Olímpico de Riobamba. En la tanda de penales fueron más efectivos y ganaron 3-2. 
+
+En los octavos de final tuvo que **luchar hasta el minuto 90 para derrotar a Cuniburo**, el líder de la Serie B, por 1-2 en el Olímpico Atahualpa. 
+
+Este juego lo arrancaron perdiendo, pero luego sacaron toda su experiencia y empataron por intermedio del colombiano Jeison Medina y un blooper del arquero Luis Duque, que introdujo el balón a su propia meta. 
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_semifinales_2-1024x683.jpg)
+
+Foto: Instagram del club.
+
+Mushuc Runa 
+------------
+
+Mushuc Runa es la gran sorpresa de la Copa Ecuador. A edición seguida alcanza las semifinales y amenaza con llegar a la gran final. 
+
+En los cuartos de final **derrotó 2-1 a Libertad de Loja en La Cocha de Latacunga**, sumando una alegría a su temporada y agregando una nueva decepción a la floja campaña de los lojanos. 
+
+En los dieciseisavos de final el **‘Ponchito’ derrotó en penales por 4-3 a Leones FC** en el Olímpico de Ibarra. En los 90 minutos empataron 0-0. 
+
+En los **octavos de final vencieron 0-1 a Independiente Juniors**, el verdugo de Barcelona Sporting Club, en el estadio de Independiente del Valle.
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_semifinales_3-1024x683.jpg)
+
+Foto: Instagram del club.
+
+El Nacional
+-----------
+
+**El Nacional dejó en el camino a Liga de Quito**, uno de los favoritos para clasificarse a las semifinales y disputar el títulos.
+
+En los 90 minutos empataron 0-0 y en los penales **los rojos ganaron por 1-3 con el arquero David Cabezas** como la gran figura.
+
+El ‘Nacho’ en los dieciseisavos de final eliminó a Baños de Fuego en penales por 3-1. En el tiempo reglamentario el marcador fue 1-1.
+
+En los cuartos de final le ganaron 2-3 a Deportivo Santo Domingo en el Etho Vega.
+
+![Foto: Instagram de la competencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_semifinales_4-1024x683.jpg)
+
+Foto: Instagram de la competencia.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro
-================================================================================
+El Nacional eliminó a Liga de Quito de la Copa Ecuador
+======================================================
 
-Desde una plaza, la funcionaria hizo un llamado a celebrar unas "navidades felices, seguras y en familia".
-----------------------------------------------------------------------------------------------------------
+El Nacional avanza a las semifinales de la Copa Ecuador por segunda vez en su historia
+--------------------------------------------------------------------------------------
 
-![Personas se toman una fotografía junto a un árbol navideño este lunes, en Caracas (Venezuela).](https://www.elcomercio.com/wp-content/uploads/2024/10/Navidad-Venezuela.jpg)
+![Liga de Quito y El Nacional en los cuartos de final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T184821.606.jpg)
 
- La [Navidad](https://www.elcomercio.com/actualidad/mundo/venezuela-celebra-navidad-octubre-maduro.html "https://www.elcomercio.com/actualidad/mundo/venezuela-celebra-navidad-octubre-maduro.html") empezó este martes, 2 de octubre de 2024, en Venezuela, con **actos oficialistas en Caracas** y varias regiones del país, luego de que el presidente **Nicolás Maduro decretara el “adelanto”** de esta temporada, para lo que **varios espacios públicos** fueron decorados con **luces e imágenes típicas** de la festividad.
+El Nacional se ha clasificado entre los cuatro mejores de la Copa Ecuador tras igualar sin goles en los 90 minutos en el Estadio Rodrigo Paz Delgado, pero imponiéndose en la tanda de penales ante Liga de Quito
+
+Desde los once pasos, los visitantes superaron a la ‘U’ 3-1 destacando la gran actuación de David Cabezas, quien fue clave para la clasificación de su equipo a la siguiente ronda.
+
+### Más noticias:
+
+* [Liga de Quito busca redimirse del fracaso ante El Nacional](https://www.elcomercio.com/deportes/futbol/liga-de-quito-busca-redimirse-del-fracaso-ante-el-nacional.html "Liga de Quito busca redimirse del fracaso ante El Nacional")
+* [Liga de Quito y El Nacional sin ventaja en los mano a mano](https://www.elcomercio.com/deportes/futbol/liga-quito-nacional-copa-ecuador.html "Liga de Quito y El Nacional sin ventaja en los mano a mano")
+* [Liga de Quito domina a El Nacional en títulos oficiales](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-titulos.html "Liga de Quito domina a El Nacional en títulos oficiales")
+
+En las semifinales, El Nacional se enfrentará a Mushuc Runa, dirigido por Ever Hugo Almeida. Mientras tanto, en la otra llave se medirán Independiente del Valle y Universidad Católica.
+
+Se clavó el empate en ‘Casa Blanca’
+-----------------------------------
+
+El capitán de **Liga de Quito, Ezequiel Piovi,** abrió el marcador a los 10 minutos con un remate raso desde fuera del área, una de sus especialidades. Sin embargo, la anotación fue anulada tras una revisión en el **VAR**, que detectó una mano de Piovi en la acción previa. Así, el empate se mantuvo.
+
+> ¡ANULADO! ⚽❌  
+>   
+> ▶ Tras la revisión del VAR, el árbitro Gabriel González decretó que hubo mano de Ezequiel Piovi previo al gol DE [#LDU](https://twitter.com/hashtag/LDU?src=hash&ref_src=twsrc%5Etfw).[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) I COPA ECUADOR DIRECTV PLAYGREEN 2024 [pic.twitter.com/cs1fU37Pco](https://t.co/cs1fU37Pco)
+> 
+> — DSPORTS (@DSports) [October 2, 2024](https://twitter.com/DSports/status/1841603509143130310?ref_src=twsrc%5Etfw)
+
+Durante la primera mitad, Liga de Quito **mostró su dominio**, siendo el equipo que más intentaba, especialmente a través del juego aéreo. A pesar de ganar varios duelos, los albos no lograron concretar sus oportunidades en el área.
+
+**El Nacional**, aunque llegó poco, generó peligro en sus aproximaciones, aprovechando errores defensivos de Liga.
+
+El VAR jugó un rol crucial
+--------------------------
+
+En la reanudación del segundo tiempo, Alex Arce desperdició una clara oportunidad de gol por egoísmo. Sin embargo, Bryan Ramírez desbordó por el sector derecho a los 50 minutos y asistió a Fernando Cornejo. Este último sacó un centro que, en un principio, fue **cobrado como penal por el árbitro**, pero luego fue cancelado tras la revisión del VAR.
+
+El encuentro se mantuvo intenso, con ambos equipos buscando la victoria, pero el marcador final reflejó el empate.
+
+El Nacional tuvo una clara oportunidad en un rápido contragolpe que culminó con un remate de la **‘Tukita’ Ordóñez**, el cual salió ligeramente desviado.
+
+Liga de Quito continuó llegando con frecuencia al arco rival, pero la suerte no estuvo de su lado.
+
+A los 60 minutos, una fuerte falta de Luis Arce sobre Bryan Ramírez, en una jugada fortuita, resultó en la expulsión del jugador tras la revisión del **VAR**. Con esta decisión, **El Nacional se quedó con 10 hombre**s durante la última media hora del encuentro.
+
+> ¡EXPULSADO LUIS ARCE! 🟥  
+>   
+> ▶ Tras la revisión en el VAR, el árbitro González le mostró la tarjeta roja al jugador de El Nacional.[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) I COPA ECUADOR DIRECTV PLAYGREEN 2024 [pic.twitter.com/FItKO6TpE0](https://t.co/FItKO6TpE0)
+> 
+> — DSPORTS (@DSports) [October 2, 2024](https://twitter.com/DSports/status/1841620838090514879?ref_src=twsrc%5Etfw)
+
+El gol parecía inminente para la ‘U’, ya que el estadio Rodrigo Paz Delgado vibraba con la posibilidad, pero les faltó la contundencia necesaria para concretar sus oportunidades.
+
+En el último cuarto de hora, la **‘U’ acorraló a El Nacional** en su mitad de cancha, no los dejó respirar y controló el esférico, impidiendo que los puros criollos tuvieran la oportunidad de sorprender.
+
+Bryan Ramírez se fue expulsado en los minutos finales por dura falta sobre Fernando Mora y Liga de Quito se quedó con 10 hombres.
+
+El partido se definió desde los once pasos y El Nacional avanzó a la siguiente fase. La gran figura del partido fue David Cabezas, que atajó dos penales a Ezequiel Piovi y Leonel Quiñónez, respectivamente.
+
+Gobierno de Ecuador firmará contratos con petrolera argentina
+=============================================================
+
+La petrolera PCR invertirá 800 millones de dólares en Ecuador hasta 2048, tras la extensión de sus contratos en varios bloques petroleros.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Arévalo, gerente general de PCR. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/pcr.jpg)
+
+Está previsto que la petrolera **argentina PCR** (Petroquímica Comodoro Rivadavia) llegue a un acuerdo con el **Gobierno de Ecuador** para extender el contrato de exploración y explotación en el campo **Palanda Yuca Sur**, en la provincia de **Orellana**[.](https://es.wikipedia.org/wiki/PCR_(Petroqu%C3%ADmica_Comodoro_Rivadavia) "https://es.wikipedia.org/wiki/PCR_(Petroqu%C3%ADmica_Comodoro_Rivadavia)")
 
 ### Más noticias
 
-* [Venezuela celebra Navidad este 1 de octubre, ¿cuál es el motivo?](https://www.elcomercio.com/actualidad/mundo/venezuela-celebra-navidad-octubre-maduro.html "https://www.elcomercio.com/actualidad/mundo/venezuela-celebra-navidad-octubre-maduro.html")
-* [Lula busca reanudar conversación con Venezuela](https://www.elcomercio.com/actualidad/mundo/lula-busca-reanudar-conversacion-con-venezuela-vuelva-normalidad-democratica.html "Lula busca reanudar conversación con Venezuela")
-* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
+* [Más pozos de petróleo en el Yasuní se cierran](https://www.elcomercio.com/actualidad/negocios/apagado-pozos-petroleo-yasuni-bloque-itt.html "Pozos de petróleo en el Yasuní se cierran")
+* [Producción de petróleo no se recupera en Ecuador](https://www.elcomercio.com/actualidad/produccion-petroleo-ecuador-caida-economia-ecuador.html "Producción de petróleo no se recupera en Ecuador")
+* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
 
-Con una cuenta regresiva, la **alcaldesa de Caracas, Carmen Meléndez,** lideró el tradicional **encendido de una cruz** que se ubica en el **Waraira Repano**, la principal formación **montañosa de la capital venezolana**, conocida como el Ávila, que se impone en el norte de la ciudad.
+La firma del contrato de ampliación del **Bloque Palanda** está prevista para este jueves 3 de octubre de 2024, así lo informó **Francisco Arévalo,** gerente general de la petrolera. La extensión de la operación en este bloque será hasta 2037, con una inversión adicional de **50 millones de dólares** para desarrollo y exploración.
 
-Desde una plaza, la funcionaria hizo un llamado a celebrar unas **“navidades felices, seguras y en familia”,** mientras que el ministro de Cultura, Ernesto Villegas, quien también se encontraba en el acto, instó a aprovechar la **temporada para reafirmar la identidad nacional.**
+PCR inició la operación en Ecuador en 1999 y ha invertido 293 millones de dólares en estos 25 años, señaló Arévalo.
 
-Ruta navideña
+Además, agregó que la empresa también está negociando la extensión del contrato en el **Bloque Pindo**, en Orellana, con un compromiso de inversión de 67 millones de dólares. El objetivo es descubrir nuevas **reservas petroleras**. Aún no hay fecha para la firma de la ampliación de este contrato.
+
+En cuanto a la producción, **Palanda** actualmente genera 2 000 barriles diarios, mientras que el **Bloque Pindo** produce 4 000. Con las nuevas inversiones se espera aumentar la producción.
+
+Los contratos de extensión que se firmarán bajo el modelo de **prestación de servicios**, como está contemplado en el contrato original.
+
+Seis bloques adjudicados a la empresa argentina
+-----------------------------------------------
+
+Aparte de Palanda y Pindo, PCR se adjudicó cuatro bloques más: **Sahino, Arazá Este, Saywa y VHR Este**.
+
+Entre la ampliación del plazo de los dos bloques y las inversiones de explotación en los bloques de la ronda de **Intracampo I**: Sahino y Arazá Este y las inversiones exploratorias y de explotación en los bloques de la ronda **Intracacampos II,** **Saywa y VHR Este**, la empresa proyecta que en los próximos 24 años realizará una inversión de 800 millones de dólares en Ecuador, aseguró Arévalo, quien participó en el XVII Encuentro Anual de Energía y Petróleo (ENAEP) 2024, organizado por Seminarium, este miércoles 2 de octubre de 2024, en Quito.
+
+Respecto de los contratos de **Intracampos II**, firmados el 18 de mayo pasado, PCR ha entrado en las actividades exploratorias. Para avanzar a la siguiente fase se requiere el apoyo de las autoridades en el proceso de aprobación de los estudios de impacto ambiental con el fin de obtener las licencias, lo que permitirá avanzar en la perforación de los pozos exploratorios propuestos. La fase exploratoria tomará entre 3 y 4 años para después entrar en fase de explotación.
+
+“Entre los 6 bloques a cargo de la empresa, se estima alrededor de 90 millones de barriles entre reservas y recursos que, de ser confirmados, aportarán a la producción nacional, al crecimiento de la contratista, así como a la generación de nuevas fuentes de empleo”, dijo Arévalo.
+
+Inundaciones en varios barrios del sur de Quito por las intensas lluvias
+========================================================================
+
+En Quito se registraron varias inundaciones, sobre todo en los barrios del sur. En Guajaló hubo el deslizamiento de una quebrada.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![En el sur de Quito se registraron inundaciones por las fuertes lluvias de este 2 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/inunduaciones-sur-quito-.jpg)
+
+Las lluvias **i**ntensas en **Quito** provocaron **inundaciones** en **varios barrios** de la capital. El Cuerpo de Bomberos y el ECU 911 informaron este 2 de octubre del 2024 que debieron atender varias emergencias por inundaciones, sobre todo en el **sur** de Quito.
+
+### Más noticias
+
+* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
+* [Un tronco conservado miles de años aporta claves de solución climática](https://www.elcomercio.com/tendencias/ambiente/tronco-conservado-miles-anos-aporta-claves-solucion-climatica.html "Un tronco conservado miles de años aporta claves de solución climática")
+
+El ECU 911 informó además que las zonas más comprometidas por las **lluvias** son Nueva Aurora, Caupicho, Guajaló y La Lucha de los Pobres baja.
+
+Las inundaciones en los barrios del Sur de Quito
+------------------------------------------------
+
+En la Nueva Aurora y en Quitumbe, a la altura del Estadio del Aucas (av. Rumichaca y Moro Moro) y Solanda el Cuerpo de Bomberos trabajaba para destapar las alcantarrillas. Se pide a quienes circulan por estas zonas reducir la velocidad, encender las luces de sus vehículos y manejar con precaución ante la acumulación de agua.
+
+Vías cerradas
 -------------
 
-A juicio del funcionario, la “ruta navideña” que comenzó este martes, 2 de octubre de 2024, no debe ser “vacua, sin contenido”, sino, una oportunidad -sostuvo- para **“reafirmar las raíces” de Venezuela**.
+La Agencia Metropolitana de Tránsito de Quito informó del cierre de varias vías por las inundaciones. Hubo una vía cerrada por la caída de un árbol, en la avenida Universitaria. Pero los más complejos fueron en el sur, sobre todo a la altura de la Lucha de los Pobres.
 
-**Árboles de Navidad, túneles de luces y figuras como bolas, estrellas, lazos, cajas de regalo** y copos de nieve adornan varios espacios de Caracas, donde transeúntes se detienen unos instantes a tomarse fotografías, sobre todo, aquellos que van con niños, según Efe.
+La calle El Paraíso y avenida Maldonado estuvieron cerrados al tránsito por las lluvias. Las vías alternas eran la Simón Bolívar y la Mariscal Sucre.
 
-Edificios decorados
--------------------
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Lucha de Los Pobres  
+> 🚧 Cierres:  
+> ▶️ Calle El Paraíso  
+> ▶️Intersección de la av. Maldonado y 21 de agosto  
+> ⛈️ Motivo: inundación  
+>   
+> 👮‍☀ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/3lrDb4NOjG](https://t.co/3lrDb4NOjG)
+> 
+> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841591353211552187?ref_src=twsrc%5Etfw)
 
-Algunos edificios de **instituciones públicas** ya están también decorados, mientras continúan los trabajos en la ciudad, donde también se ven mensajes de Feliz Navidad y los típicos bastones de caramelo.
+La fuerza de la lluvia
+----------------------
 
-En la noche de este martes, **hubo conciertos y diversas actividades en Caracas** y estados como Miranda, Carabobo, Guárico y Lara, según imágenes transmitidas por el canal estatal Venezolana de Televisión (VTV).
+Varios videos circularon sobre la fuerza de la lluvia que caía en algunos sectores de Quito. En la red social X (anterior Twitter), uno de los más impactantes fueron los que se subieron a la cuenta de @Con\_GanasDe, en el que se ve a una moto que iba en sentido de las aguas.
 
-Crisis política
----------------
+> [#Alerta](https://twitter.com/hashtag/Alerta?src=hash&ref_src=twsrc%5Etfw) 🚨 | Otra vez fuertes [#lluvias](https://twitter.com/hashtag/lluvias?src=hash&ref_src=twsrc%5Etfw) y [#tormentas](https://twitter.com/hashtag/tormentas?src=hash&ref_src=twsrc%5Etfw) en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). Desde el Municipio confirman que atienden varias alertas por acumulación de agua, especialmente en el sector sur de Quito. Confirma [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) cierre vial de la Calle El Paraíso Intersección de la av. Maldonado y 21… [pic.twitter.com/A5vLfWzcWY](https://t.co/A5vLfWzcWY)
+> 
+> — Con Ganas De (@Con\_GanasDe) [October 2, 2024](https://twitter.com/Con_GanasDe/status/1841596412901130617?ref_src=twsrc%5Etfw)
 
-Entretanto, el país atraviesa una **crisis política desatada tras los comicios del 28 de julio,** en los que Maduro fue proclamado ganador por el **Consejo Nacional Electoral (CNE)** con base en unos resultados que aún se desconocen de forma desagregada, mientras que la oposición mayoritaria reclama la “victoria” de su abanderado, Edmundo González Urrutia, ahora exiliado en España.
+Varios cierres viales y siniestros de tránsito en Quito, la noche de este 2 de octubre
+======================================================================================
 
-El pasado 2 de septiembre, **Maduro anunció que adelantaría la Navidad “en homenaje”** y “en agradecimiento” a los venezolanos luego de las elecciones.
+La fuerte lluvia que cayó sobre Quito complicó la movilidad en el norte, centro y sur de la ciudad.
+---------------------------------------------------------------------------------------------------
 
-Posteriormente, la **Conferencia Episcopal de Venezuela (CEV)** expresó que esta festividad “no debe ser utilizada con fines propagandísticos ni políticos particulares”. 
+![Algunas calles se inundaron en el sur de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/q-lluvias.jpg)
 
-Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán
-====================================================================================
+La Agencia Metropolitana de Tránsito (**AMT**) informó de al menos **cinco cierres viales** en Quito, la tarde y noche de este miércoles 2 de octubre de 2024.
 
-Israel reconoció la muerte de al menos ocho soldados en los enfrentamientos fronterizos.
-----------------------------------------------------------------------------------------
+Cerca de las **18:00**, la entidad confirmó un siniestro de tránsito en la extensión de la **av. Simón Bolívar** y San José de Morán, en el norte.
 
-![Un partidario de Hizbulá sostiene este miércoles una pancarta con la imagen de Hassan Nasrallah, junto a los escombros de un edificio completamente destruido en Dahieh, un suburbio del sur de Beirut controlado por Hizbulá. EFE/EPA/JOAO RELVAS](https://www.elcomercio.com/wp-content/uploads/2024/10/rss-efe8aea46f62d32ae0caac37b19e6cf078779e9da14w.jpg)
+### Más noticias
 
-Los **combates** entre las fuerzas de la **milicia chií libanesa Hezbolá** y el **Ejército de Israel** continuaron el miércoles, 2 de octubre de 2024, en la zona fronteriza con la admisión de **bajas en el lado israelí** y un balance aún incierto de muertos en el Líbano, mientras la **comunidad internacional** pidió contención y condenó el ataque de Irán a Israel.
+* [Cortes de luz en Quito para este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-jueves-3-de-octubre.html "Cortes de luz en Quito para este jueves 3 de octubre")
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
+* [Adulta mayor falleció tras ser atropellada en el sur de Quito](https://www.elcomercio.com/actualidad/quito/adulta-mayor-fallecio-atropello-sur-quito.html "Adulta mayor falleció tras ser atropellada en el sur de Quito")
+
+En este lugar permanece cerrado el carril izquierdo, en sentido **norte-sur**.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: San José de Morán  
+> 🚧 Cierre: av. Simón Bolívar y San José de Morán  
+> 🛣️ Carriles cerrados: izquierdo, sentido norte-sur sobre la av. Simón Bolívar  
+> 💥Motivo: siniestro de tránsito.  
+>   
+> 👆🏼 Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/usGnzFNXQx](https://t.co/usGnzFNXQx)
+> 
+> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841613724265627855?ref_src=twsrc%5Etfw)
+
+Siniestro de tránsito en La Argelia
+-----------------------------------
+
+Dos horas antes, alrededor de las **16:00**, un hecho similar ocurrió en la vía, pero a la altura de **La Argelia**.
+
+Dos **vehículos pesados** se chocaron en el carril central del sentido norte-sur, antes del desvío a Tambillo.
+
+Mientras la emergencia fue atendida, agentes de la AMT cerraron este tramo de la vía hasta las **17:40**.
+
+Se desconoce si hubo personas afectadas en ambos siniestros.
+
+Cierre vial en Guápulo
+----------------------
+
+En la misma carretera perimetral, pero en el sector de **Guápulo**, hubo un tercer cierre vial.
+
+Al mediodía, parte de la carretera estuvo restringida al paso vehicular por al menos **una hora**, debido al deslizamiento de material pétreo en el carril derecho del sentido norte-sur.
+
+Árboles caídos y deslizamientos
+-------------------------------
+
+Pasadas las 16:30, la **caída de un árbol** obstaculizó el tránsito vehicular en parte de la av. Universitaria, en el sector de **Miraflores**, centro norte de Quito.
+
+En este lugar se cerró el carril derecho del sentido norte-sur, en la bajada hacia Miraflores.
+
+En otros sectores de la ciudad, las lluvias provocaron **inundaciones** en las calles.
+
+Lluvias afectaron la movilidad
+------------------------------
+
+En los barrios Nueva Aurora, Capucicho, Guajaló y Lucha de los Pobres, en el **sur de Quito**, se registró acumulación de agua en las vías.
+
+El sector más afectado fue este último. El **Cuerpo de Bomberos** confirmó que en la entrada a este sector, en Guajaló, una quebrada se desbordó; cerca existe una escuela que corría riesgo.
+
+Los estudiantes de la unidad educativa fueron **evacuados**.
+
+> 🌧🏠 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Las fuertes lluvias de esta tarde provocaron acumulación de agua en varios lugares del sur de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 👩🏻‍🚒 Nuestro equipo realiza labores para evacuar el agua acumulada.  
+>   
+> 📞 En caso de emergencia llama al 9-1-1.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/d5V4G7mFbs](https://t.co/d5V4G7mFbs)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 2, 2024](https://twitter.com/BomberosQuito/status/1841601123427189115?ref_src=twsrc%5Etfw)
+
+Por esta alerta se mantienen cerradas las **avenidas** Maldonado, El Paraíso y 21 de agosto.
+
+Efectivos de los Bomberos y AMT rescataron un vehículo que se quedó atrapado en medio del agua.
+
+En la alerta se utilizó maquinaria pesada, cinco camionetas, tres polivalentes y dos motocicletas.
+
+Toma precauciones al conducir bajo la lluvia
+--------------------------------------------
+
+Si conduces bajo la lluvia, recuerda que debes tomar **más precauciones** que lo habitual.
+
+El riesgo de sufrir un siniestro aumenta debido a **varios factores** que afectan la visibilidad, el control del vehículo y la seguridad en general.
+
+Con la lluvia, la **fricción** entre los neumáticos y la superficie se reduce, por ello, reduce la velocidad, aumenta la distancia de seguridad y frena con más tiempo.
+
+Además, te recomendamos **encender las luces** y evitar los movimientos bruscos con el vehículo.
+
+Al pasar por charcos de agua baja la velocidad para no mojar a los transeúntes.
+
+> ⛈️ [#SeguroTeMueves](https://twitter.com/hashtag/SeguroTeMueves?src=hash&ref_src=twsrc%5Etfw) | ¡Conduce con precaución!  
+>   
+> ☔️ Se registra lluvia y neblina en varios sectores de la ciudad, baja la velocidad, enciende las luces y mantén una distancia segura.  
+>   
+> 🫶🏽 Queremos que llegues sano y salvo a tu destino. 🫡  
+>   
+> Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WqqNXC6YGO](https://t.co/WqqNXC6YGO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 2, 2024](https://twitter.com/AMT_Quito/status/1841576686938124539?ref_src=twsrc%5Etfw)
+
+¿Cómo les fue a los ecuatorianos en la fecha 2 de la Champions League?
+======================================================================
+
+El camino de los ecuatorianos continúa en la Champions League, algunos van por buen camino, mientras otros buscan mejorar.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié en un partido de Champions League con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T174446.211.jpg)
+
+La **Uefa Champions League** trajo nuevos partidos este martes 1 y miércoles 2 de octubre, correspondientes a la segunda jornada de la fase de grupos del torneo. Hubo acción de cuatro **ecuatorianos**, todos titulares y figuras en sus respectivos equipos.
+
+Entre lo más positivo de la segunda jornada, es que los cuatro equipos donde militan los ecuatorianos terminaron en **puestos de clasificación** a la siguiente ronda, algunos con cupos directos a octavos y otros a dieciseisavos de final.
+
+### Más noticias:
+
+* [Willian Pacho y el PSG sucumben ante el Arsenal en Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-sucumben-ante-arsenal-champions-league.html "Willian Pacho y el PSG sucumben ante el Arsenal en Champions League")
+* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
+* [El Sparta Praga de Angelo Preciado empata en Champions](https://www.elcomercio.com/deportes/angelo-preciado-sparta-praga-stuttgart-champions.html "El Sparta Praga de Angelo Preciado empata en Champions")
+
+Angelo Preciado continúa invicto
+--------------------------------
+
+El primero de los ecuatorianos en mostrarse fue **Angelo Preciado**. El lateral derecho tuvo una destacada actuación con el **Sparta Praga**, y su equipo mantiene su invicto en la competencia.
+
+Los checos lograron un empate crucial 1-1 en su visita al **Stuttgart**, con una gran anotación de tiro libre de Kaan Kairinen.
+
+El Sparta Praga se encuentra en la **décima posición** con cuatro puntos.
+
+![Angelo Preciado durante el precalentamiento del Sparta Praga en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-01T131405.905-1024x683.jpg)
+
+**Willian Pacho sufre su primera derrota**
+------------------------------------------
+
+**Willian Pacho y el París Saint-Germain** se llevaron una dolorosa derrota, la primera de la temporada y en la competencia. El conjunto parisino cayó 0-2 ante el Arsenal en el Emirates Stadium, en Inglaterra.
+
+Aunque Pacho tuvo cierta complicidad en el primer gol por un error de marcaje, el ecuatoriano **mejoró notablemente su actuación** y fue clave en varios momentos del partido.
+
+El París Saint-Germain está en la **decimonovena posición** con tres puntos.
+
+![Willian Pacho junto con la plantilla del París Saint-Germain en la Uefa Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-01T154535.073-1024x683.jpg)
+
+Piero Hincapié suma su segunda victoria
+---------------------------------------
+
+El **Bayer Leverkusen de Piero Hincapié** está llamado a ser uno de los protagonistas de esta Champions League, y lo está demostrando. Los ‘farmacéuticos’ lograron una importante victoria por 1-0 ante el AC Milan en Alemania.
+
+Hincapié fue titular y **estuvo muy cerca de marcar su primer gol en la Champions** League, pero Mike Maignan le negó el grito con una gran atajada. Como de costumbre, el defensor mostró solidez en la zaga.
+
+El Bayer Leverkusen ocupa la **cuarta posición** con seis puntos.
+
+![Piero Hincapié en la Bundesliga con el Bayer Leverkusen en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_piero_1-1024x683.jpg)
+
+Joel Ordóñez suma sus primeros puntos
+-------------------------------------
+
+**Joel** **Ordóñez**, nuevamente titular con el Club Brujas, tuvo una destacada actuación en la victoria por 1-0 sobre el Sturm Graz del fútbol austríaco.
+
+Gracias a esta primera victoria en la Champions League, el conjunto belga escaló posiciones y **se ubica en el puesto 21**, con tres unidades.
+
+![Joel Ordóñez con el Club Brujas en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/ordonez_gol_1-1024x683.jpg)
+
+Dragonas Independiente debuta en la Copa Libertadores Femenina
+==============================================================
+
+Dragonas Independiente representará a Ecuador en la Copa Libertadores Femenina 2024 en Paraguay.
+------------------------------------------------------------------------------------------------
+
+![Karen Páez (c) es una de las figuras de Dragonas Independiente en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_1.jpg)
+
+Dragonas Independiente, **club que representa al Independiente del Valle de Ecuador**, comandadas por el técnico colombiano Gustavo Pineda, debutará el próximo viernes 4 de octubre de 2024, contras las experimentadas jugadoras de Ferroviaria, de Brasil, en la Copa Libertadores Femenina de Paraguay.
+
+El equipo ecuatoriano alcanzó, el pasado 21 de septiembre, su **primer título de la Superliga Femenina** al mando de Pineda, que llegó a comienzo de año desde el América de Cali, después de que el equipo de Quito había perdido las finales de 2022 contra Ñañas y en 2023 frente a Barcelona Sporting Club.
+
+### Más noticias:
+
+* [Sergio Busquets apoya una posible huelga de futbolistas](https://www.elcomercio.com/deportes/futbol/sergio-busquets-apoya-una-posible-huelga-de-futbolistas.html "Sergio Busquets apoya una posible huelga de futbolistas")
+* [Keny Arroyo brilla en Independiente del Valle y la Liga Pro](https://www.elcomercio.com/deportes/futbol/keny-arroyo-brilla-en-independiente-del-valle-y-la-liga-pro.html "Keny Arroyo brilla en Independiente del Valle y la Liga Pro")
+* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
+
+Las Dragonas resultaron imparables de principio a fin en el reciente torneo, **adjudicándose de manera invicta el título contra Barcelona de Guayaquil**, ganándole los dos partidos y dejando en claro que buscará los mejores resultados en la próxima Libertadores de Paraguay.
+
+Dragonas Independiente y sus refuerzos
+--------------------------------------
+
+Pineda armó su equipo con la experimentada defensa paraguaya Verónica Riveros; **las volantes, la argentina Claudia Roldán**, la brasileña Larissa Nunes y la goleadora colombiana Karen Páez.
+
+Con ellas y el buen funcionamiento colectivo alcanzado, logró ensamblar un equipo con gran solvencia defensiva y efectividad sobre el arco contrario, **donde se destacaron durante la temporada local**, la ecuatoriana Nayely Bolaños y la colombiana Páez.
+
+Las grandes ausentes en Paraguay serán Ambar Torres y María Bravo, que se **recuperan de las cirugías a las que se sometieron** debidos a las lesiones sufridas, pero las Dragonas se han reforzado, para la Libertadores, con Rosa Miño y Naomy Gómez, de Las Guerreras Albas.
+
+Si bien, para Dragonas será el debut en el torneo sudamericano, su entrenador Pineda, **buscará la revancha de la Libertadores** que perdió en la final de 2020 con el América de Cali precisamente contra Ferroviaria, equipo brasileño que también ganó el título de 2015.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_2-1024x683.jpg)
+
+Foto: Facebook del club.
+
+Calendario del grupo C
+----------------------
+
+### Viernes 4/10
+
+20:00 Ferroviária vs. Dragonas Independiente
+
+Estadio: Arsenio Erico, Asunción
+
+### Lunes 7/10
+
+20:00 Dragonas Independiente vs. Santa Fe
+
+Estadio: Arsenio Erico, Asunción
+
+### Jueves 10/10
+
+17:30 Dragonas Independiente VS. Peñarol
+
+Estadio: CARFEM, Ypané
+
+Campeonas de la Copa Libertadores Femenina
+------------------------------------------
+
+2009: Santos (Brasil)
+
+**2010: Santos (Brasil)**
+
+2011: Sao José (Brasil)
+
+**2012: Colo-Colo (Chile)**
+
+2013: Sao Jorge (Brasil)
+
+**2014: Sao Jorge (Brasil)**
+
+2015: Ferroviária (Brasil)
+
+**2016: Sportivo Limpeño (Paraguay)**
+
+2017: Audax/Corinthians (Brasil)
+
+**2018: Atlético Huila (Colombia)**
+
+2019: Corinthians (Brasil)
+
+**2020: Ferroviária (Brasil)**
+
+2021: Corinthians (Brasil)
+
+**2022: Palmeiras (Brasil)**
+
+2023: Corinthians (Brasil)
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_copa_3-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Así luce el río Amazonas ante devastadora sequía
+================================================
+
+Los niveles del río Amazonas estuvieron en descenso desde meses anteriores y este comportamiento.
+-------------------------------------------------------------------------------------------------
+
+![Sequía en el río Amazonas.](https://www.elcomercio.com/wp-content/uploads/2024/10/rio-amazonas-tiempo.jpg)
+
+El director general de la **Unidad Nacional** para la **Gestión del Riesgo de Desastres (UNGRD),** Carlos Carrillo Arenas, lideró una **comisión técnica** de emergencia en el Amazonas debido a la grave [sequía](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html") que enfrenta el departamento. Esto genera una **disminución del 80 % de la lámina de agua** del río Amazonas.
+
+### Más noticias
+
+* [Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?](https://www.elcomercio.com/actualidad/negocios/colombia-suspende-venta-energia-ecuador-motivos.html "Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?")
+* [Este es el país más caro de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "Este es el país más caro de América Latina para vivir")
+* [Racionamientos de agua en Bogotá se deben a la reducción en los niveles de reservorios](https://www.elcomercio.com/actualidad/mundo/racionamientos-agua-bogota-reduccion-niveles-reservorios.html "Racionamientos de agua en Bogotá se deben a la reducción en los niveles de reservorios")
+
+El funcionario y su equipo técnico realizaron un **reconocimiento del estado del río**, recorriendo los puntos críticos, uno de ellos ubicado en el **municipio de Puerto Nariño**, donde se inspeccionó el río Loretoyaco, un brazo del Amazonas.
+
+La sequía interrupción su **conexión con el lago de Tarapoto,** afectando a los delfines rosados y al abastecimiento de agua para cerca de 10 comunidades indígenas, con una población de 3 000 personas.
+
+Actualmente las regiones de Amazonia**, occidente de la Orinoquia, Andina**, sur del Caribe y sur del Pacífico presentan déficit de lluvias por encima del 60 %; incluso el sur de la Amazonía está entre el 60 % y 80 %, de acuerdo con el Ideam.
+
+Además, los niveles del **río Amazonas estuvieron en descenso** desde meses anteriores y este comportamiento, aunque es típico en esta época del año, estuvo más acentuado que en años anteriores para el mes de agosto.
+
+Luego de un extenso **recorrido por el afluente,** la visita a las comunidades indígenas y la realización del Consejo Departamental de Gestión del Riesgo, el director de la UNGRD se comprometió a implementar acciones inmediatas para atender la emergencia causada por la sequía.
+
+Las primeras medidas incluyen la **entrega de motobombas y mangueras** para garantizar el suministro de agua en los territorios indígenas, hoy aislados por los bajos niveles del afluente.
+
+“Nuestra atención inmediata comienza con la entrega de **motobombas y mangueras,** y esperamos la estructuración del Plan de Acción Específico (PAE) para entregar tanques, plantas potabilizadoras portátiles y motobombas a presión para 11 comunidades indígenas aisladas. Además, iniciaremos un contrato de exploración técnica de fuentes subterráneas”, dijo Carrillo.
+
+El funcionario se comprometió a **brindar asistencia técnica al departamento para la elaboración** del Plan de Acción Específico (PAE), la Evaluación de Daños y Análisis de Necesidades (EDAN), el Registro Único de Damnificados (RUD) y la posible entrega de Asistencia Humanitaria de Emergencia, tanto alimentaria como no alimentaria.
+
+“Vamos a modificar la resolución que estandariza los kits de Asistencia Humanitaria de Emergencia Alimentaria, porque en el Amazonas hay una particularidad, los **granos y las legumbres** que se entregan normalmente se pierden, vamos a reemplazar estos productos por otros que se adapten al Plan de Alimentación Escolar del territorio”, concluyó el director.
+
+Shakira no incluye a Ecuador en su gira y los fans reaccionan en Instagram 
+===========================================================================
+
+Shakira anunció su gira mundial Las Mujeres Ya No Lloran y hasta el momento Ecuador no está incluido.
+-----------------------------------------------------------------------------------------------------
+
+![La noticia de que Ecuador no está incluido en el itinerario de la gira ha generado reacciones mixtas. Foto: www.thebostoncalendar.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/Shakira-gira-instagram.jpg)
+
+La icónica cantante colombiana **Shakira** ha anunciado oficialmente su tan esperada gira mundial **Las Mujeres Ya No Lloran**.  
+
+### Más noticias
+
+* [Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html") 
+* [(Video) Shakira enfrentó un incómodo momento en club de Miami](https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html?source=Internal&ref=Single+Content+Link") 
+
+El anuncio ha generado una **gran expectación** entre sus seguidores, quienes han esperado ansiosamente el **regreso de Shakira a los escenarios** desde su última gira en 2018. La gira incluirá fechas en México, Brasil, Argentina, Chile y Colombia, según [El Mundo](https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html "https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html"). 
+
+**Ecuador queda fuera de la gira de Shakira** 
+----------------------------------------------
+
+A pesar de la emoción generalizada, la noticia de que **Ecuador, hasta el momento, no está incluido en el itinerario de la gira** ha generado una ola de reacciones mixtas entre los fanáticos ecuatorianos. Muchos seguidores expresaron su decepción en redes sociales, al lamentar que su país no forme parte de esta celebración musical. 
+
+**Reacciones de los fans en Instagram** 
+----------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAoNOakvALb/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAoNOakvALb/?utm_source=ig_embed&utm_campaign=loading)
+
+Las **redes sociales** se llenaron rápidamente de comentarios de **fans ecuatorianos.** Algunos expresaron su tristeza y frustración, mientras que otros mostraron su apoyo incondicional a la artista. 
+
+En el [**Instagram de EL COMERCIO**](https://www.instagram.com/p/DAoNOakvALb/?img_index=1 "https://www.instagram.com/p/DAoNOakvALb/?img_index=1"), varias personas reaccionaron ante la noticia. Algunos, apesadumbrados, comentaron: \*no viene a Ecuador 😭”; “Tocó ir a Medellín, que tristeza 😍”. 
+
+Otros relacionaron la noticia con la **coyuntura actual del país y los apagones**: “No hay ni luz y esperan que haya conciertos 😢”; “Muy sensato no en Ecuador……será a capela y a la luz de la luna o de las velas 🤭”; “y para q va a venir a ecuador si nooo hay luz”. 
+
+En otros comentarios, recordaron el famoso mix de **Shakira y Bizarrap** dedicado a su **ex Piqué**, especialmente la parte en la que canta: “Las mujeres ya no lloran, las mujeres facturan,” que da nombre al tour: “Mejor que facture en otro lado 😂😂”; “Traigan a Pike y la @kingsworld #kingsleague eso si vale la pena”. 
+
+Entre los más creativos, algunos fans aludieron a que **Shakira**, en su pasado menos ‘famoso’, cuando despuntaba con canciones como **Pies descalzos**, sí había pasado por Ecuador: “Cuando tenías los pies descalzos jajaja buena michimercio 👏”; “Cuando era patallucha????😂😂😂”. 
+
+**Un tour que promete ser inolvidable** 
+----------------------------------------
+
+La gira **Las Mujeres Ya No Lloran** promete ser un evento inolvidable, con una producción de alta calidad y **un repertorio que incluirá tanto los nuevos éxitos de Shakira como sus clásicos más queridos**. La cantante ha trabajado arduamente para ofrecer u**n espectáculo que celebre la fuerza y la resiliencia de las mujeres**, un tema central en su último álbum. 
+
+16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador
+========================================================================
+
+De los 16 binomios presidenciales inscritos, cuatro ya fueron calificados y de uno se negó la calificación y la inscripción para las elecciones 2025.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El CNE cerró una etapa más en el proceso para las elecciones 2025 con 16 binomios presidenciales inscritos.](https://www.elcomercio.com/wp-content/uploads/2024/05/votaciones.jpg)
+
+El **Consejo Nacional Electoral (CNE)** cerró la etapa de inscripción de candidaturas para las **elecciones 2025** en Ecuador, este miércoles 2 de octubre de 2024, a las 18:00, con **16 binomios presidenciales inscritos**[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador))
+
+**De los 16 binomios presidenciales inscritos, cuatro ya fueron calificados y de uno se negó la calificación y la inscripción.**
+
+### Más noticias:
+
+* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
+* [Paridad es un requisito para la inscripción en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/paridad-requisito-inscripcion-elecciones-2025.html "Paridad es un requisito para la inscripción en las elecciones 2025")
+
+El **9 de febrero de 2025**, los ecuatorianos elegirán **Presidente y Vicepresidente de la República, asambleístas y parlamentarios andinos**.
+
+A las 18:54 de este miércoles, el CNE emitió un reporte preliminar con el número de listas inscritas por dignidad.
+
+Para asambleístas nacionales, se inscribieron 16 listas y, para parlamentarios andinos, 15 listas.
+
+Además, para asambleístas por el exterior están 32 listas, y provinciales y por circunscripción 463.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-4.png)
+
+Fuente y elaboración: CNE
+
+16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador
+------------------------------------------------------------------------
+
+El último binomio en inscribirse fue el de Pachakutik, con Leonidas Iza y Katiuska Molina.
+
+Lo hizo a través de un acto simbólico en el CNE y luego de forma virtual, para oficializar la candidatura.
+
+Las organizaciones políticas que inscribieron su binomio presidencial son: Creando Oportunidades (CREO), Acción Democrática Nacional (ADN).
+
+Además, Centro Democrático, Sociedad Patriótica, Unidad Popular, Partido Socialista, Revolución Ciudadana en alianza con Reto.
+
+Sociedad Unida Más Acción (SUMA), Democracia Sí, Construye, Movimiento Amigo/Acción Movilizadora Independiente, Generando Oportunidades.
+
+Izquierda Democrática (ID), Pueblo Igualdad Democracia (PID), Partido Social Cristiano (PSC), Avanza.
+
+Luego de la inscripción, el Pleno **del CNE califica cada una de las candidaturas.**
+
+La tarde de este miércoles, el Pleno del **CNE negó la candidatura del binomio conformado por Jimmy Jairala y Lucía Vallecilla**, de **Centro Democrático**.
+
+Jairala tiene 48 horas para subsanar los errores, pues no cumple con los requisitos legales establecidos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-3.png)
+
+Fuente y elaboración: CNE
+
+Cuatro de los 16 binomios presidenciales inscritos fueron calificados, uno tiene 48 horas para subsanar errores
+---------------------------------------------------------------------------------------------------------------
+
+Hasta la tarde de este miércoles, el CNE había calificado a cuatro de los 16 binomios presidenciales inscritos.
+
+Estos son los binomios de: **Creando Oportunidades (CREO), Unidad Popular (UP), Sociedad Patriótica (SP) y Acción Democrática Nacional (ADN)**.
+
+Además, el Pleno del CNE negó la candidatura del binomio de **Centro Democrático (CD)** por errores en la declaración juramentada y falta de firma del secretario en el formulario.
+
+CD tiene 48 horas para subsanar estos errores.
+
+La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro
+=================================================================
+
+Con la renuncia de Henry Kronfle a la Asamblea Nacional, Viviana Veloz asumió la Presidencia y dejó una vacante en la Vicepresidencia.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Viviana Veloz luego de su posesión como nueva presidenta en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea-viviana.png)
+
+El cambio de mando en la **Asamblea Nacional** trae consigo una serie de **movimientos clave en la política** ecuatoriana. **Viviana Veloz**, de la bancada de la Revolución Ciudadana, asumió la presidencia del Legislativo en reemplazo del socialcristiano **Henry Kronfle** este 2 de octubre de 2024.
+
+### Más noticias
+
+* [Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?](https://www.elcomercio.com/actualidad/politica/henry-kronfle-renuncia-presidencia-asamblea-quien-lo-reemplazo.html "Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?")
+* [Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html "Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro")
+* [Henry Kronfle, en la recta final en la Asamblea, ¿y Daniel Noboa?](https://www.elcomercio.com/actualidad/politica/henry-kronfle-recta-final-asamblea-daniel-noboa.html "Henry  Kronfle, en la recta final en la Asamblea, ¿y Daniel Noboa?")
+
+No obstante, este relevo no será el único cambio importante. La **vicepresidencia que dejará vacante Veloz** se ha convertido en el nuevo **foco de disputas entre diferentes fuerzas políticas**, ya que quien ocupe este puesto presidirá la Asamblea durante la campaña para las **elecciones generales de 2025**.
+
+> [#AsambleaInforma](https://twitter.com/hashtag/AsambleaInforma?src=hash&ref_src=twsrc%5Etfw)  
+> La presidenta de la Legislatura, Viviana Veloz, expresa su compromiso: “Juntos vamos a hacer de la Asamblea una institución en la que ciudadanos y ciudadanas se sientan representados y escuchados”  
+>   
+> ▶️[https://t.co/tOqDS18Ttd](https://t.co/tOqDS18Ttd) [pic.twitter.com/Xjg26ti1Dy](https://t.co/Xjg26ti1Dy)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 2, 2024](https://twitter.com/AsambleaEcuador/status/1841528067379876175?ref_src=twsrc%5Etfw)
+
+Las apuestas de Construye y el PSC
+----------------------------------
+
+Los nombres de **Gabriel Bedón, del movimiento Construye, y Otto Vera, del Partido Social Cristiano (PSC)**, emergen como los principales candidatos para ocupar la vicepresidencia. Bedón fue propuesto por su bancada cuando se instaló la Asamblea en noviembre de 2023, y su figura vuelve a sonar con fuerza en este nuevo proceso.
+
+**Jorge Peñafiel**, asambleísta de Construye, destacó que la **mayoría de votos será determinante para elegir al nuevo vicepresidente**. Asimismo, confía en que Bedón tiene las cualidades necesarias para ocupar el cargo.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | El asambleísta de Construye Jorge Peñafiel afirma que propondrán al jefe de bancada, Gabriel Bedón, como candidato a la primera Vicepresidencia de la Asamblea. Esto, una vez que Henry Kronfle renuncie y su cargo sea asumido por la asambleísta Viviana Veloz. [pic.twitter.com/9VYy1trRLA](https://t.co/9VYy1trRLA)
+> 
+> — Ecuador Chequea (@ECUADORCHEQUEA) [October 1, 2024](https://twitter.com/ECUADORCHEQUEA/status/1841138107158040582?ref_src=twsrc%5Etfw)
+
+Por su parte, Otto Vera sostiene que el PSC, a pesar de ser la **tercera minoría en la Asamblea**, merece la vicepresidencia. Su partido ha visto disminuir su fuerza debido a los cambios de camiseta que ha promovido el oficialismo.
+
+Sin embargo, Vera considera que su **experiencia y la trayectoria de su partido** son razones suficientes para ocupar este puesto estratégico.
+
+Correísmo y alianzas políticas
+------------------------------
+
+El voto del correísmo será crucial en esta contienda. Aunque **Construye** ha mantenido una distancia estratégica con esta fuerza política. Lo mismo con el **Partido Social Cristiano**, quien en algunas votaciones **no ha apoyado al correísmo**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAoq2nIOhzx/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAoq2nIOhzx/?utm_source=ig_embed&utm_campaign=loading)
+
+Mientras tanto, la bancada correísta, que ya tiene asegurada la presidencia con Viviana Veloz, sigue evaluando las posibilidades. La capacidad d**e negociación de los socialcristianos y la habilidad de Construye** para sumar apoyos serán factores **determinantes en los próximos días**.
+
+La pugna del oficialismo
+------------------------
+
+Acción Democrática Nacional (ADN), la bancada oficialista, también tiene **planes para la vicepresidencia**. Aunque actualmente **controlan la segunda vicepresidencia con Eckener Recald**e, el oficialismo estaría dispuesto a ceder ese puesto si a cambio logran **quedarse con la primera vicepresidencia**.
+
+> 🟣COMUNICADO🟣[#PalenciaContraElNarco](https://twitter.com/hashtag/PalenciaContraElNarco?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/eoZity54sC](https://t.co/eoZity54sC)
+> 
+> — Bancada ADN (@BancadaADN) [October 1, 2024](https://twitter.com/BancadaADN/status/1841104097518256460?ref_src=twsrc%5Etfw)
+
+Los próximos días serán clave para definir el **futuro de la vicepresidencia de la Asamblea Nacional** y el equilibrio de **poder dentro del legislativo**, mientras las distintas fuerzas políticas intensifican su cabildeo para asegurar el control de este puesto estratégico.
+
+La votación para conocer al nuevo vicepresidente de la **Asamblea Nacional** se realizaría el viernes 4 de octubre de 2024.
+
+Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv
+================================================================================
+
+Los combatientes de la Resistencia Islámica dispararon este miércoles 2 de octubre de 2024, un misil balístico tipo 'Qader-1'.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Oficiales forenses israelíes inspeccionan el lugar de un tiroteo en Tel Aviv, Israel, el 1 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/751afd337398b6c31ec15ef1fc5f9f77d8ef66fe.jpg)
+
+El grupo chií libanés [Hezbolá](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html") aseguró este miércoles, 2 de octubre de 2024, que lanzó un misil de crucero contra la **sede del servicio de inteligencia israelí** Mosad a las afueras de Tel Aviv, en medio de una **escalada sin precedentes** desde el inicio de los enfrentamientos entre las partes hace casi un año.
 
 Más noticias
 ------------
 
+* [Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán")
 * [Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá](https://www.elcomercio.com/actualidad/mundo/opiniones-divididas-sobre-muerte-lider-hezbola-hasan-nasrala.html "Opiniones divididas sobre la muerte del líder de Hezbolá, Hasán Nasralá")
-* [Israel declara persona ‘non grata’ al secretario general de la ONU, António Guterres](https://www.elcomercio.com/actualidad/mundo/israel-declara-persona-non-grata-secretario-general-onu-antonio-guterres.html "Israel declara persona ‘non grata’ al secretario general de la ONU, António Guterres")
-* [Netanyahu dice que Irán ‘cometió un gran error y pagará por ello’ tras ataque a Israel](https://www.elcomercio.com/actualidad/mundo/netanyahu-iran-gran-pagara-ataque-israel.html "Netanyahu dice que Irán ‘cometió un gran error y pagará por ello’ tras ataque a Israel")
+* [Los ataques de Israel contra el Líbano dejan ya casi 2 000 fallecidos](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-2-000-muertos.html "Los ataques de Israel contra el Líbano dejan ya casi 2 000 fallecidos")
 
-Con un **recuento oficial de víctimas aún no actualizado** por parte del Gobierno libanés desde la medianoche del martes de **55 muertos y 156 heridos**, Israel reconoció la muerte de al menos ocho soldados en los enfrentamientos fronterizos mientras e**l gurpo chií Hizbulá** asegura haber emboscado una fuerza israelí.
+“Los **combatientes de la Resistencia Islámica** dispararon este miércoles 2 de octubre de 2024, un **misil balístico tipo ‘Qader-1’** contra el cuartel general de la comandancia del Mosad en los suburbios de Tel Aviv, responsable del asesinato de líderes”, indicó Hizbulá en un comunicado. 
 
- “Mientras una **fuerza enemiga israelí** intentaba rodear la ciudad de Yaroun desde la dirección de Al Harsh, los muyahidines (combatientes) de la resistencia islámica la sorprendieron a las 14:00, detonando un **dispositivo especial** y matando e **hiriendo a todos los miembros de la fuerza**“, dijo Hizbulá en un comunicado.
+Ataque terrorista en Tel Aviv
+-----------------------------
 
-Además, aseguró que **repelieron la entrada de una “fuerza de infantería” israelí** a la localidad fronteriza de Oddaisseh y reivindicó **cuatro ataques con cohetes, misiles o artillería** lanzados contra posiciones del Ejército en diferentes puntos del norte de Israel.
+Al menos cuatro personas murieron en un **tiroteo realizado por dos supuestos terroristas** el martes, 2 de octubre de 2024, en el barrio de Jaffa, cerca de la estación de tranvía al sur de Tel Aviv, en el que resultaron heridos además siete personas, según informó un portavoz de la Policía israelí.
 
-Israel confirmó la muerte de **ocho soldados en combate desde que las tropas entraron en el Líbano** en la madrugada del martes, los primeros fallecidos en territorio libanés desde la guerra de 2006
+El portavoz indicó que hubo **cuatro civiles muertos** por los disparos de dos terroristas, en Sderot Yerushalim, en Tel Aviv, en un ataque en le que resultaron heridas siete personas con diferente grado de gravedad.
 
-Este miércoles por primera vez el **Ejército habló ya de “choques a corta distancia”** en los que asegura que sus soldados de la División 98, en cooperación con la fuerza aérea, eliminaron a milicianos.
+La fuente añadió que “**ambos terroristas fueron neutralizados en el lugar**” y que hay un gran despliegue de seguridad en el lugar realizando registros en busca de “amenazas adicionales”.
 
-Netanyahu dice que Israel lucha contra el eje del mal
------------------------------------------------------
+El comisionado de policía R.N.C. Danny Levy se encuentra en el lugar junto con el comando del distrito de Tel Aviv.
 
-![Jerusalén, 2 oct (EFE).- Miembros de la brigada de paracaidistas del Ejército israelí avanzan por el sur de Líbano este miércoles. EFE/ IDF - SOLO USO EDITORIAL/SOLO DISPONIBLE PARA ILUSTRAR LA NOTICIA QUE ACOMPAÑA (CRÉDITO OBLIGATORIO) -
-](https://www.elcomercio.com/wp-content/uploads/2024/10/rss-efe1a49cd9a3046e1036d2f3941af217df0affd489ew-1200x799.jpg)
+El ataque se produjo minutos antes de que **saltaran las alarmas en Israel** por el ataque con misiles desde Irán, que ha llevado a las autoridades israelíes a llamar a la población a refugiarse en bunkers para protegerse de la acción militar.
 
-El primer ministro de Israel, Benjamín Netanyahu, aseguró que el país se encuentra “en medio de una dura guerra contra el **eje del mal de Irán**“, en un comunicado en el que presentó sus condolencias por la muerte de los ocho soldados.
+Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos 
+=======================================================
 
-“Dios salve su sangre. Que su memoria sea bendita”, dijo el mandatario en un videocomunicado difundido por su oficina.
+El uso de 'cracks' y 'cheats' en videojuegos puede comprometer la seguridad digital.
+------------------------------------------------------------------------------------
 
-En el **Líbano continúan la salida de personas hacia territorio sirio**. La agencia de la ONU para los Refugiados (ACNUR) aseguró este miércoles que alrededor de **128 000 personas han cruzado a Siria** desde el Líbano desde el inicio de la campaña israelí.
+![Los ‘cracks’ eliminan restricciones en juegos y software, y los ‘cheats’ otorgan ventajas en el ‘gameplay’. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cracks-cheats-videojuegos.jpg)
 
-La oficina de Siria de la agencia calcula que de los 128 000, un 70 % son sirios, mientras que el resto son libaneses, de acuerdo a un informe, en el que señala que muchos de ellos han acudido al **paso fronterizo** de Jdeidet Yabous, en el este del Líbano.
+En el **mundo de los videojuegos**, la tentación de usar **‘cracks’ y ‘cheats’** es grande. Estos programas prometen **desbloquear contenido ‘premium’ o proporcionar ventajas injustas**. Sin embargo, los riesgos asociados con su uso son significativos y pueden **comprometer tanto la seguridad de tu dispositivo como tu información personal**. 
 
-Irán acusa a Israel, advierte ante posibles reacciones
-------------------------------------------------------
+### Más noticias
 
-Miles de **iraníes se congregaron este miércoles, el 2 de octubre de 2024,** en las calles de Teherán para celebrar el ataque con misiles de su **país contra Israel la víspera,** con gritos de “muerte a Israel” y “muerte a Estados Unidos”.
+* [Historia y evolución de Nintendo en sus 135 años de historia](https://elcomercio.com/games/nintendo-videojuegos-historia-hanafuda.html "https://elcomercio.com/games/nintendo-videojuegos-historia-hanafuda.html") 
+* [¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer!](https://www.elcomercio.com/games/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html "https://www.elcomercio.com/games/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html") 
 
-El **ministro de Asuntos Exteriores de Irán, Seyed Abbas Araghchi**, pidió ante el Consejo de Derechos Humanos de la ONU que la comunidad internacional “no siga permaneciendo en silencio” ante la ofensiva israelí ya que, aseguró, “es el momento de actuar con decisión”.
+**¿Qué son los ‘cracks’ y ‘cheats’?** 
+--------------------------------------
 
-“**Una acción rápida y decisiva es un imperativo moral**“, afirmó en un mensaje de vídeo durante un debate sobre la situación de los derechos humanos en los Territorios Palestinos Ocupados.
+Los **cracks**, a decir de [24 horas](https://www.24horas.cl/tendencias/videojuegos/los-riesgos-de-usar-cheats-y-cracks-en-los-videojuegos "https://www.24horas.cl/tendencias/videojuegos/los-riesgos-de-usar-cheats-y-cracks-en-los-videojuegos"), son **programas que alteran archivos específicos de un juego o ‘software’** para eliminar restricciones, como la verificación de licencia. Por ejemplo, un ‘crack’ puede **modificar el archivo ejecutable principal de un juego** para que siempre devuelva un resultado positivo, y permitir así **jugar sin pagar**. 
 
-En otras declaraciones a periodistas Araghchi **advirtió a los países de la región** que Irán considerará como “enemigo” a aquellos que cedan su espacio aéreo a Israel para una posible represalia contra su país.
+Por otro lado, los **‘cheats’** modifican archivos de configuración o introducen nuevos archivos en el sistema del juego para **otorgar ventajas**, como salud infinita o munición ilimitada, según la página [Delfino](https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos "https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos"). 
 
-También habló el líder supremo, Ali Jameneí, en un **encuentro con estudiantes en Teherán,** en el que culpó a Estados Unidos y a países europeos de las tensiones en Oriente Medio, aunque guardó silencio acerca del ataque de anoche contra Israel.
+**Riesgos de seguridad** 
+-------------------------
 
-“La base de los **problemas de la región** es la presencia de actores como Estados Unidos y algunos países europeos que claman falsamente por la paz y tranquilidad”, dijo Jameneí.
+Uno de los principales **riesgos de usar ‘cracks’ y ‘cheats’** es la posibilidad de **infectar un dispositivo con ‘malware’ (programas maliciosos)**. Estos programas pueden ser vehículos para que **programas maliciosos se adueñen de un PC**, comprometiendo la **seguridad digital.** 
 
-El secretario general de la ONU, António Guterres, condenó el lanzamiento de misiles balísticos de Irán sobre Israel, afirmando que “nada hacen por apoyar la causa del pueblo palestino o aliviar su sufrimiento”.
+Los **antivirus** suelen detectar estos programas como maliciosos debido a su comportamiento similar al de ciertos tipos de ‘malware’, que también modifican archivos ejecutables benignos para insertar su propio código, de acuerdo con [Welivesecurity](https://www.welivesecurity.com/es/seguridad-digital/el-riesgo-usar-cracks-y-cheats/ "https://www.welivesecurity.com/es/seguridad-digital/el-riesgo-usar-cracks-y-cheats/").  
 
-Las palabras de Guterres ante el Consejo de Seguridad, reunido de emergencia hoy para tratar la situación en Líbano, son las primeras que pronuncia después de que Israel lo declarase horas antes ‘persona non grata’ y prohibido su acceso al país, precisamente por no haber condenado de forma inequívoca el ataque iraní de la víspera, según el ministro hebreo de Exteriores, Israel Katz.
+**Martina López**, investigadora de Seguridad Informática de ESET Latinoamérica, explica: “Entendiendo el funcionamiento de este tipo de archivos, **un software de protección** los detectaría como **códigos maliciosos** sin importar si realiza o no acciones dañinas. Tanto la modificación de archivos críticos como la inyección de código en la memoria son técnicas que pueden ser utilizadas tanto por software legítimo como por ‘malware’. Sin embargo, **debido a su potencial para causar daño, estas técnicas suelen ser tratadas con sospecha por los programas ‘antimalware’**”. 
 
-Hasta el momento, Guterres no ha dicho nada concreto sobre la declaración de Israel sobre su persona,
+**Robo de datos** 
+------------------
 
-Los líderes del G7 también expresaron su “firme condena al ataque iraní contra Israel” y acordaron trabajar para “favorecer una reducción de las tensiones regionales” con la aplicación de varias resoluciones de la ONU, en la conferencia telefónica convocada por la primera ministra italiana, Giorgia Meloni, tras el agravamiento de la crisis en Oriente Próximo.
+Además del riesgo de ‘malware’, estos programas pueden ser utilizados para **robar datos sensibles**. Los **‘infostealers’**, un tipo de **‘malware’**, se infiltran en los dispositivos a través de estos programas y roban información personal, como contraseñas y datos bancarios, de acuerdo con [It.sitio](https://www.itsitio.com/co/seguridad/riesgos-cracks-cheats-videojuegos/ "https://www.itsitio.com/co/seguridad/riesgos-cracks-cheats-videojuegos/"). 
 
-Michael Schumacher regresa y asiste a la boda de su hija
-========================================================
+**Consecuencias legales** 
+--------------------------
 
-Poco se sabe de Michael Schumacher después del accidente de 2013. Sin embargo, se asegura que acudió a una reunión familiar.
-----------------------------------------------------------------------------------------------------------------------------
+El uso de **‘cracks’ y ‘cheats’** también puede tener **consecuencias legales**. Las compañías de videojuegos están en una constante batalla contra los productores de estos programas. Por ejemplo, en enero de 2023, **Activision** ganó una demanda contra **EngineOwning**, un conocido proveedor de ‘cheats’ para juegos como **Call of Duty**, y se les ordenó pagar una compensación millonaria por daños, según informa [Delfino](https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos "https://delfino.cr/2024/09/cuales-son-los-riesgos-de-usar-cracks-y-cheats-en-videojuegos"). 
 
-![Fotografía de archivo realizada el 16 de marzo de 2012 que muestra al siete veces campeón de Fórmula Uno Michael Schumacher en el circuito Albert Park en Melbourne (Australia), en su última temporada en la Fórmula 1.](https://www.elcomercio.com/wp-content/uploads/2024/10/schumacher.jpg)
+**Impacto en la experiencia de juego** 
+---------------------------------------
 
-**Michael Schumacher**, la leyenda del automovilismo y siete veces campeón de **Fórmula 1**, ha sido noticia tras una primera aparición pública desde el grave accidente que sufrió en 2013.
+El uso de **‘cheats’** no solo **afecta a la seguridad y legalidad**, sino también a la **experiencia de juego**. Los jugadores que usan estos programas **pueden ser baneados de plataformas de juego** en línea, y así perder acceso a sus cuentas y progresos. 
 
-Según informes de medios alemanes y españoles, el expiloto asistió a la boda de su hija, Gina-Maria Schumacher, un evento marcado por un riguroso protocolo de seguridad que incluyó la confiscación de teléfonos celulares para proteger la intimidad de la celebración.
+**Alternativas seguras** 
+-------------------------
+
+Para evitar los riesgos asociados, es recomendable **optar por alternativas legales**. Muchas plataformas de videojuegos **ofrecen descuentos y promociones que permiten acceder a juegos de manera asequible**. Además, existen **programas de recompensas y suscripciones** que ofrecen acceso a una amplia biblioteca de juegos por una tarifa mensual. 
+
+Cortes de luz en Quito para este jueves 3 de octubre
+====================================================
+
+Hasta este jueves 3 de octubre, los cortes de luz en Quito son de hasta 10 horas y tres franjas horarias. La reducción se aplicará desde el viernes.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito para este jueves 3 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-4.jpg)
+
+Los **cortes de luz** en **Quito** para este **jueves 3 de octubre** de 2024 son los mismos que han regido desde el pasado lunes, según la programación de la Empresa Eléctrica.
+
+Los cortes de luz serán de hasta **tres franjas horarias y diez horas** en la sumatoria total por sector.
 
 ### Más noticias:
 
-* [michael schumacher](https://www.elcomercio.com/tag/michael-schumacher/ "michael schumacher")
-* [¿A qué hora juegan Liga de Quito y El Nacional en Copa Ecuador?](https://www.elcomercio.com/deportes/hora-liga-quito-el-nacional-copa-ecuador.html "¿A qué hora juegan Liga de Quito y El Nacional en Copa Ecuador?")
-* [Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa](https://www.elcomercio.com/deportes/mateo-villagomez-campeon-francia-primer-ecuatoriano-piloto.html "Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa")
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
 
-La boda tuvo lugar en la lujosa villa de la familia en Puerto de Andratx, **Mallorca**, donde amigos y familiares se reunieron para celebrar este momento especial.
+Aunque el Gobierno de **Daniel Noboa** anunció la reducción de horas en los cortes de luz a escala nacional, esta disposición aún no está vigente.
 
-**Michael Schumacher**
-----------------------
+La disposición de la **reducción de horas va del viernes 4 al domingo 20 de octubre** de 2024.
 
-Desde su accidente en 2013, cuando Schumacher sufrió un **politraumatismo craneoencefálico** al chocar su cabeza contra una piedra mientras esquiaba, su estado de salud ha permanecido en gran parte en la sombra, lo que ha generado un constante interés y preocupación por parte de sus seguidores.
+La reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
 
-A pesar de que no se ha confirmado oficialmente su asistencia, medios españoles como el Diario de Mallorca apuntan a que Schumacher estuvo presente en la ceremonia, lo que marcaría un hito significativo en su recuperación y en la vida de la familia.
+Con esta medida, los cortes se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
 
-Gina-Maria, quien se casó con Iain Bethke, compartió en sus redes sociales una imagen que ha avivado la esperanza entre los fanáticos de que el “Kaiser” se encuentra en un mejor estado.
+Mientras esto ocurre el viernes; **el jueves 3 de octubre, los cortes de luz se mantienen con los horarios establecidos** por las diferentes empresas de electricidad que existen en el país.
 
-¿Cómo está Michael Schumacher?
-------------------------------
+Horarios y sectores de los cortes de luz en Quito para este jueves 3 de octubre
+-------------------------------------------------------------------------------
 
-Jean Todt, ex jefe de Schumacher en Ferrari, ha manifestado que aunque el legendario piloto “ya no es el Michael que solía ser”, su familia lo cuida amorosamente, lo que resalta la fortaleza del vínculo familiar en estos momentos difíciles.
+Los cortes de luz en Quito para este jueves se mantienen con 10 horas de suspensión en tres franjas horarias.
 
-Diario **Marca**, basado en el Diario de Mallorca y La Vanguardia, afirma que Michael Shcumacher no habla, sólo se comunica con los ojos”.
+Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epliclachima, Conocoto y Tumbaco tendrán cortes de luz **de 00:00 a 05:00 y de 12:00 a 17:00.**
 
-Schumacher fue visto en la boda de su hija, aunque no hay imágenes de su presencia.
+**De 03:00 a 07:00, 11:00 a 15:00 y 22:00 a 00:00**, no contarán con luz los sectores de: La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero, El Obrajo (Machachi).
 
-**Elisabetta Gregoraci**, una de las asistentes, reveló que el expiloto se comunica solo a través de los ojos y que solo tres personas tienen permiso para visitarlo. Así lo publica Marca.
+**De 10:00 a 15:00 y de 20:00 a 00:00**, los sectores que tendrán cortes de luz son: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao e Inga Bajo.
 
-La comunidad del automovilismo y los fanáticos de Schumacher celebran este indicio de su presencia, a la vez que continúan apoyando a una de las figuras más emblemáticas del deporte.
+Doce sectores tendrán cortes **de 07:00 a 12:00, 15:00 a 18:00 y 21:00 a 23:00**. Estos son: Olímpico, Barrio Nuevo, El Bosque.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAejBeBoJ8T/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Gina Schumacher (@gina\_schumacher)](https://www.instagram.com/p/DAejBeBoJ8T/?utm_source=ig_embed&utm_campaign=loading)
+Además, San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomasqui, El Quinche y Eugenio Espejo.
 
-​
+**De 02:00 a 07:00, 12:00 a 15:00 y 22:00 a 00:00**, los sectores que no tendrán luz son: Luluncoto, Chilibulo, Escuela Sucre, San Roque.
 
-Israel declara persona ‘non grata’ al secretario general de la ONU, António Guterres
-====================================================================================
+Además, Granda Centeno, Río Coca, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.
 
-La embajadora de EE.UU. no repartió las culpas por la escalada de tensión en el terreno tras una serie de ataques.
-------------------------------------------------------------------------------------------------------------------
+A continuación, el detalle de las franjas horarias por sectores:
 
-![António Guterres, secretario general de las Naciones Unidas, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/antonio-guterrez-efe.jpg)
+  
 
-La **embajadora de Estados Unidos** ante la ONU, **Linda Thomas-Greenfield**, dejó claro en el **Consejo de Seguridad de la ONU**, en una **sesión de emergencia** dedicada a la creciente tensión en Líbano, que su país “apoya totalmente, totalmente, **totalmente a Israel**“.
+Liga de Quito busca redimirse del fracaso ante El Nacional
+==========================================================
 
-### Más noticias
+Liga de Quito tiene una oportunidad de oro para redimirse de sus últimos tropiezos.
+-----------------------------------------------------------------------------------
 
-* [Irán e Israel intercambian golpes sin precedentes y se acercan a una guerra abierta](https://www.elcomercio.com/actualidad/mundo/iran-israel-intercambian-golpes-precedentes-acercan-guerra-abierta.html "Irán e Israel intercambian golpes sin precedentes y se acercan a una guerra abierta")
-* [Requisitos del Ejército para la inscripción de aspirantes a oficiales especialistas](https://www.elcomercio.com/actualidad/ecuador/requisitos-ejercito-oficiales-especialistas-aspirantes.html "Requisitos del Ejército para la inscripción de aspirantes a oficiales especialistas")
-* [Netanyahu dice que Irán ‘cometió un gran error y pagará por ello’ tras ataque a Israel](https://www.elcomercio.com/actualidad/mundo/netanyahu-iran-gran-pagara-ataque-israel.html "Netanyahu dice que Irán ‘cometió un gran error y pagará por ello’ tras ataque a Israel")
+![Gabriel Villami y Alez Arce en un partido enter Liga de Quito y El Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-02T162939.912.jpg)
 
-La embajadora no repartió las culpas por la escalada de **tensión en el terreno** tras una serie de ataques y represalias entre Irán e Israel, como hicieron otros **miembros del Consejo,** y atribuyó la responsabilidad exclusivamente a Irán.
+**Liga de Quito** no está en su mejor momento. El cuadro capitalino pasó de dominar la Liga Pro y ser líder, a perder la punta y no ganar en sus últimos tres partidos, por lo que buscará revancha contra El Nacional.
 
-“Seré clara: el **régimen iraní será considerado responsable** de sus acciones -y les advertimos con contundencia contra **cualquier intento de Irán** y sus peones de actuar contra Estados Unidos- y de sus acciones contra Israel”, dijo la embajadora, que insistió en que el **Consejo está llamado hoy** a “condenar inequívocamente el ataque de Irán y a exigir que cese su apoyo al terrorismo en la región”.
-
-La embajadora **no criticó en ningún momento a Israel**, ni le pidió contención en su respuesta contra Irán, que se espera de un momento a otro.
-
-“Que **no haya ninguna duda: Estados Unidos** seguirá apoyando el derecho de Israel a defenderse contra Hizbulá, Hamás, los hutíes (de Yemen) y cualquier **otro terrorista** de los que apoya Irán”, y solamente matizó que “la **forma en que Israel se defiende importa**” porque “debe tomar medidas para minimizar los daños a los civiles”.
-
-Piero Hincapié interesa a grandes de Inglaterra
-===============================================
-
-Piero Hincapié, defensa de la Selección de Ecuador y el Bayer Leverkusen, está en la mira de grande equipo de Inglaterra.
--------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié en el partido del Bayer Leverkusen en la Bundesliga ante Wolfsburgo, en el que anotó.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-24T204721.286.jpg)
-
-El defensor ecuatoriano **Piero Hincapié** perpetúa su buen momento con el Bayer Leverkusen y la escuadra también vuela alto. A raíz de sus recientes actuaciones y el buen desempeño en la campaña previa, grandes clubes de Inglaterra buscan al ecuatoriano.
-
-Desde su arribo al **conjunto alemán** en 2022, el central tricolor y su rendimiento han indo en alza, al igual que el de su club. En este 2024, el zaguero inició su tercera temporada con las ‘aspirinas’ tras haberse metido en la historia del equipo.
+Cabe mencionar que los tres encuentros sin victoria fueron en la **Liga Pro**, mientras que este enfrentamiento ante el ‘Bi-Tri’ corresponde a los cuartos de final de la **Copa Ecuador.**
 
 ### Más noticias:
 
-* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
-* [Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-igualo-bayern-munich.html "Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich")
-* [Piero Hincapié está entre los mejores jugadores de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-bundesliga-alemania.html "Piero Hincapié está entre los mejores jugadores de Alemania")
+* [¿A qué hora juegan Liga y El Nacional en Copa Ecuador?](https://www.elcomercio.com/deportes/hora-liga-quito-el-nacional-copa-ecuador.html "¿A qué hora juegan Liga de Quito y El Nacional en Copa Ecuador?")
+* [Liga de Quito y El Nacional sin ventaja en los mano a mano](https://www.elcomercio.com/deportes/futbol/liga-quito-nacional-copa-ecuador.html "Liga de Quito y El Nacional sin ventaja en los mano a mano")
+* [Liga de Quito domina a El Nacional en títulos oficiales](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-titulos.html "Liga de Quito domina a El Nacional en títulos oficiales")
 
-En la vigente campaña, él y los ‘farmacéuticos’ se encuentran cuartos en la Bundesliga con 10 puntos en cinco partidos y terceros en la **Champions** con seis unidades en dos compromisos. En el pasado cotejo del elenco ante el **AC Milán**, Hincapié fue una de las figuras para el triunfo de su club.
+Además, el partido estará cargado de una mayor rivalidad, ya que uno de los encuentros que Liga de Quito no ganó en el campeonato ecuatoriano fue justamente ante **El Nacional**, un empate en el Estadio Rodrigo Paz Delgado. Este es el momento perfecto para buscar venganza.
 
-Consolidado en el equipo que dirige **Xabi Alonso** y con un buen presente, el futbolista esmeraldeño no deja de estar en el radar de otros grandes clubes. Desde Inglaterra, el periodista **Ekrem Konur** de la BBC e ESPN reporta interés de clubes.
+Alineaciones Liga de Quito vs. El Nacional
+------------------------------------------
 
-¿Cuáles son los equipos de Inglaterra que buscan a Piero Hincapié?
-------------------------------------------------------------------
+### Liga de Quito
 
-De acuerdo al periodista británica, tres escuadras están detrás del defensa de la **Selección de Ecuador**. Asimismo, el reciente desempeño a nivel internacional en Europa también ha sido uno de los factores por los cuales se ha puesto los ojos sobre él[.](https://es.wikipedia.org/wiki/Piero_Hincapi%C3%A9)
+**Arquero**: Alexander Domínguez
 
-“**Newcastle, Liverpool y Chelsea monitorean de cerca al versatil defensor del Bayer Leverkusen Piero Hincapié. El también captó la atención en su reciente partido de la Champions League ante el AC Milán**“, señaló en sus redes sociales.
+**Defensas**: José Quintero, Ricardo Adé, Richard Mina y Leonel Quiñónez.
 
-En anteriores ocasiones ya se ha reportado interés por el defensor ecuatoriano, sin embargo, aquello no ha llegado a concretarse en un fichaje. El siguiente **mercado de transferencias** en Europa será en enero del 2025.
+**Mediocampistas**: Gabriel Villamil, Fernando Cornejo y Ezequiel Piovi. 
 
-Piero Hincapié con el Bayer Leverkusen
---------------------------------------
+**Delanteros**: Bryan Ramírez, Alex Arce y Luis Estupiñán. 
 
-En la temporada actual, Piero Hincapié ha tenido acción en todos partidos del **Bayer Leverkusen** (ocho). A su vez, este ya encontró las redes y le marcó al Wolfsburgo en la cuarta fecha de la Bundesliga.
-
-Desde su llegada, el ecuatoriano contabiliza **88 compromisos** con los alemanes, cuatro goles y tres asistencias. De igual forma, estuvo en el primer título liguero de la historia del Leverkusen y en el primero de copa.
-
-Cortes de luz en Guayaquil este miércoles 2 de octubre
-======================================================
-
-Los horarios de los cortes de luz en Quito, Guayaquil y Cuenca se mantienen según lo establecido, a pesar del anuncio de la reducción.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil siguen el cronograma establecido.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Guayaquil-miercoles.jpg)
-
-Este **miércoles 2 de octubre de 2024** se aplicarán los **horarios de cortes de luz** de acuerdo con los cronogramas establecidos por CNEL para **Guayaquil.**
-
-### Más noticias
-
-* [Cortes de luz en Quito este miércoles 2 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-horarios-miercoles-2-de-octubre.html "Cortes de luz en Quito este miércoles 2 de octubre")
-* [Pelea en cárcel de Turi habría dejado un reo fallecido](https://www.elcomercio.com/actualidad/seguridad/carcel-de-turi-pelea-reo-fallecido.html "Pelea en cárcel de Turi habría dejado un reo fallecido")
-* [¿A qué hora se puede ver el eclipse solar anular desde Ecuador?](https://www.elcomercio.com/tendencias/a-que-hora-se-puede-ver-eclipse-solar-anular-desde-ecuador.html "¿A qué hora se puede ver el eclipse solar anular desde Ecuador?")
-
-Esto como consecuencia de la **crisis energética que atraviesa Ecuador** a causa de la sequía que ocasionó que los embalses disminuyeran su caudal.
-
-Para ello, el Gobierno Nacional tomó medidas como un **cronograma de cortes de luz** que abarca más de 10 horas en algunas provincias.
-
-Horarios de cortes de luz en Guayaquil
---------------------------------------
-
-La empresa distribuidora de energía eléctrica **CNEL** dio a conocer la semana anterior el cronograma de cortes de luz previstos para este **miércoles 2 de octubre.**
-
-Estos horarios contemplan la **suspensión del suministro de energía** en rangos de dos, tres y cuatro bloques de cortes aplicados durante la noche y el día.
-
-La suspensión se aplicará **durante ocho y diez horas**, dependiendo del sector.
-
-Los cortes se establecen por sectores en **distintos rangos horarios** a lo largo del día. Entre ellos están:
-
-* De 00:00 a 02:00, de 06:00 a 09:00, de 14:00 a 18:00 y de 23:00 a 24:00
-* De 00:00 a 03:00, de 08:00 a 12:00 y de 16:00 a 19:00
-* De 00:00 a 03:00, de 08:00 a 12:00 y de 17:00 a 20:00
-* De 01:00 a 05:00, de 09:00 a 13:00, de 18:00 a 20:00
-* De 02:00 a 06:00, de 10:00 a 14:00, de 18:00 a 20:00
-* De 02:00 a 06:00 y de 17:00 a 20:00
-* De 03:00 a 06:00, de 11:00 a 15:00 y de 22:00 a 00:00
-* De 04:00 a 08:00, de 12:00 a 16:00 y de 22:00 a 00:00
-* De 04:00 a 08:00, de 13:00 a 17:00 y de 22:00 a 00:00
-* De 05:00 a 09:00, de 13:00 a 17:00 y de 22:00 a 00:00
-* De 07:00 a 11:00 y de 16:00 a 20:00
-* De 07:00 a 12:00
-* De 15:00 a 20:00
-
-Los últimos dos horarios se aplica solo en los **sectores de Coca Cola**, Santa Priscila, Linde Aga, Andec, Funasa, Ptar Las esclusas, Naturisa y Songa.
-
-Este es el **cronograma de cortes de luz** en Guayaquil, por sectores. Revisa qué horario te toca.
-
-Reducción en las horas de apagones
-----------------------------------
-
-El **gobierno de Daniel Noboa** informó que las horas de los cortes de luz se reducirán a escala nacional. Esta reducción se aplicará desde este **viernes 4 hasta el 20 de octubre**.
-
-Los cortes se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
-
-**De lunes a jueves:**
-
-* Dos horas seguidas entre las 18:00 a 22:00.
-* Cuatro horas seguidas entre las 00:00 y las 08:00.
-
-**De viernes a domingo:**
-
-* Dos horas seguidas entre las 16:00 y 19:00.
-* Cuatro horas seguidas entre las 00:00 y 10:00.
-
-Los horarios específicos dentro de los rangos establecidos **serán comunicados los jueves.**
-
-> A la ciudadanía: [pic.twitter.com/f5Pa7cBsWj](https://t.co/f5Pa7cBsWj)
+> 💪 Alineación confirmada para esta tarde 💪  
+>   
+> 🆚 [#LIGAElNacional](https://twitter.com/hashtag/LIGAElNacional?src=hash&ref_src=twsrc%5Etfw)  
+> 🏆 [#CopaEcuador](https://twitter.com/hashtag/CopaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/r7xb28K6jm](https://t.co/r7xb28K6jm)
 > 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 2, 2024](https://twitter.com/Presidencia_Ec/status/1841283441762938943?ref_src=twsrc%5Etfw)
+> — LDU Oficial (@LDU\_Oficial) [October 2, 2024](https://twitter.com/LDU_Oficial/status/1841583941012365616?ref_src=twsrc%5Etfw)
 
-Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista? 
-======================================================================
+### El Nacional
 
-Shakira regresa a los escenarios con su gira Las Mujeres Ya No Lloran World Tour.
----------------------------------------------------------------------------------
+**Arquero**: David Cabezas
 
-![La nueva gira de Shakira rinde homenaje a su trayectoria y conecta con múltiples generaciones. Foto: www.24-horas.mx.](https://www.elcomercio.com/wp-content/uploads/2024/10/Shakira-Latinoamerica.jpg)
+**Defensas**: Daniel Patiño, Rommel Cabezas, Anthony Bedoya,  y Fernando Mora
 
-**[Shakira](https://www.instagram.com/shakira/ "https://www.instagram.com/shakira/")** está de vuelta con fuerza, impulsada por su **nuevo sencillo Soltera y una esperada gira por Latinoamérica**. Este lanzamiento, según informó [El Mundo](https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html "https://www.elmundo.es/cultura/musica/2024/10/02/66fd4d93fdddff9b918b457e.html"), marca el inicio de **una nueva etapa en su carrera musical**, con un enfoque claro en el **empoderamiento femenino**.  
+**Mediocampistas**: Fidel Martínez, Marcos Olmedo, Luis Arce y Jorge Ordóñez, 
 
-### Más noticias
+**Delanteros**: Gabriel Cortez y Alejandro Cabeza. 
 
-* [(Video) Shakira enfrentó un incómodo momento en club de Miami](https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html "https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html") 
-* [Shakira habría mostrado un adelanto de su nueva canción en una fiesta en Miami](https://www.elcomercio.com/tendencias/shakira-habria-mostrado-un-adelanto-de-su-nueva-cancion-en-una-fiesta-en-miami.html "https://www.elcomercio.com/tendencias/shakira-habria-mostrado-un-adelanto-de-su-nueva-cancion-en-una-fiesta-en-miami.html")
-
-La canción cuenta con un videoclip grabado en Miami y la participación de figuras como **Winnie Harlow, Anitta, Danna Paola y Lele Pons.** 
-
-**Nuevo tour de Shakira: Las Mujeres Ya No Lloran World Tour** 
----------------------------------------------------------------
-
-La **gira Las Mujeres Ya No Lloran World Tour**, siguiendo con la misma fuente, es un **homenaje a la trayectoria de Shakira** y una mirada hacia el futuro.  
-
-El tour busca transmitir un **mensaje de fortaleza para varias generaciones de seguidores**. En un comunicado oficial, la artista explicó que su objetivo es **conectar con aquellos que nunca han visto su espectáculo en vivo**, así como con quienes han esperado años para verla de nuevo en el escenario, según El Mundo.  
-
-**Un repertorio lleno de sorpresas y renacimiento personal** 
--------------------------------------------------------------
-
-**El repertorio incluirá sus mayores éxitos**, junto con canciones nuevas y algunas sorpresas, según adelantaron sus representantes. Este regreso a los escenarios latinoamericanos también será **un espacio de celebración y renacimiento personal**. Shakira busca compartir con sus fans “el poder del renacimiento personal, tal como un diamante, que se forma bajo presión y emerge más fuerte y brillante tras las adversidades”, según cita El Mundo. 
-
-**Regreso a Latinoamérica tras años de ausencia** 
---------------------------------------------------
-
-**Shakira ha confirmado su esperado retorno a Latinoamérica con una extensa gira**. De acuerdo con el [Huffington Post](https://www.huffingtonpost.es/life/cultura/estas-son-fechas-gira-shakira-latinoamerica.html "https://www.huffingtonpost.es/life/cultura/estas-son-fechas-gira-shakira-latinoamerica.html"), la estrella colombiana anunció este miércoles 2 de octubre de 2024 su tour **Las Mujeres Ya No Lloran World Tour**, que promete una experiencia que va más allá de la música. 
-
-**Barranquilla, Bogotá y Medellín entre las ciudades elegidas** 
-----------------------------------------------------------------
-
-Producida por **Live Nation**, la gira visitará varios países, entre ellos **Argentina, Brasil, México y Perú,** que no fue parte de su tour anterior. En sus redes todavía no ha anunciado fecha para Ecuador. El regreso de Shakira a los escenarios de ciudades latinoamericanas, tras años de ausencia, ha generado gran expectativa entre sus seguidores. 
-
-Después de 19 años, **la artista también regresará a su natal Barranquilla**, donde ofrecerá un emotivo espectáculo. Además, **visitará Bogotá y Medellín**, para llevar su música y mensaje de empoderamiento a todo su país. 
-
-Con esta gira, **Shakira celebra su trayectoria** y vuelve a conectar con sus raíces, consolidándose como **una de las figuras más influyentes de la música latina**. 
-
-**Estas son las fechas de la gira para este 2025:** 
-----------------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAn-K-xOYRY/?utm_source=ig_embed&utm_campaign=loading)
+> ¡Alineación titular del ÚNICO BITRICAMPEÓN! 🔴  
+>   
+> ¡DALE ROJO! 💪  
+>   
+> 🆚 [#LigaDeQuitoElNacional](https://twitter.com/hashtag/LigaDeQuitoElNacional?src=hash&ref_src=twsrc%5Etfw)  
+> 🏆 [#CopaEcuador](https://twitter.com/hashtag/CopaEcuador?src=hash&ref_src=twsrc%5Etfw)  
+> 🎽 Presentado por [@kaosportec](https://twitter.com/kaosportec?ref_src=twsrc%5Etfw) [pic.twitter.com/SqXlSLG3Yv](https://t.co/SqXlSLG3Yv)
 > 
-> [Una publicación compartida de Shakira (@shakira)](https://www.instagram.com/p/DAn-K-xOYRY/?utm_source=ig_embed&utm_campaign=loading)
+> — Club Deportivo El Nacional (@elnacionalec) [October 2, 2024](https://twitter.com/elnacionalec/status/1841585844794359890?ref_src=twsrc%5Etfw)
 
-11 de febrero BRASIL. Rio de Janeiro, Estadio Nilton Santos. 
+Liga de Quito y su racha negativa
+---------------------------------
 
-13 de febrero Brasil. São Paulo, Estadio Morumbí. 
+Después de una **contundente victoria de la ‘U’ sobre Barcelona SC** por 3-0, y antes del parón por la fecha FIFA, el equipo se encontraba en su mejor momento, invicto y con ventaja en la cima de la tabla.
 
-16 de febrero Perú. Lima, Estadio Nacional. 
+Pero tras las eliminatorias sudamericanas, comenzó el declive de la escuadra capitalina. En la jornada siguiente, sorpresivamente, fue goleado por **Imbabura**, uno de los equipos que lucha por no descender.
 
-21 de febrero Colombia. Barranquilla, Estadio Metropolitano. 
+La ‘U’ **cayó 4-0 en su visita a Ibarra**.
 
-23 de febrero Colombia. Medellín, Estadio Atanasio Girardot. 
+Después, **Liga de Quito recibió a El Nacional** en el Estadio Rodrigo Paz Delgado y nuevamente dejó puntos en el camino. Los locales igualaron 1-1 con el conjunto militar.
 
-26 de febrero Colombia. Bogotá, Estadio El Campín. 
+Su último fracaso fue en la octava fecha de la Liga Pro. El equipo de Pablo ‘Vitamina’ Sánchez **visitó a Delfín en el Jocay de Manta y perdió 3-2**, con tres penales en contra.
 
-2 de marzo Chile.  Santiago, Estadio Nacional. 
+Detalles del partido de Copa Ecuador
+------------------------------------
 
-7 de marzo Argentina. Buenos Aires, Campo Argentino de Polo. 
+**Partido**: El Nacional vs. Liga de Quito.
 
-12 de marzo México.  Monterrey, Estadio BBVA. 
+**Fecha**: miércoles 2 de octubre del 2024.
 
-16 de marzo México.  Guadalajara, Estadio Akron. 
+**Hora**: 17:00.
 
-19 de marzo México.  México City, Estadio GNP Seguros.
+**Estadio**: Rodrigo Paz Delgado.
