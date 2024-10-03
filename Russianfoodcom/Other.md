@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,16 @@
 
 Сейчас читают
 
-* [Грог кофейный](https://www.russianfood.com/recipes/recipe.php?rid=68676)
-* [Подлива к лапше](https://www.russianfood.com/recipes/recipe.php?rid=863)
-* [Кекс на молоке, с цедрой и лимонной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=160735)
+* [Тефтели из фарша с гречкой в томатном соусе (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173396)
+* [Трансильванское медовое печенье](https://www.russianfood.com/recipes/recipe.php?rid=2751)
+* [Сусло](https://www.russianfood.com/recipes/recipe.php?rid=3759)
+* [Моченые яблоки](https://www.russianfood.com/recipes/recipe.php?rid=3760)
+* [Калеккуко](https://www.russianfood.com/recipes/recipe.php?rid=10081)
+* ["Лепешки бедняков"](https://www.russianfood.com/recipes/recipe.php?rid=10312)
+* [Хачапури удмуртские](https://www.russianfood.com/recipes/recipe.php?rid=14985)
+* [Чебуреки праздничные](https://www.russianfood.com/recipes/recipe.php?rid=15028)
+* [Пшенично-ржаной хлеб из дрожжевого теста](https://www.russianfood.com/recipes/recipe.php?rid=18261)
+* [Хлебец на смальце](https://www.russianfood.com/recipes/recipe.php?rid=18264)
 
 |     |
 | --- |
@@ -454,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741438.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
-| [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [Творожные конвертики с яблоком и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Паскуалина (слоёный пирог со шпинатом, сыром и яйцами)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
-| [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) |
-| [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) |
+| [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741438.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
+| [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) | [Творожные конвертики с яблоком и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174480) | [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Паскуалина (слоёный пирог со шпинатом, сыром и яйцами)](https://www.russianfood.com/recipes/recipe.php?rid=173811) |
+| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174408) |
+| [Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(94)
+(162)
