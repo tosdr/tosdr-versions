@@ -1,4 +1,4 @@
-[HAPPY PREPTEMBER - BUNDLE 6+ CANS AND SAVE 25% WITH BUNDLE25 | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
+[HAPPY STOCKTOBER - BUNDLE 6+ CANS AND SAVE 25% WITH BUNDLE25 | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
