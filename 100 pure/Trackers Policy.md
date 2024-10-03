@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5756 reviews (5756)
+5757 reviews (5759)
 
 $16.00 $29.00
 
@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2392 reviews (2393)
+2395 reviews (2395)
 
 $28.00 $28.00
 
@@ -230,7 +230,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-221 reviews (221)
+196 reviews (196)
 
 $58.00
 
@@ -406,9 +406,9 @@ Default Title - $52
 
 ADD TO TOTE
 
-[![watermelon-cucumber-water-locking-serum](https://www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_239x254.png?v=1665003391)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
+[![watermelon-cucumber-water-locking-serum](https://www.100percentpure.com/cdn/shop/files/uc_id_1Er4DdY6DMU-M5wg25g3a4IdgQXoKiaYG_export_view_239x254.jpg?v=1727897135)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
 
-![ Watermelon Cucumber Water Locking Serum](//www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_220x.png?v=1665003391)
+![ FG1FWCHS_Primary](//www.100percentpure.com/cdn/shop/files/uc_id_1Er4DdY6DMU-M5wg25g3a4IdgQXoKiaYG_export_view_220x.jpg?v=1727897135)
 
 ### [Watermelon Cucumber Water Locking Serum](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
 
