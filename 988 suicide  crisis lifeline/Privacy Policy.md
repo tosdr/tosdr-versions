@@ -136,7 +136,7 @@ Whenever possible, we have used images and photography on the 988 Suicide & Cris
 
 ### [Contact Us](https://988lifeline.org/contact-us/)
 
-### [988 Lifeline Committees](https://988lifeline.org/988lifeline-committees/)
+### [988 Lifeline and DDH Committees](https://988lifeline.org/988lifeline-committees/)
 
 ![](https://988lifeline.org/wp-content/uploads/2024/06/988-hero1-374x196.jpg)
 
