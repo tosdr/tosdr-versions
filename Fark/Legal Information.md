@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More funny for your money.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Your newest colorful California criminal is the Pasadena Pee Bandit, if you cross him urine trouble now](https://www.fark.com/goto/13414604) ( [patch.com](https://www.fark.com/goto/13414604) ) » [(5 comments)](https://www.fark.com/comments/13414604/Your-newest-colorful-California-criminal-is-Pasadena-Pee-Bandit-if-you-cross-him-urine-trouble-now) |
-| [Discussion](https://www.fark.com/discussion/) | ["Is my mom's love for her grandchildren toxic?"](https://www.fark.com/goto/13414028) ( [slate.com](https://www.fark.com/goto/13414028) ) » [(3 comments)](https://www.fark.com/comments/13414028/Is-my-moms-love-for-her-grandchildren-toxic) |
-| [Sports](https://www.fark.com/sports/) | [Oh, you thought that was a "lifetime" ban, ghost of Pete Rose?](https://www.fark.com/goto/13414622) ( [apnews.com](https://www.fark.com/goto/13414622) ) » [(20 comments)](https://www.fark.com/comments/13414622/Oh-you-thought-that-was-a-lifetime-ban-ghost-of-Pete-Rose) |
-| [Business](https://www.fark.com/business/) | [Union boss Harold Daggett: Please return your cargo cranes to their upright, stowed and locked positions, we'll ride this out. I'll be in my luxe 7,000 square-foot mansion](https://www.fark.com/goto/13414580) ( [nypost.com](https://www.fark.com/goto/13414580) ) » [(19 comments)](https://www.fark.com/comments/13414580/Union-boss-Harold-Daggett-Please-return-your-cargo-cranes-to-their-upright-stowed-locked-positions-well-ride-this-out-Ill-be-in-my-luxe-7000-square-foot-mansion) |
-| [STEM](https://www.fark.com/stem/) | [J.D. Vance has a lot in common with the orbit of the Moon. Here comes the science](https://www.fark.com/goto/13414592) ( [youtube.com](https://www.fark.com/goto/13414592) ) » [(5 comments)](https://www.fark.com/comments/13414592/JD-Vance-has-a-lot-in-common-with-orbit-of-Moon-Here-comes-science) |
-| [Entertainment](https://www.fark.com/entertainment/) | [That's like the pot calling the kettle...some other color](https://www.fark.com/goto/13414598) ( [hot97.com](https://www.fark.com/goto/13414598) ) » [(7 comments)](https://www.fark.com/comments/13414598/Thats-like-pot-calling-kettlesome-other-color) |
-| [Fandom](https://www.fark.com/fandom/) | [A DC Comics/Star Wars crossover was proposed but HAHAHAHAHA that's just too stupid](https://www.fark.com/goto/13414564) ( [slashfilm.com](https://www.fark.com/goto/13414564) ) » [(25 comments)](https://www.fark.com/comments/13414564/A-DC-ComicsStar-Wars-crossover-was-proposed-but-HAHAHAHAHA-thats-just-too-stupid) |
-| [D'awww](https://www.fark.com/dawww/) | [That's Nacho cat](https://www.fark.com/goto/13414596) ( [ottawa.ctvnews.ca](https://www.fark.com/goto/13414596) ) » [(2 comments)](https://www.fark.com/comments/13414596/Thats-Nacho-cat) |
-| [Food](https://www.fark.com/food/) | [How to grow those enormous gourds](https://www.fark.com/goto/13414326) ( [wbur.org](https://www.fark.com/goto/13414326) ) » [(3 comments)](https://www.fark.com/comments/13414326/How-to-grow-those-enormous-gourds) |
-| [Politics](https://www.fark.com/politics/) | [More money for seniors? In our moment of triumph?](https://www.fark.com/goto/13414468) ( [msn.com](https://www.fark.com/goto/13414468) ) » [(1 comment)](https://www.fark.com/comments/13414468/More-money-for-seniors-In-our-moment-of-triumph) |
+| [Main](https://www.fark.com/) | [OJ Simpson has nothing on Florida Man](https://www.fark.com/goto/13415044) ( [fox35orlando.com](https://www.fark.com/goto/13415044) ) » [(2 comments)](https://www.fark.com/comments/13415044/OJ-Simpson-has-nothing-on-Florida-Man) |
+| [Discussion](https://www.fark.com/discussion/) | [Forty years ago, Pizza Hut launched its "Book It" reading program. What did you read?](https://www.fark.com/goto/13414848) ( [people.com](https://www.fark.com/goto/13414848) ) » [(10 comments)](https://www.fark.com/comments/13414848/Forty-years-ago-Pizza-Hut-launched-its-Book-It-reading-program-What-did-you-read) |
+| [Sports](https://www.fark.com/sports/) | [A second fan has hit the suit](https://www.fark.com/goto/13414756) ( [apnews.com](https://www.fark.com/goto/13414756) ) » [(4 comments)](https://www.fark.com/comments/13414756/A-second-fan-has-hit-suit) |
+| [Business](https://www.fark.com/business/) | [Amazon hiring 250K for this holiday season, same as last year. Guess they got their seasonal whizz bottles shipped in before the strike](https://www.fark.com/goto/13415028) ( [msn.com](https://www.fark.com/goto/13415028) ) » [(2 comments)](https://www.fark.com/comments/13415028/Amazon-hiring-250K-for-this-holiday-season-same-as-last-year-Guess-they-got-their-seasonal-whizz-bottles-shipped-in-before-strike) |
+| [STEM](https://www.fark.com/stem/) | [A surprising amount and variety of gamma radiation is produced in large tropical thunderstorms. Bruce Banner might want to avoid them](https://www.fark.com/goto/13414846) ( [phys.org](https://www.fark.com/goto/13414846) ) » [(2 comments)](https://www.fark.com/comments/13414846/A-surprising-amount-variety-of-gamma-radiation-is-produced-in-large-tropical-thunderstorms-Bruce-Banner-might-want-to-avoid-them) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Farewell to the car CD player as automobile manufacturers no longer make them. Pour one out for your friend riding shotgun who had to manage that huge case of discs and play the music](https://www.fark.com/goto/13414858) ( [theguardian.com](https://www.fark.com/goto/13414858) ) » [(6 comments)](https://www.fark.com/comments/13414858/Farewell-to-car-CD-player-as-automobile-manufacturers-no-longer-make-them-Pour-one-out-for-your-friend-riding-shotgun-who-had-to-manage-that-huge-case-of-discs-play-music) |
+| [Fandom](https://www.fark.com/fandom/) | [Stream. Bond stream](https://www.fark.com/goto/13415056) ( [lifehacker.com](https://www.fark.com/goto/13415056) ) » [(2 comments)](https://www.fark.com/comments/13415056/Stream-Bond-stream) |
+| [D'awww](https://www.fark.com/dawww/) | [In Iceland when the sun goes down families gather together to capture baby puffins and keep them in a box until the time is right to throw the little critters off a cliff](https://www.fark.com/goto/13414976) ( [aol.com](https://www.fark.com/goto/13414976) ) » [(7 comments)](https://www.fark.com/comments/13414976/In-Iceland-when-sun-goes-down-families-gather-together-to-capture-baby-puffins-keep-them-in-a-box-until-time-is-right-to-throw-little-critters-off-a-cliff) |
+| [Food](https://www.fark.com/food/) | [At the start of the century, only 2 ears of this strain of corn existed on the planet. And now, alcohol - is there anything it can't do?](https://www.fark.com/goto/13415076) ( [foodandwine.com](https://www.fark.com/goto/13415076) ) » [(3 comments)](https://www.fark.com/comments/13415076/At-start-of-century-only-2-ears-of-this-strain-of-corn-existed-on-planet-And-now-alcohol-is-there-anything-it-cant-do) |
+| [Politics](https://www.fark.com/politics/) | [Old and busted: Diapers. New weird hotness: Bras](https://www.fark.com/goto/13415062) ( [politicalflare.com](https://www.fark.com/goto/13415062) ) » [(25 comments)](https://www.fark.com/comments/13415062/Old-busted-Diapers-New-weird-hotness-Bras) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 03 2024 03:42:16  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 03 2024 09:43:40  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
