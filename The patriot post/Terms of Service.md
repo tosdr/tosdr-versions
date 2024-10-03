@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110751-mid-day-digest-2024-10-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110789-mid-day-digest-2024-10-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110751-mid-day-digest-2024-10-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110789-mid-day-digest-2024-10-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -203,14 +203,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
-*      [Mark Alexander Harris’s Bald-Faced Lies — Endorsed by CNN](https://patriotpost.us/alexander/110753-harriss-bald-faced-lies-endorsed-by-cnn-2024-10-02)
-*      [The Washington Stand Iran Launches Missiles at Israel After Israeli Forces Enter Lebanon](https://patriotpost.us/opinion/110726-iran-launches-missiles-at-israel-after-israeli-forces-enter-lebanon-2024-10-02)
-*      [Rich Lowry Kamala Harris, Faux Border Hawk](https://patriotpost.us/opinion/110724-kamala-harris-faux-border-hawk-2024-10-02)
-*      [Byron York Trump Numbers Show How GOP Went Wrong on Immigration](https://patriotpost.us/opinion/110723-trump-numbers-show-how-gop-went-wrong-on-immigration-2024-10-02)
-*      [John Stossel Politicians Steal Homes](https://patriotpost.us/opinion/110722-politicians-steal-homes-2024-10-02)
-*      [Tim Graham Rachel Maddow Smears Vance as a Fascist Speech-Squasher](https://patriotpost.us/opinion/110721-rachel-maddow-smears-vance-as-a-fascist-speech-squasher-2024-10-02)
-*      [Gary Bauer Iran Attacks Israel](https://patriotpost.us/opinion/110718-iran-attacks-israel-2024-10-02)
-*      [Ian Haworth Trump Must Do These 3 Things to Win](https://patriotpost.us/opinion/110717-trump-must-do-these-3-things-to-win-2024-10-02)
+*      [Cal Thomas Lebanon Then and Now](https://patriotpost.us/opinion/110771-lebanon-then-and-now-2024-10-03)
+*      [Ben Shapiro The Power of Victory](https://patriotpost.us/opinion/110770-the-power-of-victory-2024-10-03)
+*      [Ann Coulter The Democrats’ Idea of a Regular Guy](https://patriotpost.us/opinion/110773-the-democrats-idea-of-a-regular-guy-2024-10-03)
+*      [Gary Bauer The VP Debate](https://patriotpost.us/opinion/110768-the-vp-debate-2024-10-03)
+*      [Larry Elder Vance Defended Trump Better Than Trump](https://patriotpost.us/opinion/110767-vance-defended-trump-better-than-trump-2024-10-03)
+*      [Laura Hollis Now It’s Time to Eliminate Tenure](https://patriotpost.us/opinion/110766-now-its-time-to-eliminate-tenure-2024-10-03)
+*      [Armstrong Williams The Cost of a Workforce That Doesn’t Want to Work](https://patriotpost.us/opinion/110769-the-cost-of-a-workforce-that-doesnt-want-to-work-2024-10-03)
+*      [Jeff Jacoby A Bum Charge Against John Kerry](https://patriotpost.us/opinion/110772-a-bum-charge-against-john-kerry-2024-10-03)
+*      [The Babylon Bee Harris Supporters Trying to Figure Out How to Convert Joy Into Groceries](https://patriotpost.us/opinion/110774-harris-supporters-trying-to-figure-out-how-to-convert-joy-into-groceries-2024-10-03)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,13 +225,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+[Wear Your Patriotism on Your Sleeve
 
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“The second office of this government is honorable & easy, the first is but a splendid misery.” —Thomas Jefferson (1797)
+“It is necessary for every American, with becoming energy to endeavor to stop the dissemination of principles evidently destructive of the cause for which they have bled. It must be the combined virtue of the rulers and of the people to do this, and to rescue and save their civil and religious rights from the outstretched arm of tyranny, which may appear under any mode or form of government.” —Mercy Warren (1805)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
