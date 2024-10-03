@@ -305,7 +305,7 @@
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
 
-Сегодня 17:31
+03.10.24
 
 [![Николай Журавлёв: «Единая Россия» провела более 2700 мероприятий по обучению жителей регионов финансовой грамотности](https://cdn.er.ru/media/news/October2024/NcdWZCYNcYWt9Mqkf5xl-small.JPG)](https://er.ru/activity/news/nikolaj-zhuravlyov-edinaya-rossiya-provela-bolee-2700-meropriyatij-po-obucheniyu-zhitelej-regionov-finansovoj-gramotnosti)
 
@@ -313,7 +313,7 @@
 
 [#Журавлев](https://er.ru/activity/news?tags%5B0%5D=10192) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#ЦБ](https://er.ru/activity/news?tags%5B0%5D=5834)
 
-Сегодня 15:50
+03.10.24
 
 [![«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://cdn.er.ru/media/news/October2024/uPbLLnV0tGoHaPvpR885-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
 
@@ -321,7 +321,7 @@
 
 [#Хубезов](https://er.ru/activity/news?tags%5B0%5D=151297) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЗдоровоеБудущее](https://er.ru/activity/news?tags%5B0%5D=1091239) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#готовксанитарнойобороне](https://er.ru/activity/news?tags%5B0%5D=1095557) [#перваяпомощь](https://er.ru/activity/news?tags%5B0%5D=109898) [#курсы](https://er.ru/activity/news?tags%5B0%5D=5653) [#оказаниепомощи](https://er.ru/activity/news?tags%5B0%5D=136712) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
 
-Сегодня 14:11
+03.10.24
 
 [![Секретарь Кабардино-Балкарского отделения «Единой России» Казбек Коков переизбран главой Республики](https://cdn.er.ru/media/news/October2024/2hXI5iBdT0T4kVp3VXNI-small.jpg)](https://er.ru/activity/news/sekretar-kabardino-balkarskogo-otdeleniya-edinoj-rossii-kazbek-kokov-pereizbran-glavoj-respubliki)
 
@@ -329,7 +329,7 @@
 
 [#Коков](https://er.ru/activity/news?tags%5B0%5D=51908) [#Кабардино-Балкарская Республика](https://er.ru/activity/news?tags%5B0%5D=1091050) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#главарегиона](https://er.ru/activity/news?tags%5B0%5D=130296) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
 
-Сегодня 12:50
+03.10.24
 
 [![Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://cdn.er.ru/media/news/October2024/068iMCTdisk2ig34JYw0-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
 
@@ -337,7 +337,7 @@
 
 [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#экономический рост](https://er.ru/activity/news?tags%5B0%5D=15324) [#достижение целей](https://er.ru/activity/news?tags%5B0%5D=48415) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
-Сегодня 12:28
+03.10.24
 
 [![Андрей Турчак вступил в должность главы Республики Алтай](https://cdn.er.ru/media/news/October2024/hrGZWsnUPvaG5dGEyt7y-small.jpg)](https://er.ru/activity/news/andrej-turchak-vstupil-v-dolzhnost-glavy-respubliki-altaj)
 
@@ -345,7 +345,7 @@
 
 [#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 11:20
+03.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
