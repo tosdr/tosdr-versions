@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
+
 [Cybersecurity
 
 Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](https://www.ownbackup.com/blog/cybersecurity-in-2024-navigating-new-threats-and-strengthening-saas-defenses)
@@ -139,10 +143,6 @@ Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](h
 [Award
 
 Own Customer Awards Program: Celebrating Commitment to Data Excellence](https://www.ownbackup.com/blog/own-customer-awards-program-celebrating-commitment-to-data-excellence)
-
-[Backup and Recovery
-
-How to Prepare for your Migration to Salesforce Hyperforce](https://www.ownbackup.com/blog/how-to-prepare-for-your-migration-to-salesforce-hyperforce)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
+
 [Cybersecurity
 
 Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](https://www.ownbackup.com/blog/cybersecurity-in-2024-navigating-new-threats-and-strengthening-saas-defenses)
@@ -367,10 +371,6 @@ Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](h
 [Award
 
 Own Customer Awards Program: Celebrating Commitment to Data Excellence](https://www.ownbackup.com/blog/own-customer-awards-program-celebrating-commitment-to-data-excellence)
-
-[Backup and Recovery
-
-How to Prepare for your Migration to Salesforce Hyperforce](https://www.ownbackup.com/blog/how-to-prepare-for-your-migration-to-salesforce-hyperforce)
 
 Company
 
