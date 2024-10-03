@@ -51,7 +51,7 @@ Industry![](/images/icons/caret-down.svg)
 * [Identity Playbook](https://convert.wunderkind.co/2024-identity-playbook.html)
 * [2024 Marketers Guide](https://convert.wunderkind.co/marketers-guide-to-power-of-performance-marketing)
 
-* [Whitepapers](https://www.wunderkind.co/resources/research-study/)
+* [Newsroom](https://www.wunderkind.co/blog-category/wunderkind-news/)
 * [Success Stories](https://www.wunderkind.co/resources/case-studies/)
 * [Blog](https://www.wunderkind.co/blog/)
 * [See All](https://www.wunderkind.co/resources/)
