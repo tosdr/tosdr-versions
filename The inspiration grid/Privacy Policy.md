@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-kun-zhao-feature.jpg)
+
+[](https://theinspirationgrid.com/plastic-packaging-artworks-by-kun-zhao/)
+
+### Trash to Treasure: Powerful Artworks by Kun Zhao
+
+![](https://inspgr.id/app/uploads/2024/10/art-alefes-silva-feature.jpg)
+
+[](https://theinspirationgrid.com/surreal-dreams-gorgeous-illustrations-by-alefes-silva/)
+
+### Surreal Dreams: Gorgeous Illustrations by Alefes Silva
+
 ![](https://inspgr.id/app/uploads/2024/10/art-tomohiro-inaba-feature.jpg)
 
 [](https://theinspirationgrid.com/fading-away-incredible-sculptures-by-tomohiro-inaba/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/quirky-playful-3d-characters-by-cesc-grane/)
 
 ### Quirky & Playful 3D Characters by Cesc Grané
-
-![](https://inspgr.id/app/uploads/2024/09/art-book-master-feature.jpg)
-
-[](https://theinspirationgrid.com/amazing-pop-culture-inspired-book-sculptures-by-book-master/)
-
-### Pop Culture-Inspired Book Sculptures by Book Master
-
-![](https://inspgr.id/app/uploads/2024/09/art-angus-gardner-feature.jpg)
-
-[](https://theinspirationgrid.com/adorable-animal-paintings-by-angus-gardner/)
-
-### Adorable Animal Paintings by Angus Gardner
 
 Awesome products for creatives
 ------------------------------
