@@ -230,7 +230,6 @@ Additionally, please be advised that calls made to the customer service office b
 * Contact in case of emergency
 
 * [Facebook](https://www.facebook.com/Salonpas)
-* [Twitter](https://twitter.com/salonpas)
 * [YouTube](http://www.youtube.com/user/MRSALONPAS)
 
 * [Global Site](http://global.hisamitsu/)
