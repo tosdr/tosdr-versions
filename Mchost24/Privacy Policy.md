@@ -8,17 +8,35 @@ Wir schenken dir 40 % auf jede Aufladung bis zum 06.10.2024!
 
 Open main menu
 
-[HOME](https://mc-host24.de/) [GAMESERVER](https://mc-host24.de/gameserver)
+[HOME](https://mc-host24.de/)
 
-Rootserver
+Produkte
 
-[Linux Rootserver](https://mc-host24.de/rootserver-mieten)[Gaming Rootserver](https://mc-host24.de/gaming-rootserver-mieten)[Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
+[Gameserver](https://mc-host24.de/gameserver)
 
-[TEAMSPEAK](https://mc-host24.de/teamspeak-server-mieten) [WEBSPACE](https://mc-host24.de/webspace-mieten) [DOMAINS](https://mc-host24.de/domain-mieten)
+Wähle aus einer Vielzahl von Spielen und erstelle deinen eigenen Gameserver.
 
-Sonstiges
+* — [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
+* — [Gameserver Cloud](https://mc-host24.de/gameserver/list)
 
-[TeamSpeak Server mieten](https://mc-host24.de/teamspeak-server-mieten)[Webspace mieten](https://mc-host24.de/webspace-mieten)[Domain mieten](https://mc-host24.de/domain-mieten)
+[Rootserver](https://mc-host24.de/rootserver)
+
+Optimierte Rootserver für alle Anwendungsfälle.
+
+* — [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+* — [Ryzen Rootserver](https://mc-host24.de/ryzen-rootserver-mieten)
+* — [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
+
+Web & Domains
+
+Flexibles Hosting für Webprojekte und maßgeschneiderte Domainlösungen.
+
+* — [Webspace](https://mc-host24.de/webspace-mieten)
+* — [Domains](https://mc-host24.de/domain-mieten)
+
+[Teamspeak](https://mc-host24.de/teamspeak-server-mieten)
+
+Miete deinen eigenen TeamSpeak 3-Server für zuverlässige Sprachkommunikation in Spielen oder bei Online-Meetings.
 
 Support
 
@@ -39,14 +57,15 @@ Du bist noch nicht eingeloggt!
 Menü schließen
 
 * [Home](https://mc-host24.de/)
-* [Gameserver](https://mc-host24.de/gameserver)
-* [Rootserver](#)
-    * [Linux Rootserver](https://mc-host24.de/rootserver-mieten)
-    * [Gaming Rootserver](https://mc-host24.de/gaming-rootserver-mieten)
+* [Produkte](#)
+    * [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
+    * [Gameserver Cloud](https://mc-host24.de/gameserver/list)
+    * [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+    * [Ryzen Rootserver](https://mc-host24.de/ryzen-rootserver-mieten)
     * [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
-* [TeamSpeak](https://mc-host24.de/teamspeak-server-mieten)
-* [Webspace](https://mc-host24.de/webspace-mieten)
-* [Domains](https://mc-host24.de/domain-mieten)
+    * [Webspace](https://mc-host24.de/webspace-mieten)
+    * [Domains](https://mc-host24.de/domain-mieten)
+    * [Teamspeak](https://mc-host24.de/teamspeak-server-mieten)
 * [Support](#)
     * [Zum Support](https://mc-host24.de/support)
     * [Wiki & FAQ](https://docs.mc-host24.de/docs/)
