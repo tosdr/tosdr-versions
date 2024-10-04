@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Andrew White](https://cdn.comedy.co.uk/images/library/people/300x200/a/andrew_white_2024.jpg "Andrew White")](https://www.comedy.co.uk/live/fgwg/andrew-white/) Live
+
+[First Gig, Worst Gig: Andrew White](https://www.comedy.co.uk/live/fgwg/andrew-white/)
+
 [![Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://cdn.comedy.co.uk/images/library/misc/300x200/t/taskmaster_live.jpg "Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-57/) Live
 
 [What we thought of 'Taskmaster: The Live Experience' - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-57/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Trusty Hogs at Cheerful Earful Podcast Festival 2023. Image shows left to right: Helen Bauer, Catherine Bohart](https://cdn.comedy.co.uk/images/library/misc/300x200/t/trusty_hogs_cheerful_earful.jpg "Trusty Hogs at Cheerful Earful Podcast Festival 2023. Image shows left to right: Helen Bauer, Catherine Bohart")](https://www.comedy.co.uk/live/features/trusty-hogs-interview/) Live
 
 [Catherine Bohart and Helen Bauer discuss Trusty Hogs](https://www.comedy.co.uk/live/features/trusty-hogs-interview/)
-
-[![Auf Wiedersehen, Pet](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/auf_wiedersehen_pet_s2_b.jpg "Auf Wiedersehen, Pet")](https://www.comedy.co.uk/quiz/326/) Quiz
-
-[British Comedy Quiz #326](https://www.comedy.co.uk/quiz/326/)
 
 #### Subscribe to our newsletters
 
