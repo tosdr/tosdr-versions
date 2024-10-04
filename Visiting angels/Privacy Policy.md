@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[4 Benefits of Aging in Place](https://www.visitingangels.com/knowledge-center/care-options/4-benefits-of-aging-in-place/348)
+[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
 
-[3 Keys to Home Care Provider Compatibility](https://www.visitingangels.com/knowledge-center/selecting-care/3-keys-to-home-care-provider-compatibility/385)
+[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
 
-[Part 1: Expert Advice When Caring for a Loved One with Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-1-expert-advice-when-caring-for-a-loved-one-with-dementia/367)
+[Setting Your New Caregiver Up for Success](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/setting-your-new-caregiver-up-for-success/352)
 
-[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
+[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
 
-[What to Know About Switching Professional Caregivers](https://www.visitingangels.com/knowledge-center/selecting-care/what-to-know-about-switching-professional-caregivers/328)
+[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
