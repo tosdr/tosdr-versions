@@ -30,14 +30,20 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_360x203.jpg)](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
+    *  [![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_360x203.jpg)](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379)
         
-        #### [Two Navy pilots doing flyover for Washington-Michigan game in Seattle are UW alums](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
+        #### [WIAA approves 'fact-finding' investigation into Roosevelt High School football program](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379) [![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_360x203.jpg)](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379)
         
-    *  [![](https://media.king5.com/assets/KING/images/fbbcb76d-da27-4af7-a65e-a730244fd965/20241003T195300/fbbcb76d-da27-4af7-a65e-a730244fd965_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbbcb76d-da27-4af7-a65e-a730244fd965/20241003T195300/fbbcb76d-da27-4af7-a65e-a730244fd965_360x203.jpg)](https://www.king5.com/article/news/crime/14-arrests-fentanyl-trafficking-ring-washington-lummi-nation-fatal-overdose/281-d6e4886e-9252-4b17-b50c-ea6a717ed586)
+        #### [Seattle's Roosevelt High School being investigated by WIAA 'fact-finder'](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379) [![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0bebbfd-f68f-40a6-b64d-7e57ad08f488/20241004T201157/d0bebbfd-f68f-40a6-b64d-7e57ad08f488_360x203.jpg)](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379)
         
-        #### [Former executive director of Seattle safety outreach group indicted on money laundering charges](https://www.king5.com/article/news/crime/14-arrests-fentanyl-trafficking-ring-washington-lummi-nation-fatal-overdose/281-d6e4886e-9252-4b17-b50c-ea6a717ed586)
+        #### [WIAA investigating after allegations of recruiting at Seattle's Roosevelt High School](https://www.king5.com/article/sports/high-school/wiaa-investigation-roosevelt-high-football-program/281-ee3a5022-8cab-454a-92f8-de63c1321379)
+    *  [![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c)
         
+        #### [100 cats confiscated from hoarding situation at Federal Way apartment](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c) [![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c)
+        
+        #### [100 cats rescued from Federal Way hoarding situation](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c) [![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4651fa6-99b5-47ef-a84c-2ebce87ea75d/20241004T200221/d4651fa6-99b5-47ef-a84c-2ebce87ea75d_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c)
+        
+        #### [100 cats rescued from 'biohazardous apartment' in Federal Way](https://www.king5.com/article/news/local/tacoma/100-cats-confiscated-hoarding-situation-federal-way-apartment/281-262a24f0-a520-4424-a7d5-c65153e9801c)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -56,13 +62,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/dc78ab3a-7aec-46a9-8117-5e7e8f4e516f/20240812T163847/dc78ab3a-7aec-46a9-8117-5e7e8f4e516f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc78ab3a-7aec-46a9-8117-5e7e8f4e516f/20240812T163847/dc78ab3a-7aec-46a9-8117-5e7e8f4e516f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-washington-state-october-5-6/281-6f8e2d33-62bb-4304-b11b-08d9b8e12917)
+        
+        #### [Northern lights could be visible over Washington state this weekend](https://www.king5.com/article/weather/weather-blog/northern-lights-washington-state-october-5-6/281-6f8e2d33-62bb-4304-b11b-08d9b8e12917)
+        
     *  [![](https://media.king5.com/assets/KING/images/dd1e5f1c-5503-43d6-af57-289737b5cc39/20241004T122757/dd1e5f1c-5503-43d6-af57-289737b5cc39_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd1e5f1c-5503-43d6-af57-289737b5cc39/20241004T122757/dd1e5f1c-5503-43d6-af57-289737b5cc39_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/october-most-climatological-change-seattle/281-a8614b21-e3bb-4b3a-ace1-d3e00a6ce140)
-        
-        #### [Seattle loses about 90 minutes of daylight in October. Here's why](https://www.king5.com/article/weather/weather-blog/october-most-climatological-change-seattle/281-a8614b21-e3bb-4b3a-ace1-d3e00a6ce140)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +100,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+57°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
