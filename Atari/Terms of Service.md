@@ -7,7 +7,7 @@
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
 
-[Log in](https://atari.com/customer_identity/redirect?locale=en) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Log in](https://atari.com/customer_identity/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -21,7 +21,7 @@
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
 
-Search [Log in](https://atari.com/customer_identity/redirect?locale=en)
+Search [Log in](https://atari.com/customer_identity/redirect?locale=en&region_country=US)
 
 Bag
 
