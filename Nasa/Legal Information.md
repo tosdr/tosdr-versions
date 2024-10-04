@@ -82,7 +82,7 @@ article1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-t
 
 ### What’s Up: September 2024 Skywatching Tips from NASA
 
-article4 weeks ago](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/)
+article1 month ago](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/)
 
 Back
 
@@ -247,7 +247,7 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
@@ -269,13 +269,13 @@ article 1 week ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 2 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
 
 1 min read
 
 ### Gateway Stands Tall for Stress Test
 
-article 3 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+article 12 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 1 day ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-
 
 ### NASA Efforts on Hurricane Helene
 
-article 4 hours ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
+article 12 hours ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
 
 4 min read
 
@@ -313,13 +313,13 @@ article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### Gateway Stands Tall for Stress Test
 
-article 3 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
+article 12 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
 
 5 min read
 
 ### NASA’s LRO: Lunar Ice Deposits are Widespread
 
-article 4 hours ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article 12 hours ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -341,7 +341,7 @@ article 1 day ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-br
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-
 
 ### Highlights
 
-[![Why NASA is studying flames in space ](https://science.nasa.gov/wp-content/uploads/2024/10/jsc2023e013681medium.jpg)
+[![Culturally Inclusive Planetary Engagement in Colorado](https://science.nasa.gov/wp-content/uploads/2024/10/workshop-cropped-christine-shupla.jpg)
+
+2 min read
+
+### Culturally Inclusive Planetary Engagement in Colorado
+
+article 4 hours ago](https://science.nasa.gov/learning-resources/science-activation/culturally-inclusive-planetary-engagement-in-colorado/)[![Why NASA is studying flames in space ](https://science.nasa.gov/wp-content/uploads/2024/10/jsc2023e013681medium.jpg)
 
 4 min read
 
 ### Why NASA is studying flames in space 
 
-article 20 hours ago](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
+article 1 day ago](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)[![Amendment 57: ROSES-24 Changes for 2 CFR 200 Update](https://science.nasa.gov/wp-content/uploads/2024/07/gsfc-20171208-archive-e001885orig.jpg)
 
 2 min read
 
 ### Amendment 57: ROSES-24 Changes for 2 CFR 200 Update
 
-article 23 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)[![Image of detectors on spacecraft operating Beyond Low Earth Orbit (BLEO) that have been added to RadLab.](https://www.nasa.gov/wp-content/uploads/2024/09/bleo-annotated-withcopyrights.png?w=1024)
-
-2 min read
-
-### RadLab Portal Expands Horizons
-
-article 1 day ago](https://www.nasa.gov/radlab-portal-expands-horizons/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-57-roses-24-changes-for-2-cfr-200-update/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Highlights
 
-[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
+
+3 min read
+
+### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
+
+article 5 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
 ### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 2 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![A selection of red and black Burnout coffee mugs.](https://www.nasa.gov/wp-content/uploads/2024/09/termavant2a-web-0.jpg?w=600)
+article 10 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![A selection of red and black Burnout coffee mugs.](https://www.nasa.gov/wp-content/uploads/2024/09/termavant2a-web-0.jpg?w=600)
 
 2 min read
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 6 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
-
-3 min read
-
-### NASA’s Record-Breaking Laser Demo Completes Mission
-
-article 1 week ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)
+article 6 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)
 
 ### Featured
 
@@ -467,19 +467,19 @@ article 1 week ago](https://www.nasa.gov/general/nasa-relaunches-art-program-wit
 
 ### La NASA invita a los medios al lanzamiento de Europa Clipper
 
-article 4 weeks ago](https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/)[![A man supporting the installation of the X-59 ejection seat.](https://www.nasa.gov/wp-content/uploads/2024/08/p24-055-26.jpg?w=1024)
+article 1 month ago](https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/)[![A man supporting the installation of the X-59 ejection seat.](https://www.nasa.gov/wp-content/uploads/2024/08/p24-055-26.jpg?w=1024)
 
 3 min read
 
 ### El X-59 de la NASA avanza en las pruebas de preparación para volar
 
-article 4 weeks ago](https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/)[![Technicians tested deploying a set of massive solar arrays](https://www.nasa.gov/wp-content/uploads/2024/09/53934452328-bb3fabae59-o.jpg?w=1024)
+article 1 month ago](https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/)[![Technicians tested deploying a set of massive solar arrays](https://www.nasa.gov/wp-content/uploads/2024/09/53934452328-bb3fabae59-o.jpg?w=1024)
 
 7 min read
 
 ### La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
 
-article 4 weeks ago](https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/)
+article 1 month ago](https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
