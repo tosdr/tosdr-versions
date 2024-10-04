@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/branding-dutchscot-sucre-feature.jpg)
+
+[](https://theinspirationgrid.com/sucre-restaurant-branding-by-dutchscot/)
+
+### Sucre Restaurant Branding by DutchScot
+
+![](https://inspgr.id/app/uploads/2024/10/murals-pref-feature.jpg)
+
+[](https://theinspirationgrid.com/multifaceted-typographic-murals-by-pref/)
+
+### Multifaceted Typographic Murals by Pref
+
 ![](https://inspgr.id/app/uploads/2024/10/art-kun-zhao-feature.jpg)
 
 [](https://theinspirationgrid.com/plastic-packaging-artworks-by-kun-zhao/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/illustrations-by-william-dalebout/)
 
 ### Cool Illustrations by William Dalebout
-
-![](https://inspgr.id/app/uploads/2024/09/design-rebel-prints-feature.jpg)
-
-[](https://theinspirationgrid.com/rebel-prints-the-poster-rex-manifesto-by-markus-lange-lars-harmsen/)
-
-### Rebel Prints: The Poster Rex Manifesto by Markus Lange & Lars Harmsen
-
-![](https://inspgr.id/app/uploads/2024/09/3d-cesc-grane-feature.jpg)
-
-[](https://theinspirationgrid.com/quirky-playful-3d-characters-by-cesc-grane/)
-
-### Quirky & Playful 3D Characters by Cesc Grané
 
 Awesome products for creatives
 ------------------------------
