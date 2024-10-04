@@ -492,11 +492,11 @@ Crypto Wallet Service
 Crypto Wallet Service
 ---------------------
 
-_Last updated: March 24, 2023_
+_Last updated: October 4, 2024_
 
-1. Some of Opera’s software applications include a non-custodial wallet which provides a self-hosted, user controlled solution (“Service”) for Ethereum-based blockchains and cryptographically secured digital assets. The in-app wallet service is provided by our affiliate, Blueboard Limited, which is solely responsible for its operation. Use of the wallet service is subject to Blueboard’s [terms of service](https://legal.blueboard.pro/terms) and [privacy statement](https://legal.blueboard.pro/privacy). Some services in the non-custodial wallet could be provided by Opera under these Terms, or by third parties under their own separate terms.
+1. Some of Opera’s software applications include a non-custodial wallet which provides a self-hosted, user controlled solution based on blockchains and cryptographically secured digital assets. The in-app non-custodial wallet service, as well as stand-alone app of non-custodial wallet service (“Crypto Wallet Service”), are provided by our affiliate, Blueboard Limited, which is solely responsible for its operation. Use of the Crypto Wallet Service is subject to Blueboard’s [Terms of Service](https://legal.blueboard.pro/terms) and [Privacy Statement](https://legal.blueboard.pro/privacy). Some services in the Crypto Wallet Service could be provided by Opera under these Terms, or by third parties under their own separate terms.
     
-2. As explained in Blueboard’s terms of service, you can only use the Crypto Wallet Service if permitted under the laws of your jurisdiction. Please make sure that your use of the Crypto Wallet Service is in compliance with all laws, rules, and regulations that apply to you. It is your responsibility to determine what, if any, taxes apply to your Cryptocurrency transactions, and it is your responsibility to report and remit the correct tax to the appropriate tax authority where applicable. Neither Opera nor Blueboard is not responsible for determining whether taxes apply to your transactions or for collecting, reporting, withholding, or remitting any taxes arising from any of your transactions.
+2. As explained in Blueboard’s Terms of Service, you can only use the Crypto Wallet Service if permitted under the laws of your jurisdiction. Please make sure that your use of the Crypto Wallet Service is in compliance with all laws, rules, and regulations that apply to you. It is your responsibility to determine what, if any, taxes apply to your Cryptocurrency transactions, and it is your responsibility to report and remit the correct tax to the appropriate tax authority where applicable. Neither Opera nor Blueboard is not responsible for determining whether taxes apply to your transactions or for collecting, reporting, withholding, or remitting any taxes arising from any of your transactions.
     
 
 GX.gear
@@ -505,22 +505,6 @@ GX.gear
 -------
 
 GX.gear is an online store provided by our affiliate, Opera Software Poland Sp. z o.o., which is solely responsible for its operation. Use of the GX.gear service is subject to these [Terms of Service](https://legal.opera.com/terms/gxgear/).
-
-Hype Messaging Service
-
-Hype Messaging Service
-----------------------
-
-_Last updated: March 8, 2023_
-
-Depending on where you live, you may be able to access Opera’s Hype messaging service (“Hype”) via some of our mobile apps. Hype enables you to communicate with other Hype users by sending messages, images, and videos. The following additional terms apply to your use of the Hype service.
-
-1. **Creating your account.** To use Hype you create an Opera Account and must create an Hype account using your current mobile phone number. By providing us with your mobile phone number, you agree to receive text messages and/or phone calls (from us or third-party providers) with codes to register for Hype Service. Your data will be handled in accordance with the [Opera privacy statement](https://legal.opera.com/privacy).
-    
-2. **Use Hype appropriately.** You must use Hype in accordance with our Terms, and applicable law. We reserve the right to suspend your account for any reason, including for violating our Terms.
-    
-3. **End-to-end encryption.** Direct messages sent via Hype are end-to-end encrypted, and are not stored by or viewable to Opera in any way. Group messages however are not end-to-end encrypted and may be stored on our servers for up to six months.
-    
 
 Language EnglishPortuguêsDeutschPolskiEspañolукраїнська
 
