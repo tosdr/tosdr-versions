@@ -20,16 +20,16 @@ Friday, October 4 2024
 
 Latest
 
-* [15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
-* [What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
-* [Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
-* [Oxo Rapid Brewer Coffee Maker Review](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
-* [Should More AAA Games Start Releasing in Early Access?](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
-* [Apple M3 MacBook Air 13.6in review](https://digitpatrox.com/apple-m3-macbook-air-13-6in-review/)
-* [Best High Risk Merchant Account Providers for 2024](https://digitpatrox.com/best-high-risk-merchant-account-providers-for-2024/)
-* [10 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 4-6)](https://digitpatrox.com/10-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-4-6/)
-* [Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
-* [Google is testing verified checkmarks in search](https://digitpatrox.com/google-is-testing-verified-checkmarks-in-search/)
+* [Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
+* [Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
+* [How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
+* [FBCS debt collector data breach of 5 million+ records caused by ransomware attack, Comcast says](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
+* [Windows 11 24H2 (unsupported hardware) clean install and in-place upgrade process](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
+* [How to Avoid a Stooped Posture as You Age](https://digitpatrox.com/how-to-avoid-a-stooped-posture-as-you-age/)
+* [The Beauty of Software Signatures](https://digitpatrox.com/the-beauty-of-software-signatures/)
+* [How CISOs are navigating the “slippery” AI data protection problem](https://digitpatrox.com/how-cisos-are-navigating-the-slippery-ai-data-protection-problem/)
+* [From Basics to Full Stack Brilliance—This Dev Bundle Has It All](https://digitpatrox.com/from-basics-to-full-stack-brilliance-this-dev-bundle-has-it-all/)
+* [The iOS Gmail app is getting Gemini before Apple Intelligence even launches](https://digitpatrox.com/the-ios-gmail-app-is-getting-gemini-before-apple-intelligence-even-launches/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3544489-0-45321700-1728038885-advanced-android-gesture-tricks.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/UDburcKtfM5cX7tLYUEeJn-1200-80.jpg)](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
     
-    [15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
+    [Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
     
-    15 mins ago
+    37 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J91FNR432C7C9DV71AF1QK9P/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3547197-0-34642600-1728061426-chip-semiconductor-equipment-manufacturing-100948194-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
     
-    [What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
+    [Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
     
-    41 mins ago
+    59 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/06/windows-11-24h2-version-desktop-hero-mauro-huculak.webp)](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
+* [![](https://lifehacker.com/imagery/articles/01J9BNFPFMF0FFWA43B3M2SSS8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
     
-    [Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727704877/prod/content/dam/product-cards/CR-RR-InlineHero-OXO-Rapid-Brewer-9-24)](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
-    
-    [Oxo Rapid Brewer Coffee Maker Review](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
+    [How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/stack-of-ps5-games-with-baldur-s-gate-on-top.jpg)](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/fbcs-comcast-ransomware.jpg)](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
     
-    [Should More AAA Games Start Releasing in Early Access?](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
+    [FBCS debt collector data breach of 5 million+ records caused by ransomware attack, Comcast says](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/08/windows-11-24h2-install-unsupported-hardware-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
+    
+    [Windows 11 24H2 (unsupported hardware) clean install and in-place upgrade process](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [37 mins ago
     
-    ### 15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
-* [41 mins ago
+    ### Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
+* [59 mins ago
     
-    ### What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
+    ### Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
 * [1 hour ago
     
-    ### Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
+    ### How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
 
 Most Popular Topics
 
-* [2 weeks ago
-    
-    ### Early Prime Day sale live on Amazon apparel — shop jeans, sweaters and more from $10](https://digitpatrox.com/early-prime-day-sale-live-on-amazon-apparel-shop-jeans-sweaters-and-more-from-10/)
-* [August 16, 2024
-    
-    ### Cherry KW X ULP review: This might be my new favorite productivity keyboard](https://digitpatrox.com/cherry-kw-x-ulp-review-this-might-be-my-new-favorite-productivity-keyboard/)
 * [4 weeks ago
     
-    ### Why are so many AI projects destined for failure? Inexperienced staff, poor planning, and a shoehorned approach to agile development are all stifling innovation](https://digitpatrox.com/why-are-so-many-ai-projects-destined-for-failure-inexperienced-staff-poor-planning-and-a-shoehorned-approach-to-agile-development-are-all-stifling-innovation/)
+    ### Does “Off-the-Shelf” Contact Center Integration Really Work?](https://digitpatrox.com/does-off-the-shelf-contact-center-integration-really-work/)
+* [August 17, 2024
+    
+    ### What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://digitpatrox.com/what-to-do-when-the-tips-of-your-plants-leaves-turn-brown/)
+* [August 20, 2024
+    
+    ### Guide to setting up a VPN on ASUS router](https://digitpatrox.com/guide-to-setting-up-a-vpn-on-asus-router/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Best High Risk Merchant Account Providers for 2024](https://digitpatrox.com/best-high-risk-merchant-account-providers-for-2024/)
-* [2 hours ago
-    
-    ### 10 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 4-6)](https://digitpatrox.com/10-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-4-6/)
+    ### The Beauty of Software Signatures](https://digitpatrox.com/the-beauty-of-software-signatures/)
 * [3 hours ago
     
-    ### Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
+    ### How CISOs are navigating the “slippery” AI data protection problem](https://digitpatrox.com/how-cisos-are-navigating-the-slippery-ai-data-protection-problem/)
+* [3 hours ago
+    
+    ### From Basics to Full Stack Brilliance—This Dev Bundle Has It All](https://digitpatrox.com/from-basics-to-full-stack-brilliance-this-dev-bundle-has-it-all/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
