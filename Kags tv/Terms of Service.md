@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/cspd-seeking-info-from-john-compton-park-basketball-court-fight-shots-fired/500-1f76fbc8-5553-4054-802e-7d183b04496a)
+    *  [![](https://media.kagstv.com/assets/KSDK/images/b6dc79a3-729d-4ac6-9616-bff4ff9958cd/20240912T075230/b6dc79a3-729d-4ac6-9616-bff4ff9958cd_16x9.jpg) ![](https://media.kagstv.com/assets/KSDK/images/b6dc79a3-729d-4ac6-9616-bff4ff9958cd/20240912T075230/b6dc79a3-729d-4ac6-9616-bff4ff9958cd_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-blue-alert-hall-county-what-is-it-suspect-seth-altman/287-bbb3c4a8-14be-4993-9c5c-94b5c3128587)
         
-        #### [College Station PD seeking information on shots fired report from basketball fight](https://www.kagstv.com/article/news/crime/cspd-seeking-info-from-john-compton-park-basketball-court-fight-shots-fired/500-1f76fbc8-5553-4054-802e-7d183b04496a)
+        #### [Here's why cellphones across Texas (including yours) lit up early Friday morning](https://www.kagstv.com/article/news/local/texas-blue-alert-hall-county-what-is-it-suspect-seth-altman/287-bbb3c4a8-14be-4993-9c5c-94b5c3128587)
         
-    *  [![](https://media.kagstv.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.kagstv.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-meth-lab-arrests-oct-3-2024/500-98aae414-d863-4880-8df9-f1567b9f2bde)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/b30c44db-7529-492d-9f4f-0089718a4bdc/20241004T101759/b30c44db-7529-492d-9f4f-0089718a4bdc_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/b30c44db-7529-492d-9f4f-0089718a4bdc/20241004T101759/b30c44db-7529-492d-9f4f-0089718a4bdc_360x203.jpg)](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
         
-        #### [Long-term investigation concludes in five arrested at meth conversion lab in Brazos County](https://www.kagstv.com/article/news/crime/bryan-meth-lab-arrests-oct-3-2024/500-98aae414-d863-4880-8df9-f1567b9f2bde)
+        #### [Blue Alert issued for 'armed and dangerous' suspect after Texas officer seriously injured](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-76°
+94°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
