@@ -103,7 +103,7 @@ Please enter a search term
         * [All Energy](https://www.pinsentmasons.com/sectors/energy)
     * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
         * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
-        * [Banks](https://www.pinsentmasons.com/sectors/financial-services/banks)
+        * [Finance](https://www.pinsentmasons.com/sectors/financial-services/banks)
         * [Fintech](https://www.pinsentmasons.com/sectors/financial-services/fintech)
         * [Insurance](https://www.pinsentmasons.com/sectors/financial-services/insurance)
         * [Private Equity](https://www.pinsentmasons.com/sectors/financial-services/private-equity)
