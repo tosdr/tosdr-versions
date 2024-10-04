@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [UNIVERSITY!](https://www.somethingawful.com/news/hyurgi-online-university/1/)
-* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
-* [The Complete History Of Video Games](https://www.somethingawful.com/video-game-article/history-video-games/)
-* [This is COOL](https://www.somethingawful.com/news/sega-saturn-cool/)
-* [Canceled After One Episode](https://www.somethingawful.com/news/canceled-tv-series/)
+* [Capitalism: A Love Story; Zombieland; The Invention of Lying; Toy Story 3-D; Surrogates](https://www.somethingawful.com/current-movie-reviews/capitalism/1/)
+* [Advanced Dungeons & Dragons: Monster Manual II (part 1)](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-modron/1/)
+* [Actual Japanese Porn Movie Titles](https://www.somethingawful.com/news/japanese-porn-titles/)
+* [Backyard Love](https://www.somethingawful.com/feature-articles/backyard-love-3/1/)
+* [Welcome to the HTML Writers Guild](https://www.somethingawful.com/news/html-guild-writers/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [ITT: we are dipshits in a cyberpunk dystopia](http://forums.somethingawful.com/showthread.php?threadid=4071800 "ITT: we are dipshits in a cyberpunk dystopia")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [The one thing you ALWAYS forget to do. ALWAYS.](http://forums.somethingawful.com/showthread.php?threadid=4071814 "The one thing you ALWAYS forget to do. ALWAYS.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Is the entire concept of soda insane to anyone else?](http://forums.somethingawful.com/showthread.php?threadid=4071823 "Is the entire concept of soda insane to anyone else?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [ITT: we are dipshits in a cyberpunk dystopia](http://forums.somethingawful.com/showthread.php?threadid=4071800 "ITT: we are dipshits in a cyberpunk dystopia")
 * ![](https://fi.somethingawful.com/forums/posticons/aids.png) [How will you die?](http://forums.somethingawful.com/showthread.php?threadid=4071839 "How will you die?")
 
 ### Random Articles
 
-* [If You Like Super Mario Bros., Try These Games](https://www.somethingawful.com/video-game-article/super-mario-try/)
-* [The Strangest Star Wars Products!](https://www.somethingawful.com/comedy-goldmine/strange-starwars-products/)
-* [MS Paint Nintendo! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/mspaint-nintendo-mario/1/)
-* [Tyra's Virtual Studio](https://www.somethingawful.com/mmo-roulette/tyrastudio/1/)
-* [Sara's Super Site](https://www.somethingawful.com/awful-links/awful-link-878/)
+* [The Internet's Most Wanted List](https://www.somethingawful.com/news/internets-most-wanted/)
+* [My Dad the Ghost Rider](https://www.somethingawful.com/news/growing-up-super/1/)
+* [Great Conversations History Missed](https://www.somethingawful.com/news/conversations-history-missed/1/)
+* [Something Awful](https://www.somethingawful.com/awful-links/awful-link-951/)
+* [Hypothetical Torture](https://www.somethingawful.com/news/hypothetical-torture-homophobia/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
