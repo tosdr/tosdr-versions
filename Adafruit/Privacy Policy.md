@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Premature optimization is the root of all evil”
+“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
 
-[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
 
 [](https://www.adafruit.com/about)
 
