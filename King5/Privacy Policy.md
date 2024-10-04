@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KREM/images/0f466b7f-9c6c-41ff-941e-f891fe2f38d8/20240919T001457/0f466b7f-9c6c-41ff-941e-f891fe2f38d8_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/0f466b7f-9c6c-41ff-941e-f891fe2f38d8/20240919T001457/0f466b7f-9c6c-41ff-941e-f891fe2f38d8_360x203.jpg)](https://www.king5.com/article/news/local/radioactive-waste-hanford-through-spokane/293-de936e54-fc8a-4f5d-807e-a174c1d1944f)
+    *  [![](https://media.king5.com/assets/KING/images/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1/20241004T021037/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1/20241004T021037/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1_360x203.jpg)](https://www.king5.com/article/news/local/king-county-reducing-speed-limit-making-safety-changes-problematic-intersection/281-defe537b-0f7e-4ef9-aeca-6e269841ece2)
         
-        #### [Radioactive waste from Hanford Nuclear Site set to travel through Spokane](https://www.king5.com/article/news/local/radioactive-waste-hanford-through-spokane/293-de936e54-fc8a-4f5d-807e-a174c1d1944f)
+        #### [King County to reduce speed limit, make safety changes to problematic intersection near Renton](https://www.king5.com/article/news/local/king-county-reducing-speed-limit-making-safety-changes-problematic-intersection/281-defe537b-0f7e-4ef9-aeca-6e269841ece2) [![](https://media.king5.com/assets/KING/images/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1/20241004T021037/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1/20241004T021037/c9bc0516-1544-4df9-ab96-a8bf7b8f66c1_360x203.jpg)](https://www.king5.com/article/news/local/king-county-reducing-speed-limit-making-safety-changes-problematic-intersection/281-defe537b-0f7e-4ef9-aeca-6e269841ece2)
         
-    *  [![](https://media.king5.com/assets/KGW/images/d9743722-6c98-4757-b4a6-f9aa07562e8b/d9743722-6c98-4757-b4a6-f9aa07562e8b_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/d9743722-6c98-4757-b4a6-f9aa07562e8b/d9743722-6c98-4757-b4a6-f9aa07562e8b_360x203.jpg)](https://www.king5.com/article/news/local/political-attack-ad-fact-check-joe-kent-3rd-district/283-d6331c19-cb57-44ab-82b9-dc2187153912)
+        #### [County officials to reduce speed limit on problematic road near Renton. Neighbors say more needs to be done](https://www.king5.com/article/news/local/king-county-reducing-speed-limit-making-safety-changes-problematic-intersection/281-defe537b-0f7e-4ef9-aeca-6e269841ece2)
+    *  [![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/18c5ab64-ec53-4e0a-956b-0de77cafc85d/20241003T124313/18c5ab64-ec53-4e0a-956b-0de77cafc85d_360x203.jpg)](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
         
-        #### [Fact-check: Attack ad against Washington 3rd Congressional District candidate Joe Kent](https://www.king5.com/article/news/local/political-attack-ad-fact-check-joe-kent-3rd-district/283-d6331c19-cb57-44ab-82b9-dc2187153912)
+        #### [Police share what they've learned from child sex offenders that could protect kids](https://www.king5.com/article/news/local/police-interviewing-convicted-child-molesters-help-parents-protect-kids/281-5a20d47d-fd77-42af-aca2-e93d12133334)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e5a9d6ef-f68e-40ed-9554-0754eda9273c/20241003T125953/e5a9d6ef-f68e-40ed-9554-0754eda9273c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e5a9d6ef-f68e-40ed-9554-0754eda9273c/20241003T125953/e5a9d6ef-f68e-40ed-9554-0754eda9273c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/eabf83de-ecb2-4bf6-adae-6000558f64b1/20241004T011308/eabf83de-ecb2-4bf6-adae-6000558f64b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eabf83de-ecb2-4bf6-adae-6000558f64b1/20241004T011308/eabf83de-ecb2-4bf6-adae-6000558f64b1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_360x203.jpg)](https://www.king5.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
+    *  [![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/october-most-climatological-change-seattle/281-a8614b21-e3bb-4b3a-ace1-d3e00a6ce140)
         
-        #### [Hurricane Helene aftermath: Death toll passes 130, supplies rushed to isolated communities](https://www.king5.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
+        #### [Seattle loses about 90 minutes of daylight in October. Here's why](https://www.king5.com/article/weather/weather-blog/october-most-climatological-change-seattle/281-a8614b21-e3bb-4b3a-ace1-d3e00a6ce140)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -78,7 +79,6 @@ Navigation
     * [Storm](https://www.king5.com/storm)
     * [Huskies](https://www.king5.com/huskies)
     * [Cougars](https://www.king5.com/cougars)
-    * [Olympics](https://www.king5.com/olympics)
     * [Locked On Podcast Network](https://lockedonpodcasts.com/)
     
 * [VERIFY](https://www.king5.com/verify)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+58°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
