@@ -4,7 +4,7 @@ Información [934 774 245](tel:934774245) | [915 762 181](tel:915762181)
 
 Soporte de 9:00 h. a 19:00 h.
 
-[![Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2019/07/Firmaprofesional_Digital_Color_Pequeno.png)](https://firmaprofesional.com/)
+[![Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/10/logo-firma-group-positivo.png)](https://firmaprofesional.com/)
 
 * [Soluciones](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/)
     * [Firmacloud](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/firmacloud/)
