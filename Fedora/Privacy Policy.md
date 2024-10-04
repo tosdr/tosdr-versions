@@ -79,7 +79,8 @@ Fedora Legal
 * [Fedora Tools](https://docs.fedoraproject.org/en-US/tools/)
 * [Fedora User Docs](https://docs.fedoraproject.org/en-US/fedora/latest/)
     * [rawhide](https://docs.fedoraproject.org/en-US/fedora/rawhide/)
-    * [f40](https://docs.fedoraproject.org/en-US/fedora/latest/)
+    * [f41](https://docs.fedoraproject.org/en-US/fedora/latest/)
+    * [f40](https://docs.fedoraproject.org/en-US/fedora/f40/)
     * [f39](https://docs.fedoraproject.org/en-US/fedora/f39/)
     * [f38](https://docs.fedoraproject.org/en-US/fedora/f38/)
     * [f37](https://docs.fedoraproject.org/en-US/fedora/f37/)
@@ -367,7 +368,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-10-03 11:50:08 UTC | Last content update: 2023-09-15
+Last build: 2024-10-04 00:50:08 UTC | Last content update: 2023-09-15
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
