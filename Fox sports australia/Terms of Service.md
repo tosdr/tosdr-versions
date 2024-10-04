@@ -50,12 +50,12 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    4/10 20:00 AEST
+    RSA won by 10 wkts
     
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | WI  | –   |
+    | RSA | 0 /119 |
+    | WI  | 6 /118 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250103)
 * [Women's T20 WC
@@ -88,16 +88,26 @@ FOX SCORES
     | TAS | 272 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250109)
+* [WNCL
+    
+    5/10 9:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | QLD | –   |
+    | WA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250110)
 * AFL
     
 * [AFL Women's
     
-    4/10 19:45 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | ADE | –   |
-    | STK | –   |
+    | ADE | 3.8.26 |
+    | STK | 3.4.22 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240605)
 * NFL
@@ -128,24 +138,24 @@ FOX SCORES
     
 * [NBL
     
-    4/10 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CAI | –   |
-    | TAS | –   |
+    | CAI | 90  |
+    | TAS | 78  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030002)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030002/play-by-play)
 * [NBL
     
-    4/10 21:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PER | –   |
-    | MEL | –   |
+    | PER | 68  |
+    | MEL | 97  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030003)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030003/play-by-play)
 * Baseball
     
 * [MLB
@@ -735,6 +745,7 @@ FOX SCORES
 * [State of Origin](https://www.foxsports.com.au/video/league/state-of-origin)
 * Matty Johns
 * [NRL 360](https://www.foxsports.com.au/video/league/nrl-360)
+* [The Fan](https://www.foxsports.com.au/video/league/the-fan)
 * [NRL Tonight](https://www.foxsports.com.au/video/league/nrl-tonight)
 * Tests
 * [Rugby League](https://www.foxsports.com.au/video/league/rugby-league)
@@ -904,7 +915,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
