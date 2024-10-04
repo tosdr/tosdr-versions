@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-A great service ... I'm almost sorry that I don't need it right now! But I will again later in the year and I will be back!
+I was very satisfied with your service. Reason I stopped the subscription is that a football season was over. I'll return to your service for the next football season. Thank you for your giving me a nice proxy server.
 
-Mike Fells
+Shigeo Yoshinari
