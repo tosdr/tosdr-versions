@@ -53,6 +53,8 @@ Section
 
 Go to Search
 
+[Hurricane Helene](https://www.tn.gov/tema/updates/hurricane-helene.html)
+
 [Web Policies](https://www.tn.gov/web-policies.html)
 
 * [Privacy Statement](https://www.tn.gov/web-policies/privacy-statement.html)
