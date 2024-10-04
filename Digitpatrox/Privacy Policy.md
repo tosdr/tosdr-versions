@@ -20,16 +20,16 @@ Friday, October 4 2024
 
 Latest
 
-* [How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
-* [Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
-* [AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
-* [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons/)
-* [I raced a 10K with the Apple Watch 10 and Apple Watch Ultra 2 — which was better?](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
-* [‘Pig butchering’ trading apps found on Google Play, App Store](https://digitpatrox.com/pig-butchering-trading-apps-found-on-google-play-app-store/)
-* [The best MagSafe and Qi2 chargers for iPhones](https://digitpatrox.com/the-best-magsafe-and-qi2-chargers-for-iphones/)
-* [Spotify’s New Offline Backup Feature Has Got Your Back When You’re Without Internet](https://digitpatrox.com/spotifys-new-offline-backup-feature-has-got-your-back-when-youre-without-internet/)
-* [Kao Data kicks off construction of new Stockport data center](https://digitpatrox.com/kao-data-kicks-off-construction-of-new-stockport-data-center/)
-* [What’s new for Apple Intelligence? – Computerworld](https://digitpatrox.com/whats-new-for-apple-intelligence-computerworld/)
+* [15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
+* [What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
+* [Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
+* [Oxo Rapid Brewer Coffee Maker Review](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
+* [Should More AAA Games Start Releasing in Early Access?](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
+* [Apple M3 MacBook Air 13.6in review](https://digitpatrox.com/apple-m3-macbook-air-13-6in-review/)
+* [Best High Risk Merchant Account Providers for 2024](https://digitpatrox.com/best-high-risk-merchant-account-providers-for-2024/)
+* [10 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 4-6)](https://digitpatrox.com/10-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-4-6/)
+* [Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
+* [Google is testing verified checkmarks in search](https://digitpatrox.com/google-is-testing-verified-checkmarks-in-search/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727718816/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Avoiding-Collisions-with-Deer-this-Fall-0924)](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3544489-0-45321700-1728038885-advanced-android-gesture-tricks.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
     
-    [How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
+    [15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
     
-    11 mins ago
+    15 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/fbi_van_hero_4.jpg)](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
+* [![](https://lifehacker.com/imagery/articles/01J91FNR432C7C9DV71AF1QK9P/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
     
-    [Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
+    [What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
     
-    13 mins ago
+    41 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/HLWwp3S6DByc3JXnJ3PHUc-1200-80.jpg)](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/06/windows-11-24h2-version-desktop-hero-mauro-huculak.webp)](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
     
-    [AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/copper-crm.jpg)](https://digitpatrox.com/features-pricing-pros-and-cons/)
-    
-    [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons/)
+    [Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/HN3inXgEW5UbRNmvQJBEK-1200-80.jpg)](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727704877/prod/content/dam/product-cards/CR-RR-InlineHero-OXO-Rapid-Brewer-9-24)](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
     
-    [I raced a 10K with the Apple Watch 10 and Apple Watch Ultra 2 — which was better?](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
+    [Oxo Rapid Brewer Coffee Maker Review](https://digitpatrox.com/oxo-rapid-brewer-coffee-maker-review/)
+    
+    1 hour ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/stack-of-ps5-games-with-baldur-s-gate-on-top.jpg)](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
+    
+    [Should More AAA Games Start Releasing in Early Access?](https://digitpatrox.com/should-more-aaa-games-start-releasing-in-early-access/)
     
     1 hour ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 mins ago
+* [15 mins ago
     
-    ### How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
-* [13 mins ago
+    ### 15 advanced Android gesture actions – Computerworld](https://digitpatrox.com/15-advanced-android-gesture-actions-computerworld/)
+* [41 mins ago
     
-    ### Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
+    ### What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
 * [1 hour ago
     
-    ### AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
+    ### Should I install Windows 11 24H2 on my PC? No, and here’s why.](https://digitpatrox.com/should-i-install-windows-11-24h2-on-my-pc-no-and-heres-why/)
 
 Most Popular Topics
 
-* [August 15, 2024
+* [2 weeks ago
     
-    ### GitHub Actions artifacts found leaking auth tokens in popular projects](https://digitpatrox.com/github-actions-artifacts-found-leaking-auth-tokens-in-popular-projects/)
-* [August 31, 2024
+    ### Early Prime Day sale live on Amazon apparel — shop jeans, sweaters and more from $10](https://digitpatrox.com/early-prime-day-sale-live-on-amazon-apparel-shop-jeans-sweaters-and-more-from-10/)
+* [August 16, 2024
     
-    ### Will Batman Appear in The Penguin Series?](https://digitpatrox.com/will-batman-appear-in-the-penguin-series/)
-* [1 week ago
+    ### Cherry KW X ULP review: This might be my new favorite productivity keyboard](https://digitpatrox.com/cherry-kw-x-ulp-review-this-might-be-my-new-favorite-productivity-keyboard/)
+* [4 weeks ago
     
-    ### Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
+    ### Why are so many AI projects destined for failure? Inexperienced staff, poor planning, and a shoehorned approach to agile development are all stifling innovation](https://digitpatrox.com/why-are-so-many-ai-projects-destined-for-failure-inexperienced-staff-poor-planning-and-a-shoehorned-approach-to-agile-development-are-all-stifling-innovation/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### The best MagSafe and Qi2 chargers for iPhones](https://digitpatrox.com/the-best-magsafe-and-qi2-chargers-for-iphones/)
+    ### Best High Risk Merchant Account Providers for 2024](https://digitpatrox.com/best-high-risk-merchant-account-providers-for-2024/)
 * [2 hours ago
     
-    ### Spotify’s New Offline Backup Feature Has Got Your Back When You’re Without Internet](https://digitpatrox.com/spotifys-new-offline-backup-feature-has-got-your-back-when-youre-without-internet/)
-* [4 hours ago
+    ### 10 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 4-6)](https://digitpatrox.com/10-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-4-6/)
+* [3 hours ago
     
-    ### Kao Data kicks off construction of new Stockport data center](https://digitpatrox.com/kao-data-kicks-off-construction-of-new-stockport-data-center/)
+    ### Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
