@@ -190,9 +190,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (48)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (46)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (13)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (43)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Favorites (41)](https://www.smithbrothersfarms.com/fall-favorites)
         
