@@ -394,6 +394,10 @@ This Terms of Service is available under a Creative Commons license (CC BY 4.0).
 
 [Password Generator](https://bitwarden.com/password-generator/)[Password Strength Tester](https://bitwarden.com/password-strength/)[Help and Documentation](https://bitwarden.com/help/)[Learning Center](https://bitwarden.com/learning/)[Talk to Sales](https://bitwarden.com/contact-sales/)[Contact Support](https://bitwarden.com/contact/)
 
+### Level up your cybersecurity knowledge.
+
+Subscribe to the newsletter.
+
 * * *
 
 © 2024 Bitwarden, Inc. [Terms](https://bitwarden.com/terms/) [Privacy](https://bitwarden.com/privacy/) [Cookie Settings](https://bitwarden.com/#osano) [Sitemap](https://bitwarden.com/sitemap/)
