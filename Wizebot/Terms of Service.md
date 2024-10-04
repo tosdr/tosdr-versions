@@ -1,6 +1,6 @@
 ![](https://cdn-3.wize.bot/gbl/img/wb-logos/wizebot_loader.svg)
 
-[![logo](https://cdn-3.wize.bot/gbl/img/wb-logos/logo-wizebot-with-text-anim.svg)](https://support.wizebot.tv/)
+[![logo](https://cdn-3.wize.bot/gbl/img/wb-logos/logo-wizebot-with-text-anim-halloween.svg)](https://support.wizebot.tv/)
 
 * [](https://threads.net/@wizebot)
 * [](https://twitter.com/wizebot)
