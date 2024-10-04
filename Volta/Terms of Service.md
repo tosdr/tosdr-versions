@@ -1,57 +1,75 @@
 [Skip to content](#main)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+
+[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+
+[VOLTA![](//www.voltacharger.com/cdn/shop/files/Logo_white.svg?v=1694702312&width=100)![Volta Charger](//www.voltacharger.com/cdn/shop/files/Volta_Logo_registered.svg?v=1686056712&width=721)![Volta Charger](//www.voltacharger.com/cdn/shop/files/Volta_Logo_registered.svg?v=1686056712&width=100)](https://voltacharger.com/)
+==================================================================================================================================================================================================================================================================================================================================
 
 Open navigation menu [Open search](https://voltacharger.com/search)
 
 * Products
     
-    * [New Releases](https://voltacharger.com/products/voltago-magnetic-power-bank-10k-mah)
-        * [VoltaGo - Magnetic Power Bank (10k mah)](https://voltacharger.com/products/voltago-magnetic-power-bank-10k-mah)
-        * [Volta MagRing](https://voltacharger.com/products/volta-mag-ring)
     * [Magnetic Cables](https://voltacharger.com/collections/magnetic-cables)
-        * [VOLTA Spark Cable (Only)](https://voltacharger.com/products/extra-volta-spark-cable)
-        * [VOLTA 2.0 Cable (Only)](https://voltacharger.com/products/2-0-extra-cable)
-    * [Extra Magnetic Tips](https://voltacharger.com/collections/extra-magnetic-tips)
-        * [VOLTA Spark Tip (Only)](https://voltacharger.com/products/extra-volta-spark-tip)
-        * [VOLTA 2.0 Tip (Only)](https://voltacharger.com/products/2-0-extra-tips)
+        * [Volta Max Cable 240W](https://voltacharger.com/products/volta-max-240w-cable)
     * [Chargers](https://voltacharger.com/collections/chargers)
         * [TravelGo 140W Power Adapter](https://voltacharger.com/products/volta-140w-travel-adapter)
+    * Power Banks
+        * [VoltaGo - Magnetic Power Bank (10k mah)](https://voltacharger.com/products/voltago-magnetic-power-bank-10k-mah)
+        * [VoltaGo Max Power Bank (27k mah)](https://voltacharger.com/products/voltago-max-reservation)
     * [Accessories](https://voltacharger.com/collections/accessories)
         * [Gift Card](https://voltacharger.com/products/gift-card)
+        * [Volta MagRing](https://voltacharger.com/products/volta-mag-ring)
         * [Tip Container](https://voltacharger.com/products/tip-container)
     
-    [![](//www.voltacharger.com/cdn/shop/files/For_products.webp?v=1724244970)
+    [![](//www.voltacharger.com/cdn/shop/files/Max_nav_banner_2.jpg?v=1727751118)
     
-    Shop All Products](https://voltacharger.com/collections/all-products)
+    Max 240W Cable](https://voltacharger.com/products/volta-max-240w-cable)[![](//www.voltacharger.com/cdn/shop/files/GoMax_nav_banner_4ba06227-07de-44b9-b1b4-c4429bf4c927.jpg?v=1727751117)
     
-* [Volta Max Cable](https://www.kickstarter.com/projects/voltamagneticcharger/volta-max-the-cable-for-all-fast-charging-and-data-solutions?ref=bw4c9o)
-* [Volta Drive](https://voltacharger.com/pages/affiliate)
-* Support
+    VoltaGo Max](https://voltacharger.com/pages/voltago-max-power-bank)
     
-    * [FAQ](https://voltacharger.com/pages/help)
-    * [Shipping](https://voltacharger.com/pages/volta-charger-shipping)
-    * [Warranty & Returns](https://voltacharger.com/pages/guidelines-for-warranty)
-    * [Contact Us](https://voltacharger.com/pages/contact-us)
+    Previous Next
     
+* [Max 240W Cable⚡](https://voltacharger.com/products/volta-max-240w-cable)
+* [VoltaGo Max⚡](https://voltacharger.com/pages/voltago-max-power-bank)
+* [Clearance Sale](https://voltacharger.com/collections/clearance-sales)
 * About
     
     * [Our Story](https://voltacharger.com/pages/about-volta)
@@ -59,8 +77,6 @@ Open navigation menu [Open search](https://voltacharger.com/search)
     * [Reviews](https://voltacharger.com/pages/happy-customers)
     * [Influencer Program](https://voltacharger.com/pages/influencerprogram)
     
-
-[VOLTA![Volta Charger](//www.voltacharger.com/cdn/shop/files/Volta_Logo_registered.svg?v=1686056712&width=721)![Volta Charger](//www.voltacharger.com/cdn/shop/files/Volta_Logo_registered.svg?v=1686056712&width=721)](https://voltacharger.com/)
 
 USD $
 
@@ -73,9 +89,9 @@ Country
 0](https://voltacharger.com/cart)
 
 * Products
-* [Volta Max Cable](https://www.kickstarter.com/projects/voltamagneticcharger/volta-max-the-cable-for-all-fast-charging-and-data-solutions?ref=bw4c9o)
-* [Volta Drive](https://voltacharger.com/pages/affiliate)
-* Support
+* [Max 240W Cable⚡](https://voltacharger.com/products/volta-max-240w-cable)
+* [VoltaGo Max⚡](https://voltacharger.com/pages/voltago-max-power-bank)
+* [Clearance Sale](https://voltacharger.com/collections/clearance-sales)
 * About
 
 * [](https://web.facebook.com/voltacharger/?_rdc=1&_rdr)
@@ -93,21 +109,18 @@ Country
 [Account](https://voltacharger.com/account)
 
 * Products
-* New Releases
 * Magnetic Cables
-* Extra Magnetic Tips
 * Chargers
+* Power Banks
 * Accessories
 
-[![](//www.voltacharger.com/cdn/shop/files/For_products.webp?v=1724244970)
+[![](//www.voltacharger.com/cdn/shop/files/Max_nav_banner_2.jpg?v=1727751118)
 
-Shop All Products](https://voltacharger.com/collections/all-products)
+Max 240W Cable](https://voltacharger.com/products/volta-max-240w-cable)[![](//www.voltacharger.com/cdn/shop/files/GoMax_nav_banner_4ba06227-07de-44b9-b1b4-c4429bf4c927.jpg?v=1727751117)
 
-* Support
-* [FAQ](https://voltacharger.com/pages/help)
-* [Shipping](https://voltacharger.com/pages/volta-charger-shipping)
-* [Warranty & Returns](https://voltacharger.com/pages/guidelines-for-warranty)
-* [Contact Us](https://voltacharger.com/pages/contact-us)
+VoltaGo Max](https://voltacharger.com/pages/voltago-max-power-bank)
+
+Previous Next
 
 * About
 * [Our Story](https://voltacharger.com/pages/about-volta)
@@ -115,23 +128,19 @@ Shop All Products](https://voltacharger.com/collections/all-products)
 * [Reviews](https://voltacharger.com/pages/happy-customers)
 * [Influencer Program](https://voltacharger.com/pages/influencerprogram)
 
-* New Releases
-* [![VoltaGo - Magnetic Power Bank (10k mah)](//www.voltacharger.com/cdn/shop/files/MagPowerBankPrd.webp?v=1699524163&width=104)VoltaGo - Magnetic Power Bank (10k mah)](https://voltacharger.com/products/voltago-magnetic-power-bank-10k-mah)
-* [![Volta MagRing](//www.voltacharger.com/cdn/shop/files/MagRingProductImage_1.png?v=1725614716&width=104)Volta MagRing](https://voltacharger.com/products/volta-mag-ring)
-
 * Magnetic Cables
-* [![VOLTA Spark Cable (Only)](//www.voltacharger.com/cdn/shop/files/ex60WSparkProductImage_1bd20142-9243-43f2-9669-072a80cde516.webp?v=1695992030&width=104)VOLTA Spark Cable (Only)](https://voltacharger.com/products/extra-volta-spark-cable)
-* [![VOLTA 2.0 Cable (Only)](//www.voltacharger.com/cdn/shop/files/ex2_0ProductImage_844a5a6a-243c-4b3e-8237-f7e2bac29237.webp?v=1695991500&width=104)VOLTA 2.0 Cable (Only)](https://voltacharger.com/products/2-0-extra-cable)
-
-* Extra Magnetic Tips
-* [![VOLTA Spark Tip (Only)](//www.voltacharger.com/cdn/shop/files/VS100WCC.webp?v=1695992674&width=104)VOLTA Spark Tip (Only)](https://voltacharger.com/products/extra-volta-spark-tip)
-* [![VOLTA 2.0 Tip (Only)](//www.voltacharger.com/cdn/shop/files/V2.0CC.png?v=1695991827&width=104)VOLTA 2.0 Tip (Only)](https://voltacharger.com/products/2-0-extra-tips)
+* [![Volta MAX 240W Cable](//www.voltacharger.com/cdn/shop/files/BlackMaxCMA.webp?v=1727690381&width=104)Volta Max Cable 240W](https://voltacharger.com/products/volta-max-240w-cable)
 
 * Chargers
 * [![TravelGo 140W Power Adapter](//www.voltacharger.com/cdn/shop/files/140WProductImage_f3ca8f9b-2a7b-471b-812a-9b4100697c6a.webp?v=1713271175&width=104)TravelGo 140W Power Adapter](https://voltacharger.com/products/volta-140w-travel-adapter)
 
+* Power Banks
+* [![VoltaGo - Magnetic Power Bank (10k mah)](//www.voltacharger.com/cdn/shop/files/MagPowerBankPrd.webp?v=1699524163&width=104)VoltaGo - Magnetic Power Bank (10k mah)](https://voltacharger.com/products/voltago-magnetic-power-bank-10k-mah)
+* [![VoltaGo MAX Reservation](//www.voltacharger.com/cdn/shop/files/VoltaGoMax27Kmahprdt.webp?v=1727751258&width=104)VoltaGo Max Power Bank (27k mah)](https://voltacharger.com/products/voltago-max-reservation)
+
 * Accessories
 * [![Gift Card](//www.voltacharger.com/cdn/shop/products/Volta_Gift_card.jpg?v=1621185044&width=104)Gift Card](https://voltacharger.com/products/gift-card)
+* [![Volta MagRing](//www.voltacharger.com/cdn/shop/files/MagRingProductImage_1.png?v=1725614716&width=104)Volta MagRing](https://voltacharger.com/products/volta-mag-ring)
 * [![Tip Container](//www.voltacharger.com/cdn/shop/products/tip_1.png?v=1670330848&width=104)Tip Container](https://voltacharger.com/products/tip-container)
 
 Close
@@ -313,7 +322,7 @@ Questions about the Terms of Service should be sent to us via our [contact page]
 
 ![](//www.voltacharger.com/cdn/shop/files/Volta_Logo_registered_white.svg?v=1687265839&width=722)
 
-Take Charge of Your Life.
+More Power To Your Gadgets.
 
 Join our Insiders for product drops, exclusive offers & much more. We promise not to spam.
 
