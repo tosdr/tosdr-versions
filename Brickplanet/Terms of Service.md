@@ -1,4 +1,4 @@
-[www.brickplanet.com/shop/20372/wrath-of-legends-crate](https://www.brickplanet.com/shop/20372/wrath-of-legends-crate)
+UPDATES: [www.brickplanet.com/forum/thread/14136/daily-rewards-revamp](https://www.brickplanet.com/forum/thread/14136/daily-rewards-revamp)
 
   
 
