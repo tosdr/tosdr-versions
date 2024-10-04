@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Country star Garth Brooks accused of raping makeup artist](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2101068669-scaled.jpg?ve=1&tl=1)
+ [![What is a Blue Alert?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/blue-alert.jpg?ve=1&tl=1)
 
- ![Country star Garth Brooks accused of raping makeup artist](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2101068669-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/country-star-garth-brooks-accused-raping-makeup-artist)
+ ![What is a Blue Alert?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/blue-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-is-blue-alert)
 
-### [Country star Garth Brooks accused of raping makeup artist](https://www.fox4news.com/news/country-star-garth-brooks-accused-raping-makeup-artist)
+### [What is a Blue Alert?](https://www.fox4news.com/news/what-is-blue-alert)
 
- [![Dallas Uber driver punches elderly man after argument over legroom, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/uber-assault.png?ve=1&tl=1)
+ [![Police searching for 2 Mesquite carjacking suspects](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/5h-mesquite-police-chase_00.00.00.52.jpg?ve=1&tl=1)
 
- ![Dallas Uber driver punches elderly man after argument over legroom, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/uber-assault.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/design-district-uber-ride-assault-elderly-couple-suleman-gauba)
+ ![Police searching for 2 Mesquite carjacking suspects](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/5h-mesquite-police-chase_00.00.00.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-searching-2-mesquite-carjacking-suspects)
 
-### [Dallas Uber driver punches elderly man after argument over legroom, video shows](https://www.fox4news.com/news/design-district-uber-ride-assault-elderly-couple-suleman-gauba)
+### [Police searching for 2 Mesquite carjacking suspects](https://www.fox4news.com/news/police-searching-2-mesquite-carjacking-suspects)
 
- [![Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-i20-shooting-self-defense.png?ve=1&tl=1)
+ [![Port strike suspended until Jan. 15 – here's what's ahead](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175662455.jpg?ve=1&tl=1)
 
- ![Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-i20-shooting-self-defense.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/latuita-holland-arrest-i-20-man-shot-investigation-laderrika-daughter)
+ ![Port strike suspended until Jan. 15 – here's what's ahead](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175662455.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-ends-jan-15-agreement-heres-whats-ahead)
 
-### [Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://www.fox4news.com/news/latuita-holland-arrest-i-20-man-shot-investigation-laderrika-daughter)
+### [Port strike suspended until Jan. 15 – here's what's ahead](https://www.fox4news.com/news/port-strike-ends-jan-15-agreement-heres-whats-ahead)
 
- [![Costco reveals price cuts on popular Kirkland Signature items](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1243455818.jpg?ve=1&tl=1)
+ [![Blue Alert: Man wanted for shooting Texas police officer](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.04.14.30.jpg?ve=1&tl=1)
 
- ![Costco reveals price cuts on popular Kirkland Signature items](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1243455818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-announces-price-cuts-kirkland-products)
+ ![Blue Alert: Man wanted for shooting Texas police officer](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.04.14.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-alert-seth-altman)
 
-### [Costco reveals price cuts on popular Kirkland Signature items](https://www.fox4news.com/news/costco-announces-price-cuts-kirkland-products)
+### [Blue Alert: Man wanted for shooting Texas police officer](https://www.fox4news.com/news/blue-alert-seth-altman)
 
- [![Mount Everest, the world's tallest mountain, is still growing — here’s why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2154375744.jpg?ve=1&tl=1)
+ [![McDonald’s is officially selling the Chicken Big Mac in the US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/chicken-big-mac-thumbnail_hero-desktop.jpg?ve=1&tl=1)
 
- ![Mount Everest, the world's tallest mountain, is still growing — here’s why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2154375744.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-mount-everest-is-growing-taller)
+ ![McDonald’s is officially selling the Chicken Big Mac in the US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/chicken-big-mac-thumbnail_hero-desktop.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-chicken-big-mac-us-available-october-2024)
 
-### [Mount Everest, the world's tallest mountain, is still growing — here’s why](https://www.fox4news.com/news/why-mount-everest-is-growing-taller)
+### [McDonald’s is officially selling the Chicken Big Mac in the US](https://www.fox4news.com/news/mcdonalds-chicken-big-mac-us-available-october-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
