@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=172394897)  
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=201867662)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=37891839)  
+webb it services
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=79198933)  
+IYD
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=61886422)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=80070061)  
+Website Café (PTY) LTD
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=45605380)  
+SMART GUY PCS (PTY) LTD
+
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=202056240)  
 Stevens Consulting
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=43539211)  
-Druce Digital
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=77804572)  
+Tracknetics
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=11634346)  
-Quad Biking Cape Town
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=181547809)  
+PROGRAPHIX PTY LTD
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=188166910)  
-Oak Tree Immigration
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=131714642)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=142938322)  
-Durbanville Classifieds (Pty) Ltd
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=160935472)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=134284869)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=174308188)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=128733596)  
-Fox Alarms & Security
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=109566969)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=88875781)  
-United Paintball Federation
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=116110572)  
+Lizzy Pop PTY(Ltd)
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=78359732)  
-OrgChart Hosting Pty Ltd
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=87612249)  
-MR Compressors& Industrial Supplies
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=148497881)  
-OXYAIDER (PTY) LTD
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=131870986)  
-Echo Recording Studio cc
-
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=103621681)  
-Digifax (Pty) Ltd T/A SecurityHyper
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=203068191)  
-TIGERDSL
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=47718896)  
-Roamfree Boerdery (PTY) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=35583796)  
+Multi CNC Solutions CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
