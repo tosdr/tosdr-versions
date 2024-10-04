@@ -118,7 +118,7 @@ Professional Services
 
 SailPoint’s professional services team helps maximize your identity governance platform by offering assistance before, during, and after your implementation.
 
-[More about services](https://www.sailpoint.com/services/professional)
+[More about services](https://www.sailpoint.com/services/professional/)
 
 Customers
 
@@ -254,7 +254,7 @@ Professional Services
 
 SailPoint’s professional services team helps maximize your identity governance platform by offering assistance before, during, and after your implementation.
 
-[More about services](https://www.sailpoint.com/services/professional)
+[More about services](https://www.sailpoint.com/services/professional/)
 
 Customers
 
@@ -290,7 +290,7 @@ More
 
 [Get a demo](https://www.sailpoint.com/demo)
 
-[Assess your identity](https://www.sailpoint.com/identity-security-adoption)
+[Assess your identity](https://www.sailpoint.com/identity-security-adoption/)
 
 SearchChange language
 
