@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 3, 2024**
+**October 4, 2024**
 
 * * *
 
@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Living Microbes Inside 2-Billion-Year-Old Rock](https://www.sciencedaily.com/releases/2024/10/241003123543.htm)
+* [Climate and Iron Nuggets in the Pinnacles](https://www.sciencedaily.com/releases/2024/10/241002154040.htm)
+* [Missing Link to First Stars in Odd Galaxy](https://www.sciencedaily.com/releases/2024/10/241003152018.htm)
 * [Green Subsidies May Have Hidden Costs](https://www.sciencedaily.com/releases/2024/10/241003145456.htm)
 * [Turning Brain Cells On Using Light-Power](https://www.sciencedaily.com/releases/2024/10/241003145454.htm)
 * [Ant Agriculture Began 66 Million Years Ago](https://www.sciencedaily.com/releases/2024/10/241003145441.htm)
@@ -215,9 +218,6 @@ this hour
 * [Stem Cell Transplants Close Macular Holes](https://www.sciencedaily.com/releases/2024/10/241003123121.htm)
 * [Animal Movements Accurately Replicated](https://www.sciencedaily.com/releases/2024/10/241002104709.htm)
 * [Plastic-Eating Microbe in Wastewater](https://www.sciencedaily.com/releases/2024/10/241003123307.htm)
-* [Lunar Ice Deposits Are Widespread](https://www.sciencedaily.com/releases/2024/10/241003123252.htm)
-* [Most Tropical Lightning Storms Are Radioactive](https://www.sciencedaily.com/releases/2024/10/241002123025.htm)
-* [Deep Brain Stimulation After Brain Injury](https://www.sciencedaily.com/releases/2024/10/241001115019.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
-
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
-
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
   
 
