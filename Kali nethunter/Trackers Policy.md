@@ -467,7 +467,7 @@ IR-200: Foundational Incident Response
 
 OffSec's new incident response course and certification launches October 29th. In IR-200, Learners will gain a deep understanding of the incident response lifecycle, including incident detection, analysis, containment, eradication and recovery.
 
-[Learn more](https://www.offensive-security.com/learning/paths/incident-responder-foundations/)
+[Learn more](https://www.offensive-security.com/learning/paths/incident-responder-foundations/#contact)
 
 Legal
 =====
