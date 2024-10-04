@@ -36,18 +36,18 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](https://www.bleepingcomputer.com/news/security/russia-arrests-us-sanctioned-cryptex-founder-95-other-linked-suspects/)
+    * [![Google removes Kaspersky's antivirus software from Play Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google removes Kaspersky's antivirus software from Play Store](https://www.bleepingcomputer.com/news/security/google-removes-kasperskys-antivirus-software-from-play-store-disables-developer-accounts/)
+    * [![Outlast game development delayed after Red Barrels cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Outlast game development delayed after Red Barrels cyberattack](https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/)
     * [![UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](https://www.bleepingcomputer.com/news/security/uk-nuclear-site-sellafield-fined-440-000-for-cybersecurity-shortfalls/)
-    * [![This FolderFort deal gives you 1TB of cloud storage for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This FolderFort deal gives you 1TB of cloud storage for life](https://www.bleepingcomputer.com/offer/deals/this-folderfort-deal-gives-you-1tb-of-cloud-storage-for-life/)
-    * [![Recently patched CUPS flaw can be used to amplify DDoS attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Recently patched CUPS flaw can be used to amplify DDoS attacks](https://www.bleepingcomputer.com/news/security/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
-    * [![‘Pig butchering’ trading apps found on Google Play, App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ‘Pig butchering’ trading apps found on Google Play, App Store](https://www.bleepingcomputer.com/news/security/pig-butchering-trading-apps-found-on-google-play-app-store/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 now rolling out, here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-now-rolling-out-here-are-the-new-features/)
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
 * [![Cyberattack ddos network cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
 
 ##### Follow us:
 
