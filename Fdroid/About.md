@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [F-Droid website now available in Czech!](https://f-droid.org/en/2024/09/23/czech-language.html) Sep 23, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-02, fdroid-website [2.273](https://gitlab.com/fdroid/fdroid-website/tree/5547251de6)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-03, fdroid-website [2.273](https://gitlab.com/fdroid/fdroid-website/tree/5547251de6)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
