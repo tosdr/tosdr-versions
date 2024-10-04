@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/wikileaks-de-virtuele-klopjacht-en-een-virtuele-bom/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/scheppend-leven/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
