@@ -149,6 +149,7 @@ About Us
     [Overview](https://www.unibocconi.eu/en/about-us/organization)
     
     * [University Board](https://www.unibocconi.eu/en/about-us/organization/university-board)
+    * [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council-0)
     * Statute, Regulations and Rules
         
         [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
@@ -177,7 +178,6 @@ About Us
         * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
         * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
         
-    * [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council)
     * [Rectorate](https://www.unibocconi.eu/en/about-us/organization/rectorate)
     * Schools
         
@@ -235,6 +235,7 @@ Organization
 [Overview](https://www.unibocconi.eu/en/about-us/organization)
 
 * [University Board](https://www.unibocconi.eu/en/about-us/organization/university-board)
+* [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council-0)
 * Statute, Regulations and Rules
     
     [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
@@ -263,7 +264,6 @@ Organization
     * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
     * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
     
-* [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council)
 * [Rectorate](https://www.unibocconi.eu/en/about-us/organization/rectorate)
 * Schools
     
