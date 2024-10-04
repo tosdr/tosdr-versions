@@ -26,55 +26,55 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpflag-1200-x-628-1200x630.jpg)](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Illigal-Immigrants-1200x630.jpg)](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
 
-[Hundreds of national security officials endorse Trump, warn of WWIII with Kamala](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
+[‘It’s happening before your very eyes’: Illegal immigration SURGES in swing states under Biden-Harris](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-cheney-1200x630.png)](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-ZeglerSnowWhite-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
 
-[Trump reacts after Liz Cheney hits rock bottom, joins Kamala on the campaign trail](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
+[‘Snow White’ actress plays victim, suggests critics of troubled Disney remake are sexist](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-speaking-1200x630.jpg)](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kahn-1200x630.png)](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
 
-[America Last: Trump slams Kamala for squandering FEMA money on illegals](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
+[Singer who wrote popular pro-Trump song ‘Fighter’ shares inspiration](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-fracking-1200x630.png)](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-megyn-kelly-1200x630.jpg)](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
 
-[Kamala whines about ad showing her past comments on fracking – designed to make people ‘afraid’](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
+[Harris may have path to victory with newly naturalized citizens playing a role in swing states: report](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kharrisariz-1200-x-628-1200x630.jpg)](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-ga-1200x630.png)](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
 
-[Judiciary GOP drops damning report on ‘border czar’ Kamala letting ‘potential TERRORISTS’ into U.S.](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
+[Trump campaign: ‘Kamala loves two things… herself and illegal immigrants’](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Elon-Musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-1-1200x630.png)](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
 
-[Elon Musk will be in Butler to ‘support’ Trump’s return](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
+[Biden bewildered about people in storm zone, blurts out ‘they’re very happy’](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-carville-1200x630.jpg)](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fox-news-anchor-1-1200x630.jpg)](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
 
-[James Carville unloads on Harris-Walz campaign: ‘Get off your a–. Move, move, move!’](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
+[Fox anchor breaks down on air as faith-filled NC mother recounts her devastating story](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lawler-nyt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-SG-Joe-Biden-Student-Loan-Protesters-split-1200x630.jpg)](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
 
-[Priorities: NY Times reports on GOP lawmaker’s 2006 Halloween costume](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
+[Biden student loan forgiveness plan reinstated just in time for Nov election](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-boss-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-1200x630.jpg)
 
-### ‘The Boss’ endorses Harris-Walz ticket, viciously attacks Trump](https://americanwirenews.com/the-boss-endorses-harris-walz-ticket-viciously-attacks-trump/)
+### CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+### [Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
 
-### [Crazier than fiction! Head of Iranian spy group was an Israeli double agent](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+### [Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
 
-### [Kamala Harris’s husband accused of 2012 assault of ex-girlfriend](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
+### [‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
 
-### [Trump celebrates JD Vance after veep debate, rejects 2nd debate with Kamala: ‘Not looking to do it again’](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+### [Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
 
-### [Whoopi says Hollywood is ‘a very right-leaning town’ after ‘Shazam!’ star backs Trump](https://americanwirenews.com/whoopi-says-hollywood-is-a-very-right-leaning-town-after-shazam-star-backs-trump/)
+### [Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
 
-### [New poll shows Trump pulling away from Kamala in key battleground state](https://americanwirenews.com/new-poll-shows-trump-pulling-away-from-kamala-in-key-battleground-state/)
+### [GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -85,6 +85,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2022/08/Sg-Trump-thumbs-up-220x180.png)](https://americanwirenews.com/nbc-news-warns-trump-could-add-more-conservative-scotus-justices-if-he-wins/)
 
 [NBC News warns Trump could add more conservative SCOTUS justices if he wins](https://americanwirenews.com/nbc-news-warns-trump-could-add-more-conservative-scotus-justices-if-he-wins/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lawler-nyt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
+
+[Priorities: NY Times reports on GOP lawmaker’s 2006 Halloween costume](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-carville-220x180.jpg)](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
+
+[James Carville unloads on Harris-Walz campaign: ‘Get off your a–. Move, move, move!’](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Elon-Musk-220x180.jpg)](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
+
+[Elon Musk will be in Butler to ‘support’ Trump’s return](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kharrisariz-1200-x-628-220x180.jpg)](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
+
+[Judiciary GOP drops damning report on ‘border czar’ Kamala letting ‘potential TERRORISTS’ into U.S.](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-fracking-220x180.png)](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
+
+[Kamala whines about ad showing her past comments on fracking – designed to make people ‘afraid’](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-speaking-220x180.jpg)](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
+
+[America Last: Trump slams Kamala for squandering FEMA money on illegals](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-cheney-220x180.png)](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
+
+[Trump reacts after Liz Cheney hits rock bottom, joins Kamala on the campaign trail](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpflag-1200-x-628-220x180.jpg)](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
+
+[Hundreds of national security officials endorse Trump, warn of WWIII with Kamala](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-boss-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-boss-endorses-harris-walz-ticket-viciously-attacks-trump/)
+
+[‘The Boss’ endorses Harris-Walz ticket, viciously attacks Trump](https://americanwirenews.com/the-boss-endorses-harris-walz-ticket-viciously-attacks-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-border-swanton-sector-220x180.jpg)](https://americanwirenews.com/meanwhile-illegal-crossings-at-us-northern-border-is-surging/)
 
@@ -137,42 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melaniafox-1200-x-628-220x180.jpg)](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
 
 [Melania Trump’s sit-down interview with Sean Hannity, part one](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joy-reid-220x180.jpg)](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
-
-[Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-220x180.jpg)](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
-
-[Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-220x180.jpg)](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
-
-[‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-220x180.jpg)](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
-
-[Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-and-doug-emhoff-220x180.jpg)](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
-
-[Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-texas-el-paso-migrants-1200-x-628-220x180.jpg)](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
-
-[GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
-
-[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
-
-[Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-acosta-lewandowski-220x180.jpg)](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
-
-[CNN’s Jim Acosta snaps over how Trump adviser Lewandowski keeps pronouncing ‘Kamala’](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -260,29 +260,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-vance-4-1200x630.jpg)](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[‘As promised’: JD Vance produces receipts on illegal immigrant impact on housing costs](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-vance-4-220x180.jpg)](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[‘As promised’: JD Vance produces receipts on illegal immigrant impact on housing costs](https://americanwirenews.com/as-promised-jd-vance-produces-receipts-on-illegal-immigrant-impact-on-housing-costs/)
+[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-olivia-nuzzi-sg-ryan-lizza-220x180.jpg)](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
 
-[Olivia Nuzzi: Ex-fiancé leaked details of ‘affair’ with RFK Jr in bizarre blackmail scheme](https://americanwirenews.com/olivia-nuzzi-ex-fiance-leaked-details-of-affair-with-rfk-jr-in-bizarre-blackmail-scheme/)
+[Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/trump-gofundme-220x180.jpg)](https://americanwirenews.com/trump-gofundme-campaign-for-hurricane-victims-nears-4-million/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-acosta-lewandowski-220x180.jpg)](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
 
-[Trump GoFundMe campaign for hurricane victims nears $4 million](https://americanwirenews.com/trump-gofundme-campaign-for-hurricane-victims-nears-4-million/)
+[CNN’s Jim Acosta snaps over how Trump adviser Lewandowski keeps pronouncing ‘Kamala’](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-corrupt-union-boss-220x180.jpg)](https://americanwirenews.com/biden-wont-use-his-authority-to-halt-union-dock-worker-strike-union-boss-who-threatened-to-cripple-america-has-one-helluva-shady-past/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-emhoff-220x180.jpg)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
 
-[Biden won’t use his authority to halt union dock worker strike; union boss who threatened to cripple America has one helluva shady past](https://americanwirenews.com/biden-wont-use-his-authority-to-halt-union-dock-worker-strike-union-boss-who-threatened-to-cripple-america-has-one-helluva-shady-past/)
+[Kamala Harris’s husband accused of 2012 assault of ex-girlfriend
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-amanpour-220x180.jpg)](https://americanwirenews.com/cnn-anchor-christiane-amanpour-says-iran-doesnt-want-conflict-even-as-missiles-rained-on-israel/)
+(Official White House Photo by Adam Schultz)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
 
-[CNN anchor Christiane Amanpour says Iran ‘doesn’t want conflict’ even as missiles rained on Israel](https://americanwirenews.com/cnn-anchor-christiane-amanpour-says-iran-doesnt-want-conflict-even-as-missiles-rained-on-israel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-trump-220x180.jpg)](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
+
+[Trump celebrates JD Vance after veep debate, rejects 2nd debate with Kamala: ‘Not looking to do it again’](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -312,9 +314,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-wolfe-frank-fritz-1200x630.jpg)](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-storm-1200x630.jpg)](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
 
-[Rumors of a feud put to rest after death of ‘American Pickers’ star Frank Fritz](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-storm-220x180.jpg)](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+
+[So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ahmadinejad-220x180.jpg)](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+
+[Crazier than fiction! Head of Iranian spy group was an Israeli double agent](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-wolfe-frank-fritz-220x180.jpg)](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
 
@@ -327,15 +337,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buzbee-combs-220x180.jpg)](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
 
 [‘Many powerful people. Many dirty secrets’: Sean Diddy Combs case just got REAL](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-leigh-brown-hurricane-220x180.jpg)](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
-
-[‘The government ain’t coming to save you’: North Carolina woman delivers urgent call to Americans](https://americanwirenews.com/the-government-aint-coming-to-save-you-north-carolina-woman-delivers-urgent-call-to-americans/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-city-traffic-220x180.jpg)](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
-
-[Consequential demographic still fleeing Calif and NY for red states by the thousands
-
-(Image: Pixabay)](https://americanwirenews.com/consequential-demographic-still-fleeing-calif-and-ny-for-red-states-by-the-thousands/)
 
 © 2024. All Rights Reserved. American Wire News
