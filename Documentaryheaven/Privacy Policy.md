@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Collective Evolution](/wp-content/thumbnails/4783-100x70.png?x53432)
+* [![The 2nd Assassination of JFK](/wp-content/thumbnails/5999-100x70.jpg?x53432)
     
-    The Collective Evolution
+    The 2nd Assassination of JFK
     
-    'The Collective Evolution' is a documentary aimed at showing the current state of the world, why it needs to be changed, and how each and every one of us can play a role in changing it. The documentar](https://documentaryheaven.com/the-collective-evolution/ "The Collective Evolution")
-* [![No Crossover: The Allen Iverson Trial](/wp-content/thumbnails/5937-100x70.jpg?x53432)
+    The film focuses on the historical and future significance of American manned space flight and the importance of the United States remaining on the forefront of space discovery. ‘The 2nd Assassination](https://documentaryheaven.com/the-2nd-assassination-of-jfk/ "The 2nd Assassination of JFK")
+* [![UFO: Great Balls of Light](/wp-content/thumbnails/6620-100x70.png?x53432)
     
-    No Crossover: The Allen Iverson Trial
+    UFO: Great Balls of Light
     
-    On Valentine’s Day 1993, 17-year-old Bethel High School basketball star Allen Iverson was bowling in Hampton, Va., with five high school friends. It was supposed to be an ordinary evening, but it beca](https://documentaryheaven.com/no-crossover-the-allen-iverson-trial/ "No Crossover: The Allen Iverson Trial")
-* [![Fukushima: Five Years On](/wp-content/thumbnails/12959-100x70.jpg?x53432)
+    Great balls of light challenges the widespread perception that UFO reports are either hoaxes or genuine alien contacts. It shows how natural phenomena, top secret technology, altered states of the min](https://documentaryheaven.com/ufo-great-balls-of-light/ "UFO: Great Balls of Light")
+* [![Tom Felton Meets the Superfans](/wp-content/thumbnails/9733-100x70.jpeg?x53432)
     
-    Fukushima: Five Years On
+    Tom Felton Meets the Superfans
     
-    The biggest earthquake in Japans recorded history sent a series of massive tsunamis hurtling towards the coast. The waves would strike with unstoppable force, crushing almost everything in their path,](https://documentaryheaven.com/fukushima-five-years-on/ "Fukushima: Five Years On")
-* [![Lost in Space: Gemini 8](/wp-content/thumbnails/3048-100x70.jpg?x53432)
+    From Beatle mania to Beliebers, behind every success story there is an army of fans, most just want to show their appreciation, some take it further to prove their dedication but there is an elite gro](https://documentaryheaven.com/tom-felton-meets-superfans/ "Tom Felton Meets the Superfans")
+* [![Lebanon in Freefall](/wp-content/thumbnails/16393-100x70.jpg?x53432)
     
-    Lost in Space: Gemini 8
+    Lebanon in Freefall
     
-    Gemini 8 (officially Gemini VIII) was the sixth manned spaceflight in NASA's Gemini program. The mission conducted the first docking of two spacecraft in orbit, but suffered the first critical in-spac](https://documentaryheaven.com/lost-in-space-gemini-8/ "Lost in Space: Gemini 8")
-* [![Loose Change 2nd Edition](/wp-content/thumbnails/431-100x70.png?x53432)
+    Stay or go, give up or fight? The question is can Lebanon still be saved? The political and economic crisis in Lebanon started long before the devastating explosion on August 4, 2020, it was more the](https://documentaryheaven.com/lebanon-in-freefall/ "Lebanon in Freefall")
+* [![Secrets of Body Language](/wp-content/thumbnails/6267-100x70.jpg?x53432)
     
-    Loose Change 2nd Edition
+    Secrets of Body Language
     
-    With the departure of the Bush Administration and the arrival of an “era of transparency,” opportunities are arising for the disclosure of new information that may shed more light on the events that t](https://documentaryheaven.com/loose-change-2nd-edition/ "Loose Change 2nd Edition")
+    Delve into the science of non-verbal signals as this very visual and highly entertaining exposé reveals the hidden language in which 93% of human communication takes place.From President Franklin D.](https://documentaryheaven.com/secrets-of-body-language/ "Secrets of Body Language")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
