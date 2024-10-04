@@ -4,6 +4,7 @@
 * [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
 * [Donate](https://isrii.org/donate/)
 * [Contact Us](https://isrii.org/contact-us/)
+* [Conflict of Interest Disclosure Form](https://isrii.org/conflict-of-interest-disclosure-form/)
 
 [![ISRII](http://isrii.org/content/uploads/2024/09/isrii-logo-sm1.png)](https://isrii.org/)
 
