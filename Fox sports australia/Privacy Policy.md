@@ -50,26 +50,6 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    BAN won by 16 runs
-    
-    |     |     |
-    | --- | --- |
-    | BAN | 7 /119 |
-    | SCO | 7 /103 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250101)
-* [Women's T20 WC
-    
-    PAK won by 31 runs
-    
-    |     |     |
-    | --- | --- |
-    | PAK | 9 /116 |
-    | SRI | 9 /85 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250102)
-* [Women's T20 WC
-    
     4/10 20:00 AEST
     
     |     |     |
@@ -90,18 +70,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250104)
 * [WNCL
     
+    VIC won by 2 wkts
+    
     |     |     |
     | --- | --- |
-    | NSW | 5 /145 |
-    | VIC |     |
+    | NSW | 226 |
+    | VIC | 8 /229 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250108)
 * [WNCL
     
+    SA won by 36 runs
+    
     |     |     |
     | --- | --- |
-    | SA  | 2 /79 |
-    | TAS |     |
+    | SA  | 9 /308 |
+    | TAS | 272 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250109)
 * AFL
@@ -120,17 +104,19 @@ FOX SCORES
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ATL | 17  |
-    | TB  | 24  |
+    | ATL | 36  |
+    | TB  | 30  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250509)
 * Motorsport
     
 * [MotoGP
+    
+    4/10 11:45 AEST
     
     |     |
     | --- |
@@ -140,16 +126,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=711)
 * Basketball
     
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ADL | 93  |
-    | SEM | 83  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030001/play-by-play)
 * [NBL
     
     4/10 19:30 AEST
@@ -174,7 +150,7 @@ FOX SCORES
     
 * [MLB
     
-    Bottom 9th Innings
+    Final
     
     |     |     |
     | --- | --- |
