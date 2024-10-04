@@ -198,57 +198,23 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_0d7a2bb74a.jpeg)
+[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
 
-Tiros e prisões
+em lagoa da canoa
 
-Tiros e prisões
+em lagoa da canoa
 
-Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
 
-Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-o-assalto-frustrado-de-falsos-policiais-no-farol/ "Veja o que se sabe sobre o assalto frustrado de falsos policiais no Farol")[![Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/f/csm_suspeitos_roubo_frustrado_farol_-_foto_reproducao_ebf1f6fb31.jpg)
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")[![Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_insonia-reproducao-freepik_8beb082b64.jpg)
 
-Tentativa de assalto
+sono de qualidade
 
-Tentativa de assalto
+sono de qualidade
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol
+Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia
 
-Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-grupo-com-falsos-policiais-e-rendido-e-tem-roubo-frustrado-no-farol/ "Vídeo mostra momento em que grupo com falsos policiais é rendido e tem roubo frustrado no Farol")[![Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_carmelita_-_foto_arquivo_pessoal_e2019f916a.jpg)
-
-Dona Carmelita
-
-Dona Carmelita
-
-Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas
-
-Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-que-mora-em-sp-quer-encontrar-familia-perdida-em-alagoas/ "Idosa de 95 anos, que mora em SP, quer encontrar família "perdida" em Alagoas")[![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_d789a4ecc7.png)
-
-lei seca em Alagoas
-
-lei seca em Alagoas
-
-Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada
-
-Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")
-
-[![Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_angelina-jolie-reproducao_bbdb7241c1.jpg)
-
-RIVAIS?
-
-RIVAIS?
-
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista
-
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")[![Incêndio atinge edifício Copan, histórico prédio no centro de São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_incendio-predio-sp-reproducao-redes-sociais_edd8d59f88.jpg)
-
-muita fumaça
-
-muita fumaça
-
-Incêndio atinge edifício Copan, histórico prédio no centro de São Paulo
-
-Incêndio atinge edifício Copan, histórico prédio no centro de São Paulo](https://www.tnh1.com.br/noticia/nid/incendio-atinge-edificio-copan-historico-predio-no-centro-de-sao-paulo/ "Incêndio atinge edifício Copan, histórico prédio no centro de São Paulo")[![Bactéria resistente que representa risco global é detectada no Nordeste](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/6/csm_bacteria-identificada-nordeste-rubens-renato-carmo-ICB-USP_ba3eb6b7ef.jpg)
+Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia](https://www.tnh1.com.br/noticia/nid/conheca-8-formas-de-aumentar-a-melatonina-naturalmente-para-vencer-a-insonia/ "Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia")[![Bactéria resistente que representa risco global é detectada no Nordeste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_bacteria-identificada-nordeste-rubens-renato-carmo-ICB-USP_ba3eb6b7ef.jpg)
 
 cepa detectada
 
@@ -256,15 +222,49 @@ cepa detectada
 
 Bactéria resistente que representa risco global é detectada no Nordeste
 
-Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Influencer é preso como principal suspeito do assassinato do seu psicólogo nos EUA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/8/csm_influencer-preso-suspeito-assassinato-psicologo-tik-tok_a8be01b5df.jpg)
+Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
 
-20 anos
+acusado de furto
 
-20 anos
+acusado de furto
 
-Influencer é preso como principal suspeito do assassinato do seu psicólogo nos EUA
+Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'
 
-Influencer é preso como principal suspeito do assassinato do seu psicólogo nos EUA](https://www.tnh1.com.br/noticia/nid/influencer-e-preso-como-principal-suspeito-do-assassinato-do-seu-psicologo-nos-eua/ "Influencer é preso como principal suspeito do assassinato do seu psicólogo nos EUA")
+Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")
+
+[![Andarilho alega ter feito o melhor flagra de um Pé-grande da história em floresta e viraliza nas redes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_pe-grande-flagrado-reproducao-redes-sociais_fe4cb53dcb.jpg)
+
+criatura peluda
+
+criatura peluda
+
+Andarilho alega ter feito o melhor flagra de um Pé-grande da história em floresta e viraliza nas redes
+
+Andarilho alega ter feito o melhor flagra de um Pé-grande da história em floresta e viraliza nas redes](https://www.tnh1.com.br/noticia/nid/andarilho-alega-ter-feito-o-melhor-flagra-de-um-pe-grande-da-historia-em-floresta-e-viraliza-nas-redes/ "Andarilho alega ter feito o melhor flagra de um Pé-grande da história em floresta e viraliza nas redes")[![Saiba quem são as 10 pessoas mais ricas do mundo em outubro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
+
+bilionários
+
+bilionários
+
+Saiba quem são as 10 pessoas mais ricas do mundo em outubro
+
+Saiba quem são as 10 pessoas mais ricas do mundo em outubro](https://www.tnh1.com.br/noticia/nid/saiba-quem-sao-as-10-pessoas-mais-ricas-do-mundo-em-outubro/ "Saiba quem são as 10 pessoas mais ricas do mundo em outubro")[![Perdi casamento, emprego e R$ 100 mil com vício em bets, conta gestor](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/2/csm_Bet_celular_site_de_apostas_-_foto_Danilo_VerpaFolhapress_4c9ca9eb8e.jpeg)
+
+problemas financeiros
+
+problemas financeiros
+
+Perdi casamento, emprego e R$ 100 mil com vício em bets, conta gestor
+
+Perdi casamento, emprego e R$ 100 mil com vício em bets, conta gestor](https://www.tnh1.com.br/noticia/nid/perdi-casamento-emprego-e-r-100-mil-com-vicio-em-bets-conta-gestor/ "Perdi casamento, emprego e R$ 100 mil com vício em bets, conta gestor")[![Americana que virou meme com dica sexual já tem o 3º podcast mais ouvido dos EUA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_Americana_que_virou_meme_com_dica_sexual_ja_tem_o_3o_podcast_mais_ouvido_dos_EUA_-_foto_Reproducao_Youtube_349d577329.jpg)
+
+"hawk-tuah"
+
+"hawk-tuah"
+
+Americana que virou meme com dica sexual já tem o 3º podcast mais ouvido dos EUA
+
+Americana que virou meme com dica sexual já tem o 3º podcast mais ouvido dos EUA](https://www.tnh1.com.br/noticia/nid/americana-que-virou-meme-com-dica-sexual-ja-tem-o-3o-podcast-mais-ouvido-dos-eua/ "Americana que virou meme com dica sexual já tem o 3º podcast mais ouvido dos EUA")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
