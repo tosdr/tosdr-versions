@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)10°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -56,24 +56,24 @@
 Thèmes du moment
 
 * [France](https://www.watson.ch/fr/france/)
-* [Reportage](https://www.watson.ch/fr/Reportage/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Chine](https://www.watson.ch/fr/chine/)
-* [Lausanne](https://www.watson.ch/fr/lausanne/)
 * [Police](https://www.watson.ch/fr/police/)
-* [Justice](https://www.watson.ch/fr/justice/)
+* [Analyse](https://www.watson.ch/fr/analyse/)
+* [Rap](https://www.watson.ch/fr/rap/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Musique](https://www.watson.ch/fr/musique/)
 * [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Insolite](https://www.watson.ch/fr/insolite/)
 * [Armée](https://www.watson.ch/fr/armee/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
+* [voiture](https://www.watson.ch/fr/voiture/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Football](https://www.watson.ch/fr/football/)
 * [People](https://www.watson.ch/fr/people/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
