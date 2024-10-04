@@ -261,5 +261,5 @@ Minneapolis College
 
 A member of Minnesota State
 
-* [Privacy](https://minneapolis.edu/online-privacy-statement)
-* [Nondiscrimination](https://minneapolis.edu/nondiscrimination-equal-opportunity-statement)
+* [Privacy](https://live-mpls-college.pantheonsite.io/online-privacy-statement)
+* [Nondiscrimination](https://live-mpls-college.pantheonsite.io/nondiscrimination-equal-opportunity-statement)
