@@ -1,12 +1,8 @@
 [Skip to main content](#main-content)
 
-![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
+[![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
 
-Free Shower Caddy On Orders Over $80
-
-[Free Shipping Over $55](https://blackwolfnation.com/collections/black-wolf-bestsellers)
-
-30 Day Guarantee
+New Product: HYDRATING BODY WASH](https://blackwolfnation.com/products/hydrating-body-wash)[20% OFF Hydrating Body Wash Code: HYDRATE20](https://blackwolfnation.com/products/hydrating-body-wash)
 
 [](https://blackwolfnation.com/account/login)
 
@@ -24,6 +20,7 @@ Free Shower Caddy On Orders Over $80
     * [Bundles + Sets](https://blackwolfnation.com/collections/bundle-save)
     * [Accessories](https://blackwolfnation.com/collections/accessories)
     * [NEW! Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+    * [NEW! Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
     * [![](//blackwolfnation.com/cdn/shop/files/35.png?v=1723578015&width=1200)
         
         NEW DEVICE: Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
@@ -35,12 +32,13 @@ Free Shower Caddy On Orders Over $80
 * [Best Sellers](https://blackwolfnation.com/collections/black-wolf-bestsellers)
     * Back
     * [Best Sellers](https://blackwolfnation.com/collections/black-wolf-bestsellers)
+    * [NEW! Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
     * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
-    * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
-    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
+    * [Charcoal Body Wash](https://blackwolfnation.com/products/activated-charcoal-body-wash-1)
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
+    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
     * [![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_10.png?v=1726165506&width=1080)
         
         Save $43: Cleanse + Style Bundle](https://blackwolfnation.com/products/sonic-scalp-cleanse-style-system)
@@ -69,6 +67,7 @@ Free Shower Caddy On Orders Over $80
     * [Bundles + Sets](https://blackwolfnation.com/collections/bundle-save)
     * [Accessories](https://blackwolfnation.com/collections/accessories)
     * [NEW! Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+    * [NEW! Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
     
     * [Devices](https://blackwolfnation.com/collections/devices)
         * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
@@ -81,12 +80,13 @@ Free Shower Caddy On Orders Over $80
     
     Save $43: Cleanse + Style Bundle](https://blackwolfnation.com/products/sonic-scalp-cleanse-style-system)
     
+    * [NEW! Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
     * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
-    * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
-    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
+    * [Charcoal Body Wash](https://blackwolfnation.com/products/activated-charcoal-body-wash-1)
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
+    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
     
 * [Bundles & Sets](https://blackwolfnation.com/collections/bundle-save)
 * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
