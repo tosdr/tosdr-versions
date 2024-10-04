@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Playstation controller](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 now rolling out, here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-now-rolling-out-here-are-the-new-features/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
+    Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
+* [![AI Girl Deepfake](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
 
 ##### Follow us:
 
