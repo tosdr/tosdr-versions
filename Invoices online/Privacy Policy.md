@@ -118,57 +118,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=121503599)  
-TechnoDezi PTY(LTD)
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=75955983)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=1460401)  
-Wiselink Broadband Pty Ltd
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=148077207)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=125525293)  
-Vplay Grafix
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=167484477)  
+Forgotten Goods (Pty) Ltd
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=38408651)  
-BD Maintenance
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=172892880)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=32743001)  
-Enhle Oarabile Kea
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=191368743)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=180316837)  
-Echo Recording Studio cc
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=108442469)  
+NWET Pty LTD
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=3637655)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=151657770)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=210389002)  
-Hydroworld T/A Milliqua
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=45480291)  
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=39894053)  
-Glass and Allied Industries
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=140541643)  
+Little Nutty Professors
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=144725356)  
-Turnkey Innovations
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=33580468)  
+Nogana Events and Decor
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=114730772)  
-Baby Toddles Infant Care
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=168890725)  
+Sportspro Management (Pty) Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=132368406)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=140103059)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=117013923)  
-Chiron Medical Solutions
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=72090657)  
+CLEVER STUDENTS
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=134914216)  
-Cooper Logistics (Pty) Ltd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=121582358)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=87715538)  
-Norton Medical & Consult - Namibia
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=184702701)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
