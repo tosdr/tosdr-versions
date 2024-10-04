@@ -108,6 +108,7 @@ Verizon. We share hashed emails with our partner Verizon for the purposes of tar
     * [Creator levels](https://raptive.com/creator-levels/)
     * [Resources](https://raptive.com/resources/)
     * [AI](https://raptive.com/ai/)
+    * [Raptive Rise](https://raptive.com/raptive-rise-apply-now/)
     * [Support](https://help.raptive.com/hc/en-us)
     * [Apply](https://dashboard.raptive.com/apply/site-info)
 * [Enterprise](https://raptive.com/enterprise/)
