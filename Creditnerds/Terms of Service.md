@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, looking at a map of the United States with 20 cities highlighted. The character holds a credit card, while a graph shows a growing credit card balance. Dollar signs and upward arrows surround the map, symbolizing the rise in credit card balances in these cities, with a city skyline in the background.](https://creditnerds.com/wp-content/uploads/2024/10/Rising-Credit-Card-Debt-30x30.webp)](https://creditnerds.com/credit-card-balances-are-growing-the-fastest-in-these-cities/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+October 4, 2024
+
+#### [Credit Card Balances Are Growing the Fastest in These Cities](https://creditnerds.com/credit-card-balances-are-growing-the-fastest-in-these-cities/)
+
+Consumer spending habits provide a key measure of economic activity, but these trends can vary significantly across regions. One way to observe how much consumers are spending is by looking at the credit card balances they carry. In addition to credit card debt, other types of loans—such as mortgages, personal loans, auto loans, and student …
+
+[Read More](https://creditnerds.com/credit-card-balances-are-growing-the-fastest-in-these-cities/)
+
 [![Cartoon-style image of a person wearing glasses, holding a calendar with highlighted months to represent the length of a car loan. A car is parked beside the character, with floating dollar signs symbolizing the financial aspect of the loan. The character appears thoughtful, considering the time frame.](https://creditnerds.com/wp-content/uploads/2024/10/average-car-loan-length-30x30.webp)](https://creditnerds.com/whats-the-average-length-of-a-car-loan/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ September 16, 2024
 Good Debt vs. Bad Debt: What’s the Difference? Debt is often viewed negatively, but not all debt is necessarily bad. In fact, some debts can actually help you achieve financial goals. The key is understanding the nuances of good debt vs. bad debt: what’s the difference? Knowing when to borrow and when to avoid debt …
 
 [Read More](https://creditnerds.com/good-debt-vs-bad-debt-whats-the-difference/)
-
-[![Cartoon-style image of a person wearing glasses, holding a piggy bank and a checklist labeled '8 Ways to Make Extra Money.' The character stands in front of festive holiday decorations, including a Christmas tree, wrapped gifts, and falling snowflakes, conveying a fun and energetic holiday theme.](https://creditnerds.com/wp-content/uploads/2024/09/Make-extra-money-30x30.webp)](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 12, 2024
-
-#### [8 Best Ways to Make Extra Money for the Holidays](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
-
-As the holiday season approaches, many of us feel the pressure to stretch our budgets to cover gifts and celebrations. But bringing in some extra income ahead of time can help you stay on top of your spending without taking on unnecessary debt. There are plenty of side hustles that fit various interests and skills, …
-
-[Read More](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
