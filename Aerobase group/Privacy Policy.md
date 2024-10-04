@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Can the Air Force make its next-gen fighter jet cheaper than the F-35?](https://www.defensenews.com/air/2024/10/04/can-the-air-force-make-its-next-gen-fighter-jet-cheaper-than-the-f-35/)  
+    10/04/24 08:02am  
+    
+    The Air Forces wants to revamp its next-generation fighter jet plans to get costs below the price tag of an F-35 jet. But outside experts warn a cheapening of the program could lead to its demise. Air Force concept art for the next-gen jet is shown here. (U.S. Air Force Research Laboratory)
+    
 * [Pentagon taps commercial vendors for low-cost, throwaway drones](https://www.defensenews.com/unmanned/2024/10/02/pentagon-taps-commercial-vendors-for-low-cost-throwaway-drones/)  
     10/02/24 11:21am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/01/24 08:02am  
     
     An F-16 from the 8th Fighter Wing at Kunsan Air Base crashed in December after a GPS unit in a key instrument failed. (Senior Airman Karla Parra/U.S. Air Force)
-    
-* [Air Force awards Lockheed $3.2B multiyear missile contract](https://www.defensenews.com/air/2024/09/30/air-force-awards-lockheed-32b-multiyear-missile-contract/)  
-    09/30/24 12:00pm  
-    
-    The JASSM and LRASM contract is part of a Pentagon effort to make multiyear procurements of key munitions. Here, a LRASM launches from an Air Force B-1B Lancer during flight testing in 2013. (DARPA)
     
 
 Recent parts by keyword  
