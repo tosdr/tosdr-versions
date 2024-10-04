@@ -83,9 +83,21 @@
             
             [](https://www.humansecurity.com/platform/industry/ad-platforms)
             
+        * [Education](https://www.humansecurity.com/platform/industry/education)
+            
+            [](https://www.humansecurity.com/platform/industry/education)
+            
+        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+            
+            [](https://www.humansecurity.com/platform/industry/financial-services)
+            
         * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
             
             [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
+            
+            [](https://www.humansecurity.com/platform/industry/publishers)
             
         * [Retail & E-Commerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
             
@@ -95,14 +107,6 @@
             
             [](https://www.humansecurity.com/platform/industry/streaming-gaming)
             
-        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
-            
-            [](https://www.humansecurity.com/platform/industry/financial-services)
-            
-        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
-            
-            [](https://www.humansecurity.com/platform/industry/publishers)
-            
         * [Saas Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
             
             [](https://www.humansecurity.com/platform/industry/saas-platforms)
@@ -110,10 +114,6 @@
         * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
             
             [](https://www.humansecurity.com/platform/industry/travel-hospitality)
-            
-        * [Education](https://www.humansecurity.com/platform/industry/education)
-            
-            [](https://www.humansecurity.com/platform/industry/education)
             
     
 * Learn
@@ -401,9 +401,21 @@
             
             [](https://www.humansecurity.com/platform/industry/ad-platforms)
             
+        * [Education](https://www.humansecurity.com/platform/industry/education)
+            
+            [](https://www.humansecurity.com/platform/industry/education)
+            
+        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+            
+            [](https://www.humansecurity.com/platform/industry/financial-services)
+            
         * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
             
             [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
+            
+            [](https://www.humansecurity.com/platform/industry/publishers)
             
         * [Retail & E-Commerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
             
@@ -413,14 +425,6 @@
             
             [](https://www.humansecurity.com/platform/industry/streaming-gaming)
             
-        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
-            
-            [](https://www.humansecurity.com/platform/industry/financial-services)
-            
-        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
-            
-            [](https://www.humansecurity.com/platform/industry/publishers)
-            
         * [Saas Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
             
             [](https://www.humansecurity.com/platform/industry/saas-platforms)
@@ -428,10 +432,6 @@
         * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
             
             [](https://www.humansecurity.com/platform/industry/travel-hospitality)
-            
-        * [Education](https://www.humansecurity.com/platform/industry/education)
-            
-            [](https://www.humansecurity.com/platform/industry/education)
             
     
 * Learn
@@ -882,14 +882,15 @@ Packages
 * INDUSTRIES
     
     * [Ad Platforms](https://www.humansecurity.com/platform/industry/ad-platforms)
-    * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
-    * [Streaming & Gaming](https://www.humansecurity.com/platform/industry/streaming-gaming)
-    * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
+    * [Education](https://www.humansecurity.com/platform/industry/education)
     * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+    * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
+    * [Public Sector](https://www.humansecurity.com/solutions/industry/public-sector)
+    * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
     * [Retail & Ecommerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
     * [SaaS Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
-    * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
-    * [Public Sector](https://www.humansecurity.com/solutions/industry/public-sector)
+    * [Streaming & Gaming](https://www.humansecurity.com/platform/industry/streaming-gaming)
+    * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
     
 
 Products
