@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[New technologies and cutting-edge materials have t ![New technologies and cutting-edge materials have transformed how clinicians approach the production of dentures. With these advancements, there is a growing demand for denture reline materials to evolve, enhancing patient comfort, precision, and clinical efficiency. Enter @pac_dent’s latest product: Rodin® Soft Reline. Learn more about it via the link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAqo5OStKDN/) 
+
 [Study reveals that tackling periodontal diseases i ![Study reveals that tackling periodontal diseases in patients with diabetes demands a dual approach: effective dental treatment coupled with proactive diabetes management. By fostering collaboration between medical and dental professionals from the outset, the onset and progression of periodontal diseases can be mitigated in those living with diabetes. Link in bio.⁠
 ⁠
 ⁠
@@ -220,13 +227,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAdqEGltWTy/) 
-
-[According to the National Survey of Drug Use and H ![According to the National Survey of Drug Use and Health, more than 46 million Americans have substance use disorders, so dentists should assume they will be treating patients with this diagnosis. Dive into this issue with a continuing education piece that provides clear, evidence-based guidelines on what you need to know to treat patients with substance use disorders safely and effectively. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAbMJ0BMSWr/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
