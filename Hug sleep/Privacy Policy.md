@@ -4,9 +4,7 @@
 
 [Skip to content](#MainContent)
 
-[TRY OUR QUIZ AND FIND YOUR SLEEP POD!](https://hugsleep.com/pages/quiz)
-
-[ADD MORE, SAVE MORE | UP TO 30% OFF! | LIMITED TIME OFFER](https://hugsleep.com/collections/adults-collection)
+ADD MORE, SAVE MORE | UP TO 30% OFF! | LIMITED TIME OFFER
 
 [](javascript:void(0);)
 
