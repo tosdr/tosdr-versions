@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Trust
+[Resilience
 
-### Forgiveness in time of war](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1003/Forgiveness-in-time-of-war "Forgiveness in time of war")
+### Hurricanes and wildfires are closing schools. How can students get back on track?](https://www.csmonitor.com/USA/Education/2024/1004/hurricane-helene-schools-climate-wildfires "Hurricanes and wildfires are closing schools. How can students get back on track?")
 
 [Equality
 
-### Brazil has struggled to elect women to political office. Upcoming elections could change that.](https://www.csmonitor.com/World/Americas/2024/1003/Brazil-women-elections "Brazil has struggled to elect women to political office. Upcoming elections could change that.")
+### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
 
-[Justice
+[Trust
 
-### Transgender rights, ghost guns – and an election? The Supreme Court returns.](https://www.csmonitor.com/USA/Justice/2024/1003/supreme-court-transgender-rights-ghost-guns-election-2024 "Transgender rights, ghost guns – and an election? The Supreme Court returns.")
+### Forgiveness in time of war](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1003/Forgiveness-in-time-of-war "Forgiveness in time of war")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
+
 [### Big development in Jan. 6 case against Trump. Why now?](https://www.csmonitor.com/USA/Justice/2024/1003/donald-trump-jan6-trial-jack-smith-indictment "Big development in Jan. 6 case against Trump. Why now?")
 
 [### As Mideast emotions run high, is there room for restraint?](https://www.csmonitor.com/World/Middle-East/2024/1003/Israel-Iran-war-escalation-restraint "As Mideast emotions run high, is there room for restraint?")
-
-[### Brazil has struggled to elect women to political office. Upcoming elections could change that.](https://www.csmonitor.com/World/Americas/2024/1003/Brazil-women-elections "Brazil has struggled to elect women to political office. Upcoming elections could change that.")
 
 * * *
 
