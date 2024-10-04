@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
 
 Service Stiftung Warentest
 
