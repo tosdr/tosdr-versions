@@ -54,7 +54,7 @@ Košík je prázdný
     * [VPS Server SKYLLA](https://www.mydreams.cz/cz/vps-servery/vps-server-skylla.html)
     
     * [VPS server SELinux](https://www.mydreams.cz/cz/vps-servery/vps-server-selinux.html)
-    * [Storage VPS server](https://www.mydreams.cz/cz/vps-servery/storage-vps-server.html)
+    * [Storage server](https://www.mydreams.cz/cz/vps-servery/storage-vps-server.html)
     * [Speciální VPS servery](https://www.mydreams.cz/cz/vps-servery/specialni-vps-servery.html)
     * [Správa serverů a VPS](https://www.mydreams.cz/cz/vps-servery/sprava-serveru-a-vps.html)
     * [Speciální služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
