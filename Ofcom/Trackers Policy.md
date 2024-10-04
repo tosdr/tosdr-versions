@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/)
+    [Post](https://www.ofcom.org.uk/post/?language=en)
     
     Ofcom's job is to make sure there is a universal postal service.
     
@@ -157,7 +157,7 @@
 
 23 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/marking-50-years-since-ceefax-the-horse-drawn-internet-was-launched/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
