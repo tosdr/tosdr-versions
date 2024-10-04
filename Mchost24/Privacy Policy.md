@@ -24,7 +24,6 @@ Wähle aus einer Vielzahl von Spielen und erstelle deinen eigenen Gameserver.
 Optimierte Rootserver für alle Anwendungsfälle.
 
 * — [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
-* — [Ryzen Rootserver](https://mc-host24.de/ryzen-rootserver-mieten)
 * — [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
 
 Web & Domains
@@ -46,6 +45,8 @@ Unternehmen
 
 [Über uns](https://mc-host24.de/about-us)[Unsere Technik](https://mc-host24.de/technik)[Elterninfo](https://mc-host24.de/elterninfo)
 
+[DISCORD](https://discord.mc-host24.de/)
+
 Anmelden
 
 Du bist noch nicht eingeloggt!
@@ -61,7 +62,6 @@ Menü schließen
     * [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
     * [Gameserver Cloud](https://mc-host24.de/gameserver/list)
     * [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
-    * [Ryzen Rootserver](https://mc-host24.de/ryzen-rootserver-mieten)
     * [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
     * [Webspace](https://mc-host24.de/webspace-mieten)
     * [Domains](https://mc-host24.de/domain-mieten)
@@ -74,6 +74,7 @@ Menü schließen
     * [Über uns](https://mc-host24.de/about-us)
     * [Unsere Technik](https://mc-host24.de/technik)
     * [Elterninfo](https://mc-host24.de/elterninfo)
+* [Discord](https://discord.mc-host24.de/)
 
 Du bist noch nicht eingeloggt!
 
