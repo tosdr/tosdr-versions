@@ -157,7 +157,7 @@
 
 23 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/marking-50-years-since-ceefax-the-horse-drawn-internet-was-launched/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
