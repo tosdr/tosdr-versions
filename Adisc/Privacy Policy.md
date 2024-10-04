@@ -81,7 +81,7 @@ Privacy Policy
 
 Messages
 
-3,592
+3,593
 
 * May 26, 2018
 
@@ -214,15 +214,14 @@ Automated Decision-Making**
 Last edited: Jun 25, 2024
 
 * ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
-* ![Wow](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f632.png "Wow")
 
-Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 2 others
+Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 1 other person
 
 [You must log in or register to reply here.](https://www.adisc.org/forum/login/)
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1728002679) [LinkedIn](#_xfUid-1-1728002679) [Reddit](#_xfUid-1-1728002679) [Pinterest](#_xfUid-1-1728002679) [Tumblr](#_xfUid-1-1728002679) [WhatsApp](#_xfUid-1-1728002679) [Email](#_xfUid-1-1728002679) [Share](#_xfUid-1-1728002679) [Link](#_xfUid-1-1728002679)
+[X (Twitter)](#_xfUid-1-1728024269) [LinkedIn](#_xfUid-1-1728024269) [Reddit](#_xfUid-1-1728024269) [Pinterest](#_xfUid-1-1728024269) [Tumblr](#_xfUid-1-1728024269) [WhatsApp](#_xfUid-1-1728024269) [Email](#_xfUid-1-1728024269) [Share](#_xfUid-1-1728024269) [Link](#_xfUid-1-1728024269)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -247,7 +246,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1728002679%2Cd33889d743fd9ca792b2eff1dac7e3c6) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1728002679%2Cd33889d743fd9ca792b2eff1dac7e3c6)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1728024269%2C71af362d85a378e864415e32990fa5e3) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1728024269%2C71af362d85a378e864415e32990fa5e3)
     
     * Essential cookies
     
