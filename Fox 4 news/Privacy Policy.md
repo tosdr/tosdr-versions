@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![What is a Blue Alert?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/blue-alert.jpg?ve=1&tl=1)
+ [![Dallas PD names interim police chief to replace Eddie Garcia](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/f57fd1d2-DPD20headquarters_1439831436412_110120_ver1.0.jpg?ve=1&tl=1)
 
- ![What is a Blue Alert?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/blue-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-is-blue-alert)
+ ![Dallas PD names interim police chief to replace Eddie Garcia](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/f57fd1d2-DPD20headquarters_1439831436412_110120_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dpd-names-interim-police-chief-michael-igo)
 
-### [What is a Blue Alert?](https://www.fox4news.com/news/what-is-blue-alert)
+### [Dallas PD names interim police chief to replace Eddie Garcia](https://www.fox4news.com/news/dpd-names-interim-police-chief-michael-igo)
 
- [![Police searching for 2 Mesquite carjacking suspects](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/5h-mesquite-police-chase_00.00.00.52.jpg?ve=1&tl=1)
+ [![3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elsby.jpg?ve=1&tl=1)
 
- ![Police searching for 2 Mesquite carjacking suspects](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/5h-mesquite-police-chase_00.00.00.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-searching-2-mesquite-carjacking-suspects)
+ ![3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elsby.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
 
-### [Police searching for 2 Mesquite carjacking suspects](https://www.fox4news.com/news/police-searching-2-mesquite-carjacking-suspects)
+### [3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
 
- [![Port strike suspended until Jan. 15 – here's what's ahead](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175662455.jpg?ve=1&tl=1)
+ [![State Fair of Texas has a new Texas-themed drone show](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-state-fair-drone-show-5a_00.00.13.12.jpg?ve=1&tl=1)
 
- ![Port strike suspended until Jan. 15 – here's what's ahead](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175662455.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/port-strike-ends-jan-15-agreement-heres-whats-ahead)
+ ![State Fair of Texas has a new Texas-themed drone show](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-state-fair-drone-show-5a_00.00.13.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-drone-show)
 
-### [Port strike suspended until Jan. 15 – here's what's ahead](https://www.fox4news.com/news/port-strike-ends-jan-15-agreement-heres-whats-ahead)
+### [State Fair of Texas has a new Texas-themed drone show](https://www.fox4news.com/news/state-fair-texas-drone-show)
 
- [![Blue Alert: Man wanted for shooting Texas police officer](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.04.14.30.jpg?ve=1&tl=1)
+ [![Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.00.42.40.jpg?ve=1&tl=1)
 
- ![Blue Alert: Man wanted for shooting Texas police officer](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.04.14.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-alert-seth-altman)
+ ![Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.00.42.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pork-schnitzel-apple-streudel-recipes-from-granbury-oktoberfest)
 
-### [Blue Alert: Man wanted for shooting Texas police officer](https://www.fox4news.com/news/blue-alert-seth-altman)
+### [Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://www.fox4news.com/news/pork-schnitzel-apple-streudel-recipes-from-granbury-oktoberfest)
 
- [![McDonald’s is officially selling the Chicken Big Mac in the US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/chicken-big-mac-thumbnail_hero-desktop.jpg?ve=1&tl=1)
+ [!['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/truck-crash-featured-image.jpg?ve=1&tl=1)
 
- ![McDonald’s is officially selling the Chicken Big Mac in the US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/chicken-big-mac-thumbnail_hero-desktop.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-chicken-big-mac-us-available-october-2024)
+ !['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/truck-crash-featured-image.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/totally-my-bad-teen-admits-cutting-off-tanker-truck-causing-chemical-spill-killed-5)
 
-### [McDonald’s is officially selling the Chicken Big Mac in the US](https://www.fox4news.com/news/mcdonalds-chicken-big-mac-us-available-october-2024)
+### ['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://www.fox4news.com/news/totally-my-bad-teen-admits-cutting-off-tanker-truck-causing-chemical-spill-killed-5)
 
 ###### [News](https://www.fox4news.com/news)
 
