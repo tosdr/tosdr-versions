@@ -390,9 +390,9 @@ Featured travel offers
 
 *   [![Ancient Ruins, Paros & Santorini](https://travelmedia.restless.co.uk/traveldeals/images/exoticca/4913e8b6-cdaf-480f-9652-3267022330d4/f731c610-37dc-4a25-9c43-6db135df85c3-1080x608.webp)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
-    ### [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
+    ### Exoticca [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
-    30% off | Greece | 10 days | Book with Exoticca
+    30% off | Greece | 10 days
     
     Greece
     
@@ -543,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
+### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
+[Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
 [![9 awe-inspiring travel destinations best explored by small ships](https://media.restless.co.uk/uploads/2024/09/awe-inspiring-travel-destinations-best-explored-by-small-ships-768x418.jpg)](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
 
 ### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
@@ -572,12 +578,6 @@ New in travel
 ### [Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
 
 [Read More »](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
-
-[![7 locations that offer great value luxury](https://media.restless.co.uk/uploads/2024/09/locations-that-offer-great-value-luxury-768x482.jpg)](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
-
-### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
-
-[Read More »](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
 Popular travel guides
 ---------------------
