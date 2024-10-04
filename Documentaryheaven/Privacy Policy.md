@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The 2nd Assassination of JFK](/wp-content/thumbnails/5999-100x70.jpg?x53432)
+* [![The Family That Walks on All Four](/wp-content/thumbnails/1106-100x70.jpg?x53432)
     
-    The 2nd Assassination of JFK
+    The Family That Walks on All Four
     
-    The film focuses on the historical and future significance of American manned space flight and the importance of the United States remaining on the forefront of space discovery. ‘The 2nd Assassination](https://documentaryheaven.com/the-2nd-assassination-of-jfk/ "The 2nd Assassination of JFK")
-* [![UFO: Great Balls of Light](/wp-content/thumbnails/6620-100x70.png?x53432)
+    An intense scientific debate has ignited around a quiet but extraordinary family living in rural Turkey-a family with five adults who walk on all fours. Since bipedalism has long been considered one o](https://documentaryheaven.com/the-family-that-walks-on-all-four/ "The Family That Walks on All Four")
+* [![Louis Theroux And The Nazis](/wp-content/thumbnails/853-100x70.jpg?x53432)
     
-    UFO: Great Balls of Light
+    Louis Theroux And The Nazis
     
-    Great balls of light challenges the widespread perception that UFO reports are either hoaxes or genuine alien contacts. It shows how natural phenomena, top secret technology, altered states of the min](https://documentaryheaven.com/ufo-great-balls-of-light/ "UFO: Great Balls of Light")
-* [![Tom Felton Meets the Superfans](/wp-content/thumbnails/9733-100x70.jpeg?x53432)
+    Louis Theroux travels to California to meet the man dubbed "the most dangerous racist in America"; Tom Metzger. Louis meets him, his family and his publicity manager as well as following him to skinhe](https://documentaryheaven.com/louis-theroux-and-the-nazis/ "Louis Theroux And The Nazis")
+* [![Egypt’s Lost Queens](/wp-content/thumbnails/14273-100x70.jpg?x53432)
     
-    Tom Felton Meets the Superfans
+    Egypt’s Lost Queens
     
-    From Beatle mania to Beliebers, behind every success story there is an army of fans, most just want to show their appreciation, some take it further to prove their dedication but there is an elite gro](https://documentaryheaven.com/tom-felton-meets-superfans/ "Tom Felton Meets the Superfans")
-* [![Lebanon in Freefall](/wp-content/thumbnails/16393-100x70.jpg?x53432)
+    Ancient Egypt, a rich history that lasted for over 6,000 years. The lives and deaths of its leading characters still fascinate us to this day and when we visit museums featuring exhibitions on this pe](https://documentaryheaven.com/egypts-lost-queens/ "Egypt’s Lost Queens")
+* [![Last Chance High](/wp-content/thumbnails/8760-100x70.jpg?x53432)
     
-    Lebanon in Freefall
+    Last Chance High
     
-    Stay or go, give up or fight? The question is can Lebanon still be saved? The political and economic crisis in Lebanon started long before the devastating explosion on August 4, 2020, it was more the](https://documentaryheaven.com/lebanon-in-freefall/ "Lebanon in Freefall")
-* [![Secrets of Body Language](/wp-content/thumbnails/6267-100x70.jpg?x53432)
+    Located on the West Side of Chicago is a school best known for taking in the city's most at-risk teens its called the "Moses Montefiore Academy". The school itself is seen as a last resort for these y](https://documentaryheaven.com/last-chance-high/ "Last Chance High")
+* [![The Sky at Night, Pluto Revealed](/wp-content/thumbnails/10001-100x70.jpg?x53432)
     
-    Secrets of Body Language
+    The Sky at Night, Pluto Revealed
     
-    Delve into the science of non-verbal signals as this very visual and highly entertaining exposé reveals the hidden language in which 93% of human communication takes place.From President Franklin D.](https://documentaryheaven.com/secrets-of-body-language/ "Secrets of Body Language")
+    The revelations about New Horizons recent visit to our dwarf planet Pluto, made headlines and news across the globe. The BBC's, The Sky at Night team were lucky enough to be behind the scenes for the](https://documentaryheaven.com/sky-at-night-pluto-revealed/ "The Sky at Night, Pluto Revealed")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
