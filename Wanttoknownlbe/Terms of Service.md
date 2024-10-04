@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/weer-succesvolle-malaria-behandeling-met-mms/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/wikileaks-de-virtuele-klopjacht-en-een-virtuele-bom/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
