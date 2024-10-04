@@ -118,56 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=75955983)  
-NEW BEGINNINGS DESIGNS
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=120219786)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=148077207)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=62006021)  
+Waterfinatics Swim School
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=167484477)  
-Forgotten Goods (Pty) Ltd
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=12969837)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=172892880)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=156160863)  
+Vplay Grafix
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=191368743)  
-Testpro Laboratory (Pty) Ltd
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=149443713)  
+Eruca (PTY)Ltd
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=108442469)  
-NWET Pty LTD
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=127689917)  
+PROGRAPHIX PTY LTD
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=151657770)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=40547880)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=45480291)  
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=38342204)  
+Lily Fern & Co
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=140541643)  
-Little Nutty Professors
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=120933118)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=33580468)  
-Nogana Events and Decor
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=168890725)  
-Sportspro Management (Pty) Ltd
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=140103059)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=72090657)  
-CLEVER STUDENTS
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=121582358)  
-Karino Merinos ( PTY ) LTD
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=ca59ba823af8c9d888625ca56bf72548e58c5857f3642e0d80e6a2c0eb95661d&c=184702701)  
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=214647136)  
 GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=134211789)  
+Environment Friendly Toilets (Pty) Ltd
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=122463639)  
+All Trucking Solutions
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=212566344)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=24297412)  
+AquariumSmiths
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=198818556)  
+One2b
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
