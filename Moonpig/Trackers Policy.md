@@ -27,6 +27,7 @@ Menu
     * [Soft Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/soft-toys/)
     * [Educational Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/educational/)
     * [Top Picks](https://www.moonpig.com/uk/gifts/early-learning-centre/top-picks/)
+    * [Toy Offers](https://www.moonpig.com/uk/gifts/early-learning-centre/offers/)
     * [All Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/all/)
     
     ### Add the Perfect Card
