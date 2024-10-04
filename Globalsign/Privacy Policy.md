@@ -50,6 +50,7 @@ Menu Menu
             * [Qualified Signatures & Seals](https://www.globalsign.com/en/qualified-electronic-signatures-seals)
             * [Adobe Approved Trust List (AATL) Signatures](https://www.globalsign.com/en/adobe-approved-trust-list-aatl-signatures)
             * [GMO Sign](https://www.globalsign.com/en/gmo-sign/how-it-works)
+            * [GlobalSign Cygnature](https://www.globalsign.com/en/cygnature)
             
         * #### Custom CA/ Private PKI
             
