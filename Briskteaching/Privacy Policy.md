@@ -22,7 +22,7 @@ About
 
 Brisk's Tools
 
-[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/feedback)[Create Curriculum](https://www.briskteaching.com/curriculum)[Change Reading Levels](https://www.briskteaching.com/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/inspect-writing)[Brisk Boost for Students](https://www.briskteaching.com/briskboost)
+[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/tools/give-feedback)[Create Curriculum](https://www.briskteaching.com/tools/curriculum)[Change Reading Levels](https://www.briskteaching.com/tools/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/tools/inspect-writing)[Brisk Boost for Students](https://www.briskteaching.com/briskboost)
 
 Plans
 
