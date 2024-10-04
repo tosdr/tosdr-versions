@@ -29,7 +29,7 @@ EUR
 
 [Advanced Search](https://specialneedsequipment.eu/search.html?action=dmAdvancedSearch)
 
-![](/skins/zz_adapt/customer/images/adapt/header-phone.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+![](/skins/zz_adapt/customer/images/adapt/header-phone.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 TELEPHONE
 
@@ -39,7 +39,7 @@ TELEPHONE
 * [Romania +40 768293282](tel:+40 768293282)
 ![Romania](/userfiles/languages/language_2.jpg)* [Bulgaria +359 878212616](tel:02 4420424)
 
-![](/skins/zz_adapt/customer/images/adapt/header-stores.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+![](/skins/zz_adapt/customer/images/adapt/header-stores.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 LOCATIONS
 
@@ -245,19 +245,19 @@ Shopping Cart
 
 [](#)[](#)[](#)
 
-[![](/skins/zz_adapt/customer/images/adapt/top-info-free-help.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+[![](/skins/zz_adapt/customer/images/adapt/top-info-free-help.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 ONLINE SUPPORT
 
-Instant support over phone or chat](https://specialneedsequipment.eu/form/1/contact.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-free-delivery.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+Instant support over phone or chat](https://specialneedsequipment.eu/form/1/contact.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-free-delivery.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 EXPRESS DELIVERY
 
-1- day shipments with TNT](https://specialneedsequipment.eu/page/9/delivery.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-warranty.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+1- day shipments with TNT](https://specialneedsequipment.eu/page/9/delivery.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-warranty.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 WARRANTY & SERVICE
 
-Up to 5 years warranty](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-test-period.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+Up to 5 years warranty](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-test-period.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 30-DAY TEST PERIOD
 
@@ -572,24 +572,24 @@ E-mail : info@specialneedsequipment.eu
 Payment Methods
 ---------------
 
-* ![](/skins/orion//customer/images/footer/master.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/maestro.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/visa.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/easy-pay.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/paypal.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+* ![](/skins/orion//customer/images/footer/master.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/maestro.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/visa.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/easy-pay.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/paypal.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
-* ![](/skins/orion//customer/images/footer/speedy.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/econt.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/tnt.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
-* ![](/skins/orion//customer/images/footer/dhl.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)
+* ![](/skins/orion//customer/images/footer/speedy.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/econt.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/tnt.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
+* ![](/skins/orion//customer/images/footer/dhl.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)
 
 Copyright 2020 SpecialNeedsEquipment.com
 
 [Seliton E-commerce Solution](http://www.seliton.com/)
 
-[![](/skins/orion//customer/images/social-media/facebook.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)](https://www.facebook.com/Specialneedsequipment-107757347697401)[![](/skins/orion//customer/images/social-media/youtube.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)](https://www.youtube.com/channel/UCAfaHkFVdS3EsoOnNSeA7QQ) [![](/skins/orion//customer/images/social-media/skype.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)](skype:plovdiv_16?chat)
+[![](/skins/orion//customer/images/social-media/facebook.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)](https://www.facebook.com/Specialneedsequipment-107757347697401)[![](/skins/orion//customer/images/social-media/youtube.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)](https://www.youtube.com/channel/UCAfaHkFVdS3EsoOnNSeA7QQ) [![](/skins/orion//customer/images/social-media/skype.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)](skype:plovdiv_16?chat)
 
-![](/skins/orion//customer/images/gdpr-stars.png?rev=33cfeecbac497da68a85b57822844ada5ad89625)GDPROur website is GDPR compliant.
+![](/skins/orion//customer/images/gdpr-stars.png?rev=1ba71182150cb3e3fa85a5272904de278406c0fd)GDPROur website is GDPR compliant.
 
 [My personal data](https://specialneedsequipment.eu/gdpr.html)
 
