@@ -177,5 +177,6 @@ External
 * [Twitter](https://twitter.com/open_meteo)
 * [Mastodon](https://fosstodon.org/@openmeteo)
 * [Service status and uptime](https://status.open-meteo.com/)
+* [Model Updates Overview](https://open-meteo.com/en/docs/model-updates)
 
 © 2022-2024 Copyright: Open-Meteo.com
