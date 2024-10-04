@@ -1,6 +1,6 @@
 5.38.15
 
-1728053314328
+1728074850769
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1728053378447
+1728074340196
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1728053314890
+1728074344455
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,36 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Shower Gels for £10 Selected Bath and Body Works Promotion
+
+Selected Bath and Body Works shower gels for £10.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### Single Wick Candles for £15 Selected Bath and Body Works Promotion
+
+Selected Bath and Body Works single wick candles for £15.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
+
+Selected Bath and Body Works 3 wick candles for £20.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
 
 ### 15% off on Selected Elemis Promotion
 
@@ -2586,7 +2616,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1728053165509
+1728074483757
 
 ### Our Social Networks
 
