@@ -1,4 +1,4 @@
-[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to get the summer rate - $1,095 until 8/30](https://live-events.sailpoint.com/45O21q)
+[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to get the summer rate - $1,095 until 8/30](https://www.sailpoint.com/navigate)
 
 Close
 
@@ -372,7 +372,7 @@ Careers
 
 Stay Connected
 
-* [![](https://cdn.sanity.io/images/4vd6xhxw/production/1a973c9fa8bf0f26688f1fb3a5f064e6e7db789d-20x20.svg)](https://www.linkedin.com/company/sailpoint-technologies/)
+* [![](https://cdn.sanity.io/images/4vd6xhxw/production/c33fea7d5b3b875bf5e7773656f5211dd1129513-21x20.svg)](https://www.linkedin.com/company/sailpoint-technologies/)
 * [![](https://cdn.sanity.io/images/4vd6xhxw/production/d79ea01818cfe47a2aef9489c3f4a9271b7a6895-22x20.svg)](https://twitter.com/SailPoint)
 * [![](https://cdn.sanity.io/images/4vd6xhxw/production/2cf93d41f7db75419e4f807761a2acb73de792f1-22x20.svg)](https://www.facebook.com/SailPoint/)
 * [![](https://cdn.sanity.io/images/4vd6xhxw/production/88d21cbbdf7ed4a21f0df5064cef92e815501c93-21x20.svg)](https://www.youtube.com/SailPointTechnologies)
