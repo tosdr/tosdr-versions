@@ -40,8 +40,6 @@
 
 [Email Marketing](https://www.vericast.com/solutions/digital-marketing/email-marketing/)
 
-[Universal Digital Coupons](https://www.vericast.com/solutions/digital-marketing/universal-digital-coupons/)
-
 [Local Search](https://www.vericast.com/solutions/digital-marketing/local-search/)
 
 [Print Marketing](https://www.vericast.com/solutions/print-marketing/)
@@ -55,8 +53,6 @@
 [Solo Direct Mail](https://www.vericast.com/solutions/print-marketing/solo-direct-mail/)
 
 [Mailing Lists](https://www.vericast.com/solutions/print-marketing/mailing-lists-address-database/)
-
-[Newspaper ROP Ads](https://www.vericast.com/solutions/print-marketing/newspaper-rop-ads/)
 
 [Insights](#)
 
