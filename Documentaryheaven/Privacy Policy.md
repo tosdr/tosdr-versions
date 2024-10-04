@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Madness in the Desert: Paris to Dakar](/wp-content/thumbnails/7774-100x70.jpg?x53432)
+* [![Too Young To Die: Sharon Tate](/wp-content/thumbnails/14669-100x70.jpg?x53432)
     
-    Madness in the Desert: Paris to Dakar
+    Too Young To Die: Sharon Tate
     
-    In 1977 French motorcyclist Thierry Sabine was in serious trouble, lost in the Libyan desert and dying from thirst. Whilst most men would weep and think back over their lives, Thierry thought about co](https://documentaryheaven.com/madness-desert-paris-dakar/ "Madness in the Desert: Paris to Dakar")
-* [![In The Wild, With Robin Williams: Dolphins](/wp-content/thumbnails/8987-100x70.gif?x53432)
+    If we held up that mirror to the 1960s, the who is the fairest of them all mirror from the Snow White fairy tale we would probably see Sharon Tate looking back at us. Her own story like that of the de](https://documentaryheaven.com/too-young-to-die-sharon-tate/ "Too Young To Die: Sharon Tate")
+* [![The Murder of Jill Dando](/wp-content/thumbnails/12714-100x70.jpg?x53432)
     
-    In The Wild, With Robin Williams: Dolphins
+    The Murder of Jill Dando
     
-    A documentary from 1997 were the late Robin Williams goes on an adventure to the Bahamas and Hawaii trying to discover all there is to know about dolphins who happen to be some of the most endearing a](https://documentaryheaven.com/in-wild-with-robin-williams-dolphins/ "In The Wild, With Robin Williams: Dolphins")
-* [![Three Days That Shook Paris](/wp-content/thumbnails/14070-100x70.jpg?x53432)
+    Jill Dando born 1961 was an English journalist, she was one of Britians most well known television presenters having won BBC's Personality of the Year award in 1997. At the time of her death](https://documentaryheaven.com/murder-of-jill-dando/ "The Murder of Jill Dando")
+* [![The Woman who thinks like a Cow](/wp-content/thumbnails/6614-100x70.jpg?x53432)
     
-    Three Days That Shook Paris
+    The Woman who thinks like a Cow
     
-    This is the story of the deadliest terror attack in France for over 50 years, 17 people murdered, dozens wounded, free speech under attack, a nation traumatised as the world looked on in horror but th](https://documentaryheaven.com/three-days-shook-paris/ "Three Days That Shook Paris")
-* [![Bobby Sands: The 1981 Hungerstrike](/wp-content/thumbnails/8628-100x70.jpg?x53432)
+    Dr Temple Grandin has a unique ability to understand the animal mind - and she's convinced her skill is down to her autistic brain.Temple believes she experiences life like an animal. Her emotions](https://documentaryheaven.com/the-woman-who-thinks-like-a-cow/ "The Woman who thinks like a Cow")
+* [![America’s 2nd Revolutionary War](/wp-content/thumbnails/6871-100x70.jpg?x53432)
     
-    Bobby Sands: The 1981 Hungerstrike
+    America’s 2nd Revolutionary War
     
-    The 1981 Irish hunger strike was the culmination of a five-year protest during "the Troubles" by Irish republican prisoners in Northern Ireland. The protest began as the blanket protest in 1976, when](https://documentaryheaven.com/bobby-sands-the-1981-hungerstrike/ "Bobby Sands: The 1981 Hungerstrike")
-* [![The Peoples Kitchen](/wp-content/thumbnails/8508-100x70.jpg?x53432)
+    Traveling from tea parties in Texas to "Oath Keeper" rallies in Massachusetts, VICE investigates whether the country is actually on the verge of the 2nd Revolutionary War.The Department of Homelan](https://documentaryheaven.com/americas-2nd-revolutionary-war/ "America’s 2nd Revolutionary War")
+* [![Autopsy: Whitney Houston’s Last Hours](/wp-content/thumbnails/8505-100x70.jpg?x53432)
     
-    The Peoples Kitchen
+    Autopsy: Whitney Houston’s Last Hours
     
-    The Peoples Kitchen is a project that happens each and every week in Dalston, London a group of volunteers meet and go around the area collecting food that would otherwise be thrown away as waste from](https://documentaryheaven.com/peoples-kitchen/ "The Peoples Kitchen")
+    In her lifetime she sold more than two hundred million records, propelling her from a gospel choir to global stardom but at 3:36pm on February 11th 2012, Whitney Houston was found unconscious in a bat](https://documentaryheaven.com/autopsy-whitney-houstons-last-hours/ "Autopsy: Whitney Houston’s Last Hours")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
