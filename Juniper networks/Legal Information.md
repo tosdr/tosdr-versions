@@ -401,7 +401,7 @@ Partners
 * [Public Cloud Partnerships](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
 * [Strategic Alliances](https://www.juniper.net/us/en/partners/strategic-alliances.html)
 * [Solution Partners](https://www.juniper.net/us/en/partners/solution-partners.html)
-* [Technology Alliances](https://www.juniper.net/content/juniper/us/en/partners-new/technology-alliances)
+* [Technology Alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
 
 * [](javascript:void(0);)
 
