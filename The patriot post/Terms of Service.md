@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110789-mid-day-digest-2024-10-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110827-mid-day-digest-2024-10-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110789-mid-day-digest-2024-10-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110827-mid-day-digest-2024-10-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,21 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34313)
+     [](https://patriotpost.us/cartoons/34323)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Allen West The Role of Federal Government](https://patriotpost.us/opinion/110791-the-role-of-federal-government-2024-10-03)
-*      [Cal Thomas Lebanon Then and Now](https://patriotpost.us/opinion/110771-lebanon-then-and-now-2024-10-03)
-*      [Ben Shapiro The Power of Victory](https://patriotpost.us/opinion/110770-the-power-of-victory-2024-10-03)
-*      [Ann Coulter The Democrats’ Idea of a Regular Guy](https://patriotpost.us/opinion/110773-the-democrats-idea-of-a-regular-guy-2024-10-03)
-*      [Gary Bauer The VP Debate](https://patriotpost.us/opinion/110768-the-vp-debate-2024-10-03)
-*      [Larry Elder Vance Defended Trump Better Than Trump](https://patriotpost.us/opinion/110767-vance-defended-trump-better-than-trump-2024-10-03)
-*      [Laura Hollis Now It’s Time to Eliminate Tenure](https://patriotpost.us/opinion/110766-now-its-time-to-eliminate-tenure-2024-10-03)
-*      [Armstrong Williams The Cost of a Workforce That Doesn’t Want to Work](https://patriotpost.us/opinion/110769-the-cost-of-a-workforce-that-doesnt-want-to-work-2024-10-03)
+*      [Hans von Spakovsky Unrigging Our Elections](https://patriotpost.us/opinion/110810-unrigging-our-elections-2024-10-04)
+*      [Michael Reagan Vance Sends Walz Back to the Minors](https://patriotpost.us/opinion/110809-vance-sends-walz-back-to-the-minors-2024-10-04)
+*      [Erick Erickson Caveat Emptor](https://patriotpost.us/opinion/110808-caveat-emptor-2024-10-04)
+*      [Tim Graham Network ‘News Judgment’ Depends on Who Benefits](https://patriotpost.us/opinion/110807-network-news-judgment-depends-on-who-benefits-2024-10-04)
+*      [Victor Davis Hanson How to Blow Up the Middle East War in Five Easy Steps](https://patriotpost.us/opinion/110806-how-to-blow-up-the-middle-east-war-in-five-easy-steps-2024-10-04)
+*      [Gary Bauer The Deep State Strikes Back](https://patriotpost.us/opinion/110805-the-deep-state-strikes-back-2024-10-04)
+*      [Michael Barone The Vice Presidential Debate May Matter](https://patriotpost.us/opinion/110804-the-vice-presidential-debate-may-matter-2024-10-04)
+*      [Mark Alexander Profiles of Valor: Lt Col Edwin Cottrell (USAF, Ret.)](https://patriotpost.us/alexander/110790-profiles-of-valor-lt-col-edwin-cottrell-usaf-ret-dot-2024-10-04)
+*      [The Babylon Bee 8 More Historical Events Tim Walz Has Claimed to Be At](https://patriotpost.us/opinion/110803-8-more-historical-events-tim-walz-has-claimed-to-be-at-2024-10-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +225,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“It is necessary for every American, with becoming energy to endeavor to stop the dissemination of principles evidently destructive of the cause for which they have bled. It must be the combined virtue of the rulers and of the people to do this, and to rescue and save their civil and religious rights from the outstretched arm of tyranny, which may appear under any mode or form of government.” —Mercy Warren (1805)
+“If we can prevent the government from wasting the labors of the people, under the pretence of taking care of them, they must become happy.” —Thomas Jefferson (1802)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
