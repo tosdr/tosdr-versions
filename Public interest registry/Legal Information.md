@@ -385,7 +385,7 @@ Menu
 
 * [Anti-Abuse](https://pir.org/our-impact/anti-abuse-policy/)
 * [DNSSC Practice Statement](https://pir.org/products/dnssec-practice-statement/)
-* [.NGO & .ONG Registration](https://pir.org/our-impact/policies/#-ngo-and-ong-registration-policy)
+* [.NGO & .ONG Registration](https://pir.org/our-impact/ngo-ong-policy/)
 * [Privacy Policy](https://pir.org/our-impact/privacy/)
 * [Reserved Name](https://pir.org/our-impact/reserved-names-policy/)
 * [Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
