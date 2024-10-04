@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев пожелал Артёму Жоге удачи на посту полпреда УрФО](https://cdn.er.ru/media/news/October2024/WwgSu4yoSxzZ7W9ncCC1-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pozhelal-artyomu-zhoge-udachi-na-postu-polpreda-urfo)
+
+[Владимир Якушев пожелал Артёму Жоге удачи на посту полпреда УрФО](https://er.ru/activity/news/vladimir-yakushev-pozhelal-artyomu-zhoge-udachi-na-postu-polpreda-urfo)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#полпредство](https://er.ru/activity/news?tags%5B0%5D=9247) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 10:34
+
 [![Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://cdn.er.ru/media/news/October2024/QlDC2M3942C1THxqeBfL-small.jpg)](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
 
 [Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
@@ -336,14 +344,6 @@
 [Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
 
 [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#экономический рост](https://er.ru/activity/news?tags%5B0%5D=15324) [#достижение целей](https://er.ru/activity/news?tags%5B0%5D=48415) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
-
-03.10.24
-
-[![Андрей Турчак вступил в должность главы Республики Алтай](https://cdn.er.ru/media/news/October2024/hrGZWsnUPvaG5dGEyt7y-small.jpg)](https://er.ru/activity/news/andrej-turchak-vstupil-v-dolzhnost-glavy-respubliki-altaj)
-
-[Андрей Турчак вступил в должность главы Республики Алтай](https://er.ru/activity/news/andrej-turchak-vstupil-v-dolzhnost-glavy-respubliki-altaj)
-
-[#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 03.10.24
 
