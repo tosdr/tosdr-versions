@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
@@ -153,8 +153,8 @@ Latest reactions
 
 Latest forum posts
 
-* [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=63 "WonderTANG! Who wants to juice up your MSX?")
+* [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
 * [MSXDev 2023 NotebookLM podcast](https://www.msx.org/forum/msx-talk/general-discussion/msxdev-2023-notebooklm-podcast "MSXDev 2023 NotebookLM podcast")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [SVI-605B HDD Controller](https://www.msx.org/forum/msx-talk/hardware/svi-605b-hdd-controller "SVI-605B HDD Controller")
