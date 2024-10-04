@@ -756,7 +756,7 @@ skip to main content
     
     * Laptops by Use
         
-        [Work](https://www.lenovo.com/us/en/business/laptops/) [Gaming](https://www.lenovo.com/us/en/d/gaming-laptops/) [Education](https://www.lenovo.com/us/en/laptops/results?visibleDatas=993%3AStudent)
+        [Work](https://www.lenovo.com/us/en/business/laptops/) [Gaming](https://www.lenovo.com/us/en/d/gaming-laptops/) [Education](https://www.lenovo.com/us/en/laptops/results?visibleDatas=993%3AStudent) [Creators](https://www.lenovo.com/us/en/d/laptops-for-creators/)
         
         Laptops by Brand
         
@@ -770,7 +770,7 @@ skip to main content
         [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [Shop All Laptops](https://www.lenovo.com/us/en/laptops/results)
     * Best Selling Laptops
         
-        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 5i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Yoga Slim 7x 14″ Laptop](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7x-gen-9-14-inch-snapdragon/len101y0049) [IdeaPad 5i 2-in-1 (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(16-inch-intel)/len101i0103)
+        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 5i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Lenovo Slim 7i (14” Intel)](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-9-(14-inch-intel)/len101l0044) [IdeaPad 5i 2-in-1 (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(16-inch-intel)/len101i0103)
         
         Quick Links
         
@@ -1950,6 +1950,6 @@ Please select a Country / Region
 
 Compare  ()
 
-_x_
+removeAll _x_
 
 Call
