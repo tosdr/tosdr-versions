@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Huge majority of NYers want Adams to resign after historic indictment: poll](https://nypost.com/2024/10/04/us-news/most-new-yorkers-want-eric-adams-to-resign-following-indictment-poll/)
-
 Privacy Notice Highlights
 =========================
 
