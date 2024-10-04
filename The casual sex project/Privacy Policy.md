@@ -79,30 +79,30 @@ New York, NY 10017
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
-[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/?form=donate) [About](https://casualsexproject.com/about)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
-[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/?form=donate) [About](https://casualsexproject.com/about)
 
-[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/?form=donate) [About](https://casualsexproject.com/about)
 
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-perception-of-crime-since-2020-the-case-of-chattanooga.jpg)[](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/empty-prison-cell.jpg)[](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/ "Read More")
 
-Report Public Safety, Cities
+Issue Brief Health Serious Mental Illness
 
-Sep 26 2024
+Oct 03 2024
 
-Report Public Safety, Cities
+Issue Brief Health Serious Mental Illness
 
-Sep 26 2024
+Oct 03 2024
 
-### [The Perception of Crime Since 2020](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/) The Case of Chattanooga
+### [Mental Health Courts in an Era of Criminal Justice Reform](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
 
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
+By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **20 mins** [Read More](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/the-four-forces-that-have-shaped-the-subway-system.jpg)[](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/ "Read More")
 
