@@ -21,9 +21,9 @@ Expand navigation
     * [Protect against malware](https://securityinabox.org/en/phones-and-computers/malware)
     * [Protect your Android device](https://securityinabox.org/en/phones-and-computers/android)
     * [Protect your iOS device](https://securityinabox.org/en/phones-and-computers/ios)
-    * [Protect your Windows device](https://securityinabox.org/en/phones-and-computers/windows)
-    * [Protect your MacOS device](https://securityinabox.org/en/phones-and-computers/mac)
-    * [Protect your Linux device](https://securityinabox.org/en/phones-and-computers/linux)
+    * [Protect your Windows computer](https://securityinabox.org/en/phones-and-computers/windows)
+    * [Protect your Mac computer](https://securityinabox.org/en/phones-and-computers/mac)
+    * [Protect your Linux computer](https://securityinabox.org/en/phones-and-computers/linux)
     * [Related Tools](https://securityinabox.org/en/phones-and-computers/tools)
 
 * [Internet Connection](#)
