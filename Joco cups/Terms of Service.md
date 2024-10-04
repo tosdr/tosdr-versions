@@ -242,17 +242,17 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
-[Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/DAkX5rMynWo/) 
+[Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAkX5rMynWo/) 
 
-[Take your Zen wherever you go.. its simple, make t ![Take your Zen wherever you go.. its simple, make the change today #yoga #life #luxuries #17ozactiveflask #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/DAUd_B7yP4G/) 
+[Take your Zen wherever you go.. its simple, make t ![Take your Zen wherever you go.. its simple, make the change today #yoga #life #luxuries #17ozactiveflask #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAUd_B7yP4G/) 
 
-[Designed from leading knowledge, the Lux delivers ![Designed from leading knowledge, the Lux delivers the optimal drinking experience for lovers of a good brew #stackable #lux #6pack #coldbrew #filteredcoffee](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/DAHp2T-SWm9/) 
+[Designed from leading knowledge, the Lux delivers ![Designed from leading knowledge, the Lux delivers the optimal drinking experience for lovers of a good brew #stackable #lux #6pack #coldbrew #filteredcoffee](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAHp2T-SWm9/) 
 
-[Architecture for the perfect pour #luxglass #boros ![Architecture for the perfect pour #luxglass #borosilicateglass #6oz #whisky #Latte #tea](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/DACoeweyFvP/) 
+[Architecture for the perfect pour #luxglass #boros ![Architecture for the perfect pour #luxglass #borosilicateglass #6oz #whisky #Latte #tea](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DACoeweyFvP/) 
 
-[Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/DAASd1hSI7E/) 
+[Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAASd1hSI7E/) 
 
-[Fun Facts.. Did you know Leopard Spots Are Called ![Fun Facts.. Did you know Leopard Spots Are Called Rosettes #funfacts #velvertgripstraw #utilitycup #12oz #sandstone](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/jococups/p/C_cLYGbyC19/) 
+[Fun Facts.. Did you know Leopard Spots Are Called ![Fun Facts.. Did you know Leopard Spots Are Called Rosettes #funfacts #velvertgripstraw #utilitycup #12oz #sandstone](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_cLYGbyC19/) 
 
 Keep informed on new releases and subscriber exclusives
 
