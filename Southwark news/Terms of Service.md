@@ -19,6 +19,20 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+    
+    ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+    
+    [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
+    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+    
+    ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+    
+    [![Aldgate to Blackfriars cycleway.
+    Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-360x180.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+    
+    ### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+    
     [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
     ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
@@ -42,18 +56,6 @@
     [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
     ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
-    
-    [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-    
-    ### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-    
-    [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-    
-    ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +101,20 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+    
+    ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+    
+    [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
+    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+    
+    ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+    
+    [![Aldgate to Blackfriars cycleway.
+    Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-360x180.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+    
+    ### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+    
     [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
     ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
@@ -122,18 +138,6 @@ View All Result
     [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
     ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
-    
-    [![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    ### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-    
-    [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-    
-    ### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-    
-    [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-    
-    ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -234,6 +238,26 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+[![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
+CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+[4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+[![Aldgate to Blackfriars cycleway.
+Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-120x86.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+
+### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+
+[4th October 2024](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
+
 [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
 
 ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
@@ -251,24 +275,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [David Oyelowo is a powerful Coriolanus at the National Theatre](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
 
 [4th October 2024](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
-
-[![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-
-### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-
-[3rd October 2024](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/lin-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
-
-### [Neighbourhood has become ‘rat run’ for ‘hyena’ phone thieves who video their victims as ‘trophies’, say Rotherhithe residents](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
-
-[3rd October 2024](https://southwarknews.co.uk/area/rotherhithe/neighbourhood-has-become-rat-run-for-hyena-phone-thieves-who-video-their-victims-as-trophies-say-rotherhithe-residents/)
-
-[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-
-### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-
-[3rd October 2024](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
 
 ### USEFUL PAGES
 
