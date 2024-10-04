@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/van-schreeuw-naar-symfonie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-magische-gouden-ring/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
