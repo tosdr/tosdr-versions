@@ -320,7 +320,7 @@ United Kingdom
 
  [![](https://slowly.app/wp-content/themes/slowly/assets/img/ios-app-store.png)](https://itunes.apple.com/app/slowly/id1199811908?ls=1&mt=8)[![](https://slowly.app/wp-content/themes/slowly/assets/img/google-play.png)](https://play.google.com/store/apps/details?id=com.slowlyapp)
 
-[Home](https://slowly.app/) [Slowly Story](https://slowly.app/story/featured/) [Blog](https://slowly.app/blog/) [Release Notes](https://slowly.app/release-notes/) [Guidelines](https://slowly.app/community-guidelines/) [Safety Tips](https://slowly.app/safety-tips/) [Contact Us](https://slowly.app/contact-us/)
+[Home](https://slowly.app/) [Slowly Story](https://slowly.app/story/) [Blog](https://slowly.app/blog/) [Release Notes](https://slowly.app/release-notes/) [Guidelines](https://slowly.app/community-guidelines/) [Safety Tips](https://slowly.app/safety-tips/) [Contact Us](https://slowly.app/contact-us/)
 
 © 2024 Slowly Communications Ltd.    
 
