@@ -84,7 +84,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Dog Beds](https://www.mypillow.com/mypillow-for-pets)
 * [Clearance](https://www.mypillow.com/clearance-page)
 * [MyCoffee](https://www.mypillow.com/mycoffee-options)
-* [MyGummies](https://www.mypillow.com/mystore-gummies)
+* [MyGummies](https://www.mypillow.com/the-classic-collection/mystore-gummies)
 
 Get Even Lower Prices!
 
