@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+*  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
     
-    [Living](https://www.women.com/category/living/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
     
-    [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
-    ====================================================================================================================
+    [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    =====================================================================================================================================================================
     
-    While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
+    After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
     
-    By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
     
-* *  [![Princess Diana at event](https://www.women.com/img/gallery/princess-dianas-stunning-hair-transformation/intro-1727795663.jpg)](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-        
-        ### [Princess Diana's Stunning Hair Transformation](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-        
-        Princess Diana's hair told a story of the bashful bride, dutiful wife, happy mother, and later, a woman stepping into power and independence.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-        
-    *  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+* *  [![Brittany Mahomes on the red carpet](https://www.women.com/img/gallery/5-brittany-mahomes-outfits-that-totally-missed-the-mark/intro-1727737133.jpg)](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+        ### [5 Brittany Mahomes Outfits That Totally Missed The Mark](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
         
-        No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
+        Though Brittany Mahomes is known for sporting some great outfits on Game Day, there have been several occasions where her fashion choices raised some eyebrows.
         
-        By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+        By Emily Hutchinson [Read More](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+        
+    *  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        
+        ### [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+        
+        While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
         
 
 More Stories
 ------------
 
+*  [![Princess Diana at event](https://www.women.com/img/gallery/princess-dianas-stunning-hair-transformation/intro-1727795663.jpg)](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [Princess Diana's Stunning Hair Transformation](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
+    
+    Princess Diana's hair told a story of the bashful bride, dutiful wife, happy mother, and later, a woman stepping into power and independence.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
+    
 *  [![Eterneva on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-eterneva-diamonds-after-shark-tank/intro-1727801681.jpg)](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
     
     [Living](https://www.women.com/category/living/)
@@ -93,6 +105,18 @@ More Stories
     To make Eterneva Diamonds happen, Adelle Archer and Garrett Ozar needed help. So they took their business to Shark Tank.
     
     By Emily Hutchinson [Read More](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
+    
+*  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
+    
+    No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
     
 *  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
     
@@ -381,30 +405,6 @@ More Stories
     After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
     
     By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
-    
-*  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Princess Diana's '90s Bixie Is The Sophisticated Short Hairstyle Of Our Dreams](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
-    
-    Whether you're trying to find the perfect short cut or growing out a pixie, the bixie is a fun, reliable option. It's also Princess Diana approved.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
-    
-*  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
-    From lived-in eyeliner to clean, dewy skin, fall 2024's hottest makeup trends are all about keeping things extra low-key.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
     
 
 Back
