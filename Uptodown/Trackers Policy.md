@@ -3,7 +3,7 @@ Back to the previous page [![Download, discover, share](https://stc.utdstc.com/i
 Privacy Policy & Cookies
 ========================
 
-![](https://stc.utdstc.com/img/stats-ornament-down.svg)
+![ornament](https://stc.utdstc.com/img/stats-ornament-down.svg)
 
 Uptodown.com  
 Privacy and Cookies Policy
@@ -68,7 +68,7 @@ For further information about how to do this please visit [https://www.aboutcook
 
 ### Detailed information about our commonly used ad technology providers
 
-You can access [here](https://iabeurope.eu/vendor-list-tcf/) to an updated list of our ad technology providers.
+You can [access here](https://iabeurope.eu/vendor-list-tcf/) to an updated list of our ad technology providers.
 
 ### Additional information about the Uptodown and Uptodown Lite Android App
 
