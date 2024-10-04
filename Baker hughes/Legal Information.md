@@ -435,7 +435,7 @@ Select your language English日本語
                 
             * [Generator control and protection systems](https://www.bakerhughes.com/brush-power-generation/generator-control-and-protection-systems)
                 
-            * [Harrington Generators International (HGI)](https://www.bakerhughes.com/generators-synchronous-condensers-and-motors/harrington-generators-international-hgi)
+            * [Harrington Generators International (HGI)](https://www.bakerhughes.com/brush-power-generation/harrington-generators-international-hgi)
                 
             * [Mobile and trailer-mounted generators](https://www.bakerhughes.com/brush-power-generation/mobile-and-trailermounted-generators)
                 
@@ -1398,7 +1398,7 @@ Search
                 
             * [Generator control and protection systems](https://www.bakerhughes.com/brush-power-generation/generator-control-and-protection-systems)
                 
-            * [Harrington Generators International (HGI)](https://www.bakerhughes.com/generators-synchronous-condensers-and-motors/harrington-generators-international-hgi)
+            * [Harrington Generators International (HGI)](https://www.bakerhughes.com/brush-power-generation/harrington-generators-international-hgi)
                 
             * [Mobile and trailer-mounted generators](https://www.bakerhughes.com/brush-power-generation/mobile-and-trailermounted-generators)
                 
