@@ -31,6 +31,243 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Policía rescata a bebé que intentaba ser vendida por Internet
+=============================================================
+
+Los uniformados también ubicaron a presuntos implicados en extorsiones que realizaban por medio de mensajes por WhatsApp
+------------------------------------------------------------------------------------------------------------------------
+
+![Miembros de la Policía Nacional pusieron a buen recaudo a la menor.](https://www.elcomercio.com/wp-content/uploads/2024/10/Policia-rescate.jpg)
+
+La **Policía Nacional** informó sobre las labores investigativas que realiza en las diferentes provincias del Ecuador, en medio de la lucha contra el **crimen organizado**.
+
+### Más noticias
+
+* [Daniel Noboa decreta estado de excepción para Quito y seis provincias](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-decreta-estado-de-excepcion-quito-y-seis-provincias-camilo-ponce-enriquez.html "Daniel Noboa decreta estado de excepción para Quito y seis provincias")
+* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
+* [Así funciona el Pico y placa este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-viernes-4-de-octubre.html "Así funciona el Pico y placa este viernes 4 de octubre")
+
+Rescate a bebé de tres meses
+----------------------------
+
+La Policía dio a conocer una operación que ejecutó en conjunto con la **Fiscalía General del Estado** y con Our Rescue, quienes luchan **contra la explotación sexual y el tráfico infantil.**
+
+Mediante **diligencias investigativas** desarrolladas en Loja, los uniformados pudieron ubicar un inmueble al que ingresaron.
+
+En esa vivienda **hallaron a una infante de tres meses**, la cual habría sido ofertada por una alta cantidad de dinero. A la bebé **la intentaban vender a través de redes sociales**, lo cual se enmarca en el delito de trata de personas.
+
+La infante fue rescatada y puesta a buen recaudo, luego de verificar su estado de salud.
+
+La Fiscalía General del Estado informó este 4 de octubre de 2024, que el operativo se ejecutó por su pedido urgente a la Policía Nacional. Estas operaciones tenían como objetivo prevenir la venta de la bebé por su madre.
+
+También dio a conocer que la bebé se encuentra a salvo en una casa de acogida. La causa está en investigación previa.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw): mediante un acto urgente solicitado ayer por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), una niña –que se presume iba a ser vendida por parte de su madre– fue rescatada. La presunta víctima se encuentra en una casa de acogida. La causa está en investigación previa. [pic.twitter.com/LEEgdqcIv7](https://t.co/LEEgdqcIv7)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 4, 2024](https://twitter.com/FiscaliaEcuador/status/1842174201806889290?ref_src=twsrc%5Etfw)
+
+Policía capturó a extorsionadores
+---------------------------------
+
+La Policía Nacional ejecutó un operativo en la provincia de **Santo Domingo de los Tsáchilas,** en el que consiguió capturar a cuatro personas. Estos sujetos estarían involucrados en delitos de extorsión y habrían **exigido fuertes sumas de dinero** o pagos mensuales a varias víctimas.
+
+Estas personas **usaban WhatsApp** para hacer las amenazas. Por mensajes enviaban un video donde aducían pertenecer al grupo armado Mafia R.
+
+Este dinero se les pedía **a cambio de no atentar contra sus vidas** y brindarles seguridad.
+
+Cuando la Unase conoció de estos hechos delictivos solicitó boletas de detención en contra de los presuntos involucrados, quienes fueron ubicados y capturados.
+
+Las autoridades pusieron a los detenidos a órdenes de las autoridades competentes.
+
+> DETUVIMOS A 4 PRESUNTOS EXTORSIONADORES CON BOLETA DE CAPTURA  
+>   
+> En [#SDTsáchilas](https://twitter.com/hashtag/SDTs%C3%A1chilas?src=hash&ref_src=twsrc%5Etfw), la [#FuerzaInvestigaContraLaExtorsión](https://twitter.com/hashtag/FuerzaInvestigaContraLaExtorsi%C3%B3n?src=hash&ref_src=twsrc%5Etfw) ejecutó un operativo que permitió la captura de 4 sujetos, quienes habrían exigido fuertes sumas de dinero o pagos mensuales a varias víctimas, para no atentar… [pic.twitter.com/abgRqNTkfq](https://t.co/abgRqNTkfq)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 3, 2024](https://twitter.com/PoliciaEcuador/status/1841862967274418634?ref_src=twsrc%5Etfw)
+
+Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá
+========================================================================================
+
+Desde el comienzo de las hostilidades, los ataques de Israel han matado a casi 2 000 personas y han obligado a 1,2 millones a huir
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Un hombre revisa los edificios dañados en los suburbios de Beirut, tras los bombardeos de la madrugada de este 4 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/bombardeo-Beirut.jpg)
+
+Israel **bombardeó l**a madrugada de este viernes diversos objetivos en los suburbios meridionales de Beirut, donde la intensidad de los ataques hizo derrumbarse varios edificios, Además, la prensa hebrea asegura que **fue atacado** el candidato a líder del grupo chií Hezbolá, **Hashem Safi al Din.**
+
+### Más noticias
+
+* [Así funciona el Pico y placa este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-viernes-4-de-octubre.html "Así funciona el Pico y placa este viernes 4 de octubre")
+* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
+* [Daniel Noboa decreta estado de excepción para Quito y seis provincias](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-decreta-estado-de-excepcion-quito-y-seis-provincias-camilo-ponce-enriquez.html "Daniel Noboa decreta estado de excepción para Quito y seis provincias")
+
+Los ataques esta madrugada
+--------------------------
+
+La fuerte **oleada de bombardeos**, que resonaron por toda la capital, provocaron el derrumbe de una **comisaría de Policía** y un supermercado. Otros inmuebles se afectaron en el extrarradio capitalino del Dahye, un importante bastión de **Hezbolá**, informó la Agencia Nacional de Noticias del Líbano (ANN).
+
+Según el medio estatal, la aviación israelí utilizó durante la campaña **bombas de vacío** y antibúnker, y también alcanzó otros puntos de las afueras de Beirut fuera del Dahye.
+
+Por su parte, el diario **The Times of Israel** aseguró que uno de los objetivos era el clérigo Hashem Safi al Din, probable sucesor del máximo líder de **Hezbolá**, **Hasán Nasrala**, muerto hace una semana en un bombardeo israelí contra una sede subterránea de la formación en los mismos suburbios.
+
+Según el periódico israelí **Haaretz**, entre los objetivos de los **ataques de esta madrugada** estuvo de nuevo un búnker de **Hezbolá** utilizado por altos funcionarios.
+
+Israel y **Hezbolá** llevan enfrentados desde el inicio de la guerra en la **Franja de Gaza** en octubre de 2023, pero **la violencia aumentó** a un nivel sin precedentes hace unos diez días, cuando las fuerzas israelíes iniciaron una campaña de bombardeos masiva que ha arrasado localidades y pueblos enteros.
+
+En este contexto, desde hace una semana, **el Dahye es objetivo** de intensas olas de ataques aéreos prácticamente a diario.
+
+Desde el comienzo de las hostilidades, los ataques de Israel **han matado a casi 2 000 personas** y han obligado a 1,2 millones a abandonar sus hogares, principalmente en el sur y el este del país [mediterráneo](https://es.wikipedia.org/wiki/Israel "https://es.wikipedia.org/wiki/Israel").
+
+Así funciona el Pico y placa este viernes 4 de octubre
+======================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos se encuentran en las intersecciones de la ciudad gestionando el tráfico.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-p.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para gestionar el tránsito de la ciudad en las **horas pico.**
+
+Esta medida excluye a los **autos conducidos por personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
+* [Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-de-cortes-de-luz-reducidos-en-cuenca-este-viernes-4-de-octubre.html "Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre")
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de lunes a viernes. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+-------------------------------------
+
+En la mañana: de 06:00 a 09:30  
+En la tarde: de 16:00 a 20:00
+
+El Pico y placa es una medida que **ha sido implementada e**n diversas ciudades alrededor del mundo como respuesta a los desafíos de la urbanización y el aumento del tránsito vehicular.
+
+Este **viernes**, no pueden circular las **placas terminadas en 9 y 0.**
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+El Pico y placa podría modificarse
+----------------------------------
+
+El **Concejo Metropolitano de Quito** debatió cambiar las **medidas sancionatorias** por Pico y placa el martes 27 de agosto de 2024.
+
+El Municipio de Quito quiere **aumentar las sanciones económicas** y eliminar la retención del vehículo de las personas que incumplan la medida del Pico y placa.
+
+Esto, con la intención de reducir los trámites burocráticos que realizan los infractores y eliminar el uso de winchas, **que provocan más gastos**, según dijo la vicepresidenta de la Comisión de Movilidad, María Cristina López.
+
+De este modo, los ciudadanos que **infrinjan por primera vez** la medida del Pico y placa deberán pagar una multa equivalente al 25% del salario básico unificado y ya no el 15%, como está estipulado en la actualidad.
+
+Los que incurran por segunda vez en l**a infracción deberán pagar una multa** del 35% del salario básico unificado. La sanción por tercera vez se mantiene en el **50% del salario básico [unificado](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/MHkD90czuF](https://t.co/MHkD90czuF)
+> 
+> — AMTQuito (@AMT\_Quito) [September 6, 2024](https://twitter.com/AMT_Quito/status/1831995616592855243?ref_src=twsrc%5Etfw)
+
+¿Qué es y cuándo ocurre el ‘cordonazo de San Francisco’? 
+=========================================================
+
+El ‘cordonazo de San Francisco’ marca el inicio de la temporada lluviosa.
+-------------------------------------------------------------------------
+
+![San Francisco de Asís, quien dejó su carrera militar para convertirse en una figura emblemática del catolicismo. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo.jpg)
+
+Según la **creencia popular católica**, en los primeros días de octubre, **San Francisco suelta el cordón** de su sotana y **golpea las nubes del cielo quiteño para que la lluvia caiga** sobre la capital y **marque el final del verano**.  
+
+### Más noticias
+
+* [El ‘cordonazo’ de San Francisco tendrá este clima en Quito](https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html "https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html")
+* [¿El aguacero que cayó sobre Quito el lunes 19 de octubre fue el cordonazo de San Francisco?](https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html "https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html")
+
+**Esta fecha coincide con el inicio del invierno en Quito**, así que cuando las lluvias son intensas, la gente dice que es el ‘cordonazo de San Francisco’. 
+
+**Celebración del San Francisco** 
+----------------------------------
+
+Para que se considere un **‘cordonazo’**, debe coincidir con la **celebración de San Francisco de Asís**, el 4 de octubre. 
+
+**San Francisco de Asís** es una figura emblemática en la historia del catolicismo. Según [El Tiempo](https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia "https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia"), nació en el seno de una **familia acomodada**. A los 20 años, tomó una decisión importante y se unió al ejército, al buscar una carrera militar. Sin embargo, su vida dio un giro radical y lo llevó al camino de la fe y la santidad.  
+
+**Patrón de los animales** 
+---------------------------
+
+**San Francisco es conocido como el patrón de los animales y los veterinarios**. Fundó la **orden franciscana**, que promueve valores como la pobreza y la sencillez. Este enfoque espiritual ha resonado a lo largo de los siglos y sigue como inspiración de millones. 
+
+**Legado y conexión con la naturaleza** 
+----------------------------------------
+
+Su legado es significativo. La **orden franciscana se ha expandido y adaptado a diferentes contextos a nivel mundial**. Los principios que San Francisco defendió perduran, se destaca la **conexión entre la humanidad y la naturaleza**. 
+
+**Cambio de clima en Ecuador** 
+-------------------------------
+
+Los **fenómenos meteorológicos** marcan el fin de la **estación seca** y el inicio de la **estación lluviosa** en Ecuador. De acuerdo con [El Universal](https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco "https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco"), esta transición suele ser abrupta. **Las lluvias tienden a intensificarse cerca del equinoccio de septiembre**. 
+
+**Preparación ante las lluvias** 
+---------------------------------
+
+Es importante estar preparado para las lluvias intensas. Los **pronósticos meteorológicos** pueden ayudar a **anticipar estos eventos**. Sin embargo, siempre existe un grado de incertidumbre. La **variabilidad del clima** hace que cada año resulte diferente. 
+
+**Inicio de la temporada lluviosa** 
+------------------------------------
+
+**Las lluvias han comenzado en Quito** después de un **periodo de seco**. Este **cambio de clima** se lo empezó a sentir con intensidad el jueves 26 de septiembre.  
+
+Según el **[Instituto Nacional de Meteorología e Hidrología](https://servicios.inamhi.gob.ec/clima/ "https://servicios.inamhi.gob.ec/clima/") (Inamhi)**, se prevé un **aumento en las precipitaciones para octubre**. Este incremento es notable en comparación con agosto y septiembre. 
+
+![Foto: Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo-1-1024x683.jpg)
+
+Foto: Inamhi.
+
+**Posibilidad del ‘cordonazo’** 
+--------------------------------
+
+La **transición de la época seca a la época lluviosa** está en marcha. Este fenómeno puede indicar la posibilidad de experimentar el ‘cordonazo de San Francisco’.  
+
+Los **boletines meteorológicos del Inamhi** ofrecen información actualizada. Es fundamental estar **al tanto de las predicciones** para prepararse adecuadamente. Las lluvias intensas pueden afectar las actividades cotidianas en la capital. 
+
+México gobernado por una mujer
+==============================
+
+Claudia Sheinbaum será la primera mujer presidenta de México, enfrentando retos como la migración y la delincuencia.
+--------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+
+El segundo país más poblado de **Latinoamérica**, que de manera estereotipada siempre nos ha sido mostrado como un **país** machista, en el que los desencuentros o disputas se solucionan a lo “…mero macho”, esto es a las **trompadas** o con **pistolones** portados al cinto, tendrá una **mujer presidenta** que gobernará hasta el 2030.  Con sus casi 2 millones de kilómetros cuadrados es el tercer país más grande de **Latinoamérica**, con **fronteras** con **Estados** Unidos en el norte y **Guatemala** y Belice en el sur. 
+
+En su territorio actual, más otros, se asentó el **Virreinato** más extenso de los cuatro que implantó la **corona española**, con el nombre de **Nueva España**.
+
+**México** es un país muy orgulloso de sus **ancestros**, pues su **población** es mayoritariamente aborigen. Desde 1810, con el llamado “grito de Morelia”, el país se dividió en dos campos. Los **conservadores** querían un **estado central** fuerte, y quizás una **monarquía**, y apoyaron a la **iglesia**. Los **liberales** querían un **Estado federal** y eran **anticlericales**.   
+
+Convulsión tras **convulsión**, figuras prominentes como Benito Juárez, Porfirio Díaz, Francisco Madero, Pascual Orozco, Francisco Pancho Villa, Emiliano Zapata y Venustiano Carranza, entre otros, con graves fracturas y **enfrentamientos** de por medio, lograron entre 1870 y 1920, dar forma a lo que es México hoy.   En 1917, se redacta una nueva **Constitución**, en la que la **iglesia** y el **estado** son separados y la **educación religiosa** es abolida.
+
+En la década de 1930 se implementa una profunda reforma agraria. Luego, en 1938, el presidente Cárdenas nacionaliza la **industria** **petrolera**. Mientras tanto, en 1929 se forma el **Partido Revolucionario** Institucional (PRI), que gobierna de manera singular y amañada, durante diez sexenios consecutivos entre 1946 y el 2000, en que triunfa Vicente Fox candidato del Partido Acción Nacional (PAN), agrupación que gobierna dos periodos, para después regresar el PRI por un **periodo** adicional.
+
+En el 2018 triunfa Morena, partido de clara **tendencia progresista** que asume el poder en la persona de Andrés Manuel López Obrador (AMLO), figura de profunda raigambre popular que deja el poder con un 70% de **apoyo popular**, algo bastante inédito, dado que el **crecimiento económico** del país ha sido magro, y la tasa de **criminalidad** llega a cifras espeluznantes.  Los **analistas** atribuyen su **popularidad** a su carisma, simpleza en el **lenguaje** y formas, vida muy **austera**, probidad comprobada, eliminación de toda **pompa presidencial** y lenguaje directo y franco con sus **electores** a través de sus habituales mañaneras diarias.
+
+Será subrogado por la **primera mujer** en ser **presidenta** de **México**.  Se trata de la Física, Claudia Sheinbaum, que a los 61 años asumirá la **conducción política** de este país, que por razones explicables ha debido ocuparse más de sus relaciones con Estados Unidos, su **vecino fronterizo**, que con el resto del continente.
+
+Fue la **candidata** de la coalición “Sigamos Haciendo Historia”, formada por el partido Morena, el Partido del Trabajo (PT) y el Partido Verde Ecologista de México (PVEM).  Ella, se define a sí misma como una “**humanista**”.
+
+**Sheinbaum** no es ajena a la **política**. Antes de su **candidatura presidencial**, fue la primera mujer electa como jefa de Gobierno de Ciudad de México. Debe advertirse que no será un sexenio exento de **problemas** internos y externos, cuando su vecino del norte presiona para que se frene la desbocada **migración** que proviene de todo el mundo a través de **territorio** **mexicano**, y cuando la **globalización** tiende a desaparecer mientras las **barreras arancelarias** vuelven a imponerse.  Todo ello, mientras la **delincuencia** y el **narcotráfico** ganan terreno día a día y tienen a las **autoridades mexicanas** contra las cuerdas.
+
 Crisis en el sector energético (parte 3)   
 ===========================================
 
@@ -62,56 +299,6 @@ Las **empresas eléctricas**, tanto de generación, transmisión y distribución
 ¿Por qué el **sector público**, que según reza la **Constitución**, debe ser transparente y con la lógica de que pertenece a todos los que vivimos en el **territorio ecuatoriano**, no se lo cumple apropiadamente? Un **decreto presidencial** podría solucionar esto exigiendo y obligándoles que cumplan en el cierre del ejercicio 2024 y en adelante.
 
 Dado los vertiginosos cambios que se vienen en la **transformación energética** y para el cumplimiento de los **compromisos internacionales** el plan maestro de **electricidad** debería estar publicado en línea y actualizado mensualmente en cuanto al cálculo de la demanda actual y estimación a **futuro** dentro de los múltiples escenarios posibles; así como información sobre la **oferta** de **energía** e indicación tentativa de las fechas de **entrada** en **servicios** de las plantas sean estas con **financiación pública** o **privada**.
-
-México gobernado por una mujer
-==============================
-
-Claudia Sheinbaum será la primera mujer presidenta de México, enfrentando retos como la migración y la delincuencia.
---------------------------------------------------------------------------------------------------------------------
-
-![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
-
-El segundo país más poblado de **Latinoamérica**, que de manera estereotipada siempre nos ha sido mostrado como un **país** machista, en el que los desencuentros o disputas se solucionan a lo “…mero macho”, esto es a las **trompadas** o con **pistolones** portados al cinto, tendrá una **mujer presidenta** que gobernará hasta el 2030.  Con sus casi 2 millones de kilómetros cuadrados es el tercer país más grande de **Latinoamérica**, con **fronteras** con **Estados** Unidos en el norte y **Guatemala** y Belice en el sur. 
-
-En su territorio actual, más otros, se asentó el **Virreinato** más extenso de los cuatro que implantó la **corona española**, con el nombre de **Nueva España**.
-
-**México** es un país muy orgulloso de sus **ancestros**, pues su **población** es mayoritariamente aborigen. Desde 1810, con el llamado “grito de Morelia”, el país se dividió en dos campos. Los **conservadores** querían un **estado central** fuerte, y quizás una **monarquía**, y apoyaron a la **iglesia**. Los **liberales** querían un **Estado federal** y eran **anticlericales**.   
-
-Convulsión tras **convulsión**, figuras prominentes como Benito Juárez, Porfirio Díaz, Francisco Madero, Pascual Orozco, Francisco Pancho Villa, Emiliano Zapata y Venustiano Carranza, entre otros, con graves fracturas y **enfrentamientos** de por medio, lograron entre 1870 y 1920, dar forma a lo que es México hoy.   En 1917, se redacta una nueva **Constitución**, en la que la **iglesia** y el **estado** son separados y la **educación religiosa** es abolida.
-
-En la década de 1930 se implementa una profunda reforma agraria. Luego, en 1938, el presidente Cárdenas nacionaliza la **industria** **petrolera**. Mientras tanto, en 1929 se forma el **Partido Revolucionario** Institucional (PRI), que gobierna de manera singular y amañada, durante diez sexenios consecutivos entre 1946 y el 2000, en que triunfa Vicente Fox candidato del Partido Acción Nacional (PAN), agrupación que gobierna dos periodos, para después regresar el PRI por un **periodo** adicional.
-
-En el 2018 triunfa Morena, partido de clara **tendencia progresista** que asume el poder en la persona de Andrés Manuel López Obrador (AMLO), figura de profunda raigambre popular que deja el poder con un 70% de **apoyo popular**, algo bastante inédito, dado que el **crecimiento económico** del país ha sido magro, y la tasa de **criminalidad** llega a cifras espeluznantes.  Los **analistas** atribuyen su **popularidad** a su carisma, simpleza en el **lenguaje** y formas, vida muy **austera**, probidad comprobada, eliminación de toda **pompa presidencial** y lenguaje directo y franco con sus **electores** a través de sus habituales mañaneras diarias.
-
-Será subrogado por la **primera mujer** en ser **presidenta** de **México**.  Se trata de la Física, Claudia Sheinbaum, que a los 61 años asumirá la **conducción política** de este país, que por razones explicables ha debido ocuparse más de sus relaciones con Estados Unidos, su **vecino fronterizo**, que con el resto del continente.
-
-Fue la **candidata** de la coalición “Sigamos Haciendo Historia”, formada por el partido Morena, el Partido del Trabajo (PT) y el Partido Verde Ecologista de México (PVEM).  Ella, se define a sí misma como una “**humanista**”.
-
-**Sheinbaum** no es ajena a la **política**. Antes de su **candidatura presidencial**, fue la primera mujer electa como jefa de Gobierno de Ciudad de México. Debe advertirse que no será un sexenio exento de **problemas** internos y externos, cuando su vecino del norte presiona para que se frene la desbocada **migración** que proviene de todo el mundo a través de **territorio** **mexicano**, y cuando la **globalización** tiende a desaparecer mientras las **barreras arancelarias** vuelven a imponerse.  Todo ello, mientras la **delincuencia** y el **narcotráfico** ganan terreno día a día y tienen a las **autoridades mexicanas** contra las cuerdas.
-
-Existe un desafío urgente: combatir la desinformación
-=====================================================
-
-Enfrentar la desinformación es esencial para proteger la democracia y el bienestar social en épocas de crisis y elecciones.
----------------------------------------------------------------------------------------------------------------------------
-
-![La lucha contra la desinformación es esencial para proteger la democracia durante campañas electorales críticas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Desinformacion.jpg)
-
-La tarea no es sencilla. La tecnología digital hace que cada vez sea más difícil reconocer la información falsa. Sin embargo, también la misma tecnología pone sobre la mesa herramientas para combatirla.
-
-> La desinformación se ha convertido en un fenómeno omnipresente que afecta a sociedades de todo el mundo, especialmente durante épocas de emergencia, inseguridad y campañas electorales.
-
-En Ecuador, con la cercanía de las elecciones, el riesgo de que políticos y sus asesores utilicen estrategias engañosas para confundir a los votantes es alarmante. Este escenario no es nuevo; se ha visto cómo en otras partes del mundo, como durante la campaña de **Donald Trump en Estados Unidos**, las tácticas de desinformación han polarizado a la sociedad y socavado la confianza en las instituciones democráticas.
-
-Las campañas de desinformación son una grave amenaza para la seguridad y la estabilidad democrática. Según el **Informe Anual de Seguridad Nacional de España**, estas campañas buscan crear desconfianza en los procesos electorales y en las instituciones. En Ecuador, el contexto electoral se vuelve propicio para que actores políticos utilicen tácticas engañosas, amplificadas por redes sociales que permiten la rápida difusión de información falsa.
-
-La educación juega un papel fundamental en la lucha contra la desinformación. Es vital fomentar una cultura crítica entre los ciudadanos, enseñándoles a **identificar fuentes confiables** y a cuestionar información dudosa. Durante situaciones de emergencia, como las que últimamente ha vivido el país, o campañas electorales, se deben implementar programas educativos que capaciten a las personas sobre cómo discernir entre hechos y falsedades.
-
-La lucha contra la desinformación requiere un enfoque colaborativo entre gobiernos, organizaciones no gubernamentales (ONG) y plataformas digitales. La creación de alianzas estratégicas puede facilitar el desarrollo de herramientas efectivas para detectar y desmantelar campañas engañosas. Por ejemplo, el **Departamento de Seguridad Nacional en España** activó redes de coordinación para combatir este fenómeno durante procesos electorales.
-
-En Ecuador, el panorama electoral se complica aún más por el uso creciente de bots y cuentas falsas que amplifican mensajes engañosos. Estas tácticas están diseñadas para crear confusión e incertidumbre entre los votantes. Es crucial que los ciudadanos sean conscientes de estas estrategias para poder identificarlas y rechazarlas.
-
-La lucha contra la desinformación es un desafío urgente que requiere un esfuerzo conjunto de toda la sociedad, incluidos los medios de comunicación. En Ecuador, con las elecciones a la vista, es fundamental que tanto ciudadanos como instituciones adopten un enfoque proactivo basado en hechos claros y accesibles. Solo así podremos proteger nuestra democracia y asegurar que cada votante esté debidamente informado al momento de emitir su voto. **Los políticos y sus partidos políticos también deben actuar con responsabilidad de cara al futuro.**
 
 Cartas a Quito / 4 de octubre de 2024
 =====================================
@@ -156,8 +343,32 @@ También debe dar prioridad a los territorios rurales, incluir a las poblaciones
 
 **_Manuel Otero_**, **_Director General del Instituto Interamericano de Cooperación para la Agricultura (IICA)_**
 
-Cortes de luz se reducen gracias a Coca Codo Sinclair, ¿por qué?
-================================================================
+Existe un desafío urgente: combatir la desinformación
+=====================================================
+
+Enfrentar la desinformación es esencial para proteger la democracia y el bienestar social en épocas de crisis y elecciones.
+---------------------------------------------------------------------------------------------------------------------------
+
+![La lucha contra la desinformación es esencial para proteger la democracia durante campañas electorales críticas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Desinformacion.jpg)
+
+La tarea no es sencilla. La tecnología digital hace que cada vez sea más difícil reconocer la información falsa. Sin embargo, también la misma tecnología pone sobre la mesa herramientas para combatirla.
+
+> La desinformación se ha convertido en un fenómeno omnipresente que afecta a sociedades de todo el mundo, especialmente durante épocas de emergencia, inseguridad y campañas electorales.
+
+En Ecuador, con la cercanía de las elecciones, el riesgo de que políticos y sus asesores utilicen estrategias engañosas para confundir a los votantes es alarmante. Este escenario no es nuevo; se ha visto cómo en otras partes del mundo, como durante la campaña de **Donald Trump en Estados Unidos**, las tácticas de desinformación han polarizado a la sociedad y socavado la confianza en las instituciones democráticas.
+
+Las campañas de desinformación son una grave amenaza para la seguridad y la estabilidad democrática. Según el **Informe Anual de Seguridad Nacional de España**, estas campañas buscan crear desconfianza en los procesos electorales y en las instituciones. En Ecuador, el contexto electoral se vuelve propicio para que actores políticos utilicen tácticas engañosas, amplificadas por redes sociales que permiten la rápida difusión de información falsa.
+
+La educación juega un papel fundamental en la lucha contra la desinformación. Es vital fomentar una cultura crítica entre los ciudadanos, enseñándoles a **identificar fuentes confiables** y a cuestionar información dudosa. Durante situaciones de emergencia, como las que últimamente ha vivido el país, o campañas electorales, se deben implementar programas educativos que capaciten a las personas sobre cómo discernir entre hechos y falsedades.
+
+La lucha contra la desinformación requiere un enfoque colaborativo entre gobiernos, organizaciones no gubernamentales (ONG) y plataformas digitales. La creación de alianzas estratégicas puede facilitar el desarrollo de herramientas efectivas para detectar y desmantelar campañas engañosas. Por ejemplo, el **Departamento de Seguridad Nacional en España** activó redes de coordinación para combatir este fenómeno durante procesos electorales.
+
+En Ecuador, el panorama electoral se complica aún más por el uso creciente de bots y cuentas falsas que amplifican mensajes engañosos. Estas tácticas están diseñadas para crear confusión e incertidumbre entre los votantes. Es crucial que los ciudadanos sean conscientes de estas estrategias para poder identificarlas y rechazarlas.
+
+La lucha contra la desinformación es un desafío urgente que requiere un esfuerzo conjunto de toda la sociedad, incluidos los medios de comunicación. En Ecuador, con las elecciones a la vista, es fundamental que tanto ciudadanos como instituciones adopten un enfoque proactivo basado en hechos claros y accesibles. Solo así podremos proteger nuestra democracia y asegurar que cada votante esté debidamente informado al momento de emitir su voto. **Los políticos y sus partidos políticos también deben actuar con responsabilidad de cara al futuro.**
+
+Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?
+==========================================================
 
 La hidroeléctrica Coca Codo Sinclair, con una capacidad instalada de 1 500 megavatios (MW), opera al 59% de su capacidad.
 -------------------------------------------------------------------------------------------------------------------------
@@ -669,215 +880,3 @@ Los horarios establecidos por Centrosur para la Cuenca establece cortes hasta de
 Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora.
 
 Estos son los horarios de los cortes de luz para Cuenca por sector:
-
-  
-
-  
-  
-
-Eminem es el abuelo del año
-===========================
-
-El talentoso artista se convirtió en abuelo a los 51 años.
-----------------------------------------------------------
-
-![Eminem es un rapero, productor y actor estadounidense. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T181519.621.jpg)
-
-El legendario rapero **Eminem**, conocido por su estilo único y letras impactantes, anunció que se convertirá en abuelo.
-
-La noticia fue revelada a través de su nuevo video musical para la canción **Temporary**. Ahí dedica un emotivo tributo a su hija **Hailie Jade**, quien está esperando su primer hijo.
-
-### Más noticias:
-
-* [Fans de Chayanne, a favor y en contra de su baile bachatero](https://www.elcomercio.com/tendencias/entretenimiento/chayanne-fans-baile-bachata-tour.html "https://www.elcomercio.com/tendencias/entretenimiento/chayanne-fans-baile-bachata-tour.html")
-* [Juanes regresa a Ecuador luego de cinco años de ausencia](https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html?source=Internal&ref=Single+Content+Link")
-* [¿Por qué gusta tanto el grupo Aventura en Ecuador?](https://www.elcomercio.com/tendencias/entretenimiento/aventura-grupo-bachata-concierto-romeo-santos.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/aventura-grupo-bachata-concierto-romeo-santos.html?source=Internal&ref=Single+Content+Link")
-
-**Eminem es el abuelo del año**
--------------------------------
-
-**Eminem**, cuyo nombre real es **Marshall Bruce Mathers III**, es una figura prominente en la industria musical desde finales de los años 90.
-
-Con éxitos como Lose Yourself, Stan y Without Me, ha vendido millones de discos en todo el mundo y ha ganado numerosos premios, incluidos varios Grammy.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAq2ul-ytRL/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Marshall Mathers (@eminem)](https://www.instagram.com/reel/DAq2ul-ytRL/?utm_source=ig_embed&utm_campaign=loading)
-
-Su carrera ha estado marcada por su **habilidad** para abordar **temas personales** y sociales con una franqueza brutal.
-
-**¿Quién es la hija de Eminem?**
---------------------------------
-
-Hailie Jade, de 28 años, es la hija de Eminem con su exesposa Kim Scott. A lo largo de los años, Hailie ha mantenido una presencia discreta en los medios, aunque ha ganado popularidad como influencer en redes sociales.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DArEmQPJLUq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Hailie Jade (@hailiejade)](https://www.instagram.com/p/DArEmQPJLUq/?utm_source=ig_embed&utm_campaign=loading)
-
-Eminem ha mencionado a Hailie en varias de sus canciones. La noticia de su embarazo fue recibida con entusiasmo por los seguidores del rapero, quienes han mirado de cerca la relación entre padre e hija a lo largo de los años.
-
-Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo
-========================================================================
-
-El Chelsea es uno de los máximos candidatos a ganar la Conference League.
--------------------------------------------------------------------------
-
-![Christopher Nkunku, compañero de Moisés Caicedo, en el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T175259.424.jpg)
-
-El **Chelsea** comenzó con el pie derecho su participación en la fase de liga de la Conference League al vencer 4-2 al Genk de Bélgica.
-
-El conjunto londinense, que no contó con **Moisés Caicedo** debido a que tuvo descanso, mostró su poder ofensivo en una sólida actuación.
-
-### Más noticias:
-
-* [Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/chelsea-kendry-paez-mundial-clubes.html "Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes")
-* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
-* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
-
-El conjunto de Enzo Maresca debutó frente a un débil Gent y con un once de habituales suplentes.
-
-Así, **Joao Félix**, Christopher Nkunku, Pedro Neto y Mikhailo Mudryk, entre otros, se divirtieron ante el Gent, un equipo que, como el resto de la competición, está muy lejos del nivel de los de Stamford Bridge.
-
-Contundente triunfo con un equipo suplente
-------------------------------------------
-
-Con esta superioridad -la plantilla del **Chelsea** vale más que la de todos los demás combinados-, los ingleses pasaron la apisonadora en la primera parte, pero con un único gol que nació de las botas de Kiernan Dewsbury-Hall.
-
-El centrocampista inglés filtró una pelota entre las demasiado separadas líneas del Gent y **Mudryk**, puso un centro desde la línea de fondo directo a la cabeza de Renato Veiga. El portugués, que en lugar de lateral se transformó en delantero, la picó a la red.
-
-Con 1-0, Andri Gudjohnsen, el hijo del mítico Eidur ex de **Chelsea** y Barcelona, pudo dejar la marca en el mismo lugar que su padre, pero su volea en el área, sin mucho ángulo, se fue demasiado arriba.
-
-Desde esa misma posición y nada más comenzar la segunda parte, el que **no falló fue Pedro Neto.** El portugués recibió la ayuda de Tsuyoshi Watanabe, demasiado blando en la brega, y pudo fusilar al meta del Gent.
-
-El japonés, sin embargo, se desquitó minutos después al rematar de cabeza el 2-1 que acercaba a los belgas en el marcador. Un tanto que llevó a los miles de aficionados belgas desplazados a elevar sus teléfonos al aire con la linterna activa, en forma de celebración.
-
-Cuando **Nkunku** marcó el 3-1 y dejó esto visto para sentencia, la afición ‘Blue’, tradicionalmente de las más flojas de la Premier, respondió con el mismo gesto, teléfonos al aire y burla a los belgas, que no se tomaron nada bien la broma. Parte de su afición comenzó a lanzar plásticos y bebidas a los ingleses, por suerte sin mayores consecuencias.
-
-Dewsbury-Hall, con su primer gol con el **Chelsea**, redondeó la noche y el 4-1, antes de Omri Gandelman acortará distancias ya sin tiempo para más. El Chelsea se coloca cuarto en la clasificación de la Conference League, con cinco triunfos en los últimos cinco partidos entre todas las competiciones.
-
-¿Qué equipo tiene más hinchas en Quito?
-=======================================
-
-Quito ha sido históricamente el corazón del fútbol ecuatoriano, albergando a algunos de los clubes más importantes del país.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Foto de hinchas de Liga de Quito en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152834.322.jpg)
-
-Aunque la **LigaPro** reparte sus equipos en siete de las 24 provincias del Ecuador, la capital está representada por seis clubes, cuatro de ellos con tradición: **Liga de Quito**, **El Nacional**, **Aucas**, y **Universidad Católica**. Además, **Independiente del Valle** se suma desde el cantón Rumiñahui y **Cumbayá FC**, que aún no tiene una hinchada significativa.
-
-Sin embargo, no todos estos equipos capitalinos son los más populares en Quito. La influencia de clubes de otras provincias, en particular **Barcelona SC** de Guayas, también se siente fuertemente en la ciudad.
-
-### Más noticias:
-
-* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
-* [Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC](https://www.elcomercio.com/deportes/alex-aguinaga-ariel-holan-barcelona-sc.html "Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC")
-* [El Nacional eliminó a Liga de Quito de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-resultado-copa-ecuador.html "El Nacional eliminó a Liga de Quito de la Copa Ecuador")
-
-¿Qué equipo tiene más hinchas en la capital?
---------------------------------------------
-
-Históricamente, los cuatro clubes con más hinchas en el Ecuador son **Barcelona SC**, **Liga de Quito**, **El Nacional**, y **Emelec**. Sin embargo, en la capital, el orden cambia.
-
-Barcelona SC que es el equipo con más seguidores a nivel nacional, en Quito el primer lugar lo ocupa **Liga de Quito**, un club que ha consolidado su hinchada a partir de sus éxitos en la década de los noventa y en este siglo.
-
-Aunque no existe un conteo exacto del número de hinchas por equipo, se puede medir la asistencia promedio a los partidos durante la primera etapa de la **LigaPro 2024** para dar una idea de cuál es el equipo que más aficionados lleva a los estadios.
-
-Liga de Quito, el equipo con más hinchas en Quito
--------------------------------------------------
-
-De acuerdo con datos del estadista **Juan Carlos Padilla**, Liga de Quito es el club que más hinchas llevó a su estadio en la primera etapa de la LigaPro 2024, solo en la capital.
-
-En siete partidos disputados en el **Rodrigo Paz Delgado**, el club atrajo a más de **50,000 hinchas,** con un promedio de **7,142** aficionados por partido, sin contar a los **5,000 abonados**. Esto eleva el promedio a casi **12,000 hinchas** por cotejo.
-
-A pesar de que la ‘U’ no jugó partidos muy atractivos en casa durante esa etapa, salvo el duelo contra **Emelec**, sigue siendo el equipo que más hinchas moviliza en Quito.
-
-![Foto de hinchas de Liga de Quito en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T153318.373-1024x683.jpg)
-
-Barcelona SC tiene una gran fuerza en la capital
-------------------------------------------------
-
-Pese a ser un equipo de Guayaquil, **Barcelona SC** cuenta con una gran cantidad de aficionados en Quito.
-
-En los tres partidos que jugó en la capital durante la primera etapa, frente a **Independiente del Valle**, **Universidad Católica**, y **Cumbayá FC**, Barcelona atrajo a **16,000 aficionados** en los partidos contra Cumbayá y Católica, y en el duelo frente a IDV se vendieron **7,000 boletos**, la mitad de los cuales aproximadamente fueron para hinchas toreros.
-
-Esto da un promedio de casi **7,000 hinchas** por partido en Quito, una cifra sorprendente para un equipo cuyo estadio está a más de 400 km de distancia.
-
-![Foto de hinchas de Barcelona SC en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152906.654-1024x683.jpg)
-
-El Nacional se mantiene en el tiempo
-------------------------------------
-
-**El Nacional** también tiene una afición importante en Quito. Según las estadísticas de Padilla, el equipo vendió casi **57,000 boletos** en los siete partidos que jugó en casa durante la primera etapa de la LigaPro.
-
-Uno de esos partidos, el clásico frente a Liga de Quito, fue el más concurrido, con **22,000 entradas vendidas**, aunque se estima que solo **15,000** fueron para hinchas del ‘Rojo’. En promedio, El Nacional llevó **6,800 hinchas** por partido.
-
-![Foto de hinchas de El Nacional en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152845.334-1024x683.jpg)
-
-Independiente del Valle está en crecimiento
--------------------------------------------
-
-**Independiente del Valle**, aunque aún está lejos de los números de los otros equipos capitalinos, ha ido creciendo gracias a sus éxitos recientes.
-
-En la primera etapa, el club vendió **16,470 boletos** en sus partidos como local, que fueron ocho. Sin embargo, casi 13,000 de esas entradas fueron en los partidos frente a Liga de Quito y Barcelona SC, por lo que se estima que el promedio de hinchas propios es de **1,100 por partido**.
-
-![Foto de hinchas de Independiente del Valle en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152913.916-1024x683.jpg)
-
-Foto de hinchas de Independiente del Valle en un partido de la Liga Pro.
-
-Deportivo Quito, un caso especial
----------------------------------
-
-Aunque el **Deportivo Quito** juega actualmente en la Segunda Categoría, su hinchada sigue siendo fiel.
-
-En un partido reciente por los 32 avos de final, el club metió a **10,000 hinchas** en el estadio de Independiente del Valle, lo que demuestra que, a pesar de estar en las divisiones inferiores, sigue teniendo una base de seguidores sólida.
-
-![Hinchas del Deportivo Quito en la Segunda Categoría de Pichincha en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_rival_1-1024x683.jpg)
-
-¿Quién tiene más hinchas en Quito?
-----------------------------------
-
-Basándonos en los boletos vendidos y la asistencia promedio, **Liga de Quito** es el equipo con más hinchas en la capital, liderando el ranking.
-
-En segundo lugar, la disputa está entre **Barcelona SC** y **El Nacional**. Más abajo aparecen **Deportivo Quito** y **Aucas**, mientras que **Independiente del Valle** cierra el listado, aunque su hinchada sigue creciendo.
-
-La crítica preliminar se divide ante ‘Joker 2: Folie à Deux’ 
-=============================================================
-
-Las primeras impresiones de 'Joker 2: Folie à Deux' resultan divididas. La secuela se estrena hoy en Ecuador.
--------------------------------------------------------------------------------------------------------------
-
-![Las críticas a 'Joker 2' destacan las intensas actuaciones de Joaquin Phoenix y Lady Gaga. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Joker-2-Folie-a-Deux.jpg)
-
-La anticipación por **‘Joker 2: Folie à Deux’** ha sido palpable desde que se anunció la **secuela** del aclamado filme de 2019.  
-
-### Más noticias
-
-* [Lady Gaga lanza nuevo disco inspirado en el ‘Joker’](https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html "https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html") 
-* [Lady Gaga canta en la secuela del ‘Joker’](https://www.elcomercio.com/tendencias/cine/lady-gaga-secuela-canta-joker.html "https://www.elcomercio.com/tendencias/cine/lady-gaga-secuela-canta-joker.html")
-
-La película original, protagonizada por **Joaquin Phoenix**, no solo fue un éxito de taquilla, sino que también se convirtió en un fenómeno cultural. Ahora, con la adición de **Lady Gaga** al elenco, l**as expectativas han alcanzado nuevas alturas**. Según las primeras reacciones, la película no decepciona, pero **tampoco ha generado el mismo impacto que la primera**. 
-
-**Actuaciones que brillan en ‘Joker 2: Folie à Deux’** 
--------------------------------------------------------
-
-**Joaquin Phoenix regresa como Arthur Fleck (‘Joker’)**, para ofrecer una actuación que, según los críticos, es tan intensa y cautivadora como en la primera entrega.  
-
-**Lady Gaga**, por su parte, se une al elenco como **Harley Quinn**, para aportar una nueva dimensión al personaje. Su **química en pantalla ha sido destacada como uno de los puntos fuertes de la película**. Según un artículo de [Rotten Tomatoes](https://editorial.rottentomatoes.com/article/joker-folie-a-deux-first-reviews-joaquin-phoenix-shines-again-in-deranged-exciting-and-deeply-unsettling-sequel/ "https://editorial.rottentomatoes.com/article/joker-folie-a-deux-first-reviews-joaquin-phoenix-shines-again-in-deranged-exciting-and-deeply-unsettling-sequel/"), Phoenix brilla nuevamente en un papel que es “perturbador, emocionante y profundamente inquietante”. 
-
-**Un enfoque musical sorprendente** 
-------------------------------------
-
-Una de las sorpresas más grandes de **‘Joker 2’** es su **enfoque musical**. La película incorpora **números musicales** que, según los críticos, son “bien ejecutados e increíblemente entretenidos”, según se cita en la misma fuente. **Este giro ha sido recibido con opiniones divididas**, pero muchos coinciden en que añade una **capa adicional de profundidad a la narrativa**. 
-
-Según una reseña de la revista [Rolling Stone](https://es.rollingstone.com/arg-critica-de-joker-folie-a-deux-cantando-bajo-la-lluvia-y-el-caos-en-ciudad-gotica/ "https://es.rollingstone.com/arg-critica-de-joker-folie-a-deux-cantando-bajo-la-lluvia-y-el-caos-en-ciudad-gotica/"), el **director Todd Phillips** pudo haber optado por una solución sencilla para la secuela, pero **decidió arriesgarse**. En lugar de **replicar el estilo de la primera** entrega, el dúo avanzó con la historia de Fleck a través de **un musical al estilo de MGM, con Phoenix y Lady Gaga cantando clásicos y bailando**. 
-
-**Reacciones de la crítica** 
------------------------------
-
-**Las primeras reacciones de la crítica han sido variadas**. Algunos elogian la audacia de Todd Phillips al dirigir una secuela que desafía las expectativas, mientras que **otros sienten que no alcanza el impacto de la primera película**. Sin embargo, la mayoría coincide en que **‘Joker 2’** es una obra maestra audaz y fascinante. Un periodista de DiscussingFilm, citado por [Gamesradar](https://www.gamesradar.com/entertainment/musicals/joker-2-reactions/ "https://www.gamesradar.com/entertainment/musicals/joker-2-reactions/"), describió la película como “una obra maestra audaz, atrevida y fascinante”. 
-
-**Expectativas y futuro de la saga** 
--------------------------------------
-
-Con el estreno de **‘Joker 2’**, las **expectativas sobre el futuro de la saga son altas**. La película no solo **expande el universo del Joker**, sino que también plantea preguntas sobre la dirección que podría tomar en futuras entregas. La combinación de actuaciones estelares y un enfoque narrativo innovador sugiere que esta saga tiene mucho más que ofrecer.
