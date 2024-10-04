@@ -1,6 +1,6 @@
 You need to enable javascript to be able to use this website.
 
-[![](//ads.dragonfru.it/www/delivery/avw.php?zoneid=24&cb=9682712964&n=a119fd1a)](https://ads.dragonfru.it/www/delivery/ck.php?n=a119fd1a&cb=9682712964)
+[![](//ads.dragonfru.it/www/delivery/avw.php?zoneid=24&cb=9393511395&n=a119fd1a)](https://ads.dragonfru.it/www/delivery/ck.php?n=a119fd1a&cb=9393511395)
 
 [](https://www.f-list.net/)
 
@@ -31,8 +31,8 @@ When you visit our website and log in as a registered member, our web server col
 
 If you use our customer services ticketing system, it will also collect messages, tickets and attachments submitted via our ticket system. If you email us, our website will collect the contents, subject line and other information relating to emails you send us.
 
-Purchasers on our Website - what information do we collect?
------------------------------------------------------------
+\>Purchasers on our Website - what information do we collect?
+-------------------------------------------------------------
 
 When you make a purchase through our website, our web server collects additional information about you, including product purchase and order history and payment transaction IDs. We do not store financial information (credit card numbers, CVV code, etc) for any reason.
 
@@ -83,22 +83,7 @@ What do we use this information for?
 
 We use this information for a number of purposes, including generating statistics and reports on website activity and improving our website. We use it for the purposes of marketing, improving the content and relevancy of our advertisements, and tailoring the content of our website to your interests.
 
-Third Party Bots & Services
----------------------------
-
-F-List allows third party developers to build a multitude of applications such as chat bots, external tools, and alternative chat clients. Third-party bots, tools, or services are not affiliated with or controlled by F-List staff. While you, the user, may utilize these services at your sole discretion, the developers of these services or applications must respect user privacy per protocol found [here](https://wiki.f-list.net/F-Chat_Protocol) and policy [here](https://wiki.f-list.net/Code_of_Conduct#Bots).
-
-### Additionally, the following apply:
-
-* Third-party bots and other services may not store, transmit, upload, log, or otherwise tamper with user credentials.
-* If a third-party bot or service collects other information about the user, such as character names, messages, or other activity logs this information must be disclosed publicly.
-* If a third-party bot or service does collect information that is otherwise permitted, it is required to have its own Privacy Policy which discloses what information is collected, how the information is used, and how long the information is retained.
-* Ideally, but not mandatory, the third-party bot or service should offer the following:
-
-* A manner in which the user may view what information about them is being stored by the bot or service.
-* A manner in which the user may opt out of the bot or service and remove their information from said bot or service.
-
-**This document is subject to change at any time.**
+This document is subject to change at any time.
 
 |     |     |     |
 | --- | --- | --- |
