@@ -499,6 +499,10 @@ Revised June 1, 2022
 
   [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
 
+[A very LDP Cabinet — more of the same, despite hints of a power shift](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+
+  [![Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/01/425196.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Incoming child care policy minister Junko Mihara (center) arrives at the Prime Minister's Office in Tokyo on Tuesday. Mihara is one of only two female ministers in Prime Minister Shigeru Ishiba's Cabinet.")](https://www.japantimes.co.jp/news/2024/10/01/japan/politics/politicscabinet-analysis/ "A very LDP Cabinet — more of the same, despite hints of a power shift")
+
 Podcast
 -------
 
@@ -518,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -560,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Starbucks buys research farms as climate change threatens coffee supply](https://www.japantimes.co.jp/business/2024/10/03/starbucks-research-farms-climate-change/ "Starbucks buys research farms as climate change threatens coffee supply")
+[Opposition parties have little time to form united front ahead of polls](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/general-election-cdp-rush/ "Opposition parties have little time to form united front ahead of polls")
 
-10 hours ago
+0 mins ago
 
-[One in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "One in 6 workers in Japan use resignation agencies to change jobs")
+[U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base](https://www.japantimes.co.jp/news/2024/10/04/world/uk-cedes-chagos-island-sovereignty/ "U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base")
 
-11 hours ago
+6 mins ago
 
-[7-Eleven owner seeking to sell off part of stake in banking unit](https://www.japantimes.co.jp/business/2024/10/03/7eleven-owner-bank-unit-stake/ "7-Eleven owner seeking to sell off part of stake in banking unit")
+[More than AI misinformation, U.S. voters worry about lying politicians](https://www.japantimes.co.jp/news/2024/10/04/world/politics/us-voters-lying-politicians-worry/ "More than AI misinformation, U.S. voters worry about lying politicians")
 
-[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+1 hours ago
 
-[Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
+[IMF says Japan should keep raising rates if inflation data warrants it](https://www.japantimes.co.jp/business/2024/10/04/imf-japan-rate-hike/ "IMF says Japan should keep raising rates if inflation data warrants it")
+
+2 hours ago
+
+[AI bubble or 'revolution'? OpenAI's big payday fuels debate](https://www.japantimes.co.jp/business/2024/10/04/tech/ai-revolution-or-bubble/ "AI bubble or 'revolution'? OpenAI's big payday fuels debate")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
