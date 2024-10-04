@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://www.theepochtimes.com/china/chinese-military-aims-to-use-ai-to-boost-disinformation-campaigns-think-tank-5734782)
+* [EU Votes to Impose Tariffs on Electric Cars Made in China](https://www.theepochtimes.com/china/eu-votes-to-impose-tariffs-on-electric-cars-made-in-china-5735194)
     
-    NEW By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    1hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
-    [![Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![EU Votes to Impose Tariffs on Electric Cars Made in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732939-GettyImages-1344800246-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-military-aims-to-use-ai-to-boost-disinformation-campaigns-think-tank-5734782)
-* [Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://www.theepochtimes.com/article/dozens-of-meat-processing-plants-expected-to-shut-down-under-new-epa-rules-5730734)
+    ![EU Votes to Impose Tariffs on Electric Cars Made in China](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735206-GettyImages-2172117618-205x123.jpg.webp)](https://www.theepochtimes.com/china/eu-votes-to-impose-tariffs-on-electric-cars-made-in-china-5735194)
+* [Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://www.theepochtimes.com/china/bipartisan-committee-leaders-urge-biden-to-bring-home-americans-wrongfully-detained-in-china-5735154)
     
-    8hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734719-meat-business-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/dozens-of-meat-processing-plants-expected-to-shut-down-under-new-epa-rules-5730734)
-* [Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://www.theepochtimes.com/business/toyota-rolls-back-dei-prioritizes-employees-professional-development-5734904)
+    ![Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637600-03222024-DSC09948-Chris-Smith-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/bipartisan-committee-leaders-urge-biden-to-bring-home-americans-wrongfully-detained-in-china-5735154)
+* [Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://www.theepochtimes.com/us/nationwide-decline-in-pending-home-sales-halts-for-first-time-since-january-report-5735239)
     
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734968-GettyImages-1412931064-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/toyota-rolls-back-dei-prioritizes-employees-professional-development-5734904)
-* [Port Strike Ends as Union Reaches Tentative Agreement](https://www.theepochtimes.com/business/port-strike-ends-as-union-reaches-tentative-agreement-5734967)
+    ![Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683904-GettyImages-80923030KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nationwide-decline-in-pending-home-sales-halts-for-first-time-since-january-report-5735239)
+* [Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://www.theepochtimes.com/us/officials-say-fema-does-not-have-enough-funding-to-last-hurricane-season-5734962)
     
-    10hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Port Strike Ends as Union Reaches Tentative Agreement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Port Strike Ends as Union Reaches Tentative Agreement](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733946-GettyImages-2175293163-205x123.jpg.webp)](https://www.theepochtimes.com/business/port-strike-ends-as-union-reaches-tentative-agreement-5734967)
-* [Biden Visits Florida, Georgia to Survey Hurricane Damage](https://www.theepochtimes.com/us/biden-criticizes-rabid-partisanship-while-touring-hurricane-damage-in-georgia-5734929)
+    ![Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734917-GettyImages-2174887967-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/officials-say-fema-does-not-have-enough-funding-to-last-hurricane-season-5734962)
+* [CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://www.theepochtimes.com/health/cdc-issues-warning-on-overdose-risk-from-fake-prescription-medicines-online-5735240)
     
-    11hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Biden Visits Florida, Georgia to Survey Hurricane Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Visits Florida, Georgia to Survey Hurricane Damage](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734832-GettyImages-2175613039-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-criticizes-rabid-partisanship-while-touring-hurricane-damage-in-georgia-5734929)
-* [Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://www.theepochtimes.com/world/macron-warns-eu-could-die-within-3-years-due-to-overregulation-social-welfare-burden-underinvestment-5734718)
+    ![CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569475-cdc-headquarters-2-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-warning-on-overdose-risk-from-fake-prescription-medicines-online-5735240)
+* [Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-smith-wesson-challenge-to-mexicos-lawsuit-5735245)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734805-Macron-berlin-205x123.jpg.webp)](https://www.theepochtimes.com/world/macron-warns-eu-could-die-within-3-years-due-to-overregulation-social-welfare-burden-underinvestment-5734718)
-* [More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
+    ![Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://img.theepochtimes.com/assets/uploads/2024/08/28/id5714503-08142024-DSC01321-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-smith-wesson-challenge-to-mexicos-lawsuit-5735245)
+* [US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://www.theepochtimes.com/business/us-economy-adds-254000-new-jobs-unemployment-rate-dips-to-4-1-percent-5735197)
     
-    12hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731575-GettyImages-2173933499KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
-* [Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
+    ![US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735263-now_hiring_year2023-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-254000-new-jobs-unemployment-rate-dips-to-4-1-percent-5735197)
+* [Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://www.theepochtimes.com/world/strikes-shake-beirut-as-israel-targets-hezbollah-strongholds-5735139)
     
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734888-GettyImages-2175657090-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
-* [Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
+    ![Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735146-Lebanon-strikes5-205x123.jpg.webp)](https://www.theepochtimes.com/world/strikes-shake-beirut-as-israel-targets-hezbollah-strongholds-5735139)
+* [Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://www.theepochtimes.com/world/police-in-moldova-say-russia-paying-people-to-vote-no-in-eu-referendum-5735148)
     
-    13hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/uploads/2024/06/05/id5663193-mounjaro-205x123.jpg.webp)](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
-* [Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
+    ![Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735210-moldova-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/police-in-moldova-say-russia-paying-people-to-vote-no-in-eu-referendum-5735148)
+* [DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://www.theepochtimes.com/us/doj-microsoft-seize-websites-linked-to-alleged-russian-espionage-5735042)
     
-    14hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    6hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733862-GettyImages-2175961121-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
+    ![DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://img.theepochtimes.com/assets/uploads/2023/05/16/id5268390-Hackers-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-microsoft-seize-websites-linked-to-alleged-russian-espionage-5735042)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
