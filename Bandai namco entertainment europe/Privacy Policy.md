@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [ARMORED CORE VI FIRES OF RUBICON - Patch Notes 1.07.1](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-patch-notes-1071)
-* [Elden Ring – Patch Notes Version 1.15](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-115)
+* [THE GRINCH: CHRISTMAS ADVENTURES Upgraded Holiday Edition launches today on consoles and PC](https://en.bandainamcoent.eu/the-grinch/news/the-grinch-christmas-adventures-upgraded-holiday-edition-launches-today-consoles)
+* [Heihachi Mishima, the King of Iron First is back in TEKKEN 8 and available now along with new free content](https://en.bandainamcoent.eu/tekken/news/heihachi-mishima-the-king-of-iron-first-back-tekken-8-and-available-now-along-new-free)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
