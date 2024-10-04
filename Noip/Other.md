@@ -552,11 +552,11 @@ Resources
             
     * [Registry Agreements](https://www.icann.org/resources/pages/registries-2012-02-25-en)
         
-        * [Global Amendments](https://www.icann.org/resources/pages/global-amendment-2023-en)
+        * [Global Amendments](https://www.icann.org/en/registry-agreements/related-materials#global-amendment)
             
             * [2024 Global Amendment to the Base New gTLD Registry Agreement](https://www.icann.org/resources/pages/global-amendment-2024-2023-09-11-en)
                 
-            * [2023 Global Amendment to the Base New gTLD Registry Agreement](https://www.icann.org/en/registry-agreements/related-materials#global-amendment)
+            * [2023 Global Amendment to the Base New gTLD Registry Agreement](https://www.icann.org/resources/pages/global-amendment-2023-en)
                 
             * [2017 Global Amendment to the Base New gTLD Registry Agreement](https://www.icann.org/resources/pages/global-amendment-base-new-gtld-registry-agreement-2017-01-23-en)
                 
