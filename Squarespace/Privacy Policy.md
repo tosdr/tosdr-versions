@@ -46,9 +46,7 @@ The scheduling solution for appointment-based services](https://acuityscheduling
 
 Share your online world in one link](https://biosites.com/ "Bio.site")[Unfold→
 
-Everything to stand out on social](https://unfold.com/ "Unfold")[Tock→
-
-The leading reservation platform for restaurants, wineries, and hotels](https://www.exploretock.com/join?utm_source=squarespace&utm_medium=referral&utm_campaign=sqsp&utm_content=homepage-nav "Tock")
+Everything to stand out on social](https://unfold.com/ "Unfold")
 
 [Templates](https://www.squarespace.com/templates)
 
@@ -120,9 +118,7 @@ The scheduling solution for appointment-based services](https://acuityscheduling
 
 Share your online world in one link](https://biosites.com/ "Bio.site")[Unfold→
 
-Everything to stand out on social](https://unfold.com/ "Unfold")[Tock→
-
-The leading reservation platform for restaurants, wineries, and hotels](https://www.exploretock.com/join?utm_source=squarespace&utm_medium=referral&utm_campaign=sqsp&utm_content=homepage-nav "Tock")
+Everything to stand out on social](https://unfold.com/ "Unfold")
 
 [### Made with Squarespace→](https://www.squarespace.com/showcase)[### Squarespace Blog→](https://www.squarespace.com/blog)[### Help Center→](https://support.squarespace.com/)[### Forum→](https://forum.squarespace.com/)[### Webinars→](https://learning.squarespace.com/webinars)[### For Professionals→](https://www.squarespace.com/circle)
 
