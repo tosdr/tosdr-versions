@@ -864,22 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darontay Davey!
-
-Anna Webster Seattle 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Tanner & Luis were amazing, top notch
-
-Teresa Neely Madison 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Thank you Luiz and Ben
 
 Rev iewer Austin 28/09/2024
@@ -928,6 +912,46 @@ David Nutt Cincinnati 28/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Tanner & Luis were amazing, top notch
+
+Teresa Neely Madison 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Darontay Davey!
+
+Anna Webster Seattle 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Excellent!! Patrick and Steve!!
+
+paul dernbach Naples 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steven and Pat were very polite!
+
+Megan Schultz Naples 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steve and Pat from Naples were great. They showed care when in our house, and I will be calling them again.
+
+Jake Osburn Naples 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Justin and Lucas killed it, best team in the city! 5 stars 😎
 
 Trevor Fluehr Cincinnati 27/09/2024
@@ -947,14 +971,6 @@ Kaylie Simms Cincinnati 27/09/2024
 Great service! Nathan and Chaney were very friendly and professional. They got the job done, quickly. Saved my back and my time!
 
 Dan Shull Cincinnati 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Pablo and Day Excellent customer service!
-
-Yusuke Ito Seattle 27/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -984,25 +1000,9 @@ Kye Schraith Madison 27/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent!! Patrick and Steve!!
+Pablo and Day Excellent customer service!
 
-paul dernbach Naples 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steven and Pat were very polite!
-
-Megan Schultz Naples 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steve and Pat from Naples were great. They showed care when in our house, and I will be calling them again.
-
-Jake Osburn Naples 27/09/2024
+Yusuke Ito Seattle 27/09/2024
 
 ### 
 
