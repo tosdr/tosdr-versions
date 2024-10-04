@@ -34,6 +34,7 @@ Menu
 * [COM](# "Communications for social and E-mail.")
     * [E-Mail](https://www.s-config.com/email/)
     * [Social](https://www.s-config.com/social/)
+* [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 
 Privacy Notice
 ==============
@@ -200,7 +201,6 @@ For those who think that this page is mind-numbing obvious. We feel you, bro!
 
 #### Contact us:
 
-* You can use our [contact form](https://www.s-config.com/contact/).
 * You can also send an e-mail to info\[at-symbol\]s\[dash-or-minus\]config\[dot\]com replacing all bracketed parts of the e-mail with their appropriate symbols.
 
 Thanks for reading and may the server protect you.
@@ -218,6 +218,7 @@ Pages
 * [FAQ and/or TOS.](https://www.s-config.com/faq/)
 * [Gifts/Commissions to the blogger](https://www.s-config.com/gift/)
 * [Music , Audio, Sounds!](https://www.s-config.com/music/)
+* [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 * [Privacy Notice](https://www.s-config.com/privacy-notice/)
 * [The Social Blades.](https://www.s-config.com/social/)
 * [Webrings](https://www.s-config.com/webrings/)
