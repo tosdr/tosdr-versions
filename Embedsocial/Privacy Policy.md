@@ -8,15 +8,17 @@ Search
 
 * [Products](https://embedsocial.com/ "Products")
     
-    [EmbedFormsComplete forms builder](https://embedsocial.com/forms/)
+    [GBP SoftwareGoogle business profile management](https://embedsocial.com/gbp/)
     
-    * [Slider Forms](https://embedsocial.com/blog/multi-step-form/ "Slider Forms")
-    * [Conditional Logic](https://embedsocial.com/blog/forms-conditional-logic/ "Conditional Logic")
-    * [Feedback Widgets](https://embedsocial.com/forms/widgets/ "Feedback Widgets")
+    * [GBP API Access](https://embedsocial.com/gbp/api/ "GBP API Access")
+    * [Google Reviews Management](https://embedsocial.com/gbp/reviews/ "Google Reviews Management")
+    * [GBP Features](https://embedsocial.com/gbp/ "GBP Features")
+    * [GBP Reviews Responder](https://embedsocial.com/blog/google-reviews-responder/ "GBP Reviews Responder")
+    * [GBP Business Hours Management](https://embedsocial.com/blog/change-business-hours-on-google/ "GBP Business Hours Management")
     
     [FeedlinkPersonal website builder](https://feed.link/)
     
-    [EmbedFeedSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
+    [EmbedFeedUGC Social media aggregator](https://embedsocial.com/social-media-aggregator/)
     
     * [Shoppable Feed](https://embedsocial.com/social-media-aggregator/shop/ "Shoppable Feed")
     * [Hashtag Walls](https://embedsocial.com/social-media-aggregator/hashtag/ "Hashtag Walls")
@@ -65,6 +67,12 @@ Search
     
     [EmbedFeedSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
     
+    * [Shoppable widget](https://embedsocial.com/shoppable-widget/ "Shoppable widget")
+    *   [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+         ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)
+        
+        LinkedIn Widget](https://embedsocial.com/linkedin-widget/ "LinkedIn Widget")
     *   [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
          ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
@@ -80,11 +88,6 @@ Search
          ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
         
         Instagram Widget](https://embedsocial.com/instagram-widget/ "Instagram Widget")
-    *   [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-         ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)
-        
-        LinkedIn Widget](https://embedsocial.com/linkedin-widget/ "LinkedIn Widget")
     *   [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
          ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)
@@ -165,7 +168,7 @@ Search
     
 * [Templates](https://embedsocial.com/p/templates/ "Templates")
     
-    Story Templates
+    Story Widgets Templates
     
     * [Instagram Stories Slider](https://embedsocial.com/p/templates/classic-instagram-stories-and-posts-slider-widget "Instagram Stories Slider")
     * [Instagram Stories Popover](https://embedsocial.com/p/templates/instagram-stories-and-posts-popup-widget "Instagram Stories Popover")
@@ -178,7 +181,7 @@ Search
     * [Facebook Reviews Slider](https://embedsocial.com/p/templates/classic-facebook-reviews-slider-widget "Facebook Reviews Slider")
     * [Facebook Reviews Widgets](https://embedsocial.com/p/templates/reviews/ "Facebook Reviews Widgets")
     
-    Reviews Templates
+    Reviews Widgets Templates
     
     * [Google Reviews Grid](https://embedsocial.com/p/templates/classic-google-reviews-feed-widget "Google Reviews Grid")
     * [Google Reviews Slider](https://embedsocial.com/p/templates/modern-google-reviews-slider-widget "Google Reviews Slider")
@@ -192,7 +195,7 @@ Search
     * [Dark Floating Reviews Badge](https://embedsocial.com/p/templates/floating-dark-social-media-reviews-badge "Dark Floating Reviews Badge")
     * [All 50+ Google Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/google "All 50+ Google Reviews Widgets ↗")
     
-    Feed Templates
+    Feed Widgets Templates
     
     * [Instagram Collage](https://embedsocial.com/p/templates/classic-instagram-collage-widget "Instagram Collage")
     * [Instagram Stories & Posts Slider](https://embedsocial.com/p/templates/classic-instagram-stories-and-posts-slider-widget "Instagram Stories & Posts Slider")
@@ -206,18 +209,19 @@ Search
     * [LinkedIn Slider](https://embedsocial.com/p/templates/linkedin-feed-slider-widget "LinkedIn Slider")
     * [All 70+ Feed Templates ↗](https://embedsocial.com/p/templates/feed "All 70+ Feed Templates ↗")
     
-    Forms Templates
+    UGC Widgets Templates
     
-    * [NPS Survey Template](https://embedsocial.com/p/templates/nps-survey "NPS Survey Template")
-    * [Course Evaluation Form](https://embedsocial.com/p/templates/online-course-feedback-form "Course Evaluation Form")
-    * [Employee Evaluation Form](https://embedsocial.com/p/templates/employee-evaluation-form "Employee Evaluation Form")
-    * [Event Feedback Form](https://embedsocial.com/p/templates/event-feedback-form "Event Feedback Form")
-    * [eShop Review Form](https://embedsocial.com/p/templates/eshop-review-form "eShop Review Form")
-    * [Success Story Questionnaire](https://embedsocial.com/p/templates/customer-success-story-questionnaire "Success Story Questionnaire")
-    * [Website Feedback Form](https://embedsocial.com/p/templates/website-feedback-form "Website Feedback Form")
-    * [Blog Newsletter Form](https://embedsocial.com/p/templates/blog-newsletter-subscription-form "Blog Newsletter Form")
-    * [Job Application Form](https://embedsocial.com/p/templates/job-application-form "Job Application Form")
-    * [All 30+ Forms Templates ↗](https://embedsocial.com/p/templates/forms "All 30+ Forms Templates ↗")
+    * [‘Shop My Feed’ Instagram Widget](https://embedsocial.com/p/templates/shop-my-feed-instagram-widget "'Shop My Feed' Instagram Widget")
+    * [Instagram Stories Shop Widget](https://embedsocial.com/p/templates/instagram-stories-shop-widget "Instagram Stories Shop Widget")
+    * [Instagram + Google UGC Widget](https://embedsocial.com/p/templates/premium-ugc-widget-instagram-google-reviews "Instagram + Google UGC Widget")
+    * [Google Reviews Shopify Widget](https://embedsocial.com/p/templates/google-reviews-widget-for-shopify-shops "Google Reviews Shopify Widget")
+    * [Google Reviews Shoppable Slider](https://embedsocial.com/p/templates/shoppable-google-reviews-widget "Google Reviews Shoppable Slider")
+    * [Shoppable Instagram Widget with Product Cards](https://embedsocial.com/p/templates/shoppable-instagram-widget-with-product-cards "Shoppable Instagram Widget with Product Cards")
+    
+    Threads Widgets Templates
+    
+    * [Threads Posts Slider](https://embedsocial.com/p/templates/threads-posts-slider "Threads Posts Slider")
+    * [Threads Popover Widget](https://embedsocial.com/p/templates/threads-popover-widget "Threads Popover Widget")
     
 * [Pricing](https://embedsocial.com/pricing/ "Pricing")
 * [Help](https://embedsocial.com/help/en/ "Help")
