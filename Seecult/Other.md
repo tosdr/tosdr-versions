@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/zene/women/012.jpg?itok=lktaNjwD)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/zenewomen)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic/nesa-paripovic-u-filmu-pretty-good-zorana-popovica-edinburg-i-okolina-1973.jpg?itok=vVt57Qqx)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/sv-simeon-stefannemanja.jpg?itok=CbK_zkZA)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/biti-u-pozoristu.jpg?itok=wcmVv1Lz)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
