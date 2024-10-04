@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Average-Leg-by-WinLose.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![Direct Contributions from the Koch Network to State and Federal Candidates, by Party Affiliation, 2010-2016](/assets/Images/teasers/small/Koch-by-party.JPG)](https://www.followthemoney.org/research/blog/a-koch-fueled-blue-wave-not-likely)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
