@@ -398,6 +398,20 @@ Samtaleloggene vil bli oppbevart i 30 dager. Dersom et opptak er relevant i en r
 
 Ditt samtykke.
 
+### Chat med kundesenter
+
+Når du chatter med kundesenter på nettsiden eller i portalen vår, behandler Vipps følgende opplysninger, for å sikre god oppfølging:
+
+* navn og telefonnummer
+* innhold i chat
+* hvis du skal motta enkelte typer informasjon fra oss krever vi BankID identifisering
+
+**Husk!** Chat-informasjon vil i utgangspunktet lagres i 30 dager, men kan forlenges hvis saken krever det.
+
+### Hva gir oss lov til dette?
+
+[Avtalen vi har med deg, se vilkårene.](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+
 ### 2.3 For markedsføringsaktiviteter
 
 Hvorfor og hvordan behandler vi dine personopplysninger?
@@ -488,7 +502,7 @@ Vår berettiget interesse.
 
 Vipps bruker flere leverandører som behandler personopplysninger på våre vegne (databehandlere). I slike situasjoner inngår Vipps en databehandleravtale med leverandøren for å sikre at behandlingen gjennomføres i samsvar med personopplysningsloven. Relevante databehandlere vi bruker er:
 
-* Skytjenesteleverandører (Microsoft Azure, Salesforce, Splunk, Mixpanel, Slack, Signant, Puzzel, Link Mobility, Twilio Sendgrid, Jobylon)
+* Skytjenesteleverandører (Microsoft Azure, Salesforce, Splunk, Mixpanel, Slack, Signant, Puzzel, Link Mobility, Twilio Sendgrid, Strise, Jobylon)
 * Programvareleverandører (Microsoft 365)
 * Tjenesteleverandører (Nets, TietoEvry, DNB, Adyen)
 * Konsulentselskaper
@@ -586,7 +600,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.19. Oppdatert 20.08.2024**
+**Versjon 1.20. Oppdatert 04.10.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
