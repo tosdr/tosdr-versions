@@ -864,17 +864,17 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tanner & Luis were amazing, top notch
+Darontay Davey!
 
-Teresa Neely Madison 28/09/2024
+Anna Webster Seattle 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darontay Davey!
+Tanner & Luis were amazing, top notch
 
-Anna Webster Seattle 28/09/2024
+Teresa Neely Madison 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -952,6 +952,14 @@ Dan Shull Cincinnati 27/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Pablo and Day Excellent customer service!
+
+Yusuke Ito Seattle 27/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Guys did a great job getting rid of my old stuff
 
 D Smith Cincinnati 27/09/2024
@@ -971,14 +979,6 @@ Becky Pharo Madison 27/09/2024
 Caleb and Tanner were very kind and helpful, also fast
 
 Kye Schraith Madison 27/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Pablo and Day Excellent customer service!
-
-Yusuke Ito Seattle 27/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
