@@ -93,8 +93,8 @@ English
 Privacy Policy
 ==============
 
-Effective Date: 25. juuli 2024
-------------------------------
+Effective Date: July 25, 2024
+-----------------------------
 
 This Privacy Policy describes how KAYAK Software Corporation and its subsidiaries, or subsidiaries of our parent company Booking Holdings Inc. that we manage **“momondo”**, **“we”**, **“our”** or **“us”**) collect, use, process and share personal information. This Policy applies to visitors and users (individually, **“you”** of KAYAK's websites (including but not limited to KAYAK, momondo, HotelsCombined, SWOODOO, Cheapflights, checkfelix, Mundi and roomsearch), applications, social media accounts, and other services (collectively, our **“Services”**). You can identify the KAYAK company that hosts a particular Service and is responsible for your information under this Policy [here](https://www.momondo.com/about/contacts). Please note that your use of our Services is additionally subject to the KAYAK [Terms and Conditions](https://www.momondo.com/about/terms).
 
@@ -411,7 +411,7 @@ Please note that we may need to verify your identity before completing your righ
 
 **Request Report.** The following metrics below include the aggregate number of requests to know, requests to delete, and requests to opt-out received, complied with in whole or in part, and denied by momondo. Please note that these numbers reflect the total number of global requests received by momondo, including requests received by California consumers.
 
-**jaanuar 2023 - detsember 2023**
+**January 2023 - December 2023**
 
 |     | Requests received | Requests Complied in Whole or in Part | Average Business Days to Respond |
 | --- | --- | --- | --- |
