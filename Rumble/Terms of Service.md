@@ -446,131 +446,119 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
+[The Jimmy Dore Show
 
-161K](https://rumble.com/v5hfnuz-this-story-will-be-the-end-for-border-czar-harris-ep.-2343-10042024.html "The Dan Bongino Show")
+15.8K](https://rumble.com/v5hh561-dhs-secretary-mayorkas-says-fema-is-out-of-money-kamala-offers-hurricane-vi.html "The Jimmy Dore Show")
 
 [Bannons War Room
 
-10.7K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+6.51K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Nerdrotic
 
-7.11K](https://rumble.com/v5heiux-badlands-daily-friday-october-4-2024.html "Badlands Media")
+5.23K](https://rumble.com/v5hgzz9-joker-2-is-pointless-toxic-fandom-strikes-again-rings-of-power-friday-night.html "Nerdrotic")
 
 [NEWSMAX
 
-4.48K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Caleb Hammer
-
-483](https://rumble.com/v5hd2ql-mcdonalds-is-more-important-than-her-child-financial-audit.html "Caleb Hammer")
-
-[barstoolsports
-
-350](https://rumble.com/v5hfvxx-ufc-307-betting-preview.html "barstoolsports")
-
-[Lofi Girl
-
-341](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
-
-[Geeks + Gamers
-
-315](https://rumble.com/v5hfs4r-media-blames-toxic-fans-for-epic-hollywood-failures-joker-2-set-to-be-a-mas.html "Geeks + Gamers")
+3.08K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Dr Steve Turley
 
-235](https://rumble.com/v5hfzv0-kamalas-katrina-is-collapsing-her-campaign.html "Dr Steve Turley")
+408](https://rumble.com/v5hhged-trump-at-70-chance-to-win-according-to-cnn-poll-kamala-desperate.html "Dr Steve Turley")
 
-[The Kirk Minihane Show
+[Lofi Girl
 
-161](https://rumble.com/v5hfde4-kms-live-october-4-2024.html "The Kirk Minihane Show")
-
-[Mike Crispi
-
-101](https://rumble.com/v5hfh45-trump-returns-to-butler-pa-tomorrow-for-historic-rally.html "Mike Crispi")
-
-[Mostly Sports With Mark Titus and Brandon Walker
-
-78](https://rumble.com/v5hchf9-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+290](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
-0](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
+5](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
 
 [Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
-
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
-
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
-
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
 
 [TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
 
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
 
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
 
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
 
-[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
 
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
+
+[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+
+[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+
+[NELK](https://rumble.com/c/NELK "NELK")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
 
 [Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
 
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
 
 ### Theme
 
