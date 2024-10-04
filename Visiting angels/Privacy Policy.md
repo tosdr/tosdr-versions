@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
+[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
 
-[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
+[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
 
-[Setting Your New Caregiver Up for Success](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/setting-your-new-caregiver-up-for-success/352)
+[3 Keys to Home Care Provider Compatibility](https://www.visitingangels.com/knowledge-center/selecting-care/3-keys-to-home-care-provider-compatibility/385)
 
-[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
+[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
 
-[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
+[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
