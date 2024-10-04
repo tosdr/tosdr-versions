@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_360x203.jpeg)](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a70e0c65-6976-4d45-854e-d69d53350ede/20241004T003851/a70e0c65-6976-4d45-854e-d69d53350ede_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a70e0c65-6976-4d45-854e-d69d53350ede/20241004T003851/a70e0c65-6976-4d45-854e-d69d53350ede_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-island-fire-house-dead/526-a71136df-4bf8-477a-a45b-b8b7a8757f32)
         
-        #### [VERIFY: What is Mariannette Miller-Meeks' stance on abortion?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
+        #### [1 dead in Rock Island house fire](https://www.wqad.com/article/news/local/public-safety/rock-island-fire-house-dead/526-a71136df-4bf8-477a-a45b-b8b7a8757f32)
         
-    *  [![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_360x203.jpeg)](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/70e7e309-db47-42c9-afb7-4676ed14c5d6/70e7e309-db47-42c9-afb7-4676ed14c5d6_16x9.png) ![](https://media.tegna-media.com/assets/WTOL/images/70e7e309-db47-42c9-afb7-4676ed14c5d6/70e7e309-db47-42c9-afb7-4676ed14c5d6_360x203.png)](https://www.wqad.com/article/news/local/maquoketa-crash-jackson-county-tractor-semi-truck/526-e636def1-1ab0-4e13-8d1f-62b0a4093fe0)
         
-        #### [VERIFY: Did the Biden-Harris Administration cause increased grocery and gas prices?](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
+        #### [1 dead, 2 injured in Jackson County crash](https://www.wqad.com/article/news/local/maquoketa-crash-jackson-county-tractor-semi-truck/526-e636def1-1ab0-4e13-8d1f-62b0a4093fe0)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e9da32b9-8046-4d73-be3a-358f6d2a3690/20241004T033217/e9da32b9-8046-4d73-be3a-358f6d2a3690_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e9da32b9-8046-4d73-be3a-358f6d2a3690/20241004T033217/e9da32b9-8046-4d73-be3a-358f6d2a3690_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208/20241004T121559/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208/20241004T121559/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Small rainfall opportunity arrives before dawn on Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Rain ends Friday morning, dry and warmer for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_360x203.jpg)](https://www.wqad.com/article/weather/minute-pirate-bugs-bite-in-the-fall/526-993a2db4-ed1c-4033-8cbd-e183617242fd)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-55°
+66°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
