@@ -40,7 +40,7 @@ Product-specific details:**
 CyberLink Corporation General Privacy Policy and Cookie Policy
 ==============================================================
 
-**Last Update: April 2024. This CyberLink Corporation General Privacy Policy and Cookie Policy replace and supersede all prior versions.**
+**Last Update: September 2024. This CyberLink Corporation General Privacy Policy and Cookie Policy replace and supersede all prior versions.**
 
 When you use our services, you trust us with your information. This Privacy Policy is intended to help you understand your right to privacy.  
   
@@ -169,8 +169,9 @@ Third Party Services
 
 When you use our services, you may have access to services provided by third-party service providers. For example, you may upload videos into YouTube via our Mobile App or Computer Software; or enable YouTube Live Streaming services upon usage of our Computer Software. These third-party service providers have separate and independent privacy policies and/or Terms of Service shown below:
 
-* YouTube API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service))
+* YouTube API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms))
 * Google Privacy Policy ([https://policies.google.com/privacy](https://policies.google.com/privacy))
+* Google's security settings ([https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions))
 * TikTok Privacy Policy ([https://www.tiktok.com/legal/page/row/privacy-policy/en](https://www.tiktok.com/legal/page/row/privacy-policy/en)) and Terms of Service ([https://www.tiktok.com/legal/page/row/terms-of-service/en](https://www.tiktok.com/legal/page/row/terms-of-service/en))
 
 Children's guidelines
