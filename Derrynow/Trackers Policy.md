@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Out and about pubs and clubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Out and about pubs and clubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Donegal man tragically killed in Australia 'fondly remembered' by CLG Chill Chartha](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man tragically killed in Australia 'fondly remembered' by CLG Chill Chartha")](https://www.derrynow.com/news/national-news/1621351/donegal-man-tragically-killed-in-australia-fondly-remembered-as-he-is-named-locally.html)
 
 The late Barry Breslin, inset, is fondly remembered by all at Kilcar GAA club. Photo: CLG Chill Chartha
@@ -284,15 +277,6 @@ Derry Magistrate's Court
 [Derry man who left bag of drugs behind in tanning salon jailed](https://www.derrynow.com/news/local-news/1620907/derry-man-who-left-bag-of-drugs-behind-in-tanning-salon-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman who told shop owner to 'go back to the s--t hole you came from' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who told shop owner to 'go back to the s--t hole you came from' jailed")](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman who told shop owner to 'go back to the s--t hole you came from' jailed](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Kneecap set to rock Derry's St Columb's Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap set to rock Derry's St Columb's Park")](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
 
 Kneecap will play in November
@@ -302,13 +286,6 @@ Kneecap will play in November
 [Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -316,28 +293,49 @@ Kneecap will play in November
 [Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, October 4 2024](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI police car](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI police car")](https://www.derrynow.com/news/local-news/1621721/police-arrest-man-40-on-suspicion-of-dangerous-driving-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police arrest man (40) on suspicion of dangerous driving in Derry](https://www.derrynow.com/news/local-news/1621721/police-arrest-man-40-on-suspicion-of-dangerous-driving-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two men returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
-
-Derry Magistrate's Court
+[![Contractor appointed for Culmore Community Play Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Contractor appointed for Culmore Community Play Park")](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Graffiti attack at Creggan Neighbourhood Partnership condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graffiti attack at Creggan Neighbourhood Partnership condemned")](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
+[![Derry woman jailed after 'pit bull type dog' savaged another dog to death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed after 'pit bull type dog' savaged another dog to death")](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Graffiti attack at Creggan Neighbourhood Partnership condemned](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman jailed after 'pit bull type dog' savaged another dog to death](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bail granted for Derry man who breached bail by being intoxicated in a public place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail by being intoxicated in a public place")](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man found intoxicated in a public place was in breach of bail](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry motorists urged to slow down after new shocking statistics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry motorists urged to slow down after new shocking statistics")](https://www.derrynow.com/news/derry-news/1621654/derry-motorists-urged-to-slow-down-after-new-shocking-statistics.html)
+
+Speed camera
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry motorists urged to slow down after new shocking statistics](https://www.derrynow.com/news/derry-news/1621654/derry-motorists-urged-to-slow-down-after-new-shocking-statistics.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,51 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1621936/fai-cup-semi-final-let-s-go-and-make-history-again.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Ruaidhri Higgins and Pat Hoban embrace in the aftermath of Derry City’s late, late win at Dalymount Park back in June.
 
-[Derry Death Notices - Friday, October 4 2024](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter")](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
+[FAI Cup semi-final: 'Let's go and make history again!'](https://www.derrynow.com/news/derry-sport/1621936/fai-cup-semi-final-let-s-go-and-make-history-again.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
+[![Derry man rammed vehicle and then behaved aggressively towards other driver](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man rammed vehicle and then behaved aggressively towards other driver")](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
 
-[LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry businesses recognised at Tourism NI event](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Derry_Innovate-1727962442056.JPG--.JPG?1727962443896 "County Derry businesses recognised at Tourism NI event")](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
-
-David Douglas, from Derrie Danders Walking and Audio Tours, Dermot Friel from Friel’s Bar and Restaurant with Dr Vicky Kell and Eimear Callaghan.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry businesses recognised at Tourism NI event](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/resizer/165/93/true/2024_08_21/F4_-_MT3424432JOC_-_Copy-1724259144603.jpg--.jpg?1724259144749 "Kneecap set to rock Derry's St Columb's Park")](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
-
-Kneecap will play in November
+Derry Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man rammed vehicle and then behaved aggressively towards other driver](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Executive on track to raise £113m target without need for new revenue measures](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_03/1727957102824_0.jpg--.jpg?1727957102978 "Executive on track to raise £113m target without need for new revenue measures")](https://www.derrynow.com/news/local-news/1621171/executive-on-track-to-raise-113m-target-without-need-for-new-revenue-measures.html)
+[![Suspended sentence for Derry man (50) caught by paedophile hunter sting](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Suspended sentence for Derry man (50) caught by paedophile hunter sting")](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Executive on track to raise £113m target without need for new revenue measures](https://www.derrynow.com/news/local-news/1621171/executive-on-track-to-raise-113m-target-without-need-for-new-revenue-measures.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Culmore_Community_Play_Park-1727968204509.jpg--.jpg?1727968204540 "Contractor appointed for Culmore Community Play Park")](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
+Derry Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man (50) caught by paedophile hunter sting](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman jailed after 'pit bull type dog' savaged another dog to death](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Derry woman jailed after 'pit bull type dog' savaged another dog to death")](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman jailed after 'pit bull type dog' savaged another dog to death](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](https://www.derrynow.com/resizer/165/93/true/2024_10_04/FOSTERING_AWARDS_5-1728035566579.jpg--.jpg?1728035567633 "Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards")](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
+
+Seamus and Tina Shivers who received a Certificate of Excellence at the Northern Ireland Foster Care Awards
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein answers over McMonagle controversy not satisfactory – Robinson](https://www.derrynow.com/resizer/165/93/true/2024_10_04/3-1728037259216.png--.png?1728037259344 "Sinn Fein answers over McMonagle controversy not satisfactory – Robinson")](https://www.derrynow.com/news/local-news/1621738/sinn-fein-answers-over-mcmonagle-controversy-not-satisfactory-robinson.html)
+
+DUP leader Gavin Robinson (left) and former Sinn Fein press officer Michael McMonagle
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein answers over McMonagle controversy not satisfactory – Robinson](https://www.derrynow.com/news/local-news/1621738/sinn-fein-answers-over-mcmonagle-controversy-not-satisfactory-robinson.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
