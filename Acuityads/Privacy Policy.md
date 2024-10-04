@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![The growing presence of social media in political advertising](https://illumin.com/wp-content/uploads/2024/09/Social-media-in-political-advertising-263x300.png)
+    * ![Marketing measurement: What do MMM and MTA even mean?](https://illumin.com/wp-content/uploads/2024/10/Blog-image-teasers-2024-263x300.jpg)
         
-        The growing presence of social media in political advertising[Read More](https://illumin.com/insights/blog/social-media-political-advertising/)
+        Marketing measurement: What do MMM and MTA even mean?[Read More](https://illumin.com/insights/blog/marketing-measurement-mmm-and-mta/)
         
 * [Company](#)
     * [Company](#)
