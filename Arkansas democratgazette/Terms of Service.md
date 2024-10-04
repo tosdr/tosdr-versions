@@ -128,7 +128,6 @@ Open user options menu
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Home](https://www.arkansasonline.com/)
 * [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [Morgan Nick case](https://www.arkansasonline.com/news/morgan-nick/)
 * [HS Football Scores](https://www.arkansasonline.com/arpreps/2024/)
 * [Voter FAQ](https://www.arkansasonline.com/voterfaq/)
 * [Best of the Best Event](https://bestofthebest.arkansasonline.com/)
