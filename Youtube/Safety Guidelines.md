@@ -70,10 +70,6 @@ Next
 * [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
 * [Child safety policy](https://support.google.com/youtube/answer/2801999)
 
-Notification
-
-We're aware of an issue causing some channels to be incorrectly flagged for Spam and removed. Our teams are looking into this and reinstating the channels right now. Please [follow along in our Community for updates](https://support.google.com/youtube/thread/300155212).
-
 Child safety policy
 ===================
 
@@ -262,7 +258,7 @@ Google apps
 
 Main menu
 
-6674564765496529986
+8243737072175488229
 
 true
 
