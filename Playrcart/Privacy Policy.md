@@ -9,11 +9,11 @@ top of page
     * [Partners](https://www.glui.io/partners)
 * Platform
     
+    * [About Us](https://www.glui.io/about-us)
     * [Real-Time Data Analytics](https://www.glui.io/real-time-data-analytics)
     * [Developer Tools](https://www.glui.io/developer-tools)
-* Resources
+* News
     
-    * [About Us](https://www.glui.io/about-us)
     * [Case Studies](https://www.glui.io/case-studies)
     * [Blog](https://www.glui.io/blog)
 * [Demos](https://www.glui.io/demos)
