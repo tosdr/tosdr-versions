@@ -12,6 +12,8 @@ Close×
 
 ![](//www.morphe.com/cdn/shop/t/903/assets/shipping_icon.svg?v=127807994505907103401727894176)
 
+  One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
    
 
 Close you may also like popup
