@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/pfizer-heeft-onschendbaarheid-waarom/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/vrijheid-een-wijze-en-liefdevolle-staat-van-zijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
