@@ -444,7 +444,7 @@ Lists
 * [Rich List](https://www.afr.com/rich-list)
 * [Power List](https://www.afr.com/power-list)
 * [Young Rich](https://www.afr.com/young-rich)
-* [More Lists](https://www.afr.com/about-us/products-and-services#section-lists-awards)
+* [More Lists](https://www.afr.com/lists-and-awards)
 
 Events
 ------
