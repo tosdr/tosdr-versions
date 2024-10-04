@@ -107,8 +107,8 @@ Show your love for KDE! Purchase books, mugs, apparel, and more to support KDE.
 
 [KDE Store](https://store.kde.org/) [KDE e.V.](https://ev.kde.org/) [KDE Free Qt Foundation](https://kde.org/community/whatiskde/kdefreeqtfoundation) [KDE Timeline](https://timeline.kde.org/) [KDE Manifesto](https://manifesto.kde.org/) [International Websites](https://kde.org/support/international/)
 
-[](https://go.kde.org/matrix/#/#kde:kde.org)[](https://www.facebook.com/kde/)[](https://twitter.com/kdecommunity)[](https://floss.social/@kde)[](https://www.linkedin.com/company/29561/)[](https://www.reddit.com/r/kde/)[](https://www.youtube.com/channel/UCF3I1gf7GcbmAb0mR6vxkZQ)[](https://tube.kockatoo.org/a/kde_community/video-channels)[](https://vk.com/kde_ru)[](https://www.instagram.com/kdecommunity/)
+[](https://go.kde.org/matrix/#/#kde:kde.org)[](https://www.facebook.com/kde/)[](https://floss.social/@kde)[](https://www.linkedin.com/company/29561/)[](https://www.reddit.com/r/kde/)[](https://www.youtube.com/channel/UCF3I1gf7GcbmAb0mR6vxkZQ)[](https://tube.kockatoo.org/a/kde_community/video-channels)[](https://vk.com/kde_ru)[](https://www.instagram.com/kdecommunity/)
 
-Maintained by [KDE Webmasters](mailto:kde-www@kde.org) (public mailing list). Generated from [19b89d1](https://invent.kde.org/websites/kde-org/-/commit/19b89d14ff6e361f83b6549014fb1da12ad293f3). KDE® and [the K Desktop Environment® logo](https://kde.org/media/images/trademark_kde_gear_black_logo.png) are registered trademarks of [KDE e.V.](https://ev.kde.org/ "Homepage of the KDE non-profit Organization") | [Legal](https://kde.org/community/whatiskde/impressum)
+Maintained by [KDE Webmasters](mailto:kde-www@kde.org) (public mailing list). Generated from [202a028](https://invent.kde.org/websites/kde-org/-/commit/202a0286816b08481115ba3fa3c363f83ab60e55). KDE® and [the K Desktop Environment® logo](https://kde.org/media/images/trademark_kde_gear_black_logo.png) are registered trademarks of [KDE e.V.](https://ev.kde.org/ "Homepage of the KDE non-profit Organization") | [Legal](https://kde.org/community/whatiskde/impressum)
 
 ![](https://stats.kde.org/matomo.php?idsite=1&rec=1)
