@@ -199,13 +199,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
-    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
-    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
+    [![photo caption - About to come home after spending the last 3yrs in the desert. Please no jokes about my $40k truck or my 3 divorces. sdrawkcaBuoYkcuF points 28 days ago 232 & 45 More Why would I make a joke about your wife or your truck? I've enjoyed ridi](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/) [26 Internet Roasts That Didn't Hold Back](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/)
     
-    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
+    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
     
 
 * Advertisement
