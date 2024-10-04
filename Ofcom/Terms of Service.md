@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/?language=en)
+    [Post](https://www.ofcom.org.uk/post/)
     
     Ofcom's job is to make sure there is a universal postal service.
     
@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
+
+### Building our capabilities: Ofcom's first in-house online trial
+
+4 October 2024](https://www.ofcom.org.uk/phones-and-broadband/access-to-decent-broadband/building-our-capabilities-ofcoms-first-in-house-online-trial/)
+
 [![Holidaymaker looking at mobile phone](/siteassets/resources/images/-news-centre/body-images/2024/new-roaming-alerts-for-uk-holidaymakers/mobile-phone-holiday-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
 
 ### New roaming alerts for UK holidaymakers
@@ -150,12 +156,6 @@
 ### Ofcom investigates broadband network BRSK’s installation of telegraph poles
 
 30 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/)
-
-[![bbc ceefax web1](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ceefax-web1.jpg?width=1920&height=1085&quality=80)
-
-### Marking 50 years since Ceefax - the ‘horse-drawn internet’ - was launched
-
-23 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/marking-50-years-since-ceefax-the-horse-drawn-internet-was-launched/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
@@ -221,7 +221,7 @@ Organisations we work with, including the Consumer Forum for Communications and 
 
 Published: 1 March 2024
 
-Last updated: 12 September 2024
+Last updated: 4 October 2024
 
 Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
 
