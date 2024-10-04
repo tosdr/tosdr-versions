@@ -204,6 +204,34 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[Share you BUCKET LIST WINS for the month of Septem ![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
+Here’s my September “bucket list wins” recap 👇
+✧ Flew a kit at a Bodega Bay, California beach 🪁 
+✧ Went wine tasting @sonomacoastvineyards 🍷 
+✧ Played pinball @therewindarcade 
+✧ Tried a new restaurant @rockeroysterfellerslucaswharf
+✧ Walked a new beach (Doran Beach)
+✧ Modeled hats @glamourie_hats
+✧ Had the first dinner party on my new patio ♥️ 
+✧ Checked “Make a Free Throw” off my bucket list
+Made Some Progress on:
+✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
+#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
+Here’s my September “bucket list wins” recap 👇
+✧ Flew a kit at a Bodega Bay, California beach 🪁 
+✧ Went wine tasting @sonomacoastvineyards 🍷 
+✧ Played pinball @therewindarcade 
+✧ Tried a new restaurant @rockeroysterfellerslucaswharf
+✧ Walked a new beach (Doran Beach)
+✧ Modeled hats @glamourie_hats
+✧ Had the first dinner party on my new patio ♥️ 
+✧ Checked “Make a Free Throw” off my bucket list
+Made Some Progress on:
+✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
+#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAtGygLv_wV/) 
+
 [I made a list of my FAVORITE 100 travel experience ![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
 👉 Want the full list of 100? 
 Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
@@ -261,12 +289,6 @@ Drop your number in the comments! 👇 I’m sitting at 17, and there’s still 
 Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
 Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
 #bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ3j4qv_9e/) 
-
-[Penguins don’t just hang out in Antarctica—you ![Penguins don’t just hang out in Antarctica—you can find them in the Falkland Islands too-LOTS of them!!! 🐧 @ilovethefalklands 
-#falklandislands #falklands  #KingPenguin  #penguin #penguins #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #birdsofinstagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Penguins don’t just hang out in Antarctica—you can find them in the Falkland Islands too-LOTS of them!!! 🐧 @ilovethefalklands 
-#falklandislands #falklands  #KingPenguin  #penguin #penguins #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistcheck #bucketlistchecked #bucketlisters #birdsofinstagram](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGhOnMvuUB/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
