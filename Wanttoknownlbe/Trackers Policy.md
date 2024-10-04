@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/israel-zal-amen-zeggen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/bijnieruitputting-stresssyndroom-van-deze-tijd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
