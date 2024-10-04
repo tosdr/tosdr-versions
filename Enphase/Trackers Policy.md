@@ -42,7 +42,7 @@
     
     EXPLORE
     
-    [Microinverters](https://enphase.com/installers/microinverters) [Batteries](https://enphase.com/installers/storage) [Communication](https://enphase.com/installers/communication) [EV chargers](https://enphase.com/ev-chargers) [Commercial](https://enphase.com/installers/commercial) [Accessories](https://enphase.com/installers/accessories) [Apps](https://enphase.com/installers/apps)
+    [Microinverters](https://enphase.com/installers/microinverters) [Batteries](https://enphase.com/installers/storage) [Communication](https://enphase.com/installers/communication) [EV chargers](https://enphase.com/installers/ev-chargers) [Commercial](https://enphase.com/installers/commercial) [Accessories](https://enphase.com/installers/accessories) [Apps](https://enphase.com/installers/apps)
     
     SERVICES
     
@@ -64,7 +64,7 @@
     
     RESOURCES
     
-    [Module compatbility](https://enphase.com/installers/microinverters/calculator) [Find an EV charger](https://enphase.com/installers/ev-chargers)
+    [Module compatbility](https://enphase.com/installers/microinverters/calculator) [Find an EV charger](https://enphase.com/ev-chargers/find-an-ev-charger)
     
 * [Support](https://enphase.com/support)
     
@@ -323,7 +323,7 @@ Your session expired. Please login again to continue to purchase.
     * [Communication](https://enphase.com/installers/communication)
     * [System builder](https://enphase.com/installers/systems)
     * [Microinverters](https://enphase.com/installers/microinverters)
-    * [EV chargers](https://enphase.com/ev-chargers)
+    * [EV chargers](https://enphase.com/installers/ev-chargers)
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
