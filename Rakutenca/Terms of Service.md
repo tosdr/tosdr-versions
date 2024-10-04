@@ -1,3 +1,7 @@
+[Dell Technologies: Cyber Sale: Up to $600 off top deals + 12% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/dell-consumer?store=dell-consumer&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -111,7 +115,7 @@ FR
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
-        up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)
+        12% Cash Back](https://www.rakuten.ca/dell-consumer)
         
         Featured Shops & Deals
         
@@ -331,17 +335,17 @@ FR
         
         Recommended Stores
         
-        [Insurely
+        [Home Hardware
+        
+        1% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
         
         Up to $25 Cash Back](https://www.rakuten.ca/insurely)[All-Purpose Realty
         
-        $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Borrowell
+        $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Best Buy
         
-        $5 Cash Back](https://www.rakuten.ca/borrowell)[Reliance Home Comfort
+        up to 4% Cash Back](https://www.rakuten.ca/best-buy)[Borrowell
         
-        Up to $50 Cash Back](https://www.rakuten.ca/reliance-home-comfort)[Simba Sleep Canada
-        
-        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
+        $5 Cash Back](https://www.rakuten.ca/borrowell)
         
         Featured Shops & Deals
         
