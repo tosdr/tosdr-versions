@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for resolving things quickly, much appreciated.
+1\. The service was perfect and the configuration easy 2. It's a good idea to let people try the service. I would never pay for such a service without being sure that it works and that the connection is good.
 
-Vikki Read
+Patrizia Franchini
