@@ -57,6 +57,8 @@ Menu
 
   [![Home](https://www.wta.org/++theme++plonetheme.wta/images/svg/home-icon.svg)](https://www.wta.org/) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)[Our Work](https://www.wta.org/our-work) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)  [About Us](https://www.wta.org/our-work/about) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)  Privacy Policy
 
+[link](https://www.wta.org/portlets/photo-contest/embedded)
+
 Privacy Policy WTA's privacy policy, including collection of personal information and cookies. https://www.wta.org/our-work/about/privacy https://www.wta.org/@@site-logo/wta-logo.png
 
 Privacy Policy
