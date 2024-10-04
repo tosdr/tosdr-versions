@@ -54,7 +54,7 @@
 * [Motion Raceworks](https://www.motionraceworks.com/)
 * [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
 
-[Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en)
+[Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en&region_country=US)
 
 Country/region
 --------------
@@ -354,7 +354,7 @@ United States | USD $
 * [Motion Raceworks](https://www.motionraceworks.com/)
 * [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
 
- Search [Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en) [Cart](https://www.cleetusmcfarland.com/cart)
+ Search [Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en&region_country=US) [Cart](https://www.cleetusmcfarland.com/cart)
 
 Item added to your cart
 -----------------------
