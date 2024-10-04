@@ -192,7 +192,7 @@ Select a region (US)United States中国Deutschland日本EMEAAPACUnited KingdomFr
     * [Identity: CORE ID](https://www.epsilon.com/us/products-and-services/identity-core-id)
     * [Data](https://www.epsilon.com/us/products-and-services/data)
     * [Publishers](https://www.epsilon.com/us/products-and-services/publishers)
-    * [Strategic Consulting](https://www.epsilon.com/us/products-and-services/marketing-services/strategic-consulting)
+    * [Epsilon Services](https://www.epsilon.com/us/products-and-services/marketing-services)
 * Industries
     ----------
     
