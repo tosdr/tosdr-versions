@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/hurricanes-cause-more-deaths-after-storms-pass-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/black-colored-plastic-linked-toxic-flame-retardants-1440x810.jpg)
 
-Hurricanes Can Cause Deaths for 15 Years Afterward](https://www.everydayhealth.com/public-health/hurricanes-can-cause-deaths-for-fifteen-years-afterwards/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Black Plastic Cookware and Takeout Containers May Contain Toxic Chemicals](https://www.everydayhealth.com/public-health/black-plastic-cookware-may-contain-toxic-chemicals/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/measure-body-roundness-risk-cardiovascular-disease-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/fewer-black-americans-dying-1440x810.jpg)
 
-Body Roundness Index May Help Predict Heart Disease Risk](https://www.everydayhealth.com/heart-health/body-roundness-index-may-help-predict-heart-disease-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Black Americans Are Still More Likely to Die Early Than Their White Peers](https://www.everydayhealth.com/black-health/black-americans-more-likely-to-die-early-compared-to-their-white-peers/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
