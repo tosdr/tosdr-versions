@@ -124,9 +124,9 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 ##### Policy areas
 
 * [Agrifood](https://www.euractiv.com/sections/agriculture-food/)
-* [Energy, Environment & Transport](https://www.euractiv.com/sections/energy-environment/)
+* [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 * [Health](https://www.euractiv.com/sections/health-consumers/)
-* [Technology](https://www.euractiv.com/sections/digital/)
+* [Technology](https://www.euractiv.com/sections/tech)
 
 ##### Newsletters
 
