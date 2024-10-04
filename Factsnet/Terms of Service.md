@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Duodenal Atresia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-duodenal-atresia/)
+[![50 Facts About Cora Jade ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-cora-jade/)
 
-Health Science
+Celebrity
 
-03 Oct 2024
+04 Oct 2024
 
-[50 Facts About Duodenal Atresia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-duodenal-atresia/)
+[50 Facts About Cora Jade](https://facts.net/celebrity/50-facts-about-cora-jade/)
 
-[![40 Facts About Bunsenite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-bunsenite/)
+[![36 Facts About Paul Is Dead ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/36-facts-about-paul-is-dead/)
 
-Earth Sciences
+Celebrity
 
-03 Oct 2024
+04 Oct 2024
 
-[40 Facts About Bunsenite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-bunsenite/)
+[36 Facts About Paul Is Dead](https://facts.net/celebrity/36-facts-about-paul-is-dead/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
