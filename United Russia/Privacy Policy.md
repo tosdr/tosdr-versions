@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/October2024/gFRjJG9ndMBdIl9E7mZr-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
+
+[«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#праздники](https://er.ru/activity/news?tags%5B0%5D=5064) [#подарки](https://er.ru/activity/news?tags%5B0%5D=3902)
+
+Сегодня 14:46
+
+[![«Единая Россия» передала гуманитарную помощь жителям ДНР](https://cdn.er.ru/media/news/October2024/UNHbkpHDOR3GY9tRhpoW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-zhitelyam-dnr)
+
+[«Единая Россия» передала гуманитарную помощь жителям ДНР](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-zhitelyam-dnr)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
+
+Сегодня 13:56
+
 [![Владимир Якушев пожелал Артёму Жоге удачи на посту полпреда УрФО](https://cdn.er.ru/media/news/October2024/WwgSu4yoSxzZ7W9ncCC1-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pozhelal-artyomu-zhoge-udachi-na-postu-polpreda-urfo)
 
 [Владимир Якушев пожелал Артёму Жоге удачи на посту полпреда УрФО](https://er.ru/activity/news/vladimir-yakushev-pozhelal-artyomu-zhoge-udachi-na-postu-polpreda-urfo)
@@ -328,22 +344,6 @@
 [«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
 
 [#Хубезов](https://er.ru/activity/news?tags%5B0%5D=151297) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЗдоровоеБудущее](https://er.ru/activity/news?tags%5B0%5D=1091239) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#готовксанитарнойобороне](https://er.ru/activity/news?tags%5B0%5D=1095557) [#перваяпомощь](https://er.ru/activity/news?tags%5B0%5D=109898) [#курсы](https://er.ru/activity/news?tags%5B0%5D=5653) [#оказаниепомощи](https://er.ru/activity/news?tags%5B0%5D=136712) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
-
-03.10.24
-
-[![Секретарь Кабардино-Балкарского отделения «Единой России» Казбек Коков переизбран главой Республики](https://cdn.er.ru/media/news/October2024/2hXI5iBdT0T4kVp3VXNI-small.jpg)](https://er.ru/activity/news/sekretar-kabardino-balkarskogo-otdeleniya-edinoj-rossii-kazbek-kokov-pereizbran-glavoj-respubliki)
-
-[Секретарь Кабардино-Балкарского отделения «Единой России» Казбек Коков переизбран главой Республики](https://er.ru/activity/news/sekretar-kabardino-balkarskogo-otdeleniya-edinoj-rossii-kazbek-kokov-pereizbran-glavoj-respubliki)
-
-[#Коков](https://er.ru/activity/news?tags%5B0%5D=51908) [#Кабардино-Балкарская Республика](https://er.ru/activity/news?tags%5B0%5D=1091050) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#главарегиона](https://er.ru/activity/news?tags%5B0%5D=130296) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
-
-03.10.24
-
-[![Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://cdn.er.ru/media/news/October2024/068iMCTdisk2ig34JYw0-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
-
-[Дмитрий Вяткин: Проект федерального бюджета - это бюджет Победы и экономического роста](https://er.ru/activity/news/dmitrij-vyatkin-proekt-federalnogo-byudzheta-eto-byudzhet-pobedy-i-ekonomicheskogo-rosta)
-
-[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#экономический рост](https://er.ru/activity/news?tags%5B0%5D=15324) [#достижение целей](https://er.ru/activity/news?tags%5B0%5D=48415) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
 03.10.24
 
