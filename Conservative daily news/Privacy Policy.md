@@ -1,4 +1,4 @@
-Thursday, October 3 2024
+Friday, October 4 2024
 
 Breaking News
 
@@ -177,6 +177,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Springfield Echelon Comp 4.5F 9mm](https://www.thegunpage.com/tfb-review-springfield-echelon-comp-4-5f-9mm/10610984)
+* [POTD: The LWRCI REPR Mk II Elite with Kahles K328i Riflescope](https://www.thegunpage.com/potd-the-lwrci-repr-mk-ii-elite-with-kahles-k328i-riflescope/10610985)
+* [Concealed Carry Corner: Red Dot Rundown](https://www.thegunpage.com/concealed-carry-corner-red-dot-rundown/10610986)
 * [9mm Self-Defense Ammo: Top Picks for Maximum Stopping Power and Reliability](https://www.thegunpage.com/9mm-self-defense-ammo-top-picks-for-maximum-stopping-power-and-reliability/10610980)
 * [IWI US, Inc. Firearms Manufacturing Coming To Andersonville, TN](https://www.thegunpage.com/iwi-us-inc-firearms-manufacturing-coming-to-andersonville-tn/10610982)
 * [Ultimate Defense Technologies Gets a Warm Montana Welcome](https://www.thegunpage.com/ultimate-defense-technologies-gets-a-warm-montana-welcome/10610975)
@@ -184,9 +187,6 @@ Recent Posts
 * [Harris Imports Crime; Wants to Leave Americans Helpless](https://www.thegunpage.com/harris-imports-crime-wants-to-leave-americans-helpless/10610971)
 * [Angstadt Arms' NEW HUB Compatible Integral Suppressor – The Prophet](https://www.thegunpage.com/angstadt-arms-new-hub-compatible-integral-suppressor-the-prophet/10610966)
 * [Facebook, Instagram Interfere With NRA Election Efforts](https://www.thegunpage.com/facebook-instagram-interfere-with-nra-election-efforts/10610965)
-* [TFB Behind the Gun #135: TriggrCon 2024 Wrap-Up with Dave Timm](https://www.thegunpage.com/tfb-behind-the-gun-135-triggrcon-2024-wrap-up-with-dave-timm/10610967)
-* [VP Debate: Contrast Was Clear on Second Amendment Views](https://www.thegunpage.com/vp-debate-contrast-was-clear-on-second-amendment-views/10610961)
-* [New: Gemtech Direct Thread Abyss, Neutron Suppressors](https://www.thegunpage.com/new-gemtech-direct-thread-abyss-neutron-suppressors/10610974)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782455)
+* KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782454)
 * KayCee on [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/#comment-782447)
 * KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782446)
 * charles wilkins on [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/#comment-782444)
@@ -235,8 +237,6 @@ Recent Comments
 * Richard McDonough on [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/#comment-782382)
 * Stanley Warner on [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/#comment-782381)
 * Stanley Warner on [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/#comment-782380)
-* [Bill](http://conservativedailynews.com/) on [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/#comment-782365)
-* WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 
 [Close](#)
 
