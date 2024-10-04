@@ -568,7 +568,7 @@ SIDE-BY-SIDE COMPARISONS
 
 English
 
-[Deutsch](https://de.aidaform.com/privacy-policy.html)
+[Deutsch](https://de.aidaform.com/privacy-policy.html) [Français](https://fr.aidaform.com/privacy-policy.html)
 
 * [](https://www.facebook.com/aidaformofficial/)
 * [](https://www.instagram.com/aidaform/)
