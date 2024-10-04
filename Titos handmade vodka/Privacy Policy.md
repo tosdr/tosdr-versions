@@ -15,7 +15,7 @@
 Privacy Policy
 ==============
 
-Last Updated: July 19, 2024
+Last Updated: October 4, 2024
 
 Protecting your personal information is important to us. This Privacy Policy explains how we at Fifth Generation, Inc. (“Company”) collect and use personal information when you visit our website(s), browse and shop Tito’s Handmade Vodka® and merchandise, and use our services and applications (the “Services”). By accessing and using our Services, in person and online, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.  
 
@@ -128,7 +128,7 @@ You can manage your TikTok Ad Preferences [here](https://support.tiktok.com/en/a
 
 You can manage your Epsilon Ad Preferences [here](https://legal.epsilon.com/dsr/).
 
-You may manage your receipt of emails by clicking on the “unsubscribe” link located on the bottom of most emails from Company. Alternatively, you can email us at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection) and we will help you out. We will use commercially reasonable efforts to process such requests in a timely manner.
+You may manage your receipt of emails by clicking on the “unsubscribe” link located on the bottom of most emails from Company. Alternatively, you can email us at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection)and we will help you out. We will use commercially reasonable efforts to process such requests in a timely manner.
 
 **Privacy Rights**
 
@@ -146,20 +146,20 @@ If you want to exercise any of these rights, please email us at [\[email protec
 
 You also have the right to opt-out of targeted advertising, which you can exercise by managing cookies through our cookie preference center. We also respect GPC signals.
 
-_Colorado, Connecticut, Virginia, and Utah_
-
-Privacy laws in these states give consumers certain rights with respect to their personal data, when they take effect over the course of 2023. Those rights include:
+_Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia_  
+  
+Privacy laws in these states give consumers certain rights with respect to their personal data. Those rights include:
 
 1. Right to Access Information. You have the right to access and obtain a copy of your personal data.
 2. Right to Request Deletion. You have the right to request that we delete personal data provided by or obtained about you.
 3. Right to Correct. You have the right to correct inaccuracies in your personal data.
 4. Right to Opt-Out of Targeted Advertising. You can ask us to not use or disclose your information for the purposes of targeting advertising to you based on your personal information obtained from your activity across different businesses, services, websites, etc.
 
-To submit a request to exercise your access, deletion, or correction privacy rights, please email us at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection) with the subject line “Privacy Rights Request” and let us know in which state you live. Please see the California section for a description of how to exercise your right to opt-out of targeted advertising.
+To submit a request to exercise your access, deletion, or correction privacy rights, please email us at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection) with the subject line “Privacy Rights Request” and let us know in which state you live. Please see the California section for a description of how to exercise your right to opt-out of targeted advertising.  
+  
+Residents of Colorado, Connecticut, Montana, Oregon, Texas, and Virginia can appeal a refusal to take action on a request by contacting us by email at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection).
 
-Residents of Colorado, Connecticut, and Virginia can appeal a refusal to take action on a request by contacting us by email at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection).
-
-_United Kingdom and European Economic Area_
+_United Kingdom and European Economic Area_  
 
 If you live in the United Kingdom or European Economic Area, you have the following rights:
 
