@@ -45,9 +45,8 @@
 * [API](https://api.iplocation.net/)
 * [Games](https://www.iplocation.net/games)
 * [Reviews](https://www.iplocation.net/catalog)
+    * [Top 10 Reviews](https://www.iplocation.net/top-10-reviews)
     * [Product Reviews](https://www.iplocation.net/catalog)
-    * [Best Website Builders](https://www.iplocation.net/best-website-builders)
-    * [Best Proxy Providers](https://www.iplocation.net/best-proxy-providers)
 * [Blog](https://www.iplocation.net/blog)
 
 Privacy Policy
@@ -129,10 +128,10 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Data & Database (19)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (110)](https://www.iplocation.net/blog/category/digital-marketing)
 * [Education (36)](https://www.iplocation.net/blog/category/education)
-* [Email (67)](https://www.iplocation.net/blog/category/email)
+* [Email (68)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (14)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
-* [Finance (60)](https://www.iplocation.net/blog/category/finance)
+* [Finance (61)](https://www.iplocation.net/blog/category/finance)
 * [Games (54)](https://www.iplocation.net/blog/category/games)
 * [Healthcare (22)](https://www.iplocation.net/blog/category/healthcare)
 * [Internet of Things (22)](https://www.iplocation.net/blog/category/iot)
