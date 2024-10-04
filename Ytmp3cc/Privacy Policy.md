@@ -1,6 +1,6 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/4sJT/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/1yVa/)
 
-[Home](https://ytmp3.cc/4sJT/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
+[Home](https://ytmp3.cc/1yVa/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Privacy Policy
 ==============
@@ -37,4 +37,4 @@ If you upload, access or transmit any illegal or unauthorized material to or thr
 Miscellaneous  
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the Internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
 
-[Contact](https://ytmp3.cc/contact/)[Copyright Claims](https://ytmp3.cc/copyright-claims/)[Privacy Policy](https://ytmp3.cc/privacy-policy/)[Terms of Use](https://ytmp3.cc/terms-of-use/)
+[Contact](https://ytmp3.cc/contact-1/)[Copyright Claims](https://ytmp3.cc/copyright-claims-1/)[Privacy Policy](https://ytmp3.cc/privacy-policy-1/)[Terms of Use](https://ytmp3.cc/terms-of-use-1/)
