@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-slavernij-van-de-mensheid-komt-ten-einde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/vrijheid-is-in-liefde-zijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
