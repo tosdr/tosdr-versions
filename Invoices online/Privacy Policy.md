@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Henry Venter
+Johan Botha - Brand Xplosion
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=120219786)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=111019405)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=62006021)  
-Waterfinatics Swim School
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=114034417)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=12969837)  
-Abandoned Vehicle and Truck Solutions
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=108451064)  
+Nogana Events and Decor
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=156160863)  
-Vplay Grafix
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=200772322)  
+Lindani Protection Services & Projects
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=149443713)  
-Eruca (PTY)Ltd
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=187839671)  
+Kara Medical (Pty) Ltd
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=127689917)  
-PROGRAPHIX PTY LTD
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=88531328)  
+LEONARD
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=40547880)  
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=138354918)  
+Network Grey (Pty) Ltd
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=46753490)  
+Itroniq (Pty) Ltd
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=158633015)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=174617085)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=170011001)  
+Know Informatics
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=190012894)  
+Westside Car Audio CC
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=81165103)  
+Dombieterfontein (PTY) LTD
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=192203775)  
 Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=38342204)  
-Lily Fern & Co
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=120933118)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=214647136)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=134211789)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=122463639)  
-All Trucking Solutions
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=212566344)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=24297412)  
-AquariumSmiths
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=6488e3011fd19aec8cc427e0dfab02633ee037c6632f18131279dc5715639f4c&c=198818556)  
-One2b
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=80895073)  
+Quad Biking Cape Town
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
