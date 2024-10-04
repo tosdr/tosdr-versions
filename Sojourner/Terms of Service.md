@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-17e58a63c4d28e743ecd96cba85ab7bc
+35d103bb35a87324adbb30f287f70011
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Flat-back two-hole beads](https://sojourner.biz/images/cache/glass/GL0305.200.jpg)](https://sojourner.biz/beads/glass/flat-back-two-hole-beads.html "Flat-back two-hole beads")
+[![10 mm faceted light amethyst beads](https://sojourner.biz/images/cache/amethyst/YST015.200.jpg)](https://sojourner.biz/beads/stone-a-l/amethyst/10-mm-faceted-light-amethyst-beads.html "10 mm faceted light amethyst beads")
 
-#### [Flat-back two-hole beads](https://sojourner.biz/beads/glass/flat-back-two-hole-beads.html "Flat-back two-hole beads")
+#### [10 mm faceted light amethyst beads](https://sojourner.biz/beads/stone-a-l/amethyst/10-mm-faceted-light-amethyst-beads.html "10 mm faceted light amethyst beads")
 
-$6.00
+$28.00
 
 ### Best Sellers
 
