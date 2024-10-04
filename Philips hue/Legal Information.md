@@ -1,4 +1,4 @@
-[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg)](https://www.philips-hue.com/en-us)
+[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg)](https://www.philips-hue.com/)
 
 * [Shop](https://www.philips-hue.com/en-us/products)
     
@@ -156,8 +156,6 @@
     
     Apps](https://www.philips-hue.com/en-us/explore-hue/apps)
     
-
-[Support](https://www.philips-hue.com/en-us/support/faq)
 
 [](https://www.philips-hue.com/en-us/cart "My cart")
 
