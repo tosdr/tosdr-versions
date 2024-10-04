@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Last NightMorgan Wallen<br><br>11:39am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>11:36am |
-| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>11:32am |
-| Pretty Little PoisonWarren Zeiders<br><br>11:29am |
-| Miles On ItKane Brown Ft Marshmello<br><br>11:26am |
+| Pink SkiesZach Bryan<br><br>5:39pm |
+| Good VibesChris Janson<br><br>5:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:33pm |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>5:31pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,6 +358,10 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -366,13 +370,9 @@ News Talk • Eastern
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
