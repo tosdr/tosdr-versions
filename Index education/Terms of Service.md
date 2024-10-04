@@ -197,12 +197,17 @@ La société INDEX ÉDUCATION
 * [Histoire](https://www.index-education.com/fr/presentation.php)
 * [Offres d'emploi](https://www.index-education.com/fr/nous-recrutons.php)
 * [Contact](https://www.index-education.com/fr/contacts.php)
+* [Schéma pluriannuel d'accessibilité numérique](https://www.index-education.com/fr/article-1618-schema-pluriannuel-accessibilite.php)
 
-Légal Sites internet* [Mentions légales et conditions générales d'utilisation de nos sites internet](https://www.index-education.com/fr/mentions-legales.php)
+Légal Sites internet
+
+* [Mentions légales et conditions générales d'utilisation de nos sites internet](https://www.index-education.com/fr/mentions-legales.php)
 * [Politique de confidentialité](https://www.index-education.com/fr/politique-confidentialite.php)
 * [Utilisation des cookies](https://www.index-education.com/fr/utilisation-cookies.php)
 
-Légal produits* [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
+Légal produits
+
+* [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
 INDEX ÉDUCATION | © 2024 \- D
