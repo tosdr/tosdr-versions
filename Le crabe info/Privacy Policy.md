@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 684 utilisateurs actifs
+##### 741 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Télécharger les ISO de Windows 11 LTSC (Entreprise et IoT Entreprise)](https://lecrabeinfo.net/telecharger-les-iso-de-windows-11-ltsc-entreprise-et-iot-entreprise.html)
 * [Windows 11 : forcer la mise à jour 24H2 sur un PC non compatible](https://lecrabeinfo.net/windows-11-forcer-la-mise-a-jour-24h2-sur-un-pc-non-compatible.html)
 * [Microsoft Surface Copilot PC : tout ce qu'il faut savoir sur les nouveaux modèles disponibles](https://lecrabeinfo.net/microsoft-surface-copilot-pc-tout-ce-quil-faut-savoir-sur-les-nouveaux-modeles-disponibles.html)
-* [Windows 11 24H2 : la liste des bugs et problèmes connus (à consulter avant d'installer la mise à jour)](https://lecrabeinfo.net/windows-11-24h2-la-liste-des-bugs-et-problemes-connus-a-consulter-avant-dinstaller-la-mise-a-jour.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 543 membres
-* 911 articles
-* 26 616 commentaires
+* 68 546 membres
+* 912 articles
+* 26 620 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
