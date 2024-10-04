@@ -101,6 +101,7 @@ The list below details the cookies used on Not On The High Street. We have outli
 | Analytics & experience testing | Sentry | Sentry monitors web applications in real-time allowing us to measure and monitor the performance of our applications and infrastructure. We use Sentry to capture page load times as well as request response time to ensure that we are delivering a high quality of service. |
 | Analytics & experience testing | Attentive | Not On The High Street uses Attentive to track and store analytics data to provide an optimised user experience. |
 | Analytics & experience testing / Functional | Google Retail, Loop54 | Google Retail Search and Loop54 collect search data on our website and/or app to inform our algorithm to make it more effective and accurate, as well as for personalising the experience for our users. |
+| Analytics & experience testing | Hotjar | Hotjar is a technology service that uses cookies and other technologies to collect user data to improve the user experience and optimise the service. Hotjar cookies are stored in a user's browser and are used to analyse their behaviour and usability |
 | Functional | GetFeedback | GetFeedback uses a functional cookie on our website and/or app to track whether visitors are new or returning users. |
 | Functional | Social Media plugins | Sites such as Facebook and Pinterest serve cookies in order to be able to share and discuss Not On The High Street’s products on social networks. |
 | Targeting/advertising | Ometria | Not On The High Street uses tags by Ometria so that Ometria can tie users’ behaviour on our website and/or app to Not On The High Street’s marketing notifications and to use said behaviour as triggers (for instance, for ‘Price drop’ emails). Ometria uses cookies to collect data that helps us understand how users are using our site and/or app, and to help tailor our marketing activities accordingly. If you are logged-in to our site, the Ometria cookie will contain your email address. |
@@ -133,7 +134,7 @@ If cookies aren't enabled on your computer, it will mean that your user experien
 
 If you have any questions on this policy, please [Contact Us](https://info.notonthehighstreet.com/hc/en-us/articles/207113987-How-do-I-contact-you-).
 
-**Last updated: September 2024**
+**Last updated: October 2024**
 
 ### Get first dibs
 
