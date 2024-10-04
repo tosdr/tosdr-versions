@@ -389,9 +389,9 @@
         
         The Equifax commitment to data accuracy and consumer experience helps empower consumers in their financial lives
         
-        [Environmental, Social and Governance Priorities](https://www.equifax.com/about-equifax/environmental-social-governance/)
+        [Responsible Business Priorities](https://www.equifax.com/about-equifax/environmental-social-governance/)
         
-        See Our Enviromental, Social and Governance Priorities.
+        See Our Responsible Business Priorities
         
     * [Why Equifax](#)
         
