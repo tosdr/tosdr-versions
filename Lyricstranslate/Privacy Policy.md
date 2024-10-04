@@ -107,67 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![MattsunSanAddict](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1549618-1706574407.png)](https://lyricstranslate.com/en/translator/mattsunsanaddict "MattsunSanAddict")
+[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
 
 New translation
 
-[Golden Child - Genie](https://lyricstranslate.com/en/golden-child-genie-thai)
+[Coldplay - Jupiter](https://lyricstranslate.com/en/coldplay-jupiter-dutch)
 
-Korean → Thai
+English → Dutch
 
-[![Suze](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1469228-1718476904.jpg)](https://lyricstranslate.com/en/translator/suze "Suze")
-
-Transcription request fulfilled
-
-[Durf Te Dromen](https://lyricstranslate.com/en/droomvlucht-de-musical-o-durf-te-dromen-lyrics)
-
-Dutch
-
-[![Suze](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1469228-1718476904.jpg)](https://lyricstranslate.com/en/translator/suze "Suze")
+[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
 
 New song
 
-[Droomvlucht De Musical (OST) - Durf Te Dromen](https://lyricstranslate.com/en/droomvlucht-de-musical-o-durf-te-dromen-lyrics)
+[My Little Pony: A New Generation (OST) - 밝게 빛나 \[Glowin' Up\]](https://lyricstranslate.com/en/my-little-pony-new-gen-balg-ge-bichna-lyrics)
 
-Dutch
+Korean
 
-[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
-
-New translation
-
-[Milva - La folla](https://lyricstranslate.com/en/milva-la-folla-polish)
-
-Italian → Polish
-
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+[![ежиквтумане](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1174292-1685294567.jpg)](https://lyricstranslate.com/en/translator/%D0%B5%D0%B6%D0%B8%D0%BA%D0%B2%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%B5 "ежиквтумане")
 
 New comment
 
-Hi Mattia, gelungen! Nebenbei: "la grana" hat ...  [more](https://lyricstranslate.com/en/comment/1168067#comment-1168067)
+поэтический, не дословный; rhythmische ...  [more](https://lyricstranslate.com/en/comment/1168319#comment-1168319)
 
-[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
 
-New translation
+New song
 
-[La Oreja de Van Gogh - Cuídate](https://lyricstranslate.com/en/la-oreja-de-van-gogh-cuidate-polish)
+[My Little Pony: A New Generation (OST) - 널 보호 해줄게 \[I'm Looking Out For You\]](https://lyricstranslate.com/en/my-little-pony-new-gen-neol-boho-haejulge-lyrics)
 
-Spanish → Polish
+Korean
 
-[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
-
-New translation
-
-[Georges Moustaki - Heureusement qu' il y a de l' herbe](https://lyricstranslate.com/en/georges-moustaki-heureusement-qu-il-y-d-polish)
-
-French → Polish
-
-[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
 
 New translation
 
-[Els Catarres - Un sostre fet d'estrelles](https://lyricstranslate.com/en/els-catarres-un-sostre-fet-destrelles-polish)
+[Perman (OST) - パーマンはそこにいる (Perman wa soko ni iru)](https://lyricstranslate.com/en/perman-ost-perman-wa-soko-ni-iru-transliteration)
 
-Catalan → Polish
+Japanese → Transliteration
+
+[![ежиквтумане](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1174292-1685294567.jpg)](https://lyricstranslate.com/en/translator/%D0%B5%D0%B6%D0%B8%D0%BA%D0%B2%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%B5 "ежиквтумане")
+
+New comment
+
+поэтический, не дословный; rhythmische ...  [more](https://lyricstranslate.com/en/comment/1168318#comment-1168318)
+
+[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+
+New translation
+
+[LMNT - Hey Juliet](https://lyricstranslate.com/en/lmnt-hey-juliet-french)
+
+English → French
+
+[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+
+New translation
+
+[LMNT - Hey Juliet](https://lyricstranslate.com/en/lmnt-hey-juliet-spanish)
+
+English → Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
