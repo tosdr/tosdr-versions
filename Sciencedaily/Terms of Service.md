@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [How Pterosaurs Became Towering Terrestrial ...](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
+* [Auditory 'Sixth Sense' in Geckos](https://www.sciencedaily.com/releases/2024/10/241004121658.htm)
+* [Kids: Half Calories from Ultra-Processed Foods](https://www.sciencedaily.com/releases/2024/10/241003221629.htm)
 * [Living Microbes Inside 2-Billion-Year-Old Rock](https://www.sciencedaily.com/releases/2024/10/241003123543.htm)
 * [Climate and Iron Nuggets in the Pinnacles](https://www.sciencedaily.com/releases/2024/10/241002154040.htm)
 * [Missing Link to First Stars in Odd Galaxy](https://www.sciencedaily.com/releases/2024/10/241003152018.htm)
@@ -236,9 +239,6 @@ this hour
 * [Turning Brain Cells On Using Light-Power](https://www.sciencedaily.com/releases/2024/10/241003145454.htm)
 * [Ant Agriculture Began 66 Million Years Ago](https://www.sciencedaily.com/releases/2024/10/241003145441.htm)
 * [Global Impact of Human-Caused Species-Loss](https://www.sciencedaily.com/releases/2024/10/241003145435.htm)
-* [Stem Cell Transplants Close Macular Holes](https://www.sciencedaily.com/releases/2024/10/241003123121.htm)
-* [Animal Movements Accurately Replicated](https://www.sciencedaily.com/releases/2024/10/241002104709.htm)
-* [Plastic-Eating Microbe in Wastewater](https://www.sciencedaily.com/releases/2024/10/241003123307.htm)
 
 Trending Topics
 ---------------
@@ -249,25 +249,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
-
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
