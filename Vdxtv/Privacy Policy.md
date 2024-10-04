@@ -189,7 +189,7 @@ We do not offer financial incentives associated with our collection, use, or dis
 We may collect certain information when you visit websites or digital settings that include our online technology.  Such information includes:
 
 * Internet Protocol (“IP”) Address: An address provided by your internet service provider (“ISP”) to connect you to the internet and enable delivery of your online requests. The IP address gives a broad, non-precise, indication of geographic location.
-* Cookie Identifier: A cookie (data file) with the following properties:some text
+* Cookie Identifier: A cookie (data file) with the following properties:
     * Name: ANON\_ID, Domain: [tribalfusion.com](http://tribalfusion.com/), Value: a hashed value representing a pseudonymous ID, Expiry: 90 days 
 * Device ID: an identifier such as IFA relating to the CTV device where content is being viewed.
 * User Agent: Information related to the web browser that acts on your behalf and enables your interaction with web content.
