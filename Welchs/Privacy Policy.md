@@ -9,10 +9,10 @@ I Agree
 * [Juices](https://www.welchs.com/juices/)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/5a0c86daf1/grapeade-green-grape-v3.png)Grape'ade](https://www.welchs.com/juices/grapeade)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/8b3255ae12/zero-sugar-drink.png)Zero Sugar Drinks](https://www.welchs.com/juices/zero-sugar-drink)
-    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/6411718c85/100-concord-grape-juice.png)100% Juices](https://www.welchs.com/juices/100-percent)
-    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/41f280770d/orange-pineapple-apple-juice.png)Juice Drinks](https://www.welchs.com/juices/drinks)
-    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/87a6bc0fa8/passion-fruit-juice-3.png)Refrigerated Juices](https://www.welchs.com/juices/refrigerated)
-    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/833x833/48a322e4ad/diet-concord-grape.png)Diet & Light Juices](https://www.welchs.com/juices/diet)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/104cb860ef/juice-category-100percent.png)100% Juices](https://www.welchs.com/juices/100-percent)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/8d671d92ff/juice-category-juicedrinksandcocktails.png)Juice Drinks](https://www.welchs.com/juices/drinks)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/3a396f68f8/juice-category-refrigerated.png)Refrigerated Juices](https://www.welchs.com/juices/refrigerated)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/17fb67fb19/juice-category-dietandlight.png)Diet & Light Juices](https://www.welchs.com/juices/diet)
     * [See All](https://www.welchs.com/juices/)
 * [Fruit Spreads](https://www.welchs.com/fruit-spreads/)
 * [Sparkling Juices](https://www.welchs.com/sparkling/)
@@ -134,6 +134,7 @@ Subscribe to Welch's newsletter
 Your email was successfully received.
 
 * [Ethical Supply Chain Practices](https://www.welchs.com/ethical-supply-chain)
+* [Supplier Code of Conduct](https://www.welchs.com/supplier-code-of-conduct)
 * [Privacy Policy](https://www.welchs.com/privacy-policy)
 * [CA Privacy Policy](https://www.welchs.com/ca-privacy-policy)
 * [Terms of Use](https://www.welchs.com/terms-of-use)
