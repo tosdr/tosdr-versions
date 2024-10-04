@@ -1,4 +1,4 @@
-![](https://dc.ads.linkedin.com/collect/?pid=6284474&fmt=gif)          [Skip to content](#content)
+![](https://dc.ads.linkedin.com/collect/?pid=6284474&fmt=gif)            [Skip to content](#content)
 
 [![TRUSTX logo](https://trustx.org/wp-content/uploads/2023/03/5e2cc637b0943f1199c0710f_TrustX-logo.png)](https://trustx.org/)
 
