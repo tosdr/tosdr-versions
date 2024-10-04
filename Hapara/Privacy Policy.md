@@ -1,54 +1,54 @@
-[![Hāpara](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OTEgMTYwIiB3aWR0aD0iNDkxIiBoZWlnaHQ9IjE2MCIgZGF0YS11PSJodHRwcyUzQSUyRiUyRnd3dy5oYXBhcmEuY29tJTJGd3AtY29udGVudCUyRnVwbG9hZHMlMkZoYXBhcmEtbG9nby0yMDIwLnN2ZyIgZGF0YS13PSI0OTEiIGRhdGEtaD0iMTYwIiBkYXRhLWJpcD0iIj48L3N2Zz4=)](https://www.hapara.com/)
+[![Hāpara](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OTEgMTYwIiB3aWR0aD0iNDkxIiBoZWlnaHQ9IjE2MCIgZGF0YS11PSJodHRwcyUzQSUyRiUyRmhhcGFyYS5jb20lMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRmhhcGFyYS1sb2dvLTIwMjAuc3ZnIiBkYXRhLXc9IjQ5MSIgZGF0YS1oPSIxNjAiIGRhdGEtYmlwPSIiPjwvc3ZnPg==)](https://hapara.com/)
 
 * Solutions
     * [Col 1](#)
         * Hāpara buyer’s guideLearn how Hāpara stacks up against other classroom management platforms.
-        * [Get the free guide](https://www.hapara.com/buyers-guide/)
+        * [Get the free guide](https://hapara.com/buyers-guide/)
     * [Col 2](#)
         * Our K-12 Edtech Solutions
-        * [Classroom managementKeep learners safe and focused.](https://www.hapara.com/classroom-management/)
-        * [Instructional managementDifferentiate instruction and personalize learning.](https://www.hapara.com/instructional-management/)
+        * [Classroom managementKeep learners safe and focused.](https://hapara.com/classroom-management/)
+        * [Instructional managementDifferentiate instruction and personalize learning.](https://hapara.com/instructional-management/)
     * [Col 3](#)
         * Customer Stories
-        * [Buffalo Trail Public Schools](https://www.hapara.com/blog/sharing-is-caring-in-buffalo-trail-public-schools/)
-        * [Prince George’s County Public Schools](https://www.hapara.com/blog/how-prince-georges-county-public-schools-successfully-created-and-implemented-a-k-12-tech-rollout-roadmap-across-their-school-district/)
-        * [Wolf Creek Public Schools](https://www.hapara.com/blog/creating-success-for-all-learners-at-wolf-creek-public-schools/)
-        * [Alberta Collaboration for Learning](https://www.hapara.com/blog/driving-equity-in-alberta-canada-through-collaboration/)
+        * [Buffalo Trail Public Schools](https://hapara.com/blog/sharing-is-caring-in-buffalo-trail-public-schools/)
+        * [Prince George’s County Public Schools](https://hapara.com/blog/how-prince-georges-county-public-schools-successfully-created-and-implemented-a-k-12-tech-rollout-roadmap-across-their-school-district/)
+        * [Wolf Creek Public Schools](https://hapara.com/blog/creating-success-for-all-learners-at-wolf-creek-public-schools/)
+        * [Alberta Collaboration for Learning](https://hapara.com/blog/driving-equity-in-alberta-canada-through-collaboration/)
         * [More customer stories >](https://hapara.com/blog/customer-stories/)
 * Products
     * [Col 1](#)
         * School/District PricingSee why Hāpara is the best value for safe and focused digital learning.
-        * [Get a quote](https://www.hapara.com/pricing/)
+        * [Get a quote](https://hapara.com/pricing/)
     * [Col 2](#)
         * Classroom Management
-        * [Web filterKeep learners safe.](https://www.hapara.com/filter/)
-        * [HighlightsSupport focus and digital citizenship.](https://www.hapara.com/highlights/)
-        * [Teacher DashboardEasily give formative feedback.](https://www.hapara.com/teacher-dashboard/)
+        * [Web filterKeep learners safe.](https://hapara.com/filter/)
+        * [HighlightsSupport focus and digital citizenship.](https://hapara.com/highlights/)
+        * [Teacher DashboardEasily give formative feedback.](https://hapara.com/teacher-dashboard/)
     * [Col 3](#)
         * Instructional Management
-        * [WorkspaceStreamline differentiation and personalization.](https://www.hapara.com/workspace/)
-        * [Student DashboardTeach executive functioning skills.](https://www.hapara.com/student-dashboard/)
+        * [WorkspaceStreamline differentiation and personalization.](https://hapara.com/workspace/)
+        * [Student DashboardTeach executive functioning skills.](https://hapara.com/student-dashboard/)
 * Resources
     * [Col 1](#)
         * Why Choose Hāpara?Discover why schools trust Hāpara in their classrooms.
-        * [Show me](https://www.hapara.com/why-schools-purchase-hapara-classroom-management-software/)
+        * [Show me](https://hapara.com/why-schools-purchase-hapara-classroom-management-software/)
     * [Col 2](#)
         * [Learning Center](#)
         * [BlogRead the latest in edtech.](https://hapara.com/blog/)
-        * [PodcastHear directly from students.](https://www.hapara.com/studentvoicepodcast/)
-        * [E-books and white papersDiscover digital learning strategies.](https://www.hapara.com/e-books/)
-        * [WebinarsExplore critical education topics.](https://www.hapara.com/blog/webinars/)
+        * [PodcastHear directly from students.](https://hapara.com/studentvoicepodcast/)
+        * [E-books and white papersDiscover digital learning strategies.](https://hapara.com/e-books/)
+        * [WebinarsExplore critical education topics.](https://hapara.com/blog/webinars/)
 * Customer Success
     * [Col 1](#)
         * Learn
-        * [Learning BytesQuickly level up your Hāpara skills.](https://www.hapara.com/micro-badging/)
-        * [Hāpara Champion ProgramEarn a certification.](https://www.hapara.com/get-certified/)
+        * [Learning BytesQuickly level up your Hāpara skills.](https://hapara.com/micro-badging/)
+        * [Hāpara Champion ProgramEarn a certification.](https://hapara.com/get-certified/)
     * [Col 2](#)
         * Find Help
         * [Hāpara CommunityConnect with educators worldwide.](https://community.hapara.com/)
         * [Support centerDiscover answers to your questions.](https://support.hapara.com/hc/en-us)
-        * [Contact usGet one-on-one guidance.](https://www.hapara.com/contact/)
-* [Pricing](https://www.hapara.com/pricing/)
+        * [Contact usGet one-on-one guidance.](https://hapara.com/contact/)
+* [Pricing](https://hapara.com/pricing/)
 *  [](#)
     * [Col 1](#)
         * [Search](#)
@@ -56,9 +56,9 @@
     * [Col 1](#)
         * [TeachersLog in to view your classes.](https://app.hapara.com/login)
         * [StudentsLog in to your Student Dashboard.](https://app.hapara.com/student/login)
-* [Request a demo](https://www.hapara.com/demo/)
+* [Request a demo](https://hapara.com/demo/)
 
-[](https://www.hapara.com/cart/)
+[](https://hapara.com/cart/)
 
 Select Page
 
@@ -71,7 +71,7 @@ Select Page
 
 **Updated: May 9, 2023**
 
-“Hapara” a division of Cordance Operations LLC. (“Hāpara”, “we,” “us,” “our”) provides this Privacy Policy because we know that you care about how your information is collected, used, shared and retained. This privacy policy applies only to information collected when you access our website located at [https://www.hapara.com/](https://www.hapara.com/) (“Website,” “site”) and by using the Services accessed at [app.hapara.com](http://app.hapara.com/), [teacherdashboard.com](http://teacherdashboard.com/) and [mystudentdashboard.com](http://mystudentdashboard.com/). By visiting the Website or using the Services, you consent to this Privacy Policy.
+“Hapara” a division of Cordance Operations LLC. (“Hāpara”, “we,” “us,” “our”) provides this Privacy Policy because we know that you care about how your information is collected, used, shared and retained. This privacy policy applies only to information collected when you access our website located at [https://hapara.com/](https://hapara.com/) (“Website,” “site”) and by using the Services accessed at [app.hapara.com](http://app.hapara.com/), [teacherdashboard.com](http://teacherdashboard.com/) and [mystudentdashboard.com](http://mystudentdashboard.com/). By visiting the Website or using the Services, you consent to this Privacy Policy.
 
 Our Services enable educational institutions (“Schools” or “Customers”) to make better use of their chosen Cloud platform — Google Workspace or Microsoft Office 365. Our Website serves as a channel for us to share information about our Services with current and potential Customers.
 
@@ -81,7 +81,7 @@ Our Services enable educational institutions (“Schools” or “Customers”) 
 
 Hāpara takes very seriously the security and privacy of the personal information that it collects pursuant to this privacy policy. Accordingly, we will implement reasonable and appropriate security measures to protect such personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. We have also committed to comply with the Student Privacy Pledge (coordinated by FutureofPrivacy.org).
 
-**[View Hāpara’s commitment to protecting student privacy](https://www.hapara.com/ethical-monitoring-practice/)**
+**[View Hāpara’s commitment to protecting student privacy](https://hapara.com/ethical-monitoring-practice/)**
 
 ### —
 
@@ -145,7 +145,7 @@ We do not sell student, teacher, or any other information in any form.
 
 **_Third-party service providers:_** Like many businesses, we hire other companies to perform certain business-related services. We may disclose personal information to certain types of third party companies but only to the extent needed to enable them to provide such services. The types of companies that may receive personal information and their functions are: mail services (hard copy and email); hosting services; database management/back-up services; real-time messaging services; monitoring services; product review sites; and payment processors. If Student Information is required, we encrypt it prior to transfer whenever possible. All such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this privacy policy and implemented by Hāpara.
 
-The list of third-party service providers with whom we share personal information to can be found [here](https://www.hapara.com/subprocessors).
+The list of third-party service providers with whom we share personal information to can be found [here](https://hapara.com/subprocessors).
 
 **_Business transfers_**_:_ In the event of a merger, dissolution or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including personal information, would be transferred to the surviving entity in a merger or the acquiring entity. All such transfers shall be subject to our commitments with respect to the privacy and confidentiality of such personal information as set forth in this privacy policy.
 
@@ -212,38 +212,38 @@ Hāpara’s principal headquarters are located at 16 W Martin Street, Raleigh, N
 * Email: [**privacy@hapara.com**](mailto:privacy@hapara.com)
 * Telephone: 650-847-1371
 
-![Hāpara logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OTEgMTYwIiB3aWR0aD0iNDkxIiBoZWlnaHQ9IjE2MCIgZGF0YS11PSJodHRwcyUzQSUyRiUyRnd3dy5oYXBhcmEuY29tJTJGd3AtY29udGVudCUyRnVwbG9hZHMlMkZoYXBhcmEtbG9nby0yMDIwLnN2ZyIgZGF0YS13PSI0OTEiIGRhdGEtaD0iMTYwIiBkYXRhLWJpcD0iIj48L3N2Zz4= "hapara-logo-cordance")
+![Hāpara logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OTEgMTYwIiB3aWR0aD0iNDkxIiBoZWlnaHQ9IjE2MCIgZGF0YS11PSJodHRwcyUzQSUyRiUyRmhhcGFyYS5jb20lMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRmhhcGFyYS1sb2dvLTIwMjAuc3ZnIiBkYXRhLXc9IjQ5MSIgZGF0YS1oPSIxNjAiIGRhdGEtYmlwPSIiPjwvc3ZnPg== "hapara-logo-cordance")
 
 Power awesome digital learning anywhere, anytime.
 -------------------------------------------------
 
 * Get Started
-    * [For monitoring](https://www.hapara.com/classroom-management/)
-    * [For instruction](https://www.hapara.com/instructional-management/)
-    * [Buyer’s guide](https://www.hapara.com/buyers-guide/)
-    * [Request a demo](https://www.hapara.com/demo/)
-    * [Request pricing](https://www.hapara.com/pricing/)
-    * [Our blog](https://www.hapara.com/blog/)
+    * [For monitoring](https://hapara.com/classroom-management/)
+    * [For instruction](https://hapara.com/instructional-management/)
+    * [Buyer’s guide](https://hapara.com/buyers-guide/)
+    * [Request a demo](https://hapara.com/demo/)
+    * [Request pricing](https://hapara.com/pricing/)
+    * [Our blog](https://hapara.com/blog/)
 * Solutions
-    * [Highlights](https://www.hapara.com/highlights/)
-    * [Web filter](https://www.hapara.com/filter/)
-    * [Teacher Dashboard](https://www.hapara.com/teacher-dashboard/)
-    * [Workspace](https://www.hapara.com/workspace/)
-    * [Student Dashboard](https://www.hapara.com/student-dashboard/)
+    * [Highlights](https://hapara.com/highlights/)
+    * [Web filter](https://hapara.com/filter/)
+    * [Teacher Dashboard](https://hapara.com/teacher-dashboard/)
+    * [Workspace](https://hapara.com/workspace/)
+    * [Student Dashboard](https://hapara.com/student-dashboard/)
 * Company
-    * [Why Hāpara?](https://www.hapara.com/why-schools-purchase-hapara-classroom-management-software/)
-    * [Careers](https://www.hapara.com/careers/)
-    * [Media kit](https://www.hapara.com/media-kit/)
+    * [Why Hāpara?](https://hapara.com/why-schools-purchase-hapara-classroom-management-software/)
+    * [Careers](https://hapara.com/careers/)
+    * [Media kit](https://hapara.com/media-kit/)
     * [Legal](https://legal.cordance.co/hapara)
-    * [Privacy and trust](https://www.hapara.com/privacy-and-trust/)
-    * [Ethical monitoring](https://www.hapara.com/ethical-monitoring-pledge/)
+    * [Privacy and trust](https://hapara.com/privacy-and-trust/)
+    * [Ethical monitoring](https://hapara.com/ethical-monitoring-pledge/)
 * Resources
-    * [Contact us](https://www.hapara.com/contact/)
+    * [Contact us](https://hapara.com/contact/)
     * [Help center](https://support.hapara.com/)
-    * [Vs. alternatives](https://www.hapara.com/web-filter-for-k12-schools/)
-    * [Events and conferences](https://www.hapara.com/events/)
-    * [For parents](https://www.hapara.com/for-parents/)
-    * [Federal funding](https://www.hapara.com/federal-funding-for-k12/)
+    * [Vs. alternatives](https://hapara.com/web-filter-for-k12-schools/)
+    * [Events and conferences](https://hapara.com/events/)
+    * [For parents](https://hapara.com/for-parents/)
+    * [Federal funding](https://hapara.com/federal-funding-for-k12/)
 
 * [Follow](https://twitter.com/hapara_team "Follow on X")
 * [Follow](https://www.instagram.com/hapara_team/ "Follow on Instagram")
@@ -251,6 +251,6 @@ Power awesome digital learning anywhere, anytime.
 * [Follow](http://www.youtube.com/c/HaparaYoutube "Follow on Youtube")
 * [Follow](https://www.linkedin.com/company/hapara "Follow on LinkedIn")
 
-© 2010- Hāpara. All rights reserved. [Privacy](https://www.hapara.com/privacy-policy/) and [Legal](https://legal.cordance.co/hapara). Hāpara is a business unit of Cordance Operations LLC 16 W Martin Street, Raleigh, NC 27601
+© 2010- Hāpara. All rights reserved. [Privacy](https://hapara.com/privacy-policy/) and [Legal](https://legal.cordance.co/hapara). Hāpara is a business unit of Cordance Operations LLC 16 W Martin Street, Raleigh, NC 27601
 
 ### Pin It on Pinterest
