@@ -1,8 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Helene in Georgia: Death toll rises to 33; nearly 300K still without power](https://www.ajc.com/news/crime/helene-in-georgia-death-toll-rises-to-33-nearly-300k-still-without-power/CK5O5AUOPFBMLASFJD7I4PVTGY/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1706)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1706)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1707)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1707)](https://www.ajc.com/)
 
 Log In
 
@@ -26,7 +24,7 @@ Log In
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1706)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1707)
 
 * Quick Links
     
@@ -53,7 +51,7 @@ Log In
     * [Election 2024](https://www.ajc.com/politics/election/)
     * [Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
     * [Georgia by the Numbers](https://www.ajc.com/politics/georgia-by-the-numbers/fulton/)
-    * [Legislature](https://www.ajc.com/politics/georgia-bill-tracker-2024/4PPGGGS7MZAV7LFI3GIM4MSOAI/)
+    * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
     * [Legislative Navigator](https://www.ajc.com/politics/georgia-legislative-navigator/)
     * [Patricia Murphy](https://www.ajc.com/opinion/patricia-murphy/)
@@ -150,7 +148,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1706)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1707)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
