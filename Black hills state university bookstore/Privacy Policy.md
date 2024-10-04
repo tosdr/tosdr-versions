@@ -155,7 +155,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Friday 8:00AM - 5:00PM CLOSED
+Friday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
