@@ -4,9 +4,9 @@
 
 Products
 
-![circleboom_publish](https://assets.circleboom.com/website/images/circleboom_publish.svg)[Pinterest Scheduler](https://circleboom.com/social-media-scheduler/pinterest-scheduler)[Twitter Scheduler](https://circleboom.com/social-media-scheduler/twitter-scheduler)[Schedule Threads Posts](https://circleboom.com/social-media-scheduler/schedule-threads-posts)[LinkedIn Carousel Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-linkedin-post-generator/linkedin-carousel-generator)[Instagram AI Caption Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-instagram-caption-generator)[Get Started with Circleboom Publish](https://circleboom.com/social-media-scheduler)
+![circleboom_publish](https://assets.circleboom.com/website/images/circleboom_publish.svg)[AI Carousel Generator](https://circleboom.com/social-media-scheduler/ai-carousel-generator)[Get Started with Circleboom Publish](https://circleboom.com/social-media-scheduler)
 
-![circleboom_twitter](https://assets.circleboom.com/website/images/circleboom_twitter.svg)[Delete All Tweets](https://circleboom.com/twitter-management-tool/delete-all-tweets)[Followers & Followings](https://circleboom.com/twitter-management-tool/twitter-circle-tool)[Fake Twitter Account Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/fake-twitter-account-checker)[Who Unfollowed Me](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-audience-insights/who-unfollowed-me-on-twitter)[Get Started with Circleboom Twitter](https://circleboom.com/twitter-management-tool)
+![circleboom_twitter](https://assets.circleboom.com/website/images/circleboom_twitter.svg)[Followers & Followings](https://circleboom.com/twitter-management-tool/twitter-circle-tool)[Fake Twitter Account Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/fake-twitter-account-checker)[Who Unfollowed Me](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-audience-insights/who-unfollowed-me-on-twitter)[Get Started with Circleboom Twitter](https://circleboom.com/twitter-management-tool)
 
 [Pricing](https://circleboom.com/plans-and-pricing)[Blog](https://circleboom.com/blog)[Become a Partner](https://circleboom.com/affiliate-program)[Contact Us](https://circleboom.com/contact-us)
 
@@ -177,15 +177,10 @@ By using this site, you consent to the collection and use of this information by
 * [RSS](https://circleboom.com/blog/rss)
 
 * PUBLISH TOOL
-* [Pinterest Scheduler](https://circleboom.com/social-media-scheduler/pinterest-scheduler)
-* [Twitter Scheduler](https://circleboom.com/social-media-scheduler/twitter-scheduler)
-* [Schedule Threads Posts](https://circleboom.com/social-media-scheduler/schedule-threads-posts)
-* [LinkedIn Carousel Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-linkedin-post-generator/linkedin-carousel-generator)
-* [Instagram AI Caption Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-instagram-caption-generator)
+* [AI Carousel Generator](https://circleboom.com/social-media-scheduler/ai-carousel-generator)
 * [Circleboom Publish Help](https://help.circleboom.com/publish)
 
 * TWITTER TOOL
-* [Delete All Tweets](https://circleboom.com/twitter-management-tool/delete-all-tweets)
 * [Followers & Followings](https://circleboom.com/twitter-management-tool/twitter-circle-tool)
 * [Fake Twitter Account Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/fake-twitter-account-checker)
 * [Who Unfollowed Me](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-audience-insights/who-unfollowed-me-on-twitter)
