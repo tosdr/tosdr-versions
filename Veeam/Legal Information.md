@@ -604,6 +604,8 @@ By subscribing, you are agreeing to receive information about Veeam products and
 
 **Popular Links**
 
+[Veeam Portfolio](https://www.veeam.com/products/veeam-portfolio.html?ad=footer)
+
 [Veeam Data Platform](https://www.veeam.com/products/veeam-data-platform.html?ad=footer)
 
 [Veeam Data Cloud](https://www.veeam.com/products/veeam-data-cloud.html?ad=footer)
