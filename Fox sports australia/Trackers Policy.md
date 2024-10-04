@@ -78,55 +78,59 @@ FOX SCORES
     | WI  | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250103)
-* [WNCL
+* [Women's T20 WC
     
-    4/10 9:30 AEST
+    5/10 0:00 AEST
     
     |     |     |
     | --- | --- |
-    | NSW | –   |
-    | VIC | –   |
+    | IND | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250104)
+* [WNCL
+    
+    |     |     |
+    | --- | --- |
+    | NSW | 5 /145 |
+    | VIC |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250108)
 * [WNCL
     
-    4/10 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | SA  | –   |
-    | TAS | –   |
+    | SA  | 2 /79 |
+    | TAS |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250109)
 * AFL
     
 * [AFL Women's
     
-    Complete
+    4/10 19:45 AEST
     
     |     |     |
     | --- | --- |
-    | MEL | 6.5.41 |
-    | GWS | 3.7.25 |
+    | ADE | –   |
+    | STK | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240604)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240605)
 * NFL
     
 * [NFL
     
-    4/10 10:15 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | ATL | –   |
-    | TB  | –   |
+    | ATL | 17  |
+    | TB  | 24  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250509)
 * Motorsport
     
 * [MotoGP
-    
-    4/10 11:45 AEST
     
     |     |
     | --- |
@@ -156,16 +160,26 @@ FOX SCORES
     | TAS | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030002)
+* [NBL
+    
+    4/10 21:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030003)
 * Baseball
     
 * [MLB
     
-    4/10 9:08 AEST
+    Bottom 9th Innings
     
     |     |     |
     | --- | --- |
-    | MIL | –   |
-    | NYM | –   |
+    | MIL | 2   |
+    | NYM | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024005002D953D)
 
@@ -914,7 +928,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
@@ -923,13 +937,13 @@ FOX SCORES
 * [Motorsport](https://www.foxsports.com.au/motorsport)
 * [NBA](https://www.foxsports.com.au/basketball/nba)
 * [Boxing](https://www.foxsports.com.au/boxing)
+* [UFC](https://www.foxsports.com.au/ufc)
 * [Netball](https://www.foxsports.com.au/netball)
 * [Basketball](https://www.foxsports.com.au/basketball)
 * [NFL](https://www.foxsports.com.au/nfl)
-* [Golf](https://www.foxsports.com.au/golf)
 * More...
 
-* [UFC](https://www.foxsports.com.au/ufc)
+* [Golf](https://www.foxsports.com.au/golf)
 * [Football](https://www.foxsports.com.au/football)
 * [Tennis](https://www.foxsports.com.au/tennis)
 * [Horse Racing](https://www.foxsports.com.au/horse-racing)
