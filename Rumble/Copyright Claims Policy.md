@@ -59,131 +59,119 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
+[The Jimmy Dore Show
 
-161K](https://rumble.com/v5hfnuz-this-story-will-be-the-end-for-border-czar-harris-ep.-2343-10042024.html "The Dan Bongino Show")
+15.8K](https://rumble.com/v5hh561-dhs-secretary-mayorkas-says-fema-is-out-of-money-kamala-offers-hurricane-vi.html "The Jimmy Dore Show")
 
 [Bannons War Room
 
-10.7K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+6.51K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Nerdrotic
 
-7.11K](https://rumble.com/v5heiux-badlands-daily-friday-october-4-2024.html "Badlands Media")
+5.23K](https://rumble.com/v5hgzz9-joker-2-is-pointless-toxic-fandom-strikes-again-rings-of-power-friday-night.html "Nerdrotic")
 
 [NEWSMAX
 
-4.48K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Caleb Hammer
-
-483](https://rumble.com/v5hd2ql-mcdonalds-is-more-important-than-her-child-financial-audit.html "Caleb Hammer")
-
-[barstoolsports
-
-350](https://rumble.com/v5hfvxx-ufc-307-betting-preview.html "barstoolsports")
-
-[Lofi Girl
-
-341](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
-
-[Geeks + Gamers
-
-315](https://rumble.com/v5hfs4r-media-blames-toxic-fans-for-epic-hollywood-failures-joker-2-set-to-be-a-mas.html "Geeks + Gamers")
+3.08K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Dr Steve Turley
 
-235](https://rumble.com/v5hfzv0-kamalas-katrina-is-collapsing-her-campaign.html "Dr Steve Turley")
+408](https://rumble.com/v5hhged-trump-at-70-chance-to-win-according-to-cnn-poll-kamala-desperate.html "Dr Steve Turley")
 
-[The Kirk Minihane Show
+[Lofi Girl
 
-161](https://rumble.com/v5hfde4-kms-live-october-4-2024.html "The Kirk Minihane Show")
-
-[Mike Crispi
-
-101](https://rumble.com/v5hfh45-trump-returns-to-butler-pa-tomorrow-for-historic-rally.html "Mike Crispi")
-
-[Mostly Sports With Mark Titus and Brandon Walker
-
-78](https://rumble.com/v5hchf9-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+290](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
-0](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
+5](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
 
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
 
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
 
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
 
 [NHRA](https://rumble.com/c/NHRA "NHRA")
 
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
 
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
 
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
 
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
 
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
 
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[GOP](https://rumble.com/c/GOP "GOP")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
 
 [Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
 
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
 
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
 
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
 
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
 [Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
 [Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
 
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
 
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
 
-[New York Post](https://rumble.com/c/NYPost "New York Post")
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
 
-[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
-
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
 
 [Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
 
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+[New York Post](https://rumble.com/c/NYPost "New York Post")
 
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
 ### Theme
 
