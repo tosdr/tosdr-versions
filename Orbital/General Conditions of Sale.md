@@ -5,6 +5,7 @@ icon-X Close menu
 * [Dental](https://orbitalsupportsystems.com/pages/dental)
 * [Medical](https://orbitalsupportsystems.com/pages/medical)
 * [Workplace](https://orbitalsupportsystems.com/pages/workplace)
+* [Blog](https://orbitalsupportsystems.com/blogs/news)
 * [Log in](https://orbitalsupportsystems.com/account/login)
 
 * [instagram Instagram](https://instagram.com/orbitalsupportsystems "Orbital Support Systems Inc. on Instagram")
@@ -18,6 +19,7 @@ icon-X Close menu
 * [Dental](https://orbitalsupportsystems.com/pages/dental)
 * [Medical](https://orbitalsupportsystems.com/pages/medical)
 * [Workplace](https://orbitalsupportsystems.com/pages/workplace)
+* [Blog](https://orbitalsupportsystems.com/blogs/news)
 
 [account Log in](https://orbitalsupportsystems.com/account) icon-hamburger Site navigation [icon-cartCart](https://orbitalsupportsystems.com/cart)
 
@@ -146,6 +148,7 @@ Shop
 * [Dental](https://orbitalsupportsystems.com/pages/dental)
 * [Medical](https://orbitalsupportsystems.com/pages/medical)
 * [Workplace](https://orbitalsupportsystems.com/pages/workplace)
+* [Blog](https://orbitalsupportsystems.com/blogs/news)
 
 Sign up for our newsletter
 --------------------------
