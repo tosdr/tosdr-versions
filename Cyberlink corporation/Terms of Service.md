@@ -20,26 +20,30 @@
 
 [Refund Policy](#p8)
 
-[Intellectual Property Rights and Ownership](#p9)
+[Termination; Cancellation](#p9)
 
-[Disclaimer of Warranties](#p10)
+[Third Party Links](#p10)
 
-[Indemnification](#p11)
+[Intellectual Property Rights and Ownership](#p11)
 
-[Limitation of Liability](#p12)
+[Disclaimer of Warranties](#p12)
 
-[Privacy Policies](#p13)
+[Indemnification](#p13)
 
-[Compliance with Laws](#p14)
+[Limitation of Liability](#p14)
 
-[Modification](#p15)
+[Privacy Policies](#p15)
 
-[General](#p16)
+[Compliance with Laws](#p16)
+
+[Modification](#p17)
+
+[General](#p18)
 
 CyberLink Corporation General Terms of Service
 ==============================================
 
-**Last Update: June 2024. This CyberLink Corporation General Terms of Service replaces and supersedes all prior versions.**
+**Last Update: October 2024. This CyberLink Corporation General Terms of Service replaces and supersedes all prior versions.**
 
 1\. Preamble
 ============
@@ -98,7 +102,7 @@ CyberLink Corporation General Terms of Service
 15. Resell or redistribute the Service, or any part of the Service;
 16. Use automated devices, manual processes, or scripts to copy or “scrape” CyberLink Content for any purpose without CyberLink's express written permission;
 17. Replicate the functionality of the Service or to create any effect similar to the effects by any means or to create any competing or potentially competing product or technology;
-18. r. Using the Service (directly or indirectly) to create datasets to train neural networks or create templates for similar or competing third party services;
+18. Using the Service (directly or indirectly) to create datasets to train neural networks or create templates for similar or competing third party services;
 19. Use the Service in any manner not permitted by the Terms of Service or applicable laws; or
 20. Encourage or instruct any other individual to do any of the foregoing or to violate any term of the Terms of Service;
 
@@ -148,6 +152,11 @@ CyberLink Corporation General Terms of Service
 * Covered by one or more claims of the patents listed at [https://accessadvance.com/hevc-advance-patent-list/](https://accessadvance.com/hevc-advance-patent-list/).
 * THIS PRODUCT IS SOLD WITH A LIMITED LICENSE AND IS AUTHORIZED TO BE USED ONLY IN CONNECTION WITH HEVC CONTENT THAT MEETS EACH OF THE THREE FOLLOWING QUALIFICATIONS: (1) HEVC CONTENT ONLY FOR PERSONAL USE; (2) HEVC CONTENT THAT IS NOT OFFERED FOR SALE; AND (3) HEVC CONTENT THAT IS CREATED BY THE OWNER OF THE PRODUCT. THIS PRODUCT MAY NOT BE USED IN CONNECTION WITH HEVC ENCODED CONTENT CREATED BY A THIRD PARTY, WHICH THE USER HAS ORDERED OR PURCHASED FROM A THIRD PARTY, UNLESS THE USER IS SEPARATELY GRANTED RIGHTS TO USE THE PRODUCT WITH SUCH CONTENT BY A LICENSED SELLER OF THE CONTENT. YOUR USE OF THIS PRODUCT IN CONNECTION WITH HEVC ENCODED CONTENT IS DEEMED ACCEPTANCE OF THE LIMITED AUTHORITY TO USE AS NOTED ABOVE.
 
+7. Use of third party APIs. You may have API access provided by third-party service providers via our Services. For example, you may play YouTube video, or use the search function powered by Microsoft Bing. These third-party service providers have separate and independent privacy policies and/or terms of service shown below:
+
+* YouTube Terms of Service at: [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
+* Microsoft Privacy Statement at: [https://privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement).
+
 6\. Purchase and Payment
 ========================
 
@@ -160,7 +169,7 @@ CyberLink Corporation General Terms of Service
 ====================
 
 1. Subscription.  
-    Please refer to the terms of our [Subscription Agreement](https://www.cyberlink.com/stat/company/enu/subscription-agreement.jsp) Agreement for more details.
+    Please refer to the terms of our [Subscription Agreement](https://www.cyberlink.com/stat/company/enu/subscription-agreement.jsp) for more details.
 2. Credits.  
     1. You may purchase Credits for use in certain Services.
     2. Conversion Rate for Credits in exchange for Services: CyberLink independently sets the criteria of the number of Credits required for respective Services. You agree that CyberLink may change the Conversion Rate at any time at its sole discretion.
@@ -222,7 +231,7 @@ The Service may contain links to third party websites that are not owned or cont
 * Any unauthorized access to or use of the Service, servers of CyberLink and/or any Content or information stored therein;
 * Any errors or omissions in any Content (including User Submission) or any loss or damages as a result of the use of any Content posted, emailed, transmitted, or otherwise made available via the Service;
 * Any interruption or cessation of transmission to or from the Service; or
-* Any bugs, viruses, or the like which may be transmitted to or through the Service or linked website by any third party.;
+* Any bugs, viruses, or the like which may be transmitted to or through the Service or linked website by any third party.
 
 4. CyberLink has no ability to control the User Submissions that are uploaded, posted, emailed or otherwise transmitted using the Service and does not have any obligation to monitor such User Submissions for any purpose and, as a result, is not responsible for the Content or anything said, depicted or written or otherwise communicated by Users, including without limitation any information obtained by using the Service.
 5. CyberLink does not endorse any Content or any statement, opinion, recommendation, or advice expressed therein and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against CyberLink with respect thereto.
