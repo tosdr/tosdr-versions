@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [EU Votes to Impose Tariffs on Electric Cars Made in China](https://www.theepochtimes.com/china/eu-votes-to-impose-tariffs-on-electric-cars-made-in-china-5735194)
+* [Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
     
-    1hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![EU Votes to Impose Tariffs on Electric Cars Made in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![EU Votes to Impose Tariffs on Electric Cars Made in China](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735206-GettyImages-2172117618-205x123.jpg.webp)](https://www.theepochtimes.com/china/eu-votes-to-impose-tariffs-on-electric-cars-made-in-china-5735194)
-* [Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://www.theepochtimes.com/china/bipartisan-committee-leaders-urge-biden-to-bring-home-americans-wrongfully-detained-in-china-5735154)
+    ![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551763-vote-205x123.jpg.webp)](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
+* [Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
     
-    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bipartisan Committee Leaders Urge Biden to Bring Home Americans Wrongfully Detained in China](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637600-03222024-DSC09948-Chris-Smith-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/bipartisan-committee-leaders-urge-biden-to-bring-home-americans-wrongfully-detained-in-china-5735154)
-* [Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://www.theepochtimes.com/us/nationwide-decline-in-pending-home-sales-halts-for-first-time-since-january-report-5735239)
+    ![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706250-GettyImages-2165576661-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
+* [Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
     
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nationwide Decline in Pending Home Sales Halts for First Time Since January: Report](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683904-GettyImages-80923030KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nationwide-decline-in-pending-home-sales-halts-for-first-time-since-january-report-5735239)
-* [Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://www.theepochtimes.com/us/officials-say-fema-does-not-have-enough-funding-to-last-hurricane-season-5734962)
+    ![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672991-06202024-DSC06642-iPhone-Apple-products-205x123.jpg.webp)](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
+* [The Most Important Player on Each Remaining MLB Playoff Team](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
     
-    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    NEW By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
     
-    [![Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Officials Say FEMA Does Not Have Enough Funding to Last Hurricane Season](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734917-GettyImages-2174887967-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/officials-say-fema-does-not-have-enough-funding-to-last-hurricane-season-5734962)
-* [CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://www.theepochtimes.com/health/cdc-issues-warning-on-overdose-risk-from-fake-prescription-medicines-online-5735240)
+    ![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735469-GettyImages-2174679546-205x123.jpg.webp)](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
+* [Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735546-GettyImages-2175836598-LS-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
+* [Factory Orders Decline in August as Manufacturing Woes Deepen](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733338-GettyImages-1810386707-205x123.jpg.webp)](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
+* [US Targets Houthi Positions in Yemen With Airstrikes](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
+    
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/uploads/2024/09/id5726179-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
+* [Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://www.theepochtimes.com/us/uncertainty-clouds-north-carolinas-2024-election-after-helene-heres-what-we-know-5735351)
     
     2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![CDC Issues Warning on Overdose Risk From Fake Prescription Medicines Online](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569475-cdc-headquarters-2-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-warning-on-overdose-risk-from-fake-prescription-medicines-online-5735240)
-* [Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-smith-wesson-challenge-to-mexicos-lawsuit-5735245)
+    ![Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2019/09/11/voting-205x123.jpg.webp)](https://www.theepochtimes.com/us/uncertainty-clouds-north-carolinas-2024-election-after-helene-heres-what-we-know-5735351)
+* [DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://www.theepochtimes.com/us/doj-charges-13-in-largest-ever-opioid-distribution-crackdown-targeting-pharma-executives-5735218)
     
-    2hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Agrees to Hear Challenge to Mexico’s Lawsuit Against US Gun Makers](https://img.theepochtimes.com/assets/uploads/2024/08/28/id5714503-08142024-DSC01321-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-smith-wesson-challenge-to-mexicos-lawsuit-5735245)
-* [US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://www.theepochtimes.com/business/us-economy-adds-254000-new-jobs-unemployment-rate-dips-to-4-1-percent-5735197)
+    ![DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://img.theepochtimes.com/assets/uploads/2022/06/30/2022-06-29T195914Z_1_LYNXMPEI5S126_RTROPTP_4_CANADA-OPIOIDS-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-charges-13-in-largest-ever-opioid-distribution-crackdown-targeting-pharma-executives-5735218)
+* [Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://www.theepochtimes.com/us/biden-makes-surprise-appearance-in-white-house-briefing-room-5735408)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Economy Adds 254,000 New Jobs, Unemployment Rate Dips to 4.1 Percent](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735263-now_hiring_year2023-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-254000-new-jobs-unemployment-rate-dips-to-4-1-percent-5735197)
-* [Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://www.theepochtimes.com/world/strikes-shake-beirut-as-israel-targets-hezbollah-strongholds-5735139)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Strikes Shake Beirut as Israel Targets Hezbollah Strongholds](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735146-Lebanon-strikes5-205x123.jpg.webp)](https://www.theepochtimes.com/world/strikes-shake-beirut-as-israel-targets-hezbollah-strongholds-5735139)
-* [Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://www.theepochtimes.com/world/police-in-moldova-say-russia-paying-people-to-vote-no-in-eu-referendum-5735148)
-    
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Police in Moldova Say Russia Paying People to Vote No in EU Referendum](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735210-moldova-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/police-in-moldova-say-russia-paying-people-to-vote-no-in-eu-referendum-5735148)
-* [DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://www.theepochtimes.com/us/doj-microsoft-seize-websites-linked-to-alleged-russian-espionage-5735042)
-    
-    6hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
-    
-    [![DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ, Microsoft Seize Websites Linked to Alleged Russian Espionage](https://img.theepochtimes.com/assets/uploads/2023/05/16/id5268390-Hackers-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-microsoft-seize-websites-linked-to-alleged-russian-espionage-5735042)
+    ![Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735440-Biden-in-press-briefing-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-makes-surprise-appearance-in-white-house-briefing-room-5735408)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
