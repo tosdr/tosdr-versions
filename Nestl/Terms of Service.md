@@ -256,7 +256,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestle Brands 2023](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-03/NiM-Portfolio-2023-Nav.png.webp?itok=H_dFQArZ)
+    ![Nestle Brands 2024](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2024-10/NiM-Portfolio-2024-Nav.png.webp?itok=o8katTFY)
     
     Explore brands from Nestle in the United States, from DiGiorno Pizza to Nespresso Coffee, Stouffer's meals to Purina Beyond petfood, and  
     Gerber baby foods to San Pellegrino water.
