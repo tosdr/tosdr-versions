@@ -191,11 +191,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Lt Col Donna Prigmore](https://cdn.returningveterans.org/images/honor/LtCol_Donna_Prigmore.JPG)  
+![John G. Todd](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Lt Col Donna Prigmore**  
-United States Air Force  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of John G. Todd**  
+Submitted by Lois Carlock](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/04/24 - 2:22:27  
+Printed 10/04/24 - 8:34:49  
 © 2024 Returning Veterans Project
