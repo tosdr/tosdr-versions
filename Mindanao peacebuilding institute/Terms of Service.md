@@ -28,16 +28,7 @@
         
         * [Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training.html)
             
-            * [2024 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
-                
-                * [Courses and Facilitators](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/courses-and-facilitators.html)
-                * [General Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/general-information.html)
-                * [MPI 2024 FAQs](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-faqs.html)
-                * [MPI 2024 Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-application.html)
-                * [MPI 2024 Document Submission](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-document-submission.html)
-                * [MPI 2024 Payment Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-payment-information.html)
-                * [MPI 2024 Documents](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-documents.html)
-                
+            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
             * [Inside the Annual Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
             * [Annual Peacebuilding Training Reports](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/annual-peacebuilding-training-reports.html)
             
@@ -272,14 +263,7 @@ These Terms shall be governed by, and construed in accordance with, the laws of 
 * [Programs](https://www.mpiasia.net/programs.html)
     * [Education and Training](https://www.mpiasia.net/programs/training.html)
         * [Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training.html)
-            * [2024 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
-                * [Courses and Facilitators](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/courses-and-facilitators.html)
-                * [General Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/general-information.html)
-                * [MPI 2024 FAQs](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-faqs.html)
-                * [MPI 2024 Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-application.html)
-                * [MPI 2024 Document Submission](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-document-submission.html)
-                * [MPI 2024 Payment Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-payment-information.html)
-                * [MPI 2024 Documents](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training/mpi-2024-documents.html)
+            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
             * [Inside the Annual Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
             * [Annual Peacebuilding Training Reports](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/annual-peacebuilding-training-reports.html)
         * [Virtual Peacebuilding Training](https://www.mpiasia.net/programs/training/online-courses.html)
