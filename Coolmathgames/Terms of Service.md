@@ -347,7 +347,7 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
         * [Twitter](https://twitter.com/TheRealCoolmath)
         * [Instagram](https://www.instagram.com/coolmathgames/)
         * [Facebook](https://www.facebook.com/CoolMathGamesLLC)
-        * [YouTube](https://www.youtube.com/@CoolmathGamesdotcom)
+        * [YouTube](https://www.youtube.com/@coolmathofficial)
     
     English
     
