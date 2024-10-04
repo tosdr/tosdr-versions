@@ -1916,7 +1916,7 @@ Search
 * **Terms of use**
 
 Terms and Conditions
---------------------
+====================
 
 Nasco Inc. owns and operates this website. These Terms and Conditions (the “Terms”) apply to this Nasco website and all other sites (collectively, the “Website”) owned, operated, and maintained by Nasco or its subsidiaries and affiliates (collectively “Nasco” or “we” or “us”). If you continue to browse and use this Website you are agreeing to comply with and be legally bound to the Terms. In the event that you do not agree to the Terms you should not continue to use the Website.
 
