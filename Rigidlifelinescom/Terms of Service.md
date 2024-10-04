@@ -10,9 +10,7 @@
 * [Architects & Engineers Portal](http://microsite.caddetails.com/5180)
 * [en español](https://www.rigidlifelines.com/rigid-lifelines-espanol/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://www.rigidlifelines.com/wp-content/uploads/2021/08/Rigid-LifeLines-Logo-2021.png)](https://www.rigidlifelines.com/)
+[![](https://www.rigidlifelines.com/wp-content/uploads/2021/08/Rigid-LifeLines-Logo-2021.png)](https://www.rigidlifelines.com/)
 
 MENUMENU
 
@@ -120,7 +118,7 @@ Any claim relating to Rigid Lifelines, Div. of Spanco, Inc.’s website shall be
 
 Contact us today to find the perfect product fit for your job
 
-[Contact us](https://www.rigidlifelines.com/contact/)
+[Contact us](https://www.rigidlifelines.com/contact/ "Click Here")
 
 604 Hemlock Rd  
 Morgantown, PA 19543
@@ -132,7 +130,7 @@ Morgantown, PA 19543
 
 [](https://facebook.com/rigidlifelines)[](https://twitter.com/Rigid_Lifelines)[](https://www.linkedin.com/company/rigid-lifelines)[](https://www.youtube.com/user/fallprotectionvideos)
 
-[Contact](https://www.rigidlifelines.com/contact/)
+[Contact](https://www.rigidlifelines.com/contact/ "Click Here")
 
 ### Newsletter Signup
 
@@ -173,8 +171,6 @@ Morgantown, PA 19543
 * [Railcar](https://www.rigidlifelines.com/product_industry/railcar/)
 * [Maintenance](https://www.rigidlifelines.com/product_industry/maintenance/)
 * [Agriculture](https://www.rigidlifelines.com/product_industry/agriculture/)
-
-![WHITE SPANCO - PTP, Ind-01](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20875'%3E%3C/svg%3E "WHITE SPANCO - PTP, Ind-01")
 
 ![WHITE SPANCO - PTP, Ind-01](https://www.rigidlifelines.com/wp-content/uploads/2020/02/WHITE-SPANCO-PTP-Ind-01.png "WHITE SPANCO - PTP, Ind-01")
 
