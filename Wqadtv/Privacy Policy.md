@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a70e0c65-6976-4d45-854e-d69d53350ede/20241004T003851/a70e0c65-6976-4d45-854e-d69d53350ede_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a70e0c65-6976-4d45-854e-d69d53350ede/20241004T003851/a70e0c65-6976-4d45-854e-d69d53350ede_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-island-fire-house-dead/526-a71136df-4bf8-477a-a45b-b8b7a8757f32)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_360x203.jpg)](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
         
-        #### [1 dead in Rock Island house fire](https://www.wqad.com/article/news/local/public-safety/rock-island-fire-house-dead/526-a71136df-4bf8-477a-a45b-b8b7a8757f32)
+        #### [Maquon woman charged with first-degree murder in death of former police chief](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b) [![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_360x203.jpg)](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
         
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/70e7e309-db47-42c9-afb7-4676ed14c5d6/70e7e309-db47-42c9-afb7-4676ed14c5d6_16x9.png) ![](https://media.tegna-media.com/assets/WTOL/images/70e7e309-db47-42c9-afb7-4676ed14c5d6/70e7e309-db47-42c9-afb7-4676ed14c5d6_360x203.png)](https://www.wqad.com/article/news/local/maquoketa-crash-jackson-county-tractor-semi-truck/526-e636def1-1ab0-4e13-8d1f-62b0a4093fe0)
+        #### [Woman charged in connection to 2022 homicide of Maquon police chief](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e/20241004T193217/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e/20241004T193217/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/haunted-rock-island-roadhouse-paracon-year-two-tickets/526-36725c39-a3e4-4dc3-bfcd-7b4da193a380)
         
-        #### [1 dead, 2 injured in Jackson County crash](https://www.wqad.com/article/news/local/maquoketa-crash-jackson-county-tractor-semi-truck/526-e636def1-1ab0-4e13-8d1f-62b0a4093fe0)
+        #### [Calling all paranormal lovers! Haunted Rock Island Roadhouse Paracon returns for year 2](https://www.wqad.com/article/news/local/the-current/haunted-rock-island-roadhouse-paracon-year-two-tickets/526-36725c39-a3e4-4dc3-bfcd-7b4da193a380)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208/20241004T121559/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208/20241004T121559/78fc0ff1-0cbb-4a6e-8f90-64a8a5cdf208_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/493a2ddf-eee1-455f-a12f-c456c00fdebc/20241004T212839/493a2ddf-eee1-455f-a12f-c456c00fdebc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/493a2ddf-eee1-455f-a12f-c456c00fdebc/20241004T212839/493a2ddf-eee1-455f-a12f-c456c00fdebc_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Rain ends Friday morning, dry and warmer for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A tale of two seasons this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e11f08cf-9c51-41b0-8045-ca52d32cd2ce/e11f08cf-9c51-41b0-8045-ca52d32cd2ce_360x203.jpg)](https://www.wqad.com/article/weather/minute-pirate-bugs-bite-in-the-fall/526-993a2db4-ed1c-4033-8cbd-e183617242fd)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/deb4f95c-13c3-4180-bd94-4774348fc2e1/20241004T192118/deb4f95c-13c3-4180-bd94-4774348fc2e1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/deb4f95c-13c3-4180-bd94-4774348fc2e1/20241004T192118/deb4f95c-13c3-4180-bd94-4774348fc2e1_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-family-first-foundation-has-been-selected-as-the-three-degree-recipient-for-october-2024/526-4631b14d-6425-4f44-8be1-f4bd11647037)
         
-        #### [The tiny fall bug with a big bite](https://www.wqad.com/article/weather/minute-pirate-bugs-bite-in-the-fall/526-993a2db4-ed1c-4033-8cbd-e183617242fd)
+        #### [The Family First Foundation has been selected as the Three Degree recipient for October 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-family-first-foundation-has-been-selected-as-the-three-degree-recipient-for-october-2024/526-4631b14d-6425-4f44-8be1-f4bd11647037)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-66°
+72°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
