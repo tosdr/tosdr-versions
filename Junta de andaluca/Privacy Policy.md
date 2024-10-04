@@ -198,11 +198,11 @@
     
     Directo a
     
-    * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
     * [Grado de Discapacidad. Reconocimiento, calificación y valoración](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Reconocimiento, calificación y valoración")
-    * [Licencia de pesca marítima de recreo en aguas interiores](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/114.html "Licencia de pesca marítima de recreo en aguas interiores")
     * [Familia numerosa: expedición, renovación y modificación del título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia numerosa: expedición, renovación y modificación del título")
-    * [Subvenciones para la mejora de la eficiencia energética en viviendas](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/24793.html "Subvenciones para la mejora de la eficiencia energética en viviendas")
+    * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
+    * [Tarjeta de aparcamiento de vehículos para personas con movilidad reducida](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/8730.html "Tarjeta de aparcamiento de vehículos para personas con movilidad reducida")
+    * [Licencia de pesca marítima de recreo en aguas interiores](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/114.html "Licencia de pesca marítima de recreo en aguas interiores")
     
 * [Noticias](https://www.juntadeandalucia.es/noticias.html "Noticias")
     
