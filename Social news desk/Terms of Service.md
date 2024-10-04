@@ -28,13 +28,17 @@ Schedule and share with no extra steps needed.](https://www.socialnewsdesk.com/n
 
 Real-time monitoring for keeping your audience engaged and informed while on air.](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/features.webp)
+![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/BL_NAV-1-1.png)
 
 **Tools for critical social media** engagement
 
-Take control of social media, save time and demonstrate your impact across all the platforms your community relies on.
+_“Social News Desk has been able to elevate our game on all levels. Having an all-in-one dashboard has been a game changer for us. The native listening is fantastic.”_
 
-Since 2010, we’ve proudly supported America’s largest news companies, cities, government agencies, schools and businesses who require powerful, always-on social media tools.
+  **Brian Ligon**
+
+  Communications Director
+
+  Mont Belvieu, TX
 
 [Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
 
@@ -52,11 +56,17 @@ Rely on mission critical social media tools to keep the community safe.](https:/
 
 Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/industries.webp)
+![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/kath_NAV-1-1.png)
 
 **Trusted by America’s cities, newsrooms and universities**
 
-Our social media management software is the professional communicator’s choice for effective content publishing, listening, engaging and reporting.
+_“Having all of our social media platforms for all of our agencies in one place has really helped. I can give people access easily and oversee what they’re doing.”_ 
+
+  _**Kathleen Cox**_
+
+  _Communications Manager_
+
+  _Sweetwater, TX_
 
 [Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
 
@@ -72,11 +82,17 @@ Meet the team behind SND and see why we love social media.](https://www.socialne
 
 Access human support for any assistance you need with our platform.](https://support.socialnewsdesk.com/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/resources.webp)
+![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/dee_mav_images-1-1.png)
 
 **Real human support**
 
-Available 365 days a year so your team is never left in the dark. SND is committed to education and strives to resolve your queries promptly and efficiently.
+_“The customer service with SND is like no other. You can’t go wrong with Social News Desk. It by far blows all the other social media platforms out of the water.”_
+
+  **DeAnn Hays**
+
+  Communications Specialist
+
+  Middle Tennessee State University
 
 [Contact Us](https://www.socialnewsdesk.com/contact/)
 
