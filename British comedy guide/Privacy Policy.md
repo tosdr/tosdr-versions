@@ -140,21 +140,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[![Auf Wiedersehen, Pet](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/auf_wiedersehen_pet_s2_b.jpg "Auf Wiedersehen, Pet")](https://www.comedy.co.uk/quiz/326/) Quiz
+[![Andrew White](https://cdn.comedy.co.uk/images/library/people/300x200/a/andrew_white_2024.jpg "Andrew White")](https://www.comedy.co.uk/live/fgwg/andrew-white/) Live
 
-[British Comedy Quiz #326](https://www.comedy.co.uk/quiz/326/)
+[First Gig, Worst Gig: Andrew White](https://www.comedy.co.uk/live/fgwg/andrew-white/)
 
-[![Faulty Towers The Dining Experience](https://cdn.comedy.co.uk/images/library/misc/300x200/f/faulty_towers_dining_experience.jpg "Faulty Towers The Dining Experience")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-56/) Live
+[![Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne](https://cdn.comedy.co.uk/images/library/misc/300x200/t/taskmaster_live.jpg "Taskmaster: The Live Experience. Image shows left to right: Greg Davies, Alex Horne")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-57/) Live
 
-[Faulty Towers The Dining Experience, Chris Cantrill, Katie Norris - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-56/)
+[What we thought of 'Taskmaster: The Live Experience' - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-57/)
 
-[![Oh No It's Selwyn Froggitt. Selwyn Froggitt (Bill Maynard). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/oh_no_its_selwyn_froggitt.jpg "Oh No It's Selwyn Froggitt. Selwyn Froggitt (Bill Maynard). Copyright: Yorkshire Television")](https://www.comedy.co.uk/features/comedy-rewind/selwyn-froggitt/) Features
+[![I'm All Right Jack. Fred Kite (Peter Sellers). Credit: STUDIOCANAL](https://cdn.comedy.co.uk/images/library/comedies/300x200/i/im_all_right_jack_fred.jpg "I'm All Right Jack. Fred Kite (Peter Sellers). Credit: STUDIOCANAL")](https://www.comedy.co.uk/people/peter_sellers/competitions/best_sellers/) People
 
-[Comedy Rewind: Never mind, Selwyn Froggitt.... Never mind!](https://www.comedy.co.uk/features/comedy-rewind/selwyn-froggitt/)
+[Win a copy of the new Peter Sellers biography](https://www.comedy.co.uk/people/peter_sellers/competitions/best_sellers/)
 
-[![Ola Labib](https://cdn.comedy.co.uk/images/library/people/300x200/o/ola_labib_2024.jpg "Ola Labib")](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/) Live
+[![Trusty Hogs at Cheerful Earful Podcast Festival 2023. Image shows left to right: Helen Bauer, Catherine Bohart](https://cdn.comedy.co.uk/images/library/misc/300x200/t/trusty_hogs_cheerful_earful.jpg "Trusty Hogs at Cheerful Earful Podcast Festival 2023. Image shows left to right: Helen Bauer, Catherine Bohart")](https://www.comedy.co.uk/live/features/trusty-hogs-interview/) Live
 
-[First Gig, Worst Gig: Ola Labib](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/)
+[Catherine Bohart and Helen Bauer discuss Trusty Hogs](https://www.comedy.co.uk/live/features/trusty-hogs-interview/)
 
 #### Subscribe to our newsletters
 
