@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
+[![What are some signs that death is near?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-some-signs-that-death-is-near.jpg "What Are Some Signs that Death Is Near?")](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/ "What Are Some Signs that Death Is Near?")
 
-[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
+[#### What Are Some Signs that Death Is Near?](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/)
 
-[![How do you get cancer from talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-cancer-from-talcum-powder.jpg "How Do You Get Cancer from Talcum Powder?")](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/ "How Do You Get Cancer from Talcum Powder?")
+[![Can you sue for ovarian cancer caused by talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-you-sue-for-ovarian-cancer-caused-by-talcum-powder-scaled.jpg "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/ "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")
 
-[#### How Do You Get Cancer from Talcum Powder?](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/)
+[#### Can You Sue for Ovarian Cancer Caused By Talcum Powder?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/)
 
-[![Is wandering a common sign of memory care facility neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-is-wandering-a-common-sign-of-memory-care-facility-neglect-300x200.jpg "Is Wandering a Common Sign of Memory Care Facility Neglect?")](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/ "Is Wandering a Common Sign of Memory Care Facility Neglect?")
+[![Occupations with a high risk of asbestos exposure](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-occupations-with-a-high-risk-of-asbestos-exposure.jpg "Occupations With a High Risk of Asbestos Exposure")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations "Occupations With a High Risk of Asbestos Exposure")
 
-[#### Is Wandering a Common Sign of Memory Care Facility Neglect?](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/)
+[#### Occupations With a High Risk of Asbestos Exposure](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
