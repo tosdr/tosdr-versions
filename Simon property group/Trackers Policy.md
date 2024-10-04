@@ -337,7 +337,6 @@ EMAIL ADDRESS: Required  JOIN
 
 * [](https://click.simon.com/simon-malls-instagram "Follow Simon Malls on Instagram")
 * [](https://click.simon.com/simon-malls-tiktok "Follow Simon Malls on TikTok")
-* [](https://click.simon.com/simon-said-malls "Read Our Style Blog")
 
 [![Apple App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://apps.apple.com/app/apple-store/id395128180?pt=387909&ct=website-footer&mt=8 "Download on the Apple App Store") [![Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://play.google.com/store/apps/details?id=com.simon.app.simonmalls&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter "Download on Google Play")
 
