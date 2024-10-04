@@ -30,17 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
+    *  [![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_360x203.jpeg)](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
         
-        #### [87-year-old killed in Des Moines County crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
+        #### [VERIFY: What is Mariannette Miller-Meeks' stance on abortion?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71) [![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_360x203.jpeg)](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
         
-        #### [Mediapolis woman killed in car crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
+        #### [VERIFY: Did Mariannette Miller-Meeks influence Iowa's abortion law?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
+    *  [![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_360x203.jpeg)](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
         
-        #### [87-year-old Mediapolis woman killed in crash](https://www.wqad.com/article/news/local/fatal-crash-mediapolis-woman-killed-des-moines-county-ioaw/526-cdfe58ba-d601-421f-be42-755f98dc2173)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1/20241003T201124/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1/20241003T201124/f084bf49-f876-4d5e-8c0b-3a94bbc7feb1_360x203.jpg)](https://www.wqad.com/article/news/local/silvis-railroading-heritage-of-midwestern-america-historic-locomotive-restoration/526-b5dd58fc-a013-4c9b-91fd-31fb52f89318)
+        #### [VERIFY: Did the Biden-Harris Administration cause increased grocery and gas prices?](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8) [![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_360x203.jpeg)](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
         
-        #### [History comes back to life in Silvis rail shop](https://www.wqad.com/article/news/local/silvis-railroading-heritage-of-midwestern-america-historic-locomotive-restoration/526-b5dd58fc-a013-4c9b-91fd-31fb52f89318)
-        
+        #### [Claims that the Biden-Harris Admin. increased grocery and gas prices need context](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -59,7 +58,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5cc89e24-281d-4fac-842b-211758031a58/20241003T213138/5cc89e24-281d-4fac-842b-211758031a58_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5cc89e24-281d-4fac-842b-211758031a58/20241003T213138/5cc89e24-281d-4fac-842b-211758031a58_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e9da32b9-8046-4d73-be3a-358f6d2a3690/20241004T033217/e9da32b9-8046-4d73-be3a-358f6d2a3690_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e9da32b9-8046-4d73-be3a-358f6d2a3690/20241004T033217/e9da32b9-8046-4d73-be3a-358f6d2a3690_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Small rainfall opportunity arrives before dawn on Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -89,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-79°
+65°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
