@@ -38,10 +38,10 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 Recent Soundboards
 ------------------
 
+* [Steve Smith Soundboard: American Dad – Season 3](https://www.cartoonsoundboards.com/ad-steve-2/)
 * [Hayley Smith Soundboard: American Dad – Season 3](https://www.cartoonsoundboards.com/ad-hayley-2/)
 * [Avery Bullock Soundboard: American Dad – Seasons 1, 2, and 3](https://www.cartoonsoundboards.com/ad-bullock/)
 * [George W. Bush Soundboard: American Dad – Seasons 1 and 3](https://www.cartoonsoundboards.com/ad-bush/)
 * [Klaus Heissler Soundboard: American Dad – Seasons 1 and 2](https://www.cartoonsoundboards.com/ad-klaus/)
-* [Sam Bocquelet Soundboard: Stella and Sam](https://www.cartoonsoundboards.com/sas-sam/)
 
 © 2018- • [Cartoon Soundboards.com](https://www.cartoonsoundboards.com/) • Division of [Realm of Darkness.net](https://www.realmofdarkness.net/) • [Contact](https://www.cartoonsoundboards.com/contact) • [Privacy](https://www.cartoonsoundboards.com/privacy) • Soundboards are for parody and personal entertainment only [Frontier Theme](https://ronangelo.com/frontier/)
