@@ -26,7 +26,7 @@
 
 [Demo](https://thehive.ai/demos)
 
-[Go to Dashboard](https://portal.thehive.ai/)
+[Log In / Sign Up](https://portal.thehive.ai/)
 
 [Contact Us](https://thehive.ai/contact-us)
 
