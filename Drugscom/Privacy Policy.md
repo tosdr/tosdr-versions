@@ -65,7 +65,7 @@ Close
 Privacy Policy
 ==============
 
-Effective date: May 12th, 2024
+Effective date: October 3rd, 2024
 
 Drugsite Trust ("us", "we", or "our") operates the https://www.drugs.com website (the "Service").
 
@@ -285,8 +285,8 @@ Natural persons residing in a Member State of the European Union, or in the Unit
 In the interest of transparency, we collect and publish metrics on the number of requests received in the last calendar year, and the mean time to reply. To date we have received:
 
 * 2 requests for information about collected Personal Data (mean wait time of 1 days to reply)
-* 1,597 requests for deletion of Personal Data (mean wait time of 1 days to reply)
-* 4 requests for opting-out of sale of Personal Data (mean wait time of 1 days to reply)
+* 1,844 requests for deletion of Personal Data (mean wait time of 1 days to reply)
+* 5 requests for opting-out of sale of Personal Data (mean wait time of 1 days to reply)
 
 Service Providers
 -----------------
