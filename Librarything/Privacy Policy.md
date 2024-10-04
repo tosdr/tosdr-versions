@@ -6,50 +6,13 @@
 
 [Home](https://www.librarything.com/) [Groups](https://www.librarything.com/ngroups) [Talk](https://www.librarything.com/talk) [More](https://www.librarything.com/more) [Zeitgeist](https://www.librarything.com/zeitgeist)
 
-[Sign in / Join](https://www.librarything.com/)[English](#)[Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
+Sign in / Join [English](#)[Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
   ![Search Site](https://image.librarything.com/pics/sbar_4.png "Search Site")
 
-* [Sign in / Join](https://www.librarything.com/)
+* Sign in / Join
 * [English](#)
 * [Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
-
-* [Albanian](http://al.librarything.com/)
-* [Basque](http://baq.librarything.com/)
-* [Bulgarian](http://bg.librarything.com/)
-* [Catalan](http://cat.librarything.com/)
-* [Croatian](http://hr.librarything.com/)
-* [Czech](http://cz.librarything.com/)
-* [Danish](http://dk.librarything.com/)
-* [Dutch](http://www.librarything.nl/)
-* [English](https://www.librarything.com/)
-* [Esperanto](http://epo.librarything.com/)
-* [Estonian](http://ee.librarything.com/)
-* [French](http://www.librarything.fr/)
-* [Finnish](http://fi.librarything.com/)
-* [German](http://www.librarything.de/)
-* [Greek](http://gr.librarything.com/)
-* [Hindi](http://hin.librarything.com/)
-* [Hungarian](http://hu.librarything.com/)
-* [Icelandic](http://is.librarything.com/)
-* [Indonesian](http://ind.librarything.com/)
-* [Irish](http://ie.librarything.com/)
-* [Italian](http://www.librarything.it/)
-* [Latin](http://lat.librarything.com/)
-* [Latvian](http://lv.librarything.com/)
-* [Lithuanian](http://lt.librarything.com/)
-* [Norwegian](http://no.librarything.com/)
-* [Piratical](http://pir.librarything.com/)
-* [Polish](http://pl.librarything.com/)
-* [Portuguese (Brazil)](http://br.librarything.com/)
-* [Portuguese (Portugal)](http://pt.librarything.com/)
-* [Romanian](http://ro.librarything.com/)
-* [Slovak](http://sk.librarything.com/)
-* [Spanish](http://es.librarything.com/)
-* [Swedish](http://se.librarything.com/)
-* [Tagalog](http://tgl.librarything.com/)
-* [Turkish](http://tr.librarything.com/)
-* [Welsh](http://cym.librarything.com/)
 
 Privacy and TOS
 
