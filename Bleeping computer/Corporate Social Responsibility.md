@@ -36,18 +36,18 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![Recently patched CUPS flaw can be used to amplify DDoS attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Recently patched CUPS flaw can be used to amplify DDoS attacks](https://www.bleepingcomputer.com/news/security/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
+    * [![‘Pig butchering’ trading apps found on Google Play, App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ‘Pig butchering’ trading apps found on Google Play, App Store](https://www.bleepingcomputer.com/news/security/pig-butchering-trading-apps-found-on-google-play-app-store/)
     * [![Dutch Police: ‘State actor’ likely behind recent data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Dutch Police: ‘State actor’ likely behind recent data breach](https://www.bleepingcomputer.com/news/security/dutch-police-state-actor-likely-behind-recent-data-breach/)
     * [![This ethical hacking course lays the groundwork for a career in cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This ethical hacking course lays the groundwork for a career in cybersecurity](https://www.bleepingcomputer.com/offer/deals/this-ethical-hacking-course-lays-the-groundwork-for-a-career-in-cybersecurity/)
-    * [![Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-and-doj-seize-spear-phishing-domains-used-by-star-blizzard-russian-hackers/)
-    * [![Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](https://www.bleepingcomputer.com/news/security/over-4-000-adobe-commerce-magento-shops-hacked-in-cosmicsting-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
