@@ -231,7 +231,6 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
-    * [\[Today Only\] 15% Off Storefront](https://4patriots.com/collections/best-sellers)
     * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
     * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
