@@ -303,29 +303,29 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Australian fashion designer Erin Deering eats breakfast at The Bond Store cafe in Southbank, Melbourne.](https://static.ffx.io/images/$zoom_0.4103%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_183%2C$y_5/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d9eb361e6ad04a43c43344937436dfd67c907132)](https://www.afr.com/work-and-careers/workplace/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
+[![Peter Wilson, CEO of plumbing giant Reece.](https://static.ffx.io/images/$zoom_0.7288%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1228%2C$y_458/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/582445c29b2477d9f72823ba7706cf98857e3968)](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
 
-### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/workplace/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
+### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
 
-* Euan Black
+* Patrick Durkin
 
-* ### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
+* ### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/leaders/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
     
-* ### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
+* ### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Barramundi ](https://static.ffx.io/images/$zoom_0.1416%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bbbe2a1d3897311ca4717209963e279a425ecf7b)](https://www.afr.com/life-and-luxury/food-and-wine/would-you-eat-barramundi-sashimi-20240910-p5k9eq)
+[![Ganni creative director Ditte Reffstrup walks the runway with models at Paris Fashion Week in September.](https://static.ffx.io/images/$zoom_0.3788%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_446%2C$y_16/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b71eae7e135118aacb8f2c22db9728241032d91d)](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
 
-### [Would you eat barramundi sashimi?](https://www.afr.com/life-and-luxury/food-and-wine/would-you-eat-barramundi-sashimi-20240910-p5k9eq)
+### [All the fabulous looks and fantasy of Paris Fashion Week](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
 
-* Necia Wilden
+* Lauren Sams
 
-* ### [Travel far, travel light. Leave room for a $500,000 quokka](https://www.afr.com/life-and-luxury/fashion-and-style/travel-far-travel-light-leave-room-for-a-500-000-quokka-20240904-p5k7yb)
+* ### [This summer’s most versatile accessory? A silk scarf](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-s-most-versatile-accessory-a-silk-scarf-20240910-p5k9hh)
     
-* ### [Can a Millennial overcome a mortal dread of cruising?](https://www.afr.com/life-and-luxury/travel/can-a-millennial-overcome-a-mortal-dread-of-cruising-20240731-p5jxvu)
+* ### [How the parents of Baby Boomers were enticed to cruise](https://www.afr.com/life-and-luxury/arts-and-culture/how-the-parents-of-baby-boomers-were-enticed-to-cruise-20240906-p5k8lf)
     
 
 [Rich List](https://www.afr.com/rich-list)
