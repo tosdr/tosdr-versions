@@ -141,6 +141,8 @@ Shortcuts
 
 [DVD and Videos](https://www.discovery.org/books/dvd/)
 
+[Online Courses](https://www.discoveryu.org/)
+
 Select Topics
 -------------
 
