@@ -32,6 +32,7 @@
         * [Project+](https://www.comptia.org/certifications/project)
         * [Server+](https://www.comptia.org/certifications/server)
         * [Security+](https://www.comptia.org/certifications/security)
+        * [SecurityX](https://www.comptia.org/certifications/securityx)
         * [Tech+](https://www.comptia.org/certifications/tech)
     * Exam Development
         * [Overview](https://www.comptia.org/certifications/become-a-subject-matter-expert)
