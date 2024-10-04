@@ -20,16 +20,16 @@ Friday, October 4 2024
 
 Latest
 
-* [OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
-* [How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
-* [NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
-* [Recently patched CUPS flaw can be used to amplify DDoS attacks](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
-* [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
-* [Samsung One UI 7 Set to Release Next Year, Alongside Galaxy S25 Series](https://digitpatrox.com/samsung-one-ui-7-set-to-release-next-year-alongside-galaxy-s25-series/)
-* [Software engineers are in for a rough ride as AI adoption ramps up – 80% will be forced to upskill by 2027 as the profession is transformed](https://digitpatrox.com/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed/)
-* [The EU wants to know more about social media algorithms – Computerworld](https://digitpatrox.com/the-eu-wants-to-know-more-about-social-media-algorithms-computerworld/)
-* [Everything You Can Do With Apple’s New Passwords App](https://digitpatrox.com/everything-you-can-do-with-apples-new-passwords-app/)
-* [Enhance Security and Flexibility 2024](https://digitpatrox.com/enhance-security-and-flexibility-2024/)
+* [How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
+* [Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
+* [AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
+* [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons/)
+* [I raced a 10K with the Apple Watch 10 and Apple Watch Ultra 2 — which was better?](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
+* [‘Pig butchering’ trading apps found on Google Play, App Store](https://digitpatrox.com/pig-butchering-trading-apps-found-on-google-play-app-store/)
+* [The best MagSafe and Qi2 chargers for iPhones](https://digitpatrox.com/the-best-magsafe-and-qi2-chargers-for-iphones/)
+* [Spotify’s New Offline Backup Feature Has Got Your Back When You’re Without Internet](https://digitpatrox.com/spotifys-new-offline-backup-feature-has-got-your-back-when-youre-without-internet/)
+* [Kao Data kicks off construction of new Stockport data center](https://digitpatrox.com/kao-data-kicks-off-construction-of-new-stockport-data-center/)
+* [What’s new for Apple Intelligence? – Computerworld](https://digitpatrox.com/whats-new-for-apple-intelligence-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/9yUtWWRW2eHtNVA9R7vQ3c-1200-80.jpg)](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727718816/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Avoiding-Collisions-with-Deer-this-Fall-0924)](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
     
-    [OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
+    [How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
     
-    4 mins ago
+    11 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241003-digital-transformation-project-failure-rate.jpg)](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/fbi_van_hero_4.jpg)](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
     
-    [How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
+    [Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
     
-    8 mins ago
+    13 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/X3afzFmMHQMfU73sPpeY7W-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
+* [![](https://cdn.mos.cms.futurecdn.net/HLWwp3S6DByc3JXnJ3PHUc-1200-80.jpg)](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
     
-    [NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
+    [AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
     
-    24 mins ago
+    1 hour ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/03/headpic.jpg)](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/copper-crm.jpg)](https://digitpatrox.com/features-pricing-pros-and-cons/)
     
-    [Recently patched CUPS flaw can be used to amplify DDoS attacks](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
+    [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons/)
     
-    52 mins ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/_hb1KlGWqJ1MaAMmpJE_AGowT_o=/0x0:5412x3608/1200x628/filters:focal(2706x1804:2707x1805)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656820/All_New_202025_20Ford_20Expedition_Platinum_20Ultimate_04.jpg)](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
+* [![](https://cdn.mos.cms.futurecdn.net/HN3inXgEW5UbRNmvQJBEK-1200-80.jpg)](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
     
-    [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
+    [I raced a 10K with the Apple Watch 10 and Apple Watch Ultra 2 — which was better?](https://digitpatrox.com/i-raced-a-10k-with-the-apple-watch-10-and-apple-watch-ultra-2-which-was-better/)
     
     1 hour ago
     
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 mins ago
+* [11 mins ago
     
-    ### OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
-* [8 mins ago
+    ### How to Avoid Collisions With Deer This Fall](https://digitpatrox.com/how-to-avoid-collisions-with-deer-this-fall/)
+* [13 mins ago
     
-    ### How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
-* [24 mins ago
+    ### Why Do I See “FBI Surveillance Van” in My Wi-Fi List?](https://digitpatrox.com/why-do-i-see-fbi-surveillance-van-in-my-wi-fi-list/)
+* [1 hour ago
     
-    ### NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
+    ### AWS says enterprises are moving back on-prem – but does cloud repatriation really threaten hyperscalers?](https://digitpatrox.com/aws-says-enterprises-are-moving-back-on-prem-but-does-cloud-repatriation-really-threaten-hyperscalers/)
 
 Most Popular Topics
 
-* [August 26, 2024
+* [August 15, 2024
     
-    ### Apple Announces September 9 Event to Unveil iPhone 16 Series](https://digitpatrox.com/apple-announces-september-9-event-to-unveil-iphone-16-series/)
-* [August 14, 2024
+    ### GitHub Actions artifacts found leaking auth tokens in popular projects](https://digitpatrox.com/github-actions-artifacts-found-leaking-auth-tokens-in-popular-projects/)
+* [August 31, 2024
     
-    ### Microsoft to archive unlicensed OneDrive business accounts, charge reactivation fee – Computerworld](https://digitpatrox.com/microsoft-to-archive-unlicensed-onedrive-business-accounts-charge-reactivation-fee-computerworld/)
-* [August 21, 2024
+    ### Will Batman Appear in The Penguin Series?](https://digitpatrox.com/will-batman-appear-in-the-penguin-series/)
+* [1 week ago
     
-    ### Use Automations to Keep Alarms From Going Off When You Don’t Need Them](https://digitpatrox.com/use-automations-to-keep-alarms-from-going-off-when-you-dont-need-them/)
+    ### Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [2 hours ago
     
-    ### Software engineers are in for a rough ride as AI adoption ramps up – 80% will be forced to upskill by 2027 as the profession is transformed](https://digitpatrox.com/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed/)
-* [3 hours ago
+    ### The best MagSafe and Qi2 chargers for iPhones](https://digitpatrox.com/the-best-magsafe-and-qi2-chargers-for-iphones/)
+* [2 hours ago
     
-    ### The EU wants to know more about social media algorithms – Computerworld](https://digitpatrox.com/the-eu-wants-to-know-more-about-social-media-algorithms-computerworld/)
+    ### Spotify’s New Offline Backup Feature Has Got Your Back When You’re Without Internet](https://digitpatrox.com/spotifys-new-offline-backup-feature-has-got-your-back-when-youre-without-internet/)
 * [4 hours ago
     
-    ### Everything You Can Do With Apple’s New Passwords App](https://digitpatrox.com/everything-you-can-do-with-apples-new-passwords-app/)
+    ### Kao Data kicks off construction of new Stockport data center](https://digitpatrox.com/kao-data-kicks-off-construction-of-new-stockport-data-center/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
