@@ -1,3 +1,5 @@
+Add the code HALLOWEEN10 to your cart for 10% off TODAY ONLY. [Some restrictions apply.](https://blog.adafruit.com/2024/10/04/today-only-get-10-off-with-code-halloween10/) Happy Halloween! 🎃👻🐍
+
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -404,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
+“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
 
-[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
+[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
 
 [](https://www.adafruit.com/about)
 
