@@ -36,18 +36,18 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](https://www.bleepingcomputer.com/news/security/uk-nuclear-site-sellafield-fined-440-000-for-cybersecurity-shortfalls/)
+    * [![This FolderFort deal gives you 1TB of cloud storage for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This FolderFort deal gives you 1TB of cloud storage for life](https://www.bleepingcomputer.com/offer/deals/this-folderfort-deal-gives-you-1tb-of-cloud-storage-for-life/)
     * [![Recently patched CUPS flaw can be used to amplify DDoS attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Recently patched CUPS flaw can be used to amplify DDoS attacks](https://www.bleepingcomputer.com/news/security/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
     * [![‘Pig butchering’ trading apps found on Google Play, App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ‘Pig butchering’ trading apps found on Google Play, App Store](https://www.bleepingcomputer.com/news/security/pig-butchering-trading-apps-found-on-google-play-app-store/)
-    * [![Dutch Police: ‘State actor’ likely behind recent data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Dutch Police: ‘State actor’ likely behind recent data breach](https://www.bleepingcomputer.com/news/security/dutch-police-state-actor-likely-behind-recent-data-breach/)
-    * [![This ethical hacking course lays the groundwork for a career in cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This ethical hacking course lays the groundwork for a career in cybersecurity](https://www.bleepingcomputer.com/offer/deals/this-ethical-hacking-course-lays-the-groundwork-for-a-career-in-cybersecurity/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -445,9 +445,9 @@ Popular Stories
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
-* [![AI Girl Deepfake](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Cyberattack ddos network cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
+    Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
 
 ##### Follow us:
 
