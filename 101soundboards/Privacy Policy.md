@@ -1,5 +1,7 @@
 * [Skip to content](#content-anchor)
 
+Install App
+
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
