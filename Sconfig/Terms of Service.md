@@ -34,6 +34,7 @@ Menu
 * [COM](# "Communications for social and E-mail.")
     * [E-Mail](https://www.s-config.com/email/)
     * [Social](https://www.s-config.com/social/)
+* [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 
 FAQ and/or TOS.
 ===============
@@ -147,13 +148,13 @@ In regards to tech support for the games. We will try to help you get your mod w
 
 #### **[![](/core/wp-content/uploads/2021/11/Checking-For-Cookies-Chrome.png)](https://www.s-config.com/core/wp-content/uploads/2021/11/Checking-For-Cookies-Chrome.png)Why are their cookies being handed out by your site? Are you trying to track me for marketing purposes?**
 
-**As of 7/14/2016,** this website runs on no third-party or external cookies whatsoever! No data is sent off to sites for marketing to analytics. It took a lot of time and research to accomplish this within this CMS _(WordPress)_ environment. But we strive to maintain the privacy of everyone who visits this site and so long as this site runs it will remain that way. [Read this for more information.](https://www.s-config.com/analytic-death-tracking-cookies/) In the event, you do receive cookies feel free to [contact us](https://www.s-config.com/contact/) about it. Outside of some localized cookies used in the contact form plugins this website strives to keep your privacy out of the hands of evil third party web-bastards.
+**As of 7/14/2016,** this website runs on no third-party or external cookies whatsoever! No data is sent off to sites for marketing to analytics. It took a lot of time and research to accomplish this within this CMS _(WordPress)_ environment. But we strive to maintain the privacy of everyone who visits this site and so long as this site runs it will remain that way. [Read this for more information.](https://www.s-config.com/analytic-death-tracking-cookies/) In the event, you do receive cookies feel free to [contact us](https://www.s-config.com/email/) about it. Outside of some localized cookies used in the contact form plugins this website strives to keep your privacy out of the hands of evil third party web-bastards.
 
 More information is available on our [privacy page](https://www.s-config.com/privacy-notice/) about the types of localized/temporary cookies that are still being deployed.
 
 #### **Your "Contact Us" is collecting information on users here!**
 
-Only if you use it! As stated in the [Contact Us](https://www.s-config.com/contact/) section of this site. All data collection has a maximum retention of 30 days before the information is deleted. The contact form sends an e-mail to a local account on [s-config.com](https://www.s-config.com/) to where it is reviewed and _(if possible)_ answered. Any messages regarding illegal action will be reported to the authorities. No auto-response e-mail will be sent from [s-config.com](https://www.s-config.com/) to your e-mail account as spammers use forwarders as a proxy.
+Only if you use it! As stated in the [Contact Us](https://www.s-config.com/email/) section of this site. All data collection has a maximum retention of 30 days before the information is deleted. The contact form sends an e-mail to a local account on [s-config.com](https://www.s-config.com/) to where it is reviewed and _(if possible)_ answered. Any messages regarding illegal action will be reported to the authorities. No auto-response e-mail will be sent from [s-config.com](https://www.s-config.com/) to your e-mail account as spammers use forwarders as a proxy.
 
 #### **This is a .COM site. So what are you selling here?!?**
 
@@ -191,7 +192,7 @@ After a while of looking at SEO. We've come to the conclusion that a [lot of it 
 
 In order for that to happen, we would have to personally meet you in the RL. If you don't have access to us in the RL then you aren't going to be a guest blogger. Most of the time people who e-mail us about wanting to be a Guest Blogger are either spammers trying to social engineer editor rights to our site in order to spam or try to post completely out-of-topic entries.
 
-If you are a blogger. Stand for yourself. Get your own website. Take back your own information. You are not underneath the thumb of anyone. If you built it up then [let us know](https://www.s-config.com/contact/) and we can check it out and maybe exchange links in the [cellar door](https://www.s-config.com/cellar-door/).
+If you are a blogger. Stand for yourself. Get your own website. Take back your own information. You are not underneath the thumb of anyone. If you built it up then [let us know](https://www.s-config.com/email/) and we can check it out and maybe exchange links in the [cellar door](https://www.s-config.com/cellar-door/).
 
 #### I got an e-mail demanding money to use s-config.com.
 
@@ -229,7 +230,7 @@ It works for governments around the world and it can work for you! This is the i
 
 #### **Can I contact you?**
 
-Sure, the [contact button](https://www.s-config.com/contact/ "Contact S-Config") is at the top of every page on this site. go nuts.
+Sure, the [contact button](https://www.s-config.com/email/ "Contact S-Config") is at the top of every page on this site. go nuts.
 
 ### FAQ  and TOS - Art Questions:
 
@@ -302,6 +303,7 @@ Pages
 * [FAQ and/or TOS.](https://www.s-config.com/faq/)
 * [Gifts/Commissions to the blogger](https://www.s-config.com/gift/)
 * [Music , Audio, Sounds!](https://www.s-config.com/music/)
+* [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 * [Privacy Notice](https://www.s-config.com/privacy-notice/)
 * [The Social Blades.](https://www.s-config.com/social/)
 * [Webrings](https://www.s-config.com/webrings/)
