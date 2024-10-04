@@ -31,6 +31,368 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Crisis en el sector energético (parte 3)   
+===========================================
+
+La competencia en la generación es el mejor mecanismo para lograr precios de energía razonables.
+------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+En el año 2008 los **ilustres** de **asambleístas** con honrosas **excepciones** que redactaron la **Constitución** vigente de **Montecristi** seguramente pensaron que no era necesario realizar ingentes **inversiones** para su producción, que brotaba donde se hacía un hoyo y sus reservas eran inagotables además que el precio siempre iría escalando dado que su **producción** y **exportación** generaba un 13, 6% del PIB. Como parte del mismo craso error impusieron **precios** **políticos** en el **sector eléctrico** al no incluir los costos de desarrollo e **inversión** CAPEX incluyendo sus **costos financieros** en el cálculo de las **tarifas eléctricas**, donde además tampoco se tomó en cuenta los subsidios cruzados para la **generación** con **hidrocarburos**.
+
+Todo esto ha venido mermando la liquidez y la **falta** de **recursos** en el **sector eléctrico** generando altos costos sin **beneficio** de **inventario** que nos han traído a la presente situación (nada nuevo) de apagones, pero además sin la **liquidez** necesaria y con **barreras** casi infranqueables en el logro de las urgentes y necesarias **nuevas inversiones** tanto en **generación**, **transmisión** y **distribución** como ya ha sido mencionado.
+
+Si los **sectores** agroindustriales para la **alimentación**, el sector de la **salud** y el de la **educación**, posiblemente, los más estratégicos para el ser humano, funcionan más o menos bien con la participación del **sector público** y **privado**, no hay razón para que otros **sectores** no funcionen de igual manera.
+
+En esta semana el **gobierno** menciona un **proyecto** de ley **orgánica** para impulsar **iniciativas** privadas en la **transición** a **energías renovables** en cuya **exposición** de motivos realiza un análisis de la situación y comparación con lo que sucede en **Latinoamérica** donde vemos que hay una gran brecha que requiere 5771000 millones de dólares según el BID para cerrarla; pero que el **Ecuador** prácticamente está fuera de ese **mercado energético.** Allí reconoce que la **inversión privada** en el **sector eléctrico** del Ecuador es crucial y para ello hay que cambiar las reglas de juego. Como lo menciona el economista Spurrier en un artículo que habla sobre las **tarifas**, que estas no se reajustarán hasta que venga un siguiente gobierno, pero que la **situación actual** es inoperable e insostenible.
+
+La **competencia** en la **generación** es el mejor mecanismo para lograr precios de **energía** razonables; para ello debe existir un mercado en que se pueda tranzar la **energía generada** y la consumida. En este nuevo escenario, tanto los **generadores privados** como públicos podrán competir solo si las reglas son claras y las **condiciones** sean semejantes, sin preferencias para ninguno. Por otro lado, el Estado también tendría la opción de vender participación   de las **empresas públicas** y ponerlas bajo **administración** privada. Este sucedido en los **países vecinos** como lo han hecho Colombia, Chile y Brasil con excelentes resultados. Vemos que tienen mayor disponibilidad de **energía** y **transmisión** que nuestro **mercado cerrado**. Un buen ejemplo es: Empresas Públicas de Medellín e ISA que ya han expandido sus **operaciones** a varios países.
+
+Para esto no puede haber **subsidios** ni preferencias algunas para que el **mercado** sea equitativo. Los costos de **producción**\-generación deben ser transparentes, incluyendo costos y **beneficios ambientales**. En este **mercado competitivo,** tanto las **energías renovables** como las de **hidrocarburos**, biomasa, geotermia e incluso posible **nuclear** y marea motriz pueden ser considerados.
+
+El CENACE que es el ente que regula el **despacho** de la **energía** y encargado de introducirla al mercado con criterios de mínimo costo debe también considerar los **costos** de **capital** y de operación incluyendo **mantenimiento** y **combustible** +1 rentabilidad adecuada, y en esa línea publicar todas las transacciones (**energía** despachada y valores facturados) en forma horaria de todos los **generadores** para conocimiento público.
+
+Para que funcione de un modo transparente este **mercado** deben existir los **vendedores** así como los compradores, estos últimos son principalmente las **empresas** distribuidoras (que luego revenden la **energía** al usuario final) Y los grandes **consumidores** que pueden comprar directamente a los **generadores** tanto en contratos a largo plazo como mercado spot.
+
+El CENACE establece el **precio** de **mercado** como el valor ponderado de los **precios** individuales entregados por los **generadores** en **periodos** cuantificables, sean de 15, 30 minutos o una hora y colocados inmediatamente en línea como **información pública**. Así operan los **mercados abiertos** en la gran mayoría de países.
+
+Las **empresas eléctricas**, tanto de generación, transmisión y distribución públicas, deberían tener balances actualizados y debidamente auditados tanto para conocimiento de sus **gobernantes** y **mandatarios** como del público. Esto también para todas las otras empresas EP del país, lo que ahora no se da incluso cuando la ley obliga en la **rendición** de **cuentas**. Si todas las **empresas** privadas tanto anónimas-S.A. o CA. o **compañías** limitadas están obligadas no solo la declaración al SRI sino también a la Superintendencia de Compañías y si superan cierto **volumen** en el giro de su **negocio** también debe ser auditadas por **empresas auditoras** abalizadas por la **superintendencia** correspondiente. Igual pasa con entidades sin fines de lucro que deben realizar las **declaraciones** correspondientes.
+
+¿Por qué el **sector público**, que según reza la **Constitución**, debe ser transparente y con la lógica de que pertenece a todos los que vivimos en el **territorio ecuatoriano**, no se lo cumple apropiadamente? Un **decreto presidencial** podría solucionar esto exigiendo y obligándoles que cumplan en el cierre del ejercicio 2024 y en adelante.
+
+Dado los vertiginosos cambios que se vienen en la **transformación energética** y para el cumplimiento de los **compromisos internacionales** el plan maestro de **electricidad** debería estar publicado en línea y actualizado mensualmente en cuanto al cálculo de la demanda actual y estimación a **futuro** dentro de los múltiples escenarios posibles; así como información sobre la **oferta** de **energía** e indicación tentativa de las fechas de **entrada** en **servicios** de las plantas sean estas con **financiación pública** o **privada**.
+
+México gobernado por una mujer
+==============================
+
+Claudia Sheinbaum será la primera mujer presidenta de México, enfrentando retos como la migración y la delincuencia.
+--------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+
+El segundo país más poblado de **Latinoamérica**, que de manera estereotipada siempre nos ha sido mostrado como un **país** machista, en el que los desencuentros o disputas se solucionan a lo “…mero macho”, esto es a las **trompadas** o con **pistolones** portados al cinto, tendrá una **mujer presidenta** que gobernará hasta el 2030.  Con sus casi 2 millones de kilómetros cuadrados es el tercer país más grande de **Latinoamérica**, con **fronteras** con **Estados** Unidos en el norte y **Guatemala** y Belice en el sur. 
+
+En su territorio actual, más otros, se asentó el **Virreinato** más extenso de los cuatro que implantó la **corona española**, con el nombre de **Nueva España**.
+
+**México** es un país muy orgulloso de sus **ancestros**, pues su **población** es mayoritariamente aborigen. Desde 1810, con el llamado “grito de Morelia”, el país se dividió en dos campos. Los **conservadores** querían un **estado central** fuerte, y quizás una **monarquía**, y apoyaron a la **iglesia**. Los **liberales** querían un **Estado federal** y eran **anticlericales**.   
+
+Convulsión tras **convulsión**, figuras prominentes como Benito Juárez, Porfirio Díaz, Francisco Madero, Pascual Orozco, Francisco Pancho Villa, Emiliano Zapata y Venustiano Carranza, entre otros, con graves fracturas y **enfrentamientos** de por medio, lograron entre 1870 y 1920, dar forma a lo que es México hoy.   En 1917, se redacta una nueva **Constitución**, en la que la **iglesia** y el **estado** son separados y la **educación religiosa** es abolida.
+
+En la década de 1930 se implementa una profunda reforma agraria. Luego, en 1938, el presidente Cárdenas nacionaliza la **industria** **petrolera**. Mientras tanto, en 1929 se forma el **Partido Revolucionario** Institucional (PRI), que gobierna de manera singular y amañada, durante diez sexenios consecutivos entre 1946 y el 2000, en que triunfa Vicente Fox candidato del Partido Acción Nacional (PAN), agrupación que gobierna dos periodos, para después regresar el PRI por un **periodo** adicional.
+
+En el 2018 triunfa Morena, partido de clara **tendencia progresista** que asume el poder en la persona de Andrés Manuel López Obrador (AMLO), figura de profunda raigambre popular que deja el poder con un 70% de **apoyo popular**, algo bastante inédito, dado que el **crecimiento económico** del país ha sido magro, y la tasa de **criminalidad** llega a cifras espeluznantes.  Los **analistas** atribuyen su **popularidad** a su carisma, simpleza en el **lenguaje** y formas, vida muy **austera**, probidad comprobada, eliminación de toda **pompa presidencial** y lenguaje directo y franco con sus **electores** a través de sus habituales mañaneras diarias.
+
+Será subrogado por la **primera mujer** en ser **presidenta** de **México**.  Se trata de la Física, Claudia Sheinbaum, que a los 61 años asumirá la **conducción política** de este país, que por razones explicables ha debido ocuparse más de sus relaciones con Estados Unidos, su **vecino fronterizo**, que con el resto del continente.
+
+Fue la **candidata** de la coalición “Sigamos Haciendo Historia”, formada por el partido Morena, el Partido del Trabajo (PT) y el Partido Verde Ecologista de México (PVEM).  Ella, se define a sí misma como una “**humanista**”.
+
+**Sheinbaum** no es ajena a la **política**. Antes de su **candidatura presidencial**, fue la primera mujer electa como jefa de Gobierno de Ciudad de México. Debe advertirse que no será un sexenio exento de **problemas** internos y externos, cuando su vecino del norte presiona para que se frene la desbocada **migración** que proviene de todo el mundo a través de **territorio** **mexicano**, y cuando la **globalización** tiende a desaparecer mientras las **barreras arancelarias** vuelven a imponerse.  Todo ello, mientras la **delincuencia** y el **narcotráfico** ganan terreno día a día y tienen a las **autoridades mexicanas** contra las cuerdas.
+
+Existe un desafío urgente: combatir la desinformación
+=====================================================
+
+Enfrentar la desinformación es esencial para proteger la democracia y el bienestar social en épocas de crisis y elecciones.
+---------------------------------------------------------------------------------------------------------------------------
+
+![La lucha contra la desinformación es esencial para proteger la democracia durante campañas electorales críticas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Desinformacion.jpg)
+
+La tarea no es sencilla. La tecnología digital hace que cada vez sea más difícil reconocer la información falsa. Sin embargo, también la misma tecnología pone sobre la mesa herramientas para combatirla.
+
+> La desinformación se ha convertido en un fenómeno omnipresente que afecta a sociedades de todo el mundo, especialmente durante épocas de emergencia, inseguridad y campañas electorales.
+
+En Ecuador, con la cercanía de las elecciones, el riesgo de que políticos y sus asesores utilicen estrategias engañosas para confundir a los votantes es alarmante. Este escenario no es nuevo; se ha visto cómo en otras partes del mundo, como durante la campaña de **Donald Trump en Estados Unidos**, las tácticas de desinformación han polarizado a la sociedad y socavado la confianza en las instituciones democráticas.
+
+Las campañas de desinformación son una grave amenaza para la seguridad y la estabilidad democrática. Según el **Informe Anual de Seguridad Nacional de España**, estas campañas buscan crear desconfianza en los procesos electorales y en las instituciones. En Ecuador, el contexto electoral se vuelve propicio para que actores políticos utilicen tácticas engañosas, amplificadas por redes sociales que permiten la rápida difusión de información falsa.
+
+La educación juega un papel fundamental en la lucha contra la desinformación. Es vital fomentar una cultura crítica entre los ciudadanos, enseñándoles a **identificar fuentes confiables** y a cuestionar información dudosa. Durante situaciones de emergencia, como las que últimamente ha vivido el país, o campañas electorales, se deben implementar programas educativos que capaciten a las personas sobre cómo discernir entre hechos y falsedades.
+
+La lucha contra la desinformación requiere un enfoque colaborativo entre gobiernos, organizaciones no gubernamentales (ONG) y plataformas digitales. La creación de alianzas estratégicas puede facilitar el desarrollo de herramientas efectivas para detectar y desmantelar campañas engañosas. Por ejemplo, el **Departamento de Seguridad Nacional en España** activó redes de coordinación para combatir este fenómeno durante procesos electorales.
+
+En Ecuador, el panorama electoral se complica aún más por el uso creciente de bots y cuentas falsas que amplifican mensajes engañosos. Estas tácticas están diseñadas para crear confusión e incertidumbre entre los votantes. Es crucial que los ciudadanos sean conscientes de estas estrategias para poder identificarlas y rechazarlas.
+
+La lucha contra la desinformación es un desafío urgente que requiere un esfuerzo conjunto de toda la sociedad, incluidos los medios de comunicación. En Ecuador, con las elecciones a la vista, es fundamental que tanto ciudadanos como instituciones adopten un enfoque proactivo basado en hechos claros y accesibles. Solo así podremos proteger nuestra democracia y asegurar que cada votante esté debidamente informado al momento de emitir su voto. **Los políticos y sus partidos políticos también deben actuar con responsabilidad de cara al futuro.**
+
+Cartas a Quito / 4 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este viernes 4 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Borlaug 80 años después: nuevas amenazas a la seguridad alimentaria
+-------------------------------------------------------------------
+
+Comencemos con un poco de etimología e historia. Cooperación viene de la palabra latina _cooperatio_, que significa “acción y efecto de trabajar juntos”. Eso es lo que hizo el agrónomo estadounidense Norman E. Borlaug en las décadas de 1940, 1950 y 1960 mediante una alianza entre la Secretaría de Agricultura de México y la Fundación Rockefeller para desarrollar, desde el estado de Sonora y con base en estudios sobre el trigo, variedades con cuatro características: alto rendimiento, resistencia, adaptación y calidad, que permitieron aumentar rápidamente la producción de este cereal clave para alimentar al mundo.
+
+La ciencia y las técnicas desarrolladas por Borlaug en la posguerra no solo fueron útiles para México. Países como Argentina, China, India, Pakistán, Turquía, Túnez y España adoptaron estos tipos de trigo por su resistencia a las enfermedades de las plantas y su alta calidad industrial.
+
+Este trabajo, extendido posteriormente al maíz y al arroz, sentó las bases para que la producción de alimentos se multiplicara por seis en las últimas décadas, condenando al olvido las teorías de que la expansión de la población a un ritmo superior al de la producción de alimentos llevaría al mundo al borde de la hambruna (Borlaug ganó el Premio Nobel de la Paz en 1970 por haber salvado del hambre a unos 2.000 millones de personas. La población mundial en aquel momento era de unos 3.700 millones de personas).
+
+Con su estela de desigualdades, guerras, distopías y crisis (climáticas, sanitarias, económicas, políticas y sociales), el siglo XXI ha planteado nuevos retos a la seguridad alimentaria mundial. Las grandes aportaciones de Borlaug necesitan ser renovadas.
+
+En ese camino se encuentra el CIMMYT (Centro Internacional de Mejoramiento de Maíz y Trigo, nacido de la obra del propio Borlaug, México y la Fundación Rockefeller) que, junto con la Fundación del Premio Mundial de la Alimentación, está organizando diálogos con autoridades agrícolas mundiales para revisar el legado de Borlaug e inspirarse en aquella monumental tarea para afrontar las nuevas amenazas.
+
+Sobre todo, porque existe una relación directa entre desarrollo agrícola, bienestar rural y la paz. Nada causa más daño a los suelos -un recurso clave para la producción de alimentos y para la salud humana, animal, vegetal y del aire- que las guerras, y nada causa más daño a la paz y al tejido social que la falta de alimentos.
+
+Para quienes señalan con el dedo a Bourlag por las externalidades negativas generadas en el ámbito de la sostenibilidad, conviene recordar que el concepto de desarrollo sostenible no cobró relevancia hasta 1987, cuando la Comisión Brundtland definió la importancia de “satisfacer las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades”.
+
+En 2050, la agricultura tendrá que satisfacer las demandas de una población mundial de unos 10.000 millones de personas sin utilizar más recursos naturales -principalmente tierra y agua- que en la actualidad.
+
+Como en los años 40, 50 y 60, es necesario buscar soluciones y garantías para alimentar al mundo en América Latina y el Caribe. Con el 13% de la producción mundial de alimentos y el 22% de las exportaciones globales, la región es el primer exportador neto mundial de productos agrícolas y esta tendencia se consolidará en el futuro.
+
+Posee el 16% de las tierras agrícolas del mundo, el 50% de la biodiversidad mundial, el 23% de los bosques del mundo y el 30% del agua dulce del mundo, lo que convierte a sus recursos naturales, junto con su rendimiento agrícola, en un actor estratégico para la seguridad alimentaria, nutricional, climática y energética del planeta.
+
+Sin embargo, esta posición está siendo desafiada. Los ministros de Agricultura latinoamericanos y sus equipos de trabajo pueden dar crudos testimonios sobre las dificultades que han tenido para lidiar con los mercados de fertilizantes desde que estalló la guerra en Europa del Este.
+
+Puertas adentro, la expansión de la productividad agrícola se deterioró en la segunda década del siglo, con un crecimiento del 1%, la mitad del verificado entre 1991 y 2010, con la agravante de un ritmo aún menor en las zonas tropicales.
+
+Los indicadores de inseguridad alimentaria han crecido desde 2014, y especialmente desde 2020; una parte relevante de los productores de alimentos -los agricultores familiares- son los más vulnerables al cambio climático; y la región invierte casi un tercio del monto en investigación y desarrollo agrícola en comparación con los países de altos ingresos.
+
+América Latina y el Caribe debe reconocer la importancia de la agricultura en las estrategias de desarrollo y avanzar hacia la eco-intensificación, produciendo más con menos tierra y reduciendo las emisiones de gases de efecto invernadero.
+
+También debe dar prioridad a los territorios rurales, incluir a las poblaciones vulnerables y financiar la transformación de los sistemas agroalimentarios, fortaleciendo su vínculo con la ciencia y la innovación. Es hora de más cooperación y de un nuevo Borlaug para el siglo XXI.
+
+**_Manuel Otero_**, **_Director General del Instituto Interamericano de Cooperación para la Agricultura (IICA)_**
+
+Cortes de luz se reducen gracias a Coca Codo Sinclair, ¿por qué?
+================================================================
+
+La hidroeléctrica Coca Codo Sinclair, con una capacidad instalada de 1 500 megavatios (MW), opera al 59% de su capacidad.
+-------------------------------------------------------------------------------------------------------------------------
+
+![La central Coca Codo Sinclair es la más grande del país, con una potencia instalada de 1500 MW. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/06/Coca-Codo-Sinclair.jpg)
+
+La hidroeléctrica **Coca Codo Sinclair**, con una capacidad instalada de 1 500 megavatios (MW), opera al 59% de su capacidad, en promedio, debido a las condiciones hídricas del río Coca. Pese a esto, la producción de esta **central** ha permitido disminuir los periodos de cortes de luz programados en todo el país.
+
+### Más noticias
+
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+* [Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?](https://www.elcomercio.com/actualidad/negocios/colombia-suspende-venta-energia-ecuador-motivos.html "Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+
+Así lo señaló el Ministerio de Energía, “debido al mejoramiento de las condiciones hidrológicas en  
+**Coca Codo Sinclair**, se informa que las horas de suspensión del servicio eléctrico programadas se redujeron a escala nacional”.
+
+Para la semana entre el 30 de septiembre y el 6 de octubre se programaron cortes de luz de **8,6 horas diarias**, en promedio en todo el **Ecuador**. Dos días después se anunció la reducción a 6 horas al día de racionamientos eléctricos.
+
+La central hidroeléctrica **Coca Codo Sinclai**r es la más grande del país y está operativa. Su capacidad de generación de energía varía según las condiciones climáticas.
+
+Esta central es una **hidroeléctrica de paso**. Es decir, no tiene un embalse y esto obliga a aprovechar el agua de pasada. Las fuertes lluvias registradas los últimos días mejoraron su capacidad de generación, pero también traen consigo riesgos, como los sedimentos.
+
+En casos extremos podría obligar a detener la operación para cuidar los equipos. Estos factores hacen que los cortes de energía planificados puedan variar constantemente, explicó el Ministro de Energía, **Antonio Goncalves**.
+
+Operación de Coca Codo Sinclair
+-------------------------------
+
+Según el último reporte del Operador Nacional de Electricidad (Cenace), este 1 de octubre de 2024, **Coca Codo Sinclair** produjo 890 MW, en promedio. Aunque la operación de esta central es clave en la producción de energía del país, su rendimiento actual está por debajo lo esperado, que es el **65% de su capacidad**, es decir, aproximadamente 1000 MW, señaló **Ricardo Buitrón**, consultor energético.
+
+Asimismo, para que la operación de esta central no se detenga, el Ministerio de Energía aplazó el mantenimiento de los equipos para abril de 2025. En ese mes se detendrá la operación de la mitad de la hidroeléctrica. Es decir, solo trabajarán las cuatro de las ocho turbinas que posee.
+
+Inicialmente, el mantenimiento estaba previsto para abril de este 2024, sin embargo, debido al déficit energético de 1080 MW del Ecuador, se ha tenido que aplazar este procedimiento.
+
+Buitrón señaló que los mantenimientos de las hidroeléctricas deben hacerse en los períodos de estiaje y que los aplazamientos o suspensiones son normales para responder a la demanda de energía del país.
+
+Para la segunda semana de octubre de 2024, los cortes de luz continúan con un promedio de seis horas al día. Puede consultar los cortes de luz en su ciudad y sector en el siguiente enlace [https://acortar.link/7reWpc](https://acortar.link/7reWpc).
+
+Destituciones de jueces involucrados en el caso Plaga continúan
+===============================================================
+
+El Consejo de la Judicatura continúa con las destituciones a jueces involucrados en el caso Plaga.
+--------------------------------------------------------------------------------------------------
+
+![El Pleno del Consejo de la Judicatura destituyó a más jueces involucrados en el caso Plaga.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-30-1.jpg)
+
+Las destituciones de los jueces involucrados en el caso Plaga continúan.
+
+El Consejo de la Judicatura (CJ) destituyó a cinco jueces y un secretario este jueves 3 de octubre de 2024.
+
+### Más noticias:
+
+* [CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga](https://www.elcomercio.com/actualidad/seguridad/cj-destituyo-juez-habria-favorecido-los-lobos-vinculado-caso-plaga.html "CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga")
+* [Ivan Saquicela respondió las acusaciones en el caso Plaga](https://www.elcomercio.com/actualidad/politica/ivan-saquicela-respondio-acusaciones-caso-plaga.html "Ivan Saquicela respondió las acusaciones en el caso Plaga")
+
+El Pleno del CJ destituyó a cinco jueces y a una secretaria de la Corte Provincial de Justicia de Santo Domingo de los Tsáchilas.
+
+Ellos son investigados por delincuencia organizada en el caso Plaga y que habrían beneficiado a personas procesadas penalmente, a cambio de recursos económicos por hasta 60 000 dólares.
+
+En el caso Plaga, Fiscalía investiga el delito de delincuencia organizada y procesa a 31 personas, la mayoría jueces y funcionarios judiciales.
+
+Más jueces involucrados en el caso Plaga fueron destituidos
+-----------------------------------------------------------
+
+Los jueces destituidos incurrieron en infracciones disciplinarias por solicitar o recibir préstamos en dinero u otros bienes, favores o servicios.
+
+Estas actuaciones ponen en **tela de duda la imparcialidad del servidor judicial**, señaló el CJ.
+
+Cuatro jueces destituidos corresponden a **Santo Domingo de los Tsáchilas y uno a El Oro**.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **N.-** | **Servidor/a** | **Cargo** | **Provincia** |
+| 1   | P.A.C.C. | Juez de la Sala Multicompetente de la Corte Provincial de Justicia | Santo Domingo de los Tsáchilas |
+| 2   | J.X.G.H. | Juez de Primer Nivel de la Unidad Judicial Especializada de Garantías Penitenciarias | Santo Domingo de los Tsáchilas |
+| 3   | J.E.M.B. | Juez de la Sala Multicompetente de la Corte Provincial de Justicia | Santo Domingo de los Tsáchilas |
+| 4   | G.E.L.G. | Juez de la Corte Provincial de Justicia | Santo Domingo de los Tsáchilas |
+| 5   | L.A.L.L. | Juez de la Unidad Judicial Multicompetente de Huaquillas | El Oro |
+| 6   | M.D.A.T. | Secretaria de la Corte Provincial de Justicia | Santo Domingo de los Tsáchilas |
+
+Elaboración: Consejo de la Judicatura
+
+Las destituciones se dieron por unanimidad del Pleno del CJ.
+
+**El 24 de septiembre pasado, el CJ destituyó a otro un juez** que habría favorecido a Los Lobos y también está implicado en el caso Plaga.
+
+Este juez habría cobrado 70 000 dólares para favorecer a integrantes del grupo de delincuencia organizada, Los Lobos.
+
+El juez destituido en esa ocasión fue **Jorge Eduardo A.Z.**, juez de la Unidad Judicial Penal de Santo Domingo de los Tsáchilas.
+
+Daniel Noboa dio una disposición para la comercialización de generadores eléctricos
+===================================================================================
+
+La disposición sobre los generadores eléctricos es una más de las que toma el Gobierno de Daniel Noboa por la crisis energética.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa dio una disposición sobre la venta e importación de generadores eléctricos.](https://www.elcomercio.com/wp-content/uploads/2024/04/generadores-electricos-cortes-luz.jpg)
+
+El presidente Daniel Noboa dio una disposición para la comercialización de generadores eléctricos, este jueves 3 de octubre de 2024[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+Noboa emitió el Decreto Ejecutivo 411 en el que detalló la medida y hasta cuándo rige.
+
+### Más noticias:
+
+* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+
+El Gobierno señala que con la disposición está siendo consecuente con la actual situación climática e  
+hidrológica a nivel nacional.
+
+Esta situación afecta directamente a la producción y generación eléctrica.
+
+Por ello, el Gobierno “implementa medidas urgentes que mitiguen su impacto y que, por el contrario, coadyuven a sobrellevar este periodo de manera sostenible”, dijo.
+
+Disposición de Daniel Noboa sobre venta e importación de generadores eléctricos
+-------------------------------------------------------------------------------
+
+Frente a la crisis energética y a la dependencia de las lluvias, el presidente Daniel Noboa dispuso la reducción a **tarifa 0% del IVA** para los generadores eléctricos.
+
+La **importación y venta local** de generadores eléctricos está considerada en todas sus formas y gamas, sus partes y piezas.
+
+El Decreto, de tres artículos, señala que: La tarifa aplicada a las transferencias e importaciones de generadores eléctricos (…) se **aplicará en los periodos en que el Presidente de la República determine**, conforme a la situación energética del país”.
+
+Esta medida estará vigente hasta el **31 de diciembre de 2024**.
+
+El Servicio de Rentas Internas y al Servicio Nacional de Aduana del Ecuador implementarán esta disposición.
+
+Zero Lab, el mejor restaurante ecuatoriano para World Culinary Awards
+=====================================================================
+
+El restaurante ecuatoriano Zero Lab fue considerado el mejor del país en un ecuentro del World Culinaary Awards, en Dubái.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Los chefs Carlos y Juan Sebastián Gallardo reciben el premio al mejor restaurante ecuatoriano.](https://www.elcomercio.com/wp-content/uploads/2024/10/zero-lab.jpg)
+
+En **Dubái**, Emiratos Árabes Unidos, **Zero Lab** recibió la distinción como **el mejor restaurante ecuatoriano** en los **World Culinary Awards.** En este encuentro de la gastronomía y el turismo mundial, los chefs **Carlos y Juan Sebastián Gallardo** recibieron el **galardón** en la gala del 2 de octubre del 2024.
+
+### Más noticias
+
+* [Ecuador quiere liderar norma europea para producir cacao sin deforestación](https://www.elcomercio.com/actualidad/ecuador-quiere-liderar-norma-europea-para-producir-cacao-sin-deforestacion.html "Ecuador quiere liderar norma europea para producir cacao sin deforestación")
+* [Celebra el Día del Café con tips para elegir uno de calidad](https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-cafe-variedad-efemeride.html "Celebra el Día del Café con tips para elegir uno de calidad")
+* [Ecuador se corona campeón en el Mundial de Asadores en Uruguay](https://www.elcomercio.com/tendencias/ecuador-mundial-asadores-uruguay.html "Ecuador se corona campeón en el Mundial de Asadores en Uruguay")
+
+Zero Lab, restaurante ecuatoriano y laboratorio
+-----------------------------------------------
+
+**Zero Lab** es un restaurante ecuatoriano que se distingue por estudiar los elementos químicos de los alimentos. Es, además, el **laboratorio gastronómico** de la **Universidad de los Andes** (Uniandes). Uno de los miembros del jurado internacional del World Culinary Awards visitó el restaurante, en Quito, y reconoció como uno de los mejores platos probados en el país al ceviche de lenguado y frutos rojos.
+
+Es uno de los seis platos destacados de **Zero Lab** y fue fruto de una investigación sobre el pH (la medida de la acidez) “en la desnaturalización de la proteína a través de las **frutas ecuatoriana**s”. Sus ingredientes son: lenguado, mora, mortiño, frambuesa, aceite de tomate, quinotto, papel de arroz, aire de mortiño.
+
+Un premio a la innovación
+-------------------------
+
+Zero lab es un **restaurante ecuatoriano** en el que está garantizado una experiencia distinta al momento de comer. Es un lugar en donde, además del conocimiento, da lugar al buen humor. Cuando se habla con los **Gallardo**, delatan su profundo conocimiento para llevar adelante experimentos gastronómicos con los productos ecuatorianos. Con ellos, les dan un sentido nuevo, con un servicio a la mesa que añade esos elementos del placer que se requiere en el “fine dining”.
+
+Eso valió para que **World Culinary Awards**, en esta quinta edición, reconociera a Zero Lab como el mejor restaurante ecuatoriano del 2024.
+
+**World Culinary Awards** es “una iniciativa global para reconocer y premiar a la excelencia en la industria **culinaria**“. Es hermana del  World Travel Award, que comenzó en 1994.
+
+Leonardo Campana es una leyenda del Inter Miami
+===============================================
+
+El nombre de Leonardo Campana está destinado a quedar en la historia del Inter Miami.
+-------------------------------------------------------------------------------------
+
+![Luis Suárez (i), Leonardo Campana y Lionel Messi celebrando el nuevo título del Inter Miami.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T204134.348.jpg)
+
+Cuando **Leonardo Campana** arribó al Inter Miami en 2022, el club de las ‘Garzas’ aún era un equipo en crecimiento, con grandes aspiraciones, tras solo dos temporadas en el fútbol profesional.
+
+Hoy, tres años después, el **Inter Miami** ha alcanzado el estatus de uno de los mejores equipos de Estados Unidos, con títulos en su palmarés y grandes figuras como **Lionel** **Messi** y Luis Suárez en sus filas. Parte de ese éxito se debe a la contribución del delantero ecuatoriano, quien inició su carrera futbolística en Barcelona SC.
+
+### Más noticias:
+
+* [Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami](https://www.elcomercio.com/deportes/futbol/lionel-messi-y-leonardo-campana-conquistan-un-nuevo-titulo-con-el-inter-miami.html "Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami")
+* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
+* [Leonardo Campana con opciones de estar en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-con-opciones-de-estar-en-la-seleccion-de-ecuador.html "Leonardo Campana con opciones de estar en la Selección de Ecuador")
+
+Leonardo Campana, un referente histórico en el Inter Miami
+----------------------------------------------------------
+
+‘Leo’ **Campana** llegó al Inter Miami en 2022 tras una experiencia en Europa en 2020, donde no logró afianzarse. Su llegada al equipo de la **MLS** fue clave, ya que en ese momento, con tan solo 22 años, había tenido pocos partidos en primera división y había pasado por cuatro clubes distintos.
+
+Aunque inicialmente l**legó cedido desde el Wolverhampton de Inglaterr**a, el ecuatoriano sorprendió con una notable primera temporada, anotando **12 goles** en 28 partidos, formando una dupla eficaz con Gonzalo Higuaín.
+
+Gracias a su excelente rendimiento, el préstamo fue extendido para todo el 2023. Antes de finalizar el 2022, la directiva del **Inter Miami** decidió comprar su pase de los Wolves, con un contrato hasta 2024 y opción a un año adicional.
+
+En 2023, sin Higuaín en el equipo y tomando el liderazgo en la delantera, Campana volvió a destacar. Aunque **Lionel Messi** se unió al equipo a mitad de año, Campana dejó su huella al marcar 11 goles y conseguir el primer título en la historia del club, la **Leagues Cup.**
+
+Consolidado como uno de los referentes del club, la directiva de las ‘Garzas’ extendió su contrato hasta 2027, convirtiéndolo en una de las figuras claves del equipo, donde incluso ha portado la cinta de capitán.
+
+Menos minutos, pero con impacto
+-------------------------------
+
+En 2024, **pese a tener menos minutos** por la llegada de Luis Suárez, Campana logró anotar goles importantes. Aunque su cuenta goleadora se redujo a ocho tantos, estos fueron decisivos para que el Inter Miami ganara la **Supporters’ Shield** como el mejor equipo de la temporada regular.
+
+Pero más allá de los títulos, Campana alcanzó un hito clave, se convirtió en el máximo goleador histórico del Inter Miami con 31 goles, superando a Gonzalo Higuaín. Aunque Lionel Messi está cerca de alcanzarlo, este logro refuerza el legado del ecuatoriano en el club.
+
+Leonardo Campana ha escrito su nombre en la historia del **Inter Miami**, no solo por los títulos, sino también por su capacidad de influir en momentos decisivos.
+
+Cortes de agua para más de 50 barrios en Quito este viernes 4 de octubre
+========================================================================
+
+Los cortes de agua en Quito para este viernes 4 de octubre son de 12 horas.
+---------------------------------------------------------------------------
+
+![Los cortes de agua en Quito este viernes 4 de octubre son de 12 horas y se extienden hasta el 15 del mismo mes.](https://www.elcomercio.com/wp-content/uploads/2023/05/6-16.jpg)
+
+Los **cortes de agua** para más de 50 barrios en **Quito** este viernes 4 de octubre de 2024 están vigentes[.](https://es.wikipedia.org/wiki/Quito)
+
+La **Empresa Pública Metropolitana de Agua Potable y Saneamiento de Quito (Epmaps)** tiene cortes programados hasta el 15 de octubre.
+
+### Más noticias:
+
+* [Sequía en Ecuador obliga a cortes de agua de hasta 12 horas en Quito](https://www.elcomercio.com/actualidad/quito/sequia-ecuador-obliga-racionamientos-agua-cortes-hasta-12-horas.html "Sequía en Ecuador obliga a cortes de agua de hasta 12 horas en Quito")
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+
+La Epmaps señala que, debido a los días consecutivos de **falta de lluvias y las altas temperaturas**, se mantienen los cortes de agua.
+
+Más de 50 barrios con cortes de agua este viernes 4 de octubre en Quito
+-----------------------------------------------------------------------
+
+El calendario de racionamientos se implementará de forma temporal y está dirigido para las zonas centro y sur de la capital.
+
+La suspensión afectará a los barrios que son abastecidos por la Planta de Tratamiento de Agua Potable de Puengasí, en el **centro y sur** de Quito.
+
+Los cortes de agua son de **doce horas**, de 07:00 a 19:00 y de 19:00 a 07:00 del siguiente día.
+
+Así, **de 07:00 a 19:00 de este viernes 04 de octubre no tendrán agua 22 barrios**:
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-11-1024x683.jpg)
+
+En tanto, **de 19:00 a 07:00, 33 barrios no tendrán el servicio de agua potable en Quito**. Estos son:
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-12-1024x683.jpg)
+
 Tres equipos pelean por el liderato de la Liga Pro
 ==================================================
 
@@ -518,435 +880,4 @@ Según una reseña de la revista [Rolling Stone](https://es.rollingstone.com/arg
 **Expectativas y futuro de la saga** 
 -------------------------------------
 
-Con el estreno de **‘Joker 2’**, las **expectativas sobre el futuro de la saga son altas**. La película no solo **expande el universo del Joker**, sino que también plantea preguntas sobre la dirección que podría tomar en futuras entregas. La combinación de actuaciones estelares y un enfoque narrativo innovador sugiere que esta saga tiene mucho más que ofrecer. 
-
-Israel bombardea el centro de Beirut 
-=====================================
-
-Hezbolá contraatacó lanzando al menos 120 cohetes sobre territorio israelí.
----------------------------------------------------------------------------
-
-![El humo se eleva como resultado de un ataque aéreo israelí contra la aldea de Khiam, cerca de la frontera con Israel en el sur del Líbano, el 3 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ac00e3c5b4b0da81e6ada7ada767407a7574423d.jpg)
-
-El **Ejército israelí** lanzó bombardeos este jueves, 3 de octubre de 2024, contra **objetivos de la milicia chií** Hezbolá en el centro de Beirut por **segunda vez en un año de enfrentamientos**. Los ataques causaron al menos **nueve muertos**. Sin embargo, las **autoridades libanesas** no descartan más víctimas, mientras los enfrentamientos continúan en la frontera entre ambos países.
-
-### Más noticias
-
-* [Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut](https://www.elcomercio.com/actualidad/mundo/guterres-expresa-gran-alarma-bombardeos-israelies-beirut.html "Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut")
-* [Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut](https://www.elcomercio.com/actualidad/mundo/israel-promete-acelerar-ataques-contra-hizbula-vuelve-bombardear-beirut.html "Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut")
-* [Historia explicada del origen del conflicto palestino-israelí](https://www.elcomercio.com/actualidad/mundo/historia-conflicto-palestina-israel.html "Historia explicada del origen del conflicto palestino-israelí ")
-
-El Ejército israelí informó de un **ataque aéreo** contra el cuartel general de la **inteligencia del grupo chií** Hezbolá en Beirut y también la **oficina de su órgano de comunicación** en la misma ciudad.
-
-Según el **Ministerio de Salud Pública del Líbano** al menos nueve personas murieron y catorce resultaron heridas en el bombardeo si bien informó de que están **analizando los restos de ADN** encontrados en el lugar para determinar el recuento final de muertos
-
-La **Agencia Nacional de Noticias libanesa (ANN)** informó de que se produjeron bombardeos en la zona beirutí del Dahye, que tuvieron como objetivo los **barrios de Haret Hreik, Burj al Barajna, Al Amirikan** y Al Ghobeiry, mientras que un edificio “colapsó completamente” en la zona de Muawad.
-
-Agregó que el ataque destruyó un centro de la **Autoridad Sanitaria Islámica,** una organización vinculada a Hezbolá que se encarga de ofrecer **atención y servicios sanitarios**, y en el que fueron utilizadas “bombas de fósforo prohibidas internacionalmente”, dijo.
-
-Ejército israelí
-----------------
-
-El **Ejército israelí no especifica en su comunicado** qué barrios de Beirut fueron atacados.
-
-El blanco en Muawad fue la oficina de medios de Hizbulá, según indicó una **fuente próxima al grupo** que pidió no ser identificada.
-
-Simultáneamente Israel **continuó bombardeando con intensidad en el sur** y este del Líbano, donde se encuentran los principales bastiones de Hizbulá.
-
-Un soldado libanés murió en un ataque israelí contra un convoy de la **Cruz Roja del Líbano** que evacuaba a víctimas en el sur del país, donde también cuatro voluntarios y otro soldado resultaron heridos.
-
-Unas 2 000 personas murieron por **ataques israelíes desde hace un año**, mientras que la violencia también ha obligado a más de **1,2 millones de personas a abandonar sus hogares**, según el Gobierno libanés.
-
-Israel avanza en el sur
------------------------
-
-En medio de la ofensiva terrestre, el Ejército israelí ordenó este jueves. 3 de octubre de 2024, la evacuación de una **veintena de pueblos en el sur de Líbano**, incluida la localidad de Nabatieh, una de las más castigadas por los bombardeos israelíes de las últimas semanas.
-
-Es la tercera vez que las **fuerzas israelíes piden la evacuación de localidades** en el sur de Líbano desde el inicio de la incursión terrestre el lunes por la noche.
-
-En todos los casos Israel solicitó a los **civiles que se dirijan al norte del río Awali,** más de 50 kilómetros de la frontera y mucho más al norte del río Litani (30 kilómetros). Este lugar marca la zona desmilitarizada designada por la ONU tras la guerra de 2006 entre Israel y Hizbulá, donde **no debe haber presencia** armada más que de las autoridades libanesas y de la misión de Naciones Unidas en el país (UNIFIL).
-
-Combatientes de Hezbolá
------------------------
-
-Israel aseguró también matar a unos **60 combatientes de Hezbolá** y haber alcanzado en el último día unos 200 “objetivos” de Hizbulá en territorio libanés”.
-
-Hezbolá contraatacó lanzando al menos **120 cohetes sobre territorio israelí,** varios de ellas contra la Alta Galilea, donde sonaron las alarmas antiaéreas. Algunos fueron interceptados y otros hicieron impacto.
-
-También los rebeldes chiíes hutíes del Yemen reivindicaron este jueves un nuevo ataque con “varios drones” contra ‘Yafa’ (Tel Aviv), que “logró su objetivo con éxito”.
-
-Irán reitera apoyo a palestinos y libaneses
--------------------------------------------
-
-Mientras los combates continúan en el Líbano, el presidente de Irán, Masud Pezeshkian, reafirmó desde Doha el apoyo de su país a las **“facciones de la resistencia” palestinas y libanesas**, aseguró que Israel “no podrá acabar” con ellas y advirtió de que “la entidad sionista será castigada pronto”.
-
-En Teherán, Irán convocó este jueves a los embajadores de Alemania y Austria por separado para protestar por la **convocatoria de diplomáticos iraníes en Berlín y Viena** tras el ataque contra Israel en la noche del lunes y rechazó la condena de los líderes del G7 por el ataque con misiles contra Israel, que calificó de “parcial e irresponsable”, y pidió al grupo que centre su atención en detener el conflicto en Gaza y Líbano.
-
-Mientras tanto, el Ministerio de Exteriores ruso, a **través de su viceministro Serguéi Riabkov** afirmó este jueves que Moscú está en “estrechísimo contacto” con Irán debido al agravamiento de la situación en Oriente Medio.
-
-Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes
-===========================================================
-
-El Mundial de Clubes se celebrará en 2025, pero ya genera expectativas, y la historia de Kendry Páez con el Chelsea promete ser emocionante
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez pasará del Independiente del Valle al Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4.jpg)
-
-**Kendry Páez** podría tener la oportunidad de hacer su debut en el **Mundial de Clubes** con el **Chelsea** en el 2025.
-
-Según el periodista **Nizaar Kinsella** de la BBC, la **FIFA** ha habilitado a las asociaciones para que abran su periodo de inscripción a partir del 1 de junio del 2025, permitiendo a clubes como el **Chelsea** registrar nuevos jugadores.
-
-Esta decisión podría facilitar que **Páez** y su compañero Estevao Willian se incorporen al equipo durante el torneo.
-
-### Más noticias:
-
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
-* [Kendry Páez pierde protagonismo en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-independiente-valle-chelsea.html "Kendry Páez pierde protagonismo en Independiente del Valle")
-
-Cualquier jugador que sea fichado durante el Mundial de Clubes tendrá la posibilidad de participar de inmediato, siempre que no haya competido anteriormente en el evento.
-
-Esto presenta una ventana emocionante para **Kendry Paez**, de 17 años, quien está en plena transición de su carrera, dejando atrás a Independiente del Valle para unirse a los **‘Blues’** a mediados de 2025.
-
-Se unirá una vez que cumpla a la mayoría de edad. El ecuatoriano cumplirá sus 18 años a inicios de mayo del 2024.
-
-### Kendry Páez
-
-**Kendry Páez** ha tenido un impacto significativo en la selección ecuatoriana. Durante la Copa América 2024, se convirtió en el jugador más joven en participar en el torneo con la camiseta número 10.
-
-Su habilidad en el campo se evidenció cuando anotó un gol de penal contra **Jamaica**, haciéndose notar como uno de los jugadores más prometedores de su generación.
-
-A pesar de su juventud, **Páez** ha demostrado ser una figura clave en el equipo.
-
-En el último año, ha acumulado varios logros tanto a nivel de club como internacional, destacándose en las eliminatorias al **Mundial 2026.**
-
-Sus números reflejan su progreso: ha disputado más de 65 partidos, anotando 13 goles con Independiente del Valle y brindando numerosas asistencias.
-
-El futuro parece brillante para **Kendry Páez** en el **Chelsea**, y su posible participación en el Mundial de Clubes solo aumentaría su proyección internacional.
-
-Los aficionados esperan ansiosos el anuncio oficial que podría marcar el inicio de una nueva era para el joven ecuatoriano en el fútbol mundial.
-
-Cortes de luz reducidos en Guayaquil este viernes 4 de octubre
-==============================================================
-
-Los cortes de luz en Guayaquil para este viernes 4 de octubre son de hasta cinco horas al día, con una franja o en varias franjas, de acuerdo al sector.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este viernes 4 de octubre son de hasta cinco horas.](https://www.elcomercio.com/wp-content/uploads/2024/05/cortes-luz-ecuador-26-mayo-1.jpg)
-
-Los nuevos horarios de cortes de luz reducidos en Guayaquil para este viernes 4 de octubre de 2024 están listo[.](https://es.wikipedia.org/wiki/Guayaquil)
-
-CNEL EP emitió el cronograma de los cortes de luz hasta el domingo 6 de octubre.
-
-### Más noticias:
-
-* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
-* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
-
-El Gobierno de Daniel Noboa hizo este ofrecimiento de reducción el 1 de octubre, debido a la mejoría en la situación hídrica y energética del país.
-
-El Gobierno señaló que la reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
-
-El comunicado del Ministerio de Energía y Minas de este jueves 3 de octubre señaló que los nuevos horarios rigen desde este viernes 4 hasta el domingo 6 de octubre.
-
-Horarios de cortes de luz reducidos en Guayaquil este viernes 4 de octubre
---------------------------------------------------------------------------
-
-El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
-
-Los horarios establecidos por CNEL para la Guayaquil establece cortes hasta de cinco horas.
-
-Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora.
-
-Estos son los horarios de los cortes de luz para Guayaquil por sector:
-
-El concierto de Juanes en Quito tendrá 10 generadores eléctricos
-================================================================
-
-Juanes regresa a Ecuador después de cinco años de ausencia. Hoy se presentará en Quito.
----------------------------------------------------------------------------------------
-
-![Juanes cantará este 3 de octubre de 2024 en Quito. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T172343.897.jpg)
-
-El reconocido artista colombiano **Juanes** visita **Ecuador** para ofrecer dos esperados conciertos, uno en Quito y otro en Guayaquil.
-
-En un contexto de continuos cortes de **luz** en el país, los organizadores del concierto en **Quito** tomaron precauciones.
-
-### Más noticias:
-
-* [Juanes regresa a Ecuador luego de cinco años de ausencia](https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html "https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html")
-* [Karol G aparece con un ‘look’ renovado](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html")
-* [Karol G se apoderó del Spotify de los españoles](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-spotify-musica-favorita.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-spotify-musica-favorita.html?source=Internal&ref=Single+Content+Link")
-
-**El concierto de Juanes en Quito tendrá 10 generadores eléctricos**
---------------------------------------------------------------------
-
-El espectáculo en Quito está previsto para este jueves 3 de octubre en el Coliseo Rumiñahui; arrancará a las 20:00 y contará con 10 generadores eléctricos.
-
-El concierto en Guayaquil -en cambio- se realizará el sábado 5 de octubre en el Coliseo Voltaire Paladines Polo.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DArBR47vPhq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Output.ce (@output.ce)](https://www.instagram.com/p/DArBR47vPhq/?utm_source=ig_embed&utm_campaign=loading)
-
-**Juanes regresa a Ecuador luego de cinco años de ausencia**
-------------------------------------------------------------
-
-**Juanes**, ícono del pop latinoamericano, regresa a Ecuador en un momento de gran éxito, tras ser ovacionado por su música en todo el mundo.
-
-En los Latin Grammy 2023, Juanes estableció un nuevo récord con cuatro nominaciones, consolidándose como el solista latinoamericano con más nominaciones y estatuillas en la historia de estos premios.
-
-Su reciente gira por Europa y América Latina ha cautivado a audiencias de todas las edades, llevándolos a disfrutar de su música en diferentes escenarios.
-
-Los éxitos más emblemáticos, como Es por ti, La camisa negra y Nada valgo sin tu amor, estarán presentes junto a las canciones de su nuevo álbum, ‘_Vida Cotidiana’_.
-
-**Ecuador está en el corazón de Juanes**
-----------------------------------------
-
-**Ecuador** tiene un significado especial para Juanes, quien ha sido bien recibido en el país en varias ocasiones. En 2021, rindió homenaje a Julio Jaramillo en su disco ‘_Origen’_, reinterpretando el clásico Nuestro Juramento.
-
-Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad
-====================================================================
-
-El alcalde de Quito, Pabel Muñoz, firmó el Acuerdo Quito 2034 junto a diversos sectores de la ciudad
-----------------------------------------------------------------------------------------------------
-
-![El Acuerdo Quito 2034 es un compromiso entre varios actores de la capital.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-9.jpg)
-
-El alcalde de Quito, Pabel Muñoz, firmó el **Acuerdo Quito 2034** junto a diversos sectores de la ciudad. Esta plataforma de diálogo establece cuatro ejes de acción para mejorar la calidad de vida de los quiteños[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-### Más noticias
-
-* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html")
-* [Calles cerradas en Quito por tareas de limpieza tras inundaciones](https://www.elcomercio.com/actualidad/quito/calles-cerradas-en-quito-por-tareas-de-limpieza-tras-inundaciones.html)
-
-El Acuerdo Quito 2034
----------------------
-
-El 3 de octubre de 2024, la ciudad de Quito fue testigo de un **histórico acuerdo** entre el municipio y diversos sectores de la sociedad. El Acuerdo Quito 2034 se centrará en la erradicación de la pobreza, la seguridad ciudadana y la modernización de la capital, con metas a cumplirse en los próximos 10 años.
-
-Este acuerdo surge tras un proceso de diálogo entre representantes del **sector público y privado**, que culminó en la firma de compromisos para impulsar el bienestar social y económico de la ciudad.
-
-El alcalde Pabel Muñoz destacó la **importancia de esta alianza** para consolidar una planificación estratégica que permita erradicar la pobreza extrema y mejorar las condiciones de vida de todos los quiteños. Entre los sectores involucrados se encuentran **empresarios**, académicos, líderes barriales y delegados de pueblos indígenas y nacionalidades.
-
-El Acuerdo Quito 2034 va por la erradicación de la pobreza
-----------------------------------------------------------
-
-Uno de los ejes principales del Acuerdo Quito 2034 es la erradicación de la **pobreza extrema**. Para ello, se implementarán medidas como la creación de un paquete de protección social destinado a niños de escuelas municipales, trabajadores autónomos y recicladores.
-
-También se establecerá una incubadora de cooperativas para fortalecer la **economía popular y solidaria**, y una Red Metropolitana para la Soberanía Alimentaria. Estas iniciativas buscan garantizar que los sectores más vulnerables de la ciudad puedan acceder a oportunidades económicas y mejorar su calidad de vida.
-
-El acuerdo por la seguridad
----------------------------
-
-El Acuerdo también se enfoca en la seguridad y la **convivencia pacífica** en la ciudad. Para ello, se ampliará la conformación de comités de seguridad ciudadana y se promoverán proyectos públicos y privados para la recuperación de espacios públicos seguros y verdes.
-
-Además, se lanzarán **campañas dirigidas a la juventud** para fomentar el respeto a las diversidades y la convivencia pacífica. Estos esfuerzos se complementarán con la modernización del sistema de movilidad urbana y la promoción del transporte sostenible y alternativo.
-
-(Video) Alan Minda brilló en la Conference League con gol y asistencia
-======================================================================
-
-Alan Minda fue una de las figuras del Cercle Brugge en su debut en la Fase de Grupos de la Conference League.
--------------------------------------------------------------------------------------------------------------
-
-![Alan Minda celebrando su gol con el Cercle Brugge en la Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T165646.218.jpg)
-
-El **Cercle Brugge** aplastó 6-2 al FC St. Gallen de Suiza en su presentación en la Conference League. Una de las estrellas del partido fue el ecuatoriano **Alan Minda**, quien contribuyó con un gol y una asistencia en una actuación destacada.
-
-A pesar de no ser titular habitual en el equipo belga, cada vez que Minda tiene la oportunidad, **demuestra su calidad con actuaciones sobresalientes**. En esta ocasión, en su primer partido como titular en más de un mes, fue clave en el triunfo del Cercle Brugge.
-
-### Más noticias:
-
-* [(Video) Seleccionado ecuatoriano asiste en Europa League](https://www.elcomercio.com/deportes/video-seleccionado-ecuatoriano-asiste-en-europa-league.html "(Video) Seleccionado ecuatoriano asiste en Europa League")
-* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
-* [Willian Pacho y el PSG sucumben ante el Arsenal en Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-sucumben-ante-arsenal-champions-league.html "Willian Pacho y el PSG sucumben ante el Arsenal en Champions League")
-
-Gracias a esta contundente victoria, el Cercle Brugge terminó la primera jornada del tercer torneo más importante de **Europa** como **líder de la Fase de Liga**, con tres puntos y una diferencia de cuatro goles a favor.
-
-Alan Minda marcó y asistió
---------------------------
-
-El ecuatoriano dejó su huella desde el inicio del partido en el Estadio Jan Breydel, en Bélgica.
-
-Apenas a los tres minutos del primer tiempo, **Minda abrió el marcador c**on un potente disparo de derecha desde el borde del área, tras recibir un pase de Kévin Denkey.
-
-> [pic.twitter.com/RWeuD6auJJ](https://t.co/RWeuD6auJJ)
-> 
-> — serrbar (@VeliaC54206) [October 3, 2024](https://twitter.com/VeliaC54206/status/1841883233195327650?ref_src=twsrc%5Etfw)
-
-Más tarde, en el minuto 42, con el marcador ya 3-0, Minda volvió a aparecer.
-
-Esta vez, desde la banda derecha, **lanzó un centro preciso al área** que encontró a Denkey, quien anotó su segundo gol del partido, poniendo el 4-0.
-
-> [pic.twitter.com/XIt2iXSPM8](https://t.co/XIt2iXSPM8)
-> 
-> — serrbar (@VeliaC54206) [October 3, 2024](https://twitter.com/VeliaC54206/status/1841893350028546427?ref_src=twsrc%5Etfw)
-
-Según el portal SofaScore, A**lan Minda fue el tercer mejor jugador del partido** con una calificación de 8.1, solo por detrás de Denkey, con un puntaje perfecto, y Gary Magnee, con 8.7.
-
-En total, el exjugador de Independiente del Valle **disputó 61 minutos**, tiempo suficiente para dejar una huella importante en el juego.
-
-### ¿Minda irá a la Selección de Ecuador?
-
-Alan Minda había sido convocado por **Sebastián Beccacece** para la Selección de Ecuador en las eliminatorias sudamericanas, pero no pudo asistir debido a una lesión.
-
-Ahora que ha regresado a la acción y en solo tres partidos ha acumulado dos asistencias y un gol, Minda se perfila como un posible revulsivo para la **próxima convocatoria de la ‘Tri’.**
-
-Kendry Páez tiene el respaldo total de Beccacece en la polémica
-===============================================================
-
-Sebastián Beccacece defendió y brindó su respaldo a Kendry Páez, de la Selección de Ecuador, tras polémicas extradeportivas.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez, futbolista de la Selección de Ecuador, en un partido de eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T171311.699.jpg)
-
-La **Selección de Ecuador** continúa su camino en busca de la clasificación hacia el Mundial de 2026. Entre los nombres regulares en las convocatorias aparece el de Kendry Páez, quien fue defendido por el DT Sebastián Beccacece.
-
-Antes de entregar la lista de convocados para los próximos partidos ante **Paraguay y Uruguay**, el entrenador brindó una rueda de prensa. En ella dio detalles previos con respecto a quienes llamará, el estado del equipo y cuándo saldrá la lista.
-
-### Más noticias:
-
-* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
-* [Kendry Páez pierde protagonismo en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-independiente-valle-chelsea.html "Kendry Páez pierde protagonismo en Independiente del Valle")
-* [¿Por qué es tendencia Kendry Páez?](https://www.elcomercio.com/deportes/eliminatorias/kendry-paez-alfaro-moreno-seleccion.html "¿Por qué es tendencia Kendry Páez?")
-
-En función de los futbolistas que forman parte de la Selección de Ecuador, el estratega fue consultado por **Kendry Páez**. Allí se le preguntó si a este se lo debe cuidar en función de sus últimas polémicas extradeportivas
-
-Con respecto a ello, **Beccacece** brindó su lectura crítica. A pesar de que señaló que está consciente de los sucesos que envuelven al futbolista de 17 años, este sostuvo que lo conoce y valora la convivencia que ha tenido con él.
-
-La defensa de Sebastián Beccacece, DT de la Selección de Ecuador, a Kendry Páez
--------------------------------------------------------------------------------
-
-“Tengo una experiencia de 10 días con él. En eso me baso. No ignoro lo que pasa en las redes, en su día a día o en su club. Es mi responsabilidad estar al tanto de eso. Esa experiencia con él me ha acercado mucho**. Es un joven con condiciones, pero que tiene que saber manejar el ya estar vendido, que estará afuera y las distracciones de su edad**“, manifestó el técnico de la Selección de Ecuador.
-
-Con respecto a tales palabras, **Beccacece** manifestó que sus decisiones son en función de la relación que tiene con el futbolista, lo que vio en la convocatoria pasada y el rendimiento que este tuvo en ella y presenta su club. A su vez, sostuvo que a su edad se puede equivocar y que, dados sus 17 años y expectativas, se le exige más.
-
-“**Mientras mantenga sus niveles de compromiso, respeto y disciplina, yo estoy feliz. El día que eso no ocurra, yo deberé tener una charla… No con él, sino con cualquiera del equipo**“, agregó el estratega tricolor.
-
-Las polémicas de Kendry Páez
-----------------------------
-
-Con la Selección de Ecuador, **Kendry Páez** solo ha tenido un suceso controversial. En marzo de 2024, en una gira de amistosos de la Tri, un video de este junto a otros seleccionados en un club nocturno trascendió.
-
-A pesar del suceso, aquello no constituyó una falta con respecto a la concentración del equipo. Aquello se suscitó en un día libre que había otorgado el **DT Félix Sánchez Bas**.
-
-Después de aquel suceso y con **Páez** consolidado en Independiente del Valle, otras polémicas se han vuelto a desatar en torno al futbolista y situaciones extradeportivas. La última se dio debido a un video en un concierto en el cual aparece vapeando.
-
-Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro
-=========================================================================
-
-Ecuador y Japón firmaron un acuerdo para financiar el Proyecto Geotérmico Chachimbiro. Se impulsará la generación de energía renovable.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![El Proyecto Geotérmico Chachimbiro está ubicado en la provincia de Imbabura, cantón Urcuquí. Ecuador y Japón firmaron un acuerdo de financiamiento. Foto: Cancillería](https://www.elcomercio.com/wp-content/uploads/2024/10/japon-ecuador-1.jpg)
-
-**Ecuador y Japón** formalizaron un contrato de préstamo para el **Proyecto Geotérmico Chachimbiro**, en **Imbabura**, informó la Cancillería este 3 de octubre de 2024. Con la suscripción del acuerdo, las dos naciones dan un paso importante en la cooperación energética[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
-
-El acuerdo fue suscrito por la ministra de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld**, y el embajador de Japón en Ecuador, **Keiichiro Morishita**. El financiamiento, que asciende a 43 millones de dólares, permitirá avanzar en el desarrollo de esta iniciativa de energía renovable.
-
-En el evento, también estuvieron presentes el Ministro de Energía y Minas, **Antonio Goncalve**s, el Ministro de Economía y Finanzas, **Juan Carlos Vega**, y el Gerente de Corporación Eléctrica del Ecuador (Celec), **Fabián Calero**.
-
-La canciller Sommerfeld destacó que este proyecto marca el inicio de varios emprendimientos **energéticos similares**, mientras que el Ministro Goncalves subrayó la importancia de diversificar las fuentes de energía renovable en el país.
-
-Por su parte, el embajador Morishita expresó su confianza en que esta obra contribuirá a la **sostenibilidad económica** y a la **mitigación** del cambio climático.
-
-> Boletín | Ecuador y Japón suscriben notas para el financiamiento del Proyecto Geotérmico Chachimbiro  
->   
-> ⬇️ [pic.twitter.com/d2l1vpsktW](https://t.co/d2l1vpsktW)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [October 3, 2024](https://twitter.com/CancilleriaEc/status/1841931119521894528?ref_src=twsrc%5Etfw)
-
-Energía geotérmica
-------------------
-
-La **geotermia** es una **fuente de energía renovable**. Esta se obtiene del calor acumulado en el interior de la Tierra, tanto del núcleo terrestre como del proceso de descomposición de elementos radiactivos en las capas profundas del planeta. Este recurso se puede aprovechar para generar electricidad.
-
-La extracción de **energía geotérmica** se realiza mediante perforaciones profundas, alcanzando hasta varios kilómetros bajo la superficie, donde se encuentran agua o vapor a altas temperaturas. Esto se canaliza para hacer girar turbinas en plantas geotérmicas, y se produce electricidad de manera constante y sin interrupciones.
-
-Potencial geotérmico del Ecuador
---------------------------------
-
-De energía geotérmica se viene hablando desde hace más de una década en el Ecuador. De hecho, existe el **Plan de Desarrollo Geotérmico, que data del 2010.**
-
-Este documento señala que Ecuador tiene un potencial bruto de alrededor de 1 000 MW. Con 22 prospectos, de los cuales 11 son de alta entalpía (generación de electricidad).
-
-Los principales prospectos estudiados en el país son: **Chachimbiro** (50 MW) ubicado en Imbabura, **Chacana Jamanco** (15 MW) y **Chacana Cachiyacu** (45 MW) en Napo, **Tufiño-Chiles-Cerro Negr**o (100 MW), localizado en la frontera Ecuador – Colombia y **Baños de Cuenca** (10 MW) en Azuay.
-
-Actualmente, el 72% de la **matriz energética de Ecuador es hidráulica** y atraviesa por una grave crisis debido a la sequía. El Gobierno de Daniel Noboa ha señalado en varias ocasiones que busca diversificar esta matriz.
-
-Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre
-========================================================================
-
-Los cortes de luz reducidos para Quito este viernes 4 de octubre alcanzan hasta las cinco horas.
-------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito se redujeron hasta cinco horas este viernes 4 de octubre. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ecuador-cortes-de-luz.jpg)
-
-Están listos los horarios de cortes de luz reducidos para Quito este viernes 4 de octubre de 2024.
-
-El Gobierno redujo las horas de cortes de luz diaria en todo el país y las empresas eléctricas emitieron un cronograma hasta el domingo 6 de octubre.
-
-### Más noticias:
-
-* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
-* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
-* [Otra tarde de fuertes lluvias en varios sectores de Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-fuertes-tarde.html "Otra tarde de fuertes lluvias en varios sectores de Quito")
-
-El Gobierno de **Daniel Noboa** hizo este ofrecimiento de reducción el 1 de octubre, debido a la mejoría en la situación hídrica y energética del país.
-
-El Gobierno señaló que la reducción se realizará, sobre todo, **en los horarios de mayor actividad y movilización de la población.**
-
-El comunicado del **Ministerio de Energía y Minas** de este jueves 3 de octubre señaló que **los nuevos horarios rigen desde este viernes 4 hasta el domingo 6 de octubre.**
-
-Esto, aunque el anuncio inicial fue que esta reducción aplicará desde este viernes 4 hasta el 20 de octubre.
-
-Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre
-------------------------------------------------------------------------
-
-El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
-
-Los horarios establecidos por la Empresa Eléctrica Quito (EEQ) para la capital establece cortes hasta de cinco horas.
-
-Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora .
-
-Joe Biden envía 1 000 soldados a zona devastada por Helene
-==========================================================
-
-Los oficiales ayudarán a la distribución de alimentos, agua y otros suministros en muchas zonas, como Asheville, en Carolina del Norte.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Un taller de reparación de automóviles parcialmente derrumbado tras las catastróficas inundaciones causadas por la tormenta tropical Helene en Swannanoa, Carolina del Norte.](https://www.elcomercio.com/wp-content/uploads/2024/10/helene-huracan-efe.jpg)
-
-El presidente de EE.UU., [Joe Biden](https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html"), visita este jueves 3 de octubre de 2024, por segundo día consecutivo las **zonas devastadas** por la **catastróficas inundaciones** y vientos que dejó Helene, que acumula ya más de **200 muertes** y a las que el mandatario ordenó el envío de 1 000 soldados para ayudar con las tareas de recuperación.
-
-### Más noticias
-
-* [Joe Biden ordena a las Fuerzas Armadas de EE.UU. derribar los misiles iraníes sobre Israel](https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html "Joe Biden ordena a las Fuerzas Armadas de EE.UU. derribar los misiles iraníes sobre Israel")
-* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
-* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
-
-Biden llegó hoy a Florida, donde recorrerá **áreas arrasadas por el huracán** tras la ronda que hizo el miércoles por las Carolinas.
-
-El mandatario, que no se reunirá con el gobernador de Florida, el republicano Ron DeSantis, visita primero Tallahassee, la **capital de ese estado**, para luego hacer un **sobrevuelo por las áreas** por donde tocó tierra Helene, en las inmediaciones de Perry, en el noroeste floridano.
-
-Después tendrá una sesión informativa en **Keaton Beach para luego desplazarse a Georgia**, donde tampoco se reunirá con su gobernador, el también republicano Brian Kemp. Allí visitará Valdosta, una zona afectada del sur de ese estado, a la que acudió el lunes el expresidente de EE.UU. y candidato republicano, Donald Trump.
-
-Biden, que también tiene previsto **recorrer Ray City**, donde pronunciará un discurso, ordenó al Departamento de Defensa enviar hasta **1 000 soldados en servicio activo a las zonas de desastre** afectadas por Helene, que entró por Florida como un enorme y potente huracán y causó muerte y destrucción en al menos seis estados.
-
-Los oficiales ayudarán a la **distribución de alimentos, agua y otros suministros** en muchas zonas, como Asheville, en Carolina del Norte, uno de los poblados más afectados.
-
-A una semana de la llegada de Helene a Estados Unidos, al menos un millón de clientes se encuentran aún sin servicios de electricidad, y muchos otros incluso sin agua potable ni servicios de transporte ni comunicaciones.
-
-La portavoz de la Casa Blanca, Karine Jean-Pierre, dijo que **Biden no se reunirá con DeSantis** porque este tenía previsto viajar a otras partes del estado para ver el daño provocado por el huracán.
-
-“DeSantis no va a estar allí, pero hemos estado en contacto con su equipo. Entendemos que tiene otras áreas que supervisar hoy, pero hemos estado en comunicación con su equipo”, dijo la portavoz.
-
-Jean-Pierre manifestó que el presidente habló con DeSantis y Kemp hoy, y que ambos republicanos fueron invitados.
-
-Entre tanto, otro huracán, Kirk, continúa este jueves su **desplazamiento sobre el Atlántico** sin previsiones de que cause daño en tierra.
+Con el estreno de **‘Joker 2’**, las **expectativas sobre el futuro de la saga son altas**. La película no solo **expande el universo del Joker**, sino que también plantea preguntas sobre la dirección que podría tomar en futuras entregas. La combinación de actuaciones estelares y un enfoque narrativo innovador sugiere que esta saga tiene mucho más que ofrecer.
