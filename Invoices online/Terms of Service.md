@@ -204,50 +204,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=4236789)  
-APTV Telecoms CC
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=172394897)  
+Stevens Consulting
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=214586706)  
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=43539211)  
+Druce Digital
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=11634346)  
+Quad Biking Cape Town
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=188166910)  
+Oak Tree Immigration
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=142938322)  
+Durbanville Classifieds (Pty) Ltd
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=134284869)  
 VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=29838362)  
-Moving Made Easy (PTY) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=128733596)  
+Fox Alarms & Security
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=163257108)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=88875781)  
+United Paintball Federation
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=133004526)  
-RADIO TYGERBERG 104FM NPC
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=78359732)  
+OrgChart Hosting Pty Ltd
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=51820660)  
-Kainos (Pty) Ltd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=87612249)  
+MR Compressors& Industrial Supplies
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=39052048)  
-KTEN PARTS
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=148497881)  
+OXYAIDER (PTY) LTD
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=28139981)  
-UMVIKELI PRIVATE SECURITY
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=131870986)  
+Echo Recording Studio cc
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=28803637)  
-kidoscabbie
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=103621681)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=25539740)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=66642179)  
-Henry's Home Renovations
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=7861045)  
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=203068191)  
 TIGERDSL
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=141160045)  
-Tagline Brands
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=5542518)  
-Lemba Truck Stop
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=30023257)  
-AquariumSmiths
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=aefeab8ac84e87b6445472b0510463392bdaf4388344e2446550176277768c95&c=47718896)  
+Roamfree Boerdery (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
