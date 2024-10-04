@@ -144,8 +144,6 @@ Open Menu Close Menu
 
 [Locations](https://redventures.com/careers/locations)
 
-[Programs](https://redventures.com/careers/programs)
-
 [Diversity](https://redventures.com/diversity)
 
 [Blog](https://redventures.com/blog)
