@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [Mens only (Oct 4, 2024)](https://pastebin.com/tJNDEMsL)
+* [⚡️\[HQ LEAK\]⭐ Exploit $4000 a Day Everyday](https://pastebin.com/5cwhCPSp)
     
-    HTML | 9 min ago | 8.99 KB
+    JavaScript | 2 sec ago | 0.18 KB
     
-* [Cat Training Attendance](https://pastebin.com/UD3cgHJm)
+* [⭐Free Giftcards Method ⭐October 2024](https://pastebin.com/bxKgFEAd)
     
-    Go | 13 min ago | 0.86 KB
+    Python | 3 sec ago | 0.31 KB
     
-* [loop-search](https://pastebin.com/3nAyB6Gr)
+* [❤️ MAKE $5000 IN 20 MINUTES ❤](https://pastebin.com/TP4vmx0A)
     
-    PHP | 15 min ago | 8.68 KB
+    JavaScript | 4 sec ago | 0.18 KB
     
-* [Cat Shirt](https://pastebin.com/5LgEv5j0)
+* [❤️MAKE 3000$ IN 1 DAY WITH ONLINE STORE❤️](https://pastebin.com/7jFv2xDR)
     
-    Go | 27 min ago | 0.70 KB
+    JavaScript | 6 sec ago | 0.18 KB
     
-* [Clearing Turtle](https://pastebin.com/gwFqahzY)
+* [⭐Free Giftcards Method ⭐October 2024](https://pastebin.com/XqujFRC6)
     
-    Lua | 35 min ago | 1.84 KB
+    Python | 7 sec ago | 0.30 KB
     
-* [Cat Shelter](https://pastebin.com/xvEJHUn3)
+* [New free giftcards 0-day exploit](https://pastebin.com/wUrRw46d)
     
-    Go | 44 min ago | 0.56 KB
+    Python | 11 sec ago | 0.30 KB
     
-* [\[Nubiles\] Juniper Ren - Denim (x78) 10-04-202...](https://pastebin.com/UGRcu1qb)
+* [⭐FREE 2500$ GIFTCARDS METHOD ⭐️ October 2024](https://pastebin.com/9BkV2VCM)
     
-    HTML | 46 min ago | 9.27 KB
+    JavaScript | 15 sec ago | 0.18 KB
     
-* [\[Eternal Desire\] Luise - Tasty (x87) 10-04-20...](https://pastebin.com/hxf2nR6K)
+* [⭐HOW I MADE $2700 TODAY ⭐ GUIDE](https://pastebin.com/xKVV8jdQ)
     
-    HTML | 55 min ago | 7.97 KB
+    JavaScript | 16 sec ago | 0.18 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
