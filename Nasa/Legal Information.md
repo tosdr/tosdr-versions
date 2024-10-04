@@ -269,13 +269,13 @@ article 1 week ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 10 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
+article 12 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
 
 1 min read
 
 ### Gateway Stands Tall for Stress Test
 
-article 12 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+article 14 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 1 day ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-
 
 ### NASA Efforts on Hurricane Helene
 
-article 12 hours ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
+article 14 hours ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
 
 4 min read
 
@@ -303,7 +303,7 @@ article 1 day ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-find
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
+article 3 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
 
 ### Highlights
 
@@ -313,19 +313,19 @@ article 2 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### Gateway Stands Tall for Stress Test
 
-article 12 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
+article 14 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
 
 5 min read
 
 ### NASA’s LRO: Lunar Ice Deposits are Widespread
 
-article 12 hours ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article 14 hours ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
 ### What’s Up: October 2024 Skywatching Tips from NASA
 
-article 1 day ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
+article 2 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 1 day ago](https://science.nasa.gov/solar-system/skywatching/whats-up-oc
 
 ### NASA’s TESS Spots Record-Breaking Stellar Triplets
 
-article 1 day ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
+article 2 days ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
 
 2 min read
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-
 
 ### Culturally Inclusive Planetary Engagement in Colorado
 
-article 4 hours ago](https://science.nasa.gov/learning-resources/science-activation/culturally-inclusive-planetary-engagement-in-colorado/)[![Why NASA is studying flames in space ](https://science.nasa.gov/wp-content/uploads/2024/10/jsc2023e013681medium.jpg)
+article 6 hours ago](https://science.nasa.gov/learning-resources/science-activation/culturally-inclusive-planetary-engagement-in-colorado/)[![Why NASA is studying flames in space ](https://science.nasa.gov/wp-content/uploads/2024/10/jsc2023e013681medium.jpg)
 
 4 min read
 
@@ -401,13 +401,13 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
 
-article 5 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
 ### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 10 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![A selection of red and black Burnout coffee mugs.](https://www.nasa.gov/wp-content/uploads/2024/09/termavant2a-web-0.jpg?w=600)
+article 12 hours ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![A selection of red and black Burnout coffee mugs.](https://www.nasa.gov/wp-content/uploads/2024/09/termavant2a-web-0.jpg?w=600)
 
 2 min read
 
