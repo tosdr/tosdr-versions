@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [The Fantastic Artwork of Frank Frazetta](https://www.somethingawful.com/dungeons-and-dragons/frazetta-vampirella-conan/1/)
-* [Glitches in the Matrix](https://www.somethingawful.com/comedy-goldmine/glitches-matrix/1/)
-* [Classic Art III](https://www.somethingawful.com/photoshop-phriday/classic-art-iii/1/)
-* [Monstergeddon 2013 Results!](https://www.somethingawful.com/news/monstergeddon-2013-results/1/)
+* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
+* [A Girl In The Gaming Store](https://www.somethingawful.com/comedy-goldmine/girl-gaming-store/1/)
+* [Script: Baywatch: Terror on Sandy Beach!](https://www.somethingawful.com/feature-articles/script-baywatch-terror/1/)
+* [Chapter Twenty One](https://www.somethingawful.com/feature-articles/chapter-twenty-one/1/)
+* [Making Reading Fun Through Trickery](https://www.somethingawful.com/photoshop-phriday/literal-book-covers/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/aids.png) [How will you die?](http://forums.somethingawful.com/showthread.php?threadid=4071839 "How will you die?")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [ITT: we are dipshits in a cyberpunk dystopia](http://forums.somethingawful.com/showthread.php?threadid=4071800 "ITT: we are dipshits in a cyberpunk dystopia")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Is the entire concept of soda insane to anyone else?](http://forums.somethingawful.com/showthread.php?threadid=4071823 "Is the entire concept of soda insane to anyone else?")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [The one thing you ALWAYS forget to do. ALWAYS.](http://forums.somethingawful.com/showthread.php?threadid=4071814 "The one thing you ALWAYS forget to do. ALWAYS.")
+* ![](https://fi.somethingawful.com/forums/posticons/aids.png) [How will you die?](http://forums.somethingawful.com/showthread.php?threadid=4071839 "How will you die?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Video games from your childhood that were fucking impossible to beat](http://forums.somethingawful.com/showthread.php?threadid=4071872 "Video games from your childhood that were fucking impossible to beat")
 
 ### Random Articles
 
-* [Cardbroads](https://www.somethingawful.com/flash-tub/cardbroads-cardboard-cartoon/)
-* [The Great American Reach Around - Texas and Mexico](https://www.somethingawful.com/news/gara-week-ten/1/)
-* [What Being a Genius is Like](https://www.somethingawful.com/news/being-a-genius/)
-* [Which's That Pokémon?](https://www.somethingawful.com/photoshop-phriday/losing-pokemon-guesses/)
-* [Advance Copy: CERN Announcement](https://www.somethingawful.com/news/cern-particle-announcement/)
+* [Bollcrap (Part I of II)](https://www.somethingawful.com/news/bollcrap-part-ii/)
+* [Become A Video Game Programmer In Ten Minutes](https://www.somethingawful.com/news/game-program-code/)
+* [MosquitoMan](https://www.somethingawful.com/movie-reviews/mosquitoman/1/)
+* [Blameby Beta User Tutorial](https://www.somethingawful.com/news/blameby-baby-blame/1/)
+* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
