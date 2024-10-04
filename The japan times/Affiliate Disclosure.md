@@ -130,6 +130,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Early Ishiba missteps add to anticipation over key policy speech](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+
+  [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+
 [Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
 
   [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
@@ -146,12 +150,16 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
-[Japan’s new prime minister moots minimum wage moon shot](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
-
-  [![Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425340.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.")](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Early Ishiba missteps add to anticipation over key policy speech](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -180,14 +188,6 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Japan’s new prime minister moots minimum wage moon shot](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425340.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.")](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
 
 Podcast
 -------
@@ -250,23 +250,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Opposition parties have little time to form united front ahead of polls](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/general-election-cdp-rush/ "Opposition parties have little time to form united front ahead of polls")
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-0 mins ago
+28 mins ago
 
-[U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base](https://www.japantimes.co.jp/news/2024/10/04/world/uk-cedes-chagos-island-sovereignty/ "U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-6 mins ago
+46 mins ago
 
-[More than AI misinformation, U.S. voters worry about lying politicians](https://www.japantimes.co.jp/news/2024/10/04/world/politics/us-voters-lying-politicians-worry/ "More than AI misinformation, U.S. voters worry about lying politicians")
+[Meteorological agency ramps up 'tsunami flag' awareness efforts](https://www.japantimes.co.jp/news/2024/10/04/japan/science-health/tsunami-flag-awareness/ "Meteorological agency ramps up 'tsunami flag' awareness efforts")
 
 1 hours ago
 
-[IMF says Japan should keep raising rates if inflation data warrants it](https://www.japantimes.co.jp/business/2024/10/04/imf-japan-rate-hike/ "IMF says Japan should keep raising rates if inflation data warrants it")
+[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
 2 hours ago
 
-[AI bubble or 'revolution'? OpenAI's big payday fuels debate](https://www.japantimes.co.jp/business/2024/10/04/tech/ai-revolution-or-bubble/ "AI bubble or 'revolution'? OpenAI's big payday fuels debate")
+[Suspect in violent Kanto burglaries placed on public wanted list](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/tokorozawa-robbery/ "Suspect in violent Kanto burglaries placed on public wanted list")
 
 2 hours ago
 
