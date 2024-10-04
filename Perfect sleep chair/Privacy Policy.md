@@ -1,10 +1,12 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                       
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                  
 
 [Skip to content](#MainContent)
 
 Pause slideshow Play slideshow
 
 [CALL TO SPEAK WITH A PRODUCT SPECIALIST1-888-404-1724](tel:18884041724)
+
+[Check Order Status](https://www.shopjourney.com/pages/order-tracking "Order Tracking Request")
 
 icon-X Close menu
 
@@ -418,6 +420,8 @@ Microlux Dark Moss Microlux Burgundy Microlux Blue Microlux Tan Duralux Chocolat
 
 Add to cart
 
+  This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
 Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark Moss - $1,699.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $2,199.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $2,199.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Leather Chestnut - Sold Out Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate Spectra - $2,599.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray Spectra - $2,599.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Saddle - $2,599.00 USD Deluxe 5 Zone / Miralux Chocolate Spectra - $3,299.00 USD Deluxe 5 Zone / Miralux Light Gray Spectra - $3,299.00 USD Deluxe 5 Zone / Miralux Saddle - $3,299.00 USD Petite 2 Zone / Duralux Chocolate - $2,499.00 USD Petite 2 Zone / Duralux Tan - $2,499.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Chocolate - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Burgundy - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Blue - $1,899.00 USD 
 
 * Please allow 3-6 weeks for White Glove delivery, and 7-10 days for Threshold delivery.
@@ -808,6 +812,7 @@ How Can We Help You?
 How Can We Help You?
 
 * [Phone Sales: Call 1-888-404-1724](tel:18884041724)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
 * [Sign In](https://www.perfectsleepchair.com/account/login)
 * [Shipping & Delivery](https://www.perfectsleepchair.com/pages/shipping-delivery)
 * [Warranty](https://www.perfectsleepchair.com/pages/warranty)
