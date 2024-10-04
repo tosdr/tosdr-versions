@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-magische-gouden-ring/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/luchtverfrissers-maken-je-ziek/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
