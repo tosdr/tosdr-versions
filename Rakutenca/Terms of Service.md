@@ -111,7 +111,7 @@ FR
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
-        8% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        12% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
@@ -247,7 +247,7 @@ FR
         
         [Clearly
         
-        up to 5% Cash Back](https://www.rakuten.ca/clearly)[MAC Cosmetics Canada
+        up to 10% Cash Back](https://www.rakuten.ca/clearly)[MAC Cosmetics Canada
         
         2% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)[Estee Lauder Canada
         
@@ -283,9 +283,9 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
-        2% Cash Back](https://www.rakuten.ca/well)[Michaels Canada
+        2% Cash Back](https://www.rakuten.ca/well)[Alexanian Carpet & Flooring
         
-        3% Cash Back](https://www.rakuten.ca/michaels-canada)
+        up to 5% Cash Back](https://www.rakuten.ca/alexanian)
         
         Featured Shops & Deals
         
@@ -455,9 +455,9 @@ FR
         
         [Vrbo
         
-        $10 Cash Back](https://www.rakuten.ca/vrbo)[Hotels.com
+        3% Cash Back](https://www.rakuten.ca/vrbo)[Hotels.com
         
-        1% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
+        up to 6% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
         10% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
