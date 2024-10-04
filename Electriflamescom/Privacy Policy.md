@@ -144,11 +144,11 @@ Search for:
 Electric Fireplace Tips:
 ------------------------
 
+* [7 Key Tips for Choosing the Perfect Electric Wood Fireplace](https://www.electriflames.com/buy/electric-wood-fire-place/)
 * [Electric Fireplace Sound: 3 Key Facts to Know Before You Buy](https://www.electriflames.com/buy/electric-fireplace-sound/)
 * [Electric Fireplaces With Drawers & 7 Features to Look For](https://www.electriflames.com/buy/electric-fireplace-with-drawers/)
 * [7 Must-Have Features for Choosing a 3D Flame Electric Fireplace](https://www.electriflames.com/buy/3d-flame-electric-fireplace/)
 * [5 Steps to Clean Your Electric Fireplace Glass Like a Pro](https://www.electriflames.com/how-to/clean-electric-fireplace-glass/)
-* [7 Top Features to Find the Quietest Electric Fireplace](https://www.electriflames.com/buy/quietest-electric-fireplace/)
 
 3-Sided Electric Fireplaces
 ---------------------------
