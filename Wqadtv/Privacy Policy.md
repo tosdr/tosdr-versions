@@ -32,14 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_360x203.jpeg)](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
         
-        #### [VERIFY: What is Mariannette Miller-Meeks' stance on abortion?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71) [![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/384f2529-8c52-4a80-9086-9ceb3f174da2/384f2529-8c52-4a80-9086-9ceb3f174da2_360x203.jpeg)](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
+        #### [VERIFY: What is Mariannette Miller-Meeks' stance on abortion?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
         
-        #### [VERIFY: Did Mariannette Miller-Meeks influence Iowa's abortion law?](https://www.wqad.com/article/news/verify/mariannette-miller-meeks-abortion-stance-verify/526-9c3f7360-4f96-4284-a555-842687f95c71)
     *  [![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_360x203.jpeg)](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
         
-        #### [VERIFY: Did the Biden-Harris Administration cause increased grocery and gas prices?](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8) [![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_16x9.jpeg) ![](https://media.tegna-media.com/assets/WATN/images/1bb4757b-be50-4624-8780-811b8642d704/1bb4757b-be50-4624-8780-811b8642d704_360x203.jpeg)](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
+        #### [VERIFY: Did the Biden-Harris Administration cause increased grocery and gas prices?](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
         
-        #### [Claims that the Biden-Harris Admin. increased grocery and gas prices need context](https://www.wqad.com/article/news/verify/grocery-gas-prices-biden-administration-verify/526-dd6859e9-6bbc-4371-bb32-589e3b62b3b8)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-65°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
