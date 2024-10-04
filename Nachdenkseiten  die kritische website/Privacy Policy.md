@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil1-Cover-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)")](https://www.nachdenkseiten.de/?p=88058)
+[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
 
-* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/?p=88058)
+* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Rede von König Abdullah II. von Jordanien auf der UN-Generalversammlung: Bemerkenswert. Kritisch. Zukunftsweisend.](https://www.nachdenkseiten.de/?p=122072)
-* [Bundesregierung zu Gaza und Libanon: Russland greift gezielt zivile Infrastruktur an – Israel tut das nicht](https://www.nachdenkseiten.de/?p=122083)
-* [„Lösung am Verhandlungstisch“ suchen schmeckt der deutschen Presse nicht](https://www.nachdenkseiten.de/?p=122006)
-* [Grünen-Dämmerung – der Zeitgeist-Partei ist der Zeitgeist abhandengekommen](https://www.nachdenkseiten.de/?p=121973)
-* [Gipfel der Ratlosigkeit](https://www.nachdenkseiten.de/?p=121861)
-* [Anpassung wird belohnt: Staatspreise für Tote Hosen und Alena Buyx](https://www.nachdenkseiten.de/?p=121957)
+* [Baerbock – Das Sicherheitsrisiko](https://www.nachdenkseiten.de/?p=122403)
+* [Ausblenden, was nicht passt: Journalistische Bankrotterklärung bei „Maischberger“](https://www.nachdenkseiten.de/?p=122495)
+* [Gescheitert, aber noch lebendig? Bericht von einer Konferenz in Moskau anlässlich des 75. Jahrestages der Gründung der DDR](https://www.nachdenkseiten.de/?p=122426)
+* [Noch ein Jubiläum: Was erinnert zum Tag der Deutschen Einheit an die DDR?](https://www.nachdenkseiten.de/?p=122421)
+* [Julian Assange vor dem Europarat: Ungebrochen und nicht verbittert](https://www.nachdenkseiten.de/?p=122414)
+* [Arnulf Rating: Warum ich weiter Kabarett mache. – Plus Termine](https://www.nachdenkseiten.de/?p=122312)
 
 ### Audioangebot
 
