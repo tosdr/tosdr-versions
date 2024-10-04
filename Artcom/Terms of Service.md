@@ -236,6 +236,28 @@ Cancel
 
 [Watercolor](https://www.art.com/gallery/id--b1963238/watercolor-posters.htm "Watercolor")
 
+[Decor Trends](https://www.art.com/shop/wall-art/ "Decor Trends")
+
+[Japandi](https://www.art.com/gallery/id--b38921/japandi-posters.htm "Japandi")
+
+[Maximalist](https://www.art.com/gallery/id--b39168/maximalist-art-posters.htm "Maximalist")
+
+[Modern Americana](https://www.art.com/gallery/id--b55352/modern-americana-posters.htm "Modern Americana")
+
+[Moody Botanicals](https://www.art.com/gallery/id--b53138/moody-botanicals-posters.htm "Moody Botanicals")
+
+[Nuanced Neutrals](https://www.art.com/gallery/id--b39016/neutrals-posters.htm "Nuanced Neutrals")
+
+[Organic Minimalism](https://www.art.com/gallery/id--b43527/organic-minimalism-posters.htm "Organic Minimalism")
+
+[Painterly Florals](https://www.art.com/gallery/id--b56194/painterly-florals-posters.htm "Painterly Florals")
+
+[Quiet Luxury](https://www.art.com/gallery/id--b53141/quiet-luxury-posters.htm "Quiet Luxury")
+
+[Serene Scenery](https://www.art.com/gallery/id--b7782/serenity-tranquility-posters.htm "Serene Scenery")
+
+[Surreal Surroundings](https://www.art.com/gallery/id--b59202/surreal-surroundings-posters.htm "Surreal Surroundings")
+
 [Popular Trends](https://www.art.com/shop/wall-art/ "Popular Trends")
 
 [Birds](https://www.art.com/gallery/id--b1972/birds-posters.htm "Birds")
@@ -258,31 +280,17 @@ Cancel
 
 [Seasonal Trends](https://www.art.com/shop/wall-art/ "Seasonal Trends")
 
-[Modern Farmhouse](https://www.art.com/gallery/id--b53142/modern-farmhouse-posters.htm "Modern Farmhouse")
+[Autumn Essence](https://www.art.com/gallery/id--b40375/autumn-essence-posters.htm "Autumn Essence")
 
-[Blue Abstract](https://www.art.com/ds/blue-abstract-art "Blue Abstract")
+[Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
 
-[Earthy Abstractions](https://www.art.com/gallery/id--b43525/earthy-abstractions-posters.htm "Earthy Abstractions")
+[Holiday Spirit](https://www.art.com/gallery/id--b1958208/holiday-spirit-posters.htm "Holiday Spirit")
 
-[Gold & Silver](https://www.art.com/ds/gold-and-silver-art "Gold & Silver")
+[Spooky Chic](https://www.art.com/gallery/id--b42703/spooky-chic-posters.htm "Spooky Chic")
 
-[Modern Americana](https://www.art.com/gallery/id--b55352/modern-americana-posters.htm "Modern Americana")
+[Winter White](https://www.art.com/gallery/id--b41441/winter-white-posters.htm "Winter White")
 
-[Moody Botanicals](https://www.art.com/gallery/id--b53138/moody-botanicals-posters.htm "Moody Botanicals")
-
-[Neo Minimalism](https://www.art.com/gallery/id--b54331/neo-minimalism-posters.htm "Neo Minimalism")
-
-[Organic Minimalism](https://www.art.com/gallery/id--b43527/organic-minimalism-posters.htm "Organic Minimalism")
-
-[Painterly Florals](https://www.art.com/gallery/id--b56194/painterly-florals-posters.htm "Painterly Florals")
-
-[Reimagined Fine Art](https://www.art.com/gallery/id--b43684/reimagined-fine-art-posters.htm "Reimagined Fine Art")
-
-[Serene Scenery](https://www.art.com/gallery/id--b7782/serenity-tranquility-posters.htm "Serene Scenery")
-
-[Tropicalism](https://www.art.com/gallery/id--b26379/tropical-posters.htm "Tropicalism")
-
-[Quiet Luxury](https://www.art.com/gallery/id--b53141/quiet-luxury-posters.htm "Quiet Luxury")
+[Winter Wonderland](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Winter Wonderland")
 
 [Photography](https://www.art.com/gallery/id--c23946/photography-prints.htm "Photography")
 
@@ -401,6 +409,8 @@ Cancel
 [Transitional](https://www.art.com/gallery/id--b31475/transitional-art-posters.htm "Transitional")
 
 [Vintage](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage")
+
+[Tropical](https://www.art.com/gallery/id--b26379/tropical-posters.htm "Tropical")
 
 Help
 ----
