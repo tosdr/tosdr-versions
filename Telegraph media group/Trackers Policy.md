@@ -275,7 +275,7 @@ If we change how we use this technology in the future, we will let you know if i
 
 14.1 If you believe that we have not adhered to this Policy, please notify us by email at [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) and we will try to solve the problem promptly. If you are not satisfied with our response, or have any other queries, you can also contact the Information Commissioner at [www.ico.org.uk](http://www.ico.org.uk/) or 0303 123 1113.
 
-This policy was last updated on 29th September 2024.
+This policy is effective from 29 September 2024.
 
 **Our Brands**
 
@@ -289,7 +289,7 @@ N.B. Telegraph Travel also uses the services of smaller organisations and indivi
 
 **NEW US PRIVACY POLICY** 
 
-**Effective Date: December 20, 2023** 
+**Effective Date: 29th September 2024** 
 
 Your privacy is important to us. Telegraph Media Group Holdings Limited, Press Acquisitions Limited, and each of their respective subsidiaries (collectively, “Telegraph Media Group”, “we”, or “us” or “our”) created this Privacy Policy to inform you about how we collect, use, disclose, share, and protect Personally Identifiable Information (or “PII”, defined below) and otherwise comply with applicable U.S. consumer privacy laws.  We encourage you to read this Privacy Policy in its entirety before using [https://www.telegraph.co.uk/](https://www.telegraph.co.uk/) or any other online service (e.g., website or mobile app) that posts a link to this Privacy Policy, opening our e-mails or otherwise submitting PII to us (collective the “Service”).
 
@@ -788,7 +788,7 @@ If you have any questions about this Privacy Policy, please contact Telegraph Me
 
 [Return to navigation](#contents)
 
-_©_ _**Telegraph Media Group** December 20, 2023.  All Rights Reserved._
+_©_ _**Telegraph Media Group** 29th September 2024.  All Rights Reserved._
 
 (1) Analytics cookies that remember your computer or mobile device when you visit our website and recognise visits to our website across different devices. They keep track of browsing patterns and help us to build up a profile of how our readers use the website. We use that information for customer analytics and to serve advertisements that we think might be of particular interest to you on our and other websites (see [Section 7.5](#section7)), and to serve editorial content tailored to your interests when you are on our website or in our newsletters to you. Your browser may use similar cookies for similar purposes and to serve advertisements for others. The information we gather from your visit is limited to page URLs on our website.
 
