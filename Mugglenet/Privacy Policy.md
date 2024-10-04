@@ -336,15 +336,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-October 28, 2005 – The Weasleys’ Ford Anglia, used in Chamber of Secrets, was stolen.
+August 11, 2012 – StarKid does a reading of A Very Potter Senior Year at LeakyCon in Chicago.
 
 ### Potter Quote
 
-“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
+“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
 
 [](#)
 
