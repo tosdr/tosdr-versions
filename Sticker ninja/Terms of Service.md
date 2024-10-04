@@ -1,3 +1,5 @@
+### ♥ Thank you for supporting our weirdo sticker printing biz ♥
+
  [![Sticker Ninja home page](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/logo-dark_3e368c83.png)](https://stickerninja.com/)[![Sticker Ninja home page](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/ninja-head-dark_88336efe.png)](https://stickerninja.com/)
 
  [![Open Menu](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/icons/menu-dark_983febad.png)](#)[![Open Menu](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/icons/menu-dark_983febad.png)](#)[![Cart](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/icons/cart-dark_b3af3b2f.png)](https://stickerninja.com/products/ "Products")[![Account Page](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/icons/account-dark_e3a49e37.png)](https://stickerninja.com/my-account/)
