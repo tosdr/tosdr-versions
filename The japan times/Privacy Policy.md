@@ -566,23 +566,21 @@ Latest News
 
 [Japan's three major business lobbies submit policy requests to Ishiba](https://www.japantimes.co.jp/business/2024/10/04/business-lobbies-policy-requests/ "Japan's three major business lobbies submit policy requests to Ishiba")
 
-3 hours ago
+9 hours ago
 
 [EU presses ahead with Chinese EV tariffs after split vote](https://www.japantimes.co.jp/business/2024/10/04/eu-china-ev-tariffs/ "EU presses ahead with Chinese EV tariffs after split vote")
 
-4 hours ago
+9 hours ago
 
 [Japan says Paul Watson case 'nothing to do with whaling'](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/paul-watson-case-whaling/ "Japan says Paul Watson case 'nothing to do with whaling'")
 
-4 hours ago
+10 hours ago
 
 [Seven & I considering supermarket stake sale ahead of IPO, sources say](https://www.japantimes.co.jp/business/2024/10/04/seven-i-supermarket-unit/ "Seven & I considering supermarket stake sale ahead of IPO, sources say")
 
-4 hours ago
+10 hours ago
 
 [Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
