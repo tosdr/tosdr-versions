@@ -250,19 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Starbucks buys research farms as climate change threatens coffee supply](https://www.japantimes.co.jp/business/2024/10/03/starbucks-research-farms-climate-change/ "Starbucks buys research farms as climate change threatens coffee supply")
+[Opposition parties have little time to form united front ahead of polls](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/general-election-cdp-rush/ "Opposition parties have little time to form united front ahead of polls")
 
-10 hours ago
+0 mins ago
 
-[One in 6 workers in Japan use resignation agencies to change jobs](https://www.japantimes.co.jp/news/2024/10/03/japan/resignation-agencies-change-jobs/ "One in 6 workers in Japan use resignation agencies to change jobs")
+[U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base](https://www.japantimes.co.jp/news/2024/10/04/world/uk-cedes-chagos-island-sovereignty/ "U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base")
 
-11 hours ago
+6 mins ago
 
-[7-Eleven owner seeking to sell off part of stake in banking unit](https://www.japantimes.co.jp/business/2024/10/03/7eleven-owner-bank-unit-stake/ "7-Eleven owner seeking to sell off part of stake in banking unit")
+[More than AI misinformation, U.S. voters worry about lying politicians](https://www.japantimes.co.jp/news/2024/10/04/world/politics/us-voters-lying-politicians-worry/ "More than AI misinformation, U.S. voters worry about lying politicians")
 
-[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+1 hours ago
 
-[Japan considers new 060 mobile number prefix as 070 runs low](https://www.japantimes.co.jp/business/2024/10/03/tech/060-prefix-introduction/ "Japan considers new 060 mobile number prefix as 070 runs low")
+[IMF says Japan should keep raising rates if inflation data warrants it](https://www.japantimes.co.jp/business/2024/10/04/imf-japan-rate-hike/ "IMF says Japan should keep raising rates if inflation data warrants it")
+
+2 hours ago
+
+[AI bubble or 'revolution'? OpenAI's big payday fuels debate](https://www.japantimes.co.jp/business/2024/10/04/tech/ai-revolution-or-bubble/ "AI bubble or 'revolution'? OpenAI's big payday fuels debate")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
