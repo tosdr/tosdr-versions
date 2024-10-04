@@ -6,7 +6,7 @@ Language
 
 ![](https://global.weathernews.com/assets/img/common/icon_search.svg) 
 
-[お問い合せ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
+[お問い合わせ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
 
 ニュース
 
@@ -64,7 +64,7 @@ Language
 
 [日本語](https://jp.weathernews.com/)[English](https://global.weathernews.com/)[Chinese](https://zh.weathernews.com/)[Korean](https://ko.weathernews.com/)
 
-[お問い合せ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
+[お問い合わせ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
 
 ![](https://global.weathernews.com/assets/img/common/icon_search.svg) 
 
@@ -334,7 +334,7 @@ Weathernewsサイト利用規約
 
 令和6年8月15日　制定・施行
 
-[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合せ](https://jp.weathernews.com/contact)
+[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合わせ](https://jp.weathernews.com/contact)
 
 ニュース
 
@@ -360,7 +360,7 @@ IR情報
 
 [採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
-[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合せ](https://jp.weathernews.com/contact)
+[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合わせ](https://jp.weathernews.com/contact)
 
 [情報セキュリティ基本方針](https://jp.weathernews.com/information-security-policy/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy/)[クッキーポリシー](https://jp.weathernews.com/cookie-policy/)[利用規約](https://jp.weathernews.com/terms-of-use/)[外部送信先について](#)
 
