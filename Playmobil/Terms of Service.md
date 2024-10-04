@@ -58,7 +58,7 @@ Menu
         
     * Exclusive
         
-        [PLAYMOBIL PLUS](https://www.playmobil.us/en-us/web-shop/playmobil-plus/ "PLAYMOBIL PLUS")[Bundles](https://www.playmobil.us/en-us/web-shop/bundles/ "Bundles")[Merchandise](https://www.playmobil.us/en-us/web-shop/merchandise/ "Merchandise")
+        [PLAYMOBIL PLUS](https://www.playmobil.us/en-us/web-shop/playmobil-plus/ "PLAYMOBIL PLUS")[Bundles](https://www.playmobil.us/en-us/web-shop/bundles/ "Bundles")
         
     *       [](https://www.playmobil.com/en-us/web-shop/new/)
         
