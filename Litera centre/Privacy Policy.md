@@ -6,7 +6,7 @@
 
 [Skip to content](#content)
 
-[![Litera Centre Logo](https://www.literacentre.com/wp-content/uploads/elementor/thumbs/Litera-Centre-Logo-pttg8oumyntjzulng9p2xm2knmbawyyqj1z43w9fek.png "Litera Centre Logo")](https://www.literacentre.com/)
+[![Litera Centre Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDIiIGhlaWdodD0iNzAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0icmdiYSgxNTMsMTUzLDE1MywwLjUpO3JnYmEoMTUzLDE1MywxNTMsMC4xKTtyZ2JhKDE1MywxNTMsMTUzLDAuNSkiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPjwvcmVjdD48L3N2Zz4= "Litera Centre Logo")](https://www.literacentre.com/)
 
 [IB](https://www.literacentre.com/ib/ "IB Tuition")
 
@@ -205,7 +205,7 @@ Subject
 
 Submit
 
-[![](https://www.literacentre.com/wp-content/uploads/2022/07/Litera-Centre-Logo.png)](https://www.literacentre.com/)
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0icmdiYSgxNTMsMTUzLDE1MywwLjUpO3JnYmEoMTUzLDE1MywxNTMsMC4xKTtyZ2JhKDE1MywxNTMsMTUzLDAuNSkiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPjwvcmVjdD48L3N2Zz4=)](https://www.literacentre.com/)
 
 We bring you a world-class international (both Indian and expat) team of highly experienced and qualified faculty.
 
@@ -243,7 +243,7 @@ We bring you a world-class international (both Indian and expat) team of highly 
 * [info@literacentre.com](mailto:info@literacentre.com?subject=feedback)
 * [Noida, UP India](https://www.google.com/maps/place/Litera+Centre/@28.5672715,77.2469296,18.75z/data=!4m5!3m4!1s0x390ce3e7e2d2d0d3:0xec391d428c4e8eba!8m2!3d28.5672827!4d77.246982?shorturl=1)
 
-[![](https://www.literacentre.com/wp-content/uploads/2022/07/Litera-Centre-Google-News.webp)](https://news.google.com/publications/CAAqBwgKMLy7zQsw7NbkAw)
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDg1IiBoZWlnaHQ9IjQ4MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSJyZ2JhKDE1MywxNTMsMTUzLDAuNSk7cmdiYSgxNTMsMTUzLDE1MywwLjEpO3JnYmEoMTUzLDE1MywxNTMsMC41KSIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+PC9yZWN0Pjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMLy7zQsw7NbkAw)
 
 [Facebook](https://www.facebook.com/literacentre/) [Youtube](https://www.youtube.com/@literacentre) [Instagram](https://www.instagram.com/literacentre/) [Linkedin](https://www.linkedin.com/company/litera-centre) [Pinterest](https://in.pinterest.com/literacentre/) [Twitter](https://twitter.com/literacentre) [](https://www.threads.net/@literacentre)[](https://mastodon.social/@literacentre)[Newspaper](https://news.google.com/publications/CAAqBwgKMLy7zQsw7NbkAw)
 
@@ -308,7 +308,7 @@ Personalized Learning
 * Expert guidance
 * Tailored sessions
 
-![](https://www.literacentre.com/wp-content/uploads/2023/04/litera-banner-pop-1.png)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTU2IiBoZWlnaHQ9IjM0MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0icmdiYSgxNTMsMTUzLDE1MywwLjUpO3JnYmEoMTUzLDE1MywxNTMsMC4xKTtyZ2JhKDE1MywxNTMsMTUzLDAuNSkiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPjwvcmVjdD48L3N2Zz4=)
 
 Online Class
 ------------
