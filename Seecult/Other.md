@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic/nesa-paripovic-u-filmu-pretty-good-zorana-popovica-edinburg-i-okolina-1973.jpg?itok=vVt57Qqx)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura/silja24.jpg?itok=WFkAACkX)](http://seecult.org/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/biti-u-pozoristu.jpg?itok=wcmVv1Lz)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pankrti/ivan-kral-001.jpg?itok=wugN1cB1)](http://seecult.org/galerija/foto-galerija/foto-arhiva/pankrti)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,6 +340,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Nagrada Zvezdarišta za Ljubicu Beljanski Ristić](http://seecult.org/vest/nagrada-zvezdarista-za-ljubicu-beljanski-ristic)
 * [Podsvesni pokušaj suicida u Kručama](http://seecult.org/vest/podsvesni-pokusaj-suicida-u-krucama)
 * [Sećanje - Zapisi iz prirode](http://seecult.org/vest/secanje-zapisi-iz-prirode)
 * [Filharmonijski Živeti sa neprijateljem](http://seecult.org/vest/filharmonijski-ziveti-sa-neprijateljem)
@@ -349,7 +350,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Koskar 18. FSFF-a Aleksi Gajiću](http://seecult.org/vest/koskar-18-fsff-aleksi-gajicu)
 * [Početak 56. Bemusa u znaku Jonasa Kaufmana](http://seecult.org/vest/pocetak-56-bemusa-u-znaku-jonasa-kaufmana)
 * [Bauk u bioskopima](http://seecult.org/vest/bauk-u-bioskopima)
-* [Počela 21. Balkanima](http://seecult.org/vest/pocela-21-balkanima)
 
 * [Konkursi](#tab1_1)
 
