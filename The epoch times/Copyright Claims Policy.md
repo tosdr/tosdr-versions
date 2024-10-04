@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://www.theepochtimes.com/china/chinese-military-aims-to-use-ai-to-boost-disinformation-campaigns-think-tank-5734782)
+    
+    NEW By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese Military Aims to Use AI to Boost Disinformation Campaigns: Think Tank](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732939-GettyImages-1344800246-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-military-aims-to-use-ai-to-boost-disinformation-campaigns-think-tank-5734782)
 * [Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://www.theepochtimes.com/article/dozens-of-meat-processing-plants-expected-to-shut-down-under-new-epa-rules-5730734)
     
-    3hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    8hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
     [![Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Dozens of Meat Processing Plants Expected to Shut Down Under New EPA Rules](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734719-meat-business-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/dozens-of-meat-processing-plants-expected-to-shut-down-under-new-epa-rules-5730734)
 * [Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://www.theepochtimes.com/business/toyota-rolls-back-dei-prioritizes-employees-professional-development-5734904)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Toyota Rolls Back DEI, Prioritizes Employees’ Professional Development](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734968-GettyImages-1412931064-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/toyota-rolls-back-dei-prioritizes-employees-professional-development-5734904)
 * [Port Strike Ends as Union Reaches Tentative Agreement](https://www.theepochtimes.com/business/port-strike-ends-as-union-reaches-tentative-agreement-5734967)
     
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    10hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Port Strike Ends as Union Reaches Tentative Agreement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Port Strike Ends as Union Reaches Tentative Agreement](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733946-GettyImages-2175293163-205x123.jpg.webp)](https://www.theepochtimes.com/business/port-strike-ends-as-union-reaches-tentative-agreement-5734967)
 * [Biden Visits Florida, Georgia to Survey Hurricane Damage](https://www.theepochtimes.com/us/biden-criticizes-rabid-partisanship-while-touring-hurricane-damage-in-georgia-5734929)
     
-    5hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    11hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Biden Visits Florida, Georgia to Survey Hurricane Damage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Visits Florida, Georgia to Survey Hurricane Damage](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734832-GettyImages-2175613039-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-criticizes-rabid-partisanship-while-touring-hurricane-damage-in-georgia-5734929)
 * [Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://www.theepochtimes.com/world/macron-warns-eu-could-die-within-3-years-due-to-overregulation-social-welfare-burden-underinvestment-5734718)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Macron Warns EU ‘Could Die’ Within 3 Years Due to Overregulation, Welfare Burden, Underinvestment](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734805-Macron-berlin-205x123.jpg.webp)](https://www.theepochtimes.com/world/macron-warns-eu-could-die-within-3-years-due-to-overregulation-social-welfare-burden-underinvestment-5734718)
 * [More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
     
-    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    12hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![More Countries Evacuate Citizens From Lebanon as Israel–Hezbollah War Heats Up](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731575-GettyImages-2173933499KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/more-countries-evacuating-citizens-from-lebanon-as-israel-hezbollah-war-heats-up-5734636)
 * [Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Court Trials, Campaign Rally, and Capsized Ferry](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734888-GettyImages-2175657090-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-court-trials-campaign-rally-and-capsized-ferry-5734514)
 * [Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
     
-    7hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    13hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Popular Weight Loss Drugs No Longer in Shortage; FDA to Limit Cheaper Alternatives](https://img.theepochtimes.com/assets/uploads/2024/06/05/id5663193-mounjaro-205x123.jpg.webp)](https://www.theepochtimes.com/us/popular-weight-loss-drugs-no-longer-in-shortage-fda-to-limit-cheaper-alternatives-5734619)
 * [Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
     
-    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    14hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says He Would Deport Haitian Immigrants in Springfield, Ohio](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733862-GettyImages-2175961121-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-deport-haitian-immigrants-in-springfield-ohio-5734691)
-* [IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://www.theepochtimes.com/us/irs-vows-tax-enforcement-crackdown-after-audit-reveals-1-4-billion-in-unpaid-taxes-from-gambling-winnings-5734672)
-    
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![IRS Vows Tax-Enforcement Crackdown After Audit Reveals $1.4 Billion in Unpaid Taxes From Gambling Winnings](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589772-06282023-DSC05012-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-vows-tax-enforcement-crackdown-after-audit-reveals-1-4-billion-in-unpaid-taxes-from-gambling-winnings-5734672)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
