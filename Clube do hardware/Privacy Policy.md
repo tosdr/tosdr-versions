@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Andrey SantAnna](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254027.thumb.jpeg.bd14717eb6b40429fbf99a64e940c190.jpeg)](https://www.clubedohardware.com.br/profile/1254027-andrey-santanna/ "Ir ao perfil de Andrey SantAnna")
+    * [![Pincipi](https://www.clubedohardware.com.br/uploads/members/monthly_2018_08/fotomenor.thumb.jpg.9b1050f4d485ee4e568147530b248874.jpg)](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")
         
         0
         
-        [Windows tendo um mau funcionamento](https://www.clubedohardware.com.br/forums/topic/1698914-windows-tendo-um-mau-funcionamento/?do=getNewComment "Windows tendo um mau funcionamento")
+        [Existe programa para testar SSD gravando, lendo, regravando até o SSD morrer?](https://www.clubedohardware.com.br/forums/topic/1698940-existe-programa-para-testar-ssd-gravando-lendo-regravando-at%C3%A9-o-ssd-morrer/?do=getNewComment "Existe programa para testar SSD gravando, lendo, regravando até o SSD morrer?")
         
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Andrey SantAnna](https://www.clubedohardware.com.br/profile/1254027-andrey-santanna/ "Ir ao perfil de Andrey SantAnna")  
-        3 minutos atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Pincipi](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")  
+        2 minutos atrás
         
-    * [![Awaken](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/565662-awaken/ "Ir ao perfil de Awaken")
+    * [![ellieowo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243285.thumb.jpeg.65b8181bed02d192838fa87da07a4b27.jpeg)](https://www.clubedohardware.com.br/profile/1243285-ellieowo/ "Ir ao perfil de ellieowo")
         
         0
         
-        VENDO [Memória DDR5 G.Skill Trident Z5 RGB 32GB (2 x 16GB) 6800MHz cl34 - NOVA](https://www.clubedohardware.com.br/forums/topic/1698913-mem%C3%B3ria-ddr5-gskill-trident-z5-rgb-32gb-2-x-16gb-6800mhz-cl34-nova/?do=getNewComment "Memória DDR5 G.Skill Trident Z5 RGB 32GB (2 x 16GB) 6800MHz cl34 - NOVA")
+        [rx580 ou gtx1650, qual escolho?](https://www.clubedohardware.com.br/forums/topic/1698939-rx580-ou-gtx1650-qual-escolho/?do=getNewComment "rx580 ou gtx1650, qual escolho?")
         
-        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
-        Por [Awaken](https://www.clubedohardware.com.br/profile/565662-awaken/ "Ir ao perfil de Awaken")  
-        8 minutos atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [ellieowo](https://www.clubedohardware.com.br/profile/1243285-ellieowo/ "Ir ao perfil de ellieowo")  
+        17 minutos atrás
         
-    * [![aneliza](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254026.thumb.jpeg.95bdae3c73cc1f8fd0c07dd95b7497b7.jpeg)](https://www.clubedohardware.com.br/profile/1254026-aneliza/ "Ir ao perfil de aneliza")
+    * [![4lcatraz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254046.thumb.png.4feff16b3ccd5fb178fcb27a154d625c.png)](https://www.clubedohardware.com.br/profile/1254046-4lcatraz/ "Ir ao perfil de 4lcatraz")
+        
+        0
+        
+        [Áudio que eu envio no WhatsApp](https://www.clubedohardware.com.br/forums/topic/1698938-%C3%A1udio-que-eu-envio-no-whatsapp/?do=getNewComment "Áudio que eu envio no WhatsApp")
+        
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [4lcatraz](https://www.clubedohardware.com.br/profile/1254046-4lcatraz/ "Ir ao perfil de 4lcatraz")  
+        28 minutos atrás
+        
+    * [![V.Oliv98](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254036.thumb.jpeg.e66e9850554ee965cc570a08c443de8c.jpeg)](https://www.clubedohardware.com.br/profile/1254036-voliv98/ "Ir ao perfil de V.Oliv98")
+        
+        6
+        
+        [Até R$4600,00: B450M Gaming, Ryzen 5 5600X, 16GB e GeForce RTX 4060](https://www.clubedohardware.com.br/forums/topic/1698936-at%C3%A9-r460000-b450m-gaming-ryzen-5-5600x-16gb-e-geforce-rtx-4060/?do=getNewComment "Até R$4600,00: B450M Gaming, Ryzen 5 5600X, 16GB e GeForce RTX 4060")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [V.Oliv98](https://www.clubedohardware.com.br/profile/1254036-voliv98/ "Ir ao perfil de V.Oliv98")  
+        1 hora atrás
+        
+    * [![matheus henrique bbrz](https://lh3.googleusercontent.com/-KNO8j0W-RpY/AAAAAAAAAAI/AAAAAAAACGg/qgRZ5My1BDc/photo.jpg)](https://www.clubedohardware.com.br/profile/1001345-matheus-henrique-bbrz/ "Ir ao perfil de matheus henrique bbrz")
         
         1
         
-        [como sei quantos Hz minha placa de vídeo aguenta?](https://www.clubedohardware.com.br/forums/topic/1698912-como-sei-quantos-hz-minha-placa-de-v%C3%ADdeo-aguenta/?do=getNewComment "como sei quantos Hz minha placa de vídeo aguenta?")
+        [Como configurar o OBS para live stream com a GeForce GTX 1650](https://www.clubedohardware.com.br/forums/topic/1698935-como-configurar-o-obs-para-live-stream-com-a-geforce-gtx-1650/?do=getNewComment "Como configurar o OBS para live stream com a GeForce GTX 1650")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [aneliza](https://www.clubedohardware.com.br/profile/1254026-aneliza/ "Ir ao perfil de aneliza")  
-        20 minutos atrás
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [matheus henrique bbrz](https://www.clubedohardware.com.br/profile/1001345-matheus-henrique-bbrz/ "Ir ao perfil de matheus henrique bbrz")  
+        1 hora atrás
         
-    * [![Nicholas Machado](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ENM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254025-nicholas-machado/ "Ir ao perfil de Nicholas Machado")
+    * [![Pedro Vinicius G. C.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1216602.thumb.jpeg.2aa997f60bcaa440943a88d2d781afe7.jpeg)](https://www.clubedohardware.com.br/profile/1216602-pedro-vinicius-g-c/ "Ir ao perfil de Pedro Vinicius G. C.")
+        
+        7
+        
+        [Placa de vídeo AMD por uns 800 a 1000 reais](https://www.clubedohardware.com.br/forums/topic/1698934-placa-de-v%C3%ADdeo-amd-por-uns-800-a-1000-reais/?do=getNewComment "Placa de vídeo AMD por uns 800 a 1000 reais")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pedro Vinicius G. C.](https://www.clubedohardware.com.br/profile/1216602-pedro-vinicius-g-c/ "Ir ao perfil de Pedro Vinicius G. C.")  
+        1 hora atrás
+        
+    * [![Josenias Lucas](https://www.clubedohardware.com.br/uploads/members/monthly_2022_07/images.thumb.jpg.635fadf51da9a6e7a0938f2272f5916c.jpg)](https://www.clubedohardware.com.br/profile/1198680-josenias-lucas/ "Ir ao perfil de Josenias Lucas")
         
         5
         
-        [Meu computador esta reiniciando sem motivos e com peças novas.](https://www.clubedohardware.com.br/forums/topic/1698911-meu-computador-esta-reiniciando-sem-motivos-e-com-pe%C3%A7as-novas/?do=getNewComment "Meu computador esta reiniciando sem motivos e com peças novas.")
+        [Placa-mãe msi h110m pro-vh plus suporta Radeon RX 6600 ou RX 6650 XT?](https://www.clubedohardware.com.br/forums/topic/1698933-placa-m%C3%A3e-msi-h110m-pro-vh-plus-suporta-radeon-rx-6600-ou-rx-6650-xt/?do=getNewComment "Placa-mãe msi h110m pro-vh plus suporta Radeon RX 6600 ou RX 6650 XT?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Nicholas Machado](https://www.clubedohardware.com.br/profile/1254025-nicholas-machado/ "Ir ao perfil de Nicholas Machado")  
-        29 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Josenias Lucas](https://www.clubedohardware.com.br/profile/1198680-josenias-lucas/ "Ir ao perfil de Josenias Lucas")  
+        2 horas atrás
         
-    * [![Luiz Augustto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250818.thumb.jpeg.2c7705f7c4466da1307526c6510b736d.jpeg)](https://www.clubedohardware.com.br/profile/1250818-luiz-augustto/ "Ir ao perfil de Luiz Augustto")
+    * [![Turista](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1111282.thumb.jpeg.b394bb1d22f30acf9cf22b0160b21fc3.jpeg)](https://www.clubedohardware.com.br/profile/1111282-turista/ "Ir ao perfil de Turista")
         
-        0
+        11
         
-        [Mouse sem fio até R$ 250](https://www.clubedohardware.com.br/forums/topic/1698910-mouse-sem-fio-at%C3%A9-r-250/?do=getNewComment "Mouse sem fio até R$ 250")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Luiz Augustto](https://www.clubedohardware.com.br/profile/1250818-luiz-augustto/ "Ir ao perfil de Luiz Augustto")  
-        30 minutos atrás
-        
-    * [![Ram0N](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/GameXP.thumb.jpg.64745a5765033c507fa95988da9fa3b3.jpg)](https://www.clubedohardware.com.br/profile/647070-ram0n/ "Ir ao perfil de Ram0N")
-        
-        0
-        
-        [Gabinete Aquário ou Normal](https://www.clubedohardware.com.br/forums/topic/1698909-gabinete-aqu%C3%A1rio-ou-normal/?do=getNewComment "Gabinete Aquário ou Normal")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Ram0N](https://www.clubedohardware.com.br/profile/647070-ram0n/ "Ir ao perfil de Ram0N")  
-        46 minutos atrás
-        
-    * [![Weldson Junior](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249180.thumb.png.06d266c3e1405fab72b75fad32d74028.png)](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")
-        
-        0
-        
-        [SSD Pci 4.0 para acompanhar msi b550 gaming plus + Ryzen 7 5700x de 512gb](https://www.clubedohardware.com.br/forums/topic/1698908-ssd-pci-40-para-acompanhar-msi-b550-gaming-plus-ryzen-7-5700x-de-512gb/?do=getNewComment "SSD Pci 4.0 para acompanhar msi b550 gaming plus + Ryzen 7 5700x de 512gb")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Weldson Junior](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")  
-        1 hora atrás
-        
-    * [![Vitoria Gabriela](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/zero-two-darling-in-the-franxx.thumb.gif.675a8de1d34ce608373052b7255375bb.gif)](https://www.clubedohardware.com.br/profile/961554-vitoria-gabriela/ "Ir ao perfil de Vitoria Gabriela")
-        
-        9
-        
-        [Qual marca fabricante de GPUs tem a construção e refrigeração melhor?](https://www.clubedohardware.com.br/forums/topic/1698907-qual-marca-fabricante-de-gpus-tem-a-constru%C3%A7%C3%A3o-e-refrigera%C3%A7%C3%A3o-melhor/?do=getNewComment "Qual marca fabricante de GPUs tem a construção e refrigeração melhor?")
+        [GeForce RTX 4060Ti com baixo consumo energético](https://www.clubedohardware.com.br/forums/topic/1698932-geforce-rtx-4060ti-com-baixo-consumo-energ%C3%A9tico/?do=getNewComment "GeForce RTX 4060Ti com baixo consumo energético")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Vitoria Gabriela](https://www.clubedohardware.com.br/profile/961554-vitoria-gabriela/ "Ir ao perfil de Vitoria Gabriela")  
-        1 hora atrás
+        Por [Turista](https://www.clubedohardware.com.br/profile/1111282-turista/ "Ir ao perfil de Turista")  
+        2 horas atrás
         
-    * [![Thiago SNF](https://www.clubedohardware.com.br/uploads/members/monthly_2019_07/43171491_CronoCatprofilepacotinho.thumb.jpg.478307e4647306f797649179e086ad72.jpg)](https://www.clubedohardware.com.br/profile/674365-thiago-snf/ "Ir ao perfil de Thiago SNF")
-        
-        0
-        
-        [Monitor fica um tempo sem dar sinal após queda de energia](https://www.clubedohardware.com.br/forums/topic/1698905-monitor-fica-um-tempo-sem-dar-sinal-ap%C3%B3s-queda-de-energia/?do=getNewComment "Monitor fica um tempo sem dar sinal após queda de energia")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Thiago SNF](https://www.clubedohardware.com.br/profile/674365-thiago-snf/ "Ir ao perfil de Thiago SNF")  
-        3 horas atrás
-        
-    * [![2jz](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/imagem_2023-03-27_223157994.thumb.png.dfb6a6582476ec4d77e0bc3ec9a9fa1c.png)](https://www.clubedohardware.com.br/profile/1126185-2jz/ "Ir ao perfil de 2jz")
+    * [![Trelissa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c487%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254040-trelissa/ "Ir ao perfil de Trelissa")
         
         2
         
-        [Vale a pena vender meu monitor pra comprar outro?](https://www.clubedohardware.com.br/forums/topic/1698904-vale-a-pena-vender-meu-monitor-pra-comprar-outro/?do=getNewComment "Vale a pena vender meu monitor pra comprar outro?")
+        [HD duplicado no Explorer](https://www.clubedohardware.com.br/forums/topic/1698931-hd-duplicado-no-explorer/?do=getNewComment "HD duplicado no Explorer")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [2jz](https://www.clubedohardware.com.br/profile/1126185-2jz/ "Ir ao perfil de 2jz")  
-        3 horas atrás
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [Trelissa](https://www.clubedohardware.com.br/profile/1254040-trelissa/ "Ir ao perfil de Trelissa")  
+        2 horas atrás
+        
+    * [![Vitor Ventura](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243200.thumb.jpeg.3e20bd78eb017bed557ec60ef1376b6e.jpeg)](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")
+        
+        4
+        
+        [placa-mãe am4 b550 com pcie4](https://www.clubedohardware.com.br/forums/topic/1698930-placa-m%C3%A3e-am4-b550-com-pcie4/?do=getNewComment "placa-mãe am4 b550 com pcie4")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Vitor Ventura](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")  
+        2 horas atrás
         
     
 
