@@ -463,6 +463,10 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Early Ishiba missteps add to anticipation over key policy speech](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+
+  [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+
 [Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
 
   [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
@@ -478,10 +482,6 @@ Revised June 1, 2022
 [Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
 
   [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
-
-[Japan’s new prime minister moots minimum wage moon shot](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
-
-  [![Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425340.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Labor union members rally and call for an increase of the average minimum wage in Tokyo in July.")](https://www.japantimes.co.jp/business/2024/10/02/economy/ishiba-minimum-wage-target/ "Japan’s new prime minister moots minimum wage moon shot")
 
 [Who can challenge Onosato's dominance? Takerufuji might be the best bet.](https://www.japantimes.co.jp/sports/2024/10/02/sumo/takerufuji-onosato-challenger/ "Who can challenge Onosato's dominance? Takerufuji might be the best bet.")
 
@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Opposition parties have little time to form united front ahead of polls](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/general-election-cdp-rush/ "Opposition parties have little time to form united front ahead of polls")
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-0 mins ago
+28 mins ago
 
-[U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base](https://www.japantimes.co.jp/news/2024/10/04/world/uk-cedes-chagos-island-sovereignty/ "U.K. cedes Chagos Island sovereignty to Mauritius and keeps air base")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-6 mins ago
+46 mins ago
 
-[More than AI misinformation, U.S. voters worry about lying politicians](https://www.japantimes.co.jp/news/2024/10/04/world/politics/us-voters-lying-politicians-worry/ "More than AI misinformation, U.S. voters worry about lying politicians")
+[Meteorological agency ramps up 'tsunami flag' awareness efforts](https://www.japantimes.co.jp/news/2024/10/04/japan/science-health/tsunami-flag-awareness/ "Meteorological agency ramps up 'tsunami flag' awareness efforts")
 
 1 hours ago
 
-[IMF says Japan should keep raising rates if inflation data warrants it](https://www.japantimes.co.jp/business/2024/10/04/imf-japan-rate-hike/ "IMF says Japan should keep raising rates if inflation data warrants it")
+[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
 2 hours ago
 
-[AI bubble or 'revolution'? OpenAI's big payday fuels debate](https://www.japantimes.co.jp/business/2024/10/04/tech/ai-revolution-or-bubble/ "AI bubble or 'revolution'? OpenAI's big payday fuels debate")
+[Suspect in violent Kanto burglaries placed on public wanted list](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/tokorozawa-robbery/ "Suspect in violent Kanto burglaries placed on public wanted list")
 
 2 hours ago
 
