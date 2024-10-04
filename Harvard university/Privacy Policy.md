@@ -123,7 +123,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Water
+    1. Harvard in the World
+        
+        In Focus
+        
+        **Harvard in the World** Harvard faculty, students, and alumni compose a global network that is exploring health, law, government, education, business, and more around the world. [Explore the globe](https://www.harvard.edu/in-focus/harvard-in-the-world/)
+        
+        1. **What's inside**
+            1. [**Journey to the Amazon**](https://news.harvard.edu/gazette/story/2024/10/journey-to-a-key-front-in-climate-change-fight/)
+            2. [**Learn about Worldwide Week at Harvard**](https://worldwide.harvard.edu/worldwide-week-harvard-2024)
+        
+    2. Water
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Reevaluating Colorado River water usage as the supply dwindles**](https://news.harvard.edu/gazette/story/2023/02/colorado-river-crisis-explained/)
             2. [**How new federal rules will impact "forever chemicals" in our drinking water**](https://hls.harvard.edu/today/the-impact-of-the-epas-first-ever-federal-pfas-rule-limiting-toxic-forever-chemicals-in-drinking-water/)
         
-    2. Housing
+    3. Housing
         
         In Focus
         
@@ -142,16 +152,6 @@ Menu
         1. **What's inside?**
             1. [**Home prices have far outpaced income**](https://www.jchs.harvard.edu/state-nations-housing-2024)
             2. [**The difficulty of ending homelessness**](https://news.harvard.edu/gazette/story/2024/01/why-its-so-hard-to-end-homelessness-in-america/)
-        
-    3. Welcome to Harvard
-        
-        In Focus
-        
-        **Welcome to Harvard** Where world-class faculty, innovative research, and dynamic students come together to advance education and foster change in the world. [Start exploring](https://www.harvard.edu/in-focus/welcome-to-harvard/)
-        
-        1. **What's inside**
-            1. [**Harvard's history**](https://www.harvard.edu/about/history/)
-            2. [**Harvard's Schools**](https://www.harvard.edu/academics/schools/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
