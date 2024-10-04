@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Elon Musk to attend Trump’s Butler, Pa. rally less than 3 months removed from first assassination attempt on ex-prez](https://nypost.com/2024/10/04/us-news/elon-musk-to-attend-trumps-butler-pa-rally-less-than-3-months-removed-from-first-assassination-attempt-on-ex-prez/)
-
 Terms Of Use
 ============
 
