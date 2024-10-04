@@ -56,22 +56,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
-    
-    ### Flowers + Movies = Perfect Halloween
-    
-    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
-    
-    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
-    
-* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
-    
-    ### Halloween Deals Near You!
-    
-    Your favorite Halloween classics at spooky good prices are just a click away.
-    
-    [GET TICKETS](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
-    
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
     ### Seize the We Are Venom Bundle
@@ -87,6 +71,22 @@ Offers
     Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
+    
+* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
+    
+    ### Flowers + Movies = Perfect Halloween
+    
+    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
+    
+* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
+    
+    ### Halloween Deals Near You!
+    
+    Your favorite Halloween classics at spooky good prices are just a click away.
+    
+    [GET TICKETS](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
     
 
 New & Coming soon
