@@ -33,6 +33,8 @@ Try a course for free.
 
 [Free online courses](https://www.edx.org/free-online-courses)
 
+**Your career success — your way. Save up to 30% off** select programs until October 28. Use code **EDXSUCCESS24**. [Learn more](https://www.edx.org/career-success-promo).
+
 Close site banner.
 
 ### edX Terms of Service
