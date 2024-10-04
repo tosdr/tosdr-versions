@@ -187,7 +187,7 @@ Quick Guides
     
     [揭秘2024年令吉升值的原因](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
     
-    3 days ago
+    4 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
