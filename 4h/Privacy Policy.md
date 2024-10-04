@@ -100,11 +100,7 @@
     * [Overview](#)
     * ### Give to 4-H
         
-        * [Make a Donation](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-17)
-        * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=support_nav)
-        * [Support Opportunity4All](https://4-h.org/?page_id=74838)
-        * [Shop with Purpose](https://4-h.org/support/ways-to-give/explore-current-partner-promotions/)
-        * [Other Ways to Give](https://4-h.org/?page_id=74532)
+        * [Support 4-H](https://4-h.org/beyond-ready/)
     * ### Engage 4-H Youth
         
         * [Mentor with 4-H](https://4-h.org/support/mentoring/)
@@ -338,7 +334,7 @@ Get Involved
 Support 4-H
 -----------
 
-* [Ways to Give-ARCHIVED](https://4-h.org/?page_id=74532)
+* [Beyond Ready](https://4-h.org/beyond-ready/)
 * [Corporate & Foundation Support](https://4-h.org/support/corporate-foundation-support/)
 * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=footer_nav)
 
@@ -418,7 +414,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
