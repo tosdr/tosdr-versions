@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 02, 2024
+October 03, 2024
 
-The VP candidates were civil. So what?
+Changing how we see the world
 
-Calls for civility can seem vague and at times naive. In the current political climate, civility can be seen as merely nice to have, or even an impediment to progress. Today’s Daily shows why none of that is true. Cameron Joseph’s story from Georgia about the distrust of poll workers is poignant and worrisome. A key driver of that loss of faith is incivility. So when the U.S. vice presidential candidates treat each other with civility, as we discuss in an article and the editorial, it is more than a change of pace. It is a path forward. What the world most needs is not our opinions but our higher natures.
+Our stories today about the future of the Middle East, Ivy League presidents, and elections in Brazil have absolutely nothing to do with one another. But when I finished reading them, I couldn’t help but feel my view of the world shift in some important way.The stories are at turns bracing, honest, and hopeful. But each is fundamentally constructive, looking directly into difficulty or darkness and seeking some wisdom or humanity. Sometimes, journalism changes the world. Sometimes, it just changes how we think about it. Sometimes, one can be the beginning of the other.    
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Big development in Jan. 6 case against Trump. Why now?](https://www.csmonitor.com/USA/Justice/2024/1003/donald-trump-jan6-trial-jack-smith-indictment "Big development in Jan. 6 case against Trump. Why now?")
+
 [### As Mideast emotions run high, is there room for restraint?](https://www.csmonitor.com/World/Middle-East/2024/1003/Israel-Iran-war-escalation-restraint "As Mideast emotions run high, is there room for restraint?")
 
 [### Brazil has struggled to elect women to political office. Upcoming elections could change that.](https://www.csmonitor.com/World/Americas/2024/1003/Brazil-women-elections "Brazil has struggled to elect women to political office. Upcoming elections could change that.")
-
-[### The renewable energy of bike-powered French children and a battery-powered Melbourne](https://www.csmonitor.com/World/Points-of-Progress/2024/1003/Melbourne-Australia-battery-France-school-bike "The renewable energy of bike-powered French children and a battery-powered Melbourne")
 
 * * *
 
