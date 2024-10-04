@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
+[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
 
-[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
+[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
 
-[![Documenting medication errors in care facilities](https://www.pintas.com/wp-content/uploads/2021/03/pills-and-stethoscope-300x200.jpg "Documenting Medication Errors in Care Facilities")](https://www.pintas.com/faq/what-documents-do-i-need-to-prove-medication-errors-at-a-memory-care-facility/ "Documenting Medication Errors in Care Facilities")
+[![How do you get cancer from talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-cancer-from-talcum-powder.jpg "How Do You Get Cancer from Talcum Powder?")](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/ "How Do You Get Cancer from Talcum Powder?")
 
-[#### Documenting Medication Errors in Care Facilities](https://www.pintas.com/faq/what-documents-do-i-need-to-prove-medication-errors-at-a-memory-care-facility/)
+[#### How Do You Get Cancer from Talcum Powder?](https://www.pintas.com/lung-cancer/how-do-you-get-cancer-from-talcum-powder/)
 
-[![How much money is a nursing home abuse settlement?](https://www.pintas.com/wp-content/uploads/2023/04/sad-woman-senior-living-bed-300x200.jpeg "How Much Money Is a Nursing Home Abuse Settlement?")](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/ "How Much Money Is a Nursing Home Abuse Settlement?")
+[![Is wandering a common sign of memory care facility neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-is-wandering-a-common-sign-of-memory-care-facility-neglect-300x200.jpg "Is Wandering a Common Sign of Memory Care Facility Neglect?")](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/ "Is Wandering a Common Sign of Memory Care Facility Neglect?")
 
-[#### How Much Money Is a Nursing Home Abuse Settlement?](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/)
+[#### Is Wandering a Common Sign of Memory Care Facility Neglect?](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/)
 
 ### Injured?  
 Tell Us What Happened.
