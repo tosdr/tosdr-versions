@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Christopher Luis Gonzalez (Miami-Dade County Corrections and Rehabilitation).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/miamiattack-432x243.jpg)](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
+1. [![Insets, from left: Breanna Watkins, Matthew Hunt and Richard Newlen (Jefferson County Sheriff). Background: Divers search a lake in Ohio for Newlen (WTOV).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/suicidehoax-432x243.jpg)](https://lawandcrime.com/crime/bunch-of-crap-3-accused-of-faking-suicide-of-registered-sex-offender-who-was-actually-alive/)
     
-    ### ['Who are you f---ing?': Man tells ex-girlfriend 'your life will end tonight,' beats her in terrifying attack after accusing her of cheating, police say](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
+    ### ['Bunch of crap': 3 accused of faking suicide of registered sex offender who was actually alive](https://lawandcrime.com/crime/bunch-of-crap-3-accused-of-faking-suicide-of-registered-sex-offender-who-was-actually-alive/)
     
-2. [![21st District Court Judge Matthew Barrett, on the left; Tina Peters, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Peters-Judge-Facepalm-432x243.jpg)](https://lawandcrime.com/high-profile/frustrated-judge-visibly-facepalms-as-tina-peters-rambles-about-2020-election-conspiracy-theories-gets-angry-when-she-says-he-knows-theyre-true/)
+2. [![Peter Vlaming in 2018. (Screenshot: WRIC)](https://am21.mediaite.com/lc/cnt/uploads/2018/12/Peter-Vlaming-via-WRIC-432x243.jpg)](https://lawandcrime.com/high-profile/school-board-settles-with-french-teacher-who-refused-to-use-transgender-boys-pronouns/)
+    
+    ### [School board settles with French teacher who refused to use transgender boy's pronouns](https://lawandcrime.com/high-profile/school-board-settles-with-french-teacher-who-refused-to-use-transgender-boys-pronouns/)
+    
+3. [![Mark Meadows, on the left; Fani Willis, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2023/09/Mark-Meadows-Fani-Willis-1-432x243.jpg)](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
+    
+    ### ['Entirely omits relevant precedent': Fani Willis tells Supreme Court to keep Mark Meadows RICO case in state court](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
+    
+4. [![21st District Court Judge Matthew Barrett, on the left; Tina Peters, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Peters-Judge-Facepalm-432x243.jpg)](https://lawandcrime.com/high-profile/frustrated-judge-visibly-facepalms-as-tina-peters-rambles-about-2020-election-conspiracy-theories-gets-angry-when-she-says-he-knows-theyre-true/)
     
     ### [Frustrated judge visibly facepalms as Tina Peters rambles about 2020 election conspiracy theories, gets angry when she says he knows they’re true](https://lawandcrime.com/high-profile/frustrated-judge-visibly-facepalms-as-tina-peters-rambles-about-2020-election-conspiracy-theories-gets-angry-when-she-says-he-knows-theyre-true/)
     
-3. [![Jeff Ashton and Casey Anthony](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Jeff-Ashton-and-Casey-Anthony-432x243.jpg)](https://lawandcrime.com/high-profile/casey-anthony-prosecutor-now-a-judge-scolded-for-lacking-the-patience-dignity-and-courtesy-required-of-being-on-the-bench/)
+5. [![Christopher Luis Gonzalez (Miami-Dade County Corrections and Rehabilitation).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/miamiattack-432x243.jpg)](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
     
-    ### [Casey Anthony prosecutor, now a judge, scolded for 'lacking the patience, dignity, and courtesy' required of being on the bench](https://lawandcrime.com/high-profile/casey-anthony-prosecutor-now-a-judge-scolded-for-lacking-the-patience-dignity-and-courtesy-required-of-being-on-the-bench/)
-    
-4. [![Left: Former New York City Mayor Rudy Giuliani arrives to address reporters outside the Merrimack County Superior Court, Wednesday, Oct. 4, 2023, in Concord, N.H. (AP Photo/Charles Krupa)/ Right: Wandrea ](https://am22.mediaite.com/lc/cnt/uploads/2023/12/rudy-ruby-shaye-1-432x243.jpg)](https://lawandcrime.com/high-profile/delist-judge-orders-rudy-giuliani-to-take-nyc-apartment-off-the-market-after-defamed-georgia-election-workers-sound-alarm-about-value-destroying-conduct/)
-    
-    ### ['Delist': Judge orders Rudy Giuliani to take NYC apartment off the market after defamed Georgia election workers sound alarm about 'value-destroying conduct'](https://lawandcrime.com/high-profile/delist-judge-orders-rudy-giuliani-to-take-nyc-apartment-off-the-market-after-defamed-georgia-election-workers-sound-alarm-about-value-destroying-conduct/)
-    
-5. [![Donald Trump, on the left; Sidney Powell, on the right.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Powell-432x243.jpg)](https://lawandcrime.com/high-profile/trump-mocked-and-laughed-at-sidney-powell-while-she-was-on-speakerphone-compared-her-crazy-and-unhinged-election-claims-to-star-trek-but-promoted-them-anyway-jack-smith-immunity-brie/)
-    
-    ### [Trump 'mocked and laughed at' Sidney Powell while she was on speakerphone, compared her 'crazy' and 'unhinged' election claims to 'Star Trek' but promoted them anyway: Jack Smith immunity brief](https://lawandcrime.com/high-profile/trump-mocked-and-laughed-at-sidney-powell-while-she-was-on-speakerphone-compared-her-crazy-and-unhinged-election-claims-to-star-trek-but-promoted-them-anyway-jack-smith-immunity-brie/)
+    ### ['Who are you f---ing?': Man tells ex-girlfriend 'your life will end tonight,' beats her in terrifying attack after accusing her of cheating, police say](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
     
 
 [](http://eepurl.com/c89Jdb)
