@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012)
+[Paying a King's ransom](https://independentaustralia.net/article-display/paying-a-kings-ransom,19044)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Historic strike remembered as Victorian police dispute escalates](https://independentaustralia.net/article-display/politics-display/historic-strike-remembered-as-victorian-police-dispute-escalates-,19030)
+[Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/politics-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033)
 
-[Middle East genocide bears parallels to Australian colonisation](https://independentaustralia.net/article-display/middle-east-genocide-bears-parallels-to-australian-colonisation,19027)
+[President Prabowo faces new nemesis: Press accountability](https://independentaustralia.net/article-display/president-prabowo-faces-new-nemesis-press-accountability,19031)
 
-[Media inflating false equivalency between Left and Right](https://independentaustralia.net/article-display/media-inflating-false-equivalency-between-left-and-right,19023)
+[Historic strike remembered as Victorian police dispute escalates](https://independentaustralia.net/article-display/historic-strike-remembered-as-victorian-police-dispute-escalates-,19030)
 
 Comments Policy
 
@@ -134,9 +134,9 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
-* [Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033 "Permanent Link : Katy kicks off Grand Final amid 'Roar' of controversy")
+* [Paying a King's ransom](https://independentaustralia.net/article-display/paying-a-kings-ransom,19044 "Permanent Link : Paying a King's ransom")
 * [EDITORIAL: Paying a King's ransom](https://independentaustralia.net/article-display/editorial-paying-a-kings-ransom,19043 "Permanent Link : EDITORIAL: Paying a King's ransom")
+* [Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033 "Permanent Link : Katy kicks off Grand Final amid 'Roar' of controversy")
 * [Shared parenting vs sole custody: Which works best for Australian families?](https://independentaustralia.net/article-display/shared-parenting-vs-sole-custody-which-works-best-for-australian-families,19034 "Permanent Link : Shared parenting vs sole custody: Which works best for Australian families?")
 * [5 Key factors that influence your back injury payout in Australia](https://independentaustralia.net/article-display/5-key-factors-that-influence-your-back-injury-payout-in-australia,19035 "Permanent Link : 5 Key factors that influence your back injury payout in Australia")
 * [How Queensland criminal defence attorneys build strong defence strategies](https://independentaustralia.net/article-display/how-queensland-criminal-defence-attorneys-build-strong-defence-strategies,19036 "Permanent Link : How Queensland criminal defence attorneys build strong defence strategies")
