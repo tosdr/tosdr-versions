@@ -70,10 +70,6 @@ Next
 * [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
 * [Child safety policy](https://support.google.com/youtube/answer/2801999)
 
-Notification
-
-We're currently experiencing high contact volumes. If you contact us, you may notice longer than normal wait times.
-
 Child safety policy
 ===================
 
@@ -262,7 +258,7 @@ Google apps
 
 Main menu
 
-8886619863115932066
+5322037039880646120
 
 true
 
