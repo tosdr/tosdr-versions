@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
- [![easyfeedback logo](https://easy-feedback.com/wp-content/uploads/2020/02/cropped-logo.png)](https://easy-feedback.com/)
+[![easyfeedback logo](https://easy-feedback.com/wp-content/uploads/2020/02/cropped-logo.png)](https://easy-feedback.com/)
 
 * Product
     
@@ -10,7 +10,7 @@
     
     Create modern surveys, questionnaires or quizzes on any topic you like
     
-     ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/umfragetool/) [Chat survey
+    ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/umfragetool/)[Chat survey
     
     Next-level chat questions with AI interpretation of the results
     
@@ -38,15 +38,15 @@
     
     Close Solutions Open Solutions
     
-     [![Erstelle mit easyfeedback Mitarbeiterbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Mitarbeiterbefragung.jpg)](https://easy-feedback.com/employee-feedback-survey-tool/)
+    [![Erstelle mit easyfeedback Mitarbeiterbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Mitarbeiterbefragung.jpg)](https://easy-feedback.com/employee-feedback-survey-tool/)
     
     [Employee Survey](https://easy-feedback.com/employee-feedback-survey-tool/)
     
-     [![Erstelle mit easyfeedback Kundenbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Kundenbefragung.jpg)](https://easy-feedback.com/customer-feedback-survey-tool/)
+    [![Erstelle mit easyfeedback Kundenbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Kundenbefragung.jpg)](https://easy-feedback.com/customer-feedback-survey-tool/)
     
     [Customer Survey](https://easy-feedback.com/customer-feedback-survey-tool/)
     
-     [![Mache 360 Grad Feedbacks mit easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/360-Grad-Feedback.jpg)](https://easy-feedback.com/360-degree-feedback/)
+    [![Mache 360 Grad Feedbacks mit easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/360-Grad-Feedback.jpg)](https://easy-feedback.com/360-degree-feedback/)
     
     [360 Degree Feedback](https://easy-feedback.com/360-degree-feedback/)
     
@@ -54,19 +54,19 @@
     
     [Seminar & Event](https://easy-feedback.com/event-feedback-survey-tool/)
     
-     [![Erstelle mit easyfeedback Marktforschungsumfragen](https://easy-feedback.com/wp-content/uploads/2024/01/Marktforschung.jpg)](https://easy-feedback.com/market-research/)
+    [![Erstelle mit easyfeedback Marktforschungsumfragen](https://easy-feedback.com/wp-content/uploads/2024/01/Marktforschung.jpg)](https://easy-feedback.com/market-research/)
     
     [Market Research](https://easy-feedback.com/market-research/)
     
-     [![Erstelle mit easyfeedback Umfragen für das Studium und im Bildungswesen](https://easy-feedback.com/wp-content/uploads/2024/01/Studium-und-Bildung.jpg)](https://easy-feedback.com/student-education-survey-tool/)
+    [![Erstelle mit easyfeedback Umfragen für das Studium und im Bildungswesen](https://easy-feedback.com/wp-content/uploads/2024/01/Studium-und-Bildung.jpg)](https://easy-feedback.com/student-education-survey-tool/)
     
     [School & Study](https://easy-feedback.com/student-education-survey-tool/)
     
-     [![Erstelle mit easyfeedback ein Quiz oder Test](https://easy-feedback.com/wp-content/uploads/2024/01/Quiz-Test.jpg)](https://easy-feedback.com/online-quiz-test/)
+    [![Erstelle mit easyfeedback ein Quiz oder Test](https://easy-feedback.com/wp-content/uploads/2024/01/Quiz-Test.jpg)](https://easy-feedback.com/online-quiz-test/)
     
     [Quiz & Test](https://easy-feedback.com/online-quiz-test/)
     
-     [![Erstelle mit easyfeedback kreative Online-Formulare](https://easy-feedback.com/wp-content/uploads/2024/01/Formulare.jpg)](https://easy-feedback.com/online-form/)
+    [![Erstelle mit easyfeedback kreative Online-Formulare](https://easy-feedback.com/wp-content/uploads/2024/01/Formulare.jpg)](https://easy-feedback.com/online-form/)
     
     [Form](https://easy-feedback.com/online-form/)
     
@@ -150,7 +150,7 @@
 Secure German data protection
 -----------------------------
 
- ![Data protection according to GDPR](https://easy-feedback.com/wp-content/uploads/2021/08/Data-protection-according-to-GDPR.png)
+![Data protection according to GDPR](https://easy-feedback.com/wp-content/uploads/2021/08/Data-protection-according-to-GDPR.png "Data protection according to GDPR")
 
 [Your safety](https://easy-feedback.com/privacy/data-protection/)
 
@@ -826,13 +826,13 @@ March 2024
 
 [Terms and Conditions](https://easy-feedback.com/terms-and-conditions/)
 
-  [![Blog](/wp-content/uploads/2020/02/blog.png)](https://easy-feedback.com/blog/)[![Facebook](/wp-content/uploads/2020/02/facebook.png)](https://www.facebook.com/easyfeedback)[![YouTube](https://easy-feedback.de/wp-content/uploads/2020/04/youtube.png)](https://www.youtube.com/user/easyfeedback)[![LinkedIn](https://easy-feedback.de/wp-content/uploads/2020/04/linkedin.png)](https://de.linkedin.com/company/easyfeedback)
+[![Blog](/wp-content/uploads/2020/02/blog.png)](https://easy-feedback.com/blog/)[![Facebook](/wp-content/uploads/2020/02/facebook.png)](https://www.facebook.com/easyfeedback)[![YouTube](https://easy-feedback.de/wp-content/uploads/2020/04/youtube.png)](https://www.youtube.com/user/easyfeedback)[![LinkedIn](https://easy-feedback.de/wp-content/uploads/2020/04/linkedin.png)](https://de.linkedin.com/company/easyfeedback)
 
 ![Weltkarte weiß](https://easy-feedback.com/wp-content/uploads/2020/02/map_white.svg)
 
 * [Deutsch](https://easy-feedback.de/privacy/datenschutzerklaerung/)
 * [English](https://easy-feedback.com/privacy/privacy-policy/)
 
- [![easyfeedback logo weiß-rot](https://easy-feedback.com/wp-content/uploads/2020/02/easyfeedback-logo-weiss-rot.png)](https://easy-feedback.com/)
+[![easyfeedback logo weiß-rot](https://easy-feedback.com/wp-content/uploads/2020/02/easyfeedback-logo-weiss-rot.png)](https://easy-feedback.com/)
 
 Feedback Management Survey Tool ・ Made with love・ easyfeedback GmbH © 2010 – 2023 ・ All rights reserved.
