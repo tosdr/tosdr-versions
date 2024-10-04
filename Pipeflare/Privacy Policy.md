@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 6 , 0 5 6
+1 , 0 6 6 , 0 9 4
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728032942) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728055257) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728032942) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728055257) to resend activation email.
 
 OK
 
@@ -1150,7 +1150,7 @@ Coin Offers
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1179,7 +1179,7 @@ x 5
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1215,7 +1215,7 @@ Coin Offers
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1244,7 +1244,7 @@ x 5
 
 Only
 
-100
+98
 
 Left This Month
 
