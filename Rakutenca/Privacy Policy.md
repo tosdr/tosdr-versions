@@ -1,7 +1,3 @@
-[Best Buy: The Ultimate PC Gaming Sale is on now + Up to 4% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/best-buy?store=best-buy&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -111,7 +107,7 @@ FR
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        8% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
