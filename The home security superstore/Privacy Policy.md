@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[NEW Stun Gun Pepper Spray 15% Off I Click Here!](https://www.thehomesecuritysuperstore.com/products/the-stunner-3-in-1-rechargeable-led-stun-gun-pepper-spray-jogger-combo?utm_source=website&utm_medium=banner&utm_campaign=NEW+Stun+Gun+Pepper+Spray+15%25+Off)
+[15% Off All Security Locks | Code: LOCK15](https://www.thehomesecuritysuperstore.com/collections/locks?view=all&utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Security+Locks)
 
-Today’s offer: :: | NEW Stun Gun Pepper Spray 15% Off I Click Here!
+Today’s offer: :: | 15% Off All Security Locks | Code: LOCK15
 
 Today’s offer: : :
 
- NEW Stun Gun Pepper Spray 15% Off I Click Here!
+ 15% Off All Security Locks Code: LOCK15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
