@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: The Last Month (10,146)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,146 posts)")
-* [AN if it had a discussion thread (58)](https://forum.nationstates.net/viewtopic.php?t=556428&f=25&view=unread#unread ""AN if it had a discussion thread" (58 posts)")
-* [Transformers: Electric Trepidation (8,901)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (8,901 posts)")
-* [I rank foods but cannot change (263)](https://forum.nationstates.net/viewtopic.php?t=554557&f=25&view=unread#unread ""I rank foods but cannot change" (263 posts)")
-* [Ships 101: A Large Boat Discussion Th… (13)](https://forum.nationstates.net/viewtopic.php?t=555692&f=20&view=unread#unread ""Ships 101: A Large Boat Discussion Thread" (13 posts)")
+* [NS Parliament: Life Outside \[IC\] (8)](https://forum.nationstates.net/viewtopic.php?t=556392&f=31&view=unread#unread ""NS Parliament: Life Outside [IC]" (8 posts)")
+* [Is AN or AAN more well known/Famous? (661)](https://forum.nationstates.net/viewtopic.php?t=554643&f=25&view=unread#unread ""Is AN or AAN more well known/Famous?" (661 posts)")
+* [Elephant Chess Cup X Everything Thread (3)](https://forum.nationstates.net/viewtopic.php?t=556450&f=7&view=unread#unread ""Elephant Chess Cup X Everything Thread" (3 posts)")
+* [Revenge of Rate the Song above you (6,977)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,977 posts)")
+* [How dangerous is AN to world peace? (465)](https://forum.nationstates.net/viewtopic.php?t=554384&f=25&view=unread#unread ""How dangerous is AN to world peace?" (465 posts)")
 
 Advertisement
 
