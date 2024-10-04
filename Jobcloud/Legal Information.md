@@ -58,8 +58,6 @@ Data privacy notice
 
 * [Data Privacy Notice for business customers](https://www.jobcloud.ch/c/en/privacy-policy/#employers)
 * [Data Privacy Notice for jobseekers](https://www.jobcloud.ch/c/en/privacy-policy/#jobseekers)
-    * [Job Seekers with a JobCloud Account](https://www.jobcloud.ch/c/en/privacy-policy/#job-seekers-with-jc-account)
-    * [Job Seekers without a JobCloud Account](https://www.jobcloud.ch/c/en/privacy-policy/#job-seekers-without-jc-account)
 * [Cookie Notice](https://www.jobcloud.ch/c/en/privacy-policy/#cookie-notice)
 
 DATA PRIVACY NOTICE FOR BUSINESS CUSTOMERS
@@ -219,178 +217,306 @@ Zurich, May 2024
 DATA PRIVACY NOTICE FOR JOBSEEKERS
 ----------------------------------
 
-* [Data Privacy Notice](#data-privacy)
-* [Job Seekers with a JobCloud Account](#job-seekers-with-jc-account)
-* [Job Seekers without a JobCloud Account](#job-seekers-without-jc-account)
+**A. WHAT IS THIS PRIVACY POLICY ABOUT?**
 
-**1\. DATA PRIVACY NOTICE**
+In this Privacy Policy, JobCloud AG (hereinafter “we” or “JobCloud”) explains how we process and protect personal data. Personal data is any information relating to an identified or identifiable person.
 
-The protection of personal data is very important to JobCloud Ltd (hereinafter “we” or “JobCloud”). We therefore comply strictly with all applicable data protection regulations, primarily the revised version of the Swiss Federal Act on Data Protection (hereinafter “Swiss FADP”) and, to the extent applicable in the specific case, the EU-General Data Protection Regulation (hereinafter “EU GDPR”).  
+The protection of personal data is very important to us. That is why we pay strict attention to compliance with the applicable data protection regulations, primarily the Swiss Data Protection Act (hereinafter “CH FADP”) and, to the extent applicable by law in the specific case, the EU General Data Protection Regulation (hereinafter “EU GDPR”).
 
-We guarantee confidential treatment of all the personal data entrusted to us and assure that that we will deal with such data with the greatest care and process the data in accordance with its purpose and only to the extent required by the purpose of the processing.  
-This Data Privacy Notice applies to your use of all JobCloud services and products, no matter whether You use our services and products on a JobCloud website (e.g. jobs.ch, jobup.ch, jobscout24.ch, jobcloud.ch, or jobcloud.ai; all of our websites shall be referred to collectively hereinafter as “Platforms”), on mobile applications (hereinafter “Apps”), by telephone or otherwise.  
+This Privacy Policy applies to the use of all JobCloud services and products, regardless of whether you use our services and products via a JobCloud website (e.g. jobs.ch, jobup.ch, jobscout24.ch, hereinafter all our websites together “JobCloud platforms”), via mobile applications (hereinafter “apps”), by telephone or otherwise; unless a specific privacy policy is posted for specific services and/or products, this Privacy Policy applies.
 
-If You provide us with the Personal Data of other individuals (e.g. data concerning people who recommend You / references), please make sure that such persons are aware of this Privacy Notice, and do not share their Personal Data with us unless You are entitled to do so and the personal data are correct.  
+If you provide us with personal data of other persons (e.g. data of reference persons), please make sure that these persons are aware of this Privacy Policy and only provide us with their personal data if you are allowed to do so and if this personal data is correct.
 
-Please note that data about (i) religious, ideological, political or trade union opinions or activities, (ii) health (including genetic and biometric data), private life or racial or ethnic affiliation (iii) criminal prosecution or penalties and (iv) social assistance measures are considered sensitive personal data under the Swiss FADP and a special category of personal data under the EU GDPR. Please do not send us such data. 
+Please note that (i) data on religious, philosophical, political or trade union views or activities, (ii) data on health (including genetic and biometric data), privacy or race or ethnicity, (iii) data on administrative and criminal prosecutions or sanctions as well as (iv) data on social assistance measures are considered particularly sensitive personal data under the CH FADP and a special category of personal data under the EU GDPR. Please do not provide us with such data.
 
-**2\. DATA PROCESSING**
+**B. YOUR QUESTIONS ABOUT DATA PROTECTION**
 
-**2.1 JOB SEEKERS**
+If you have any questions about data protection, please feel free to email us at [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch) or contact us by post at the address below. We will answer your request as soon as possible.
 
-**2.1.1 Job Seekers with a JobCloud Account**
+**C. WHO IS RESPONSIBLE FOR DATA PROCESSING? CONTACT DETAILS**
 
-**a) Type of personal data****:** As a Job Seeker, You can register a profile on our Platforms (hereinafter “JobCloud Account”). For registration, it is necessary to enter an e-mail address and password. We use the free registration and log-in service of OneLog (hereinafter “OneLog“, for more information see clause 2.1.1 e)). For fee-based services, it is necessary to enter a billing address. It is up to you to decide whether to upload further personal data to your profile (e.g. your first and last names, address, telephone number, gender, occupation, interests, etc.) and/or documents (e.g. CV, templates for letters of motivation, etc.) and/or share your profile data and CV with Spotted in your JobCloud account. Please do not enter any personal information that is classified as sensitive personal data under the Swiss FADP and characterized as a special category of personal data under the EU GDPR (cf. clause 1 above). For more information about registration, see [JobCloud’s General Terms of Use](https://www.jobcloud.ch/c/en/terms/#job-seekers) and clause 2.1.1 e) below. For more information about data processing by third parties, see clause 8a below). Clause 8a is especially important for You if You make the personal data in your JobCloud Account visible to third parties. 
+The data controller within the meaning of the CH FADP or EU GDPR is:
 
-**b) Purposes of the data processing**: We process the personal data You provide for the following purposes:
-
-* Registration with OneLog (see clause 2.1.1 e)). 
-* Providing services: numerous online services are available to registered Job Seekers on our Platforms (e.g. One Click Application, Job-Alert, Favorites, Salary Check, and the important service, the CV database (see 8a); more information about our services is available on the JobCloud Platforms and in JobCloud’s General Terms of Use. We use the personal data provided to us only if necessary for the performance of the services that You use, and only to that extent.  
-    Digital Recruiting: If You upload your application documents to one of the JobCloud Platforms during the online application process, JobCloud will use your personal information (including all the data and application documents supplied to us via our Platform) for Digital Recruiting; we consider that to be part of our overall service package. In other words, JobCloud will analyze your personal data for purposes of the Digital Recruiting service. “Digital Recruiting” means that JobCloud will analyze and review your personal information, compare it with current job ads, and suggest suitable job ads to You (e.g. by e-mail, SMS or by telephone). JobCloud will not forward your application documents to the employer that posted the job before obtaining your consent.
-* Cross-device personalization: if You use our services on a device and sign up with your account, we will be able to link your account with your device and, depending on your settings, personalise your user experience and our offers, including on other devices on which You make use of our services.
-* Improvement of our services:
-    * We use data collected from You by means of textual analysis and/or cookies in order to optimise the job search and job recommendations for You and other users of our Platforms (for more information, see clause 3).
-    * We use personal data for analytical purposes, to improve the user friendliness, functionality and quality of our Platforms (for more detailed information, see clause 5).
-    * JobCloud also presents third-party offers on its platforms and in its e-mails and newsletters or provides links to third-party offers or websites (e.g. job offers from employers). Through redirection of clicks or otherwise, we may track the way You use such links in order to improve our services and compile statistics.
-* Marketing:
-    * We use your contact information to send You information about job-related products and services or job ads through our Newsletter or otherwise, e.g. by e-mail, post, telephone or SMS. You can unsubscribe from marketing-e-mails at any time by clicking on the “Unsubscribe” link included in each  marketing-e-mail. 
-    * Based on the information in our database, personalized offers may be sent to You on JobCloud Platforms or other websites as well as social media sites, including both offers available to You directly on the JobCloud Platforms and third-party products and offers that may be of interest to You.
-    * JobCloud also presents third-party offers on its platforms and in its e-mails and newsletters or provides links to third-party offers or websites (e.g. job offers from employers). Through redirection of clicks or otherwise, we may track the way You use such links in order to send You personalized offers.
-* Market research: we occasionally ask our Users to take part in market studies. We will not use any additional personal data that You provide to us in the context of such market research without your prior consent. 
-* Crime prevention: your personal data may also be used to detect and prevent fraud or other illegal activities. 
-
-**c) Legal basis for data processing under the EU GDPR**: an agreement will be formed between You and JobCloud when You set up a JobCloud Account (i.e. when You register with OneLog – for further details, see [JobCloud’s General Terms of Use](https://www.jobcloud.ch/c/en/terms/#job-seekers)) and clause 2.2.1 e) below). The legal basis of data processing for the purpose of providing services, including Digital Recruiting, is EU GDPR Art. 6 (1)(b). Whenever we use your data to improve our services or for the purposes of marketing, market research, or crime prevention, the data processing is performed on the basis of an overriding private and/or legitimate interest (such as promoting and/or improving our services or crime prevention) and thus on the basis of EU GDPR Article 6 (1)(f). The legal basis of data processing for further market research purposes is EU GDPR Article 6 (1)(a). The legal basis for cross-device personalization is, where applicable, your consent and, in certain situations, the overriding interest of JobCloud, EU GDPR Article 6 (1)(f).
-
-**d) Duration of the data processing**: the personal data stored by You in your JobCloud Account will be available to You for the duration of the agreement and will be stored by us for that same duration. The personal data will be finally and irrevocably deleted or anonymized if (i) You delete your profile or individual data items yourself or instruct us to do so or if the agreement has been terminated, whether by You or by us (for the details, see [JobCloud’s General Terms of Use](https://www.jobcloud.ch/c/en/terms/#job-seekers)), provided that (ii) we do not need the data to wind up the agreement, (iii) we are not required to retain such data by law and (iv) the data are not needed for handling of the enforcement, exercise or defence of legal rights. Please note that, for technical and/or organizational reasons, it may take a few days in order to erase your data finally and irrevocably. Other data listed above that is not directly related to your JobCloud Account may be used by us to the extent necessary and as long as we are entitled to do so.  If we anonymize instead of deleting your personal data, we guarantee that your data will no longer contain any personal references after being anonymized, which means that neither we nor third parties will be able to associate such data with You.
-
-**e) OneLog:** OneLog is a free registration and log-in service provided by OneLog AG. When you register to set up your JobCloud Account with OneLog, OneLog AG, as the data controller, collects the following personal data: 
-
-* E-mail address
-* Password
-
-The e-mail address is transmitted by OneLog to JobCloud and JobCloud processes this data as a data controller. For more information on how OneLog processes your personal data, please consult OneLog’s privacy policy, available at: [https://onelog.ch/assets/privacy-policies/en-privacy-policy.pdf](https://onelog.ch/assets/privacy-policies/en-privacy-policy.pdf) 
-
-We process your e-mail address during the period of registration for the following purposes: 
-
-* To fulfil and process contractual and legal obligations; 
-* to manage and maintain the customer relationship; 
-* to verify access authorizations and manage the user account.
-
-**2.1.2 Job Seekers without a JobCloud Account**
-
-**a) Type of personal data**: As Job Seekers, You may use selected services (particularly the job search, job application or salary check functions) even without registering. During a job search, we exclusively store your IP address. By using the job application function to apply for a job offer on our Platform, You determine which personal data You wish to make available to us for that purpose, typically your first and last names, e-mail address, address, telephone number, gender, occupation, and biographical data on your career path and interests. We us the salary check function to store data, namely your current employer, place of work, gender, age, education and other data that You input. However, we will not link that data with your IP address or another identifying characteristic. It is therefore impossible for us or for third parties to identify You based on such data, which are therefore not considered personal data. For more information about data processing by third parties (particularly, the processing performed by Business Customers to whom we forward your personal data on your behalf), see clause 8 a) below.
-
-**b) Purposes of the data processing**: We process the personal data You provide for the following purposes:
-
-* Providing services: selected services are available even to unregistered users (e.g. the job search, job application or salary check functions; You can find more information about our services for unregistered Job Seekers on the JobCloud Platforms and in  [JobCloud’s General Terms of Use](https://www.jobcloud.ch/c/en/terms/#job-seekers). We use the personal data provided to us only if necessary for the performance of the services that You use, and only to that extent.
-* Digital Recruiting: If You upload your application documents to one of the JobCloud Platforms during the online application process, JobCloud will use your personal information (including all the data and application documents supplied to us via our Platform) for Digital Recruiting; we consider that to be part of our overall service package. In other words, JobCloud will analyze your personal data for purposes of the Digital Recruiting service. “Digital Recruiting” means that JobCloud will analyze and review your personal information, compare it with current job ads, and suggest suitable job ads to You (e.g. by e-mail, SMS or by telephone). JobCloud will not forward your application documents to the employer that posted the job before obtaining your consent.
-* Improvement of our services:
-    * We use data collected from You by means of textual analysis and/or cookies in order to optimise the job search and job recommendations for You and other users of our Platforms (for more information, see clause 3).
-    * We use personal data for analytical purposes, to improve the user friendliness, functionality and quality of our Platforms (for more detailed information, see clause 5).
-* Marketing: Based on the information in our database, personalized offers may be sent to You on JobCloud Platforms or other websites as well as social media sites, including both offers available to You directly on the JobCloud Platforms and other JobCloud offers that may be of interest to You.
-* Crime prevention: your personal data may also be used to detect and prevent fraud or other illegal and undesired activities.
-
-**c) Legal basis for data processing under the EU GDPR:**
-
-Whenever You use certain of our services, an agreement for one-time performance of that service is formed between You and JobCloud. The legal basis of data processing for the purpose of providing services is EU GDPR Art. 6 (1)(b).  
-
-Our data processor agreement with the Business Customer provides the legal basis for our sending your application to the Business Customer (that is to say, to the employer or recruiter). 
-
-Whenever we use your data to improve our services, for purposes of marketing or for crime prevention, the data processing is performed on the basis of an overriding private and/or legitimate interest and thus on the basis of EU GDPR Article 6 (1)(f). Insofar as the EU GDPR is applicable, we base our data processing for Digital Recruiting on your consent (EU GDPR Art. 6 (1) (a))and, if the Swiss FADP is applicable, on the general principles of data protection and, as grounds of justification, on our own overriding interests.
-
-**d) Duration of the data processing**: we store your personal data for a 6-month period, at the end of which we anonymize or delete all your personal data finally and irrevocably, except for such data as we are required to retain by law or the processing of which is useful for handling  the assertion, exercise or defence of legal rights. If we anonymize instead of deleting your personal data, we guarantee that your data will no longer contain any personal references after being anonymized, which means that neither we nor third parties will be able to associate such data with You.
-
-**3\. JOB MATCHING**
-
-We use your personal data in order to optimise the job search and job recommendations for You and the other users of our Platforms with the assistance of a statistical model. To do so, we analyze the data that You sent to us and/or your user behaviour on our Platforms (for more detailed information, see clause 5). The data thus acquired is used by us exclusively to improve our statistical model and to display job recommendations that match your search history and interests. For more information about the legal basis, purpose and deletion of personal data during job matching see clauses 2.1.1 and 2.1.2.
-
-**4\. HOLDING OF CONTESTS**
-
-We hold contests on a regular basis. The only personal information we use to hold such contests is the information collected specifically in the course of the contest after obtaining the data subject’s express prior consent. The contest-specific Terms of Use and privacy notice are applicable to the holding of contests and data processing of personal information in the course of competitions.
-
-**5\. DATA SECURITY**
-
-We use technical and organizational security measures to provide the data under management with state-of-the-art protection against accidental corruption or intentional manipulation, loss, destruction and unauthorized third-party access. Our security precautions are constantly keeping with the latest technological advances.
-
-We use Google ReCAPTCHA to secure our websites against bots and spam software in the best possible way and to protect against misuse by non-human visitors. To protect and optimise our services and combating cyber attacks, certain technical data is collected using cookies. You can find more information in the cookie notice at the end of this privacy policy.
-
-**6\. THIRD-PARTY OFFERS**
-
-JobCloud also presents third-party offers on its platforms and in its e-mails and newsletters or provides links to third-party offers or websites. JobCloud assumes no liability for the collection and treatment of personal data by third parties or their services and IT applications. The data protection provisions applicable to the relevant third party provider will be applicable.
-
-**7\. TRANSMISSION OF YOUR PERSONAL DATA TO THIRD PARTIES AND TO THIRD COUNTRIES**
-
-**a) Transmission of applications to Business Customers and visibility of profile data:** Transmission of job applications: When You apply for a job on our Platform as a Job Seeker, we forward your application to the appropriate Business Customer. You can also use the “Apply with” function to grant a Business Customer access to certain information stored in your JobCloud Account. In such cases, we will send the application stored in your JobCloud Account to the appropriate Business Customer. Please note that in such case, your personal data will be transmitted to the appropriate Business Customer, who may possibly keep a copy. Once your personal information has been transmitted, JobCloud can no longer retrieve it from the third parties who have accessed it. Your personal information may therefore, theoretically, be retransmitted to others.
-
-Visibility of profile data: You also have the option of making your profile visible to third parties by selecting the “Visible” setting, which authorizes us to make your personal data available to employers and/or recruiters for recruitment purposes (“CV database” function; for more detailed information, see our [Terms of Use](https://www.jobcloud.ch/c/en/terms/#job-seekers)). Please note that if You make your personal data visible, it may be downloaded in unencrypted form by Business Customers (including outside Switzerland) and, in theory, may be forwarded by them from out of their JobCloud Account to third parties worldwide in unencrypted form. Once You have posted your personal information in the “visible” mode, we can no longer retrieve it from the third parties who have accessed it.
-
-Generally: once your personal information is in the possession of third parties, we therefore have no control over the storage, utilization or privacy/protection of your personal data (particularly in the case of CVs). With that in mind, please do not enter any personal information that is classified as sensitive personal data under the Swiss FADP and characterized as a special category of personal information under the EU GDPR (cf. clause 1 above) ) or any other data that You do not wish to be publicly accessible. Theoretically, your personal data could therefore wind up in countries with a level of data protection inferior to that of Switzerland. In all the above-mentioned cases, the subsequent processing of your personal information by the Business Customer is governed by the data protection policy of the Business Customer in question. The Business Customer is liable for complying with all applicable data protection provisions (including with respect to the erasure of your data after completion of the application process).
-
-If You have any questions about the processing of your data (e.g. questions about data erasure), please get in touch directly with the relevant Business Customer.
-
-Naturally, JobCloud makes every effort to protect your data as well as possible, especially through agreements with the Business Customers.
-
-**b) Posting of job offers**: As a Business Customer, job offers that You post via JobCloud may contain personal data (e.g. the name and e-mail address of the HR employee in charge of job applications). By posting your job offers on our Platforms according to your instructions, we make such personal data accessible to third parties (especially Job Seekers) who visit our Platforms. You are responsible for ensuring that we are authorized to post such data (see clause 1 above).
-
-**c) Commissioned data processors:** we use the following categories of data processors to provide our services: hosting providers, Cloud Service providers, shipping companies, payment service providers, providers of parsing and matching solutions, advertising providers, tracking technology providers and Social Media Platforms. Such data processors are bound by non-disclosure agreements and it is prohibited for them to use your data for their own purposes or any other purposes.
-
-**d) Transmission to third countries:** our commissioned data processors may be domiciled anywhere in the world and thus outside Switzerland or even the European Union. JobCloud shall ensure that a transmission is made only to such countries that have a data protection standard equivalent to Switzerland or the EU and only to data processors that have entered into data transmission agreements with JobCloud based on the agreements drawn up and approved by the European Commission, so-called standard contract clauses (EU GDPR Art. 46 (2)) and therefore guarantee a data protection standard comparable to Switzerland or the EU. If You have questions about the specific data processors that we employ, or would like to receive a copy of the data protection guarantees, please address your question according to the contact information indicated in clause 11.6.
-
-**8\. JOBCLOUD ON MOBILE DEVICES**
-
-We offer free apps for a variety of mobile devices and a version of our standard website adapted for mobile devices. Such apps and websites for mobile devices collect and process your personal data in the same way as our website; this Privacy Notice applies. If You grant your consent, we will send You push messages with information about your job search.
-
-**9\. JOBCLOUD AS COMMISSIONED DATA PROCESSOR**
-
-**a) Use of JobCloud Applicant Tracking System:** Business Customers have the option of using the JobCloud Applicant Tracking System (ATS) in accordance with [JobCloud’s General Terms and Conditions](https://www.jobcloud.ch/c/en/terms/#employers)for employers and recruiters, in which case a data processor relationship arises between the Business Customer (as the data controller) and JobCloud (as the data processor).
-
-**b) Transmission of job applications:** The data processor agreement between the Business Customer and JobCloud provides the basis for transmission of your applications to the Business Customer (i.e. the employer or recruiter).
-
-**10\. YOUR RIGHTS**
-
-**10.1 INFORMATION, COMPLETION AND RECTIFICATION**
-
-You may inquire about your stored personal data, complete your data or rectify incorrect personal data at any time by sending an e-mail to [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch). We shall promptly respond to your request.
-
-**10.2 DISCREPANCIES**
-
-If your personal data is processed on the basis of EU GDPR Art. 6 (1)(f), You may object to the processing at any time by sending an e-mail to [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch). In that case, we shall promptly cease to process your personal data unless we can demonstrate compelling legitimate grounds for such processing that override your own interests, rights and freedoms, or unless such processing serves to assert, exercise or defend legal claims.
-
-**10.3 ERASURE**
-
-In addition, You may have us erase your stored personal data by sending an e-mail to [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch). Job Seekers with JobCloud Account through OneLog can also make a corresponding request in their account. In that case, we shall promptly erase your personal data irrevocably, as soon as all the existing agreements and other legal relationships with You have been completely wound up, unless we are required to retain such information by law or it useful to handle the assertion, exercise or defence of legal claims. Please note that, after erasure, You will no longer be able to retrieve the data You provided. 
-
-**10.4 RIGHT TO LODGE A COMPLAINT**
-
-In accordance with the applicable legal system, You have the right to lodge a complaint with a supervisory authority, without prejudice to other administrative or judicial remedies, particularly in the Member State of your habitual place of residence or place of work or the place of the presumed infringement, if You believe that the processing of the personal data concerning You infringes the EU GDPR (if the EU GDPR is applicable to the processing in question). The supervisory authority with which the complaint is lodged shall inform the complainant of the status and the outcome of the complaint, including the option of a judicial remedy under EU GDPR Article 78.
-
-**10.5 DATA PORTABILITY**
-
-In accordance with the applicable legal system, data subjects may be entitled to receive the personal data that they have provided to JobCloud, in a structured, standard and machine-readable format and to transmit or cause such data to be transmitted to another data controller.
-
-**10.6 ENQUIRIES ABOUT DATA PROTECTION**
-
-If You have any questions about data protection, You are welcome to send us an e-mail at [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch). We will be happy to answer your questions as soon as possible. Instead of by e-mail, You may also post a letter to us at the contact address indicated in clause 12. In case of a data breach, contact us without delay and send an e-mail to [databreach@jobcloud.ch](mailto:databreach@jobcloud.ch).
-
-**11\. CONTROLLER**
-
-The controller within the meaning of the Swiss FADP or the EU GDPR is:   
-JobCloud Ltd  
+JobCloud AG  
 Albisriederstrasse 253  
 8047 Zurich  
-Switzerland  
-e-mail: [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch)
+Switzerland
 
-**12\. EU REPRESENTATIVE**
+Our data protection consultant can be contacted by email at [dataprotection@jobcloud.ch](mailto:dataprotection@jobcloud.ch).
 
-You can reach the JobCloud EU representative using the following contact details:  
-JobCloud HR Tech GmbH Jakov\-Lind-Strasse 2, Stiege 2 A-1020 Vienna Austria 
+**D. WE MAY CHANGE THIS PRIVACY POLICY!**
 
-**13\. CHANGES TO THIS DATA PRIVACY NOTICE**
+Due to the constant development in the field of electronic data processing, we reserve the right to adapt this Privacy Policy. You can find the latest version of the Privacy Policy on our platforms.
 
-Electronic data processing is constantly evolving. We therefore reserve the right to adapt this Data Privacy Notice.  
+**E. WHO IS THIS PRIVACY POLICY FOR?**
 
-Zurich, May 2024  
+* For all visitors in the purely informational use of the JobCloud platforms.
+* For job seekers with and without a JobCloud account (also called registered users and non-registered users).
+
+**F. WHICH PERSONAL DATA DO WE PROCESS AND FOR WHICH PURPOSES?**
+
+**1\. From all visitors to the JobCloud platforms**
+
+The following personal data is collected every time you access the JobCloud platforms:
+
+* IP address of the computer requesting access
+* Date and time of access
+* Website from which the access was made (URL of the website user comes from, possibly with the search word used)
+* Name and URL of the retrieved file
+* Performed search queries
+* Operating system of the computer
+* Type of browser used
+* Mobile phone device type, if one is used
+* Transfer protocol used, headers e.g. authorization, location, date and content-encoding
+
+This data is used for security purposes and to clarify cases of unauthorized use or cyber-attacks, for error and performance analysis and to optimize our services. Some of these processing operations are carried out by cookies. Read more about this in our [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis).
+
+**2\. From job seekers in connection with the creation of the JobCloud user account**
+
+As a job seeker, you can register a JobCloud user account on the JobCloud platforms (hereinafter “JobCloud user account”). We use the registration and login service of OneLog. OneLog is a free registration and login service provided by OneLog AG. When you register to create a JobCloud user account with OneLog, OneLog AG, as the data controller, collects the following personal data:
+
+* Email address
+* Password
+
+OneLog transmits the e-mail address to JobCloud and JobCloud also processes it as the data controller. For more information on how OneLog processes your personal data, please consult OneLog’s privacy policy, available at [https://onelog.ch/assets/privacy-policies/en-privacy-policy.pdf](https://onelog.ch/assets/privacy-policies/de-privacy-policy.pdf).
+
+We process your email address during the registration period for the following purposes:
+
+* To fulfil and execute contractual and legal obligations
+* To manage and maintain the customer relationship
+* To verify access permissions and manage the JobCloud user account
+
+We process your personal data as long as your JobCloud user account exists. To completely delete your JobCloud user account, click on the link in the settings in your profile to be redirected to your OneLog profile and perform the deletion. If you no longer have your JobCloud user account credentials in order to delete it, please contact our support team using the [online contact form](https://www.jobs.ch/de/kontakt/).
+
+For more information on registration, please refer to the [JobCloud Terms of Service](https://www.jobcloud.ch/c/de-ch/agb/#job-seekers).
+
+**Further options for registration with a Social Media Account**
+
+As a job seeker, on some of our platforms you can create an account with your social media account of Google, Facebook or LinkedIn. To register, you will be redirected to the respective social media website, where you can log in with your existing user data. This will link your social media account and our service. By linking, we automatically receive your name and email address from the respective social media account. This information is necessary for the use of our services to be able to identify you. For further information about the social media login and privacy settings, please see the privacy policy and terms of use of the respective social media provider.
+
+**3\. From job seekers with a JobCloud user account in connection with their JobCloud profile**
+
+You can create a profile in your JobCloud user account and determine whether and which personal data you enter in your profile (e.g. first and last name, address, phone number, profession, interests, etc.) and/or upload documents (e.g. CV, template for cover letters, etc.) to your profile. Please do not provide any personal data that qualifies as particularly sensitive personal data under the CH FADP and as a special category of personal data under the EU GDPR (e.g. skin colour, political opinion, denomination, union membership, fingerprint, iris scan, diagnostic data, medical history).
+
+In your profile, you can view and manage the information and settings for our services.
+
+Visibility of profile data: As a registered user, on some of our platforms, you can choose between two profile settings: you can set your profile to visible or not visible to our business customers. This function can be changed by you at any time in the settings. If your profile is set to “visible”, parts of your profile (esp. work experience) can be viewed by our business customers. Your photo and contact details will remain hidden for privacy reasons. Our business customers can contact you if they find your profile interesting. After our business customers have contacted you, you decide whether to give them access to your complete profile.
+
+Please note, however, that if you grant them access and thus also make your personal data visible, the personal data could be downloaded by them (who may also be located outside Switzerland) and theoretically passed on to third parties worldwide without encryption. Once you have granted access, we will not be able to recall your personal data.
+
+We will keep the data stored in your profile for you as long as your JobCloud profile and JobCloud user account exist. You can delete the data independently at any time in the profile settings.
+
+**4\. From job seekers for our services**
+
+Numerous online services are available to job seekers with and without a JobCloud user account on the JobCloud platforms. We use the personal data provided to us if and insofar as this is necessary for the provision of services that you use.
+
+**Notifications for job seekers with a JobCloud account**
+
+In the apps, you will receive in-app push notifications. You can control and unsubscribe from receiving the notifications or push messages in the apps mentioned below at any time in your profile settings.
+
+**Job Alerts**
+
+We save parameters of your job search (profession, keyword, company, language, etc.) and send you suitable job offers by email.
+
+**Job watch list**
+
+We save job listings that you have selected for your watchlist and send a weekly reminder about your saved jobs by email.
+
+**Job recommendations**
+
+Based on the jobs you viewed and given your consent to receive recommendations, you will automatically receive job recommendations via email. The selection of job offers in these emails depends on the search parameters you specify, your user behavior and your profile information.
+
+**Company news**
+
+We store the names of the companies you want to follow and inform you by email about updates on these companies (e.g. new job advertisements).
+
+**Application for a published listing**
+
+If you apply for a job advertisement, JobCloud will either (depending on the JobCloud customer’s choice) i) redirect your application to the JobCloud customer’s application management system for your application process or ii) save your application in the respective customer’s own application management system or in the application management system integrated with JobCloud on the JobCloud platforms.
+
+If your application is redirected to the customer’s system (i), JobCloud generally does not have access to your data and you will be interacting directly with the customer’s career page or to the page specified by the customer.
+
+If customers use JobCloud’s application management system or their own application management system integrated on the JobCloud platforms (ii), you will be shown the JobCloud application form. Your application will be submitted to the JobCloud customer’s own application management system or to JobCloud’s integrated application management system. In this case, JobCloud is also aware of your data.
+
+JobCloud’s customers are responsible for the data processing and deletion of the applications received in accordance with data protection regulations as independent data controllers.
+
+In principle, the following data is collected: first and last name, contact details and application documents (CV, cover letter, etc.).
+
+If you have a JobCloud user account, you can automatically fill in the application form with the information contained in your profile (Quick Apply) and have your cover letter created and submitted using the cover letter generator (see also AI applications).
+
+If JobCloud customers use a questionnaire for their job advertisement, the answers to the questions will also be sent to the JobCloud customers. Your application will be stored in the JobCloud customer account and the JobCloud customer you applied to will be able to view your application documents.
+
+JobCloud can inform you about the status of your submitted application, provided JobCloud has this status information. Status information is information about the status of your application to JobCloud customers and may include, for example, the receipt and processing of the application. JobCloud can only display status information if JobCloud customers provide JobCloud with this information. JobCloud cannot verify this information.
+
+If you have a JobCloud account, we will store submitted applications in an application history visible to you in your profile for as long as your JobCloud account exists. If you interrupt your application, we will save your progress to your profile so you can continue working on it later. We will remind you of your interrupted application by email. The draft of your application will remain stored in your profile until you delete it yourself.
+
+As a job seeker without a JobCloud account, you can also use selected services (in particular job search, sending applications) without registering. When searching for a job, we store personal data as mentioned in Section F above. If you use the application function and apply via the JobCloud platforms for a job advertisement using JobCloud’s application form, you decide for yourself which personal data you provide for this purpose. Typically, these are first and last names, email address, address, phone number, profession and biographical information on CV and interests. In this case, JobCloud will store your data for six months.
+
+**Application for a published** **job advertisement** **by email**
+
+Job seekers can apply for a job via email directly on our platform. After clicking on the button ‘Write an email’, job seekers can fill out an online form (first name, last name, email address) with a personal message and with attachments (e.g. CV). Once the email has been successfully sent to the recruiter, job seekers receive a confirmation email with the content of sent email and the email address of the recruiter for further communication ow up. If you have a JobCloud account, we will store submitted applications in an application history visible to you in your profile for as long as your JobCloud account exists. For job seekers without a JobCloud account, JobCloud will store their data for six months.
+
+**Salary calculator**
+
+If you use the salary calculator function, we store data such as the job title, professional experience, industry, place of work, working hours, annual gross salary, age and other data that you enter. Although this information is technically linked to your user ID (internal JobCloud ID) if you have a JobCloud user account, the salary information is evaluated anonymously and used to improve our statistical salary calculator model and to provide you with more detailed information in the salary calculator.
+
+**Spotted – Digital Recruiting**
+
+Spotted – Digital Recruiting means that JobCloud analyses and evaluates your personal data, compares it with current job offers and suggests suitable job offers (e.g. by email, SMS or phone). Specific [Spotted Terms of Service](https://www.jobcloud.ch/c/de-ch/nutzungsbedingungen-spotted/) and a specific [Spotted Privacy Policy](https://www.jobcloud.ch/c/de-ch/datenschutzerklaerung-spotted/) apply in this regard.
+
+**User Support**
+
+If you contact our support team with your questions about our services using the [online contact form](https://www.jobs.ch/de/kontakt/) on our platforms, we will process your contact details, your name and the content of the message in order to respond to your request and improve our services.
+
+**5\. For marketing and market research**
+
+We use your contact information to send you information about job-related products and services or about job offers via our newsletter with tips on job search, applications and current information about the JobCloud platforms or by other means, e.g. by email, post, phone or SMS. You can object to this processing at any time in writing, by phone, by email or in any other way, in whole or in part, using the contact details mentioned in Section C above. Users with a JobCloud user account can also exercise the right to object to newsletters in their profile. You can also unsubscribe from newsletters and marketing emails at any time by clicking on the “unsubscribe” link provided in each email.
+
+Based on the information stored with us (profile data as well as first and third-party cookies), individual offers can be displayed to you on the JobCloud platforms or on other websites and social media pages. These may be offers that you can find directly on the JobCloud platforms or products and offers from third parties that may be of interest to you.
+
+We occasionally ask our users to participate in market research. Any additional personal data you provide will only be used as part of this market research with your consent.
+
+**6\. Cross-device personalization**
+
+If you use our services and log in to your JobCloud user account accordingly, we can associate your JobCloud user account with the device you are using and, depending on your settings in your profile and with regard to cookies, personalize your user experience and our offers on other devices that you use for our services (e.g. with regard to product recommendations and our offers in the Job Coach area on the JobCloud platforms).
+
+**7\. From job seekers in connection with company ratings**
+
+When you submit a company rating to the JobCloud platform, we store the following information: employee status (applicant, current employee, former employee), contract type (temporary, permanent, etc.), content of the review and the email address. The review will be displayed anonymously and treated confidentially. The email address is required so that we can contact you if questions arise about your review and to handle complaints related to your review. Your ratings and personal data will be deleted if you request the deletion or if the rated company has their profile deleted.
+
+**8\. For product development and improvement of our services**
+
+We use personal data that we receive directly from you or that is collected via cookies for analytical purposes in order to improve the user-friendliness and the functionality and quality of the JobCloud platforms.
+
+We use quantitative analysis and predictive models to gain data-driven insights to evaluate and improve our products and services for you. Personal data (e.g. a user ID) is only used to analyse the use of the JobCloud platforms by different groups of job seekers and to strategically plan the new products. The analysis does not focus on individual users but is only about recognizing patterns in general to create a new product or to enable business decisions about our products and services.
+
+JobCloud also presents third-party offers on the JobCloud platforms as well as in its emails and newsletters or provides links to third-party offers or websites (e.g. job offers from employers). By redirecting clicks or otherwise, we may track the way you use these links to improve our services and compile statistics.
+
+**9\. Use of personal data in connection with AI applications**
+
+We use personal data in connection with AI applications. For more information on this, please consult the section “HOW DOES JOBCLOUD USE YOUR DATA FOR AI APPLICATIONS/SYSTEMS?”
+
+**10\. Prevention of criminal offences, mediation and compliance with legal requirements**
+
+Your personal data may also be used to detect or prevent fraud or other illegal activities. Reports regarding illegal content can be made to JobCloud either via [https://www.jobs.ch/en/contact/](https://www.jobs.ch/de/kontakt/) [https://www.jobup.ch/en/contact/](https://www.jobup.ch/fr/contact/) or directly to the job advertisement via the button “Report this job”. For details on reporting and remedying illegal content, please refer to the  [Job Seeker Terms of Service](https://www.jobcloud.ch/c/de-ch/agb/#job-seekers). If you make use of your rights as a data subject, we process your personal data for the processing of these inquiries in compliance with the statutory processing and retention periods.
+
+**G. COOKIE AND TRACKING TECHNOLOGIES**
+
+JobCloud uses cookies and other similar tracking technologies, including third party technologies on the JobCloud platforms and the company’s apps, email communications and other online services. They are used to enable, improve, personalize and analyse the use of our services and for the purposes of personalized advertising. Our [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis) explains what these technologies are and why and how we use them, as well as your rights to control our use of these technologies.
+
+**H. CONDUCTING COMPETITIONS**
+
+We regularly run competitions. For this purpose, we only use personal data that we have collected specifically in the context of the competition and with the express consent of the participants (e.g. first and last name, contact details, address data). The respective terms and conditions of use and the respective privacy policy apply to the implementation of competitions and the processing of personal data and data retention in the context of competitions.
+
+**I. JOBCLOUD ON MOBILE DEVICES**
+
+We offer apps for various mobile devices, as well as a mobile-friendly version of our websites. These apps and mobile websites collect and process your personal data in the same way as the JobCloud platforms; this Privacy Policy applies. With your consent, we will send you push messages with information about your job search.
+
+**J. THIRD-PARTY OFFERS**
+
+JobCloud also presents third-party offers on the JobCloud platforms as well as in its emails and newsletters or provides links to third-party offers or websites (e.g. for webinar providers). JobCloud assumes no responsibility for the collection and processing of personal data by third parties and their services and applications. The relevant privacy policy of the third-party provider applies.
+
+**K. SOCIAL MEDIA PROFILES/PAGES**
+
+JobCloud operates social media profiles/pages to inform you about offers, events, services, promotions, competitions, news about the company and to interact with visitors to the social media profiles and our users. For details on data processing, please refer to our privacy policy on the respective social media platforms (Facebook, X, YouTube, Instagram, TikTok, LinkedIn).
+
+**L. TO WHOM DO WE DISCLOSE THE DATA AND IN WHICH COUNTRIES ARE THE RECIPIENTS?**
+
+Within the scope of our business activities and the purposes listed in this Privacy Policy, we also disclose personal data to third parties where permitted and where we deem it appropriate, either because they process it for us or because they wish to use it for their own purposes.
+
+**1\. Categories of recipients**
+
+**Submission of applications to or activation of profile data for business customers**
+
+If you apply for a job as a job seeker via the JobCloud platforms, we will forward your application to the relevant business client. If you have a registered account, on some of our platforms you can make the data stored in your JobCloud user account accessible to the business customer as described under the section “From job seekers with a JobCloud user account in connection with their JobCloud profile”, “Visibility of profile data”. The subsequent processing of your data by business customers is subject to the data protection regulations of the respective business customers. You are the independent controller of your personal data. For inquiries regarding the processing of your data (e.g. request for deletion of the data), please contact the respective business customer directly. The business customer is usually based in Switzerland, but we cannot rule out disclosure of your data by the business customer or access from abroad. Of course, JobCloud strives to protect your data as much as possible, in particular through contracts with business customers.
+
+**Providers**
+
+To provide our services, we use the following categories of service providers, among others: hosting providers, cloud service providers, providers of parsing and matching solutions, advertising service providers, tracking technology providers and social media platforms. Certain of our group companies act as our service providers. Our service providers are mainly processors and are therefore bound by data processing contracts to process your data confidentially and exclusively on behalf of JobCloud in compliance with suitable security measures. However, if they are responsible in exceptional cases, we will ensure that a transfer takes place within the scope of what is legally permitted.
+
+**Authorities and other parties in possible or actual legal proceedings**
+
+We transfer your personal data to authorities if we are requested to do so within the framework of our legal obligations or if it is necessary to assert our rights. In the event of legal proceedings (or imminent proceedings), if this is necessary to assert our rights, we will disclose the relevant personal data.
+
+**Purchasers or interested parties in the acquisition of JobCloud or business units of JobCloud**
+
+We disclose personal data to acquirers or interested parties in the acquisition of business units of JobCloud, insofar as this is necessary for the examination or implementation of corporate transactions such as company acquisitions, sales and mergers as well as for business continuation.
+
+**2\. Transfer abroad**
+
+Your personal data will usually be processed in Switzerland and in the EU countries. However, our recipients may be based worldwide and thus also outside Switzerland or the European Union. If your data is exceptionally processed outside Switzerland and the EU, it will mainly be processed in the USA and Serbia. In principle, we only transfer your personal data to recipients in countries for which the EU Commission and the Swiss Federal Council have decided that they have an adequate level of data protection. If, exceptionally, we transfer your personal data to a country without adequate legal data protection, we contractually oblige the recipient to comply with the applicable data protection (for this we use the revised standard contractual clauses of the European Commission, which can be found here: https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj? including legal adaptations for Switzerland), unless the recipient is already subject to a legally recognized set of rules to ensure data protection and we cannot rely on an exemption clause. An exception may apply in particular to legal proceedings abroad.
+
+**M. HOW DOES JOBCLOUD USE YOUR DATE FOR AI APPLICATIONS/SYSTEMS?**
+
+JobCloud uses artificial intelligence (AI) techniques in selected areas. This refers to systems and applications that work on the basis of training and not on the basis of human programming. They are thus able to recognize patterns or to create or change content. No AI systems prohibited within the meaning of the European AI Regulation are used. The output from AI systems is not used for automated decision-making in individual cases, including profiling within the meaning of Art. 21 CH FADP and Art. 22 EU GDPR for job seekers. We have regulated the use of AI within the framework of internal AI governance, weighing up opportunities and risks in advance and ensuring appropriate human supervision. If we offer dialogues with an AI, we make this clear and, if necessary, also point out possible errors.
+
+As it is important to us to keep up with technical progress in order to be able to offer you even more efficient and better services, we use selected personal data that you provide to us or that we collect from you – as described in this Privacy Policy – in order to (i) develop our own AI techniques, (ii) train, (iii) test and (iv) validate and (v) use. This means that we use AI, for example, to optimize your search results or to better understand which requirements are crucial for a job. Note that our AI techniques may be based on third-party AI systems. We carefully select such third parties and enter into appropriate data protection agreements. If you have any questions related to data processing via AI techniques or would like to exercise your rights, you can always contact us at the above-mentioned contact address. For information on your rights, please consult the section ” P. WHAT ARE YOUR RIGHTS?”.
+
+We currently use the AI techniques listed specifically below, where we use a private AI model with an AI environment built for JobCloud specifically and to be used exclusively by JobCloud.
+
+**1\. Recommender for job recommendations**
+
+We use your activity data (such as job views, bookmarking, sending application) to enhance job search and recommendations for you and other users of the JobCloud platforms through our recommender system. By analysing your interactions, we can tailor job recommendations to your preferences. The behavioural data is collected by cookies (for more information see the [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis)). We use the data obtained in this way exclusively to improve our statistical model and to display job recommendations tailored to your search behaviour and your interests online or, if you are a registered user, to send you an e-mail.
+
+**2\. Cover letter generator**
+
+When creating your cover letter, you can use a cover letter generator. For this purpose, your profile information and the details of the job advertisement are used, and a text is generated using generative artificial intelligence. We use a privacy-friendly product from Microsoft Azure OpenAI, which allows extended data protection and guarantees use on European servers in a secure IT environment. We do not analyse the content of the cover letter.
+
+**3\. Job matching**
+
+If you apply for the job advertisement of JobCloud customers via the JobCloud platforms, a comparison can be made between your application documents and the customer’s job advertisement if sufficient data is available for the analysis. We use our own matching technology developed at JobCloud for the comparison. We extract data from the application documents and/or, if access has been granted, the data from your profile and CV on the JobCloud platforms, and from the requirements of potential employers in pseudonymized form, which are then matched in a second step with the help of AI to enable a preliminary statement about the possible match.
+
+There is no automatic decision-making or profiling. The potential match statement is used by the business client to support the selection of suitable candidates for the advertised position but does not replace the decision to reject or hire the candidate by a human being.
+
+**N. DATA SECURITY**
+
+We use technical and organizational security measures to protect the managed data against accidental or intentional manipulation, loss, destruction or access by unauthorized persons in accordance with the current state of the art. The security procedures are continually enhanced as new technology develops.
+
+We use Google ReCAPTCHA to protect our websites against bots and spam software in the best possible way and to protect them from misuse by non-human visitors. In order to protect and optimize our services and to combat cyber-attacks, certain technical data is collected using cookies. Further information can be found in the [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis) at the end of this Privacy Policy.
+
+**O. HOW LONG DO WE KEEP YOUR DATA?**
+
+The personal data you have stored in your JobCloud user account will be available to you for the duration of the contract and will be stored by us for this period. We store the application data of job seekers without a JobCloud account for a period of 6 months.
+
+The personal data will be permanently and irrevocably deleted or anonymized if (i) you delete individual data or your profile yourself or instruct us accordingly or if the contract ends, i.e. if you or we terminate the contract, (ii) the 6-month period for job seekers without a JobCloud user account has expired and (iii) we do not need the data for the execution of the contract, we are not legally obliged to store it or we do not need it for the assertion, exercise or defence of legal claims or other overriding interests.
+
+Please note that for technical and/or organizational reasons, it may take a few days for your data to be permanently and irrevocably deleted.
+
+We use personal data that is not directly connected to your JobCloud user account for as long as this is necessary and we are entitled to do so. After this period, we will permanently and irrevocably delete or anonymize all your personal data. Specific information on deletion can also be found in the corresponding sections of this Privacy Policy.
+
+**P. WHAT ARE YOUR RIGHTS?**
+
+Within the scope of the data protection law applicable to you and to the extent provided for therein, you have the right to access, correction, and deletion, the right to restrict data processing and to object to our data processing, as well as to have certain personal data handed over for the purpose of being transferred to another entity (known as data portability). Insofar as you have given us your consent to process your personal data for certain purposes (e. g. when you register to receive newsletters), we process your personal data within the framework of and based on this consent, insofar as we have no other legal basis and we need it. Consent given can be revoked at any time, but this has no effect on data processing that has already taken place. Please note, however, that we reserve the right to enforce the limitations imposed by law, such as when we are obliged to retain or process certain data, have an overriding interest in doing so (as far as we may invoke it), or require the data to assert claims.
+
+Each person also has the right to enforce their claims in court or to lodge a complaint with the competent data protection authority. The responsible data protection authority in Switzerland is the Federal Data Protection and Information Commissioner ([http://www.edoeb.admin.ch](http://www.edoeb.admin.ch/)). To enforce your rights as a data subject, you can contact us at any time at the contact addresses given above.
+
+**JOB SEEKERS AND VISITORS FROM THE EU**
+
+To the extent applicable by law in the specific case, we comply with the requirements of the EU GDPR. The following information serves as a supplement to the Privacy Policy.
+
+**EU representative**
+
+The EU representative of JobCloud can be reached at the following contact details:
+
+JobCloud HR Tech GmbH  
+Jakov-Lind-Straße 2, staircase 1, 6th floor, Top 2A+B  
+1020 Vienna, Austria
+
+The data processing described herein for visitors and job seekers with and without a JobCloud user account from the EU is based on the following legal bases:
+
+* Visitors to the JobCloud platforms: legitimate interest and consent in case of acceptance of cookies
+* Creation of the JobCloud user account: fulfilment of contract and legal obligations as well as overriding interest
+* In connection with your JobCloud profile: performance of the contract and legal obligations as well as overriding interest
+* Provision of our services: performance of the contract and legal obligations as well as overriding interest
+* For marketing and market research: overriding interests and consent
+* For cross-device personalization: fulfilment of contract and overriding interest
+* In connection with company ratings: overriding interest and fulfilment of legal obligations
+* For product development and improvement of our services: overriding interest
+* For use of personal data in connection with AI applications: fulfilment of contract and overriding interest
+* For the prevention of crime, mediation and fulfilment of legal requirements: overriding interest and fulfilment of legal obligations
+* For specific services and/or products for which a specific privacy policy is provided, the legal bases listed therein apply.
+
+Zurich, October 2024  
 
 COOKIE NOTICE
 -------------
@@ -417,7 +543,7 @@ The use of functional cookies is necessary for our websites to work as well as p
 
 JobCloud uses marketing cookies to ensure that users get more relevant advertising messages by ensuring optimal targeting of the ads; we also use such cookies to measure the effectiveness of the ads.
 
-Find out more about the [tracking technologies](https://www.jobcloud.ch/wp-content/uploads/2024/06/JobCloud_Cookie-Notice_EN_03-2024_update-June.pdf) we use here.
+Find out more about the [tracking technologies](https://www.jobcloud.ch/wp-content/uploads/2024/10/JobCloud_Cookie-Notice_EN_update-10-2024.pdf) we use here.
 
 **How can you change your cookie settings?**
 
