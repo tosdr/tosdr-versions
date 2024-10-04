@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5b4231e05e50cd34c35d086dbb9ae75f
+b6a76b1abc911e8b42142bbd19ac7575
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![11 mm faceted round jade beads](https://sojourner.biz/images/cache/jade/JD0005.200.jpg)](https://sojourner.biz/beads/stone-a-l/jade/11-mm-faceted-round-jade-beads.html "11 mm faceted round jade beads")
+[![10 mm vintage Czech glass heart beads](https://sojourner.biz/images/cache/glass/GL0079.200.jpg)](https://sojourner.biz/beads/glass/10-mm-vintage-czech-glass-heart-beads.html "10 mm vintage Czech glass heart beads")
 
-#### [11 mm faceted round jade beads](https://sojourner.biz/beads/stone-a-l/jade/11-mm-faceted-round-jade-beads.html "11 mm faceted round jade beads")
+#### [10 mm vintage Czech glass heart beads](https://sojourner.biz/beads/glass/10-mm-vintage-czech-glass-heart-beads.html "10 mm vintage Czech glass heart beads")
 
-$65.00
+$5.00
 
 ### Best Sellers
 
