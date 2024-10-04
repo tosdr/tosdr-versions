@@ -14,7 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend/FTTAUQNCPJCWFMLE7MG47IHV5A/)
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-an-ode-to-lun-lun/3XKAOLSKP5BLZG2CANKCESJMYM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
