@@ -210,9 +210,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,23 +254,21 @@ Latest News
 
 [Japan's three major business lobbies submit policy requests to Ishiba](https://www.japantimes.co.jp/business/2024/10/04/business-lobbies-policy-requests/ "Japan's three major business lobbies submit policy requests to Ishiba")
 
-3 hours ago
+9 hours ago
 
 [EU presses ahead with Chinese EV tariffs after split vote](https://www.japantimes.co.jp/business/2024/10/04/eu-china-ev-tariffs/ "EU presses ahead with Chinese EV tariffs after split vote")
 
-4 hours ago
+9 hours ago
 
 [Japan says Paul Watson case 'nothing to do with whaling'](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/paul-watson-case-whaling/ "Japan says Paul Watson case 'nothing to do with whaling'")
 
-4 hours ago
+10 hours ago
 
 [Seven & I considering supermarket stake sale ahead of IPO, sources say](https://www.japantimes.co.jp/business/2024/10/04/seven-i-supermarket-unit/ "Seven & I considering supermarket stake sale ahead of IPO, sources say")
 
-4 hours ago
+10 hours ago
 
 [Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
