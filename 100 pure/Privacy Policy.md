@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                  
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                   
 
 My Tote
 -------
@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5757 reviews (5759)
+5760 reviews (5760)
 
 $16.00 $29.00
 
