@@ -1,36 +1,30 @@
 **\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **264**: **mysqli\_fetch\_assoc(): Couldn't fetch mysqli\_result**  
 **\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **326**: **mysqli\_free\_result(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **264**: **mysqli\_fetch\_assoc(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **326**: **mysqli\_free\_result(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **264**: **mysqli\_fetch\_assoc(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **326**: **mysqli\_free\_result(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **264**: **mysqli\_fetch\_assoc(): Couldn't fetch mysqli\_result**  
-**\[phpBB Debug\] PHP Warning**: in file **\[ROOT\]/phpbb/db/driver/mysqli.php** on line **326**: **mysqli\_free\_result(): Couldn't fetch mysqli\_result**  
    #БГКоноп Grysti - Правила                        
 
 * [Бързи връзки](#)
     
-    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=935e45230946bc283691d7f966fcb9af)
-    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=935e45230946bc283691d7f966fcb9af)
+    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=e28aff6f7a2803393528a94f9c5f7935)
+    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=e28aff6f7a2803393528a94f9c5f7935)
     
-    * [Търсене](https://grysti.com/community/search.php?sid=935e45230946bc283691d7f966fcb9af)
+    * [Търсене](https://grysti.com/community/search.php?sid=e28aff6f7a2803393528a94f9c5f7935)
     
-* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=935e45230946bc283691d7f966fcb9af "Често задавани въпроси")
-* [Правила](https://grysti.com/community/app.php/rules?sid=935e45230946bc283691d7f966fcb9af "Виж Правилата на този форум")
-* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=935e45230946bc283691d7f966fcb9af "Влез")
-* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=935e45230946bc283691d7f966fcb9af)
+* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=e28aff6f7a2803393528a94f9c5f7935 "Често задавани въпроси")
+* [Правила](https://grysti.com/community/app.php/rules?sid=e28aff6f7a2803393528a94f9c5f7935 "Виж Правилата на този форум")
+* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=e28aff6f7a2803393528a94f9c5f7935 "Влез")
+* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=e28aff6f7a2803393528a94f9c5f7935)
 * [](#)
 
-[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=935e45230946bc283691d7f966fcb9af "#БГКоноп Българският форум за отглеждане на канабис")
+[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=e28aff6f7a2803393528a94f9c5f7935 "#БГКоноп Българският форум за отглеждане на канабис")
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=935e45230946bc283691d7f966fcb9af) [Правила](https://grysti.com/community/app.php/rules?sid=935e45230946bc283691d7f966fcb9af)
-* [Търсене](https://grysti.com/community/search.php?sid=935e45230946bc283691d7f966fcb9af "Виж разширено търсене")
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=e28aff6f7a2803393528a94f9c5f7935) [Правила](https://grysti.com/community/app.php/rules?sid=e28aff6f7a2803393528a94f9c5f7935)
+* [Търсене](https://grysti.com/community/search.php?sid=e28aff6f7a2803393528a94f9c5f7935 "Виж разширено търсене")
 
 [![](https://grysti.com/community/mars-hydro.gif)](http://bit.ly/3akg4pC)
 
 **Ad blocker detected:** Our website is made possible by displaying online advertisements to our visitors. Please consider supporting us by disabling your ad blocker on our website.
 
-[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=935e45230946bc283691d7f966fcb9af "Close announcement")
+[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=e28aff6f7a2803393528a94f9c5f7935 "Close announcement")
 
 **Добре дошли! Моля запознайте се с нашите [ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ](https://grysti.com/community/viewtopic.php?f=2&t=309) и [УСЛОВИЯ ЗА ПОЛЗВАНЕ](https://grysti.com/community/viewtopic.php?f=2&t=310)  
 **преди да продължите!  
@@ -619,11 +613,11 @@
 
 [](https://facebook.com/grysticom/)[](https://www.instagram.com/bulgariancannabis)[](https://www.youtube.com/channel/UCApyxIGyKsO0HFMTqu8COeg)
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=935e45230946bc283691d7f966fcb9af)
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=e28aff6f7a2803393528a94f9c5f7935)
 * Часовете са според зоната UTC+03:00 Europe/Sofia
-* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=935e45230946bc283691d7f966fcb9af)
-* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=935e45230946bc283691d7f966fcb9af "Поверителност")
-* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=935e45230946bc283691d7f966fcb9af "Условия")
+* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=e28aff6f7a2803393528a94f9c5f7935)
+* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=e28aff6f7a2803393528a94f9c5f7935 "Поверителност")
+* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=e28aff6f7a2803393528a94f9c5f7935 "Условия")
 
 [](#)
 
