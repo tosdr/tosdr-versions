@@ -159,31 +159,25 @@ Audio
 MENU
 
 * [Accueil](https://www.rts.ch/entreprise/)
-* [L'offre](https://www.rts.ch/entreprise/l-offre-rts/)
-* [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
-* [Notre Rôle](https://www.rts.ch/entreprise/notre-role/)
+* [Qui nous sommes](https://www.rts.ch/entreprise/a-propos/)
+* [Offre](https://www.rts.ch/entreprise/l-offre-rts/)
 * [Coulisses](https://www.rts.ch/entreprise/coulisses-rts/)
-* [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
-* [FAQ](https://www.rts.ch/entreprise/vos-questions/)
-* [Contact](https://www.rts.ch/entreprise/contact/)
+* [Nous rejoindre](https://jobs.rts.ch/fr/emplois-carriere/)
 * [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
+* [Contact](https://www.rts.ch/entreprise/contact/)
 * [Accueil](https://www.rts.ch/entreprise/)
     
-    [L'offre](https://www.rts.ch/entreprise/l-offre-rts/)
+    [Qui nous sommes](https://www.rts.ch/entreprise/a-propos/)
     
-    [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
-    
-    [Notre Rôle](https://www.rts.ch/entreprise/notre-role/)
+    [Offre](https://www.rts.ch/entreprise/l-offre-rts/)
     
     [Coulisses](https://www.rts.ch/entreprise/coulisses-rts/)
     
-    [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
-    
-    [FAQ](https://www.rts.ch/entreprise/vos-questions/)
-    
-    [Contact](https://www.rts.ch/entreprise/contact/)
+    [Nous rejoindre](https://jobs.rts.ch/fr/emplois-carriere/)
     
     [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
+    
+    [Contact](https://www.rts.ch/entreprise/contact/)
     
 
 Partager
