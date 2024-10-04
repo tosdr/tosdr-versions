@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=c301ade56be2080be861b0265585f9b1)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=f662f031c7a0da9dd83d1eb55021414e)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -46,8 +46,8 @@ Tello Privacy and Cookie Policy
 
 Effective Date: October 1st, 2024  
   
-This privacy policy describes how Tello collects and uses the personal information you provide on the website and app: Tello.com, a service of Tello LLC.  
-The scope of this Privacy Policy encompasses all services, sites, brands, and applications owned by Tello LLC except where explicitly stated otherwise.  
+This privacy policy describes how tello.com collects and uses the personal information you provide on the website and app.  
+The scope of this Privacy Policy encompasses all services, sites, brands, and applications owned by Tello, LLC ("Tello"), except where explicitly stated otherwise.  
   
 At Tello we care about the privacy of our visitors and we are committed to protecting your private data at all times. This privacy policy describes how Tello collects and uses the personal information, why we collect it and how we use it for our web site: Tello.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
   
@@ -60,7 +60,7 @@ If you have questions or complaints regarding our privacy policy or practices, p
 Personal information we collect
 -------------------------------
 
-The data collected by tello.com is initially managed and processed by the owning company, Tello LLC.  
+The data collected by tello.com is initially managed and processed by the owning company, Tello, LLC ("Tello").  
   
 Personal information means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
   
@@ -274,7 +274,7 @@ Questions?
 
 If you wish to change any information you have made available when registering, or have questions about our Privacy Policy, you can contact us at:
 
-cu​st​om​er​se​rv​ic​e@​te​ll​o.​co​m​
+cus​tom​ers​erv​ice​@te​llo​.co​m​
 
   
   
