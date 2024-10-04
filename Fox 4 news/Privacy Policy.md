@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Texas sues TikTok over allegedly sharing minor's data](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/GettyImages-1230726785.jpg?ve=1&tl=1)
+ [![Fort Worth theology professor arrested on child pornography charge](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1)
 
- ![Texas sues TikTok over allegedly sharing minor's data](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/GettyImages-1230726785.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-sues-tiktok-ken-paxton-privacy-laws)
+ ![Fort Worth theology professor arrested on child pornography charge](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/charles-bellinger-child-porn-possession-charge-office-on-tcu-campus)
 
-### [Texas sues TikTok over allegedly sharing minor's data](https://www.fox4news.com/news/texas-sues-tiktok-ken-paxton-privacy-laws)
+### [Fort Worth theology professor arrested on child pornography charge](https://www.fox4news.com/news/charles-bellinger-child-porn-possession-charge-office-on-tcu-campus)
 
- [![Fort Worth man shot by nephew’s girlfriend, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
+ [![Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/Menendez-Brothers-1.jpg?ve=1&tl=1)
 
- ![Fort Worth man shot by nephew’s girlfriend, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-berry-street)
+ ![Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/592/333/Menendez-Brothers-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-could-erik-lyle-menendez-be-resentenced)
 
-### [Fort Worth man shot by nephew’s girlfriend, police say](https://www.fox4news.com/news/fort-worth-shooting-berry-street)
+### [Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://www.fox4news.com/news/menendez-brothers-could-erik-lyle-menendez-be-resentenced)
 
- [![Rapper, social media star Lucas Coly dies at age 27](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/recording-studio.jpg?ve=1&tl=1)
+ [![TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/terryon-thomas.jpg?ve=1&tl=1)
 
- ![Rapper, social media star Lucas Coly dies at age 27](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/recording-studio.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rapper-social-media-star-lucas-coly-dies)
+ ![TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/terryon-thomas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tiktok-mr-prada-terryon-thomas-dallas-baton-rouge)
 
-### [Rapper, social media star Lucas Coly dies at age 27](https://www.fox4news.com/news/rapper-social-media-star-lucas-coly-dies)
+### [TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://www.fox4news.com/news/tiktok-mr-prada-terryon-thomas-dallas-baton-rouge)
 
- [![Death toll rises above 200 one week after Helene decimates Southeast](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175494745-scaled-copy.jpg?ve=1&tl=1)
+ [![Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1460062358.jpg?ve=1&tl=1)
 
- ![Death toll rises above 200 one week after Helene decimates Southeast](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175494745-scaled-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-death-toll-200)
+ ![Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1460062358.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-verdict-tyre-nichols-memphis-officers)
 
-### [Death toll rises above 200 one week after Helene decimates Southeast](https://www.fox4news.com/news/hurricane-helene-death-toll-200)
+### [Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://www.fox4news.com/news/jury-verdict-tyre-nichols-memphis-officers)
 
- [![Frisco’s new Kaleidoscope Park opening with free events this weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/4497tz-kaleidoscope-park-grand-opening_00.00.32.16.jpg?ve=1&tl=1)
+ [![A wedding costs more than a mortgage in these cities, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/wedding-gfx.jpg?ve=1&tl=1)
 
- ![Frisco’s new Kaleidoscope Park opening with free events this weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/4497tz-kaleidoscope-park-grand-opening_00.00.32.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-kaleidoscope-park-grand-opening)
+ ![A wedding costs more than a mortgage in these cities, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/wedding-gfx.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wedding-costs-more-than-mortgage-cities-study)
 
-### [Frisco’s new Kaleidoscope Park opening with free events this weekend](https://www.fox4news.com/news/frisco-kaleidoscope-park-grand-opening)
+### [A wedding costs more than a mortgage in these cities, study finds](https://www.fox4news.com/news/wedding-costs-more-than-mortgage-cities-study)
 
 ###### [News](https://www.fox4news.com/news)
 
