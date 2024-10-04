@@ -424,11 +424,11 @@ Get started today,
 no credit card required.
 ========================
 
-[Create Account](https://proxy2.webshare.io/register/?source=footer-create-account)
+[Create Account](https://dashboard.webshare.io/register/?source=footer-create-account)
 
 [Talk to Sales](#)
 
-[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5802210174c495089655_Webshare%20Logo_white.svg)](#)[Buy fast & affordable proxy servers. Get 10 proxies today for free.](https://proxy2.webshare.io/register?source=footer_free_proxies_banner_register)
+[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5802210174c495089655_Webshare%20Logo_white.svg)](#)[Buy fast & affordable proxy servers. Get 10 proxies today for free.](https://dashboard.webshare.io/register?source=footer_free_proxies_banner_register)
 
 © Webshare Proxy
 
