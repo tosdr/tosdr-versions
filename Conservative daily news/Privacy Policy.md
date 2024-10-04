@@ -2,14 +2,14 @@ Thursday, October 3 2024
 
 Breaking News
 
+* [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
+* [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
+* [Justice Has Been Served. It Only Took 41 Years](https://www.conservativedailynews.com/2024/10/justice-has-been-served-it-only-took-41-years/)
+* [Mayorkas Bemoans Lack Of FEMA Cash For Hurricanes After Spending Nearly $1 Billion On Migrant Crisis](https://www.conservativedailynews.com/2024/10/mayorkas-bemoans-lack-of-fema-cash-for-hurricanes-after-spending-nearly-1-billion-on-migrant-crisis/)
+* [Gretchen Whitmer Poised To Sign Bill Taking Money Away From Family Caretakers To Pay Off Union Bosses](https://www.conservativedailynews.com/2024/10/gretchen-whitmer-poised-to-sign-bill-taking-money-away-from-family-caretakers-to-pay-off-union-bosses/)
 * [We Are Pro-Union, How About Pro-Consumer](https://www.conservativedailynews.com/2024/10/we-are-pro-union-how-about-pro-consumer/)
 * [CNN’s Elie Honig Says Jack Smith’s Evidence Brief Was Released In ‘Unusual’ Way](https://www.conservativedailynews.com/2024/10/cnns-elie-honig-says-jack-smiths-evidence-brief-was-released-in-unusual-way/)
 * [Pete Buttigieg Goes To Bat For Union That’s Shutting Down America’s Ports Over 77% Pay Raise](https://www.conservativedailynews.com/2024/10/pete-buttigieg-goes-to-bat-for-union-thats-shutting-down-americas-ports-over-77-pay-raise/)
-* [Judge Chutkan Releases Jack Smith’s Massive Brief Detailing Evidence Against Trump](https://www.conservativedailynews.com/2024/10/judge-chutkan-releases-jack-smiths-massive-brief-detailing-evidence-against-trump/)
-* [President Joe Biden’s Schedule for Thursday, October 3, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-3-2024/)
-* [President Biden Delivers Speech on Impacts from and Response to Helene – 10/3/24](https://www.conservativedailynews.com/2024/10/president-biden-delivers-speech-on-impacts-from-and-response-to-helene-10-3-24/)
-* [Israel Reportedly Warned Iran It Would Strike Nuclear Sites If It Was Attacked](https://www.conservativedailynews.com/2024/10/israel-reportedly-warned-iran-it-would-strike-nuclear-sites-if-it-was-attacked/)
-* [Ex-Federal Prosecutor Says He’s ‘Pretty Much Given Up Hope’ That Trump Will Be ‘Detained’ Before Election](https://www.conservativedailynews.com/2024/10/ex-federal-prosecutor-says-hes-pretty-much-given-up-hope-that-trump-will-be-detained-before-election/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,57 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-2.jpg)](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
+    
+    [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
+    
+    October 3, 2024
+    
 * [![Tim Walz liar](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
     
     [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/)
     
     October 2, 2024
     
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
-    
-    [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/)
-    
-    October 1, 2024
-    
 
 Recent Posts
 
+* [![Biden family corruption media news](https://www.conservativedailynews.com/wp-content/uploads/2023/06/04-chest-game-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
+    
+    [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
+    
+    October 3, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-2.jpg)](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
+    
+    [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
+    
+    October 3, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg093024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/justice-has-been-served-it-only-took-41-years/)
+    
+    [Justice Has Been Served. It Only Took 41 Years](https://www.conservativedailynews.com/2024/10/justice-has-been-served-it-only-took-41-years/)
+    
+    October 3, 2024
+    
+* [![Joe Biden Kamala Harris Helene response Ukraine](https://www.conservativedailynews.com/wp-content/uploads/2024/10/01-no-more-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/mayorkas-bemoans-lack-of-fema-cash-for-hurricanes-after-spending-nearly-1-billion-on-migrant-crisis/)
+    
+    [Mayorkas Bemoans Lack Of FEMA Cash For Hurricanes After Spending Nearly $1 Billion On Migrant Crisis](https://www.conservativedailynews.com/2024/10/mayorkas-bemoans-lack-of-fema-cash-for-hurricanes-after-spending-nearly-1-billion-on-migrant-crisis/)
+    
+    October 3, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/Gretchen-Whitmer-2.jpg)](https://www.conservativedailynews.com/2024/10/gretchen-whitmer-poised-to-sign-bill-taking-money-away-from-family-caretakers-to-pay-off-union-bosses/)
+    
+    [Gretchen Whitmer Poised To Sign Bill Taking Money Away From Family Caretakers To Pay Off Union Bosses](https://www.conservativedailynews.com/2024/10/gretchen-whitmer-poised-to-sign-bill-taking-money-away-from-family-caretakers-to-pay-off-union-bosses/)
+    
+    October 3, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/10/fmr-labor-sec-warns-port-strike-could-cause-extraordinary-consequences-for-economy-may-lead-to-court-action/)
+    
+    [Fmr Labor Sec Warns Port Strike Could Cause ‘Extraordinary Consequences’ For Economy, May Lead To Court Action](https://www.conservativedailynews.com/2024/10/fmr-labor-sec-warns-port-strike-could-cause-extraordinary-consequences-for-economy-may-lead-to-court-action/)
+    
+    October 3, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5631-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/we-are-pro-union-how-about-pro-consumer/)
     
     [We Are Pro-Union, How About Pro-Consumer](https://www.conservativedailynews.com/2024/10/we-are-pro-union-how-about-pro-consumer/)
@@ -138,45 +174,11 @@ Recent Posts
     
     October 3, 2024
     
-* [![Tim Walz gaffes debate knucklehead](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/knucklehead/)
-    
-    [Knucklehead](https://www.conservativedailynews.com/2024/10/knucklehead/)
-    
-    October 3, 2024
-    
-* [![pro-hamas protest college universities professors](https://www.conservativedailynews.com/wp-content/uploads/2024/05/mrz050524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/now-its-time-to-eliminate-tenure/)
-    
-    [Now It’s Time to Eliminate Tenure](https://www.conservativedailynews.com/2024/10/now-its-time-to-eliminate-tenure/)
-    
-    October 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Butcher-meat-food-220x150.jpg)](https://www.conservativedailynews.com/2024/10/let-the-butcher-help-cut-the-grocery-bill/)
-    
-    [Let the Butcher Help Cut the Grocery Bill](https://www.conservativedailynews.com/2024/10/let-the-butcher-help-cut-the-grocery-bill/)
-    
-    October 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/07/Animal-Facepalm.jpg)](https://www.conservativedailynews.com/2024/10/maryland-police-to-fork-over-more-than-2-million-back-pay-to-female-black-applicants-who-couldnt-pass-tests/)
-    
-    [Maryland Police To Fork Over More Than $2 Million Back Pay To Female, Black Applicants Who Couldn’t Pass Tests](https://www.conservativedailynews.com/2024/10/maryland-police-to-fork-over-more-than-2-million-back-pay-to-female-black-applicants-who-couldnt-pass-tests/)
-    
-    October 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg080423dAPR.jpg)](https://www.conservativedailynews.com/2024/10/cnns-elie-honig-says-jack-smiths-evidence-brief-was-released-in-unusual-way/)
-    
-    [CNN’s Elie Honig Says Jack Smith’s Evidence Brief Was Released In ‘Unusual’ Way](https://www.conservativedailynews.com/2024/10/cnns-elie-honig-says-jack-smiths-evidence-brief-was-released-in-unusual-way/)
-    
-    October 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Pete-Buttigieg.jpg)](https://www.conservativedailynews.com/2024/10/pete-buttigieg-goes-to-bat-for-union-thats-shutting-down-americas-ports-over-77-pay-raise/)
-    
-    [Pete Buttigieg Goes To Bat For Union That’s Shutting Down America’s Ports Over 77% Pay Raise](https://www.conservativedailynews.com/2024/10/pete-buttigieg-goes-to-bat-for-union-thats-shutting-down-americas-ports-over-77-pay-raise/)
-    
-    October 3, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [9mm Self-Defense Ammo: Top Picks for Maximum Stopping Power and Reliability](https://www.thegunpage.com/9mm-self-defense-ammo-top-picks-for-maximum-stopping-power-and-reliability/10610980)
+* [IWI US, Inc. Firearms Manufacturing Coming To Andersonville, TN](https://www.thegunpage.com/iwi-us-inc-firearms-manufacturing-coming-to-andersonville-tn/10610982)
 * [Ultimate Defense Technologies Gets a Warm Montana Welcome](https://www.thegunpage.com/ultimate-defense-technologies-gets-a-warm-montana-welcome/10610975)
 * [Sig MCX LT in Limited-Edition Tigerstripe from the Sig Shorts Program](https://www.thegunpage.com/sig-mcx-lt-in-limited-edition-tigerstripe-from-the-sig-shorts-program/10610977)
 * [Harris Imports Crime; Wants to Leave Americans Helpless](https://www.thegunpage.com/harris-imports-crime-wants-to-leave-americans-helpless/10610971)
@@ -185,8 +187,6 @@ Recent Posts
 * [TFB Behind the Gun #135: TriggrCon 2024 Wrap-Up with Dave Timm](https://www.thegunpage.com/tfb-behind-the-gun-135-triggrcon-2024-wrap-up-with-dave-timm/10610967)
 * [VP Debate: Contrast Was Clear on Second Amendment Views](https://www.thegunpage.com/vp-debate-contrast-was-clear-on-second-amendment-views/10610961)
 * [New: Gemtech Direct Thread Abyss, Neutron Suppressors](https://www.thegunpage.com/new-gemtech-direct-thread-abyss-neutron-suppressors/10610974)
-* [SIG Sauer To Open Jacksonville Arkansas Ammunition Center In October](https://www.thegunpage.com/sig-sauer-to-open-jacksonville-arkansas-ammunition-center-in-october/10610963)
-* [Wisconsin Junior Team Makes History, Wins National Trophy Infantry Team Match](https://www.thegunpage.com/wisconsin-junior-team-makes-history-wins-national-trophy-infantry-team-match/10610964)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
-* KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782448)
 * KayCee on [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/#comment-782447)
 * KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782446)
 * charles wilkins on [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/#comment-782444)
-* Carlo Morey on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782415)
 * Carmen Holmes on [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/#comment-782408)
 * Richard McDonough on [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/#comment-782382)
 * Stanley Warner on [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/#comment-782381)
 * Stanley Warner on [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/#comment-782380)
+* [Bill](http://conservativedailynews.com/) on [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/#comment-782365)
+* WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 
 [Close](#)
 
