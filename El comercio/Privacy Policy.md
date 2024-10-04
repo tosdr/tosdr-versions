@@ -31,1070 +31,922 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El BID aprueba nuevo préstamo para Ecuador
-==========================================
-
-El BID aprobó un préstamo para mejorar la integración regional entre Ecuador y Perú, beneficiando a las poblaciones fronterizas con mejoras viales y acceso a servicios.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El préstamo del BID de 150 millones de dólares tiene un plazo de amortización de 24 años y medio, un período de gracia de seis años. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/dinero-1.jpg)
-
-El **Banco Interamericano de Desarrollo** (BID) aprobó un nuevo préstamo para **Ecuador**. Este crédito busca impulsar la integración regional entre la **Sierra centro-sur del Ecuador** y el norte de **Perú**. Así como el mejoramiento de la calidad de vida de las poblaciones fronterizas[.](https://www.iadb.org/es/como-trabajar-juntos/sector-publico/prestamos-de-inversion "https://www.iadb.org/es/como-trabajar-juntos/sector-publico/prestamos-de-inversion")
-
-### Más noticias
-
-* [FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?](https://www.elcomercio.com/actualidad/negocios/ecuador-credito-fmi-bajo-programa-resiliencia-sostenibilidad.html "FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?")
-* [Ecuador recibirá un nuevo préstamo millonario para finanzas sostenibles](https://www.elcomercio.com/actualidad/negocios/ecuador-prestamo-millonario-caf-congreso.html "Ecuador recibirá un nuevo préstamo millonario para finanzas sostenibles")
-* [Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales](https://www.elcomercio.com/actualidad/guayas-ya-tiene-financiamiento-para-adecentar-vias-rurales.html "Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales")
-
-El monto de este nuevo crédito es de 150 millones de dólares. Este financiamiento será bajo la modalidad de Préstamo de Inversión Específica (ESP), informó este 2 de octubre de 2024, el BID.
-
-El crédito busca mejorar la calidad de vida de las poblaciones fronterizas, con beneficios directos para más de 10 800 habitantes del cantón **Chinchipe**. Así como 114 300 personas en **Zamora Chinchipe**.
-
-El Proyecto de Integración Fronteriza contempla la mejora de un tramo de 54.57 km, del **Eje Vial No. 4 Bellavista-Zumba-La Balsa**, uno de los pocos que aún no está pavimentado.
-
-Este tramo forma parte de la Red Vial Estatal. Su rehabilitación se enfocará en mejorar la eficiencia y seguridad vial, así como en garantizar acceso a servicios de salud y educación para las poblaciones cercanas.
-
-Además, se fortalecerá la capacidad institucional del **Ministerio de Transporte y Obras Públicas (MTOP**). Esto, a través de capacitaciones técnicas y mejoras en la gestión de riesgos, incluyendo la implementación de **Sistemas de Alerta Temprana** y estudios de inteligencia artificial para prevenir deslizamientos.
-
-Este proyecto no solo aborda infraestructura y transporte, sino también incluye acciones para promover la igualdad de género. Principalmente, la creación de pasantías para mujeres en carreras de Ciencia, Tecnología, Ingeniería y Matemática (STEM, por sus siglas en inglés). Además, apoyo para empresas lideradas por mujeres en el sector vial, señaló el BID.
-
-El préstamo del BID de 150 millones tiene un plazo de amortización de 24 años y medio, un período de gracia de seis años. La tasa de interés se calculará en función del SOFR (Secured Overnight Financing Rate).
-
-El SOFR es publicado diariamente por la Reserva Federal de Nueva York y se considera una tasa transparente y confiable porque está basada en transacciones reales de gran volumen, lo que la hace menos vulnerable a manipulaciones.
-
-Ministerio de Turismo se pronunció sobre las actividades turísticas por el estado de excepción
-==============================================================================================
-
-El Ministerio de Turismo aseguró que las actividades se mantendrán sin interrupciones pese al estado de excepción en varias provincias.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de turismo en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/turismo.png)
-
-A través de un comunicado este jueves 3 de octubre de 2024, el **Ministerio de Turismo** informó que las a**ctividades turísticas en Ecuador** continuarán con normalidad, pese a la emisión del Decreto Ejecutivo 410 por parte del Gobierno Nacional, que establece el **estado de excepción** en varias provincias y cantones del país.
-
-### Más noticias
-
-* [Gobierno de Ecuador firmará contratos con petrolera argentina](https://www.elcomercio.com/actualidad/negocios/ecuador-contratos-petroleo-argentina.html "Gobierno de Ecuador firmará contratos con petrolera  argentina")
-* [Daniel Noboa fue incluido en la lista de la revista Time100 Next](https://www.elcomercio.com/actualidad/politica/daniel-noboa-incluido-en-lista-de-revistaa-100timenext.html "Daniel Noboa fue incluido en la lista de la revista Time100 Next")
-* [¿Habrá toque de queda con el estado de excepción en Quito?](https://www.elcomercio.com/actualidad/quito/habra-toque-de-queda-con-estado-de-excepcion-en-quito.html "¿Habrá toque de queda con el estado de excepción en Quito?")
-
-Esta medida tiene como objetivo reforzar la seguridad en las **zonas afectadas**, pero no impactará el flujo turístico ni las **operaciones relacionadas**.
-
-Zonas incluidas en el estado de excepción
------------------------------------------
-
-El estado de excepción abarca las provincias de **Guayas, Los Ríos, Manabí, Santa Elena, El Oro, Azuay, el Distrito Metropolitano de Quito en Pichincha, y el cantón Camilo Ponce Enríquez.**
-
-Además, la restricción de la libertad de tránsito se aplicará en **20 cantones específicos**, incluyendo localidades como **Durán, Quevedo, Montalvo, Mocache, y La Joya de los Sachas**. En estas zonas, la movilidad estará limitada desde las **22:00 hasta las 05:00, durante 60 días**.
-
-Excepciones y continuidad de operaciones
-----------------------------------------
-
-El comunicado del Ministerio de Turismo aclara que los viajeros que transiten por las **zonas bajo estado de excepción** para llegar a aeropuertos o trasladar pasajeros podrán hacerlo sin restricciones, siempre que presenten la **documentación adecuada**.
-
-> Atención📌Las actividades turísticas se desarrollan con normalidad. [#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw)🇪🇨 [pic.twitter.com/563O5PDMRr](https://t.co/563O5PDMRr)
-> 
-> — Ministerio de Turismo del Ecuador 🇪🇨 (@TurismoEc) [October 3, 2024](https://twitter.com/TurismoEc/status/1841911313632518154?ref_src=twsrc%5Etfw)
-
-Las actividades comerciales y operativas del sector turístico también continuarán sin interrupciones, destacando que no se ha implementado un **toque de queda en las ciudades de Quito y Guayaquil**, ni en los principale**s destinos turísticos del país**.
-
-Ecuador sigue enfocado en **garantizar la seguridad y bienestar de los turistas**, manteniendo así su oferta turística de manera estable y segura.
-
-Daniel Noboa decreta estado de excepción para Quito y seis provincias
----------------------------------------------------------------------
-
-A partir de este 3 de octubre de 2024, rige un nuevo estado de excepción decretado por el Gobierno del presidente **Daniel Noboa**.
-
-Según el **Decreto Ejecutivo 410** se declara estado de excepción en las siguientes provincias:
-
-* Guayas
-* Los Ríos
-* Manabí
-* Orellana
-* Santa Elena
-* El Oro
-
-Además, se incluye al **Distrito Metropolitano de Quito** de la provincia de Pichincha, y al cantón Camilo Ponce Enríquez de la provincia de Azuay.
-
-Para esta declaratoria, el Gobierno se fundamenta en **“el incremento de hostilidades, el cometimiento de delitos e intensidad de la presencia prolongada de grupos armados organizados“**.
-
-Este estado de excepción tendrá una vigencia de **60 días a partir de este 3 de octubre**.  
-
-¿Cuándo sale la lista de la Selección de Ecuador para eliminatorias?
-====================================================================
-
-Sebastián Beccacece dio a conocer la fecha y hora en la que dará la lista de la Selección de Ecuador y detalles sobre esta.
----------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, en rueda de prensa previo a eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000137335.jpg)
-
-La **Selección de Ecuador** disputará la novena y décima fecha de eliminatorias rumbo al Mundial 2026 ante Paraguay y Uruguay. **Sebastián Beccacece**, DT de la Tri, anunció cuándo dará la lista de convocados en una charla con los medios de comunicación.
-
-Desde la Casa de la Selección, el estratega se refirió a los futuros rivales, el estilo de juego del equipo y la futura convocatoria. Allí, este manifestó que la convocatoria saldrá el **viernes 4 de octubre del 2024 a las 11:00.**
-
-### Más noticias:
-
-* [La Selección de Ecuador a la espera del ‘toque de Campana’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-campana-convocatoria-eliminatorias.html "La Selección de Ecuador a la espera del ‘toque de Campana’")
-* [David Cabezas, el héroe de El Nacional que pide selección](https://www.elcomercio.com/deportes/futbol/david-cabezas-el-heroe-de-el-nacional-que-pide-seleccion.html "David Cabezas, el héroe de El Nacional que pide selección")
-* [La defensa de la Selección de Ecuador es la mejor valorada](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-defensas.html "La defensa de la Selección de Ecuador es la mejor valorada")
-
-Para la nueva llamada, el entrenador del combinado nacional señaló que cambiará la dinámica con relación a la que formó parte de su debut. Este ya no pedirá **30 jugadores** en total, sino **25** y, como en la fecha previa, sí habrá cinco invitados[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-Con respecto a los nombres que estarán en la Selección de Ecuador, **Beccacece** también detalló que se espera que estos arriben a la concentración desde el primer día. A su vez, el tiempo estimado de llegada para los últimos seleccionados está entre el domingo 6 y el lunes 7 de octubre.
-
-¿Habrá cambios en la convocatoria de la Selección de Ecuador?
--------------------------------------------------------------
-
-El **DT Sebastián Beccacece** también habló sobre eventuales cambios en función de la nómina que se presentó para la fecha previa. El estratega hizo énfasis en la reducción de futbolistas y en que, de darse modificaciones, estas serán mínimas.
-
-“**Es posible que se incorporen dos o tres futbolistas. No será un cambio numeroso, pero sí van a haber menos al ser una convocatoria de 25. Tras ello, la lista más o menos se mantendrá**“, sostuvo el director técnico.
-
-Con respecto a las **posiciones**, este fue específico en el caso del arco. Allí, este apuntó que la base de tres goleros se mantiene, pero uno de los invitados estará disponible en dicho sector de la cancha.
-
-Los partidos de Sebastián Beccacece con la Selección de Ecuador
----------------------------------------------------------------
-
-**Sebastián Beccacece** debutó en la séptima fecha de eliminatorias sudamericanas ante **Brasil**. En aquel compromiso, la Selección de Ecuador cayó por un marcador de 1-0 ante la escuadra carioca en Curitiba.
-
-En su segundo compromiso tras reemplazar a Félix Sánchez, el entrenador argentino y **la Tri** se enfrentaron a **Perú**. Allí, la escuadra de la mitad del mundo se impuso por la mínima diferencia gracias a un gol de **Enner Valencia.**
-
-Dentro de las eliminatorias rumbo al Mundial 2026, la **Selección de Ecuador** se encuentra en zona de clasificación. El cotejo está en la cuarta posición y cuenta con once puntos.
-
-Mónica Palencia solicitó que el juicio político sea presencial
-==============================================================
-
-Mónica Palencia atraviesa un juicio político en la Asamblea Nacional.
----------------------------------------------------------------------
-
-![Mónica Palencia asistió a la Comisión de Fiscalización, el 30 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/monica-juicio.jpg)
-
-El juicio político a la ministra del Interior, **Mónica Palencia**, está en curso en la Asamblea Nacional. Este jueves, 3 de septiembre de 2024, la **Comisión de Fiscalización y Control Político** se reunió de forma virtual.
-
-La delegación del **Legislativo** está en la etapa de sustanciación de las pruebas. Palencia reaccionó a la convocatoria en línea.
-
-### Más noticias
-
-* [Mónica Palencia habló sobre la reducción de homicidios intencionales entre 2023 y 2024](https://www.elcomercio.com/actualidad/seguridad/monica-palencia-reduccion-homicidios-intencionales-2023-2024.html "Mónica Palencia habló sobre la reducción de homicidios intencionales entre 2023 y 2024")
-* [Juicio político a Mónica Palencia se retomó en la Asamblea, este 30 de septiembre](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-asamblea-30-septiembre.html "Juicio político a Mónica Palencia se retomó en la Asamblea, este 30 de septiembre")
-* [Henry Kronfle dejará a la Asamblea Nacional con temas por resolver](https://www.elcomercio.com/actualidad/politica/henry-kronfle-dejara-asamblea-nacional-temas-importantes.html "Henry Kronfle dejará a la Asamblea Nacional con temas por resolver")
-
-Mónica Palencia y el Juicio Político
-------------------------------------
-
-La Ministra del Interior, quien ya acudió a la Asamblea este lunes, 30 de septiembre, este jueves aseguró que ella ha dado la cara en el proceso. Lo dijo en una rueda de prensa, en el Palacio de Carondelet.
-
-En la reunión, en la que se definió el cronograma tentativo del juicio, Palencia fue cuestionada por no acudir. Sin embargo, minutos después de iniciada la sesión, ella llegó.
-
-En la Comisión, ella aseguró que el juicio político se está dando con violación a todos sus derechos. “Pero, no es el daño a **Mónica Palencia**, que ha vivido por fuera del servicio público 60 años. Es el daño que se hace al Estado ecuatoriano, a la seguridad del país, al principio de legalidad”.
-
-Los proponentes del juicio político a la Ministra del Interior de Ecuador son los asambleístas **Leonardo Berrezueta y Paola Cabezas**.
-
-A decir de **Palencia**, la virtualidad es una desventaja por cuestiones como que la interpelante interviene de forma simultánea. Eso, a diferencia de lo que se le ha permitido a ella, indicó.
-
-La Comisión de Fiscalización
-----------------------------
-
-Este jueves, en la reunión virtual compareció la ministra de Trabajo, Ivonne Núñez, quien indicó que conoce a Palencia como una profesional del **Derecho** y, a su vez, desde la cátedra universitaria.
-
-**Núñez** destacó la labor de Palencia, entre estas, develar al país y al mundo el comportamiento arbitrario de quienes, en su momento, estuvieron al frente del Consejo de la Judicatura. En ese entonces, dijo, con **Gustavo Jalkh** a la cabeza.
-
-La siguiente sesión en el proceso de **juicio político** está prevista para este viernes, 4 de octubre de 2024. Se practicarán pruebas. Se prevé que sea presencial.
-
-Una misa para bendecir a las mascotas se realizará en Quito el 4 de octubre de 2024
-===================================================================================
-
-La ceremonia se cumplirá en una iglesia icónica de la capital.
---------------------------------------------------------------
-
-![Este 4 de octubre de 2024 se realizará una misa para bendecir a las mascotas. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T134102.879.jpg)
-
-Una **misa** para bendecir a las **mascotas** se realizará en **Quito** el 4 de octubre de 2024. La ceremonia se cumplirá en una iglesia icónica de la capital.
-
-La **tradición** se realiza en el marco del **Día Mundial de los Animales**. 
-
-### Más noticias:
-
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html")
-* [Los gatos de diseño sin pelo y su lenta agonía](https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html "https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html")
-* [Los gatos también ‘lloran’ a sus muertos](https://www.elcomercio.com/narices-frias/gato-muerte-duelo-animal-compania-estudio.html "https://www.elcomercio.com/narices-frias/gato-muerte-duelo-animal-compania-estudio.html")
-
-**¿Cuándo se celebra el Día Mundial de los Animales?**
-------------------------------------------------------
-
-Cada 4 de octubre se celebra el **Día Mundial de los Animales**, una fecha que promueve la defensa y el bienestar de todas las especies. 
-
-Esta conmemoración, instaurada en 1931 durante un congreso de la **Organización de las Naciones Unidas para la Agricultura y la Alimentación** (FAO) en Florencia, Italia, busca crear conciencia sobre la importancia de proteger la fauna y la flora del planeta.
-
-El **Día Mundial de los Animales** tiene un enfoque particular en la conservación de especies en peligro de extinción y en la lucha contra el maltrato animal. 
-
-Durante esta jornada, diversas organizaciones, activistas y ciudadanos se movilizan para realizar actividades de sensibilización, educación y recaudación de fondos. 
-
-Las campañas abarcan desde la protección de hábitats naturales hasta la promoción de adopciones responsables en refugios de animales.
-
-**Bendición de mascotas en honor a San Francisco de Asís**
-----------------------------------------------------------
-
-El acto religioso se realiza por el Día Mundial de los Animales en honor a San Francisco de Asís, quien es patrono de los animales. La ceremonia suele ser corta. Uno de los padres que preside el evento litúrgico es el encargado de lanzar el agua bendita sobre las mascotas.
-
-Según el cronograma, la **bendición** se cumplirá a las 15:00, en la **Iglesia de San Francisco**, en el Centro Histórico de Quito. En años anteriores, los fieles tutores acudieron con perros, gatos y hasta gallos.
-
-Hezbolá afirmó matar a 17 soldados israelíes este jueves
-========================================================
-
-El Ejército de Israel se limitó a anunciar la muerte de otro soldado, que perdió la vida "en combate".
-------------------------------------------------------------------------------------------------------
-
-![La gente se reúne en el centro cultural iraní durante una ceremonia en recuerdo del líder de Hezbolá, Hassan Nasrallah, en Quetta, Pakistán, el 3 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/Hezbola-efe.jpg)
-
-El grupo chií libanés [Hezbolá](https://www.elcomercio.com/actualidad/mundo/hezbola-dice-disparo-misil-balistico-contra-sede-mosad-tel-aviv.html "https://www.elcomercio.com/actualidad/mundo/hezbola-dice-disparo-misil-balistico-contra-sede-mosad-tel-aviv.html") afirmó que mató a un **total de 17 soldados israelíes** durante la jornada del jueves, marcada por nuevos enfrentamientos en la frontera y las dificultades para las tropas de Israel de avanzar en el sur del Líbano.
-
-### Más noticias
-
-* [Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv](https://www.elcomercio.com/actualidad/mundo/hezbola-dice-disparo-misil-balistico-contra-sede-mosad-tel-aviv.html "Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv")
-* [Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán")
-* [El Hezbolá y la muerte de su líder Hassan Nasralá](https://www.elcomercio.com/actualidad/mundo/hezbola-muerte-lider-hassan-nasrala.html "El Hezbolá y la muerte de su líder Hassan Nasralá")
-
-La sala de operaciones de Hezbolá indicó en un comunicado que pudo **confirmar a través de “fuentes fiables sobre el terreno”** que los ataques **lanzados por la agrupación** a lo largo del jueves acabaron con la vida de “17 oficiales y soldados del enemigo sionista”.
-
-Por su parte, el **Ejército de Israel se limitó a anunciar la muerte de otro soldado**, que perdió la vida “en combate” el miércoles mientras participaba en la **ofensiva terrestre en el sur del Líbano,** por lo que el saldo de muertos entre las filas israelíes asciende a 9 desde la madrugada del martes.
-
-Tras la muerte de los primeros ocho soldados, el primer ministro de Israel, **Benjamín Netanyahu**, aseguró que el país se encuentra “en medio de una dura guerra contra el eje del mal de Irán”. Subrayó que devolverá a sus casas a los alrededor de **60 000 israelíes que fueron evacuados** del norte de Israel por los ataques de Hizbulá.
-
-La formación chií aseguró hoy que ha “estado repeliendo todos los intentos de las **fuerzas de élite del enemigo israelí** de avanzar en múltiples frentes en el sur del Líbano”, desde donde Hizbulá ha disparado artillería, cohetes, misiles e incluso ha plantado dispositivos para que exploten al paso de los soldados de Israel.
-
-El grupo ya avanzó anteriormente que mató a **varios israelíes durante la jornada,** en la que los efectivos del Estado judío han tratado de “infiltrarse” en **varios puntos del Líbano,** como en el cementerio la aldea sureña de Yaroun, donde la formación instaló un dispositivo que explotó al paso de los uniformados.
-
-Hasta el momento, la poca información que trascendió de la línea de frente la proporcionó Hizbulá, cuya especialidad es el **combate sobre terreno y a corta distancia,** mientras que Israel ha seguido bombardeando ampliamente las zonas del sur del Líbano con el pretexto de destruir la infraestructura del grupo armado. 
-
-Liga de Quito sumó su cuarto fracaso en el 2024
-===============================================
-
-Liga de Quito vive una temporada en la que los buenos resultados han estado lejos de su alcamce.
-------------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi se lamenta la eliminación de Liga de Quito en la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ldu_fracaso_1.jpg)
-
-**Liga de Quito** sumó su cuarto fracaso en la temporada 2024. La eliminación en los cuartos de final de la Copa Ecuador a manos de El Nacional los dejó sin opciones de seguir en la competencia. 
-
-Al inicio de año la expectativa en Liga de Quito era distinta por ser los **campeones de la Liga Pro y de la Copa Sudamericana**, con un plantel que fue dirigido por el argentino Luis Zubeldía, actualmente en el São Paulo de Brasil. 
-
-### Más noticias:
-
-* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
-* [La Selección de Ecuador a la espera del ‘toque de Campana’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-campana-convocatoria-eliminatorias.html "La Selección de Ecuador a la espera del ‘toque de Campana’")
-* [Joel Ordóñez fue clave para Brujas en la Champions League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-champions-club-brujas.html "Joel Ordóñez fue clave para Brujas en la Champions League")
-
-Con la salida de Esteban Paz de la presidencia de la Comisión Especial de Fútbol, el entrenador también se marchó, al igual que el argentino Mauricio Martínez y el peruano Paolo Guerrero, claves en el 2023. 
-
-Los hinchas albos miran con preocupación los **resultados obtenidos en el 2024** en el que han tenido dos entrenadores: primero se sentó en la zona técnica el español Josep Alcácer, y actualmente el argentino Pablo ‘Vitamina’ Sánchez. 
-
-El único torneo en el que **Liga sigue con opciones es en la segunda etapa de la Liga Pro**. Con 16 puntos comparte el primer lugar de la tabla de posiciones con Independiente del Valle y Orense. 
-
-La única alternativa de **disputar el título de la Liga Pro es ganando la segunda etapa**. Si se cumple ese panorama se medirá ante Independiente del Valle en partidos de ida y vuelta. 
-
-Primer fracaso: Copa Libertadores
----------------------------------
-
-Con un equipo armado para llegar lejos, los blancos quedaron **emparejados en el grupo D** junto a Junior de Colombia, Botafogo de Brasil y Universitario de Perú. 
-
-En la cancha los resultados no fueron los esperados y quedaron eliminados en la fase de grupos por detrás de los colombianos y brasileños. 
-
-De local vencieron a Botafogo (1-0), perdieron con Junior (0-1) y le ganaron a Universitario (2-0); mientras que de visita perdieron ante Universitario (2-1) y Botafogo (2-1) y empataron con Junior (1-1).
-
-El tercer puesto le **alcanzó para avanzar a los play-off** de los octavos de final de la Copa Sudamericana.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/ldu_fracaso_4-1024x683.jpg)
-
-Foto: API.
-
-Segundo fracaso: primera etapa de la Liga Pro
----------------------------------------------
-
-Los 30 puntos que los universitarios alcanzaron en la primera etapa de la Liga Pro fueron insuficientes para ganarla. 
-
-Se quedaron a **cinco de Independiente del Valle, el ganador**; y a uno de Barcelona Sporting Club, el segundo ubicado. 
-
-Su campaña se resumió en **nueve victorias, tres empates y tres derrotas**. Anotaron 27 goles y recibieron 17 para un gol diferencia positivo de +10. 
-
-Tercer fracaso: Copa Sudamericana 
-----------------------------------
-
-El premio consuelo a escala internacional fue avanzar a los play-off de los octavos de final de la Copa Sudamericana. 
-
-Always Ready de Bolivia fue un duro rival. En la ida en el Rodrigo Paz Delgado el **marcador fue 3-0 en favor de los ecuatorianos** con tantos de Alex Arce, Ricardo Adé y Jhojan Julio. 
-
-La revancha en el **Municipal de El Alto fue complicada y terminó 3-1** para los locales. El tanto de Lisandro Alzugaray fue clave para sellar el paso a los octavos de final. 
-
-En esa instancia Lanús de Argentina, **actualmente en las semifinales**, pegó desde el primer partido en Quito ganando 1-2. 
-
-En la revancha los argentinos fueron contundentes para derrotar a los albos 3-1 y concretar el definitivo 5-2, con lo que se marcó su eliminación. 
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/ldu_fracaso_3-1024x683.jpg)
-
-Foto: API.
-
-Cuarto fracaso: Copa Ecuador 
------------------------------
-
-El último fracaso fue la **eliminación de la Copa Ecuador** en la instancia de los cuartos de final. 
-
-El Nacional apostó a una férrea defensa y a la intervención del VAR que anuló un gol de Liga por una clara mano de Ezequiel Piovi, y un penal por una falta inexistente en el área roja. 
-
-En los penales la figura de **David Cabezas se agrandó para atajar los lanzamientos** de Leonel Quiñónez y Lucas Piovi para sentenciar el 1-3 para los militares. 
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/ldu_fracaso_2-1024x683.jpg)
-
-Foto: API.
-
-Bonus: Recopa Sudamericana
---------------------------
-
-En el 2023, **LDU derrotó 4-3 en penales a Fortaleza de Brasil** en el estadio Domingo Burgueño Miguel en Maldonado, Uruguay, y logró el segundo título de la Copa Sudamericana y el quinto internacional en su historia. 
-
-Con ese título jugó la **Recopa Sudamericana ante Fluminense**, club al que le había ganado la Copa Libertadores en 2008 y la Copa Sudamericana en 2009. 
-
-Pero en el 2024 los brasileños se tomaron la revancha y **ganaron con un marcador global de 2-1**, marcando el inicio de la temporada con un resultado que no estaba en los planes de los universitarios. 
-
-Además, sentó un primer antecedente negativo en la gestión de Isaac Álvarez en la presidencia, y de Alcácer como entrenador. 
-
-No te pierdas – El Confesionario
---------------------------------
-
-Chelsea vuelve a la carga en Conference League
-==============================================
-
-Un nuevo reto se presenta para el Chelsea FC de Moisés Caicedo en un torneo internacional, esta vez en la Conference League
----------------------------------------------------------------------------------------------------------------------------
-
-![Chelsea, de Moisés Caicedo, juega la Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-2.jpg)
-
-El **Chelsea**, donde milita el talentoso ecuatoriano **Moisés Caicedo**, vuelve a la cancha este 3 de octubre de 2024.
-
-Los ‘Blues’ recibirán al **KAA Gent** de Bélgica en el **Stamford Bridge**, en un partido crucial de la Conference League que comenzará a las 14:00 (hora de Ecuador).
-
-### Más noticias:
-
-* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
-* [¿Cuándo juega el Chelsea ante Brighton?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-brighton-moises-caicedo.html "¿Cuándo juega el Chelsea ante Brighton?")
-* [Chelsea golea en la Carabao Cup sin Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-golea-en-la-carabao-cup-sin-moises-caicedo.html "Chelsea golea en la Carabao Cup sin Moisés Caicedo")
-
-El ecuatoriano Moisés Caicedo estará entre los alternantes, en el cotejo de este 3 de octubre del 2024.
-
-Conference League
------------------
-
-Este torneo presenta un formato renovado, convirtiendo la fase de grupos en una liga única de 36 equipos.
-
-Cada equipo se enfrentará a seis rivales diferentes, jugando tres partidos en casa y tres de visitante. Los ocho mejores avanzarán directamente a los octavos de final, mientras que los que terminen entre el noveno y el vigésimo cuarto lugar se enfrentarán en eliminatorias de play-offs.
-
-Moisés Caicedo entre los mimados
---------------------------------
-
-**Moisés Caicedo** se encuentra en un momento destacado de su carrera con el Chelsea.
-
-Bajo la dirección de **Enzo Maresca,** el mediocampista ecuatoriano ha logrado deshacerse del peso del alto precio que se pagó por él, más de 140 millones de dólares.
-
-Su rendimiento ha impresionado tanto a la afición como a su entrenador, quien lo calificó como un “jugador top”.
-
-En una reciente victoria por 4-2 ante el Brighton, exclub de **Caicedo**, el técnico no escatimó elogios, destacando su contribución al juego del equipo.
-
-**Joao Félix**, compañero de equipo, también reveló que Caicedo es uno de los favoritos de **Maresca**, reafirmando su importancia dentro del vestuario.
-
-Hasta ahora, Caicedo ha disputado ocho partidos en la temporada 2023/24, destacándose en la Premier League y la Conference League, donde además debutó en competiciones europeas.
-
-Su capacidad para recuperar balones y su conexión con los delanteros han sido fundamentales para el estilo de juego del **Chelsea.**
-
-La afición espera ansiosa el partido de hoy, donde Moisés Caicedo buscará seguir brillando y contribuir al éxito del Chelsea en este nuevo formato de la **Conference League.**
-
-> 🔵 COME ON CHELSEA! 🔵[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#UECL](https://twitter.com/hashtag/UECL?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YeKxyM3kde](https://t.co/YeKxyM3kde)
-> 
-> — Chelsea FC (@ChelseaFC) [October 3, 2024](https://twitter.com/ChelseaFC/status/1841897440380661923?ref_src=twsrc%5Etfw)
-
-Dictan prisión por extorsionar a su ‘ex’ por fotos íntimas
-==========================================================
-
-El procesado fue puesto en libertad hasta que un Tribunal dictó la condena. Ahora, la Policía Nacional debe ubicarlo para que vaya a prisión
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![El delito de extorsión se sanciona con penas de prisión que van de tres a cinco años.](https://www.elcomercio.com/wp-content/uploads/2024/10/prision.jpg)
-
-La **Fiscalía General del Estado** (FGE) informó sobre el **proceso llevado a cabo en Pichincha** en la Corte Nacional de Justicia.
-
-### Más noticias
-
-* [Daniel Noboa decreta estado de excepción para Quito y seis provincias](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-decreta-estado-de-excepcion-quito-y-seis-provincias-camilo-ponce-enriquez.html "Daniel Noboa decreta estado de excepción para Quito y seis provincias")
-* [Cortes de luz en Quito desde el mediodía de este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-mediodia-jueves-3-de-octubre.html "Cortes de luz en Quito desde el mediodía de este jueves 3 de octubre")
-* [Dos choques se registraron en Quito este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/choques-quito-florida-colon-jueves-3-de-octubre.html "Dos choques se registraron en Quito este jueves 3 de octubre")
-
-En el **Tribunal de Casación de Pichincha**, por unanimidad, se admitió el pedido de Fiscalía y declaró la **existencia del delito de extorsión.**
-
-En este proceso se condenó a **Raúl Martillo Tapia** a siete años de prisión por ese delito.
-
-Lo que se conoce del caso
--------------------------
-
-En agosto de 2029, Isabella N. denunció que su expareja, Raúl Martillo, **la había extorsionado** durante siete años; esto es, desde antes que ella cumpliera 18 hasta los 24 años.
-
-El sentenciado **le exigía 1 500 dólares** a cambio de no publicar sus fotos íntimas en redes sociales. Él fue detenido en flagrancia el mismo día que se presentó la denuncia.
-
-En esta investigación también se descubrió que **el sujeto había enviado videos sexuales** usando **imágenes de la denunciante.**
-
-El proceso
-----------
-
-Una vez que concluyó la instrucción fiscal, **el juez a cargo del caso** llamó a juicio al implicado, pero no consideró agravantes las pruebas presentadas por la Fiscalía **ni ratificó prisión preventiva**. Esto permitió que el denunciado quedara en libertad.
-
-Durante la audiencia del juicio, el Tribunal que conoció la causa **ratificó la inocencia del procesado** y la Sala Penal de la Corte Provincial del Guayas falló nuevamente a su favor.
-
-Sin embargo, un Tribunal de Casación, basado en las pruebas que presentó la Fiscalía, consideró que **existió una indebida aplicación** de la norma en la sentencia de absolución y **lo condenó a siete años** de prisión.
-
-Tras esta resolución, la **Policía Nacional deberá localizar al imputado** para que cumpla la pena. Además, el sentenciado deberá **pagar una multa equivalente a 12 salarios básicos** unificados y una reparación integral de **5 000 dólares a su expareja** sentimental.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): Tribunal de Casación de la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) declara culpable de [#Extorsión](https://twitter.com/hashtag/Extorsi%C3%B3n?src=hash&ref_src=twsrc%5Etfw) a procesado por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw). Deberá pagar 5.000 dólares a su expareja como reparación integral.  
->   
-> Más información⬇️[https://t.co/CpreDOmnZK](https://t.co/CpreDOmnZK) [pic.twitter.com/d2ouiEPFFm](https://t.co/d2ouiEPFFm)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 30, 2024](https://twitter.com/FiscaliaEcuador/status/1840784813713736077?ref_src=twsrc%5Etfw)
-
-Lo que dicta la ley
--------------------
-
-El **Código Orgánico Integral Penal** (COIP) sanciona el delito de extorsión con **penas de prisión** que van de tres a cinco años.
-
-Este delito se da cuando una persona obliga a otra, **mediante intimidación** o violencia, a cometer un acto en perjuicio de su patrimonio o el de alguien más, **a cambio de su beneficio personal**.
-
-Universidades de Ecuador suben posiciones en ranking QS 2025
-============================================================
-
-Universidades de Ecuador se destacan en el ranking QS World University 2025. La USFQ y la ESPOL, ingresan al top 50 de la región.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Las universidades ecuatorianas tuvieron una mejor clasificación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Universidades-Ecuador-ranking.jpg)
-
-El **ranking QS World University 2025** evaluó a 437 universidades de la región y clasifica a 23 instituciones ecuatorianas. Entre ellas, 13 lograron subir posiciones, mientras que solo dos descendieron. La mejora de **Ecuador** se debe, en gran parte, a su notable avance en cinco indicadores fundamentales: Reputación Académica, Reputación de Empleadores, Citas por Artículo, Artículos por Facultad e Impacto Web[.](https://es.wikipedia.org/wiki/Ranking_Acad%C3%A9mico_de_las_Universidades_del_Mundo "https://es.wikipedia.org/wiki/Ranking_Acad%C3%A9mico_de_las_Universidades_del_Mundo")
-
-### Más noticias
-
-* [Marcha de profesores y alumnos de universidades públicas de Argentina](https://www.elcomercio.com/actualidad/mundo/marcha-profesores-alumnos-universidades-publicas-argentina.html "Marcha de profesores y alumnos de universidades públicas de Argentina")
-* [Ecuatorianos entre 30 y 50 años pueden aplicar a beca para universidad en Estados Unidos](https://www.elcomercio.com/actualidad/ecuador/ecuatorianos-entre-30-y-50-anos-pueden-aplicar-a-beca-para-universidad-en-estados-unidos.html "https://www.elcomercio.com/actualidad/ecuador/ecuatorianos-entre-30-y-50-anos-pueden-aplicar-a-beca-para-universidad-en-estados-unidos.html")
-
-Las universidades de Ecuador en el ranking
-------------------------------------------
-
-El ranking QS **World University** 2025 revela un notable avance de las universidades de Ecuador en América Latina. Ecuador se ha convertido en un referente en la región gracias al desempeño de sus universidades en el último ranking QS World University 2025. Según los resultados publicados el 3 de octubre de 2024, el país logró mejorar sus posiciones, especialmente en áreas clave como la investigación académica y la reputación internacional.
-
-La Universidad San Francisco de Quito (USFQ), que ocupa el puesto 45, y la Escuela Superior Politécnica del Litoral (ESPOL), en el lugar 50, lideran el avance de Ecuador en el panorama educativo de América Latina.
-
-El vicepresidente sénior de QS, Ben Sowter, destacó la importancia de estos resultados, subrayando que la calidad de la investigación en Ecuador ha sido determinante para el ascenso en el ranking. La Universidad UTE, por ejemplo, produce investigaciones influyentes que han mejorado significativamente la reputación del país a nivel internacional. Esta institución ocupa el segundo lugar en Citaciones por artículo a nivel regional, demostrando el impacto de las investigaciones que se generan en Ecuador.
-
-**Universidades ecuatorianas en el top 200**
-
-| **Rango 2025** | **Clasificación 2024** | **Institución** |
-| --- | --- | --- |
-| 45  | 52  | Universidad San Francisco de Quito (USFQ) |
-| 50  | 60  | Escuela Superior Politécnica del Litoral (ESPOL) |
-| 88  | 97  | Universidad Pontificia Católica del Ecuador (PUCE) |
-| 100 | 124 | Universidad de Especialidades Espíritu Santo |
-| 116 | 117 | Escuela Politécnica Nacional |
-| 120 | 122 | Universidad de Las Américas (UDLA) Ecuador |
-| 143 | 171-180 | Universidad de Cuenca |
-| 181-190 | 171-180 | Universidad Central del Ecuador |
-
-Esta tabla refleja la posición de las universidades ecuatorianas en el ranking QS World University 2025 y su respectiva clasificación en 2024.
-
-Investigación y reputación académica en ascenso
------------------------------------------------
-
-Las instituciones ecuatorianas han centrado sus esfuerzos en mejorar la calidad de la investigación y en fortalecer su impacto a nivel internacional. **La USFQ y la ESPOL,** que lideran en dos de los indicadores QS, han demostrado una gran capacidad para atraer a empleadores y generar una red internacional de investigación sólida. Estas universidades no solo destacan por su infraestructura y calidad docente, sino también por su contribución a la ciencia y al desarrollo tecnológico en la región.
-
-El ranking también muestra que la reputación académica es el indicador que más ha mejorado en Ecuador. En total, **19 universidades del país subieron posiciones** en este criterio, lo que refleja el creciente reconocimiento de las instituciones ecuatorianas por parte de académicos internacionales. La Universidad Pontificia Católica del Ecuador (PUCE), que ocupa el puesto 88, es un claro ejemplo de esta tendencia, liderando en el país en términos de reputación académica.
-
-La mejora en el número de citas por artículo también ha sido destacada, con un 83% de las universidades de Ecuador subiendo en este indicador. Esto significa que los **trabajos de investigación** producidos en el país están siendo cada vez más reconocidos y referenciados por otros académicos, lo que contribuye a su visibilidad y prestigio en el ámbito internacional.
-
-Desafíos y perspectivas para el futuro
---------------------------------------
-
-A pesar de los avances logrados, las universidades ecuatorianas enfrentan algunos desafíos en ciertos indicadores, como el nivel de personal académico con doctorado. En este rubro, la Universidad de Especialidades Espíritu Santo es la mejor posicionada del país, ubicándose en el puesto 90, mientras que ninguna otra institución ecuatoriana figura entre las 100 mejores en este aspecto. Sin embargo, esto no ha frenado el crecimiento general del sistema educativo ecuatoriano, que sigue apostando por la mejora continua en áreas clave.
-
-**Ranking QS World University: América Latina y el Caribe 2025 – Top 10**
-
-| **Rango 2025** | **Clasificación 2024** | **Institución** | **Ubicación** |
-| --- | --- | --- | --- |
-| 1   | 1   | Universidad de São Paulo | Brasil |
-| 2   | 2   | Universidad Pontificia Católica de Chile (UC) | Chile |
-| 3   | 3   | Universidad Estadual de Campinas (Unicamp) | Brasil |
-| 4   | 4   | Tecnológico de Monterrey | México |
-| 5   | 8   | Universidad Federal de Río de Janeiro | Brasil |
-| 6   | 5   | Universidad de Chile | Chile |
-| 7   | 6   | Universidad de los Andes | Colombia |
-| 8   | 10  | UNESP | Brasil |
-| 9   | 7   | Universidad Nacional Autónoma de México (UNAM) | México |
-| 10  | 9   | Universidad de Buenos Aires (UBA) | Argentina |
-| 45  | 52  | Universidad San Francisco de Quito (USFQ) | Ecuador |
-
-Esta tabla refleja las clasificaciones de las universidades líderes en América Latina y el Caribe en el ranking QS 2025, junto con la posición de la Universidad San Francisco de Quito (USFQ).
-
-Sheinbaum promete estilo propio y conciliación en su primera conferencia ‘mañanera’
-===================================================================================
-
-La presidenta de México dedicó su primer mensaje a medios a la masacre de más de 300 estudiantes el 2 de octubre de 1968
-------------------------------------------------------------------------------------------------------------------------
-
-![La presidenta de México Claudia Sheinbaum, habla este jueves, durante una conferencia de prensa en Palacio Nacional de la Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/Claudia-Sheinbaum-Mexico-efe.jpg)
-
-La presidenta de México, [Claudia Sheinbaum,](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html") delineó su estilo de comunicación “especial” frente al de su predecesor, **Andrés Manuel López Obrador,** y algunas prioridades para el inicio de su mandato, que promete conciliación y un giro “propio”, en su primera conferencia matutina.
-
-### Más noticias
-
-* [Claudia Sheinbaum asume como la primera mujer presidenta de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html")
-* [Claudia Sheinbaum anuncia reestructura del Gobierno mexicano](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html")
-* [El México que deja López Obrador y recibe Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/lopez-obrador-despide-mexico-claudia-sheinbaum-asume-presidencia.html "https://www.elcomercio.com/actualidad/mundo/lopez-obrador-despide-mexico-claudia-sheinbaum-asume-presidencia.html")
-
-La mañanera del pueblo, legado del expresidente López Obrador (2018-2024), comenzó a las 7:30, luego de la reunión del Gabinete de Seguridad de Sheinbaum.
-
-Tras unas horas de asumir el cargo como la **primera mujer mandataria de México**, dedicó su primer mensaje a medios a la masacre de **más de 300 estudiantes el 2 de octubre de 1968**, lo que describió como una “obligación” personal, por ser “hija del 68”.
-
-“Yo tenía 6 años solamente, pero para nosotros en l**a familia fue algo que vivimos personalmente**”, narró, pues su madre, Annie Pardo, formó parte del movimiento como profesora del Instituto Politécnico Nacional (IPN).
-
-Sheinbaum calificó como **“triunfo de ese movimiento”** la victoria electoral en 2018 de López Obrador, “que recupera justicia y derechos” para los mexicanos.
-
-Por ello, la secretaria de Gobernación, Rosa Icela Rodríguez, leyó una disculpa pública “a nombre del Estado mexicano a todos los familiares que perdieron a alguien el 2 de octubre”.
-
-Además, la consejera jurídica de la Presidencia, **Ernestina Godoy,** leyó el primer decreto del Gobierno de Sheinbaum, publicado este miércoles en el Diario Oficial de la Federación (DOF), que reconoce el suceso como “un crimen de lesa humanidad”.
-
-Estilo de comunicación especial
--------------------------------
-
-Sheinbaum precisó que seguirá teniendo **invitados en su conferencia matutina**, donde informará de lunes a viernes sobre temas particulares de su Administración con una sección de preguntas de la prensa al final, al igual que su predecesor, quien realizó más de **1 400 de estos ejercicios de “transparencia”**.
-
-“El día de mañana, por ejemplo, vamos a tener las **iniciativas constitucionales** y de ley que vamos a enviar al Congreso para los derechos de las mujeres”, adelantó.
-
-No obstante, Sheinbaum comentó que las “mañaneras” ahora se van a “desarrollar de una manera especial”, con nuevas y diferentes secciones dependiendo del día de la semana.
-
-Lunes será vida saludable
--------------------------
-
-Los lunes habrá un segmento dedicado a la vida saludable para concientizar sobre los principales problemas de salud y alimentarios.
-
-Martes humanismo
-----------------
-
-Martes serán de **humanismo mexicano y memoria histórica.**
-
-Miércoles detector de mentiras
-------------------------------
-
-En tanto, los miércoles presentará un “**detector de mentiras**”, similar al “¿Quién es quién en las mentiras de la semana?” de su predecesor para **combatir las “noticias falsas”**, pero ahora con la participación de la ciudadanía.
-
-Jueves mujeres en la historia
------------------------------
-
-Los jueves, la sección estará dedicada a las mujeres en la historia, y los viernes se llamará “suave patria”, donde se hablará de temas que “hacen sentir orgullosos de ser mexicanos”, señaló Sheinbaum.
-
-Transformación con estilo propio
---------------------------------
-
-En la sección de preguntas, Sheinbaum respondió a una **carta de la excandidata opositora Xóchitl Gálvez,** quien el martes le hizo un llamado a poner fin a la “polarización” en el país.
-
-La presidenta mostró una encuesta del diario El Universal, donde **73 % de la población opinó** que los comentarios de Sheinbaum **ayudan a unir a los mexicanos**, cuatro puntos arriba del 69 % que alcanzó el expresidente López Obrador, a quien también superó en porcentaje de votos.
-
-“Hay una **gran mayoría que dijo en su momento que quiere que continúe la transformación**, a nuestro estilo propio, obviamente, y con los énfasis que vamos a dar, pero evidentemente continúa la transformación, y vamos a lograr la paz y la seguridad en México”, aseveró la mandataria.
-
-Además, Sheinbaum reiteró su posición ante la **reforma judicial recientemente aprobada** para elegir por voto popular a los jueces, y llamó a los trabajadores judiciales a finalizar el paro.
-
-Asimismo, remarcó su postura en la **relación diplomática con España**, donde pidió a la Corona “recapacitar” sobre la disculpa pública solicitada por el expresidente que también sostiene Sheinbaum.
-
-Con preguntas de seis periodistas elegidos por la presidenta, la primera mañanera de Sheinbaum duró poco menos de una hora y media, a diferencia de las conferencias de López Obrador que llegaban hasta tres horas en su último año de mandato
-
-El Nacional se ‘burla’ de Liga de Quito en redes sociales
-=========================================================
-
-El Nacional se clasificó para las semifinales de la Copa Ecuador y se enfrentará contra Mushuc Runa.
-----------------------------------------------------------------------------------------------------
-
-![Charles Vélez celebra la clasificación de El Nacional en la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/cm_el_nacional_1.jpg)
-
-El miércoles 2 de octubre de 2024 será recordado por los hinchas de El Nacional como **el día que eliminaron a Liga de Quito de la Copa Ecuador** en penales y con una torrencial lluvia que cayó en toda la ciudad.
-
-Con el 0-0 en los 90 minutos y el 3-1 desde desde los 12 pasos consumado, los **festejos empezaron en la cancha con los jugadores** que se abrazaban, elevaban sus manos al cielo, daban gracias a Dios y otros, como Mario Pineida, con toda la euforia del caso mandaba sus dardo a Liga de Quito.
-
-### Más noticias:
-
-* [Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-salinas-cancha-sintetica.html "Deportivo Quito visitará al Santa Elena en una cancha sintética en Salinas")
-* [La Selección de Ecuador sub-15 presentó sus convocados](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-convocados-sudamericano.html "La Selección de Ecuador sub-15 presentó sus convocados")
-* [La defensa de la Selección de Ecuador es la mejor valorada](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-defensas.html "La defensa de la Selección de Ecuador es la mejor valorada")
-
-“**Te di la vuelta olímpica en 2020 y ahora dejamos afuera a estos perros**“, declaró el deportista tras la victoria en plena transmisión de la cadena dueña de los derechos de televisión de la Copa Ecuador.
-
-En los camerinos la celebración siguió entre cánticos y una **dedicatoria especial para el arquero David Cabezas**, que fue reconocido como el mejor jugador del partido al atajar dos lanzamientos penales y ser clave para mantener el 0-0 en el tiempo reglamentario.
-
-Pero eso no era todo. Un nuevo invitado a la celebración del ‘Nacho’ estaba por entrar en **escena para seguir calentado el frío ambiente** de la noche capitalina, aumentando la alegría de los suyos y la molestia de sus rivales deportivos.
-
-El community manager de los ‘Puros criollos’ se puso su frac y generó un ida y vuelta en la cuenta oficial de X, con sus publicaciones.
-
-Los posteos del CM de El Nacional
----------------------------------
-
-“**Pasó el equipo grande**. 😉” fue el primer mensaje con el que abrió los festejos en redes sociales, una vez que Cabezas detuvo el lanzamiento de Piovi.
-
-Las reacciones fueron inmediatas y el posteo en un poco más de 17 horas alcanzó las 143 mil reproducciones, 237 mensajes, 449 retuits, 2 000 corazones y 23 veces fue guardado.
-
-> Pasó el equipo grande. 😉
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [October 3, 2024](https://twitter.com/elnacionalec/status/1841632158609260915?ref_src=twsrc%5Etfw)
-
-En la previa se dio a conocer que en este encuentro solo se permitiría el ingreso de hinchas locales, pero no se cumplió del todo y el CM no desaprovechó el momento.
-
-“**Gracias Hinchada. Jamás jugamos solos, JAMÁS**“, fue el nuevo mensaje con un video de un grupo de hinchas que también festejaron la clasificación a las semifinales.
-
-“**PD: Sigue lloviendo en Ponceano 🙂**“, fue el tercer mensaje con el que cerró la noche el CM, acompañado de un video en donde se observa el último penal y la excelente reacción de Cabezas y la posterior celebración con sus compañeros.
-
-Para ponerse más ‘picante’, acompañó a su texto con el hashtag “**#LaCapitalEsNuestra** 🔴”, generando nuevas reacciones, principalmente de los hinchas universitarios que sacaban pecho de sus logros internacionales.
-
-> Buenas noches BiTricampeones.  
-> A dormir felices, sonriendo. A dormir ganadores.  
-> Nos vemos el sábado, que no falte nadie.  
->   
-> PD: Sigue lloviendo en Ponceano 🙂[#LaCapitalEsNuestra](https://twitter.com/hashtag/LaCapitalEsNuestra?src=hash&ref_src=twsrc%5Etfw) 🔴[pic.twitter.com/V1wmRdEtH9](https://t.co/V1wmRdEtH9)
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [October 3, 2024](https://twitter.com/elnacionalec/status/1841675819992715726?ref_src=twsrc%5Etfw)
-
-“**Buen día!!! Hermosa mañana, ¿verdad?** 😉”, fue el prime tuit con el que empezó este miércoles. La imagen de Charles Vélez arrodillado sobre el césped del Rodrigo Paz acompaña el texto con el que siguen los festejos.
-
-> Buen día!!! Hermosa mañana, ¿verdad? 😉 [pic.twitter.com/GJDkW0HoGt](https://t.co/GJDkW0HoGt)
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [October 3, 2024](https://twitter.com/elnacionalec/status/1841792833688109479?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
-
-FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?
-==============================================================
-
-El FMI analiza otorgar a Ecuador un crédito del programa de Resiliencia y Sostenibilidad. El segundo préstamo solicitado este 2024.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Julie Kozack es la portavoz del FMI. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/10/Julie-Kozack.jpg)
-
-El **Fondo Monetario Internacional** (FMI) confirmó este jueves 3 de octubre de 2024 que las autoridades ecuatorianas consideran solicitar un **nuevo crédito de resiliencia** y sostenibilidad. El desembolso podría concretarse en 2025.
-
-### Más noticias
-
-* [Gobierno de Daniel Noboa hizo un pago al fondo de salud del IESS](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-pago-fondo-salud-iess.html "Gobierno de Daniel Noboa hizo un pago al fondo de salud del IESS")
-* [Fechas y condiciones para que el Ecuador reciba el crédito del FMI](https://www.elcomercio.com/actualidad/negocios/ecuador-recibira-1500-millones-credito-fmi-2024-condiciones.html "https://www.elcomercio.com/actualidad/negocios/ecuador-recibira-1500-millones-credito-fmi-2024-condiciones.html")
-* [FMI aprueba crédito de 4 000 millones de dólares para Ecuador, estas son las claves](https://www.elcomercio.com/actualidad/negocios/fmi-aprueba-credito-4000-millones-ecuador.html "https://www.elcomercio.com/actualidad/negocios/fmi-aprueba-credito-4000-millones-ecuador.html")
-
-El FMI está evaluando la posibilidad de otorgar a Ecuador un crédito bajo el programa Servicio de Resiliencia y Sostenibilidad (SRS o RSF en inglés). Así lo informó **Julie Kozack**, directora del departamento de comunicaciones del organismo.
-
-En una conferencia de prensa realizada el 3 de octubre de 2024 en Washington, Kozack confirmó que **Ecuador** es elegible para este **tipo de financiamiento**. Además, señaló que las autoridades ecuatorianas están considerando esta opción.
-
-“Ecuador es elegible para acceder a los fondos de resiliencia y sostenibilidad y las autoridades están evaluando esta posibilidad de un posible acuerdo de RSF”, señaló Kozack, en una rueda de prensa.
-
-La portavoz recordó que el directorio del FMI le aprobó a Ecuador en mayo pasado un nuevo programa de crédito de 48 meses para permitir el acceso a un préstamo de 4 000 millones de dólares, con el desembolso inmediato de 1 000 millones.
-
-Este acuerdo se firmó bajo el Servicio Ampliado del Fondo (SAF). Este programa tiene como objetivo “apoyar las políticas de Ecuador para estabilizar la economía, salvaguardar la dolarización y sentar las bases para un crecimiento sostenible e inclusivo”[.](https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional "https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional")
-
-Kozack no dio más detalles sobre el **posible nuevo crédito** que solicitará el Gobierno de Daniel Noboa. Además, señaló que las previsiones de crecimiento de Ecuador se actualizarán en las próximas reuniones anuales que celebrará el FMI a finales de octubre. Se conoce que el desembolso podría concretarse en 2025.
-
-Por su parte, el Ministerio de Economía y Finanzas (MEF) señaló que **Ecuador** está evaluando si un potencial crédito, bajo la modalidad del Servicio de Resiliencia y Sostenibilidad, se alínea a los intereses del país.
-
-Además, agregó que El RSF ofrece **financiamiento asequible a largo plazo** a países que ejecuten reformas para reducir los **riesgos para la estabilidad** futura de la balanza de pagos, incluidos los relacionados con el cambio climático.
-
-Desde su creación, el Directorio Ejecutivo del FMI ha aprobado 20 acuerdos bajo la modalidad RSF.
-
-Estudio indica que consumir café después de los 60 puede llevar al ‘deterioro cognitivo’ 
-=========================================================================================
-
-La investigación abarcó a más de 8 mil adultos mayores del Biobanco del Reino Unido.
-------------------------------------------------------------------------------------
-
-![El café es una bebida ampliamente consumida en todo el mundo. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cafe-deterioro-cognitivo.jpg)
-
-El **café**, una bebida ampliamente consumida en todo el mundo, es conocido por su contenido en **cafeína y antioxidantes** que pueden ofrecer diversos beneficios a la salud. No obstante, su efecto en la **función cognitiva de los adultos mayores** ha sido un tema de debate entre los expertos. 
-
-### Más noticias
-
-* [El café y sus secretos revelados junto a curiosidades sorprendentes](https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html") 
-* [Celebra el Día del Café con tips para elegir uno de calidad](https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-cafe-variedad-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-cafe-variedad-efemeride.html")
-
-**Riesgos del consumo excesivo de café** 
------------------------------------------
-
-Un nuevo estudio reveló que, aunque puede tener aspectos positivos, su **consumo excesivo** podría **acelerar el deterioro de las capacidades cognitivas**, como la **memoria y el razonamiento**. 
-
-**Resultados del estudio** 
----------------------------
-
-El informe, presentado el 30 de julio de 2024 en la **Conferencia Internacional de la Asociación de Alzheimer** (AAIC), y divulgado por el portal ‘Medscape’, examinó la relación entre el **consumo de café y té** con la **inteligencia fluida**, la cual está vinculada a habilidades como el **razonamiento abstracto y el reconocimiento de patrones**. 
-
-**Efectos en la inteligencia fluida** 
---------------------------------------
-
-Los resultados indicaron que **aquellos que beben más de tres tazas de café al día** muestran una **disminución más acelerada en estas capacidades** a lo largo del tiempo. 
-
-**Declaraciones del experto** 
-------------------------------
-
-El doctor **Kelsey R. Sewell**, del **Advent Health Research Institute** en Orlando y líder del estudio, afirmó en una entrevista con **Medscape Medical News**: “El consumo moderado de café no parece tener efectos negativos, pero **excederse puede no ser recomendable**”. Esta advertencia se basa en un análisis que incluyó a más de 8 mil personas mayores de 60 años. 
-
-**Diferencias entre tipos de inteligencia** 
---------------------------------------------
-
-La **inteligencia fluida** hace referencia a la **capacidad de resolver problemas nuevos**, adaptarse a situaciones y razonar de manera abstracta. A diferencia de la **inteligencia cristalizada**, que se basa en conocimientos acumulados, **la fluida tiende a declinar con el paso de los años**. 
-
-**Comparación de hábitos de consumo** 
---------------------------------------
-
-El estudio mostró que **las personas que consumen altas cantidades de café tienen un declive más pronunciado** en esta habilidad en comparación con quienes lo hacen de manera moderada o no lo consumen. 
-
-**Metodología de la investigación** 
-------------------------------------
-
-La investigación abarcó un **seguimiento a más de 8 mil adultos mayores del Biobanco del Reino Unido** durante casi nueve años. A lo largo de este tiempo, los participantes fueron sometidos a **pruebas que evaluaban su memoria y capacidad de razonamiento**. 
-
-**Conclusiones del estudio** 
------------------------------
-
-El estudio concluyó que **aquellos que consumían entre una y tres tazas de café al día** mantenían **mejores habilidades cognitivas**, mientras que quienes bebían cuatro o más tazas presentaban un **mayor deterioro**. Curiosamente, los que nunca bebieron café también mostraban una **mayor preservación de su capacidad cognitiva** en comparación con los grandes consumidores. 
-
-**Impacto del té en la cognición** 
------------------------------------
-
-En cuanto al **té**, los resultados mostraron que **beber entre una y tres tazas diarias se asoció con una menor reducción cognitiva**, mientras que aquellos que no consumían té o lo hacían en exceso no presentaron los mismos beneficios. 
-
-**Compuestos beneficiosos en el café** 
----------------------------------------
-
-**El café contiene varios compuestos bioactivos como la cafeína, antioxidantes y ácido clorogénico**, que pueden ser beneficiosos. Estudios previos sugieren que **el consumo moderado de café puede reducir el riesgo de desarrollar enfermedades neurodegenerativas** como el Alzheimer y el Parkinson. 
-
-**Advertencias sobre el consumo excesivo** 
--------------------------------------------
-
-Sin embargo, el nuevo estudio advierte que, en exceso, **el café podría tener un impacto contrario**. “Nuestros resultados muestran que **el alto consumo de café puede acelerar el deterioro cognitivo** con el paso del tiempo”, señaló Sewell. 
-
-**Efectos de la cafeína en el sueño** 
---------------------------------------
-
-Uno de los posibles factores detrás de este deterioro podría ser la **cafeína**. Aunque es conocida por **mejorar la atención a corto plazo**, su consumo elevado podría **alterar los patrones de sueño** y, a largo plazo, **afectar negativamente las funciones cerebrales**. En adultos mayores, una **mala calidad de sueño** está directamente relacionada con un **deterioro en la salud cerebral**. 
-
-**Recomendaciones para el consumo** 
-------------------------------------
-
-Los expertos sugieren que, **a partir de los 60 años**, es importante **moderar el consumo de café**. Limitarse a una o tres tazas al día podría ser una estrategia segura para aprovechar sus beneficios sin comprometer la **salud cognitiva**. 
-
-**Necesidad de más investigaciones** 
--------------------------------------
-
-“**Más estudios son necesarios** para entender completamente los **mecanismos detrás de su impacto en el cerebro**, pero nuestros hallazgos sugieren que **es prudente moderar el consumo en personas mayores**”, concluyó Sewell. 
-
-La Nación (Argentina) / GDA 
-
-Daniel Noboa fue incluido en la lista de la revista Time100 Next
-================================================================
-
-Daniel Noboa, presidente más joven de Ecuador, fue incluido en la lista Time100 Next.
--------------------------------------------------------------------------------------
-
-![Daniel Noboa en su Informe a la Nación el pasado 24 de mayo en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa.png)
-
-**Daniel Noboa** fue incluido en la lista **Time100 Next** en un perfil escrito por Charlie Campbell, quien destacó su papel como uno de los líderes emergentes más importantes de la actualidad.
-
-### Más noticias
-
-* [¿Qué implica el toque de queda decretado por Daniel Noboa?](https://www.elcomercio.com/actualidad/seguridad/que-implica-toque-queda-decretado-por-daniel-noboa.html "¿Qué implica el toque de queda decretado por Daniel Noboa?")
-* [Daniel Noboa decreta estado de excepción para Quito y seis provincias](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-decreta-estado-de-excepcion-quito-y-seis-provincias-camilo-ponce-enriquez.html "Daniel Noboa decreta estado de excepción para Quito y seis provincias")
-* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
-
-Time100 Next es una lista anual que identifica a **personas influyentes** en diversos campos y subraya su potencial para moldear el futuro en sus respectivas áreas.
-
-¿Por qué fue incluido Daniel Noboa en la revista Time100 Next?
---------------------------------------------------------------
-
-La inclusión de Noboa llega tras su **elección como presidente de Ecuador** en noviembre de 2023, cuando, con 35 años, se convirtió en el **mandatario más joven en la historia del país** y el líder democrático más joven del mundo en la actualidad.
-
-Su elección se produjo en medio de una **crisis de violencia y criminalidad**, con Ecuador enfrentando la tasa de homicidios más alta de América Latina, un factor que influyó en la decisión de los votantes de apostar por un liderazgo renovado.
-
-En su perfil, **Campbell** explica cómo Noboa impulsó, poco después de asumir el cargo, un referéndum que permitió el **despliegue de militares en las calles**. Aunque la medida resultó efectiva para el control de seguridad, también recibió críticas de organizaciones de derechos humanos. Esto debido a denuncias de ejecuciones extrajudiciales.
-
-> TIME100 Next: Sabrina Carpenter [https://t.co/k4nZ4nRp8m](https://t.co/k4nZ4nRp8m) [pic.twitter.com/yAW6mlc4NF](https://t.co/yAW6mlc4NF)
-> 
-> — TIME (@TIME) [October 2, 2024](https://twitter.com/TIME/status/1841445599926722769?ref_src=twsrc%5Etfw)
-
-El artículo también señala otras **decisiones controversiales de Noboa**, como su ruptura con el protocolo d**iplomático al ordenar una redada en la embajada de México en Quito** para arrestar a un exfuncionario refugiado, lo cual generó críticas tanto dentro como fuera de Ecuador.
-
-A pesar de estas acciones, el perfil subraya que su **liderazgo sigue siendo relevante en la agenda de seguridad y reconstrucción del país**.
-
-Relevancia de la revista Time100 Next
--------------------------------------
-
-**Time100 Next** es una lista publicada por la **revista Time** que destaca a las personas emergentes más influyentes del mundo. Esta selección incluye figuras de diversas áreas como **política, entretenimiento, deportes, ciencia y activismo**.
-
-Se enfoca en aquellos que están marcando la pauta y prometen ser líderes globales en el futuro cercano. La lista se renueva anualmente y es vista como una **guía para seguir a las futuras estrellas**.
-
-A diferencia de la tradicional Time100, Time100 Next se centra en la **próxima generación de líderes**. Las personas seleccionadas suelen estar en el inicio o la mitad de sus carreras, pero ya están mostrando un impacto notable.
-
-Este reconocimiento se considera una plataforma para impulsar aún más su proyección. Además, destaca la diversidad y el **compromiso con la innovación social.**
-
-GaraBot explora el futuro de los negocios y tecnología
-======================================================
-
-Esta segunda temporada de Garabot tendrán 15 capítulos que saldrán todos los jueves en todas las plataformas de podcast.
-------------------------------------------------------------------------------------------------------------------------
-
-![GaraBot es una producción de EL COMERCIO y la revista Líderes.](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTO-PARA-LA-NOTA-DE-GARITA.jpg)
-
-**Garabot** está de regreso. La **segunda temporada** se estrena este jueves 3 de octubre de 2024 con **Daniel Silva, director del WebCongress Ecuador.**
-
-Es un diálogo ameno y sin formalismo. Son temas relacionados con los avances tecnológicos como la **Inteligencia Artificial**, nuevas tendencias de administración y producción, **marketing digital, finanzas** y pagos digitales, **estrategias comerciales**, emprendimientos…
-
-Esta segunda temporada tendrá 15 capítulos, que saldrán cada jueves.
-
-Los invitados son expertos en **inteligencia artificial** aplicada a los **negocios** y marketing digital, marcas que conectan con la gente, perfil del nuevo consumidor y **automatización de marketing.**
-
-También, en habilidades y técnicas de negociación, marketing predictivo, carrera internacional y modelos de negocios y marca personal digital.
-
-Los conductores de Garabot
---------------------------
-
-**Garita.** Una voz creada con Inteligencia Artificial, que evoluciona conforme avanza esta tecnología. Es extrovertida, ingeniosa y audaz. Evolucionó su voz y suena más real.
-
-**Giovanni Astudillo.** Editor de la Revista Líderes y Económico de EL COMERCIO. Tiene una experiencia de 24 años en periodismo económico, empresarial y tecnológico. Es economista y periodista.
-
-El nombre **Garabot** combina el término cuencano GARA (buenazo, lo mejor). Esta palabra se vincula con el ‘cantadito’ cuencano de Giovanni Astudillo. BOT, en cambio, se relaciona con Garita, que fue creada con Inteligencia Artificial.
-
-**¿En qué p**lataformas puedes escuchar Garabot?
-------------------------------------------------
-
-Este podcast de **EL COMERCIO y Líderes** está en 
-
-**Spotify**, **Apple Podcast, Amazon Music, Samsung Podcast, Podcast Index, Listen Notes, RSS.com Community, Pandora, Tune In, iHeartRadio y Deezer.**
-
-La primera temporada de Garabot
--------------------------------
-
-El podcast fue creado en 2023. En su primera temporada tuvo 15 capítulos y participaron empresarios, emprendedores, CEO e innovadores tecnológicos ecuatorianos, colombianos, mexicanos y españoles. 
-
-Ellos dirigen negocios vinculados con aerolíneas, seguros, desarrollo tecnológico, finanzas, emprendimiento, consumo masivo, ciberseguridad…
-
-Mario Pineida asume error, pero envía nuevo dardo a Liga de Quito
-=================================================================
-
-Mario Pineida fue contratado por El Nacional para la segunda etapa de la Liga Pro 2024. Su anterior club fue Barcelona SC.
---------------------------------------------------------------------------------------------------------------------------
-
-![Mario Pineida con Emelec en la segunda etapa de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/pineida_disculpas_1.jpg)
-
-**Mario Pineida** fue uno de los protagonistas de El Nacional en la victoria ante Liga de Quito en los cuartos de final de la Copa Ecuador, registrada la noche del miércoles 2 de octubre de 2024 en el estadio Rodrigo Paz Delgado.
-
-Mario Pineida arrancó en el banco de suplentes. A los 61 minutos del segundo tiempo **Marcelo Zuleta, entrenador del rojo**, lo mando a la cancha en lugar del quiteño Fernando Mora, que pagó tributo al gran esfuerzo físico.
-
-### Más noticias:
-
-* [David Cabezas, el héroe de El Nacional que pide selección](https://www.elcomercio.com/deportes/futbol/david-cabezas-el-heroe-de-el-nacional-que-pide-seleccion.html "David Cabezas, el héroe de El Nacional que pide selección")
-* [La Copa Ecuador tiene sus cuatro semifinalistas](https://www.elcomercio.com/deportes/futbol/copa-ecuador-semifinales-calendario-resultados.html "La Copa Ecuador tiene sus cuatro semifinalistas")
-* [El Nacional eliminó a Liga de Quito de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-resultado-copa-ecuador.html "El Nacional eliminó a Liga de Quito de la Copa Ecuador")
-
-Pineida ingresó para reforzar el bloque defensivo de los militares. Unos segundos antes Luis Arce fue expulsado por una fuerte falta en contra de Bryan Ramírez, una de las figuras de Liga en el compromiso.
-
-En un principio Gabriel González, juez central del partido, mostró tarjeta amarilla, **pero ante el llamado del VAR y la respectiva revisión** en el monitor, cambió su decisión y mostró la cartulina roja directa.
-
-Con el 0-0 clavado en los 90 minutos todo se definió en los lanzamientos penales, en donde la figura del arquero **David Cabezas fue fundamental para tapando los disparos de Leonel Quiñónez y Ezequiel Piovi**, para sellar el definitivo 3-1.
-
-Pineida cobró el tercer penal y lo mando al centro del arco. Alexander Domínguez se lanzó a su palo izquierdo y nada pudo hacer para detenerlo.
-
-Consumada la clasificación del ‘Nacho’, el ‘Pitbull’, **como también es conocido el jugador oriundo de Santo Domingo de los Tsáchilas**, no dudó en enviarle un mensaje a Liga de Quito, a sus hinchas y a sus jugadores, desatando una ola de reacciones en redes sociales.
-
-“**Te di la vuelta olímpica en 2020 y ahora dejamos afuera a estos perros**“, declaró el jugador tras la victoria.
-
-Unos minutos después fue parte de una transmisión en vivo en Instagram en su cuenta personal. “¡Y ahora! ¡Y ahora! **Apaguen la luz, apaguen la luz**“, señaló acompañado de sus compañeros Gabriel Cortez y Fidel Martínez.
-
-La referencia de Pineida fue al título que ganó en el 2020 con Barcelona Sporting Club y a la posterior vuelta olímpica, la misma que la hicieron a oscuras porque los administradores del estadio Rodrigo Paz Delgado decidieron cortar la luz.
-
-Las disculpas de Mario Pineida
-------------------------------
-
-“Quizá me pace un poco, **pero me saqué todo lo que sentía encima**. Los jugadores de Liga saben todo lo  
-que han dicho de mí. En todo caso, pido disculpas si ofendí a alguien”, dijo en Mundo Deportivo.
-
-Con esto el jugador intenta dar por cerrado un tema que generó un sinnúmero de reacciones, en donde se involucraron hinchas de Liga de Quito, El Nacional y Barcelona SC.
-
-En el primer semestre, **el jugador tuvo poca participación en BSC**. Apenas fue tomado en cuenta en cinco partidos en los que apenas sumó 155 minutos en cancha.
-
-Sin ser tomado en cuenta por Ariel Holan se marchó a El Nacional. **Marcelo Zuleta no lo tiene como un titular fijo** y solo jugó 26 minutos contra Emelec en el George Capwell y 62 ante Liga de Quito en el Rodrigo Paz Delgado, siempre por la Liga Pro.
-
-Ante Aucas e Imbabura permaneció en el banco de suplentes, y contra **Deportivo Cuenca y Cumbayá no fue incluido** entre los convocados.
-
-En la Copa Ecuador tampoco fue tomado en cuenta en los octavos de final ante Deportivo Santo Domingo.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Dos choques se registraron en Quito este jueves 3 de octubre
-============================================================
-
-Según el Cuerpo de Bomberos de Quito, tres personas afectadas reciben atención prehospitalaria en el sitio de los siniestros de tránsito
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![El siniestro de tránsito se registró en la av. Colón y Antonio de Ulloa.](https://www.elcomercio.com/wp-content/uploads/2024/10/siniestro.jpg)
-
-El ECU911 informó este **jueves 3 de octubre de 2024** sobre los **siniestros de tránsito** registrados durante la mañana de hoy en el norte de Quito.
-
-### Más noticias
-
-* [Calles cerradas en Quito por tareas de limpieza tras inundaciones](https://www.elcomercio.com/actualidad/quito/calles-cerradas-en-quito-por-tareas-de-limpieza-tras-inundaciones.html "Calles cerradas en Quito por tareas de limpieza tras inundaciones")
-* [Daniel Noboa decreta estado de excepción para Quito y seis provincias](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-decreta-estado-de-excepcion-quito-y-seis-provincias-camilo-ponce-enriquez.html "Daniel Noboa decreta estado de excepción para Quito y seis provincias")
-* [Cortes de luz en Quito desde el mediodía de este jueves 3 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-mediodia-jueves-3-de-octubre.html "Cortes de luz en Quito desde el mediodía de este jueves 3 de octubre")
-
-Siniestro de tránsito en el norte
----------------------------------
-
-El **Servicio de Emergencia** recibió la alerta de una emergencia de tránsito en las calles Cristóbal Colón y Antonio de Ulloa, norte de Quito.
-
-Las unidades de la **Agencia Metropolitana de Tránsito** (AMT) se movilizaron hasta el lugar para brindar asistencia a las personas afectadas.
-
-Según la información proporcionada por las unidades de respuesta, la tipologí**a fue un choque lateral** angular entre dos automotores.
-
-En este siniestro **se afectaron bienes públicos**. No se registraron personas afectadas.
-
-Personal de la AMT **cerró la circulación en el carril izquierdo** de la calle Ulloa y, posteriormente, fue habilitada.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Seminario Mayor  
-> 🚧 Cierre: av. Colón y Ulloa  
-> 🛣️ Carriles cerrados: av. Colón carril izquierdo. Calle Ulloa un carril  
->   
-> 👆🏼 Con precaución y atención en las vías  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xvwOivRbIi](https://t.co/xvwOivRbIi)
-> 
-> — AMTQuito (@AMT\_Quito) [October 3, 2024](https://twitter.com/AMT_Quito/status/1841799550509461595?ref_src=twsrc%5Etfw)
-
-Choque en La Florida
---------------------
-
-Otra **llamada de emergencia** se recibió en el Servicio Integrado ECU911 para **reportar un siniestro** de tránsito en otro sector del norte de Quito.
-
-Esta vez en la avenida **Mariscal Sucre y Antonio Román**, en el sector de La Florida, un automóvil y una motocicleta se impactaron.
-
-Desde el Centro Zonal 2-9 se coordinó la atención de la emergencia con el contingente humano y técnico de la Agencia Metropolitana de Tránsito (AMT).
-
-También se desplegaron recursos del **Ministerio de Salud Pública** (MSP) y del Cuerpo de Bomberos Quito para asistir a las personas afectadas.
-
-Paramédicos de las instituciones de **primera respuesta** atienden a dos personas que resultaron afectadas en este siniestro.
-
-El **Cuerpo de Bomberos Quito i**nformó que acudió a la emergencia y brindan atención prehospitalaria a [tres personas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") en el siniestro de La Florida.
-
-> 🚗💥 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Se registra un siniestro de tránsito en la Av. Mariscal Sucre y Antonio Román, norte de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 🚑 Nuestros paramédicos brindan atención prehospitalaria a tres personas afectadas.  
->   
-> 🧑‍🚒 Por favor, conduce con precaución.  
->   
-> 📞 En caso de emergencia llama al 9-1-1.… [pic.twitter.com/tQDNFtqRzL](https://t.co/tQDNFtqRzL)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 3, 2024](https://twitter.com/BomberosQuito/status/1841843938820239848?ref_src=twsrc%5Etfw)
-
-Shakira recibió la negativa de una famosa para participar en Soltera
-====================================================================
-
-La cantante colombiana Shakira compartió con varias personalidades en el video de su nuevo sencillo.
-----------------------------------------------------------------------------------------------------
-
-![La cantante colombiana Shakira es tendencia gracias a Soltera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T114005.942.jpg)
-
-La cantante colombiana **Shakira** se convirtió nuevamente en **tendencia** tras el lanzamiento de su nuevo sencillo **Soltera**. El ‘hit’ salió a la luz el pasado 25 de septiembre de 2024.
-
-Este tema, que captó la **atención** de sus seguidores, cuenta con un **video** que incluye a varias artistas destacadas en la industria musical.
-
-### Más noticias:
-
-* [Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html")
-* [Shakira no incluye a Ecuador en su gira y los fans reaccionan en Instagram](https://www.elcomercio.com/tendencias/musica/shakira-gira-las-mujeres-ya-no-lloran-instagram.html "https://www.elcomercio.com/tendencias/musica/shakira-gira-las-mujeres-ya-no-lloran-instagram.html")
-* [Shakira inspira una serie de streaming llamada ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")
-
-**Shakira recibió la negativa de una famosa para participar en Soltera**
-------------------------------------------------------------------------
-
-En la producción están figuras como la modelo **Winnie Harlow**, la dominicana Natti Natasha y la venezolana Lele Pons.
-
-Entre las invitadas también estuvo **Greeicy Rendón**, quien inicialmente dudó en aceptar la invitación de **Shakira** para participar en este evento.
-
-**Rendón** confesó en un video que, al recibir la invitación, se mostró reacia.
-
-“Cuando me invitaron yo dije: ‘no, no puedo ir porque ando con el gordo, y bueno, estoy aquí como con él”, explicó.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAdxN_0xWVj/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Greeicy (@greeicy)](https://www.instagram.com/p/DAdxN_0xWVj/?utm_source=ig_embed&utm_campaign=loading)
-
-Sin embargo, la cantante finalmente fue convencida de asistir y llevó a su hijo **Kai** con ella.
-
-Durante el evento, **Greeicy** compartió que su pequeño no estaba del todo cómodo y que en algunos momentos le pedía atención, lo que generó situaciones divertidas.
-
-“Le dio como un momento de ‘mamá, mamá, mamá’, entonces quería que yo estuviera con él. Me pasé como entre compartiendo con ellas y con Kai. Fue muy chistoso, pero fui feliz”, relató.
-
-La artista expresó su emoción por haber compartido un momento con **Shakira**, a quien admira profundamente.
-
-“Los que me conocen saben lo fan que yo soy de esta mujer. Me tocó actuar para parecer normal. Lo logré, yo actué muy normal, o sea, ¿cuándo en mi vida yo me imaginé eso?”.
-
-**¿Quién es Greeicy Rendón?**
------------------------------
-
-Su carrera despegó tras su participación en el reality show **‘Factor X’** en 2007, donde mostró su **talento** vocal. A lo largo de los años, Greeicy ha combinado su pasión por la música con la actuación, protagonizando telenovelas como **‘Chica Vampiro’.**
-
-Su estilo fresco y su habilidad para fusionar géneros como el pop, reguetón y música urbana le han permitido cosechar numerosos éxitos.
-
-Crisis, deudas y sanciones ponen en jaque a Emelec
+Tres equipos pelean por el liderato de la Liga Pro
 ==================================================
 
-Emelec enfrenta embargo de más de 700 bienes por deudas. Desde el club explicaron la situación actual del equipo.
------------------------------------------------------------------------------------------------------------------
+La Liga Pro está más viva que nunca, con tres grandes equipos en lo más alto peleando por la etapa.
+---------------------------------------------------------------------------------------------------
 
-![Fernando León, del Emelec, durante una práctica.](https://www.elcomercio.com/wp-content/uploads/2024/10/Emeleccrisis.jpg)
+![Independiente del Valle es el líder de la segunda etapa de la Liga Pro gracias al gol de diferencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T200926.430.jpg)
 
-Los hinchas del **Club Sport Emelec** viven momentos de preocupación. El equipo azul enfrenta una crisis financiera y deportiva, con una deuda cercana a los 10 millones de dólares (USD 9′821.448,53) con Banco del Pacífico y una orden de retención que ha embargado más de 700 bienes, incluyendo suites, palcos y parqueaderos del estadio **George Capwell.**
+Independiente del Valle, **Liga de Quito** y Orense intentarán deshacer el triple empate que los mantiene con 16 puntos en la cima de la tabla de posiciones, durante la novena fecha de la segunda etapa de la Liga Pro.
 
-La situación se agrava con una sanción de tres puntos impuesta por el Tribunal de la Federación Ecuatoriana de Fútbol (FEF), que rechazó la apelación del [club debido a un pago tardío al exjugador Christian Cruz.](https://www.elcomercio.com/deportes/emelec-resta-puntos-tabla-posiciones.html)
+Gracias a su mejor diferencia de goles, la primera posición la ocupa **Independiente del Valle**. Los ‘Rayados’ se enfrentarán el sábado con Mushuc Runa, el cuarto clasificado con 15 puntos.
 
 ### Más noticias:
 
-* [(Video) Ronaldo Johnson, ex Emelec, sorprende con su baile en la India](https://www.elcomercio.com/deportes/futbol/ronaldo-johnson-ex-emelec-sorprende-con-su-baile-en-la-india.html "(Video) Ronaldo Johnson, ex Emelec, sorprende con su baile en la India")
-* [Julio Jaramillo, el pasillo ecuatoriano y Emelec](https://www.elcomercio.com/deportes/futbol/julio-jaramillo-emelec-pasillo-ecuador.html "Julio Jaramillo, el pasillo ecuatoriano y Emelec")
-* [Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro](https://www.elcomercio.com/deportes/emelec-partido-tecnico-universitario-liga-pro.html "Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro")
+* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
+* [Keny Arroyo brilla en Independiente del Valle y la Liga Pro](https://www.elcomercio.com/deportes/futbol/keny-arroyo-brilla-en-independiente-del-valle-y-la-liga-pro.html "Keny Arroyo brilla en Independiente del Valle y la Liga Pro")
+* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
 
-La administración del presidente **José Pileggi** ha sido blanco de críticas por los [problemas económicos](https://www.elcomercio.com/deportes/futbol/emelec-suma-un-nuevo-problema-ahora-por-falta-de-pagos.html) y los atrasos en los salarios a los jugadores, así como por la [prohibición de fichar nuevos talentos.](https://www.elcomercio.com/deportes/emelec-sancion-fifa-fichajes-fef.html)
+IVD, que ya ganó la primera etapa, busca proclamarse campeón nacional por la vía directa, lo que puede conseguir si también gana la segunda fase.
 
-Además, los millonarios son antepenúltimos en la tabla de posiciones del torneo de la Liga Pro de Ecuador.
+**Liga de Quito** y Orense se medirán con sensaciones contrapuestas.
 
-Emelec se pronunció
--------------------
+El panorama es complejo para la ‘U’, que acumuló tres fechas consecutivas sin ganar, luego de seis victorias consecutivas. Además, el miércoles quedó eliminado ante **El Nacional de la Copa Ecuador**.
 
-Según un informe interno, publicado por **Emelec** en redes sociales este 3 de octubre del 2024, la deuda actual se origina de 14 préstamos con B**anco del Pacífico**, otorgados entre 2016 y 2019, sumando un capital de USD 13.267.087,66.
+Liga de Quito procurará salir del bajón comandado por el goleador de la Liga Pro, el paraguayo **Álex Arce**, con 19 tantos. Por otra parte, Orense echará mano de **Miguel Parrales**, goleador de la segunda fase con 7 anotaciones.
 
-A pesar de una reestructuración de la deuda en marzo de 2021 y otra en junio de 2023, el club se vio obligado a enfrentar una difícil situación tras la terminación del contrato con **GolTV** en mayo de 2024, lo que dejó un vacío de ingresos de USD 1.595.811,04.
+El resto de la fecha de la Liga Pro
+-----------------------------------
 
-El banco ha iniciado una acción **coactiva** contra **Emelec**, la cual está siendo atendida por el equipo de abogados y financieros, informó el club.
+Universidad Católica, Macará y **Barcelona SC**, con 13 unidades cada uno, saldrán a todo o nada por mantenerse a la caza del liderato.
 
-En tanto, los socios y seguidores del **cuadro eléctrico** exigen cambios en la gestión actual para evitar que el ‘Bombillo’ siga acumulando problemas que amenazan su historia y prestigio en el fútbol ecuatoriano.
+Universidad Católica, dirigido por el argentino **Jorge Célico**, comandado en ataque por los panameños Ismael Díaz y José Fajardo, recibirá a Imbabura, que tiene en sus filas a uno de los goleadores de la segunda fase, el argentino Luca Klimowicz, con cinco anotaciones.
 
-En medio de esta crisis, el **‘Ballet Azul’** se alista para recibir al [Aucas](https://es.wikipedia.org/wiki/Sociedad_Deportiva_Aucas) por la Liga Pro, el domingo 6 de octubre del 2024 (17:00). Las entradas para ese cotejo están desde los USD 4.
+Macará recibirá a Delfín, que pugnará por zafarse de los últimos puestos de la tabla acumulada de la temporada, para tratar de evitar el descenso.
 
-‘El Bombillo’ está antepenúltimo con solo 6 puntos en ocho partidos en la segunda fase del torneo.
+Barcelona SC visitará a El Nacional en medio de una crisis futbolística desatada desde la separación de figuras importantes por decisión de su técnico, el argentino Ariel Holan, con el aval de los directivos del club.
 
-> 📝 Comunicado oficial  
->   
-> Link: [https://t.co/yMPGE58zuU](https://t.co/yMPGE58zuU) [pic.twitter.com/izsCoHkydW](https://t.co/izsCoHkydW)
+Holan no solo sacó a figuras como el argentino **Damián ‘Kitu’ Díaz**, sino que mandó a la suplencia a otros, para incluir a juveniles. Su idea no dio resultado porque Barcelona perdió y empató en las dos últimas fechas con cuadros colistas como Deportivo Cuenca y Libertad.
+
+**El Nacional** saldrá completamente motivado por la reciente clasificación a las semifinales de la **Copa** **Ecuador,** liderado por el portero David Cabezas y el volante Gabriel Cortéz.
+
+Acumulación de agua en Tumbaco y Lumbisí generó cierre vial y evacuación de una persona
+=======================================================================================
+
+Tumbaco y Lumbisí fueron afectados por las lluvias al generarse una acumulación de agua que derivó en un cierre vial y una evacuación.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![La acumulación de agua en Tumbaco y Lumbisí provocó un cierre vial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-10.jpg)
+
+La **acumulación** de agua en **Tumbaco y Lumbisí** generó un cierre vial y la evacuación de un hombre, la tarde de este jueves 3 de octubre de 2024.
+
+La emergencia fue atendida por el **Cuerpo de Bomberos de Quito**.
+
+### Más noticias:
+
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+* [Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad](https://www.elcomercio.com/actualidad/quito/acuerdo-quito-2034-busca-erradicar-la-pobreza-y-mejorar-la-seguridad.html "Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad")
+* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito")
+
+Las lluvias en la capital siguen causando afectaciones a la población.
+
+En esta ocasión, el **Cuerpo de Bomberos Quito** atendió una emergencia por acumulación de agua en Tumbaco y Lumbisí.
+
+La alerta ingresó a las 15:30 de hoy y se desplegaron unidades al sector de la **Tola Grande** y Lumbisí para intervenir en la **acumulación de agua**.
+
+Un cierre vial y una persona evacuada por acumulación de agua en Tumbaco y Lumbisí
+----------------------------------------------------------------------------------
+
+En la **vía a Lumbisí**, se evacuó a una persona del interior de su furgoneta.
+
+El automotor no pudo avanzar por la cantidad de agua.
+
+Los bomberos llegaron al sector con varias unidades de emergencia para **inspeccionar, drenar, limpiar y desalojar** el agua lluvia.
+
+Hasta las 19:50 de este 3 de octubre, la intervención continuaba.
+
+La **Agencia Metropolitana de Tránsito** informó que la vía estaba cerrada y sugirió tomar vía alternas.
+
+El cierre es a la altura del Redondel de Lumbisí, sentido Quito-Aeropuerto.
+
+Otras afectaciones en Quito
+---------------------------
+
+El Comité de Operaciones de Emergencia (COE) de Quito reportó una vivienda inundada en las av. Universitaria y Tola Grande, sector Tumbaco.
+
+Además, otra acumulación de agua en la av. 12 de Octubre y Madrid, centro norte de Quito.
+
+Sebastián Beccacece pondera a la generación de la Selección de Ecuador
+======================================================================
+
+Sebastián Beccacece, DT de la Selección de Ecuador, poderó a los jugadores del balompié tricolor y la escuadra nacional.
+------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo (izq.) junto a Kendry Páez (der.) en la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T175358.885.jpg)
+
+La **Selección de Ecuador** cuenta con una sólida base y vivió un recambio a partir de la llegada de Gustavo Alfaro al combinado tricolor. **Sebastián Beccacece**, quien es DT del equipo tras él y **Félix Sánchez**, señaló que la Tri tiene la mejor generación de su historia.
+
+Después de su estreno con el combinado nacional, este tomó conclusiones en función de los primeros cotejos. En su debut cayó ante **Brasil** por un marcador de 1-0 de visitante y venció a **Perú** por la mínima diferencia de local[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+### Más noticias:
+
+* [¿Cuándo sale la lista de la Selección de Ecuador para eliminatorias?](https://www.elcomercio.com/deportes/fecha-lista-convocados-seleccion-ecuador-beccacece.html "¿Cuándo sale la lista de la Selección de Ecuador para eliminatorias?")
+* [La Selección de Ecuador a la espera del ‘toque de Campana’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-campana-convocatoria-eliminatorias.html "La Selección de Ecuador a la espera del ‘toque de Campana’")
+* [La defensa de la Selección de Ecuador es la mejor valorada](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-defensas.html "La defensa de la Selección de Ecuador es la mejor valorada")
+
+Para aquellos compromisos, **Beccacece** llamó a 30 jugadores y cinco invitados. Pese a ello, para los nuevos enfrentamientos, solo contará con 25 futbolistas, aunque el número de acompañantes se mantendrá.
+
+A partir de su arribo y encuentro con el **balompié ecuatoriano**, el estratega argentino se llevó una grata impresión. Pese a que manifiesta que el grupo de jugadores con los que cuenta la Tri es el mejor que ha tenido, sí considera que el nivel de la escuadra está próximo al de otras escuadras.
+
+¿A qué aspira la Selección de Ecuador de Sebastián Beccacece?
+-------------------------------------------------------------
+
+De acuerdo a Sebastián Beccacece, la **Selección de Ecuador** tiene jugadores jóvenes y una buena base. Asimismo, esta se encuentra en permanente crecimiento y exporta cada vez mayor cantidad de futbolistas de menor edad hacia el extranjero.
+
+Pese al buen presente, el conjunto aún se encuentra por debajo de otras **selecciones**, para el entrenador ecuatoriano. En la rueda de prensa que brindó este jueves 3 de septiembre del 2024, este sostuvo que **Argentina y Brasil** están por encima.
+
+“**Es cierto que Ecuador tiene su mejor generación de su historia, pero también es cierto que no estamos a la altura de Brasil o de Argentina, pero sí se busca llegar al nivel de Uruguay o Colombia**“, señaló el argentino.
+
+Álex Aguinaga habla con dureza sobre Kendry Páez
+================================================
+
+Alex Aguinaga es un referente del fútbol ecuatoriano y de la Selección de Ecuador.
+----------------------------------------------------------------------------------
+
+![Kendry Páez en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T193522.848.jpg)
+
+**Álex** **Aguinaga**, uno de los jugadores más icónicos de la Selección de Ecuador y artífice de la primera clasificación al Mundial en 2002, es una voz autorizada para hablar sobre el combinado nacional y sus jugadores, especialmente sobre **Kendry Páez**.
+
+En los últimos días, Kendry ha estado en el ojo del huracán, especialmente en redes sociales, debido a sus **actitudes extradeportivas**. Esto generó malestar entre los hinchas y ha llevado a otros jugadores a darle recomendaciones.
+
+### Más noticias:
+
+* [Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/chelsea-kendry-paez-mundial-clubes.html "Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes")
+* [Kendry Páez tiene el respaldo total de Beccacece en la polémica](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-kendry-paez.html "Kendry Páez tiene el respaldo total de Beccacece en la polémica")
+* [¿Cuándo sale la lista de la Selección de Ecuador para eliminatorias?](https://www.elcomercio.com/deportes/fecha-lista-convocados-seleccion-ecuador-beccacece.html "¿Cuándo sale la lista de la Selección de Ecuador para eliminatorias?")
+
+Álex Aguinaga y sus palabras sobre Kendry Páez
+----------------------------------------------
+
+El ‘Güero’, un verdadero referente del fútbol ecuatoriano, compartió un video en su cuenta oficial de X hablando sobre la gran ‘joya’ del país y la selección de Ecuador, **Kendry Páez**.
+
+Para **Aguinaga**, el DT de la ‘Tri’, Sebastián **Beccacece**, no debería actuar como un tutor o figura paternal del jugador, ya que esa responsabilidad recae en su entorno.
+
+“El DT está para seleccionar a los jugadores en mejor forma y llevar a la selección al Mundial. **Si no está en condiciones de ser convocado**, entonces no es el momento ideal; no deben llamarlo si no está bien futbolísticamente”, afirmó el ex capitán de Ecuador.
+
+Además, **Aguinaga** enfatizó que en la ‘Tri’ debe primar lo deportivo sobre las actitudes fuera de la cancha.
+
+> Tema: Kendry Paez. El DT de la selección está para convocar a los que están en mejor momento (aunque sea para él) y ver únicamente lo deportivo. Aplica o debería aplicar para todos 🇪🇨 [pic.twitter.com/JSBjz8fYkV](https://t.co/JSBjz8fYkV)
 > 
-> — Club Sport Emelec (@CSEmelec) [October 3, 2024](https://twitter.com/CSEmelec/status/1841810440063439026?ref_src=twsrc%5Etfw)
+> — Alex Aguinaga G 🐝 (@dtAlex\_Aguinaga) [October 3, 2024](https://twitter.com/dtAlex_Aguinaga/status/1841830976919335137?ref_src=twsrc%5Etfw)
 
-Otra demanda a Emelec
+Las polémicas de Kendry Páez
+----------------------------
+
+Con la Selección de Ecuador, **Kendry Páez solo ha tenido un suceso controversial**. En marzo de 2024, en una gira de amistosos de la Tri, un video de este junto a otros seleccionados en un club nocturno trascendió.
+
+A pesar del suceso, aquello no constituyó una falta con respecto a la concentración del equipo. Aquello se suscitó en un día libre que había otorgado el DT Félix Sánchez Bas.
+
+Después de aquel suceso y con Páez consolidado en Independiente del Valle, otras **polémicas** se han vuelto a desatar en torno al futbolista y situaciones extradeportivas. La última se dio debido a un video en un concierto en el cual aparece vapeando.  
+
+Cronograma de cortes de energía para este fin de semana en Manta
+================================================================
+
+Algunos sectores de Manta no sufrirán cortes de energía durante dos días seguidos este fin de semana
+----------------------------------------------------------------------------------------------------
+
+De acuerdo al cronograma publicado este jueves por la Corporación Nacional de Electricidad (CNEL), este viernes, 4 de octubre del 2024, los **cortes de luz** no serán un problema para **Manta**: no habrá apagones en toda la ciudad[.](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)")
+
+### Más noticias
+
+* [Cortes de luz reducidos en Guayaquil este viernes 4 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-viernes-4-octubre.html "Cortes de luz reducidos en Guayaquil este viernes 4 de octubre")
+* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+
+Los cortes de luz en Manta
+--------------------------
+
+Las autoridades explicaron que se excluye al centro comercial **Mall del Pacífico**, que tendrá interrupción del suministro de 06:00 a 10:00 y de 17:00 a 18:00.
+
+Mientras, que el sábado 5 de octubre habrá **corte** en el horario de 06:00 a 10:00 y de 18:00 a 19:00, solo en varios sectores.
+
+De esta manera serán dos días en los que no habrá **racionamientos** en algunos sectores de la ciudad.
+
+Los sectores en los que habrá apagones el sábado serán: Almesa, barrio 15 de Septiembre, barrio Centenario, barrio El Porvenir, barrio Hugo Mayo, barrio Jesús de Nazaret.
+
+Además, en barrio Las Brisas, barrio La Revancha, **barrio** Nueva Esperanza, barrio San Agustín, barrio San Juan de Manta.
+
+También barrio San Pedro, barrio Santa Clara, barrio Santa Martha, barrio Urbirrios, Calle 304, Ceibo
+
+Renacer, ciudadela 15 de Abril, ciudadela 20 de Mayo, **ciudadela** Cielito Lindo, ciudadela Geranios.
+
+Ciudadela La Lorena, ciudadela Las Orquídeas, ciudadela **Marbella**, ciudadela Montalván, ciudadela Sí Vivienda.
+
+Ciudadela Universitaria, colegio **Paquisha**, colegio Tarqui, coliseo Tohallí, condominios Leonardo Da Vinci,
+
+Ciudad Azteca, Ciudad del Mar, entrada al SECAP, entrada a Datsun.
+
+Gran Akí, Horacio Hidrovo, Hospital del IESS, Interbarrial, La Aurora, La Pradera, Lomas de Barbasquillo, Ligüiqui, Manta Azul, Manta Host, Nuevo Manta.
+
+Urbanización Ciudad del Sol, urbanización Loma Dorada, urbanización Manta Beach, urbanización
+
+Puerto Sol, urbanización Sariland, urbanización Villareal, Paseo Shopping.
+
+Piedra Larga, plaza La Cuadra, Registro Civil, San Mateo, San Lorenzo, San Pedro (calle 307), Santa Marianita, SOLCA, Umiña Tenis Club.
+
+Villas de Circunvalación, Villas del Seguro, Wydham, zona hotelera y zona rural de Manta.
+
+Cortes de energía el domingo en Manta serán de 06:00 a 10:00 en:
+
+Avenida 16, Avenida 18, Avenida 26, Avenida 108, Avenida 113, avenida Flavio Reyes, barrio 15 de Septiembre, barrio 4 de Noviembre.
+
+Barrio Abdón Calderón, barrio Altagracia, barrio Altamira, barrio Bellavista 1, barrio Buenos Aires, barrio Córdova, barrio Cristo Rey.
+
+Barrio Divino Niño, barrio El Murciélago, barrio El Paraíso, barrio Elegolé, barrio La Época, barrio La
+
+Ensenadita, barrio La Florita, barrio Lazareto, barrio Los Algarrobos.
+
+Barrio Los Esteros, barrio Miraflores, barrio Pacífico, barrio Perpetuo Socorro, barrio San José, barrio Santa Fe, barrio Santa Martha, barrio Santa Mónica, barrio Umiña, barrio La Victoria.
+
+Barrio Jesús de Nazaret, barrio Jocay, barrio Jocay J 4, barrio 5 de Agosto, cementerio, ciudadela Alamos, ciudadela Barbasquillo, ciudadela Costa Azul, ciudadela El Palmar (sector Iglesia.
+
+Ciudadela Geranios, ciudadela Horizonte Azul, ciudadela Los Cactus, ciudadela Los Eléctricos, ciudadela Los Esteros, ciudadela Milenium, ciudadela Naval, ciudadela Universitaria.
+
+Ciudadela Villamarina, Ciudad del Mar, colegio Técnico, coliseo Tohallí, conjunto residencial URSA, Conservas Isabel, Cuerpo de Bomberos de Tarqui.
+
+EAPAM, edificio de CNEL EP, Eurofish, FAE, GAD Manta, hotel Oro Verde, Industrias Ales, Inepaca, La
+
+Bahía, La Cumbres, La Dolorosa, Lomas de Barbasquillo.
+
+Otros sectores de cortes de energía en domingo
+
+Los Gavilanes, Manta Azul, Manta Beach, Manta Host, Malecón de Tarqui, mercado Los Esteros, parte alta de La Dolorosa, parte alta Los Esteros, parte de El Palmar, parte de La Pradera.
+
+Plaza La Cuadra, Plaza Cívica, Puerto de Manta, redondel de Cuerpo de Bomberos, redondel del Cuerpo de Bomberos, redondel El Imperio.
+
+Redondel de Playita Mía, San Juan de Manta, San Lorenzo, San Mateo, Santa Marianita, Umiña Tenis Club, urbanización Ciudad del Sol.
+
+Urbanización Loma Dorada, urbanización Metrópolis, urbanización Manta 2000, urbanización Sariland,
+
+urbanización Villareal, Villa María Colonial, vía al Aeropuerto, vía a Circunvalación sector gasolinera Caballo de Troya.
+
+WWydham, zona bancaria, zona hotelera, zona hotelera, zona rural de Manta, zona regenerada, zona rural de Manta, Ligüiqui, Piedra Larga y Yatch Club.
+
+Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre
+=======================================================================
+
+Los cortes de luz en Cuenca son de hasta cinco horas este viernes 4 de octubre.
+-------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca se redujeron a cinco horas al día.](https://www.elcomercio.com/wp-content/uploads/2024/04/velajueves.jpg)
+
+Los nuevos horarios de **cortes de luz** reducidos en **Cuenca** para este **viernes 4 de octubre** de 2024 están listo[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
+
+**Centrosur** emitió el cronograma de los cortes de luz hasta el domingo 6 de octubre.
+
+### Más noticias:
+
+* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+* [Cortes de luz reducidos en Guayaquil este viernes 4 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-viernes-4-octubre.html "Cortes de luz reducidos en Guayaquil este viernes 4 de octubre")
+
+El Gobierno de Daniel Noboa hizo este ofrecimiento de reducción el 1 de octubre, debido a la mejoría en la situación hídrica y energética del país.
+
+El Gobierno señaló que la reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
+
+El comunicado del Ministerio de Energía y Minas de este jueves 3 de octubre señaló que los nuevos horarios rigen desde este viernes 4 hasta el domingo 6 de octubre.
+
+Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre
+-----------------------------------------------------------------------
+
+El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
+
+Los horarios establecidos por Centrosur para la Cuenca establece cortes hasta de cinco horas.
+
+Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora.
+
+Estos son los horarios de los cortes de luz para Cuenca por sector:
+
+  
+
+  
+  
+
+Eminem es el abuelo del año
+===========================
+
+El talentoso artista se convirtió en abuelo a los 51 años.
+----------------------------------------------------------
+
+![Eminem es un rapero, productor y actor estadounidense. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T181519.621.jpg)
+
+El legendario rapero **Eminem**, conocido por su estilo único y letras impactantes, anunció que se convertirá en abuelo.
+
+La noticia fue revelada a través de su nuevo video musical para la canción **Temporary**. Ahí dedica un emotivo tributo a su hija **Hailie Jade**, quien está esperando su primer hijo.
+
+### Más noticias:
+
+* [Fans de Chayanne, a favor y en contra de su baile bachatero](https://www.elcomercio.com/tendencias/entretenimiento/chayanne-fans-baile-bachata-tour.html "https://www.elcomercio.com/tendencias/entretenimiento/chayanne-fans-baile-bachata-tour.html")
+* [Juanes regresa a Ecuador luego de cinco años de ausencia](https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html?source=Internal&ref=Single+Content+Link")
+* [¿Por qué gusta tanto el grupo Aventura en Ecuador?](https://www.elcomercio.com/tendencias/entretenimiento/aventura-grupo-bachata-concierto-romeo-santos.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/aventura-grupo-bachata-concierto-romeo-santos.html?source=Internal&ref=Single+Content+Link")
+
+**Eminem es el abuelo del año**
+-------------------------------
+
+**Eminem**, cuyo nombre real es **Marshall Bruce Mathers III**, es una figura prominente en la industria musical desde finales de los años 90.
+
+Con éxitos como Lose Yourself, Stan y Without Me, ha vendido millones de discos en todo el mundo y ha ganado numerosos premios, incluidos varios Grammy.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAq2ul-ytRL/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Marshall Mathers (@eminem)](https://www.instagram.com/reel/DAq2ul-ytRL/?utm_source=ig_embed&utm_campaign=loading)
+
+Su carrera ha estado marcada por su **habilidad** para abordar **temas personales** y sociales con una franqueza brutal.
+
+**¿Quién es la hija de Eminem?**
+--------------------------------
+
+Hailie Jade, de 28 años, es la hija de Eminem con su exesposa Kim Scott. A lo largo de los años, Hailie ha mantenido una presencia discreta en los medios, aunque ha ganado popularidad como influencer en redes sociales.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DArEmQPJLUq/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Hailie Jade (@hailiejade)](https://www.instagram.com/p/DArEmQPJLUq/?utm_source=ig_embed&utm_campaign=loading)
+
+Eminem ha mencionado a Hailie en varias de sus canciones. La noticia de su embarazo fue recibida con entusiasmo por los seguidores del rapero, quienes han mirado de cerca la relación entre padre e hija a lo largo de los años.
+
+Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo
+========================================================================
+
+El Chelsea es uno de los máximos candidatos a ganar la Conference League.
+-------------------------------------------------------------------------
+
+![Christopher Nkunku, compañero de Moisés Caicedo, en el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T175259.424.jpg)
+
+El **Chelsea** comenzó con el pie derecho su participación en la fase de liga de la Conference League al vencer 4-2 al Genk de Bélgica.
+
+El conjunto londinense, que no contó con **Moisés Caicedo** debido a que tuvo descanso, mostró su poder ofensivo en una sólida actuación.
+
+### Más noticias:
+
+* [Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/chelsea-kendry-paez-mundial-clubes.html "Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes")
+* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
+* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
+
+El conjunto de Enzo Maresca debutó frente a un débil Gent y con un once de habituales suplentes.
+
+Así, **Joao Félix**, Christopher Nkunku, Pedro Neto y Mikhailo Mudryk, entre otros, se divirtieron ante el Gent, un equipo que, como el resto de la competición, está muy lejos del nivel de los de Stamford Bridge.
+
+Contundente triunfo con un equipo suplente
+------------------------------------------
+
+Con esta superioridad -la plantilla del **Chelsea** vale más que la de todos los demás combinados-, los ingleses pasaron la apisonadora en la primera parte, pero con un único gol que nació de las botas de Kiernan Dewsbury-Hall.
+
+El centrocampista inglés filtró una pelota entre las demasiado separadas líneas del Gent y **Mudryk**, puso un centro desde la línea de fondo directo a la cabeza de Renato Veiga. El portugués, que en lugar de lateral se transformó en delantero, la picó a la red.
+
+Con 1-0, Andri Gudjohnsen, el hijo del mítico Eidur ex de **Chelsea** y Barcelona, pudo dejar la marca en el mismo lugar que su padre, pero su volea en el área, sin mucho ángulo, se fue demasiado arriba.
+
+Desde esa misma posición y nada más comenzar la segunda parte, el que **no falló fue Pedro Neto.** El portugués recibió la ayuda de Tsuyoshi Watanabe, demasiado blando en la brega, y pudo fusilar al meta del Gent.
+
+El japonés, sin embargo, se desquitó minutos después al rematar de cabeza el 2-1 que acercaba a los belgas en el marcador. Un tanto que llevó a los miles de aficionados belgas desplazados a elevar sus teléfonos al aire con la linterna activa, en forma de celebración.
+
+Cuando **Nkunku** marcó el 3-1 y dejó esto visto para sentencia, la afición ‘Blue’, tradicionalmente de las más flojas de la Premier, respondió con el mismo gesto, teléfonos al aire y burla a los belgas, que no se tomaron nada bien la broma. Parte de su afición comenzó a lanzar plásticos y bebidas a los ingleses, por suerte sin mayores consecuencias.
+
+Dewsbury-Hall, con su primer gol con el **Chelsea**, redondeó la noche y el 4-1, antes de Omri Gandelman acortará distancias ya sin tiempo para más. El Chelsea se coloca cuarto en la clasificación de la Conference League, con cinco triunfos en los últimos cinco partidos entre todas las competiciones.
+
+¿Qué equipo tiene más hinchas en Quito?
+=======================================
+
+Quito ha sido históricamente el corazón del fútbol ecuatoriano, albergando a algunos de los clubes más importantes del país.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Foto de hinchas de Liga de Quito en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152834.322.jpg)
+
+Aunque la **LigaPro** reparte sus equipos en siete de las 24 provincias del Ecuador, la capital está representada por seis clubes, cuatro de ellos con tradición: **Liga de Quito**, **El Nacional**, **Aucas**, y **Universidad Católica**. Además, **Independiente del Valle** se suma desde el cantón Rumiñahui y **Cumbayá FC**, que aún no tiene una hinchada significativa.
+
+Sin embargo, no todos estos equipos capitalinos son los más populares en Quito. La influencia de clubes de otras provincias, en particular **Barcelona SC** de Guayas, también se siente fuertemente en la ciudad.
+
+### Más noticias:
+
+* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
+* [Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC](https://www.elcomercio.com/deportes/alex-aguinaga-ariel-holan-barcelona-sc.html "Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC")
+* [El Nacional eliminó a Liga de Quito de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-resultado-copa-ecuador.html "El Nacional eliminó a Liga de Quito de la Copa Ecuador")
+
+¿Qué equipo tiene más hinchas en la capital?
+--------------------------------------------
+
+Históricamente, los cuatro clubes con más hinchas en el Ecuador son **Barcelona SC**, **Liga de Quito**, **El Nacional**, y **Emelec**. Sin embargo, en la capital, el orden cambia.
+
+Barcelona SC que es el equipo con más seguidores a nivel nacional, en Quito el primer lugar lo ocupa **Liga de Quito**, un club que ha consolidado su hinchada a partir de sus éxitos en la década de los noventa y en este siglo.
+
+Aunque no existe un conteo exacto del número de hinchas por equipo, se puede medir la asistencia promedio a los partidos durante la primera etapa de la **LigaPro 2024** para dar una idea de cuál es el equipo que más aficionados lleva a los estadios.
+
+Liga de Quito, el equipo con más hinchas en Quito
+-------------------------------------------------
+
+De acuerdo con datos del estadista **Juan Carlos Padilla**, Liga de Quito es el club que más hinchas llevó a su estadio en la primera etapa de la LigaPro 2024, solo en la capital.
+
+En siete partidos disputados en el **Rodrigo Paz Delgado**, el club atrajo a más de **50,000 hinchas,** con un promedio de **7,142** aficionados por partido, sin contar a los **5,000 abonados**. Esto eleva el promedio a casi **12,000 hinchas** por cotejo.
+
+A pesar de que la ‘U’ no jugó partidos muy atractivos en casa durante esa etapa, salvo el duelo contra **Emelec**, sigue siendo el equipo que más hinchas moviliza en Quito.
+
+![Foto de hinchas de Liga de Quito en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T153318.373-1024x683.jpg)
+
+Barcelona SC tiene una gran fuerza en la capital
+------------------------------------------------
+
+Pese a ser un equipo de Guayaquil, **Barcelona SC** cuenta con una gran cantidad de aficionados en Quito.
+
+En los tres partidos que jugó en la capital durante la primera etapa, frente a **Independiente del Valle**, **Universidad Católica**, y **Cumbayá FC**, Barcelona atrajo a **16,000 aficionados** en los partidos contra Cumbayá y Católica, y en el duelo frente a IDV se vendieron **7,000 boletos**, la mitad de los cuales aproximadamente fueron para hinchas toreros.
+
+Esto da un promedio de casi **7,000 hinchas** por partido en Quito, una cifra sorprendente para un equipo cuyo estadio está a más de 400 km de distancia.
+
+![Foto de hinchas de Barcelona SC en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152906.654-1024x683.jpg)
+
+El Nacional se mantiene en el tiempo
+------------------------------------
+
+**El Nacional** también tiene una afición importante en Quito. Según las estadísticas de Padilla, el equipo vendió casi **57,000 boletos** en los siete partidos que jugó en casa durante la primera etapa de la LigaPro.
+
+Uno de esos partidos, el clásico frente a Liga de Quito, fue el más concurrido, con **22,000 entradas vendidas**, aunque se estima que solo **15,000** fueron para hinchas del ‘Rojo’. En promedio, El Nacional llevó **6,800 hinchas** por partido.
+
+![Foto de hinchas de El Nacional en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152845.334-1024x683.jpg)
+
+Independiente del Valle está en crecimiento
+-------------------------------------------
+
+**Independiente del Valle**, aunque aún está lejos de los números de los otros equipos capitalinos, ha ido creciendo gracias a sus éxitos recientes.
+
+En la primera etapa, el club vendió **16,470 boletos** en sus partidos como local, que fueron ocho. Sin embargo, casi 13,000 de esas entradas fueron en los partidos frente a Liga de Quito y Barcelona SC, por lo que se estima que el promedio de hinchas propios es de **1,100 por partido**.
+
+![Foto de hinchas de Independiente del Valle en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T152913.916-1024x683.jpg)
+
+Foto de hinchas de Independiente del Valle en un partido de la Liga Pro.
+
+Deportivo Quito, un caso especial
+---------------------------------
+
+Aunque el **Deportivo Quito** juega actualmente en la Segunda Categoría, su hinchada sigue siendo fiel.
+
+En un partido reciente por los 32 avos de final, el club metió a **10,000 hinchas** en el estadio de Independiente del Valle, lo que demuestra que, a pesar de estar en las divisiones inferiores, sigue teniendo una base de seguidores sólida.
+
+![Hinchas del Deportivo Quito en la Segunda Categoría de Pichincha en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_rival_1-1024x683.jpg)
+
+¿Quién tiene más hinchas en Quito?
+----------------------------------
+
+Basándonos en los boletos vendidos y la asistencia promedio, **Liga de Quito** es el equipo con más hinchas en la capital, liderando el ranking.
+
+En segundo lugar, la disputa está entre **Barcelona SC** y **El Nacional**. Más abajo aparecen **Deportivo Quito** y **Aucas**, mientras que **Independiente del Valle** cierra el listado, aunque su hinchada sigue creciendo.
+
+La crítica preliminar se divide ante ‘Joker 2: Folie à Deux’ 
+=============================================================
+
+Las primeras impresiones de 'Joker 2: Folie à Deux' resultan divididas. La secuela se estrena hoy en Ecuador.
+-------------------------------------------------------------------------------------------------------------
+
+![Las críticas a 'Joker 2' destacan las intensas actuaciones de Joaquin Phoenix y Lady Gaga. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Joker-2-Folie-a-Deux.jpg)
+
+La anticipación por **‘Joker 2: Folie à Deux’** ha sido palpable desde que se anunció la **secuela** del aclamado filme de 2019.  
+
+### Más noticias
+
+* [Lady Gaga lanza nuevo disco inspirado en el ‘Joker’](https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html "https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html") 
+* [Lady Gaga canta en la secuela del ‘Joker’](https://www.elcomercio.com/tendencias/cine/lady-gaga-secuela-canta-joker.html "https://www.elcomercio.com/tendencias/cine/lady-gaga-secuela-canta-joker.html")
+
+La película original, protagonizada por **Joaquin Phoenix**, no solo fue un éxito de taquilla, sino que también se convirtió en un fenómeno cultural. Ahora, con la adición de **Lady Gaga** al elenco, l**as expectativas han alcanzado nuevas alturas**. Según las primeras reacciones, la película no decepciona, pero **tampoco ha generado el mismo impacto que la primera**. 
+
+**Actuaciones que brillan en ‘Joker 2: Folie à Deux’** 
+-------------------------------------------------------
+
+**Joaquin Phoenix regresa como Arthur Fleck (‘Joker’)**, para ofrecer una actuación que, según los críticos, es tan intensa y cautivadora como en la primera entrega.  
+
+**Lady Gaga**, por su parte, se une al elenco como **Harley Quinn**, para aportar una nueva dimensión al personaje. Su **química en pantalla ha sido destacada como uno de los puntos fuertes de la película**. Según un artículo de [Rotten Tomatoes](https://editorial.rottentomatoes.com/article/joker-folie-a-deux-first-reviews-joaquin-phoenix-shines-again-in-deranged-exciting-and-deeply-unsettling-sequel/ "https://editorial.rottentomatoes.com/article/joker-folie-a-deux-first-reviews-joaquin-phoenix-shines-again-in-deranged-exciting-and-deeply-unsettling-sequel/"), Phoenix brilla nuevamente en un papel que es “perturbador, emocionante y profundamente inquietante”. 
+
+**Un enfoque musical sorprendente** 
+------------------------------------
+
+Una de las sorpresas más grandes de **‘Joker 2’** es su **enfoque musical**. La película incorpora **números musicales** que, según los críticos, son “bien ejecutados e increíblemente entretenidos”, según se cita en la misma fuente. **Este giro ha sido recibido con opiniones divididas**, pero muchos coinciden en que añade una **capa adicional de profundidad a la narrativa**. 
+
+Según una reseña de la revista [Rolling Stone](https://es.rollingstone.com/arg-critica-de-joker-folie-a-deux-cantando-bajo-la-lluvia-y-el-caos-en-ciudad-gotica/ "https://es.rollingstone.com/arg-critica-de-joker-folie-a-deux-cantando-bajo-la-lluvia-y-el-caos-en-ciudad-gotica/"), el **director Todd Phillips** pudo haber optado por una solución sencilla para la secuela, pero **decidió arriesgarse**. En lugar de **replicar el estilo de la primera** entrega, el dúo avanzó con la historia de Fleck a través de **un musical al estilo de MGM, con Phoenix y Lady Gaga cantando clásicos y bailando**. 
+
+**Reacciones de la crítica** 
+-----------------------------
+
+**Las primeras reacciones de la crítica han sido variadas**. Algunos elogian la audacia de Todd Phillips al dirigir una secuela que desafía las expectativas, mientras que **otros sienten que no alcanza el impacto de la primera película**. Sin embargo, la mayoría coincide en que **‘Joker 2’** es una obra maestra audaz y fascinante. Un periodista de DiscussingFilm, citado por [Gamesradar](https://www.gamesradar.com/entertainment/musicals/joker-2-reactions/ "https://www.gamesradar.com/entertainment/musicals/joker-2-reactions/"), describió la película como “una obra maestra audaz, atrevida y fascinante”. 
+
+**Expectativas y futuro de la saga** 
+-------------------------------------
+
+Con el estreno de **‘Joker 2’**, las **expectativas sobre el futuro de la saga son altas**. La película no solo **expande el universo del Joker**, sino que también plantea preguntas sobre la dirección que podría tomar en futuras entregas. La combinación de actuaciones estelares y un enfoque narrativo innovador sugiere que esta saga tiene mucho más que ofrecer. 
+
+Israel bombardea el centro de Beirut 
+=====================================
+
+Hezbolá contraatacó lanzando al menos 120 cohetes sobre territorio israelí.
+---------------------------------------------------------------------------
+
+![El humo se eleva como resultado de un ataque aéreo israelí contra la aldea de Khiam, cerca de la frontera con Israel en el sur del Líbano, el 3 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ac00e3c5b4b0da81e6ada7ada767407a7574423d.jpg)
+
+El **Ejército israelí** lanzó bombardeos este jueves, 3 de octubre de 2024, contra **objetivos de la milicia chií** Hezbolá en el centro de Beirut por **segunda vez en un año de enfrentamientos**. Los ataques causaron al menos **nueve muertos**. Sin embargo, las **autoridades libanesas** no descartan más víctimas, mientras los enfrentamientos continúan en la frontera entre ambos países.
+
+### Más noticias
+
+* [Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut](https://www.elcomercio.com/actualidad/mundo/guterres-expresa-gran-alarma-bombardeos-israelies-beirut.html "Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut")
+* [Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut](https://www.elcomercio.com/actualidad/mundo/israel-promete-acelerar-ataques-contra-hizbula-vuelve-bombardear-beirut.html "Israel promete acelerar ataques contra Hizbulá y vuelve a bombardear Beirut")
+* [Historia explicada del origen del conflicto palestino-israelí](https://www.elcomercio.com/actualidad/mundo/historia-conflicto-palestina-israel.html "Historia explicada del origen del conflicto palestino-israelí ")
+
+El Ejército israelí informó de un **ataque aéreo** contra el cuartel general de la **inteligencia del grupo chií** Hezbolá en Beirut y también la **oficina de su órgano de comunicación** en la misma ciudad.
+
+Según el **Ministerio de Salud Pública del Líbano** al menos nueve personas murieron y catorce resultaron heridas en el bombardeo si bien informó de que están **analizando los restos de ADN** encontrados en el lugar para determinar el recuento final de muertos
+
+La **Agencia Nacional de Noticias libanesa (ANN)** informó de que se produjeron bombardeos en la zona beirutí del Dahye, que tuvieron como objetivo los **barrios de Haret Hreik, Burj al Barajna, Al Amirikan** y Al Ghobeiry, mientras que un edificio “colapsó completamente” en la zona de Muawad.
+
+Agregó que el ataque destruyó un centro de la **Autoridad Sanitaria Islámica,** una organización vinculada a Hezbolá que se encarga de ofrecer **atención y servicios sanitarios**, y en el que fueron utilizadas “bombas de fósforo prohibidas internacionalmente”, dijo.
+
+Ejército israelí
+----------------
+
+El **Ejército israelí no especifica en su comunicado** qué barrios de Beirut fueron atacados.
+
+El blanco en Muawad fue la oficina de medios de Hizbulá, según indicó una **fuente próxima al grupo** que pidió no ser identificada.
+
+Simultáneamente Israel **continuó bombardeando con intensidad en el sur** y este del Líbano, donde se encuentran los principales bastiones de Hizbulá.
+
+Un soldado libanés murió en un ataque israelí contra un convoy de la **Cruz Roja del Líbano** que evacuaba a víctimas en el sur del país, donde también cuatro voluntarios y otro soldado resultaron heridos.
+
+Unas 2 000 personas murieron por **ataques israelíes desde hace un año**, mientras que la violencia también ha obligado a más de **1,2 millones de personas a abandonar sus hogares**, según el Gobierno libanés.
+
+Israel avanza en el sur
+-----------------------
+
+En medio de la ofensiva terrestre, el Ejército israelí ordenó este jueves. 3 de octubre de 2024, la evacuación de una **veintena de pueblos en el sur de Líbano**, incluida la localidad de Nabatieh, una de las más castigadas por los bombardeos israelíes de las últimas semanas.
+
+Es la tercera vez que las **fuerzas israelíes piden la evacuación de localidades** en el sur de Líbano desde el inicio de la incursión terrestre el lunes por la noche.
+
+En todos los casos Israel solicitó a los **civiles que se dirijan al norte del río Awali,** más de 50 kilómetros de la frontera y mucho más al norte del río Litani (30 kilómetros). Este lugar marca la zona desmilitarizada designada por la ONU tras la guerra de 2006 entre Israel y Hizbulá, donde **no debe haber presencia** armada más que de las autoridades libanesas y de la misión de Naciones Unidas en el país (UNIFIL).
+
+Combatientes de Hezbolá
+-----------------------
+
+Israel aseguró también matar a unos **60 combatientes de Hezbolá** y haber alcanzado en el último día unos 200 “objetivos” de Hizbulá en territorio libanés”.
+
+Hezbolá contraatacó lanzando al menos **120 cohetes sobre territorio israelí,** varios de ellas contra la Alta Galilea, donde sonaron las alarmas antiaéreas. Algunos fueron interceptados y otros hicieron impacto.
+
+También los rebeldes chiíes hutíes del Yemen reivindicaron este jueves un nuevo ataque con “varios drones” contra ‘Yafa’ (Tel Aviv), que “logró su objetivo con éxito”.
+
+Irán reitera apoyo a palestinos y libaneses
+-------------------------------------------
+
+Mientras los combates continúan en el Líbano, el presidente de Irán, Masud Pezeshkian, reafirmó desde Doha el apoyo de su país a las **“facciones de la resistencia” palestinas y libanesas**, aseguró que Israel “no podrá acabar” con ellas y advirtió de que “la entidad sionista será castigada pronto”.
+
+En Teherán, Irán convocó este jueves a los embajadores de Alemania y Austria por separado para protestar por la **convocatoria de diplomáticos iraníes en Berlín y Viena** tras el ataque contra Israel en la noche del lunes y rechazó la condena de los líderes del G7 por el ataque con misiles contra Israel, que calificó de “parcial e irresponsable”, y pidió al grupo que centre su atención en detener el conflicto en Gaza y Líbano.
+
+Mientras tanto, el Ministerio de Exteriores ruso, a **través de su viceministro Serguéi Riabkov** afirmó este jueves que Moscú está en “estrechísimo contacto” con Irán debido al agravamiento de la situación en Oriente Medio.
+
+Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes
+===========================================================
+
+El Mundial de Clubes se celebrará en 2025, pero ya genera expectativas, y la historia de Kendry Páez con el Chelsea promete ser emocionante
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez pasará del Independiente del Valle al Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4.jpg)
+
+**Kendry Páez** podría tener la oportunidad de hacer su debut en el **Mundial de Clubes** con el **Chelsea** en el 2025.
+
+Según el periodista **Nizaar Kinsella** de la BBC, la **FIFA** ha habilitado a las asociaciones para que abran su periodo de inscripción a partir del 1 de junio del 2025, permitiendo a clubes como el **Chelsea** registrar nuevos jugadores.
+
+Esta decisión podría facilitar que **Páez** y su compañero Estevao Willian se incorporen al equipo durante el torneo.
+
+### Más noticias:
+
+* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
+* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
+* [Kendry Páez pierde protagonismo en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-independiente-valle-chelsea.html "Kendry Páez pierde protagonismo en Independiente del Valle")
+
+Cualquier jugador que sea fichado durante el Mundial de Clubes tendrá la posibilidad de participar de inmediato, siempre que no haya competido anteriormente en el evento.
+
+Esto presenta una ventana emocionante para **Kendry Paez**, de 17 años, quien está en plena transición de su carrera, dejando atrás a Independiente del Valle para unirse a los **‘Blues’** a mediados de 2025.
+
+Se unirá una vez que cumpla a la mayoría de edad. El ecuatoriano cumplirá sus 18 años a inicios de mayo del 2024.
+
+### Kendry Páez
+
+**Kendry Páez** ha tenido un impacto significativo en la selección ecuatoriana. Durante la Copa América 2024, se convirtió en el jugador más joven en participar en el torneo con la camiseta número 10.
+
+Su habilidad en el campo se evidenció cuando anotó un gol de penal contra **Jamaica**, haciéndose notar como uno de los jugadores más prometedores de su generación.
+
+A pesar de su juventud, **Páez** ha demostrado ser una figura clave en el equipo.
+
+En el último año, ha acumulado varios logros tanto a nivel de club como internacional, destacándose en las eliminatorias al **Mundial 2026.**
+
+Sus números reflejan su progreso: ha disputado más de 65 partidos, anotando 13 goles con Independiente del Valle y brindando numerosas asistencias.
+
+El futuro parece brillante para **Kendry Páez** en el **Chelsea**, y su posible participación en el Mundial de Clubes solo aumentaría su proyección internacional.
+
+Los aficionados esperan ansiosos el anuncio oficial que podría marcar el inicio de una nueva era para el joven ecuatoriano en el fútbol mundial.
+
+Cortes de luz reducidos en Guayaquil este viernes 4 de octubre
+==============================================================
+
+Los cortes de luz en Guayaquil para este viernes 4 de octubre son de hasta cinco horas al día, con una franja o en varias franjas, de acuerdo al sector.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil para este viernes 4 de octubre son de hasta cinco horas.](https://www.elcomercio.com/wp-content/uploads/2024/05/cortes-luz-ecuador-26-mayo-1.jpg)
+
+Los nuevos horarios de cortes de luz reducidos en Guayaquil para este viernes 4 de octubre de 2024 están listo[.](https://es.wikipedia.org/wiki/Guayaquil)
+
+CNEL EP emitió el cronograma de los cortes de luz hasta el domingo 6 de octubre.
+
+### Más noticias:
+
+* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+
+El Gobierno de Daniel Noboa hizo este ofrecimiento de reducción el 1 de octubre, debido a la mejoría en la situación hídrica y energética del país.
+
+El Gobierno señaló que la reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
+
+El comunicado del Ministerio de Energía y Minas de este jueves 3 de octubre señaló que los nuevos horarios rigen desde este viernes 4 hasta el domingo 6 de octubre.
+
+Horarios de cortes de luz reducidos en Guayaquil este viernes 4 de octubre
+--------------------------------------------------------------------------
+
+El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
+
+Los horarios establecidos por CNEL para la Guayaquil establece cortes hasta de cinco horas.
+
+Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora.
+
+Estos son los horarios de los cortes de luz para Guayaquil por sector:
+
+El concierto de Juanes en Quito tendrá 10 generadores eléctricos
+================================================================
+
+Juanes regresa a Ecuador después de cinco años de ausencia. Hoy se presentará en Quito.
+---------------------------------------------------------------------------------------
+
+![Juanes cantará este 3 de octubre de 2024 en Quito. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T172343.897.jpg)
+
+El reconocido artista colombiano **Juanes** visita **Ecuador** para ofrecer dos esperados conciertos, uno en Quito y otro en Guayaquil.
+
+En un contexto de continuos cortes de **luz** en el país, los organizadores del concierto en **Quito** tomaron precauciones.
+
+### Más noticias:
+
+* [Juanes regresa a Ecuador luego de cinco años de ausencia](https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html "https://www.elcomercio.com/tendencias/entretenimiento/juanes-concierto-ecuador-musica-gira-mundial.html")
+* [Karol G aparece con un ‘look’ renovado](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html")
+* [Karol G se apoderó del Spotify de los españoles](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-spotify-musica-favorita.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-spotify-musica-favorita.html?source=Internal&ref=Single+Content+Link")
+
+**El concierto de Juanes en Quito tendrá 10 generadores eléctricos**
+--------------------------------------------------------------------
+
+El espectáculo en Quito está previsto para este jueves 3 de octubre en el Coliseo Rumiñahui; arrancará a las 20:00 y contará con 10 generadores eléctricos.
+
+El concierto en Guayaquil -en cambio- se realizará el sábado 5 de octubre en el Coliseo Voltaire Paladines Polo.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DArBR47vPhq/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Output.ce (@output.ce)](https://www.instagram.com/p/DArBR47vPhq/?utm_source=ig_embed&utm_campaign=loading)
+
+**Juanes regresa a Ecuador luego de cinco años de ausencia**
+------------------------------------------------------------
+
+**Juanes**, ícono del pop latinoamericano, regresa a Ecuador en un momento de gran éxito, tras ser ovacionado por su música en todo el mundo.
+
+En los Latin Grammy 2023, Juanes estableció un nuevo récord con cuatro nominaciones, consolidándose como el solista latinoamericano con más nominaciones y estatuillas en la historia de estos premios.
+
+Su reciente gira por Europa y América Latina ha cautivado a audiencias de todas las edades, llevándolos a disfrutar de su música en diferentes escenarios.
+
+Los éxitos más emblemáticos, como Es por ti, La camisa negra y Nada valgo sin tu amor, estarán presentes junto a las canciones de su nuevo álbum, ‘_Vida Cotidiana’_.
+
+**Ecuador está en el corazón de Juanes**
+----------------------------------------
+
+**Ecuador** tiene un significado especial para Juanes, quien ha sido bien recibido en el país en varias ocasiones. En 2021, rindió homenaje a Julio Jaramillo en su disco ‘_Origen’_, reinterpretando el clásico Nuestro Juramento.
+
+Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad
+====================================================================
+
+El alcalde de Quito, Pabel Muñoz, firmó el Acuerdo Quito 2034 junto a diversos sectores de la ciudad
+----------------------------------------------------------------------------------------------------
+
+![El Acuerdo Quito 2034 es un compromiso entre varios actores de la capital.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-9.jpg)
+
+El alcalde de Quito, Pabel Muñoz, firmó el **Acuerdo Quito 2034** junto a diversos sectores de la ciudad. Esta plataforma de diálogo establece cuatro ejes de acción para mejorar la calidad de vida de los quiteños[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+### Más noticias
+
+* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html")
+* [Calles cerradas en Quito por tareas de limpieza tras inundaciones](https://www.elcomercio.com/actualidad/quito/calles-cerradas-en-quito-por-tareas-de-limpieza-tras-inundaciones.html)
+
+El Acuerdo Quito 2034
 ---------------------
 
-El Club Sport Emelec enfrenta una nueva sanción de la FIFA que impediría inscribir jugadores en los próximas tres periodos de traspasos debido a una deuda con su exjugador **Carlos Villalba.**
+El 3 de octubre de 2024, la ciudad de Quito fue testigo de un **histórico acuerdo** entre el municipio y diversos sectores de la sociedad. El Acuerdo Quito 2034 se centrará en la erradicación de la pobreza, la seguridad ciudadana y la modernización de la capital, con metas a cumplirse en los próximos 10 años.
 
-Villalba militó en el equipo en el 2023. El argentino disputó 28 partidos y marcó un gol.
+Este acuerdo surge tras un proceso de diálogo entre representantes del **sector público y privado**, que culminó en la firma de compromisos para impulsar el bienestar social y económico de la ciudad.
 
-Si Emelec no cumple con el pago, deberá continuar con su actual plantilla a partir de enero del próximo año.
+El alcalde Pabel Muñoz destacó la **importancia de esta alianza** para consolidar una planificación estratégica que permita erradicar la pobreza extrema y mejorar las condiciones de vida de todos los quiteños. Entre los sectores involucrados se encuentran **empresarios**, académicos, líderes barriales y delegados de pueblos indígenas y nacionalidades.
 
-La sanción se levantará solo si el club paga lo adeudado.
+El Acuerdo Quito 2034 va por la erradicación de la pobreza
+----------------------------------------------------------
+
+Uno de los ejes principales del Acuerdo Quito 2034 es la erradicación de la **pobreza extrema**. Para ello, se implementarán medidas como la creación de un paquete de protección social destinado a niños de escuelas municipales, trabajadores autónomos y recicladores.
+
+También se establecerá una incubadora de cooperativas para fortalecer la **economía popular y solidaria**, y una Red Metropolitana para la Soberanía Alimentaria. Estas iniciativas buscan garantizar que los sectores más vulnerables de la ciudad puedan acceder a oportunidades económicas y mejorar su calidad de vida.
+
+El acuerdo por la seguridad
+---------------------------
+
+El Acuerdo también se enfoca en la seguridad y la **convivencia pacífica** en la ciudad. Para ello, se ampliará la conformación de comités de seguridad ciudadana y se promoverán proyectos públicos y privados para la recuperación de espacios públicos seguros y verdes.
+
+Además, se lanzarán **campañas dirigidas a la juventud** para fomentar el respeto a las diversidades y la convivencia pacífica. Estos esfuerzos se complementarán con la modernización del sistema de movilidad urbana y la promoción del transporte sostenible y alternativo.
+
+(Video) Alan Minda brilló en la Conference League con gol y asistencia
+======================================================================
+
+Alan Minda fue una de las figuras del Cercle Brugge en su debut en la Fase de Grupos de la Conference League.
+-------------------------------------------------------------------------------------------------------------
+
+![Alan Minda celebrando su gol con el Cercle Brugge en la Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-03T165646.218.jpg)
+
+El **Cercle Brugge** aplastó 6-2 al FC St. Gallen de Suiza en su presentación en la Conference League. Una de las estrellas del partido fue el ecuatoriano **Alan Minda**, quien contribuyó con un gol y una asistencia en una actuación destacada.
+
+A pesar de no ser titular habitual en el equipo belga, cada vez que Minda tiene la oportunidad, **demuestra su calidad con actuaciones sobresalientes**. En esta ocasión, en su primer partido como titular en más de un mes, fue clave en el triunfo del Cercle Brugge.
+
+### Más noticias:
+
+* [(Video) Seleccionado ecuatoriano asiste en Europa League](https://www.elcomercio.com/deportes/video-seleccionado-ecuatoriano-asiste-en-europa-league.html "(Video) Seleccionado ecuatoriano asiste en Europa League")
+* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
+* [Willian Pacho y el PSG sucumben ante el Arsenal en Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-sucumben-ante-arsenal-champions-league.html "Willian Pacho y el PSG sucumben ante el Arsenal en Champions League")
+
+Gracias a esta contundente victoria, el Cercle Brugge terminó la primera jornada del tercer torneo más importante de **Europa** como **líder de la Fase de Liga**, con tres puntos y una diferencia de cuatro goles a favor.
+
+Alan Minda marcó y asistió
+--------------------------
+
+El ecuatoriano dejó su huella desde el inicio del partido en el Estadio Jan Breydel, en Bélgica.
+
+Apenas a los tres minutos del primer tiempo, **Minda abrió el marcador c**on un potente disparo de derecha desde el borde del área, tras recibir un pase de Kévin Denkey.
+
+> [pic.twitter.com/RWeuD6auJJ](https://t.co/RWeuD6auJJ)
+> 
+> — serrbar (@VeliaC54206) [October 3, 2024](https://twitter.com/VeliaC54206/status/1841883233195327650?ref_src=twsrc%5Etfw)
+
+Más tarde, en el minuto 42, con el marcador ya 3-0, Minda volvió a aparecer.
+
+Esta vez, desde la banda derecha, **lanzó un centro preciso al área** que encontró a Denkey, quien anotó su segundo gol del partido, poniendo el 4-0.
+
+> [pic.twitter.com/XIt2iXSPM8](https://t.co/XIt2iXSPM8)
+> 
+> — serrbar (@VeliaC54206) [October 3, 2024](https://twitter.com/VeliaC54206/status/1841893350028546427?ref_src=twsrc%5Etfw)
+
+Según el portal SofaScore, A**lan Minda fue el tercer mejor jugador del partido** con una calificación de 8.1, solo por detrás de Denkey, con un puntaje perfecto, y Gary Magnee, con 8.7.
+
+En total, el exjugador de Independiente del Valle **disputó 61 minutos**, tiempo suficiente para dejar una huella importante en el juego.
+
+### ¿Minda irá a la Selección de Ecuador?
+
+Alan Minda había sido convocado por **Sebastián Beccacece** para la Selección de Ecuador en las eliminatorias sudamericanas, pero no pudo asistir debido a una lesión.
+
+Ahora que ha regresado a la acción y en solo tres partidos ha acumulado dos asistencias y un gol, Minda se perfila como un posible revulsivo para la **próxima convocatoria de la ‘Tri’.**
+
+Kendry Páez tiene el respaldo total de Beccacece en la polémica
+===============================================================
+
+Sebastián Beccacece defendió y brindó su respaldo a Kendry Páez, de la Selección de Ecuador, tras polémicas extradeportivas.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez, futbolista de la Selección de Ecuador, en un partido de eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T171311.699.jpg)
+
+La **Selección de Ecuador** continúa su camino en busca de la clasificación hacia el Mundial de 2026. Entre los nombres regulares en las convocatorias aparece el de Kendry Páez, quien fue defendido por el DT Sebastián Beccacece.
+
+Antes de entregar la lista de convocados para los próximos partidos ante **Paraguay y Uruguay**, el entrenador brindó una rueda de prensa. En ella dio detalles previos con respecto a quienes llamará, el estado del equipo y cuándo saldrá la lista.
+
+### Más noticias:
+
+* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
+* [Kendry Páez pierde protagonismo en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-independiente-valle-chelsea.html "Kendry Páez pierde protagonismo en Independiente del Valle")
+* [¿Por qué es tendencia Kendry Páez?](https://www.elcomercio.com/deportes/eliminatorias/kendry-paez-alfaro-moreno-seleccion.html "¿Por qué es tendencia Kendry Páez?")
+
+En función de los futbolistas que forman parte de la Selección de Ecuador, el estratega fue consultado por **Kendry Páez**. Allí se le preguntó si a este se lo debe cuidar en función de sus últimas polémicas extradeportivas
+
+Con respecto a ello, **Beccacece** brindó su lectura crítica. A pesar de que señaló que está consciente de los sucesos que envuelven al futbolista de 17 años, este sostuvo que lo conoce y valora la convivencia que ha tenido con él.
+
+La defensa de Sebastián Beccacece, DT de la Selección de Ecuador, a Kendry Páez
+-------------------------------------------------------------------------------
+
+“Tengo una experiencia de 10 días con él. En eso me baso. No ignoro lo que pasa en las redes, en su día a día o en su club. Es mi responsabilidad estar al tanto de eso. Esa experiencia con él me ha acercado mucho**. Es un joven con condiciones, pero que tiene que saber manejar el ya estar vendido, que estará afuera y las distracciones de su edad**“, manifestó el técnico de la Selección de Ecuador.
+
+Con respecto a tales palabras, **Beccacece** manifestó que sus decisiones son en función de la relación que tiene con el futbolista, lo que vio en la convocatoria pasada y el rendimiento que este tuvo en ella y presenta su club. A su vez, sostuvo que a su edad se puede equivocar y que, dados sus 17 años y expectativas, se le exige más.
+
+“**Mientras mantenga sus niveles de compromiso, respeto y disciplina, yo estoy feliz. El día que eso no ocurra, yo deberé tener una charla… No con él, sino con cualquiera del equipo**“, agregó el estratega tricolor.
+
+Las polémicas de Kendry Páez
+----------------------------
+
+Con la Selección de Ecuador, **Kendry Páez** solo ha tenido un suceso controversial. En marzo de 2024, en una gira de amistosos de la Tri, un video de este junto a otros seleccionados en un club nocturno trascendió.
+
+A pesar del suceso, aquello no constituyó una falta con respecto a la concentración del equipo. Aquello se suscitó en un día libre que había otorgado el **DT Félix Sánchez Bas**.
+
+Después de aquel suceso y con **Páez** consolidado en Independiente del Valle, otras polémicas se han vuelto a desatar en torno al futbolista y situaciones extradeportivas. La última se dio debido a un video en un concierto en el cual aparece vapeando.
+
+Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro
+=========================================================================
+
+Ecuador y Japón firmaron un acuerdo para financiar el Proyecto Geotérmico Chachimbiro. Se impulsará la generación de energía renovable.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El Proyecto Geotérmico Chachimbiro está ubicado en la provincia de Imbabura, cantón Urcuquí. Ecuador y Japón firmaron un acuerdo de financiamiento. Foto: Cancillería](https://www.elcomercio.com/wp-content/uploads/2024/10/japon-ecuador-1.jpg)
+
+**Ecuador y Japón** formalizaron un contrato de préstamo para el **Proyecto Geotérmico Chachimbiro**, en **Imbabura**, informó la Cancillería este 3 de octubre de 2024. Con la suscripción del acuerdo, las dos naciones dan un paso importante en la cooperación energética[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+
+El acuerdo fue suscrito por la ministra de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld**, y el embajador de Japón en Ecuador, **Keiichiro Morishita**. El financiamiento, que asciende a 43 millones de dólares, permitirá avanzar en el desarrollo de esta iniciativa de energía renovable.
+
+En el evento, también estuvieron presentes el Ministro de Energía y Minas, **Antonio Goncalve**s, el Ministro de Economía y Finanzas, **Juan Carlos Vega**, y el Gerente de Corporación Eléctrica del Ecuador (Celec), **Fabián Calero**.
+
+La canciller Sommerfeld destacó que este proyecto marca el inicio de varios emprendimientos **energéticos similares**, mientras que el Ministro Goncalves subrayó la importancia de diversificar las fuentes de energía renovable en el país.
+
+Por su parte, el embajador Morishita expresó su confianza en que esta obra contribuirá a la **sostenibilidad económica** y a la **mitigación** del cambio climático.
+
+> Boletín | Ecuador y Japón suscriben notas para el financiamiento del Proyecto Geotérmico Chachimbiro  
+>   
+> ⬇️ [pic.twitter.com/d2l1vpsktW](https://t.co/d2l1vpsktW)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [October 3, 2024](https://twitter.com/CancilleriaEc/status/1841931119521894528?ref_src=twsrc%5Etfw)
+
+Energía geotérmica
+------------------
+
+La **geotermia** es una **fuente de energía renovable**. Esta se obtiene del calor acumulado en el interior de la Tierra, tanto del núcleo terrestre como del proceso de descomposición de elementos radiactivos en las capas profundas del planeta. Este recurso se puede aprovechar para generar electricidad.
+
+La extracción de **energía geotérmica** se realiza mediante perforaciones profundas, alcanzando hasta varios kilómetros bajo la superficie, donde se encuentran agua o vapor a altas temperaturas. Esto se canaliza para hacer girar turbinas en plantas geotérmicas, y se produce electricidad de manera constante y sin interrupciones.
+
+Potencial geotérmico del Ecuador
+--------------------------------
+
+De energía geotérmica se viene hablando desde hace más de una década en el Ecuador. De hecho, existe el **Plan de Desarrollo Geotérmico, que data del 2010.**
+
+Este documento señala que Ecuador tiene un potencial bruto de alrededor de 1 000 MW. Con 22 prospectos, de los cuales 11 son de alta entalpía (generación de electricidad).
+
+Los principales prospectos estudiados en el país son: **Chachimbiro** (50 MW) ubicado en Imbabura, **Chacana Jamanco** (15 MW) y **Chacana Cachiyacu** (45 MW) en Napo, **Tufiño-Chiles-Cerro Negr**o (100 MW), localizado en la frontera Ecuador – Colombia y **Baños de Cuenca** (10 MW) en Azuay.
+
+Actualmente, el 72% de la **matriz energética de Ecuador es hidráulica** y atraviesa por una grave crisis debido a la sequía. El Gobierno de Daniel Noboa ha señalado en varias ocasiones que busca diversificar esta matriz.
+
+Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre
+========================================================================
+
+Los cortes de luz reducidos para Quito este viernes 4 de octubre alcanzan hasta las cinco horas.
+------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito se redujeron hasta cinco horas este viernes 4 de octubre. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ecuador-cortes-de-luz.jpg)
+
+Están listos los horarios de cortes de luz reducidos para Quito este viernes 4 de octubre de 2024.
+
+El Gobierno redujo las horas de cortes de luz diaria en todo el país y las empresas eléctricas emitieron un cronograma hasta el domingo 6 de octubre.
+
+### Más noticias:
+
+* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
+* [Otra tarde de fuertes lluvias en varios sectores de Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-fuertes-tarde.html "Otra tarde de fuertes lluvias en varios sectores de Quito")
+
+El Gobierno de **Daniel Noboa** hizo este ofrecimiento de reducción el 1 de octubre, debido a la mejoría en la situación hídrica y energética del país.
+
+El Gobierno señaló que la reducción se realizará, sobre todo, **en los horarios de mayor actividad y movilización de la población.**
+
+El comunicado del **Ministerio de Energía y Minas** de este jueves 3 de octubre señaló que **los nuevos horarios rigen desde este viernes 4 hasta el domingo 6 de octubre.**
+
+Esto, aunque el anuncio inicial fue que esta reducción aplicará desde este viernes 4 hasta el 20 de octubre.
+
+Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre
+------------------------------------------------------------------------
+
+El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo.
+
+Los horarios establecidos por la Empresa Eléctrica Quito (EEQ) para la capital establece cortes hasta de cinco horas.
+
+Esas horas están en una sola franja o dividida en dos de cuatro horas y una de una hora .
+
+Joe Biden envía 1 000 soldados a zona devastada por Helene
+==========================================================
+
+Los oficiales ayudarán a la distribución de alimentos, agua y otros suministros en muchas zonas, como Asheville, en Carolina del Norte.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Un taller de reparación de automóviles parcialmente derrumbado tras las catastróficas inundaciones causadas por la tormenta tropical Helene en Swannanoa, Carolina del Norte.](https://www.elcomercio.com/wp-content/uploads/2024/10/helene-huracan-efe.jpg)
+
+El presidente de EE.UU., [Joe Biden](https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html"), visita este jueves 3 de octubre de 2024, por segundo día consecutivo las **zonas devastadas** por la **catastróficas inundaciones** y vientos que dejó Helene, que acumula ya más de **200 muertes** y a las que el mandatario ordenó el envío de 1 000 soldados para ayudar con las tareas de recuperación.
+
+### Más noticias
+
+* [Joe Biden ordena a las Fuerzas Armadas de EE.UU. derribar los misiles iraníes sobre Israel](https://www.elcomercio.com/actualidad/mundo/joe-biden-ordena-fuerzas-armadas-ee-uu-derribar-misiles-iranies-israel.html "Joe Biden ordena a las Fuerzas Armadas de EE.UU. derribar los misiles iraníes sobre Israel")
+* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
+* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
+
+Biden llegó hoy a Florida, donde recorrerá **áreas arrasadas por el huracán** tras la ronda que hizo el miércoles por las Carolinas.
+
+El mandatario, que no se reunirá con el gobernador de Florida, el republicano Ron DeSantis, visita primero Tallahassee, la **capital de ese estado**, para luego hacer un **sobrevuelo por las áreas** por donde tocó tierra Helene, en las inmediaciones de Perry, en el noroeste floridano.
+
+Después tendrá una sesión informativa en **Keaton Beach para luego desplazarse a Georgia**, donde tampoco se reunirá con su gobernador, el también republicano Brian Kemp. Allí visitará Valdosta, una zona afectada del sur de ese estado, a la que acudió el lunes el expresidente de EE.UU. y candidato republicano, Donald Trump.
+
+Biden, que también tiene previsto **recorrer Ray City**, donde pronunciará un discurso, ordenó al Departamento de Defensa enviar hasta **1 000 soldados en servicio activo a las zonas de desastre** afectadas por Helene, que entró por Florida como un enorme y potente huracán y causó muerte y destrucción en al menos seis estados.
+
+Los oficiales ayudarán a la **distribución de alimentos, agua y otros suministros** en muchas zonas, como Asheville, en Carolina del Norte, uno de los poblados más afectados.
+
+A una semana de la llegada de Helene a Estados Unidos, al menos un millón de clientes se encuentran aún sin servicios de electricidad, y muchos otros incluso sin agua potable ni servicios de transporte ni comunicaciones.
+
+La portavoz de la Casa Blanca, Karine Jean-Pierre, dijo que **Biden no se reunirá con DeSantis** porque este tenía previsto viajar a otras partes del estado para ver el daño provocado por el huracán.
+
+“DeSantis no va a estar allí, pero hemos estado en contacto con su equipo. Entendemos que tiene otras áreas que supervisar hoy, pero hemos estado en comunicación con su equipo”, dijo la portavoz.
+
+Jean-Pierre manifestó que el presidente habló con DeSantis y Kemp hoy, y que ambos republicanos fueron invitados.
+
+Entre tanto, otro huracán, Kirk, continúa este jueves su **desplazamiento sobre el Atlántico** sin previsiones de que cause daño en tierra.
