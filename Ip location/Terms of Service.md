@@ -157,8 +157,8 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 
 * [Artificial Intelligence (83)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (20)](https://www.iplocation.net/blog/category/automotive)
-* [Business (176)](https://www.iplocation.net/blog/category/business)
-* [Ecommerce (68)](https://www.iplocation.net/blog/category/ecommerce)
+* [Business (177)](https://www.iplocation.net/blog/category/business)
+* [Ecommerce (69)](https://www.iplocation.net/blog/category/ecommerce)
 * [Intellectual Property (11)](https://www.iplocation.net/blog/category/intellectual-property)
 * [Productivity (15)](https://www.iplocation.net/blog/category/productivity)
 * [Cloud Services (80)](https://www.iplocation.net/blog/category/cloud-services)
@@ -170,7 +170,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Safety (21)](https://www.iplocation.net/blog/category/safety)
 * [Data & Database (19)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (110)](https://www.iplocation.net/blog/category/digital-marketing)
-* [Education (36)](https://www.iplocation.net/blog/category/education)
+* [Education (37)](https://www.iplocation.net/blog/category/education)
 * [Email (68)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (14)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
@@ -201,10 +201,10 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Technology (50)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Travel (16)](https://www.iplocation.net/blog/category/travel)
-* [World Wide Web (155)](https://www.iplocation.net/blog/category/web)
+* [World Wide Web (157)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (57)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (23)](https://www.iplocation.net/blog/category/web-hosting)
-* [Web Design (11)](https://www.iplocation.net/blog/category/web-design)
+* [Web Design (13)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
 
