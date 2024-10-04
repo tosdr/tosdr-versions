@@ -1,4 +1,4 @@
-* [Zum Inhalt Zugriffstaste \[1\]](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr#content)
+* [Zum Inhalt Zugriffstaste \[1\]](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung#content)
 
 Notruf 144
 
@@ -459,6 +459,6 @@ Bei der Anmeldung trat ein Fehler auf, bitte wenden sie sich an service@roteskre
 
 [Zum Seitenanfang](# "Ganz nach oben scrollen")
 
-[](https://www.facebook.com/sharer/sharer.php?u=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr "Aktuelle Seite auf Facebook teilen")[](fb-messenger://share/?link=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr "Aktuelle Seite per Messenger teilen")[](https://twitter.com/share?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr "Aktuelle Seite twittern")[](https://telegram.me/share/url?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr "Aktuelle Seite per Telegram teilen")[](whatsapp://send?text=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?utm_campaign=Ausweitung%20des%20Nahostkonflikts&utm_medium=CampaignMail&utm_source=Cambuildr "Aktuelle Seite per WhatsApp teilen")
+[](https://www.facebook.com/sharer/sharer.php?u=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite auf Facebook teilen")[](fb-messenger://share/?link=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per Messenger teilen")[](https://twitter.com/share?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite twittern")[](https://telegram.me/share/url?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per Telegram teilen")[](whatsapp://send?text=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per WhatsApp teilen")
 
  [Link kopieren](#)
