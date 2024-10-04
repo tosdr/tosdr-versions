@@ -142,6 +142,30 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 4, 2024
+
+> Excellent service from Tanya!
+
+> Excellent service from Tanya!! She was very patient and remained friendly through all my problems/changes. I will definitely come back to her for my next bookings.
+
+Nico Weitsz
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 4, 2024
+
+> Keith was so helpful
+
+> Keith was so helpful, against many obstacles, he eventually managed to secure me a place on the train from Victoria Falls
+
+Mouse
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 3, 2024
 
 > Shaw was very helpful and knowledgeable in hotels and tours.
@@ -233,34 +257,6 @@ Colin
 ,
 
 MG
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 1, 2024
-
-> Mel de Toit is definitely worthy of…
-
-> Mel de Toit is definitely worthy of FIVE stars. She has helped us put together a trip of a lifetime. Our first safari is at Simbavati and the second is at Chief's Camp, in the Okavanga Delta. In addition she has arranged flights to various destinations and a wonderful stay with various side trips in Cape Town. We can't wait to start our journey and know that thanks to Mel, it will be the trip of a lifetime!
-
-Sue
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 30, 2024
-
-> Sara Van Coillie was awesome
-
-> Sara Van Coillie was awesome. She is very knowledgeable and planned a fantastic itinerary for us. We can't wait for our trip!
-
-Megan Whitmore
-
-,
-
-US
 
 VIP service
 
