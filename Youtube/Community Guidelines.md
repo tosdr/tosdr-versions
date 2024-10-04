@@ -72,7 +72,7 @@ Next
 
 Notification
 
-We’re currently experiencing high contact volumes and if you contact us, you may notice longer than normal wait times. Please be aware that these support options are for questions about paid products and subscriptions on YouTube only. If you are a Creator, please [find your support options here](https://support.google.com/youtube/answer/3545535). 
+We're aware of an issue causing some channels to be incorrectly flagged for Spam and removed. Our teams are looking into this and reinstating the channels right now. Please [follow along in our Community for updates](https://support.google.com/youtube/thread/300155212).
 
 Hate speech policy
 ==================
@@ -259,7 +259,7 @@ Google apps
 
 Main menu
 
-2100625998777445725
+8664202257901812505
 
 true
 
