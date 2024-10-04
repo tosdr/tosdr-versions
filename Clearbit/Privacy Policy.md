@@ -263,7 +263,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 * * *
 
-[Trust Center](https://clearbitjs.com/trust)[Privacy Policy](https://clearbitjs.com/privacy-policy)[Status](https://clearbit.statuspage.io/)[Support](https://clearbitjs.com/support)[Legal](https://clearbitjs.com/legal)[Do Not Sell My Info](https://clearbitjs.com/ccpa-opt-out)Opt out
+[Trust Center](https://clearbitjs.com/trust)[Privacy Policy](https://clearbitjs.com/privacy-policy)[Status](https://clearbit.statuspage.io/)[Support](https://clearbitjs.com/support)[Legal](https://clearbitjs.com/legal)[Do Not Sell My Info](https://clearbitjs.com/ccpa-opt-out)Manage Cookies
 
 [![Clearbit by HubSpot](/clearbit_by_hubspot.png)](https://clearbitjs.com/)
 
