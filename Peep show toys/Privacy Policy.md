@@ -526,13 +526,12 @@ Shipping & Policies
 Shipping & Policies
 
 * [Shipping Information](https://www.peepshowtoys.com/pages/shipping)
-* [Return Policy](https://www.peepshowtoys.com/pages/exchange_policy)
 * [THIS WEBSITE IS INTENDED FOR USERS THAT ARE 18 YEARS OF AGE AND OLDER ONLY.](#)
 * [Terms of Service](https://www.peepshowtoys.com/policies/terms-of-service)
 * [Privacy Policy](https://www.peepshowtoys.com/policies/privacy-policy)
 * [Press](https://www.peepshowtoys.com/pages/press)
 * [Accessibility Statement](https://www.peepshowtoys.com/pages/accessibility-statement)
-* [Refund policy](https://www.peepshowtoys.com/policies/refund-policy)
+* [Refund Policy](https://www.peepshowtoys.com/policies/refund-policy)
 
 About & Info
 
@@ -543,8 +542,7 @@ About & Info
 * [Body-Safe Sex Toy Materials Guide](https://www.peepshowtoys.com/pages/body-safe-sex-toy-material-guide)
 * [Our Philosophy](https://www.peepshowtoys.com/pages/about-us)
 * [Sex Blog](https://www.peepshowtoys.com/blogs/news)
-* [Sex Blogger Toy Reviews](https://www.peepshowtoys.com/blogs/sex-toy-reviews/sex-blogger-toy-reviews)
-* [Peepshow TV](https://www.peepshowtoys.com/blogs/peepshow-tv)
+* [Rewards Program](https://www.peepshowtoys.com/pages/pst-loyalty-rewards-page)
 
 10% OFF Your Order!
 
