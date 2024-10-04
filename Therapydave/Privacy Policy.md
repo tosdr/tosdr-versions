@@ -17,11 +17,13 @@ Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 Privacy Policy
 ==============
 
-_Last updated: August 27, 2024_
-
   ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20536'%3E%3C/svg%3E)
 
   ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](https://therapydave.com/wp-content/uploads/privacy-policy-1024x536.jpg)
+
+Privacy Policy for TherapyDave.com
+
+_Last updated: August 27, 2024_
 
 This Privacy Policy explains how TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
 
@@ -112,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”_
+_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
