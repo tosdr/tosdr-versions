@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
-
-em lagoa da canoa
-
-em lagoa da canoa
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")[![Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_insonia-reproducao-freepik_8beb082b64.jpg)
-
-sono de qualidade
-
-sono de qualidade
-
-Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia
-
-Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia](https://www.tnh1.com.br/noticia/nid/conheca-8-formas-de-aumentar-a-melatonina-naturalmente-para-vencer-a-insonia/ "Conheça 8 formas de aumentar a melatonina naturalmente para vencer a insônia")[![Bactéria resistente que representa risco global é detectada no Nordeste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_bacteria-identificada-nordeste-rubens-renato-carmo-ICB-USP_ba3eb6b7ef.jpg)
+[![Bactéria resistente que representa risco global é detectada no Nordeste](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/6/csm_bacteria-identificada-nordeste-rubens-renato-carmo-ICB-USP_ba3eb6b7ef.jpg)
 
 cepa detectada
 
@@ -222,7 +206,15 @@ cepa detectada
 
 Bactéria resistente que representa risco global é detectada no Nordeste
 
-Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
+Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
+
+em lagoa da canoa
+
+em lagoa da canoa
+
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
+
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
 
 acusado de furto
 
@@ -230,7 +222,15 @@ acusado de furto
 
 Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'
 
-Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")
+Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")[![Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_8f0c68667e.jpg)
+
+"chefe" do tráfico
+
+"chefe" do tráfico
+
+Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió
+
+Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió](https://www.tnh1.com.br/noticia/nid/denuncia-de-reuniao-entre-traficantes-mobiliza-pms-e-lider-de-grupo-e-preso-em-maceio/ "Denúncia de reunião entre traficantes mobiliza PMs e líder de grupo é preso em Maceió")
 
 [![Andarilho alega ter feito o melhor flagra de um Pé-grande da história em floresta e viraliza nas redes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_pe-grande-flagrado-reproducao-redes-sociais_fe4cb53dcb.jpg)
 
