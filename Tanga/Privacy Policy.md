@@ -12,7 +12,7 @@
 
 out of 5 based on
 
-74645
+74648
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
@@ -186,7 +186,7 @@ Work With Us
 
 Legal
 
-[Privacy Policy](https://www.tanga.com/pages/privacy-policy) [Terms of Use](https://www.tanga.com/pages/terms-and-conditions) [Loyalty Terms of Use](https://www.tanga.com/pages/loyalty-terms)
+[Privacy Policy](https://www.tanga.com/pages/privacy-policy) [Terms of Use](https://www.tanga.com/pages/terms-and-conditions) [target="#blank"> Loyalty Terms of Use](https://www.tanga.com/pages/loyalty-terms)
 
 ![](https://assetcdn2.tanga.com/assets/v2/footer/us-flag-2e056fd6114d869159b80fac542090e5e0a0f168624dd3ea2906d0d46193c327.svg)
 
