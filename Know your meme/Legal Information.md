@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[America's Hitler](https://knowyourmeme.com/memes/americas-hitler "America's Hitler") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot")
+[America's Hitler](https://knowyourmeme.com/memes/americas-hitler "America's Hitler") [Oh, Look! Here Comes the Far Right](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right "Oh, Look! Here Comes the Far Right") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [If You Actually Like When Movies Do This](https://knowyourmeme.com/memes/if-you-actually-like-when-movies-do-this "If You Actually Like When Movies Do This") [Wonderwall](https://knowyourmeme.com/memes/wonderwall "Wonderwall") [Trend In Recent Media](https://knowyourmeme.com/memes/trend-in-recent-media "Trend In Recent Media")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Hauu! You must login or signup first!
 
 |     |     |
 | --- | --- |
