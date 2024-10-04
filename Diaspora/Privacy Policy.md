@@ -78,7 +78,7 @@ This document is CC-BY-SA. It was last updated May 31, 2013.
 
 * [Home](https://discourse.diasporafoundation.org/)
 * [Categories](https://discourse.diasporafoundation.org/categories)
-* [FAQ/Guidelines](https://discourse.diasporafoundation.org/guidelines)
+* [Guidelines](https://discourse.diasporafoundation.org/guidelines)
 * [Terms of Service](https://discourse.diasporafoundation.org/tos)
 * [Privacy Policy](https://discourse.diasporafoundation.org/privacy)
 
