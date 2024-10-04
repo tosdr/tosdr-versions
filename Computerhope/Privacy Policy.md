@@ -19,7 +19,7 @@ Search
 Computer Hope legal information
 ===============================
 
-Updated: 04/09/2024 by [Computer Hope](https://www.computerhope.com/more.htm)
+Updated: 10/03/2024 by [Computer Hope](https://www.computerhope.com/more.htm)
 
 * [General legal information.](#general)
 * [Referencing and citing information.](#citing)
