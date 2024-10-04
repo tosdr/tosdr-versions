@@ -71,10 +71,6 @@ Next
 * [Copyright claim basics](https://support.google.com/youtube/topic/9282678?hl=en&ref_topic=2676339)
 * [Copyright strike basics](https://support.google.com/youtube/answer/2814000)
 
-Notification
-
-We're aware of an issue causing some channels to be incorrectly flagged for Spam and removed. Our teams are looking into this and reinstating the channels right now. Please [follow along in our Community for updates](https://support.google.com/youtube/thread/300155212).
-
 Copyright strike basics
 =======================
 
@@ -201,7 +197,7 @@ Google apps
 
 Main menu
 
-226790069673345393
+12796271265850367946
 
 true
 
