@@ -1,9 +1,3 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
-
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
-
-Buy (US$ 93.33)
-
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
 [Search our website](# "Search our website")
@@ -142,15 +136,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
     
-* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
+* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
     
-* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
-* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [Backup strategy: run a full backup locally an ...](https://www.backup4all.com/backup-strategy-make-a-full-backup-locally-and-subsequent-incremental-backups-to-ftp-kb.html)  
+* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
     
 
 Choose language:
