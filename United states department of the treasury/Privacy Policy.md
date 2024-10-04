@@ -572,6 +572,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    October 4, 2024
+    
+    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at the Wisconsin Building Trades Conference](https://home.treasury.gov/news/press-releases/jy2630)
+    
     October 1, 2024
     
     [Remarks by Aviva Aron-Dine, Performing the Duties of Assistant Secretary for Tax Policy, on Phase Four of Implementation of the Inflation Reduction Act’s Clean Energy Provisions](https://home.treasury.gov/news/press-releases/jy2625)
@@ -579,10 +583,6 @@ MENU MENU
     October 1, 2024
     
     [Remarks by Assistant Secretary for International Finance Brent Neiman on IMF Governance](https://home.treasury.gov/news/press-releases/jy2624)
-    
-    September 26, 2024
-    
-    [Remarks by Acting Assistant Secretary of Financial Institutions Laurie Schaffer at the Electronic Transaction Association’s Annual Fintech Policy Forum](https://home.treasury.gov/news/press-releases/jy2620)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
