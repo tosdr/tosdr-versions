@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b6a76b1abc911e8b42142bbd19ac7575
+17e58a63c4d28e743ecd96cba85ab7bc
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm vintage Czech glass heart beads](https://sojourner.biz/images/cache/glass/GL0079.200.jpg)](https://sojourner.biz/beads/glass/10-mm-vintage-czech-glass-heart-beads.html "10 mm vintage Czech glass heart beads")
+[![Flat-back two-hole beads](https://sojourner.biz/images/cache/glass/GL0305.200.jpg)](https://sojourner.biz/beads/glass/flat-back-two-hole-beads.html "Flat-back two-hole beads")
 
-#### [10 mm vintage Czech glass heart beads](https://sojourner.biz/beads/glass/10-mm-vintage-czech-glass-heart-beads.html "10 mm vintage Czech glass heart beads")
+#### [Flat-back two-hole beads](https://sojourner.biz/beads/glass/flat-back-two-hole-beads.html "Flat-back two-hole beads")
 
-$5.00
+$6.00
 
 ### Best Sellers
 
