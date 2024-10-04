@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct03
+    Oct04
     
-    ### [Chair Lina M. Khan speaker at a listening session on healthcare](https://www.ftc.gov/news-events/events/2024/10/chair-lina-m-khan-speaker-listening-session-healthcare)
+    ### [Chair Lina M. Khan speaker at a Renters Listening Session alongside Rep. Gallego](https://www.ftc.gov/news-events/events/2024/10/chair-lina-m-khan-speaker-renters-listening-session-alongside-rep-gallego)
     
-    Thursday, October 3, 2024 | 9:30AM
+    Friday, October 4, 2024 | 12:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
