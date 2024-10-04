@@ -62,3 +62,5 @@ Delete my account
 * [Privacy](https://policies.google.com/privacy "Privacy")
     
 * [Terms](https://www.appsheet.com/Home/Terms "Terms")
+    
+* Cookies management controls
