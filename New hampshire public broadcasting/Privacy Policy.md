@@ -190,9 +190,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Inundation District Boston's Made Land** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-boston-made-land?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Spooky Secret Stars October 28 - November 3** | Star Gazers](https://video.nhpbs.org/video/spooky-secret-stars-october-28-november-3-jqkoib?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 3, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-3-2024-pbs-news-hour-full-episode-1727928001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Smith Island, The Benefits of Beavers, Mississippi** | This American Land](https://video.nhpbs.org/video/smith-island-the-benefits-of-beavers-mississippi-uzvipd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Issues that Matter to a Future Voter** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/the-issues-that-matter-to-a-future-voter-qhchcp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What Do DJs Even Do?** | Sound Field](https://video.nhpbs.org/video/what-do-djs-even-do-ik7kdf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Smith Island, The Benefits of Beavers, Mississippi** | This American Land](https://video.nhpbs.org/video/smith-island-the-benefits-of-beavers-mississippi-uzvipd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
