@@ -3,27 +3,6 @@
 Education, Parenting, Internet Safety for All  
 [Bookmark](# "Bookmark this Page")
 
-* SAFE SEARCH
-* SAFE IMAGES
-* SAFE WIKI
-* SAFE VIDEOS
-
-   
-
-Enhanced by Google SafeSearch
-
-   
-
-Enhanced by Google SafeSearch
-
-   
-
-Enhanced by Google SafeSearch
-
-   
-
-Enhanced by Google SafeSearch
-
 Privacy Policy | Cookies | CPRA | GDRP
 ======================================
 
