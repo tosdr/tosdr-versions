@@ -211,8 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Larry Elder Vance Defended Trump Better Than Trump](https://patriotpost.us/opinion/110767-vance-defended-trump-better-than-trump-2024-10-03)
 *      [Laura Hollis Now It’s Time to Eliminate Tenure](https://patriotpost.us/opinion/110766-now-its-time-to-eliminate-tenure-2024-10-03)
 *      [Armstrong Williams The Cost of a Workforce That Doesn’t Want to Work](https://patriotpost.us/opinion/110769-the-cost-of-a-workforce-that-doesnt-want-to-work-2024-10-03)
-*      [Jeff Jacoby A Bum Charge Against John Kerry](https://patriotpost.us/opinion/110772-a-bum-charge-against-john-kerry-2024-10-03)
-*      [The Babylon Bee Harris Supporters Trying to Figure Out How to Convert Joy Into Groceries](https://patriotpost.us/opinion/110774-harris-supporters-trying-to-figure-out-how-to-convert-joy-into-groceries-2024-10-03)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
