@@ -67,8 +67,8 @@ MENUMENU
                 * [Bariatric Care Management](https://www.chpw.org/member-center/health-management/case-management/bariatric-case-management/)
                 * [Community Support Services](https://www.chpw.org/member-center/health-management/community-programs/)
                 * [Health Assessment](https://www.chpw.org/member-center/health-management/health-assessment/)
+            * [Pregnancy Care](https://www.chpw.org/member-center/pregnancy-care/)
             * [Member FAQs](https://www.chpw.org/member-center/member-faqs/)
-            * [Care Team](https://www.chpw.org/member-center/member-resources/care-team/)
         * * [Member Resources](https://www.chpw.org/member-center/member-resources/)
                 * [Member Handbook](https://www.chpw.org/member-center/member-resources/plan-and-coverage/member-handbook/)
                 * [Your Plan and Coverage](https://www.chpw.org/member-center/member-resources/plan-and-coverage/)
@@ -89,6 +89,7 @@ MENUMENU
             * [CHPW Virtual Care](https://www.chpw.org/member-center/member-resources/plan-and-coverage/telehealth/)
             * [Member Rights and Privacy](https://www.chpw.org/member-center/member-rights/)
                 * [Fraud, Waste, and Abuse](https://www.chpw.org/member-center/member-rights/fraud-waste-and-abuse/)
+            * [Care Team](https://www.chpw.org/member-center/member-resources/care-team/)
         * * [![CHPW member advisory council.](/wp-content/uploads/images/nav/AH-MAC-nav-tile-promo-1.webp)](https://www.chpw.org/about-chpw/member-advisory-council/ "Join our member advisory council.")
                 
 * [Provider Center](https://www.chpw.org/provider-center/)
