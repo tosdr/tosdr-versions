@@ -166,6 +166,68 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wells-of-salvation)
+
+[The Wells of Salvation](https://www.icr.org/article/wells-of-salvation/)
+
+“Therefore with joy shall ye draw water out of the wells of salvation.” (Isaiah 12:3) This beautiful verse is in the midst of a psalm...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/ordinary-matters)
+
+[Ordinary Matters](https://www.icr.org/article/ordinary-matters/)
+
+“Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.”...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/exalting-anointed-one)
+
+[Exalting the Anointed One](https://www.icr.org/article/exalting-anointed-one/)
+
+“The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth;...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+
+The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+
+$59.99
+
+$69.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
+
+Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
+
+$9.99
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
+
+Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+
+$14.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
