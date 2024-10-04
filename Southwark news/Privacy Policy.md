@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+    
+    ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+    
+    ### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+    
     [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
     
     ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
@@ -46,14 +54,6 @@
     [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
     
     ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-    
-    [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+    
+    ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+    
+    ### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+    
     [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
     
     ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
@@ -126,14 +134,6 @@ View All Result
     [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
     
     ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-    
-    [![(photo: Tom Bradley/Diocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-16.49-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    ### [Bishop of Southwark in hospital after being injured in a taxi](https://southwarknews.co.uk/area/southwark/bishop-of-southwark-in-hospital-after-being-injured-in-a-taxi/)
-    
-    [![A photo reportedly taken at the scene shows a car turned on its back. Credit: Gina Gee](https://southwarknews.co.uk/wp-content/uploads/2024/10/20afd0526ec7330f84465439eda80fa7-e1727866166300-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
-    
-    ### [Man treated by paramedics after ‘car flips’ in Bermondsey](https://southwarknews.co.uk/area/bermondsey/man-treated-by-paramedics-after-car-flips-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -374,6 +374,24 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+
+### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+
+[4th October 2024](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
+
+[![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+
+### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+
+[4th October 2024](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Coriolanus-David-Oyelowo-National-Theatre-v2-2000x1000-1-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
+
+### [David Oyelowo is a powerful Coriolanus at the National Theatre](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
+
+[4th October 2024](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
+
 [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
 
 ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
@@ -391,24 +409,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
 
 [3rd October 2024](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-
-[![L: The ceiling; middle: Kerry Say; right: the sodden carpet](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-02-10-2024-at-14.16-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-
-### [Exclusive: ‘My son’s bedroom ceiling is falling through and the council don’t care’ says Rotherhithe mum](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-
-[3rd October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-my-sons-bedroom-ceiling-is-falling-through-and-the-council-dont-care-says-rotherhithe-mum/)
-
-[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-
-### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
-
-[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 ### USEFUL PAGES
 
