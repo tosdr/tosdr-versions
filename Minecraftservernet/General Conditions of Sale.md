@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![tntw](plugins/MineCraft/icons/25x25xtntw_1638554506.png.pagespeed.ic.HRxhBu2uvh.png)
+[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
 
-TNTWcraft](https://minecraft-server.net/details/tntw/ "TNTWcraft")[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1727040362.png.pagespeed.ic.oC2A8nHtDV.png)
+KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED") [TechnoSnipe Survival](https://minecraft-server.net/details/TechnoSnipe/ "TechnoSnipe Survival")[![AuroraWorlds](plugins/MineCraft/icons/25x25xAuroraWorlds_1721605776.png.pagespeed.ic.7T6GmJ9R84.png)
 
-Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+Aurora Worlds](https://minecraft-server.net/details/AuroraWorlds/ "Aurora Worlds")[![CommenceSMP](plugins/MineCraft/icons/25x25xCommenceSMP_1719969626.png.pagespeed.ic.Cyrkrvi0-q.jpg)
 
-Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![troete](plugins/MineCraft/icons/25x25xtroete_1725906453.png.pagespeed.ic.inCJFl11BP.png)
+\- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -](https://minecraft-server.net/details/CommenceSMP/ "- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-RuinSpirit](https://minecraft-server.net/details/troete/ "RuinSpirit") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06123 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05932 - Created by [Debaucus](https://debauc.us/)
