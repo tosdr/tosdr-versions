@@ -30,8 +30,8 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
         * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/products/kaabo-mantis-pro-se)
     * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
-        * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
-        * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
+        * [Victor Luxury(Final Sale!)](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
+        * [Eagle Pro(Final Sale!)](https://www.voromotors.com/products/dualtron-eagle-pro)
     * [Categories](https://www.voromotors.com/collections/electric-scooters)
         * [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
         * [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
@@ -42,7 +42,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
 * [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
     * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
-        * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+        * [E Ride Pro-SS 19"(Price Reduced!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
     * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
         * [Altis Sigma(New!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
@@ -220,8 +220,8 @@ Continue Shopping
 
 * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
 
-* [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
-* [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
+* [Victor Luxury(Final Sale!)](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
+* [Eagle Pro(Final Sale!)](https://www.voromotors.com/products/dualtron-eagle-pro)
 
 * [Categories](https://www.voromotors.com/collections/electric-scooters)
 
@@ -235,7 +235,7 @@ Continue Shopping
 
 * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
 
-* [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+* [E Ride Pro-SS 19"(Price Reduced!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
 
 * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
 
