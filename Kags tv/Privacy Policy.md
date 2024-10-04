@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/bed48a9a-9433-46cb-b049-de1b32eab457/20240930T172704/bed48a9a-9433-46cb-b049-de1b32eab457_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bed48a9a-9433-46cb-b049-de1b32eab457/20240930T172704/bed48a9a-9433-46cb-b049-de1b32eab457_360x203.jpg)](https://www.kagstv.com/article/sports/local-sports/former-bryan-high-school-football-coach-merrill-green-passes-away-on-sept-29-2024-at-94/500-391dc332-582d-4a99-b149-b5485923c2da)
+    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/cspd-seeking-info-from-john-compton-park-basketball-court-fight-shots-fired/500-1f76fbc8-5553-4054-802e-7d183b04496a)
         
-        #### [Former Bryan High School football coach Merrill Green dies at 94](https://www.kagstv.com/article/sports/local-sports/former-bryan-high-school-football-coach-merrill-green-passes-away-on-sept-29-2024-at-94/500-391dc332-582d-4a99-b149-b5485923c2da)
+        #### [College Station PD seeking information on shots fired report from basketball fight](https://www.kagstv.com/article/news/crime/cspd-seeking-info-from-john-compton-park-basketball-court-fight-shots-fired/500-1f76fbc8-5553-4054-802e-7d183b04496a)
         
-    *  [![](https://media.kagstv.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-tx-southgate-village-apartment-shooting-sept-29-2024/500-30acf5b9-6c5e-4118-b418-ae26e215ad56)
+    *  [![](https://media.kagstv.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.kagstv.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-meth-lab-arrests-oct-3-2024/500-98aae414-d863-4880-8df9-f1567b9f2bde)
         
-        #### [No injuries reported in shooting at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-tx-southgate-village-apartment-shooting-sept-29-2024/500-30acf5b9-6c5e-4118-b418-ae26e215ad56)
+        #### [Long-term investigation concludes in five arrested at meth conversion lab in Brazos County](https://www.kagstv.com/article/news/crime/bryan-meth-lab-arrests-oct-3-2024/500-98aae414-d863-4880-8df9-f1567b9f2bde)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-78°
+68°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
