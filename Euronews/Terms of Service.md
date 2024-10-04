@@ -1,4 +1,4 @@
- English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Русский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
+ English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
 
 [Newsletter Newsletters](https://www.euronews.com/newsletters) [Events Events](https://events.euronews.com/events) [Podcasts](https://podcasts.euronews.com/)
 
@@ -10,58 +10,56 @@
     
     Trending
     
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Interest rates](https://www.euronews.com/tag/interest-rates)
-    * [Italy](https://www.euronews.com/tag/italy)
-    * [Ursula von der Leyen](https://www.euronews.com/tag/ursula-von-der-leyen)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [European Union](https://www.euronews.com/tag/european-union)
+    * [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
+    * [European Court of Justice](https://www.euronews.com/tag/european-court-of-justice)
+    * [Health](https://www.euronews.com/tag/health)
+    * [Germany](https://www.euronews.com/tag/germany)
     
     * * *
     
     Latest stories
     
-    [![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")
+    [![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")
     
-    ![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](https://static.euronews.com/articles/stories/08/70/24/56/368x207_cmsv2_43f6d1ae-16b3-5bf1-ab8b-8e9a4d19af4e-8702456.jpg "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
-    
-    Now playing Next
-    
-    [Explore](https://www.euronews.com/travel/travel-series/explore)
-    
-    ### [Uzbek craftsmanship: Knives and Ceramics in the Fergana Valley](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
-    
-    In partnership with **the Tourism Committee of the Republic of Uzbekistan**
-    
-    [![A Tupperware serving set](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A Tupperware serving set")
-    
-    ![A Tupperware serving set](https://static.euronews.com/articles/stories/08/74/39/36/368x207_cmsv2_828b55d5-5586-50da-b7c5-aebd165f0d45-8743936.jpg "A Tupperware serving set")](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
+    ![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](https://static.euronews.com/articles/stories/08/77/15/36/368x207_cmsv2_8c3407e1-d949-5681-a4ac-35ac32fcc6dc-8771536.jpg "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
     
     Now playing Next
     
-    [Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
+    [No Comment](https://www.euronews.com/nocomment)
     
-    ### [The rise and fall of the Tupperware brand](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
+    ### [Severe flooding kills at least fourteen in Bosnia and Herzegovina](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
     
-    [![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")
+    [![Lawmakers during a plenary session in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lawmakers during a plenary session in the European Parliament.")
     
-    ![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](https://static.euronews.com/articles/stories/08/74/35/30/368x207_cmsv2_324fbbf8-e38e-53c4-b76e-1eeea29d92fb-8743530.jpg "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+    ![Lawmakers during a plenary session in the European Parliament.](https://static.euronews.com/articles/stories/07/49/98/20/368x207_cmsv2_43379a26-58dc-5a82-9612-cecf1500cafb-7499820.jpg "Lawmakers during a plenary session in the European Parliament.")](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
     
     Now playing Next
     
     [Tech News](https://www.euronews.com/next/tech-news)
     
-    ### [Europol arrests 51 people and dismantles platform used for cybercrime](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+    ### [European Parliament's legal committee seeks involvement in AI group](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
     
-    [![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")
+    [![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")
     
-    ![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](https://static.euronews.com/articles/stories/08/74/39/22/368x207_cmsv2_de75beb1-e807-55b3-abc2-6b0a91b1e0ac-8743922.jpg "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
+    ![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](https://static.euronews.com/articles/stories/08/77/12/98/368x207_cmsv2_9649c376-eff5-538f-b688-90b78fb85e68-8771298.jpg "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
     
     Now playing Next
     
-    [Space](https://www.euronews.com/next/next-space)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Could these Google-funded satellites help detect wildfires faster?](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
+    ### [Severe flooding after heavy rainstorm in Bosnia kills 15](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+    
+    [![Homeless ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Homeless ")
+    
+    ![Homeless ](https://static.euronews.com/articles/stories/05/14/90/00/368x207_cmsv2_b4cfc883-a71f-5886-bc77-43d94d6988cb-5149000.jpg "Homeless ")](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+    
+    Now playing Next
+    
+    [Hungary](https://www.euronews.com/news/europe/hungary)
+    
+    ### [Census for collecting homeless data begins in Budapest](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -78,8 +76,6 @@
     
     * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
     * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-    * [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
-    * [The Cube](https://www.euronews.com/my-europe/europe-decoded/the-cube)
     * [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
     * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
@@ -107,7 +103,6 @@
     
     Programmes
     
-    * [The Global Conversation](https://www.euronews.com/programs/globalconversation)
     * [Spotlight](https://www.euronews.com/programs/spotlight)
     * [No Comment](https://www.euronews.com/nocomment)
     * [Euronews Witness](https://www.euronews.com/programs/euronews-witness)
@@ -354,70 +349,68 @@ Services
 
 Close menu sidebar
 
- English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Русский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
+ English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
 
 [Latest](https://www.euronews.com/just-in)
 
 Trending
 
-* [European Commission](https://www.euronews.com/tag/eu-commission)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Interest rates](https://www.euronews.com/tag/interest-rates)
-* [Italy](https://www.euronews.com/tag/italy)
-* [Ursula von der Leyen](https://www.euronews.com/tag/ursula-von-der-leyen)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [European Union](https://www.euronews.com/tag/european-union)
+* [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
+* [European Court of Justice](https://www.euronews.com/tag/european-court-of-justice)
+* [Health](https://www.euronews.com/tag/health)
+* [Germany](https://www.euronews.com/tag/germany)
 
 * * *
 
 Latest stories
 
-[![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")
+[![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")
 
-![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](https://static.euronews.com/articles/stories/08/70/24/56/368x207_cmsv2_43f6d1ae-16b3-5bf1-ab8b-8e9a4d19af4e-8702456.jpg "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
-
-Now playing Next
-
-[Explore](https://www.euronews.com/travel/travel-series/explore)
-
-### [Uzbek craftsmanship: Knives and Ceramics in the Fergana Valley](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
-
-In partnership with **the Tourism Committee of the Republic of Uzbekistan**
-
-* * *
-
-[![A Tupperware serving set](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A Tupperware serving set")
-
-![A Tupperware serving set](https://static.euronews.com/articles/stories/08/74/39/36/368x207_cmsv2_828b55d5-5586-50da-b7c5-aebd165f0d45-8743936.jpg "A Tupperware serving set")](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
+![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](https://static.euronews.com/articles/stories/08/77/15/36/368x207_cmsv2_8c3407e1-d949-5681-a4ac-35ac32fcc6dc-8771536.jpg "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
 
 Now playing Next
 
-[Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
+[No Comment](https://www.euronews.com/nocomment)
 
-### [The rise and fall of the Tupperware brand](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
+### [Severe flooding kills at least fourteen in Bosnia and Herzegovina](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
 
 * * *
 
-[![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")
+[![Lawmakers during a plenary session in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lawmakers during a plenary session in the European Parliament.")
 
-![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](https://static.euronews.com/articles/stories/08/74/35/30/368x207_cmsv2_324fbbf8-e38e-53c4-b76e-1eeea29d92fb-8743530.jpg "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+![Lawmakers during a plenary session in the European Parliament.](https://static.euronews.com/articles/stories/07/49/98/20/368x207_cmsv2_43379a26-58dc-5a82-9612-cecf1500cafb-7499820.jpg "Lawmakers during a plenary session in the European Parliament.")](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
 
 Now playing Next
 
 [Tech News](https://www.euronews.com/next/tech-news)
 
-### [Europol arrests 51 people and dismantles platform used for cybercrime](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+### [European Parliament's legal committee seeks involvement in AI group](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
 
 * * *
 
-[![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")
+[![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")
 
-![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](https://static.euronews.com/articles/stories/08/74/39/22/368x207_cmsv2_de75beb1-e807-55b3-abc2-6b0a91b1e0ac-8743922.jpg "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
+![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](https://static.euronews.com/articles/stories/08/77/12/98/368x207_cmsv2_9649c376-eff5-538f-b688-90b78fb85e68-8771298.jpg "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
 
 Now playing Next
 
-[Space](https://www.euronews.com/next/next-space)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Could these Google-funded satellites help detect wildfires faster?](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
+### [Severe flooding after heavy rainstorm in Bosnia kills 15](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+
+* * *
+
+[![Homeless ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Homeless ")
+
+![Homeless ](https://static.euronews.com/articles/stories/05/14/90/00/368x207_cmsv2_b4cfc883-a71f-5886-bc77-43d94d6988cb-5149000.jpg "Homeless ")](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+
+Now playing Next
+
+[Hungary](https://www.euronews.com/news/europe/hungary)
+
+### [Census for collecting homeless data begins in Budapest](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -434,8 +427,6 @@ Programmes
 
 * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
 * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-* [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
-* [The Cube](https://www.euronews.com/my-europe/europe-decoded/the-cube)
 * [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
 * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
@@ -463,7 +454,6 @@ Categories
 
 Programmes
 
-* [The Global Conversation](https://www.euronews.com/programs/globalconversation)
 * [Spotlight](https://www.euronews.com/programs/spotlight)
 * [No Comment](https://www.euronews.com/nocomment)
 * [Euronews Witness](https://www.euronews.com/programs/euronews-witness)
