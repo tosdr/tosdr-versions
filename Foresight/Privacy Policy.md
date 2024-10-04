@@ -14,9 +14,10 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [77k+ Downloads](https://foresight.is/users/)
-* [Updates 2](#)
+* [Updates 3](#)
     
     * [Changelog](https://foresight.is/changelog/)
+    * [New Rolling Funds Model](https://foresight.is/changelog/#2024-10-04-new-rolling-fund)
     * [New live preview option](https://foresight.is/changelog/#2024-09-24-preview)
     * [Blog](https://foresight.is/blog/)
     * [Modeling Revenue Models](https://foresight.is/revenue-models-types/)
@@ -49,7 +50,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [77k+ Downloads](https://foresight.is/users/) [Blog 1](https://foresight.is/blog/) [Changelog 1](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [77k+ Downloads](https://foresight.is/users/) [Blog 1](https://foresight.is/blog/) [Changelog 2](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
