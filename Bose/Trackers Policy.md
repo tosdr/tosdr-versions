@@ -1,8 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Exclusive: The all-new Soundlink Home Speaker. [Shop](https://www.bose.com/SLHM-SPEAKERWIRELESS.html)
+Save $50 on Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html)
 
-Introducing the next-gen SoundLink Flex. [Shop](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html)
+Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
 Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
@@ -21,6 +21,7 @@ Back
     * [Accessories](https://www.bose.com/c/accessories)
     * [All Products](https://www.bose.com/c/all-products)
     
+    * [Fall Sale](https://www.bose.com/c/fall-sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Gift Cards](https://www.bose.com/gift-cards)
@@ -73,20 +74,22 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/47a4a45400604db9/webimage-SLFLXII_Black_Situ_SF_NavFlyout_Mobile.png)
+    [![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
     
-    The Next-Gen SoundLink Flex
+    Ultra Open Earbuds
     
-    ### Music calls](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html "BUY NOW")
+    ### Save $50](https://www.bose.com/c/fall-sale "SHOP")
     
      
     
-    Music calls
-    -----------
+    Ultra Open Earbuds
     
-    Introducing the next-gen SoundLink Flex Speaker
+    Save $50
+    --------
     
-    [BUY NOW](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html "BUY NOW")
+    Pause for nothing — except this first-time-ever deal!
+    
+    [SHOP](https://www.bose.com/c/fall-sale "SHOP")
     
 
 * [Explore](#)
@@ -176,11 +179,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/757d1c13537d9d37/webimage-SF_UOE-Q3_MOBILE-NAV_MULTI.png)
+[![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
 
-ULTRA OPEN EARBUDS
+Ultra Open Earbuds
 
-### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
+### Save $50](https://www.bose.com/c/fall-sale "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw4190bbcf/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
