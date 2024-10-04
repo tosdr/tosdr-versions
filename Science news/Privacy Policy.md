@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")3 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")10 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Brain-controlled bionic limbs are inching closer to reality](https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics)
             
-            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")8 hours ago
+            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")15 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")3 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")10 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
