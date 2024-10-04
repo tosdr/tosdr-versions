@@ -334,25 +334,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Dolo-Dobendan® Halstabletten zuckerfrei mit betäubender Wirkung - bei Halsschmerzen 48St](https://www.medikamente-per-klick.de/product?artnr=06865787&simpleContentAttachmentId=14183&wochenklick)  
-**Sonderpreis**  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/06865787_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=06865787&simpleContentAttachmentId=14183&wochenklick)
+[GAVISCON Dual Suspension mit Zweifachwirkung gegen Sodbrennen (48x10 ml)](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)  
+**Jetzt 10% extra sparen mit Gutschein Code: gaviscon10**  
+[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/16511079_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-19,49 €\*
+44,98 €\*
 
 Ihr Preis:
 
-11,86 €\*
+29,28 €\*
 
 Sie sparen:
 
-7,63 € \-39%
+15,70 € \-35%
 
-2024-10-04 08:30:00
+2024-10-11 11:30:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=06865787&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16511079&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -646,4 +646,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=rhfnnitizruwkdffjdsuwolsgrxhzayn&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=auhgdxirpqyfarmnfwgrftyxtowltssx&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
