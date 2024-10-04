@@ -38,7 +38,9 @@ Sections
 * [Space](https://arstechnica.com/space/)
 * [Tech](https://arstechnica.com/gadgets/)
 
-[Forum](https://arstechnica.com/civis/) [Subscribe](https://arstechnica.com/store/product/subscriptions/)
+[Forum](https://arstechnica.com/civis/)
+
+[Subscribe](https://arstechnica.com/store/product/subscriptions/)
 
 Theme
 
