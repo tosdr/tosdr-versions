@@ -1,20 +1,19 @@
-![](https://mc.yandex.ru/watch/88768123)
+[![](https://static.tildacdn.one/tild3366-6136-4063-b862-626566303530/Kids_full_logo_2.png)](https://kids360.app/)
 
-**  
-Privacy Policy and Personal Data Processing Statement  
+**Privacy Policy and Personal Data Processing Statement**  
 ‍  
-**Throughout this document, “Company”, “We”, “Us”, “Our” and “Ours” refer to:  
+Throughout this document, “Company”, “We”, “Us”, “Our” and “Ours” refer to:  
 ANKO SOLUTIONS LLC  
-email: support@kids360.app**  
-‍**  
+email: support@kids360.app  
+‍  
 Please carefully read our Privacy Policy and personal data processing of “Company”.  
 ‍  
 If you do not agree with the Privacy Policy and do not give your consent to the personal data processing, do not click "Continue" and do not use the Service. Following the principles of good faith and acting in your interest, if you clicked the “Continue” button, it is considered that you have agreed with all the provisions of this Statement without any exception and give your consent to the personal data processing  
   
 Protection of personal data of all Persons registered on the website is of paramount importance to the Company. In order to ensure such protection and taking into account there quirements established by General Data Protection Regulation (GDPR), which is a legislative act adopted by the European Union (EU). TheCompany is obliged to respect the rights of all Persons registered on the website in accordance with the applicable personal data protection laws on the basis of which theCompany operates.  
   
-**General terms  
-**  
+**General terms**  
+  
 This Privacy Policy Statement (hereinafter – “Regulations”) is an official document of theCompany - the owner of the rights to use the service “Kids360” and “Kids360 kid's app".  
 ‍  
 The Company determines the procedure of processing and protecting information regarding the individuals (hereinafter - “ Users”) using services, information, software located at the domain name https://kids360.app  
@@ -28,9 +27,9 @@ This Policy applies to the personal data processing collected by any means, both
   
 This Privacy Policy explains our practice of collecting, using, disclosing and protecting information that is collected via our mobile software and our website (collectively, our“Service”), as well as your choices regarding the collection and use.  
   
-**How we collect and use information  
+**How we collect and use information**  
   
-**We collect and use the following types of information regarding the Parents who use the“Kids360” app: when you create a profile in the “Kids360” app, we may collect your personal information, such as the user first and last name, email address, cell phone number, we also request and use your geolocation data but only one once - at the time of the first login to the app  
+We collect and use the following types of information regarding the Parents who use the“Kids360” app: when you create a profile in the “Kids360” app, we may collect your personal information, such as the user first and last name, email address, cell phone number, we also request and use your geolocation data but only one once - at the time of the first login to the app  
 \- access to the device usage statistics – in order to display information about the usage percentage of other applications on your child's phone exclusively in the confirmed parent's application.  
 ‍  
 The “Kids360” service is used by the Child only by the consent of the Parent, agreeing to this Privacy policy, the Parent consents to the collection, processing and storage of the personal data of the Child. If a parent wants to add children under the age of 13 to his/her profile, theParent must additionally fill in the parental consent form in accordance with the Children'sOnline Privacy Protection Act (COPPA) of 1998. The parental consent form can be found here – Parental consent form.  
@@ -39,9 +38,9 @@ Then the child is able to use the “Kids360” Service connected to the Parent 
   
 The parent may contact us in order to review and / or delete any personal information the Company has collected regarding the child or cancel permission to collect the additional information regarding the child. Please contact us at support@kids360.app if you have questions about your child’s profile.  
   
-**Technical support and cookies  
+**Technical support and cookies**  
 ‍  
-‍**The Company collects information when you communicate using the “Kids360” app. The Company may also save any messages you send to us.  
+‍The Company collects information when you communicate using the “Kids360” app. The Company may also save any messages you send to us.  
 ‍  
 We use this information in order to operate, maintain and provide you with the functions and functionality of the Service and to communicate with you, for example, to send you notifications of your child’s movements, etc. You can control the receipt of emails and text PUSH notifications by visiting Settings in the mobile app. We can also send you app messages (for example, confirmation of a profile, notification of parental consent, confirmation of an order, change or update of the features of the Service, technical and security notifications)  
   
@@ -53,21 +52,21 @@ Information that we automatically collect using the technology when you visit ou
 ‍  
 The Company may also collect analytical data or use third-party analytics tools in order to help us measure the traffic and usage trends of the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, the use of third-party apps, and other information that helps us analyse and improve our Service. Although we are doing our best to respect the privacy preferences of our users, we cannot respond to “Do NotTrack Signals” signals from your browser at this tim  
   
-**Information exchange  
+**Information exchange**  
   
-**We will not disclose personal information to any third parties (including law enforcement,other government agencies, or civil plaintiffs) unless such is required by the law or a courtorder.  
+We will not disclose personal information to any third parties (including law enforcement,other government agencies, or civil plaintiffs) unless such is required by the law or a courtorder.  
   
-**How we protect your information  
-‍**  
+**How we protect your information**  
+‍  
 The Company takes precautions - including legal, organizational, administrative, technical and physical in order to protect the personal data of the User from any unauthorized or accidental access to them, destruction, modification, blocking, copying, distribution, as well as from other illegal actions of third parties.  
 ‍  
 When you use some products, services or apps of the Company or share entries on forums, in chat rooms or social media, the personal data you provide are available to the other users and can be read, collected or used by them. You are responsible for providing this information. For example, if you enter your name and email address in a forum post, such information is public. Please take precautions when using these features.  
 ‍  
-**Your choice about your information use  
-‍**  
+**Your choice about your information use**  
+‍  
 You may refuse to provide any personal information through the Support Service, in whichcase the Company is not be able to provide you with the Services.Change of account information and settings:  
 ‍  
-**Change of account information and settings:**  
+Change of account information and settings:  
   
 You can change the account information, update or modify your personal information bylogging in to your account. You can also stop receiving promotional emails from us byclicking on the “unsubscribe” link provided in such emails. We take every effort to promptlyprocess all requests for cancellation. You cannot deactivate the messages related to theService (for example, account verification, notification of parental consent, orderconfirmation, change or update of the Service features, technical and security notifications).If you have any questions regarding viewing or changing your profile, you can contact usdirectly at support@kids360.app.  
   
@@ -77,7 +76,6 @@ Information is collected by means of the cookies or similar tracking technologie
   
 The Company is not responsible for the practices used by the websites related to the Service, as well as the information or content contained in it. Remember that when you use the link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your viewing and interaction on any third-party website or service, including those that have a link to our website, is subject to its own rules and third-party policies. Before proceeding, review these rules and policies  
   
-**Changes of the privacy policy  
-‍**  
-The Company may, at its sole discretion, modify or update this Privacy Policy. Upon newchanges applying The Company must notify you either by giving prior notice of thesechanges before making the change, or by sending you a direct notice.In order to make sure that your personal data is safe, we communicate confidentiality andsecurity standards to the Company's employees and strictly monitor the implementation ofconfidentiality measures within the Company.If you have any questions regarding the Company's Privacy Policy or the processing of databy the Company, you can contact us at any time.You have the right to send the requests to the Support, including the requests regarding theuse of their personal data, to send revocation of consent to the processing of personal datain writing to the address specified in the General terms section of this provision or bysending of a request.We will obtain prior parental consent if any changes we make to this Policy affect usersunder the age of 13 in a way that requires such consent under COPPA.This privacy policy and personal data processing latest modification is done on November13, 2020  
-‍
+**Changes of the privacy policy**  
+‍  
+The Company may, at its sole discretion, modify or update this Privacy Policy. Upon newchanges applying The Company must notify you either by giving prior notice of thesechanges before making the change, or by sending you a direct notice.In order to make sure that your personal data is safe, we communicate confidentiality andsecurity standards to the Company's employees and strictly monitor the implementation ofconfidentiality measures within the Company.If you have any questions regarding the Company's Privacy Policy or the processing of databy the Company, you can contact us at any time.You have the right to send the requests to the Support, including the requests regarding theuse of their personal data, to send revocation of consent to the processing of personal datain writing to the address specified in the General terms section of this provision or bysending of a request.We will obtain prior parental consent if any changes we make to this Policy affect usersunder the age of 13 in a way that requires such consent under COPPA.This privacy policy and personal data processing latest modification is done on November13, 2020
