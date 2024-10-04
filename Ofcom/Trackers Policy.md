@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
+
+### Building our capabilities: Ofcom's first in-house online trial
+
+4 October 2024](https://www.ofcom.org.uk/phones-and-broadband/access-to-decent-broadband/building-our-capabilities-ofcoms-first-in-house-online-trial/)
+
 [![Holidaymaker looking at mobile phone](/siteassets/resources/images/-news-centre/body-images/2024/new-roaming-alerts-for-uk-holidaymakers/mobile-phone-holiday-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
 
 ### New roaming alerts for UK holidaymakers
@@ -150,12 +156,6 @@
 ### Ofcom investigates broadband network BRSK’s installation of telegraph poles
 
 30 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/)
-
-[![bbc ceefax web1](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ceefax-web1.jpg?width=1920&height=1085&quality=80)
-
-### Marking 50 years since Ceefax - the ‘horse-drawn internet’ - was launched
-
-23 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/marking-50-years-since-ceefax-the-horse-drawn-internet-was-launched/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
