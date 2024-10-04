@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Gut essen mit der Stiftung Warentest: Dreierlei Kartoffel­chips](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Dreierlei-Kartoffelchips-5929037-0/ "Gut essen mit der Stiftung Warentest - Dreierlei Kartoffelchips")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Gut essen mit der Stiftung Warentest: Dreierlei Kartoffel­chips](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Dreierlei-Kartoffelchips-5929037-0/ "Gut essen mit der Stiftung Warentest - Dreierlei Kartoffelchips")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Gut essen mit der Stiftung Warentest: Dreierlei Kartoffel­chips](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Dreierlei-Kartoffelchips-5929037-0/ "Gut essen mit der Stiftung Warentest - Dreierlei Kartoffelchips")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Gut essen mit der Stiftung Warentest: Dreierlei Kartoffel­chips](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Dreierlei-Kartoffelchips-5929037-0/ "Gut essen mit der Stiftung Warentest - Dreierlei Kartoffelchips")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
 
 Service Stiftung Warentest
 
