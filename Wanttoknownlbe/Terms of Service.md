@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/scheppend-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/rapport-verplichte-vaccinatie-nutteloos/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
