@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/yge-visser-een-persoonlijke-ontpopping/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-slavernij-van-de-mensheid-komt-ten-einde/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
