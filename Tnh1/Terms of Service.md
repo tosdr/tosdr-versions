@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_pesquisa_procon_maceio_criancas_assessoria_497085a050.jpg)
+   [![Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/0/csm_maceio_shopping_ascom_b3cf15d39c.png)
+
+programe-se
+
+Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió](https://www.tnh1.com.br/noticia/nid/domingo-de-eleicao-confira-como-sera-o-funcionamento-dos-shoppings-de-maceio/ "Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ")   [![Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_homem_flagra_arranhao_442bb12863.jpg)
+
+em maceió
+
+Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://www.tnh1.com.br/noticia/nid/video-homem-e-flagrado-arranhando-veiculos-no-bairro-do-farol/ "Vídeo: homem é flagrado arranhando veículos no bairro do Farol")   [![Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_pesquisa_procon_maceio_criancas_assessoria_3f642018ef_0000e70537.jpg)
 
 12 de outubro
 
-Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://www.tnh1.com.br/noticia/nid/procon-maceio-divulga-pesquisa-para-o-dia-das-criancas-confira-os-precos/ "Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços")   [![Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_orla_ponta_verde_dmtt_desvios_-_foto_dmtt_bc67125df3.jpeg)
+Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://www.tnh1.com.br/noticia/nid/procon-maceio-divulga-pesquisa-para-o-dia-das-criancas-confira-os-precos/ "Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços")   [![Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_orla_ponta_verde_dmtt_desvios_-_foto_dmtt_bc67125df3.jpeg)
 
 A partir das 19h
 
-Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://www.tnh1.com.br/noticia/nid/servico-de-recapeamento-fecha-avenida-na-orla-de-ponta-verde-nesta-sexta-04-veja-desvios/ "Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
+Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://www.tnh1.com.br/noticia/nid/servico-de-recapeamento-fecha-avenida-na-orla-de-ponta-verde-nesta-sexta-04-veja-desvios/ "Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
 
 Sacola nas mãos
 
-Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
+Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
 
 Na parte alta
 
-Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")   [![Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_17-01-22-Vacinacao-Infantil-Maceio-Shopping-Dra.-Celia-Elder-Maia-SMS-Victor-Vercant-32_2024-10-03-133239_zdmu_e90a22f114.jpg)
-
-Saúde
-
-Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos](https://www.tnh1.com.br/noticia/nid/sem-doses-maceio-suspende-vacinacao-contra-covid-para-criancas-menores-de-cinco-anos/ "Sem doses, Maceió suspende vacinação contra Covid para crianças menores de cinco anos")   [![Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_Vacinacao-Pfizer_2023-12-14-163238_mtor_48db85dc9b.jpg)
-
-por logística
-
-Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local](https://www.tnh1.com.br/noticia/nid/ponto-de-vacinacao-de-shopping-na-parte-alta-de-maceio-funcionara-em-novo-local/ "Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo local")
+Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Ponto de vacinação de shopping na parte alta de Maceió funcionará em novo lo
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
+   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+
+balneabilidade
+
+Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
+
+Programe-se
+
+Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
 
 Alagoas
 
-Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
+Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
 investigações
 
-MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")   [![Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/2/csm_arsal-autoriza-reforco-de-linhas-no-transporte-intermunicipal-para-eleicoes_1d56eee546.jpeg)
+MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")   [![Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_arsal-autoriza-reforco-de-linhas-no-transporte-intermunicipal-para-eleicoes_1d56eee546.jpeg)
 
 ARSAL AUTORIZOU
 
-Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://www.tnh1.com.br/noticia/nid/linhas-do-transporte-intermunicipal-terao-reforco-para-eleicoes-em-alagoas/ "Linhas do transporte intermunicipal terão reforço para eleições em Alagoas")   [![Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/4/csm_afogamento_paifilho_c387cf365c.png)
+Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://www.tnh1.com.br/noticia/nid/linhas-do-transporte-intermunicipal-terao-reforco-para-eleicoes-em-alagoas/ "Linhas do transporte intermunicipal terão reforço para eleições em Alagoas")   [![Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/4/csm_afogamento_paifilho_c387cf365c.png)
 
 Sufoco
 
-Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/guarda-vidas-salvam-pai-e-filho-de-afogamento-na-praia-do-frances/ "Guarda-vidas salvam pai e filho de afogamento na Praia do Francês")   [![Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_menino_morto_pai_9068f16327.png)
-
-alagoano em SP
-
-Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais](https://www.tnh1.com.br/noticia/nid/alagoano-fere-esposa-mata-filho-de-3-anos-a-facadas-e-e-morto-apos-confronto-com-policiais/ "Alagoano fere esposa, mata filho de 3 anos a facadas e é morto após confronto com policiais")   [![Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_leiseca_agenciaalgoas_edcc9260bb.png)
-
-lei seca em Alagoas
-
-Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada](https://www.tnh1.com.br/noticia/nid/venda-de-bebidas-alcoolicas-sera-proibida-no-domingo-de-eleicoes-saiba-quando-sera-retomada/ "Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quando será retomada")
+Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/guarda-vidas-salvam-pai-e-filho-de-afogamento-na-praia-do-frances/ "Guarda-vidas salvam pai e filho de afogamento na Praia do Francês")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Venda de bebidas alcoólicas será proibida no domingo de eleições; saiba quan
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
+   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
+
+latrocínio
+
+Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
 
 24 horas
 
-Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
+Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
 
 Em Inhapi
 
-Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")   [![Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_atila_augusto_corpo_encontrado_-_foto_reproducao_123581a7a9.jpg)
+Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")   [![Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_atila_augusto_corpo_encontrado_-_foto_reproducao_123581a7a9.jpg)
 
 No Benedito Bentes
 
-Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-ha-quatro-dias-e-encontrado-em-matagal/ "Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
+Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-ha-quatro-dias-e-encontrado-em-matagal/ "Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
 
 Sacola nas mãos
 
-Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
+Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
 
 Na parte alta
 
-Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")   [![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_ea9eae19ea.jpg)
-
-Com ajuda de dois
-
-Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")
+Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,23 +206,7 @@ cepa detectada
 
 Bactéria resistente que representa risco global é detectada no Nordeste
 
-Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
-
-acusado de furto
-
-acusado de furto
-
-Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'
-
-Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
-
-em lagoa da canoa
-
-em lagoa da canoa
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")[![Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_angelina-jolie-reproducao_bbdb7241c1.jpg)
+Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_angelina-jolie-reproducao_bbdb7241c1.jpg)
 
 RIVAIS?
 
@@ -230,41 +214,57 @@ RIVAIS?
 
 Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista
 
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")
+Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
 
-[![Morre aos 37 anos ex-goleiro da Ponte que esteve no vice da Sula, em 2013](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/1/csm_Goleiro_Daniel_Guimaraes_-_foto_Divulgacao_-_Arquivo_pessoal_76c3c115db.jpg)
+acusado de furto
 
-Futebol Nacional
+acusado de furto
 
-Futebol Nacional
+Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'
 
-Morre aos 37 anos ex-goleiro da Ponte que esteve no vice da Sula, em 2013
+Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
 
-Morre aos 37 anos ex-goleiro da Ponte que esteve no vice da Sula, em 2013](https://www.tnh1.com.br/noticia/nid/morre-aos-37-anos-ex-goleiro-da-ponte-que-esteve-no-vice-da-sula-em-2013/ "Morre aos 37 anos ex-goleiro da Ponte que esteve no vice da Sula, em 2013")[![Vereadora Tainá de Paula sofre ataque a tiros no Rio de Janeiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/7/csm_vereadora_taina_65f4c0637b.png)
+em lagoa da canoa
 
-Política
+em lagoa da canoa
 
-Política
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
 
-Vereadora Tainá de Paula sofre ataque a tiros no Rio de Janeiro
+Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")
 
-Vereadora Tainá de Paula sofre ataque a tiros no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/vereadora-taina-de-paula-sofre-ataque-a-tiros-no-rio-de-janeiro/ "Vereadora Tainá de Paula sofre ataque a tiros no Rio de Janeiro ")[![Gás Natural Veicular desvaloriza o veículo? Veja mitos e verdades sobre o combustível](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_gas-natural-veicular_11b3017767.jpg)
+[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
 
-fácil de explodir?
+No Paraná
 
-fácil de explodir?
+No Paraná
 
-Gás Natural Veicular desvaloriza o veículo? Veja mitos e verdades sobre o combustível
+Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Gás Natural Veicular desvaloriza o veículo? Veja mitos e verdades sobre o combustível](https://www.tnh1.com.br/noticia/nid/gas-natural-veicular-desvaloriza-o-veiculo-veja-mitos-e-verdades-sobre-o-combustivel/ "Gás Natural Veicular desvaloriza o veículo? Veja mitos e verdades sobre o combustível")[![Saiba como falar de um modo que o seu cachorro entenda melhor](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/c/csm_1_cachorro-comunicacao_freepik_d61217ba40.jpg)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_barco-vira-congo-mortos-reproducao_cbbfc11c94.png)
 
-segundo estudo
+Muitos desaparecidos
 
-segundo estudo
+Muitos desaparecidos
 
-Saiba como falar de um modo que o seu cachorro entenda melhor
+Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas
 
-Saiba como falar de um modo que o seu cachorro entenda melhor](https://www.tnh1.com.br/noticia/nid/saiba-como-falar-de-um-modo-que-o-seu-cachorro-entenda-melhor/ "Saiba como falar de um modo que o seu cachorro entenda melhor")
+Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas](https://www.tnh1.com.br/noticia/nid/barco-superlotado-vira-em-lago-no-congo-e-deixa-ao-menos-78-pessoas-mortas/ "Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas ")[![Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_arena-fonte-nova-reproducao-EC-Bahia_9f21a0d723.jpg)
+
+19 de novembro
+
+19 de novembro
+
+Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador
+
+Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador](https://www.tnh1.com.br/noticia/nid/selecao-brasileira-enfrentara-o-uruguai-na-fonte-nova-em-salvador/ "Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
+
+processo seletivo
+
+processo seletivo
+
+Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever
+
+Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
