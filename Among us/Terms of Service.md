@@ -10,7 +10,6 @@
 * [Wallpapers](https://among-us.io/wallpaper/)
 * [Knowledge Base](https://among-us.io/knowledge-base/)
 * [Other Games](https://among-us.io/games/)
-* [Online casino NZ](https://among-us.io/casino-nz/)
 
 [![Among Us Logo](/wp-content/uploads/2020/09/among-us-logo.png "Among Us Logo")](https://among-us.io/ "Among Us")
 
