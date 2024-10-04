@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)10°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
+* [Reportage](https://www.watson.ch/fr/Reportage/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Jura](https://www.watson.ch/fr/jura/)
 * [France](https://www.watson.ch/fr/france/)
-* [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
+* [Lausanne](https://www.watson.ch/fr/lausanne/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Jura](https://www.watson.ch/fr/jura/)
+* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
-* [Suisse alémanique](https://www.watson.ch/fr/suisse-alemanique/)
+* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
+* [National League](https://www.watson.ch/fr/national-league/)
+* [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Interview](https://www.watson.ch/fr/interview/)
-* [Argent](https://www.watson.ch/fr/argent/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Santé](https://www.watson.ch/fr/sante/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Championnats du monde](https://www.watson.ch/fr/championnats-du-monde/)
 * [People](https://www.watson.ch/fr/people/)
-* [Iran](https://www.watson.ch/fr/iran/)
-* [Israël](https://www.watson.ch/fr/israel/)
-* [Liban](https://www.watson.ch/fr/liban/)
 * [Zurich](https://www.watson.ch/fr/zurich/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
