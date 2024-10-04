@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $1.1 Million in Refunds to Consumers Deceived by Bait-and-Switch Ads for LASIK Vision Correction Procedures](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-11-million-refunds-consumers-deceived-bait-switch-ads-lasik-vision-correction)
+    ### [Federal Trade Commission and Justice Department Participate in Summit with G7 Enforcement Partners on Artificial Intelligence Competition Challenges](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-justice-department-participate-summit-g7-enforcement-partners-artificial)
     
-    October 3, 2024
+    October 4, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
