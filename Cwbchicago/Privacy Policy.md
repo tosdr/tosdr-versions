@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/German-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/bb6-326x245.jpg)](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
 
-Suburbs
+Little Village
 
-### [Suburban man may have robbed 6 banks in a year, FBI says](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
+### [14-year-old found lying dead on street previously monitored by ShotSpotter](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
 
-[October 1, 2024 9:00 AM](https://cwbchicago.com/2024/10)
+[October 2, 2024 7:58 AM](https://cwbchicago.com/2024/10)
 
-The FBI says a suburban man is responsible for robbing six banks over the past year, usually displaying a gun during the robberies, one of which netted him over $16,000 in cash.[](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
+Yet another murder victim has been found lying alone on a street previously monitored by the ShotSpotter gunfire detection system. He is at least the third person found fatally shot without any 911 calls reporting gunfire since Mayor Brandon Johnson ended the city’s relationship with ShotSpotter on September 22.[](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tony-Pearson-r-326x245.jpg)](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/900-blk-w-eastwood-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
 
-Citywide
+Uptown
 
-### [Man charged with shooting at occupied car while on electronic monitoring for machine gun possession](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
+### [Man murdered in Uptown alley is neighborhood’s first homicide of the year](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
 
-[October 1, 2024 6:51 AM](https://cwbchicago.com/2024/10)
+[October 2, 2024 6:45 AM](https://cwbchicago.com/2024/10)
 
-Tony Pearson becomes the very first person added to our list of people accused of shooting, killing, or trying to shoot or kill someone in Chicago while on pretrial release when the pending case also put them on our list.[](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
+A man was shot and killed in an Uptown alley on Tuesday evening, according to Chicago police. He is the first person murdered in the neighborhood this year.[](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/BB5-326x245.jpg)](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Howard-1625-shootout-326x245.jpg)](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
 
-Austin
+Rogers Park
 
-### [Another murder victim is found shot on a street previously monitored by ShotSpotter](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
+### [Sparks fly, windows shatter during near Howard CTA station (video)](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
 
-[October 1, 2024 6:01 AM](https://cwbchicago.com/2024/10)
+[October 1, 2024 3:43 PM](https://cwbchicago.com/2024/10)
 
-Chicago police found a man lying dead with gunshot wounds to his chest and back on a West Side street overnight. There had not been calls of shots fired in the area, which was monitored by ShotSpotter gunfire detectors until last week, for over an hour.[](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
+A shootout near the Howard CTA station on Monday night left bullet holes in cars and shattered windows in business storefronts, but no injuries were reported. It happened at the same spot where a man was essentially executed in the middle of Howard Street earlier this year.[](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
 
 Search
 
@@ -305,6 +305,7 @@ Thank you.
 
 * [Albany Park](https://cwbchicago.com/category/albany-park)
 * [Andersonville](https://cwbchicago.com/category/edgewater/andersonville)
+* [Archer Heights](https://cwbchicago.com/category/archer-heights)
 * [Armour Square](https://cwbchicago.com/category/armour-square)
 * [Ashburn](https://cwbchicago.com/category/ashburn)
 * [Auburn Gresham](https://cwbchicago.com/category/auburn-gresham)
