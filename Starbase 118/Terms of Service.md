@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/september-2024-post-counts/)
+
+### [September 2024 Post Counts](https://www.starbase118.net/2024/september-2024-post-counts/)
+
+amackenzie October 4, 2024
+
+With our Fleet Blockbuster now complete, we saw a large increase in overall sim numbers this month 2,634 total posts – averaging 239 per ship.
+
+[Read More »](https://www.starbase118.net/2024/september-2024-post-counts/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
 
 ### [Poll of the Month:  Starfleet’s Greatest Villains](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
@@ -377,18 +389,6 @@ Jo Marshall October 1, 2024
 Our annual Halloween Avatar Contest is run each year to see who can design the best forum avatars, featuring themes like “Nightmare Before Christmas,” “Sesame
 
 [Read More »](https://www.starbase118.net/2024/grab-your-tricks-and-treats-for-the-14th-anniversary-halloween-avatar-contest/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
-
-### [Lower Decks Interview: Lieutenant Zenno, USS Khitomer](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
-
-docaharford October 1, 2024
-
-We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” harkening back to the Star
-
-[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-zenno-uss-khitomer/)
 
 Ready to get started?
 ---------------------
