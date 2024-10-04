@@ -14,8 +14,8 @@ top of page
     * [Developer Tools](https://www.glui.io/developer-tools)
 * News
     
-    * [Case Studies](https://www.glui.io/case-studies)
     * [Blog](https://www.glui.io/blog)
+    * [Case Studies](https://www.glui.io/case-studies)
 * [Demos](https://www.glui.io/demos)
 * More
     
@@ -758,7 +758,7 @@ contents15
 
 [Sub-Processors](https://www.glui.io/sub-processors)
 
-![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_123,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
+![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
 
 Solutions
 =========
@@ -807,12 +807,12 @@ Resources
 © 2024 Glui Inc.
 ================
 
-[![2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png](https://static.wixstatic.com/media/8dd289_f378ab0fd1d64d2a964186743aa42ca5~mv2.png/v1/fill/w_128,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png)](https://iabeurope.eu/)
+[![2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png](https://static.wixstatic.com/media/8dd289_f378ab0fd1d64d2a964186743aa42ca5~mv2.png/v1/fill/w_128,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png)](https://iabeurope.eu/)
 
-![PMA-22-Winner-Badge.png](https://static.wixstatic.com/media/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png/v1/fill/w_75,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png)
+![PMA-22-Winner-Badge.png](https://static.wixstatic.com/media/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png/v1/fill/w_75,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png)
 
-![AWARDS-BADGES_Digital-Advertising.png](https://static.wixstatic.com/media/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png/v1/fill/w_156,h_55,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png)
+![AWARDS-BADGES_Digital-Advertising.png](https://static.wixstatic.com/media/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png/v1/fill/w_156,h_53,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png)
 
-![sl-logo black.png](https://static.wixstatic.com/media/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png/v1/fill/w_69,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png)
+![sl-logo black.png](https://static.wixstatic.com/media/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png/v1/fill/w_69,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png)
 
 bottom of page
