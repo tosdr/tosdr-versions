@@ -1,4 +1,4 @@
-Friday, October 4 2024
+Saturday, October 5 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -184,7 +184,7 @@ Quick Guides
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -208,7 +208,7 @@ Quick Guides
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -234,7 +234,7 @@ Quick Guides
     
     [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
     
-    3 days ago
+    4 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
