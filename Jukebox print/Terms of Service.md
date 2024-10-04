@@ -241,7 +241,7 @@ EUR
     
     Information[#### Rubber Stamps](https://www.jukeboxprint.com/rubber-stamps)[Increase brand recognition, save time and personalize products with rubber stamps. From labeling to business cards, it truly is a timeless branding accessory.](https://www.jukeboxprint.com/rubber-stamps)
     
-    Information[#### Custom Brochures](https://www.jukeboxprint.com/brochures)[Our brochures boast full, luminescent colour - on one or both sides - and are produced in the unique options you’ve been looking for!](https://www.jukeboxprint.com/brochures)
+    Information[#### Custom Brochures](https://www.jukeboxprint.com/brochures)[Design brochures that stand out with premium papers, creative folds, and bold colors. Bring your vision to life with just a few clicks.](https://www.jukeboxprint.com/brochures)
     
     Information[#### Table Tent Cards](https://www.jukeboxprint.com/table-tent-cards)[Whether your business is running competitions or special promotions, there’s no better way to showcase it than with table tent cards.](https://www.jukeboxprint.com/table-tent-cards)
     
