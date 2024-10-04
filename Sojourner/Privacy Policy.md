@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b90cf682f33500645aa7e2919c5af8b5
+a889c4979456cf5c0a9125509fe7e61e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![German coral clasp](https://www.sojourner.biz/images/cache/SKU0334-1front.200.jpg)](https://www.sojourner.biz/clasps/glass/german-coral-clasp.html "German coral clasp")
+[![Sterling silver twisted knot bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0025.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
 
-#### [German coral clasp](https://www.sojourner.biz/clasps/glass/german-coral-clasp.html "German coral clasp")
+#### [Sterling silver twisted knot bracelet](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
 
-$20.50
+$75.00
 
 ### Best Sellers
 
