@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
-* [A Girl In The Gaming Store](https://www.somethingawful.com/comedy-goldmine/girl-gaming-store/1/)
-* [Script: Baywatch: Terror on Sandy Beach!](https://www.somethingawful.com/feature-articles/script-baywatch-terror/1/)
-* [Chapter Twenty One](https://www.somethingawful.com/feature-articles/chapter-twenty-one/1/)
-* [Making Reading Fun Through Trickery](https://www.somethingawful.com/photoshop-phriday/literal-book-covers/1/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [It's a Trek, Trek, Trek, Trek World](https://www.somethingawful.com/comedy-goldmine/its-trek-trek/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [The Grim Darkness of Warhammer Fantasy Roleplay Art](https://www.somethingawful.com/dungeons-and-dragons/mordheim-warhammer-art/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Is the entire concept of soda insane to anyone else?](http://forums.somethingawful.com/showthread.php?threadid=4071823 "Is the entire concept of soda insane to anyone else?")
-* ![](https://fi.somethingawful.com/forums/posticons/aids.png) [How will you die?](http://forums.somethingawful.com/showthread.php?threadid=4071839 "How will you die?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Old Friends who became freaks](http://forums.somethingawful.com/showthread.php?threadid=4071916 "Old Friends who became freaks")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Does anyone know where Seth Altman is?](http://forums.somethingawful.com/showthread.php?threadid=4071899 "Does anyone know where Seth Altman is?")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Video games from your childhood that were fucking impossible to beat](http://forums.somethingawful.com/showthread.php?threadid=4071872 "Video games from your childhood that were fucking impossible to beat")
 
 ### Random Articles
 
-* [Bollcrap (Part I of II)](https://www.somethingawful.com/news/bollcrap-part-ii/)
-* [Become A Video Game Programmer In Ten Minutes](https://www.somethingawful.com/news/game-program-code/)
-* [MosquitoMan](https://www.somethingawful.com/movie-reviews/mosquitoman/1/)
-* [Blameby Beta User Tutorial](https://www.somethingawful.com/news/blameby-baby-blame/1/)
-* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
+* [They Built It, We Can Destroy It](https://www.somethingawful.com/news/rnc-convention-romney/1/)
+* [Turkey Day](https://www.somethingawful.com/flash-tub/turkey-day/)
+* [Hey, Pitbull, Your Planet Sucks](https://www.somethingawful.com/news/pitbull-commercials/)
+* [The Madness of OH! Mikey (Part Two)](https://www.somethingawful.com/feature-articles/madness-oh-mikey-2/)
+* [Half Life 2 Gone Gold!](https://www.somethingawful.com/news/half-life-gone/)
 
 [Random!](https://www.somethingawful.com/random/)
 
