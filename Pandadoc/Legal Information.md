@@ -192,7 +192,7 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
 
 ![Calendar](https://public-site.marketing.pandadoc-static.com/assets/assets/demo/calendar-e6961218d7.png)
 
-* Contact Sales
+* Product
     
     * Platform
         * [Product overview](https://www.pandadoc.com/product-overview/)
