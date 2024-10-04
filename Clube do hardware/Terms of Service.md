@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_101690627_menu)
+ [Compartilhar](#elShareItem_1763936978_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1817572263_menu)
+ [Compartilhar](#elShareItem_993683069_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Luiz9559](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252658.thumb.png.aa3b9de73b204cb034e5a3d293d04180.png)](https://www.clubedohardware.com.br/profile/1252658-luiz9559/ "Ir ao perfil de Luiz9559")
+    * [![Awaken](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/565662-awaken/ "Ir ao perfil de Awaken")
         
         0
         
-        [Tenho uma A320m a pro com Ryzen 5 5500.](https://www.clubedohardware.com.br/forums/topic/1698901-tenho-uma-a320m-a-pro-com-ryzen-5-5500/?do=getNewComment "Tenho uma A320m a pro com Ryzen 5 5500.")
+        VENDO [Memória DDR5 G.Skill Trident Z5 RGB 32GB (2 x 16GB) 6800MHz cl34 - NOVA](https://www.clubedohardware.com.br/forums/topic/1698913-mem%C3%B3ria-ddr5-gskill-trident-z5-rgb-32gb-2-x-16gb-6800mhz-cl34-nova/?do=getNewComment "Memória DDR5 G.Skill Trident Z5 RGB 32GB (2 x 16GB) 6800MHz cl34 - NOVA")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Luiz9559](https://www.clubedohardware.com.br/profile/1252658-luiz9559/ "Ir ao perfil de Luiz9559")  
-        56 minutos atrás
+        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
+        Por [Awaken](https://www.clubedohardware.com.br/profile/565662-awaken/ "Ir ao perfil de Awaken")  
+        9 minutos atrás
         
-    * [![João Eduardo Caldeira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254018.thumb.jpeg.f53a1a6a4e9a9d7ccfddcc2005a0720e.jpeg)](https://www.clubedohardware.com.br/profile/1254018-jo%C3%A3o-eduardo-caldeira/ "Ir ao perfil de João Eduardo Caldeira")
-        
-        0
-        
-        [Meu Notebook sobrecarrega a CPU e a RAM muito rapidamente.](https://www.clubedohardware.com.br/forums/topic/1698900-meu-notebook-sobrecarrega-a-cpu-e-a-ram-muito-rapidamente/?do=getNewComment "Meu Notebook sobrecarrega a CPU e a RAM muito rapidamente.")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [João Eduardo Caldeira](https://www.clubedohardware.com.br/profile/1254018-jo%C3%A3o-eduardo-caldeira/ "Ir ao perfil de João Eduardo Caldeira")  
-        2 horas atrás
-        
-    * [![Bernardo Sales](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254017.thumb.jpeg.e5254c5f2fb4bcac10af1ea93d587de5.jpeg)](https://www.clubedohardware.com.br/profile/1254017-bernardo-sales/ "Ir ao perfil de Bernardo Sales")
-        
-        1
-        
-        [Windows não inicia após instalação dos drivers da placa de vídeo (RX 580)](https://www.clubedohardware.com.br/forums/topic/1698899-windows-n%C3%A3o-inicia-ap%C3%B3s-instala%C3%A7%C3%A3o-dos-drivers-da-placa-de-v%C3%ADdeo-rx-580/?do=getNewComment "Windows não inicia após instalação dos drivers da placa de vídeo (RX 580)")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Bernardo Sales](https://www.clubedohardware.com.br/profile/1254017-bernardo-sales/ "Ir ao perfil de Bernardo Sales")  
-        3 horas atrás
-        
-    * [![Chanspinguer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462aa%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1237718-chanspinguer/ "Ir ao perfil de Chanspinguer")
-        
-        2
-        
-        [Opiniões e sugestões sobre setup.](https://www.clubedohardware.com.br/forums/topic/1698898-opini%C3%B5es-e-sugest%C3%B5es-sobre-setup/?do=getNewComment "Opiniões e sugestões sobre setup.")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Chanspinguer](https://www.clubedohardware.com.br/profile/1237718-chanspinguer/ "Ir ao perfil de Chanspinguer")  
-        4 horas atrás
-        
-    * [![Bloodmanbr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249168.thumb.png.b25c479047bf312438b056d9841b6981.png)](https://www.clubedohardware.com.br/profile/1249168-bloodmanbr/ "Ir ao perfil de Bloodmanbr")
+    * [![aneliza](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254026.thumb.jpeg.95bdae3c73cc1f8fd0c07dd95b7497b7.jpeg)](https://www.clubedohardware.com.br/profile/1254026-aneliza/ "Ir ao perfil de aneliza")
         
         0
         
-        [Lista fina no monitor x PS5](https://www.clubedohardware.com.br/forums/topic/1698897-lista-fina-no-monitor-x-ps5/?do=getNewComment "Lista fina no monitor x PS5")
+        [como sei quantos Hz minha placa de vídeo aguenta?](https://www.clubedohardware.com.br/forums/topic/1698912-como-sei-quantos-hz-minha-placa-de-v%C3%ADdeo-aguenta/?do=getNewComment "como sei quantos Hz minha placa de vídeo aguenta?")
         
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Bloodmanbr](https://www.clubedohardware.com.br/profile/1249168-bloodmanbr/ "Ir ao perfil de Bloodmanbr")  
-        5 horas atrás
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [aneliza](https://www.clubedohardware.com.br/profile/1254026-aneliza/ "Ir ao perfil de aneliza")  
+        20 minutos atrás
         
-    * [![LUIS GUSTAVO FS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1243334.thumb.png.878e23b8b8d40a7a696b7ab518a20a1d.png)](https://www.clubedohardware.com.br/profile/1243334-luis-gustavo-fs/ "Ir ao perfil de LUIS GUSTAVO FS")
+    * [![Nicholas Machado](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ENM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254025-nicholas-machado/ "Ir ao perfil de Nicholas Machado")
+        
+        4
+        
+        [Meu computador esta reiniciando sem motivos e com peças novas.](https://www.clubedohardware.com.br/forums/topic/1698911-meu-computador-esta-reiniciando-sem-motivos-e-com-pe%C3%A7as-novas/?do=getNewComment "Meu computador esta reiniciando sem motivos e com peças novas.")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Nicholas Machado](https://www.clubedohardware.com.br/profile/1254025-nicholas-machado/ "Ir ao perfil de Nicholas Machado")  
+        29 minutos atrás
+        
+    * [![Luiz Augustto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250818.thumb.jpeg.2c7705f7c4466da1307526c6510b736d.jpeg)](https://www.clubedohardware.com.br/profile/1250818-luiz-augustto/ "Ir ao perfil de Luiz Augustto")
         
         0
         
-        [Brick Rigs: erro no directx](https://www.clubedohardware.com.br/forums/topic/1698896-brick-rigs-erro-no-directx/?do=getNewComment "Brick Rigs: erro no directx")
+        [Mouse sem fio até R$ 250](https://www.clubedohardware.com.br/forums/topic/1698910-mouse-sem-fio-at%C3%A9-r-250/?do=getNewComment "Mouse sem fio até R$ 250")
         
-        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
-        Por [LUIS GUSTAVO FS](https://www.clubedohardware.com.br/profile/1243334-luis-gustavo-fs/ "Ir ao perfil de LUIS GUSTAVO FS")  
-        5 horas atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Luiz Augustto](https://www.clubedohardware.com.br/profile/1250818-luiz-augustto/ "Ir ao perfil de Luiz Augustto")  
+        30 minutos atrás
         
-    * [![Vitor09.8](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254014.thumb.png.94a3b25824fa64dff759a1e7e038a43a.png)](https://www.clubedohardware.com.br/profile/1254014-vitor098/ "Ir ao perfil de Vitor09.8")
+    * [![Ram0N](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/GameXP.thumb.jpg.64745a5765033c507fa95988da9fa3b3.jpg)](https://www.clubedohardware.com.br/profile/647070-ram0n/ "Ir ao perfil de Ram0N")
         
-        1
+        0
         
-        [memória RAM afeta a fluidez do computador?](https://www.clubedohardware.com.br/forums/topic/1698895-mem%C3%B3ria-ram-afeta-a-fluidez-do-computador/?do=getNewComment "memória RAM afeta a fluidez do computador?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Vitor09.8](https://www.clubedohardware.com.br/profile/1254014-vitor098/ "Ir ao perfil de Vitor09.8")  
-        5 horas atrás
-        
-    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
-        
-        2
-        
-        [Sabem se é normal não ter o cabo reset Sw?](https://www.clubedohardware.com.br/forums/topic/1698891-sabem-se-%C3%A9-normal-n%C3%A3o-ter-o-cabo-reset-sw/?do=getNewComment "Sabem se é normal não ter o cabo reset Sw?")
+        [Gabinete Aquário ou Normal](https://www.clubedohardware.com.br/forums/topic/1698909-gabinete-aqu%C3%A1rio-ou-normal/?do=getNewComment "Gabinete Aquário ou Normal")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
-        6 horas atrás
+        Por [Ram0N](https://www.clubedohardware.com.br/profile/647070-ram0n/ "Ir ao perfil de Ram0N")  
+        46 minutos atrás
         
-    * [![Tais059](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254013.thumb.png.22c217c411eca3d01a266f4a59cdbdb9.png)](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")
+    * [![Weldson Junior](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249180.thumb.png.06d266c3e1405fab72b75fad32d74028.png)](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")
+        
+        0
+        
+        [SSD Pci 4.0 para acompanhar msi b550 gaming plus + Ryzen 7 5700x de 512gb](https://www.clubedohardware.com.br/forums/topic/1698908-ssd-pci-40-para-acompanhar-msi-b550-gaming-plus-ryzen-7-5700x-de-512gb/?do=getNewComment "SSD Pci 4.0 para acompanhar msi b550 gaming plus + Ryzen 7 5700x de 512gb")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Weldson Junior](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")  
+        1 hora atrás
+        
+    * [![Vitoria Gabriela](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/zero-two-darling-in-the-franxx.thumb.gif.675a8de1d34ce608373052b7255375bb.gif)](https://www.clubedohardware.com.br/profile/961554-vitoria-gabriela/ "Ir ao perfil de Vitoria Gabriela")
+        
+        9
+        
+        [Qual marca fabricante de GPUs tem a construção e refrigeração melhor?](https://www.clubedohardware.com.br/forums/topic/1698907-qual-marca-fabricante-de-gpus-tem-a-constru%C3%A7%C3%A3o-e-refrigera%C3%A7%C3%A3o-melhor/?do=getNewComment "Qual marca fabricante de GPUs tem a construção e refrigeração melhor?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Vitoria Gabriela](https://www.clubedohardware.com.br/profile/961554-vitoria-gabriela/ "Ir ao perfil de Vitoria Gabriela")  
+        1 hora atrás
+        
+    * [![Thiago SNF](https://www.clubedohardware.com.br/uploads/members/monthly_2019_07/43171491_CronoCatprofilepacotinho.thumb.jpg.478307e4647306f797649179e086ad72.jpg)](https://www.clubedohardware.com.br/profile/674365-thiago-snf/ "Ir ao perfil de Thiago SNF")
+        
+        0
+        
+        [Monitor fica um tempo sem dar sinal após queda de energia](https://www.clubedohardware.com.br/forums/topic/1698905-monitor-fica-um-tempo-sem-dar-sinal-ap%C3%B3s-queda-de-energia/?do=getNewComment "Monitor fica um tempo sem dar sinal após queda de energia")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Thiago SNF](https://www.clubedohardware.com.br/profile/674365-thiago-snf/ "Ir ao perfil de Thiago SNF")  
+        3 horas atrás
+        
+    * [![2jz](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/imagem_2023-03-27_223157994.thumb.png.dfb6a6582476ec4d77e0bc3ec9a9fa1c.png)](https://www.clubedohardware.com.br/profile/1126185-2jz/ "Ir ao perfil de 2jz")
         
         2
         
-        [Quero saber quais jogos rodam nesse Pc](https://www.clubedohardware.com.br/forums/topic/1698890-quero-saber-quais-jogos-rodam-nesse-pc/?do=getNewComment "Quero saber quais jogos rodam nesse Pc")
+        [Vale a pena vender meu monitor pra comprar outro?](https://www.clubedohardware.com.br/forums/topic/1698904-vale-a-pena-vender-meu-monitor-pra-comprar-outro/?do=getNewComment "Vale a pena vender meu monitor pra comprar outro?")
         
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [Tais059](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")  
-        6 horas atrás
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [2jz](https://www.clubedohardware.com.br/profile/1126185-2jz/ "Ir ao perfil de 2jz")  
+        3 horas atrás
         
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![mrcosvnz_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/2a7eb8c37761f0817dc4f96fdaa7f194.thumb.jpg.473ffac547c802f8c6722131329863ae.jpg)](https://www.clubedohardware.com.br/profile/1254019-mrcosvnz_/ "Ir ao perfil de mrcosvnz_")
         
         1
         
-        [Esponja EVA cases HD, pode danificar o HD?](https://www.clubedohardware.com.br/forums/topic/1698889-esponja-eva-cases-hd-pode-danificar-o-hd/?do=getNewComment "Esponja EVA cases HD, pode danificar o HD?")
+        [memória RAM, é a solução do meu pc?](https://www.clubedohardware.com.br/forums/topic/1698903-mem%C3%B3ria-ram-%C3%A9-a-solu%C3%A7%C3%A3o-do-meu-pc/?do=getNewComment "memória RAM, é a solução do meu pc?")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        6 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [mrcosvnz\_](https://www.clubedohardware.com.br/profile/1254019-mrcosvnz_/ "Ir ao perfil de mrcosvnz_")  
+        5 horas atrás
         
     
 
