@@ -1,6 +1,6 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/4sJT/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/1yVa/)
 
-[Home](https://ytmp3.cc/4sJT/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
+[Home](https://ytmp3.cc/1yVa/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Copyright Claims
 ================
@@ -31,4 +31,4 @@ Copyright Claims
     * Your name, address, telephone number, email address and a statement that you consent to the jurisdiction of the courts in the address you provided, Anguilla and the location(s) in which the purported copyright owner is located; and
     * A statement that you will accept service of process from the purported copyright owner or its agent.
 
-[Contact](https://ytmp3.cc/contact/)[Copyright Claims](https://ytmp3.cc/copyright-claims/)[Privacy Policy](https://ytmp3.cc/privacy-policy/)[Terms of Use](https://ytmp3.cc/terms-of-use/)
+[Contact](https://ytmp3.cc/contact-1/)[Copyright Claims](https://ytmp3.cc/copyright-claims-1/)[Privacy Policy](https://ytmp3.cc/privacy-policy-1/)[Terms of Use](https://ytmp3.cc/terms-of-use-1/)
