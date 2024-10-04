@@ -13,7 +13,7 @@
         
     * [On Sale](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Favorites](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -192,9 +192,9 @@ Hi
         
     * [New! (46)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (43)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (42)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Favorites (41)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (41)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -213,7 +213,7 @@ Hi
             
         * [Plant-Based Milk (14)](https://www.smithbrothersfarms.com/non-dairy-3)
             
-        * [Half & Half, Creamers (16)](https://www.smithbrothersfarms.com/flavored-creamers)
+        * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
         * [Buttermilk & Sour Cream (2)](https://www.smithbrothersfarms.com/buttermilk)
             
