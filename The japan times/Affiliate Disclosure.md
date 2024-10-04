@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 04, 2024](https://www.japantimes.co.jp/archive/2024/10/04/ "archive page")
+[October 05, 2024](https://www.japantimes.co.jp/archive/2024/10/05/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
 
-[Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+[Further BOJ rate hike this year in doubt after Ishiba's surprise warning](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
 
-  [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+  [![Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425665.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.")](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
 
-[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+[Consumer consultations by foreign visitors to Japan on the rise](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
 
-  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+  [![The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425678.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.")](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
 
-[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+[How climate change affects Japan's typhoons](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
 
-  [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+  [![A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425780.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.")](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
 
-[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
-  [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+  [![Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.")](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
 Editors' Picks
 --------------
@@ -163,31 +163,33 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Massive carry trade still lurks in the shadows and looms over markets](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
+[Further BOJ rate hike this year in doubt after Ishiba's surprise warning](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
 
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
 
-  [![Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425250.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Traders borrow in currencies where rates are low and put that money to work in economies where rates are high, pocketing the difference.")](https://www.japantimes.co.jp/business/2024/10/02/markets/carry-trade-focus/ "Massive carry trade still lurks in the shadows and looms over markets")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
-
-  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+  [![Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425665.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.")](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Blast from unexploded ordnance halts flights at Japanese regional airport](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+[Consumer consultations by foreign visitors to Japan on the rise](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
 
-  [![Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425510.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Unexploded ordnance detonates near a taxiway at Miyazaki Airport on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/02/japan/miyazaki-airport-flights-canceled/ "Blast from unexploded ordnance halts flights at Japanese regional airport")
+  [![The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425678.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.")](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
 
-[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+[How climate change affects Japan's typhoons](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+  [![A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425780.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.")](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+
+By [Momoka Yokoyama](https://www.japantimes.co.jp/author/4573/momoka-yokoyama/ "Momoka Yokoyama")  
+
+  [![Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.")](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
 
 Podcast
 -------
@@ -250,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan's three major business lobbies submit policy requests to Ishiba](https://www.japantimes.co.jp/business/2024/10/04/business-lobbies-policy-requests/ "Japan's three major business lobbies submit policy requests to Ishiba")
+
+3 hours ago
+
+[EU presses ahead with Chinese EV tariffs after split vote](https://www.japantimes.co.jp/business/2024/10/04/eu-china-ev-tariffs/ "EU presses ahead with Chinese EV tariffs after split vote")
+
+4 hours ago
+
+[Japan says Paul Watson case 'nothing to do with whaling'](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/paul-watson-case-whaling/ "Japan says Paul Watson case 'nothing to do with whaling'")
+
+4 hours ago
+
+[Seven & I considering supermarket stake sale ahead of IPO, sources say](https://www.japantimes.co.jp/business/2024/10/04/seven-i-supermarket-unit/ "Seven & I considering supermarket stake sale ahead of IPO, sources say")
+
+4 hours ago
+
 [Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-28 mins ago
-
-[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
-
-46 mins ago
-
-[Meteorological agency ramps up 'tsunami flag' awareness efforts](https://www.japantimes.co.jp/news/2024/10/04/japan/science-health/tsunami-flag-awareness/ "Meteorological agency ramps up 'tsunami flag' awareness efforts")
-
-1 hours ago
-
-[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
-
-2 hours ago
-
-[Suspect in violent Kanto burglaries placed on public wanted list](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/tokorozawa-robbery/ "Suspect in violent Kanto burglaries placed on public wanted list")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
