@@ -43,7 +43,7 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
@@ -346,7 +346,7 @@ Cookie Settings
     -----
     
 * [Product Care](https://www.tempurpedic.com/product-care/)
-* [Law Tags](https://assets-www.tempurpedic.com/media/documents/Tempur-Pedic_Law_Tags_01-31-24.pdf)
+* [Law Tags](https://assets-www.tempurpedic.com/media/documents/Tempur-Pedic_Law_Tags_10-04-24.pdf)
 * [Pre-Qualification and Financing](https://www.tempurpedic.com/finance-your-purchase/)
 * [Offers](https://www.tempurpedic.com/offers/)
 * [CPSIA Certificates](https://admin-www.tempurpedic.com/documents/21/Tempur_GCC_11.21.19.pdf)
@@ -432,7 +432,7 @@ Learn
 
 [Product Care](https://www.tempurpedic.com/product-care/)
 
-[Law Tags](https://assets-www.tempurpedic.com/media/documents/Tempur-Pedic_Law_Tags_01-31-24.pdf)
+[Law Tags](https://assets-www.tempurpedic.com/media/documents/Tempur-Pedic_Law_Tags_10-04-24.pdf)
 
 [Pre-Qualification and Financing](https://www.tempurpedic.com/finance-your-purchase/)
 
