@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-97b8b3f43dee06c481e48155ea5f5243
+7e6635efb016dbc52b42a9704475061c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm round speckled Czech glass beads](https://www.sojourner.biz/images/cache/glass/GL0312.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-round-speckled-czech-glass-beads.html "8 mm round speckled Czech glass beads")
+[![4 mm round brown pearls](https://www.sojourner.biz/images/cache/pearls/PE0090.200.jpg)](https://www.sojourner.biz/beads/pearls/4-mm-round-brown-pearls.html "4 mm round brown pearls")
 
-#### [8 mm round speckled Czech glass beads](https://www.sojourner.biz/beads/glass/8-mm-round-speckled-czech-glass-beads.html "8 mm round speckled Czech glass beads")
+#### [4 mm round brown pearls](https://www.sojourner.biz/beads/pearls/4-mm-round-brown-pearls.html "4 mm round brown pearls")
 
-$4.00
+$15.00
 
 ### Best Sellers
 
