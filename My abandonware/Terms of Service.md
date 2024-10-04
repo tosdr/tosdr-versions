@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Scrabble Blast Deluxe](https://www.myabandonware.com/game/scrabble-blast-deluxe-t0n)
-* [Scrabble Blast!](https://www.myabandonware.com/game/scrabble-blast-sik)
-* [Scrabble Rack Attack](https://www.myabandonware.com/game/scrabble-rack-attack-sij)
-* [Summer Athletics 2009](https://www.myabandonware.com/game/summer-athletics-2009-szd)
-* [Silent Scope](https://www.myabandonware.com/game/silent-scope-snq)
+* [Who am I?: Birds, Trees, and Flowers](https://www.myabandonware.com/game/who-am-i-birds-trees-and-flowers-s4t)
+* [Samurai Shodown 64](https://www.myabandonware.com/game/samurai-shodown-64-so0)
+* [Samurai Shodown 64: Warriors Rage](https://www.myabandonware.com/game/samurai-shodown-64-warriors-rage-snz)
+* [Samba De Amigo](https://www.myabandonware.com/game/samba-de-amigo-sny)
+* [Samba de Amigo ver. 2000](https://www.myabandonware.com/game/samba-de-amigo-ver-2000-snx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
