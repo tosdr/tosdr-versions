@@ -137,7 +137,7 @@ Quick Guides
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    7 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -181,6 +181,16 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
+    
+    [揭秘2024年令吉升值的原因](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
+    
+    3 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/10/bonds-220x150.jpg)](https://fifthperson.com/bonds-vs-bond-etfs/)
     
     [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
@@ -194,16 +204,6 @@ Quick Guides
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
-    
-    [揭秘2024年令吉升值的原因](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
-    
-    3 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
