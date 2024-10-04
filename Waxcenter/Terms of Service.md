@@ -96,7 +96,7 @@
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 * [Get $10](https://waxcenter.com/pages/refer-a-friend?traffic_source=mobile_menu)
 * [Book Appointment](https://reservations.waxcenter.com/webstoreNew/user/signIn)
-* ![](//waxcenter.com/cdn/shop/t/370/assets/Black.png?v=9767089384246187071727710338) First Wax Free
+* ![](//waxcenter.com/cdn/shop/t/372/assets/Black.png?v=9767089384246187071728042409) First Wax Free
 
 [Log in](https://waxcenter.com/account/login)
 
