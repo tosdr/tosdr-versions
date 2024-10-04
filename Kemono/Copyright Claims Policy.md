@@ -18,7 +18,7 @@
 
 Community
 
-[Partychan](https://chan.kemono.party/) [Telegram](https://t.me/kemonopartywelcome) [AI JERK OF🫦](https://s.zlinkl.com/d.php?z=5301988) [ThePornDude](https://theporndude.com/?kemono.party)
+[Partychan](https://chan.kemono.party/) [Telegram](https://t.me/kemonopartywelcome) [AI JERK OFF🫦](https://s.zlinkl.com/d.php?z=5301988) [ThePornDude](https://theporndude.com/?kemono.party)
 
 ![](/static/menu.svg)
 
