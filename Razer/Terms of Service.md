@@ -379,6 +379,7 @@ Switch to
             * [Razer BlackWidow V4](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4)
             * [Razer BlackWidow V4 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-75)
             * [Razer BlackWidow V4 X](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-x)
+            * [Razer BlackWidow V4 Mini HyperSpeed](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-mini-hyperspeed)
             * [Razer BlackWidow V3 Tenkeyless](https://www.razer.com/gaming-keyboards/razer-blackwidow-v3-tenkeyless)
             
         * Low-Profile
@@ -417,6 +418,7 @@ Switch to
             * [Razer BlackWidow V4](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4)
             * [Razer BlackWidow V4 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-75)
             * [Razer BlackWidow V4 X](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-x)
+            * [Razer BlackWidow V4 Mini HyperSpeed](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-mini-hyperspeed)
             * [Razer BlackWidow V3 Tenkeyless](https://www.razer.com/gaming-keyboards/razer-blackwidow-v3-tenkeyless)
             
         * DeathStalker
