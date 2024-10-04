@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Resilience
+[Joy
 
-### Hurricanes and wildfires are closing schools. How can students get back on track?](https://www.csmonitor.com/USA/Education/2024/1004/hurricane-helene-schools-climate-wildfires "Hurricanes and wildfires are closing schools. How can students get back on track?")
+### Vibrant times for children’s rhymes](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1004/Vibrant-times-for-children-s-rhymes "Vibrant times for children’s rhymes")
 
-[Equality
+[Prosperity
 
-### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
+### Harris and Trump spar over economic impact of taxes and tariffs](https://www.csmonitor.com/Business/2024/1004/harris-trump-taxes-tariffs-economy "Harris and Trump spar over economic impact of taxes and tariffs")
 
 [Trust
 
-### Forgiveness in time of war](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1003/Forgiveness-in-time-of-war "Forgiveness in time of war")
+### Neighbors, eye to eye? Where a politics writer found America’s new comfort zone.](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2434 "Neighbors, eye to eye? Where a politics writer found America’s new comfort zone.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
