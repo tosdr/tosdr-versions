@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-35d103bb35a87324adbb30f287f70011
+501a1a888e0b9d4ab252109f94038689
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm faceted light amethyst beads](https://sojourner.biz/images/cache/amethyst/YST015.200.jpg)](https://sojourner.biz/beads/stone-a-l/amethyst/10-mm-faceted-light-amethyst-beads.html "10 mm faceted light amethyst beads")
+[![Green rose clasp](https://sojourner.biz/images/cache/SKU0015front.200.jpg)](https://sojourner.biz/clasps/glass/green-rose-clasp.html "Green rose clasp")
 
-#### [10 mm faceted light amethyst beads](https://sojourner.biz/beads/stone-a-l/amethyst/10-mm-faceted-light-amethyst-beads.html "10 mm faceted light amethyst beads")
+#### [Green rose clasp](https://sojourner.biz/clasps/glass/green-rose-clasp.html "Green rose clasp")
 
-$28.00
+$31.00
 
 ### Best Sellers
 
@@ -166,10 +166,10 @@ $28.00
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+10. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 
 [Top](#)
 
