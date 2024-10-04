@@ -1,3 +1,5 @@
+![](https://px.ads.linkedin.com/collect/?pid=3450026&fmt=gif)   
+
 [Shopiago.com ![Shopiago Logo](/_nuxt/img/logo-small-white.37f818b.png)](https://www.shopiago.com/) 
 
 Terms of Use
