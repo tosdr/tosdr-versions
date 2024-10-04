@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/bijnieruitputting-stresssyndroom-van-deze-tijd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/van-schreeuw-naar-symfonie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
