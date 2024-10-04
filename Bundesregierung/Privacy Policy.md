@@ -34,7 +34,7 @@ Direktlink:
 
 Der Bundesadler Die Flagge Die Bundesregierung
 
-[![](https://www.bundesregierung.de/resource/crblob/2263026/37c842a71234bc934f6a9cd2e662773b/gg-75-jahre-data.svg)](https://www.bundesregierung.de/breg-de/themen/75-jahre-grundgesetz "Gehen Sie zu "75 Jahre Grundgesetz"")
+![](https://www.bundesregierung.de/resource/crblob/2313178/dadaf5b60d33d8d65167804a6361a80f/fr-35-jahre-data.svg)
 
 * [English](https://www.bundesregierung.de/breg-en/service/data-privacy-information)
 * [Français](https://www.bundesregierung.de/breg-fr/service/politique-de-confidentialit%C3%A9)
