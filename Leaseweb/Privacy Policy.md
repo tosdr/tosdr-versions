@@ -647,9 +647,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Canada Inc. – Canada
 
-[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1October2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/sep-1st/LSWCA_B2B_FR_Sales_Contract_Schedule_1Septembre2024_Conditions_de_Vente.pdf)  
-[Policies EN](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_ENG_Sales_Contract_Schedule_v1October2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/legal-files/sep-1st/LSWCA_B2B_Sales_Contract_Schedule_v1Septembre2024_Politiques_FR.pdf)  
-[Services Specifications EN](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1October2024_Services_Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/sep-1st/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Septembre2024_Sp%C3%A9cifications_de_Services.pdf)  
+[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1October2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_FR_Sales_Contract_Schedule_1Octobre2024_Conditions_de_Vente.pdf)  
+[Policies EN](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_ENG_Sales_Contract_Schedule_v1October2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_Sales_Contract_Schedule_v1Octobre2024_Politiques_FR.pdf)  
+[Services Specifications EN](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1October2024_Services_Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Octobre2024_Sp%C3%A9cifications_de_Services.pdf)  
 [Service Level Agreement EN](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf) / [Service Level Agreement FR](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_1Juillet2024_Entente_sur_les_niveaux_de_service_FR.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_CA_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
