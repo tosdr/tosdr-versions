@@ -284,13 +284,6 @@ Derry Magistrate's Court
 [Derry man who left bag of drugs behind in tanning salon jailed](https://www.derrynow.com/news/local-news/1620907/derry-man-who-left-bag-of-drugs-behind-in-tanning-salon-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 3 2024](https://www.derrynow.com/news/deaths/1620138/derry-death-notices-thursday-october-3-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Woman who told shop owner to 'go back to the s--t hole you came from' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who told shop owner to 'go back to the s--t hole you came from' jailed")](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
 
 Derry Magistrate's Court
@@ -338,6 +331,13 @@ Derry Magistrate's Court
 
 [Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Graffiti attack at Creggan Neighbourhood Partnership condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graffiti attack at Creggan Neighbourhood Partnership condemned")](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Graffiti attack at Creggan Neighbourhood Partnership condemned](https://www.derrynow.com/news/local-news/1620859/graffiti-attack-at-creggan-neighbourhood-partnership-condemned.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, October 4 2024](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 [![LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter")](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -522,7 +529,7 @@ Advertise with Us
 [LIVING WELL WITH GRAHAM - Winter wellness: A guide to staying fit, and healthy this winter](https://www.derrynow.com/news/local-news/1618665/living-well-with-graham-winter-wellness-a-guide-to-staying-fit-and-healthy-this-winter.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry businesses recognised at Tourism NI event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry businesses recognised at Tourism NI event")](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
+[![County Derry businesses recognised at Tourism NI event](https://www.derrynow.com/resizer/165/93/true/2024_10_03/Derry_Innovate-1727962442056.JPG--.JPG?1727962443896 "County Derry businesses recognised at Tourism NI event")](https://www.derrynow.com/news/home/1621090/county-derry-businesses-recognised-at-tourism-ni-event.html)
 
 David Douglas, from Derrie Danders Walking and Audio Tours, Dermot Friel from Friel’s Bar and Restaurant with Dr Vicky Kell and Eimear Callaghan.
 
@@ -553,13 +560,6 @@ Kneecap will play in November
 
 [Contractor appointed for Culmore Community Play Park](https://www.derrynow.com/news/local-news/1621210/contractor-appointed-for-culmore-community-play-park.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
