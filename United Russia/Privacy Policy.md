@@ -305,7 +305,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#праздники](https://er.ru/activity/news?tags%5B0%5D=5064) [#подарки](https://er.ru/activity/news?tags%5B0%5D=3902)
 
-Сегодня 14:46
+04.10.24
 
 [![«Единая Россия» передала гуманитарную помощь жителям ДНР](https://cdn.er.ru/media/news/October2024/UNHbkpHDOR3GY9tRhpoW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-zhitelyam-dnr)
 
@@ -313,7 +313,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
 
-Сегодня 13:56
+04.10.24
 
 [![Владимир Якушев пожелал Артёму Жоге удачи на посту полпреда УрФО](https://cdn.er.ru/media/news/October2024/WwgSu4yoSxzZ7W9ncCC1-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pozhelal-artyomu-zhoge-udachi-na-postu-polpreda-urfo)
 
@@ -321,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#полпредство](https://er.ru/activity/news?tags%5B0%5D=9247) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:34
+04.10.24
 
 [![Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://cdn.er.ru/media/news/October2024/QlDC2M3942C1THxqeBfL-small.jpg)](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
 
