@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ October 3, 2024 \] Conservative Filmmaker Wonders, ‘Am I Racist?’ Subscriber Only](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/ "Conservative Filmmaker Wonders, ‘Am I Racist?’")
 * [\[ September 7, 2024 \] Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns Subscriber Only](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/ "Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns")
 * [\[ September 7, 2024 \] Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices Subscriber Only](https://americanfreepress.net/kamala-harriss-price-control-proposal-will-not-solve-rising-food-prices/ "Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices")
 * [\[ September 6, 2024 \] Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative Subscriber Only](https://americanfreepress.net/trumps-support-for-brutal-israeli-policies-a-yuuge-negative/ "Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative")
 * [\[ September 5, 2024 \] Please Enjoy That Trillion-Dollar Glass of Water, if You Can Subscriber Only](https://americanfreepress.net/please-enjoy-that-trillion-dollar-glass-of-water-if-you-can/ "Please Enjoy That Trillion-Dollar Glass of Water, if You Can")
-* [\[ September 5, 2024 \] ONE-PARTY RULE Subscriber Only](https://americanfreepress.net/one-party-rule/ "ONE-PARTY RULE")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Does Anyone Believe $200 billion We Spent on Ukraine Went to Ukraine?](https://americanfreepress.net/does-anyone-believe-200-billion-we-spent-on-ukraine-went-to-ukraine/)
+* [Conservative Filmmaker Wonders, ‘Am I Racist?’](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/)
+* [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/)
 * [Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/)
 * [A Third of Global Debt Belongs to America](https://americanfreepress.net/a-third-of-global-debt-belongs-to-america/)
-* [Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices](https://americanfreepress.net/kamala-harriss-price-control-proposal-will-not-solve-rising-food-prices/)
-* [Presidents Shouldn’t Mess With Interest Rates](https://americanfreepress.net/presidents-shouldnt-mess-with-interest-rates/)
-* [GOP House Committees Finally Release Impeachment Report Damning Biden](https://americanfreepress.net/gop-house-committees-finally-release-impeachment-report-damning-biden/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1326810707)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1542939213)
