@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -150,14 +150,14 @@
 
 * [Трансильванское медовое печенье](https://www.russianfood.com/recipes/recipe.php?rid=2751)
 * [Чебуреки праздничные](https://www.russianfood.com/recipes/recipe.php?rid=15028)
-* [Печенье на меду](https://www.russianfood.com/recipes/recipe.php?rid=18392)
 * [Пицца из зелени с сыром двух сортов](https://www.russianfood.com/recipes/recipe.php?rid=22619)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=24081)
 * [Тесто для крышечек](https://www.russianfood.com/recipes/recipe.php?rid=28797)
 * [Квас из ржаной муки](https://www.russianfood.com/recipes/recipe.php?rid=29834)
 * [Склаидские пряники](https://www.russianfood.com/recipes/recipe.php?rid=33052)
 * [Квас-сыровец из сухарей к борщам, свекольникам, окрошкам](https://www.russianfood.com/recipes/recipe.php?rid=33097)
-* [Говядина по-португальски](https://www.russianfood.com/recipes/recipe.php?rid=35687)
+* [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
+* [Запеченная ветчина](https://www.russianfood.com/recipes/recipe.php?rid=40836)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Пятёрка новых идей и вкусов. Лучшие рецепты из РЫБЫ (25)](https://www.russianfood.com/reading/?post_id=22682) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/717/sm_716614.jpg)](https://www.russianfood.com/reading/?post_id=22682)
+
+Скумбрия с соевым соусом. Рыба с овощами в томате. Слоёные пирожки с рыбой и картошкой. Рыбные зразы с сыром. Рыба в беконе.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22682)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22682#comments) | 04.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174477#comments) | 03.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Творожные конвертики с яблоком и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174480) |     |
-
-[![Фото к рецепту: Творожные конвертики с яблоком и бананом](//img1.russianfood.com/dycontent/images_upl/742/sm_741438.jpg "Фото к рецепту: Творожные конвертики с яблоком и бананом")](https://www.russianfood.com/recipes/recipe.php?rid=174480)
-
-Нежное творожное тесто, немного рассыпчатое, со сливочным вкусом, и сочная начинка из яблок и нежного банана. Рецепт простой, рекомендую приготовить такие чудесные творожные конвертики к чаю.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174480)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174480#comments) | 03.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741454.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735139.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173301) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734627.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173226) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741455.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
-| [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Суп c пекинской капустой, горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [Постный суп с перловкой, фасолью и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173301) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Куриный суп с брокколи, вермишелью и яичной паутинкой](https://www.russianfood.com/recipes/recipe.php?rid=173226) | [Сливочный суп с цветной капустой и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
-| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173410) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737523.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173811) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) |
-| [Башкирский суп «Элеш» с говядиной](https://www.russianfood.com/recipes/recipe.php?rid=173410) | [Куриные рулетики с фетой и укропом](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [Паскуалина (слоёный пирог со шпинатом, сыром и яйцами)](https://www.russianfood.com/recipes/recipe.php?rid=173811) | [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) |
+| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735139.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173301) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173410) |
+| [Куриные рулетики с фетой и укропом](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [Постный суп с перловкой, фасолью и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173301) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) | [Баурсаки](https://www.russianfood.com/recipes/recipe.php?rid=174408) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Башкирский суп «Элеш» с говядиной](https://www.russianfood.com/recipes/recipe.php?rid=173410) |
+| [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741454.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736900.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173457) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741455.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733151.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173178) |
+| [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Суп c пекинской капустой, горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [Гречка с курицей и грибами, на молоке](https://www.russianfood.com/recipes/recipe.php?rid=173457) | [Сливочный суп с цветной капустой и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [Сырные панкейки с маком и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=173178) |
 
 |     |     |     |
 | --- | --- | --- |
