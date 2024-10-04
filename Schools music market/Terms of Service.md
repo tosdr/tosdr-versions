@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/rhythms-in-4-4/)
+ [](https://schoolsmusicmarket.com/product/naming-the-notes-on-a-piano-display-visual-aids/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/solfege-handsigns-minamilist-boho-series-display-poster/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-jazz-music/)
 
 ###### Browse By Year/Grade
 
