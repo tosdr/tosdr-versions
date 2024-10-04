@@ -2,8 +2,9 @@
 
 [](https://ethereum.org/en/)
 
-1. [Home](https://ethereum.org/en/)/
-2. Cookie policy
+1. [Home](https://ethereum.org/en/)
+2. /
+3. Cookie policy
 
 Page last updated: August 8, 2024
 
@@ -44,7 +45,7 @@ On this page
 
 * [Cookie Policy](#cookie-policy)
 
-Website last updated: September 18, 2024
+Website last updated: October 2, 2024
 
 Go to top
 
