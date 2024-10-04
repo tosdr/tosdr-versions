@@ -67,7 +67,7 @@
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
-[Log in](https://shopify.com/63037538544/account?locale=en)
+[Log in](https://shopify.com/63037538544/account?locale=en&region_country=IN)
 
 [![Aadvik foods logo](//aadvikfoods.com/cdn/shop/files/aadvik_foods_logo_120x.jpg?v=1645597893)](https://aadvikfoods.com/)
 
@@ -118,7 +118,7 @@
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
- Search [Log in](https://shopify.com/63037538544/account?locale=en) [Cart](https://aadvikfoods.com/cart)
+ Search [Log in](https://shopify.com/63037538544/account?locale=en&region_country=IN) [Cart](https://aadvikfoods.com/cart)
 
 Item added to your cart
 -----------------------
