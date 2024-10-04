@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2R8xkYn)
+[](https://amzn.to/3KZMtFM)
 
-[](https://amzn.to/4cdoFKu)
+[](https://amzn.to/3KUTasJ)
 
-[](https://drawabox.com/rec/proko/drawingbasics)
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
 
 [](https://amzn.to/4bl6tx5)
 
