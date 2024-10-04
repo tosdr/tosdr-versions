@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")15 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")21 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Brain-controlled bionic limbs are inching closer to reality](https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics)
             
-            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")20 hours ago
+            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")October 3, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -114,11 +114,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")52 mins ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")15 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")21 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -126,19 +132,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")October 2, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Coyotes have the face muscles for that ‘sad-puppy’ look](https://www.sciencenews.org/article/coyotes-face-muscles-sad-puppy)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")October 1, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")52 mins ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Why Hurricane Helene was so devastating](https://www.sciencenews.org/article/hurricane-helene-devastation-explainer)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")October 1, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [How rapid intensification spawned two monster hurricanes in one week](https://www.sciencenews.org/article/rapid-intensification-hurricanes-helene)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 27, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -186,6 +186,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
+            ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
+            
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")3 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
             ### [Betelgeuse has a tiny companion star hidden in plain sight](https://www.sciencenews.org/article/betelgeuse-hidden-companion-star)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 30, 2024
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Starlink satellites’ leaky radio waves obscure the cosmos](https://www.sciencenews.org/article/starlink-satellites-radio-waves)
             
             By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")September 30, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 
 Terms of Service
