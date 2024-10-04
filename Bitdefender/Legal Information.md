@@ -236,6 +236,7 @@
         Quick Links
         
         * [Log in to the Business Solutions Partners portal](https://pan.bitdefender.com/)
+        * [Log in to the Consumer / VSB Solutions Partners portal](https://www.bitdefender.com/en-us/crp)
         * [Find a Reseller](https://www.bitdefender.com/en-us/partners/partner-locator)
         * [Already a Partner?](https://pan.bitdefender.com/)
         * [Join our Affiliates Program](https://www.bitdefender.com/en-us/partners/affiliate-partners)
