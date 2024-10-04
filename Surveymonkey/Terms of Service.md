@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__badge.png)
+![SurveyMonkey 로고](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__badge.png)
 
-* [Yleiskatsaus](https://www.surveymonkey.com/mp/legal/)
+* [개요](https://www.surveymonkey.com/mp/legal/)
     
-* [Käyttöehdot](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [이용 약관](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Sovellettava palvelusopimus](https://www.surveymonkey.com/mp/legal/gsa/)
+* [준거 서비스 계약](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Palvelukohtaiset ehdot](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [서비스 특정 약관](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Yksityisyyden perusteet](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [개인정보 보호 기본 사항](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Tietosuojailmoitus](https://www.surveymonkey.com/mp/legal/privacy/)
+* [개인정보 보호 공지](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Evästeet](https://www.surveymonkey.com/mp/legal/cookies/)
+* [쿠키](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Kyselytutkimussivuilla käytettävät evästeet](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [설문조사 페이지에 사용된 쿠키](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Hyväksyttävän käytön käytäntö](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [사용 제한 정책](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Tietosuoja](https://www.surveymonkey.com/mp/legal/security/)
+* [보안](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Yleistä](https://www.surveymonkey.com/mp/legal/general/)
+* [일반](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Tiesitkö?
+알고 계셨나요?
 
-63 % ihmisistä ottaa huomioon yhtiön yksityisyydensuoja- ja tietoturvahistorian ennen kuin käyttää sen tuotteita tai palveluita.
+63%의 사람들이 어떤 회사의 제품이나 서비스를 이용하기 전에 그 회사의 개인정보 보호 및 보안 내력을 고려해 봅니다.
 
-![Sivupalkkitilastot oikeudellisten tietojen sivulla](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__stats-image.png)
+![법률 사이드바 통계](https://prod.smassets.net/assets/website/2.282.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
