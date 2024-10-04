@@ -334,9 +334,9 @@ New
 
 Atari 7800+](https://www.atari.com/collections/7800)
 
-[![Unisex Garment Dyed Heavyweight](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+[![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
-Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
+Limited Edition: Haunted House](https://www.atari.com/collections/limited-edition-haunted-house)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
@@ -352,9 +352,9 @@ Menu
 
 Atari 7800+](https://www.atari.com/collections/7800)
 
-[![Unisex Garment Dyed Heavyweight](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+[![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
-Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
+Limited Edition: Haunted House](https://www.atari.com/collections/limited-edition-haunted-house)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
