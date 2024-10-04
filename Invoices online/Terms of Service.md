@@ -210,50 +210,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Kobus Venter
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=5758459)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=80769862)  
+VerdanTech Pty Ltd
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=49972228)  
-VIR Electrical (PTY) LTD
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=109714301)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=207045975)  
-FX ACCOUNTING
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=193510074)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=167570831)  
-Electro-Heat
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=50052909)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=132667543)  
-Skinz Printing & Branding
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=96307213)  
+MR Compressors& Industrial Supplies
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=206958274)  
-Itroniq (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=47946859)  
+MSPCloud (Pty) Ltd
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=39392568)  
-Tracknetics
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=122028773)  
+Fox Alarms & Security CC
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=100920415)  
-Enhle Oarabile Kea
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=159570644)  
+Turnkey Innovations
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=55167591)  
-van Schaik rentals
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=214066002)  
+TechnoDezi PTY(LTD)
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=151136243)  
-SAUL ATHOL ACRES RENTAL
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=39010668)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=47150027)  
-Sportspro Management (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=170614673)  
+Lion Software Develepment
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=31256912)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=64545692)  
+Lemba Truck Stop
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=145011713)  
-Sonic Electrical Services PTY Ltd
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=67531545)  
+NGB HOLDINGS PTY LTD
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=140499265)  
-NJR ICT Services (Pty) Ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=21948189)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=cbd18a3a1aea2da86507c1bccdd6e2acadbfab15b60f475ebc781667d9baca92&c=1317297)  
-Imvubu General Trading
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=25651632)  
+Nilbet T/A Waterman
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
