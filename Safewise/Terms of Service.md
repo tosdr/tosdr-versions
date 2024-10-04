@@ -326,7 +326,16 @@ Oct 12, 2018
 
 ![Icon Time To Read](https://www.safewise.com/app/themes/coolwhip/assets/icons/author-credit/icon-time-to-read.svg)5 min read
 
-SafeWise experts have years of firsthand experience testing the products we recommend. **[Learn how we test and review](https://www.safewise.com/ranking-reviews/).** 
+For over 11 years, SafeWise experts have conducted independent research and testing to create unbiased, human reviews. [**Learn how we test and review**](https://www.safewise.com/ranking-reviews/).
+
+![pro](https://www.safewise.com/app/themes/coolwhip-child/assets/icons/icon-pros--light.svg)
+
+**Why you can trust SafeWise**  
+
+**250+** products considered  
+**10k+** research hours  **25+** in-home tests  
+**176+** years of combined expert experience  
+****10M** homes and people protected**
 
 This page states the “Terms and Conditions” under which you, the Website visitor (“You”) may use www.Safewise.com (the “Site”), which is owned by SafeWise.
 
