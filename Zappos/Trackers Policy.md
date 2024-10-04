@@ -66,7 +66,7 @@ Email AddressJoin the Party
 Zappos Footer
 -------------
 
-[](https://www.facebook.com/zappos)[](https://www.instagram.com/zappos/)[](https://twitter.com/zappos)[](https://www.pinterest.com/zappos)[](https://www.youtube.com/user/zappos)
+[](https://www.facebook.com/zappos)[](https://www.instagram.com/zappos/)
 
 ### 
 
