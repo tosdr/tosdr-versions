@@ -556,21 +556,23 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 1. \-31%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+1.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 1. \-41%
     
-    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
+    DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
     
-    Special Price $50.99 RRP $73.69
+    **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
+    
+    Special Price $26.79 RRP $45.59
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-2.    [![Borderlands 3 (Steam) (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/b/o/borderlands-3-pc-buy-now-cd-key_2_1.jpg)   No 2. \-92%](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam)
+2.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 2. \-65%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
     
-    **[Borderlands 3 (Steam) (WW)](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam "Borderlands 3 (Steam) (WW)")**
+    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
     
-    Special Price $5.19 RRP $66.99
+    Special Price $18.79 RRP $53.59
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -586,31 +588,33 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![Saints Row Gold Edition PC (STEAM)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/a/saints_row_gold_edition_xbox_one_xbox_series_x_s_us_.jpeg)   No 4. \-92%](https://www.cdkeys.com/pc/saints-row-gold-edition-pc-steam)
+4.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 4. \-30%
     
-    **[Saints Row Gold Edition PC (STEAM)](https://www.cdkeys.com/pc/saints-row-gold-edition-pc-steam "Saints Row Gold Edition PC (STEAM)")**
+    Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
-    Special Price $7.99 RRP $100.49
+    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![SKULL AND BONES PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/s/fsvsdv.jpg)   No 5. \-58%](https://www.cdkeys.com/pc/skull-and-bones-pc-ww-uplay)
-    
-    **[SKULL AND BONES PC (WW)](https://www.cdkeys.com/pc/skull-and-bones-pc-ww-uplay "SKULL AND BONES PC (WW)")**
-    
-    Special Price $28.09 RRP $66.99
+    Special Price $30.79 RRP $44.19
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-6.    [![Starfield PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/i/hidden-deep-early-access-pc-game-steam-cover_4_.jpg)   No 6. \-45%](https://www.cdkeys.com/pc/starfield-pc-steam)
+5.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 5. \-31%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
     
-    **[Starfield PC](https://www.cdkeys.com/pc/starfield-pc-steam "Starfield PC")**
+    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
-    Special Price $44.19 RRP $80.39
+    Special Price $50.99 RRP $73.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Borderlands 3 (Steam) (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/b/o/borderlands-3-pc-buy-now-cd-key_2_1.jpg)   No 6. \-92%](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam)
+    
+    **[Borderlands 3 (Steam) (WW)](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam "Borderlands 3 (Steam) (WW)")**
+    
+    Special Price $5.19 RRP $66.99
     
     [Add to Wish List](# "Add to Wish List")
     
