@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, October 3 2024
+Friday, October 4 2024
 
 Latest
 
-* [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
-* [Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
-* [Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
-* [How to make a multi-cloud strategy safe for your business](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
-* [OpenAI continues to burn money – Computerworld](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
-* [How to Check a Product’s Price History on Amazon](https://digitpatrox.com/how-to-check-a-products-price-history-on-amazon/)
-* [Vendor Spotlight: Idera](https://digitpatrox.com/vendor-spotlight-idera/)
-* [Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
-* [Best Dehumidifiers of 2024 – Consumer Reports](https://digitpatrox.com/best-dehumidifiers-of-2024-consumer-reports/)
-* [Spotify’s Newest Feature Would’ve Been a Godsend on My Last Flight](https://digitpatrox.com/spotifys-newest-feature-wouldve-been-a-godsend-on-my-last-flight/)
+* [OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
+* [How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
+* [NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
+* [Recently patched CUPS flaw can be used to amplify DDoS attacks](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
+* [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
+* [Samsung One UI 7 Set to Release Next Year, Alongside Galaxy S25 Series](https://digitpatrox.com/samsung-one-ui-7-set-to-release-next-year-alongside-galaxy-s25-series/)
+* [Software engineers are in for a rough ride as AI adoption ramps up – 80% will be forced to upskill by 2027 as the profession is transformed](https://digitpatrox.com/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed/)
+* [The EU wants to know more about social media algorithms – Computerworld](https://digitpatrox.com/the-eu-wants-to-know-more-about-social-media-algorithms-computerworld/)
+* [Everything You Can Do With Apple’s New Passwords App](https://digitpatrox.com/everything-you-can-do-with-apples-new-passwords-app/)
+* [Enhance Security and Flexibility 2024](https://digitpatrox.com/enhance-security-and-flexibility-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/Ea5p_Y53WwJvgJApDnKYuvlpxnc=/0x0:2805x1870/1200x628/filters:focal(1403x935:1404x936)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656330/ankersoundcore1.jpg)](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
+* [![](https://cdn.mos.cms.futurecdn.net/9yUtWWRW2eHtNVA9R7vQ3c-1200-80.jpg)](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
     
-    [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
+    [OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
     
-    17 mins ago
+    4 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2023/12/dandadan-poster.jpg)](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241003-digital-transformation-project-failure-rate.jpg)](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
     
-    [Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
+    [How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
     
-    31 mins ago
+    8 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Find-Great-People-hacked-SSNs-compromised.jpg)](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
+* [![](https://cdn.mos.cms.futurecdn.net/X3afzFmMHQMfU73sPpeY7W-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
     
-    [Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
+    [NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
     
-    2 hours ago
+    24 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/b9vuhUGxaz34KQhGb2fPoV-1200-80.jpg)](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/03/headpic.jpg)](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
     
-    [How to make a multi-cloud strategy safe for your business](https://digitpatrox.com/how-to-make-a-multi-cloud-strategy-safe-for-your-business/)
+    [Recently patched CUPS flaw can be used to amplify DDoS attacks](https://digitpatrox.com/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
     
-    2 hours ago
+    52 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3545092-0-95704000-1727974489-shutterstock_2453873041.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/_hb1KlGWqJ1MaAMmpJE_AGowT_o=/0x0:5412x3608/1200x628/filters:focal(2706x1804:2707x1805)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656820/All_New_202025_20Ford_20Expedition_Platinum_20Ultimate_04.jpg)](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
     
-    [OpenAI continues to burn money – Computerworld](https://digitpatrox.com/openai-continues-to-burn-money-computerworld/)
+    [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://digitpatrox.com/the-new-ford-expedition-adds-android-automotive-and-half-of-the-lincolns-panoramic-screen/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 mins ago
+* [4 mins ago
     
-    ### Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://digitpatrox.com/ankers-soundcore-liberty-4-pro-earbuds-add-a-charging-case-screen/)
-* [31 mins ago
+    ### OpenAI just raised $6.6bn in funding, but it drove a hard bargain – investors will be stopped from funding rivals](https://digitpatrox.com/openai-just-raised-6-6bn-in-funding-but-it-drove-a-hard-bargain-investors-will-be-stopped-from-funding-rivals/)
+* [8 mins ago
     
-    ### Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
-* [2 hours ago
+    ### How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
+* [24 mins ago
     
-    ### Headhunting firm Find Great People notifies 12K people of data breach that compromised SSNs](https://digitpatrox.com/headhunting-firm-find-great-people-notifies-12k-people-of-data-breach-that-compromised-ssns/)
+    ### NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [August 26, 2024
     
-    ### GTA 6 Hasn’t Been Delayed and Will Release in Fall 2025, Affirms Take Two](https://digitpatrox.com/gta-6-hasnt-been-delayed-and-will-release-in-fall-2025-affirms-take-two/)
-* [2 weeks ago
+    ### Apple Announces September 9 Event to Unveil iPhone 16 Series](https://digitpatrox.com/apple-announces-september-9-event-to-unveil-iphone-16-series/)
+* [August 14, 2024
     
-    ### The Five Factors That Determine Your Credit Score](https://digitpatrox.com/the-five-factors-that-determine-your-credit-score/)
-* [August 24, 2024
+    ### Microsoft to archive unlicensed OneDrive business accounts, charge reactivation fee – Computerworld](https://digitpatrox.com/microsoft-to-archive-unlicensed-onedrive-business-accounts-charge-reactivation-fee-computerworld/)
+* [August 21, 2024
     
-    ### Mortal Kombat 1: Reiko Moves and Combos Guide](https://digitpatrox.com/mortal-kombat-1-reiko-moves-and-combos-guide/)
+    ### Use Automations to Keep Alarms From Going Off When You Don’t Need Them](https://digitpatrox.com/use-automations-to-keep-alarms-from-going-off-when-you-dont-need-them/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Vendor Spotlight: Idera](https://digitpatrox.com/vendor-spotlight-idera/)
+    ### Software engineers are in for a rough ride as AI adoption ramps up – 80% will be forced to upskill by 2027 as the profession is transformed](https://digitpatrox.com/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed/)
 * [3 hours ago
     
-    ### Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
-* [3 hours ago
+    ### The EU wants to know more about social media algorithms – Computerworld](https://digitpatrox.com/the-eu-wants-to-know-more-about-social-media-algorithms-computerworld/)
+* [4 hours ago
     
-    ### Best Dehumidifiers of 2024 – Consumer Reports](https://digitpatrox.com/best-dehumidifiers-of-2024-consumer-reports/)
+    ### Everything You Can Do With Apple’s New Passwords App](https://digitpatrox.com/everything-you-can-do-with-apples-new-passwords-app/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
