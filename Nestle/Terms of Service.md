@@ -332,11 +332,11 @@ Main navigation
         
         [Go to **Brands A-Z**](https://www.nestle.com/brands/brandssearchlist)
         
-    * [Baby foods](https://www.nestle.com/brands/baby-foods)
+    * [Family nutrition](https://www.nestle.com/brands/family-nutrition)
         
         [Back](# "Close Menu")
         
-        [Go to **Baby foods**](https://www.nestle.com/brands/baby-foods)
+        [Go to **Family nutrition**](https://www.nestle.com/brands/family-nutrition)
         
     * [Cereals](https://www.nestle.com/brands/cereals)
         
