@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Anri van der Linde
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=98637828)  
-Desygn
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=121503599)  
+TechnoDezi PTY(LTD)
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=13954597)  
-Blue Sky Solar Services
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=1460401)  
+Wiselink Broadband Pty Ltd
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=1768818)  
-Testpro Laboratory (Pty) Ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=125525293)  
+Vplay Grafix
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=45862707)  
-Safe-Train Consulting (PTY) Ltd
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=38408651)  
+BD Maintenance
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=2069028)  
-Brilliant Roof Products
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=32743001)  
+Enhle Oarabile Kea
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=65657284)  
-MONSTER CONNECT (PTY) LTD
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=180316837)  
+Echo Recording Studio cc
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=60612702)  
-Sarabi
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=3637655)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=108322396)  
-NJR ICT Services (Pty) Ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=210389002)  
+Hydroworld T/A Milliqua
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=91328277)  
-Tracknetics
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=39894053)  
+Glass and Allied Industries
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=111116659)  
-MR Compressors& Industrial Supplies
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=144725356)  
+Turnkey Innovations
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=7699019)  
-Karino Merinos ( PTY ) LTD
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=114730772)  
+Baby Toddles Infant Care
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=152559275)  
-ELLIE'S CLEANING CHICKS
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=132368406)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=18097358)  
-Druce Digital
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=117013923)  
+Chiron Medical Solutions
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=170493727)  
-Oukraal Merino's
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=134914216)  
+Cooper Logistics (Pty) Ltd
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=d0789e3f9940cb3aeb4a4df369b2d0daef3605e7632ce99fd01476030c7537fd&c=10199587)  
-McKaynine Mobility
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=18ffa643fcb20c3c0c5207b984f0b38be5ae2ebe012d157093ec230f06d35389&c=87715538)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
