@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [MP5 Mag AR? The MASP AR5 Radial Delayed PCC](https://www.thegunpage.com/mp5-mag-ar-the-masp-ar5-radial-delayed-pcc/10611000)
+* [Winchester Ammunition Introduces the 21 Sharp Rimfire Cartridge](https://www.thegunpage.com/winchester-ammunition-introduces-the-21-sharp-rimfire-cartridge/10610993)
+* [Heckler & Koch Announces HK USA](https://www.thegunpage.com/heckler-koch-announces-hk-usa/10611001)
+* [Harris is a Human Disinformation Campaign When It Comes to Guns](https://www.thegunpage.com/harris-is-a-human-disinformation-campaign-when-it-comes-to-guns/10610990)
+* [Targets That Last Forever (Almost) – Infinity Targets](https://www.thegunpage.com/targets-that-last-forever-almost-infinity-targets/10610991)
 * [Utah Lawmaker Proposes Young Adult Open Carry Measure](https://www.thegunpage.com/utah-lawmaker-proposes-young-adult-open-carry-measure/10610988)
+* [USA Shooting: Braden Peiser Earns 2024 ISSF Junior World Champion Title](https://www.thegunpage.com/usa-shooting-braden-peiser-earns-2024-issf-junior-world-champion-title/10610989)
 * [New: Walther Arms PDP Pro-X Parker Mountain Machine](https://www.thegunpage.com/new-walther-arms-pdp-pro-x-parker-mountain-machine/10610987)
 * [TFB Review: Springfield Echelon Comp 4.5F 9mm](https://www.thegunpage.com/tfb-review-springfield-echelon-comp-4-5f-9mm/10610984)
 * [POTD: The LWRCI REPR Mk II Elite with Kahles K328i Riflescope](https://www.thegunpage.com/potd-the-lwrci-repr-mk-ii-elite-with-kahles-k328i-riflescope/10610985)
-* [Concealed Carry Corner: Red Dot Rundown](https://www.thegunpage.com/concealed-carry-corner-red-dot-rundown/10610986)
-* [9mm Self-Defense Ammo: Top Picks for Maximum Stopping Power and Reliability](https://www.thegunpage.com/9mm-self-defense-ammo-top-picks-for-maximum-stopping-power-and-reliability/10610980)
-* [IWI US, Inc. Firearms Manufacturing Coming To Andersonville, TN](https://www.thegunpage.com/iwi-us-inc-firearms-manufacturing-coming-to-andersonville-tn/10610982)
-* [Ultimate Defense Technologies Gets a Warm Montana Welcome](https://www.thegunpage.com/ultimate-defense-technologies-gets-a-warm-montana-welcome/10610975)
-* [Sig MCX LT in Limited-Edition Tigerstripe from the Sig Shorts Program](https://www.thegunpage.com/sig-mcx-lt-in-limited-edition-tigerstripe-from-the-sig-shorts-program/10610977)
-* [Harris Imports Crime; Wants to Leave Americans Helpless](https://www.thegunpage.com/harris-imports-crime-wants-to-leave-americans-helpless/10610971)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
