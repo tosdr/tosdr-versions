@@ -70,10 +70,6 @@ Next
 * [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
 * [Hate speech policy](https://support.google.com/youtube/answer/2801939)
 
-Notification
-
-We're aware of an issue causing some channels to be incorrectly flagged for Spam and removed. Our teams are looking into this and reinstating the channels right now. Please [follow along in our Community for updates](https://support.google.com/youtube/thread/300155212).
-
 Hate speech policy
 ==================
 
@@ -259,7 +255,7 @@ Google apps
 
 Main menu
 
-8664202257901812505
+11567183801367501423
 
 true
 
