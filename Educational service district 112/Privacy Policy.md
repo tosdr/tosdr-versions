@@ -94,7 +94,10 @@ Search for:
             * [Birth to Three Early Intervention](https://www.esd112.org/special-services/birth-to-three-early-intervention/)
             * [Child Developmental Screening](https://www.esd112.org/special-services/childscreening/)
             * [Early Support for Infants and Toddlers (ESIT)](https://www.esd112.org/special-services/early-support-for-infants-and-toddlers-esit/)
-        * Specialized Programs
+        * Therapeutic Educational Programs
+            * [Curae Center](https://www.esd112.org/curae/)
+            * [Florens Academy](https://www.esd112.org/florens/)
+            * [Gorge Academy](https://www.esd112.org/gorge-academy/)
             * [Quest Academy](https://www.esd112.org/quest/)
             * [Spero Center](https://www.esd112.org/spero/)
         * Health Services
@@ -219,7 +222,6 @@ Search for:
         * [Community Partnerships](https://www.esd112.org/category/news/community/)
         * [District Spotlight](https://www.esd112.org/category/news/district-spotlight/)
         * [State & National News](https://www.esd112.org/category/news/state-national-news/)
-        * [Coronavirus Facts and Information](https://www.esd112.org/?page_id=14473)
         * [View All News](https://www.esd112.org/news/)
         * [Share Your News!](https://www.esd112.org/news/share/)
         * Search News
