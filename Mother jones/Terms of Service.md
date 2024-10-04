@@ -8,10 +8,10 @@
 
 *  
     
-* [Tim Walz](https://www.motherjones.com/politics/2024/10/tim-walz-jd-vance-january-6-trump-pence/)
-* [Repro Rights](https://www.motherjones.com/politics/2024/10/when-vance-said-abortion-rights-should-be-left-to-the-states-he-ignored-an-inconvenient-fact/)
-* [RFK Jr.](https://www.motherjones.com/politics/2024/10/rfk-jr-north-carolina-early-voting-hurricane-helene-septemeber/)
-* [JD Vance](https://www.motherjones.com/politics/2024/10/jd-vance-says-his-mamaw-had-eight-miscarriages/)
+* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/spruce-pine-quartz-silicon-mine-flooding-north-carolina-helene/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/10/new-apostolic-reformation-christian-nationalism/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/10/bannon-guo-nunberg/)
+* [Trump’s Deportation Plan](https://www.motherjones.com/politics/2024/10/jd-vance-debate-border-migrant-family-separation/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Tim Walz](https://www.motherjones.com/politics/2024/10/tim-walz-jd-vance-january-6-trump-pence/)
-* [Repro Rights](https://www.motherjones.com/politics/2024/10/when-vance-said-abortion-rights-should-be-left-to-the-states-he-ignored-an-inconvenient-fact/)
-* [RFK Jr.](https://www.motherjones.com/politics/2024/10/rfk-jr-north-carolina-early-voting-hurricane-helene-septemeber/)
-* [JD Vance](https://www.motherjones.com/politics/2024/10/jd-vance-says-his-mamaw-had-eight-miscarriages/)
+* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/spruce-pine-quartz-silicon-mine-flooding-north-carolina-helene/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/10/new-apostolic-reformation-christian-nationalism/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/10/bannon-guo-nunberg/)
+* [Trump’s Deportation Plan](https://www.motherjones.com/politics/2024/10/jd-vance-debate-border-migrant-family-separation/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
