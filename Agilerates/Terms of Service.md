@@ -18,7 +18,7 @@
 
 Email us today. We'll do our best to respond within 24 hours.
 
-[contact@agilerates.com](mailto:contact@agilerates.com)
+[Contact Us](https://www.agilerates.com/contact-us)
 
 [](https://www.agilerates.com/)
 
