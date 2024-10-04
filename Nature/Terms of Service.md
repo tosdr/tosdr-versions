@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/terms-and-conditions?error=cookies_not_supported&code=67fde16b-8ef9-49df-a3f4-24b321eae858)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/terms-and-conditions?error=cookies_not_supported&code=4b93621e-1c79-4bad-8056-f6bf4fd1846c)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -249,7 +249,7 @@ The following Terms and Conditions include general provisions for using the Onli
         2. **“Digital Content Platform”** means any platform provided by or on behalf of Springer Nature hosting Digital Content for access by Authorized Users.
         3. **“Springer Nature”** means the relevant entity with which contracts are concluded.
             1. For Customers having their habitual residence in **North, Central or South America:** Springer Nature Customer Service Center, LLC, 1 New York Plaza, Suite 4600, New York, NY 10004-1562, phone 1-866-839-0194, fax: +1 212 460 1700, email: customerservice@springernature.com
-            2. For Customers having their habitual residence in **Europe, Middle East, Africa, Asia, Oceania or Australia:** Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, fax: +49 6221 345 4229, email: customerservice@springernature.com
+            2. For Customers having their habitual residence in **Europe, Middle East, Africa, Asia, Oceania or Australia:** Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, fax: +49 6221 345 4229, email: customerservice@springernature.com
         4. **“Products”** means any Goods, Digital Content and Services offered in the Online Shop, including Subscriptions and Rentals.
             1. **“Goods”** means any tangible movable items, in particular print books and magazines.
             2. **“Digital Content”** means any form of digital images, texts, sounds, audio-visual content and software (or combinations thereof), which is not delivered on a tangible medium.
@@ -327,7 +327,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the goods.
                 
-                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
                 
                 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
                 
@@ -349,9 +349,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the last good.
                 
-                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email:
-                
-                customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
                 
                 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
                 
@@ -373,7 +371,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the first good.
                 
-                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
                 
                 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
                 
@@ -395,7 +393,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 The withdrawal period will expire after 14 days from the day on of the conclusion of the contract.
                 
-                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
                 
                 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
                 
@@ -413,7 +411,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 The withdrawal period will expire after 14 days from the day on of the conclusion of the contract.
                 
-                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+                To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, phone +49 (0) 6221 345 4303, email: customerservice@springernature.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, or an e-mail). You may use the attached model withdrawal form, but it is not obligatory.
                 
                 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
                 
@@ -429,7 +427,7 @@ The following Terms and Conditions include general provisions for using the Onli
                 
                 (complete and return this form only if you wish to withdraw from the contract)
                 
-                * To Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, email: customerservice@springernature.com:
+                * To Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, email: customerservice@springernature.com:
                 * I/We (\*) hereby give notice that I/We (\*) withdraw from my/our (\*) contract of sale of the following goods (\*)/for the provision of the following service (\*),
                 * Ordered on (\*)/received on (\*),
                 * Name of consumer(s),
@@ -612,7 +610,7 @@ You have the right to withdraw from your agreement to pay the EAC or Top-Up APC 
 
 The withdrawal period will expire after 14 days from the day of the conclusion of the contract.
 
-To exercise the right of withdrawal, you must inform us (for customers domiciled or established in North, Central or South America: Springer Nature Customer Service Center LLC, 200 Hudson Street, Suite 503, Jersey City, NJ 07311, USA, tel.: +44 (0)203 192 2009, email: [ORSupport@springernature.com](mailto:ORSupport@springernature.com); for customers domiciled or established in Europe, Middle East, Africa, Asia, Oceania, Australia: Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, tel.: +44 (0)203 192 2009, email: [ORSupport@springernature.com](mailto:ORSupport@springernature.com)) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+To exercise the right of withdrawal, you must inform us (for customers domiciled or established in North, Central or South America: Springer Nature Customer Service Center LLC, 200 Hudson Street, Suite 503, Jersey City, NJ 07311, USA, tel.: +44 (0)203 192 2009, email: [ORSupport@springernature.com](mailto:ORSupport@springernature.com); for customers domiciled or established in Europe, Middle East, Africa, Asia, Oceania, Australia: Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany, tel.: +44 (0)203 192 2009, email: [ORSupport@springernature.com](mailto:ORSupport@springernature.com)) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the attached model withdrawal form, but it is not obligatory.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
@@ -628,7 +626,7 @@ The following form may be used to state your withdrawal, but it is not obligator
 
 (complete and return this form only if you wish to withdraw from the contract)
 
-— To Springer Nature Customer Service Center LLC, 200 Hudson Street, Suite 503, Jersey City, NJ 07311, USA (for customers domiciled or established in North, Central or South America) (\*) / To Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany (for customers domiciled or established in Europe, Middle East, Africa, Asia, Oceania, Australia) (\*):
+— To Springer Nature Customer Service Center LLC, 200 Hudson Street, Suite 503, Jersey City, NJ 07311, USA (for customers domiciled or established in North, Central or South America) (\*) / To Springer Nature Customer Service Center GmbH, Europaplatz 3, 69115 Heidelberg, Germany (for customers domiciled or established in Europe, Middle East, Africa, Asia, Oceania, Australia) (\*):
 
 — I/We (\*) hereby give notice that I/We (\*) withdraw from my/our (\*) contract of sale of the following goods (\*)/for the provision of the following service (\*),
 
