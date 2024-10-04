@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Speed Demons](https://www.myabandonware.com/game/speed-demons-s4n)
+* [Ogniem i mieczem](https://www.myabandonware.com/game/ogniem-i-mieczem-s4m)
+* [Congo Bongo](https://www.myabandonware.com/game/congo-bongo-22)
 * [Billard Deluxe](https://www.myabandonware.com/game/billard-deluxe-s4j)
 * [RIS: Delitti Imperfetti](https://www.myabandonware.com/game/ris-delitti-imperfetti-s4h)
-* [Prism: Light the Way](https://www.myabandonware.com/game/prism-light-the-way-s4g)
-* [Sega Super GT](https://www.myabandonware.com/game/sega-super-gt-snf)
-* [Space King](https://www.myabandonware.com/game/space-king-sne)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
