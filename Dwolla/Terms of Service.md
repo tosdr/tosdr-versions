@@ -300,7 +300,7 @@ We may amend this TOS at any time by posting a revised version on dwolla.com or 
 * [Legal](javascript:;)
     * [Privacy Policy](https://www.dwolla.com/legal/privacy)
     * [Terms of Service](https://www.dwolla.com/legal/dwolla-account-terms-of-service)
-    * [Do Not Sell or Share My Personal Information](javascript:Osano.cm.showDrawer('osano-cm-dom-info-dialog-open');)
+    * [Do Not Sell or Share My Personal Information](https://www.dwolla.com/legal/subject-rights-request/)
     * [Privacy Options](javascript:Osano.cm.showDrawer('osano-cm-dom-info-dialog-open');)
 
 All Rights Reserved © 2024 Dwolla, Inc.
@@ -308,3 +308,5 @@ All Rights Reserved © 2024 Dwolla, Inc.
 * [Financial institutions play an important role in our network. All funds transfers made using the Dwolla Platform are performed by a financial institution partner, and any funds held in a Dwolla Balance are held by a financial institution partner. Learn more about our financial institution partners.](https://www.dwolla.com/legal/about-our-financial-institution-partners)
 
 [](#)
+
+}
