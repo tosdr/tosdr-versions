@@ -350,15 +350,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
+During filming for “Harry Potter and the Half-Blood Prince”, Rupert Grint caught swine flu.
 
 ### Potter History
 
-February 24, 2009 – Warner Bros. announces that Harry Potter and the Deathly Hallows – Part 2 will be released in theaters on July 15, 2011.
+November 16, 2001 – The first Harry Potter film is released in the United States, opening on a record 3,762 screens in the United States alone. On opening weekend, it grosses $90 million in the United States and £16 million in the United Kingdom, setting records in both countries.
 
 ### Potter Quote
 
-“I think they think I’m a bit odd, you know. Some people call me ‘Loony’ Lovegood, actually.”
+“And what in the name of Merlin’s most baggy Y-fronts was that about?”
 
 [](#)
 
