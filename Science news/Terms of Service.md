@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")21 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")October 3, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")52 mins ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")21 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")October 3, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -138,23 +138,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [A transatlantic flight may turn Saharan dust into a key ocean nutrient](https://www.sciencenews.org/article/saharan-dust-becomes-ocean-nutrient)
+            
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")5 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")52 mins ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")7 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 2, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Why Hurricane Helene was so devastating](https://www.sciencenews.org/article/hurricane-helene-devastation-explainer)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")October 1, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")3 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")10 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
