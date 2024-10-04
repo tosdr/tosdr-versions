@@ -405,13 +405,13 @@ Submit
 
  [![0046](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/se.svg) +46 (Country Code)](https://spamcalls.net/en/country-code/46)
 
- [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cx.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
-
- [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cc.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
+ [![00964](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/iq.svg) +964 (Country Code)](https://spamcalls.net/en/country-code/964)
 
  [![0033](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/fr.svg) +33 (Country Code)](https://spamcalls.net/en/country-code/33)
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/au.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
+
+ [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cx.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
 ##### SpamCalls.net
 
