@@ -24,22 +24,6 @@ Close
 
 Shop By
 
- [NEW](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page) NEW 
-
-NEW
-
-[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection") Shop Limited-Edition Kerri Rosenthal Collection
-
-  ![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)
-
-[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection")
-
-[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	") Shop Limited-Edition Polished Grunge Collection
-
-  [![](/media/export/cms/Homepage/94 Hannah/FY25_HannahMurray_Digital_GNAV_SLICE.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
-
-[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	")
-
  [BESTSELLERS](https://www.bobbibrowncosmetics.com/products/14358/best-sellers) BESTSELLERS 
 
 BESTSELLERS
@@ -53,6 +37,30 @@ BESTSELLERS
 [Long-Wear Cream Shadow Stick](https://www.bobbibrowncosmetics.com/product/2326/24845/makeup/eyes/long-wear-cream-shadow-stick#/shade/Bone "Long-Wear Cream Shadow Stick")
 
 [Crushed Oil-Infused Gloss](https://www.bobbibrowncosmetics.com/product/2340/72380/makeup/lips/lip-gloss/crushed-oil-infused-gloss/ss20/crushed-oil-infused-gloss#/shade/Sweet_Talk "Crushed Oil-Infused Gloss")
+
+New
+
+New 
+
+New
+
+[Shop Weightless Foundation](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all "Shop Weightless Foundation ") Shop Weightless Foundation
+
+  ![](/media/export/cms/GNAV/FY25_WSF_GNAV_Product_Hero_03.jpg)
+
+[Shop Weightless Foundation](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all "Shop Weightless Foundation ")
+
+[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection") Shop Limited-Edition Kerri Rosenthal Collection
+
+  ![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)
+
+[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection")
+
+[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	") Shop Limited-Edition Polished Grunge Collection
+
+  [![](/media/export/cms/Homepage/94 Hannah/FY25_HannahMurray_Digital_GNAV_SLICE.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
+
+[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	")
 
  [SKINCARE](https://www.bobbibrowncosmetics.com/products/14006/skincare) SKINCARE 
 
@@ -234,6 +242,8 @@ Fragrance
 
 Trending
 
+ [HOLIDAY GIFT GUIDE](https://www.bobbibrowncosmetics.com/holiday-gift-guide)
+
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
  [POLISHED GRUNGE](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
@@ -251,8 +261,6 @@ Special offers
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
-
- [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
  [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
 
