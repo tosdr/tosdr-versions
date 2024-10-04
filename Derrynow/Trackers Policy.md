@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-03 Oct 2024
+04 Oct 2024
 
 * [Home
     
@@ -266,6 +266,15 @@ Most Popular
 [Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Donegal man tragically killed in Australia 'fondly remembered' by CLG Chill Chartha](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man tragically killed in Australia 'fondly remembered' by CLG Chill Chartha")](https://www.derrynow.com/news/national-news/1621351/donegal-man-tragically-killed-in-australia-fondly-remembered-as-he-is-named-locally.html)
+
+The late Barry Breslin, inset, is fondly remembered by all at Kilcar GAA club. Photo: CLG Chill Chartha
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Donegal man tragically killed in Australia 'fondly remembered' as he is named locally](https://www.derrynow.com/news/national-news/1621351/donegal-man-tragically-killed-in-australia-fondly-remembered-as-he-is-named-locally.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man who left bag of drugs behind in tanning salon jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who left bag of drugs behind in tanning salon jailed")](https://www.derrynow.com/news/local-news/1620907/derry-man-who-left-bag-of-drugs-behind-in-tanning-salon-jailed.html)
 
 Derry Magistrate's Court
@@ -291,27 +300,6 @@ Derry Magistrate's Court
 [Woman who told shop owner to 'go back to the s--t hole you came from' jailed](https://www.derrynow.com/news/local-news/1620890/woman-who-told-shop-owner-to-go-back-to-the-s-t-hole-you-came-from-jailed.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Kneecap set to rock Derry's St Columb's Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap set to rock Derry's St Columb's Park")](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
 
 Kneecap will play in November
@@ -321,14 +309,26 @@ Kneecap will play in November
 [Kneecap set to rock Derry's St Columb's Park](https://www.derrynow.com/news/local-news/1621159/kneecap-set-to-rock-derry-s-st-columb-s-park.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman is the face of new breast cancer awareness campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman is the face of new breast cancer awareness campaign")](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
-
-Hive Cancer Support member Theresa Kelly pictured centre at the launch of the new Hive Cancer Support Breast Cancer Awareness campaign at the back of Free Derry Corner.
+[![Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial")](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry woman is the face of new breast cancer awareness campaign](https://www.derrynow.com/news/local-news/1620226/derry-woman-is-the-face-of-new-breast-cancer-awareness-campaign.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with robbery, possession of an imitation firearm, assault and criminal damage returned for trial](https://www.derrynow.com/news/local-news/1620910/derry-woman-charged-with-robbery-possession-of-an-imitation-firearm-assault-and-criminal-damage-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'")](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who was given suspended sentence for possessing class A drugs told this was his 'final warning'](https://www.derrynow.com/news/local-news/1620932/derry-man-who-was-given-suspended-sentence-for-possessing-class-a-drugs-told-this-was-his-final-warning.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with assaulting ambulance worker remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting ambulance worker remanded")](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with assaulting ambulance worker remanded](https://www.derrynow.com/news/local-news/1620894/man-charged-with-assaulting-ambulance-worker-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two men returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1620912/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 
