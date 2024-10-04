@@ -9,7 +9,7 @@
 Privacy Policy
 ==============
 
-#### Last updated: August 2, 2024
+#### Last updated: October 4, 2024
 
 This privacy policy describes the information Anonyome Labs, Inc. collects and how we use it within the applications, services, and websites. In addition to Anonyome Labs, Inc., all subsidiaries of Anonyome Labs, Inc. also adhere to the content in this privacy policy.
 
@@ -69,6 +69,8 @@ Anonyome Labs neither retrieves nor processes information about your Application
 We store and process certain information that is provided automatically as part of your Web browser accessing our websites. This information includes data/time, IP address, requested URL, referring URL, browser type and browser language/locale. We use this information to analyze trends, administer the websites and to better tailor our websites to our users’ needs.
 
 We use technology to protect our web sites from spam and other forms of abuse. This does not allow us to know the identity of who is accessing our web sites.
+
+We collect non-personally identifying information about how users use our web, to improve them. We use Statsig for this purpose.
 
 If you choose to provide your email address to subscribe to privacy, security and cyber safety tips, your email address will be stored and processed on the Mailchimp platform.
 
