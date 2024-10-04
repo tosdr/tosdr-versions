@@ -1,26 +1,20 @@
 [Skip to main content](#main-content)
 
-BOGO Free Shirts & Bras! DETAILS
+BOGO Free Best Sellers! DETAILS
 
 BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Mix & match or double up. Compression shirts and bras are buy one get one FREE!
+#### Mix & match or double up. The Best Sellers are buy one get one FREE!
 
-[SHOP NOW](https://www.tommiecopper.com/special/best-selling-shirts-bras)
+[SHOP NOW](https://www.tommiecopper.com/special/best-sellers)
 
-Offer valid 10/3/2024 8AM ET - 10/4/2024 6AM ET.
+Offer valid 10/4/2024 8AM ET - 10/7/2024 6AM ET.
 
-**Excludes: Back Support Bra**
+To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-**
-
-To receive Buy 1 Get 1 Free discount on Compression Bras & Shirts, must add two (2) eligible full-price bras and/or shirts to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-**
-
-**INFRARED & RED LIGHT THERAPY
+INFRARED & RED LIGHT THERAPY
 
 Close the Modal
 
@@ -325,4 +319,4 @@ We Accept
 
 We use cookies to collect data to improve your shopping experience. By using our website you are agreeing to the collection of data as described in our [Privacy Policy](https://www.tommiecopper.com/privacy-policy). Accept
 
-X**
+X
