@@ -251,7 +251,7 @@
         * [Customer Reviews](https://www.sans.org/customer-reviews/)
         * [Trade Events](https://www.sans.org/mlp/trade-events/)
         * [Press](https://www.sans.org/press/)
-        * [Policies and Procedures](https://www.sans.org/about/policies-guidelines)
+        * [Policies and Procedures](https://www.sans.org/legal)
     * [Instructors](https://www.sans.org/instructors/)
         * [Our Instructors](https://www.sans.org/instructors/)
         * [Full Instructor List](https://www.sans.org/profiles/instructors/)
