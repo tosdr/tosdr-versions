@@ -20,6 +20,10 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)
 
+[### Manychat AI: A Smarter Way to Chat Automation
+
+Learn more](https://manychat.com/product/ai/)
+
 [### Grow your followers
 
 Learn more](https://get.manychat.com/grow)
@@ -47,8 +51,6 @@ Learn
 Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
-
-[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03-en.png)Today's the day! Join us — and 25 Instagram experts — at IGSxM '24!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
 
@@ -88,6 +90,10 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)
 
+[### Manychat AI: A Smarter Way to Chat Automation
+
+Learn more](https://manychat.com/product/ai/)
+
 [### Grow your followers
 
 Learn more](https://get.manychat.com/grow)
@@ -95,6 +101,10 @@ Learn more](https://get.manychat.com/grow)
 [### Link in bio’ is soooo 2016. Use DMs instead
 
 Learn more](https://get.manychat.com/rip-link-in-bio)
+
+←
+
+→
 
 Agencies
 
