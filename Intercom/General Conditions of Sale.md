@@ -682,7 +682,7 @@ Sitemap
     * [Docs](https://www.intercom.com/help?on_pageview_event=docs_footer)
     * [Developers](https://developers.intercom.com/?on_pageview_event=developers_footer)
     * [Status](https://www.intercomstatus.com/?on_pageview_event=status_footer)
-    * [Security](https://www.intercom.com/security?on_pageview_event=security_footer)
+    * [Security](https://trust.intercom.com/)
     * [Books and Guides](https://www.intercom.com/resources?on_pageview_event=books_guides_footer)
     * [Services](https://www.intercom.com/premier-services)
 * Company
@@ -701,5 +701,5 @@ Sitemap
 * [Terms](https://intercom.com/terms-and-policies?on_pageview_event=terms_footer)
 * [Privacy](https://intercom.com/terms-and-policies#privacy)
 * [Status](https://www.intercomstatus.com/?on_pageview_event=status_footer)
-* [Security](https://www.intercom.com/security?on_pageview_event=security_footer)
+* [Security](https://trust.intercom.com/)
 * ![privacy check icon](https://images.ctfassets.net/xny2w179f4ki/2goqOciQz7y5kKhux8W6kN/18f143c6dd113be35d7b7adc67e783a5/CCPA-Privacy-Options-icon.png?fm=webp&q=80&w=25&h=12) Your Privacy Choices
