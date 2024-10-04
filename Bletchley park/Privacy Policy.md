@@ -4,9 +4,9 @@
 * [Plan a Visit](https://bletchleypark.org.uk/plan-a-visit/)
 * [Support](https://bletchleypark.org.uk/support-us/)
 
-* [Media Policy](https://bletchleypark.org.uk/privacy-policies/media-policy/)
 * [Recruitment & Volunteering Privacy Policy](https://bletchleypark.org.uk/privacy-policies/privacy-policy-recruitment/)
 * [Bletchley Park Privacy Policy](https://bletchleypark.org.uk/privacy-policies/privacy-policy-bletchley-park/)
+* [Media Policy](https://bletchleypark.org.uk/privacy-policies/media-policy/)
 
 * [](https://twitter.com/bletchleypark)
 * [](https://www.facebook.com/Bletchleypark1/)
