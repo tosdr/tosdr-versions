@@ -1237,7 +1237,7 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-10% ab 80 USD
+[Mindestens -10% ab 80 US$ Bestellwert 
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=GOLD80)
 
