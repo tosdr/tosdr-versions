@@ -165,7 +165,7 @@ About Us
             
         * Honor Code
             
-            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/codes-conduct-and-honor-code)
+            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code)
             
             * [Honor Code for the Bocconi Community](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/honor-code-bocconi-community)
             * [What Happens If...](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/what-happens-if)
@@ -251,7 +251,7 @@ Organization
         
     * Honor Code
         
-        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/codes-conduct-and-honor-code)
+        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code)
         
         * [Honor Code for the Bocconi Community](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/honor-code-bocconi-community)
         * [What Happens If...](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/what-happens-if)
