@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth theology professor arrested on child pornography charge](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1)
+ [![Country star Garth Brooks accused of raping makeup artist](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2101068669-scaled.jpg?ve=1&tl=1)
 
- ![Fort Worth theology professor arrested on child pornography charge](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/charles-bellinger-child-porn-possession-charge-office-on-tcu-campus)
+ ![Country star Garth Brooks accused of raping makeup artist](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2101068669-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/country-star-garth-brooks-accused-raping-makeup-artist)
 
-### [Fort Worth theology professor arrested on child pornography charge](https://www.fox4news.com/news/charles-bellinger-child-porn-possession-charge-office-on-tcu-campus)
+### [Country star Garth Brooks accused of raping makeup artist](https://www.fox4news.com/news/country-star-garth-brooks-accused-raping-makeup-artist)
 
- [![Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/Menendez-Brothers-1.jpg?ve=1&tl=1)
+ [![Dallas Uber driver punches elderly man after argument over legroom, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/uber-assault.png?ve=1&tl=1)
 
- ![Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/592/333/Menendez-Brothers-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-could-erik-lyle-menendez-be-resentenced)
+ ![Dallas Uber driver punches elderly man after argument over legroom, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/uber-assault.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/design-district-uber-ride-assault-elderly-couple-suleman-gauba)
 
-### [Menendez Brothers: Could Erik and Lyle be resentenced? LA DA makes major announcement](https://www.fox4news.com/news/menendez-brothers-could-erik-lyle-menendez-be-resentenced)
+### [Dallas Uber driver punches elderly man after argument over legroom, video shows](https://www.fox4news.com/news/design-district-uber-ride-assault-elderly-couple-suleman-gauba)
 
- [![TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/terryon-thomas.jpg?ve=1&tl=1)
+ [![Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-i20-shooting-self-defense.png?ve=1&tl=1)
 
- ![TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/terryon-thomas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tiktok-mr-prada-terryon-thomas-dallas-baton-rouge)
+ ![Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-i20-shooting-self-defense.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/latuita-holland-arrest-i-20-man-shot-investigation-laderrika-daughter)
 
-### [TikTok star 'Mr. Prada' faces murder charge after Dallas arrest](https://www.fox4news.com/news/tiktok-mr-prada-terryon-thomas-dallas-baton-rouge)
+### [Daughter of Dallas woman accused of shooting other driver claims it was self defense](https://www.fox4news.com/news/latuita-holland-arrest-i-20-man-shot-investigation-laderrika-daughter)
 
- [![Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1460062358.jpg?ve=1&tl=1)
+ [![Costco reveals price cuts on popular Kirkland Signature items](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1243455818.jpg?ve=1&tl=1)
 
- ![Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1460062358.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-verdict-tyre-nichols-memphis-officers)
+ ![Costco reveals price cuts on popular Kirkland Signature items](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1243455818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-announces-price-cuts-kirkland-products)
 
-### [Three Memphis police officers convicted in Tyre Nichols beating but cleared of major civil rights charges](https://www.fox4news.com/news/jury-verdict-tyre-nichols-memphis-officers)
+### [Costco reveals price cuts on popular Kirkland Signature items](https://www.fox4news.com/news/costco-announces-price-cuts-kirkland-products)
 
- [![A wedding costs more than a mortgage in these cities, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/wedding-gfx.jpg?ve=1&tl=1)
+ [![Mount Everest, the world's tallest mountain, is still growing — here’s why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2154375744.jpg?ve=1&tl=1)
 
- ![A wedding costs more than a mortgage in these cities, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/wedding-gfx.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wedding-costs-more-than-mortgage-cities-study)
+ ![Mount Everest, the world's tallest mountain, is still growing — here’s why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2154375744.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-mount-everest-is-growing-taller)
 
-### [A wedding costs more than a mortgage in these cities, study finds](https://www.fox4news.com/news/wedding-costs-more-than-mortgage-cities-study)
+### [Mount Everest, the world's tallest mountain, is still growing — here’s why](https://www.fox4news.com/news/why-mount-everest-is-growing-taller)
 
 ###### [News](https://www.fox4news.com/news)
 
