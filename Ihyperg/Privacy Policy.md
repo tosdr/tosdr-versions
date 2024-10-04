@@ -9,12 +9,13 @@
     * [Gaming](https://www.ihyperg.com/search/label/Games%20News)
     * [AI & Machine Learning](https://www.ihyperg.com/search/label/AI%20News)
     * [Crypto](https://www.skyversed.com/search/label/Crypto%20News)
-* [ ]  Pages
+* [ ]  Photo Editor Pages
+    * [Filters & Overlays Guide](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
+* [ ]  Launcher Pages
     * [Bridge Milky Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
     * [Bridge Star Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
     * [Milky Launcher FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
     * [Star Launcher FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
-    * [How to use Filters and Overlays](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
 * [ ]  Apps
     * [Pichype Photo Editor Pro](https://www.ihyperg.com/p/pichype-photo-editor.html)
     * [VROF Photo Editor Lite](https://www.ihyperg.com/p/vrof-photo-editor.html)
