@@ -184,13 +184,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Countdown** | Velvet](https://video.nhpbs.org/video/countdown-3spqlr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"A Year of War: Israelis and Palestinians" - Preview** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Clues in Maria Anna Mozart's Childhood Notebook** | Secrets of the Dead](https://video.nhpbs.org/video/clues-in-maria-anna-mozarts-childhood-notebook-17aobe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Black Pumas on "Ice Cream (Pay Phone)"** | Austin City Limits](https://video.nhpbs.org/video/black-pumas-on-austin-city-limits-ice-cream-pay-phone-onwjaw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Inundation District Boston's Made Land** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-boston-made-land?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Spooky Secret Stars October 28 - November 3** | Star Gazers](https://video.nhpbs.org/video/spooky-secret-stars-october-28-november-3-jqkoib?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 3, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-3-2024-pbs-news-hour-full-episode-1727928001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Smith Island, The Benefits of Beavers, Mississippi** | This American Land](https://video.nhpbs.org/video/smith-island-the-benefits-of-beavers-mississippi-uzvipd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Harris campaigns with Cheney as Trump repeats false claims** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-tape-1727986181?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Issues that Matter to a Future Voter** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/the-issues-that-matter-to-a-future-voter-qhchcp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What Do DJs Even Do?** | Sound Field](https://video.nhpbs.org/video/what-do-djs-even-do-ik7kdf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
