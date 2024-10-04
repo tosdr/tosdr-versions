@@ -1,6 +1,6 @@
-![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-5022adde-071e-441a-bd66-a889f4e55283&vrid=3aef5042-7c29-42ab-a71c-98bce8b850cb)
+![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-4708ea1e-8334-4247-937b-1ddd9cd1b2d9&vrid=68712680-56c5-4ebf-8482-e99b9759b9da)
 
-[![The Real Yellow Pages - Marketing Services](//i4.ypcdn.com/ypu/images/svgs/yp.svg?97dc6d8)](https://www.yellowpages.com/)![Yahoo - Marketing Services](//i3.ypcdn.com/ypu/images/cobrand/yahoo/yahoo.svg?97dc6d8)[Give us a callCall Us1-800-446-9639](tel:18004469639)
+[![The Real Yellow Pages - Marketing Services](//i4.ypcdn.com/ypu/images/svgs/yp.svg?5e0b547)](https://www.yellowpages.com/)![Yahoo - Marketing Services](//i3.ypcdn.com/ypu/images/cobrand/yahoo/yahoo.svg?5e0b547)[Give us a callCall Us1-800-446-9639](tel:18004469639)
 
 1. [Home](https://www.yellowpages.com/)
 2. [About](https://www.yellowpages.com/about)
