@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Kobus Venter
+Anri van der Linde
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=80769862)  
-VerdanTech Pty Ltd
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=4236789)  
+APTV Telecoms CC
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=109714301)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=214586706)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=193510074)  
-Testpro Laboratory (Pty) Ltd
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=29838362)  
+Moving Made Easy (PTY) Ltd
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=50052909)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=163257108)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=96307213)  
-MR Compressors& Industrial Supplies
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=133004526)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=47946859)  
-MSPCloud (Pty) Ltd
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=51820660)  
+Kainos (Pty) Ltd
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=122028773)  
-Fox Alarms & Security CC
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=39052048)  
+KTEN PARTS
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=159570644)  
-Turnkey Innovations
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=28139981)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=214066002)  
-TechnoDezi PTY(LTD)
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=28803637)  
+kidoscabbie
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=39010668)  
-Karino Merinos ( PTY ) LTD
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=25539740)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=170614673)  
-Lion Software Develepment
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=66642179)  
+Henry's Home Renovations
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=64545692)  
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=7861045)  
+TIGERDSL
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=141160045)  
+Tagline Brands
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=5542518)  
 Lemba Truck Stop
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=67531545)  
-NGB HOLDINGS PTY LTD
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=21948189)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=7628712a6dad36adaef3fbd973bae031a656a1ed8f7ebd7c7df8694396a53fe2&c=25651632)  
-Nilbet T/A Waterman
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=6af067923f945128278f1560e7d3314e95f4c6ab358623198564b7c1d3a887ef&c=30023257)  
+AquariumSmiths
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
