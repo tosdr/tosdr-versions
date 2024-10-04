@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7e6635efb016dbc52b42a9704475061c
+b90cf682f33500645aa7e2919c5af8b5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm round brown pearls](https://www.sojourner.biz/images/cache/pearls/PE0090.200.jpg)](https://www.sojourner.biz/beads/pearls/4-mm-round-brown-pearls.html "4 mm round brown pearls")
+[![German coral clasp](https://www.sojourner.biz/images/cache/SKU0334-1front.200.jpg)](https://www.sojourner.biz/clasps/glass/german-coral-clasp.html "German coral clasp")
 
-#### [4 mm round brown pearls](https://www.sojourner.biz/beads/pearls/4-mm-round-brown-pearls.html "4 mm round brown pearls")
+#### [German coral clasp](https://www.sojourner.biz/clasps/glass/german-coral-clasp.html "German coral clasp")
 
-$15.00
+$20.50
 
 ### Best Sellers
 
