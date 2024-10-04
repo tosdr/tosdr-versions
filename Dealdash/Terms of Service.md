@@ -1,7 +1,7 @@
 Terms of Use
 ------------
 
-**Last Updated: June 9th, 2023**
+**Last Updated: October 4th, 2024**
 
 Each DealDash auction is sponsored by DealDash and DealDash's brand partners, and is no way sponsored, enforced, or administered by, or associated with, Apple, Inc.
 
@@ -268,6 +268,8 @@ If DealDash is unable to provide the user with the item auctioned due to unfores
 Should subsequent correction be undertaken by way of delivery of the item originally auctioned, the user shall be obligated to return to DealDash the substituted item delivered within 30 days at DealDash's expense.
 
 Items delivered shall remain DealDash's property until payment in full of the total price, including for the Bids used in the auction. Until such time as full payment has been made, the user undertakes to store the item separately from their other possessions and to insure it. DealDash shall have full rights of access to the place where the item is located during normal business hours to take possession of it.
+
+We take many precautions to ensure accurate product descriptions. However, occasionally there may be errors in our product descriptions in which case we reserve the right to correct them without explicitly communicating changes with users.
 
 27. **Merchandise Sources**
 
