@@ -311,11 +311,13 @@ Need Help?
 
 For quotes, products information, and more.
 
-[Contact Sales](https://www.lexialearning.com/company/contact-sales)
+ [Contact Sales](https://www.lexialearning.com/company/contact-sales) 
+
+  
 
 For product help and technical assistance.
 
-[Contact Support](https://help.lexialearning.com/s/contact)
+ [Contact Support](https://help.lexialearning.com/s/contact) 
 
 © 2024 Lexia, a Cambium Learning® Group Brand
 
