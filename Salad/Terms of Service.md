@@ -20,10 +20,6 @@ K8 pods as container deployments](https://salad.com/virtual-kubelet)
 
 The lowest priced AI transcription in the market](https://salad.com/transcription)
 
-[Salad Dreambooth API
-
-The lowest priced Stable Diffusion API in the market](https://salad.com/dreambooth-api)
-
 [Pricing](https://salad.com/pricing)
 
 Use Cases
