@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_360x203.jpg)](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
+        
+        #### [Two Navy pilots doing flyover for Washington-Michigan game in Seattle are UW alums](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
+        
     *  [![](https://media.king5.com/assets/KING/images/fbbcb76d-da27-4af7-a65e-a730244fd965/20241003T195300/fbbcb76d-da27-4af7-a65e-a730244fd965_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbbcb76d-da27-4af7-a65e-a730244fd965/20241003T195300/fbbcb76d-da27-4af7-a65e-a730244fd965_360x203.jpg)](https://www.king5.com/article/news/crime/14-arrests-fentanyl-trafficking-ring-washington-lummi-nation-fatal-overdose/281-d6e4886e-9252-4b17-b50c-ea6a717ed586)
         
         #### [Former executive director of Seattle safety outreach group indicted on money laundering charges](https://www.king5.com/article/news/crime/14-arrests-fentanyl-trafficking-ring-washington-lummi-nation-fatal-overdose/281-d6e4886e-9252-4b17-b50c-ea6a717ed586)
-        
-    *  [![](https://media.king5.com/assets/KING/images/3c0de1bc-a4c6-4e80-b421-8816def89a4a/20241004T052126/3c0de1bc-a4c6-4e80-b421-8816def89a4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3c0de1bc-a4c6-4e80-b421-8816def89a4a/20241004T052126/3c0de1bc-a4c6-4e80-b421-8816def89a4a_360x203.jpg)](https://www.king5.com/article/news/local/shoreline-construction-traffic-backups-north-seattle/281-69f6bd2a-272c-42b0-93d4-74b6a732bbfa)
-        
-        #### [Shoreline construction leads to traffic backups in north Seattle](https://www.king5.com/article/news/local/shoreline-construction-traffic-backups-north-seattle/281-69f6bd2a-272c-42b0-93d4-74b6a732bbfa)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d1ed9e75-e3a2-40ce-8edb-b4dbefad5291/20241004T053103/d1ed9e75-e3a2-40ce-8edb-b4dbefad5291_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d1ed9e75-e3a2-40ce-8edb-b4dbefad5291/20241004T053103/d1ed9e75-e3a2-40ce-8edb-b4dbefad5291_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/dd1e5f1c-5503-43d6-af57-289737b5cc39/20241004T122757/dd1e5f1c-5503-43d6-af57-289737b5cc39_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd1e5f1c-5503-43d6-af57-289737b5cc39/20241004T122757/dd1e5f1c-5503-43d6-af57-289737b5cc39_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+52°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
