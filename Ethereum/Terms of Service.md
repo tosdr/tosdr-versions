@@ -2,8 +2,9 @@
 
 [](https://ethereum.org/en/)
 
-1. [Home](https://ethereum.org/en/)/
-2. Terms of use
+1. [Home](https://ethereum.org/en/)
+2. /
+3. Terms of use
 
 Page last updated: August 15, 2023
 
@@ -158,7 +159,7 @@ On this page
 
 * [Terms of Use](#terms-of-use)
 
-Website last updated: September 18, 2024
+Website last updated: October 2, 2024
 
 Go to top
 
