@@ -72,11 +72,11 @@ NEW
 
 Test lists of proxies to avoid potential errors.](https://smartproxy.com/apps/proxy-checker)
 
-Features
+[Features](https://smartproxy.com/legal/proxies/features)
 
 [SOCKS5](https://smartproxy.com/proxies/socks5)[Rotating](https://smartproxy.com/proxies/rotating-proxies)[ISP](https://smartproxy.com/proxies/isp-proxies)[Shared](https://smartproxy.com/proxies/shared-proxies)[Private](https://smartproxy.com/proxies/private-proxies)[Backconnect](https://smartproxy.com/proxies/backconnect-proxies)[Elite](https://smartproxy.com/proxies/anonymous-proxy)[No subnets](https://smartproxy.com/proxies/proxies-without-subnets)[IPv4](https://smartproxy.com/proxies/ipv4-proxies)[Datacenter](https://smartproxy.com/proxies/datacenter-proxies)[Cheap](https://smartproxy.com/proxies/cheap)
 
-Targets
+[Targets](https://smartproxy.com/targets)
 
 [Amazon](https://smartproxy.com/scraping/amazon)[Google Search](https://smartproxy.com/scraping/google-search)[Google Shopping](https://smartproxy.com/scraping/google-shopping)[Google Image](https://smartproxy.com/scraping/google-reverse-image)[Google Autocomplete (Suggest)](https://smartproxy.com/scraping/google-autocomplete-api)[Reddit](https://smartproxy.com/scraping/reddit)[YouTube](https://smartproxy.com/proxies/youtube-proxies)[Craigslist](https://smartproxy.com/proxies/craigslist-proxies)[Bing](https://smartproxy.com/targets/bing)[Shopify](https://smartproxy.com/proxies/shopify-proxies)[eBay](https://smartproxy.com/proxies/ebay-proxies)[Pinterest](https://smartproxy.com/proxies/pinterest-proxies)[TikTok](https://smartproxy.com/scraping/tiktok)[Airbnb](https://smartproxy.com/scraping/airbnb)
 
@@ -843,7 +843,7 @@ FOLLOW US
 
 COMPANY
 
-[About us](https://smartproxy.com/about)[Why Smartproxy](https://smartproxy.com/why-smartproxy)[Careers](https://smartproxy.com/careers)[Community](https://discord.com/invite/gvJhWJPaB4)[Privacy policy](https://smartproxy.com/legal)[License agreement](https://smartproxy.com/legal/license-agreement)[Affiliate program](https://smartproxy.com/proxy-affiliate-program)[Referral program](https://smartproxy.com/deals/referral-program)[Ethical sourcing & usage](https://smartproxy.com/proxies/ethical-residential-proxy-sourcing-and-usage)
+[About us](https://smartproxy.com/about)[Careers](https://smartproxy.com/careers)[Community](https://discord.com/invite/gvJhWJPaB4)[Privacy policy](https://smartproxy.com/legal)[License agreement](https://smartproxy.com/legal/license-agreement)[Affiliate program](https://smartproxy.com/proxy-affiliate-program)[Referral program](https://smartproxy.com/deals/referral-program)[Ethical sourcing & usage](https://smartproxy.com/proxies/ethical-residential-proxy-sourcing-and-usage)
 
 PRODUCTS
 
