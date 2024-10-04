@@ -211,8 +211,6 @@ Switch to
             
             * [Razer Basilisk V3 Pro 35K](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k)
             * [Razer Basilisk V3 35K](https://www.razer.com/gaming-mice/razer-basilisk-v3-35k)
-            * [Razer Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
-            * [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
             * [Razer Basilisk V3 X HyperSpeed](https://www.razer.com/gaming-mice/razer-basilisk-v3-x-hyperspeed)
             * [Razer Cobra Pro](https://www.razer.com/gaming-mice/razer-cobra-pro)
             * [Razer Cobra](https://www.razer.com/gaming-mice/razer-cobra)
@@ -269,8 +267,6 @@ Switch to
             * [View All Basilisk](https://www.razer.com/pc/gaming-mice/basilisk-line)
             * [Razer Basilisk V3 Pro 35K](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k)
             * [Razer Basilisk V3 35K](https://www.razer.com/gaming-mice/razer-basilisk-v3-35k)
-            * [Razer Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
-            * [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
             * [Razer Basilisk V3 X HyperSpeed](https://www.razer.com/gaming-mice/razer-basilisk-v3-x-hyperspeed)
             
         * Naga
