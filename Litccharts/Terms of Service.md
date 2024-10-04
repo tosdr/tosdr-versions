@@ -227,7 +227,7 @@ Company
 
 Support
 
-[Help Center](https://www.litcharts.com/help) [Contact Us](https://www.litcharts.com/contact) [Citation Generator](https://www.litcharts.com/mla-citation-generator?utm_source=mla_link_sitewide_footer)
+[Help Center](https://www.litcharts.com/help) [Contact Us](https://www.litcharts.com/contact)
 
 Connect
 
