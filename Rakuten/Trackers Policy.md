@@ -1,5 +1,7 @@
 [![Rakuten Logo](https://static.rakuten.com/static/svg/rakuten/rak-logo-brand-v1.svg)](https://www.rakuten.com/) [Help Center](https://www.rakuten.com/help)
 
+Sign InJoin Now
+
 How can we help?
 ================
 
