@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH448053-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/German-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
 
-CTA
+Suburbs
 
-### [Cops trying to ID five suspects who robbed woman at Red Line station](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+### [Suburban man may have robbed 6 banks in a year, FBI says](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
 
-[September 30, 2024 7:42 PM](https://cwbchicago.com/2024/09)
+[October 1, 2024 9:00 AM](https://cwbchicago.com/2024/10)
 
-CPD on Monday released extremely high-quality images of four people wanted in connection with a violent robbery at a Red Line station over the weekend.[](https://cwbchicago.com/2024/09/cops-trying-to-id-five-suspects-who-robbed-woman-at-red-line-station.html "Cops trying to ID five suspects who robbed woman at Red Line station")
+The FBI says a suburban man is responsible for robbing six banks over the past year, usually displaying a gun during the robberies, one of which netted him over $16,000 in cash.[](https://cwbchicago.com/2024/10/suburban-man-may-have-robbed-6-banks-in-a-year-fbi-says.html "Suburban man may have robbed 6 banks in a year, FBI says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/01/Elijah-Russell-and-CTA-suspect-326x245.jpg)](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tony-Pearson-r-326x245.jpg)](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
 
-Chinatown
+Citywide
 
-### [31 years in prison for man who shot 16-year-old aboard the Red Line](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+### [Man charged with shooting at occupied car while on electronic monitoring for machine gun possession](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
 
-[September 30, 2024 7:15 PM](https://cwbchicago.com/2024/09)
+[October 1, 2024 6:51 AM](https://cwbchicago.com/2024/10)
 
-A judge on Monday sentenced a Chicago man to 31 years in prison for shooting a teenager aboard a Red Line train near Chinatown. Prosecutors said the shooting left the 16-year-old victim blind in one eye.[](https://cwbchicago.com/2024/09/31-years-in-prison-for-man-who-shot-16-year-old-aboard-the-red-line.html "31 years in prison for man who shot 16-year-old aboard the Red Line")
+Tony Pearson becomes the very first person added to our list of people accused of shooting, killing, or trying to shoot or kill someone in Chicago while on pretrial release when the pending case also put them on our list.[](https://cwbchicago.com/2024/10/man-charged-with-shooting-at-occupied-car-while-on-electronic-monitoring-for-machine-gun-possession.html "Man charged with shooting at occupied car while on electronic monitoring for machine gun possession")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Sierra-Evans-326x245.jpg)](https://cwbchicago.com/2024/09/nobody-reported-gunfire-when-robbers-shot-a-man-in-a-west-side-park-last-night-family-raises-money-for-woman-found-slain-saturday.html "Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/BB5-326x245.jpg)](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
 
-East Garfield Park
+Austin
 
-### [Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday](https://cwbchicago.com/2024/09/nobody-reported-gunfire-when-robbers-shot-a-man-in-a-west-side-park-last-night-family-raises-money-for-woman-found-slain-saturday.html "Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday")
+### [Another murder victim is found shot on a street previously monitored by ShotSpotter](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
 
-[September 30, 2024 10:58 AM](https://cwbchicago.com/2024/09)
+[October 1, 2024 6:01 AM](https://cwbchicago.com/2024/10)
 
-A man who was shot during a robbery in a West Side park on Sunday night sought help by walking to a nearby gas station. But, records show nobody called 911 to report the shots, which were fired in an area previously served by the city’s ShotSpotter network.[](https://cwbchicago.com/2024/09/nobody-reported-gunfire-when-robbers-shot-a-man-in-a-west-side-park-last-night-family-raises-money-for-woman-found-slain-saturday.html "Nobody reported gunfire when robbers shot a man in a West Side park last night; family raises money for woman found slain Saturday")
+Chicago police found a man lying dead with gunshot wounds to his chest and back on a West Side street overnight. There had not been calls of shots fired in the area, which was monitored by ShotSpotter gunfire detectors until last week, for over an hour.[](https://cwbchicago.com/2024/10/another-murder-victim-is-found-shot-on-a-street-previously-monitored-by-shotspotter.html "Another murder victim is found shot on a street previously monitored by ShotSpotter")
 
 Search
 
