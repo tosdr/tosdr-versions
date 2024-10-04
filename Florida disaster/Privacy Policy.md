@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, October 3, 2024**
+**Friday, October 4, 2024**
 
-**...Increasing Rain Chances Along Panhandle Throughout teh Day After Days of Mostly Dry Conditions...Scattered to Numerous Showers and Thunderstorms Across the Peninsula, Especially Central Florida...Localized Flooding Possible With Additional Heavy Downpours Over Saturated Grounds...Heat Index Values in Middle to Upper 90s and Triple Digits Throughout Eastern Big Bend and Peninsula...Patchy to Locally Dense Fog Possible Overnight and Early Friday Morning Along Suwannee River Valley...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor Flooding Ongoing or Forecast for Apalachicola, Ochlockonee and Withlacoochee Rivers...Moderate Risk for Rip Currents Continues Nearly Statewide...Atlantic Basin Remains Active with Two (2) Named Systems and Monitoring One (1) Disturbance...**
+**...Coastal Showers and Thunderestorms Become More Numerous Across the Florida Peninsula Through the Afternoon...Localized Flooding Possible Across Already Saturated Soils...Widespread Rain Chances Return to the Florida Panhandle Today...Triple Digit Heat Indices Possible for Central and South Florida...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor Flooding Ongoing or Forecast for Apalachicola and Withlacoochee Rivers...Additional Riverine Flooding Likely for West Florida into Next Week...Moderate to High Risk for Rip Currents Continues for Panhandle and East Coast Beaches...Atlantic Basin Remains Active with Two (2) Named Systems and Monitoring One (1) Disturbance...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
