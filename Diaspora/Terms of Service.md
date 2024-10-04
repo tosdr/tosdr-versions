@@ -123,7 +123,7 @@ Originally adapted from the [WordPress Terms of Service](http://en.wordpress.com
 
 * [Home](https://discourse.diasporafoundation.org/)
 * [Categories](https://discourse.diasporafoundation.org/categories)
-* [FAQ/Guidelines](https://discourse.diasporafoundation.org/guidelines)
+* [Guidelines](https://discourse.diasporafoundation.org/guidelines)
 * [Terms of Service](https://discourse.diasporafoundation.org/tos)
 * [Privacy Policy](https://discourse.diasporafoundation.org/privacy)
 
