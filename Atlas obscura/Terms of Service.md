@@ -79,73 +79,7 @@ Spirits, Saints, and Souls: The Secret History of Halloween With Lisa Morton](ht
 
 Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![The mulberry tree gushing water from its trunk.](https://img.atlasobscura.com/v_rc0TjoYlNCedON8PqmhfgtmlzZM0hZOQl6W7KJK3A/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZGJh/NTAwNS04OTZiLTRi/YzEtOWI0NC0yZjMz/YWU4OWU2MDExM2Vh/MGQ2MDllNmUxNTFm/N2JfQW5vdGhlcl9z/aWRlX3ZpZXdfb2Zf/V2F0ZXJfZmxvd2lu/Z19mcm9tX3RoZV9N/aXJhY3Vsb3VzX211/bGJlcnJ5ICgxKS5q/cGc.jpg)
-
-Dinoša Mulberry Tree](https://www.atlasobscura.com/places/dinosa-mulberry-tree)
-
-   [![Watson's pool](https://img.atlasobscura.com/egML9AVjmosNpX_s4TxvhvGffzcwCO2_CrHe22mbZNY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YTY0/ZTRjYS1mZjAzLTRk/MTYtYTgxNC1hZmUz/OWNiMzE2NGFhYzg3/MWYyNGQwNjNkYzg0/YTFfNTUwMDE0NDk1/M18yYmJiMGI2ZGYy/X28uanBn.jpg)
-
-Maungauika (North Head)](https://www.atlasobscura.com/places/maungauika-north-head)
-
-   [![](https://img.atlasobscura.com/nBjq54q7P0kLiSh412hhdvSgoeAmvPwsnC4ZMciatG8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYTM5/NmVkMS1lYzY3LTRj/NGYtOGM1ZS1kMTNk/NDY4ZGZlMGFiNTVm/MWU1ZGQyZGJjMDFl/NTVfSU1HXzA3NDUu/anBlZw.jpg)
-
-Yasaka Kōshin-dō Temple](https://www.atlasobscura.com/places/yasaka-koshin-do-temple)
-
-   [![Holy Spirit Church-St John Baptist and other Saints by A. Previtali, Descent of the Holy Spirit upon the Madonna and Apostles by A. da Fossano,](https://img.atlasobscura.com/qtt_FF04ggcd-0QMnWW1DoqDTQvWi-Gcz0xGZsAJens/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wODI0/OTc4OS00YzI4LTRl/OWUtOWZkZC1lMjE2/ZTUwMjJjYmI4ZmU1/ZDk1OTU1NGI0Nzg3/ZjRfQmVyZ2Ftby1I/b2x5IFNwaXJpdCBD/aHVyY2gtU3QgSm9o/biBCYXB0aXN0IGFu/ZCBvdGhlciBTYWlu/dHMgYnkgQS4gUHJl/dml0YWxpLCBEZXNj/ZW50IG9mIHRoZSBI/b2x5IFNwaXJpdCB1/cG9uIHRoZSBNYWRv/bm5hIGFuZCBBcG9z/dGxlcyBieSBBLiBk/YSBGb3NzYW5vLC5q/cGc.jpg)
-
-Chiesa del San Spirito](https://www.atlasobscura.com/places/chiesa-del-san-spirito)
+Loading...
 
 Latest Places to Eat & Drink
 
