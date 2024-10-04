@@ -321,12 +321,12 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.7/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.8/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
 * [AV SOLUTIONS](#t21827-k145069)
-* [SHOP OFFERS](#t21827-k156684)
+* [SHOP OFFERS](https://www.netgear.com/deals/)
 
 [SHOP OFFERS](https://store.netgear.com/home/?lang=en_us) [ORBI PREMIUM WIFI](https://www.netgear.com/home/wifi/mesh/orbi/) [NIGHTHAWK MOBILE WIFI](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
 
