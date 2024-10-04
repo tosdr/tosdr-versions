@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/vrijheid-een-wijze-en-liefdevolle-staat-van-zijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/yge-visser-een-persoonlijke-ontpopping/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
