@@ -151,10 +151,10 @@ Would you like to download BitTorrent Web for Windows?
 * [Site Feedback](https://www.surveymonkey.com/r/5CJKRDC)
 * [Tip of the Day](https://www.bittorrent.com/tip-of-the-day/)
 
-[Facebook](https://facebook.com/bittorrent)[Twitter](https://twitter.com/BitTorrent)[Instagram](https://instagram.com/bittorrent)[Discord](https://discord.com/invite/pn6WWmXtQV)
+[Facebook](https://facebook.com/bittorrent)[Twitter](https://twitter.com/BitTorrent)[Instagram](https://instagram.com/bittorrent)
 
 * * *
 
-Version 1.3.0 © 2024 BitTorrent Limited All Rights Reserved.
+Version 1.3.3 © 2024 BitTorrent Limited All Rights Reserved.
 
 [EULA](https://www.bittorrent.com/legal/eula/) | [Copyright](https://www.bittorrent.com/legal/copyright/) | [Terms of Use](https://www.bittorrent.com/legal/terms-of-use/) | [Privacy](https://www.bittorrent.com/legal/privacy-policy/)
