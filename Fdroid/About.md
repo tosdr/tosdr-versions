@@ -152,7 +152,7 @@ If you have contributed to F-Droid and your name is missing, it’s a mistake an
 
 The original F-Droid client app was based on the Aptoide app developed by Roberto Jacinto.
 
-العربية བོད་སྐད་ English Deutsch español فارسی français עברית magyar Bahasa Indonesia íslenska italiano 日本語 한국어 polski português português do Brasil română русский shqip Türkçe українська 简体中文 繁體中文
+العربية བོད་སྐད་ čeština Deutsch English español فارسی français עברית magyar Bahasa Indonesia íslenska italiano 日本語 한국어 polski português português do Brasil română русский shqip Türkçe українська 简体中文 繁體中文
 
  
 
@@ -172,10 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [F-Droid website now available in Czech!](https://f-droid.org/en/2024/10/04/czech-language.html) Oct 04, 2024
 * [Earliest next update in...](https://f-droid.org/en/2024/10/03/twif.html) Oct 03, 2024
 * [DNS security and "bus factor" improvements](https://f-droid.org/en/2024/09/30/dns-security-and-bus-factor-improvements.html) Sep 30, 2024
 * [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
-* [F-Droid website now available in Czech!](https://f-droid.org/en/2024/09/23/czech-language.html) Sep 23, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-03, fdroid-website [2.273](https://gitlab.com/fdroid/fdroid-website/tree/5547251de6)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-03, fdroid-website [2.274](https://gitlab.com/fdroid/fdroid-website/tree/a4a1bcbbf9)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
