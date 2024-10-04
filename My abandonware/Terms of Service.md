@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 31300 old games to download for free!
+More than 31400 old games to download for free!
 
  
 
@@ -73,8 +73,8 @@ Top downloads
 * [Mario Teaches Typing](https://www.myabandonware.com/game/mario-teaches-typing-1gl)
 * [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
-* [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Silent Hill 2: Restless Dreams](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd)
+* [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
 * [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
 * [Rogue](https://www.myabandonware.com/game/rogue-4n)
@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Speed Demons](https://www.myabandonware.com/game/speed-demons-s4n)
-* [Ogniem i mieczem](https://www.myabandonware.com/game/ogniem-i-mieczem-s4m)
-* [Congo Bongo](https://www.myabandonware.com/game/congo-bongo-22)
-* [Billard Deluxe](https://www.myabandonware.com/game/billard-deluxe-s4j)
-* [RIS: Delitti Imperfetti](https://www.myabandonware.com/game/ris-delitti-imperfetti-s4h)
+* [Scrabble Blast Deluxe](https://www.myabandonware.com/game/scrabble-blast-deluxe-t0n)
+* [Scrabble Blast!](https://www.myabandonware.com/game/scrabble-blast-sik)
+* [Scrabble Rack Attack](https://www.myabandonware.com/game/scrabble-rack-attack-sij)
+* [Summer Athletics 2009](https://www.myabandonware.com/game/summer-athletics-2009-szd)
+* [Silent Scope](https://www.myabandonware.com/game/silent-scope-snq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Addicted to Fun: Ninja Collection](https://www.myabandonware.com/game/addicted-to-fun-ninja-collection-kny)
-* [Shuffle Pix](https://www.myabandonware.com/game/shuffle-pix-7iv)
-* [Miss Maggie's Earth Adventures](https://www.myabandonware.com/game/miss-maggie-s-earth-adventures-nok)
+* [Armored Car](https://www.myabandonware.com/game/armored-car-s97)
+* [Truckin'](https://www.myabandonware.com/game/truckin-eal)
+* [Jeune Styliste 4 : World](https://www.myabandonware.com/game/jeune-styliste-4-world-hfc)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
