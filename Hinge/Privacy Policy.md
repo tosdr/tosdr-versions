@@ -25,18 +25,18 @@ We know reading a privacy policy might not be everyone’s idea of a good time, 
 
 This Privacy Policy applies from July 1, 2024. The previous version, available [here](https://files.hinge.co/b9033c2b9aa98074a56958ab22d2f4d402eef332.pdf), applies until then.
 
-1. Who We Are
-2. Where This Privacy Policy Applies
-3. Data We Collect
-4. How We Use Data
-5. How We Share Data
-6. How Match Group Companies Work Together
-7. Cross-Border Data Transfers
-8. Your Rights
-9. How Long We Retain Your Data
-10. Children's Privacy
-11. Privacy Policy Changes
-12. How To Contact Us
+1. [Who We Are](#who-we-are)
+2. [Where This Privacy Policy Applies](#where-this-privacy-policy-applies)
+3. [Data We Collect](#data-we-collect)
+4. [How We Use Data](#how-we-use-data)
+5. [How We Share Data](#how-we-share-data)
+6. [How Match Group Companies Work Together](#how-match-group)
+7. [Cross-Border Data Transfers](#cross-border-data-transfers)
+8. [Your Rights](#your-rights)
+9. [How Long We Retain Your Data](#how-long-we-retain-your-data)
+10. [Children's Privacy](#childrens-privacy)
+11. [Privacy Policy Changes](#privacy-policy-changes)
+12. [How To Contact Us](#how-to-contact-us)
 
 ### **1\. Who We Are**
 
@@ -165,12 +165,14 @@ If you decide to stop using our service, you can close your account and your pro
 
 Following account closure, we delete your data as laid out below:
 
-1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure or up to two years following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims.
-2. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
-3. We maintain limited data on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
-4. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data, in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
+1\. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.  
 
-Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies, and services and keep Match Group services safe.
+2\. We maintain limited data on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
+
+  
+3\. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data, in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.  
+
+4\. Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies, and services and keep Match Group services safe.
 
 ### **10\. Children's Privacy**
 
@@ -199,7 +201,7 @@ Dublin
 D02 PY28  
 Ireland
 
-For more information on how to contact the data protection officer, please click [here](https://hingeapp.zendesk.com/hc/en-us/articles/360004792234-How-can-I-make-a-Data-Request).
+For more information on how to contact the data protection officer, please click [here](https://hingeapp.zendesk.com/hc/en-us/articles/19577664626195-How-do-I-contact-Hinge-s-Data-Protection-Officer).
 
 **If you live outside the European Economic Area, the United Kingdom, Switzerland and Japan:**
 
