@@ -490,7 +490,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[FREE GIFT! Lavender Oat Soothing Cleanser w/ $49+ USE CODE: LAVENDERGLOW](https://www.100percentpure.com/products/lavender-oat-milk-soothing-cleanser?variant=29916754378830 "https://www.100percentpure.com/products/lavender-oat-milk-soothing-cleanser?variant=29916754378830")
+[TRIPLE POINTS WEEKEND 3X The Points On All Orders](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
