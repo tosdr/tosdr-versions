@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Isolation and Depression in the Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/isolation-and-depression-in-the-elderly/1)
+[4 Benefits of Aging in Place](https://www.visitingangels.com/knowledge-center/care-options/4-benefits-of-aging-in-place/348)
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+[3 Keys to Home Care Provider Compatibility](https://www.visitingangels.com/knowledge-center/selecting-care/3-keys-to-home-care-provider-compatibility/385)
 
-[Five Benefits of Full-Time Home Care](https://www.visitingangels.com/knowledge-center/family-caregiver-support/five-benefits-of-full-time-home-care/488)
+[Part 1: Expert Advice When Caring for a Loved One with Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-1-expert-advice-when-caring-for-a-loved-one-with-dementia/367)
 
-[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
+[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
 
-[Coordinating Family and Professional Care](https://www.visitingangels.com/knowledge-center/care-options/coordinating-family-and-professional-care/115)
+[What to Know About Switching Professional Caregivers](https://www.visitingangels.com/knowledge-center/selecting-care/what-to-know-about-switching-professional-caregivers/328)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
