@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-1\. The service was perfect and the configuration easy 2. It's a good idea to let people try the service. I would never pay for such a service without being sure that it works and that the connection is good.
+Brilliant customer support as usual. Delighted to be able to use Foxyproxy again. I fiddled with NordVPn and their performance is light years behind your standard.
 
-Patrizia Franchini
+Frederic Delaroche
