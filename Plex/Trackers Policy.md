@@ -165,7 +165,7 @@ We do not sell or give your email address to other companies for their own marke
 * [Copyright](https://www.plex.tv/about/privacy-legal/plex-copyright-policy/)
 * [Trademarks](https://www.plex.tv/about/privacy-legal/plex-trademarks-and-guidelines/)
 * [Subscriptions and Rentals](https://www.plex.tv/about/privacy-legal/subscriptions-and-rentals/)
-* [Content Guidelines](https://www.plex.tv/about/privacy-legal/content-guidelines/)
+* [Community Guidelines](https://www.plex.tv/about/community-guidelines/)
 
 #### We value your privacy.
 
@@ -264,6 +264,7 @@ No credit card required.
     * [Finding Help](https://support.plex.tv/)
     * [Support Library](https://support.plex.tv/articles)
     * [Community Forums](https://forums.plex.tv/)
+    * [Community Guidelines](https://www.plex.tv/about/community-guidelines/)
     * [Billing Questions](https://www.plex.tv/contact/?option=plex-pass-billing)
     * [Status](https://status.plex.tv/)
     * [Bug Bounty](https://support.plex.tv/articles/reporting-security-issues/)
