@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoHelene](https://weather.com/storms/hurricane/video/helene-house-flooded-neighbors-stuck-henderson-north-carolina?adRef=nav_trpcl)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/storms/hurricane/video/helene-house-flooded-neighbors-stuck-henderson-north-carolina)
 
 More ForecastsMoreArrow down
 
