@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MUM vs ROI - Live](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")[RSAW vs WIW - Preview](https://www.cricbuzz.com/live-cricket-scores/94559/rsaw-vs-wiw-3rd-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v West Indies Women, 3rd Match, Group B - Preview")[IRE vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/93659/ire-vs-rsa-2nd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 2nd ODI - Preview")[INDW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94561/indw-vs-nzw-4th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v New Zealand Women, 4th Match, Group A - Preview")[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92959/gaw-vs-br-qualifier-2-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, Qualifier 2 - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WIW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup-2024 "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")[RSA vs IRE - Live](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 2nd ODI - Live")[INDW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94561/indw-vs-nzw-4th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v New Zealand Women, 4th Match, Group A - Preview")[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92959/gaw-vs-br-qualifier-2-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, Qualifier 2 - Preview")[UAE vs USA - Live](https://www.cricbuzz.com/live-cricket-scores/107689/uae-vs-usa-5th-match-namibia-t20i-tri-series-2024 "United Arab Emirates v United States, 5th Match - Live")
 
 AllLive NowToday
 
@@ -60,21 +60,17 @@ AllLive NowToday
     
     1st ODI
     
-* [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93659/ire-vs-rsa-2nd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 2nd ODI - Preview")
+* [South Africa vs Ireland  LIVE](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-south-africa-vs-ireland-2024 "South Africa v Ireland, 2nd ODI - Live")
     
     2nd ODI
     
 * ICC Mens East Asia-Pacific T20WCQB
     
-    [Indonesia vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102792/idn-vs-skr-8th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v South Korea, 8th Match - IDN Won")
-    
-    8th Match
-    
-* [Indonesia vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102801/idn-vs-phi-9th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Philippines, 9th Match - Preview")
+    [Indonesia vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102801/idn-vs-phi-9th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Philippines, 9th Match - IDN Won")
     
     9th Match
     
-* [South Korea vs Japan](https://www.cricbuzz.com/live-cricket-scores/102808/skr-vs-jpn-10th-match-icc-mens-east-asia-pacific-t20wcqb "South Korea v Japan, 10th Match - Upcoming")
+* [Japan vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102808/jpn-vs-skr-10th-match-icc-mens-east-asia-pacific-t20wcqb "Japan v South Korea, 10th Match - JPN Won")
     
     10th Match
     
@@ -102,11 +98,11 @@ AllLive NowToday
     
     4th Match
     
-* [United States vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/107689/usa-vs-uae-5th-match-namibia-tri-series-2024 "United States v United Arab Emirates, 5th Match - Preview")
+* [United Arab Emirates vs United States  LIVE](https://www.cricbuzz.com/live-cricket-scores/107689/uae-vs-usa-5th-match-namibia-tri-series-2024 "United Arab Emirates v United States, 5th Match - Live")
     
     5th Match
     
-* [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-tri-series-2024 "Namibia v United States, 6th Match - Upcoming")
+* [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-tri-series-2024 "Namibia v United States, 6th Match - Preview")
     
     6th Match
     
@@ -140,13 +136,25 @@ AllLive NowToday
     
     5th Match
     
-* CSA T20 Knock Out Competition
-    
-    [Eastern Storm vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105210/estorm-vs-limpo-12th-match-csa-t20-knock-out-competition "Eastern Storm v Limpopo, 12th Match - ESTORM Won")
+* [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - Upcoming")
     
     12th Match
     
-* [Northern Cape vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105202/ncape-vs-ecape-11th-match-csa-t20-knock-out-competition "Northern Cape v Eastern Cape, 11th Match - NCAPE Won")
+* [Titans vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103458/tit-vs-wpr-11th-match-csa-t20-challenge "Titans v Western Province, 11th Match - Upcoming")
+    
+    11th Match
+    
+* [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - Upcoming")
+    
+    10th Match
+    
+* [Warriors vs Knights](https://www.cricbuzz.com/live-cricket-scores/103447/war-vs-kng-9th-match-csa-t20-challenge "Warriors v Knights, 9th Match - Upcoming")
+    
+    9th Match
+    
+* CSA T20 Knock Out Competition
+    
+    [Northern Cape vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105202/ncape-vs-ecape-11th-match-csa-t20-knock-out-competition "Northern Cape v Eastern Cape, 11th Match - NCAPE Won")
     
     11th Match
     
@@ -154,13 +162,21 @@ AllLive NowToday
     
     10th Match
     
-* [Eastern Cape vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105218/ecape-vs-swd-13th-match-csa-t20-knock-out-competition "Eastern Cape v South Western Districts, 13th Match - Upcoming")
+* [Eastern Storm vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105210/estorm-vs-limpo-12th-match-csa-t20-knock-out-competition "Eastern Storm v Limpopo, 12th Match - ESTORM Won")
     
-    13th Match
+    12th Match
     
 * [Tuskers vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105220/tusks-vs-ncape-14th-match-csa-t20-knock-out-competition "Tuskers v Northern Cape, 14th Match - Upcoming")
     
     14th Match
+    
+* [Eastern Cape vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105218/ecape-vs-swd-13th-match-csa-t20-knock-out-competition "Eastern Cape v South Western Districts, 13th Match - Upcoming")
+    
+    13th Match
+    
+* [Limpopo vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105226/limpo-vs-mpr-15th-match-csa-t20-knock-out-competition "Limpopo v Mpumalanga Rhinos, 15th Match - Upcoming")
+    
+    15th Match
     
 * LLC 2024
     
@@ -172,11 +188,11 @@ AllLive NowToday
     
     13th Match
     
-* [India Capitals vs Konark Suryas Odisha](https://www.cricbuzz.com/live-cricket-scores/107140/indcap-vs-knso-14th-match-llc-2024 "India Capitals v Konark Suryas Odisha, 14th Match - Preview")
+* [Konark Suryas Odisha vs India Capitals](https://www.cricbuzz.com/live-cricket-scores/107140/knso-vs-indcap-14th-match-llc-2024 "Konark Suryas Odisha v India Capitals, 14th Match - Complete")
     
     14th Match
     
-* [Manipal Tigers vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107148/mt-vs-gugs-15th-match-llc-2024 "Manipal Tigers v Gujarat Greats, 15th Match - Upcoming")
+* [Manipal Tigers vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107148/mt-vs-gugs-15th-match-llc-2024 "Manipal Tigers v Gujarat Greats, 15th Match - Preview")
     
     15th Match
     
@@ -188,7 +204,7 @@ AllLive NowToday
     
     Irani Cup 2024
     
-    [Mumbai vs Rest of India  LIVE](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")
+    [Mumbai vs Rest of India](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
     
     Irani Cup
     
@@ -208,13 +224,13 @@ AllLive NowToday
     
     10th Match
     
-* [Kenya vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108129/ken-vs-qat-12th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Qatar, 12th Match - Preview")
-    
-    12th Match
-    
-* [Kuwait vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108137/kuw-vs-png-13th-match-icc-cwc-challenge-league-a-2024-26 "Kuwait v Papua New Guinea, 13th Match - Preview")
+* [Kuwait vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108137/kuw-vs-png-13th-match-icc-cwc-challenge-league-a-2024-26 "Kuwait v Papua New Guinea, 13th Match - PNG Won")
     
     13th Match
+    
+* [Qatar vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108129/qat-vs-ken-12th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Kenya, 12th Match - Complete")
+    
+    12th Match
     
 * [Denmark vs Jersey](https://www.cricbuzz.com/live-cricket-scores/108145/den-vs-jer-15th-match-icc-cwc-challenge-league-a-2024-26 "Denmark v Jersey, 15th Match - Preview")
     
@@ -236,7 +252,7 @@ AllLive NowToday
     
     2nd Match, Group A
     
-* [South Africa Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/94559/rsaw-vs-wiw-3rd-match-group-b-icc-womens-t20-world-cup "South Africa Women v West Indies Women, 3rd Match, Group B - Preview")
+* [West Indies Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")
     
     3rd Match, Group B
     
@@ -244,21 +260,21 @@ AllLive NowToday
     
     4th Match, Group A
     
-* [Bangladesh Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94568/banw-vs-engw-5th-match-group-b-icc-womens-t20-world-cup "Bangladesh Women v England Women, 5th Match, Group B - Upcoming")
+* [Australia Women vs Sri Lanka Women](https://www.cricbuzz.com/live-cricket-scores/94577/ausw-vs-slw-5th-match-group-a-icc-womens-t20-world-cup "Australia Women v Sri Lanka Women, 5th Match, Group A - Preview")
     
-    5th Match, Group B
+    5th Match, Group A
     
-* [Australia Women vs Sri Lanka Women](https://www.cricbuzz.com/live-cricket-scores/94577/ausw-vs-slw-6th-match-group-a-icc-womens-t20-world-cup "Australia Women v Sri Lanka Women, 6th Match, Group A - Upcoming")
+* [Bangladesh Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94568/banw-vs-engw-6th-match-group-b-icc-womens-t20-world-cup "Bangladesh Women v England Women, 6th Match, Group B - Upcoming")
     
-    6th Match, Group A
+    6th Match, Group B
+    
+* [India Women vs Pakistan Women](https://www.cricbuzz.com/live-cricket-scores/94586/indw-vs-pakw-7th-match-group-a-icc-womens-t20-world-cup "India Women v Pakistan Women, 7th Match, Group A - Upcoming")
+    
+    7th Match, Group A
     
 * Japan Women v Singapore Women
     
-    [Singapore Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/107739/sinw-vs-jpnw-2nd-t20i-japan-women-v-singapore-women "Singapore Women v Japan Women, 2nd T20I - JPNW Won")
-    
-    2nd T20I
-    
-* [Japan Women vs Singapore Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/107747/jpnw-vs-sinw-3rd-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 3rd T20I - Live")
+    [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107747/jpnw-vs-sinw-3rd-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 3rd T20I - JPNW Won")
     
     3rd T20I
     
@@ -577,41 +593,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131860/shaw-helps-mumbai-extend-lead-after-easwarans-191 "Shaw helps Mumbai extend lead after Easwaran's 191")
+
+[Shaw helps Mumbai extend lead after Easwaran's 191](https://www.cricbuzz.com/cricket-news/131860/shaw-helps-mumbai-extend-lead-after-easwarans-191 "Shaw helps Mumbai extend lead after Easwaran's 191")
+
+49m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131859/sri-lankas-bouncebackability-under-test-against-imposing-australia "Sri Lanka's bouncebackability under test against imposing Australia")
+
+[Sri Lanka's bouncebackability under test against imposing Australia](https://www.cricbuzz.com/cricket-news/131859/sri-lankas-bouncebackability-under-test-against-imposing-australia "Sri Lanka's bouncebackability under test against imposing Australia")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131858/england-eye-winning-start-against-spirited-bangladesh "England eye winning start against spirited Bangladesh")
+
+[England eye winning start against spirited Bangladesh](https://www.cricbuzz.com/cricket-news/131858/england-eye-winning-start-against-spirited-bangladesh "England eye winning start against spirited Bangladesh")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131857/the-remaking-of-sune-luus "The (re)making of Sune Luus")
+
+[The (re)making of Sune Luus](https://www.cricbuzz.com/cricket-news/131857/the-remaking-of-sune-luus "The (re)making of Sune Luus")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/131856/indias-no3-roulette-eventually-lands-on-harmanpreet-kaur "India's No.3 roulette eventually lands on Harmanpreet Kaur")
 
 [India's No.3 roulette eventually lands on Harmanpreet Kaur](https://www.cricbuzz.com/cricket-news/131856/indias-no3-roulette-eventually-lands-on-harmanpreet-kaur "India's No.3 roulette eventually lands on Harmanpreet Kaur")
 
-13h ago
+19h ago
 
   [](https://www.cricbuzz.com/cricket-news/131855/spinners-sana-help-pakistan-down-listless-sri-lanka "Spinners, Sana help Pakistan down listless Sri Lanka")
 
 [Spinners, Sana help Pakistan down listless Sri Lanka](https://www.cricbuzz.com/cricket-news/131855/spinners-sana-help-pakistan-down-listless-sri-lanka "Spinners, Sana help Pakistan down listless Sri Lanka")
 
-13h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131854/bangladesh-prepare-for-life-after-shakib "Bangladesh prepare for life after Shakib")
-
-[Bangladesh prepare for life after Shakib](https://www.cricbuzz.com/cricket-news/131854/bangladesh-prepare-for-life-after-shakib "Bangladesh prepare for life after Shakib")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131853/can-west-indies-rekindle-old-magic "Can West Indies rekindle old magic?")
-
-[Can West Indies rekindle old magic?](https://www.cricbuzz.com/cricket-news/131853/can-west-indies-rekindle-old-magic "Can West Indies rekindle old magic?")
-
-16h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131852/bangladesh-comfortably-see-off-scotland-in-tournament-opener "Bangladesh comfortably see off Scotland in tournament opener")
-
-[Bangladesh comfortably see off Scotland in tournament opener](https://www.cricbuzz.com/cricket-news/131852/bangladesh-comfortably-see-off-scotland-in-tournament-opener "Bangladesh comfortably see off Scotland in tournament opener")
-
-17h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131851/abhimanyu-easwarans-151-leads-strong-roi-fightback "Abhimanyu Easwaran's 151* leads strong ROI fightback")
-
-[Abhimanyu Easwaran's 151\* leads strong ROI fightback](https://www.cricbuzz.com/cricket-news/131851/abhimanyu-easwarans-151-leads-strong-roi-fightback "Abhimanyu Easwaran's 151* leads strong ROI fightback")
-
-18h ago
+19h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
