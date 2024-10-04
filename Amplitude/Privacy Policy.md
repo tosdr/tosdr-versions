@@ -1797,6 +1797,7 @@ Support
 Partners
 
 * [Find a Partner](https://amplitudeape.impartner.org/English/directory/)
+* [Become an affiliate](https://amplitude.com/affiliates)
 
 Company
 
