@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Anyway Here's Wonderwall](https://i.kym-cdn.com/featured_items/icons/wide/000/026/117/ezgif-4-cdfcafd69872.png "Today's A Very Special Day, When Oasis Dropped This Classic Tune")
+* [![Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans](https://i.kym-cdn.com/featured_items/icons/wide/000/026/130/1.jpg "Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans")
     
-    Today's A Very Special Day, When Oasis Dropped This Classic Tune](https://knowyourmeme.com/memes/wonderwall)
+    Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans](https://knowyourmeme.com/memes/yuki-suou)
     
-* [![Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters](https://i.kym-cdn.com/featured_items/icons/wide/000/026/116/cover11.jpg "Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters")
+* [![Warning: Everyone Is 100 Km From Your House And Approaching Rapidly](https://i.kym-cdn.com/featured_items/icons/wide/000/026/129/cover1.jpg "Warning: Everyone Is 100 Km From Your House And Approaching Rapidly")
     
-    Earth's New Mini-Moon Quickly Becomes A Mini-Meme Because Even In Space You're Not Safe From Posters](https://knowyourmeme.com/memes/events/2024-earths-mini-moon)
+    Warning: Everyone Is 100 Km From Your House And Approaching Rapidly](https://knowyourmeme.com/memes/this-person-is-100-km-near-your-house)
     
-* [![Blush Meter Meme Finds Artists Depicting Their OC's Losing It](https://i.kym-cdn.com/featured_items/icons/wide/000/026/115/731.jpg "Blush Meter Meme Finds Artists Depicting Their OC's Losing It")
+* [![Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade](https://i.kym-cdn.com/featured_items/icons/wide/000/026/128/drilpic.jpg "Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade")
     
-    Blush Meter Meme Finds Artists Depicting Their OC's Losing It](https://knowyourmeme.com/memes/blush-meter-meme)
+    Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade](https://knowyourmeme.com/memes/there-is-zero-difference-between-good-and-bad-things)
     
-* [![Trend In Recent Media is a parody art trend that grew popular on Twitter (now called X) in September 2024. Inspired by a slew of viral art trends that complained about trends in modern movies and television, X user @PaintraSeaPea posted a series of humorous art bemoaning niche and hyperspecific aspects of movies and TV, asking if anyone else had noticed the "trend" in "recent media." In particular, @PaintraSeaPea's comic about a "quick to anger ducklike character" and his "three color-coordinated nephews" became the subject of a redraw trend.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/114/trend_in_recent_media.jpg "Twitter Artists Are Making Fun Of Clichéd Art Trends About Tropes In 'Recent Media'")
+* [![America's Hitler meme example and Vance's leaked text message. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/127/America's_Hitler_cover_V2.jpg "J.D. Vance Called Trump 'America's Hitler' Before VP Pick And Now The Internet Is Posting Memes Using His Leaked Quote")
     
-    Twitter Artists Are Making Fun Of Clichéd Art Trends About Tropes In 'Recent Media'](https://knowyourmeme.com/memes/trend-in-recent-media)
+    J.D. Vance Called Trump 'America's Hitler' Before VP Pick And Now The Internet Is Posting Memes Using His Leaked Quote](https://knowyourmeme.com/memes/americas-hitler)
     
-* [![Larry David's Bad Framing screenshot.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/113/Larry_David_Zoom_Call_Framing_cover_v2.jpg "Larry David's Bad Framing During A Zoom Call Becomes Viral Reaction Meme On Twitter")
+* [![Jimmy Carter 100th Birthday Photo](https://i.kym-cdn.com/featured_items/icons/wide/000/026/126/jimmy_carter_birthday_photo.jpg "Jimmy Carter Turned 100 Years Old Yesterday And Photos From His Celebration Have The Internet Concerned")
     
-    Larry David's Bad Framing During A Zoom Call Becomes Viral Reaction Meme On Twitter](https://knowyourmeme.com/memes/larry-davids-zoom-call-framing)
+    Jimmy Carter Turned 100 Years Old Yesterday And Photos From His Celebration Have The Internet Concerned](https://knowyourmeme.com/memes/jimmy-carter-100th-birthday-photo)
     
 
 ##### Also Trending:
 
-[Oh, Look! Here Comes the Far Right](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right "Oh, Look! Here Comes the Far Right") [Parkour Civilization](https://knowyourmeme.com/memes/parkour-civilization "Parkour Civilization") [If You Actually Like When Movies Do This](https://knowyourmeme.com/memes/if-you-actually-like-when-movies-do-this "If You Actually Like When Movies Do This")
+[Oh, Look! Here Comes the Far Right](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right "Oh, Look! Here Comes the Far Right") [What You Imagine vs. What I Imagine](https://knowyourmeme.com/memes/what-you-imagine-vs-what-i-imagine "What You Imagine vs. What I Imagine") [Parkour Civilization](https://knowyourmeme.com/memes/parkour-civilization "Parkour Civilization") [If You Actually Like When Movies Do This](https://knowyourmeme.com/memes/if-you-actually-like-when-movies-do-this "If You Actually Like When Movies Do This") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
