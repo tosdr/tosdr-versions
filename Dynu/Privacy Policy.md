@@ -240,11 +240,14 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Get started with our public cloud! Deliver computing services - servers, data, networking, software and more - over the internet (“the cloud”).
+### Find a domain, create a website, and get custom email
 
   
-[Learn More](https://www.dynu.com/Cloud-VPS-Phoenix)  
+
+Search
+
   
+[#### I already have a domain name](https://www.dynu.com/ControlPanel/TransferDomainName)
 
 ### News
 
