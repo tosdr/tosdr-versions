@@ -32,6 +32,25 @@
 
 * [Log in](https://app.sender.net/)
 * [Get Started For Free](https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/)
+    
+    Grow your business, not your expenses
+    
+    Turn curious visitors into devoted fans and drive more sales – no cost to get started!
+    
+    * Free Forever plan for 2,500 subscribers and up to 15,000 emails/month
+    * Free & responsive email templates library
+    * Free popups & forms
+    
+    [Get Started For Free](https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/)
+    
+    * Intuitive drag-and-drop email builder
+    * Unlimited automation and segmentation
+    * Premade automation workflows
+    
+    [See Pricing](https://www.sender.net/pricing/)
+    
+    No Credit Card Required. Cancel Anytime.
+    
 
 ![Menu](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEgMTJIMjMiIHN0cm9rZT0iIzBEMEYzMyIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiLz4KPHBhdGggZD0iTTEgNUgyMyIgc3Ryb2tlPSIjMEQwRjMzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgo8cGF0aCBkPSJNMSAxOUgyMyIgc3Ryb2tlPSIjMEQwRjMzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgo8L3N2Zz4K)
 
