@@ -1,3 +1,5 @@
+[Click here for Breaking News on how Surgence™ is Collaborating with Mayo Clinic to Innovate the Healthcare Supply Chain](https://www.concordancehealthcare.com/blog/rush-university-system-for-health-rush-advances-its-supply-chain-with-surgence-0?hs_preview=prCMxtpa-171272934715)
+
 [![](https://www.concordancehealthcare.com/hs-fs/hubfs/Contribute%20Website/Concordance_logo.png?width=367&height=81&name=Concordance_logo.png)](https://www.concordancehealthcare.com/)
 
 * [Who We Serve](javascript:;)
@@ -5,174 +7,178 @@
 * [Resources](javascript:;)
 * [About Us](javascript:;)
 
-[Our Products](javascript:void(0);)
+[Search & Order Products](https://b2b.concordancehealthcare.com/wps/portal/en/login/)
 
-[Get a Quote](javascript:void(0);)
+[HCS](https://www.concordancehealthcare.com/hcs-medical-products)
 
-[Our Products](javascript:void(0);)
+[Get A Quote](https://www.concordancehealthcare.com/request-a-quote-for-medical-supplies-upload-option)
 
-[Get a Quote](javascript:void(0);)
+[Search & Order Products](https://b2b.concordancehealthcare.com/wps/portal/en/login/)
 
-* * ![Acute-care-icon](https://www.concordancehealthcare.com/hubfs/acute-care-icon-01-01.svg)
+[HCS](https://www.concordancehealthcare.com/hcs-medical-products)
+
+[Get A Quote](https://www.concordancehealthcare.com/request-a-quote-for-medical-supplies-upload-option)
+
+* * ![acute-care-icon-01-01](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/acute-care-icon-01-01.svg)
         
         [Acute Care](https://www.concordancehealthcare.com/acute-care)
         
         * [Helping you reduce costs](javascript:;)
         
-    * ![Hospice-icon](https://www.concordancehealthcare.com/hubfs/Hospice-icon.svg)
-        
-        [Hospice Care](https://www.concordancehealthcare.com/hospice-care)
-        
-        * [Helping you reduce costs](javascript:;)
-        
-    * ![surgery-icon](https://www.concordancehealthcare.com/hubfs/surgery-icon.svg)
-        
-        [Surgery Center](https://www.concordancehealthcare.com/surgery-center)
-        
-        * [Helping you reduce costs](javascript:;)
-        
-* * ![Community-health-icon](https://www.concordancehealthcare.com/hubfs/community-health-icon-01.svg)
+* * ![community-health-icon-01](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/community-health-icon-01.svg)
         
         [Community Health](https://www.concordancehealthcare.com/community-health)
         
         * [Helping you reduce costs](javascript:;)
         
-    * ![Lab-icon](https://www.concordancehealthcare.com/hubfs/Lab-icon.svg)
-        
-        [Laboratory](https://www.concordancehealthcare.com/laboratory)
-        
-        * [Helping you reduce costs](javascript:;)
-        
-    * ![Other-icon](https://www.concordancehealthcare.com/hubfs/Other-icon-01.svg)
-        
-        [Additional Areas of Expertise](https://www.concordancehealthcare.com/additional-areas-of-expertise)
-        
-        * [Helping you reduce costs](javascript:;)
-        
-* * ![Government-icon](https://www.concordancehealthcare.com/hubfs/Government-icon-1.svg)
+* * ![Government-icon-1](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Government-icon-1.svg)
         
         [Government](https://www.concordancehealthcare.com/government)
         
         * [Helping you reduce costs](javascript:;)
         
-    * ![Long-Term-Icon](https://www.concordancehealthcare.com/hubfs/Long-Term-icon.svg)
-        
-        [Long Term Care](https://www.concordancehealthcare.com/long-term-care)
-        
-        * [Helping you reduce costs](javascript:;)
-        
-* * ![Home-Care-icon](https://www.concordancehealthcare.com/hubfs/Home-Care.svg)
+* * ![Home-Care](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Home-Care.svg)
         
         [Home Care](https://www.concordancehealthcare.com/home-care)
         
         * [Helping you reduce costs](javascript:;)
         
-    * ![Primary-icon](https://www.concordancehealthcare.com/hubfs/Primary-icon.svg)
+* * ![Hospice-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Hospice-icon.svg)
+        
+        [Hospice Care](https://www.concordancehealthcare.com/hospice-care)
+        
+        * [Helping you reduce costs](javascript:;)
+        
+* * ![Lab-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Lab-icon.svg)
+        
+        [Laboratory](https://www.concordancehealthcare.com/laboratory)
+        
+        * [Helping you reduce costs](javascript:;)
+        
+* * ![Long-Term-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Long-Term-icon.svg)
+        
+        [Long Term Care](https://www.concordancehealthcare.com/long-term-care)
+        
+        * [Helping you reduce costs](javascript:;)
+        
+* * ![Primary-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Primary-icon.svg)
         
         [Primary Care](https://www.concordancehealthcare.com/primary-care)
         
         * [Helping you reduce costs](javascript:;)
         
+* * ![surgery-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/surgery-icon.svg)
+        
+        [Surgery Center](https://www.concordancehealthcare.com/surgery-center)
+        
+        * [Helping you reduce costs](javascript:;)
+        
+* * ![Other-icon-01](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Other-icon-01.svg)
+        
+        [Additional Areas of Expertise](https://www.concordancehealthcare.com/additional-areas-of-expertise)
+        
+        * [Helping you reduce costs](javascript:;)
+        
 
-* * ![inventory](https://www.concordancehealthcare.com/hubfs/Theme%202021/images/supply-chain.svg)
+* * ![supply-chain](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Theme%202021/images/supply-chain.svg)
         
         [Supply Chain Solutions](https://www.concordancehealthcare.com/supply-chain-solutions)
         
-        * [Helping you reduce costs](javascript:;)
+        * [](javascript:;)
         
-* * ![inventory](https://www.concordancehealthcare.com/hubfs/Theme%202021/images/business-intelligence.svg)
+* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/business-intelligence.svg)
         
         [Business Intelligence & Analytics](https://www.concordancehealthcare.com/business-intelligence-analytics)
         
-        * [Helping you reduce costs](javascript:;)
+        * [](javascript:;)
         
-* * ![inventory](https://www.concordancehealthcare.com/hubfs/Theme%202021/images/inventory.svg)
+* * ![inventory](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Theme%202021/images/inventory.svg)
         
         [Inventory & Revenue Enhancements](https://www.concordancehealthcare.com/inventory-revenue-enhancement)
         
-        * [Helping you reduce costs](javascript:;)
+        * [](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Theme%202021/images/service-offerings.svg)
+* * ![service-offerings](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Theme%202021/images/service-offerings.svg)
         
         [Service Offerings](https://www.concordancehealthcare.com/service-offerings)
         
-        * [Helping you reduce costs](javascript:;)
+        * [](javascript:;)
         
 
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Concordance%20Assets/Icons/covid-icon.svg)
+* * ![covid-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Concordance%20Assets/Icons/covid-icon.svg)
         
         [COVID Resource Page](https://www.concordancehealthcare.com/coronavirus-customer-resource)
         
         * [Access and download relevant COVID resources.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/our-blogs.svg)
+* * ![our-blogs](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/our-blogs.svg)
         
         [Blog](https://www.concordancehealthcare.com/blog)
         
         * [Stay up to date with company news and industry information.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Other-icon-01.svg)
+* * ![Other-icon-01](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Other-icon-01.svg)
         
         [Downloadable Resources](https://www.concordancehealthcare.com/downloadable-resources)
         
         * [Access a variety of brochures, flyers and catalogs.](javascript:;)
         
 
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/who-we-serve.svg)
+* * ![who-we-serve](https://www.concordancehealthcare.com/hubfs/Marketing/who-we-serve.svg)
         
         [Who We Are](https://www.concordancehealthcare.com/about-concordance)
         
         * [Our purpose is to Positively Impact Lives.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Leadership%20Icon-01.png)
+* * ![Leadership Icon-01](https://www.concordancehealthcare.com/hubfs/Marketing/Leadership%20Icon-01.png)
         
         [Leadership](https://www.concordancehealthcare.com/leadership-team)
         
         * [Get to know our team.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/our-news.svg)
+* * ![our-news](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/our-news.svg)
         
         [Newsroom](https://www.concordancehealthcare.com/blog)
         
         * [Helping you stay in the know.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/contact-us.svg)
+* * ![contact-us](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/contact-us.svg)
         
         [Contact Us](https://www.concordancehealthcare.com/contact-us)
         
         * [For general inquiries and contact information.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Website%20Icons/con-career-icon.svg)
+* * ![con-career-icon](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Website%20Icons/con-career-icon.svg)
         
         [Careers](https://www.concordancehealthcare.com/careers)
         
         * [Join our team.](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Culture-Updated.svg)
+* * ![Culture-Updated](https://www.concordancehealthcare.com/hubfs/Marketing/Culture-Updated.svg)
         
         [Culture](https://www.concordancehealthcare.com/careers-culture)
         
         * [](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Benefits.svg)
+* * ![Benefits](https://www.concordancehealthcare.com/hubfs/Marketing/Benefits.svg)
         
         [Benefits](https://www.concordancehealthcare.com/careers-benefits)
         
         * [](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Accessibility.svg)
+* * ![Accessibility](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Accessibility.svg)
         
         [Diversity & Inclusion](https://www.concordancehealthcare.com/diversity-inclusion)
         
         * [](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Conc%20Website%20Images/Government-icon-1.svg)
+* * ![Government-icon-1](https://www.concordancehealthcare.com/hubfs/Marketing/Website/Conc%20Website%20Images/Government-icon-1.svg)
         
         [Military Veterans](https://www.concordancehealthcare.com/careers-military-veterans)
         
         * [](javascript:;)
         
-* * ![business-intelligence](https://www.concordancehealthcare.com/hubfs/Icons/noun-fist-bump-4941742%20(3).svg)
+* * ![noun-fist-bump-4941742 (5)](https://www.concordancehealthcare.com/hubfs/Icons/noun-fist-bump-4941742%20(5).svg)
         
         [Supplier Diversity Program](https://www.concordancehealthcare.com/supplier_diversity_program)
         
