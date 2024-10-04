@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5443.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9240.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -74,7 +74,7 @@ Visitez l'une de nos quelques environ
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW40-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MzIzNnxpbWFnZS9qcGVnfGFHSTFMMmc1Tnk4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREJmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREJmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YWE5MWIyMjlhMmZkMjcyZWY1YTAyYTRiMjY3Njg1NzIyMWQ3ODA5MzdmZTRiNDc1YTliMDRhODRmNTdlOTY0Mg&w=2360&q=75)
 
-15%de rabais sur jouets, Mobility et drones (sauf sets Lego rares)](https://www.microspot.ch/fr/cms/id-weekend-deal)
+15%de rabais sur jouets, Mobility et drones (sauf sets Lego rares)](https://www.microspot.ch/fr/cms/id-weekend-deal?hasPromoLabel=true&promotions=23309)
 
 [![Notebook](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2FKachel-860x484-Intel-FR.png%3Fcontext%3DbWFzdGVyfGNtc3wxMDg4Njh8aW1hZ2UvcG5nfGFEUXhMMmd3TVM5TFlXTm9aV3hmT0RZd2VEUTRORjlKYm5SbGJGOUdVbDlXTWpNekxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOUxZV05vWld4Zk9EWXdlRFE0TkY5SmJuUmxiRjlHVWw5V01qTXpMbkJ1WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxkOGJhNjFmYjUwNTdjZGNiYTdjMDZkOTQ4ZDhkZjNkOGUzNmViMDAyNzhmMTkyMzk2ZDAwM2Q0OGE1MDc1NDBl&w=2360&q=75)
 
@@ -213,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
+[Garantie Plus
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Commandé aujourd'hui avant 20h
-
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Retrait gratuit
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Commandé aujourd'hui avant 20h
+
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
