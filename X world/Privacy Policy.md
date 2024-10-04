@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [Why Play Rugby?](https://xworld.org/sports/why-play-rugby/)
+* [What are shin splints and how do they occur?](https://xworld.org/health/what-are-shin-splints-and-how-do-they-occur/)
 * [Travelling with a Dog](https://xworld.org/tour-and-travel/travelling-with-a-dog/)
 * [Do your sums](https://xworld.org/business/do-your-sums/)
 * [Air source v ground source heat pump: how to choose](https://xworld.org/home-improvement/air-source-v-ground-source-heat-pump-how-to-choose/)
-* [What is car hire excess insurance and how does it work?](https://xworld.org/automotive/what-is-car-hire-excess-insurance-and-how-does-it-work/)
-* [Enjoying A Holiday in a Hotel, Versus The Freedom Of A Caravan](https://xworld.org/tour-and-travel/enjoying-a-holiday-in-a-hotel-versus-the-freedom-of-a-caravan/)
 
 ### Categories
 
