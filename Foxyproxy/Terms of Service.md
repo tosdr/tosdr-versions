@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was very impressed how easily it worked. I occasionally travel to Italy so may use your service again the the future. Thank you.
+First class support from a first class service. Thanks very much indeed ;)
 
-Stewart Carter
+Paul Greer
