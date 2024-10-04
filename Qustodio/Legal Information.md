@@ -1,8 +1,8 @@
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.15.0)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
-* [Why Qustodio old](https://www.qustodio.com/en/?page_id=21)
-* [Features old](https://www.qustodio.com/en/?page_id=36)
+* [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
+* [Features](https://www.qustodio.com/en/features/)
 * [How to get started](https://www.qustodio.com/en/get-started/)
 * [Downloads](https://www.qustodio.com/en/downloads/)
 * [Pricing](https://www.qustodio.com/en/premium/)
@@ -13,7 +13,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.15.0)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
