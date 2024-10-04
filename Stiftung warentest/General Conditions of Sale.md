@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Aktuelles Börsen­geschehen im Blick: Kurs­einbruch? Kein Grund zu Panik­verkäufen](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Kurseinbruch? Kein Grund zu Panikverkäufen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Service Stiftung Warentest
 
