@@ -71,6 +71,10 @@ Next
 * [Copyright claim basics](https://support.google.com/youtube/topic/9282678?hl=en&ref_topic=2676339)
 * [Copyright strike basics](https://support.google.com/youtube/answer/2814000)
 
+Notification
+
+We're currently experiencing high contact volumes. If you contact us, you may notice longer than normal wait times.
+
 Copyright strike basics
 =======================
 
@@ -197,7 +201,7 @@ Google apps
 
 Main menu
 
-12796271265850367946
+15733299292170079928
 
 true
 
