@@ -67,7 +67,7 @@ The failure of either party to require performance by the other party of any pro
 **ENTIRE AGREEMENT**  
 These Terms and Conditions of Use are the complete and exclusive agreement between us, and they supersede all prior or contemporaneous proposals, oral or written, understandings, representations, conditions, warranties, and all other communications between us relating to the subject products. This agreement may not be explained or supplemented by any prior course of dealings or trade by custom or usage.  
 
-[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=343005191883077108)
+[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=343001022904217360)
 
 * [Home](https://buynutriblade.com/Home)
 * [Privacy Policy](https://buynutriblade.com/Privacy-Policy)
