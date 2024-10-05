@@ -1,4 +1,5 @@
 Contact: contact@skribbl.io  
+Contact: skribblcontact@gmail.com  
 skribbl.io Terms of Service and Privacy Policy  
   
 **1\. Terms**  
