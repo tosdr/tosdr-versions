@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,15 +149,15 @@
 Сейчас читают
 
 * [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281)
-* [Чизкейк с творогом и голубикой, из рубленого теста](https://www.russianfood.com/recipes/recipe.php?rid=174130)
 * [Мясное суфле](https://www.russianfood.com/recipes/recipe.php?rid=43596)
 * [Оладьи из тыквы с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=171798)
-* [Цветная капуста, тушенная с фасолью и сосисками](https://www.russianfood.com/recipes/recipe.php?rid=171803)
-* [Рис с тыквой и копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=171813)
 * [Салат "Ананасовый пунш"](https://www.russianfood.com/recipes/recipe.php?rid=171910)
 * [Закуска "Глаз дракона" из колбасы с сыром и оливками](https://www.russianfood.com/recipes/recipe.php?rid=172153)
-* [Макароны с квашеной капустой и копчёной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=172251)
-* [Песочные рулетики с творогом и колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172358)
+* [Салат с колбасой, яблоком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=172498)
+* [Сосиски на хлебных подушках с сырной корочкой](https://www.russianfood.com/recipes/recipe.php?rid=172578)
+* [Чечевичный суп с копчёными колбасками и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=172916)
+* [Картошка, тушенная с грибами и сосисками](https://www.russianfood.com/recipes/recipe.php?rid=173067)
+* [Фасолевый суп со шпинатом и сосисками](https://www.russianfood.com/recipes/recipe.php?rid=173355)
 
 |     |
 | --- |
@@ -304,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174341#comments) | 03.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174341#comments) | 03.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -461,8 +461,8 @@ Cуп с консервированной фасолью, овощами и гр
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737523.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
-| [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737523.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) |
+| [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@ Cуп с консервированной фасолью, овощами и гр
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(125)
+(380)
