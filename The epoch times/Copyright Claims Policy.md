@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
+    
+    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731983-GettyImages-2174128571-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
+* [The Red Guard Spirit Still Haunts China and Its Current Leadership](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
+    
+    NEW By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    
+    [![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/uploads/2023/10/14/id5529051-CCPGettyImages-1247750895-205x123.jpeg.webp)](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
+* [6 Things to Watch in the Upcoming Supreme Court Term](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
+    
+    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735471-GettyImages-1431370657-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
 * [Trump and Kemp Make First Joint Appearance Since 2020](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
     
-    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    8hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735753-Trump-Kemp-AP24278731885449-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
 * [The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
     
-    3hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    9hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735734-shutterstock_2290286027-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
-* [6 Things to Watch in the Upcoming Supreme Court Term](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
-    
-    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735471-GettyImages-1431370657-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
 * [Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551763-vote-205x123.jpg.webp)](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
 * [Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
     
-    6hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    12hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5715050-08122024-DSC00079-FBI-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
 * [Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
     
-    7hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    13hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672991-06202024-DSC06642-iPhone-Apple-products-205x123.jpg.webp)](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
 * [The Most Important Player on Each Remaining MLB Playoff Team](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
     
-    7hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
+    13hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
     
     [![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735469-GettyImages-2174679546-205x123.jpg.webp)](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
 * [Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
     
-    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    13hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735546-GettyImages-2175836598-LS-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
-* [Factory Orders Decline in August as Manufacturing Woes Deepen](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733338-GettyImages-1810386707-205x123.jpg.webp)](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
-* [US Targets Houthi Positions in Yemen With Airstrikes](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
-    
-    8hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/uploads/2024/09/id5726179-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
