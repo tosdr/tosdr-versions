@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1)
+
+ ![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-makes-one-last-push-voter-registration-before-mondays-deadline)
+
+### [Dallas County makes one last push for voter registration before Monday's deadline](https://www.fox4news.com/news/dallas-county-makes-one-last-push-voter-registration-before-mondays-deadline)
+
+ [![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-2-copy.jpg?ve=1&tl=1)
+
+ ![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-2-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
+
+### [Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
+
  [![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/bill-gates-getty.jpg?ve=1&tl=1)
 
  ![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/bill-gates-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bill-gates-not-10-wealthiest-billionaires-world-who-made-list)
@@ -413,23 +425,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
 
- [![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-2-copy.jpg?ve=1&tl=1)
-
- ![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-2-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
-
-### [Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
-
  [![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dolly.jpg?ve=1&tl=1)
 
  ![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dolly.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
 
 ### [Watch: Dolly Parton announces $2 million for Helene victims](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
-
- [![‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kollab.jpg?ve=1&tl=1)
-
- ![‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kollab.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spongebob-squarepants-krabby-patty-kollab-coming-wendys)
-
-### [‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://www.fox4news.com/news/spongebob-squarepants-krabby-patty-kollab-coming-wendys)
 
 ###### [News](https://www.fox4news.com/news)
 
