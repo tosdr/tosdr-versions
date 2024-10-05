@@ -160,6 +160,10 @@ Select Topics
 
 [Politics](https://www.discovery.org/books/citizen-leadership/)
 
+[Religion and Civic Life](https://www.discovery.org/books/religion/)
+
+[Science and Culture](https://www.discovery.org/books/science-and-culture/)
+
 [Technology](https://www.discovery.org/books/technology/)
 
 Featured Authors
