@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dcffc54b942ba8fecaf5d3edf940260c
+31aef66edebaeea5f6adecc9f940132e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,34 +171,34 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vintage Indian sunstone beads](https://www.sojourner.biz/images/cache/stone/STN035.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/vintage-indian-sunstone-beads.html "Vintage Indian sunstone beads")
+[![Hand-made copper bell, 2 inch](https://www.sojourner.biz/images/cache/TT0008nmb3.200.jpg)](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
 
-#### [Vintage Indian sunstone beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/vintage-indian-sunstone-beads.html "Vintage Indian sunstone beads")
+#### [Hand-made copper bell, 2 inch](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
 
-$35.00
+$5.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
-    $16.00
-3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
     $15.00
+3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+    $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-10. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+10. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 
 [Top](#)
 
