@@ -8,6 +8,8 @@ Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache je
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
+
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
 [Kostenloser Versand ab 40,00 €](https://de.iherb.com/shipping)
@@ -25,6 +27,8 @@ DE
 EUR
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
@@ -143,7 +147,7 @@ Themenwelten
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
 [Nahrungsergänzungen](https://de.iherb.com/c/supplements)
 
