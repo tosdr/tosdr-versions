@@ -210,9 +210,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,23 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's three major business lobbies submit policy requests to Ishiba](https://www.japantimes.co.jp/business/2024/10/04/business-lobbies-policy-requests/ "Japan's three major business lobbies submit policy requests to Ishiba")
+[Stepped-up global easing risks making it harder for BOJ to hike](https://www.japantimes.co.jp/business/2024/10/05/markets/boj-hike-global-easing-hurdle/ "Stepped-up global easing risks making it harder for BOJ to hike")
 
-9 hours ago
+46 mins ago
 
-[EU presses ahead with Chinese EV tariffs after split vote](https://www.japantimes.co.jp/business/2024/10/04/eu-china-ev-tariffs/ "EU presses ahead with Chinese EV tariffs after split vote")
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
 
-9 hours ago
+1 hours ago
 
-[Japan says Paul Watson case 'nothing to do with whaling'](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/paul-watson-case-whaling/ "Japan says Paul Watson case 'nothing to do with whaling'")
+[Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday](https://www.japantimes.co.jp/news/2024/10/05/japan/megumi-yokota-60th-birthday/ "Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday")
 
-10 hours ago
+1 hours ago
 
-[Seven & I considering supermarket stake sale ahead of IPO, sources say](https://www.japantimes.co.jp/business/2024/10/04/seven-i-supermarket-unit/ "Seven & I considering supermarket stake sale ahead of IPO, sources say")
+[These are boom times for ‘degrowth’](https://www.japantimes.co.jp/business/2024/10/05/economy/degrowth-kohei-saito/ "These are boom times for ‘degrowth’")
 
-10 hours ago
+1 hours ago
 
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+[One job by day, another by night as U.S. voters make ends meet](https://www.japantimes.co.jp/news/2024/10/05/world/society/us-voters-make-ends-meet/ "One job by day, another by night as U.S. voters make ends meet")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
