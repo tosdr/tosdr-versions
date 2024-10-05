@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwCm7QoAAhQAAABipzU)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwD6uwoAAhQAAABieNk)
 
 * Es noticia:
 * [Leganés - Valencia](https://www.marca.com/futbol/laliga-ea-sports/leganes-valencia/2024/10/04/01_0101_20241004_957_191-directo.html)
