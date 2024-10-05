@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Police 911](https://www.myabandonware.com/game/police-911-soc)
-* [Point Blank 3](https://www.myabandonware.com/game/point-blank-3-sob)
-* [Planet Harriers](https://www.myabandonware.com/game/planet-harriers-soa)
-* [Project Justice](https://www.myabandonware.com/game/project-justice-so8)
-* [Rapid River](https://www.myabandonware.com/game/rapid-river-so7)
+* [Microsoft Train Simulator: Canadian Pacific Steam Locomotive Heritage Collection](https://www.myabandonware.com/game/microsoft-train-simulator-canadian-pacific-steam-locomotive-heritage-collection-s53)
+* [Photo Play 2000](https://www.myabandonware.com/game/photo-play-2000-som)
+* [Panic Road](https://www.myabandonware.com/game/panic-road-sol)
+* [Panic Park](https://www.myabandonware.com/game/panic-park-sok)
+* [Over Drive](https://www.myabandonware.com/game/over-drive-soj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
