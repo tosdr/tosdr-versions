@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -151,13 +151,13 @@
 * [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281)
 * [Чизкейк с творогом и голубикой, из рубленого теста](https://www.russianfood.com/recipes/recipe.php?rid=174130)
 * [Мясное суфле](https://www.russianfood.com/recipes/recipe.php?rid=43596)
-* [Солянка с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=171568)
 * [Оладьи из тыквы с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=171798)
 * [Цветная капуста, тушенная с фасолью и сосисками](https://www.russianfood.com/recipes/recipe.php?rid=171803)
 * [Рис с тыквой и копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=171813)
 * [Салат "Ананасовый пунш"](https://www.russianfood.com/recipes/recipe.php?rid=171910)
-* [Отрывной дрожжевой пирог с сосисками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=171957)
-* [Лазанья с сосисками и шампиньонами](https://www.russianfood.com/recipes/recipe.php?rid=172049)
+* [Закуска "Глаз дракона" из колбасы с сыром и оливками](https://www.russianfood.com/recipes/recipe.php?rid=172153)
+* [Макароны с квашеной капустой и копчёной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=172251)
+* [Песочные рулетики с творогом и колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172358)
 
 |     |
 | --- |
@@ -298,7 +298,7 @@
 
 [![Фото к рецепту: Суп c пекинской капустой, горошком и беконом](//img1.russianfood.com/dycontent/images_upl/742/sm_741454.jpg "Фото к рецепту: Суп c пекинской капустой, горошком и беконом")](https://www.russianfood.com/recipes/recipe.php?rid=174341)
 
-Основные ингредиенты этого супа - пекинская капуста, зелёный горошек и бекон. Также в рецепте присутствует картофель, а вместо привычного репчатого лука используется лук-порей. Суп получается непохожим на другие - так и хочется его попробовать.
+Сперва кусочки бекона обжариваются с луком-пореем и чесноком, что придаёт супу аппетитный аромат. Пекинская капуста нежная, варится быстро. Яркий зелёный горошек хорошо дополняет и вид, и вкус супа.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174341)  
 
@@ -312,7 +312,7 @@
 
 [![Фото к рецепту: Сливочный суп с цветной капустой и брокколи](//img1.russianfood.com/dycontent/images_upl/742/sm_741455.jpg "Фото к рецепту: Сливочный суп с цветной капустой и брокколи")](https://www.russianfood.com/recipes/recipe.php?rid=174332)
 
-Сливочный суп с цветной капустой и брокколи - простейшее первое блюдо, для которого не нужно отдельно варить бульон. Несмотря на отсутствие мяса, суп получается сытный и густой. Сливки придают супу нежность и смягчают вкус капусты. Отличное решение для обеда.
+Простейший суп из овощей со сливками, который можно приготовить менее чем за полчаса. В кастрюле с водой сперва варятся картофель и морковь, а затем добавляются два вида капусты. В конце приготовления в суп вливаются сливки.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174332)  
 
@@ -326,7 +326,7 @@
 
 [![Фото к рецепту: Крем-суп из батата с сельдереем и имбирём](//img1.russianfood.com/dycontent/images_upl/742/sm_741456.jpg "Фото к рецепту: Крем-суп из батата с сельдереем и имбирём")](https://www.russianfood.com/recipes/recipe.php?rid=174330)
 
-Бархатистый крем-суп с нежным вкусом сладкого батата, пикантной ноткой имбиря и корня сельдерея. Разнообразие специй добавляет яркости блюду, а сливки придают нежность и бархатистость.
+Суп-пюре из сладкого батата и корня сельдерея. Разнообразие специй, свежая мята, чеснок, корень имбиря придают блюду яркий вкус. Сливки смягчают его и делают суп нежным.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174330)  
 
@@ -336,11 +336,11 @@
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Башкирский суп «Элеш» с говядиной](https://www.russianfood.com/recipes/recipe.php?rid=173410) |     |
+| Рецепты<br><br>[Суп элеш с говядиной](https://www.russianfood.com/recipes/recipe.php?rid=173410) |     |
 
-[![Фото к рецепту: Башкирский суп «Элеш» с говядиной](//img1.russianfood.com/dycontent/images_upl/737/sm_736685.jpg "Фото к рецепту: Башкирский суп «Элеш» с говядиной")](https://www.russianfood.com/recipes/recipe.php?rid=173410)
+[![Фото к рецепту: Суп элеш с говядиной](//img1.russianfood.com/dycontent/images_upl/737/sm_736685.jpg "Фото к рецепту: Суп элеш с говядиной")](https://www.russianfood.com/recipes/recipe.php?rid=173410)
 
-Элеш с говядиной - это башкирское блюдо, которое может быть и первым, и вторым блюдом сразу. Здесь и наваристый бульон, и мясо, и овощи, и обилие зелени. Маринованный лук отлично дополняет блюдо. Можно подать все вместе, как обычный суп, или подать бульон отдельно от мяса и овощей.
+Башкирский элеш может быть и супом, и вторым блюдом. Наваристый говяжий бульон, овощи и обилие зелени. Маринованный лук отлично всё это дополняет. Подавать мясо и овощи можно сразу с бульоном, как обычный суп, а можно бульон подать отдельно.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173410)  
 
@@ -354,13 +354,13 @@
 
 [![Фото к рецепту: Постный суп с перловкой, фасолью и грибами](//img1.russianfood.com/dycontent/images_upl/736/sm_735139.jpg "Фото к рецепту: Постный суп с перловкой, фасолью и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=173301)
 
-Постный суп с перловкой, фасолью и грибами — простое первое блюдо для полноценного обеда. Перловка и фасоль делают его сытным, а обжаренные грибы с луком придают насыщенный вкус и аппетитный аромат.
+Cуп с консервированной фасолью, овощами и грибами — сытное первое блюдо без мяса. Перловую крупу заранее нужно замочить, а затем отварить. В остальном суп варится быстро, отдельно обжариваются только грибы с луком, что придаёт блюду аппетитный аромат.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173301)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173301#comments) | 03.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173301#comments) | 03.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -459,12 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741423.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741455.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741454.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735139.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173301) |
-| [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Лисички с картошкой](https://www.russianfood.com/recipes/recipe.php?rid=174477) | [Сливочный суп с цветной капустой и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174332) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Суп c пекинской капустой, горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174341) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Постный суп с перловкой, фасолью и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173301) |
-| [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737523.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734627.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173226) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736900.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173457) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173811) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733158.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
-| [Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [Куриный суп с брокколи, вермишелью и яичной паутинкой](https://www.russianfood.com/recipes/recipe.php?rid=173226) | [Гречка с курицей и грибами, на молоке](https://www.russianfood.com/recipes/recipe.php?rid=173457) | [Куриные рулетики с фетой и укропом](https://www.russianfood.com/recipes/recipe.php?rid=173271) | [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Паскуалина (слоёный пирог со шпинатом, сыром и яйцами)](https://www.russianfood.com/recipes/recipe.php?rid=173811) | [Кускус с яблоком, курагой, клюквой и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173179) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737523.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
+| [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(89)
+(125)
