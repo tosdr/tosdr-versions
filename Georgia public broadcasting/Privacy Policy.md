@@ -275,6 +275,20 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH LIVE | Collins Hill at Buford - Kickoff At 7:30 P.M.
+----------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/04/collins-hill-at-buford)
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
+
+WATCH LIVE | Web Game Of The Week: Jackson County at Apalachee - Kickoff at 7:30 P.M.
+-------------------------------------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/04/jackson-county-at-apalachee)
+
 Messages
 --------
 
