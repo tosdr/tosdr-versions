@@ -136,15 +136,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
+* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
     
-* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
+* [How to backup your data to dinCloud](https://www.backup4all.com/how-to-backup-your-data-to-dincloud-kb.html)  
     
-* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
+* [How to back up data files from Connectria usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-connectria-using-backup4all-kb.html)  
     
-* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
+* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
     
-* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
 
 Choose language:
