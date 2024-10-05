@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Bait Used to Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable "Bait Used to Be Believable")
+[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot")
 
 Copyright Infringement Notice
 =============================
