@@ -142,8 +142,6 @@ Learn more about who we are, how you can contact us and how we process personal 
 
 Your consent applies to the following domains: www.ukhillwalking.com, www.ukclimbing.com
 
-[![Advert](https://ukc2.com/ads/b/11984.gif?t=1714551151)](https://advertising.ukclimbing.com/click.php?id=11984&uri=55)
-
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
 [About UKClimbing](https://www.ukclimbing.com/general/about/) [Advertise on UKC](https://advertising.ukclimbing.com/) [Terms & Conditions](https://www.ukclimbing.com/general/terms.php) [Privacy Policy](https://www.ukclimbing.com/general/privacy.php) [Personal Data Policy](https://www.ukclimbing.com/general/personal_data_policy.php) [Cookies](https://www.ukclimbing.com/general/cookies.php) [Contact Us](https://www.ukclimbing.com/general/email.php) [Search site](https://www.ukclimbing.com/general/search.php)
