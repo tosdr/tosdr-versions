@@ -323,15 +323,16 @@ Search this entire site:
 
 Search for: 
 
-Webrings of S-Config
---------------------
+Accepted Web-Rings.
+-------------------
 
 * **Fur Ring:** [Previous](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F) | [Random](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F) | [Next](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
-* **LainChan:** [Here](https://www.s-config.com/webrings/).
+* **LainChan:** [Decentralized Here](https://www.s-config.com/webrings/).
 
 Recent Comments
 ---------------
 
+* xu on [Default WordPress video test.](https://www.s-config.com/wordpress-video/comment-page-1/#comment-89835)
 * [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89700)
 * mantle on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89680)
 * Ongion on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-89276)
@@ -339,7 +340,6 @@ Recent Comments
 * Andre on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89137)
 * Big T Jiggly on [I am the post apocalyptic girl](https://www.s-config.com/i-am-the-post-apocalyptic-girl/comment-page-1/#comment-89059)
 * [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88580)
-* [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88579)
 
 The only advertisement banner you will see.
 -------------------------------------------
