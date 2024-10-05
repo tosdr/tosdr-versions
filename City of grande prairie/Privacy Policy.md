@@ -1,9 +1,5 @@
 [Skip to main content](#main-content) [Skip to main menu](#main-menu-wrapper) [Skip to footer](#footer)
 
-Information | [Annual Aquatics Maintenance Shutdown](https://www.cityofgp.com/alerts/annual-aquatics-maintenance-shutdown)
-
-Information | [Fire Restriction Lifted - NO CONDITIONS](https://www.cityofgp.com/alerts/fire-restriction-lifted-no-conditions)
-
 Quick Menu
 ----------
 
