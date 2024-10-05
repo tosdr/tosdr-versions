@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
+There are ten different species of dragons in the magical world of Harry Potter.
 
 ### Potter History
 
-November 12, 2013 – Wonderbook: Book of Potions is released for PlayStation 3 in North America.
+March 7, 2006 – The Harry Potter and the Goblet of Fire DVD is released in the United States and Canada.
 
 ### Potter Quote
 
-“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
+“But you’re Muggles! We must have a drink! What’s that you’ve got there? Oh, you’re changing Muggle money. Molly, look!”
 
 [](#)
 
