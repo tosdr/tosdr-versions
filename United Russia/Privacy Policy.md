@@ -305,7 +305,7 @@
 
 [#турниры](https://er.ru/activity/news?tags%5B0%5D=77047) [#самбо](https://er.ru/activity/news?tags%5B0%5D=15274) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДНР](https://er.ru/activity/news?tags%5B0%5D=65526)
 
-Сегодня 15:17
+05.10.24
 
 [![Депутаты «Единой России»: Педагоги – опора для государства, их труд — фундамент будущего, вклад в процветание страны](https://cdn.er.ru/media/news/October2024/7Os8w2kkf0Id9KvjDEfM-small.JPG)](https://er.ru/activity/news/deputaty-edinoj-rossii-pedagogi-opora-dlya-gosudarstva-ih-trud-fundament-budushego-vklad-v-procvetanie-strany)
 
@@ -313,7 +313,7 @@
 
 [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [​​​​​​​Аршинова](https://er.ru/activity/news?tags%5B0%5D=153259) [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#Тимофеева](https://er.ru/activity/news?tags%5B0%5D=126214) [#Морозов](https://er.ru/activity/news?tags%5B0%5D=992) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527)
 
-Сегодня 13:18
+05.10.24
 
 [![Дарья Лантратова: Быть учителем — настоящее искусство, в которое нужно вкладывать всю душу](https://cdn.er.ru/media/news/October2024/NVWkLBO5y5RkOTeMA2Ji-small.jpg)](https://er.ru/activity/news/darya-lantratova-byt-uchitelem-nastoyashee-iskusstvo-v-kotoroe-nuzhno-vkladyvat-vsyu-dushu)
 
@@ -321,7 +321,7 @@
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Деньучителя](https://er.ru/activity/news?tags%5B0%5D=110570) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
-Сегодня 11:34
+05.10.24
 
 [![Дмитрий Медведев: Педагоги – наставники, которые вкладывают в свой труд знания, талант, душу](https://cdn.er.ru/media/news/October2024/Ff57hveGrigjIfaqwtPl-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-pedagogi-nastavniki-kotorye-vkladyvayut-v-svoj-trud-znaniya-talant-dushu)
 
@@ -329,7 +329,7 @@
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527)
 
-Сегодня 10:05
+05.10.24
 
 [![«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/October2024/gFRjJG9ndMBdIl9E7mZr-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
 
