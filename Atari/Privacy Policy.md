@@ -518,9 +518,9 @@ Add to cart
 
 ##### VCS All-In Bundle
 
-Regular price Sale price $299.99
+Regular price Sale price $199.99
 
-Regular price $299.99
+Regular price $199.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
 
