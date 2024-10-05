@@ -78,6 +78,54 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gutfeld-hostin-220x180.jpg)](https://americanwirenews.com/gutfeld-hits-sunny-hostin-for-projecting-her-own-misery-on-melania-trump-with-bizarre-hubby-hating-theory/)
+
+[Gutfeld hits Sunny Hostin for projecting her own misery on Melania Trump with bizarre hubby-hating theory](https://americanwirenews.com/gutfeld-hits-sunny-hostin-for-projecting-her-own-misery-on-melania-trump-with-bizarre-hubby-hating-theory/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nutria-220x180.jpg)](https://americanwirenews.com/giant-rat-like-creatures-with-orange-teeth-invade-california/)
+
+[Giant rat-like creatures with orange teeth invade California](https://americanwirenews.com/giant-rat-like-creatures-with-orange-teeth-invade-california/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-bible-sg-ryan-walters-220x180.jpg)](https://americanwirenews.com/superintendent-accused-of-plot-to-put-trump-bibles-in-all-state-schools-points-to-bidding-process/)
+
+[Superintendent accused of plot to put ‘Trump Bibles’ in all state schools points to bidding process](https://americanwirenews.com/superintendent-accused-of-plot-to-put-trump-bibles-in-all-state-schools-points-to-bidding-process/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bojo-joe-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/boris-johnson-shares-embarrassing-story-of-how-biden-refused-an-invite-because-of-too-many-stairs/)
+
+[Boris Johnson shares embarrassing story of how Biden refused an invite because of ‘too many stairs’](https://americanwirenews.com/boris-johnson-shares-embarrassing-story-of-how-biden-refused-an-invite-because-of-too-many-stairs/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-2-220x180.jpg)](https://americanwirenews.com/election-barbie-kamala-backs-away-from-forcing-people-to-buy-evs/)
+
+[Election Barbie Kamala backs away from forcing people to buy EV’s](https://americanwirenews.com/election-barbie-kamala-backs-away-from-forcing-people-to-buy-evs/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-david-paterson-220x180.jpg)](https://americanwirenews.com/former-new-york-governor-and-his-stepson-attacked-by-5-thugs-on-upper-east-side/)
+
+[Details released on attack of fmr. New York Governor and stepson: ‘They both stood their ground’](https://americanwirenews.com/former-new-york-governor-and-his-stepson-attacked-by-5-thugs-on-upper-east-side/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cooper-harris-220x180.jpg)](https://americanwirenews.com/kamala-makes-time-to-do-raunchy-call-her-daddy-podcast-as-death-toll-rises-in-storm-ravaged-states/)
+
+[Kamala makes time to do raunchy ‘Call Her Daddy’ podcast as death toll rises in storm-ravaged states](https://americanwirenews.com/kamala-makes-time-to-do-raunchy-call-her-daddy-podcast-as-death-toll-rises-in-storm-ravaged-states/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-boswell-harris-emhoff-220x180.jpg)](https://americanwirenews.com/reporter-who-broke-kamalas-woman-slapping-hubby-story-reveals-more-details/)
+
+[Reporter who broke Kamala’s woman-slapping hubby story reveals more details](https://americanwirenews.com/reporter-who-broke-kamalas-woman-slapping-hubby-story-reveals-more-details/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-townhall-220x180.jpg)](https://americanwirenews.com/trump-pledges-to-give-fort-bragg-its-name-back-and-the-response-is-wild/)
+
+[Trump pledges to give Fort Bragg its name back and the response is wild](https://americanwirenews.com/trump-pledges-to-give-fort-bragg-its-name-back-and-the-response-is-wild/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-glenn-beck-in-n.c-220x180.jpg)](https://americanwirenews.com/glenn-beck-exposes-femas-shocking-incompetence-chaos-in-real-time-visit-to-n-carolina/)
+
+[Glenn Beck exposes FEMA’s shocking incompetence, chaos in real-time visit to N. Carolina](https://americanwirenews.com/glenn-beck-exposes-femas-shocking-incompetence-chaos-in-real-time-visit-to-n-carolina/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-graham-220x180.jpg)](https://americanwirenews.com/trump-shares-how-he-really-feels-about-sen-lindsey-graham-hes-a-progressive/)
+
+[Trump shares how he really feels about Sen. Lindsey Graham: ‘He’s a progressive’](https://americanwirenews.com/trump-shares-how-he-really-feels-about-sen-lindsey-graham-hes-a-progressive/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-liz-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/joes-never-been-so-proud-of-liz-cheney-after-kamala-endorsement/)
+
+[Joe’s ‘never been so proud’ of Liz Cheney after Kamala endorsement](https://americanwirenews.com/joes-never-been-so-proud-of-liz-cheney-after-kamala-endorsement/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1-220x180.jpg)](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
 
 [Trump’s advice to Israel over where to strike Iran sounds VERY different than Biden’s or Harris’](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
@@ -125,54 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-garth-brooks-220x180.jpg)](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
 
 [Garth Brooks responds after bombshell lawsuit by fmr. makeup artist claims he raped and sexually assaulted her](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/Sg-Trump-thumbs-up-220x180.png)](https://americanwirenews.com/nbc-news-warns-trump-could-add-more-conservative-scotus-justices-if-he-wins/)
-
-[NBC News warns Trump could add more conservative SCOTUS justices if he wins](https://americanwirenews.com/nbc-news-warns-trump-could-add-more-conservative-scotus-justices-if-he-wins/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lawler-nyt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
-
-[Priorities: NY Times reports on GOP lawmaker’s 2006 Halloween costume](https://americanwirenews.com/priorities-ny-times-reports-on-gop-lawmakers-2006-halloween-costume/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-carville-220x180.jpg)](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
-
-[James Carville unloads on Harris-Walz campaign: ‘Get off your a–. Move, move, move!’](https://americanwirenews.com/james-carville-unloads-on-harris-walz-campaign-get-off-your-a-move-move-move/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Elon-Musk-220x180.jpg)](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
-
-[Elon Musk will be in Butler to ‘support’ Trump’s return](https://americanwirenews.com/elon-musk-will-be-in-butler-to-support-trumps-return/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kharrisariz-1200-x-628-220x180.jpg)](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
-
-[Judiciary GOP drops damning report on ‘border czar’ Kamala letting ‘potential TERRORISTS’ into U.S.](https://americanwirenews.com/judiciary-gop-drops-damning-report-on-border-czar-kamala-letting-potential-terrorists-into-u-s/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-fracking-220x180.png)](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
-
-[Kamala whines about ad showing her past comments on fracking – designed to make people ‘afraid’](https://americanwirenews.com/kamala-whines-about-ad-showing-her-past-comments-on-fracking-designed-to-make-people-afraid/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-speaking-220x180.jpg)](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
-
-[America Last: Trump slams Kamala for squandering FEMA money on illegals](https://americanwirenews.com/america-last-trump-slams-kamala-for-squandering-fema-money-on-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-cheney-220x180.png)](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
-
-[Trump reacts after Liz Cheney hits rock bottom, joins Kamala on the campaign trail](https://americanwirenews.com/trump-reacts-after-liz-cheney-hits-rock-bottom-joins-kamala-on-the-campaign-trail/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpflag-1200-x-628-220x180.jpg)](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
-
-[Hundreds of national security officials endorse Trump, warn of WWIII with Kamala](https://americanwirenews.com/hundreds-of-national-security-officials-endorse-trump-warn-of-wwiii-with-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-boss-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-boss-endorses-harris-walz-ticket-viciously-attacks-trump/)
-
-[‘The Boss’ endorses Harris-Walz ticket, viciously attacks Trump](https://americanwirenews.com/the-boss-endorses-harris-walz-ticket-viciously-attacks-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-border-swanton-sector-220x180.jpg)](https://americanwirenews.com/meanwhile-illegal-crossings-at-us-northern-border-is-surging/)
-
-[Meanwhile, illegal crossings at US northern border is surging](https://americanwirenews.com/meanwhile-illegal-crossings-at-us-northern-border-is-surging/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sunny-hostin-220x180.jpg)](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
-
-[‘View’ co-hosts pump the brakes on Sunny Hostin’s INSANE Melania rant: ‘You don’t know all this!’](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
