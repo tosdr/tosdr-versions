@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are ten different species of dragons in the magical world of Harry Potter.
+The first word spoken by Harry Potter is in the second chapter and is “Nearly”.
 
 ### Potter History
 
-March 7, 2006 – The Harry Potter and the Goblet of Fire DVD is released in the United States and Canada.
+June 4, 2004 – Harry Potter and the Prisoner of Azkaban is released in theaters.
 
 ### Potter Quote
 
-“But you’re Muggles! We must have a drink! What’s that you’ve got there? Oh, you’re changing Muggle money. Molly, look!”
+“Dumbledore would have been happier than anybody to think that there was a little more love in the world.”
 
 [](#)
 
