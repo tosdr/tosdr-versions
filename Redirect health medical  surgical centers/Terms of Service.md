@@ -1,58 +1,44 @@
-![](https://www.facebook.com/tr?id=985538201499949&ev=PageView&noscript=1)  
+[Skip to content](#main)
 
-* [![](https://arrowheadhealth.com/wp-content/uploads/2020/03/social-f.png)](https://www.facebook.com/arrowheadhealth)
-* [![](https://arrowheadhealth.com/wp-content/uploads/2020/03/socail-t.png)](https://twitter.com/ahcnow)
-* [![](https://arrowheadhealth.com/wp-content/uploads/2020/03/socail-y.png)](https://www.youtube.com/ArrowheadHealth)
+[Schedule Appointment](https://healow.com/apps/practice/redirect-health-glendale-az-22166?v=3&t=1)
 
-* [Contact](https://arrowheadhealth.com/contact/)
-* Schedule
-* [Portal](https://arrowheadhealth.com/portal/)
+[Patient Portal](https://mycw142.ecwcloud.com/portal19866/jsp/100mp/login_otp.jsp)
 
-[Redirect Health Centers](https://arrowheadhealth.com/)
-=======================================================
+[![arrowhead health medical centers](https://arrowheadhealth.com/wp-content/uploads/2024/09/cropped-Redirect-Arrowhead-Logo-Color.png)](https://arrowheadhealth.com/)
 
-* [About](https://arrowheadhealth.com/about/ "About Arrowhead Centers")
-    * [Our Story](https://arrowheadhealth.com/ahc-story/)
-    * [The Redirect Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
-    * [Contact Us](https://arrowheadhealth.com/contact/)
-    * [Join Our Team](https://arrowheadhealth.com/careers-openings/)
-    * [NCQA Patient Centered Medical Home](https://arrowheadhealth.com/ncqa/)
-    * [Patient Stories](https://arrowheadhealth.com/patient-stories/)
-    * [Partners and Affiliates](https://arrowheadhealth.com/?page_id=139)
-    * [FAQ](https://arrowheadhealth.com/faq/)
-* [Providers](https://arrowheadhealth.com/providers/ "Medical Providers")
-    * [Primary Care](https://arrowheadhealth.com/primary-care/)
-    * [Physical Rehab & Chiropractic](https://arrowheadhealth.com/physical-rehabilitation-providers/)
-    * [Pain Management](https://arrowheadhealth.com/pain-management/)
-* [Programs and Services](https://arrowheadhealth.com/programs-services/ "Medical Programs and Services")
-    * [iEverydayCARE®](https://ieverydaycare.com/ "iEverydayCARE")
-    * [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
-    * [Chronic Care Management](https://getrevup.com/arrowhead-health-centers/)
-    * [Diabetes Treatment and Management](https://arrowheadhealth.com/programs-services/diabetes-treatment-management/)
+* [Programs and ServicesExpand](#)
     * [Family Practice](https://arrowheadhealth.com/programs-services/family-practice/)
-    * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
-    * [OsteoArthritis of the Knee Program](https://arrowheadhealth.com/programs-services/osteoarthritis-knee-program/)
+    * [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
     * [Pain & Injury Management](https://arrowheadhealth.com/programs-services/pain-injury-management/)
-    * [Virtual Care](https://arrowheadhealth.com/?page_id=13053)
-    * [Total Joint Rejuvenation](https://arrowheadhealth.com/programs-services/total-joint-rejuvenation/)
-* [Insurance](https://arrowheadhealth.com/insurance/ "Medical Insurance")
-* [Patients](https://arrowheadhealth.com/patients/ "Patient Information")
-    * [Easy Bill Pay](https://arrowheadhealth.com/patients/easy-bill-pay/)
-    * [Check Lab Results](https://arrowheadhealth.com/portal)
+    * [Sports Physicals](https://arrowheadhealth.com/programs-services/family-practice/sports-physicals/)
+    * [DOT Physicals](https://arrowheadhealth.com/programs-services/family-practice/dot-physicals/)
+    * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
+    * [Lab Testing](https://arrowheadhealth.com/programs-services/lab-testing/)
+    * [Weight Loss](https://arrowheadhealth.com/programs-services/weight-loss/)
+* [Insurance](https://arrowheadhealth.com/insurance/)
+* [PatientsExpand](#)
+    * [Patient Help](https://arrowheadhealth.com/patients/ "Patient Information")
     * [Patient Forms](https://arrowheadhealth.com/patient-forms/)
-* [Locations](https://arrowheadhealth.com/our-locations/)
-* [Blog](https://arrowheadhealth.com/blog/)
-    * [In The News](https://arrowheadhealth.com/category/news/)
+    * [Patient Portal](https://arrowheadhealth.com/sign-up-for-the-patient-portal/)
+    * [Pay Your Bill](https://www.healowpay.com/HealowPay/jsp/healow/login.jsp)
+* [Our LocationsExpand](#)
+    * [All Locations](https://arrowheadhealth.com/all-locations/)
+    * [Glendale/Peoria](https://arrowheadhealth.com/glendale/)
+    * [Scottsdale/Tempe](https://arrowheadhealth.com/scottsdale/)
+    * [Sun City/Surprise](https://arrowheadhealth.com/surprise/)
+* [About UsExpand](#)
+    * [Contact Us](https://arrowheadhealth.com/contact/)
+    * [Providers](https://arrowheadhealth.com/providers/)
+    * [Our Story](https://arrowheadhealth.com/about/)
+    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
+    * [Join Our Team](https://arrowheadhealth.com/careers/)
+    * [FAQ](https://arrowheadhealth.com/faq/)
+* [Patient Portal](https://mycw142.ecwcloud.com/portal19866/jsp/100mp/login_otp.jsp)
+* [Schedule Appointment](https://healow.com/apps/practice/redirect-health-glendale-az-22166?v=3&t=1)
 
-Put People First & People Get Healthy™
+[![arrowhead health medical centers](https://arrowheadhealth.com/wp-content/uploads/2024/09/cropped-Redirect-Arrowhead-Logo-Color.png)](https://arrowheadhealth.com/)
 
-* Please install [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) plugin and enable the breadcrumb option to use this shortcode!
-    
-
-Terms of Use
-============
-
-You are here: [Home](https://arrowheadhealth.com/) / Terms of Use
+Toggle Menu
 
 Arrowhead Health Centers Web Site Agreement/Terms of Use
 --------------------------------------------------------
@@ -99,99 +85,90 @@ This Agreement shall all be governed and construed in accordance with the laws o
 
 Any rights not expressly granted herein are reserved.
 
-[![](https://arrowheadhealth.com/wp-content/uploads/2015/05/Arrowhead-callout-170x200_question.jpg)](https://arrowheadhealth.com/contact/)
-
-#### Redirect Health
+Arrowhead Health
+----------------
 
 * [Home](https://arrowheadhealth.com/)
-* [Contact](https://arrowheadhealth.com/about/)
+* [Our Story](https://arrowheadhealth.com/about/)
 * [Providers](https://arrowheadhealth.com/providers/)
-* [Programs & Services](https://arrowheadhealth.com/programs-services/)
 * [Insurance](https://arrowheadhealth.com/insurance/)
-* [Patients](https://arrowheadhealth.com/patients/)
-* [Redirect Health](https://arrowheadhealth.com/rdc-difference/)
+* [Contact Us](https://arrowheadhealth.com/contact/)
+* [Arrowhead Health](https://arrowheadhealth.com/rdc-difference/)
 * [Join Our Team](https://arrowheadhealth.com/careers/)
-* [NCQA Patient Center](https://arrowheadhealth.com/ncqa/)
-* [Blog](https://arrowheadhealth.com/blog/)
 
-#### Programs & Services
+Programs & Services
+-------------------
 
-* [iEverydayCARE®](https://www.redirecthealth.com/ieverydaycare/)
-* [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
-* [Allergies & Asthma Treatment](https://arrowheadhealth.com/programs-services/allergies-asthma/)
-* [Diabetes Treatment & Management](https://arrowheadhealth.com/programs-services/diabetes-treatment-management/)
 * [Family Practice](https://arrowheadhealth.com/programs-services/family-practice/)
+* [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
 * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
-* [OsteoArthritis of the Knee](https://arrowheadhealth.com/programs-services/osteoarthritis-knee-program/)
 * [Pain & Injury Management](https://arrowheadhealth.com/programs-services/pain-injury-management/)
-* [Virtual Care](https://arrowheadhealth.com/?page_id=13053)
-* [Total Joint Rejuvenation](https://arrowheadhealth.com/programs-services/total-joint-rejuvenation/)
+* [Skin Care](https://arrowheadhealth.com/programs-services/skin-care/)
+* [Sports Physicals](https://arrowheadhealth.com/programs-services/family-practice/sports-physicals/)
+* [Diabetes Treatment and Management](https://arrowheadhealth.com/programs-services/diabetes-treatment-management/)
+* [Lab Testing](https://arrowheadhealth.com/programs-services/lab-testing/)
+* [DOT Physicals](https://arrowheadhealth.com/programs-services/family-practice/dot-physicals/)
 
-#### Helpful Links
+Helpful Links
+-------------
 
-* [Schedule an Appointment](https://www.myredirecthealth.com/services/)
-* [Patient Portal](https://arrowheadhealth.com/portal/)
+* [Schedule an Appointment](https://healow.com/apps/practice/redirect-health-glendale-az-22166?v=3&t=1)
+* [Patient Help](https://arrowheadhealth.com/patients/)
+* [Patient Portal](https://arrowheadhealth.com/sign-up-for-the-patient-portal/)
 * [Patient Forms](https://arrowheadhealth.com/patient-forms/)
 * [FAQ](https://arrowheadhealth.com/faq/)
+* [Redirect Health](https://www.redirecthealth.com/)
+* [iEverydayCARE](https://www.redirecthealth.com/healthcare-plans/individual-family/)
 *  [](# " ")
 * [Disclaimer](https://arrowheadhealth.com/disclaimer/)
 * [Terms of Use](https://arrowheadhealth.com/terms-of-use/)
 * [Privacy Policy / HIPAA](https://arrowheadhealth.com/privacy-policy-hipaa/)
-* [Sitemap](https://arrowheadhealth.com/sitemap/)
+* [Accessibility Policy](https://arrowheadhealth.com/accessibility-policy/)
 
-#### Contact
+Contact
+-------
 
-* [Locations & Directions](https://arrowheadhealth.com/our-locations/)
+* [Scottsdale](https://arrowheadhealth.com/scottsdale/)
+* [Surprise](https://arrowheadhealth.com/surprise/)
+* [Glendale](https://arrowheadhealth.com/glendale/)
 *  [](#)
 * [Learn More: 623-334-4000](tel:623-334-4000)
 * [Contact Us](https://arrowheadhealth.com/contact/)
 
-* [![](https://arrowheadhealth.com/wp-content/themes/minimum-pro/images/footer-fac.png)](https://facebook.com/RedirectHealth)
-* [![](https://www.redirecthealth.com/wp-content/themes/redirect-health/dist/images/linkedin-white_11f41214.png)](https://www.linkedin.com/company/3204392)
-* [![](https://arrowheadhealth.com/wp-content/themes/minimum-pro/images/footer-you.png)](https://www.youtube.com/channel/UCmRQnLj5yffCcqo7vPLp3LA)
+[Facebook](https://www.facebook.com/arrowheadhealth) [Twitter](https://twitter.com/ahcnow) [YouTube](https://www.youtube.com/ArrowheadHealth)
 
-Copyright © 2024 · Arrowhead Health Centers
+Copyright © 2024 Arrowhead Health Medical Centers ® All Rights Reserved
 
-Copyright © 2024 Redirect Health Medical & Surgical Centers ® All Rights Reserved
-
-[MENU](https://arrowheadhealth.com/)
-
-* [Call Us 623-334-4000](tel:6233344000)
-* [Schedule an Appointment](https://healow.com/apps/practice/redirect-health-scottsdale-az-22166?v=2)
-* [About](https://arrowheadhealth.com/about/)
-    * [Our Story](https://arrowheadhealth.com/ahc-story/)
-    * [The Redirect Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
-    * [NCQA Patient Centered Medical Home](https://arrowheadhealth.com/ncqa/)
-    * [Careers](https://arrowheadhealth.com/careers/)
-    * [Contact Us](https://arrowheadhealth.com/contact/)
-    * [Patient Stories](https://arrowheadhealth.com/patient-stories/)
-    * [Partners and Affiliates](https://arrowheadhealth.com/?page_id=139)
-    * [FAQ – Frequently Asked Questions](https://arrowheadhealth.com/faq/)
-* [Providers](https://arrowheadhealth.com/providers/)
-    * [Primary Care](https://arrowheadhealth.com/primary-care/)
-    * [Arrowhead Pain Management](https://arrowheadhealth.com/pain-management/)
-    * [Physical Rehabilitation Providers](https://arrowheadhealth.com/physical-rehabilitation-providers/)
-* [Programs and Services](https://arrowheadhealth.com/programs-services/)
-    * [iEverydayCARE™](https://www.redirecthealth.com/ieverydaycare/)
-    * [Allergies and Asthma](https://arrowheadhealth.com/programs-services/allergies-asthma/)
-    * [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
-    * [Diabetes Treatment and Management](https://arrowheadhealth.com/programs-services/diabetes-treatment-management/)
+* [Programs and Services](#)Toggle child menuExpand
+    
     * [Family Practice](https://arrowheadhealth.com/programs-services/family-practice/)
-    * [Lab Testing](https://arrowheadhealth.com/programs-services/lab-testing/)
-    * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
-    * [OsteoArthritis of the Knee Program](https://arrowheadhealth.com/programs-services/osteoarthritis-knee-program/)
+    * [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
     * [Pain & Injury Management](https://arrowheadhealth.com/programs-services/pain-injury-management/)
-    * [Virtual Care](https://arrowheadhealth.com/?page_id=13053)
-    * [Total Joint Rejuvenation](https://arrowheadhealth.com/programs-services/total-joint-rejuvenation/)
+    * [Sports Physicals](https://arrowheadhealth.com/programs-services/family-practice/sports-physicals/)
+    * [DOT Physicals](https://arrowheadhealth.com/programs-services/family-practice/dot-physicals/)
+    * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
+    * [Lab Testing](https://arrowheadhealth.com/programs-services/lab-testing/)
+    * [Weight Loss](https://arrowheadhealth.com/programs-services/weight-loss/)
 * [Insurance](https://arrowheadhealth.com/insurance/)
-* [Patients](https://arrowheadhealth.com/patients/)
-    * [Easy Bill Pay](https://arrowheadhealth.com/patients/easy-bill-pay/)
-    * [Check Lab Results](https://arrowheadhealth.com/patients/lab-results/)
+* [Patients](#)Toggle child menuExpand
+    
+    * [Patient Help](https://arrowheadhealth.com/patients/ "Patient Information")
     * [Patient Forms](https://arrowheadhealth.com/patient-forms/)
-        * [Annual Physical Form](https://arrowheadhealth.com/patient-forms/annual-physical-form/)
-        * [Medical Records Release](https://arrowheadhealth.com/patient-forms/medical-records-release/)
-        * [New Patient Form](https://arrowheadhealth.com/patient-forms/new-patient/)
-* [Blog](https://arrowheadhealth.com/blog/)
-    * [In The News](https://arrowheadhealth.com/category/news/)
-* [Locations](https://arrowheadhealth.com/our-locations/)
-*
+    * [Patient Portal](https://arrowheadhealth.com/sign-up-for-the-patient-portal/)
+    * [Pay Your Bill](https://www.healowpay.com/HealowPay/jsp/healow/login.jsp)
+* [Our Locations](#)Toggle child menuExpand
+    
+    * [All Locations](https://arrowheadhealth.com/all-locations/)
+    * [Glendale/Peoria](https://arrowheadhealth.com/glendale/)
+    * [Scottsdale/Tempe](https://arrowheadhealth.com/scottsdale/)
+    * [Sun City/Surprise](https://arrowheadhealth.com/surprise/)
+* [About Us](#)Toggle child menuExpand
+    
+    * [Contact Us](https://arrowheadhealth.com/contact/)
+    * [Providers](https://arrowheadhealth.com/providers/)
+    * [Our Story](https://arrowheadhealth.com/about/)
+    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
+    * [Join Our Team](https://arrowheadhealth.com/careers/)
+    * [FAQ](https://arrowheadhealth.com/faq/)
+* [Patient Portal](https://mycw142.ecwcloud.com/portal19866/jsp/100mp/login_otp.jsp)
+* [Schedule Appointment](https://healow.com/apps/practice/redirect-health-glendale-az-22166?v=3&t=1)
