@@ -259,36 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stellar line-up announced for The Late Late Show Country Music Special this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stellar line-up announced for The Late Late Show Country Music Special this Friday")](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Guests revealed for tonight's Late Late Show with big names confirmed for Country Special](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged to court after road-related incident in Derry's Culmore Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged to court after road-related incident in Derry's Culmore Road area")](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police investigating after red paint daubed on Derry business](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 
 The damage caused to the premises. PHOTO: Shannon Moore
@@ -297,6 +267,13 @@ The damage caused to the premises. PHOTO: Shannon Moore
 
 [Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
 
@@ -307,30 +284,12 @@ Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben M
 [Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Inishowen lecturer shortlisted for computing award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inishowen lecturer shortlisted for computing award")](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
-
-Kevin McLaughlin has been shortlisted for the Northern Ireland FE College IT Educator Awards
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry NWRC lecturer shortlisted for computing award](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
-
-Derry City could have the support of several Premier Division teams tonight when they face Bohemians.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[League of Ireland rivals to cheer on Derry City tonight](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
 
@@ -339,11 +298,59 @@ Derry City could have the support of several Premier Division teams tonight when
 [Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
+
+Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New book by local author to be launched in Naas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+
+The book will be launched in Naas on October 17
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New book by County Derry author to be launched in Naas](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+
+Roe Valley Integrated Primary School
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
 
@@ -407,13 +414,6 @@ Multimedia
 
 [IN PICTURES: Limavady Grammar School annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1618438/in-pictures-limavady-grammar-school-annual-prizegiving.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Celebrating 30 years of Daleview House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Celebrating 30 years of Daleview House")](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Celebrating 30 years of Daleview House](https://www.derrynow.com/story-telling/pictures---videos/1618850/in-pictures-celebrating-30-years-of-daleview-house.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +515,25 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
+[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+
+Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+
+Roe Valley Integrated Primary School
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/resizer/165/93/true/2024_10_05/1-min-1728133951405.jpg--.jpg?1728133957024 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
 
 Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
 
@@ -524,7 +542,7 @@ Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill M
 [Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New book by local author to be launched in Naas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+[![New book by local author to be launched in Naas](https://www.derrynow.com/resizer/165/93/true/2024_10_03/PatMullan2-1727968273081.jpg--.jpg?1727968273106 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
 
 The book will be launched in Naas on October 17
 
@@ -548,22 +566,6 @@ The damage caused to the premises. PHOTO: Shannon Moore
 
 [Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_04/2953765-1728075050015.jpg--.jpg?1728075052430 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
-
-Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728072306936_0.jpg--.jpg?1728072307045 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
