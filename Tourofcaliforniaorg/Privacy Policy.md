@@ -16,14 +16,14 @@ Popular Posts
 
 TourOfCalifornia.org
 
-[Map App](https://app.tourofcalifornia.org/?v=20231230)[Disclaimer](https://www.tourofcalifornia.org/2006/01/disclaimer.html)[Privacy Policy](https://www.tourofcalifornia.org/2006/01/privacy-policy.html)[Site Map](https://www.tourofcalifornia.org/2006/01/site-map.html)[Bernd Straehle](https://www.tourofcalifornia.org/2006/01/bernd-straehle.html)
+[Map App](https://app.tourofcalifornia.org/?v=20231230)[Disclaimer](https://www.tourofcalifornia.org/2006/01/disclaimer.html)[Privacy Policy](https://www.tourofcalifornia.org/2006/01/privacy-policy.html)[Site Map](https://www.tourofcalifornia.org/2006/01/site-map.html)[B. Straehle](https://www.tourofcalifornia.org/2006/01/bernd-straehle.html)
 
 Privacy Policy
 ==============
 
 Last Updated: 01/22/2023
 
-Bernd Straehle ("we", "us", or "our"), owner of TourOfCalifornia.org (the "Site"), respects the privacy of our users ("you" or "your"). The Site and our mobile application do not collect any user data. Our mobile application may ask for permission to access location information to find local rides, a feature useful for users with a California IP address. If you wish to change your permission, you may do so in your device's settings.
+B. Straehle ("we", "us", or "our"), owner of TourOfCalifornia.org (the "Site"), respects the privacy of our users ("you" or "your"). The Site and our mobile application do not collect any user data. Our mobile application may ask for permission to access location information to find local rides, a feature useful for users with a California IP address. If you wish to change your permission, you may do so in your device's settings.
 
 TourOfCalifornia.org uses Blogger (first-party in terms of domain), which in some countries uses a privacy notice cookie. The Site uses Google Maps Embed API (third-party in terms of domain), which uses cookies at this time. You may block first-party and/or third-party cookies in your browser, and the site will continue to work. The Site uses Cloudflare, a content delivery network, which is cookieless. Our mobile application uses Amazon CloudFront, a content delivery network, which is cookieless. Our mobile application uses Google Maps API, which is cookieless. For performance and security reasons, mentioned parties collect data on HTTP requests, including IP address and user agent.
 
