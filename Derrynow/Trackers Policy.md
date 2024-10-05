@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-04 Oct 2024
+05 Oct 2024
 
 * [Home
     
@@ -266,6 +266,29 @@ Most Popular
 [Irish teen tragically killed after being hit by train near Welsh railway station](https://www.derrynow.com/news/national-news/1621938/irish-teen-tragically-killed-after-being-hit-by-train-near-welsh-railway-station.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards")](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
+
+Seamus and Tina Shivers who received a Certificate of Excellence at the Northern Ireland Foster Care Awards
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Stellar line-up announced for The Late Late Show Country Music Special this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stellar line-up announced for The Late Late Show Country Music Special this Friday")](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Guests revealed for tonight's Late Late Show with big names confirmed for Country Special](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -287,13 +310,6 @@ Most Popular
 [Derry woman jailed after 'pit bull type dog' savaged another dog to death](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Stellar line-up announced for The Late Late Show Country Music Special this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stellar line-up announced for The Late Late Show Country Music Special this Friday")](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Guests revealed for tonight's Late Late Show with big names confirmed for Country Special](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry man (50) caught by paedophile hunter sting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man (50) caught by paedophile hunter sting")](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
 
 Derry Court
@@ -302,15 +318,6 @@ Derry Court
 
 [Suspended sentence for Derry man (50) caught by paedophile hunter sting](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards")](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
-
-Seamus and Tina Shivers who received a Certificate of Excellence at the Northern Ireland Foster Care Awards
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man rammed vehicle and then behaved aggressively towards other driver](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man rammed vehicle and then behaved aggressively towards other driver")](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
 
@@ -321,19 +328,12 @@ Derry Court
 [Derry man rammed vehicle and then behaved aggressively towards other driver](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bail granted for Derry man who breached bail by being intoxicated in a public place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail by being intoxicated in a public place")](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+[![Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up")](https://www.derrynow.com/news/arts---entertainment/1621699/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-impressive-line-up.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry man found intoxicated in a public place was in breach of bail](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up](https://www.derrynow.com/news/arts---entertainment/1621699/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-impressive-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,55 +511,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Funding increase needed to ‘avert GP crisis’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funding increase needed to ‘avert GP crisis’")](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
+
+Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728056108295_0.jpg--.jpg?1728056108342 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man charged to court after road-related incident in Derry's Culmore Road area")](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Funding increase needed to ‘avert GP crisis’](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728041713090_0.jpg--.jpg?1728041713224 "Funding increase needed to ‘avert GP crisis’")](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Funding increase needed to ‘avert GP crisis’](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers")](https://www.derrynow.com/news/local-news/1621650/everyone-deserves-a-stable-home-hscni-sessions-empower-derry-people-to-be-foster-carers.html)
+[!['Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers](https://www.derrynow.com/resizer/165/93/true/2024_10_04/child-1864718_1280-1728033259413.jpg--.jpg?1728033259453 "'Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers")](https://www.derrynow.com/news/local-news/1621650/everyone-deserves-a-stable-home-hscni-sessions-empower-derry-people-to-be-foster-carers.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 ['Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers](https://www.derrynow.com/news/local-news/1621650/everyone-deserves-a-stable-home-hscni-sessions-empower-derry-people-to-be-foster-carers.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Inishowen lecturer shortlisted for computing award](https://www.derrynow.com/resizer/165/93/true/2024_10_04/461333164_969026841931606_3952279673518071134_n_Cropped-1728037324322.jpg--.jpg?1728037324342 "Inishowen lecturer shortlisted for computing award")](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
-
-Kevin McLaughlin has been shortlisted for the Northern Ireland FE College IT Educator Awards
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry NWRC lecturer shortlisted for computing award](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Singing for Fun programme aims to connect rural women in Mid Ulster](https://www.derrynow.com/resizer/165/93/true/2024_10_04/Singing_for_Fun_1-1728052182801.jpg--.jpg?1728052183622 "Singing for Fun programme aims to connect rural women in Mid Ulster")](https://www.derrynow.com/news/home/1622059/singing-for-fun-programme-aims-to-connect-rural-women-in-mid-ulster.html)
-
-Music facilitator, Karen Diamond, pictured with the Northern Trust’s Rural Health and Wellbeing Manager, Yvonne Carson.
-
-[Home](https://www.derrynow.com/)
-
-[Singing for Fun programme aims to connect rural women in Mid Ulster](https://www.derrynow.com/news/home/1622059/singing-for-fun-programme-aims-to-connect-rural-women-in-mid-ulster.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_04/IDNT_3-10-24_Inside_RH_1-1728046239297.jpg--.jpg?1728046242346 "Derry City")](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
-
-Derry City could have the support of several Premier Division teams tonight when they face Bohemians.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[League of Ireland rivals to cheer on Derry City tonight](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_04/IDNT_3-10-24_Back_Page_1-1728045980917.jpg--.jpg?1728045981792 "Derry City")](https://www.derrynow.com/news/derry-sport/1621936/fai-cup-semi-final-let-s-go-and-make-history-again.html)
-
-Ruaidhri Higgins and Pat Hoban embrace in the aftermath of Derry City’s late, late win at Dalymount Park back in June.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[FAI Cup semi-final: 'Let's go and make history again!'](https://www.derrynow.com/news/derry-sport/1621936/fai-cup-semi-final-let-s-go-and-make-history-again.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
