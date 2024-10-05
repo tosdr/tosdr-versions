@@ -50,31 +50,31 @@ Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Univ
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
+
+Mercado de Trabalho
+
+Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
 
 balneabilidade
 
-Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
+Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
 
 Programe-se
 
-Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
+Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
 
 Alagoas
 
-Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
+Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
 investigações
 
-MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")   [![Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_arsal-autoriza-reforco-de-linhas-no-transporte-intermunicipal-para-eleicoes_1d56eee546.jpeg)
+MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")   [![Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/2/csm_arsal-autoriza-reforco-de-linhas-no-transporte-intermunicipal-para-eleicoes_1d56eee546.jpeg)
 
 ARSAL AUTORIZOU
 
-Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://www.tnh1.com.br/noticia/nid/linhas-do-transporte-intermunicipal-terao-reforco-para-eleicoes-em-alagoas/ "Linhas do transporte intermunicipal terão reforço para eleições em Alagoas")   [![Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/4/csm_afogamento_paifilho_c387cf365c.png)
-
-Sufoco
-
-Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/guarda-vidas-salvam-pai-e-filho-de-afogamento-na-praia-do-frances/ "Guarda-vidas salvam pai e filho de afogamento na Praia do Francês")
+Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://www.tnh1.com.br/noticia/nid/linhas-do-transporte-intermunicipal-terao-reforco-para-eleicoes-em-alagoas/ "Linhas do transporte intermunicipal terão reforço para eleições em Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Guarda-vidas salvam pai e filho de afogamento na Praia do Francês](https://www.
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
+   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
+
+Mandado em aberto
+
+Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
 
 latrocínio
 
-Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
+Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
 
 24 horas
 
-Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
+Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
 
 Em Inhapi
 
-Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")   [![Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_atila_augusto_corpo_encontrado_-_foto_reproducao_123581a7a9.jpg)
+Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")   [![Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_atila_augusto_corpo_encontrado_-_foto_reproducao_123581a7a9.jpg)
 
 No Benedito Bentes
 
-Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-ha-quatro-dias-e-encontrado-em-matagal/ "Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
+Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-ha-quatro-dias-e-encontrado-em-matagal/ "Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
 
 Sacola nas mãos
 
-Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
-
-Na parte alta
-
-Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")
+Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ No Paraná
 
 Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Mário Gomes passa mal e é levado a pronto-socorro por ambulância](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mario_gomes_passa_mal_reproducao_instagram_c7e82a05b9.jpg)
-
-durante gravação
-
-durante gravação
-
-Mário Gomes passa mal e é levado a pronto-socorro por ambulância
-
-Mário Gomes passa mal e é levado a pronto-socorro por ambulância](https://www.tnh1.com.br/noticia/nid/mario-gomes-passa-mal-e-e-levado-a-pronto-socorro-por-ambulancia/ "Mário Gomes passa mal e é levado a pronto-socorro por ambulância")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
 
 Com ajuda de dois
 
@@ -222,7 +214,7 @@ Com ajuda de dois
 
 Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas
 
-Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Advogado é morto a tiros na frente do próprio escritório ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_Advogado_Cassio_Bruno_-_foto_Reproducao_Facebook_829dcc2fe2.jpg)
+Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Advogado é morto a tiros na frente do próprio escritório ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Advogado_Cassio_Bruno_-_foto_Reproducao_Facebook_829dcc2fe2.jpg)
 
 48 anos
 
@@ -230,41 +222,49 @@ Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas
 
 Advogado é morto a tiros na frente do próprio escritório
 
-Advogado é morto a tiros na frente do próprio escritório](https://www.tnh1.com.br/noticia/nid/advogado-e-morto-a-tiros-na-frente-do-proprio-escritorio/ "Advogado é morto a tiros na frente do próprio escritório ")
+Advogado é morto a tiros na frente do próprio escritório](https://www.tnh1.com.br/noticia/nid/advogado-e-morto-a-tiros-na-frente-do-proprio-escritorio/ "Advogado é morto a tiros na frente do próprio escritório ")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
 
-[![Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
+processo seletivo
 
-depoimento revelador
+processo seletivo
 
-depoimento revelador
+Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever
 
-Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas
+Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
 
-Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas](https://www.tnh1.com.br/noticia/nid/testemunha-revela-sinal-secreto-de-diddy-para-iniciar-momento-proibidao-de-suas-festas/ "Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas")[![Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_gravida-sobreviveu-furacao-reproducao_0023536d44.jpg)
+[![O que se sabe sobre o suposto envenenamento de duas crianças no Rio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/5/csm_envenenamento-criancas-rio-de-janeiro-reproducao_46f7fe75e0.jpg)
 
-NOS EUA
+ganharam chocolate
 
-NOS EUA
+ganharam chocolate
 
-Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas
+O que se sabe sobre o suposto envenenamento de duas crianças no Rio
 
-Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas](https://www.tnh1.com.br/noticia/nid/gravida-sobrevive-ao-furacao-helene-boiando-em-colchao-com-seu-cao-por-8-horas/ "Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas")[![Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_Implanon-Reproductive_Health_Supplies_CoalitionUnsplash_301d72d143.png)
+O que se sabe sobre o suposto envenenamento de duas crianças no Rio](https://www.tnh1.com.br/noticia/nid/o-que-se-sabe-sobre-o-suposto-envenenamento-de-duas-criancas-no-rio/ "O que se sabe sobre o suposto envenenamento de duas crianças no Rio")[![Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_bruna-biancardi-neymar-reproducao-redes-sociais_50edae7573.png)
 
-implante subcutâneo
+Gente Famosa
 
-implante subcutâneo
+Gente Famosa
 
-Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia
+Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista
 
-Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia](https://www.tnh1.com.br/noticia/nid/saiba-o-que-e-implanon-metodo-contraceptivo-usado-pela-influencer-virginia/ "Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia ")[![Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/e/csm_cookie-loja-crumbl-divulgacao_2b7e2a363e.jpg)
+Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista](https://www.tnh1.com.br/noticia/nid/bruna-biancardi-publica-video-inedito-do-cha-de-bebe-da-filha-da-modelo-com-o-atacante-neymar-assista/ "Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista ")[![Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/6/csm_filhos-harry-meghan-foto-divulgacao_c8f56bcc27.jpg)
 
-Causou polêmica
+Crise?
 
-Causou polêmica
+Crise?
 
-Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
 
-Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália](https://www.tnh1.com.br/noticia/nid/como-cookie-velho-vendido-a-r-65-causou-revolta-nas-redes-sociais-da-australia/ "Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália")
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__bd54150749.jpeg)
+
+Mercado de Trabalho
+
+Mercado de Trabalho
+
+Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos
+
+Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
