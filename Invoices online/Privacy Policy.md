@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=125890509)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=50642478)  
+Salvage Genie
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=28933401)  
-Henry's Home Renovations
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=6579348)  
+West Coast Horse Trails
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=195175076)  
-SMART GUY PCS (PTY) LTD
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=81064729)  
+Know Informatics
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=124842401)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=167625602)  
+van Schaik rentals
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=201617545)  
-Myfinance-Online
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=156831142)  
+Lion Software Develepment
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=104140535)  
-Mtunzini Group
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=122464987)  
+NEW BEGINNINGS DESIGNS
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=114716135)  
-webb it services
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=150833646)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=204270259)  
-Westside Car Audio CC
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=105955760)  
+FJW Security Cc
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=1140042)  
-BD Maintenance
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=108794850)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=59697806)  
-Import Maaw
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=69618819)  
+Dr V Naik Consult
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=114269952)  
-Gemini-IT Group
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=214338754)  
+Kaylas Creations
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=5586275)  
-Website Café (PTY) LTD
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=13029319)  
+Dombieterfontein (PTY) LTD
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=98632086)  
-VIR Electrical (PTY) LTD
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=162001281)  
+Depot Diesel (Pty) Ltd
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=79377107)  
-Nilbet T/A Waterman
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=5286234)  
+Alliance Energy
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=136674823)  
-Enhle Oarabile Kea
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=68715044)  
+TurboFibre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
