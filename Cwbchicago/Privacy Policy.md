@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Indya-Smith-326x245.jpg)](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+
+CTA
+
+### [Woman charged with shooting man on Red Line train](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+
+[October 3, 2024 5:41 PM](https://cwbchicago.com/2024/10)
+
+Prosecutors have charged an Uptown woman with shooting a man as they rode a Red Line train on the North Side yesterday morning.[](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/FBI-Barechested-bandit-326x245.jpg)](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+
+Loop
+
+### [FBI dubs serial bank robber the ‘Bare Chested Bandit’](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+
+[October 2, 2024 7:41 PM](https://cwbchicago.com/2024/10)
+
+When you’re a bank robber, you know you’ve made it when the FBI starts referring to you by a catchy nickname. Say “hello” to the “Bare-Chested Bandit.”[](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/5400-block-n-winthrop-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
 
 Edgewater
@@ -252,26 +272,6 @@ Edgewater
 [October 2, 2024 7:21 PM](https://cwbchicago.com/2024/10)
 
 A 30-year-old woman was shot while getting out of a car in the Edgewater neighborhood on Wednesday morning.[](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/03/Red-Line-CTA-headphones-edited-326x245.jpg)](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
-
-CTA
-
-### [Passengers pin gunman after shooting aboard Red Line train in Edgewater](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
-
-[October 2, 2024 10:53 AM](https://cwbchicago.com/2024/10)
-
-A CTA passenger was shot while riding a Red Line train in Edgewater on Wednesday morning, according to the local alderman, Leni Manaa-Hoppenworth. She said police arrested a suspect and recovered a firearm.[](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/bb6-326x245.jpg)](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
-
-Little Village
-
-### [14-year-old found lying dead on street previously monitored by ShotSpotter](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
-
-[October 2, 2024 7:58 AM](https://cwbchicago.com/2024/10)
-
-Yet another murder victim has been found lying alone on a street previously monitored by the ShotSpotter gunfire detection system. He is at least the third person found fatally shot without any 911 calls reporting gunfire since Mayor Brandon Johnson ended the city’s relationship with ShotSpotter on September 22.[](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
 
 Search
 
