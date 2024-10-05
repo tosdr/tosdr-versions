@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f681d86b3a53d35261a8aa899eaaef92
+9db2d52932c1d32d89c829f89d56815b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm by 10 mm faceted glass rectangle beads](https://sojourner.biz/images/cache/glass/GL0106.200.jpg)](https://sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
+[![10 mm by 8 mm glass chevrons](https://sojourner.biz/images/cache/glass/VB0034.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-8-mm-glass-chevrons.html "10 mm by 8 mm glass chevrons")
 
-#### [14 mm by 10 mm faceted glass rectangle beads](https://sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
+#### [10 mm by 8 mm glass chevrons](https://sojourner.biz/beads/glass/10-mm-by-8-mm-glass-chevrons.html "10 mm by 8 mm glass chevrons")
 
-$16.00
+$6.00
 
 ### Best Sellers
 
