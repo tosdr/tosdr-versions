@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/we-zijn-bedonderd-met-alle-informatie-over-de-maan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/leven-op-aarde-verlangen-naar-de-hemel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
