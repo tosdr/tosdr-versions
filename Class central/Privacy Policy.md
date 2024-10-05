@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. digital marketing
+1. python
     
-2. law
+2. hacking
     
-3. harvard
+3. javascript
     
 
 Popular subjects
 ----------------
 
-1. [Digital Marketing
+1. [Computer Science
     
-    5,800 courses](https://www.classcentral.com/subject/digital-marketing)
-2. [Graphic Design
+    33,910 courses](https://www.classcentral.com/subject/cs)
+2. [Self Improvement
     
-    4,165 courses](https://www.classcentral.com/subject/graphic-design)
-3. [Web Development
+    3,504 courses](https://www.classcentral.com/subject/self-improvement)
+3. [Cybersecurity
     
-    12,610 courses](https://www.classcentral.com/subject/web-development)
+    15,353 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Molecular Biology - Part 1: DNA Replication and Repair
+1. [Probability - The Science of Uncertainty and Data
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/molecular-biology-massachusetts-institute-of-tech-2907)
-2. [Learning How To Learn for Youth
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/probability-massachusetts-institute-of-technology-1496)
+2. [Astrobiology and the Search for Extraterrestrial Life
     
-    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
-3. [Improving Your Study Techniques
+    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
+3. [Competitive Strategy
     
-    University of Groningen](https://www.classcentral.com/course/improving-study-techniques-13420)
+    Ludwig-Maximilians-Universität München](https://www.classcentral.com/course/compstrategy-706)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
