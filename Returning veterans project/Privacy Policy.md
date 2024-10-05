@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Morris Giesler](https://cdn.returningveterans.org/images/honor/2_Morris_Giesler.png)  
+![U.S. Army Transportation Corps Aviation Association (TCAA)](https://cdn.returningveterans.org/images/honor/CCF01272010_00000.jpg)  
 
-**In Honor of Morris Giesler**  
-United States Air Force  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of U.S. Army Transportation Corps Aviation Association (TCAA)**  
+United States Army  
+Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/04/24 - 2:29:13  
+Printed 10/04/24 - 8:22:41  
 © 2024 Returning Veterans Project
