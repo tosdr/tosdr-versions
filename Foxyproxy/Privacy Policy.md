@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Brilliant customer support as usual. Delighted to be able to use Foxyproxy again. I fiddled with NordVPn and their performance is light years behind your standard.
+Changed from a monthly to yearly subscription.
 
-Frederic Delaroche
+Paul Reed
