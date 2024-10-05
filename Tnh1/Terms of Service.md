@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/0/csm_maceio_shopping_ascom_b3cf15d39c.png)
+   [![Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/c/csm_futuros-delegados-da-policia-civil-iniciam-preparacao-fisica-com-corrida-na-orla_ce2d110ac5.jpeg)
+
+Maceió
+
+Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://www.tnh1.com.br/noticia/nid/futuros-delegados-de-alagoas-iniciam-preparacao-fisica-com-corrida-na-orla/ "Futuros delegados de Alagoas iniciam preparação física com corrida na orla")   [![Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_Parque_Municipal_Maceio_a2e9cd5468.png)
+
+Maceió
+
+Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://www.tnh1.com.br/noticia/nid/parque-municipal-de-maceio-sera-fechado-neste-domingo-por-conta-das-eleicoes/ "Parque Municipal de Maceió será fechado neste domingo por conta das eleições")   [![Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/0/csm_maceio_shopping_ascom_b3cf15d39c.png)
 
 programe-se
 
-Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió](https://www.tnh1.com.br/noticia/nid/domingo-de-eleicao-confira-como-sera-o-funcionamento-dos-shoppings-de-maceio/ "Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ")   [![Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_homem_flagra_arranhao_442bb12863.jpg)
+Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió](https://www.tnh1.com.br/noticia/nid/domingo-de-eleicao-confira-como-sera-o-funcionamento-dos-shoppings-de-maceio/ "Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ")   [![Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_homem_flagra_arranhao_442bb12863.jpg)
 
 em maceió
 
-Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://www.tnh1.com.br/noticia/nid/video-homem-e-flagrado-arranhando-veiculos-no-bairro-do-farol/ "Vídeo: homem é flagrado arranhando veículos no bairro do Farol")   [![Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_pesquisa_procon_maceio_criancas_assessoria_3f642018ef_0000e70537.jpg)
+Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://www.tnh1.com.br/noticia/nid/video-homem-e-flagrado-arranhando-veiculos-no-bairro-do-farol/ "Vídeo: homem é flagrado arranhando veículos no bairro do Farol")   [![Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_pesquisa_procon_maceio_criancas_assessoria_3f642018ef_0000e70537.jpg)
 
 12 de outubro
 
-Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://www.tnh1.com.br/noticia/nid/procon-maceio-divulga-pesquisa-para-o-dia-das-criancas-confira-os-precos/ "Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços")   [![Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_orla_ponta_verde_dmtt_desvios_-_foto_dmtt_bc67125df3.jpeg)
+Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://www.tnh1.com.br/noticia/nid/procon-maceio-divulga-pesquisa-para-o-dia-das-criancas-confira-os-precos/ "Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços")   [![Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_orla_ponta_verde_dmtt_desvios_-_foto_dmtt_bc67125df3.jpeg)
 
 A partir das 19h
 
-Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://www.tnh1.com.br/noticia/nid/servico-de-recapeamento-fecha-avenida-na-orla-de-ponta-verde-nesta-sexta-04-veja-desvios/ "Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
-
-Sacola nas mãos
-
-Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")   [![Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_tentiava-homicidio-cidade-universitaria_2397bc149c.jpg)
-
-Na parte alta
-
-Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-quatro-tiros-e-e-socorrido-por-familiares-no-cidade-universitaria/ "Homem é atingido por quatro tiros e é socorrido por familiares, no Cidade Universitária")
+Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://www.tnh1.com.br/noticia/nid/servico-de-recapeamento-fecha-avenida-na-orla-de-ponta-verde-nesta-sexta-04-veja-desvios/ "Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -198,7 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
+[![Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/03/1_cid_moreira-reproducao_redes_sociais.jpg)
+
+Brasil
+
+Brasil
+
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
+
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
 
 No Paraná
 
@@ -206,7 +214,7 @@ No Paraná
 
 Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
 
 Com ajuda de dois
 
@@ -214,15 +222,7 @@ Com ajuda de dois
 
 Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas
 
-Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Advogado é morto a tiros na frente do próprio escritório ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Advogado_Cassio_Bruno_-_foto_Reproducao_Facebook_829dcc2fe2.jpg)
-
-48 anos
-
-48 anos
-
-Advogado é morto a tiros na frente do próprio escritório
-
-Advogado é morto a tiros na frente do próprio escritório](https://www.tnh1.com.br/noticia/nid/advogado-e-morto-a-tiros-na-frente-do-proprio-escritorio/ "Advogado é morto a tiros na frente do próprio escritório ")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
+Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
 
 processo seletivo
 
@@ -232,39 +232,39 @@ Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscr
 
 Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
 
-[![O que se sabe sobre o suposto envenenamento de duas crianças no Rio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/5/csm_envenenamento-criancas-rio-de-janeiro-reproducao_46f7fe75e0.jpg)
+[![Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_Marcal_boulos_51679e1997.png)
 
-ganharam chocolate
+Política
 
-ganharam chocolate
+Política
 
-O que se sabe sobre o suposto envenenamento de duas crianças no Rio
+Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição
 
-O que se sabe sobre o suposto envenenamento de duas crianças no Rio](https://www.tnh1.com.br/noticia/nid/o-que-se-sabe-sobre-o-suposto-envenenamento-de-duas-criancas-no-rio/ "O que se sabe sobre o suposto envenenamento de duas crianças no Rio")[![Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_bruna-biancardi-neymar-reproducao-redes-sociais_50edae7573.png)
+Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://www.tnh1.com.br/noticia/nid/marcal-pode-sofrer-condenacoes-e-ficar-inelegivel-por-laudo-falso-mas-seguira-nesta-eleicao/ "Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição")[![Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/03/1_cid_moreira-reproducao_redes_sociais.jpg)
 
-Gente Famosa
+Brasil
 
-Gente Famosa
+Brasil
 
-Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
 
-Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista](https://www.tnh1.com.br/noticia/nid/bruna-biancardi-publica-video-inedito-do-cha-de-bebe-da-filha-da-modelo-com-o-atacante-neymar-assista/ "Bruna Biancardi publica vídeo inédito do chá de bebê da filha da modelo com o atacante Neymar; assista ")[![Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/6/csm_filhos-harry-meghan-foto-divulgacao_c8f56bcc27.jpg)
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
 
-Crise?
+Trânsito
 
-Crise?
+Trânsito
 
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
 
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__bd54150749.jpeg)
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_alisson_CBF_bfc2f933d1.png)
 
-Mercado de Trabalho
+Futebol
 
-Mercado de Trabalho
+Futebol
 
-Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos
+Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção
 
-Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")
+Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção](https://www.tnh1.com.br/noticia/nid/alisson-sofre-lesao-em-jogo-do-liverpool-e-pode-desfalcar-selecao/ "Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
