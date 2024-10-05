@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 4, 2024**
+**October 5, 2024**
 
 * * *
 
@@ -253,7 +253,7 @@ this week
 
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
