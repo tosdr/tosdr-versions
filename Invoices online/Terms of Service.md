@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=65997556)  
-Nogana Events and Decor
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=47686890)  
+Lily Fern & Co
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=160285775)  
-AquariumSmiths
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=169499411)  
+van Schaik rentals
 
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=2350539)  
-NILBET (PTY) LTD - Once Off's
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=44436507)  
+PROGRAPHIX PTY LTD
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=169055180)  
-Salvage Genie
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=59380573)  
+LEONARD
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=117394699)  
-Forgotten Goods (Pty) Ltd
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=10509516)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=97899515)  
-Konsortium Operations ( Roamfree Meats )
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=181818946)  
+TIGERDSL
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=151971641)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=36814152)  
+Cape Adventure Zone
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=156323694)  
-Lizzy Pop PTY(Ltd)
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=213686089)  
+Creative Characters
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=187328187)  
-Sarabi
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=76601140)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=197029106)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=121888838)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=173484482)  
-Turnkey Innovations
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=203248277)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=110414093)  
-Henry's Home Renovations
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=163603699)  
+Goju-Ryu Pretoria East
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=27803533)  
-Prosper Park
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=4946639)  
+Iurus Inc
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=185029041)  
-Kaylas Creations
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=138303740)  
+Qothiphango Mining
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=126244920)  
-Alliance Energy
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=11998957)  
+TurboFibre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
