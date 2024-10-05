@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+“ Adversity is revealing of character”
 
-[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
+[Unknown](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
