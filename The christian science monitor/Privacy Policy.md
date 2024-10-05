@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Misinformation from Trump, far-right hampers Helene recovery efforts](https://www.csmonitor.com/USA/2024/1005/hurricane-helene-north-carolina-trump-disinformation-government-conspiracy "Misinformation from Trump, far-right hampers Helene recovery efforts")
+
 [### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
 
 [### Big development in Jan. 6 case against Trump. Why now?](https://www.csmonitor.com/USA/Justice/2024/1003/donald-trump-jan6-trial-jack-smith-indictment "Big development in Jan. 6 case against Trump. Why now?")
-
-[### As Mideast emotions run high, is there room for restraint?](https://www.csmonitor.com/World/Middle-East/2024/1003/Israel-Iran-war-escalation-restraint "As Mideast emotions run high, is there room for restraint?")
 
 * * *
 
