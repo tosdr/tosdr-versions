@@ -204,50 +204,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=81814867)  
-Dombieterfontein (PTY) LTD
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=65997556)  
+Nogana Events and Decor
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=196960107)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=160285775)  
+AquariumSmiths
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=210979755)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=2350539)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=69257615)  
-Three Moons Emporium
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=169055180)  
+Salvage Genie
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=78813482)  
-Lindani Protection Services & Projects
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=117394699)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=131800147)  
-Fox Alarms & Security
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=97899515)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=118467585)  
-Lion Software Develepment
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=151971641)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=199278620)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=128516004)  
-CLEVER STUDENTS
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=99618309)  
-OptaServ
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=95901779)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=36001870)  
-Xpress Designs
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=100405750)  
-Sarabi
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=97310758)  
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=156323694)  
 Lizzy Pop PTY(Ltd)
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=62567478)  
-Enhle Oarabile Kea
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=187328187)  
+Sarabi
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=197029106)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=173484482)  
+Turnkey Innovations
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=110414093)  
+Henry's Home Renovations
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=27803533)  
+Prosper Park
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=185029041)  
+Kaylas Creations
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=501e5138a5f2bcd0e95bc664f01ba0f8991939f026269b39085bd041cf7caf36&c=126244920)  
+Alliance Energy
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
