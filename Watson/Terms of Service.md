@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [People](https://www.watson.ch/fr/people/)
-* [Musique](https://www.watson.ch/fr/musique/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Tessin](https://www.watson.ch/fr/tessin/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Italie](https://www.watson.ch/fr/italie/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Brésil](https://www.watson.ch/fr/bresil/)
 * [Insolite](https://www.watson.ch/fr/insolite/)
-* [Armée](https://www.watson.ch/fr/armee/)
+* [guerre](https://www.watson.ch/fr/guerre/)
 * [voiture](https://www.watson.ch/fr/voiture/)
-* [Lugano](https://www.watson.ch/fr/lugano/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Rap](https://www.watson.ch/fr/rap/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Lausanne](https://www.watson.ch/fr/lausanne/)
-* [Santé](https://www.watson.ch/fr/sante/)
+* [Iran](https://www.watson.ch/fr/iran/)
+* [Hamas](https://www.watson.ch/fr/hamas/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
