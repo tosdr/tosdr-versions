@@ -34,7 +34,6 @@ Menu
 * [COM](# "Communications for social and E-mail.")
     * [E-Mail](https://www.s-config.com/email/)
     * [Social](https://www.s-config.com/social/)
-* [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 
 Privacy Notice
 ==============
@@ -239,12 +238,11 @@ Search this entire site:
 
 Search for: 
 
-S-config is a member of the Fur Ring.
--------------------------------------
+Webrings of S-Config
+--------------------
 
-[<Previous-Site>](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F)  
-[<Random-Site>](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F)  
-[<Next-Site>](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
+* **Fur Ring:** [Previous](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F) | [Random](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F) | [Next](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
+* **LainChan:** [Here](https://www.s-config.com/webrings/).
 
 Recent Comments
 ---------------
