@@ -1,6 +1,6 @@
  Hit enter to search or ESC to close
 
-* [39TH ANNIVERSARY](https://www.iasmembership.org/anniversary/)
+* [IAS ANNIVERSARY](https://www.iasmembership.org/anniversary/)
 * [Make a Donation](https://www.iasmembership.org/donation/)
 * [US IAS Members’ Trust Donation](https://www.iasmembership.org/donation/us-ias-members-trust-donation.html)
 * [IAS Donation](https://www.iasmembership.org/donation/ias-donation.html)
@@ -52,6 +52,8 @@ en LANGUAGE
     
 * [Svenska | Swedish](https://www.iasmembership.org/sv/about/terms-of-use.html)
     
+
+[IAS ANNIVERSARY](https://www.iasmembership.org/anniversary/)
 
 [![](/images/IAS-site-logo.svg)](https://www.iasmembership.org/)
 
