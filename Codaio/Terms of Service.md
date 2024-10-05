@@ -4,6 +4,8 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
+[Webinar: Join Shreyas Doshi and Coda's CPO for a look at PM performance evaluations. Register here.](https://app.livestorm.co/coda/demystifying-pm-performance-calibrations-and-feedback?utm_source=braze_inapp&utm_medium=inapp&utm_campaign=shreyas_lane_pm_performance_webinar&utm_content=partnership_webinar&utm_term=10-9-2024)
+
 [](https://coda.io/welcome)
 
 Product
@@ -95,6 +97,8 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Ftos)
+
+[Webinar: Join Shreyas Doshi and Coda's CPO for a look at PM performance evaluations. Register here.](https://app.livestorm.co/coda/demystifying-pm-performance-calibrations-and-feedback?utm_source=braze_inapp&utm_medium=inapp&utm_campaign=shreyas_lane_pm_performance_webinar&utm_content=partnership_webinar&utm_term=10-9-2024)
 
 [](https://coda.io/welcome)
 
