@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Concert Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Concert Tickets")
+* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
 * [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
 * [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
-* [Michael Buble Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tickets")
-* [Taylor Swift Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tickets")
+* [Michael Buble Tour Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tour Tickets")
+* [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
 * [New York Yankees Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Ticket")
+* [New York Mets Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Mets-Tickets "New York Mets Tickets")
+* [Oasis Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Oasis-Tickets "Oasis Tickets")
 * [Philadelphia Phillies Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Philadelphia Phillies Tickets")
-* [Oasis Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Oasis-Tickets "Oasis Concert Tickets")
-* [New York Mets Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Mets-Tickets "New York Mets Ticket")
 * [Tickets for Los Angeles Dodgers](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Tickets for Los Angeles Dodgers")
-* [Kansas City Royals Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Kansas-City-Royals-Tickets "Kansas City Royals Ticket")
 * [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
-* [Billie Eilish Concert Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Concert Tickets")
-* [Rascal Flatts Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country/Contemporary-Country/Rascal-Flatts-Tickets "Rascal Flatts Concert Tickets")
-* [Sabrina Carpenter Tour 2024](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tour 2024")
-* [Detroit Tigers Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Postseason/Detroit-Tigers-Tickets "Detroit Tigers Tickets")
-* [Billy Joel Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Concert Tickets")
-* [Tickets for La Liga 2024-25](https://www.viagogo.com/Sports-Tickets/Soccer/La-Liga-2024-25-Tickets "Tickets for La Liga 2024-25")
-* [Georgia Bulldogs Football Ticket](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Georgia-Bulldogs-Football-Tickets "Georgia Bulldogs Football Ticket")
-* [Ohio State Buckeyes Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Ohio-State-Buckeyes-Football-Tickets "Ohio State Buckeyes Football Tickets")
+* [Billie Eilish Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tickets")
+* [Texas Longhorns Football Ticket](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Ticket")
+* [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
+* [Billy Joel Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Tickets")
+* [Rascal Flatts Tour 2025](https://www.viagogo.com/Concert-Tickets/Country/Contemporary-Country/Rascal-Flatts-Tickets "Rascal Flatts Tour 2025")
+* [WWE World Tour Ticket](https://www.viagogo.com/Sports-Tickets/Wrestling/WWE/WWE-World-Tour-Tickets "WWE World Tour Ticket")
+* [Detroit Tigers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Postseason/Detroit-Tigers-Tickets "Detroit Tigers Ticket")
 * [San Diego Padres Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/San-Diego-Padres-Tickets "San Diego Padres Tickets")
-* [Katy Perry Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Rock/Contemporary-Pop-Rock/Katy-Perry-Tickets "Katy Perry Tickets")
-* [Usher Tour 2024](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Tour 2024")
-* [Cleveland Guardians Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Cleveland-Guardians-Tickets "Cleveland Guardians Ticket")
-* [Pittsburgh Steelers Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/Pittsburgh-Steelers-Tickets "Pittsburgh Steelers Ticket")
+* [Usher Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Tickets")
+* [Kansas City Royals Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Kansas-City-Royals-Tickets "Kansas City Royals Tickets")
+* [Chicago Bears Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Chicago-Bears-Tickets "Chicago Bears Ticket")
+* [Ohio State Buckeyes Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Ohio-State-Buckeyes-Football-Tickets "Ohio State Buckeyes Football Tickets")
+* [Katy Perry Tour 2025](https://www.viagogo.com/Concert-Tickets/Pop-Rock/Contemporary-Pop-Rock/Katy-Perry-Tickets "Katy Perry Tour 2025")
+* [Austin City Limits Festival Tickets](https://www.viagogo.com/Festival-Tickets/US-Festivals/Austin-City-Limits-Festival-Tickets "Austin City Limits Festival Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb02 : -
+\- : ecpuse1-webb06 : -
 
 }
 
