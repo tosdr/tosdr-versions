@@ -1,5 +1,11 @@
 You need to enable JavaScript to run Jabra Enhance.
 
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
@@ -21,8 +27,6 @@ Schedule call[(800) 854-2772](tel:8008542772)
 [](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -49,13 +53,9 @@ sound, our most discreet design](https://www.listenlively.com/product)[Our clear
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -131,9 +131,6 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 ### Enjoy 3 years of convenient follow-up care
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
-
-**Need more information?**  
-Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
 
 [Get started](https://www.listenlively.com/survey)
 
@@ -260,7 +257,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
