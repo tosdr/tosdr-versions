@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Chiarabella](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1157032-1724346405.jpg)](https://lyricstranslate.com/en/translator/chiarabella "Chiarabella")
+[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
 
-New comment
+New translation
 
-Καγκουρό ... έτσι χορεύουμε και πηδάμε από χαρά. ...  [more](https://lyricstranslate.com/en/comment/1168112#comment-1168112)
+[Boris Slutsky - Мои товарищи (Moi tovarishchi)](https://lyricstranslate.com/en/boris-slutsky-moi-tovarishchi-persian)
 
-[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+Russian → Persian
 
-New request
-
-[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-76)
-
-English → Dutch
-
-[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+[![SelmanYasirGenc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399718-1623516693.jpg)](https://lyricstranslate.com/en/translator/selmanyasirgenc "SelmanYasirGenc")
 
 New request
 
-[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-75)
+[Peggy Lee - Alright, Okay, You Win](https://lyricstranslate.com/en/request/alright-okay-you-win)
 
-English → Slovenian
+English → Turkish
 
-[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+[![Genniviv Mendoza](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632107-1728106233.png)](https://lyricstranslate.com/en/translator/genniviv-mendoza "Genniviv Mendoza")
 
 New request
 
-[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-74)
+[Hinder - Lips of an Angel](https://lyricstranslate.com/en/request/lips-angel-5)
 
-English → Bulgarian
+English → Filipino/Tagalog
 
-[![Rexavian](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631915-1727890735.jpg)](https://lyricstranslate.com/en/translator/rexavian "Rexavian")
+[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+
+New translation
+
+[Synergia - זהות אחרת (Zehut Akheret)](https://lyricstranslate.com/en/synergia-zehut-akheret-transliteration)
+
+Hebrew → Transliteration
+
+[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
 
 New song
 
-[Ramón Andresen - popstjerner](https://lyricstranslate.com/en/ramon-andresen-popstjerner-lyrics)
+[Kaeru Moku - ラーメン日和](https://lyricstranslate.com/en/kaeru-moku-ra-men-hiyori-lyrics)
 
-Norwegian
+Japanese
 
-[![Rexavian](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631915-1727890735.jpg)](https://lyricstranslate.com/en/translator/rexavian "Rexavian")
+[![蟻食](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552355-1706257042.jpg)](https://lyricstranslate.com/en/translator/%E8%9F%BB%E9%A3%9F "蟻食")
 
-New request
+New comment
 
-[Ramón Andresen - popstjerner](https://lyricstranslate.com/en/request/popstjerner)
+Dear Anton, since you requested proofreading...  [more](https://lyricstranslate.com/en/comment/1168467#comment-1168467)
 
-Norwegian → English
+[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
 
-[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+New translation
 
-New request
+[Synergia - מתי את חוזרת (Matay At Khozeret)](https://lyricstranslate.com/en/synergia-matay-khozeret-transliteration)
 
-[GOT7 - Firework](https://lyricstranslate.com/en/request/firework-25)
+Hebrew → Transliteration
 
-English → Croatian
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-[![Kasia19160](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kasia19160 "Kasia19160")
+New song
 
-New request
+[Johnny Cash - To The Shining Mountains](https://lyricstranslate.com/en/johnny-cash-shining-mountains-lyrics)
 
-[XYLØ - Fireworks](https://lyricstranslate.com/en/request/fireworks-73)
-
-English → Croatian
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
