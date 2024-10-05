@@ -4,7 +4,9 @@
 
 [Skip to content](#content)
 
-[![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
+[![ABS Kids](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20100'%3E%3C/svg%3E)
+
+![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
 
 * [Portal Login](https://www.abskids.com/portal-login/)
     * [Payment Portal](https://www.patientnotebook.com/abskids/Enhanced/StatementLookup/Home)
@@ -194,7 +196,9 @@ Find a Location
 
 [View Locations](https://www.abskids.com/locations/)
 
-[![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
+[![ABS Kids](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20100'%3E%3C/svg%3E)
+
+![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
 
 * [Services](https://www.abskids.com/services/)
 * [Locations](https://www.abskids.com/locations/)
