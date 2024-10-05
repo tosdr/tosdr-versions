@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Embassy of the NPO: Treaty with LWU a… (1,045)](https://forum.nationstates.net/viewtopic.php?t=457061&f=12&view=unread#unread ""Embassy of the NPO: Treaty with LWU and Senate Appointments" (1,045 posts)")
-* [Why Socialists are getting more liberal? (849)](https://forum.nationstates.net/viewtopic.php?t=555723&f=20&view=unread#unread ""Why Socialists are getting more liberal?" (849 posts)")
-* [Guess Who BN Is! (5,014)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,014 posts)")
-* [What do you love about AN? (1,501)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,501 posts)")
-* [American Politics: The Last Month (10,305)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,305 posts)")
+* [Create a word based on last two letters (268)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (268 posts)")
+* [NS Parliament: Life Outside \[IC\] (15)](https://forum.nationstates.net/viewtopic.php?t=556392&f=31&view=unread#unread ""NS Parliament: Life Outside [IC]" (15 posts)")
+* [American Politics: The Last Month (10,327)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,327 posts)")
+* [NS Cliches II: Re-Rebooted (9,715)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,715 posts)")
+* [What triggers you about the AN? (8,822)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,822 posts)")
 
 Advertisement
 
