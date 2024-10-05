@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Child looking at camera](/en/rotatingimages/defaultInterior/Banner-15.jpg)
+![Girl in wheelchair smiling at camera](/en/rotatingimages/defaultInterior/Banner-14.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
