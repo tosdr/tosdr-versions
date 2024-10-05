@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Misspelled Movies II](https://www.somethingawful.com/photoshop-phriday/misspelled-movies-ii/1/)
-* [Don Draper Pitches Video Game Marketing](https://www.somethingawful.com/news/don-draper-gaming/1/)
-* [Peculiar Panels](https://www.somethingawful.com/news/peculiar-comic-panels/1/)
-* [Rejected Software](https://www.somethingawful.com/photoshop-phriday/rejected-software/1/)
-* [An Awful Guide to Development Economics](https://www.somethingawful.com/news/economic-development-guide/1/)
+* [Historical Inaccuracies (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part-2/1/)
+* [Before and After Movies](https://www.somethingawful.com/photoshop-phriday/before-after-movies/1/)
+* [More Classic Literature Autosummarized](https://www.somethingawful.com/news/classic-books-autosummarized/)
+* [Classy Games (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classy-video-games/1/)
+* [soFeminine.co.uk, Teen Pregnancy, and BYOB](https://www.somethingawful.com/weekend-web/teen-pregnancy-woman/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD](http://forums.somethingawful.com/showthread.php?threadid=4071947 "ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Does anyone know where Seth Altman is?](http://forums.somethingawful.com/showthread.php?threadid=4071899 "Does anyone know where Seth Altman is?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [How the hell do you avoid being scammed from buying concert tickets?](http://forums.somethingawful.com/showthread.php?threadid=4071963 "How the hell do you avoid being scammed from buying concert tickets?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Old Friends who became freaks](http://forums.somethingawful.com/showthread.php?threadid=4071916 "Old Friends who became freaks")
 
 ### Random Articles
 
-* [Fox News Presents: Monday Night Maniacs](https://www.somethingawful.com/news/fox-news-presents/)
-* [Remedies for Maladies!](https://www.somethingawful.com/comedy-goldmine/help-remedies-packaging/1/)
-* [Sneezefurs (Thanks, Burnin Yinky!)](https://www.somethingawful.com/awful-links/sneeze-furry-fetish/)
-* [I Hate You Page 37](https://www.somethingawful.com/cliff-yablonski/i-hate-you-37/)
-* [NBA Scouting Reports (Part 1)](https://www.somethingawful.com/pregame-wrapup/nba-scouting-reports/1/)
+* [I HELD A GUN ON A TATTOO ARTIST TO PUT A "COOL S" ON ALEX JONES](https://www.somethingawful.com/news/alex-jones-rnc/)
+* [Gaming Guyz 4](https://www.somethingawful.com/flash-tub/gaming-guyz-4/)
+* [I Hate You Page 227](https://www.somethingawful.com/cliff-yablonski/i-hate-you-227/)
+* [Intervention Superstars: Jeff VanVonderen](https://www.somethingawful.com/news/intervention-superstars-jeff/1/)
+* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
 
 [Random!](https://www.somethingawful.com/random/)
 
