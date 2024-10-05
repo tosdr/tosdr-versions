@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,533
+* 8,546
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,922
+* 7,925
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 16,903
+* 16,909
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,102
+* 14,106
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,750
+* 23,773
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,313
+* 8,318
 * 1
 
 ### The 1.20.4 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,424
+* 13,431
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,136
+* 8,139
 * 3
 
 ### The 1.19.4 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,966
+* 34,967
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,183
+* 37,187
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,505
+* 23,509
 * 12
 
 ### The 1.18.2 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,930
+* 23,934
 * 17
 
 ### The 1.18 update​
@@ -1318,31 +1318,33 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 43 (members: 0, guests: 43)
+Total: 54 (members: 0, guests: 54)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
-[A](https://papermc.io/members/arag0ne.8918/)
+[T](https://papermc.io/members/thatbananaguy.11560/)
 
-[Chunks handling](https://papermc.io/threads/chunks-handling.1185/)
+* Question
 
-* [Arag0ne](https://papermc.io/members/arag0ne.8918/)
-* [May 24, 2024](https://papermc.io/threads/chunks-handling.1185/)
-* [Discussion](https://papermc.io/forums/paper-discussion/)
+Question [Error while setting up server](https://papermc.io/threads/error-while-setting-up-server.1398/)
+
+* [ThatBananaGuy](https://papermc.io/members/thatbananaguy.11560/)
+* [35 minutes ago](https://papermc.io/threads/error-while-setting-up-server.1398/)
+* [Help](https://papermc.io/forums/paper-help/)
 
 Replies
 
-2
+1
 
 Views
 
-371
+2
 
-[Discussion](https://papermc.io/forums/paper-discussion/) [Today at 3:26 AM](https://papermc.io/threads/chunks-handling.1185/latest)
+[Help](https://papermc.io/forums/paper-help/) [15 minutes ago](https://papermc.io/threads/error-while-setting-up-server.1398/latest)
 
-[kylian01](https://papermc.io/members/kylian01.11551/)
+[mbaxter](https://papermc.io/members/mbaxter.18/)
 
-[K](https://papermc.io/members/kylian01.11551/)
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
 
 [T](https://papermc.io/members/thice.7357/)
 
@@ -1384,7 +1386,7 @@ Replies
 
 Views
 
-27
+29
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/latest)
 
@@ -1526,7 +1528,7 @@ Replies
 
 Views
 
-198
+199
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 12, 2024](https://papermc.io/threads/stuck-on-joining-world.1340/latest)
 
