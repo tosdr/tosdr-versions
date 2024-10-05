@@ -190,16 +190,14 @@
 
 Subscribe
 
-[#### Breast Cancer](https://www.healthline.com/breast-cancer)
+[#### Heart Health](https://www.healthline.com/heart-health)
 
-* [Newly Diagnosed](https://www.healthline.com/breast-cancer/breast-cancer-basics)
-* [Treatments](https://www.healthline.com/breast-cancer/breast-cancer-treatment-medication)
-* [MBC](https://www.healthline.com/breast-cancer/metastatic-breast-cancer)
-* [Mental Well-Being](https://www.healthline.com/breast-cancer/breast-cancer-mental-health)
-* [Living Well](https://www.healthline.com/breast-cancer/living-well)
-* [Remission & Recurrence](https://www.healthline.com/breast-cancer/remission)
-* [Early Detection](https://www.healthline.com/breast-cancer/risks-screenings)
-* [Community](https://www.bezzybc.com/)
+* [Basics](https://www.healthline.com/heart-health/basics)
+* [Cholesterol](https://www.healthline.com/heart-health/cholesterol)
+* [High Blood Pressure](https://www.healthline.com/heart-health/hypertension)
+* [What to Eat](https://www.healthline.com/heart-health/diet)
+* [Prevention and Lifestyle](https://www.healthline.com/heart-health/prevention)
+* [Afib](https://www.healthline.com/heart-health/afib)
 
 Ad & Sponsorship Policy
 =======================
