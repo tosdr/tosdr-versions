@@ -415,18 +415,18 @@ If you have questions about our Services, you can find additional information at
 ### [More](https://myanimelist.net/topanime.php)Top Anime
 
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
-2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
-3. 3 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-4. 4 [Gintama°](https://myanimelist.net/anime/28977/Gintama%C2%B0)
-5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
+2. 2 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+3. 3 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
+4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
+5. 5 [Gintama°](https://myanimelist.net/anime/28977/Gintama%C2%B0)
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
 
-1. 1 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
-2. 2 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
-3. 3 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
+1. 1 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+2. 2 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
+3. 3 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
 4. 4 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-5. 5 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
+5. 5 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
