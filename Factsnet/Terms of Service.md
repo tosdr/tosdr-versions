@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Cora Jade ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-cora-jade/)
+[![25 Facts About BaekjeTang War ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2283%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/25-facts-about-baekje-tang-war/)
 
-Celebrity
+Historical Events
 
-04 Oct 2024
+05 Oct 2024
 
-[50 Facts About Cora Jade](https://facts.net/celebrity/50-facts-about-cora-jade/)
+[25 Facts About BaekjeTang War](https://facts.net/history/historical-events/25-facts-about-baekje-tang-war/)
 
-[![36 Facts About Paul Is Dead ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/36-facts-about-paul-is-dead/)
+[![35 Facts About Chanelle Helm ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-chanelle-helm/)
 
-Celebrity
+Society & Social Sciences
 
-04 Oct 2024
+05 Oct 2024
 
-[36 Facts About Paul Is Dead](https://facts.net/celebrity/36-facts-about-paul-is-dead/)
+[35 Facts About Chanelle Helm](https://facts.net/society-and-social-sciences/35-facts-about-chanelle-helm/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
