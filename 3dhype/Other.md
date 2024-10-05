@@ -2,15 +2,19 @@
 
 [![casihelper](https://casihelper.com/wp-content/uploads/2024/08/casihelper-1.webp)](https://casihelper.com/)
 
-[![casihelper](https://casihelper.com/wp-content/uploads/2024/08/casihelper-1.webp)](https://casihelper.com/ "casihelper")
+[](#)[](#)
 
 Menu
 
-* [HOME](https://casihelper.com/)
+Menu
+
+* [Home](https://casihelper.com/)
 * [RECIPE TODAY](https://casihelper.com/category/recipe-today/)
-* [Breakfast](https://casihelper.com/category/breakfast/)
 * [Quick Recipes](https://casihelper.com/category/quick-recipes/)
+* [Breakfast](https://casihelper.com/category/breakfast/)
 * [Blog](https://casihelper.com/category/blog/)
+* [About Us](https://casihelper.com/about-us/)
+* [Contact](https://casihelper.com/contact/)
 
 [](#)[](#)
 
@@ -148,13 +152,23 @@ Page1 [Page2](https://casihelper.com/page/2/) … [Page5](https://casihelper.com
     
     [Banana Caramel Nut Cheesecake](https://casihelper.com/banana-caramel-nut-cheesecake/)
 
-* [Home](https://casihelper.com/)
-* [Privacy Policy](https://casihelper.com/privacy-policy/)
+Footer
+------
+
 * [About Us](https://casihelper.com/about-us/)
+* [Privacy Policy](https://casihelper.com/privacy-policy/)
 * [Terms of Service](https://casihelper.com/terms-of-service/)
 * [Contact](https://casihelper.com/contact/)
 
-© 2024 casihelper • Built with [GeneratePress](https://generatepress.com/)
+© 2024 Casihelper
+
+* [Home](https://casihelper.com/)
+* [RECIPE TODAY](https://casihelper.com/category/recipe-today/)
+* [Quick Recipes](https://casihelper.com/category/quick-recipes/)
+* [Breakfast](https://casihelper.com/category/breakfast/)
+* [Blog](https://casihelper.com/category/blog/)
+* [About Us](https://casihelper.com/about-us/)
+* [Contact](https://casihelper.com/contact/)
 
 Close
 
