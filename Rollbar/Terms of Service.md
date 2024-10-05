@@ -374,7 +374,6 @@ Policy and Legal
 * [Data Subprocessors](https://docs.rollbar.com/docs/data-subprocessors)
 * [Data Transfer Impact Assessment](https://docs.rollbar.com/docs/data-transfer-impact-assessment)
 * [DMCA Notice](https://docs.rollbar.com/docs/dmca)
-* [Privacy Shield Statement](https://docs.rollbar.com/docs/privacy-shield-statement)
 * [Updates - Terms of Service](https://docs.rollbar.com/docs/terms-of-service-archive)
     * [Terms of Service](https://docs.rollbar.com/docs/terms-of-service-20191227)
     * [Terms of Service](https://docs.rollbar.com/docs/terms-of-service-20170306)
