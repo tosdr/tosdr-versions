@@ -1,5 +1,7 @@
 [Skip to content](#content)
 
+[**👋 We're hiring!**](https://www.strivescan.com/careers/assistant-associate-director/) StriveScan is growing and we need your talent. [Careers](https://www.strivescan.com/careers/assistant-associate-director/)
+
 [![StriveScan](https://www.strivescan.com/wp-content/uploads/2016/05/StriveScan-300x75.png)](https://www.strivescan.com/)
 
 * [College Fairs](https://www.strivescan.com/)
