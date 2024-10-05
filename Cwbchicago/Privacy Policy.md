@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/5400-block-n-winthrop-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+
+Edgewater
+
+### [Woman shot while exiting car in Edgewater, where shootings are up 260% this year](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+
+[October 2, 2024 7:21 PM](https://cwbchicago.com/2024/10)
+
+A 30-year-old woman was shot while getting out of a car in the Edgewater neighborhood on Wednesday morning.[](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/03/Red-Line-CTA-headphones-edited-326x245.jpg)](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
+
+CTA
+
+### [Passengers pin gunman after shooting aboard Red Line train in Edgewater](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
+
+[October 2, 2024 10:53 AM](https://cwbchicago.com/2024/10)
+
+A CTA passenger was shot while riding a Red Line train in Edgewater on Wednesday morning, according to the local alderman, Leni Manaa-Hoppenworth. She said police arrested a suspect and recovered a firearm.[](https://cwbchicago.com/2024/10/passengers-pin-gunman-after-shooting-aboard-red-line-train-in-edgewater.html "Passengers pin gunman after shooting aboard Red Line train in Edgewater")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/bb6-326x245.jpg)](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
 
 Little Village
@@ -252,26 +272,6 @@ Little Village
 [October 2, 2024 7:58 AM](https://cwbchicago.com/2024/10)
 
 Yet another murder victim has been found lying alone on a street previously monitored by the ShotSpotter gunfire detection system. He is at least the third person found fatally shot without any 911 calls reporting gunfire since Mayor Brandon Johnson ended the city’s relationship with ShotSpotter on September 22.[](https://cwbchicago.com/2024/10/yet-another-murder-victim-found-lying-dead-on-street-previously-monitored-by-shotspotter.html "14-year-old found lying dead on street previously monitored by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/900-blk-w-eastwood-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
-
-Uptown
-
-### [Man murdered in Uptown alley is neighborhood’s first homicide of the year](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
-
-[October 2, 2024 6:45 AM](https://cwbchicago.com/2024/10)
-
-A man was shot and killed in an Uptown alley on Tuesday evening, according to Chicago police. He is the first person murdered in the neighborhood this year.[](https://cwbchicago.com/2024/10/man-murdered-in-uptown-alley-is-neighborhoods-first-homicide-of-the-year.html "Man murdered in Uptown alley is neighborhood’s first homicide of the year")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Howard-1625-shootout-326x245.jpg)](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
-
-Rogers Park
-
-### [Sparks fly, windows shatter during near Howard CTA station (video)](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
-
-[October 1, 2024 3:43 PM](https://cwbchicago.com/2024/10)
-
-A shootout near the Howard CTA station on Monday night left bullet holes in cars and shattered windows in business storefronts, but no injuries were reported. It happened at the same spot where a man was essentially executed in the middle of Howard Street earlier this year.[](https://cwbchicago.com/2024/10/sparks-fly-windows-shatter-during-near-howard-cta-station-video.html "Sparks fly, windows shatter during near Howard CTA station (video)")
 
 Search
 
