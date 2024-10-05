@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-telegraaf-nu-eindelijk-neutraal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/amerikaanse-grootsheid/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
