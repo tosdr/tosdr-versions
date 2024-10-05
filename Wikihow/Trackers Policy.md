@@ -130,31 +130,31 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
-[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
-
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
+[![Know if Your Friend Is Really a Friend](https://www.wikihow.com/images/thumb/8/88/Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg/-crop-126-120-126px-Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg)
+
+How to  
+Know if Your Friend Is Really a Friend](https://www.wikihow.com/Know-if-Your-Friend-Is-Really-a-Friend)
+
+[![Teach Your Dog to Speak](https://www.wikihow.com/images/thumb/8/80/Teach-Your-Dog-to-Speak-Step-11-Version-3.jpg/-crop-126-120-126px-Teach-Your-Dog-to-Speak-Step-11-Version-3.jpg)
+
+How to  
+Teach Your Dog to Speak](https://www.wikihow.com/Teach-Your-Dog-to-Speak)
+
+[![Maintain a Work Life Balance](https://www.wikihow.com/images/thumb/c/c1/Maintain-a-Work-Life-Balance-Step-17.jpg/-crop-126-120-126px-Maintain-a-Work-Life-Balance-Step-17.jpg)
+
+How to  
+Maintain a Work Life Balance](https://www.wikihow.com/Maintain-a-Work-Life-Balance)
+
 [![Identify Poisonous Mushrooms](https://www.wikihow.com/images/thumb/5/50/Identify-Poisonous-Mushrooms-Step-15.jpg/-crop-126-120-126px-Identify-Poisonous-Mushrooms-Step-15.jpg)
 
 How to  
 Identify Poisonous Mushrooms](https://www.wikihow.com/Identify-Poisonous-Mushrooms)
-
-[![Am I a Good Kisser Quiz](https://www.wikihow.com/images/thumb/d/d1/Are_you_a_good_kisser_quiz.png/-crop-126-120-126px-Are_you_a_good_kisser_quiz.png)
-
-Am I a Good Kisser Quiz](https://www.wikihow.com/Relationships/Am-I-a-Good-Kisser-Quiz)
-
-[![Drive Manual](https://www.wikihow.com/images/thumb/9/96/Drive-Manual-Step-19.jpg/-crop-126-120-126px-Drive-Manual-Step-19.jpg)
-
-How to  
-Drive Manual](https://www.wikihow.com/Drive-Manual)
-
-[![Break Up with Your Friend](https://www.wikihow.com/images/thumb/6/6f/Break-Up-with-Your-Friend-Step-16-Version-3.jpg/-crop-126-120-126px-Break-Up-with-Your-Friend-Step-16-Version-3.jpg)
-
-Ready to End a Friendship? Expert Tips on How to Break Up](https://www.wikihow.com/Break-Up-with-Your-Friend)
 
   
 
@@ -197,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-168
+135
