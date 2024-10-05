@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-79d86bd22b7f2cfff95b4ff70923a40f
+5d45527fe3eef11d6b2f9817e39e69ba
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square Swarovski sapphire clasp](https://www.sojourner.biz/images/cache/SKU0540front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+[![Clear black oval beads with gold](https://www.sojourner.biz/images/cache/glass/GL0331.200.jpg)](https://www.sojourner.biz/beads/glass/clear-black-oval-beads-with-gold.html "Clear black oval beads with gold")
 
-#### [Square Swarovski sapphire clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+#### [Clear black oval beads with gold](https://www.sojourner.biz/beads/glass/clear-black-oval-beads-with-gold.html "Clear black oval beads with gold")
 
-$21.00
+$5.00
 
 ### Best Sellers
 
