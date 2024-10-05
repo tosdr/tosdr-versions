@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura/silja24.jpg?itok=WFkAACkX)](http://seecult.org/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/neven-vrgoc.jpg?itok=xX6f9U8_)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pankrti/ivan-kral-001.jpg?itok=wugN1cB1)](http://seecult.org/galerija/foto-galerija/foto-arhiva/pankrti)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/d106-szombathy-balint.jpg?itok=kF0Y_j78)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,16 +340,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Podrška Palestini na početku 64. MESS-a](http://seecult.org/vest/podrska-palestini-na-pocetku-64-mess)
+* [Skopske ovacije za Na vukovom tragu](http://seecult.org/vest/skopske-ovacije-za-na-vukovom-tragu)
 * [Nagrada Zvezdarišta za Ljubicu Beljanski Ristić](http://seecult.org/vest/nagrada-zvezdarista-za-ljubicu-beljanski-ristic)
+* [Izlazak na mesto – Agora](http://seecult.org/vest/izlazak-na-mesto-agora)
 * [Podsvesni pokušaj suicida u Kručama](http://seecult.org/vest/podsvesni-pokusaj-suicida-u-krucama)
 * [Sećanje - Zapisi iz prirode](http://seecult.org/vest/secanje-zapisi-iz-prirode)
 * [Filharmonijski Živeti sa neprijateljem](http://seecult.org/vest/filharmonijski-ziveti-sa-neprijateljem)
 * [Snažna završnica 58. Bitefa](http://seecult.org/vest/snazna-zavrsnica-58-bitefa)
 * [Prepisivanje života - kada država ne radi svoj posao](http://seecult.org/vest/prepisivanje-zivota-kada-drzava-ne-radi-svoj-posao)
 * [Palestinci i Izraelci na Slobodnoj zoni](http://seecult.org/vest/palestinci-i-izraelci-na-slobodnoj-zoni)
-* [Koskar 18. FSFF-a Aleksi Gajiću](http://seecult.org/vest/koskar-18-fsff-aleksi-gajicu)
-* [Početak 56. Bemusa u znaku Jonasa Kaufmana](http://seecult.org/vest/pocetak-56-bemusa-u-znaku-jonasa-kaufmana)
-* [Bauk u bioskopima](http://seecult.org/vest/bauk-u-bioskopima)
 
 * [Konkursi](#tab1_1)
 
