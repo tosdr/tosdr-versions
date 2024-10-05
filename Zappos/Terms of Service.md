@@ -4,6 +4,8 @@
 
 Birkenstock for fall and beyond. [Shop Birkenstock](https://www.zappos.com/c/birkenstock-fashion)
 
+Step into endless energy with this new style! [Shop Brooks Glycerin Max](https://www.zappos.com/c/brooks-glycerin)
+
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
 Search for shoes, clothes, etc.Search
