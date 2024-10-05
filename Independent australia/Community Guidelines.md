@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Paying a King's ransom](https://independentaustralia.net/article-display/paying-a-kings-ransom,19044 "Permanent Link : Paying a King's ransom")
+* [Great apes monkey around at Taronga Zoo](https://independentaustralia.net/article-display/great-apes-monkey-around-at-taronga-zoo,18946 "Permanent Link : Great apes monkey around at Taronga Zoo")
+* [Vale Chimpy, the anti-fascist feline hero](https://independentaustralia.net/article-display/vale-chimpy-the-anti-fascist-feline-hero,19045 "Permanent Link : Vale Chimpy, the anti-fascist feline hero")
 * [EDITORIAL: Paying a King's ransom](https://independentaustralia.net/article-display/editorial-paying-a-kings-ransom,19043 "Permanent Link : EDITORIAL: Paying a King's ransom")
 * [Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033 "Permanent Link : Katy kicks off Grand Final amid 'Roar' of controversy")
 * [Shared parenting vs sole custody: Which works best for Australian families?](https://independentaustralia.net/article-display/shared-parenting-vs-sole-custody-which-works-best-for-australian-families,19034 "Permanent Link : Shared parenting vs sole custody: Which works best for Australian families?")
 * [5 Key factors that influence your back injury payout in Australia](https://independentaustralia.net/article-display/5-key-factors-that-influence-your-back-injury-payout-in-australia,19035 "Permanent Link : 5 Key factors that influence your back injury payout in Australia")
-* [How Queensland criminal defence attorneys build strong defence strategies](https://independentaustralia.net/article-display/how-queensland-criminal-defence-attorneys-build-strong-defence-strategies,19036 "Permanent Link : How Queensland criminal defence attorneys build strong defence strategies")
-* [Why corporate disputes are better handled by a dispute resolution lawyer](https://independentaustralia.net/article-display/why-corporate-disputes-are-better-handled-by-a-dispute-resolution-lawyer,19037 "Permanent Link : Why corporate disputes are better handled by a dispute resolution lawyer")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
