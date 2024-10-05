@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)11°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)12°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Tessin](https://www.watson.ch/fr/tessin/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Italie](https://www.watson.ch/fr/italie/)
 * [Israël](https://www.watson.ch/fr/israel/)
+* [HC Ajoie](https://www.watson.ch/fr/hc-ajoie/)
+* [National League](https://www.watson.ch/fr/national-league/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Amazon](https://www.watson.ch/fr/amazon/)
+* [Femmes](https://www.watson.ch/fr/femmes/)
+* [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
+* [Films](https://www.watson.ch/fr/films/)
+* [Italie](https://www.watson.ch/fr/italie/)
 * [Brésil](https://www.watson.ch/fr/bresil/)
-* [Insolite](https://www.watson.ch/fr/insolite/)
 * [guerre](https://www.watson.ch/fr/guerre/)
-* [voiture](https://www.watson.ch/fr/voiture/)
+* [Santé](https://www.watson.ch/fr/sante/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Argent](https://www.watson.ch/fr/argent/)
 * [Iran](https://www.watson.ch/fr/iran/)
 * [Hamas](https://www.watson.ch/fr/hamas/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [mort](https://www.watson.ch/fr/mort/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
