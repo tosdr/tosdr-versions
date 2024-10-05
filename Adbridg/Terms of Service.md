@@ -250,7 +250,7 @@ If you have any questions regarding these Terms, please send an email to [contac
 
 ​
 
-![AdBridgLogos-WhiteAsset-6_4x-Transparent.png](https://static.wixstatic.com/media/a1ca69_48178aa0cb6047d8a3b78c19eb5f80a2~mv2.png/v1/fill/w_272,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AdBridgLogos-WhiteAsset-6_4x-Transparent.png)
+![AdBridgLogos-WhiteAsset-6_4x-Transparent.png](https://static.wixstatic.com/media/a1ca69_48178aa0cb6047d8a3b78c19eb5f80a2~mv2.png/v1/fill/w_68,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/AdBridgLogos-WhiteAsset-6_4x-Transparent.png)
 
 ###### Streamline your Tech
 
