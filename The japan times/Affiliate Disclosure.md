@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 05, 2024](https://www.japantimes.co.jp/archive/2024/10/05/ "archive page")
+[October 06, 2024](https://www.japantimes.co.jp/archive/2024/10/06/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,17 +130,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
-
-  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
-
 [High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
   [![The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425981.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius")](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
@@ -150,16 +146,12 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
 
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+
 Editors' Picks
 --------------
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
-
-By [Sam Roberts](https://www.japantimes.co.jp/author/6088/sam-roberts/ "Sam Roberts")  
-
-  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -171,11 +163,11 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Sam Roberts](https://www.japantimes.co.jp/author/6088/sam-roberts/ "Sam Roberts")  
 
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -192,6 +184,14 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Anders Aslund](https://www.japantimes.co.jp/author/1556/anders-aslund/ "Anders Aslund")  
 
   [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
 Podcast
 -------
@@ -254,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
-
-47 mins ago
-
-[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
-
-1 hours ago
-
-[Government looks to improve safety at Japan's dangerous railway crossings](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-railway-crossing-safety/ "Government looks to improve safety at Japan's dangerous railway crossings")
+[Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes](https://www.japantimes.co.jp/news/2024/10/05/world/gaza-israel-early-emails-us/ "Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes")
 
 3 hours ago
 
-[11 Japanese nationals flee Lebanon on SDF plane](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-nationals-sdf-flee-lebanon/ "11 Japanese nationals flee Lebanon on SDF plane")
+[Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says](https://www.japantimes.co.jp/news/2024/10/05/japan/ishiba-noto-peninsula-severe-disaster/ "Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says")
 
-4 hours ago
+5 hours ago
 
-[Chagos diaspora angry at lack of input on islands' fate](https://www.japantimes.co.jp/news/2024/10/05/world/society/chagos-diaspora-angry/ "Chagos diaspora angry at lack of input on islands' fate")
+[Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction](https://www.japantimes.co.jp/news/2024/10/05/world/yahya-sinwar-committed/ "Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction")
 
-4 hours ago
+5 hours ago
+
+[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
+
+6 hours ago
+
+[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
+
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
