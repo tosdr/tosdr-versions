@@ -36,16 +36,6 @@ FOX SCORES
     | CRO | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241101)
-* [ESL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | HKR | 10  |
-    | WAR | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20242901)
 * [National SC
     
     6/10 13:20 AEST
@@ -60,16 +50,6 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    NZL won by 58 runs
-    
-    |     |     |
-    | --- | --- |
-    | IND | 102 |
-    | NZL | 4 /160 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250104)
-* [Women's T20 WC
-    
     5/10 20:00 AEST
     
     |     |     |
@@ -78,66 +58,58 @@ FOX SCORES
     | SRI | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250105)
-* [Men's ODI
+* [Women's T20 WC
     
-    RSA won by 174 runs
-    
-    |     |     |
-    | --- | --- |
-    | IRL | 169 |
-    | RSA | 4 /343 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240802)
-* [Men's T20I
-    
-    UAE won by 6 runs
+    6/10 0:00 AEST
     
     |     |     |
     | --- | --- |
-    | UAE | 5 /170 |
-    | USA | 164 |
+    | BAN | –   |
+    | ENG | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20242005)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250106)
 * [WNCL
     
+    WA won by 46 runs
+    
     |     |     |
     | --- | --- |
-    | QLD | 1 /170 |
-    | WA  |     |
+    | QLD | 4 /331 |
+    | WA  | 9 /285 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250110)
 * AFL
     
 * [AFL Women's
     
-    5/10 13:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | NM  | –   |
-    | WBD | –   |
+    | NM  | 8.11.59 |
+    | WBD | 0.4.4 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240606)
 * [AFL Women's
     
-    5/10 15:05 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | RIC | –   |
-    | COL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240607)
-* [AFL Women's
-    
-    5/10 17:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | WCE | –   |
-    | POR | –   |
+    | WCE | 3.1.19 |
+    | POR | 2.2.14 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240608)
+* [AFL Women's
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | RIC | 7.4.46 |
+    | COL | 1.4.10 |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240607)
 * [AFL Women's
     
     5/10 19:15 AEST
@@ -152,6 +124,8 @@ FOX SCORES
     
 * [MotoGP
     
+    4/10 11:45 AEST
+    
     |     |
     | --- |
     | Japan GP |
@@ -162,34 +136,14 @@ FOX SCORES
     
 * [NBL
     
-    Full Time
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | CAI | 90  |
-    | TAS | 78  |
+    | ILL | 25  |
+    | ADL | 22  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030002/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PER | 68  |
-    | MEL | 97  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030003/play-by-play)
-* [NBL
-    
-    5/10 17:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ILL | –   |
-    | ADL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030004)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25030004/play-by-play)
 * [NBL
     
     5/10 20:00 AEST
@@ -262,6 +216,38 @@ FOX SCORES
     | SOU | –   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250701)
+* [Premier League
+    
+    6/10 3:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | EVE | –   |
+    | NEW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250703)
+* Baseball
+    
+* [MLB
+    
+    6/10 4:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CLE | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002F9842)
+* [MLB
+    
+    6/10 7:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PHI | –   |
+    | NYM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A459C)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -1009,7 +995,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
