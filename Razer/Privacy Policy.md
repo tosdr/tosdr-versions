@@ -400,7 +400,6 @@ Switch to
             * [Razer Huntsman V3 Pro](https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro)
             * [Razer Huntsman V3 Pro Tenkeyless](https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless)
             * [Razer Huntsman V3 Pro Mini](https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-mini)
-            * Razer Huntsman V3 X Tenkeyless
             * [Razer Huntsman Mini](https://www.razer.com/gaming-keyboards/razer-huntsman-mini)
             
         * BlackWidow
