@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, October 4, 2024**
+**Saturday, October 5, 2024**
 
-**...Coastal Showers and Thunderestorms Become More Numerous Across the Florida Peninsula Through the Afternoon...Localized Flooding Possible Across Already Saturated Soils...Widespread Rain Chances Return to the Florida Panhandle Today...Triple Digit Heat Indices Possible for Central and South Florida...River Flood Warnings Remain in Effect for Severeal North Florida Waterways, Minor Flooding Ongoing or Forecast for Apalachicola and Withlacoochee Rivers...Additional Riverine Flooding Likely for West Florida into Next Week...Moderate to High Risk for Rip Currents Continues for Panhandle and East Coast Beaches...Atlantic Basin Remains Active with Two (2) Named Systems and Monitoring One (1) Disturbance...**
+**...Coastal Showers and Thunderestorms Become More Scattered to Numerous Across the Florida Peninsula Through the Afternoon...Localized Flooding Possible Across Already Saturated Soils...Isolated to Widely Scattered Showers and Thunderstorm Along the Florida Panhandle...Triple Digit Heat Indices Possible for Western Peninsula and South Florida...River Flood Warnings Remain in Effect for Severeal North and West-Central Florida Waterways for Minor Flooding...Additional Riverine Flooding Likely for Suwannee Valley and Western Peninsula into Next Week...Moderate to High Risk for Rip Currents for Florida Panhandle and East Coast Beaches...Atlantic Basin Remains Active with Two (2) Named Systems and Monitoring One (1) Disturbance...Invest 92L In the Gulf of Mexico Could Develop Into a Tropical Depression or Storm Later Today Or On Sunday; High (70%) Chance of Development Through 48 Hours; Regardless of Development, Multiple Rounds of Heavy Rainfall Possible Along Portions of the Peninsula and Keys Sunday Into Next Week...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
