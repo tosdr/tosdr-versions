@@ -19,6 +19,27 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+    
+    ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+    
+    [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+    
+    ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+    
+    [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
+    
+    ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
+    
+    [![Clapham Common tube platform
+    Photo from  Wikimedia Commons](https://southwarknews.co.uk/wp-content/uploads/2024/10/Clapham_Common_Tube_Station_Platforms_-_Oct_2007-360x180.jpg)](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
+    
+    ### [No plans to widen narrow platforms at two of Clapham’s tube stations](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
+    
+    [![Sadiq Khan, the Mayor of London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-the-Mayor-of-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
+    
+    ### [The impacts of a cyber-attack on TfL could soon be resolved, Sadiq Khan has suggested](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
+    
     [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
     
     ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
@@ -36,26 +57,6 @@
     [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
     ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-    
-    ### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-    
-    [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-    
-    ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-    
-    ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-    
-    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
-    
-    ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +102,27 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+    
+    ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+    
+    [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+    
+    ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+    
+    [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
+    
+    ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
+    
+    [![Clapham Common tube platform
+    Photo from  Wikimedia Commons](https://southwarknews.co.uk/wp-content/uploads/2024/10/Clapham_Common_Tube_Station_Platforms_-_Oct_2007-360x180.jpg)](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
+    
+    ### [No plans to widen narrow platforms at two of Clapham’s tube stations](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
+    
+    [![Sadiq Khan, the Mayor of London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-the-Mayor-of-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
+    
+    ### [The impacts of a cyber-attack on TfL could soon be resolved, Sadiq Khan has suggested](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
+    
     [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
     
     ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
@@ -118,26 +140,6 @@ View All Result
     [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
     ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-    
-    ### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-    
-    [![A computer-generated image of what the Blackfriars Road almshouse could look like. Credit: JTRE](https://southwarknews.co.uk/wp-content/uploads/2024/10/am1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-    
-    ### [Southwark charity to double almshouse capacity offering modern homes to over 150 pensioners by 2030](https://southwarknews.co.uk/area/walworth/southwark-charity-to-double-almshouse-capacity-offering-modern-homes-to-over-150-pensioners-by-2030/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-    
-    ### [King’s College Hospital NHS Trust’s £1 million pay-outs for stillborn babies worst in London](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-nhs-trusts-1-million-pay-outs-for-stillborn-babies-worst-in-london/)
-    
-    [![The incident took place at the junction of Handforth Road and Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-incident-took-place-at-the-junction-of-Handforth-Road-and-Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    ### [Police appeal: Woman dies after ‘collision with tow truck’ in Brixton](https://southwarknews.co.uk/news/police-appeal-woman-dies-after-collision-with-tow-truck-in-brixton/)
-    
-    [![Left to right: Rahim Al-Kamara, Kumarl Best, Rowan Jones and Jahvarn Warren](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Rahim-Al-Kamara-Kumarl-Best-Rowan-Jones-and-Jahvarn-Warren-360x180.png)](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
-    
-    ### [Four South Londoners sentenced for sword attack on train](https://southwarknews.co.uk/area/south-london/four-south-londoners-sentenced-for-sword-attack-on-train/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -378,6 +380,18 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-e1727863506265-120x86.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+
+### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+
+[5th October 2024](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
+
+[![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-120x86.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+
+### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+
+[5th October 2024](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
+
 [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
 ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
@@ -403,18 +417,6 @@ Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uplo
 ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
 
 [4th October 2024](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-
-[![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-
-### [Mayor of London said his own policy is to ‘over-declare’ donations](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-
-[4th October 2024](https://southwarknews.co.uk/area/london/mayor-of-london-said-his-own-policy-is-to-over-declare-donations/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Coriolanus-David-Oyelowo-National-Theatre-v2-2000x1000-1-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
-
-### [David Oyelowo is a powerful Coriolanus at the National Theatre](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
-
-[4th October 2024](https://southwarknews.co.uk/area/south-bank/david-oyelowo-is-a-powerful-coriolanus-at-the-national-theatre/)
 
 ### USEFUL PAGES
 
