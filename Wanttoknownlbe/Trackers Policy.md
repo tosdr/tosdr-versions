@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/hunter-bidens-laptop-i-assume/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/het-wef-vraagt-jonge-blonde-meisjes-in-davos/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
