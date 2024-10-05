@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Steuerrat­geber der Stiftung Warentest: Zusatz­informationen für Lese­rinnen und Leser](https://www.test.de/Steuerratgeber-20192020-Zusatzinformationen-5393947-0/ "Steuerratgeber der Stiftung Warentest - Zusatzinformationen für Leserinnen und Leser")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Steuerrat­geber der Stiftung Warentest: Zusatz­informationen für Lese­rinnen und Leser](https://www.test.de/Steuerratgeber-20192020-Zusatzinformationen-5393947-0/ "Steuerratgeber der Stiftung Warentest - Zusatzinformationen für Leserinnen und Leser")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Steuerrat­geber der Stiftung Warentest: Zusatz­informationen für Lese­rinnen und Leser](https://www.test.de/Steuerratgeber-20192020-Zusatzinformationen-5393947-0/ "Steuerratgeber der Stiftung Warentest - Zusatzinformationen für Leserinnen und Leser")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Steuerrat­geber der Stiftung Warentest: Zusatz­informationen für Lese­rinnen und Leser](https://www.test.de/Steuerratgeber-20192020-Zusatzinformationen-5393947-0/ "Steuerratgeber der Stiftung Warentest - Zusatzinformationen für Leserinnen und Leser")
 
 Service Stiftung Warentest
 
