@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/tessa-deelt-n-mooi-inzicht-van-boven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/gebruik-allemaal-mark-zuckerberg-als-fb-profielfoto/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
