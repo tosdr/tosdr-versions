@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://www.theepochtimes.com/china/state-organs-film-exposes-forced-organ-harvesting-in-china-5735859)
+* [New Mexico’s Nuclear Town Has Big Housing Problem](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
     
-    NEW By [Frank Liang](https://www.theepochtimes.com/author/frank-liang) and [Lily Sun](https://www.theepochtimes.com/author/lily-sun)
+    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
-    [![‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735860-State-Organs-Screening-P1-205x123.jpg.webp)](https://www.theepochtimes.com/china/state-organs-film-exposes-forced-organ-harvesting-in-china-5735859)
-* [Bombarded by Violence: How Technology Perpetuates Trauma](https://www.theepochtimes.com/health/bombarded-by-violence-how-technology-perpetuates-trauma-5696526)
+    ![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736035-Nuclear-Los-Alamos-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
+* [Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
     
-    NEW By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Bombarded by Violence: How Technology Perpetuates Trauma](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bombarded by Violence: How Technology Perpetuates Trauma](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732911-09_00-Bombarded-by-Violence-v6-205x123.jpg.webp)](https://www.theepochtimes.com/health/bombarded-by-violence-how-technology-perpetuates-trauma-5696526)
-* [US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://www.theepochtimes.com/us/us-will-not-extend-legal-status-of-migrants-who-entered-via-parole-program-5735764)
+    ![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
+* [Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-will-not-extend-legal-status-of-migrants-who-entered-via-parole-program-5735764)
-* [Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://www.theepochtimes.com/us/biden-urges-congress-to-act-quickly-as-disaster-relief-funding-runs-low-5735777)
+    ![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684554-New-York-home-for-sale-GettyImages-1310155972-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
+* [Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
     
-    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733892-GettyImages-2175315529-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-congress-to-act-quickly-as-disaster-relief-funding-runs-low-5735777)
-* [Trump Returning to Butler, Where He Survived Assassination Attempt](https://www.theepochtimes.com/us/trump-fulfilling-obligation-to-return-to-butler-where-he-survived-assassination-attempt-5735674)
+    ![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/uploads/2024/05/19/id5653135-Amazon-logo-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
+* [Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
     
-    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer)
+    3hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
-    [![Trump Returning to Butler, Where He Survived Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Returning to Butler, Where He Survived Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691154-GettyImages-2161350358-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-fulfilling-obligation-to-return-to-butler-where-he-survived-assassination-attempt-5735674)
-* [Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
+    ![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/uploads/2019/12/19/installs-the-front-doors-on-a-2018-Ford-F-150-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
+* [Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
     
-    6hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    3hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731983-GettyImages-2174128571-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
-* [The Red Guard Spirit Still Haunts China and Its Current Leadership](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
+    ![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/uploads/2024/07/17/id5688266-Ruben-Gutierrez-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
+* [Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://www.theepochtimes.com/us/tropical-storm-milton-forms-threatens-florida-gulf-coast-5735969)
     
-    7hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    3hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/uploads/2023/10/14/id5529051-CCPGettyImages-1247750895-205x123.jpeg.webp)](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
-* [Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://www.theepochtimes.com/us/volunteers-work-tirelessly-and-offer-hope-in-helene-devastated-tennessee-5734625)
+    ![Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736097-tsmilton2-205x123.png)](https://www.theepochtimes.com/us/tropical-storm-milton-forms-threatens-florida-gulf-coast-5735969)
+* [Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://www.theepochtimes.com/us/trump-chastises-federal-response-to-hurricane-helene-vows-to-restore-fort-bragg-name-5735805)
     
-    8hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    4hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
-    [![Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732517-tenn-205x123.jpg.webp)](https://www.theepochtimes.com/us/volunteers-work-tirelessly-and-offer-hope-in-helene-devastated-tennessee-5734625)
-* [6 Things to Watch in the Upcoming Supreme Court Term](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
+    ![Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735880-GettyImages-2176787168-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chastises-federal-response-to-hurricane-helene-vows-to-restore-fort-bragg-name-5735805)
+* [South Carolina Extends Voter Registration Deadline Due to Impact of Hurricane Helene](https://www.theepochtimes.com/us/south-carolina-extends-voter-registration-deadline-due-to-impact-of-hurricane-helene-5735742)
     
-    13hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![South Carolina Extends Voter Registration Deadline Due to Impact of Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735471-GettyImages-1431370657-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
-* [Trump and Kemp Make First Joint Appearance Since 2020](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
+    ![South Carolina Extends Voter Registration Deadline Due to Impact of Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697419-Severe_Weather_South_Carolina_24213558910746-205x123.jpg.webp)](https://www.theepochtimes.com/us/south-carolina-extends-voter-registration-deadline-due-to-impact-of-hurricane-helene-5735742)
+* [Top EU Court Rules Against Meta, Limits Use of Personal Data for Targeted Ads](https://www.theepochtimes.com/business/top-eu-court-rules-against-meta-limits-use-of-personal-data-for-targeted-ads-5735553)
     
-    14hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Top EU Court Rules Against Meta, Limits Use of Personal Data for Targeted Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735753-Trump-Kemp-AP24278731885449-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
+    ![Top EU Court Rules Against Meta, Limits Use of Personal Data for Targeted Ads](https://img.theepochtimes.com/assets/uploads/2024/01/24/id5573419-GettyImages-1236190685-205x123.jpg.webp)](https://www.theepochtimes.com/business/top-eu-court-rules-against-meta-limits-use-of-personal-data-for-targeted-ads-5735553)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
