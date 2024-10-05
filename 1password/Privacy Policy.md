@@ -538,8 +538,6 @@ Show options
 
 [Terms of Service](https://1password.com/legal/terms-of-service)
 
-Your Privacy Choices
-
 [Cookie Policy](https://1password.com/legal/cookie-policy)
 
 Your Privacy Options
