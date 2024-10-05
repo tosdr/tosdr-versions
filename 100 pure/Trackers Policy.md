@@ -26,9 +26,9 @@ My Tote
 
 5760 reviews (5760)
 
-$23.00 $41.00
+$16.00 $29.00
 
-1 oz - $41 0.3 oz - $23
+1 oz - $29 0.3 oz - $16
 
 1 oz
 
@@ -52,9 +52,9 @@ CHOOSE Size
 
 1043 reviews (1043)
 
-$89.00
+$64.00
 
-Default Title - $89
+Default Title - $64
 
 ADD TO TOTE
 
@@ -70,9 +70,9 @@ ADD TO TOTE
 
 95 reviews (95)
 
-$101.00
+$72.00
 
-1 oz - $101
+1 oz - $72
 
 ADD TO TOTE
 
@@ -84,9 +84,9 @@ ADD TO TOTE
 
 2395 reviews (2395)
 
-$39.00 $39.00
+$28.00 $28.00
 
-Black Tea - $39 Dark Chocolate - $39 Blackberry - $39
+Black Tea - $28 Dark Chocolate - $28 Blackberry - $28
 
 Black Tea
 
@@ -106,9 +106,9 @@ CHOOSE Color
 
 762 reviews (762)
 
-$17.00 $37.00
+$12.00 $26.00
 
-1.7 oz - $17 8 oz - $37
+1.7 oz - $12 8 oz - $26
 
 8 oz
 
@@ -126,9 +126,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$10.00 $39.00
+$7.00 $28.00
 
-Single - $10 5 Pack - $39
+Single - $7 5 Pack - $28
 
 Single
 
@@ -146,9 +146,9 @@ CHOOSE Size
 
 374 reviews (374)
 
-$10.00
+$7.00
 
-Single - $10
+Single - $7
 
 ADD TO TOTE
 
@@ -160,9 +160,9 @@ ADD TO TOTE
 
 2021 reviews (2021)
 
-$38.00 $38.00
+$27.00 $27.00
 
-Blackest - $38 Dark Cacao - $38 Gleaming Pewter - $38
+Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
 
 Gleaming Pewter
 
@@ -182,9 +182,9 @@ CHOOSE Color
 
 44 reviews (44)
 
-$35.00
+$25.00
 
-Default Title - $35
+Default Title - $25
 
 ADD TO TOTE
 
@@ -196,9 +196,9 @@ ADD TO TOTE
 
 366 reviews (366)
 
-$10.00 $45.00
+$7.00 $32.00
 
-Single - $10 5 Pack - $45
+Single - $7 5 Pack - $32
 
 5 Pack
 
@@ -216,9 +216,9 @@ CHOOSE Size
 
 842 reviews (842)
 
-$53.00
+$38.00
 
-Default Title - $53
+Default Title - $38
 
 ADD TO TOTE
 
@@ -232,9 +232,9 @@ ADD TO TOTE
 
 196 reviews (196)
 
-$81.00
+$58.00
 
-Default Title - $81
+Default Title - $58
 
 ADD TO TOTE
 
@@ -246,9 +246,9 @@ ADD TO TOTE
 
 294 reviews (294)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -260,9 +260,9 @@ ADD TO TOTE
 
 349 reviews (349)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -274,9 +274,9 @@ ADD TO TOTE
 
 386 reviews (386)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -288,9 +288,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$42.00
+$30.00
 
-Default Title - $42
+Default Title - $30
 
 ADD TO TOTE
 
@@ -302,9 +302,9 @@ ADD TO TOTE
 
 874 reviews (874)
 
-$53.00
+$38.00
 
-Default Title - $53
+Default Title - $38
 
 ADD TO TOTE
 
@@ -318,9 +318,9 @@ ADD TO TOTE
 
 77 reviews (77)
 
-$27.00
+$19.00
 
-Default Title - $27
+Default Title - $19
 
 ADD TO TOTE
 
@@ -332,11 +332,11 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1564 reviews (1564)
+1565 reviews (1565)
 
-$42.00 $42.00
+$30.00 $30.00
 
-Blackberry - $42 Black Tea - $42 Dark Chocolate - $42
+Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
 
 Black Tea
 
@@ -356,9 +356,9 @@ CHOOSE Color
 
 1127 reviews (1127)
 
-$63.00
+$45.00
 
-Default Title - $63
+Default Title - $45
 
 ADD TO TOTE
 
@@ -370,9 +370,9 @@ ADD TO TOTE
 
 637 reviews (637)
 
-$67.00
+$48.00
 
-Default Title - $67
+Default Title - $48
 
 ADD TO TOTE
 
@@ -386,9 +386,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$67.00
+$48.00
 
-Default Title - $67
+Default Title - $48
 
 ADD TO TOTE
 
@@ -400,9 +400,9 @@ ADD TO TOTE
 
 543 reviews (543)
 
-$73.00
+$52.00
 
-Default Title - $73
+Default Title - $52
 
 ADD TO TOTE
 
@@ -414,9 +414,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$67.00
+$48.00
 
-Default Title - $67
+Default Title - $48
 
 ADD TO TOTE
 
@@ -430,9 +430,9 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$81.00
+$58.00
 
-Default Title - $81
+Default Title - $58
 
 ADD TO TOTE
 
@@ -444,9 +444,9 @@ ADD TO TOTE
 
 186 reviews (187)
 
-$81.00
+$58.00
 
-Default Title - $81
+Default Title - $58
 
 ADD TO TOTE
 
@@ -456,11 +456,11 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5285 reviews (5285)
+5288 reviews (5288)
 
-$39.00 $39.00
+$28.00 $28.00
 
-Blackberry - $39 Blueberry - $39 Dark Chocolate - $39 Black Tea - $39
+Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
 
 Blueberry
 
@@ -934,7 +934,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(CAD $)
+(USD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
