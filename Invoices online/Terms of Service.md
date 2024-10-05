@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=201867662)  
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=81814867)  
+Dombieterfontein (PTY) LTD
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=196960107)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=210979755)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=69257615)  
+Three Moons Emporium
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=78813482)  
+Lindani Protection Services & Projects
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=131800147)  
+Fox Alarms & Security
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=118467585)  
+Lion Software Develepment
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=199278620)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=128516004)  
+CLEVER STUDENTS
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=99618309)  
+OptaServ
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=95901779)  
 Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=37891839)  
-webb it services
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=36001870)  
+Xpress Designs
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=79198933)  
-IYD
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=100405750)  
+Sarabi
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=61886422)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=80070061)  
-Website Café (PTY) LTD
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=45605380)  
-SMART GUY PCS (PTY) LTD
-
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=202056240)  
-Stevens Consulting
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=77804572)  
-Tracknetics
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=181547809)  
-PROGRAPHIX PTY LTD
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=131714642)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=160935472)  
-VA AND M BUSINESSES (PTY)LTD
-
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=174308188)  
-NILBET (PTY) LTD - Once Off's
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=109566969)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=116110572)  
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=97310758)  
 Lizzy Pop PTY(Ltd)
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=4c9d2b75b7dd6f62ff4f912fef18b71616bcb74b526efec05577e758f6323405&c=35583796)  
-Multi CNC Solutions CC
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=9005f4d164bc3b860f37ed8ec4e64734d22f257fa195808ce7e06ad062e27f25&c=62567478)  
+Enhle Oarabile Kea
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
