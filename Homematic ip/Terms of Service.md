@@ -323,6 +323,12 @@ Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich to
 
 [Okt.
 
+10-12
+
+Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-10-bauhaus-berlin-schoeneberg)
+
+[Okt.
+
 04-05
 
 Event
@@ -357,6 +363,8 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
+2. [Service](https://homematic-ip.com/de/service)
+3. EULA
 
 Nutzungsbedingungen für die Homematic IP App und Homematic IP Cloud
 ===================================================================
