@@ -5,7 +5,7 @@ noscript.disclaimer
 
 [](https://simplepdf.eu/)
 
-[Edit PDF](https://simplepdf.eu/editor)[PDF to Online Form](https://simplepdf.eu/portal)[Add to your website](https://simplepdf.eu/embed)[Chrome extension](https://chrome.google.com/webstore/detail/simplepdf/fgikademdabjcmnlgmgbifipooibbepi)[Pricing](https://simplepdf.eu/pricing)[Help Center](https://simplepdf.eu/help)Login
+[PDF Editor](https://simplepdf.eu/editor)[PDF to Online Form](https://simplepdf.eu/portal)[Add to your website](https://simplepdf.eu/embed)[Chrome extension](https://chrome.google.com/webstore/detail/simplepdf/fgikademdabjcmnlgmgbifipooibbepi)[Pricing](https://simplepdf.eu/pricing)[Help Center](https://simplepdf.eu/help)Login for businesses
 
 ### Topics
 
