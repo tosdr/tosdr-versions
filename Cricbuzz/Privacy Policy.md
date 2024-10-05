@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZW vs INDW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94561/nzw-vs-indw-4th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v India Women, 4th Match, Group A - NZW Won")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 2nd ODI - RSA Won")[WIW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup-2024 "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92959/gaw-vs-br-qualifier-2-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, Qualifier 2 - Preview")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BR vs GAW - Live](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-caribbean-premier-league-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - Live")[NZW vs INDW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94561/nzw-vs-indw-4th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v India Women, 4th Match, Group A - NZW Won")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 2nd ODI - RSA Won")[WIW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup-2024 "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
 
 AllLive NowToday
 
@@ -62,11 +62,7 @@ AllLive NowToday
     
 * South Africa vs Ireland, 2024
     
-    [South Africa vs Ireland](https://www.cricbuzz.com/live-cricket-scores/93657/rsa-vs-ire-1st-odi-south-africa-vs-ireland-2024 "South Africa v Ireland, 1st ODI - RSA Won")
-    
-    1st ODI
-    
-* [South Africa vs Ireland](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-south-africa-vs-ireland-2024 "South Africa v Ireland, 2nd ODI - RSA Won")
+    [South Africa vs Ireland](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-south-africa-vs-ireland-2024 "South Africa v Ireland, 2nd ODI - RSA Won")
     
     2nd ODI
     
@@ -90,11 +86,7 @@ AllLive NowToday
     
 * Canada Tri-Series 2024
     
-    [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/107729/nep-vs-oman-5th-match-canada-tri-series-2024 "Nepal v Oman, 5th Match - NEP Won")
-    
-    5th Match
-    
-* [Oman vs Canada](https://www.cricbuzz.com/live-cricket-scores/107731/oman-vs-can-6th-match-canada-tri-series-2024 "Oman v Canada, 6th Match - CAN Won")
+    [Oman vs Canada](https://www.cricbuzz.com/live-cricket-scores/107731/oman-vs-can-6th-match-canada-tri-series-2024 "Oman v Canada, 6th Match - CAN Won")
     
     6th Match
     
@@ -116,9 +108,13 @@ AllLive NowToday
     
     Qualifier 1
     
-* [Guyana Amazon Warriors vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92959/gaw-vs-br-qualifier-2-cpl-2024 "Guyana Amazon Warriors v Barbados Royals, Qualifier 2 - Preview")
+* [Barbados Royals vs Guyana Amazon Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - Live")
     
     Qualifier 2
+    
+* [Saint Lucia Kings vs TBC](https://www.cricbuzz.com/live-cricket-scores/92964/slk-vs-tbc-final-cpl-2024 "Saint Lucia Kings v TBC, Final - Upcoming")
+    
+    Final
     
 * CSA T20 Challenge
     
@@ -126,15 +122,15 @@ AllLive NowToday
     
     5th Match
     
-* [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103440/wpr-vs-nwest-8th-match-csa-t20-challenge "Western Province v North West, 8th Match - Ings Break")
+* [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103440/wpr-vs-nwest-8th-match-csa-t20-challenge "Western Province v North West, 8th Match - NWEST Won")
     
     8th Match
     
-* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - Ings Break")
+* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - LIONS Won")
     
     7th Match
     
-* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - Ings Break")
+* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
     
     6th Match
     
@@ -579,41 +575,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131867/kerrs-controversial-non-run-out-decision-leaves-india-incensed "Kerr's controversial non run-out decision leaves India incensed")
+
+[Kerr's controversial non run-out decision leaves India incensed](https://www.cricbuzz.com/cricket-news/131867/kerrs-controversial-non-run-out-decision-leaves-india-incensed "Kerr's controversial non run-out decision leaves India incensed")
+
+35m ago
+
   [](https://www.cricbuzz.com/cricket-news/131866/devine-inspires-new-zealand-to-a-commanding-win-over-india "Devine inspires New Zealand to a commanding win over India")
 
 [Devine inspires New Zealand to a commanding win over India](https://www.cricbuzz.com/cricket-news/131866/devine-inspires-new-zealand-to-a-commanding-win-over-india "Devine inspires New Zealand to a commanding win over India")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131865/franchises-write-to-bcci-questioning-new-rtm-clause "Franchises write to BCCI questioning new RTM clause")
 
 [Franchises write to BCCI questioning new RTM clause](https://www.cricbuzz.com/cricket-news/131865/franchises-write-to-bcci-questioning-new-rtm-clause "Franchises write to BCCI questioning new RTM clause")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131864/rutherford-abrupt-exit-from-patriots-team-shrouded-in-controversy "Rutherford's abrupt exit from Patriots team shrouded in controversy")
 
 [Rutherford's abrupt exit from Patriots team shrouded in controversy](https://www.cricbuzz.com/cricket-news/131864/rutherford-abrupt-exit-from-patriots-team-shrouded-in-controversy "Rutherford's abrupt exit from Patriots team shrouded in controversy")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131863/future-forward-can-india-find-answers-to-key-questions "Future Forward - Can India find answers to key questions?")
 
 [Future Forward - Can India find answers to key questions?](https://www.cricbuzz.com/cricket-news/131863/future-forward-can-india-find-answers-to-key-questions "Future Forward - Can India find answers to key questions?")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131862/mahmudullah-in-focus-as-bangladesh-set-out-on-road-to-2026-t20-world-cup "Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup")
 
 [Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup](https://www.cricbuzz.com/cricket-news/131862/mahmudullah-in-focus-as-bangladesh-set-out-on-road-to-2026-t20-world-cup "Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131861/mlaba-wolvaardt-brits-star-in-comprehensive-win "Mlaba, Wolvaardt, Brits star in comprehensive win")
-
-[Mlaba, Wolvaardt, Brits star in comprehensive win](https://www.cricbuzz.com/cricket-news/131861/mlaba-wolvaardt-brits-star-in-comprehensive-win "Mlaba, Wolvaardt, Brits star in comprehensive win")
-
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
