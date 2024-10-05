@@ -26,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638636465327998301)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638636681273868266)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -77,7 +77,7 @@
         [Medicaid Reimbursement for Dental Services for Children - Identifying Opportunities for Improvements in Your State](https://www.aapd.org/link/b360dedfed6b4aeda7b28fa324a4fa5d.aspx)
     * ###### Safety in Dentistry
         
-        [IHI Quality Improvement Forum, Orlando - December 8th-11th](https://www.aapd.org/link/4a4e8d3a20c644d2819c3519b3e120f8.aspx)
+        [Disaster Recovery in the Dental Office Resource Available Now from ADS](https://www.aapd.org/link/4a4e8d3a20c644d2819c3519b3e120f8.aspx)
     
 * [Publications](https://www.aapd.org/publications/publications/) [Toggle expand sub-navigation items](#)
     
