@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3dc7db2316a2b68145e5612a12e69a56
+dcffc54b942ba8fecaf5d3edf940260c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Sterling silver griffin necklace](https://www.sojourner.biz/images/cache/N0055.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/sterling-silver-griffin-necklace.html "Sterling silver griffin necklace")
+[![Vintage Indian sunstone beads](https://www.sojourner.biz/images/cache/stone/STN035.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/vintage-indian-sunstone-beads.html "Vintage Indian sunstone beads")
 
-#### [Sterling silver griffin necklace](https://www.sojourner.biz/jewelry/necklaces/sterling-silver-griffin-necklace.html "Sterling silver griffin necklace")
+#### [Vintage Indian sunstone beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/vintage-indian-sunstone-beads.html "Vintage Indian sunstone beads")
 
-$250.00
+$35.00
 
 ### Best Sellers
 
