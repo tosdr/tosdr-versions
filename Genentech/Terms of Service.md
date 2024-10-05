@@ -250,7 +250,7 @@ If You have any questions about these Terms or otherwise need to contact Us for 
 
 * [For Patients](https://www.gene.com/patients)
 * [Our Medicines](https://www.gene.com/patients/medicines)
-* [La Fundación de Pacientes de Genentech](https://www.gene.com/es/pacientes/la-fundacion-de-pacientes-de-genentech)
+* [Genentech Patient Foundation](https://www.gene.com/patients/patient-foundation)
 * [Clinical Trials](https://www.gene.com/patients/clinical-trials)
 * [Patient Support Services](https://www.gene.com/patients/patient-support-services)
 * [Understanding Insurance](https://www.gene.com/patients/understanding-insurance)
