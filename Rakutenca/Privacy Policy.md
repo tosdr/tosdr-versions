@@ -1,4 +1,4 @@
-[Dell Technologies: Cyber Sale: Up to $600 off top deals + 12% Cash Back
+[Dell Technologies: Cyber Sale: Up to $600 off top deals + Up to 5% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/dell-consumer?store=dell-consumer&sourceName=sitewide-sticky-header)
 
@@ -115,7 +115,7 @@ FR
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
-        12% Cash Back](https://www.rakuten.ca/dell-consumer)
+        up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)
         
         Featured Shops & Deals
         
@@ -281,7 +281,7 @@ FR
         
         2.5% Cash Back](https://www.rakuten.ca/dyson)[Wayfair
         
-        2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
+        4% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
         2% Cash Back](https://www.rakuten.ca/well)[Alexanian Carpet & Flooring
         
