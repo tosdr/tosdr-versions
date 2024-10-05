@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, October 4 2024
+Saturday, October 5 2024
 
 Latest
 
-* [Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
-* [Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
-* [How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
-* [FBCS debt collector data breach of 5 million+ records caused by ransomware attack, Comcast says](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
-* [Windows 11 24H2 (unsupported hardware) clean install and in-place upgrade process](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
-* [How to Avoid a Stooped Posture as You Age](https://digitpatrox.com/how-to-avoid-a-stooped-posture-as-you-age/)
-* [The Beauty of Software Signatures](https://digitpatrox.com/the-beauty-of-software-signatures/)
-* [How CISOs are navigating the “slippery” AI data protection problem](https://digitpatrox.com/how-cisos-are-navigating-the-slippery-ai-data-protection-problem/)
-* [From Basics to Full Stack Brilliance—This Dev Bundle Has It All](https://digitpatrox.com/from-basics-to-full-stack-brilliance-this-dev-bundle-has-it-all/)
-* [The iOS Gmail app is getting Gemini before Apple Intelligence even launches](https://digitpatrox.com/the-ios-gmail-app-is-getting-gemini-before-apple-intelligence-even-launches/)
+* [Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
+* [Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
+* [PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
+* [Wrapping up the case for the defense – Computerworld](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
+* [Google Is Testing Out Verification Badges for Search](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
+* [Step-by-Step Guide to Wall-Mounting Your TV](https://digitpatrox.com/step-by-step-guide-to-wall-mounting-your-tv/)
+* [How to Get Organized With Ease Thanks to Microsoft Loop](https://digitpatrox.com/how-to-get-organized-with-ease-thanks-to-microsoft-loop/)
+* [Salesforce Dreamforce 2024: Delivering on AI hype](https://digitpatrox.com/salesforce-dreamforce-2024-delivering-on-ai-hype/)
+* [Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns](https://digitpatrox.com/over-5000-fake-microsoft-notifications-fueling-email-compromise-campaigns/)
+* [Zapperbox A1 Indoor/Outdoor HDTV Antenna](https://digitpatrox.com/zapperbox-a1-indoor-outdoor-hdtv-antenna/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/UDburcKtfM5cX7tLYUEeJn-1200-80.jpg)](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
+* [![](https://cdn.vox-cdn.com/thumbor/azqRjwrNt-ZFcwZoWbrYk7M5KAk=/0x0:2678x3600/1200x628/filters:focal(1431x515:1432x516)/cdn.vox-cdn.com/uploads/chorus_asset/file/25659288/1147538703.jpg)](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
     
-    [Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
+    [Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
     
-    37 mins ago
+    8 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3547197-0-34642600-1728061426-chip-semiconductor-equipment-manufacturing-100948194-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Roblox-Paradox-Release-Time-and-Date-Countdown-Timer-cover.jpg)](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
     
-    [Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
+    [Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
     
-    59 mins ago
+    23 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J9BNFPFMF0FFWA43B3M2SSS8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
+* [![](https://cdn.mos.cms.futurecdn.net/ZmqGrti9ws6mj3o2qMv5JA-1200-80.jpg)](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
     
-    [How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/fbcs-comcast-ransomware.jpg)](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
-    
-    [FBCS debt collector data breach of 5 million+ records caused by ransomware attack, Comcast says](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
+    [PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
     
     2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/08/windows-11-24h2-install-unsupported-hardware-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3547282-0-85573400-1728071154-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
     
-    [Windows 11 24H2 (unsupported hardware) clean install and in-place upgrade process](https://digitpatrox.com/windows-11-24h2-unsupported-hardware-clean-install-and-in-place-upgrade-process/)
+    [Wrapping up the case for the defense – Computerworld](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J9CG4DR8EKJHPQ4J4QC2RRAD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
+    
+    [Google Is Testing Out Verification Badges for Search](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [37 mins ago
+* [8 mins ago
     
-    ### Microsoft’s Three Mile Island deal is a big step toward matching data center energy demands, but it’s not alone — AWS, Oracle, and now Google are all hot for nuclear power](https://digitpatrox.com/microsofts-three-mile-island-deal-is-a-big-step-toward-matching-data-center-energy-demands-but-its-not-alone-aws-oracle-and-now-google-are-all-hot-for-nuclear-power/)
-* [59 mins ago
+    ### Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
+* [23 mins ago
     
-    ### Apple, Amkor, and TSMC ‘neath the Arizona Skies – Computerworld](https://digitpatrox.com/apple-amkor-and-tsmc-neath-the-arizona-skies-computerworld/)
-* [1 hour ago
+    ### Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
+* [2 hours ago
     
-    ### How to Get More out of Your Roku](https://digitpatrox.com/how-to-get-more-out-of-your-roku/)
+    ### PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
 
 Most Popular Topics
 
+* [September 2, 2024
+    
+    ### Download the AI-infused enterprise applications Spotlight](https://digitpatrox.com/download-the-ai-infused-enterprise-applications-spotlight/)
 * [4 weeks ago
     
-    ### Does “Off-the-Shelf” Contact Center Integration Really Work?](https://digitpatrox.com/does-off-the-shelf-contact-center-integration-really-work/)
-* [August 17, 2024
+    ### Startup accuses Nvidia and Microsoft of infringing on patents and forming a cartel](https://digitpatrox.com/startup-accuses-nvidia-and-microsoft-of-infringing-on-patents-and-forming-a-cartel/)
+* [4 weeks ago
     
-    ### What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://digitpatrox.com/what-to-do-when-the-tips-of-your-plants-leaves-turn-brown/)
-* [August 20, 2024
-    
-    ### Guide to setting up a VPN on ASUS router](https://digitpatrox.com/guide-to-setting-up-a-vpn-on-asus-router/)
+    ### How I Use Windows 11’s Snap Layouts to Streamline Multitasking](https://digitpatrox.com/how-i-use-windows-11s-snap-layouts-to-streamline-multitasking/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### The Beauty of Software Signatures](https://digitpatrox.com/the-beauty-of-software-signatures/)
 * [3 hours ago
     
-    ### How CISOs are navigating the “slippery” AI data protection problem](https://digitpatrox.com/how-cisos-are-navigating-the-slippery-ai-data-protection-problem/)
-* [3 hours ago
+    ### How to Get Organized With Ease Thanks to Microsoft Loop](https://digitpatrox.com/how-to-get-organized-with-ease-thanks-to-microsoft-loop/)
+* [4 hours ago
     
-    ### From Basics to Full Stack Brilliance—This Dev Bundle Has It All](https://digitpatrox.com/from-basics-to-full-stack-brilliance-this-dev-bundle-has-it-all/)
+    ### Salesforce Dreamforce 2024: Delivering on AI hype](https://digitpatrox.com/salesforce-dreamforce-2024-delivering-on-ai-hype/)
+* [4 hours ago
+    
+    ### Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns](https://digitpatrox.com/over-5000-fake-microsoft-notifications-fueling-email-compromise-campaigns/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 13, 2024
+* [August 11, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
