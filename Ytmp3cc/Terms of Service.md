@@ -1,11 +1,11 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/1yVa/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/en-DrWL/)
 
-[Home](https://ytmp3.cc/1yVa/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
 Terms of Use
 ============
 
-Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/1yVa/).
+Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-DrWL/).
 
 This document states the terms and conditions („Terms”) upon which ytmp3.cc („we” or „us”) will provide service to you on its websites, including, without limitation, the above listed websites (collectively, the „Website”). These Terms constitute a contractual agreement between you and us. By visiting, accessing, using, and/or joining (collectively „using”) the Website, you express your understanding and acceptance of these Terms. As used in this document, the terms „you” or „your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices. If you do not agree to be bound by these Terms, navigate away from the Website and cease using it.
 
@@ -166,4 +166,4 @@ This document states the terms and conditions („Terms”) upon which ytmp3.cc 
 * As used in these Terms, the term „including” is illustrative and not limitative.
 * If this agreement is translated and executed in any language other than English and there is any conflict as between the translation and the English version, the English version shall control.
 
-[Contact](https://ytmp3.cc/contact-1/)[Copyright Claims](https://ytmp3.cc/copyright-claims-1/)[Privacy Policy](https://ytmp3.cc/privacy-policy-1/)[Terms of Use](https://ytmp3.cc/terms-of-use-1/)
+[Contact](https://ytmp3.cc/contact/)[Copyright Claims](https://ytmp3.cc/copyright-claims/)[Privacy Policy](https://ytmp3.cc/privacy-policy/)[Terms of Use](https://ytmp3.cc/terms-of-use/)
