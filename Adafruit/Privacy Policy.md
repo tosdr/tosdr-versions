@@ -1,5 +1,3 @@
-Add the code HALLOWEEN10 to your cart for 10% off TODAY ONLY. [Some restrictions apply.](https://blog.adafruit.com/2024/10/04/today-only-get-10-off-with-code-halloween10/) Happy Halloween! 🎃👻🐍
-
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -406,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Adversity is revealing of character”
+“ Everyone you will ever meet knows something you don't”
 
-[Unknown](https://www.adafruit.com/quotes)
+[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
 
 [](https://www.adafruit.com/about)
 
