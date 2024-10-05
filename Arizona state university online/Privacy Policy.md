@@ -234,8 +234,8 @@ Select Section
 
 [](https://www.facebook.com/arizonastateuniversity)[](https://www.instagram.com/arizonastateuniversity)[](https://www.youtube.com/asu)[](https://www.linkedin.com/company/arizona-state-university)
 
-[Maps and Locations](https://www.asu.edu/about/locations-maps) [Jobs](https://www.asu.edu/asujobs) [Directory](https://isearch.asu.edu/) [Contact ASU](https://www.asu.edu/about/contact) [My ASU](https://my.asu.edu/)
+[Maps and Locations](https://www.asu.edu/about/locations-maps) [Jobs](https://cfo.asu.edu/applicant) [Directory](https://search.asu.edu/?search-tabs=web_dir_faculty_staff) [Contact ASU](https://www.asu.edu/about/contact) [My ASU](https://my.asu.edu/)
 
 [![Repeatedly ranked #1 on 20+ lists in the last 3 years](/modules/webspark/asu_footer/img/240917_ASU_Rankings_GOLD.png)](https://www.asu.edu/rankings)
 
-[Copyright and Trademark](https://www.asu.edu/about/copyright-trademark) [Accessibility](https://www.asu.edu/accessibility/) [Privacy](https://www.asu.edu/about/privacy) [Terms of Use](https://www.asu.edu/about/terms-of-use) [Emergency](https://www.asu.edu/emergency/)
+[Copyright and Trademark](https://www.asu.edu/about/copyright-trademark) [Accessibility](https://accessibility.asu.edu/report) [Privacy](https://www.asu.edu/about/privacy) [Terms of Use](https://www.asu.edu/about/terms-of-use) [Emergency](https://www.asu.edu/emergency)
