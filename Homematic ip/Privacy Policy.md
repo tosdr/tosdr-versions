@@ -323,6 +323,12 @@ Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich to
 
 [Okt.
 
+10-12
+
+Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-10-bauhaus-berlin-schoeneberg)
+
+[Okt.
+
 04-05
 
 Event
