@@ -1,4 +1,4 @@
-Limited time. Get 40% to 50% OFF Moneyspire 2024.    [Buy now & save](https://www.moneyspire.com/purchase/)
+Limited-time. Get 40% to 50% Off.  [Buy now & save](https://www.moneyspire.com/purchase/)
 
 [![Moneyspire logo](/images/logo.png)](https://www.moneyspire.com/)
 
@@ -56,6 +56,8 @@ Start managing your finances with Moneyspire now.
 [![Moneyspire logo](/images/logo.png)](https://www.moneyspire.com/)
 
 * Inspiring financial success.™
+
+[![Personal finance software for Windows, macOS, Linux and ChromeOS.](/images/personal-finance-mac-windows-linux-chrome.gif)](https://www.moneyspire.com/purchase/)
 
 ##### Software
 
