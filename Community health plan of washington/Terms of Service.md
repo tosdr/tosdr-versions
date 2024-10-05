@@ -80,7 +80,6 @@ MENUMENU
             * [Prior Authorization](https://www.chpw.org/member-center/prior-authorization-and-um/)
             * [Refer A Friend](https://www.chpw.org/member-center/refer-a-friend-to-chpw/)
         * * [Intersections of Health](https://www.chpw.org/member-center/intersections-of-health/)
-                * [New Parent Care](https://www.chpw.org/chpw-benefits-plus/children-first/new-mom-care/)
                 * [LGBTQ+](https://www.chpw.org/member-center/member-resources/lgbtq/)
                 * [Tribal Health Care](https://www.chpw.org/member-center/member-resources/tribal-healthcare/)
                 * [Youth and Teens](https://www.chpw.org/member-center/behavioral-health/youth-and-kids/)
