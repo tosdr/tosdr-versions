@@ -1,3 +1,5 @@
+The structure of our Debian repository has changed! Existing Debian users (currently possibly encountering errors) should follow our [Migration Guide](https://librewolf.net/debian-migration/).
+
 [![Logo](/icon.svg)
 
 ##### LibreWolf](https://librewolf.net/)
@@ -18,6 +20,7 @@
 * [Community Art](https://librewolf.net/community-art/)
 * [License and Disclaimers](https://librewolf.net/license-disclaimers/)
 * [Privacy Policy](https://librewolf.net/privacy-policy/)
+* [Debian Migration Guide](https://librewolf.net/debian-migration/)
 
 * [About](https://librewolf.net/)
 * Installation
@@ -46,6 +49,7 @@
 * [Community Art](https://librewolf.net/community-art/)
 * [License and Disclaimers](https://librewolf.net/license-disclaimers/)
 * [Privacy Policy](https://librewolf.net/privacy-policy/)
+* [Debian Migration Guide](https://librewolf.net/debian-migration/)
 
 Privacy Policy
 ==============
