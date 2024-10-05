@@ -373,7 +373,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 
 * [Conservation](https://www.ducks.org/conservation "Conservation")
 * [How We Conserve](https://www.ducks.org/conservation/conserving-wetlands-waterfowl "How We Conserve")
-* [Where We Work](https://www.ducks.org/conservation/where-ducks-unlimited-works.html "Where We Work")
+* [Where We Work](https://www.ducks.org/conservation/where-we-work "Where We Work")
 * [Waterfowl Research](https://www.ducks.org/conservation/waterfowl-research-science "Waterfowl Research")
 * [Waterfowl Surveys](https://www.ducks.org/conservation/waterfowl-surveys "Waterfowl Surveys")
 * [International](https://www.ducks.org/conservation/international-conservation-plan "International")
