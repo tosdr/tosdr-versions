@@ -494,6 +494,22 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Workers at Habitat for Humanity worksite](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/habitat-for-humanity-of-omaha_background-photo.png.webp?itok=rxhpsdOA)
+
+**Habitat for Humanity of Omaha**
+
+See how Habitat for Humanity of Omaha partnered with Bonterra Development to raise 133% more per email recipient, 155% more per email opened, and more.
+
+[Read their story onHabitat for Humanity of Omaha](https://www.everyaction.com/case-studies/habitat-humanity-omaha)
+
+Impact Powered by:
+
+* Donor Engagement
+* Human services
+* Nonprofits
+* Digital communications & marketing
+* Fundraising ideas
+
 ![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
 
 **Empowering caregivers, improving children’s lives**
@@ -553,25 +569,6 @@ Impact Powered by:
 * Nonprofits
 * Public agencies
 * Coordinating social services
-
-![A mother wrapped in a Ukrainian flag kissing her baby.](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/bonterra-cvs-health_header-photo.jpg.webp?itok=lF00p0nH)
-
-**CVS Health: Responding rapidly to an emerging crisis** 
-
-How CVS Health used Bonterra’s Employee Engagement software to quickly deploy a disaster relief campaign, drive colleague participation, and measure impact.
-
-[Read their story onCVS Health: Responding rapidly to an emerging crisis](https://www.everyaction.com/case-studies/cvs-health) 
-
-Impact Powered by:
-
-* Corporate Social Responsibility
-* Healthcare
-* Disaster relief
-* Corporations
-* Foundations & grantmakers
-* Retail
-* Corporate social responsibility
-* Employee giving
 
 Previous Next
 
