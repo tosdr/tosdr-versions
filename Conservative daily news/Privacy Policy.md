@@ -1,4 +1,4 @@
-Friday, October 4 2024
+Saturday, October 5 2024
 
 Breaking News
 
@@ -177,6 +177,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SCOTUS Takes Case Concerning Mexico’s Lawsuit Against U.S. Gunmakers](https://www.thegunpage.com/scotus-takes-case-concerning-mexicos-lawsuit-against-u-s-gunmakers/10611012)
+* [The History of PKM, the Most Common Machine Gun In the World. Part 3](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-3/10611015)
+* [POTD: The Sako TRG M10](https://www.thegunpage.com/potd-the-sako-trg-m10/10611009)
 * [TFB Podcast Roundup 149: The October 4th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-149-the-october-4th-roundup/10611010)
 * [The New Monolith Bufferless DI Rifle From Global Ordnance](https://www.thegunpage.com/the-new-monolith-bufferless-di-rifle-from-global-ordnance/10611011)
 * [8 Best Range Bags to Keep Your Gear Organized and Ready](https://www.thegunpage.com/8-best-range-bags-to-keep-your-gear-organized-and-ready/10611004)
@@ -184,9 +187,6 @@ Recent Posts
 * [POF-USA Launches BASE Rifle](https://www.thegunpage.com/pof-usa-launches-base-rifle/10611007)
 * [Self-Defense in a Wildlife Attack: No Gun? Use This](https://www.thegunpage.com/self-defense-in-a-wildlife-attack-no-gun-use-this/10611002)
 * [MP5 Mag AR? The MASP AR5 Radial Delayed PCC](https://www.thegunpage.com/mp5-mag-ar-the-masp-ar5-radial-delayed-pcc/10611000)
-* [Winchester Ammunition Introduces the 21 Sharp Rimfire Cartridge](https://www.thegunpage.com/winchester-ammunition-introduces-the-21-sharp-rimfire-cartridge/10610993)
-* [Heckler & Koch Announces HK USA](https://www.thegunpage.com/heckler-koch-announces-hk-usa/10611001)
-* [Harris is a Human Disinformation Campaign When It Comes to Guns](https://www.thegunpage.com/harris-is-a-human-disinformation-campaign-when-it-comes-to-guns/10610990)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
