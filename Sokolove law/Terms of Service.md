@@ -135,6 +135,7 @@ Menu
     * [Unum Denials](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/insurance-providers/unum/)
     
     * [Drugs](https://www.sokolovelaw.com/dangerous-drugs/)
+    * [Depo-Provera](https://www.sokolovelaw.com/dangerous-drugs/depo-provera/)
     * [Elmiron](https://www.sokolovelaw.com/dangerous-drugs/elmiron/)
     * [HIV Medications](https://www.sokolovelaw.com/dangerous-drugs/hiv-medications/)
     * [Mounjaro](https://www.sokolovelaw.com/dangerous-drugs/ozempic/mounjaro/)
