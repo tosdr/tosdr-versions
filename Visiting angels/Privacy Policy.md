@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[4 Benefits of Aging in Place](https://www.visitingangels.com/knowledge-center/care-options/4-benefits-of-aging-in-place/348)
+[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
 
-[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
+[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
 
-[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
+[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
 
-[9 Ways to Reduce Seniors’ Discomfort with Personal Care Services](https://www.visitingangels.com/knowledge-center/care-options/9-ways-to-reduce-seniors-discomfort-with-personal-care-services/424)
+[Assisted Living Care Can Be Made Easy](https://www.visitingangels.com/knowledge-center/care-options/assisted-living-care-can-be-made-easy/48)
 
-[The Special Role of Companion Care for Veterans](https://www.visitingangels.com/knowledge-center/selecting-care/the-special-role-of-companion-care-for-veterans/330)
+[Private Duty Home Care: Frequently Asked Questions](https://www.visitingangels.com/knowledge-center/care-options/private-duty-home-care-frequently-asked-questions/58)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
