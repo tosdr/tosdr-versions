@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/europa-verbiedt-schadelijke-gsms-en-wifi-op-scholen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/1300000-iraakse-doden-door-deze-oorlog/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
