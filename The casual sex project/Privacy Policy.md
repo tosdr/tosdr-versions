@@ -104,6 +104,26 @@ Oct 03 2024
 
 By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **20 mins** [Read More](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/how_to_balance_the_budget.jpg)[](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/ "Read More")
+
+Commentary Economics Tax & Budget
+
+Oct 04 2024
+
+[How to Balance the Budget](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
+
+By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/), [Andrew G. Biggs](https://admin.mi52siterestore.com/person/andrew-g-biggs/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/katz-sep-price-report.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/ "Read More")
+
+Commentary Economics Finance, Employment
+
+Oct 04 2024
+
+[Comments on the September Employment Report](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/)
+
+By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/the-four-forces-that-have-shaped-the-subway-system.jpg)[](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/ "Read More")
 
 Commentary Cities New York, New York City
@@ -123,26 +143,6 @@ Oct 01 2024
 [America’s Disorder Problem](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/mayor-hochul-to-the-rescue-guv-can-help-nyc-amid-adams-weakens.jpg)[](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/ "Read More")
-
-Commentary Governance, Cities New York, New York City
-
-Sep 29 2024
-
-[Mayor Hochul to the Rescue? Here’s How Gov Can Help NYC as Adams Flounders](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/mayor-hochul-to-the-rescue-heres-how-gov-can-help-nyc-as-adams-flounders/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/florida-could-have-same-issues-as-ny-with-legal-marijuana.jpg)[](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/ "Read More")
-
-Commentary Governance, Health Culture & Society
-
-Sep 28 2024
-
-[Why Florida Could End Up with the Same Issues as NY If It Makes Pot Legal](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-florida-could-end-up-with-the-same-issues-as-ny-if-it-makes-pot-legal/)
 
 Our Policy Areas
 ----------------
