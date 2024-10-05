@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BANW vs ENGW - Preview](https://www.cricbuzz.com/live-cricket-scores/94568/banw-vs-engw-6th-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v England Women, 6th Match, Group B - Preview")[SLW vs AUSW - Complete](https://www.cricbuzz.com/live-cricket-scores/94577/slw-vs-ausw-5th-match-group-a-icc-womens-t20-world-cup-2024 "Sri Lanka Women v Australia Women, 5th Match, Group A - Complete")[BR vs GAW - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-caribbean-premier-league-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - GAW Won")[INDW vs PAKW - Preview](https://www.cricbuzz.com/live-cricket-scores/94586/indw-vs-pakw-7th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v Pakistan Women, 7th Match, Group A - Preview")[NAM vs USA - Live](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-t20i-tri-series-2024 "Namibia v United States, 6th Match - Live")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENGW vs BANW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94568/engw-vs-banw-6th-match-group-b-icc-womens-t20-world-cup-2024 "England Women v Bangladesh Women, 6th Match, Group B - ENGW Won")[SLW vs AUSW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94577/slw-vs-ausw-5th-match-group-a-icc-womens-t20-world-cup-2024 "Sri Lanka Women v Australia Women, 5th Match, Group A - AUSW Won")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100238/ind-vs-ban-1st-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st T20I - Preview")[INDW vs PAKW - Preview](https://www.cricbuzz.com/live-cricket-scores/94586/indw-vs-pakw-7th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v Pakistan Women, 7th Match, Group A - Preview")[BR vs GAW - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-caribbean-premier-league-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - GAW Won")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100238/ind-vs-ban-1st-t20i-bangladesh-v-india-2024 "India v Bangladesh, 1st T20I - Upcoming")
+    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100238/ind-vs-ban-1st-t20i-bangladesh-v-india-2024 "India v Bangladesh, 1st T20I - Preview")
     
     1st T20I
     
@@ -106,7 +106,7 @@ AllLive NowToday
     
     5th Match
     
-* [Namibia vs United States  LIVE](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-tri-series-2024 "Namibia v United States, 6th Match - Live")
+* [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-tri-series-2024 "Namibia v United States, 6th Match - USA Won")
     
     6th Match
     
@@ -158,11 +158,11 @@ AllLive NowToday
     
 * CSA T20 Knock Out Competition
     
-    [Tuskers vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105220/tusks-vs-ncape-14th-match-csa-t20-knock-out-competition "Tuskers v Northern Cape, 14th Match - Toss")
+    [Tuskers vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105220/tusks-vs-ncape-14th-match-csa-t20-knock-out-competition "Tuskers v Northern Cape, 14th Match - TUSKS Won")
     
     14th Match
     
-* [Eastern Cape vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105218/ecape-vs-swd-13th-match-csa-t20-knock-out-competition "Eastern Cape v South Western Districts, 13th Match - Toss")
+* [Eastern Cape vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105218/ecape-vs-swd-13th-match-csa-t20-knock-out-competition "Eastern Cape v South Western Districts, 13th Match - SWD Won")
     
     13th Match
     
@@ -172,25 +172,25 @@ AllLive NowToday
     
 * LLC 2024
     
-    [Manipal Tigers vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107137/mt-vs-tyh-13th-match-llc-2024 "Manipal Tigers v Toyam Hyderabad, 13th Match - Complete")
-    
-    13th Match
-    
-* [Konark Suryas Odisha vs India Capitals](https://www.cricbuzz.com/live-cricket-scores/107140/knso-vs-indcap-14th-match-llc-2024 "Konark Suryas Odisha v India Capitals, 14th Match - KNSO Won")
+    [Konark Suryas Odisha vs India Capitals](https://www.cricbuzz.com/live-cricket-scores/107140/knso-vs-indcap-14th-match-llc-2024 "Konark Suryas Odisha v India Capitals, 14th Match - KNSO Won")
     
     14th Match
     
-* [Gujarat Greats vs Manipal Tigers](https://www.cricbuzz.com/live-cricket-scores/107148/gugs-vs-mt-15th-match-llc-2024 "Gujarat Greats v Manipal Tigers, 15th Match - Complete")
+* [Gujarat Greats vs Manipal Tigers](https://www.cricbuzz.com/live-cricket-scores/107148/gugs-vs-mt-15th-match-llc-2024 "Gujarat Greats v Manipal Tigers, 15th Match - MT Won")
     
     15th Match
     
-* [Toyam Hyderabad vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107156/tyh-vs-snss-16th-match-llc-2024 "Toyam Hyderabad v Southern Super Stars, 16th Match - Preview")
+* [Toyam Hyderabad vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107156/tyh-vs-snss-16th-match-llc-2024 "Toyam Hyderabad v Southern Super Stars, 16th Match - TYH Won")
     
     16th Match
     
-* [Konark Suryas Odisha vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107161/knso-vs-tyh-17th-match-llc-2024 "Konark Suryas Odisha v Toyam Hyderabad, 17th Match - Upcoming")
+* [Konark Suryas Odisha vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107161/knso-vs-tyh-17th-match-llc-2024 "Konark Suryas Odisha v Toyam Hyderabad, 17th Match - Preview")
     
     17th Match
+    
+* [India Capitals vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107164/indcap-vs-gugs-18th-match-llc-2024 "India Capitals v Gujarat Greats, 18th Match - Upcoming")
+    
+    18th Match
     
 * DOMESTIC
     
@@ -216,11 +216,11 @@ AllLive NowToday
     
     12th Match
     
-* [Denmark vs Jersey](https://www.cricbuzz.com/live-cricket-scores/108145/den-vs-jer-15th-match-icc-cwc-challenge-league-a-2024-26 "Denmark v Jersey, 15th Match - Toss")
+* [Jersey vs Denmark](https://www.cricbuzz.com/live-cricket-scores/108145/jer-vs-den-15th-match-icc-cwc-challenge-league-a-2024-26 "Jersey v Denmark, 15th Match - JER Won")
     
     15th Match
     
-* [Kenya vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108139/ken-vs-png-14th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Papua New Guinea, 14th Match - Toss")
+* [Kenya vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108139/ken-vs-png-14th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Papua New Guinea, 14th Match - PNG Won")
     
     14th Match
     
@@ -228,15 +228,7 @@ AllLive NowToday
     
     ICC Womens T20 World Cup
     
-    [Bangladesh Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94541/banw-vs-scow-1st-match-group-b-icc-womens-t20-world-cup "Bangladesh Women v Scotland Women, 1st Match, Group B - BANW Won")
-    
-    1st Match, Group B
-    
-* [Pakistan Women vs Sri Lanka Women](https://www.cricbuzz.com/live-cricket-scores/94550/pakw-vs-slw-2nd-match-group-a-icc-womens-t20-world-cup "Pakistan Women v Sri Lanka Women, 2nd Match, Group A - PAKW Won")
-    
-    2nd Match, Group A
-    
-* [West Indies Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")
+    [West Indies Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")
     
     3rd Match, Group B
     
@@ -244,11 +236,11 @@ AllLive NowToday
     
     4th Match, Group A
     
-* [Sri Lanka Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/94577/slw-vs-ausw-5th-match-group-a-icc-womens-t20-world-cup "Sri Lanka Women v Australia Women, 5th Match, Group A - Complete")
+* [Sri Lanka Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/94577/slw-vs-ausw-5th-match-group-a-icc-womens-t20-world-cup "Sri Lanka Women v Australia Women, 5th Match, Group A - AUSW Won")
     
     5th Match, Group A
     
-* [Bangladesh Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94568/banw-vs-engw-6th-match-group-b-icc-womens-t20-world-cup "Bangladesh Women v England Women, 6th Match, Group B - Preview")
+* [England Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/94568/engw-vs-banw-6th-match-group-b-icc-womens-t20-world-cup "England Women v Bangladesh Women, 6th Match, Group B - ENGW Won")
     
     6th Match, Group B
     
@@ -256,9 +248,13 @@ AllLive NowToday
     
     7th Match, Group A
     
-* [West Indies Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94595/wiw-vs-scow-8th-match-group-b-icc-womens-t20-world-cup "West Indies Women v Scotland Women, 8th Match, Group B - Upcoming")
+* [West Indies Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94595/wiw-vs-scow-8th-match-group-b-icc-womens-t20-world-cup "West Indies Women v Scotland Women, 8th Match, Group B - Preview")
     
     8th Match, Group B
+    
+* [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94604/engw-vs-rsaw-9th-match-group-b-icc-womens-t20-world-cup "England Women v South Africa Women, 9th Match, Group B - Upcoming")
+    
+    9th Match, Group B
     
 * Japan Women v Singapore Women
     
@@ -581,41 +577,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131878/afridi-looks-to-soar-once-more "Afridi looks to soar once more ")
+  [](https://www.cricbuzz.com/cricket-news/131885/vulnerable-india-look-to-halt-pakistans-progress "Vulnerable India look to halt Pakistan's progress ")
 
-[Afridi looks to soar once more](https://www.cricbuzz.com/cricket-news/131878/afridi-looks-to-soar-once-more "Afridi looks to soar once more ")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131877/mumbai-clinch-irani-cup-on-first-innings-lead "Mumbai clinch Irani Cup on first-innings lead")
-
-[Mumbai clinch Irani Cup on first-innings lead](https://www.cricbuzz.com/cricket-news/131877/mumbai-clinch-irani-cup-on-first-innings-lead "Mumbai clinch Irani Cup on first-innings lead")
+[Vulnerable India look to halt Pakistan's progress](https://www.cricbuzz.com/cricket-news/131885/vulnerable-india-look-to-halt-pakistans-progress "Vulnerable India look to halt Pakistan's progress ")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131876/west-indies-seek-quick-turnaround-after-south-africa-drubbing "West Indies seek quick turnaround after opening blues")
+  [](https://www.cricbuzz.com/cricket-news/131884/england-get-off-the-mark-with-comfortable-win "Linsey Smith, Charlotte Dean inspire England to winning start")
 
-[West Indies seek quick turnaround after opening blues](https://www.cricbuzz.com/cricket-news/131876/west-indies-seek-quick-turnaround-after-south-africa-drubbing "West Indies seek quick turnaround after opening blues")
+[Linsey Smith, Charlotte Dean inspire England to winning start](https://www.cricbuzz.com/cricket-news/131884/england-get-off-the-mark-with-comfortable-win "Linsey Smith, Charlotte Dean inspire England to winning start")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131875/ben-stokes-out-of-first-pakistan-test-carse-to-debut "Ben Stokes out of first Pakistan Test; Carse to debut")
+  [](https://www.cricbuzz.com/cricket-news/131883/acc-sets-170-million-base-price-for-four-asia-cup-rights "ACC sets USD 170 million base price for four Asia Cup rights")
 
-[Ben Stokes out of first Pakistan Test; Carse to debut](https://www.cricbuzz.com/cricket-news/131875/ben-stokes-out-of-first-pakistan-test-carse-to-debut "Ben Stokes out of first Pakistan Test; Carse to debut")
+[ACC sets USD 170 million base price for four Asia Cup rights](https://www.cricbuzz.com/cricket-news/131883/acc-sets-170-million-base-price-for-four-asia-cup-rights "ACC sets USD 170 million base price for four Asia Cup rights")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131882/spotlight-on-indias-young-guns-in-gwaliors-newest-territory "Spotlight on India's young guns in Gwalior's newest territory")
+
+[Spotlight on India's young guns in Gwalior's newest territory](https://www.cricbuzz.com/cricket-news/131882/spotlight-on-indias-young-guns-in-gwaliors-newest-territory "Spotlight on India's young guns in Gwalior's newest territory")
 
 3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131874/a-good-ball-is-a-good-ball-for-any-batter-tanzim-sakib "'A good ball is a good ball for any batter' - Tanzim Sakib")
+  [](https://www.cricbuzz.com/cricket-news/131881/the-anatomy-of-the-multan-pitch "The anatomy of the Multan pitch")
 
-['A good ball is a good ball for any batter' - Tanzim Sakib](https://www.cricbuzz.com/cricket-news/131874/a-good-ball-is-a-good-ball-for-any-batter-tanzim-sakib "'A good ball is a good ball for any batter' - Tanzim Sakib")
+[The anatomy of the Multan pitch](https://www.cricbuzz.com/cricket-news/131881/the-anatomy-of-the-multan-pitch "The anatomy of the Multan pitch")
 
-4h ago
+3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131873/pooran-russell-among-seniors-to-skip-sri-lanka-tour "Pooran, Russell among seniors to skip Sri Lanka tour")
+  [](https://www.cricbuzz.com/cricket-news/131880/bcci-looking-at-saudi-cities-for-2-day-mega-ipl-auction "BCCI looking at Saudi cities for two-day mega IPL auction")
 
-[Pooran, Russell among seniors to skip Sri Lanka tour](https://www.cricbuzz.com/cricket-news/131873/pooran-russell-among-seniors-to-skip-sri-lanka-tour "Pooran, Russell among seniors to skip Sri Lanka tour")
+[BCCI looking at Saudi cities for two-day mega IPL auction](https://www.cricbuzz.com/cricket-news/131880/bcci-looking-at-saudi-cities-for-2-day-mega-ipl-auction "BCCI looking at Saudi cities for two-day mega IPL auction")
 
-6h ago
+5h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
