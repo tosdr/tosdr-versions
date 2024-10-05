@@ -1,8 +1,8 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwCZOQoAAVEAAABcdcA)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwDtwAoAAVEAAABcbvw)
 
 Es noticia
 
-* [Israel](https://www.elmundo.es/internacional/2024/10/04/66ff77f541c601002424d7eb-directo.html)
+* [Israel](https://www.elmundo.es/internaciohttps://www.elmundo.es/internacional/2024/10/05/6700ca1841c6010024254561-directo.html)
 * [Bildu](https://www.elmundo.es/espana/2024/10/04/66ffbfaf21efa0067d8b457e.html)
 * [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/04/66ffca5e21efa05f678b4576.html)
 * [Page](https://www.elmundo.es/espana/2024/10/04/66ffe5a3fc6c837f4a8b456e.html)
