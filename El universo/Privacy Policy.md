@@ -12,7 +12,7 @@ MENÚ
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
 
-4 de octubre de 2024
+5 de octubre de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
