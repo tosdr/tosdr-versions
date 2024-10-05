@@ -214,25 +214,7 @@ RIVAIS?
 
 Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista
 
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")[![Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/b/csm_alisson_preso_que_disse_ser_mais_perigoso_que_beira-mar_bb3bf085ee.jpg)
-
-acusado de furto
-
-acusado de furto
-
-Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'
-
-Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'](https://www.tnh1.com.br/noticia/nid/preso-diz-a-juiz-ser-mais-perigoso-que-beira-mar-va-vestir-uma-fralda-cachorro/ "Preso diz a juiz ser mais perigoso que Beira-Mar: 'Vá vestir uma fralda, cachorro'")[![Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_advogada_agredida_reproducao_1a1e38da22.jpg)
-
-em lagoa da canoa
-
-em lagoa da canoa
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata
-
-Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata](https://www.tnh1.com.br/noticia/nid/video-tenente-coronel-e-assessor-de-candidato-e-detido-por-agressao-a-advogada-de-candidata/ "Vídeo: tenente-coronel, e assessor de candidato, é detido por agressão à advogada de candidata")
-
-[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
+Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
 
 No Paraná
 
@@ -240,31 +222,49 @@ No Paraná
 
 Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_barco-vira-congo-mortos-reproducao_cbbfc11c94.png)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_Joao_Vieira__volante_do_Paysandu__em_viagem_com_o_elenco_-_Foto_Jorge_Luis_Totti_-_Paysandu_1f65a319ff.jpg)
 
-Muitos desaparecidos
+série b
 
-Muitos desaparecidos
+série b
 
-Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas
+Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time
 
-Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas](https://www.tnh1.com.br/noticia/nid/barco-superlotado-vira-em-lago-no-congo-e-deixa-ao-menos-78-pessoas-mortas/ "Barco superlotado vira em lago no Congo e deixa ao menos 78 pessoas mortas ")[![Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_arena-fonte-nova-reproducao-EC-Bahia_9f21a0d723.jpg)
+Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time](https://www.tnh1.com.br/noticia/nid/repleto-de-desfalques-paysandu-viaja-para-encarar-o-crb-veja-provavel-time/ "Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time")
 
-19 de novembro
+[![Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
 
-19 de novembro
+depoimento revelador
 
-Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador
+depoimento revelador
 
-Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador](https://www.tnh1.com.br/noticia/nid/selecao-brasileira-enfrentara-o-uruguai-na-fonte-nova-em-salvador/ "Seleção brasileira enfrentará o Uruguai na Fonte Nova, em Salvador")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
+Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas
 
-processo seletivo
+Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas](https://www.tnh1.com.br/noticia/nid/testemunha-revela-sinal-secreto-de-diddy-para-iniciar-momento-proibidao-de-suas-festas/ "Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas")[![Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_gravida-sobreviveu-furacao-reproducao_0023536d44.jpg)
 
-processo seletivo
+NOS EUA
 
-Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever
+NOS EUA
 
-Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
+Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas
+
+Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas](https://www.tnh1.com.br/noticia/nid/gravida-sobrevive-ao-furacao-helene-boiando-em-colchao-com-seu-cao-por-8-horas/ "Grávida sobrevive ao furacão Helene boiando em colchão com seu cão por 8 horas")[![Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_Implanon-Reproductive_Health_Supplies_CoalitionUnsplash_301d72d143.png)
+
+implante subcutâneo
+
+implante subcutâneo
+
+Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia
+
+Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia](https://www.tnh1.com.br/noticia/nid/saiba-o-que-e-implanon-metodo-contraceptivo-usado-pela-influencer-virginia/ "Saiba o que é Implanon, método contraceptivo usado pela influencer Virginia ")[![Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/e/csm_cookie-loja-crumbl-divulgacao_2b7e2a363e.jpg)
+
+Causou polêmica
+
+Causou polêmica
+
+Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália
+
+Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália](https://www.tnh1.com.br/noticia/nid/como-cookie-velho-vendido-a-r-65-causou-revolta-nas-redes-sociais-da-australia/ "Como cookie velho vendido a R$ 65 causou revolta nas redes sociais da Austrália")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
