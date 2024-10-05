@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 05, 2024](https://www.japantimes.co.jp/archive/2024/10/05/ "archive page")
+[October 06, 2024](https://www.japantimes.co.jp/archive/2024/10/06/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,17 +463,13 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
-
-  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
-
 [High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
   [![The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425981.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius")](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
@@ -483,25 +479,25 @@ Revised June 1, 2022
 
   [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
 
-[How climate change affects Japan's typhoons](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-  [![A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425780.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.")](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-[Who can challenge Onosato's dominance? Takerufuji might be the best bet.](https://www.japantimes.co.jp/sports/2024/10/02/sumo/takerufuji-onosato-challenger/ "Who can challenge Onosato's dominance? Takerufuji might be the best bet.")
+[Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-  [![Takerufuji, the most recent Emperor’s Cup winner apart from Terunofuji and Onosato, claimed the second-tier title in September in his first full tournament back from injury after a six-month absence. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425362.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takerufuji, the most recent Emperor’s Cup winner apart from Terunofuji and Onosato, claimed the second-tier title in September in his first full tournament back from injury after a six-month absence. ")](https://www.japantimes.co.jp/sports/2024/10/02/sumo/takerufuji-onosato-challenger/ "Who can challenge Onosato's dominance? Takerufuji might be the best bet.")
+  [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-[Japan's new top diplomat calls 'Asian NATO' an idea for the future](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
+[Japan’s biggest Louise Bourgeois exhibit yet leans into ambivalence](https://www.japantimes.co.jp/culture/2024/10/04/art/louise-bourgeois-mori-art-museum/ "Japan’s biggest Louise Bourgeois exhibit yet leans into ambivalence")
 
-  [![Newly appointed Foreign Minister Takeshi Iwaya speaks during his first news conference as Japan's top diplomat at the Foreign Ministry in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425507.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Newly appointed Foreign Minister Takeshi Iwaya speaks during his first news conference as Japan's top diplomat at the Foreign Ministry in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/takeshi-iwaya-asian-nato/ "Japan's new top diplomat calls 'Asian NATO' an idea for the future")
+  [![Bourgeois is perhaps best known among the general public for her giant steel spider sculptures, particularly in Tokyo, where a nearly 10-meter tall bronze cast of the original spider has loomed over the walkway in Roppongi Hills since 2003.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Bourgeois is perhaps best known among the general public for her giant steel spider sculptures, particularly in Tokyo, where a nearly 10-meter tall bronze cast of the original spider has loomed over the walkway in Roppongi Hills since 2003.")](https://www.japantimes.co.jp/culture/2024/10/04/art/louise-bourgeois-mori-art-museum/ "Japan’s biggest Louise Bourgeois exhibit yet leans into ambivalence")
 
-[Ishiba looks to 'defense tribe' to fill key Cabinet positions](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+[Japan great Ayami Sato helps shine light on women's baseball in new documentary](https://www.japantimes.co.jp/sports/2024/10/03/baseball/ayami-sato-see-her-be-her/ "Japan great Ayami Sato helps shine light on women's baseball in new documentary")
 
-  [![Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425359.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Defense Minister Gen Nakatani, 66, has experience as the onetime head of Japan’s former Defense Agency before it became a full-fledged ministry and is seen as a pair of steady hands.")](https://www.japantimes.co.jp/news/2024/10/02/japan/politics/defense-foreign-ministers/ "Ishiba looks to 'defense tribe' to fill key Cabinet positions")
+  [![Ayami Sato is one of the best female players in baseball history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425598.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ayami Sato is one of the best female players in baseball history.")](https://www.japantimes.co.jp/sports/2024/10/03/baseball/ayami-sato-see-her-be-her/ "Japan great Ayami Sato helps shine light on women's baseball in new documentary")
 
-[Investment and romance fraud cases triple in first eight months of year](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-  [![The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The National Police Agency has noted a major rise in online investment fraud cases, incidents of which have more than quadrupled in the first eight months of this year.")](https://www.japantimes.co.jp/news/2024/10/03/japan/crime-legal/romance-scams-fraud-cases-triple/ "Investment and romance fraud cases triple in first eight months of year")
+  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
 Podcast
 -------
@@ -522,9 +518,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +560,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
-
-47 mins ago
-
-[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
-
-1 hours ago
-
-[Government looks to improve safety at Japan's dangerous railway crossings](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-railway-crossing-safety/ "Government looks to improve safety at Japan's dangerous railway crossings")
+[Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes](https://www.japantimes.co.jp/news/2024/10/05/world/gaza-israel-early-emails-us/ "Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes")
 
 3 hours ago
 
-[11 Japanese nationals flee Lebanon on SDF plane](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-nationals-sdf-flee-lebanon/ "11 Japanese nationals flee Lebanon on SDF plane")
+[Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says](https://www.japantimes.co.jp/news/2024/10/05/japan/ishiba-noto-peninsula-severe-disaster/ "Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says")
 
-4 hours ago
+5 hours ago
 
-[Chagos diaspora angry at lack of input on islands' fate](https://www.japantimes.co.jp/news/2024/10/05/world/society/chagos-diaspora-angry/ "Chagos diaspora angry at lack of input on islands' fate")
+[Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction](https://www.japantimes.co.jp/news/2024/10/05/world/yahya-sinwar-committed/ "Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction")
 
-4 hours ago
+5 hours ago
+
+[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
+
+6 hours ago
+
+[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
+
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
