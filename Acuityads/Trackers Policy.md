@@ -49,9 +49,9 @@
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin to Participate in Upcoming Investor Conferences](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin to Participate in Upcoming Investor Conferences[Read More](https://illumin.com/news-press/illumin-to-participate-in-upcoming-investor-conferences/)
+        illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-for-q3-2024-financial-and-operating-results/)
         
 * [Request a demo](https://illumin.com/product/request-a-demo/)
 
