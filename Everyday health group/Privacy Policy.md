@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/black-colored-plastic-linked-toxic-flame-retardants-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/bright-light-therapy-lamps-for-non-seasonal-depression-1440x810.jpg)
 
-Black Plastic Cookware and Takeout Containers May Contain Toxic Chemicals](https://www.everydayhealth.com/public-health/black-plastic-cookware-may-contain-toxic-chemicals/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Bright Light Therapy May Help Depression Year-Round](https://www.everydayhealth.com/mental-health-conditions/bright-light-therapy-may-help-depression-year-round/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/fewer-black-americans-dying-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/an-egg-day-lower-dementia-risk-1440x810.jpg)
 
-Black Americans Are Still More Likely to Die Early Than Their White Peers](https://www.everydayhealth.com/black-health/black-americans-more-likely-to-die-early-compared-to-their-white-peers/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+An Egg a Day Might Keep Dementia Away](https://www.everydayhealth.com/neurological-disorders/egg-a-day-might-keep-dementia-away/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
