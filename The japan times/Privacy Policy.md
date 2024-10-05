@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,23 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's three major business lobbies submit policy requests to Ishiba](https://www.japantimes.co.jp/business/2024/10/04/business-lobbies-policy-requests/ "Japan's three major business lobbies submit policy requests to Ishiba")
+[Stepped-up global easing risks making it harder for BOJ to hike](https://www.japantimes.co.jp/business/2024/10/05/markets/boj-hike-global-easing-hurdle/ "Stepped-up global easing risks making it harder for BOJ to hike")
 
-9 hours ago
+46 mins ago
 
-[EU presses ahead with Chinese EV tariffs after split vote](https://www.japantimes.co.jp/business/2024/10/04/eu-china-ev-tariffs/ "EU presses ahead with Chinese EV tariffs after split vote")
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
 
-9 hours ago
+1 hours ago
 
-[Japan says Paul Watson case 'nothing to do with whaling'](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/paul-watson-case-whaling/ "Japan says Paul Watson case 'nothing to do with whaling'")
+[Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday](https://www.japantimes.co.jp/news/2024/10/05/japan/megumi-yokota-60th-birthday/ "Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday")
 
-10 hours ago
+1 hours ago
 
-[Seven & I considering supermarket stake sale ahead of IPO, sources say](https://www.japantimes.co.jp/business/2024/10/04/seven-i-supermarket-unit/ "Seven & I considering supermarket stake sale ahead of IPO, sources say")
+[These are boom times for ‘degrowth’](https://www.japantimes.co.jp/business/2024/10/05/economy/degrowth-kohei-saito/ "These are boom times for ‘degrowth’")
 
-10 hours ago
+1 hours ago
 
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+[One job by day, another by night as U.S. voters make ends meet](https://www.japantimes.co.jp/news/2024/10/05/world/society/us-voters-make-ends-meet/ "One job by day, another by night as U.S. voters make ends meet")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
