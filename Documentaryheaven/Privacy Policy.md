@@ -113,11 +113,6 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
-    
-    Canada’s woke nightmare: A warning to the West
-    
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
@@ -128,6 +123,11 @@ Advertisement
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+    
+    Canada’s woke nightmare: A warning to the West
+    
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 * [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
     
     Very Young Girls
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![For the Love of the Leader](/wp-content/thumbnails/5599-100x70.jpg?x53432)
+* [![Police in Danger: Caught on Camera](/wp-content/thumbnails/14418-100x70.jpg?x53432)
     
-    For the Love of the Leader
+    Police in Danger: Caught on Camera
     
-    This is the story of an extraordinary love affair between one Nation’s women and its leader.The Nation is Libya, an Islamic socialist state.Its leader, Muammar Gaddafi, a man reviled in the we](https://documentaryheaven.com/for-the-love-of-the-leader/ "For the Love of the Leader")
-* [![Frank Abagnale](/wp-content/thumbnails/5741-100x70.jpg?x53432)
+    It should come as no surprise that police officers put themselves into some very dangerous situations on a daily basis and with the rise of body cameras the severity of these situations is becoming mo](https://documentaryheaven.com/police-danger-caught-camera/ "Police in Danger: Caught on Camera")
+* [![History of Modern Iran: Rogue State](/wp-content/thumbnails/7675-100x70.jpg?x53432)
     
-    Frank Abagnale
+    History of Modern Iran: Rogue State
     
-    The movie "Catch Me If You Can" is based on the life of Frank Abagnale. Now you can hear Frank's version of Steven Spielbergs movie as he tells it here at this conference. xannonce geneveYou can r](https://documentaryheaven.com/frank-abagnale/ "Frank Abagnale")
-* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
+    Iran and the West is the name of a three part British documentary series shown in February 2009 on BBC Two to mark the 30th anniversary of the 1979 Iranian Revolution. The documentary looks at the rel](https://documentaryheaven.com/history-modern-iran-rogue-state/ "History of Modern Iran: Rogue State")
+* [![The Story of One](/wp-content/thumbnails/4884-100x70.jpg?x53432)
     
-    Catastrophe: The Day The Sun Went Out
+    The Story of One
     
-    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
-* [![WWII in HD EP2/10](/wp-content/thumbnails/4655-100x70.jpg?x53432)
+    Terry Jones (of Monty Python’s Flying Circus) goes on a humor-filled journey to recount the amazing tale behind the world’s simplest number.Using computer graphics, “One” is brought to life, in all](https://documentaryheaven.com/the-story-of-one/ "The Story of One")
+* [![The Birmingham Six: Their Own Story](/wp-content/thumbnails/5899-100x70.jpg?x53432)
     
-    WWII in HD EP2/10
+    The Birmingham Six: Their Own Story
     
-    Episode 2: Hard Way Back The Allies take on the daunting forces of the Axis, with victory far from certain. Charles Scheffel battles Rommel’s forces in Tunisia and Jack Werner faces bitter combat in t](https://documentaryheaven.com/wwii-in-hd-ep2/ "WWII in HD EP2/10")
-* [![Forest of Crocodiles](/wp-content/thumbnails/6626-100x70.jpg?x53432)
+    On 21 November, 1974, the Mulberry Bush pub at the foot of the city's Rotunda tower and the nearby Tavern in the Town, were both destroyed within minutes of each other. Six men imprisoned for the att](https://documentaryheaven.com/the-birmingham-six-their-own-story/ "The Birmingham Six: Their Own Story")
+* [![Mexico’s Drug War](/wp-content/thumbnails/6012-100x70.jpg?x53432)
     
-    Forest of Crocodiles
+    Mexico’s Drug War
     
-    What choices do white South Africans make when addressing their fears of crime and violence? Some are well resourced while others are ingeniously resourceful. The consequences are regression and isola](https://documentaryheaven.com/forest-of-crocodiles/ "Forest of Crocodiles")
+    Violence is running out of control in Mexico as rival drug cartels battle over the smuggling routes to America. Mexico’s president has declared war on the gangsters but the only result appears to be a](https://documentaryheaven.com/mexicos-drug-war/ "Mexico’s Drug War")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
