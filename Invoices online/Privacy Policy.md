@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Hugo van Sittert
+Anri van der Linde
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=50642478)  
-Salvage Genie
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=164492980)  
+Imvubu General Trading
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=6579348)  
-West Coast Horse Trails
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=185412707)  
+Itroniq (Pty) Ltd
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=81064729)  
-Know Informatics
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=65313956)  
+Nogana Events and Decor
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=167625602)  
-van Schaik rentals
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=55094512)  
+Three Moons Emporium
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=156831142)  
-Lion Software Develepment
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=115790532)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=122464987)  
-NEW BEGINNINGS DESIGNS
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=124413974)  
+NIMAWELL
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=150833646)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=62310733)  
+IEMS (PTY) ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=105955760)  
-FJW Security Cc
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=44076378)  
+Fox Alarms & Security
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=108794850)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=181002883)  
+Moremi Kitchens Rustenburg
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=69618819)  
-Dr V Naik Consult
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=138076914)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=214338754)  
-Kaylas Creations
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=56356106)  
+Lily Fern & Co
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=13029319)  
-Dombieterfontein (PTY) LTD
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=120275057)  
+Waterfinatics Swim School
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=162001281)  
-Depot Diesel (Pty) Ltd
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=65054118)  
+MONSTER SECURITY SERVICES
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=5286234)  
-Alliance Energy
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=189915885)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=06a5554cbbc6f30e13d4862913704254e332daa89a9f8dd440bceb93ec747996&c=68715044)  
-TurboFibre
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=132503065)  
+M's Frozen Delights
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
