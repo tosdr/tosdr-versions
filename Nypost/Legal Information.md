@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Ex-NY Gov. David Paterson attacked by young trio while walking on UES: sources](https://nypost.com/2024/10/04/us-news/new-york-ex-gov-david-paterson-attacked-by-youngersters-on-upper-east-side-in-manhattan/)
+
 Privacy Notice Highlights
 =========================
 
