@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [I'm Socially Liberal, Fiscally a Billionaire](https://www.somethingawful.com/news/fiscally-billionaire/)
-* [Breakfast Cereals 2](https://www.somethingawful.com/photoshop-phriday/breakfast-cereals-2/1/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
-* [Cross-Eyed Celebrities!](https://www.somethingawful.com/comedy-goldmine/cross-eyed-celebrities/1/)
-* [Movies + Video Game Names! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/video-game-movies2/1/)
+* [The Lying Game](https://www.somethingawful.com/news/hannah-montana-essay/)
+* [2009 Presidential Press Conference Preview (The Republicans)](https://www.somethingawful.com/news/press-conference-republicans/1/)
+* [Five Household Tools Everyone Should Own](https://www.somethingawful.com/news/five-household-tools/)
+* [Troll 3 / The Crawlers](https://www.somethingawful.com/movie-reviews/troll-crawlers/1/)
+* [What if Disney Princesses Were Punisher Skull Decals?](https://www.somethingawful.com/news/princess-punisher-skull/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Does anyone know where Seth Altman is?](http://forums.somethingawful.com/showthread.php?threadid=4071899 "Does anyone know where Seth Altman is?")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Video games from your childhood that were fucking impossible to beat](http://forums.somethingawful.com/showthread.php?threadid=4071872 "Video games from your childhood that were fucking impossible to beat")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Old Friends who became freaks](http://forums.somethingawful.com/showthread.php?threadid=4071916 "Old Friends who became freaks")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Does anyone know where Seth Altman is?](http://forums.somethingawful.com/showthread.php?threadid=4071899 "Does anyone know where Seth Altman is?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD](http://forums.somethingawful.com/showthread.php?threadid=4071947 "ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD")
 
 ### Random Articles
 
-* [Sitcoms Throughout History!](https://www.somethingawful.com/photoshop-phriday/sitcoms-throughout-history/1/)
-* [Signs That the Xbox One Might Be Underpowered](https://www.somethingawful.com/news/xbox-one-underpowered/)
-* [Utah Being Utah!](https://www.somethingawful.com/comedy-goldmine/utah-reckless-miscarriage/1/)
-* [Let's Start Our Own Mafia](https://www.somethingawful.com/news/our-new-mafia/1/)
-* [Time to Go Back (In Time)](https://www.somethingawful.com/feature-articles/time-go-back/1/)
+* [Hybrid: the roleplaying game](https://www.somethingawful.com/awful-links/awful-link-1261/)
+* [Flash Game: Schmuck Hunt!](https://www.somethingawful.com/feature-articles/flash-game-schmuck/)
+* [Shaggy Butte Police Blotter for March 6, 2012](https://www.somethingawful.com/news/shaggy-butte-blotter/)
+* [Diet Riot](https://www.somethingawful.com/news/diet-riot/)
+* [Look Ma! I'm Updating on a Holiday Again!](https://www.somethingawful.com/news/look-ma-im/)
 
 [Random!](https://www.somethingawful.com/random/)
 
