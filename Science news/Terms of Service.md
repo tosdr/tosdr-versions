@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")19 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 4, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A transatlantic flight may turn Saharan dust into a key ocean nutrient](https://www.sciencenews.org/article/saharan-dust-becomes-ocean-nutrient)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")16 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")22 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")19 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 4, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -184,23 +184,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [50 years ago, satellites threatened astronomers’ view of the cosmos](https://www.sciencenews.org/article/satellites-cosmos-view-50-years-ago)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")21 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")October 4, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [Betelgeuse has a tiny companion star hidden in plain sight](https://www.sciencenews.org/article/betelgeuse-hidden-companion-star)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 30, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [Starlink satellites’ leaky radio waves obscure the cosmos](https://www.sciencenews.org/article/starlink-satellites-radio-waves)
-            
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")September 30, 2024
             
 
 Terms of Service
