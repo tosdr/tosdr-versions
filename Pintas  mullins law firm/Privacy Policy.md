@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
+[![Who can file a sex abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Can File a Sex Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/ "Who Can File a Sex Abuse Claim Against the Mormon Church?")
 
-[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
+[#### Who Can File a Sex Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/)
 
-[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
+[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
 
-[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
+[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
 
-[![How much do insurance companies pay for pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-how-much-do-insurance-companies-pay-for-pain-and-suffering.jpg "How Much Do Insurance Companies Pay For Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement "How Much Do Insurance Companies Pay For Pain and Suffering?")
+[![How quickly does lung cancer develop?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-quickly-does-lung-cancer-develop.jpg "How Quickly Does Lung Cancer Develop?")](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/ "How Quickly Does Lung Cancer Develop?")
 
-[#### How Much Do Insurance Companies Pay For Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement)
+[#### How Quickly Does Lung Cancer Develop?](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
