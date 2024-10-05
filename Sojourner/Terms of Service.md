@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9db2d52932c1d32d89c829f89d56815b
+39fc1b73fa5b454f88541bb0c2fd9a2e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm by 8 mm glass chevrons](https://sojourner.biz/images/cache/glass/VB0034.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-8-mm-glass-chevrons.html "10 mm by 8 mm glass chevrons")
+[![Square Swarovski crystal clasp](https://sojourner.biz/images/cache/SKU0097.200.jpg)](https://sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-#### [10 mm by 8 mm glass chevrons](https://sojourner.biz/beads/glass/10-mm-by-8-mm-glass-chevrons.html "10 mm by 8 mm glass chevrons")
+#### [Square Swarovski crystal clasp](https://sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-$6.00
+$49.00
 
 ### Best Sellers
 
