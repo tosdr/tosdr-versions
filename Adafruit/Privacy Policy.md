@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Everyone you will ever meet knows something you don't”
+“ Calculation and reasoning, like weaving and ploughing, are work, not for human souls, but for clever combinations of iron and wood”
 
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
+[Mary Boole](http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false)
 
 [](https://www.adafruit.com/about)
 
