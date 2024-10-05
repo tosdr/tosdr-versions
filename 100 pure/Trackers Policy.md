@@ -26,9 +26,9 @@ My Tote
 
 5760 reviews (5760)
 
-$16.00 $29.00
+$23.00 $41.00
 
-1 oz - $29 0.3 oz - $16
+1 oz - $41 0.3 oz - $23
 
 1 oz
 
@@ -52,9 +52,9 @@ CHOOSE Size
 
 1043 reviews (1043)
 
-$64.00
+$89.00
 
-Default Title - $64
+Default Title - $89
 
 ADD TO TOTE
 
@@ -70,9 +70,9 @@ ADD TO TOTE
 
 95 reviews (95)
 
-$72.00
+$101.00
 
-1 oz - $72
+1 oz - $101
 
 ADD TO TOTE
 
@@ -84,9 +84,9 @@ ADD TO TOTE
 
 2395 reviews (2395)
 
-$28.00 $28.00
+$39.00 $39.00
 
-Black Tea - $28 Dark Chocolate - $28 Blackberry - $28
+Black Tea - $39 Dark Chocolate - $39 Blackberry - $39
 
 Black Tea
 
@@ -106,9 +106,9 @@ CHOOSE Color
 
 762 reviews (762)
 
-$12.00 $26.00
+$17.00 $37.00
 
-1.7 oz - $12 8 oz - $26
+1.7 oz - $17 8 oz - $37
 
 8 oz
 
@@ -126,9 +126,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$7.00 $28.00
+$10.00 $39.00
 
-Single - $7 5 Pack - $28
+Single - $10 5 Pack - $39
 
 Single
 
@@ -146,9 +146,9 @@ CHOOSE Size
 
 374 reviews (374)
 
-$7.00
+$10.00
 
-Single - $7
+Single - $10
 
 ADD TO TOTE
 
@@ -160,9 +160,9 @@ ADD TO TOTE
 
 2021 reviews (2021)
 
-$27.00 $27.00
+$38.00 $38.00
 
-Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
+Blackest - $38 Dark Cacao - $38 Gleaming Pewter - $38
 
 Gleaming Pewter
 
@@ -182,9 +182,9 @@ CHOOSE Color
 
 44 reviews (44)
 
-$25.00
+$35.00
 
-Default Title - $25
+Default Title - $35
 
 ADD TO TOTE
 
@@ -196,9 +196,9 @@ ADD TO TOTE
 
 366 reviews (366)
 
-$7.00 $32.00
+$10.00 $45.00
 
-Single - $7 5 Pack - $32
+Single - $10 5 Pack - $45
 
 5 Pack
 
@@ -216,9 +216,9 @@ CHOOSE Size
 
 842 reviews (842)
 
-$38.00
+$53.00
 
-Default Title - $38
+Default Title - $53
 
 ADD TO TOTE
 
@@ -232,9 +232,9 @@ ADD TO TOTE
 
 196 reviews (196)
 
-$58.00
+$81.00
 
-Default Title - $58
+Default Title - $81
 
 ADD TO TOTE
 
@@ -246,9 +246,9 @@ ADD TO TOTE
 
 294 reviews (294)
 
-$26.00
+$37.00
 
-Default Title - $26
+Default Title - $37
 
 ADD TO TOTE
 
@@ -260,9 +260,9 @@ ADD TO TOTE
 
 349 reviews (349)
 
-$26.00
+$37.00
 
-Default Title - $26
+Default Title - $37
 
 ADD TO TOTE
 
@@ -274,9 +274,9 @@ ADD TO TOTE
 
 386 reviews (386)
 
-$26.00
+$37.00
 
-Default Title - $26
+Default Title - $37
 
 ADD TO TOTE
 
@@ -288,9 +288,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$30.00
+$42.00
 
-Default Title - $30
+Default Title - $42
 
 ADD TO TOTE
 
@@ -302,9 +302,9 @@ ADD TO TOTE
 
 874 reviews (874)
 
-$38.00
+$53.00
 
-Default Title - $38
+Default Title - $53
 
 ADD TO TOTE
 
@@ -318,9 +318,9 @@ ADD TO TOTE
 
 77 reviews (77)
 
-$19.00
+$27.00
 
-Default Title - $19
+Default Title - $27
 
 ADD TO TOTE
 
@@ -334,9 +334,9 @@ ADD TO TOTE
 
 1564 reviews (1564)
 
-$30.00 $30.00
+$42.00 $42.00
 
-Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
+Blackberry - $42 Black Tea - $42 Dark Chocolate - $42
 
 Black Tea
 
@@ -356,9 +356,9 @@ CHOOSE Color
 
 1127 reviews (1127)
 
-$45.00
+$63.00
 
-Default Title - $45
+Default Title - $63
 
 ADD TO TOTE
 
@@ -370,9 +370,9 @@ ADD TO TOTE
 
 637 reviews (637)
 
-$48.00
+$67.00
 
-Default Title - $48
+Default Title - $67
 
 ADD TO TOTE
 
@@ -386,9 +386,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$48.00
+$67.00
 
-Default Title - $48
+Default Title - $67
 
 ADD TO TOTE
 
@@ -400,9 +400,9 @@ ADD TO TOTE
 
 543 reviews (543)
 
-$52.00
+$73.00
 
-Default Title - $52
+Default Title - $73
 
 ADD TO TOTE
 
@@ -414,9 +414,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$48.00
+$67.00
 
-Default Title - $48
+Default Title - $67
 
 ADD TO TOTE
 
@@ -430,9 +430,9 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$58.00
+$81.00
 
-Default Title - $58
+Default Title - $81
 
 ADD TO TOTE
 
@@ -444,9 +444,9 @@ ADD TO TOTE
 
 186 reviews (187)
 
-$58.00
+$81.00
 
-Default Title - $58
+Default Title - $81
 
 ADD TO TOTE
 
@@ -458,9 +458,9 @@ ADD TO TOTE
 
 5285 reviews (5285)
 
-$28.00 $28.00
+$39.00 $39.00
 
-Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
+Blackberry - $39 Blueberry - $39 Dark Chocolate - $39 Black Tea - $39
 
 Blueberry
 
@@ -934,7 +934,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(USD $)
+(CAD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
