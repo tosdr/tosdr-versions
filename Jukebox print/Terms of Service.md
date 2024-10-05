@@ -1,3 +1,5 @@
+[Save 15% on Popular Favorites! 🎉 View Deals](https://support.jukeboxprint.com/en/articles/9961135-october-2024-sales)
+
 [![Jukebox Print](https://storage.jukeboxprint.com/s/images/jukebox-logo.svg)![Jukebox Loves Pride!](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.jukeboxprint.com/)
 
 We're here to help:[888-667-0067](tel:888-667-0067)
