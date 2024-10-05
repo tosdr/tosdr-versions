@@ -266,6 +266,13 @@ Most Popular
 [Irish teen tragically killed after being hit by train near Welsh railway station](https://www.derrynow.com/news/national-news/1621938/irish-teen-tragically-killed-after-being-hit-by-train-near-welsh-railway-station.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards")](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
 
 Seamus and Tina Shivers who received a Certificate of Excellence at the Northern Ireland Foster Care Awards
@@ -281,20 +288,6 @@ Seamus and Tina Shivers who received a Certificate of Excellence at the Northern
 
 [Guests revealed for tonight's Late Late Show with big names confirmed for Country Special](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 4 2024](https://www.derrynow.com/news/deaths/1621238/derry-death-notices-friday-october-4-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PSNI police car](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI police car")](https://www.derrynow.com/news/local-news/1621721/police-arrest-man-40-on-suspicion-of-dangerous-driving-in-derry.html)
 
@@ -328,12 +321,21 @@ Derry Court
 [Derry man rammed vehicle and then behaved aggressively towards other driver](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up")](https://www.derrynow.com/news/arts---entertainment/1621699/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-impressive-line-up.html)
+[![Man charged to court after road-related incident in Derry's Culmore Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged to court after road-related incident in Derry's Culmore Road area")](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+PSNI
 
-[Who are the guests on tonight's Graham Norton Show on BBC? Here's the impressive line-up](https://www.derrynow.com/news/arts---entertainment/1621699/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-impressive-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bail granted for Derry man who breached bail by being intoxicated in a public place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail by being intoxicated in a public place")](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man found intoxicated in a public place was in breach of bail](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
 
 Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
@@ -520,7 +529,7 @@ Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben M
 [Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
+[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728072306936_0.jpg--.jpg?1728072307045 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -549,13 +558,6 @@ PSNI
 
 [Funding increase needed to ‘avert GP crisis’](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers](https://www.derrynow.com/resizer/165/93/true/2024_10_04/child-1864718_1280-1728033259413.jpg--.jpg?1728033259453 "'Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers")](https://www.derrynow.com/news/local-news/1621650/everyone-deserves-a-stable-home-hscni-sessions-empower-derry-people-to-be-foster-carers.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-['Everyone deserves a stable home' - HSCNI sessions empower Derry people to be foster carers](https://www.derrynow.com/news/local-news/1621650/everyone-deserves-a-stable-home-hscni-sessions-empower-derry-people-to-be-foster-carers.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
