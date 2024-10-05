@@ -133,15 +133,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup to OneDrive](https://www.backup4all.com/how-to-restore-a-backup-to-onedrive-kb.html)  
+* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
     
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
     
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
     
-* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
+* [How to password protect a backup?](https://www.backup4all.com/how-to-password-protect-a-backup-kb.html)  
     
-* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
+* [How to back up data files from HiDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hidrive-using-backup4all-kb.html)  
     
 
 Choose language:
