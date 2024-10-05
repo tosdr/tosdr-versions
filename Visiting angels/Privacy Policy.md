@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
+[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
 
-[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
+[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
 
-[Social Isolation May Transform Brain, Increase Stress](https://www.visitingangels.com/knowledge-center/why-in-home-care/social-isolation-may-transform-brain-increase-stress/376)
+[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
 
-[Understanding “Veterans’ Culture” When Caring for an Aging Vet](https://www.visitingangels.com/knowledge-center/why-in-home-care/understanding-veterans-culture-when-caring-for-an-aging-vet/338)
+[How Palliative Care is Different Than Hospice](https://www.visitingangels.com/knowledge-center/care-options/how-palliative-care-is-different-than-hospice/301)
 
-[5 Questions to Ask Before Starting Respite Care](https://www.visitingangels.com/knowledge-center/care-options/5-questions-to-ask-before-starting-respite-care/52)
+[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
