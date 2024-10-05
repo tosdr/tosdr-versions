@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Police in Danger: Caught on Camera](/wp-content/thumbnails/14418-100x70.jpg?x53432)
+* [![Secrets of World War II: Confusion Was Their Business](/wp-content/thumbnails/6765-100x70.jpg?x53432)
     
-    Police in Danger: Caught on Camera
+    Secrets of World War II: Confusion Was Their Business
     
-    It should come as no surprise that police officers put themselves into some very dangerous situations on a daily basis and with the rise of body cameras the severity of these situations is becoming mo](https://documentaryheaven.com/police-danger-caught-camera/ "Police in Danger: Caught on Camera")
-* [![History of Modern Iran: Rogue State](/wp-content/thumbnails/7675-100x70.jpg?x53432)
+    During the chaos and destruction of WWII, ordinary men and women from all walks of life were thrown into fearsome, real-life situations worthy of any Hollywood movie — the only difference is that this](https://documentaryheaven.com/secrets-of-world-war-ii-confusion-was-their-business/ "Secrets of World War II: Confusion Was Their Business")
+* [![638 Ways to Kill Castro](/wp-content/thumbnails/724-100x70.png?x53432)
     
-    History of Modern Iran: Rogue State
+    638 Ways to Kill Castro
     
-    Iran and the West is the name of a three part British documentary series shown in February 2009 on BBC Two to mark the 30th anniversary of the 1979 Iranian Revolution. The documentary looks at the rel](https://documentaryheaven.com/history-modern-iran-rogue-state/ "History of Modern Iran: Rogue State")
-* [![The Story of One](/wp-content/thumbnails/4884-100x70.jpg?x53432)
+    638 Ways to Kill Castro is a Channel 4 documentary film, broadcast in the United Kingdom on 28 November 2006, which tells the story of some of the numerous attempts to kill Cuba's leader Fidel Castro.](https://documentaryheaven.com/638-ways-to-kill-castro/ "638 Ways to Kill Castro")
+* [![After The Last Round](/wp-content/thumbnails/10460-100x70.png?x53432)
     
-    The Story of One
+    After The Last Round
     
-    Terry Jones (of Monty Python’s Flying Circus) goes on a humor-filled journey to recount the amazing tale behind the world’s simplest number.Using computer graphics, “One” is brought to life, in all](https://documentaryheaven.com/the-story-of-one/ "The Story of One")
-* [![The Birmingham Six: Their Own Story](/wp-content/thumbnails/5899-100x70.jpg?x53432)
+    There aren't too many other sports out there that encompass the theatrical displays of human struggle, strength and violence quite like boxing does and in this film we are taken on a journey through t](https://documentaryheaven.com/after-the-last-round/ "After The Last Round")
+* [![Miley Cyrus: The Movement](/wp-content/thumbnails/8062-100x70.jpg?x53432)
     
-    The Birmingham Six: Their Own Story
+    Miley Cyrus: The Movement
     
-    On 21 November, 1974, the Mulberry Bush pub at the foot of the city's Rotunda tower and the nearby Tavern in the Town, were both destroyed within minutes of each other. Six men imprisoned for the att](https://documentaryheaven.com/the-birmingham-six-their-own-story/ "The Birmingham Six: Their Own Story")
-* [![Mexico’s Drug War](/wp-content/thumbnails/6012-100x70.jpg?x53432)
+    In this one-hour documentary, superstar Miley Cyrus allows unprecedented access into her extraordinary life as she rises to the challenge of presenting a new and sometimes controversial persona to the](https://documentaryheaven.com/miley-cyrus-movement/ "Miley Cyrus: The Movement")
+* [![The Player: Secrets of a Vegas Whale](/wp-content/thumbnails/10778-100x70.png?x53432)
     
-    Mexico’s Drug War
+    The Player: Secrets of a Vegas Whale
     
-    Violence is running out of control in Mexico as rival drug cartels battle over the smuggling routes to America. Mexico’s president has declared war on the gangsters but the only result appears to be a](https://documentaryheaven.com/mexicos-drug-war/ "Mexico’s Drug War")
+    In the middle of the Mohombi Desert lies one of the most well known cities in the world, Las Vegas and every year 40 million people flock to the Vegas strip but most only ever get a peak at the specta](https://documentaryheaven.com/player-secrets-of-vegas-whale/ "The Player: Secrets of a Vegas Whale")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
