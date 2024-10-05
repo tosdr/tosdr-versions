@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://www.theepochtimes.com/china/state-organs-film-exposes-forced-organ-harvesting-in-china-5735859)
+    
+    NEW By [Frank Liang](https://www.theepochtimes.com/author/frank-liang) and [Lily Sun](https://www.theepochtimes.com/author/lily-sun)
+    
+    [![‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘State Organs’ Film Exposes Forced Organ Harvesting in China](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735860-State-Organs-Screening-P1-205x123.jpg.webp)](https://www.theepochtimes.com/china/state-organs-film-exposes-forced-organ-harvesting-in-china-5735859)
+* [Bombarded by Violence: How Technology Perpetuates Trauma](https://www.theepochtimes.com/health/bombarded-by-violence-how-technology-perpetuates-trauma-5696526)
+    
+    NEW By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
+    
+    [![Bombarded by Violence: How Technology Perpetuates Trauma](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Bombarded by Violence: How Technology Perpetuates Trauma](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732911-09_00-Bombarded-by-Violence-v6-205x123.jpg.webp)](https://www.theepochtimes.com/health/bombarded-by-violence-how-technology-perpetuates-trauma-5696526)
+* [US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://www.theepochtimes.com/us/us-will-not-extend-legal-status-of-migrants-who-entered-via-parole-program-5735764)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Will Not Extend Legal Status of Migrants Who Entered via Parole Program](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-will-not-extend-legal-status-of-migrants-who-entered-via-parole-program-5735764)
+* [Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://www.theepochtimes.com/us/biden-urges-congress-to-act-quickly-as-disaster-relief-funding-runs-low-5735777)
+    
+    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Urges Congress to Act Quickly as Disaster Relief Funding Runs Low](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5733892-GettyImages-2175315529-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-congress-to-act-quickly-as-disaster-relief-funding-runs-low-5735777)
+* [Trump Returning to Butler, Where He Survived Assassination Attempt](https://www.theepochtimes.com/us/trump-fulfilling-obligation-to-return-to-butler-where-he-survived-assassination-attempt-5735674)
+    
+    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer)
+    
+    [![Trump Returning to Butler, Where He Survived Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Returning to Butler, Where He Survived Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691154-GettyImages-2161350358-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-fulfilling-obligation-to-return-to-butler-where-he-survived-assassination-attempt-5735674)
 * [Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
     
-    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    6hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Russia Has Made Key Gains in Donbas. What Does It Mean for the War?](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731983-GettyImages-2174128571-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-has-made-key-gains-in-donbas-what-does-it-mean-for-the-war-5735332)
 * [The Red Guard Spirit Still Haunts China and Its Current Leadership](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
     
-    NEW By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    7hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
     
     [![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Red Guard Spirit Still Haunts China and Its Current Leadership](https://img.theepochtimes.com/assets/uploads/2023/10/14/id5529051-CCPGettyImages-1247750895-205x123.jpeg.webp)](https://www.theepochtimes.com/china/the-red-guard-spirit-still-haunts-china-and-its-current-leadership-5735386)
+* [Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://www.theepochtimes.com/us/volunteers-work-tirelessly-and-offer-hope-in-helene-devastated-tennessee-5734625)
+    
+    8hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    
+    [![Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Volunteers Work Tirelessly and Offer Hope in Helene-Devastated Tennessee](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732517-tenn-205x123.jpg.webp)](https://www.theepochtimes.com/us/volunteers-work-tirelessly-and-offer-hope-in-helene-devastated-tennessee-5734625)
 * [6 Things to Watch in the Upcoming Supreme Court Term](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
     
-    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    13hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735471-GettyImages-1431370657-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
 * [Trump and Kemp Make First Joint Appearance Since 2020](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
     
-    8hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    14hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735753-Trump-Kemp-AP24278731885449-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
-* [The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
-    
-    9hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
-    
-    [![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735734-shutterstock_2290286027-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
-* [Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551763-vote-205x123.jpg.webp)](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
-* [Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
-    
-    12hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5715050-08122024-DSC00079-FBI-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
-* [Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
-    
-    13hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672991-06202024-DSC06642-iPhone-Apple-products-205x123.jpg.webp)](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
-* [The Most Important Player on Each Remaining MLB Playoff Team](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
-    
-    13hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
-    
-    [![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735469-GettyImages-2174679546-205x123.jpg.webp)](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
-* [Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
-    
-    13hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735546-GettyImages-2175836598-LS-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
