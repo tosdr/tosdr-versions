@@ -142,7 +142,7 @@ Website Terms of Use | Datadog
     
     AI
     
-    Monitor and improve model performance. Pinpoint root causes and detect anomalies.
+    Monitor and improve model performance. Pinpoint root causes and detect anomalies
     
     AI Observability
     
