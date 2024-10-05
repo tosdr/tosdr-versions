@@ -122,15 +122,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Matthew Continetti Harris Hits a Walz](https://patriotpost.us/opinion/110825-harris-hits-a-walz-2024-10-05)
+*      [Hans von Spakovsky Naval Academy’s Choice of Speaker Runs Afoul of Pentagon Edict](https://patriotpost.us/opinion/110826-naval-academys-choice-of-speaker-runs-afoul-of-pentagon-edict-2024-10-05)
 *      [Hans von Spakovsky Unrigging Our Elections](https://patriotpost.us/opinion/110810-unrigging-our-elections-2024-10-04)
 *      [Michael Reagan Vance Sends Walz Back to the Minors](https://patriotpost.us/opinion/110809-vance-sends-walz-back-to-the-minors-2024-10-04)
 *      [Erick Erickson Caveat Emptor](https://patriotpost.us/opinion/110808-caveat-emptor-2024-10-04)
 *      [Tim Graham Network ‘News Judgment’ Depends on Who Benefits](https://patriotpost.us/opinion/110807-network-news-judgment-depends-on-who-benefits-2024-10-04)
 *      [Victor Davis Hanson How to Blow Up the Middle East War in Five Easy Steps](https://patriotpost.us/opinion/110806-how-to-blow-up-the-middle-east-war-in-five-easy-steps-2024-10-04)
 *      [Gary Bauer The Deep State Strikes Back](https://patriotpost.us/opinion/110805-the-deep-state-strikes-back-2024-10-04)
-*      [Michael Barone The Vice Presidential Debate May Matter](https://patriotpost.us/opinion/110804-the-vice-presidential-debate-may-matter-2024-10-04)
-*      [Mark Alexander Profiles of Valor: Lt Col Edwin Cottrell (USAF, Ret.)](https://patriotpost.us/alexander/110790-profiles-of-valor-lt-col-edwin-cottrell-usaf-ret-dot-2024-10-04)
-*      [The Babylon Bee 8 More Historical Events Tim Walz Has Claimed to Be At](https://patriotpost.us/opinion/110803-8-more-historical-events-tim-walz-has-claimed-to-be-at-2024-10-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -144,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
