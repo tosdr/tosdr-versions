@@ -303,9 +303,9 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
-**Notice:** If you are a merchant processing transactions through PSP Services Inc. or PSiGate, we will no longer be your acquiring financial institution as of August 5, 2024. For questions, please email [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+**Notice:** Due to a planned system upgrade, Interac e-Transfer will be unavailable intermittently between the hours of approximately 12:30 am – 3:00 am PT (3:30 am - 6:00 am ET) on Sunday October 06, 2024. We apologize for any inconvenience.
 
-**Attention:** Si vous êtes un commerçant et effectuez des transactions par l'intermédiaire de PSP Services Inc. ou de PSiGate, veuillez prendre note qu'à partir du 5 août 2024, nous ne serons plus votre institution financière acquéreuse. Pour toute question, veuillez envoyer un courriel à [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+**Attention:** En raison d'une mise à jour de nos systèmes, les Virements Interac seront indisponibles par intermittence le Dimanche 06 Octobre 2024 entre 00 h 30 et 03 h 00 heure du Pacifique (3 h 30 - 06 h 00 heure de l'Est). Nous vous présentons toutes nos excuses pour ce désagrément.
 
 ### **PRIVACY POLICY**
 
