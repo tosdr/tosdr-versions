@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Family That Walks on All Four](/wp-content/thumbnails/1106-100x70.jpg?x53432)
+* [![The Real Face of the European Union](/wp-content/thumbnails/4843-100x70.jpg?x53432)
     
-    The Family That Walks on All Four
+    The Real Face of the European Union
     
-    An intense scientific debate has ignited around a quiet but extraordinary family living in rural Turkey-a family with five adults who walk on all fours. Since bipedalism has long been considered one o](https://documentaryheaven.com/the-family-that-walks-on-all-four/ "The Family That Walks on All Four")
-* [![Louis Theroux And The Nazis](/wp-content/thumbnails/853-100x70.jpg?x53432)
+    "The EU has been sold to Britain as our best hope for the future . . . But behind the scenes, has another, more unsettling agenda been unfolding? The European Economic Community (EEC) began for Britai](https://documentaryheaven.com/the-real-face-of-the-european-union/ "The Real Face of the European Union")
+* [![Bruce Lee: A Warrior’s Journey](/wp-content/thumbnails/2476-100x70.jpg?x53432)
     
-    Louis Theroux And The Nazis
+    Bruce Lee: A Warrior’s Journey
     
-    Louis Theroux travels to California to meet the man dubbed "the most dangerous racist in America"; Tom Metzger. Louis meets him, his family and his publicity manager as well as following him to skinhe](https://documentaryheaven.com/louis-theroux-and-the-nazis/ "Louis Theroux And The Nazis")
-* [![Egypt’s Lost Queens](/wp-content/thumbnails/14273-100x70.jpg?x53432)
+    Bruce Lee was inarguably the greatest martial arts star of his generation, and his intense on-screen charisma and astounding fighting skills make him the standard by which other martial arts heroes ar](https://documentaryheaven.com/bruce-lee-a-warriors-journey/ "Bruce Lee: A Warrior’s Journey")
+* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
     
-    Egypt’s Lost Queens
+    Soldier Child
     
-    Ancient Egypt, a rich history that lasted for over 6,000 years. The lives and deaths of its leading characters still fascinate us to this day and when we visit museums featuring exhibitions on this pe](https://documentaryheaven.com/egypts-lost-queens/ "Egypt’s Lost Queens")
-* [![Last Chance High](/wp-content/thumbnails/8760-100x70.jpg?x53432)
+    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
+* [![CTE: The Disturbing Cost Of Fighting](/wp-content/thumbnails/16709-100x70.jpg?x53432)
     
-    Last Chance High
+    CTE: The Disturbing Cost Of Fighting
     
-    Located on the West Side of Chicago is a school best known for taking in the city's most at-risk teens its called the "Moses Montefiore Academy". The school itself is seen as a last resort for these y](https://documentaryheaven.com/last-chance-high/ "Last Chance High")
-* [![The Sky at Night, Pluto Revealed](/wp-content/thumbnails/10001-100x70.jpg?x53432)
+    Chronic Traumatic Encephalopathy (CTE) is a debilitating neurodegenerative condition that primarily affects individuals who have experienced repeated head trauma, particularly athletes engaged in con](https://documentaryheaven.com/cte-the-disturbing-cost-of-fighting/ "CTE: The Disturbing Cost Of Fighting")
+* [![Web Warriors](/wp-content/thumbnails/2821-100x70.png?x53432)
     
-    The Sky at Night, Pluto Revealed
+    Web Warriors
     
-    The revelations about New Horizons recent visit to our dwarf planet Pluto, made headlines and news across the globe. The BBC's, The Sky at Night team were lucky enough to be behind the scenes for the](https://documentaryheaven.com/sky-at-night-pluto-revealed/ "The Sky at Night, Pluto Revealed")
+    A hot summer afternoon in the northeast. Residents of New York and Toronto look forward to the weekend. No one could predict what is about to happen.In a matter of seconds, 50 million people simpl](https://documentaryheaven.com/web-warriors/ "Web Warriors")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
