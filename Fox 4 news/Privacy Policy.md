@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [!['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tom-selleck-blue-bloods.jpg?ve=1&tl=1)
+
+ !['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tom-selleck-blue-bloods.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-bloods-cancelled-tom-selleck-frustrated)
+
+### ['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://www.fox4news.com/news/blue-bloods-cancelled-tom-selleck-frustrated)
+
+ [![Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-sh-ftwpd-shooting-las-vegas-trail-_kdfw89fc_00.12.06.24.jpg?ve=1&tl=1)
+
+ ![Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-sh-ftwpd-shooting-las-vegas-trail-_kdfw89fc_00.12.06.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-las-vegas-trail-apartment-shooting)
+
+### [Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://www.fox4news.com/news/fort-worth-shooting-las-vegas-trail-apartment-shooting)
+
+ [![Officers fatally shoot woman who threatened people with gun, Plano police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-sh-plano-pd-ois-14th-st-_kdfw89e7_186_mp4_00.09.23.32.jpg?ve=1&tl=1)
+
+ ![Officers fatally shoot woman who threatened people with gun, Plano police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-sh-plano-pd-ois-14th-st-_kdfw89e7_186_mp4_00.09.23.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-police-shooting-14th-street)
+
+### [Officers fatally shoot woman who threatened people with gun, Plano police say](https://www.fox4news.com/news/plano-police-shooting-14th-street)
+
  [![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1)
 
  ![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-makes-one-last-push-voter-registration-before-mondays-deadline)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-2-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
 
 ### [Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
-
- [![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/bill-gates-getty.jpg?ve=1&tl=1)
-
- ![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/bill-gates-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bill-gates-not-10-wealthiest-billionaires-world-who-made-list)
-
-### [Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://www.fox4news.com/news/bill-gates-not-10-wealthiest-billionaires-world-who-made-list)
-
- [![Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elsby-avenue-suspects.jpg?ve=1&tl=1)
-
- ![Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elsby-avenue-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
-
-### [Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
-
- [![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dolly.jpg?ve=1&tl=1)
-
- ![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dolly.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
-
-### [Watch: Dolly Parton announces $2 million for Helene victims](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
 
 ###### [News](https://www.fox4news.com/news)
 
