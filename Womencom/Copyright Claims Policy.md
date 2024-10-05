@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+*  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
-    =====================================================================================================================================================================
+    [The Ultimate Guide To Angelina Jolie's Many Tattoos](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+    ===========================================================================================================================
     
-    After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
+    While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
     
-    By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
     
-* *  [![Brittany Mahomes on the red carpet](https://www.women.com/img/gallery/5-brittany-mahomes-outfits-that-totally-missed-the-mark/intro-1727737133.jpg)](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+* *  [![florence pugh](https://www.women.com/img/gallery/florence-pughs-edgiest-hair-looks-from-blond-to-buzzed/intro-1727809894.jpg)](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [5 Brittany Mahomes Outfits That Totally Missed The Mark](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+        ### [Florence Pugh's Edgiest Hair Looks From Blond To Buzzed](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
         
-        Though Brittany Mahomes is known for sporting some great outfits on Game Day, there have been several occasions where her fashion choices raised some eyebrows.
+        Florence Pugh's edgy hair looks have set more than one trend. Over the years, she's rocked unconventional colors, short crops, and even a full buzz cut.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+        By Amanda Chatel [Read More](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
         
-    *  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    *  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
         
-        [Living](https://www.women.com/category/living/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
         
-        ### [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+        ### [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
         
-        While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
+        After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
         
-        By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+        By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
         
 
 More Stories
 ------------
 
+*  [![Brittany Mahomes on the red carpet](https://www.women.com/img/gallery/5-brittany-mahomes-outfits-that-totally-missed-the-mark/intro-1727737133.jpg)](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Brittany Mahomes Outfits That Totally Missed The Mark](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+    
+    Though Brittany Mahomes is known for sporting some great outfits on Game Day, there have been several occasions where her fashion choices raised some eyebrows.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
+    
+*  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    
+    While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
+    
 *  [![Princess Diana at event](https://www.women.com/img/gallery/princess-dianas-stunning-hair-transformation/intro-1727795663.jpg)](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -381,30 +405,6 @@ More Stories
     Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
     
     By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-    
-*  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Hypergamy Is The Dating Trend Enhancing Connections - And Lives](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
-    
-    Hypergamy, or "dating up" isn't necessarily toxic. If done right, it can enhance your relationship and life, an expert tells Women.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
-    
-*  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
-    
-    ### [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
-    
-    After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
     
 
 Back
