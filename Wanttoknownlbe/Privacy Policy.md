@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/leven-op-aarde-verlangen-naar-de-hemel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/bilderbergvoorzitter-bilderberggroep-droeg-bij-aan-de-komst-van-de-euro/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
