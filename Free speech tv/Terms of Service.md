@@ -124,6 +124,7 @@ These terms and conditions are governed by and construed in accordance with the 
 
 * [How to Watch](https://freespeech.org/how-to-watch/)
 * [Schedule](https://freespeech.org/schedule/)
+* [Content Submissions](https://freespeech.org/content-submissions/)
 
 ### Help
 
