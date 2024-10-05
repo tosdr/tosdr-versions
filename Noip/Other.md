@@ -106,8 +106,6 @@ Resources
             
         * [Travel Support](https://www.icann.org/resources/pages/travel-support-2012-02-25-en)
             
-        * [WHOIS Policy Review Team Recommendations - Implementation](https://www.icann.org/resources/pages/whois-recommendations-implementation-2013-04-26-en)
-            
     * [Media Resources](https://www.icann.org/media-en)
         
         * [Contacts](https://www.icann.org/resources/pages/media-resources-2023-10-10-en/#contacts)
