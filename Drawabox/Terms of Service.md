@@ -24,13 +24,13 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/proko/figuredrawing)
+[](https://drawabox.com/rec/zapata/shading)
 
 [](https://amzn.to/4cDKBhz)
 
-[](https://amzn.to/3KUTasJ)
+[](https://amzn.to/2Bz3JgN)
 
-[](https://drawabox.com/rec/proko/drawingbasics)
+[](https://drawabox.com/rec/proko/figuredrawing)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
