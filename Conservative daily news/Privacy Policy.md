@@ -2,14 +2,14 @@ Saturday, October 5 2024
 
 Breaking News
 
-* [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/)
-* [Negotiators Reach Agreement To Suspend Port Strike](https://www.conservativedailynews.com/2024/10/negotiators-reach-agreement-to-suspend-port-strike/)
-* [Sunny Hostin Claims Without Evidence That Melania ‘Hates’ Trump, ‘Wants To Take Him Out’](https://www.conservativedailynews.com/2024/10/sunny-hostin-claims-without-evidence-that-melania-hates-trump-wants-to-take-him-out/)
-* [White House Press Briefing with Karine Jean-Pierre – 10/4/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-4-24/)
-* [President Joe Biden’s Schedule for Friday, October 4, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-4-2024/)
-* [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
-* [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/)
-* [Justice Has Been Served. It Only Took 41 Years](https://www.conservativedailynews.com/2024/10/justice-has-been-served-it-only-took-41-years/)
+* [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
+* [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
+* [College Volleyball Player Claims School Deceived Her Into Living With Transgender Roommate](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
+* [Victor Davis Hanson Predicts Harris’ ‘Hemorrhaging’ Will Push Dems To Drop More October Surprises](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
+* [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
+* [Helene Victims Would Be Better Off As Ukrainians Or Illegals](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
+* [President Joe Biden’s Schedule for Saturday, October 5, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-saturday-october-5-2024/)
+* [Whatever Happened To Politicians Running For Office And Promising A Chicken In Every Pot?](https://www.conservativedailynews.com/2024/10/whatever-happened-to-politicians-running-for-office-and-promising-a-chicken-in-every-pot/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,59 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Kiawah-Island-South-Carolina-220x150.png)](https://www.conservativedailynews.com/2024/10/uk-gives-up-islands-holding-secret-us-military-base/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5633-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
     
-    [UK Gives Up Islands Holding Secret US Military Base](https://www.conservativedailynews.com/2024/10/uk-gives-up-islands-holding-secret-us-military-base/)
+    [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/)
+* [![Illegal immigration democrats voter registration](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
     
-    [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/)
+    [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/Cargo-Containers-port-220x150.png)](https://www.conservativedailynews.com/2024/10/negotiators-reach-agreement-to-suspend-port-strike/)
+* [![Transgender Athlete](https://www.conservativedailynews.com/wp-content/uploads/2022/03/05-War-Womxn-CDN-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
     
-    [Negotiators Reach Agreement To Suspend Port Strike](https://www.conservativedailynews.com/2024/10/negotiators-reach-agreement-to-suspend-port-strike/)
+    [College Volleyball Player Claims School Deceived Her Into Living With Transgender Roommate](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/sunny-hostin-claims-without-evidence-that-melania-hates-trump-wants-to-take-him-out/)
+* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv081024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/over-800000-fewer-native-born-americans-are-employed-than-last-year/)
     
-    [Sunny Hostin Claims Without Evidence That Melania ‘Hates’ Trump, ‘Wants To Take Him Out’](https://www.conservativedailynews.com/2024/10/sunny-hostin-claims-without-evidence-that-melania-hates-trump-wants-to-take-him-out/)
+    [Over 800,000 Fewer Native-Born Americans Are Employed Than Last Year](https://www.conservativedailynews.com/2024/10/over-800000-fewer-native-born-americans-are-employed-than-last-year/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Betsy-McCaughey-feat-220x150.png)](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/classroom_dodgertonskillhause.jpg)](https://www.conservativedailynews.com/2024/10/every-member-of-major-blue-city-school-board-to-resign-amid-tension-with-mayor/)
     
-    [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/)
+    [Every Member Of Major Blue City School Board To Resign Amid Tension With Mayor](https://www.conservativedailynews.com/2024/10/every-member-of-major-blue-city-school-board-to-resign-amid-tension-with-mayor/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/06/1655845054_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-4-24/)
+* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 10/4/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-4-24/)
+    [Victor Davis Hanson Predicts Harris’ ‘Hemorrhaging’ Will Push Dems To Drop More October Surprises](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![Israel Hamas Hezbollah Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/proportionate-response/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
     
-    [Proportionate Response…](https://www.conservativedailynews.com/2024/10/proportionate-response/)
+    [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
     
-    October 4, 2024
+    October 5, 2024
     
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-4-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/1004-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
     
-    [President Joe Biden’s Schedule for Friday, October 4, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-4-2024/)
+    [Helene Victims Would Be Better Off As Ukrainians Or Illegals](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
     
-    October 4, 2024
+    October 5, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.thegunpage.com/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/10611017)
+* [Classic SSUSA: Volunteers At The NRA National Matches](https://www.thegunpage.com/classic-ssusa-volunteers-at-the-nra-national-matches/10611016)
 * [SCOTUS Takes Case Concerning Mexico’s Lawsuit Against U.S. Gunmakers](https://www.thegunpage.com/scotus-takes-case-concerning-mexicos-lawsuit-against-u-s-gunmakers/10611012)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 3](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-3/10611015)
 * [POTD: The Sako TRG M10](https://www.thegunpage.com/potd-the-sako-trg-m10/10611009)
@@ -184,9 +186,7 @@ Recent Posts
 * [The New Monolith Bufferless DI Rifle From Global Ordnance](https://www.thegunpage.com/the-new-monolith-bufferless-di-rifle-from-global-ordnance/10611011)
 * [8 Best Range Bags to Keep Your Gear Organized and Ready](https://www.thegunpage.com/8-best-range-bags-to-keep-your-gear-organized-and-ready/10611004)
 * [35% Cooler: Shadow Silencers Sexto V Modular Suppressor](https://www.thegunpage.com/35-cooler-shadow-silencers-sexto-v-modular-suppressor/10611006)
-* [POF-USA Launches BASE Rifle](https://www.thegunpage.com/pof-usa-launches-base-rifle/10611007)
 * [Self-Defense in a Wildlife Attack: No Gun? Use This](https://www.thegunpage.com/self-defense-in-a-wildlife-attack-no-gun-use-this/10611002)
-* [MP5 Mag AR? The MASP AR5 Radial Delayed PCC](https://www.thegunpage.com/mp5-mag-ar-the-masp-ar5-radial-delayed-pcc/10611000)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/#comment-782490)
+* charles wilkins on [Proportionate Response…](https://www.conservativedailynews.com/2024/10/proportionate-response/#comment-782489)
+* charles wilkins on [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/#comment-782488)
 * KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782455)
 * KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782454)
 * KayCee on [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/#comment-782447)
 * KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782446)
 * charles wilkins on [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/#comment-782444)
 * Carmen Holmes on [Good God, This Woman Has No Soul](https://www.conservativedailynews.com/2024/10/good-god-this-woman-has-no-soul/#comment-782408)
-* Richard McDonough on [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/#comment-782382)
-* Stanley Warner on [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/#comment-782381)
-* Stanley Warner on [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/#comment-782380)
 
 [Close](#)
 
