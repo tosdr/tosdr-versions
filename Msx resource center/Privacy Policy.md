@@ -150,16 +150,16 @@ Latest reactions
 
 Latest forum posts
 
-* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
-* [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
+* [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
+* [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=64 "WonderTANG! Who wants to juice up your MSX?")
+* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
 * [MSXDev 2023 NotebookLM podcast](https://www.msx.org/forum/msx-talk/general-discussion/msxdev-2023-notebooklm-podcast "MSXDev 2023 NotebookLM podcast")
 * [SONY HB-T7 restoration](https://www.msx.org/forum/msx-talk/hardware/sony-hb-t7-restoration "SONY HB-T7 restoration")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=4 "Hi From Cuba, Need Help Z80 ;)")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
-* [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 * [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
 * [SVI-605B HDD Controller](https://www.msx.org/forum/msx-talk/hardware/svi-605b-hdd-controller "SVI-605B HDD Controller")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
