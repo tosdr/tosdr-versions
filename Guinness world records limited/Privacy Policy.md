@@ -48,7 +48,7 @@ Menu
 
 [Latest books](https://www.guinnessworldrecords.com/products/books/index.html)[Where to buy](https://www.guinnessworldrecords.com/products/books/buy-now/index.html)[Making of the book](https://www.guinnessworldrecords.com/products/books/book-production/index.html)[Book archive](https://www.guinnessworldrecords.com/products/books/history-of-the-book/book-cover-archive.html)
 
-### [GWR FOR BUSINESS](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+### [WORK WITH US](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
 
 [Records for business](https://www.guinnessworldrecords.com/business-marketing-solutions/record-event-formats/index.html)[TV & Content Licensing](https://www.guinnessworldrecords.com/gwrstudios/index.html)[Live Entertainment](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes/index.html)[Case Studies](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies/index.html)[Contact us](https://business.guinnessworldrecords.com/contact-us)
 
