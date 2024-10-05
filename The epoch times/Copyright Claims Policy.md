@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump and Kemp Make First Joint Appearance Since 2020](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
+    
+    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump and Kemp Make First Joint Appearance Since 2020](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735753-Trump-Kemp-AP24278731885449-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-kemp-make-first-joint-appearance-since-2020-post-5735391)
+* [The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
+    
+    3hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    
+    [![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![The Debate Around Fluoride Is Changing: What It Means for Your Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735734-shutterstock_2290286027-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-debate-around-fluoride-is-changing-what-it-means-for-your-drinking-water-5735673)
+* [6 Things to Watch in the Upcoming Supreme Court Term](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
+    
+    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![6 Things to Watch in the Upcoming Supreme Court Term](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735471-GettyImages-1431370657-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-watch-in-the-upcoming-supreme-court-term-5734802)
 * [Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Felony Charges Filed Against 7 in Michigan Double-Voting Case](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551763-vote-205x123.jpg.webp)](https://www.theepochtimes.com/us/felony-charges-filed-against-7-in-michigan-double-voting-case-5735381)
 * [Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    6hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706250-GettyImages-2165576661-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
+    ![Federal Agencies Warn of Potential Violence on First Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5715050-08122024-DSC00079-FBI-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agencies-warn-of-potential-violence-on-first-anniversary-of-hamas-attack-on-israel-5735590)
 * [Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
     
-    NEW By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    7hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Two Chinese Men Sentenced for Defrauding Apple in $2.5 Million iPhone Scheme](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672991-06202024-DSC06642-iPhone-Apple-products-205x123.jpg.webp)](https://www.theepochtimes.com/us/two-chinese-men-sentenced-for-defrauding-apple-in-2-5-million-iphone-scheme-5735135)
 * [The Most Important Player on Each Remaining MLB Playoff Team](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
     
-    NEW By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
+    7hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
     
     [![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Most Important Player on Each Remaining MLB Playoff Team](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735469-GettyImages-2174679546-205x123.jpg.webp)](https://www.theepochtimes.com/sports/the-most-important-player-on-each-remaining-mlb-playoff-team-5735406)
 * [Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: US Strikes, Activists Rally, and LAPD Chief-elect](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735546-GettyImages-2175836598-LS-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-us-strikes-activists-rally-and-lapd-chief-elect-5735251)
 * [Factory Orders Decline in August as Manufacturing Woes Deepen](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Factory Orders Decline in August as Manufacturing Woes Deepen](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733338-GettyImages-1810386707-205x123.jpg.webp)](https://www.theepochtimes.com/business/factory-orders-decline-in-august-as-manufacturing-woes-deepen-5735329)
 * [US Targets Houthi Positions in Yemen With Airstrikes](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
     
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    8hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Targets Houthi Positions in Yemen With Airstrikes](https://img.theepochtimes.com/assets/uploads/2024/09/id5726179-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-targets-houthi-positions-in-yemen-with-airstrikes-5735417)
-* [Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://www.theepochtimes.com/us/uncertainty-clouds-north-carolinas-2024-election-after-helene-heres-what-we-know-5735351)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Uncertainty Clouds North Carolina’s 2024 Election After Helene: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2019/09/11/voting-205x123.jpg.webp)](https://www.theepochtimes.com/us/uncertainty-clouds-north-carolinas-2024-election-after-helene-heres-what-we-know-5735351)
-* [DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://www.theepochtimes.com/us/doj-charges-13-in-largest-ever-opioid-distribution-crackdown-targeting-pharma-executives-5735218)
-    
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Charges 13 in Largest Ever Opioid Distribution Crackdown Targeting Pharma Executives](https://img.theepochtimes.com/assets/uploads/2022/06/30/2022-06-29T195914Z_1_LYNXMPEI5S126_RTROPTP_4_CANADA-OPIOIDS-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-charges-13-in-largest-ever-opioid-distribution-crackdown-targeting-pharma-executives-5735218)
-* [Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://www.theepochtimes.com/us/biden-makes-surprise-appearance-in-white-house-briefing-room-5735408)
-    
-    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Makes First Appearance in White House Briefing Room to Tout Jobs Report](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735440-Biden-in-press-briefing-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-makes-surprise-appearance-in-white-house-briefing-room-5735408)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
