@@ -33,9 +33,9 @@ Navigation
         
         #### [Here's why cellphones across Texas (including yours) lit up early Friday morning](https://www.kagstv.com/article/news/local/texas-blue-alert-hall-county-what-is-it-suspect-seth-altman/287-bbb3c4a8-14be-4993-9c5c-94b5c3128587)
         
-    *  [![](https://media.kagstv.com/assets/KYTX/images/b30c44db-7529-492d-9f4f-0089718a4bdc/20241004T101759/b30c44db-7529-492d-9f4f-0089718a4bdc_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/b30c44db-7529-492d-9f4f-0089718a4bdc/20241004T101759/b30c44db-7529-492d-9f4f-0089718a4bdc_360x203.jpg)](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/b00294b7-aa0f-40bf-bd67-35f94e0b14c4/20241004T213605/b00294b7-aa0f-40bf-bd67-35f94e0b14c4_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/b00294b7-aa0f-40bf-bd67-35f94e0b14c4/20241004T213605/b00294b7-aa0f-40bf-bd67-35f94e0b14c4_360x203.jpg)](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
         
-        #### [Blue Alert issued for 'armed and dangerous' suspect after Texas officer seriously injured](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
+        #### [OFFICIALS: Reward offered for 'armed and dangerous' man who prompted Blue Alert after shooting, seriously injuring Texas police officer](https://www.kagstv.com/article/news/local/blue-alert-issued-suspect-after-texas-officer-seriously-injured/501-6d695932-05cc-425e-ae52-4420255d1b1a)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-94°
+80°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
