@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
+    
+    [The Best Dehumidifiers to Maintain Optimal Humidity Levels Around the House](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
     
     [Govee Christmas String Lights 2 Offers Unique Customizations, AI Light Effects, and More](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
@@ -104,11 +109,6 @@
     
     [The Best Bidet Attachments to Improve Your Bathroom Experience](https://www.coolthings.com/the-best-bidet-attachments-to-improve-your-bathroom-experience/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
-    
-    [Backup by BioLite Offers a Simpler Way to Add Backup Battery Power to Your Home](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
