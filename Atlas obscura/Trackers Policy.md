@@ -32,53 +32,9 @@ Loading...
 
 Loading...
 
-Latest Places to Eat & Drink
+Loading...
 
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![Mill machinery is on display.](https://img.atlasobscura.com/cp4n4FsDbzv4W8MOFYF520tNHzuxyO3nL28KuKaFAIo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZTI3/MDNkOC1lMjNlLTRh/ZDMtYTM0MS0xMGJm/OTM1NTk1YmVjZWUy/ZDhlNGQ3NDljYjE1/Y2JfSU1HXzA5NDEu/anBn.jpg)
-
-Mühlerama Museum](https://www.atlasobscura.com/places/muhlerama-museum)
-
-   [![Adam Campbell taps into his 20 years of experience to harvest the popular oysters at North Haven Oyster Co.](https://img.atlasobscura.com/PRXENq_mf9OUYkCwMmchTaaq1FPfB1wipzqbomKvg3M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMDBm/ZDJiZTQ0MjhiMzYz/MmJfMTE4MTcwNjFf/ODYzOTg0NTQwMzAz/MzY3XzMxNDExMzY3/NjAzODY3NjA3NDdf/bi5qcGc.jpg)
-
-North Haven Oyster Co.](https://www.atlasobscura.com/places/north-haven-oyster-co)
-
-   [![Raye’s Mustard is a mainstay in the easternmost city in the U.S.](https://img.atlasobscura.com/TOCEo4x9JZ7ICilG_E-eGgnTahSBMG0SFpTiVxFj8K8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MzBi/OGJmYWE2MmNiYjU3/YmNfSEFEMUhQLmpw/Zw.jpg)
-
-Raye’s Mustard Mill Museum](https://www.atlasobscura.com/places/rayes-mustard-mill-museum)
-
-   [![A sign welcomes diners to the restaurant.](https://img.atlasobscura.com/GJHRPT_vX3OVP8tGAR-vApRqruwzg574km-YrRKOHJU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OWRi/ZDdlNC1mMmE1LTQ5/OGQtOWNmOC03ODg0/NWY2OGUyYTNjNTM1/YzQ4ZjlmYmEwY2Iy/NDRfaW1hZ2UgKDEw/KS5qcGc.jpg)
-
-Guluf Airline Restaurant & Hotel](https://www.atlasobscura.com/places/guluf-airline-restaurant-hotel)
-
-   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
-
-Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![The wendigo of North America's Great Lakes region is a symbol of both the desperate season of winter and boundless human greed.](https://img.atlasobscura.com/qWD8chLcLIm3HgTZKWUyL-uoyUn2HUz8mLd8BfuWpr0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82NjVhNTMwNC0z/ZDUyLTRmM2ItYjU0/MS0wOTA4YjEwNWM1/NjZlZTQ5OGM0M2U3/YjRmNTJiYWFfV2Vu/ZGlnby5qcGc.jpg)
-
-The Wendigo and 6 Other Ancient Monsters From Indigenous Folklore](https://www.atlasobscura.com/articles/wendigo-ancient-monsters-from-indigenous-folklore)
-
-   [![](https://img.atlasobscura.com/MqZiPuupCO4JTE_k9Q6UbLm-bAO5uZy-Zb9_Inmwa0Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85MzdjNTg1MS1j/ZTU2LTRiZmQtYjk4/Ny1hZDYxZmNlYzk3/ZWQxOGI2YTE3NmUx/YjlkMTIzMGZfRHJh/Y3VsYV9DcmVkaXQg/QXhlbCBTY2htaWR0/IERpbm9zYXVyaWVy/IE11c2V1bS5qcGc.jpg)
-
-Was ‘Dracula’ the Biggest Flying Creature Ever?](https://www.atlasobscura.com/articles/largest-flying-creature-ever)
-
-   [![In Sardinian folktales, the accabadora was an older woman who slipped into the homes of those lingering near death to send them on their way.](https://img.atlasobscura.com/eD6TN9o5AQQJ8SV7Vhzxqv-NsarnxR7OX-eU--pcLUI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82N2E4NjNlZS0y/NzIxLTRmZGQtYjgy/ZC1lNDg1MjY0NmFi/YTFjZWI3ZTNlMjc1/OGQ3YTI3YWZfZmVt/bWluYSBhY2NhYmFk/b3JhIEZJTkFMLmpw/Zw.jpg)
-
-Death as a Woman: The Accabadora of Sardinia](https://www.atlasobscura.com/articles/death-as-a-woman-accabadora-sardinia)
-
-   [![](https://img.atlasobscura.com/mhRCuLFWsw4bh7dmuc26aGtEhw_stkUtFyTeL6Ha4C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jYTU3MGYwN2Fj/ZGIzNjU1MjlfQU9f/SUZBUV9NQl92N19G/aW5hbC4wMF8wM18y/M18wMS5TdGlsbDAx/MCAoMikuanBn.jpg)
-
-Meet Myrtle Beach's Mini-Golf Master](https://www.atlasobscura.com/articles/infrequently-asked-questions-meet-myrtle-beach-mini-golf-master)
+Loading...
 
 No search results found for  
 “”
