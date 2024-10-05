@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Real Face of the European Union](/wp-content/thumbnails/4843-100x70.jpg?x53432)
+* [![For the Love of the Leader](/wp-content/thumbnails/5599-100x70.jpg?x53432)
     
-    The Real Face of the European Union
+    For the Love of the Leader
     
-    "The EU has been sold to Britain as our best hope for the future . . . But behind the scenes, has another, more unsettling agenda been unfolding? The European Economic Community (EEC) began for Britai](https://documentaryheaven.com/the-real-face-of-the-european-union/ "The Real Face of the European Union")
-* [![Bruce Lee: A Warrior’s Journey](/wp-content/thumbnails/2476-100x70.jpg?x53432)
+    This is the story of an extraordinary love affair between one Nation’s women and its leader.The Nation is Libya, an Islamic socialist state.Its leader, Muammar Gaddafi, a man reviled in the we](https://documentaryheaven.com/for-the-love-of-the-leader/ "For the Love of the Leader")
+* [![Frank Abagnale](/wp-content/thumbnails/5741-100x70.jpg?x53432)
     
-    Bruce Lee: A Warrior’s Journey
+    Frank Abagnale
     
-    Bruce Lee was inarguably the greatest martial arts star of his generation, and his intense on-screen charisma and astounding fighting skills make him the standard by which other martial arts heroes ar](https://documentaryheaven.com/bruce-lee-a-warriors-journey/ "Bruce Lee: A Warrior’s Journey")
-* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
+    The movie "Catch Me If You Can" is based on the life of Frank Abagnale. Now you can hear Frank's version of Steven Spielbergs movie as he tells it here at this conference. xannonce geneveYou can r](https://documentaryheaven.com/frank-abagnale/ "Frank Abagnale")
+* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
     
-    Soldier Child
+    Catastrophe: The Day The Sun Went Out
     
-    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
-* [![CTE: The Disturbing Cost Of Fighting](/wp-content/thumbnails/16709-100x70.jpg?x53432)
+    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
+* [![WWII in HD EP2/10](/wp-content/thumbnails/4655-100x70.jpg?x53432)
     
-    CTE: The Disturbing Cost Of Fighting
+    WWII in HD EP2/10
     
-    Chronic Traumatic Encephalopathy (CTE) is a debilitating neurodegenerative condition that primarily affects individuals who have experienced repeated head trauma, particularly athletes engaged in con](https://documentaryheaven.com/cte-the-disturbing-cost-of-fighting/ "CTE: The Disturbing Cost Of Fighting")
-* [![Web Warriors](/wp-content/thumbnails/2821-100x70.png?x53432)
+    Episode 2: Hard Way Back The Allies take on the daunting forces of the Axis, with victory far from certain. Charles Scheffel battles Rommel’s forces in Tunisia and Jack Werner faces bitter combat in t](https://documentaryheaven.com/wwii-in-hd-ep2/ "WWII in HD EP2/10")
+* [![Forest of Crocodiles](/wp-content/thumbnails/6626-100x70.jpg?x53432)
     
-    Web Warriors
+    Forest of Crocodiles
     
-    A hot summer afternoon in the northeast. Residents of New York and Toronto look forward to the weekend. No one could predict what is about to happen.In a matter of seconds, 50 million people simpl](https://documentaryheaven.com/web-warriors/ "Web Warriors")
+    What choices do white South Africans make when addressing their fears of crime and violence? Some are well resourced while others are ingeniously resourceful. The consequences are regression and isola](https://documentaryheaven.com/forest-of-crocodiles/ "Forest of Crocodiles")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
