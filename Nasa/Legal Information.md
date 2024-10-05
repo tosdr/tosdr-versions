@@ -64,25 +64,25 @@ Suggested Searches
 
 ### Featured
 
-[![NASA’s SpaceX Crew-9 commander Nick Hague is pictured in his flight suit during training at SpaceX headquarters in Hawthorne, California. Hague will perform human health and performance research on the International Space Station as part of his mission (Credit: SpaceX).](https://www.nasa.gov/wp-content/uploads/2024/09/53878842636-0e0919bc4e-o.jpg?w=1024)
-
-4 min read
-
-### NASA Astronaut Nick Hague Boosts Human Health Research in Space
-
-article6 days ago](https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
-### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
+### What’s Up: October 2024 Skywatching Tips from NASA
 
-article1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article2 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
-6 min read
+3 min read
 
-### What’s Up: September 2024 Skywatching Tips from NASA
+### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article1 month ago](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/)
+article1 day ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+
+3 min read
+
+### NASA Prepares for Lunar Terrain Vehicle Testing
+
+article2 days ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)
 
 Back
 
@@ -241,25 +241,25 @@ Back
 
 ### Featured
 
-[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
+[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
 
 2 min read
 
-### Hubble Captures Stellar Nurseries in a Majestic Spiral
+### Hubble Observes a Peculiar Galaxy Shape
 
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
-1 min read
+6 min read
 
-### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
+### NASA’s TESS Spots Record-Breaking Stellar Triplets
 
-article 1 week ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j859d7z8q3b72d81588pjshd-2k.png)
 
-3 min read
+7 min read
 
-### NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
+### NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
 
-article 1 week ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
+article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-o
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
 6 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Highlights
 
-[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
+[![Priorities](https://science.nasa.gov/wp-content/uploads/2022/08/lunar-surface-large.jpg)
+
+1 min read
+
+### Priorities
+
+article 5 hours ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
 
 5 min read
 
 ### Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
 
-article 1 hour ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)[![Planetary Science Technology Symposium](https://science.nasa.gov/wp-content/uploads/2023/07/pesto-symposium.png)
+article 8 hours ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)[![Planetary Science Technology Symposium](https://science.nasa.gov/wp-content/uploads/2023/07/pesto-symposium.png)
 
 1 min read
 
 ### Planetary Science Technology Symposium
 
-article 3 hours ago](https://science.nasa.gov/technology/planetary-science-technology-symposium/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
-
-2 min read
-
-### Hubble Observes a Peculiar Galaxy Shape
-
-article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)
+article 10 hours ago](https://science.nasa.gov/technology/planetary-science-technology-symposium/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
 
-article 22 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
@@ -413,7 +413,7 @@ article 1 day ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-sp
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 7 days ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)
+article 1 week ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)
 
 ### Featured
 
@@ -439,19 +439,19 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### Featured
 
-[![Manufacturing equipment that will be used to build components for NASA’s SLS (Space Launch System) rocket for future Artemis missions is being installed at the agency’s Michoud Assembly Facility in New Orleans, Louisiana. The tooling will be used to produce the SLS rocket’s advanced exploration upper stage, or EUS, in the factory’s new manufacturing area, picture here.](https://www.nasa.gov/wp-content/uploads/2024/09/maf-20240916-ngb-01.jpg?w=1024)
+[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
-### NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
+### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 1 week ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
+article 1 day ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Students raise their hands in celebration and cheer after a successful launch of their vehicle in the 2024 Student Launch competition.](https://www.nasa.gov/wp-content/uploads/2024/10/3be53480-bccf-473a-a274-57029cc9b9d0.jpg?w=1024)
 
-4 min read
+3 min read
 
-### Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
+### NASA Announces Teams for 2025 Student Launch Challenge
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
 
 3 min read
 
