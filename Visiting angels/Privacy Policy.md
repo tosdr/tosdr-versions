@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
+[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
 
-[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
+[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
 
-[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
+[Social Isolation May Transform Brain, Increase Stress](https://www.visitingangels.com/knowledge-center/why-in-home-care/social-isolation-may-transform-brain-increase-stress/376)
 
-[Assisted Living Care Can Be Made Easy](https://www.visitingangels.com/knowledge-center/care-options/assisted-living-care-can-be-made-easy/48)
+[Understanding “Veterans’ Culture” When Caring for an Aging Vet](https://www.visitingangels.com/knowledge-center/why-in-home-care/understanding-veterans-culture-when-caring-for-an-aging-vet/338)
 
-[Private Duty Home Care: Frequently Asked Questions](https://www.visitingangels.com/knowledge-center/care-options/private-duty-home-care-frequently-asked-questions/58)
+[5 Questions to Ask Before Starting Respite Care](https://www.visitingangels.com/knowledge-center/care-options/5-questions-to-ask-before-starting-respite-care/52)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
