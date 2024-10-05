@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")7 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")12 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A transatlantic flight may turn Saharan dust into a key ocean nutrient](https://www.sciencenews.org/article/saharan-dust-becomes-ocean-nutrient)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")4 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")10 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")7 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")12 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")9 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")15 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
