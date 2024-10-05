@@ -1,9 +1,9 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave – Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+[![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
 
-TherapyDave - Dave Lechnyr, LCSW
+TherapyDave
 
 Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 
@@ -114,11 +114,11 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
+_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
- [![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
+ [![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
 
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
