@@ -240,22 +240,19 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to contribute ?
+### Why migrate to us?
+
+#### We guarantee our commitment to quality
 
   
 
-[Submit your Article](https://www.dynu.com/Support/ContactUs)  
-  
+#### Performance
 
-  
+#### Support
 
-[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
-  
+#### Security
 
-  
-
-[Request an Article](https://www.dynu.com/Support/ContactUs)  
-  
+#### Uptime
 
 ### News
 
