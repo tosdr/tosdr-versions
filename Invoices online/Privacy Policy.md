@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=164492980)  
-Imvubu General Trading
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=163067249)  
+Wiselink Broadband Dundee
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=185412707)  
-Itroniq (Pty) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=122780355)  
+Brilliant Roof Products
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=65313956)  
-Nogana Events and Decor
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=78504207)  
+VerdanTech Pty Ltd
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=55094512)  
-Three Moons Emporium
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=173120149)  
+Network Grey (Pty) Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=115790532)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=209000076)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=124413974)  
-NIMAWELL
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=62310733)  
-IEMS (PTY) ltd
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=44076378)  
-Fox Alarms & Security
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=181002883)  
-Moremi Kitchens Rustenburg
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=138076914)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=56356106)  
-Lily Fern & Co
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=120275057)  
-Waterfinatics Swim School
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=65054118)  
-MONSTER SECURITY SERVICES
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=189915885)  
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=120809761)  
 Bloem Rugby Academy PTY (Ltd)
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=132503065)  
-M's Frozen Delights
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=32012978)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=137872103)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=190440033)  
+Oak Tree Immigration
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=189814168)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=12090249)  
+Durbanville Classifieds (Pty) Ltd
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=198019197)  
+Enhle Oarabile Kea
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=39704241)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=16986945)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=36943526)  
+Brand's Fountains Deco and Events Coordinatoin
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
