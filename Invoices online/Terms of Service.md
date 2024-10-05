@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Shaun Gartshore
+Hugo van Sittert
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=47686890)  
-Lily Fern & Co
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=15276295)  
+United Paintball Federation
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=169499411)  
-van Schaik rentals
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=27015353)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=44436507)  
-PROGRAPHIX PTY LTD
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=194715032)  
+Electro-Heat
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=59380573)  
-LEONARD
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=131550992)  
+Xpress Designs
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=10509516)  
-Frameless Fanatix (Pty) Ltd.
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=72033206)  
+NGB HOLDINGS PTY LTD
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=181818946)  
-TIGERDSL
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=196275747)  
+Leef in Afrikaans
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=36814152)  
-Cape Adventure Zone
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=195532511)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=213686089)  
-Creative Characters
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=88203565)  
+National Elite Security Services (PTY) LTD
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=76601140)  
-TRACKFORCE (Pty) Ltd
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=129233769)  
+Little Nutty Professors
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=121888838)  
-UMVIKELI PRIVATE SECURITY
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=145833283)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=203248277)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=105119259)  
+Gemini-IT Group
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=163603699)  
-Goju-Ryu Pretoria East
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=93076996)  
+Oukraal Merino's
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=4946639)  
-Iurus Inc
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=185289850)  
+Kara Medical (Pty) Ltd
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=138303740)  
-Qothiphango Mining
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=123658607)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=345f551bb3b64c25ca547c78f80f5f2d8216f44bb67f35ec7b25050b4f572ef7&c=11998957)  
-TurboFibre
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=c8d7b6d9793f62abc199436b956df39c70819dc0a1515031759a5568ab2b7f27&c=195263157)  
+Brand's Fountains Deco and Events Coordinatoin
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
