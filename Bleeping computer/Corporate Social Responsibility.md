@@ -36,6 +36,9 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![Highline Public Schools confirms ransomware behind shutdown](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Highline Public Schools confirms ransomware behind shutdown](https://www.bleepingcomputer.com/news/security/highline-public-schools-confirms-ransomware-attack-was-behind-september-shut-down/)
     * [![Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](https://www.bleepingcomputer.com/news/security/russia-arrests-us-sanctioned-cryptex-founder-95-other-linked-suspects/)
@@ -45,9 +48,6 @@
     * [![Outlast game development delayed after Red Barrels cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Outlast game development delayed after Red Barrels cyberattack](https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/)
-    * [![UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](https://www.bleepingcomputer.com/news/security/uk-nuclear-site-sellafield-fined-440-000-for-cybersecurity-shortfalls/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
