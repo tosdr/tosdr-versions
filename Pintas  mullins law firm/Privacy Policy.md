@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Suing for talcum powder ovarian cancer death](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-sue-for-a-loved-one-that-died-of-ovarian-cancer-from-talcum-powder-use.jpg "Suing for Talcum Powder Ovarian Cancer Death")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/ "Suing for Talcum Powder Ovarian Cancer Death")
+[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
 
-[#### Suing for Talcum Powder Ovarian Cancer Death](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/)
+[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
 
-[![What are the rights of assisted living residents?](https://www.pintas.com/wp-content/uploads/2021/03/happy-elderly-patient-sitting-with-happy-nurse-300x200.jpg "What are the Rights of Assisted Living Residents?")](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/ "What are the Rights of Assisted Living Residents?")
+[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
 
-[#### What are the Rights of Assisted Living Residents?](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/)
+[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
 
-[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
+[![How much do insurance companies pay for pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-how-much-do-insurance-companies-pay-for-pain-and-suffering.jpg "How Much Do Insurance Companies Pay For Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement "How Much Do Insurance Companies Pay For Pain and Suffering?")
 
-[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
+[#### How Much Do Insurance Companies Pay For Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
