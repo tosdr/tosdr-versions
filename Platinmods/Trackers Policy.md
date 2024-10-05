@@ -291,25 +291,25 @@ To learn more about cookies, and find more information about blocking certain ty
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1728097845) [Email](#_xfUid-1-1728097845) [Share](#_xfUid-1-1728097845) [Link](#_xfUid-1-1728097845)
+[WhatsApp](#_xfUid-1-1728119387) [Email](#_xfUid-1-1728119387) [Share](#_xfUid-1-1728119387) [Link](#_xfUid-1-1728119387)
 
 ### Forum statistics
 
 Threads
 
-66,059
+66,061
 
 Messages
 
-2,828,653
+2,829,685
 
 Members
 
-4,526,231
+4,527,409
 
 Latest member
 
-[s29717119](https://platinmods.com/members/s29717119.4854900/)
+[ghayal aashiq](https://platinmods.com/members/ghayal-aashiq.4856083/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
