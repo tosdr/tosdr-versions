@@ -16,14 +16,14 @@ Popular Posts
 
 TourOfCalifornia.org
 
-[Map App](https://app.tourofcalifornia.org/?v=20231230)[Disclaimer](https://www.tourofcalifornia.org/2006/01/disclaimer.html)[Privacy Policy](https://www.tourofcalifornia.org/2006/01/privacy-policy.html)[Site Map](https://www.tourofcalifornia.org/2006/01/site-map.html)[Bernd Straehle](https://www.tourofcalifornia.org/2006/01/bernd-straehle.html)
+[Map App](https://app.tourofcalifornia.org/?v=20231230)[Disclaimer](https://www.tourofcalifornia.org/2006/01/disclaimer.html)[Privacy Policy](https://www.tourofcalifornia.org/2006/01/privacy-policy.html)[Site Map](https://www.tourofcalifornia.org/2006/01/site-map.html)[B. Straehle](https://www.tourofcalifornia.org/2006/01/bernd-straehle.html)
 
 Disclaimer
 ==========
 
 Last Updated: 02/01/2021
 
-The information provided by Bernd Straehle ("we", "us", or "our") on TourOfCalifornia.org (the "Site") to our users ("you" or "your") is for general informational purposes only. All information on the Site and our mobile application is provided for free and in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, availability, completeness, reliability, or validity of any information on the Site and our mobile application.
+The information provided by B. Straehle ("we", "us", or "our") on TourOfCalifornia.org (the "Site") to our users ("you" or "your") is for general informational purposes only. All information on the Site and our mobile application is provided for free and in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, availability, completeness, reliability, or validity of any information on the Site and our mobile application.
 
 Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the Site and our mobile application or reliance upon any information provided on the Site and our mobile application. Your use of the Site and our mobile application and your reliance upon any information on the Site and our mobile application is solely at your own risk.
 
