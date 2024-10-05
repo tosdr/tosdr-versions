@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/luchtverfrissers-maken-je-ziek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/europa-verbiedt-schadelijke-gsms-en-wifi-op-scholen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
