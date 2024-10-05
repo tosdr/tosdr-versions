@@ -199,13 +199,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
+    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
+    [![34 of the Funniest Tweets of the Week According to Us](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/) [34 of the Funniest Tweets of the Week According to Us](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/)
     
-    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
+    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
     
-    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
+    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
     
 
 * Advertisement
