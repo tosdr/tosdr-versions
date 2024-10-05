@@ -7,7 +7,7 @@
 * [Bảng xếp hạng](http://www.scamcallfighters.com/bang-xep-hang/ "Bảng xếp hạng")
 * [Tin tức](http://www.scamcallfighters.com/tin-tuc/ "Tin tức")
 
-[Cược Ngay](https://6686vn67.com/) [Cược 6686](https://6686vn67.com/)
+[Cược Ngay](https://6686v739.com/) [Cược 6686](https://6686v739.com/)
 
 ![logo](/themes/colatv/assets/image/svg/icon-menu-mb.svg)
 
