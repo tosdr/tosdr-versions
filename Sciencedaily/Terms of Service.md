@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
+* [Neuroscientists Reactivate Memory Circuit ...](https://www.sciencedaily.com/releases/2024/10/241001124654.htm)
 * [How Pterosaurs Became Towering Terrestrial ...](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Auditory 'Sixth Sense' in Geckos](https://www.sciencedaily.com/releases/2024/10/241004121658.htm)
 * [Kids: Half Calories from Ultra-Processed Foods](https://www.sciencedaily.com/releases/2024/10/241003221629.htm)
@@ -237,8 +239,6 @@ this hour
 * [Missing Link to First Stars in Odd Galaxy](https://www.sciencedaily.com/releases/2024/10/241003152018.htm)
 * [Green Subsidies May Have Hidden Costs](https://www.sciencedaily.com/releases/2024/10/241003145456.htm)
 * [Turning Brain Cells On Using Light-Power](https://www.sciencedaily.com/releases/2024/10/241003145454.htm)
-* [Ant Agriculture Began 66 Million Years Ago](https://www.sciencedaily.com/releases/2024/10/241003145441.htm)
-* [Global Impact of Human-Caused Species-Loss](https://www.sciencedaily.com/releases/2024/10/241003145435.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
-
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -267,9 +267,9 @@ this week
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
-
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
