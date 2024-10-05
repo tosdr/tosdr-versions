@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/bilderbergvoorzitter-bilderberggroep-droeg-bij-aan-de-komst-van-de-euro/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/omg-is-dit-jouw-volkskrant-hoofdredacteur/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
