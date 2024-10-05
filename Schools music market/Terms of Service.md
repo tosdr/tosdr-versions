@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/rhythm-bingo/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-folk-music/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/musical-wordsearch/)
+ [](https://schoolsmusicmarket.com/product/music-food-a-music-notation-worksheet/)
 
 ###### Browse By Year/Grade
 
