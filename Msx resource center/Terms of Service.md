@@ -140,8 +140,9 @@ MSX Music player
 
 Latest reactions
 
-* [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
+* [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
@@ -149,14 +150,14 @@ Latest reactions
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper](https://www.msx.org/photoshoots/bussum-2001/one-winners-msxorg-quiz-bas-kornalijnslijper "One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper")
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
-* [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 
 Latest forum posts
 
+* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
 * [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
-* [MSXDev 2023 NotebookLM podcast](https://www.msx.org/forum/msx-talk/general-discussion/msxdev-2023-notebooklm-podcast "MSXDev 2023 NotebookLM podcast")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=64 "WonderTANG! Who wants to juice up your MSX?")
+* [MSXDev 2023 NotebookLM podcast](https://www.msx.org/forum/msx-talk/general-discussion/msxdev-2023-notebooklm-podcast "MSXDev 2023 NotebookLM podcast")
 * [SONY HB-T7 restoration](https://www.msx.org/forum/msx-talk/hardware/sony-hb-t7-restoration "SONY HB-T7 restoration")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=4 "Hi From Cuba, Need Help Z80 ;)")
@@ -165,7 +166,6 @@ Latest forum posts
 * [RTC - Real Time Clock gives no seconds](https://www.msx.org/forum/msx-talk/development/rtc-real-time-clock-gives-no-seconds "RTC - Real Time Clock gives no seconds")
 * [SVI-605B HDD Controller](https://www.msx.org/forum/msx-talk/hardware/svi-605b-hdd-controller "SVI-605B HDD Controller")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
-* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
