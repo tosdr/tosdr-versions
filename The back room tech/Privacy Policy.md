@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/code-80x44.jpeg.webp)](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")[HowTo: Automatically Remove Files Older Than ‘X’ Days](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/cent-os-80x27.png.webp)](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")[Configure CentOS to Sync with NTP Time Servers](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/disable-click-sound-windows-xp-42x52.png.webp)](https://thebackroomtech.com/2009/01/29/howto-disable-the-clicking-sound-in-internet-explorer-and-windows-explorer/ "Howto: Disable the clicking sound in Internet Explorer and Windows Explorer")[Howto: Disable the clicking sound in Internet Explorer and Windows Explorer](https://thebackroomtech.com/2009/01/29/howto-disable-the-clicking-sound-in-internet-explorer-and-windows-explorer/ "Howto: Disable the clicking sound in Internet Explorer and Windows Explorer")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png.webp)](https://thebackroomtech.com/2008/03/17/howto-enable-remote-desktop-on-a-windows-2008-server-core-system/ "Howto: Enable Remote Desktop on a Windows 2008 Server Core System")[Howto: Enable Remote Desktop on a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/17/howto-enable-remote-desktop-on-a-windows-2008-server-core-system/ "Howto: Enable Remote Desktop on a Windows 2008 Server Core System")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.webp)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png.webp)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/dot-net-80x41.png.webp)](https://thebackroomtech.com/2009/04/01/using-caspolexe-to-grant-net-applications-rights-to-a-remote-network-share/ "Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share")[Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share](https://thebackroomtech.com/2009/04/01/using-caspolexe-to-grant-net-applications-rights-to-a-remote-network-share/ "Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share")
 
 #### Our Publishing Family
 
