@@ -526,8 +526,8 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 ### [More](https://myanimelist.net/topanime.php)Top Anime
 
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
-2. 2[](https://myanimelist.net/anime/5114/-)
-3. 3[](https://myanimelist.net/anime/9253/-)
+2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
+3. 3 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
 4. 4 [Gintama°](https://myanimelist.net/anime/28977/Gintama%C2%B0)
 5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
@@ -535,7 +535,7 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 
 1. 1 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
 2. 2 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
-3. 3[](https://myanimelist.net/anime/57334/-)
+3. 3 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
 4. 4 [One Piece](https://myanimelist.net/anime/21/One_Piece)
 5. 5 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
 
