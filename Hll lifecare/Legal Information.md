@@ -71,7 +71,7 @@ These terms and conditions shall be governed by the laws of the Republic of Indi
 
 * [HLL invites applications for Pratheeksha scholarships 2023-24 : HLL invites applications for Pratheeksha scholarships 2023-24](http://www.lifecarehll.com/media/reportview/reference/060ad92489947d410d897474079c1477hoGD)
 * [HINDLABS inaugurates New Centre at Kowdiar : HINDLABS inaugurates New Centre at Kowdiar -Press Release 11 July 2024](http://www.lifecarehll.com/media/reportview/reference/bcbe3365e6ac95ea2c0343a2395834ddhoGE)
-* [Admission to Master of Business Administration of HLL Management Academy (Evening Regular Programme) affiliated by the University…](http://www.lifecarehll.com/media/reportview/reference/eae27d77ca20db309e056e3d2dcd7d69hn-H)
+* [HLL introduces “Makesure” Rapid Diagnostic Antibody Kit for Corona detection : HLL introduces “Makesure” Rapid Diagnostic…](http://www.lifecarehll.com/media/reportview/reference/bd686fd640be98efaae0091fa301e613hYiF)
 
 * [](http://www.lifecarehll.com/page/render/reference/Services)
 * [](http://www.hindlabs.in/)
