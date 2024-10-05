@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5d45527fe3eef11d6b2f9817e39e69ba
+3dc7db2316a2b68145e5612a12e69a56
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Clear black oval beads with gold](https://www.sojourner.biz/images/cache/glass/GL0331.200.jpg)](https://www.sojourner.biz/beads/glass/clear-black-oval-beads-with-gold.html "Clear black oval beads with gold")
+[![Sterling silver griffin necklace](https://www.sojourner.biz/images/cache/N0055.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/sterling-silver-griffin-necklace.html "Sterling silver griffin necklace")
 
-#### [Clear black oval beads with gold](https://www.sojourner.biz/beads/glass/clear-black-oval-beads-with-gold.html "Clear black oval beads with gold")
+#### [Sterling silver griffin necklace](https://www.sojourner.biz/jewelry/necklaces/sterling-silver-griffin-necklace.html "Sterling silver griffin necklace")
 
-$5.00
+$250.00
 
 ### Best Sellers
 
