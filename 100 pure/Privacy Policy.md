@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1564 reviews (1564)
+1565 reviews (1565)
 
 $30.00 $30.00
 
@@ -456,7 +456,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5285 reviews (5285)
+5288 reviews (5288)
 
 $28.00 $28.00
 
