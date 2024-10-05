@@ -29,15 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
+[![SkyliteMCNetwork](plugins/MineCraft/icons/25x25xSkyliteMCNetwork_1728025073.png.pagespeed.ic.IvBfztrha8.jpg)
 
-KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED") [TechnoSnipe Survival](https://minecraft-server.net/details/TechnoSnipe/ "TechnoSnipe Survival")[![AuroraWorlds](plugins/MineCraft/icons/25x25xAuroraWorlds_1721605776.png.pagespeed.ic.7T6GmJ9R84.png)
+SkyliteMC Network](https://minecraft-server.net/details/SkyliteMCNetwork/ "SkyliteMC Network")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-Aurora Worlds](https://minecraft-server.net/details/AuroraWorlds/ "Aurora Worlds")[![CommenceSMP](plugins/MineCraft/icons/25x25xCommenceSMP_1719969626.png.pagespeed.ic.Cyrkrvi0-q.jpg)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![WreckMC](plugins/MineCraft/icons/25x25xWreckMC_1728090368.png.pagespeed.ic.gY-q0J2O-i.png)
 
-\- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -](https://minecraft-server.net/details/CommenceSMP/ "- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+WreckMC](https://minecraft-server.net/details/WreckMC/ "WreckMC")[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1727040362.png.pagespeed.ic.oC2A8nHtDV.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
+Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![TotemMC](plugins/MineCraft/icons/25x25xTotemMC_1727336201.png.pagespeed.ic.JsPeSfpeX-.jpg)
+
+TotemMC \[1.21 Survival\]](https://minecraft-server.net/details/TotemMC/ "TotemMC [1.21 Survival]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
