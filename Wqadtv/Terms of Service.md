@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_360x203.jpg)](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a4efe6fb-2d9f-4149-8511-b5c80966ee4c/20241005T025727/a4efe6fb-2d9f-4149-8511-b5c80966ee4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a4efe6fb-2d9f-4149-8511-b5c80966ee4c/20241005T025727/a4efe6fb-2d9f-4149-8511-b5c80966ee4c_360x203.jpg)](https://www.wqad.com/article/news/education/monmouth-college-inaugurates-its-15th-president/526-79677d17-be07-494d-a18f-150fd0fa3ee1)
         
-        #### [Maquon woman charged with first-degree murder in death of former police chief](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b) [![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49ef4c5-b681-4ea9-8c0e-d77e542c8201/20241004T214518/c49ef4c5-b681-4ea9-8c0e-d77e542c8201_360x203.jpg)](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
+        #### [Monmouth College welcomes 15th president](https://www.wqad.com/article/news/education/monmouth-college-inaugurates-its-15th-president/526-79677d17-be07-494d-a18f-150fd0fa3ee1)
         
-        #### [Woman charged in connection to 2022 homicide of Maquon police chief](https://www.wqad.com/article/news/crime/maquon-police-chief-homicide-woman-arrested-charged/526-428da777-5f02-4b74-a340-aa98033c1b6b)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e/20241004T193217/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e/20241004T193217/ebbcd4d5-0bc5-4597-9ec4-9beca82f711e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/haunted-rock-island-roadhouse-paracon-year-two-tickets/526-36725c39-a3e4-4dc3-bfcd-7b4da193a380)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c1133124-54bf-434c-847e-a13f3d6f203b/20241004T234442/c1133124-54bf-434c-847e-a13f3d6f203b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c1133124-54bf-434c-847e-a13f3d6f203b/20241004T234442/c1133124-54bf-434c-847e-a13f3d6f203b_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-junior-theatre-new-home/526-7d60acf7-f7b2-479a-8d43-fda01591d4ff)
         
-        #### [Calling all paranormal lovers! Haunted Rock Island Roadhouse Paracon returns for year 2](https://www.wqad.com/article/news/local/the-current/haunted-rock-island-roadhouse-paracon-year-two-tickets/526-36725c39-a3e4-4dc3-bfcd-7b4da193a380)
+        #### [City staff searching for Davenport Junior Theatre's new home](https://www.wqad.com/article/news/local/davenport-junior-theatre-new-home/526-7d60acf7-f7b2-479a-8d43-fda01591d4ff)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/493a2ddf-eee1-455f-a12f-c456c00fdebc/20241004T212839/493a2ddf-eee1-455f-a12f-c456c00fdebc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/493a2ddf-eee1-455f-a12f-c456c00fdebc/20241004T212839/493a2ddf-eee1-455f-a12f-c456c00fdebc_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d23b7780-40f5-43e8-a1fe-7f187204c2f3/20241004T181512/d23b7780-40f5-43e8-a1fe-7f187204c2f3_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d23b7780-40f5-43e8-a1fe-7f187204c2f3/20241004T181512/d23b7780-40f5-43e8-a1fe-7f187204c2f3_360x203.jpg)](https://www.wqad.com/article/news/nation-world/12-deaths-ignored-evacuation-order/507-f3ae201c-fe3e-49f3-9aa5-594a4d4c60d8)
         
-        #### [A tale of two seasons this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Helene’s powerful storm surge killed 12 near Tampa. They didn't have to die](https://www.wqad.com/article/news/nation-world/12-deaths-ignored-evacuation-order/507-f3ae201c-fe3e-49f3-9aa5-594a4d4c60d8)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/deb4f95c-13c3-4180-bd94-4774348fc2e1/20241004T192118/deb4f95c-13c3-4180-bd94-4774348fc2e1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/deb4f95c-13c3-4180-bd94-4774348fc2e1/20241004T192118/deb4f95c-13c3-4180-bd94-4774348fc2e1_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-family-first-foundation-has-been-selected-as-the-three-degree-recipient-for-october-2024/526-4631b14d-6425-4f44-8be1-f4bd11647037)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/be5bedfa-7d70-48ce-9740-f405f8cc289b/20241004T200838/be5bedfa-7d70-48ce-9740-f405f8cc289b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/be5bedfa-7d70-48ce-9740-f405f8cc289b/20241004T200838/be5bedfa-7d70-48ce-9740-f405f8cc289b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/north-carolina-distributing-benadryl-epipens-as-yellow-jackets-swarm/507-6d94e707-fef9-45a3-a638-e10b51119746)
         
-        #### [The Family First Foundation has been selected as the Three Degree recipient for October 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-family-first-foundation-has-been-selected-as-the-three-degree-recipient-for-october-2024/526-4631b14d-6425-4f44-8be1-f4bd11647037)
+        #### [Yellow jackets swarm in North Carolina after Hurricane Helene flooding](https://www.wqad.com/article/news/nation-world/north-carolina-distributing-benadryl-epipens-as-yellow-jackets-swarm/507-6d94e707-fef9-45a3-a638-e10b51119746)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-72°
+63°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
