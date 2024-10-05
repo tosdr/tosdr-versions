@@ -21,8 +21,6 @@ Save ID 
 TraceMyIP Privacy Policy
 ========================
 
-* * *
-
 At TraceMyIP ("TraceMyIP, LLC") we believe that our customers ("end-users") should be treated the same as we would want to be treated. Therefore we would like you to know how we collect and use the data we may have that can be related to your identity. To achieve a full understanding and awareness of our operations and ethics, you should read this policy in its entirety.
 
 **Scope of this Privacy Policy**  
@@ -110,10 +108,13 @@ The following Privacy Policy applies to the information that we obtain through y
 
 44. **Third Parties Privacy Policies**  
     TraceMyIP utilizes the following third-party billing services that provide the following privacy policies  
-    PayPal - [https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)  
-    Authorize.Net - [https://www.authorize.net/company/privacy/](https://www.authorize.net/company/privacy/)
-
-47. **General Data Protection Regulation (GDPR) (EU) Compliance**  
+      
+    **\- PayPal** - [https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)  
+    **\- Stripe** - [https://stripe.com/privacy](https://stripe.com/privacy)  
+    **\- Authorize.Net** - [https://www.authorize.net/company/privacy/](https://www.authorize.net/company/privacy/)  
+    **\- Payoneer** - [https://www.payoneer.com/legal/privacy-policy/](https://www.payoneer.com/legal/privacy-policy/)
+    
+45. **General Data Protection Regulation (GDPR) (EU) Compliance**  
     Starting from May 25th of 2018, TraceMyIP as Data Processor provides [GDPR data processing tools](https://www.tracemyip.org/GDPR-compliant-website-tracking-software.htm) to its end-users to assist with compliance with the applicable laws. As an integrated part of this Privacy Policy, which must be accepted by TraceMyIP end-users, a GDPR Data Processing Addendum has been updated and can be found at [https://www.tracemyip.org/gdpr-data-processing-addendum.htm](https://www.tracemyip.org/gdpr-data-processing-addendum.htm)
 
 [Trace My IP](https://www.tracemyip.org/)
