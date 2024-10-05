@@ -17,23 +17,20 @@
 [![Filament Essential Services](https://www.filamentservices.org/wp-content/uploads/2020/02/Filament-horiz_3C.png)](https://www.filamentservices.org/)
 
 * [Home](https://www.filamentservices.org/)
-* [Solutions](#)
-    * [Nonprofits](https://www.filamentservices.org/nonprofits/)
-    * [Schools](https://www.filamentservices.org/schools/)
-    * [Cities](https://www.filamentservices.org/cities/)
 * [Services](#)
     * [Creative Services](#)
         * [Branding Services](https://www.filamentservices.org/branding-services/)
         * [Design and Printing](https://www.filamentservices.org/design-printing/)
-        * [SOCS Communication Suite](https://www.filamentservices.org/websites/)
         * [Video Production](https://www.filamentservices.org/lights-camera-actionable-results/)
-    * [Information Security](https://www.filamentservices.org/information-security/)
-    * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
+        * [Website CMS](https://www.filamentservices.org/websites/)
     * [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
     * [Payroll+Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
+    * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
+    * [Information Security](https://www.filamentsecurity.org/)
 * [Resources](#)
-    * [Blog](https://www.filamentservices.org/blog/)
     * [Free Resource Hub](https://www.filamentservices.org/free-resource-hub/)
+    * [Nonprofit Health Check](https://www.filamentservices.org/nonprofit-health-check/)
+    * [Blog](https://www.filamentservices.org/blog/)
 * [About](https://www.filamentservices.org/about/)
     * [News](https://www.filamentservices.org/news/)
     * [Employee Spotlights](https://www.filamentservices.org/category/spotlight/)
@@ -97,22 +94,16 @@ Lincoln, NE 68508
 
 [![](https://www.filamentservices.org/wp-content/uploads/NAM-Member-Logo-white-RGB-sm.png "NAM-Member-Logo-white-RGB-sm | Filament Essential Services")](https://www.nonprofitam.org/)
 
-#### Solutions
-
-* [Nonprofits and Foundations](https://www.filamentservices.org/nonprofits/)
-* [Schools and Districts](https://www.filamentservices.org/schools/)
-* [Cities and Communities](https://www.filamentservices.org/cities/)
-
 #### Services
 
+* [Payroll and Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
 * [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
 * [Branding Services](https://www.filamentservices.org/branding-services/)
 * [Design and Printing](https://www.filamentservices.org/design-printing/)
-* [SOCS Communication Suite](https://www.filamentservices.org/websites/)
+* [Website CMS](https://www.filamentservices.org/websites/)
 * [Video Production](https://www.filamentservices.org/lights-camera-actionable-results/)
-* [Information Security](https://www.filamentservices.org/information-security/)
 * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
-* [Payroll and Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
+* [Information Security](https://www.filamentsecurity.org/)
 
 #### About
 
@@ -125,6 +116,7 @@ Lincoln, NE 68508
 #### Resources
 
 * [Free Resource Hub](https://www.filamentservices.org/free-resource-hub/)
+* [Nonprofit Health Check](https://www.filamentservices.org/nonprofit-health-check/)
 * [Blog](https://www.filamentservices.org/blog/)
 
 * [Facebook](https://www.facebook.com/filamentsvcs)
