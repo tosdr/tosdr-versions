@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come on, it's $10 a month, just do it.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Satellite images show scale of power outages after Hurricane Helene wiped out the southern US. Some places almost like nightly North Korea](https://www.fark.com/goto/13416948) ( [metro.co.uk](https://www.fark.com/goto/13416948) ) » [(5 comments)](https://www.fark.com/comments/13416948/Satellite-images-show-scale-of-power-outages-after-Hurricane-Helene-wiped-out-southern-US-Some-places-almost-like-nightly-North-Korea) |
-| [Discussion](https://www.fark.com/discussion/) | [Data-driven or dead inside? AI's customer service dilemma](https://www.fark.com/goto/13416684) ( [retailwire.com](https://www.fark.com/goto/13416684) ) » [(4 comments)](https://www.fark.com/comments/13416684/Data-driven-dead-inside-AIs-customer-service-dilemma) |
-| [Sports](https://www.fark.com/sports/) | [Patrick Ewing has re-joined the Knicks](https://www.fark.com/goto/13416744) ( [espn.com](https://www.fark.com/goto/13416744) ) » [(5 comments)](https://www.fark.com/comments/13416744/Patrick-Ewing-has-re-joined-Knicks) |
-| [Business](https://www.fark.com/business/) | [Flying isn't cheap](https://www.fark.com/goto/13416774) ( [msn.com](https://www.fark.com/goto/13416774) ) » [(3 comments)](https://www.fark.com/comments/13416774/Flying-isnt-cheap) |
-| [STEM](https://www.fark.com/stem/) | [Sure, the Universe is expanding and cooling, which means it was hotter in the past. But how, exactly, does the Universe's temperature change over time?](https://www.fark.com/goto/13416712) ( [bigthink.com](https://www.fark.com/goto/13416712) ) » [(4 comments)](https://www.fark.com/comments/13416712/Sure-Universe-is-expanding-cooling-which-means-it-was-hotter-in-past-But-how-exactly-does-Universes-temperature-change-over-time) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Kanye West's new hobby: going to exotic places and ditching exotic wives](https://www.fark.com/goto/13416622) ( [atlantablackstar.com](https://www.fark.com/goto/13416622) ) » [(14 comments)](https://www.fark.com/comments/13416622/Kanye-Wests-new-hobby-going-to-exotic-places-ditching-exotic-wives) |
-| [Fandom](https://www.fark.com/fandom/) | [I've been reliably told that it's incels](https://www.fark.com/goto/13416848) ( [thegamer.com](https://www.fark.com/goto/13416848) ) » [(3 comments)](https://www.fark.com/comments/13416848/Ive-been-reliably-told-that-its-incels) |
-| [D'awww](https://www.fark.com/dawww/) | [It's all fine, untill you pet the neighor's cat and come home smelling like it](https://www.fark.com/goto/13415804) ( [newsweek.com](https://www.fark.com/goto/13415804) ) » [(9 comments)](https://www.fark.com/comments/13415804/Its-all-fine-untill-you-pet-neighors-cat-come-home-smelling-like-it) |
-| [Food](https://www.fark.com/food/) | [Nowhere close to the ocean, no special reason for it. Yep... Cleveland has clams](https://www.fark.com/goto/13416768) ( [clevescene.com](https://www.fark.com/goto/13416768) ) » [(10 comments)](https://www.fark.com/comments/13416768/Nowhere-close-to-ocean-no-special-reason-for-it-Yep-Cleveland-has-clams) |
-| [Politics](https://www.fark.com/politics/) | [In today's rectally extracted Trump claim, he claims that Harris " has been informed, legally, that I have, and had, nothing to do with it, NEVER READ IT, NEVER SAW IT, "](https://www.fark.com/goto/13416938) ( [msn.com](https://www.fark.com/goto/13416938) ) » [(18 comments)](https://www.fark.com/comments/13416938/In-todays-rectally-extracted-Trump-claim-he-claims-that-Harris-has-been-informed-legally-that-I-have-had-nothing-to-do-with-it-NEVER-READ-IT-NEVER-SAW-IT-) |
+| [Main](https://www.fark.com/) | ['My bad' says teen after completing official Ohio rite of passage, has plans to move near you](https://www.fark.com/goto/13417052) ( [msn.com](https://www.fark.com/goto/13417052) ) » [(4 comments)](https://www.fark.com/comments/13417052/My-bad-says-teen-after-completing-official-Ohio-rite-of-passage-has-plans-to-move-near-you) |
+| [Discussion](https://www.fark.com/discussion/) | [10-4 good buddy. It's National CB Radio Day so get your ears on, put the hammer down, keep an eye out for bears, and watch your back door. CB radio CSBs to the right](https://www.fark.com/goto/13417108) ( [whatnationaldayisit.com](https://www.fark.com/goto/13417108) ) » [(3 comments)](https://www.fark.com/comments/13417108/-10-4-good-buddy-Its-National-CB-Radio-Day-so-get-your-ears-on-put-hammer-down-keep-an-eye-out-for-bears-watch-your-back-door-CB-radio-CSBs-to-right) |
+| [Sports](https://www.fark.com/sports/) | [The thrill of victory, the agony of defeat](https://www.fark.com/goto/13416976) ( [sny.tv](https://www.fark.com/goto/13416976) ) » [(1 comment)](https://www.fark.com/comments/13416976/The-thrill-of-victory-agony-of-defeat) |
+| [Business](https://www.fark.com/business/) | [Musk tries to argue that he isn't responsible because Twitter no longer exists. Judge disagrees](https://www.fark.com/goto/13417078) ( [arstechnica.com](https://www.fark.com/goto/13417078) ) » [(10 comments)](https://www.fark.com/comments/13417078/Musk-tries-to-argue-that-he-isnt-responsible-because-Twitter-no-longer-exists-Judge-disagrees) |
+| [STEM](https://www.fark.com/stem/) | [Sextortionists: thanks to the massive data leak, we have emailed you pictures of your home. Send Bitcoin now or we will release your...nudez?](https://www.fark.com/goto/13417100) ( [404media.co](https://www.fark.com/goto/13417100) ) » [(4 comments)](https://www.fark.com/comments/13417100/Sextortionists-thanks-to-massive-data-leak-we-have-emailed-you-pictures-of-your-home-Send-Bitcoin-now-we-will-release-yournudez) |
+| [Entertainment](https://www.fark.com/entertainment/) | [♫ Helene, Helene, Helene, Helene](https://www.fark.com/goto/13417188) ( [rollingstone.com](https://www.fark.com/goto/13417188) ) » [(6 comments)](https://www.fark.com/comments/13417188/Helene-Helene-Helene-Helene) |
+| [Fandom](https://www.fark.com/fandom/) | [If you ever wondered how Billy Crystal would do in a thriller, wonder no more](https://www.fark.com/goto/13416562) ( [comicbook.com](https://www.fark.com/goto/13416562) ) » [(7 comments)](https://www.fark.com/comments/13416562/If-you-ever-wondered-how-Billy-Crystal-would-do-in-a-thriller-wonder-no-more) |
+| [D'awww](https://www.fark.com/dawww/) | [Vet confirms: Dogs have guilt, cats have insousiance](https://www.fark.com/goto/13417020) ( [aol.com](https://www.fark.com/goto/13417020) ) » [(0 comments)](https://www.fark.com/comments/13417020/Vet-confirms-Dogs-have-guilt-cats-have-insousiance) |
+| [Food](https://www.fark.com/food/) | [Worst beer on the market? Link goes to subby's choice](https://www.fark.com/goto/13417178) ( [thebeerstore.ca](https://www.fark.com/goto/13417178) ) » [(42 comments)](https://www.fark.com/comments/13417178/Worst-beer-on-market-Link-goes-to-subbys-choice) |
+| [Politics](https://www.fark.com/politics/) | [Sir, a second black Nazi has hiat the Republican Party](https://www.fark.com/goto/13417134) ( [rawstory.com](https://www.fark.com/goto/13417134) ) » [(28 comments)](https://www.fark.com/comments/13417134/Sir-a-second-black-Nazi-has-hiat-Republican-Party) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 04 2024 15:42:52  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 04 2024 21:43:10  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
