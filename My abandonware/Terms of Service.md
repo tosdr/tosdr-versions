@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [The Time Tunnel: The Presidents](https://www.myabandonware.com/game/the-time-tunnel-the-presidents-s4y)
+* [Your Universe Volume 3: The Weather](https://www.myabandonware.com/game/your-universe-volume-3-the-weather-s4x)
+* [Your Universe Volume 2: The Planet Earth](https://www.myabandonware.com/game/your-universe-volume-2-the-planet-earth-s4w)
 * [Who am I?: Plants and Animals of the Desert](https://www.myabandonware.com/game/who-am-i-plants-and-animals-of-the-desert-s4v)
 * [Who am I?: Mammals, Reptiles, and Insects](https://www.myabandonware.com/game/who-am-i-mammals-reptiles-and-insects-s4u)
-* [Who am I?: Birds, Trees, and Flowers](https://www.myabandonware.com/game/who-am-i-birds-trees-and-flowers-s4t)
-* [Samurai Shodown 64](https://www.myabandonware.com/game/samurai-shodown-64-so0)
-* [Samurai Shodown 64: Warriors Rage](https://www.myabandonware.com/game/samurai-shodown-64-warriors-rage-snz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
