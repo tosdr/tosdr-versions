@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off All Security Locks | Code: LOCK15](https://www.thehomesecuritysuperstore.com/collections/locks?view=all&utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Security+Locks)
+[15% Off All Voice Recoders | Code: VOICE15](https://www.thehomesecuritysuperstore.com/collections/voice-recorders?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Voice+Recoders)
 
-Today’s offer: :: | 15% Off All Security Locks | Code: LOCK15
+Today’s offer: :: | 15% Off All Voice Recoders | Code: VOICE15
 
 Today’s offer: : :
 
- 15% Off All Security Locks Code: LOCK15
+ 15% Off All Voice Recoders Code: VOICE15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
