@@ -91,15 +91,15 @@ Trending Posts
 --------------
 
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 Close
 
@@ -155,15 +155,15 @@ Trending Posts
 --------------
 
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 [Skip to content](#main)
 
@@ -354,15 +354,15 @@ Trending Posts
 --------------
 
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
