@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas PD names interim police chief to replace Eddie Garcia](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/f57fd1d2-DPD20headquarters_1439831436412_110120_ver1.0.jpg?ve=1&tl=1)
+ [![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/bill-gates-getty.jpg?ve=1&tl=1)
 
- ![Dallas PD names interim police chief to replace Eddie Garcia](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/f57fd1d2-DPD20headquarters_1439831436412_110120_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dpd-names-interim-police-chief-michael-igo)
+ ![Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/bill-gates-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bill-gates-not-10-wealthiest-billionaires-world-who-made-list)
 
-### [Dallas PD names interim police chief to replace Eddie Garcia](https://www.fox4news.com/news/dpd-names-interim-police-chief-michael-igo)
+### [Bill Gates no longer among 10 wealthiest billionaires in the world: Here’s who made list](https://www.fox4news.com/news/bill-gates-not-10-wealthiest-billionaires-world-who-made-list)
 
- [![3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elsby.jpg?ve=1&tl=1)
+ [![Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elsby-avenue-suspects.jpg?ve=1&tl=1)
 
- ![3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elsby.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
+ ![Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elsby-avenue-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
 
-### [3 more suspects arrested in connection to brutal Northwest Dallas robbery](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
+### [Men arrested for brutal Dallas robbery said to be in Venezuelan gang, docs say](https://www.fox4news.com/news/northwest-dallas-robbery-arrests-irving)
 
- [![State Fair of Texas has a new Texas-themed drone show](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-state-fair-drone-show-5a_00.00.13.12.jpg?ve=1&tl=1)
+ [![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-2-copy.jpg?ve=1&tl=1)
 
- ![State Fair of Texas has a new Texas-themed drone show](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-state-fair-drone-show-5a_00.00.13.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-drone-show)
+ ![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-2-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
 
-### [State Fair of Texas has a new Texas-themed drone show](https://www.fox4news.com/news/state-fair-texas-drone-show)
+### [Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
 
- [![Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.00.42.40.jpg?ve=1&tl=1)
+ [![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dolly.jpg?ve=1&tl=1)
 
- ![Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/am-news-clean-friday-2024_10_04-kdfweme001_03_58_5_00.00.42.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pork-schnitzel-apple-streudel-recipes-from-granbury-oktoberfest)
+ ![Watch: Dolly Parton announces $2 million for Helene victims](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dolly.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
 
-### [Pork schnitzel and apple streudel recipes from the Granbury Oktoberfest](https://www.fox4news.com/news/pork-schnitzel-apple-streudel-recipes-from-granbury-oktoberfest)
+### [Watch: Dolly Parton announces $2 million for Helene victims](https://www.fox4news.com/news/dolly-parton-helene-donation-newport-tennessee-walmart)
 
- [!['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/truck-crash-featured-image.jpg?ve=1&tl=1)
+ [![‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kollab.jpg?ve=1&tl=1)
 
- !['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/truck-crash-featured-image.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/totally-my-bad-teen-admits-cutting-off-tanker-truck-causing-chemical-spill-killed-5)
+ ![‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kollab.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spongebob-squarepants-krabby-patty-kollab-coming-wendys)
 
-### ['Totally my bad': Teen admits to cutting off tanker truck, causing chemical spill that killed 5](https://www.fox4news.com/news/totally-my-bad-teen-admits-cutting-off-tanker-truck-causing-chemical-spill-killed-5)
+### [‘Spongebob Squarepants’ Krabby Patty Kollab coming to Wendy’s](https://www.fox4news.com/news/spongebob-squarepants-krabby-patty-kollab-coming-wendys)
 
 ###### [News](https://www.fox4news.com/news)
 
