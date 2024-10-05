@@ -240,10 +240,21 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Get started with our public cloud! Deliver computing services - servers, data, networking, software and more - over the internet (“the cloud”).
+#### Want to contribute ?
 
   
-[Learn More](https://www.dynu.com/Cloud-VPS-Phoenix)  
+
+[Submit your Article](https://www.dynu.com/Support/ContactUs)  
+  
+
+  
+
+[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
+  
+
+  
+
+[Request an Article](https://www.dynu.com/Support/ContactUs)  
   
 
 ### News
