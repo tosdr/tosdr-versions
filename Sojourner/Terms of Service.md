@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-501a1a888e0b9d4ab252109f94038689
+f681d86b3a53d35261a8aa899eaaef92
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Green rose clasp](https://sojourner.biz/images/cache/SKU0015front.200.jpg)](https://sojourner.biz/clasps/glass/green-rose-clasp.html "Green rose clasp")
+[![14 mm by 10 mm faceted glass rectangle beads](https://sojourner.biz/images/cache/glass/GL0106.200.jpg)](https://sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
 
-#### [Green rose clasp](https://sojourner.biz/clasps/glass/green-rose-clasp.html "Green rose clasp")
+#### [14 mm by 10 mm faceted glass rectangle beads](https://sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
 
-$31.00
+$16.00
 
 ### Best Sellers
 
