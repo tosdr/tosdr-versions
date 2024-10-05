@@ -168,35 +168,35 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [New 0-day exploit (online marketplace)](https://pastebin.com/X8yukd2H)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/Mv4hS57A)
     
-    JavaScript | 2 sec ago | 0.13 KB
+    JavaScript | 1 sec ago | 0.13 KB
     
-* [⭐HOW I MADE $2700 TODAY ⭐ GUIDE](https://pastebin.com/LxrpySJW)
+* [New free giftcards 0-day exploit](https://pastebin.com/Y8PAJ99F)
     
-    JavaScript | 2 sec ago | 0.18 KB
+    Python | 1 sec ago | 0.30 KB
     
-* [⭐FREE 2500$ GIFTCARDS METHOD ⭐️ October 2024](https://pastebin.com/sr3A0yyU)
+* [This method is now public](https://pastebin.com/9Sw8i25N)
     
-    JavaScript | 2 sec ago | 0.18 KB
+    JavaScript | 2 sec ago | 0.20 KB
     
-* [HOW I MADE $5000 TODAY ⭐ GUIDE](https://pastebin.com/GT9eREip)
+* [Leaked by Zack](https://pastebin.com/CJKZyK0t)
     
-    JavaScript | 3 sec ago | 0.20 KB
+    JavaScript | 3 sec ago | 0.17 KB
     
-* [⭐ Free giftcards private guide](https://pastebin.com/GRrvvt7z)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/LmGCrVwh)
     
-    Python | 4 sec ago | 0.31 KB
+    JavaScript | 3 sec ago | 0.13 KB
     
-* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/cdaEiZCL)
+* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/mzbX7Nvs)
     
     JavaScript | 4 sec ago | 0.17 KB
     
-* [❤️MAKE 3000$ IN 1 DAY WITH ONLINE STORE❤️](https://pastebin.com/R4B9NEzc)
+* [⭐ Free giftcards private guide](https://pastebin.com/mBziHrsZ)
     
-    JavaScript | 5 sec ago | 0.18 KB
+    Python | 4 sec ago | 0.31 KB
     
-* [\[5k$\]❤️UNLIMITED GIFTCARD GUIDE❤️](https://pastebin.com/Zx6PmQ5j)
+* [😍Private giftcards guide😍](https://pastebin.com/e6LJy7Ss)
     
     JavaScript | 6 sec ago | 0.18 KB
     
