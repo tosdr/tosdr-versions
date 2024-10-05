@@ -239,7 +239,7 @@ En Ecuador, la mala educación nutricional, el sedentarismo y los alimentos proc
 
 ![La expresentadora de TV, Dayana Morán, optó por la manga gástrica para reducir su peso y mejorar su salud y calidad de vida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dayana-vale.jpg)
 
-El aumento descontrolado de pacientes con **sobrepeso y obesidad** presiona cada día más al sistema sanitario ecuatoriano. **Seis de cada diez personas** lidian con la acumulación anormal de grasa o un Índice de Masa Corporal (**IMC**) **mayor a 25**. Este problema comienza en la niñez y es es más prevalente en adultos de **40 a 50 años**, en **mujeres** y se ha convertido en un desafío por las **enfermedades asociadas**.
+El aumento descontrolado de pacientes con **sobrepeso y obesidad** presiona cada día más al sistema sanitario ecuatoriano. **Seis de cada diez personas** lidian con la acumulación anormal de grasa o un Índice de Masa Corporal (**IMC**) **mayor a 25**. Este problema comienza en la niñez y es más prevalente en adultos de **40 a 50 años**, en **mujeres** y se ha convertido en un desafío por las **enfermedades asociadas**.
 
 Más noticias
 ------------
@@ -247,29 +247,29 @@ Más noticias
 * [Una dieta de colores tiene claves para una alimentación saludable](https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html "Una dieta de colores tiene claves para una alimentación saludable")
 * [Cuida tu alimentación, ejercicios y emociones para preservar tu corazón](https://www.elcomercio.com/empresariales/cuida-alimentacion-ejercicios-emociones-preservar-corazon.html "Cuida tu alimentación, ejercicios y emociones para preservar tu corazón")
 
-El **Programa Mundial de Alimentos (PMA)** alertó que los pacientes con sobrepeso y obesidad aumentaron en todas las provincias. Estos pacientes tienen un impacto económico al Estado equivalente al 2,08% del PIB, al 2023, según el **Ministerio de Salud**. Esto se debe al alto consumo de alimentos procesados, azúcares y grasas, además de un estilo de vida sedentario. **La falta de ejercicio** se ve agravada por el tiempo que se dedica a actividades en redes sociales y videojuegos.
+El **Programa Mundial de Alimentos (PMA)** alertó que los pacientes con sobrepeso y obesidad aumentaron en todas las provincias. El impacto económico para el Estado es equivalente al 2,08% del PIB, al 2023, según el **Ministerio de Salud**. Esto se debe al alto consumo de alimentos procesados, azúcares y grasas, además de un estilo de vida sedentario. **La falta de ejercicio** se ve agravada por el tiempo que se dedica a actividades en redes sociales y videojuegos.
 
 **Miguel Lamota,** cirujano **bariátrico y metabólico** con 12 años de experiencia, señala que este fenómeno se debe a la mala educación nutricional que se recibe desde niños. Los pacientes asocian la comida con recompensa desde pequeños. “Te portaste bien toma un chupete, un caramelo, un chocolate…”, explica Lamota, quien resalta que esto se extiende a la adultez.
 
-> “Los pacientes con sobrepeso y obesidad que llegan a mi consulta me dicen: doctor yo no como en todo el día, solo me como tres panes y dos o tres coca-colas”.
-> 
-> Los niños varones aumentan más de peso
-> --------------------------------------
-> 
-> Un estudio de la [Universidad Católica de Quito](https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1 "https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1") reveló que el **36%** de los niños ecuatorianos de **5 a 11** años sufren de sobrepeso u obesidad, siendo los **varones** un **26%** más propensos que las niñas. El riesgo de sobrepeso u obesidad aumenta un **10%** **por cada año adicional de edad.**
-> 
-> La última encuesta nacional del INEC reveló también que el **5%** de los menores de cinco años afrontan sobrepeso y obesidad. En Imbabura y Loja, supera el **7%**
-> 
-> El estudio de la PUCE señala que el **etiquetado nutricional tipo semáforo** ha perdido efectividad, ya que las familias con más niños con sobrepeso u obesidad tienden a consumir más productos procesados y ultraprocesados. Adicionalmente, el consumo de comidas escolares no tuvo un impacto significativo.
-> 
-> La actividad física regular se identificó como un factor protector, reduciendo las probabilidades de sobrepeso u obesidad en aproximadamente un 21%.
-> 
-> Las mujeres son más proclives a subir de peso
-> ---------------------------------------------
-> 
-> Las mujeres, después de los 35 o 40 años, tienden a ganar más peso, pues su metabolismo empieza a disminuir, hay factores hormonales, menopausia, mayor retención de líquidos, hipotiroidismo. Y si a esto se añade una vida poco saludable y sin actividad física, la situación empeora.
-> 
-> Pero las mujeres también son las que más buscan ayuda para mejorar su salud y calidad de vida. En la consulta del doctor Lamota, el 65% son féminas. Un dato curioso: “Cuando la mujer quiere operarse, el marido no puede decir que no. Si el hombre desea operarse y la mujer no quiere, no se opera”.
+“Los pacientes con sobrepeso y obesidad que llegan a mi consulta me dicen: doctor yo no como en todo el día, solo me como tres panes y dos o tres coca-colas”.
+
+Los niños varones aumentan más de peso
+--------------------------------------
+
+Un estudio de la [Universidad Católica de Quito](https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1 "https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1") reveló que el **36%** de los niños ecuatorianos de **5 a 11** años sufren de sobrepeso u obesidad, siendo los **varones** un **26%** más propensos que las niñas. El riesgo de sobrepeso u obesidad aumenta un **10%** **por cada año adicional de edad.**
+
+La última encuesta nacional del INEC reveló también que el **5%** de los menores de cinco años afrontan sobrepeso y obesidad. En Imbabura y Loja, supera el **7%**.
+
+El estudio de la PUCE señala que el **etiquetado nutricional tipo semáforo** ha perdido efectividad, ya que las familias con más niños con sobrepeso u obesidad tienden a consumir más productos procesados y ultraprocesados. Adicionalmente, el consumo de comidas escolares no tuvo un impacto significativo.
+
+La actividad física regular se identificó como un factor protector, reduciendo las probabilidades de sobrepeso u obesidad en aproximadamente un 21%.
+
+Las mujeres son más proclives a subir de peso
+---------------------------------------------
+
+Las mujeres, después de los 35 o 40 años, tienden a ganar más peso, pues su metabolismo empieza a disminuir, hay factores hormonales, menopausia, mayor retención de líquidos, hipotiroidismo. Y si a esto se añade una vida poco saludable y sin actividad física, la situación empeora.
+
+Pero las mujeres también son las que más buscan ayuda para mejorar su salud y calidad de vida. En la consulta del doctor Lamota, el 65% son féminas. Un dato curioso: “Cuando la mujer quiere operarse, el marido no puede decir que no. Si el hombre desea operarse y la mujer no quiere, no se opera”.
 
 Estrategias de tratamiento para obesidad
 ----------------------------------------
