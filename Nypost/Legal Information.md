@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[New details emerge from Curtis Sliwa in attack on ex-NY Gov. David Paterson's stepson](https://nypost.com/2024/10/05/us-news/curtis-sliwa-shares-details-in-attack-on-ex-ny-gov-david-patersons-stepson/)
+
 Privacy Notice Highlights
 =========================
 
