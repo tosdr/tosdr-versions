@@ -291,11 +291,11 @@ Inexpensive, too! Subscribe today and get a full year of _Mother Jones_ for just
 
 [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHGP&c=SEGHGC&d=SEGHGD&f=SEGHGF "Subscribe")
 
+ [![Mother Jones Magazine Cover : November + December 2024](https://www.motherjones.com/wp-content/uploads/2024/09/mojo_cover_novdec24.jpg?w=575)](https://www.motherjones.com/mag/2024/11/toc/)[December 2024](https://www.motherjones.com/mag/2024/11/toc)
+
  [![Mother Jones Magazine Cover : September + October 2024](/wp-content/uploads/2024/07/mojo_cover_septoct24.jpg?w=575)](https://www.motherjones.com/mag/2024/09/toc/)[October 2024](https://www.motherjones.com/mag/2024/09/toc)
 
 [![Mother Jones Magazine Cover : July + August 2024](/wp-content/uploads/2024/05/mojo_cover_julyaug24.jpg?w=575)](https://www.motherjones.com/mag/2024/07/toc/) [August 2024](https://www.motherjones.com/mag/2024/07/toc)
-
- [![Mother Jones Magazine Cover : May + June 2024](/wp-content/uploads/2024/03/mojo_cover_mayjun24.jpg?w=575)](https://www.motherjones.com/mag/2024/05/toc/)[June 2024](https://www.motherjones.com/mag/2024/05/toc)
 
 [![podcast](https://www.motherjones.com/wp-content/uploads/2023/08/ig-mj-logo-layers@2x.png)
 
