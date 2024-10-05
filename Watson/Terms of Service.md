@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)5°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
+* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [HC Ajoie](https://www.watson.ch/fr/hc-ajoie/)
-* [National League](https://www.watson.ch/fr/national-league/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Amazon](https://www.watson.ch/fr/amazon/)
-* [Femmes](https://www.watson.ch/fr/femmes/)
-* [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
-* [Films](https://www.watson.ch/fr/films/)
+* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
+* [People](https://www.watson.ch/fr/people/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Afrique](https://www.watson.ch/fr/afrique/)
+* [Tennis](https://www.watson.ch/fr/tennis/)
 * [Italie](https://www.watson.ch/fr/italie/)
-* [Brésil](https://www.watson.ch/fr/bresil/)
 * [guerre](https://www.watson.ch/fr/guerre/)
+* [maladie](https://www.watson.ch/fr/maladie/)
+* [Rap](https://www.watson.ch/fr/rap/)
+* [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Iran](https://www.watson.ch/fr/iran/)
 * [Hamas](https://www.watson.ch/fr/hamas/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [France](https://www.watson.ch/fr/france/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
