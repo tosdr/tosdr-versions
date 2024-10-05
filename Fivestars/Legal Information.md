@@ -188,7 +188,7 @@ Error
 * [Enterprise & Franchise](https://www.fivestars.com/enterprise/)
 * [Marketing 101](https://blog.fivestars.com/)
 * [Dashboard Login](https://dashboard.fivestars.com/)
-* [Business Support](https://business-support.fivestars.com/s/)
+* [Business Support](https://help.sumup.com/en-US/sections/RqPe3XHxJvRKsH8POwjI0-sumup-connect)
 
 * [Our Products](https://www.fivestars.com/products/)
 * [Customer Acquisition](https://www.fivestars.com/products/customer-acquisition/)
