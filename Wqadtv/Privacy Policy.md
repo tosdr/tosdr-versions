@@ -58,13 +58,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
-        #### [Inside the North Carolina mountain town that Hurricane Helene nearly wiped off the map](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c) [![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
+        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
-        #### ['We saw a 1,000-year event': Inside the North Carolina town that Helene nearly wiped off the map](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c) [![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
-        
-        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c) [![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
-        
-        #### [Some Chimney Rock residents see signs of hope amid almost complete destruction of their town](https://www.wqad.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c511547a-998c-4817-8946-75a3a87b92a3/20241005T115525/c511547a-998c-4817-8946-75a3a87b92a3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c511547a-998c-4817-8946-75a3a87b92a3/20241005T115525/c511547a-998c-4817-8946-75a3a87b92a3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Unseasonable warmth today](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
@@ -91,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-75°
+86°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
