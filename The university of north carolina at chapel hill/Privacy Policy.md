@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/JonasLaukoter_Hero_v1-250x141.png)
+    
+    Meet Jonas Laukoter, writer](https://www.unc.edu/posts/2024/10/04/meet-jonas-laukoter-writer/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/10/LHRPreviewHero-250x141.jpg)
     
     Carolina to hold chancellor installation on University Day](https://www.unc.edu/posts/2024/10/02/carolina-to-hold-chancellor-installation-on-university-day/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/Policy-hero-250x141.jpg)
-    
-    Resources, reminders for civic discourse and events](https://www.unc.edu/posts/2024/10/01/carolina-shares-civic-discourse-resources-reminders/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=77b798e297&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ab25d4a113&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
