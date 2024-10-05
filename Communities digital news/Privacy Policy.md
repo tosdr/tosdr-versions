@@ -78,6 +78,50 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1-220x180.jpg)](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
+
+[Trump’s advice to Israel over where to strike Iran sounds VERY different than Biden’s or Harris’](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-jennings-2-220x180.jpg)](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
+
+[Joe Biden sounds like he is trying to secretly sabotage Harris with comment](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cwallace-1200-x-628-220x180.jpg)](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
+
+[Chris Wallace bemoans ‘crazy’ Supreme Court for making Jack Smith’s life difficult](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-dwight-220x180.jpg)](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
+
+[Vietnam vet gives Trump his purple heart: ‘You got guts!’](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-whistleblower-220x180.jpg)](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
+
+[FEMA whistleblowers stepping forward in wake of deadly failures](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-2-220x180.jpg)](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
+
+[DeSantis is getting credit for ending port strike with brilliant move](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-1-220x180.jpg)](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
+
+[Kamala’s teleprompter malfunctions — she quickly follows suit](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buttigieg-musk-220x180.jpg)](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
+
+[Musk exposes FEMA for blocking hurricane aid: My blood is boiling’](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kayleigh-trumpbutler-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
+
+[Kayleigh: Trump’s return to site of assassination attempt to be a ‘powerful, historic’ moment](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ncrondfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
+
+[DeSantis talks about NC rescue mission and lesson learned about waiting for feds](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-220x180.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+
+[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-garth-brooks-220x180.jpg)](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
 
 [Garth Brooks responds after bombshell lawsuit by fmr. makeup artist claims he raped and sexually assaulted her](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
@@ -129,50 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sunny-hostin-220x180.jpg)](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
 
 [‘View’ co-hosts pump the brakes on Sunny Hostin’s INSANE Melania rant: ‘You don’t know all this!’](https://americanwirenews.com/view-co-hosts-pump-the-brakes-on-sunny-hostins-insane-melania-rant-you-dont-know-all-this/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Elon-1200-x-628-220x180.jpg)](https://americanwirenews.com/lawfare-costs-lives-biden-harris-fcc-revoked-grant-that-could-have-helped-save-lives-in-north-carolina/)
-
-[‘Lawfare costs lives’: Biden-Harris’ FCC revoked grant that could have helped save lives in North Carolina](https://americanwirenews.com/lawfare-costs-lives-biden-harris-fcc-revoked-grant-that-could-have-helped-save-lives-in-north-carolina/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rescue-effort-220x180.jpg)](https://americanwirenews.com/volunteer-pilot-conducting-successful-rescue-missions-in-nc-says-he-was-stopped-threatened-with-arrest/)
-
-[Volunteer pilot conducting successful rescue missions in NC says he was stopped, threatened with arrest](https://americanwirenews.com/volunteer-pilot-conducting-successful-rescue-missions-in-nc-says-he-was-stopped-threatened-with-arrest/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-mika-brzezinski-kamala-harris-split-220x180.jpg)](https://americanwirenews.com/mika-brzezinski-urges-kamala-to-unleash-her-surrogates-all-over-maga-tv-to-reach-the-uninformed/)
-
-[Mika Brzezinski urges Kamala to unleash her surrogates all over ‘MAGA TV’ to reach the uninformed](https://americanwirenews.com/mika-brzezinski-urges-kamala-to-unleash-her-surrogates-all-over-maga-tv-to-reach-the-uninformed/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-helicopter-rescue-220x180.jpg)](https://americanwirenews.com/rep-waltz-questions-pentagon-for-not-greenlighting-help-for-helene-victims-could-be-up-there-now-saving-lives/)
-
-[Rep. Waltz questions Pentagon for not greenlighting help for Helene victims: ‘Could be up there now saving lives’](https://americanwirenews.com/rep-waltz-questions-pentagon-for-not-greenlighting-help-for-helene-victims-could-be-up-there-now-saving-lives/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/maricopa-county-jail-kaci-sloan-220x180.jpg)](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
-
-[Arizona student who stabbed ‘easy target’ on campus has attempted murder charges dismissed](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melber-sondland-220x180.jpg)](https://americanwirenews.com/star-impeachment-witness-against-trump-stuns-msnbc-host-with-his-presidential-pick-its-a-yes-for-you/)
-
-[Star impeachment witness AGAINST Trump stuns MSNBC host with his presidential pick: ‘It’s a yes for you?!’](https://americanwirenews.com/star-impeachment-witness-against-trump-stuns-msnbc-host-with-his-presidential-pick-its-a-yes-for-you/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mayorkas-220x180.jpg)](https://americanwirenews.com/mayorkas-says-fema-doesnt-have-enough-funds-for-hurricane-season-after-nearly-1-billion-given-to-illegals-report/)
-
-[Mayorkas says FEMA doesn’t have enough funds for hurricane season after nearly 1 BILLION given to illegals](https://americanwirenews.com/mayorkas-says-fema-doesnt-have-enough-funds-for-hurricane-season-after-nearly-1-billion-given-to-illegals-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Merrick-Garland-220x180.jpg)](https://americanwirenews.com/gop-demands-answers-from-garland-on-inaccurate-voter-rolls-accuse-doj-of-inaction-and-stonewalling-information/)
-
-[GOP demands answers from Garland on inaccurate voter rolls, accuse DOJ of ‘inaction’ and stonewalling information](https://americanwirenews.com/gop-demands-answers-from-garland-on-inaccurate-voter-rolls-accuse-doj-of-inaction-and-stonewalling-information/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nancy-pelosi-220x180.jpg)](https://americanwirenews.com/gaslighting-pelosi-blames-trump-for-stronger-iran/)
-
-[Gaslighting Pelosi blames Trump for stronger Iran](https://americanwirenews.com/gaslighting-pelosi-blames-trump-for-stronger-iran/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kaepernick-220x180.jpg)](https://americanwirenews.com/kaepernick-raises-red-flags-when-he-surfaces-with-new-kids-book/)
-
-[Kaepernick raises red flags when he surfaces with new kids book](https://americanwirenews.com/kaepernick-raises-red-flags-when-he-surfaces-with-new-kids-book/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melaniafox-1200-x-628-220x180.jpg)](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
-
-[Melania Trump’s sit-down interview with Sean Hannity, part one](https://americanwirenews.com/melania-trumps-sit-down-interview-with-sean-hannity-part-one/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
