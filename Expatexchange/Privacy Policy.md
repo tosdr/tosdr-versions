@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Allianz Care](https://www.expatexchange.com/banner/allianz_expat_health_insurance_ldr4.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=61000-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP-Leaderboard_Brown.png)](https://www.expatexchange.com/partnerdirect/100/33709-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![Allianz Care](https://www.expatexchange.com/banner/allianz_mpu.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=61000-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Brown.png)](https://www.expatexchange.com/partnerdirect/100/33709-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/47523-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[GeoBlue](https://www.expatexchange.com/partnerdirect/76/47523-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
-[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/47523-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-MOBILE-cbar-vrs-B-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-MOBILE-cbar-vrs-B-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/47523-MOBILE-cbar-vrs-B-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/47523-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
-[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=29104-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/47523-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
