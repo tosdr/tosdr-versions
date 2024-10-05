@@ -132,6 +132,7 @@ Menu
         
         * [Photo Essays](https://apnews.com/photography/photo-essays)
         * [Photography](https://apnews.com/photography)
+        * [The Americans](https://apnews.com/photography/the-americans)
         
     * [AP Investigations](https://apnews.com/hub/ap-investigations/)
         
@@ -284,10 +285,11 @@ Submit Search
     
     * [Photo Essays](https://apnews.com/photography/photo-essays)
     * [Photography](https://apnews.com/photography)
+    * [The Americans](https://apnews.com/photography/the-americans)
     
     SECTIONS
     
-    [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography)
+    [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography) [The Americans](https://apnews.com/photography/the-americans)
     
 * [AP Investigations](https://apnews.com/hub/ap-investigations/)
     
