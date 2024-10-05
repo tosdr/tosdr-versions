@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Create a word based on last two letters (268)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (268 posts)")
-* [NS Parliament: Life Outside \[IC\] (15)](https://forum.nationstates.net/viewtopic.php?t=556392&f=31&view=unread#unread ""NS Parliament: Life Outside [IC]" (15 posts)")
-* [American Politics: The Last Month (10,327)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,327 posts)")
-* [NS Cliches II: Re-Rebooted (9,715)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,715 posts)")
-* [What triggers you about the AN? (8,822)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,822 posts)")
+* [American Politics: The Last Month (10,342)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,342 posts)")
+* [is the above nation gem or coal (190)](https://forum.nationstates.net/viewtopic.php?t=556466&f=25&view=unread#unread ""is the above nation gem or coal" (190 posts)")
+* [YL finds AL sleeping next to them in bed (21)](https://forum.nationstates.net/viewtopic.php?t=556064&f=25&view=unread#unread ""YL finds AL sleeping next to them in bed" (21 posts)")
+* [Should Gender be looked at materially… (1,148)](https://forum.nationstates.net/viewtopic.php?t=556413&f=20&view=unread#unread ""Should Gender be looked at materially or ideally?" (1,148 posts)")
+* [\[DRAFT\] Personal Identity Act (22)](https://forum.nationstates.net/viewtopic.php?t=553751&f=9&view=unread#unread ""[DRAFT] Personal Identity Act" (22 posts)")
 
 Advertisement
 
