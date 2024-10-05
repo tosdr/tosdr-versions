@@ -436,9 +436,9 @@ Default Title - $58
 
 ADD TO TOTE
 
-[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_239x254.png?v=1718901030)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
+[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_f853c7dd-47c1-4a44-b3d6-9c87ef6c2423_239x254.jpg?v=1728076827)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
-![ FG1FSBBM_Primary](//www.100percentpure.com/cdn/shop/files/Bkchl_Mstrz_Primary02_SQ_220x.png?v=1718901030)
+![ Bakuchiol Moisturizer](//www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_f853c7dd-47c1-4a44-b3d6-9c87ef6c2423_220x.jpg?v=1728076827)
 
 ### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
