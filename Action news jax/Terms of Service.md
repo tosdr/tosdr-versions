@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[86°
+[79°
 
-![Partly Cloudy](/pf/resources/images/weather/status-icons/30.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Mostly Cloudy](/pf/resources/images/weather/status-icons/27.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -338,6 +338,8 @@ You agree to indemnify and hold us and our Affiliates, Service Providers and our
 This Agreement has been made in and shall be construed in accordance with the laws of the State of Georgia, without regard to its conflicts of laws rules, except to the extent governed by federal law.
 
 [](https://www.actionnewsjax.com/mobile-apps/)
+
+[](https://www.ticketmaster.com/artist/2348410?home_away=home)
 
 [](https://www.actionnewsjax.com/getapet/)
 
