@@ -121,7 +121,7 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
 * [The Simpsons: Tapped...](https://www.spriters-resource.com/mobile/thesimpsonstappedout/)
-* [Puella Magi Madoka M...](https://www.spriters-resource.com/mobile/puellamagimadokamagicasidestorymagiarecord/)
+* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
