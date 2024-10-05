@@ -247,7 +247,7 @@ Back
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 22 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-o
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 22 hours ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
 6 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Priorities
 
-article 14 hours ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
+article 24 hours ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
 
 5 min read
 
 ### Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
 
-article 17 hours ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)[![Planetary Science Technology Symposium](https://science.nasa.gov/wp-content/uploads/2023/07/pesto-symposium.png)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)[![Planetary Science Technology Symposium](https://science.nasa.gov/wp-content/uploads/2023/07/pesto-symposium.png)
 
 1 min read
 
 ### Planetary Science Technology Symposium
 
-article 19 hours ago](https://science.nasa.gov/technology/planetary-science-technology-symposium/)
+article 1 day ago](https://science.nasa.gov/technology/planetary-science-technology-symposium/)
 
 ### Highlights
 
@@ -451,7 +451,7 @@ article 2 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-s
 
 ### NASA Announces Teams for 2025 Student Launch Challenge
 
-article 19 hours ago](https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
 
 3 min read
 
