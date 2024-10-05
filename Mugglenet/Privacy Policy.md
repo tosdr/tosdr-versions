@@ -336,15 +336,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
+Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
 
 ### Potter History
 
-August 11, 2012 – StarKid does a reading of A Very Potter Senior Year at LeakyCon in Chicago.
+May 19, 2006 – A new dinosaur species is named after Hogwarts.
 
 ### Potter Quote
 
-“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
+“I am alive, but I am an alchemist, and therefore immortal.”
 
 [](#)
 
