@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf8b6eac-9008-4323-b7e8-8bef4fc25578/20241004T004025/cf8b6eac-9008-4323-b7e8-8bef4fc25578_360x203.jpg)](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
-        
-        #### [Two Navy pilots doing flyover for Washington-Michigan game in Seattle are UW alums](https://www.king5.com/article/news/local/uw-alum-navy-pilots-flyover-huskies-michigan-game/281-2a310197-71ef-420f-9707-e8186d5176dd)
-        
     *  [![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
         
         #### [Man's kidney transplant at Swedish was delayed due to racially biased equation, lawsuit alleges](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
+        
+    *  [![](https://media.king5.com/assets/KING/images/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56/20241005T061510/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56/20241005T061510/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56_360x203.jpg)](https://www.king5.com/article/news/local/skyes-close-call-dog-falls-onto-moving-car-i-5/281-47a79701-a6b2-4eba-a1b3-21bf78fdf386)
+        
+        #### [Skye's close call: Dog falls onto moving car on I-5](https://www.king5.com/article/news/local/skyes-close-call-dog-falls-onto-moving-car-i-5/281-47a79701-a6b2-4eba-a1b3-21bf78fdf386)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-57°
+52°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
