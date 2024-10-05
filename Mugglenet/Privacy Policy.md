@@ -252,18 +252,6 @@ Recurs yearly
 
 2019
 
-#### Fri, Oct 4
-
-Harry Potter and the Chamber of Secrets Illustrated Edition
-
-Recurs yearly
-
-2016
-
-Minerva McGonagall's birthday
-
-Recurs yearly
-
 #### Sat, Oct 5
 
 Dumbledore's Army forms at the Hog's Head
@@ -326,6 +314,14 @@ Recurs yearly
 
 1995
 
+#### Fri, Oct 11
+
+Dawn French's birthday
+
+Recurs yearly
+
+The Fat Lady (PoA)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -336,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
+The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
 
 ### Potter History
 
-May 19, 2006 – A new dinosaur species is named after Hogwarts.
+November 12, 2013 – Wonderbook: Book of Potions is released for PlayStation 3 in North America.
 
 ### Potter Quote
 
-“I am alive, but I am an alchemist, and therefore immortal.”
+“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
 
 [](#)
 
