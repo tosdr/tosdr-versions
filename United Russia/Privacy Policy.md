@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дарья Лантратова: Быть учителем — настоящее искусство, в которое нужно вкладывать всю душу](https://cdn.er.ru/media/news/October2024/NVWkLBO5y5RkOTeMA2Ji-small.jpg)](https://er.ru/activity/news/darya-lantratova-byt-uchitelem-nastoyashee-iskusstvo-v-kotoroe-nuzhno-vkladyvat-vsyu-dushu)
+
+[Дарья Лантратова: Быть учителем — настоящее искусство, в которое нужно вкладывать всю душу](https://er.ru/activity/news/darya-lantratova-byt-uchitelem-nastoyashee-iskusstvo-v-kotoroe-nuzhno-vkladyvat-vsyu-dushu)
+
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Деньучителя](https://er.ru/activity/news?tags%5B0%5D=110570) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
+
+Сегодня 11:34
+
+[![Дмитрий Медведев: Педагоги – наставники, которые вкладывают в свой труд знания, талант, душу](https://cdn.er.ru/media/news/October2024/Ff57hveGrigjIfaqwtPl-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-pedagogi-nastavniki-kotorye-vkladyvayut-v-svoj-trud-znaniya-talant-dushu)
+
+[Дмитрий Медведев: Педагоги – наставники, которые вкладывают в свой труд знания, талант, душу](https://er.ru/activity/news/dmitrij-medvedev-pedagogi-nastavniki-kotorye-vkladyvayut-v-svoj-trud-znaniya-talant-dushu)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527)
+
+Сегодня 10:05
+
 [![«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/October2024/gFRjJG9ndMBdIl9E7mZr-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
 
 [«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
@@ -328,22 +344,6 @@
 [Владимир Путин: Стандарт отремонтированных школ – очень хороший](https://er.ru/activity/news/vladimir-putin-standart-otremontirovannyh-shkol-ochen-horoshij)
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
-
-03.10.24
-
-[![Николай Журавлёв: «Единая Россия» провела более 2700 мероприятий по обучению жителей регионов финансовой грамотности](https://cdn.er.ru/media/news/October2024/NcdWZCYNcYWt9Mqkf5xl-small.JPG)](https://er.ru/activity/news/nikolaj-zhuravlyov-edinaya-rossiya-provela-bolee-2700-meropriyatij-po-obucheniyu-zhitelej-regionov-finansovoj-gramotnosti)
-
-[Николай Журавлёв: «Единая Россия» провела более 2700 мероприятий по обучению жителей регионов финансовой грамотности](https://er.ru/activity/news/nikolaj-zhuravlyov-edinaya-rossiya-provela-bolee-2700-meropriyatij-po-obucheniyu-zhitelej-regionov-finansovoj-gramotnosti)
-
-[#Журавлев](https://er.ru/activity/news?tags%5B0%5D=10192) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#ЦБ](https://er.ru/activity/news?tags%5B0%5D=5834)
-
-03.10.24
-
-[![«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://cdn.er.ru/media/news/October2024/uPbLLnV0tGoHaPvpR885-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
-
-[«Единая Россия»: Программу «Готов к санитарной обороне» прошли 340 тысяч человек по всей стране](https://er.ru/activity/news/edinaya-rossiya-programmu-gotov-k-sanitarnoj-oborone-proshli-340-tysyach-chelovek-po-vsej-strane)
-
-[#Хубезов](https://er.ru/activity/news?tags%5B0%5D=151297) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЗдоровоеБудущее](https://er.ru/activity/news?tags%5B0%5D=1091239) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#готовксанитарнойобороне](https://er.ru/activity/news?tags%5B0%5D=1095557) [#перваяпомощь](https://er.ru/activity/news?tags%5B0%5D=109898) [#курсы](https://er.ru/activity/news?tags%5B0%5D=5653) [#оказаниепомощи](https://er.ru/activity/news?tags%5B0%5D=136712) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
 
 03.10.24
 
