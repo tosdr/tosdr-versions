@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [NS Parliament: Life Outside \[IC\] (8)](https://forum.nationstates.net/viewtopic.php?t=556392&f=31&view=unread#unread ""NS Parliament: Life Outside [IC]" (8 posts)")
-* [Is AN or AAN more well known/Famous? (661)](https://forum.nationstates.net/viewtopic.php?t=554643&f=25&view=unread#unread ""Is AN or AAN more well known/Famous?" (661 posts)")
-* [Elephant Chess Cup X Everything Thread (3)](https://forum.nationstates.net/viewtopic.php?t=556450&f=7&view=unread#unread ""Elephant Chess Cup X Everything Thread" (3 posts)")
-* [Revenge of Rate the Song above you (6,977)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,977 posts)")
-* [How dangerous is AN to world peace? (465)](https://forum.nationstates.net/viewtopic.php?t=554384&f=25&view=unread#unread ""How dangerous is AN to world peace?" (465 posts)")
+* [Embassy of the NPO: Treaty with LWU a… (1,045)](https://forum.nationstates.net/viewtopic.php?t=457061&f=12&view=unread#unread ""Embassy of the NPO: Treaty with LWU and Senate Appointments" (1,045 posts)")
+* [Why Socialists are getting more liberal? (849)](https://forum.nationstates.net/viewtopic.php?t=555723&f=20&view=unread#unread ""Why Socialists are getting more liberal?" (849 posts)")
+* [Guess Who BN Is! (5,014)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,014 posts)")
+* [What do you love about AN? (1,501)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,501 posts)")
+* [American Politics: The Last Month (10,305)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,305 posts)")
 
 Advertisement
 
