@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Irish teen tragically killed after being hit by train near Welsh railway station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish teen tragically killed after being hit by train near Welsh railway station")](https://www.derrynow.com/news/national-news/1621938/irish-teen-tragically-killed-after-being-hit-by-train-near-welsh-railway-station.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish teen tragically killed after being hit by train near Welsh railway station](https://www.derrynow.com/news/national-news/1621938/irish-teen-tragically-killed-after-being-hit-by-train-near-welsh-railway-station.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
 
 [Property](https://www.derrynow.com/section/1232/property)
@@ -273,53 +266,12 @@ Most Popular
 [PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards")](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
-
-Seamus and Tina Shivers who received a Certificate of Excellence at the Northern Ireland Foster Care Awards
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fostering 'kept us young' - Foster carers honoured at NI Foster Care Awards](https://www.derrynow.com/news/county-derry-post/1621701/derry-couple-honoured-for-work-as-foster-carers-at-ni-foster-care-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Stellar line-up announced for The Late Late Show Country Music Special this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stellar line-up announced for The Late Late Show Country Music Special this Friday")](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
 
 [Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
 [Guests revealed for tonight's Late Late Show with big names confirmed for Country Special](https://www.derrynow.com/video/arts---entertainment/1622079/guests-revealed-for-tonight-s-late-late-show-with-big-names-confirmed-for-country-special.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PSNI police car](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI police car")](https://www.derrynow.com/news/local-news/1621721/police-arrest-man-40-on-suspicion-of-dangerous-driving-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police arrest man (40) on suspicion of dangerous driving in Derry](https://www.derrynow.com/news/local-news/1621721/police-arrest-man-40-on-suspicion-of-dangerous-driving-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman jailed after 'pit bull type dog' savaged another dog to death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed after 'pit bull type dog' savaged another dog to death")](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman jailed after 'pit bull type dog' savaged another dog to death](https://www.derrynow.com/news/local-news/1621827/derry-woman-jailedafter-pit-bull-type-dog-savaged-another-dog-to-death.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry man (50) caught by paedophile hunter sting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man (50) caught by paedophile hunter sting")](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man (50) caught by paedophile hunter sting](https://www.derrynow.com/news/local-news/1621902/suspended-sentence-for-derry-man-50-caught-by-paedophile-hunter-sting.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man rammed vehicle and then behaved aggressively towards other driver](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man rammed vehicle and then behaved aggressively towards other driver")](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man rammed vehicle and then behaved aggressively towards other driver](https://www.derrynow.com/news/local-news/1621903/derry-man-rammed-vehicle-and-then-behaved-aggressively-towards-other-driver.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged to court after road-related incident in Derry's Culmore Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged to court after road-related incident in Derry's Culmore Road area")](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
 
@@ -330,12 +282,62 @@ PSNI
 [Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bail granted for Derry man who breached bail by being intoxicated in a public place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail by being intoxicated in a public place")](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating after red paint daubed on Derry business](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
+
+The damage caused to the premises. PHOTO: Shannon Moore
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man found intoxicated in a public place was in breach of bail](https://www.derrynow.com/news/local-news/1621731/derry-man-found-intoxicated-in-a-public-place-was-in-breach-of-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
+
+Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Inishowen lecturer shortlisted for computing award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inishowen lecturer shortlisted for computing award")](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
+
+Kevin McLaughlin has been shortlisted for the Northern Ireland FE College IT Educator Awards
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry NWRC lecturer shortlisted for computing award](https://www.derrynow.com/news/local-news/1622002/derry-nwrc-lecturer-shortlisted-for-computing-award.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
+
+Derry City could have the support of several Premier Division teams tonight when they face Bohemians.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[League of Ireland rivals to cheer on Derry City tonight](https://www.derrynow.com/news/derry-sport/1621942/league-of-ireland-rivals-to-cheer-on-derry-city-tonight.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,14 +515,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
+[![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
+
+Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New book by local author to be launched in Naas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+
+The book will be launched in Naas on October 17
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New book by County Derry author to be launched in Naas](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating after red paint daubed on Derry business](https://www.derrynow.com/resizer/165/93/true/2024_10_05/461188243_524209156896479_2399959903294797423_n-1728122014085.jpg--.jpg?1728122014642 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
+
+The damage caused to the premises. PHOTO: Shannon Moore
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_04/2953765-1728075050015.jpg--.jpg?1728075052430 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
 
 Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
 
@@ -535,29 +564,6 @@ Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben M
 
 [Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728056108295_0.jpg--.jpg?1728056108342 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man charged to court after road-related incident in Derry's Culmore Road area")](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged to court after road-related incident in Derry's Culmore Road area](https://www.derrynow.com/news/local-news/1622346/man-charged-to-court-after-road-related-incident-in-derry-s-culmore-road-area.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Funding increase needed to ‘avert GP crisis’](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_04/1728041713090_0.jpg--.jpg?1728041713224 "Funding increase needed to ‘avert GP crisis’")](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Funding increase needed to ‘avert GP crisis’](https://www.derrynow.com/news/local-news/1621904/funding-increase-needed-to-avert-gp-crisis.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
