@@ -20,45 +20,7 @@ Print policy
 
 * [Privacy Policy](https://www.classdojo.com/privacy?)
 * [Website Privacy Policy](https://www.classdojo.com/website-privacy?)
-    * [Types of Information We Collect](#types-of-information-we-collect)
     
-    * [Information You Provide to Us](#information-you-provide-to-us)
-    * [Information Collected Automatically](#information-collected-automatically)
-    * [Information Received from Third-Party Sources](#information-received-from-third-party-sources)
-    
-    * [How We Use the Information We Collect](#how-we-use-the-information-we-collect)
-    * [Sharing Your Information](#sharing-your-information)
-    * [Online Analytics, Advertising and Do-Not-Track](#online-analytics-advertising-and-do-not-track)
-    
-    * [Online Analytics Providers](#online-analytics-providers)
-    * [Advertising Technology Providers](#advertising-technology-providers)
-    * [Do Not Track Disclosure](#do-not-track-disclosure)
-    
-    * [Data Security and Retention](#data-security-and-retention)
-    * [ClassDojo’s Commitments to Providing Transparency and Your Rights](#classdojos-commitments-to-providing-transparency-and-your-rights)
-    
-    * [Access, Correct or Delete Your Personal Information](#access-correct-or-delete-your-personal-information)
-    * [Object, Restrict, or Withdraw Consent](#object-restrict-or-withdraw-consent)
-    * [Additional Information or Assistance and Article 27 GDPR Local Representative](#additional-information-or-assistance-and-article-27-gdpr-local-representative)
-    
-    * [International Users](#international-users)
-    * [EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield](#eu-us-privacy-shield-and-swiss-us-privacy-shield)
-    * [Canada](#canada)
-    * [Communications from ClassDojo](#communications-from-classdojo)
-    * [Social Media Features](#social-media-features)
-    * [Third-Party Services](#third-party-services)
-    * [Children](#children)
-    * [Online Surveys and Feedback](#online-surveys-and-feedback)
-    * [California Privacy Rights](#california-privacy-rights)
-    
-    * [Your Rights and Choices](#your-rights-and-choices)
-    * [Do Not Sell](#do-not-sell)
-    * [“Shine the Light” Law](#shine-the-light-law)
-    
-    * [Changes and Updates to this Privacy Policy](#changes-and-updates-to-this-privacy-policy)
-    * [Contacting ClassDojo](#contacting-classdojo)
-    * [Further Privacy and Security Resources](#further-privacy-and-security-resources)
-    * [Key Terms](https://classdojo.zendesk.com/hc/en-us/articles/115004741703)
 * [Terms of Service](https://www.classdojo.com/terms?)
 * [Information Transparency](https://www.classdojo.com/transparency/?)
 * [Cookies Policy](https://www.classdojo.com/cookies-policy?)
@@ -87,8 +49,43 @@ By accessing or using the Sites, you are consenting to the collection, use, disc
 
 * * *
 
-[Types of Information We Collect](#types-of-information-we-collect)
--------------------------------------------------------------------
+Quick Reference
+---------------
+
+* [Types of Information We Collect](#types-of-information-we-collect)
+    * [Information You Provide to Us](#information-you-provide-to-us)
+    * [Information Collected Automatically](#information-collected-automatically)
+    * [Information Received from Third-Party Sources](#information-received-from-third-party-sources)
+* [How We Use the Information We Collect](#how-we-use-the-information-we-collect)
+* [Sharing Your Information](#sharing-your-information)
+* [Online Analytics, Advertising and Do-Not-Track](#online-analytics-advertising-and-do-not-track)
+    * [Online Analytics Providers](#online-analytics-providers)
+    * [Advertising Technology Providers](#advertising-technology-providers)
+    * [Do Not Track Disclosure](#do-not-track-disclosure)
+* [Data Security and Retention](#data-security-and-retention)
+* [ClassDojo’s Commitments to Providing Transparency and Your Rights](#classdojos-commitments-to-providing-transparency-and-your-rights)
+    * [Access, Correct or Delete Your Personal Information](#access-correct-or-delete-your-personal-information)
+    * [Object, Restrict, or Withdraw Consent](#object-restrict-or-withdraw-consent)
+    * [Additional Information or Assistance and Article 27 GDPR Local Representative](#additional-information-or-assistance-and-article-27-gdpr-local-representative)
+* [International Users](#international-users)
+* [EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield](#eu-us-privacy-shield-and-swiss-us-privacy-shield)
+* [Canada](#canada)
+* [Communications from ClassDojo](#communications-from-classdojo)
+* [Social Media Features](#social-media-features)
+* [Third-Party Services](#third-party-services)
+* [Children](#children)
+* [Online Surveys and Feedback](#online-surveys-and-feedback)
+* [California Privacy Rights](#california-privacy-rights)
+    * [Your Rights and Choices](#your-rights-and-choices)
+    * [Do Not Sell](#do-not-sell)
+    * [“Shine the Light” Law](#shine-the-light-law)
+* [Changes and Updates to this Privacy Policy](#changes-and-updates-to-this-privacy-policy)
+* [Contacting ClassDojo](#contacting-classdojo)
+* [Further Privacy and Security Resources](#further-privacy-and-security-resources)
+* [Key Terms](https://classdojo.zendesk.com/hc/en-us/articles/115004741703)
+
+Types of Information We Collect
+-------------------------------
 
 On our corporate website, we collect two types of information about you: (1) information that you may choose to voluntarily provide us while using the Site (described below under “Information You Provide to Us” \[LINK to section below\] and (2) information collected automatically as a result of your use of the Site (described below under “Information Collected Automatically”\[LINK to section below\]). We may also receive information about you from third-party sources as described below under “Information Received from Third-Party Sources” \[LINK to section below\].
 
@@ -128,8 +125,8 @@ This information helps us make decisions about what we should work on next - for
 
 We may also obtain information, including [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d), from third-party sources to update or supplement the information you provided or we collected automatically. This may include aggregated anonymous information or certain personal information that may be provided to us. If we receive personal information from third-parties we will handle it in accordance with this Privacy Policy. If we directly combine information we receive from other third-parties with personal information that we collect on the Site, we will treat the combined information as personal information and handle it in accordance with this Privacy Policy. Additionally, we may use any aggregated anonymous information received by third-parties as set forth below under the heading “Aggregated Information and Non-Identifying Information”. Local law may require you authorize the third-party to share your information with us before we can acquire it. We do not control, supervise, or respond to how third parties providing your information process your personal information, and any information request regarding the disclosure of your personal information to us should be directed to such third-parties.
 
-[How We Use the Information We Collect](#how-we-use-the-information-we-collect)
--------------------------------------------------------------------------------
+How We Use the Information We Collect
+-------------------------------------
 
 We use information, including [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d), collected through our Site for the purposes described in this Privacy Policy, including as set forth above under “Information Collected Automatically”. In addition, we may use the information, including personal information, we collect for the following purposes:
 
@@ -149,8 +146,8 @@ Additionally, we will process your personal information for the purposes listed 
 
 Please note that we may anonymize and/or [de-identify](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_c2fe1e28-a056-42c7-908e-dce30e6f817a) information collected through the Sites or via other means so that the information no longer relates to you. Where we have anonymized and/or de-identified information so that it no longer identifies you personally, our use and disclosure of such information is not subject to this Privacy Policy and may be used and disclosed to others without restriction.
 
-[Sharing Your Information](#sharing-your-information)
------------------------------------------------------
+Sharing Your Information
+------------------------
 
 We do not and will not [sell](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_ac14c75d-d951-44ea-9140-eef33ca14bee) your [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d) collected from our Sites to third parties for their promotional purposes. We do not share personal information with third parties except for the limited circumstances set forth in this Privacy Policy, including:
 
@@ -176,8 +173,8 @@ We do not and will not [sell](https://classdojo.zendesk.com/hc/en-us/articles/11
 
 **With your consent**: Other than the cases above, we won’t disclose your personal information for any purpose unless you consent to it. Additionally, as discussed above, we will never [sell](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_ac14c75d-d951-44ea-9140-eef33ca14bee) your personal information to advertisers or other third parties.
 
-[Online Analytics, Advertising and Do-Not-Track](#online-analytics-advertising-and-do-not-track)
-------------------------------------------------------------------------------------------------
+Online Analytics, Advertising and Do-Not-Track
+----------------------------------------------
 
 ### Online Analytics Providers
 
@@ -197,8 +194,8 @@ Please read our [Online Tracking Technologies Policy](https://www.classdojo.com/
 
 Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is still working to determine what DNT means, how to comply with DNT, and how to create a common approach to responding to DNT. For more information on “do not track”, please visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-[Data Security and Retention](#data-security-and-retention)
------------------------------------------------------------
+Data Security and Retention
+---------------------------
 
 The security of your [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d) is important to us. To prevent unauthorized access, disclosure, or improper use of your information, and to maintain data accuracy, we’ve established physical, technical, and administrative safeguards to protect the personal information we collect. Although we make concerted good faith efforts to maintain the security of personal information, and we work hard to ensure the integrity and security of our systems, no practices are 100% immune, and we can’t guarantee the security of information. Outages, attacks, human error, system failure, unauthorized use or other factors may compromise the security of user information at any time.
 
@@ -206,8 +203,8 @@ If we learn of a security breach, we will attempt to notify you electronically (
 
 We will retain your personal information for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-[ClassDojo’s Commitments to Providing Transparency and Your Rights](#classdojos-commitments-to-providing-transparency-and-your-rights)
---------------------------------------------------------------------------------------------------------------------------------------
+ClassDojo’s Commitments to Providing Transparency and Your Rights
+-----------------------------------------------------------------
 
 As you can see, we try to be transparent about what information we collect, so that you can make meaningful choices about how it is used. _You control the personal information you share with us._ You can access or rectify this information at any time. You can also delete your account (if you have created one) or your personal information. We also provide you tools to object, restrict, or withdraw consent where applicable for the use of personal information you have provided to ClassDojo.
 
@@ -243,15 +240,15 @@ If you are located in the European Union or the EEA, you have a right to lodge c
 
 Pursuant to Article 27 of the GDPR, ClassDojo, Inc. has appointed European Data Protection Office (EDPO) as its GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by sending an email to [privacy@edpo.brussels](mailto:privacy@edpo.brussels), using EDPO’s [online request form](https://www.edpo.brussels/contact), or writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
 
-[International Users](#international-users)
--------------------------------------------
+International Users
+-------------------
 
 The Site is hosted and operated in the United States. If you use the Site from the European Union or the United Kingdom, or any other region with laws governing data collection, protection and use that may differ from United States law, please note that you may be transferring your [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d) outside of those jurisdictions to the United States. Where we transfer, store and process your personal information outside of the United Kingdom, European Union or EEA, we have ensured that appropriate safeguards are in place to ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws, or [EU-US and Swiss-US Privacy Shield principles](#privacy-shields).
 
 By using the Site, you consent to the transfer of your personal information outside your home jurisdiction, including to the United States, and to the storage of your personal information in the United States, for the purpose of hosting, using and processing the personal information in accordance with this Privacy Policy. You further acknowledge that these countries may not have the same data protection laws as the country from which you provided your personal information, and that ClassDojo may be compelled to disclose your personal information to U.S. authorities. You have the right to withdraw your consent at any time by contacting us as described in the “Contacting ClassDojo” section below.
 
-[EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield](#eu--us-privacy-shield-and-swiss--us-privacy-shield)
----------------------------------------------------------------------------------------------------------------
+EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield
+--------------------------------------------------------
 
 ClassDojo complies with the EU – U.S. Privacy Shield Framework and Swiss – U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#PersonalInformation) transferred from the European Union and the United Kingdom and/or Switzerland as applicable to the United States in reliance on the Privacy Shield. ClassDojo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
@@ -263,13 +260,13 @@ If you have an unresolved privacy or data use concern, please contact our U.S.-b
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[Canada](#canada)
------------------
+Canada
+------
 
 We endeavor to provide privacy protection that is consistent with Canada’s private sector privacy laws, including the Personal Information Protection and Electronic Documents Act (“PIPEDA”). For any questions regarding how we comply with PIPEDA, please contact us at [privacy@classdojo.com](mailto:privacy@classdojo.com).
 
-[Communications from ClassDojo](#communications-from-classdojo)
----------------------------------------------------------------
+Communications from ClassDojo
+-----------------------------
 
 If you registered on the Site, provided an email or phone number to us, or otherwise opted-in to receive communications from us, we may send you messages and updates regarding your account, including privacy and security notices, updates regarding the Site or Service, and information regarding products, features or services from ClassDojo (or third-parties we believe you may be interested in). These communication methods may include but are not limited to, email, postal mail, social media communications, telephone calls, and push notifications. If you have an account with us, we’ll also use your email address to contact you for customer service purposes, or for any legal matters that arise in the course of business. We may receive a confirmation when you open an email from us if your device supports it. We use this confirmation to help us understand which emails are most interesting and helpful.
 
@@ -277,30 +274,30 @@ You can always unsubscribe from receiving any of our 1) marketing emails or othe
 
 You can further indicate your preferences by contacting us using the information in the “Contacting ClassDojo” section below. Please note that opting-out of marketing communications does not affect your receipt of business communications that are important to your interaction with ClassDojo, such as support/service communications, security updates, or account management communications. You may not opt-out of receiving these communications.
 
-[Social Media Features](#social-media-features)
------------------------------------------------
+Social Media Features
+---------------------
 
 The Site may now or in the future include social media features, such as the Facebook Like button or the Twitter Tweet button, or incorporate certain other functions that allow you to interact with the Service through your accounts on certain supported third-party social network or network storage sites (collectively "Social Media Features"). These Social Media Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about your activities on our Site to a profile page of yours that is provided by a third-party social media network in order to share with others within your network. Social Media Features are either hosted by a third-party or hosted directly on our Site. Your interactions with these Social Media Features are governed by the privacy policy of the company providing each Social Media Feature. If you are not comfortable accessing such social media websites and using such Social Media Features, please don’t use them!
 
-[Third-Party Services](#third-party-services)
----------------------------------------------
+Third-Party Services
+--------------------
 
 The Site may contain links to websites, applications, and services, including social media services, provided by third parties, as well as embedded images or other third-party content and features. Your use of these features may result in the collection, processing, and sharing of information about you, depending on the features. Any information you choose to provide to or that is collected by these third parties is subject to that third party’s policies governing privacy and security and is not covered by our Privacy Policy. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. The fact that we link to a website or other third-party content is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We are not responsible for the content, features, privacy and security practices and policies of any third-parties. We encourage you to learn about third parties’ privacy and security policies before providing them with personal information.
 
-[Children](#children)
----------------------
+Children
+--------
 
 The Sites are not directed toward individuals under the age of thirteen (13), and we request that such individuals do not provide personal information. Additionally, we do not knowingly collect (or knowingly allow any third party to collect) or maintain personal information from anyone under the age of 13. If we become aware that a child under 13 has provided us with personal information or that personal information has been collected from a child under 13, then we will delete this information from our files as quickly as possible. If you are the parent or legal guardian of a child under 13 who you believe has provided personal information to ClassDojo, please send an email to ClassDojo at [privacy@classdojo.com](mailto:privacy@classdojo.com) or contact us as set forth in the “Contacting ClassDojo” section below to have that child’s information deleted. Please see our ClassDojo [Products Privacy Policy](https://www.classdojo.com/privacy/) for information about how we protect children’s information in the use of our Products.
 
-[Online Surveys and Feedback](#online-surveys-and-feedback)
------------------------------------------------------------
+Online Surveys and Feedback
+---------------------------
 
 We like feedback, which means we may conduct online surveys to solicit your opinions and comments. Participation in these surveys is of course optional. If you choose to participate, the information you provide will be aggregated with information from other users to make improvements to the user experience and develop appealing content, features, and promotions. Unless otherwise noted in a survey, your participation will remain anonymous.
 
 You can also ask us questions and share comments or suggestions with us. Your questions, comments, and suggestions may not be kept confidential. We may use your questions, comments, and suggestions to improve the Site and our service, but we will have no obligation to compensate you for any such contributions.
 
-[California Privacy Rights](#california-privacy-rights)
--------------------------------------------------------
+California Privacy Rights
+-------------------------
 
 ### Your Rights and Choices
 
@@ -326,20 +323,20 @@ Pursuant to California Civil Code Section 1798.83(c)(2), ClassDojo does not shar
 
 California customers can receive more information about our compliance with this law or to make a request under California Civil Code Section 1798.83 by sending us an email at [privacy@classdojo.com](mailto:privacy@classdojo.com) or by writing to us as set forth in “Contacting ClassDojo” Section below:
 
-[Changes and Updates to this Privacy Policy](#changes-and-updates-to-this-privacy-policy)
------------------------------------------------------------------------------------------
+Changes and Updates to this Privacy Policy
+------------------------------------------
 
 We may revise our Privacy Policy from time to time as our business practices and legal requirements evolve. You can see when the last update was by looking at the “Last Updated” date at the top of this page. We won’t reduce your rights under this Privacy Policy without your explicit consent. If we make any significant changes, we’ll provide prominent notice by posting a notice on the Site and/or notifying you by email (using the email address you provided), so you can review and make sure you know about them. We encourage you to review this Privacy Policy from time to time, to stay informed about our collection, use, and disclosure of [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d) through the Site. By continuing to use the Site after the revised Privacy Policy has become effective, you acknowledge that you accept and agree to the current version of the Privacy Policy.
 
-[Contacting ClassDojo](#contacting-classdojo)
----------------------------------------------
+Contacting ClassDojo
+--------------------
 
 If you have any questions, comments or concerns regarding our Privacy Policy, practices or how we protect our community, please contact us at [privacy@classdojo.com](mailto:privacy@classdojo.com) - we'd love to help. If you’d like, you may also [submit a ticket](https://classdojo.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000061571) or write to us at:
 
 **ClassDojo, Inc.** Attention: Chief Privacy Officer 735 Tehama Street San Francisco, CA 94103
 
-[Further Privacy and Security Resources](#further-privacy-and-security-resources)
----------------------------------------------------------------------------------
+Further Privacy and Security Resources
+--------------------------------------
 
 For teachers, school leaders, parents, students, or administrators seeking more information on how we provide safety on ClassDojo, we provide privacy and security related materials on our [Privacy Center](http://www.classdojo.com/privacycenter) as well as our [Security Whitepaper](https://www.classdojo.com/security/).
 
