@@ -34,7 +34,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Accessory Pillows](https://www.mypillow.com/accessory-pillows)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
     * [Body Pillow](https://www.mypillow.com/mybody-pillow-special)
-    * [Bolster Pillow](https://www.mypillow.com/bedding/bolster-pillow-w-bolster-pillowcase)
+    * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
@@ -140,15 +140,15 @@ SHOP NOW](https://www.mypillow.com/bongino)
 
 [SAVE up to 80% with promo code
 
-SHOP NOW](https://www.mypillow.com/hannity-new)
-
-[SAVE up to 80% with promo code
-
 SHOP NOW](https://www.mypillow.com/gallagher-new)
 
 [SAVE up to 80% with promo code
 
 SHOP NOW](https://www.mypillow.com/new-gorka)
+
+[SAVE up to 80% with promo code
+
+SHOP NOW](https://www.mypillow.com/hannity-new)
 
    [](https://www.mypillow.com/mattresses)
 
