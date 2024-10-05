@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [It's a Trek, Trek, Trek, Trek World](https://www.somethingawful.com/comedy-goldmine/its-trek-trek/1/)
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [The Grim Darkness of Warhammer Fantasy Roleplay Art](https://www.somethingawful.com/dungeons-and-dragons/mordheim-warhammer-art/1/)
+* [I'm Socially Liberal, Fiscally a Billionaire](https://www.somethingawful.com/news/fiscally-billionaire/)
+* [Breakfast Cereals 2](https://www.somethingawful.com/photoshop-phriday/breakfast-cereals-2/1/)
+* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [Cross-Eyed Celebrities!](https://www.somethingawful.com/comedy-goldmine/cross-eyed-celebrities/1/)
+* [Movies + Video Game Names! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/video-game-movies2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Old Friends who became freaks](http://forums.somethingawful.com/showthread.php?threadid=4071916 "Old Friends who became freaks")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Does anyone know where Seth Altman is?](http://forums.somethingawful.com/showthread.php?threadid=4071899 "Does anyone know where Seth Altman is?")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Video games from your childhood that were fucking impossible to beat](http://forums.somethingawful.com/showthread.php?threadid=4071872 "Video games from your childhood that were fucking impossible to beat")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Old Friends who became freaks](http://forums.somethingawful.com/showthread.php?threadid=4071916 "Old Friends who became freaks")
 
 ### Random Articles
 
-* [They Built It, We Can Destroy It](https://www.somethingawful.com/news/rnc-convention-romney/1/)
-* [Turkey Day](https://www.somethingawful.com/flash-tub/turkey-day/)
-* [Hey, Pitbull, Your Planet Sucks](https://www.somethingawful.com/news/pitbull-commercials/)
-* [The Madness of OH! Mikey (Part Two)](https://www.somethingawful.com/feature-articles/madness-oh-mikey-2/)
-* [Half Life 2 Gone Gold!](https://www.somethingawful.com/news/half-life-gone/)
+* [Sitcoms Throughout History!](https://www.somethingawful.com/photoshop-phriday/sitcoms-throughout-history/1/)
+* [Signs That the Xbox One Might Be Underpowered](https://www.somethingawful.com/news/xbox-one-underpowered/)
+* [Utah Being Utah!](https://www.somethingawful.com/comedy-goldmine/utah-reckless-miscarriage/1/)
+* [Let's Start Our Own Mafia](https://www.somethingawful.com/news/our-new-mafia/1/)
+* [Time to Go Back (In Time)](https://www.somethingawful.com/feature-articles/time-go-back/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
