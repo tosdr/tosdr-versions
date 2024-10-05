@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1717903318.png.pagespeed.ic.D0QllTPRc1.png)
+[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1727110924.png.pagespeed.ic.csO5XeMY1u.png)
 
-TheosisMC • Hardcore Survival • 1.21.1](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.1")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1727505642.png.pagespeed.ic.bKePTc9CBi.png)
+ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05962 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0597 - Created by [Debaucus](https://debauc.us/)
