@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**October 4, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-4-2024-pbs-news-hour-full-episode-1728014401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What are the chances of a major Israeli strike on Iran?** | Washington Week with The Atlantic](https://video.nhpbs.org/video/what-are-the-chances-of-a-major-israeli-strike-on-iran-z2fqcn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Biden predicts fair election, uncertain it will be peaceful** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1728073210?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Malcolm Gladwell Revisits "The Tipping Point" in New Book** | Amanpour and Company](https://video.nhpbs.org/video/malcolm-gladwell-revisits-the-tipping-point-in-new-book-ujakpt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Civics Education** | The State We're In](https://video.nhpbs.org/video/civics-education-t6ujnc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Countdown** | Velvet](https://video.nhpbs.org/video/countdown-3spqlr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Exploring Bipartisanship: Conversations with Western Governors' Leadership Institute Part 6** | PBS Books](https://video.nhpbs.org/video/exploring-bipartisanship-conversations-with-western-governors-leadership-institute-part-6-y1uphd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Clues in Maria Anna Mozart's Childhood Notebook** | Secrets of the Dead](https://video.nhpbs.org/video/clues-in-maria-anna-mozarts-childhood-notebook-17aobe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"A Year of War: Israelis and Palestinians" - Preview** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Clues in Maria Anna Mozart's Childhood Notebook** | Secrets of the Dead](https://video.nhpbs.org/video/clues-in-maria-anna-mozarts-childhood-notebook-17aobe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Fight for Equal Schooling in Mendez v. Westminster** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/the-fight-for-equal-schooling-in-mendez-v-westminster-va8qsd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Black Pumas on "Ice Cream (Pay Phone)"** | Austin City Limits](https://video.nhpbs.org/video/black-pumas-on-austin-city-limits-ice-cream-pay-phone-onwjaw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Inundation District Boston's Made Land** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-boston-made-land?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
