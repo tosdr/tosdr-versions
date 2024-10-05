@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
-    How To Read More in 2024
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * * *
 
-* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
-    A Guide to Truman Capote Books
+    Join Our Authors for Upcoming Events
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
