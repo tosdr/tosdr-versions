@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/1300000-iraakse-doden-door-deze-oorlog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/hunter-bidens-laptop-i-assume/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
