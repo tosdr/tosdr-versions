@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
+        
+        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
         #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/a0f34841-446c-45a6-8510-f0bcdabe0cae/20240930T144852/a0f34841-446c-45a6-8510-f0bcdabe0cae_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
-        
-        #### [Hurricane Helene aftermath: Death toll passes 130, supplies rushed to isolated communities](https://www.kagstv.com/article/news/nation-world/after-helene-death-toll-nearly-100/507-0c932fa3-6c11-4808-a4f4-d3324e1e612e)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-78°
+94°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
