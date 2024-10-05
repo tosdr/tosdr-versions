@@ -31,1010 +31,1021 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Pool Gavilánez respalda convocatoria de Gonzalo Valle a la Selección de Ecuador
-===============================================================================
-
-Sebastián Beccacece emitió su segunda lista de convocados desde que asumió la dirección técnica de la Selección de Ecuador
---------------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Valle, arquero de Liga de Quito, recibió su primera convocatoria a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T142948.148.jpg)
-
-La **Selección de Ecuador** dio a conocer los convocados para los partidos de las eliminatorias sudamericanas ante Paraguay y Uruguay. Entre los nombres seleccionados por el argentino **Sebastián** **Beccacece**, hubo varias sorpresas, destacándose la inclusión de Gonzalo Valle.
-
-La convocatoria del guardameta de **Liga de Quito** generó malestar y críticas por parte de los aficionados en redes sociales, quienes argumentaron que Valle no tiene ritmo de juego, ya que es suplente de Alexander Domínguez en su club, lo que lo haría una elección poco idónea para la selección.
-
-### Más noticias:
-
-* [Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses](https://www.elcomercio.com/deportes/futbol/leonardo-campana-convocado-sebastian-beccacece.html "Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses")
-* [La Selección de Ecuador presentó convocados para enfrentar a Paraguay y Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-convocatoria-paraguay-uruguay.html "La Selección de Ecuador presentó convocados para enfrentar a Paraguay y Uruguay")
-* [Sebastián Beccacece pondera a la generación de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-mejor-generacion.html "Sebastián Beccacece pondera a la generación de la Selección de Ecuador")
-
-Pool Gavilánez defiende a Gonzalo Valle
----------------------------------------
-
-En defensa de Valle salió un personaje bien conocido en el mundo del fútbol y quien lo conoce de cerca, **Pool Gavilánez, exentrenador del portero en Guayaquil City**, donde lo dirigió durante varios años.
-
-Gavilánez, a través de su cuenta en X, fue claro al señalar que **Valle merece esta primera convocatoria** oficial y destacó que, en su opinión, la selección se tardó en llamarlo.
-
-“¿En serio a alguno le parece una sorpresa? Han tardado demasiado. **Es el mejor arquero nacido en este país**, el capitán Gonzalito Valle”, escribió Gavilánez.
-
-No es de extrañar que el técnico defienda a Valle, pues fue su DT por casi nueve años y fue testigo de su crecimiento hasta su máximo rendimiento en la temporada 2023, donde fue **reconocido como uno de los mejores guardametas del país**, a pesar de que su equipo, Guayaquil City, descendió.
-
-Gracias a sus destacadas actuaciones, **Liga de Quito** se interesó en él y lo fichó para la temporada 2024, con el objetivo de tener un recambio de garantías para Alexander Domínguez, arquero histórico del equipo capitalino.
-
-> En serio a alguno le parece SORPRESA ?  
->   
-> Habían tardado mucho , el mejor arquero nacido en este país , el capitán Gonzalito Valle .  
->   
-> Anotar un ciudadano más a la lista por favor , sin renegar .  
->   
-> PD : Hay un goleador viviendo en Machala por si se han olvidado . [pic.twitter.com/4qx69TJqTL](https://t.co/4qx69TJqTL)
-> 
-> — Pool Gavilanez Solis (@pogaso) [October 4, 2024](https://twitter.com/pogaso/status/1842247772067799258?ref_src=twsrc%5Etfw)
-
-El reclamo por Miguel Parrales
-------------------------------
-
-Aprovechando su defensa de Valle, **Gavilánez también lanzó una indirecta hacia la Selección de Ecuador** por no convocar a uno de los goleadores del campeonato ecuatoriano, **Miguel Parrales.**
-
-El delantero de Orense vive un gran momento en el segundo semestre del año. Tiene **siete goles**, lo que lo convierte en el máximo anotador de la segunda etapa de la Liga Pro.
-
-“**Hay un goleador viviendo en Machala, por si se han olvidado**“, comentó Gavilánez, en referencia a Parrales.
-
-Pink Floyd vende su música y sus derechos por 400 millones de dólares
+El Monumental de River Plate acogerá la final de la Copa Libertadores
 =====================================================================
 
-En el catálogo musical de Pink Floyd destacan discos como 'The Piper at the Gates of Dawn' (1967).
---------------------------------------------------------------------------------------------------
+¡Se acabó la incertidumbre! Conmebol confirma la sede de la final de la Copa Libertadores 2024
+----------------------------------------------------------------------------------------------
 
-![En el catálogo musical de Pink Floyd destacan discos como 'The Piper at the Gates of Dawn' (1967), 'Meddle' (1971) y 'The Dark Side of the Moon' (1973).](https://www.elcomercio.com/wp-content/uploads/2024/10/pink-floyd-efe.jpg)
+![Imagen referencial del Trofeo de la Copa Conmebol Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T202804.295.jpg)
 
-La icónica **banda de rock británica** [Pink Floyd](https://www.elcomercio.com/tendencias/entretenimiento/tributo-pink-floyd-san-gabriel.html "https://www.elcomercio.com/tendencias/entretenimiento/tributo-pink-floyd-san-gabriel.html") acordó vender su música ya grabada y sus derechos a Sony Music por cerca de **400 millones de dólares**, informó este miércoles la revista especializada Variety.
+Finalmente, la **Conmebol** reveló el estadio que albergará la final de la **Copa Libertadores** 2024\. El partido por el título más prestigioso de Sudamérica se disputará en el **Estadio Monumental** de River Plate, en Buenos Aires, Argentina.
 
-### Más noticias
+El anuncio lo realizó la propia **Confederación Sudamericana** de Fútbol este viernes 4 de octubre, a través de una serie de publicaciones en sus redes sociales. Hasta hoy, solo se sabía que la final se jugaría en la capital argentina, pero no se había confirmado el estadio.
 
-* [El legendario Roger Waters cantará en Quito, en diciembre de 2023](https://www.elcomercio.com/tendencias/entretenimiento/roger-waters-pink-floyd-ecuador-quito.html "https://www.elcomercio.com/tendencias/entretenimiento/roger-waters-pink-floyd-ecuador-quito.html")
-* [Canciones de Roger Waters que se esperan en show en Quito](https://www.elcomercio.com/tendencias/canciones-roger-waters-esperan-show-quito.html "https://www.elcomercio.com/tendencias/canciones-roger-waters-esperan-show-quito.html")
-* [Músicos ecuatorianos rendirán tributo a Pink Floyd](https://www.elcomercio.com/tendencias/entretenimiento/tributo-pink-floyd-san-gabriel.html "https://www.elcomercio.com/tendencias/entretenimiento/tributo-pink-floyd-san-gabriel.html")
+### Más noticias:
 
-Según ese medio, el acuerdo, calificado como **uno de los mayores recientemente**, aparentemente ha concluido tras **décadas de conflicto interno** entre los miembros del grupo, principalmente entre Roger Waters y David Gilmour.
+* [Dragonas IDV debuta con un valioso empate en la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-idv-debuta-valioso-empate-libertadores-femenina.html "Dragonas IDV debuta con un valioso empate en la Libertadores Femenina")
+* [Alan Franco, el único ecuatoriano en carrera por Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-copa-libertadores-atletico-mineiro.html "Alan Franco, el único ecuatoriano en carrera por Copa Libertadores")
+* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
 
-Derechos de música ya grabada
------------------------------
+“El encuentro decisivo por la **Gloria Eterna se disputará el sábado 30 de noviembre de 2024**, en uno de los escenarios más emblemáticos del fútbol sudamericano”, anunció en un comunicado la Conmebol, que tiene su sede en la ciudad paraguaya de Luque.
 
-El pacto incluye los **derechos de la música** ya grabada y los de nombre e imagen, pero no los de composición, que pertenecen a los autores individuales, precisó Variety.
-
-Ilustraciones de álbumes
-------------------------
-
-La revista apuntó que “probablemente” **la mayoría de las ilustraciones** de sus álbumes, diseñadas en gran parte por la firma británica Hipgnosis, **también se engloban** en esa decisión.
-
-Catálogo musical de Pink Floyd
-------------------------------
-
-En el catálogo musical de Pink Floyd destacan discos como **‘The Piper at the Gates of Dawn’** (1967), ‘Meddle’ (1971), ‘The Dark Side of the Moon’ (1973), **‘Wish You Were Here’** (1975), ‘The Wall’ (1979) o ‘Animals’ (1977).
-
-Variety recordó que Sony invertió más de **1 000 millones de dólares en los catálogos** de intérpretes como Bruce Springsteen y Bob Dylan.
-
-Diferencias internas del grupo
-------------------------------
-
-Por el de Pink Floyd, según destacó, llegaron a **pedirse 500 millones de dólares** y el grupo estuvo a punto de llegar a un acuerdo en 2022, pero las diferencias internas acabaron por echar para atrás a algunos interesados.
-
-Gilmour afirmó el pasado agosto a la revista Rolling Stone que estaba interesado en cerrar la venta no tanto por razones financieras sino **para librarse de la toma de decisiones** y de las discusiones que implicaba que esta siguiera en marcha.
-
-Discografías interesadas
-------------------------
-
-Entre las discográficas interesadas estuvieron en el pasado **Warner Music y BMG**, pero polémicas declaraciones de **Waters sobre Ucrania,** Rusia e Israel parecieron influir en que no saliera adelante. Waters llegó a decir que algunos judíos en Estados Unidos y el **Reino Unido tienen responsabilidad** por las acciones de Israel “porque lo pagan todo”.
-
-¿Qué tan fuerte será el cordonazo de San Francisco en Quito?
-============================================================
-
-Hoy 4 de octubre es el día de San Francisco de Asís y en Quito siempre se espera que llueva de manera torrencial. ¿Qué dice en Inamhi?
---------------------------------------------------------------------------------------------------------------------------------------
-
-![El 2 de octubre pasado, las casas en el barrio la Lucha de los Pobres se inundaron.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-2.jpg)
-
-Hoy es 4 de octubre del 2024, el día de **San Francisco de Asís**. En Quito se la asocia como un día de fuertes lluvias y que se denomina “el cordonazo de San Francisco”. El Instituto Nacional de Meteorología e Hidrología (Inamhi) presentó sus pronósticos para esta tarde.
-
-### Más noticias
-
-* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito")
-* [Centroamérica debe aprovechar tecnología para adaptarse a crisis climática](https://www.elcomercio.com/actualidad/mundo/centroamerica-debe-aprovechar-tecnologia-adaptarse-crisis-climatica.html "Centroamérica debe aprovechar tecnología para adaptarse a crisis climática")
-* [El concierto de María Becerra en Quito se canceló y los fans están indignados](https://www.elcomercio.com/tendencias/entretenimiento/maria-becerra-quito-concierto-cancelacion-fans-indignados.html "El concierto de María Becerra en Quito se canceló y los fans están indignados")
-
-Inamhi explica sobre el cordonazo de San Francisco
---------------------------------------------------
-
-El Inamhi está realizando el monitoreo de las condiciones climáticas para la tarde de este 4 de octubre, día del **cordonazo de San Francisco**, en **Quito**. Y, según Madelyn Enríquez, analista de pronósticos, afirma que las lluvias no deben generar una preocupación mayor.
-
-Para el Inamhi, las **lluvias del cordonazo no serán tan fuertes en Quito** esta tarde. Para **Enríquez**, no se repetirán las lluvias intensas como de los días anteriores. “Esta tarde se pueden presentar precipitaciones en el Centro y Sur de la ciudad, pero no serán tan fuertes”, afirma.
-
-Sin embargo, el Inamhi hace un seguimiento de la temperatura atmosférica. “Al no ser tan caliente, las lluvias no generarían problemas como el del 2 de octubre pasado. Sin embargo, dependerá del calentamiento y, con ello, se podría tener algunas tormentas aisladas”, afirma Enríquez.
-
-Sin embargo, no es posible confirmar una hora precisa para que se dé el cordonazo en Quito. “La hora es muy difícil acertar porque dependiendo del comportamiento puede adelantarse o retrasarse”, afirma Enríquez.
-
-Las lluvias intensas y breves de Quito
---------------------------------------
-
-Las lluvias de Quito tienen una particularidad y más en los tiempos del cordonazo de San Francisco. Son lluvias intensas y fríos, pero que tienen una duración breve, que puede ser de 15 minutos, media hora. Se los califica como “chubascos”[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
-
-En el caso del 2 de octubre pasado, las lluvias comenzaron a las 15:30 y terminó alrededor de las 18:00. Varios barrios del sur de Quito se inundaron, sobre todo en la zona de Caupicho, Lucha de los Pobres, Nueva Aurora, entre otros.
-
-En este caso se pueden presentar varios chubascos dispersos en ciertas zonas de la ciudad, pero no va a ser tan intensos como en los días anteriores.
-
-Enzo encontró una familia luego de sobrevivir a un atropellamiento
-==================================================================
-
-Enzo encontró una familia después de pasar por tres hogares temporales.
------------------------------------------------------------------------
-
-![Enzo encontró una familia luego de 13 meses de espera. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T132839.274.jpg)
-
-Enzo encontró una familia luego de sobrevivir a un atropellamiento. Después de un año y tres meses, **Enzo** finalmente consiguió un hogar.
-
-Flechó a sus tutores con unas fotos que compartió en las redes de **EL COMERCIO**. En esas refleja su personalidad: es pura ternura. 
-
-### **Más noticias:**
-
-* [El Día Mundial de los Animales se celebra este 4 de octubre](https://www.elcomercio.com/tendencias/curiosidades/dia-mundial-animales-bienestar-quito.html "https://www.elcomercio.com/tendencias/curiosidades/dia-mundial-animales-bienestar-quito.html")
-* [Una misa para bendecir a las mascotas se realizará en Quito el 4 de octubre de 2024](https://www.elcomercio.com/tendencias/curiosidades/una-misa-para-bendecir-a-las-mascotas-se-realizara-en-quito-el-4-de-octubre-de-2024.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/curiosidades/una-misa-para-bendecir-a-las-mascotas-se-realizara-en-quito-el-4-de-octubre-de-2024.html?source=Internal&ref=Single+Content+Link")
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link") 
-
-**La historia de Enzo** 
-------------------------
-
-**Enzo** tiene cerca de dos años. Belén, una rescatista independiente, lo encontró hace 13 meses en la calle; lloraba. **Enzo** fue atropellado. “Todos los miraban y nadie hacía nada”. 
-
-Belén llegó al **perrito** tras un llamado de una vecina, que luego de contarle la historia desapareció. “Me quedé solo con mi hija”.
-
-Esta rescatista jamás lo dejaría solo. **Enzo** fue a la veterinaria y ahí confirmaron que su patita estaba lastimada; le colocaron una férula. 
-
-> [View this post on Instagram](https://www.instagram.com/p/DALvkHrOP7g/?utm_source=ig_embed&utm_campaign=loading)
+> 🏟️ 🏆 ¡La final de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) 2024 se jugará en el estadio Monumental de Buenos Aires! 🇦🇷  
+>   
+> 🔜 Será el 30/11 por la [#GloriaEterna](https://twitter.com/hashtag/GloriaEterna?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/BwqxScBI0Q](https://t.co/BwqxScBI0Q)
 > 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DALvkHrOP7g/?utm_source=ig_embed&utm_campaign=loading)
+> — CONMEBOL Libertadores (@Libertadores) [October 5, 2024](https://twitter.com/Libertadores/status/1842359489032229192?ref_src=twsrc%5Etfw)
 
-**Enzo encontró una familia luego de sobrevivir a un atropellamiento**
-----------------------------------------------------------------------
+El Monumental agregó la nota, “ha sido seleccionado por su moderna infraestructura, su vasta historia deportiva y su capacidad para recibir a la gran cantidad de hinchas que acompañan a los actuales clubes semifinalistas”.
 
-Enzo curó su herida y su corazón en tres hogares temporales antes de **flechar** el corazón de su tutor, que prometió amarlo y cuidarlo. 
+El recinto bonaerense **tiene capacidad para más de 84.000 espectadores.**
 
-Luego de ver la publicación en la cuenta de Instagram de **EL COMERCIO**, “me llamo (el tutor) y me contó las razones por las que quería a Enzo”, recuerda Belén.
-
-Quería a **Enzo** porque es mestizo, **negro** y de tamaño mediano. Esos **perros**, precisamente, son los que menos oportunidad tienen de ser adoptados. La gente busca canes blancos, con churos y hasta de raza. 
-
-Enzo se suma a [**Lolita**](https://www.elcomercio.com/narices-frias/lolita-perra-candy-instagram-reencuentro-familia.html "https://www.elcomercio.com/narices-frias/lolita-perra-candy-instagram-reencuentro-familia.html") en la lista de perros adoptados tras compartir sus fotos en las redes de **EL COMERCIO**.
-
-Recuerda que todos los fines de semana publicamos la historia de un peludito que ‘sueña’ con encontrar un hogar con tutores responsables. Si no puedes adoptar, comparte para los **peluditos** tengan un final feliz.
-
-Celebra el Día de la Sonrisa con alegría y optimismo 
-=====================================================
-
-El Día de la Sonrisa se celebra cada 4 de octubre para promover la felicidad y el bienestar a nivel mundial.
-------------------------------------------------------------------------------------------------------------
-
-![La historia del Día de la Sonrisa comenzó en 1963 con la creación de la carita feliz por Harvey Ball. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/dia-de-la-sonrisa-1.jpg)
-
-El **Día de la Sonrisa** es una celebración que busca **recordar la importancia de sonreír y compartir alegría**. Esta festividad, que se conmemora cada 4 de octubre, **fue instaurada por Harvey Ball**, el creador del icónico símbolo **‘Smiley Face’ o ‘Carita Feliz’** 😊, en 1999. Ball propuso este día para **fomentar la bondad y la positividad en todo el mundo**, según recoje [La Nación](https://www.lanacion.cl/este-viernes-es-el-dia-mundial-de-la-sonrisa-su-historia-y-por-que-se-celebra-en-esta-fecha/ "https://www.lanacion.cl/este-viernes-es-el-dia-mundial-de-la-sonrisa-su-historia-y-por-que-se-celebra-en-esta-fecha/"). 
-
-### Más noticias
-
-* [Finlandia es el país más feliz del mundo por sexto año consecutivo](https://www.elcomercio.com/actualidad/mundo/finlandia-encabeza-indice-felicidad-2023.html "https://www.elcomercio.com/actualidad/mundo/finlandia-encabeza-indice-felicidad-2023.html")
-* [Ecuador ocupa el puesto 44 en el informe mundial de la felicidad](https://www.elcomercio.com/sociedad/posicion-ecuador-informe-felicidad-paises.html "https://www.elcomercio.com/sociedad/posicion-ecuador-informe-felicidad-paises.html")
-
-**Historia del Día de la Sonrisa** 
------------------------------------
-
-La historia del **Día de la Sonrisa** se remonta a la **creación del símbolo de la carita feliz** 😊 en 1963. **Harvey Ball**, un artista gráfico, **diseñó este símbolo para una campaña publicitaria**. Con el tiempo, la **carita feliz** se convirtió en un **ícono de felicidad y optimismo**. En 1999, Ball decidió que **el primer viernes de octubre** sería el **Día Mundial de la Sonrisa**, un día dedicado a esparcir alegría y bondad, de acuerdo con [Mendoza Post](https://www.mendozapost.com/estilodevida/dia-mundial-de-la-sonrisa-por-que-se-celebra/ "https://www.mendozapost.com/estilodevida/dia-mundial-de-la-sonrisa-por-que-se-celebra/"). 
-
-**Importancia de la sonrisa** 
-------------------------------
-
-**Sonreír tiene múltiples beneficios para la salud**. Estudios han demostrado que **sonreír puede reducir el estrés, mejorar el estado de ánimo y fortalecer el sistema inmunológico**. Además, una sonrisa es contagiosa y puede mejorar el ambiente en cualquier lugar. En el **Día de la Sonrisa**, se anima a las personas a **compartir sonrisas y actos de bondad** para crear un impacto positivo en sus comunidades, de acuerdo con la página [Día Internacional](https://diainternacional.org/de-la-sonrisa/ "https://diainternacional.org/de-la-sonrisa/"). 
-
-**Cómo celebrar el Día de la Sonrisa** 
----------------------------------------
-
-Existen muchas maneras de celebrar el **Día de la Sonrisa**. Algunas personas optan por **realizar actos de bondad al azar**, como ayudar a un extraño o donar a una causa benéfica. **Otros organizan eventos comunitarios** para promover la felicidad y el bienestar. También es común ver **campañas en redes sociales** donde se invita a las personas a compartir fotos de sus sonrisas con el hashtag #DíaDeLaSonrisa. 
-
-El **Día de la Sonrisa** es una oportunidad para **recordar la importancia de la felicidad y la bondad en nuestras vidas**. Al compartir una sonrisa, podemos mejorar nuestro propio bienestar y el de quienes nos rodean. Este 4 de octubre, únete a la celebración y comparte tu sonrisa con el mundo. 
-
-Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024
-======================================================================
-
-Los trabajos en las vías de Quito generan cierres en la Mariana de Jesús, 6 de Diciembre, Eloy Alfaro, Alonso de Angulo y muchas más
-------------------------------------------------------------------------------------------------------------------------------------
-
-![La Epmmop interviene varias vías de la Zonal Eugenio Espejo, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/obras-Quito.jpg)
-
-La **Empresa de Obras Públicas de Quito** (Epmmop) realiza la intervención en varias vías del Distrito Metropolitano de Quito y para ello se programan cierres.
-
-### Más noticias
-
-* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
-* [Policía rescata a bebé que intentaba ser vendida por Internet](https://www.elcomercio.com/actualidad/seguridad/policia-rescata-bebe-que-intentaba-ser-vendida-por-internet.html "Policía rescata a bebé que intentaba ser vendida por Internet")
-* [Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?](https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html "Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?")
-
-Obras viales en La Kennedy
---------------------------
-
-A partir de este 4 de octubre, **la Epmmop** mejorará 6,8 km de vías en San Isidro del Inca y La Kennedy. Los trabajos arrancan hoy con la intervención de la calle **Los Pinos**, en el barrio La Kennedy, en el tramo entre las **av. 6 de Diciembre y Galo Plaza Lasso**.
-
-Estos trabajos se desarrollarán **hasta el 10 de octubre**. La vía tendrá un **cierre total** con jornadas de trabajo de 08:00 a 15:00.
-
-La **calle Capitán ramón Borja**, que fue recientemente rehabilitada, funcionará como vía alterna mientras se realizan los trabajos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/De-los-Pinos-1024x683.jpg)
-
-Cierre en De los Nogales
-------------------------
-
-Desde el 10 de octubre, los trabajos se trasladan a la calle **De los Nogales,** en una longitud de 4,5 km que tiene la vía, **entre la av. Eloy Alfaro y la Simón Bolívar**. Este tramo conecta siete barrios de la parroquia San Isidro del Inca.
-
-Por ser una vía muy transitada y por donde circula transporte público, el cierre no será total. Los trabajos se realizarán fuera de las horas pico, de 09:00 a 15:00.
-
-En este cierre, puedes tomar rutas alternas como De los Álamos, De los Guayacanes, Amagasí del Inca, E16, De las Nueces.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/De-los-Nogales-1024x683.jpg)
-
-Calle De los Cipreses también se cerrará
-----------------------------------------
-
-A partir del 30 de octubre, la calle **De los Cipreses**, en el sector de Collaloma 9 de Julio, será intervenida.
-
-Las obras durarán cuatro días, en el **tramo de las calles De las Avellanas hasta la calle De los Helechos**. Estos trabajos se harán en jornadas extendidas diurnas y nocturnas con cierre total de la vía.
-
-La Epmmop coordina con la AMT la asistencia en la gestión vehicular mientras duran las obras.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/De-los-Cipreses-1024x683.jpg)
-
-Vías cerradas en la Zonal Eugenio Espejo
-----------------------------------------
-
-La Epmmop también realiza la intervención de vías en la **Zonal Eugenio Espejo**, en el centro financiero de Quito, por ello, varias **vías estarán cerrada**s hasta el **sábado 14 de diciembre** de 2024.
-
-Para ello, la **Empresa de Obras Públicas** coordina con la AMT para la colaboración en la gestión del tránsito en la zona.
-
-Estas son las vías cerradas:
-
-* Calle Sergio Játiva e Ignacio Bossano
-* Calle S. Quintero y José Correa
-* Calle El Vengador y El Comercio
-* Calle El Zurriago y av. De los Shyris
-* Calle Últimas Noticias y El Comercio
-* Calle Últimas Noticias y El Universo
-* Calle Unión Nacional de Periodistas y av. Amazonas
-* Calle Unión Nacional de Periodistas y Japón
-* Calle Manuel Guzmán y av. Eloy Alfaro
-
-Rutas alternas:
----------------
-
-* Av. Amazonas
-* Av. De los Shyris
-* Av. 6 de Diciembre
-* Av. Eloy Alfaro
-* Av. Gaspar de Villarroel
-* Av. Naciones Unidas
-* Av. Río Coca
-
-Los agentes metropolitanos de tránsito gestionarán el flujo vehicular en jornadas de 09:00 a 15:00 y de 21:00 a 05:00.
-
-Vías cerradas en la Zonal Eugenio Espejo 2
-------------------------------------------
-
-Así mismo, el plan de **mantenimiento vial** se ejecuta en la Zonal Eugenio Espejo 2 con la asistencia de la AMT. En esta zona también gestionan el tránsito de 09:00 a 15:00 y de 21:00 a 05:00.
-
-En esta zona, estas son las vías cerradas:
-
-* José de Armero y Eustorgio Salgado
-* José de Armero y av. Universitaria
-* Santa Rosa y Eustorgio Salgado
-* Santa Rosa y av. Universitaria
-* Fernando Santillán y Gilberto Gato Sobral
-* Fernando Santillán y Núñez de Bonilla
-* Pablo Palacios y Gilberto Gato Sobral
-* Pablo Palacios y Núñez de Bonilla
-* Fernández de Recalde y Gilberto Gato Sobral
-* Fernández de Recalde y Munive
-* José del Rosario y Núñez de Bonilla
-* José del Rosario y Munive
-* Diego Martín de Utreras y José Valenti
-* Diego Martín de Utreras y av. Mariana de Jesús
-* Bayas y av. 10 de Agosto
-
-Rutas alternas:
----------------
-
-* Av. MAriscal Sucre
-* Av. América
-* Av. 10 de Agosto
-* Av. Amazonas
-* Av. Cristóbal Colón
-* Av. Universitaria
-
-> 👷🏻‍♂️[#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw)| Mantenimiento vial a cargo de [@ObrasQuito](https://twitter.com/ObrasQuito?ref_src=twsrc%5Etfw)🚜  
->   
-> 🚧 Zonal Eugenio Espejo  
->   
-> 📆Del 18 de septiembre al 14 de diciembre 2024  
->   
-> ⏰Horarios:  
-> 🌞09h00 a 15h00  
-> 🌜21h00 a 05h00  
->   
-> Conoce los🚫cierres y vías🔀 alternas aquí: 👇  
->   
-> ℹ️ Con información eficaz[#QuitoRence](https://twitter.com/hashtag/QuitoRence?src=hash&ref_src=twsrc%5Etfw) ☀️ [pic.twitter.com/wzvh0idLdX](https://t.co/wzvh0idLdX)
+> 🏟️ 🏆 ¡El estadio Monumental, la casa de la final de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) 2024![#GloriaEterna](https://twitter.com/hashtag/GloriaEterna?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YM5uZi5dIW](https://t.co/YM5uZi5dIW)
 > 
-> — AMTQuito (@AMT\_Quito) [October 4, 2024](https://twitter.com/AMT_Quito/status/1842200762073411783?ref_src=twsrc%5Etfw)
+> — CONMEBOL Libertadores (@Libertadores) [October 5, 2024](https://twitter.com/Libertadores/status/1842365336047235084?ref_src=twsrc%5Etfw)
 
-Autopista General Rumiñahui tendrá cierre total este fin de semana
-==================================================================
-
-A través de esta obra circularán alrededor de 4 500 usuarios diarios y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El paso elevado que se construye sobre la av. General Rumiñahui facilitará la movilidad de la zona.](https://www.elcomercio.com/wp-content/uploads/2024/10/Autopista-General-Ruminahui.jpg)
-
-La **Prefectura de Pichincha** informó sobre los avances de la obra que ejecuta sobre la **avenida General Rumiñahui.** Este avance incluye **el cierre total de esta autopista**.
-
-### Más noticias
-
-* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
-* [Policía rescata a bebé que intentaba ser vendida por Internet](https://www.elcomercio.com/actualidad/seguridad/policia-rescata-bebe-que-intentaba-ser-vendida-por-internet.html "Policía rescata a bebé que intentaba ser vendida por Internet")
-* [Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?](https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html "Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?")
-
-Montaje de puente
------------------
-
-La Prefectura construye un **paso elevado** a la altura de la entrada a Conocoto y este fin de semana se realizará el **montaje de las vigas de acero.**
-
-A través de esta obra circularán alrededor de **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños, como La Armenia.
-
-Estos trabajos se ejecutarán **desde las 16:00 del domingo 6 de octubre hasta las 05:00 del lunes 7** de octubre. Para ello, se realizará el **cierre total de los seis carriles de la autopista.**
-
-Este puente tendrá una longitud **de 276 metros**, con un ancho de 3,5 metros. El proyecto también prevé la instalación de iluminación del puente y la señalización como vertical.
-
-Rutas alternas
---------------
-
-Si necesitas circular por la zona te dejamos la **ruta alterna.** En sentido **Quito-valle de Los Chillos**:
-
-* Cuando pases el puente 8, debes girar a la derecha por la av. Lola Quintana (entrada a Conocoto) en dirección al parque central. En el semáforo, se habilitará un giro a la izquierda, en el inicio del paso elevado, por el que podrás avanzar en sentido al valle o hacia La Armenia.
-
-Si necesitas ir **desde el valle hacia Quito**, debes hacer esto:
-
-* Debes tomar el desvío del puente 8: llegar a la calle Gangotena, luego girar a la calle Charles Darwin, luego calle Estadio y dirigirte a la calle Manuela Cañizares. Luego das otro giro hasta la calle Santa Cruz y sales nuevamente a la autopista.
-* Si sales de Conocoto, tomas la av. Lola Quintana hasta el inicio de la construcción del puente, giras en sentido a la Armenia, hasta la calle Charles Darwin y sigues el recorrido [indicado antes](https://es.wikipedia.org/wiki/Conocoto "https://es.wikipedia.org/wiki/Conocoto").
-
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Cierre total de la Autopista General Rumiñahui ⛔  
->   
-> 📆 🕜 Fecha y hora: desde las 16h00 del domingo 06 de octubre, hasta las 5h00 del lunes 07 de octubre  
-> 📍Sector: Puente 8  
-> 🚧 Motivo: Montaje de las vigas de acero para la construcción del puente elevado  
-> 🛣️Carriles:… [pic.twitter.com/3NKk6BaIQS](https://t.co/3NKk6BaIQS)
-> 
-> — Prefectura de Pichincha (@PichinchaGob) [October 2, 2024](https://twitter.com/PichinchaGob/status/1841593779855491105?ref_src=twsrc%5Etfw)
-
-Huracán Helene deja 215 fallecidos por Helene en EE.UU.
-=======================================================
-
-En el condado Buncombe se contabilizan 200 personas desaparecidas.
-------------------------------------------------------------------
-
-![Una casa rodeada de grietas de barro a lo largo del río Swannanoa después de las catastróficas inundaciones causadas por la tormenta tropical Helene en Swannanoa, Carolina del Norte, EE. UU.](https://www.elcomercio.com/wp-content/uploads/2024/10/eed0115ca1b08986ef97cc6a803d446f4aa6097a.jpg)
-
-La cifra de muertos a causa del [huracán Helene](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html") asciende este viernes, 4 de octubre de 2024, a más de 215 mientras los **equipos de socorristas** trabajan sin desmayo en la **búsqueda de desaparecidos**, que se cuentan por centenares. Esto a poco más de una semana de que el ciclón tocara tierra con categoría 4.
-
-### Más noticias
-
-* [Joe Biden envía 1 000 soldados a zona devastada por Helene](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "Joe Biden envía 1 000 soldados a zona devastada por Helene")
-* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
-* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
-
-El canal CBS informa hoy que el número de **fatalidades asciende a 219 personas**, mientras que NBC da cuenta de “al menos 215” a la vez de la reducción de las posibilidades de hallar con vida a “cientos de desaparecidos”. Este huracán que entró por el **noroeste de Florida** la noche del pasado 26 de setiembre.
-
-Equipos de búsqueda y rescate
------------------------------
-
-Los equipos de búsqueda y rescate prosiguen este viernes con la **tareas de recuperación** en el sureste de EE.UU., en medio de **caminos intransitables,** puentes destruidos, poblados inundados y más de 700 000 viviendas aún sin energía, en especial en **Carolina del Norte**, donde los muertos superan el centenar.
-
-En el condado Buncombe de este estado, donde se asienta la golpeada localidad de Asheville, se contabilizan más de **200 personas desaparecidas**, de acuerdo a la Oficina del Alguacil local, Quentin Miller.
-
-Dificultades con los productos básicos
---------------------------------------
-
-“Todavía hay **comunidades aisladas**, con dificultades para **conseguir productos básicos**“, reconoció en declaraciones a NBC News la administradora de la Agencia Federal de Gestión de Emergencias (FEMA, en ingles), Deanne Criswell, quien reiteró que la prioridad sigue siendo la búsqueda de desaparecidos.
-
-Esta agencia federal **desplegó personal de emergencia**, hasta unos 1 500, y ha distribuido hasta el momento unos **45 millones de dólares** en ayudas a los damnificados en Florida, Georgia, las Carolinas, Tennessee y Virginia.
-
-Criswell se mantendrá en Carolina del Norte hasta que las áreas afectadas alcancen alguna estabilización, labor para la cual cuentan desde ayer con ayuda de hasta un millar de soldados en activo enviados por el Departamento de Defensa de EE.UU.
-
-Harris y Trump visitan zonas afectadas
---------------------------------------
-
-Tras la visita del presidente de Estados Unidos, [Joe Biden](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html"), a las **zonas castigadas** entre el miércoles y jueves, que incluyó una **visita aérea por Asheville,** la vicepresidenta y actual candidata demócrata en las **elecciones generale**s de noviembre próximo, Kamala Harris, hará lo propio este sábado en Carolina del Norte, tras recorrer a pie el miércoles zonas destruidas en Georgia.
-
-Biden no fue recibido ni se reunió con **alguno de los gobernadores** de los estados que visitó, a diferencia del expresidente y candidato republicano, **Donald Trump**, quien estará acompañado la tarde de este viernes por el gobernador de Georgia, el también republicano **Brian Kemp**, durante la visita que hará a la localidad de Evans, cerca de la frontera con Carolina del Sur.
-
-Fallecidos en fábrica de plásticos
+La Libertadores vuelve a Argentina
 ----------------------------------
 
-En Tennessee, los **familiares y allegados efectuaron el jueves una vigilia** en honor a los cuatro trabajadores de una empresa de plásticos que fallecieron a causa de las inundaciones que produjo Helene, catalogado como el huracán más mortífero de los últimos 50 años en Estados Unidos continental.
+En febrero pasado se anunció que la **capital argentina albergará la final** del torneo sudamericano, que tuvo su primera edición en 1960, bajo el nombre Copa de Campeones de América.
 
-Guadalupe Hernández Corona, hermana de una de las personas fallecidas (Mónica Hernández), rindió tributo a su familiar y pidió a las autoridades **continuar con la búsqueda de los trabajadores**, muchos de ellos mexicanos, de la planta Impact Plastics, en la localidad de Erwin.
+Entre los posibles escenarios se barajaban, además del Monumental, el Estadio Libertadores de América del Club Atlético Independiente y el Estadio Único **Diego Armando Maradona**.
 
-La Oficina de Investigaciones de Tennessee empezó las pesquisas sobre la **respuesta de la planta** tras las denuncias de empleados de la fábrica, quienes alegaron que **no les permitieron evacuar** luego de emitirse alertas de inundación en Erwin, ubicado en la frontera con Carolina del Norte. 
+Desde 2019, año en que el título de la máxima competición de clubes en **Sudamérica** se juega a partido único, Argentina no ha albergado ninguna final.
 
-El concierto de María Becerra en Quito se canceló y los fans están indignados
-=============================================================================
+La última definición de la Libertadores a la que hay que remontarse en suelo porteño es la fallida de 2018 que protagonizaron los rivales eternos, **River Plate y Boca Juniors,** y cuya vuelta debió resolverse en Madrid.
 
-La cantante argentina María Becerra tenía previsto cantar en Quito el 5 de octubre de 2024.
--------------------------------------------------------------------------------------------
+La ida debió jugarse un día después de lo previsto por una inundación en las instalaciones de La Bombonera, la cancha de Boca Juniors, y l**a vuelta se trasladó a Europa** después de que hinchas de River atacaron el vehículo de los auriazules en los aledaños del estadio de Núñez.
 
-![La cantante argentina María Becerra inició su gira en marzo. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T122605.156.jpg)
+Desde entonces, la **Conmebol** otorgó la organización de la final de la Libertadores a Lima, Río de Janeiro (en dos ocasiones), Montevideo y **Guayaquil** (Ecuador).
 
-El concierto de **María Becerra** en **Quito** se canceló y sus fans están indignados. Hombres y mujeres mostraron su malestar en las diferentes redes sociales. En **Instagram** hay varios comentarios.
+Con 25 títulos, Argentina es el país que más veces ha ganado la Copa, seguido por Brasil (23) y Uruguay (8).
 
-### **Más noticias:** 
+Cortes de luz en Machala para este sábado 5 de octubre
+======================================================
 
-* [Shakira recibió la negativa de una famosa para participar en Soltera](https://www.elcomercio.com/tendencias/entretenimiento/shakira-soltera-negativa-cantante-famosa.html "https://www.elcomercio.com/tendencias/entretenimiento/shakira-soltera-negativa-cantante-famosa.html")
-* [Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html?source=Internal&ref=Single+Content+Link") 
-* [La hija de Chayanne estará en el video de Soltera de Shakira junto con Danna, Lele Pons y Anitta](https://www.elcomercio.com/tendencias/shakira-estrena-soltera.html "https://www.elcomercio.com/tendencias/shakira-estrena-soltera.html")
+La Corporación Nacional de Electricidad (CNEL) detalló los horarios de los apagones programados para la capital de El Oro.
+--------------------------------------------------------------------------------------------------------------------------
 
-**¿Quién es María Becerra?**
-----------------------------
+![La CNEL es la empresa eléctrica que opera en El Oro](https://www.elcomercio.com/wp-content/uploads/2024/10/luz-cortes-machala.jpg)
 
-María Becerra, cantante y compositora argentina, consolida su lugar en la música latina con una carrera meteórica.
+La Corporación Nacional de Electricidad (**CNEL**) detalló los sectores de Machala que tendrán **cortes de luz** este sábado 5 de octubre de 2024.
 
-Nació el 23 de febrero de 2000 en **Quilmes** y comenzó su trayectoria en redes sociales. En ese espacio ganó popularidad a través de **covers** y videos en YouTube.
-
-Su estilo, que fusiona reguetón, pop y R&B, resuena con una audiencia joven.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAUdEtTMYF3/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Maria Becerra (@mariabecerra)](https://www.instagram.com/reel/DAUdEtTMYF3/?utm_source=ig_embed&utm_campaign=loading)
-
-En 2019, Becerra lanzó su primer sencillo **Entre nosotros**, que la catapultó a la fama. Desde entonces, ha colaborado con artistas de renombre como J Balvin, Maluma y Tiago PZK, logrando múltiples éxitos en las listas de popularidad.
-
-Su álbum ‘Animal’ (2021) recibió elogios por su producción y letras, mostrando su evolución artística.
-
-**El concierto de María Becerra en Quito se canceló y los fans están indignados**
----------------------------------------------------------------------------------
-
-“¿Dónde está el compromiso y seriedad? Pésima organización”, escribió un usuario en la cuenta de Instagram de Cucaramacara Producciones. Otros pusieron: “Pero van a devolver el dinero ¿verdad?”. 
-
-“Tenían muy mala fama como empresa, decidí creer en ustedes, pero confirmé que no hay seriedad en su trabajo. Ahora habrá que ver que si esos 10 días hábiles son verdad, que lo dudo. Esto no puede quedarse así y que sigan estafando a más gente”.
-
-**¿Por qué se canceló el concierto de María Becerra en Quito?**
----------------------------------------------------------------
-
-En su cuenta de **Instagram**, **Cucaramacara Producciones** compartió un comunicado. “En solidaridad con la grave crisis energética que actualmente afecta a Ecuador, se informa que el concierto de María Becerra, programado para el 5 de octubre de 2024, en el Coliseo General Rumiñahui, ha sido cancelado”. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DApF5YOJv-1/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por CUCARAMACARA PRODUCCIONES (@cucaramacara.producciones)](https://www.instagram.com/p/DApF5YOJv-1/?utm_source=ig_embed&utm_campaign=loading)
-
-Añadió: “María Becerra está dedicada a reprogramar su agenda para regresar a Ecuador en un futuro cercano y reunirse con su querido público. Esperamos que esta crisis se resuelva pronto para todas las comunidades afectadas”.
-
-**Reembolso de entradas tras cancelación del concierto de María Becerra**
--------------------------------------------------------------------------
-
-Los **organizadores** comentaron que las personas que adquirieron las entradas pueden solicitar un reembolso a través de www.ecuador.boletiland.com o mediante las redes oficiales de la plataforma de venta de entradas.
-
-Central térmica recupera 96 megavatios en Guayaquil ante cortes de luz
-======================================================================
-
-La central térmica funciona en Guayaquil y desde este viernes se conectó al sistema nacional, como una solución ante los cortes de luz.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![La Unidad TG5, de 96 MW, de la central Dr. Enrique García ya está en operación. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/central-4-10.jpg)
-
-La Corporación Eléctrica del Ecuador (Celec) declaró que la **central térmica Dr. Enrique García**, en Guayaquil, está en funcionamiento desde este 4 de octubre de 2024, como solución a los cortes de luz[.](https://www.celec.gob.ec/noticias/unidad-de-generacion-tg-5-de-la-central-dr-enrique-garcia-fue-declarada-disponible-por-cenace/ "https://www.celec.gob.ec/noticias/unidad-de-generacion-tg-5-de-la-central-dr-enrique-garcia-fue-declarada-disponible-por-cenace/")
-
-Esta unidad de **generación TG5** está a cargo de la Unidad de Negocio Electroguayas.
+La medida se aplica en la capital de **El Oro**, al igual que en el resto de ciudades, debido a la **crisis hídrica** que enfrenta Ecuador.
 
 ### Más noticias
 
-* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-* [Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-horarios-reducidos-viernes-4-octubre.html "Listos los horarios reducidos de cortes de luz desde este viernes 4 de octubre en Ecuador")
+* [Cortes de luz en Portoviejo el sábado 5 de octubre del 2024](https://www.elcomercio.com/actualidad/cortes-luz-portoviejo-sabado-4-octubre.html "Cortes de luz en Portoviejo el sábado 5 de octubre del 2024")
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+* [Horarios de cortes de luz en Santa Elena del sábado 5 de octubre](https://www.elcomercio.com/actualidad/cortes-luz-santa-elena-ecuador.html "Horarios de cortes de luz en Santa Elena del sábado 5 de octubre ")
 
-Esta central térmica de Guayaquil tiene una potencia de **96 megavatios** (MW), que servirá en esta época de cortes de luz. Esta se reincorpora al Sistema Nacional Interconectado, después siete meses de paralización. La operación de la central es clave durante el presente periodo de estiaje que afecta al país.
+Esta emergencia, en gran parte causada por la falta de lluvias, llevó a que el Comité de Operaciones de Emergencias Nacional (COE) mantenga la declaratoria de **alerta roja** en la provincia este viernes, junto a Manabí, Santa Elena y Galápagos.
 
-El proceso de reparación comenzó luego de que se registrara una falla a tierra en la Fase A del generador eléctrico, el 26 de febrero de 2024.
-
-Según la Celec, se activaron los **mecanismos para notificar a la aseguradora** de forma inmediata y así iniciar su reparación.
-
-Se lo hizo con el fin de reducir el tiempo de indisponibilidad de la unidad y en línea con las instrucciones del Gobierno Nacional de recuperar la **capacidad de generación térmica del país**.
-
-La reparación de la central térmica para mitigar los cortes de luz
-------------------------------------------------------------------
-
-La reparación de la barra del generador implicó un proceso complejo, ya que fue necesario trasladar el equipo a talleres especializados en **Houston, Texas.** El equipo retornó al país el 13 de septiembre y de inmediato se comenzó con el proceso de montaje. Quedó a disposición del Sistema Nacional Interconectado el 1 de octubre de 2024, a las 03:03.
-
-En el proceso de recuperación, Celec Electroguayas recibió el apoyo técnico de las Unidades de Negocio Coca Codo Sinclair, Hidrotoapi e Hidroagoyán. Estas proporcionaron personal especializado, equipos de medición y materiales esenciales para las reparaciones.
-
-También participó activamente el personal de la propia central y de otras instalaciones pertenecientes a Electroguayas.
-
-La reactivación de la **TG5 fortalece la capacidad del sistema eléctrico nacional en un momento crítico**, donde la demanda energética y las condiciones climáticas han obligado a programar cortes de luz en todo el país.
-
-El partido de Deportivo Quito vuelve a cambiar de sede
-======================================================
-
-Después de varios anuncios, el cotejo entre Santa Elena y Deportivo Quito ya tiene su sede ratificada. ¿Qué ocurrió?
---------------------------------------------------------------------------------------------------------------------
-
-![Deportivo Quito visitará al Santa Elena en Samborondón el 6 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/deportivoquitogol.jpg)
-
-Los aficionados del **Deportivo Quito** han expresado su frustración por los constantes cambios de sede del partido de vuelta ante Santa Elena en el **Nacional de Ascenso**.
-
-Inicialmente, se anunció que el cotejo se jugaría en **Samborondón**, pero luego se trasladó a Salinas. Sin embargo, tras la negativa de la Federación Ecuatoriana de Fútbol (FEF) para habilitar el estadio de Salinas, se ha ratificado el cotejo en la **Arena Samborondón**, en la provincia de Guayas.
-
-### Más noticias:
-
-* [José Pardo, de hincha a presidente de Deportivo Quito](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jose-pardo-presidente-dirigentes.html "José Pardo, de hincha a presidente de Deportivo Quito")
-* [Iker Morante, la nueva estrella del Deportivo Quito](https://www.elcomercio.com/deportes/deportivo-quito-segunda-categoria-iker-moran.html "Iker Morante, la nueva estrella del Deportivo Quito")
-* [Deportivo Quito presume orgulloso de su hinchada](https://www.elcomercio.com/deportes/futbol/deportivo-quito-presume-orgulloso-de-su-hinchada.html "Deportivo Quito presume orgulloso de su hinchada")
-
-La noticia se ha confirmado en las redes sociales del equipo capitalino.
-
-Carlos Castro, director técnico del Deportivo Quito, declaró que el equipo azulgrana se prepara para el viaje. “Hay que estar preparados para todo”, comentó, destacando la importancia de adaptarse a los cambios en esta etapa crucial del torneo.
-
-El partido está programado para el próximo 6 de octubre de 2024, a las 11:30, en el Arena Samborondón y tendrá un costo de entrada de 10 dólares.
-
-Deportivo Quito llega con ventaja ante Santa Elena
---------------------------------------------------
-
-Este encuentro, parte de los 32avos de final del **Nacional de Ascenso**, promete ser emocionante, especialmente tras la contundente victoria de **Deportivo Quito** en el partido de ida, donde se impuso 3-0.
-
-El equipo llega con confianza y espera contar con el apoyo masivo de su afición, que ya demostró su lealtad en el partido anterior.
-
-En redes sociales, el club agradeció a su hinchada, reiterando su importancia y compartiendo momentos emotivos de la celebración tras la victoria.
-
-Con una sólida ventaja de 3-0 y un ambiente propicio, los chullas se alistan para afrontar este desafío, en busca de un paso más hacia el ascenso.
-
-Los hinchas de la ‘Academia’ ya han confirmado varios buses para viajar hasta Samborondón.
-
-Campeón del mundo de ciclismo es asesinado en Colombia
-======================================================
-
-Marlon Alirio Pérez, campeón mundial de ciclismo en Quito 1994, falleció tras ser apuñalado en Colombia.
---------------------------------------------------------------------------------------------------------
-
-![Marlon Pérez, campeón del Mundo en Ecuador 1994, en la celebración de uno de sus títulos.](https://www.elcomercio.com/wp-content/uploads/2024/10/c6bba9cd835702d95511d2521b5365d796c5dede-1.jpg)
-
-El ciclista colombiano **Marlon Alirio Pérez**, campeón juvenil de la carrera por puntos en el **Mundial de Ecuador** de 1994, murió en un hospital de Antioquia. Allí fue trasladado después de ser víctima de un robo armado donde le propiciaron varias puñeladas en el cuello, informaron este viernes fuentes oficiales.
-
-“**La Policía colombiana y la Fiscalía asumieron la investigación que permita esclarecer, con celeridad, el asesinato de Marlón Pérez, una gloria del deporte Antioqueño**“, informó el gobernador de Antioquia, Andrés Julián Rendón, en su cuenta de X.
-
-### Más noticias:
-
-* [Tadej Pogacar conquista el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/tadej-pogacar-conquista-el-mundial-de-ciclismo.html "Tadej Pogacar conquista el Mundial de Ciclismo")
-* [Las opciones de Ecuador en el Mundial de Ruta de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/opciones-de-ecuador-en-el-mundial-de-ruta-de-ciclismo.html "Las opciones de Ecuador en el Mundial de Ruta de Ciclismo")
-* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
-
-Rendón añadió que **Pérez**, de 48 años, “fue encontrado en una vía pública del **Carmen de Viboral** con una herida por arma blanca. Lamentó mucho esta noticia y envío un abrazo sincero a su familia”.
-
-La Federación Colombiana de Ciclismo también lamentó el hecho y dijo en un comunicado que Pérez “**destacado ciclista y excampeón mundial en la pista y el paracycling**, quien tristemente perdió la vida en un hecho violento durante un intento de robo en la noche del jueves”.
-
-Un camino de éxito para Marlon Alirio Pérez tras ser campeón del mundo
-----------------------------------------------------------------------
-
-Luego de labrarse un camino en el ciclismo colombiano se enroló con el Selle Italia. Más adelante hizo parte **Team Tenax** (2006), **Universal Caffé** (2007) y **Caisse d’Epargne** (2008-2009).
-
-El antioqueño fue campeón mundial de la prueba por puntos en 1994; campeón mundial del tándem paracycling como guía de **Javier Serna** en 2017 y campeón panamericano de la contrarreloj en los Juegos Panamericanos de Guadalajara 2011.
-
-También fue tres veces campeón nacional de la contrarreloj y ganó seis etapas en la Vuelta a Colombia, además representó al país en tres **Juegos Olímpicos** (Atlanta 1996, Sidney 2000 y Atenas 2004) y en unos **Juegos Paralímpicos** (Tokio 2020)[.](https://en.wikipedia.org/wiki/Marlon_P%C3%A9rez_Arango "https://en.wikipedia.org/wiki/Marlon_P%C3%A9rez_Arango")
-
-Otras grandes participaciones de Marlon Alirio Pérez
-----------------------------------------------------
-
-En el Clásico RCN triunfó en cinco etapas y tres de la **Vuelta al Táchira** (Venezuela). Participó en las ediciones del Giro de Italia en 2004, 2005 y 2008.
-
-Pérez también es recordado porque gestionó la llegada de varios corredores a equipos europeos. Uno de ellos fue **Rigoberto Urán**, quien llegó al Tenax, de Italia, en el 2006, con lo que inició su carrera en el ciclismo de élite en el que logró dos segundos lugares en el Giro de Italia en el 2013 y 2014, además de otro segundo puesto en el Tour de Francia en el 2017
-
-(Video) ‘Tiktoker’ rusa muere mientras grababa un video para TikTok 
-====================================================================
-
-El video del incidente se viralizó en redes sociales.
------------------------------------------------------
-
-![La caída le provocó graves lesiones en la cabeza tras impactar contra el suelo. Foto: X @betyna71.](https://www.elcomercio.com/wp-content/uploads/2024/10/tiktoker-rusa-accidente.jpg)
-
-Una **trágica muerte en Georgia** conmocionó al país cuando una **joven ‘tiktoker’ rusa perdió la vida** tras caer de cabeza en la entrada de **una estación de metro** mientras **grababa un TikTok** con una amiga. 
-
-### Más noticias
-
-* [TikTok lucha en una corte de EE.UU. contra ley que podría prohibir esa aplicación](https://www.elcomercio.com/actualidad/mundo/tiktok-lucha-corte-ee-uu-contra-ley-podria-prohibir-aplicacion-enero.html "https://www.elcomercio.com/actualidad/mundo/tiktok-lucha-corte-ee-uu-contra-ley-podria-prohibir-aplicacion-enero.html")
-* [Doña Lety no estaba muerta, fue secuestrada](https://www.elcomercio.com/afull/dona-lety-secuestro-muerte-viral.html "https://www.elcomercio.com/afull/dona-lety-secuestro-muerte-viral.html") 
-
-La víctima, **Arina Glazunova**, de 24 años, no se percató del espacio en la vía pública y se precipitó al vacío. **El video del incidente se viralizó en redes sociales**, y en el lugar del accidente se instaló un pequeño altar en su memoria. 
-
-**El accidente de la ‘tiktoker’ rusa** 
----------------------------------------
-
-El suceso ocurrió en la **madrugada del domingo 29 de septiembre de 2024** en la ciudad de Tbilisi, cerca de la Plaza de la Primera República. **Glazunova caminaba junto a una amiga** mientras cantaban la canción ‘For the Last Time’ y se grababan riendo. En un momento, **Glazunova tomó el celular para filmar a su amiga**, pero tras unos pocos pasos **cayó en una boca del metro**. 
-
-**Consecuencias de la caída** 
-------------------------------
-
-**La caída le provocó graves lesiones** en la cabeza tras impactar contra el suelo desde casi **5 metros de altura**. Su amiga llamó de inmediato a los servicios de emergencia, quienes **la trasladaron a un hospital en estado crítico**. 
-
-A pesar de los esfuerzos médicos, **Glazunova falleció debido a una fractura en la base del cráneo**, según informaron los medios locales RU63 y Mtavari. 
-
-**Reacción y críticas** 
+Cortes de luz en Machala
 ------------------------
 
-Tras el incidente, **el parque fue cerrado al público**, y las críticas comenzaron a señalar la **falta de señalización adecuada** en la boca del metro donde ocurrió la caída. En el lugar de la tragedia, **se erigió un pequeño monumento con flores y dedicatorias** en homenaje a **Arina Glazunova**, la turista rusa fallecida. 
+Los apagones programados en Machala se aplicarán durante **cuatro horas** a través de cinco franjas horarias.
 
-**Información sobre la víctima** 
----------------------------------
+Los cortes de luz se realizarán entre la **madrugada** y la **mañana** de este sábado.
 
-Según informó el medio MSK1.RU, **Glazunova**, de 24 años, era oriunda de Moscú y se había graduado en 2022 de la Academia Rusa de Economía Nacional y Administración Pública. **Se encontraba en Georgia de vacaciones** junto a una amiga cuando ocurrió el accidente. 
+### De 00:00 a 04:00
 
-**Recuerdos de una amiga** 
----------------------------
+* La vía a Machala desde La Iberia hasta la entrada a El Cambio, Cartonera Andina.
+* Vía La Primavera hasta la entrada a Machala.
 
-**Olga, la amiga que presenció la tragedia**, recordó cómo conoció a Glazunova en 2019 durante una función de teatro. “Más tarde ese mismo año, yo misma me convertí en miembro de este círculo y luego nos hicimos amigas”, explicó. 
+### De 01:00 a 05:00
 
-Olga también destacó el “excelente sentido del humor” de Glazunova y lamentó profundamente su pérdida: “Me encantaba”. 
+**Barrios**: La Aurora, Santa Elena, Fernando Daquilema, Alborada 1 y 2, Machala Occidental, Manuela  
+Cañizares, Urbanización La Carolina; las calles 10 de Agosto, Napoleón Mera desde la Boyacá hasta la  
+Circunvalación Norte, calle Buenavista desde la Marcel Laniado hasta la Circunvalación Norte, calle  
+Marcel Laniado desde la circunvalación Norte hasta la calle Guayas. La Garzota, Bellavista, Otto Álvarez,  
+Los Rosales, El Triunfo, Reina del Cisne.
 
-**Actividades y compromiso** 
------------------------------
+Centro Comercial La Piazza, embotelladora Ingaoro, ex Discount  
+Center, Concesionaria Oro Auto, Hyundai. San Gregorio, Vergeles, Urseza 2 y 3, Rayito de Luz, Los Andes,  
+Asociación de Empleados del Consejo Provincial; Colegio El Oro, Mercado Mayorista, Predio La Katya.  
+Bellos Horizontes, Los Laureles, Buena Fe, Siete de Marzo, La Primavera, Lotización El Sol, 24 de  
+Septiembre, 16 de Marzo, Rosanelli, Urbanización Unioro. Urbanizaciones San Patricio, Las Acacias,  
+Ciudad del Sol y el Centro de Salud Velasco Ibarra.
 
-Además, se informó que **Arina Glazunova** trabajaba como la **gerente de relaciones públicas en una agencia creativa** dedicada a la creación de identidad corporativa para empresas. En su tiempo libre, **se dedicaba al cuidado animal** y participaba en diversas obras de caridad, siendo estas actividades un importante ‘hobby’ en su vida. 
+### De 02:00 a 06:00
 
-> ⚠️Arina Glazunova, 27 años, grababa un video para TikTok en Georgia y, ¡PUM! 💥 Cayó por las escaleras del metro 🚇.  
->   
-> Si a estas generaciones se les hubiera enseñado a caer bien, ¡también sabrían levantarse! 🚶‍♀️💪😏 [pic.twitter.com/llM7km8llc](https://t.co/llM7km8llc)
-> 
-> — Josué   𝕏 (@Joshua\_Arte) [October 1, 2024](https://twitter.com/Joshua_Arte/status/1840914254003888349?ref_src=twsrc%5Etfw)
+**Barrios**: 10 de Septiembre, Los Sauces 2, Federico Páez y Washington García, Camaroneras del sector de  
+Puerto grande y Chalacal. Barrios Los Sauces, 18 de Octubre, Fanny Estela, Buenos Aires, Miraflores,  
+Venecia, 19 de Noviembre, Independiente, Hospital Esperanza, Urseza 3, circunvalación Norte desde el  
+Monumento El Aguador hasta la Av. Madero Vargas, lado derecho de la Av. Madero Vargas hasta la  
+circunvalación Norte y entrada al Balneario El Coco.
 
-**Otro caso similar** 
-----------------------
+### De 04:00 a 07:00
 
-La **tragedia de Glazunova** recordó otro caso similar que ocurrió en Georgia el pasado mes de abril, cuando una **‘influencer’ rusa, Inessa Polenko**, de 39 años, murió al caer desde un precipicio de más de 50 metros **mientras intentaba tomarse una ‘selfie’.** El hecho quedó registrado en un video de una cámara de seguridad. 
+**Barrios**: Cdla. del Seguro, Patria Nueva, Las Tinas sectores 1, 2 y 3, Martha Bucaram, Alcides Pesantez, Las  
+Gaviota, Periodista, 6 de Diciembre, Abdón Calderón, MIES; Calle 9 de mayo de la 12va Sur hasta la Circunvalación Sur.
 
-Inessa estaba de vacaciones en Gagra, en la región de Abjasia, que se autodefine como independiente. **La ‘influencer’, que se dedicaba al modelaje y a las redes sociales**, se encontraba de viaje con una amiga, como parte de sus habituales recorridos por el mundo, en la previa de la celebración de su cumpleaños número 40. 
+Desde el Redondel del Cambio, hasta la entrada a Machala, del lado derecho hasta Produbanco, Incarpalm, Universidad de Machala, Emproro, Expoceánica, Reybanpac, E. Maulme Camiones. Vía a Santa Rosa desde la Y del Cambio hasta la Y de Balosa, incluido el Colegio  
+Militar Héroes de 41.
 
-**Detalles del accidente de Inessa** 
--------------------------------------
+Correccional de menores, los sitios Corralitos, Motuche, La María, Ceibales; la  
+Parroquia El Retiro. Toda la Av. Circunvalación Sur. Barrios: Los Ceibos, 1 de Enero, Jaime Roldós, Los  
+Girasoles, Nuevo Pilo, Venezuela, San Francisco, 12 de Mayo, Luz de América, Pampas de Pilo, Las  
+Carretas, Florida sectores 2-3. Urbanizaciones: Santa Inés, Ciudad Verde, Ciudad Palmeras, Porto  
+Verdella; Centro Comercial Oro Plaza, Macarsa, Facultad de Ciencias Agropecuarias de la  
+Universidad de Machala, oficinas del S.R.I, Ecuaquímica.
 
-La **muerte de Inessa Polenko** ocurrió el 7 de abril mientras circulaba por la autopista Ubykhov con una amiga. Decidió detenerse en el kilómetro 18 para **tomarse una fotografía en un barranco** de más de 50 metros de altura, con la intención de compartirla en su cuenta de Instagram, algo que solía hacer regularmente al mostrar sus viajes por todo el mundo. 
+**Sectores** de la Parroquia Puerto Bolívar: Barrios 22 de Mayo, 12 de Noviembre, Estero Huaylá, 4 de  
+Abril, Simón Bolívar, Amazonas, Barrio Autoridad Portuaria, la izquierdo de la Av. Madero Vargas,  
+González Rubio. Salinas, Urseza 3, Abdalá Bucaram, El Pacífico, Harry Álvarez, La Unión, Liceo Naval  
+Jambelí, Corporación Aduanera del Ecuador, Autoridad Portuaria, Mercado Municipal, Malecón de  
+Puerto Bolívar y Parque de la Madre.
 
-A pesar de las barreras que separaban la ruta del precipicio, **Polenko subió a una biga que sobresalía del barranco**. Desafortunadamente, **se resbaló y cayó hacia la orilla del Mar Negro**. 
+### De 05:00 a 09:00
 
-> Los que algunos están dispuestos a perder por más vistas en sus redes sociales  
->   
-> La influencer Inessa Polenko, pierde la vida al caer de un acantilado, mientras se tomaba una selfie. [pic.twitter.com/Pj1nAjTZW3](https://t.co/Pj1nAjTZW3)
-> 
-> — ᒪᗩ 丅ᖇᗩᔕ丅Ꭵᗴᑎᗪᗩ 🤖 ᑕᕼᗩᑭᎥᑎ丅ᗝƳᔕ (@LaTrastienda\_gt) [April 14, 2024](https://twitter.com/LaTrastienda_gt/status/1779634110740181030?ref_src=twsrc%5Etfw)
+**Barrios**: Cdla. Las Brisas, Las Crucitas, Celessia, Universidad Metropolitana, Asilo de Ancianos. El Bosque 1 y 2, Lilian María, Machalilla, Cdla. Esteban Quirola, Colegio Marcel Laniado, San Ramón, Voluntad de  
+Dios, Costa Azul, sitios La Puentecita, Km 1 al km 17 de la vía a Balosa sector camaronero, Los  
+Ángeles, La Patera, Lindo Ecuador, Florida 4-5-6, El Cóndor. Vía a Pajonal, sitio Ceibales, Colegios  
+Santa María y Pacífico y Cdla. Portal del Río.
 
-**Consecuencias de la caída de Inessa** 
-----------------------------------------
+Cortes de luz en otros cantones de El Oro
+-----------------------------------------
 
-Aunque la cosmetóloga y modelo **no murió en el acto**, fue asistida rápidamente por los **servicios de emergencia** que lograron trasladarla al hospital en estado crítico. Lamentablemente, **falleció poco después** en la sala de primeros auxilios del hospital regional de Gagra. 
+En este documento puedes revisar los apagones programados para los barrios de **otros cantones** de El Oro:
 
-La Nación Argentina / GDA. 
-
-Hezbolá está conteniendo un lento avance de tropas israelíes en el sur del Líbano
-=================================================================================
-
-El Ejército israelí volvió a ordenar la evacuación inmediata de más de una treintena de aldeas del sur del Líbano.
-------------------------------------------------------------------------------------------------------------------
-
-![Un helicóptero Apache israelí dispara un misil hacia objetivos en el sur del Líbano, visto desde la Alta Galilea, en el norte de Israel, el 4 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/c3169d4279092854a55007535881117b1aebe343.jpg)
-
-El **grupo chií libanés** Hezbolá afirmó este viernes, 4 de octubre de 2024, que sigue conteniendo el avance de las **tropas de Israel en el sur del [Líbano](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-2-000-muertos.html "https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-2-000-muertos.html"),** una lenta progresión que lleva días estancada en las localidades fronterizas de Maroun al Ras y de Yaroun, donde se concentran los **combates entre ambos bandos.**
-
-### Más noticias
-
-* [Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá](https://www.elcomercio.com/actualidad/mundo/bombardeos-en-beirut-la-madrugada-de-este-4-de-octubre-habrian-herido-a-lider-de-hezbola.html "Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá")
-* [Hezbolá afirmó matar a 17 soldados israelíes este jueves](https://www.elcomercio.com/actualidad/mundo/hezbola-afirmo-matar-17-soldados-israelies-jueves.html "Hezbolá afirmó matar a 17 soldados israelíes este jueves")
-* [Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán](https://www.elcomercio.com/actualidad/mundo/hizbula-israel-combaten-mientras-comunidad-internacional-condena-ataque-iran.html "Hezbolá e Israel combaten mientras la comunidad internacional condena ataque de Irán")
-
-El movimiento armado indicó que sobre las 11:00 sus combatientes dispararon artillería contra un grupo de soldados y de vehículos en la llanura de Maroun al Ras. El ataque según Hizbulá dejó “muertos y heridos” entre las filas israelíes.
-
-El último enfrentamiento directo del que se pronunció el grupo ocurrió sobre las 2:25. Fue cuando los combatientes de la denominada **Resistencia Islámica atacaron con proyectiles y artillería** a “una fuerza de soldados del enemigo israelí mientras avanzaban hacia Bayader al Adas, al oeste de Yaroun”.
-
-Por su parte, el Ejército israelí volvió a ordenar este viernes la evacuación inmediata de más de una treintena de aldeas del sur del Líbano. Esto bajo la premisa de que “las actividades de Hezbolá obligan a las fuerzas armadas a actuar”.
-
-“Por su seguridad, deben evacuar sus hogares inmediatamente y dirigirse al norte del río Awali, salven sus vidas”, dijo en un comunicado el portavoz en árabe del Ejército israelí, Avichay Adraee. Fue en referencia a una zona bastante alejada de la frontera común donde Israel está concentrando su campaña de bombardeos.
-
-Las **fuerzas del Estado judío estiman que al menos 250 milicianos** murieron desde el inicio de la ofensiva terrestre iniciada la madrugada del martes -tanto por intercambios de fuego como bombardeos-, y que más de **2 000 objetivos militares** fueron atacados.
-
-Israel reconoció que nueve de sus soldados perdieron la vida hasta el momento en enfrentamientos directos con Hizbulá, aunque el **grupo afirmó ayer abatir a 17 uniformados** que intentaban avanzar en el sur del Líbano, donde la formación armada está utilizando mayoritariamente tácticas de guerrilla. 
-
-Empresa Eléctrica Quito anunció suspensión temporal del sistema de pagos
-========================================================================
-
-La Empresa Eléctrica Quito (EEQ) emitió un comunicado oficial en el que informó a sus usuarios sobre una suspensión temporal de su plataforma comercial.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Usuario de la Empresa Eléctrica Quito realizando un pago.](https://www.elcomercio.com/wp-content/uploads/2024/10/empresa-electrica.png)
-
-La **Empresa Eléctrica Quito (EEQ)** emitió un comunicado oficial este 4 de octubre de 2024, en el que informó a sus usuarios sobre una suspensión temporal de su plataforma comercial **CIS/CRM**. Este se utiliza para el pago de planillas de **energía eléctrica**.
-
-### Más noticias
-
-* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
-* [Cronograma de cortes de energía para este fin de semana en Manta](https://www.elcomercio.com/actualidad/ecuador/cronograma-de-cortes-de-energia-para-este-fin-de-semana-en-manta.html "Cronograma de cortes de energía para este fin de semana en Manta")
-* [Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-de-cortes-de-luz-reducidos-en-cuenca-este-viernes-4-de-octubre.html "Horarios de cortes de luz reducidos en Cuenca este viernes 4 de octubre")
-
-Este corte se llevará a cabo desde las 17:00 del viernes 4 de octubre hasta las 23:00 del domingo 6 de octubre de 2024, debido a un **mantenimiento a nivel nacional**. El motivo de la intervención es la incorporación de la Unidad de Negocio **CNEL EP: Sucumbíos**.
-
-No se podrán hacer pagos este fin de semana
--------------------------------------------
-
-Durante este lapso de tiempo, tanto los **canales electrónicos** como las entidades financieras y los puntos de pago físicos no estarán disponibles para la **cancelación de facturas**. Asimismo, los usuarios tampoco podrán realizar consultas o gestionar requerimientos a través de la página web institucional.
-
-La EEQ ha enfatizado que las operaciones y servicios en estos canales se reanudarán el lunes 7 de octubre de 2024.
-
-> [#ComunicadoEEQ](https://twitter.com/hashtag/ComunicadoEEQ?src=hash&ref_src=twsrc%5Etfw) I Durante este fin de semana, la plataforma comercial para el pago 💵 de la [#FacturaElectrónicaEEQ](https://twitter.com/hashtag/FacturaElectr%C3%B3nicaEEQ?src=hash&ref_src=twsrc%5Etfw) no estará disponible.  
->   
-> Agradecemos tu comprensión y te recordamos que este servicio se reanudará el lunes, 7 de octubre de 2024.[#EEQSiempreJuntoATi](https://twitter.com/hashtag/EEQSiempreJuntoATi?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1uXFTcUAoA](https://t.co/1uXFTcUAoA)
-> 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [October 4, 2024](https://twitter.com/ElectricaQuito/status/1842226993292591369?ref_src=twsrc%5Etfw)
-
-La empresa agradece la **comprensión de la ciudadanía** ante los inconvenientes que esta interrupción pueda ocasionar. Se recomienda a los usuarios **planificar sus pagos antes o después** de este periodo de mantenimiento.
-
-Este tipo de mantenimientos es parte de las **actualizaciones tecnológicas** para mejorar la infraestructura de **servicio y garantizar un suministro eléctrico** en las zonas de cobertura de la Empresa Eléctrica Quito y sus unidades de negocio asociadas.
-
-El Día Mundial de los Animales se celebra este 4 de octubre
-===========================================================
-
-Esta efeméride coincide con la festividad de San Francisco de Asís.
--------------------------------------------------------------------
-
-![El Día Mundial de los Animales se celebra en Quito con una actividad especial. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T112300.461.jpg)
-
-El **Día Mundial de los Animales** se celebra cada 4 de octubre. La fecha busca concienciar sobre la importancia de la conservación y el respeto hacia todas las especies del planeta.
-
-Esta celebración se oficializó en 1929 durante un congreso en Viena por la Organización Mundial de Protección Animal. Pero la **fecha** no es fortuita. Te contamos con qué festividad coincide.
-
-### **Más noticias:**
-
-* [Una misa para bendecir a las mascotas se realizará en Quito el 4 de octubre de 2024](https://www.elcomercio.com/tendencias/curiosidades/una-misa-para-bendecir-a-las-mascotas-se-realizara-en-quito-el-4-de-octubre-de-2024.html "https://www.elcomercio.com/tendencias/curiosidades/una-misa-para-bendecir-a-las-mascotas-se-realizara-en-quito-el-4-de-octubre-de-2024.html")
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link") 
-* [Los gatos de diseño sin pelo y su lenta agonía](https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html?source=Internal&ref=Single+Content+Link")
-
-**¿Por qué se celebra el Día Mundial de los Animales?**
--------------------------------------------------------
-
-La elección del 4 de octubre no es **casual**, ya que coincide con la festividad de San Francisco de Asís, conocido por su amor y cuidado hacia los animales.
-
-En **Ecuador**, esta **fecha** se conmemora con diversas actividades que promueven el bienestar animal. Por ejemplo, en **Quito** se organiza una misa especial para bendecir a las mascotas.
-
-> [View this post on Instagram](https://www.instagram.com/p/DAr0k62oxy6/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAr0k62oxy6/?utm_source=ig_embed&utm_campaign=loading)
-
-La ceremonia está prevista para la tarde de este 4 de octubre, a las 15:00, en el atrio de la **Iglesia de San Francisco**.
-
-**Día Mundial de los Animales: una fecha para destacar especies únicas**
-------------------------------------------------------------------------
-
-El Día Mundial de los Animales es una oportunidad para destacar datos curiosos sobre la fauna. En Ecuador, por ejemplo, se pueden encontrar especies únicas como el oso de anteojos y el cóndor andino, que son símbolos de la biodiversidad del país.
-
-Comer un plátano antes de dormir puede mejorar el sueño de forma natural 
+Moisés Caicedo y el Chelsea pelearán por clasificar a la Champions League
 =========================================================================
 
-Comer un plátano puede mejorar la calidad del sueño gracias a sus nutrientes esenciales.
-----------------------------------------------------------------------------------------
+El Chelsea, con Moisés Caicedo como uno de sus líderes, tiene claro su objetivo principal para la temporada 2024/25.
+--------------------------------------------------------------------------------------------------------------------
 
-![El plátano, rico en magnesio, potasio y vitamina B6, es ideal para relajar los músculos y favorecer un sueño reparador. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/platano-sueno.jpg)
+![Moisés Caicedo en un partido con el Chelsea en la temporada 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T200306.667.jpg)
 
-El **plátano** es una fruta popular no solo por su sabor y versatilidad, sino también por sus beneficios para la salud. Recientemente, se ha discutido su **potencial para mejorar la calidad del sueño**.
+El **Chelsea** comenzó la campaña 2024/25 en la Premier League de manera destacada, superando el mal inicio de las temporadas anteriores. **Moisés Caicedo**, uno de los capitanes, afirmó que este rendimiento es fruto del trabajo realizado en la pretemporada, y que buscan mantener este nivel a lo largo del torneo.
 
-### Más noticias
-
-* [Sigue estos consejos para mejorar el sueño](https://www.elcomercio.com/tendencias/salud/sigue-estos-consejos-para-mejorar-el-sueno.html "https://www.elcomercio.com/tendencias/salud/sigue-estos-consejos-para-mejorar-el-sueno.html")
-* [Si duermes y bebes en un vuelo, este artículo te interesa](https://www.elcomercio.com/tendencias/salud/duermes-bebes-vuelo-articulo-interesa.html "https://www.elcomercio.com/tendencias/salud/duermes-bebes-vuelo-articulo-interesa.html")
-
-**Comer un plátano antes de dormir** podría ser la clave para un descanso más profundo y reparador. Pero, ¿qué hace que esta fruta sea tan especial para el sueño? 
-
-**Nutrientes clave para un sueño reparador** 
----------------------------------------------
-
-El plátano es rico en **magnesio**, **potasio** y **vitamina B6**, nutrientes que juegan un papel crucial en la **promoción de un sueño saludable**. El **magnesio** ayuda a **relajar los músculos y reducir el estrés**, lo que puede facilitar la conciliación del sueño. Según un artículo de [Healthline](https://www.healthline.com/nutrition/banana-before-bed "https://www.healthline.com/nutrition/banana-before-bed"), el **potasio** también contribuye a la **relajación muscular y puede prevenir calambres nocturnos**, que son una causa común de interrupción del sueño. 
-
-La **vitamina B6** en los plátanos es esencial para la **producción de melatonina**, la hormona que **regula el ciclo del sueño**. Además, los plátanos contienen **triptófano**, un aminoácido que el cuerpo convierte en serotonina y melatonina, lo que promueve así un **estado de relajación y somnolencia**, de acuerdo con [MedicineNet](https://www.medicinenet.com/do_bananas_help_you_sleep_best_time_eat_one/article.htm "https://www.medicinenet.com/do_bananas_help_you_sleep_best_time_eat_one/article.htm"). 
-
-**¿Cómo y cuándo consumirlo?** 
--------------------------------
-
-Para **maximizar los beneficios del plátano antes de dormir**, es recomendable **consumirlo aproximadamente una hora antes de acostarse**. Esto permite que el cuerpo absorba los nutrientes y comience a relajarse. Sin embargo, es importante **no consumirlo demasiado tarde para evitar una digestión pesada** que podría interferir con el sueño, a decir de la web [Livestrong](https://www.livestrong.com/article/519879-can-eating-a-banana-help-you-fall-asleep/#google_vignette "https://www.livestrong.com/article/519879-can-eating-a-banana-help-you-fall-asleep/#google_vignette").  
-
-**Beneficios adicionales del plátano** 
----------------------------------------
-
-Además de **mejorar el sueño**, el plátano **ofrece otros beneficios para la salud**. Su contenido en **fibra ayuda a la digestión**, y su **bajo contenido calórico** lo convierte en un snack ideal para la noche. También **puede ayudar a reducir los síntomas del síndrome de piernas inquietas**, una condición que puede interrumpir el sueño, según recoge [Amerisleep](https://amerisleep.com/blog/banana-before-bed/ "https://amerisleep.com/blog/banana-before-bed/"). 
-
-**Consideraciones finales** 
-----------------------------
-
-Aunque comer un plátano antes de dormir puede ser beneficioso, es importante recordar que no es una solución mágica para los problemas de sueño. **Mantener una rutina de sueño saludable, evitar la cafeína y el alcohol antes de acostarse**, y crear un ambiente propicio para el descanso son igualmente importantes. Sin embargo, incorporar un plátano en tu rutina nocturna podría ser un paso sencillo y delicioso hacia un mejor descanso. 
-
-Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses
-===============================================================
-
-Leonardo Campana lleva jugados 15 partidos con la Selección de Ecuador. Aún no logra marcar goles.
---------------------------------------------------------------------------------------------------
-
-![Leonardo Campana con la Selección de Ecuador en junio de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/campana_convocatoria_1.jpg)
-
-Tras 11 meses de ausencia, **Leonardo Campana, delantero el Inter Miami de la Major League Soccer (MLS)** de los Estados Unidos, fue convocado nuevamente para integrar la Selección de Ecuador.
-
-El nombre de Leonardo Campana consta junto al de Enner Valencia (Inter de Brasil), **Kevin Rodríguez (Royale Union Saint-Gilloise de Bélgica)**, Jordy Caicedo (Sporting de Gijón) y Nilson Angulo (Anderlecht de Bélgica), como los delanteros de la Tri.
+Los ‘Blues’ **acumulan cinco partidos consecutivos sin conocer la derrota** en la liga, con cuatro victorias en los últimos encuentros. Su única caída fue en la jornada inaugural ante el vigente campeón, Manchester City.
 
 ### Más noticias:
 
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-* [¿Qué pasa con los partidos en Quito por el estado de excepción?](https://www.elcomercio.com/deportes/futbol/que-pasa-con-los-partidos-en-quito-por-el-estado-de-excepcion.html "¿Qué pasa con los partidos en Quito por el estado de excepción?")
-* [Kendry Páez tiene el respaldo total de Beccacece en la polémica](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-kendry-paez.html "Kendry Páez tiene el respaldo total de Beccacece en la polémica")
+* [Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-inicia-con-contundente-victoria-en-conference-sin-moises-caicedo.html "Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo")
+* [Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/chelsea-kendry-paez-mundial-clubes.html "Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes")
+* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
 
-El 21 de noviembre de 2023 en el triunfo de la Tri ante Chile por 1-0 en la sexta fecha de las actuales eliminatorias, **sumó 8 minutos al sustituir a Kevin Rodríguez**, bajo el mando del español Félix Sánchez.
+Actualmente, el Chelsea ocupa la cuarta posición en la Premier League, con 13 puntos en seis jornadas, a solo dos puntos del líder, Liverpool. Además, es el equipo más goleador del campeonato con 15 goles.
 
-Sánchez no lo volvió a tomar en cuenta y lo marginó de los partidos amistoso de marzo y junio ante Guatemala, Italia, **Argentina, Bolivia y Honduras, todos en los Estados Unidos** en la previa a la Copa América.
+El objetivo es clasificar a Champions League
+--------------------------------------------
 
-En la Copa América tampoco fue citado y vio desde casa los partidos que la Selección afrontó ante **Venezuela, Jamaica y México** en la fase de grupos; y los cuartos de final contra Argentina.
+Este viernes 4 de octubre, **Moisés Caicedo** brindó varias entrevistas a medios internacionales y locales, donde resaltó el objetivo principal del **Chelsea** para esta temporada y habló sobre el positivo inicio que han tenido.
 
-Una vez que **Sebastián Beccacece tomó el mando del equipo nacional**, Campana tampoco fue tomado en cuenta y se perdió los juegos contra Brasil y Perú.
+En una entrevista con Sky Sports, el ‘Niño Moi’ afirmó que **no está sorprendido por el buen arranque** del equipo, ya que trabajaron intensamente para ello desde la llegada del técnico **Enzo Maresca.**
 
-Tras 11 meses de ausencia y **11 partidos sin ser considerado por el combinado nacional**, el delantero guayaquileño es convocado y será una de las variantes para romper la resistencia de las duras defensas paraguayas y uruguayas.
+“Esperábamos este comienzo. **Durante la pretemporada nos propusimos esto, y lo estamos logrando**“, dijo Caicedo sobre la posición actual del Chelsea en la Premier League.
 
-Campana y Beccacece hablaron por teléfono
------------------------------------------
+Respecto a la clasificación a la Champions League, el ecuatoriano fue claro: “**Es nuestro principal objetivo. Vamos a trabajar duro para conseguirlo**“, aseguró.
 
-Leonardo Campana reveló a finales de septiembre que tuvo una conversación con **Sebastián Beccacece con lo que no pierde** la esperanza de ser llamado para los siguientes partidos de la Tri.
+> "Yeah, that's the target." 🎯  
+>   
+> Moises Caicedo says that Chelsea are 'working hard' for a Champions League spot this season under Enzo Maresca 🔵 [pic.twitter.com/inJ5UJng5s](https://t.co/inJ5UJng5s)
+> 
+> — Sky Sports Premier League (@SkySportsPL) [October 4, 2024](https://twitter.com/SkySportsPL/status/1842140633537904831?ref_src=twsrc%5Etfw)
 
-“Hace poco tuve una charla con el profesor (Beccacece). **Me hizo sentir muy feliz, motivado e ilusionado por todo lo que se viene**“, contó el delantero tras convertirse en el máximo goleador histórico del Inter Miami.
+El Chelsea no va por la Premier League
+--------------------------------------
 
-“Me encantaría volver en la fecha de octubre, estar con mis compañeros, dejar en alto el nombre de mi país, jugar, **hacer goles que es para lo que me llevan**. Ojalá se pueda dar esa linda oportunidad”, complementó el jugador que se formó en Barcelona Sporting Club en el que debutó en 2019.
+A pesar del buen inicio de campaña, el entrenador del Chelsea, **Enzo Maresca**, descartó la posibilidad de competir por el título de la Premier League, reconociendo que **Manchester City y Arsenal** están en un nivel superior.
 
-Este martes 24 de septiembre la periodista Solead Reyes confirmó que Beccacece lo tiene en la órbita de cuerpo técnico de la tricolor.
+“**No creo que podamos competir con City o Arsenal**. No estamos preparados para eso. La diferencia es que el City lleva nueve años con el mismo entrenador y el Arsenal, cinco. Para competir al más alto nivel necesitas tiempo”, añadió el técnico italiano.
 
-![Leonardo Campana antes de un partido de la selección ecuatoriana. Foto: FEF](https://www.elcomercio.com/wp-content/uploads/2022/06/FUSWPhaWAAsQbc6-700x500.jpg)
+**Maresca**, quien llegó este verano tras ascender al Leicester City y ser asistente de Pep Guardiola en el Manchester City, es el cuarto entrenador que pasa por el banquillo del Chelsea en poco más de dos años.
 
-Foto: FEF.
+Leonardo Campana y otras sorpresas de la Selección de Ecuador
+=============================================================
 
-Campana con la Tri
-------------------
+Leonardo Campana, delantero de la Selección de Ecuador, encabeza la lista de sorpresas en la convocatoria de Sebastián Beccacece.
+---------------------------------------------------------------------------------------------------------------------------------
 
-Campana, de 24 años y delantero centro, **tiene una relación intermitente con la Selección** y su presencia ha sido esporádica. En 15 partidos no pudo anotar goles.
+![Leonardo Campana, delantero del Inter de Miami, en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T162521.644.jpg)
 
-El debut fue con **Hernán Darío Gómez con 18 años, 7 meses y 26 días** en una derrota 1-0 con Estados Unidos con 45 minutos. En esa misma gira sumó otros 45 minutos contra Honduras con un empate 0-0.
+La segunda convocatoria de **Sebastián Beccacece** trajo consigo la ausencia de nombres que estuvieron presentes en el primer llamado y, con ello, la inclusión de nuevas figuras. Más de una sorpresa se metió en la lista de convocados de la **Selección de Ecuador** para enfrentar a Paraguay y Uruguay.
 
-El primer partido oficial en **eliminatorias fue el 12 de octubre de 2020 en la victoria 4-2 ante Uruguay** en el Rodrigo Paz Delgado. Gustavo Alfaro lo mandó a la cancha para jugar los cinco minutos finales.
+Antes de anunciar los nombres que formarían parte del combinado nacional durante este viernes 4 de octubre del 2024, **Beccacece** dio una rueda de prensa un día antes. En la charla con los medios de comunicación, este se refirió a la **nueva convocatoria** y a eventuales cambios.
 
-En la **Copa América Brasil 2021** debutó en el empate 2-2 contra Venezuela. Fue titular y completó los 90 minutos.
+### Más noticias:
 
-No te pierdas – El Confesionario
---------------------------------
+* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
+* [¿Cómo jugará la Selección de Ecuador ante Paraguay y Uruguay?](https://www.elcomercio.com/deportes/como-jugara-seleccion-ecuador-uruguay-paraguay.html "¿Cómo jugará la Selección de Ecuador ante Paraguay y Uruguay?")
+* [Pool Gavilánez respalda convocatoria de Gonzalo Valle a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pool-gavilanez-respalda-convocatoria-de-gonzalo-valle-seleccion-de-ecuador.html "Pool Gavilánez respalda convocatoria de Gonzalo Valle a la Selección de Ecuador")
 
-Adam Pearson, el actor que lucha con el estigma de su rostro desfigurado
-========================================================================
+Con respecto al llamado para los jugadores que disputarán las eliminatorias sudamericanas, este señaló que la lista previa de **30 jugadores y cinco invitados** se reduciría a 25 y el número de acompañantes se mantendría. Asimismo, aseguró que, de darse modificaciones, estas responderían a dos o tres jugadores.
 
-El actor ha enfrentado el rechazo desde joven, lo que subraya su compromiso de mejorar la visibilidad de personas con condiciones similares en la industria cinematográfica.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Al momento de entregar la lista final, **Beccacece** cumplió con lo mencionado. Si bien salieron jugadores del total de llamados debido a su reducción, solo tres de los futbolistas que no estuvieron en la **convocatoria** previa fueron incluidos.
 
-![Desde sus primeros años de vida, el actor Adam Pearson tiene esta condición.](https://www.elcomercio.com/wp-content/uploads/2024/10/Actor-e1728055469579.jpg)
+Un arquero, una promesa y Leonardo Campana para la Selección de Ecuador
+-----------------------------------------------------------------------
 
-**Adam Pearson** es un **actor británico** conocido por su papel en la película de 2013 ‘Under the Skin’. El hombre de 39 años ha ganado gran **reconocimiento** en **Hollywood** por su lucha y representación de la discapacidad en el **cine mundial**[.](https://es.wikipedia.org/wiki/Adam_Pearson "https://es.wikipedia.org/wiki/Adam_Pearson")
+Entre los primeros nombres que llamaron la atención al figurar entre los convocados estuvo el de **Gonzalo Valle.** El arquero suplente de **Alexander Domínguez** en Liga de Quito fue citado y estará por segunda vez con la Selección de Ecuador, pues antes había estado presente en un amistoso con Gustavo Alfaro.
+
+Valle se impuso a nombres de otros goleros en mejor momento y con regularidad como **Alexander Domínguez y Pedro Ortiz**. Asimismo, el nombre de **David Cabezas**, figura de El Nacional y la Liga Pro, se volvió tendencia debido a su ausencia.
+
+Al portero albo se le sumó **Óscar Zambrano**, jugador de 20 años del Hull City de Inglaterra. Este ya había sido llamado en la etapa de **Félix Sánchez** para una fecha de eliminatorias y es la primera vez que Beccacece lo tiene en cuenta.
+
+**Leonardo Campana** es el último de los nuevos incluidos y tendrá su revancha con la Tri. Tras un buen momento con el Inter de Miami y consolidarse como el máximo goleador histórico del equipo, este retorna al combinado.
+
+Lista de convocados de la Selección de Ecuador
+----------------------------------------------
+
+**Arqueros**  
+Hernán Galíndez  
+Gonzalo Valle  
+Moisés Ramírez
+
+**Defensas**  
+Xavier Arreaga  
+Piero Hincapié  
+William Pacho  
+Félix Torres  
+Joel Ordóñez  
+Pervis Estupiñán  
+Jhoanner Chávez  
+Ángelo Preciado  
+Cristian Ramírez
+
+**Mediocampistas**  
+Alan Minda  
+Moisés Caicedo  
+Alan Franco  
+Óscar Zambrano  
+Kendry Páez  
+Jeremy Sarmiento  
+Pedro Vite  
+Jhon Yeboah  
+Gonzalo Plata  
+Jhon Mercado
+
+**Delanteros**  
+Enner Valencia  
+Kevin Rodríguez  
+Leonardo Campana  
+
+COE Nacional elimina alerta roja en 15 provincias
+=================================================
+
+El Comité de Operaciones de Emergencia se reunió este viernes 4 de octubre en el ECU 911 de Samborondón.
+--------------------------------------------------------------------------------------------------------
+
+![La ministra Inés Manzano durante la sesión del COE Nacional](https://www.elcomercio.com/wp-content/uploads/2024/10/coe-nacional.jpg)
+
+El Comité de Operaciones de Emergencia Nacional (**COE**) se reunió la tarde de este viernes 4 de octubre de 2024, para analizar el déficit hídrico, sequía e incendios forestales que afectan a **Ecuador**.
+
+En la sesión realizada en el **ECU 911** de Samborondón, en la provincia de Guayas, las autoridades del Gobierno tomaron algunas **decisiones** sobre estas problemáticas.
 
 ### Más noticias
 
-* [Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador](https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html "Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador")
-* [¿Qué es la eutanasia? Los factores que inciden en Ecuador y otros países](https://www.elcomercio.com/sociedad/que-es-la-eutanasia-los-factores-que-inciden-en-en-ecuador-y-otros-paises.html "¿Qué es la eutanasia? Los factores que inciden en Ecuador y otros países")
-* [En el Día del Corazón conoce sobre salud cardiovascular y hábitos saludables](https://www.elcomercio.com/tendencias/salud/dia-mundial-corazon-salud-efemeride.html "En el Día del Corazón conoce sobre salud cardiovascular y hábitos saludables ")
+* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
 
-Pearson se graduó de la **Universidad** de **Brighton** con una **licenciatura** en **administración** de **empresas** y aunque su paso por el mundo del **entretenimiento** se dio hace pocos años, cuando fue elegido para participar junto con Scarlett Johansson en la película de Jonathan Glazer, ‘Under the Skin’, se ha mantenido siendo un **símbolo** de **activismo**.
+Alerta roja se reduce en 15 provincias
+--------------------------------------
 
-El actor es llamado ‘deforme, monstruo o mutante’, debido a una rara **condición genética** que ha afectado gravemente su apariencia física, por lo que ha aprovechado su fama para trabajar en el estigma de la **desfiguración**.
+**Inés Manzano**, ministra del Ambiente y quien preside el COE, informó que se reduce la **alerta roja** por emergencias de 19 a cuatro provincias.
 
-Adam Pearson y su lucha contra el estigma de la neurofibromatosis
------------------------------------------------------------------
+Así, **Manabí, Santa Elena, El Oro y Galápagos** permanecerán con esta advertencia, hasta nuevo aviso.
 
-**Adam Pearson** se describe así mismo como un **sobreviviente** del **odio público**, que le ha traído rechazo por causa de su inusual **enfermedad**: la **neurofibromatosis**.
+Además, se analizará la situación en **seguridad alimentaria** en estos lugares.
 
-La Clínica Mayo menciona que la **neurofibromatosis** es una **afección genética** que causa cambios en la pigmentación de la **piel** y **tumores** en el tejido nervioso. Indica que este padecimiento es un **trastorno genético** del **sistema nervioso** que afecta la manera en que las **células** crecen y se forman y provoca el crecimiento de **tumores** en los **nervios**.
+### Provincias sin alerta roja:
 
-La rara **condición genética** que tiene el actor le ha provocado el **crecimiento** de **gruesos tumores** en todo su rostro, una afección similar a la vista en la película ‘El hombre elefante’.
+Estas son las provincias sin declaratoria de **alerta roja**:
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/CwAkeKXINnh/?utm_source=ig_embed&utm_campaign=loading)
+1. Azuay
+2. Bolívar
+3. Cañar
+4. Carchi
+5. Cotopaxi
+6. Imbabura
+7. Loja
+8. Morona Santiago
+9. Napo
+10. Orellana
+11. Pastaza
+12. Pichincha
+13. Sucumbíos
+14. Tungurahua
+15. Zamora Chinchipe
+
+Monitoreo permanente a hidroeléctricas
+--------------------------------------
+
+La Ministra señaló que el Comité se mantendrá en sesiones permanentes.
+
+Los funcionarios monitorearán las condiciones de todas las **centrales hidroeléctricas** del país, especialmente de las más importantes: **Mazar**, **Coca Codo Sinclair**, Minas de San Francisco y Agoyán.
+
+Finalmente, en su corta intervención, Manzano reiteró el pedido a la ciudadanía y empresas privadas de utilizar **generadores eléctricos** y de evitar el uso del suelo en **zonas de riesgo**.
+
+Crisis hídrica e incendios forestales
+-------------------------------------
+
+El sábado 21 de septiembre, el COE Nacional, a través de la Secretaría de Gestión de Riesgos declaró la emergencia (alerta roja) en **19 provincias** del Ecuador por los múltiples incendios forestales y sequía.
+
+Quito fue una de las ciudades más afectadas por esta primera problemática. El **incendio forestal** registrado en **Guápulo**, entre el martes 24 y jueves 26 de septiembre, destruyó viviendas y causó el daño de más de 146 hectáreas.
+
+Esta emergencia causó la pérdida de más **20 millones de dólares**.
+
+Mientras que en la capital, al igual que el resto del país, la sequía, causada en gran parte por la falta de lluvias, generó que el Gobierno racionalice el servicio eléctrico con **cortes de luz** de hasta **12 horas**.
+
+En algunos sectores, las empresas de **agua potable** suspendieron temporalmente el servicio.
+
+Proyecto económico urgente de energía ya tiene asignada comisión para trámite en Asamblea
+=========================================================================================
+
+La Asamblea tiene 30 días para tramitar el proyecto económico urgente de energía.
+---------------------------------------------------------------------------------
+
+![El proyecto económico urgente de energía fue calificado y ya tiene comisión para el trámite en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-13.jpg)
+
+Con la calificación del **Consejo de Administración Legislativa (CAL)**, la **Asamblea** inició el trámite del **proyecto de ley económico urgente de energía**, este viernes 4 de octubre de 2024.
+
+El CAL definió la comisión que tratará el proyecto económico urgente enviado por presidente **Daniel Noboa**, a finales de septiembre.
+
+### Más noticias:
+
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
+
+El Ejecutivo denominó al proyecto como Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables.
+
+El objetivo de la iniciativa legal es subir la capacidad de generación de energía del sector privado de 10 megavatios (MW) a 100 MW.
+
+Noboa recordó que, en enero, presentó el proyecto de **Ley de Competitividad Energética** y la Asamblea no vio mejor opción que ponerle un techo de 10 MW a la generación de energía en el sector privado.
+
+“Si necesitan que les recordemos quiénes pusieron ese techo, con mucho gusto los ayudamos”, señaló Presidente en sus redes sociales.
+
+La Asamblea tiene 30 días para pronunciarse sobre la propuesta del Gobierno, si no lo hace, el texto entrará en vigencia por el Ministerio de la Ley.
+
+Comisión de la Asamblea que tramitará proyecto económico urgente de energía
+---------------------------------------------------------------------------
+
+El **Consejo de Administración Legislativa (CAL)** calificaron a trámite el proyecto de ley económico urgente de energía por **unanimidad**.
+
+El CAL dispuso que el proyecto de ley sea **tramitado por la Comisión de Desarrollo Económico**.
+
+Esta comisión legislativa está dirigida por la asambleísta oficialista **Valentina Centeno** (ADN).
+
+La Comisión de Desarrollo Económico también tramitó la “Ley No Más Apagones” promocionada por el Ejecutivo, en enero.
+
+El nuevo proyecto también propone dar **incentivos** al sector privado por generación eléctrica.
+
+Esto, con fuentes de energía renovable no convencional, e implementar **acuerdos de compra de energía.**
+
+Dragonas IDV debuta con un valioso empate en la Libertadores Femenina
+=====================================================================
+
+Dragonas IDV consiguió un punto crucial en su debut en la Copa Libertadores Femenina.
+-------------------------------------------------------------------------------------
+
+![Nayely Bolaños (i) y Analiz Zambrano festejan el primer gol de Dragonas IDV en la Copa Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T184026.797.jpg)
+
+En su primer partido de **Copa Libertadores Femenina, Dragonas IDV** sorprendió al lograr un empate 1-1 frente a Ferroviaria de Brasil, bicampeonas del torneo (2015 y 2020). El encuentro se disputó en Asunción, Paraguay, en el marco de la primera jornada de la fase de grupos.
+
+A pesar de ser novatas en este escenario, el **equipo ecuatoriano mostró gran personalidad** y no se dejó intimidar por las experimentadas brasileñas.
+
+### Más noticias:
+
+* [Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina](https://www.elcomercio.com/deportes/final-dragonas-barcelona-superliga-campeonas.html "Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina")
+* [Dragonas Independiente debuta en la Copa Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/independiente-dragonas-copa-libertadores-femenina.html "Dragonas Independiente debuta en la Copa Libertadores Femenina")
+* [Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/ecuador-conoce-rivales-para-copa-libertadores-femenina.html "Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina")
+
+Con este empate, **Dragonas IDV inicia con buen pie su camino en el Grupo C**, sumando su primer punto y colocándose momentáneamente en la cima, a la espera del resultado entre Peñarol de Uruguay y Santa Fe de Colombia.
+
+> 🚂💨 A luta das [@guerreirasgrena](https://twitter.com/guerreirasgrena?ref_src=twsrc%5Etfw) pelo tri começou com um empate!  
+>   
+> 🟰💥 ¡Todo igual para [@guerreirasgrena](https://twitter.com/guerreirasgrena?ref_src=twsrc%5Etfw) y [@DragonasIDV](https://twitter.com/DragonasIDV?ref_src=twsrc%5Etfw) en el estreno de la CONMEBOL [#LibertadoresFEM](https://twitter.com/hashtag/LibertadoresFEM?src=hash&ref_src=twsrc%5Etfw)![#LaGloriaEsDeEllas](https://twitter.com/hashtag/LaGloriaEsDeEllas?src=hash&ref_src=twsrc%5Etfw) | [#AGlóriaÉDelas](https://twitter.com/hashtag/AGl%C3%B3ria%C3%89Delas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/hlEE4OTVv9](https://t.co/hlEE4OTVv9)
 > 
-> [Una publicación compartida por Adam Pearson (@adam\_pearson\_tv)](https://www.instagram.com/p/CwAkeKXINnh/?utm_source=ig_embed&utm_campaign=loading)
+> — CONMEBOL Libertadores Femenina (@LibertadoresFEM) [October 4, 2024](https://twitter.com/LibertadoresFEM/status/1842349349315002393?ref_src=twsrc%5Etfw)
 
-Pearson ha contado que se ha acostumbrado a vivir con la **neurofibromatosis**, pero cada vez que sale a las calles, la **gente** no le quita la mirada de encima, pues muchos sienten ‘**curiosidad**’, otros se burlan y hay quienes le tienen lástima.
+Analiz Zambrano, de villana a héroe
+-----------------------------------
 
-Revivir el rechazo y experiencias de bullying en la infancia
+El primer tiempo fue equilibrado, con ambos equipos buscando abrir el marcador, pero sin generar ocasiones de verdadero peligro.
+
+La intensidad creció en la segunda mitad, cuando Ferroviaria se adelantó en el minuto 54, en una jugada desafortunada para **Dragonas IDV**.
+
+**Analiz Zambrano**, en su intento de despejar un centro bajo presión, desvió el balón accidentalmente hacia su propio arco, sorprendiendo a su compañera, la guardameta Andrea Vera, quien no pudo evitar el gol.
+
+A pesar de este autogol, Zambrano no se dejó abatir. Al minuto 77, la misma jugadora se reivindicó al marcar el **gol del empate**. Tras un tiro de esquina, conectó de cabeza y envió el balón al fondo de las redes, lo que la **llevó a golpear su pecho en señal de determinación**.
+
+> Analiz 🔥 [pic.twitter.com/poWcpNR03I](https://t.co/poWcpNR03I)
+> 
+> — DragonasIDV (@DragonasIDV) [October 4, 2024](https://twitter.com/DragonasIDV/status/1842346986680234116?ref_src=twsrc%5Etfw)
+
+Momento polémico y cierre del partido
+-------------------------------------
+
+En los últimos minutos, Ferroviaria presionó buscando llevarse la victoria, y una jugada al borde del área ecuatoriana generó polémica.
+
+Hubo dudas sobre si el balón había cruzado completamente la línea de gol en un disparo, pero la arquera **Andrea Vera, con una gran reacción, aseguró que no**. La revisión de las cámaras tampoco fue concluyente, lo que permitió que Dragonas IDV mantuviera el empate.
+
+Este resultado es histórico para el conjunto ecuatoriano, que demostró estar a la altura del desafío. A lo largo del partido, **Dragonas IDV** tuvo más control del balón y realizó más remates que su rival, lo que sorprendió a las brasileñas, una de las múltiples campeonas del certamen.
+
+Próximo partido de Dragonas IDV
+-------------------------------
+
+Su siguiente partido por la Copa Libertadores Femenina será el próximo lunes 7 de octubre. Dragonas IDV se medirán ante Santa Fe de Colombia, a las 18:00 (hora Ecuador) por la segunda fecha del torneo.
+
+Cortes de luz en Portoviejo el sábado 5 de octubre del 2024
+===========================================================
+
+Los cortes de luz se llevarán a cabo en dos franjas en Portoviejo, capital de Manabí, durante este sábado 5 de octubre del 2024.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Los cortes de luz afectan a Portoviejo y al país durante el sábado 05 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/2030407-scaled.jpg)
+
+Los cortes de luz en Ecuador continúan y este **sábado 5 de octubre del 2024** hay horarios determinados en Manabí. En el caso de **Portoviejo**, capital de la provincia, estos se llevarán a cabo en dos franjas distintas.
+
+La **Corporación Nacional de Electricidad** (CNEL EP) dio a conocer las ciudades y las horas en las cuales habrá la suspensión de suministro eléctrico durante el fin de semana en el país. La agenda, sin embargo, será variable en función de los días y va a partir del **4 al 6 de octubre.**
+
+### Más noticias:
+
+* [Horarios de cortes de luz en Bolívar para el sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-de-cortes-de-luz-en-bolivar-para-el-sabado-5-de-octubre.html "Horarios de cortes de luz en Bolívar para el sábado 5 de octubre")
+* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
+* [Horarios de cortes de luz en Tulcán del sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-tulcan-sabado-5-octubre.html "Horarios de cortes de luz en Tulcán del sábado 5 de octubre")
+
+Los cortes en Portoviejo se llevarán a cabo por tan solo **dos horas** dentro de los dos espacios mencionados. Pueden ser tanto en la mañana como en la noche o la madrugada. Asimismo, es posible que estos se extiendan por **cuatro horas** durante un solo intervalo[.](https://en.wikipedia.org/wiki/Portoviejo "https://en.wikipedia.org/wiki/Portoviejo")
+
+En el caso de la capital manabita, la primera franja en la cual se producirán los cortes de luz durante el sábado 5 de octubre será entre las **00:00 y 04:00**. La segunda, entre las **16:00 y 18:00.**
+
+Sectores a los que afectarán los cortes de luz en Portoviejo
 ------------------------------------------------------------
 
-Además, en diálogo con la ‘BBC’ aseguró que no es algo nuevo para él, pues desde muy corta edad fue víctima del **rechazo** en su escuela, donde cada día sintió miedo de los “delitos de odio por **discapacidad**”.  
-En diálogo con ‘The Mirror’ Adam Pearson recordó que durante su **adolescencia**, uno de sus compañeros lo convenció de que un profesor lo operaría en otro salón y cuándo ingresó fue atacado por sus compañeros.
+* Avenida 5 De Junio
+* Avenida de El Ejército
+* Avenida Pablo Zamora
+* Avenida Reales Tamarindos
+* Avenida Urbina
+* Autopista Manabí Guillén (paso lateral)
+* Banco del Pacífico
+* Bloques de la Policía
+* Calle 9 de Octubre
+* Calle Alhajuela
+* Calle América
+* Calle América (Parque de la Madre)
+* Calle Atanasio Santos
+* Calle Che Guevara
+* Calle Pedro Guala
+* Calle Quito
+* Calle Vicente Macías
+* Cementerio Picoazá
+* Cevichería Laurita
+* Centro Comercial CC1
+* Ciudadela Bellavista
+* Ciudadela Briones
+* Ciudadela Fabián Palacios
+* Ciudadela Las Orquídeas
+* Ciudadela La Paz
+* Ciudadela La Catedral
+* Ciudadela Los Cerezos
+* Ciudadela Los Jazmines
+* Ciudadela Los Olivos
+* Ciudadela Los Tamarindos
+* Ciudadela Nueva California
+* Ciudadela San Alejo
+* Ciudadela San Cristóbal
+* Ciudadela San Jorge
+* Ciudadela Universitaria
+* Estadio Picoazá
+* Hospital del IESS
+* Iglesia La Catedral
+* Mercado Central # 1
+* Museo Jaboncillo
+* Paseo Shopping
+* Terminal Terrestre
+* Colegio Teniente Hugo Ortiz
+* Urbanización Jardines del Norte
+* Urbanización Los Álamos
+* Urbanización Santa Gema
+* Universidad Católica
+* Universidad Técnica de Manabí
+* Vía Manta.
 
-“Me fui a casa con saliva por toda la chaqueta. Fue horrible”, recordó, asegurando que el único consuelo era contar las semanas restantes hasta las siguientes **vacaciones**.
+Cortes de luz del 4 al 6 de octubre del 2024 en Manabí
+------------------------------------------------------
 
-“‘Solo faltan siete días’, decía \[mi madre\], y yo me despertaba todas las mañanas temiendo las horas que me esperaban”.
+Estos son los horarios de los cortes de luz en Latacunga, este 5 de octubre de 2024
+===================================================================================
 
-Casos de la neurofibromatosis
+Los cortes de luz continuarán este sábado 5 de octubre de 2024 en todo el país, en medio de la crisis energética por la que atraviesa. En los siete cantones de la provincia de Cotopaxi los racionamientos eléctricos serán de cuatro y cinco horas al día. Más noticias En Latacunga, capital de la provincia, los \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se retomaron debido a la escasa generación en las principales centrales hidroeléctricas del país. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-24-sep.jpg)
+
+Los **cortes de luz** continuarán este sábado 5 de octubre de 2024 en todo el país, en medio de la crisis energética por la que atraviesa. En los siete cantones de la provincia de **Cotopaxi** los racionamientos eléctricos serán de cuatro y cinco horas al día.
+
+### Más noticias
+
+* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
+* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
+* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
+
+En **Latacunga**, capital de la provincia, los apagones empezarán a las 00:00 y terminarán a las 19:00, en períodos de cuatro a cinco horas, dependiendo del sector.
+
+**Revise aquí el cronograma de su zona**:
+
+Los cortes de luz en Ecuador
+----------------------------
+
+El Gobierno de **Daniel Noboa** retomó los cortes de luz programados el pasado 22 de septiembre. Esto debido a la grave sequía, que impide el funcionamiento normal de las hidroeléctricas del país.
+
+Inicialmente, los apagones fueron de 12 horas al día. Actualmente tienen un promedio de 6 horas de racionamiento. La reducción en los períodos de los cortes responde a un mejoramientos de la situación hídrica. Además, para que haya mayor actividad y movilización de la población, señalaron las autoridades.
+
+Asimismo, el Gobierno informó que Ecuador enfrenta la peor sequía de los últimas seis décadas. A este factor climático hay que sumarle los años de “abandono y de corrupción en la contratación de obras del sector eléctrico”. Todo esto genera problemas en el normal suministro de electricidad a los hogares.
+
+Mientras dure la crisis energética, todos los jueves se anunciará los horarios de los cortes de luz para la siguiente semana. La programación estará a cargo de cada una de las nueve empresas distribuidoras de energía del Ecuador. [Revise aquí los horarios de todo el país](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/").
+
+Horarios de cortes de luz en Bolívar para el sábado 5 de octubre
+================================================================
+
+Los cortes de luz programados en Ecuador afectarán a la provincia de Bolívar con interrupciones de hasta cuatro horas.
+----------------------------------------------------------------------------------------------------------------------
+
+![Bolívar tendrá cortes de luz este sábado 5 de octubre hasta un máximo de cuatro horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T181549.479.jpg)
+
+La **Corporación Nacional de Electricidad** (CNEL EP) ha anunciado los cortes de luz que afectarán a la **provincia de Bolívar** este sábado 5 de octubre, como parte de los cortes energéticos programados a nivel nacional que han tenido lugar en las últimas semanas.
+
+El **horario de los cortes** se extiende desde el 4 de octubre hasta el domingo 6 de octubre, con variaciones dependiendo de los sectores. El tiempo máximo sin luz por día **será de cuatro horas**.
+
+### Más noticias:
+
+* [Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-azogues-canar-sabado-de-octubre.html "Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre")
+* [Horarios de cortes de luz en Santa Elena del sábado 5 de octubre](https://www.elcomercio.com/actualidad/cortes-luz-santa-elena-ecuador.html "Horarios de cortes de luz en Santa Elena del sábado 5 de octubre ")
+* [Horarios de cortes de luz en Loja para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-loja-sbado-5-octubre.html "Horarios de cortes de luz en Loja para este sábado 5 de octubre")
+
+En Bolívar, los cortes de energía se organizarán en **dos franjas horarias o una sola interrupción de cuatro horas**, distribuidas en los siete cantones de la provincia.
+
+Zonas afectadas por los cortes de luz en Bolívar
+------------------------------------------------
+
+Los c**antones que se verán afectados**, según la Unidad de Negocio Bolívar del CNEL EP, son: Caluma, Chillanes, Chimbo, Echeandía, Guaranda, Las Naves y San Miguel.
+
+Es importante señalar que **cada cantón no tendrá un horario fijo** y podría experimentar múltiples interrupciones según el sector. Por ello, se recomienda revisar cuidadosamente el documento de programación de cortes compartido por la Corporación Nacional de Electricidad (CNEL EP).
+
+[CNEL BOLÍVAR 04 – 06 OCT](https://www.elcomercio.com/wp-content/uploads/2024/10/CNEL-BOLIVAR-04-06-OCT.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/10/CNEL-BOLIVAR-04-06-OCT.pdf)
+
+Impacto de los cortes eléctricos en el contexto nacional
+--------------------------------------------------------
+
+Estos cortes de luz forman parte de una serie de **apagones programados** que han afectado a todo el país desde mediados de 2024, como consecuencia de la disminución en los niveles de las centrales hidroeléctricas. Esto ha obligado a las autoridades a implementar medidas de ahorro energético en varias provincias.
+
+Sin embargo, los cortes de este fin de semana se han reducido en comparación con las semanas anteriores, debido a la **mejora en los niveles de agua** en las principales hidroeléctricas del país.
+
+Horarios de cortes de luz en Tulcán del sábado 5 de octubre
+===========================================================
+
+Los cortes de luz en Tulcán están definidos para el sábado 5 de octubre del 2024. Hay varios horarios.
+------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se mantendrán en Tulcán este sábado 5 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/tulcan.jpg)
+
+**Emelnorte** estableció los horarios de **cortes de luz** en **Tulcán**, capital de la provincia de **Carchi**, para el sábado 5 de octubre de 2024.
+
+Esta medida es parte de un cronograma que abarca desde el viernes 4 hasta el domingo 6 de octubre.
+
+### Más noticias:
+
+* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
+* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+
+Los cortes programados para este sábado 5 de octubre serán de hasta **cuatro horas**, distribuidos en dos franjas horarias.
+
+En algunos sectores de Tulcán, los cortes se llevarán a cabo de **02:00 a 04:00** y de **16:00 a 18:00**.
+
+Esta estrategia busca minimizar el impacto en la población durante los horarios de mayor actividad y movilización.
+
+Cortes de luz en Tulcán este sábado 5 de octubre del 2024
+---------------------------------------------------------
+
+Los horarios establecidos por Emelnorte para la capital carchense establece cortes hasta de cuatro horas.
+
+Esas horas están en una sola franja o dividida en dos.
+
+A continuación, los horarios por franjas y sectores:
+
+El anuncio del Ministerio de Energía y Minas, realizado el jueves 3 de octubre, subraya que estos nuevos horarios se implementan para facilitar una mejor gestión del servicio eléctrico en un periodo crítico.
+
+El Gobierno había anticipado esta reducción desde el 1 de octubre, destacando que es posible gracias a las recientes lluvias que han mejorado los caudales en las hidroeléctricas.
+
+Los residentes de Tulcán deben estar preparados para estos cortes y tomar las precauciones necesarias, como asegurar que sus dispositivos electrónicos estén cargados y planificar sus actividades diarias en consecuencia.
+
+Tulcán
+------
+
+Tulcán es una ciudad fronteriza ubicada al norte del Ecuador, a una altitud de **2980 m** sobre el nivel del mar.
+
+Su ubicación estratégica cerca de la frontera con Colombia ha convertido a Tulcán en un importante centro comercial y administrativo, además de ser parte integral en las relaciones entre Tulcán e Ipiales.
+
+La ciudad es conocida por su clima frío andino. Entre sus principales actividades económicas se destacan el comercio, la agricultura y la ganadería.
+
+Horarios de cortes de luz en Ambato del sábado 5 de octubre
+===========================================================
+
+Los cortes de luz en Ambato tiene diferentes franjas horarias.
+--------------------------------------------------------------
+
+![Cortes de luz en la ciudad de Ambato.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175938.389.jpg)
+
+La **Empresa Eléctrica Ambato** estableció los horarios de [cortes de luz](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html") en la capital para este sábado 5 de octubre de 2024.
+
+### Más noticias
+
+* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+
+Los ciudadanos en Ambato podrán consultar los horarios de cortes de luz, de acuerdo a su sector en este sitio web **https://www.eeasa.com.ec/suspensiones-programadas/**
+
+Alternativas
+------------
+
+Los cronograma de cortes de luz está programado desde el viernes 4 al domingo 6 de octubre de 2024. En este contexto los ciudadanos personas optan por alternativas como usar **generadores eléctricos**, en los hogares también hacen uso de las velas.
+
+Condiciones hidrológicas
+------------------------
+
+La **Empresa Eléctrica Ambato** recuerda que “debido a la mejora de las condiciones hidrológicas, los cortes de energía pueden reducirse dentro del periódo de corte programado”.
+
+Ambato y horarios
+-----------------
+
+Los cortes de luz en Ambato, serán por ejemplo, entre las 00:00 – 04:00, 01:00 -05:00 o de 06:00 – 10:00, 16:18. Otras franjas horarias se contemplan desde las 16:00 – 18:00, 17:00 – 19:00.
+
+A continuación podrá establecer los cortes de luz en la ciudad de Ambato, de acuerdo a su sector.
+
+  
+
+  
+
+  
+
+Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre
+==========================================================================
+
+Las empresas eléctricas Centro Sur y Azogues difundieron los horarios para los cantones Azogues, Déleg, Suscal, El Tambo, La Troncal y Cañar.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cantones de Cañar son atendidos por las empresas eléctricas Centro Sur y Azogues..](https://www.elcomercio.com/wp-content/uploads/2024/10/luz-guayaquil.jpg)
+
+La **Empresa Eléctrica Regional Centro Sur** anunció los cortes de luz que realizará este sábado 5 de octubre de 2024 en los cantones **Cañar, El Tambo, Suscal y La Troncal**, ubicados en la provincia de **Cañar**.
+
+Esta distribuidora atiente estos cantones. En cambio, la **Empresa Eléctrica Azogues** opera en **Azogues**, que es la capital provincial y el cantón **Déleg**.
+
+La **Centro Sur** recordó que los horarios pueden reducirse en función de las condiciones hidrometereológicas en las centrales eléctricas.
+
+### Más noticias
+
+* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
+* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
+* [Horarios de cortes de luz en Loja para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-loja-sbado-5-octubre.html "Horarios de cortes de luz en Loja para este sábado 5 de octubre")
+
+Los cortes en La **Troncal** se dividieron en cinco horarios. Van de 01:00 a 04:00, de 03:00 a 07:00 y entre las 04:00 y las 08:00. También, desde las 06:00 10:00.
+
+En los cantones **Suscal** y **Cañar** será de 06:00 a 10:00. En El Tambo desde las 03:00 a 07:00 
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/IMG_7255-586x1024.jpg)
+
+Los cortes en Azogues y Déleg
 -----------------------------
 
-La **neurofibromatosis** es causada por **mutaciones** en ciertos **genes**. Estas **mutaciones** se pueden heredar de los padres o pueden ocurrir de forma espontánea.
+Los cortes en la capital provincia empezarán a las 00:00 y finalizarán a las 19:00. Azogues fue dividida en nueve sectores y en cada uno se irá la luz durante dos horas. Esa información la difundió la Empresa Eléctrica Azogues.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/CBIQEsOpWss/?utm_source=ig_embed&utm_campaign=loading)
+Los sectores se pueden conocer mediante este link: [https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/](https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/ "https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/")
+
+En el cantón **Déleg**, ubicado en el sur de **Cañar** y en el límite con **Azuay**, los cortes serán de 00:00 a 02:00 y entre las 02:00 y las 04:00.
+
+Cuarta más buscada de Pichincha fue detenida en Santa Elena
+===========================================================
+
+La mujer se encontraba prófuga de la justicia por el presunto delito de abuso sexual de una estudiante de 13 años.
+------------------------------------------------------------------------------------------------------------------
+
+![La mujer fue capturada durante un operativo realizado en Santa Elena](https://www.elcomercio.com/wp-content/uploads/2024/10/mas-buscada.jpg)
+
+La Policía Nacional detuvo a **Flor del Rocío L. A.**, considerada como la cuarta **más buscada** de la provincia de Pichincha.
+
+La captura se realizó durante el operativo **Fénix 341**, realizado en el cantón La Libertad, en Santa Elena, este viernes 4 de octubre de 2024.
+
+### Más noticias
+
+* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+* [Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024](https://www.elcomercio.com/actualidad/quito/obras-viales-cerraran-calles-quito-15-diciembre-2024.html "Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024")
+
+Los uniformados identificaron a la **fugitiva** tras varias diligencias de investigación, y finalmente la aprehendieron en el sector de la **Virgen del Carmen**.
+
+La justicia requería a la mujer de 34 años por el presunto delito de **abuso sexual** en contra de una menor de edad.
+
+La ciudadana aprovechó su trabajo como docente de una unidad educativa en Quito para presuntamente abusar de una estudiante de **13 años**.
+
+Tras emitida la orden de captura, la policía incluyó a Flor del Rocío en el programa de los Más Buscados en junio de **2023**.
+
+Los gendarmes trasladaron a la detenida a **Quito**, donde fue puesta a órdenes de las autoridades competentes.
+
+> DETENCIÓN DE LA CUARTA MÁS BUSCADA DE PICHINCHA POR DELITOS DE VIOLENCIA DE GÉNERO  
+>   
+> Mediante técnicas y diligencias investigativas, en el cantón Salinas, [#SantaElena](https://twitter.com/hashtag/SantaElena?src=hash&ref_src=twsrc%5Etfw), fue capturada Flor L., requerida por la justicia, quien figura dentro del programa [#LosMásBuscados](https://twitter.com/hashtag/LosM%C3%A1sBuscados?src=hash&ref_src=twsrc%5Etfw), procesada por… [pic.twitter.com/3rO3QYifrU](https://t.co/3rO3QYifrU)
 > 
-> [Una publicación compartida por Adam Pearson (@adam\_pearson\_tv)](https://www.instagram.com/p/CBIQEsOpWss/?utm_source=ig_embed&utm_campaign=loading)
+> — Policía Ecuador (@PoliciaEcuador) [October 4, 2024](https://twitter.com/PoliciaEcuador/status/1842297678178157031?ref_src=twsrc%5Etfw)
+
+Extorsionador sexual, detenido en Quito
+---------------------------------------
+
+En otro operativo realizado en Quito este viernes, la Policía capturó a un hombre que **extorsionaba sexualmente** a través de **redes sociales**.
+
+El individuo exigía dinero a cambio de no difundir **fotos y videos** privados.
+
+Los uniformados recuperaron varios indicios que servirán para la investigación, entre ellos:
+
+* 1 motocicleta
+* 2 celulares
+* Dinero en efectivo
+
+El individuo fue entregado a las autoridades, quienes resolverán su situación legal.
+
+> LABORES OPERATIVAS  
+> Se aprehendió a un ciudadano por presunta extorsión sexual mediante redes sociales, se exigía dinero.  
+>   
+> Indicios:  
+> 1 motocicleta retenida  
+> 2 chips de celulares  
+> 2 terminales móviles  
+> Dinero en efectivo[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EO2EyjksY0](https://t.co/EO2EyjksY0)
+> 
+> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 4, 2024](https://twitter.com/PoliciaDMQZona9/status/1842218453127528460?ref_src=twsrc%5Etfw)
+
+Horarios de cortes de luz en Santa Elena del sábado 5 de octubre 
+=================================================================
+
+Los cortes de luz en Santa Elena para el sábado 5 de octubre serán intercalados.
+--------------------------------------------------------------------------------
+
+![La provincia de Santa Elena enfrentará cortes de luz programados debido a la crisis energética en Ecuador. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-1.jpg)
+
+El **sábado 5 de octubre** de 2024, la **provincia de Santa Elena** en Ecuador experimentará **cortes de luz** programados debido a la **crisis energética** que afecta al país. Estos cortes son parte de un plan implementado por el **Gobierno** para gestionar la **demanda eléctrica**. 
 
 ### Más noticias
 
-* [![¿Qué tan fuerte será el cordonazo de San Francisco en Quito?](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-2.jpg)](https://www.elcomercio.com/actualidad/quito/quito-cordonazo-san-francisco-lluvias.html)
-    
-    [¿Qué tan fuerte será el cordonazo de San Francisco en Quito?](https://www.elcomercio.com/actualidad/quito/quito-cordonazo-san-francisco-lluvias.html)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Hoy 4 de octubre es el día de San Francisco de Asís y en Quito siempre se espera que llueva de manera torrencial. ¿Qué dice en Inamhi?
-    
-* [![Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024](https://www.elcomercio.com/wp-content/uploads/2024/10/obras-Quito.jpg)](https://www.elcomercio.com/actualidad/quito/obras-viales-cerraran-calles-quito-15-diciembre-2024.html)
-    
-    [Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024](https://www.elcomercio.com/actualidad/quito/obras-viales-cerraran-calles-quito-15-diciembre-2024.html)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Los trabajos en las vías de Quito generan cierres en la Mariana de Jesús, 6 de Diciembre, Eloy Alfaro, Alonso de Angulo y muchas más
-    
-* [![Autopista General Rumiñahui tendrá cierre total este fin de semana](https://www.elcomercio.com/wp-content/uploads/2024/10/Autopista-General-Ruminahui.jpg)](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cierre-total-fin-de-semana-octubre.html)
-    
-    [Autopista General Rumiñahui tendrá cierre total este fin de semana](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cierre-total-fin-de-semana-octubre.html)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    A través de esta obra circularán alrededor de 4 500 usuarios diarios y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños.
-    
-* [![Empresa Eléctrica Quito anunció suspensión temporal del sistema de pagos](https://www.elcomercio.com/wp-content/uploads/2024/10/empresa-electrica.png)](https://www.elcomercio.com/actualidad/quito/empresa-electrica-quito-anuncio-suspension-temporal-sistema-pagos.html)
-    
-    [Empresa Eléctrica Quito anunció suspensión temporal del sistema de pagos](https://www.elcomercio.com/actualidad/quito/empresa-electrica-quito-anuncio-suspension-temporal-sistema-pagos.html)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    La Empresa Eléctrica Quito (EEQ) emitió un comunicado oficial en el que informó a sus usuarios sobre una suspensión temporal de su plataforma comercial.
-    
+* [Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-en-quito-tienen-varios-horarios.html "https://www.elcomercio.com/actualidad/quito/cortes-luz-en-quito-tienen-varios-horarios.html")
+* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html")
 
-Israel dice que 7 fallecidos en el bombardeo de Tulkarem eran ‘terroristas’
-===========================================================================
+**Detalles de los cortes de luz en Santa Elena**  
+--------------------------------------------------
 
-Se trata del ataque israelí más mortífero contra Cisjordania desde la Segunda Intifada (2000-2005).
----------------------------------------------------------------------------------------------------
+Los **cortes de luz** se llevarán a cabo en **bloques horarios** **según el sector**, de acuerdo con información proporcionada por la **Corporación Nacional de Electricidad [CNEL EP](https://www.cnelep.gob.ec/tag/corte-de-energia/ "https://www.cnelep.gob.ec/tag/corte-de-energia/")**: 
 
-![El cuerpo del ejército israelí se mueve en el sur del Líbano, visto desde la Alta Galilea, en el norte de Israel, el 4 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/90151bcdda4cfc47112320fa30091ab4281b4c1f.jpg)
+> 🚨 IMPORTANTE  
+>   
+> Consulta los horarios y sectores de las 11 Unidades de Negocio de [#CNELEP](https://twitter.com/hashtag/CNELEP?src=hash&ref_src=twsrc%5Etfw) que tendrán interrupción del servicio eléctrico del 04 al 06 de octubre de 2024.  
+>   
+> Horarios por Unidades de Negocio aquí:  
+>   
+> Bolívar: [https://t.co/X6QFhGD8mu](https://t.co/X6QFhGD8mu)  
+> El Oro: [https://t.co/vLhKjnipGU](https://t.co/vLhKjnipGU)… [pic.twitter.com/XDXNcJtcce](https://t.co/XDXNcJtcce)
+> 
+> — CNEL EP (@CNEL\_EP) [October 3, 2024](https://twitter.com/CNEL_EP/status/1841951406745383410?ref_src=twsrc%5Etfw)
 
- El [Ejército israelí](https://www.elcomercio.com/actualidad/mundo/israel-bombardea-centro-beirut.html "https://www.elcomercio.com/actualidad/mundo/israel-bombardea-centro-beirut.html") aseguró este viernes 4 de octubre de 2024, matar a **“siete terroristas”** en el bombardeo que lanzó contra un café de la ciudad de **Tulkarem**, en el norte de Cisjordania.
+Estos horarios son parte de un esfuerzo por **reducir la duración total de los apagones**, priorizando los **cortes en la madrugada y la noche** para minimizar el impacto en las actividades diarias. 
+
+**Sectores de Santa Elena** 
+----------------------------
+
+Sábado 5 de octubre de 2024 / 00:00 a 04:00 / 18:00 a 19:00 
+
+![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-2-1024x683.jpg)
+
+Foto: CNEL.
+
+![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-3-1024x683.jpg)
+
+Foto: CNEL.
+
+Sábado 5 de octubre de 2024 / 04:00 a 08:00 
+
+![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-4-1024x683.jpg)
+
+Foto: CNEL.
+
+![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-5-1024x683.jpg)
+
+Foto: CNEL.
+
+Sábado 5 de octubre de 2024 / 08:00 a 10:00 / 16:00 a 18:00 
+
+![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-6-1024x683.jpg)
+
+Foto: CNEL.
+
+**Contexto de los cortes de luz** 
+----------------------------------
+
+La situación actual se deriva de una **crisis energética** **que han afectado la generación y distribución de energía en Ecuador**. A pesar de las **mejoras en las condiciones hidrológicas**, los cortes seguirán siendo necesarios para **equilibrar la oferta y la demanda eléctrica**. 
+
+Se recomienda a los ciudadanos **consultar los canales oficiales del Gobierno Nacional**. 
+
+Los cortes programados para el sábado 5 de octubre son parte del esfuerzo continuo del Gobierno para **manejar la crisis energética en Ecuador**. Es fundamental que los ciudadanos estén informados sobre estos cambios para poder **planificar sus actividades diarias adecuadamente**. 
+
+Cortes de luz en Pastaza este sábado 5 de octubre
+=================================================
+
+El inicio de los cortes de luz en Ecuador fueron anunciados por el Gobierno central el lunes 16 de septiembre de 2024.
+----------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de los cortes de luz en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes_luz_1.jpg)
+
+La **Empresa Eléctrica Ambato Regional Centro Norte S.A.** anunció el cronograma de cortes de luz que se aplicarán en esta parte del país del viernes 4 al domingo 6 de octubre de 2024.
+
+El cronograma establece que los **cortes de luz serán de cuatro horas durante este primer fin de semana** de octubre, con lo que se espera que el malestar generado en los ciudadanos se reduzca.
+
+### Más noticias:
+
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
+
+Las cuatro hora de cortes de luz serán continuos en la mayoría de los cantones de Pastaza, salvo en el cantón Palora, parroquia Palora, alimentador Palora; **cantón Pastaza, parroquias Simón Bolívar, Canelos, alimentador Simón Bolívar**; cantón Pastaza, parroquias Simón Bolívar, Huamboya, alimentador Consuelo, que serán divididos en dos horas en dos horarios distintos.
+
+La reducción de **cuatro horas fue anunciado el jueves 3 en un comunicado oficial** del Ministerio de Energía y Minas, que fue difundido en sus redes sociales.
+
+Además, esta cartera de Estadio mencionó que los ciudadanos pueden hacer alguna consulta o **presentar una inquietud sobre los horarios planificados de cortes de luz**, enviando un correo electrónico a la dirección reporteshorarios@energiayminas.gob.ec.
+
+Horarios de cortes de luz en Pastaza del sábado 5 de octubre
+------------------------------------------------------------
+
+Bajo el argumento que **Ecuador atraviesa el peor estiaje de los últimos 61 años**, el Gobierno central anunció el lunes 16 de septiembre el inicio de una serie de cortes de luz desde el lunes 23.
+
+En un **principio se indicó que sería desde las 22:00 hasta las 06:00**, pero los mismos han ido variando conforme la intensidad de las lluvias se han ido presentando en Ecuador diariamente, en especial en las zonas donde se encuentran la hidroeléctricas.
+
+Una de las medidas que se tomó fue la del teletrabajo para el sector público en días determinados.
+
+“El horario de corte establecido ha sido escogido con la finalidad de **generar el menor impacto posible en las actividades productivas** y el desarrollo del jornadas laborales”, aseguró el Gobierno en el comunicado publicado en sus cuentas oficiales de redes sociales.
+
+Horarios de cortes de luz en Loja para este sábado 5 de octubre
+===============================================================
+
+Los cortes de luz continúan en el país. Estos serán los horarios en Loja.
+-------------------------------------------------------------------------
+
+![Los cortes de luz en Loja para este 5 de octubre de 2024. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175339.108.jpg)
+
+Los cortes de luz continúan en el país. Te compartimos los horarios del **razonamiento** del suministro eléctrico en **Loja**.
+
+### Más noticias: 
+
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html")
+* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html?source=Internal&ref=Single+Content+Link")
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html?source=Internal&ref=Single+Content+Link")
+
+La Empresa Eléctrica Regional del Sur compartió la siguiente programación. El sábado 5 de octubre los cortes de luz serán de una, dos y tres horas.
+
+El primer corte de luz será de 00:00 a 03:00, de 01:00 a 03:00 y 18:00 a 19:00, de 01:00 a 04:00, de 02:00 a 05:00 y de 18:00 a 19:00.
+
+Los cortes de luz continuarán el sábado 5 de octubre de 2024: de 04:00 a 06:00 y de 17:00 a 19:00, de 03:00 a 06:00, de 05:00 a 08:00, de 04:00 a 07:00, de 04:00 a 06:00 y de 17:00 a 19:00, de 07:00 a 10:00, de 08:00 a 10:00 y de 16:00 a 18:00.
+
+El horario de los cortes de luz dependerá de los sectores de cada cantón.
+
+**Cortes de luz en Loja**
+-------------------------
+
+El Gobierno de Daniel Noboa anunció una reducción en las horas de cortes de luz a escala nacional, debido a la mejora en la situación hídrica y energética del país.
+
+Esta decisión busca aliviar las molestias causadas por los cortes programados, que afectaron a la población en los últimos meses. Con el nuevo enfoque, se pretende optimizar el uso de energía y garantizar un servicio más estable.
+
+La Presidencia indicó que la reducción de cortes se llevará a cabo principalmente en los horarios de mayor actividad y movilización de los ciudadanos.
+
+Esto significa que se priorizarán las franjas horarias en las que la demanda energética es más alta, permitiendo a las familias y empresas continuar con sus actividades cotidianas sin interrupciones significativas.
+
+El Ministerio de Energía y Minas comunicó que los nuevos horarios de cortes de luz estarán vigentes desde este viernes 4 hasta el domingo 6 de octubre. Esta medida busca proporcionar un respiro a los usuarios, quienes han enfrentado desafíos por la falta de suministro eléctrico.
+
+Cortes de luz en Cuenca este sábado 5 de octubre
+================================================
+
+Hasta cinco horas de cortes de luz por sector tendrá Cuenca este sábado 5 de octubre.
+-------------------------------------------------------------------------------------
+
+![Los cortes de luz Cuenca para este sábado 5 de octubre tienen hasta cinco horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/velas.jpg)
+
+**Centrosur** estableció los horarios de cortes de luz en **Cuenca** y otras ciudades del Austro este **sábado 5 de octubre** de 2024[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
+
+El cronograma prevé cortes de **hasta cinco horas** en esta ciudad, para mañana.
+
+### Más noticias:
+
+* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
+* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
+
+El Gobierno de **Daniel Noboa** anunció la reducción de las horas de cortes de luz desde el viernes 4 al domingo 20 de octubre.
+
+Desde este viernes, las **empresas eléctricas** del país cambiaron los cronogramas que habían establecido para cumplir con la disposición.
+
+En tanto, desde este jueves, Daniel Noboa tomó otra medida respecto a la crisis energética que atraviesa el país.
+
+Hasta el 31 de diciembre, Noboa dispuso la reducción a tarifa 0% del Impuesto al Valor Agregado (IVA) en la importación y venta local de **generadores eléctricos.**
+
+Horarios de cortes de luz en Cuenca este sábado 5 de octubre
+------------------------------------------------------------
+
+Los cortes de luz en Cuenca para este sábado son de hasta cinco horas.
+
+Estas horas están divididas en una franja de dos horas o en un solo corte.
+
+El Gobierno señaló que la reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
+
+A continuación, los cortes de luz en Cuenca y otras ciudades del austro por horarios y sectores:
+
+La reducción o incremento de horas de los cortes de luz dependerá de la situación hídrica y energética del país.
+
+Leonardo Campana, el delantero en mejor forma de la Selección de Ecuador
+========================================================================
+
+La Selección de Ecuador vuelve a la acción en octubre para disputar nuevas jornadas de las Eliminatorias Sudamericanas.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana es el delantero que más goles marcó en el último mes de los convocados a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T173146.621.jpg)
+
+La lista de convocados de la **Selección** **de** **Ecuador** se dio a conocer este viernes 4 de octubre. Hubo algunos cambios con respecto a la última convocatoria de Sebastián Beccacece, y uno de los nombres destacados fue el del delantero del **Inter Miami, Leonardo Campana**.
+
+El joven atacante de 24 años se ganó el llamado gracias a su buen rendimiento en el último mes con las ‘Garzas’ en la Major League Soccer (MLS) de Estados Unidos. Junto a Campana, **Beccacece** convocó a otros dos delanteros: Enner Valencia y Kevin Rodríguez.
+
+### Más noticias:
+
+* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
+* [Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses](https://www.elcomercio.com/deportes/futbol/leonardo-campana-convocado-sebastian-beccacece.html "Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses")
+* [Leonardo Campana es una leyenda del Inter Miami](https://www.elcomercio.com/deportes/futbol/leonardo-campana-es-una-leyenda-del-inter-miami.html "Leonardo Campana es una leyenda del Inter Miami")
+
+Aunque Campana ha tenido buenos números, no son extraordinarios, lo que genera cierta preocupación para la Selección de Ecuador. Sin embargo, el exjugador de **Barcelona SC** es actualmente el delantero más en forma de los tres convocados, con mejor rendimiento de cara al gol.
+
+Leonardo Campana, el delantero más goleador
+-------------------------------------------
+
+Desde el 11 de septiembre, un día después del último partido de la Selección, hasta el 4 de octubre, **Leonardo** **Campana** ha sido el delantero que menos partidos ha jugado, con tres apariciones, frente a las cuatro de Valencia y Rodríguez.
+
+Por este motivo, es el que menos minutos ha disputado, con 105, en comparación con los 108 de Enner Valencia y los 249 de Kevin Rodríguez.
+
+A pesar de tener menos tiempo en el campo, ‘**Leo’ Campana es el delantero con mejor rendimiento goleador en ese periodo**. El ecuatoriano anotó dos goles, con un promedio de un tanto cada 52 minutos, frente a rivales como Atlanta United y New York City FC, ambos en la MLS.
+
+En segundo lugar, aparece **Enner Valencia**, quien ha marcado un solo gol ante RB Bragantino en el Campeonato Brasileño. Por su parte, Kevin Rodríguez no ha podido anotar en ese lapso.
+
+Campana y su relación con la ‘Tri’
+----------------------------------
+
+A sus 24 años, **Leonardo Campana** ha tenido una relación intermitente con la Selección de Ecuador, con apariciones esporádicas y sin consolidarse. En 15 partidos disputados con la ‘Tri’, aún no ha logrado anotar.
+
+Su **debut con la selección** fue bajo el mando de Hernán Darío Gómez, cuando tenía 18 años, 7 meses y 26 días. Jugó 45 minutos en una derrota 1-0 ante Estados Unidos. En esa misma gira, sumó otros 45 minutos en un empate 0-0 frente a Honduras.
+
+Su primer partido oficial en Eliminatorias fue el 12 de octubre de 2020, en la victoria 4-2 ante Uruguay en el estadio Rodrigo Paz Delgado. Gustavo Alfaro lo mandó al camp**o** para disputar los últimos cinco minutos.
+
+**Campana también jugó en la Copa América Brasil 2021**, donde debutó como titular en el empate 2-2 contra Venezuela, completando los 90 minutos.
+
+Estos son los cortes de luz para Esmeraldas, este 5 de octubre
+==============================================================
+
+Cortes de luz en Esmeraldas tienen varias franjas horarias.
+-----------------------------------------------------------
+
+![Cortes de luz se aplicarán en Esmeraldas y otros puntos de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/corte-de-luz-2.jpg)
+
+Este 5 de octubre de 2024, la provincia de **Esmeraldas** enfrentará **cortes de luz**. Hay varios horarios y sectores afectados por los racionamientos[.](https://es.wikipedia.org/wiki/Esmeraldas_(Ecuador))[](https://es.wikipedia.org/wiki/Esmeraldas_(Ecuador))
+
+La comunidad, que vive mayoritariamente del sector turístico, podrá consultar las zonas y franjas horarias en línea, a través de un [enlace definido](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/).
 
 ### Más noticias
 
-* [Israel bombardea el centro de Beirut](https://www.elcomercio.com/actualidad/mundo/israel-bombardea-centro-beirut.html "Israel bombardea el centro de Beirut ")
-* [Historia explicada del origen del conflicto palestino-israelí](https://www.elcomercio.com/actualidad/mundo/historia-conflicto-palestina-israel.html "Historia explicada del origen del conflicto palestino-israelí ")
-* [Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-mato-tres-meses-rawhi-mushtaha-jefe-gobierno-hamas.html "Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+* [Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma](https://www.elcomercio.com/actualidad/negocios/12-provincias-tendran-cortes-de-luz-domingo-22-de-septiembre-del-2024.html "Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma")
+* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
 
-En el ataque **murieron un total de 18 personas**, según los datos del Ministerio de Sanidad palestino.
+Cortes de luz en Esmeraldas
+---------------------------
 
-“Anoche murieron al menos **siete terroristas en un ataque de las fuerzas armadas** y el Shin Bet en Tulkarem”, recogió un comunicado castrense, que asegura que estaban preparando ataques para los próximos días.
+Los ciudadanos de la **Provincia Verde** han expresado su frustración por los cortes, debido a las pérdidas en los negocios.
 
-Se trata del **ataque israelí más mortífero contra Cisjordania** desde la Segunda Intifada (2000-2005). Medios palestinos **elevan el total de víctimas mortales a 20**, si bien las fuentes oficiales aún no actualizaron sus cifras.
+Algunas personas han optado por buscar alternativas, utilizando **generadores eléctricos** o ajustando las jornadas de producción, como en la elaboración de comidas.
 
-En el bombardeo, realizado en coordinación con el servicio de inteligencia nacional israelí -Shin Bet-, murió el cabecilla de Hamás en Tulkarem, identificado como **Zahi Yaser Abdel Razaq Awfi** y “otros miembros destacados” del grupo.
+Los cortes de luz programados empezaron el 22 de septiembre de 2024, debido a la **crisis energética** en Ecuador, agravada por la sequía.
 
-Entre ellos se encontraba Jit Radwan, **miembro de la Yihad Islámica Palestina** al que las fuerzas armadas atribuyen un papel “clave” en la milicia, si bien no dieron ningún detalle sobre su rol.
+En principio, los **apagones** se extendieron hasta por 12 horas y, actualmente, en promedio duran seis.
 
-“Estaban implicados, entre otras cosas, en la **producción de explosivos y en actividades terroristas** contra el Estado de Israel y las fuerzas del Ejército”, denunciaron las fuerzas armadas.
+Recomendaciones por cortes de luz
+---------------------------------
 
-Impacto de un misil
--------------------
+Las medidas de seguridad, como mantenerse en los domicilios, son parte fundamental con los cortes de luz. El **Ecu 911** sí atiende las emergencias que se reporten.
 
-Según la **agencia palestina de noticias Wafa**, **un misil impactó contra un café popular** situado en el callejón Al Hamam, en el campamento de refugiados de Tulkarem.
+A la par, la comunidad debe contar con planes de seguridad familiar y, de ser el caso, en urbanizaciones, edificios y condominios.
 
-El Ejército sostiene que Awfi planeaba llevar a cabo una “operación terrorista” dentro de Israel de manera “inminente”.
+Sobre los **electrodomésticos** es importante tener precauciones. En el caso del refrigerador, se puede abastecer de hielo o bolsas térmicas que mantienen los productos fríos.
 
-En un comunicado, el Ejército detalla que **Awfi preparó y dirigió un atentado** con coche bomba en la zona de Atara el pasado 2 de septiembre y que planeaba “llevar a cabo varias otras operaciones terroristas importantes” en Cisjordania y dentro de Israel
+Es recomendable desconectar los equipos antes de los **cortes de luz**, con base en los horarios.
 
-Solo en Tulkarem, al menos **94 palestinos muerieron desde enero**, incluidos ocho menores de 15 y 17 años, según un seguimiento de EFE.
+Esmeraldas y los horarios
+-------------------------
+
+Los cortes en Esmeraldas serán, por ejemplo, entre las 00:00 a 05:00 y de 10:00 a 15:00. Esto según la información oficial. Este es el caso de cantones como **Eloy Alfaro y San Lorenzo**.
+
+Otras **franjas horarias** que se contempla son de 10:00 a 15:00 y de 20:00 a 00:00.
