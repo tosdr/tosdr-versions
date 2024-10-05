@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ['My bad' says teen after completing official Ohio rite of passage, has plans to move near you](https://www.fark.com/goto/13417052) ( [msn.com](https://www.fark.com/goto/13417052) ) » [(4 comments)](https://www.fark.com/comments/13417052/My-bad-says-teen-after-completing-official-Ohio-rite-of-passage-has-plans-to-move-near-you) |
-| [Discussion](https://www.fark.com/discussion/) | [10-4 good buddy. It's National CB Radio Day so get your ears on, put the hammer down, keep an eye out for bears, and watch your back door. CB radio CSBs to the right](https://www.fark.com/goto/13417108) ( [whatnationaldayisit.com](https://www.fark.com/goto/13417108) ) » [(3 comments)](https://www.fark.com/comments/13417108/-10-4-good-buddy-Its-National-CB-Radio-Day-so-get-your-ears-on-put-hammer-down-keep-an-eye-out-for-bears-watch-your-back-door-CB-radio-CSBs-to-right) |
-| [Sports](https://www.fark.com/sports/) | [The thrill of victory, the agony of defeat](https://www.fark.com/goto/13416976) ( [sny.tv](https://www.fark.com/goto/13416976) ) » [(1 comment)](https://www.fark.com/comments/13416976/The-thrill-of-victory-agony-of-defeat) |
-| [Business](https://www.fark.com/business/) | [Musk tries to argue that he isn't responsible because Twitter no longer exists. Judge disagrees](https://www.fark.com/goto/13417078) ( [arstechnica.com](https://www.fark.com/goto/13417078) ) » [(10 comments)](https://www.fark.com/comments/13417078/Musk-tries-to-argue-that-he-isnt-responsible-because-Twitter-no-longer-exists-Judge-disagrees) |
-| [STEM](https://www.fark.com/stem/) | [Sextortionists: thanks to the massive data leak, we have emailed you pictures of your home. Send Bitcoin now or we will release your...nudez?](https://www.fark.com/goto/13417100) ( [404media.co](https://www.fark.com/goto/13417100) ) » [(4 comments)](https://www.fark.com/comments/13417100/Sextortionists-thanks-to-massive-data-leak-we-have-emailed-you-pictures-of-your-home-Send-Bitcoin-now-we-will-release-yournudez) |
-| [Entertainment](https://www.fark.com/entertainment/) | [♫ Helene, Helene, Helene, Helene](https://www.fark.com/goto/13417188) ( [rollingstone.com](https://www.fark.com/goto/13417188) ) » [(6 comments)](https://www.fark.com/comments/13417188/Helene-Helene-Helene-Helene) |
-| [Fandom](https://www.fark.com/fandom/) | [If you ever wondered how Billy Crystal would do in a thriller, wonder no more](https://www.fark.com/goto/13416562) ( [comicbook.com](https://www.fark.com/goto/13416562) ) » [(7 comments)](https://www.fark.com/comments/13416562/If-you-ever-wondered-how-Billy-Crystal-would-do-in-a-thriller-wonder-no-more) |
-| [D'awww](https://www.fark.com/dawww/) | [Vet confirms: Dogs have guilt, cats have insousiance](https://www.fark.com/goto/13417020) ( [aol.com](https://www.fark.com/goto/13417020) ) » [(0 comments)](https://www.fark.com/comments/13417020/Vet-confirms-Dogs-have-guilt-cats-have-insousiance) |
-| [Food](https://www.fark.com/food/) | [Worst beer on the market? Link goes to subby's choice](https://www.fark.com/goto/13417178) ( [thebeerstore.ca](https://www.fark.com/goto/13417178) ) » [(42 comments)](https://www.fark.com/comments/13417178/Worst-beer-on-market-Link-goes-to-subbys-choice) |
-| [Politics](https://www.fark.com/politics/) | [Sir, a second black Nazi has hiat the Republican Party](https://www.fark.com/goto/13417134) ( [rawstory.com](https://www.fark.com/goto/13417134) ) » [(28 comments)](https://www.fark.com/comments/13417134/Sir-a-second-black-Nazi-has-hiat-Republican-Party) |
+| [Main](https://www.fark.com/) | [Oh the Huge Manatee of getting stuck in a Florida pond after Hurricane Helene. Thankfully a rescue is now underway](https://www.fark.com/goto/13416834) ( [tampabay.com](https://www.fark.com/goto/13416834) ) » [(0 comments)](https://www.fark.com/comments/13416834/Oh-Huge-Manatee-of-getting-stuck-in-a-Florida-pond-after-Hurricane-Helene-Thankfully-a-rescue-is-now-underway) |
+| [Discussion](https://www.fark.com/discussion/) | [10-4 good buddy. It's National CB Radio Day so get your ears on, put the hammer down, keep an eye out for bears, and watch your back door. CB radio CSBs to the right](https://www.fark.com/goto/13417108) ( [whatnationaldayisit.com](https://www.fark.com/goto/13417108) ) » [(11 comments)](https://www.fark.com/comments/13417108/-10-4-good-buddy-Its-National-CB-Radio-Day-so-get-your-ears-on-put-hammer-down-keep-an-eye-out-for-bears-watch-your-back-door-CB-radio-CSBs-to-right) |
+| [Sports](https://www.fark.com/sports/) | [Microbrewery founder celebrates catching Tigers home run ball in his beer cup; "always have a cup in hand at a baseball game"](https://www.fark.com/goto/13417068) ( [mlive.com](https://www.fark.com/goto/13417068) ) » [(1 comment)](https://www.fark.com/comments/13417068/Microbrewery-founder-celebrates-catching-Tigers-home-run-ball-in-his-beer-cup-always-have-a-cup-in-hand-at-a-baseball-game) |
+| [Business](https://www.fark.com/business/) | [Xitter still down in Brazil as Musk had $5M penalty wired to the wrong bank](https://www.fark.com/goto/13417320) ( [mediaite.com](https://www.fark.com/goto/13417320) ) » [(1 comment)](https://www.fark.com/comments/13417320/Xitter-still-down-in-Brazil-as-Musk-had-$5M-penalty-wired-to-wrong-bank) |
+| [STEM](https://www.fark.com/stem/) | [Maybe China and the US have too much time on their hands, both are 'locked in race' to decide what time it is on the Moon (possible nsfw content on page)](https://www.fark.com/goto/13417228) ( [dailystar.co.uk](https://www.fark.com/goto/13417228) ) » [(1 comment)](https://www.fark.com/comments/13417228/Maybe-China-the-US-have-too-much-time-on-their-hands-both-are-locked-in-race-to-decide-what-time-it-is-on-Moon-possible-nsfw-content-on-page) |
+| [Entertainment](https://www.fark.com/entertainment/) | [♫ Helene, Helene, Helene, Helene](https://www.fark.com/goto/13417188) ( [rollingstone.com](https://www.fark.com/goto/13417188) ) » [(12 comments)](https://www.fark.com/comments/13417188/Helene-Helene-Helene-Helene) |
+| [Fandom](https://www.fark.com/fandom/) | [If you ever wondered how Billy Crystal would do in a thriller, wonder no more](https://www.fark.com/goto/13416562) ( [comicbook.com](https://www.fark.com/goto/13416562) ) » [(10 comments)](https://www.fark.com/comments/13416562/If-you-ever-wondered-how-Billy-Crystal-would-do-in-a-thriller-wonder-no-more) |
+| [D'awww](https://www.fark.com/dawww/) | [Elephant herd helps the blind elephant escape rising floodwaters in Thailand](https://www.fark.com/goto/13417204) ( [apnews.com](https://www.fark.com/goto/13417204) ) » [(0 comments)](https://www.fark.com/comments/13417204/Elephant-herd-helps-blind-elephant-escape-rising-floodwaters-in-Thailand) |
+| [Food](https://www.fark.com/food/) | [Worst beer on the market? Link goes to subby's choice](https://www.fark.com/goto/13417178) ( [thebeerstore.ca](https://www.fark.com/goto/13417178) ) » [(76 comments)](https://www.fark.com/comments/13417178/Worst-beer-on-market-Link-goes-to-subbys-choice) |
+| [Politics](https://www.fark.com/politics/) | [Trump plans to return to Atlanta as his supporters struggle to find 11,780 people to attend the event](https://www.fark.com/goto/13417350) ( [11alive.com](https://www.fark.com/goto/13417350) ) » [(9 comments)](https://www.fark.com/comments/13417350/Trump-plans-to-return-to-Atlanta-as-his-supporters-struggle-to-find-11780-people-to-attend-event) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 04 2024 21:43:10  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 05 2024 03:43:44  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
