@@ -233,11 +233,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct04
+    Oct18
     
-    ### [Chair Lina M. Khan speaker at a Renters Listening Session alongside Rep. Gallego](https://www.ftc.gov/news-events/events/2024/10/chair-lina-m-khan-speaker-renters-listening-session-alongside-rep-gallego)
+    ### [Second Federal Trade Commission Conference on Marketing and Public Policy](https://www.ftc.gov/news-events/events/2024/10/second-federal-trade-commission-conference-marketing-public-policy)
     
-    Friday, October 4, 2024 | 12:00PM
+    Friday, October 18, 2024 | 8:00AM - 6:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
