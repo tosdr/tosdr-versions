@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
+
+[Leg Press Like a Pro: Tips, Techniques, and Mistakes to Avoid](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
 [Podcast #1,026: 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A man performs a bicep curl with a dumbbell on a beach while wearing shorts and a weightlifting belt, showcasing his dedication to fitness. Several people are in the background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
-
-[![A shirtless man with a muscular build, reminiscent of Bruce Lee, strikes a pose with his right arm extended in a punching motion and his left arm bent. He has short, dark hair and a serious expression, showcasing the results of an intense forearm workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
-
-[Bruce Lee’s Forearm Workout](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
 
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
