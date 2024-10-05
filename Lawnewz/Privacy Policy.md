@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Terryon Thomas, on the left; William Nicholas Abraham, inset on the right against an image of where Abraham's body was found.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Abraham-432x243.jpg)](https://lawandcrime.com/crime/sheriffs-office-says-no-evidence-to-suggest-tiktok-star-accused-of-murdering-therapist-was-victims-patient/)
+1. [![Rose Chavis](https://am23.mediaite.com/lc/cnt/uploads/2024/10/arrest--432x243.jpg)](https://lawandcrime.com/crime/mom-left-paralyzed-daughter-stuck-between-bed-and-wall-for-a-week-because-she-wanted-her-to-get-up-on-her-own-as-maggots-crawled-in-wounds-cops/)
     
-    ### [Sheriff's office says 'no evidence to suggest' TikTok star accused of murdering therapist was victim's patient](https://lawandcrime.com/crime/sheriffs-office-says-no-evidence-to-suggest-tiktok-star-accused-of-murdering-therapist-was-victims-patient/)
+    ### [Mom left paralyzed daughter stuck between bed and wall for a week because she wanted her to 'get up on her own' as maggots crawled in wounds: Cops](https://lawandcrime.com/crime/mom-left-paralyzed-daughter-stuck-between-bed-and-wall-for-a-week-because-she-wanted-her-to-get-up-on-her-own-as-maggots-crawled-in-wounds-cops/)
     
-2. [![Mark Meadows, on the left; Fani Willis, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2023/09/Mark-Meadows-Fani-Willis-1-432x243.jpg)](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
+2. [![Michael Oliveras](https://am21.mediaite.com/lc/cnt/uploads/2024/10/j6-432x243.jpg)](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
+    
+    ### ['I'd do it again': Trump supporter who thought the Insurrection Act was 'in motion' and said Jan. 6 was 'precisely what we want' just learned his punishment](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
+    
+3. [![Mark Meadows, on the left; Fani Willis, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2023/09/Mark-Meadows-Fani-Willis-1-432x243.jpg)](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
     
     ### ['Entirely omits relevant precedent': Fani Willis tells Supreme Court to keep Mark Meadows RICO case in state court](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
     
-3. [![Jeff Ashton and Casey Anthony](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Jeff-Ashton-and-Casey-Anthony-432x243.jpg)](https://lawandcrime.com/high-profile/casey-anthony-prosecutor-now-a-judge-scolded-for-lacking-the-patience-dignity-and-courtesy-required-of-being-on-the-bench/)
-    
-    ### [Casey Anthony prosecutor, now a judge, scolded for 'lacking the patience, dignity, and courtesy' required of being on the bench](https://lawandcrime.com/high-profile/casey-anthony-prosecutor-now-a-judge-scolded-for-lacking-the-patience-dignity-and-courtesy-required-of-being-on-the-bench/)
-    
-4. [![21st District Court Judge Matthew Barrett, on the left; Tina Peters, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Peters-Judge-Facepalm-432x243.jpg)](https://lawandcrime.com/high-profile/frustrated-judge-visibly-facepalms-as-tina-peters-rambles-about-2020-election-conspiracy-theories-gets-angry-when-she-says-he-knows-theyre-true/)
-    
-    ### [Frustrated judge visibly facepalms as Tina Peters rambles about 2020 election conspiracy theories, gets angry when she says he knows they’re true](https://lawandcrime.com/high-profile/frustrated-judge-visibly-facepalms-as-tina-peters-rambles-about-2020-election-conspiracy-theories-gets-angry-when-she-says-he-knows-theyre-true/)
-    
-5. [![Christopher Luis Gonzalez (Miami-Dade County Corrections and Rehabilitation).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/miamiattack-432x243.jpg)](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
+4. [![Christopher Luis Gonzalez (Miami-Dade County Corrections and Rehabilitation).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/miamiattack-432x243.jpg)](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
     
     ### ['Who are you f---ing?': Man tells ex-girlfriend 'your life will end tonight,' beats her in terrifying attack after accusing her of cheating, police say](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
+    
+5. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: James Link Behymer, Donald Lee Moss (Dept. of Justice court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/James-Behymer-Donald-Lee-Moss-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/go-back-to-the-gestapo-training-camp-man-threw-punches-used-chair-to-stop-door-from-closing-as-jan-6-mob-closed-in-on-capitol/)
+    
+    ### ['Go back to the Gestapo training camp!': Man threw punches, used chair to stop door from closing as Jan. 6 mob closed in on Capitol](https://lawandcrime.com/high-profile/go-back-to-the-gestapo-training-camp-man-threw-punches-used-chair-to-stop-door-from-closing-as-jan-6-mob-closed-in-on-capitol/)
     
 
 [](http://eepurl.com/c89Jdb)
