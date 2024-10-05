@@ -418,34 +418,34 @@ Most common
     
 2. hacking
     
-3. javascript
+3. project management
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Software Development
     
-    33,910 courses](https://www.classcentral.com/subject/cs)
-2. [Self Improvement
+    8,248 courses](https://www.classcentral.com/subject/software-development)
+2. [Computer Science
     
-    3,504 courses](https://www.classcentral.com/subject/self-improvement)
-3. [Cybersecurity
+    34,026 courses](https://www.classcentral.com/subject/cs)
+3. [Artificial Intelligence
     
-    15,353 courses](https://www.classcentral.com/subject/cybersecurity)
+    10,242 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Probability - The Science of Uncertainty and Data
+1. [Introducción a los encofrados y las cimbras en obra civil y edificación
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/probability-massachusetts-institute-of-technology-1496)
-2. [Astrobiology and the Search for Extraterrestrial Life
+    Universitat Politècnica de València](https://www.classcentral.com/course/civil-engineering-universitat-politecnica-de-vale-11880)
+2. [Tsinghua Chinese: Start Talking with 1.3 Billion People
     
-    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
-3. [Competitive Strategy
+    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
+3. [Astronomy: Exploring Time and Space
     
-    Ludwig-Maximilians-Universität München](https://www.classcentral.com/course/compstrategy-706)
+    University of Arizona](https://www.classcentral.com/course/astro-3007)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
