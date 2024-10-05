@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Bactéria resistente que representa risco global é detectada no Nordeste](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/6/csm_bacteria-identificada-nordeste-rubens-renato-carmo-ICB-USP_ba3eb6b7ef.jpg)
-
-cepa detectada
-
-cepa detectada
-
-Bactéria resistente que representa risco global é detectada no Nordeste
-
-Bactéria resistente que representa risco global é detectada no Nordeste](https://www.tnh1.com.br/noticia/nid/bacteria-resistente-que-representa-risco-global-e-detectada-no-nordeste/ "Bactéria resistente que representa risco global é detectada no Nordeste")[![Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_angelina-jolie-reproducao_bbdb7241c1.jpg)
-
-RIVAIS?
-
-RIVAIS?
-
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista
-
-Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista](https://www.tnh1.com.br/noticia/nid/jennifer-aniston-e-sandra-bullock-tentam-vetar-indicacao-de-angelina-jolie-ao-oscar-diz-revista/ "Jennifer Aniston e Sandra Bullock tentam vetar indicação de Angelina Jolie ao Oscar, diz revista")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
+[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
 
 No Paraná
 
@@ -222,15 +206,31 @@ No Paraná
 
 Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_Joao_Vieira__volante_do_Paysandu__em_viagem_com_o_elenco_-_Foto_Jorge_Luis_Totti_-_Paysandu_1f65a319ff.jpg)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Mário Gomes passa mal e é levado a pronto-socorro por ambulância](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mario_gomes_passa_mal_reproducao_instagram_c7e82a05b9.jpg)
 
-série b
+durante gravação
 
-série b
+durante gravação
 
-Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time
+Mário Gomes passa mal e é levado a pronto-socorro por ambulância
 
-Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time](https://www.tnh1.com.br/noticia/nid/repleto-de-desfalques-paysandu-viaja-para-encarar-o-crb-veja-provavel-time/ "Repleto de desfalques, Paysandu viaja para encarar o CRB; veja provável time")
+Mário Gomes passa mal e é levado a pronto-socorro por ambulância](https://www.tnh1.com.br/noticia/nid/mario-gomes-passa-mal-e-e-levado-a-pronto-socorro-por-ambulancia/ "Mário Gomes passa mal e é levado a pronto-socorro por ambulância")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
+
+Com ajuda de dois
+
+Com ajuda de dois
+
+Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas
+
+Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Advogado é morto a tiros na frente do próprio escritório ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_Advogado_Cassio_Bruno_-_foto_Reproducao_Facebook_829dcc2fe2.jpg)
+
+48 anos
+
+48 anos
+
+Advogado é morto a tiros na frente do próprio escritório
+
+Advogado é morto a tiros na frente do próprio escritório](https://www.tnh1.com.br/noticia/nid/advogado-e-morto-a-tiros-na-frente-do-proprio-escritorio/ "Advogado é morto a tiros na frente do próprio escritório ")
 
 [![Testemunha revela 'sinal secreto' de Diddy para iniciar momento 'proibidão' de suas festas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
 
