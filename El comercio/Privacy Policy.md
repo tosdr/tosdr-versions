@@ -31,25 +31,680 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Campaña farandulera
-===================
+Entregan incentivos a deportistas paralímpicos por su participación en París 2024
+=================================================================================
 
-¿Quién será el candidato que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los mercachifles de la política?
----------------------------------------------------------------------------------------------------------------------------------------
+Deportistas paralímpicos de Ecuador reciben incentivos por su desempeño en París 2024.
+--------------------------------------------------------------------------------------
 
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+![Kiara Rodríguez en su llegada a Guayaquil luego de los Juegos Paralímpicos.](https://www.elcomercio.com/wp-content/uploads/2024/10/kiara.png)
 
-Los **ciudadanos** interesados en la suerte del **país** sostienen que ninguno de los **candidatos** ha expuesto un **proyecto** de **país**, un diagnóstico de los **problemas** y las **soluciones** que implementaría en caso de ser elegido **presidente**. El mensaje electoral es frívolo, la campaña tiene un **carácter farandulero**.
+El Ministerio del Deporte de Ecuador ha entregado un **reconocimiento económico** a los deportistas paralímpicos que representaron al país en los **Juegos Paralímpicos de París 2024**.
 
-Andy Borowitz, en su libro _Profiles in Ignorance,_ sostiene que los últimos presidentes de Estados Unidos han pasado por tres etapas: en la primera, **políticos** tontos pretendían que eran **inteligentes**; en la segunda, **políticos** tontos se sentían autorizados a parecer tontos; en la tercera, **políticos inteligentes** fingían que eran tontos.
+### Más noticias
 
-En nuestra **campaña electoral** tenemos **candidatos** pertenecientes a las tres etapas. Todos ocultan la verdad, no saben o no quieren reconocer la **gravedad** de los **problemas**, y prefieren parecer tontos o nos toman por tontos y pretenden hacernos creer que son **taumaturgos**, magos, sabios o tocados por la suerte. Los **candidatos** se mienten y nos mienten.
+* [Estefany López y su camino al podio paralímpico en París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/estefany-lopez-y-su-camino-al-podio-paralimpico-en-paris-2024.html "Estefany López y su camino al podio paralímpico en París 2024")
+* [Kiara Rodríguez hace historia y gana otra medalla de oro en los Juegos Paralímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/kiara-rodriguez-hace-historia-gana-otra-medalla-juegos-paralimpicos.html "Kiara Rodríguez hace historia y gana otra medalla de oro en los Juegos Paralímpicos")
+* [Kiara Rodríguez regresó triunfante a Ecuador tras su éxito en París 2024](https://www.elcomercio.com/deportes/futbol/kiara-rodriguez-ecuador-caravana-homenaje.html "Kiara Rodríguez regresó triunfante a Ecuador tras su éxito en París 2024")
 
-El país no necesita falsos **optimistas** que nos ofrezcan la pócima para todos los males como vendedores de feria; necesita **líderes** que nos digan que avanzamos como mula ciega hacia el **abismo**, alguien que nos asuste, para que dejemos de ver la **campaña** como **programa** de **entretenimiento**.
+En total, se destinaron **666 666 60 dólares** cumpliendo con la disposición del presidente de la República, Daniel Noboa.
 
-Los **presidentes** empujan la **crisis** al que viene. Estamos acumulando **problemas** y tornándolos insolubles: **inseguridad**, **desempleo**, **migración**, deuda, **crisis energética**, **seguridad social**, corrupción; todo dejamos que vaya a peor para entregarlo al que viene, pero lo que viene es la **tragedia nacional** si continuamos por el mismo camino.
+Este monto se distribuyó entre los medallistas y los **20 deportistas** de la delegación ecuatoriana, como parte de una iniciativa para valorar su esfuerzo y dedicación.
 
-Dos **personajes tenebrosos** de la era correísta se presentaron en la **comisión** de **fiscalización**, uno para atacar y otro para defender a la ministra de gobierno; como si fuera un país abandonado que carece de líderes, condenado a repetir lo peor de nuestro pasado. ¿Quién será el **candidato** que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los **mercachifles** de la **política**?
+Los deportistas paralímpicos que recibieron el reconocimiento
+-------------------------------------------------------------
+
+**Kiara Rodríguez,** quien obtuvo dos medallas de oro en las competencias de salto largo y 100 metros, recibió un premio de **300 000 dólares**. Por su parte, **Poleth Mendes**, medallista de bronce en el impulso de bala, fue premiada con **100 000 dólares**.
+
+Asimismo, Estéfanly López, quien logró una medalla de bronce en el lanzamiento de disco, recibió un incentivo de USD 100.000.
+
+Además de los reconocimientos individuales a las medallistas, cada uno de los **20 deportistas que conformaron la delegación paralímpica de Ecuador** recibió un incentivo económico de USD 8 333 33 dóalres. El comunicado del Ministerio del Deporte resalta que este reconocimiento es una muestra de apoyo y valoración a sus logros y esfuerzo.
+
+> Cumplimos nuestro compromiso con la delegación que dejó en alto al Ecuador en los Juegos Paralímpicos de París 2024.  
+>   
+> ¡Entregamos más de 666 mil dólares en incentivos![#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/EoTwwFGqTC](https://t.co/EoTwwFGqTC)
+> 
+> — Ministerio del Deporte 🇪🇨 (@DeporteEc) [October 5, 2024](https://twitter.com/DeporteEc/status/1842623720013324582?ref_src=twsrc%5Etfw)
+
+El gobierno, bajo la dirección del presidente **Daniel Noboa**, busca fomentar el desarrollo integral de los deportistas ecuatorianos, tanto en el ámbito nacional como internacional. Este tipo de incentivos son parte de la estrategia para **respaldar sus trayectorias** y promover su crecimiento, permitiéndoles continuar brillando en el escenario internacional.
+
+El reconocimiento a los deportistas paralímpicos ecuatorianos es visto como un estímulo importante, tanto para ellos como para las **futuras generaciones de atletas** que buscan dejar el nombre de Ecuador en alto en eventos deportivos de clase mundial.
+
+Independiente del Valle no pudo ante Mushuc Runa
+================================================
+
+Independiente del Valle sufrió ante Mushuc Runa en la fecha 9 de la segunda etapa de la LigaPro.
+------------------------------------------------------------------------------------------------
+
+![Jugada en el partido entre Mushuc Runa e Independiente del Valle este 5 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/idv.png)
+
+En un duelo disputado el 5 de octubre de 2024 en el **Estadio La Cocha, Mushuc Runa e Independiente del Valle** empataron 1-1 en un partido intenso, donde ambos equipos tuvieron oportunidades claras pero no lograron imponerse.
+
+### Más noticias
+
+* [Liga de Quito goleó a Barcelona SC y sigue puntero de la LigaPro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-goleo-barcelona-puntero-ligapro.html "Liga de Quito goleó a Barcelona SC y sigue puntero de la LigaPro")
+* [¿Qué equipo tiene más hinchas en Quito?](https://www.elcomercio.com/deportes/futbol/que-equipo-tiene-mas-hinchas-en-quito.html "¿Qué equipo tiene más hinchas en Quito?")
+
+El compromiso, que enfrentó a dos equipos en busca de **puntos vitales** en la recta final del campeonato ecuatoriano, dejó sensaciones divididas para ambos clubes.
+
+### Primer tiempo con emociones tardías
+
+El encuentro comenzó con I**ndependiente del Valle** controlando la posesión del balón, pero sin generar opciones claras de peligro en los primeros minutos. **Mushuc Runa**, por su parte, intentó explotar las bandas para buscar a su delantero **Enzo Fernández**, aunque el equipo visitante neutralizó eficazmente las incursiones de los **extremos del cuadro ambateño**.
+
+La primera gran jugada llegó al minuto 43, cuando **Junior Sornoza**, figura de Independiente del Valle, **sorprendió con un gol olímpico**.
+
+El disparo, ejecutado desde un tiro de esquina, contó con la complicidad del arquero Christian Tapia, quien no logró despejar el balón. Este tanto significó el tercer gol de Sornoza en el campeonato, tras anotar previamente frente a **Libertad y Universidad Católica**.
+
+> Ahora sí pásenle la foto 😉  
+>   
+> Junior Sornoza, tras un cobro de esquina y algo de complicidad del arquero, clavó su remate en las redes. 🤝🏻 [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw) [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/9EwArdsMlY](https://t.co/9EwArdsMlY)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [October 5, 2024](https://twitter.com/zapping_ecu/status/1842607753434702287?ref_src=twsrc%5Etfw)
+
+Sin embargo, Mushuc Runa no tardó en responder. Apenas dos minutos después, en el tiempo añadido del primer tiempo, el juez dictaminó un **penal a favor del equipo local**. **Mathías Acuña** fue el encargado de ejecutar la pena máxima y no falló, empatando el marcador 1-1 justo antes de ir al descanso.
+
+### Mushuc Runa resistió en el segundo tiempo
+
+En la segunda mitad, Independiente del Valle continuó dominando la posesión del balón, generando varias llegadas de peligro que obligaron a **Mushuc Runa** a replegarse defensivamente. La zaga del equipo local hizo ajustes para cerrar los espacios, buscando resistir ante la insistencia ofensiva de los visitantes.
+
+A pesar del control que ejercía el **equipo de Sangolquí**, Mushuc Runa no dejó de buscar el arco contrario. En los últimos minutos del encuentro, el equipo ambateño intentó aprovechar las pocas ocasiones que tuvo para desbordar la defensa de Independiente del Valle, pero sin éxito.
+
+> Primera | 85’ ST 🕣 [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) Mushuc Runa 1 [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw) 1[@pressouthec](https://twitter.com/pressouthec?ref_src=twsrc%5Etfw) 📸 [pic.twitter.com/RAhgTe48gY](https://t.co/RAhgTe48gY)
+> 
+> — Independiente del Valle (@IDV\_EC) [October 5, 2024](https://twitter.com/IDV_EC/status/1842622445855113263?ref_src=twsrc%5Etfw)
+
+A los 84 minutos, Romario Ibarra tuvo una oportunidad clara de anotar el gol de la victoria para los “rayados”, pero su remate fue desviado al tiro de esquina por **Christian Tapia**, quien se reivindicó tras su error en el primer tiempo.
+
+Madrid flexibiliza la contratación de médicos de Cuba y de Venezuela
+====================================================================
+
+El Colegio de Médicos de Madrid permitirá a profesionales de Cuba y de Venezuela trabajar en España.
+----------------------------------------------------------------------------------------------------
+
+![Imagen referencial de médicos.](https://www.elcomercio.com/wp-content/uploads/2024/10/medicos-ok.jpg)
+
+El **Colegio de Médicos de Madrid** eliminó un requisito para que **profesionales de Cuba y de Venezuela** puedan trabajar en esa **región española**, que necesita personal en su sistema público de salud.
+
+Más noticias
+------------
+
+* [Médicos pueden aplicar a 901 plazas de formación en España](https://www.elcomercio.com/actualidad/ecuador/ecuatorianos-aplicar-901-plazas-estudiar-medicina-espana-medicos.html "Médicos pueden aplicar a 901 plazas de formación en España ")
+* [Médicos de José Mujica hacen todo lo posible para que se recupere](https://www.elcomercio.com/actualidad/mundo/jose-mujica-salud-uruguay-recuperacion.html "Médicos de José Mujica hacen todo lo posible para que se recupere")
+
+El presidente del colegio oficial, Manuel Martínez-Sellés, confirmó este viernes la **eliminación del certificado de no inhabilitación**, ante la dificultad de muchos de estos profesionales para conseguirlo.
+
+La alternativa es un certificado de **no tener antecedentes penales** y una declaración jurada, una medida provisional durante nueve meses, mientras el **colegio de Madrid trabaja para unificar criterios** en el conjunto de España, comentó.
+
+Martínez-Sellés se reunió recientemente en la **capital de España** con representantes de la Asociación de Médicos Cubanos, entre ellos su presidente, Guillermo Ponce.
+
+La imposibilidad de obtener el certificado de no inhabilitación, que actualmente no expiden países como Cuba, complica el que estos **médicos se puedan colegiar en España**. Esto llevó al colegio profesional a permitir que puedan colegiarse en Madrid con su título homologado sin necesidad de ese otro documento.
+
+La **Organización Mundial de la Salud** (OMS), entre otros organismos y entidades, advirtió de la falta de **personal sanitario**, debido a **diversas causas**, en **países europeos como España**, donde algunos gobiernos regionales, que gestionan la sanidad pública, recurrido a **medidas excepcionales** como la contratación de médicos sin esperar a que completen un proceso para ejercer en el sistema público.
+
+Jorge Zavala Egas falleció a los 76 años
+========================================
+
+Era abogado, catedrático y exjuez constitucional. Te contamos.
+--------------------------------------------------------------
+
+![Jorge Zavala Egas falleció en Guayaquil a los 76 años. Foto: screenshot](https://www.elcomercio.com/wp-content/uploads/2024/10/zavala-egas-El-comercio.jpg)
+
+El mundo jurídico de **Ecuador** se encuentra de luto tras el fallecimiento de **Jorge Zavala Egas,** destacado abogado, exjuez y catedrático.
+
+Zavala Egas, de 76 años, murió el 5 de octubre en la ciudad de **Guayaquil**.
+
+### Más noticias
+
+* **[Jacobo Bucaram Ortiz, político y hermano de Abdalá Bucaram, falleció a los 77 años](https://www.elcomercio.com/actualidad/politica/jacobo-bucaram-ortiz-fallecio-guayaquil.html "https://www.elcomercio.com/actualidad/politica/jacobo-bucaram-ortiz-fallecio-guayaquil.html")**
+* **[Descanse en paz, Solón Espinosa](https://www.elcomercio.com/actualidad/descanse-en-paz-solon-espinosa.html "https://www.elcomercio.com/actualidad/descanse-en-paz-solon-espinosa.html")**
+
+Deja un legado imborrable en el campo del Derecho y la justicia ecuatoriana.
+
+Una trayectoria que marcó la jurisprudencia ecuatoriana
+-------------------------------------------------------
+
+Graduado en la Universidad de Guayaquil como Doctor en Jurisprudencia, Jorge Zavala Egas ocupó múltiples cargos en el ámbito público y privado.
+
+Entre sus funciones más destacadas figuran la de Procurador Síndico de la Municipalidad de Guayaquil, Subsecretario de Finanzas, y Diputado por Guayas, además de presidir la Comisión de lo Civil y Penal en el Congreso Nacional.
+
+Su labor como juez del Tribunal de Garantías Constitucionales (actual Corte Constitucional) también fue clave en la redacción de la Constitución de 1995.
+
+Su participación como defensor en casos de gran resonancia, como el de los hermanos Isaías, consolidó su reputación como uno de los abogados más influyentes del país. Fue cofundador del Estudio Zavala Egas y, para quienes lo conocían personalmente, era afectuosamente llamado ‘Yoyo’.
+
+Legado académico y publicaciones en Derecho
+-------------------------------------------
+
+Además de su carrera jurídica, Zavala Egas fue un apasionado educador. Desempeñó el cargo de director de Postgrado de Derecho en la UEES y dictó clases en prestigiosas universidades tanto en Ecuador como en el extranjero. Publicó diversas obras especializadas en Derecho Constitucional, Administrativo y Aduanero, entre otras áreas.
+
+> La Procuraduría General del Estado 🇪🇨expresa su profundo pesar ante el sensible fallecimiento del Doctor  
+> Jorge Zavala Egas, destacado abogado guayaquileño y maestro universitario. [pic.twitter.com/87oLzrHnwl](https://t.co/87oLzrHnwl)
+> 
+> — Procuraduría Ecuador (@PGEcuador) [October 5, 2024](https://twitter.com/PGEcuador/status/1842602552598352229?ref_src=twsrc%5Etfw)
+
+Jorge Zavala Egas fue hijo del exvicepresidente Jorge Zavala Baquerizo y hermano del también prestigioso abogado Xavier Zavala Egas.
+
+Banda dedicada al robo de vehículos y autopartes fue desarticulada en Quito
+===========================================================================
+
+La Policía detuvo a los desconocidos tras una persecución. Los delincuentes fueron atrapados en flagrancia.
+-----------------------------------------------------------------------------------------------------------
+
+![Las autopartes robadas fueron encontradas en la cajuela del vehículo en el que los sospechosos huían](https://www.elcomercio.com/wp-content/uploads/2024/10/quito-partes.jpg)
+
+La **Policía Nacional** desarticuló una organización delictiva que **robaba vehículos** y autopartes en Quito.
+
+Luego de recibir varias denuncias de afectados, los uniformados investigaron cómo y dónde operaba la agrupación.
+
+### Más noticias
+
+* [Incendio en una vivienda dejó dos adultos mayores heridos en Quito](https://www.elcomercio.com/actualidad/quito/incendio-vivienda-sur-quito-adultos-mayores.html "Incendio en una vivienda dejó dos adultos mayores heridos en Quito")
+* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+
+Es así que este viernes 4 de octubre de 2024, los delincuentes fueron detectados mientras cometían el delito en **flagrancia** en el sector de Calderón, en el nororiente de la capital.
+
+Según detalló **Eduardo Serrano**, jefe de la Unidad Nacional de Investigación de Delitos Contra la Propiedad (Un-Bac) de la Policía, las cámaras de seguridad y videos de redes sociales, en los que se observaban otros robos, ayudaron a la investigación.
+
+Policía capturó a los delincuentes tras una persecución
+-------------------------------------------------------
+
+**Cuatro sospechosos** desmantelaron las piezas de un vehículo en este barrio y huyeron sin percatarse que eran vigilados por la Policía.
+
+Al pedirles que se detengan, los desconocidos trataron de escapar.
+
+A la altura del redondel de **Carapungo**, en la av. Simón Bolívar, los uniformados interceptaron al automotor en los que intentaban fugarse y sometieron a los delincuentes.
+
+Al abrir la puerta trasera del vehículo se encontraron las **autopartes** recién robadas.
+
+Los gendarmes recuperaron varios indicios, entre ellos, instrumentos y herramientas con los que forzaban las piezas vehiculares.
+
+Los **tres hombres y una mujer** fueron puestos a órdenes de la autoridad competente.
+
+> CUATRO CIUDADANOS DETENIDOS EN [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Desarticulamos una organización dedicada presuntamente al delito de robo de vehículos y autopartes.  
+>   
+> Fueron aprehendidos en flagrancia y puestos a órdenes de la autoridad competente. [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ywezhvTqDX](https://t.co/ywezhvTqDX)
+> 
+> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 5, 2024](https://twitter.com/PoliciaDMQZona9/status/1842400650828636537?ref_src=twsrc%5Etfw)
+
+Operativos de seguridad en el norte de Quito
+--------------------------------------------
+
+En otros operativos de seguridad realizados por la Policía Nacional en el **norte de Quito** se capturó a tres personas.
+
+Durante el operativo Intervención 3, realizado en el Comité del Pueblo, se encontró a un ciudadano que tenía una boleta de captura pendiente por el delito de **robo**.
+
+Mientras que en un control policial en los sectores **Iñaquito** y **La Kennedy** se aprehendió a un sospechoso que tenía en su posesión un **arma de fuego** y cinco cartuchos de bala.
+
+Otro ciudadano también fue sorprendido con droga en su poder.
+
+Los tres ciudadanos fueron puestos a órdenes de los jueces, para que resuelvan su situación legal.
+
+> APREHENSIÓN DE DOS CIUDADANOS EN [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Operativos policiales realizados en Iñaquito y La Kennedy, dejaron como resultados:  
+>   
+> ▪︎ Un sujeto aprehendido por tenencia de sustancias sujetas a fiscalización.  
+>   
+> ▪︎ Un ciudadano aprehendido por porte de arma de fuego.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LeUijWbCe8](https://t.co/LeUijWbCe8)
+> 
+> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 5, 2024](https://twitter.com/PoliciaDMQZona9/status/1842407577369378967?ref_src=twsrc%5Etfw)
+
+Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?
+===============================================================================
+
+La segunda vuelta electoral será el 13 de abril de 2025 si ningún binomio alcanza mayoría en primera votación.
+--------------------------------------------------------------------------------------------------------------
+
+![Una persona ejerciendo su derecho al voto en las elecciones anticipadas de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/09/elcciones.png)
+
+En las **elecciones generales de 2025** el proceso electoral contempla la posibilidad de una **segunda vuelta presidencial**, que se llevará a cabo si ningún binomio logra obtener la mayoría requerida en la primera votación.
+
+### Más noticias
+
+* [Más binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Más binomios se inscribieron en el CNE para las elecciones 2025")
+* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
+* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html "Multas por realizar campaña anticipada a las elecciones de 2025")
+
+El **Consejo Nacional Electoral (CNE)** establece un cronograma detallado para esta eventual fase, con fechas y procedimientos que aseguran la correcta **transición entre una vuelta y otra**.
+
+¿Cuándo se realiza la segunda vuelta electoral?
+-----------------------------------------------
+
+De acuerdo con el **Código de la Democracia**, la segunda vuelta será necesaria si ninguno de los binomios presidenciales obtiene una mayoría absoluta en la primera votación, o al menos el **40% de los votos válidos con una diferencia de 10 puntos porcentuales sobre el segundo lugar**.
+
+Si se cumple este escenario, la **segunda vuelta presidencial** se celebrará el **13 de abril de 2025**. Esta fecha ha sido definida por el CNE en el **calendario electoral 2025**, aprobado y actualizado en las **sesiones plenarias del organismo**.
+
+Fechas clave antes de la segunda vuelta
+---------------------------------------
+
+El proceso electoral de segunda vuelta incluye varias actividades esenciales para garantizar la transparencia y legalidad de la votación. Entre las fechas más importantes destacan:
+
+1. **Campaña electoral**: La campaña oficial para la segunda vuelta comenzará el **24 de marzo de 2025** y se extenderá hasta el **10 de abril de 2025**. Durante este periodo, los binomios presidenciales que compitan en esta fase podrán realizar actos de promoción y difusión de sus propuestas en medios autorizados.
+2. **Debate presidencial**: Uno de los momentos clave de esta campaña será el **debate presidencial**, que se llevará a cabo el **23 de marzo de 2025**. Este evento será una oportunidad para que los candidatos expongan sus propuestas y contrasten sus posturas ante la ciudadanía.
+3. **Silencio electoral**: El silencio electoral, que prohíbe la difusión de propaganda política en medios, comenzará el **11 de abril de 2025** y se extenderá hasta el día de la votación, el **13 de abril de 2025**. Este periodo tiene como objetivo permitir que los ciudadanos reflexionen sobre su voto sin influencias externas.
+
+Proceso de votación y escrutinio
+--------------------------------
+
+El día de la votación, el **13 de abril de 2025**, los ecuatorianos acudirán a las urnas para elegir al presidente y vicepresidente de la República entre los dos binomios más votados en la primera vuelta.
+
+El CNE ha previsto mecanismos de votación especiales para garantizar la participación de todos los ciudadanos, incluidos los beneficiarios del **voto en casa** (personas con discapacidad) y **personas privadas de libertad** sin sentencia condenatoria ejecutoriada.
+
+> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🟡🔵🔴  
+>   
+> En cumplimiento del calendario electoral, hoy, lunes 30 de septiembre, inicia la etapa de Registro y Calificación de [#ProveedoresPromociónElectoral](https://twitter.com/hashtag/ProveedoresPromoci%C3%B3nElectoral?src=hash&ref_src=twsrc%5Etfw). 🗞️📻📺💻  
+>   
+> Escanea el código QR o accede a través del enlace ⬇️[https://t.co/RiGcrSitqZ](https://t.co/RiGcrSitqZ) [pic.twitter.com/VnzIQ9DuOA](https://t.co/VnzIQ9DuOA)
+> 
+> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840816226005893445?ref_src=twsrc%5Etfw)
+
+Tras la votación, el proceso de escrutinio se llevará a cabo de manera similar al de la primera vuelta. Las **Juntas Provinciales Electorales** y la **Junta Especial del Exterior** iniciarán el conteo de votos y la transmisión de resultados. El CNE prevé que el proceso de escrutinio y objeciones de resultados numéricos se desarrolle entre el **14 y el 23 de abril de 2025**, garantizando así un conteo transparente.
+
+Resolución de objeciones e impugnaciones
+----------------------------------------
+
+Durante el proceso de escrutinio, las organizaciones políticas tienen la posibilidad de presentar objeciones sobre los resultados numéricos. En caso de presentarse, estas objeciones deberán resolverse antes del **6 de mayo de 2025**.
+
+Si se plantean impugnaciones adicionales, el Tribunal Contencioso Electoral (TCE) tiene un plazo hasta el **20 de mayo de 2025** para dictar sentencia definitiva.
+
+Una vez que se proclamen los resultados oficiales de la segunda vuelta y se resuelvan todas las impugnaciones, el CNE procederá con la entrega de credenciales a las nuevas autoridades. La **posesión del presidente y vicepresidente electos** está prevista para el **24 de mayo de 2025**.
+
+Importancia de la segunda vuelta en el sistema democrático
+----------------------------------------------------------
+
+La posibilidad de una segunda vuelta en el sistema electoral ecuatoriano **garantiza que el binomio presidencial electo cuente con un amplio respaldo ciudadano**. Este proceso permite que los votantes decidan entre las dos opciones más populares, otorgando **mayor legitimidad** al gobierno que resulte electo.
+
+La segunda vuelta de las **elecciones de 2025** sigue un cronograma detallado por el CNE, con el objetivo de asegurar un **proceso justo y transparente**. Las actividades clave como la campaña electoral, el debate presidencial y los mecanismos de votación garantizarán que la ciudadanía tenga una **participación informada y decisiva** en la elección de sus nuevas autoridades.
+
+Incendio en una vivienda dejó dos adultos mayores heridos en Quito
+==================================================================
+
+El Cuerpo de Bomberos atendió dos incendios estructurales la noche de este viernes 4 de octubre.
+------------------------------------------------------------------------------------------------
+
+![Los afectados recibieron atención prehospitalaria tras ser puestos a buen recaudo](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-sur.jpg)
+
+Dos **incendios estructurales** se registraron en Quito, la noche de este viernes 4 de octubre de 2024.
+
+El **Cuerpo de Bomberos** de la ciudad atendió las emergencias, una en el norte y otra en el sur de la capital.
+
+### Más noticias
+
+* [¿Cómo será el clima de Quito este fin de semana?](https://www.elcomercio.com/actualidad/clima-quito-fin-semana-lluvias.html "¿Cómo será el clima de Quito este fin de semana?")
+* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
+* [Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio](https://www.elcomercio.com/actualidad/quito/hernan-mendoza-juicio-desaparicion-muerte.html "Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio")
+
+Deflagración en el sur de Quito
+-------------------------------
+
+**Dos adultos mayores** resultaron heridos por una deflagración.
+
+La emergencia se registró en el barrio **Lucha de los Pobres**, en el sur de Quito.
+
+Una **fuga de gas** doméstico provocó el incidente en una vivienda del sector.
+
+Debido a la fuerza del incendio fue necesaria la colaboración de **11 bomberos** y cuatro vehículos de emergencia.
+
+Los afectados fueron puestos a buen recaudo y atendidos por **paramédicos** de la ‘Casaca Roja’.
+
+La deflagración es una **combustión muy rápida** que se da por una fuga y acumulación de gas en un lugar cerrado y que se enciende brevemente si hay una chispa o calor, informó la entidad.
+
+> 💥👩🏻‍🚒 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | Dos personas de la tercera edad resultaron heridas por una deflagración en La Lucha de los Pobres, al sur de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 💨 Una fuga de gas doméstico provocó el incidente en una vivienda del sector.  
+>   
+> 🚑 11 efectivos de nuestro equipo y cuatro vehículos de… [pic.twitter.com/7cyDDS5Q1z](https://t.co/7cyDDS5Q1z)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 5, 2024](https://twitter.com/BomberosQuito/status/1842542632951505257?ref_src=twsrc%5Etfw)
+
+Fábrica se incendió en Carcelén
+-------------------------------
+
+En otra alerta registrada este viernes, los Bomberos sofocaron un incendio estructural que se produjo en una **fábrica de zapatos**.
+
+La emergencia se registró en el sector de **Carcelén Industrial**, en norte de Quito.
+
+Al lugar llegaron miembros de la entidad con trajes y equipos especializados para sofocar las **llamas** y realizar trabajos de enfriamiento.
+
+No se reportaron personas afectadas en el siniestro.
+
+> 🔥🏭 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | En el sector de Carcelén Industrial, al norte de Quito, nuestro equipo controló y sofocó un incendio estructural en una fábrica de calzado.  
+>   
+> 👨‍🚒 Por fortuna, no se registró heridos.  
+>   
+> 💧🚒 Al momento realizamos labores de enfriamiento.  
+>   
+> 📞 Recuerda en caso de… [pic.twitter.com/N2s7s6LE1C](https://t.co/N2s7s6LE1C)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 5, 2024](https://twitter.com/BomberosQuito/status/1842537462414913943?ref_src=twsrc%5Etfw)
+
+Habilitan cinco desvíos por el cierre temporal de la Autopista General Rumiñahui
+================================================================================
+
+La Prefectura de Pichincha anunció el pasado 2 de octubre el cierre temporal de la Autopista General Rumiñahui.
+---------------------------------------------------------------------------------------------------------------
+
+![El paso elevado que se construye sobre la av. General Rumiñahui facilitará la movilidad de la zona.](https://www.elcomercio.com/wp-content/uploads/2024/10/Autopista-General-Ruminahui.jpg)
+
+La **Prefectura de Pichincha** anunció el pasado 2 de octubre el **cierre temporal de la Autopista General Rumiñahui a la altura del puente 8**, como parte de los trabajos para la **construcción de un paso elevado**. Esta obra tiene como objetivo mejorar la **conexión entre el Valle de Los Chillos y la ciudad de Quito**.
+
+### Más noticias
+
+* [Autopista General Rumiñahui tendrá cierre total este fin de semana](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cierre-total-fin-de-semana-octubre.html "Autopista General Rumiñahui tendrá cierre total este fin de semana")
+* [Cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cierre-parcial-de-la-autopista-general-ruminahui-este-martes-1-de-octubre-de-2024.html "Cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024")
+* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
+
+El cierre vehicular se realizará desde las 16:00 del domingo **6 de octubre hasta las 05:00 del lunes 7 de octubre del presente año**.
+
+Desvíos por el cierre de la Autopista General Rumiñahui
+-------------------------------------------------------
+
+Con el fin de **minimizar el impacto en el tráfico vehicular** durante este periodo, se ha coordinado con la **Agencia Metropolitana de Tránsito (AMT)** y la **Policía Nacional** para habilitar **cinco desvíos**.
+
+> [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Cierre de la Autopista General Rumiñahui, en el sector del Puente 8 ⛔  
+>   
+> 🚧 Desde las 16h00 del domingo 6 de octubre hasta las 5h00 del lunes 7 de octubre se cerrarán los 6 carriles de la Autopista General Rumiñahui, en este tramo.  
+>   
+> Este cierre permitirá avanzar con… [pic.twitter.com/naVrNCWIkD](https://t.co/naVrNCWIkD)
+> 
+> — Prefectura de Pichincha (@PichinchaGob) [October 4, 2024](https://twitter.com/PichinchaGob/status/1842287462879469680?ref_src=twsrc%5Etfw)
+
+Estos permitirán a los usuarios circular en ambos sentidos**: Quito – Valle de Los Chillos y Valle de Los Chillos – Quito**. Las autoridades locales han difundido los detalles sobre los desvíos en cada dirección.
+
+Sentido Quito – Valle de Los Chillos:
+-------------------------------------
+
+* **Desvío 1**: Antes de llegar al puente 8, los conductores deberán girar a la derecha con dirección a la Avenida Lola Quintana, dirigiéndose hacia el parque central de Conocoto.
+
+* **Desvío 2**: Para quienes se dirigen hacia el sector de la Armenia, deberán girar a la izquierda en el semáforo de la Avenida Lola Quintana, en el inicio del puente elevado.
+
+Sentido Valle de Los Chillos – Quito:
+-------------------------------------
+
+* **Desvío 5**: Otra opción desde la Armenia consiste en continuar hasta el inicio del puente nuevo y girar en dirección a la calle Charles Darwin, desde donde podrán seguir el mismo recorrido indicado en los desvíos anteriores.
+
+* **Desvío 3**: Desde la Armenia, los vehículos deben tomar la calle Charles Darwin, girar a la derecha en la calle Estadio y luego continuar por la calle Manuela Cañizares. Posteriormente, deberán girar a la izquierda en la calle Andrés de Santa Cruz para salir a la Autopista General Rumiñahui.
+
+* **Desvío 4**: Usando el desvío del puente 8, los conductores podrán llegar a la calle Alfredo Gangotena, girar a la derecha para tomar la calle Charles Darwin, continuar hasta la calle Estadio y seguir el mismo recorrido hasta salir a la Autopista General Rumiñahui.
+
+Según el comunicado oficial, la construcción de este nuevo paso elevado **beneficiará a unos 4 500 usuarios diarios** de la vía directa y **aproximadamente 100 000 usuarios indirectos**. Estos corresponden a los ciudadanos que circulan por la **Autopista General Rumiñahui a diario**.
+
+Bayer Leverkusen de Piero Hincapié tropezó en la Bundesliga
+===========================================================
+
+El Bayer Leverkusen no pudo sumar tres puntos ante uno de los coleros de la Bundesliga.
+---------------------------------------------------------------------------------------
+
+![El Bayer Leverkusen no pudo ante uno de los últimos de la Bundesliga.](https://www.elcomercio.com/wp-content/uploads/2024/10/bayer.png)
+
+Este sábado 5 de octubre de 2024, **Bayer Leverkusen empató 2-2 ante Holstein Kiel** en un partido que parecía controlado desde el inicio.
+
+### Más noticias
+
+* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
+* [Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-igualo-bayern-munich.html "Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich")
+* [Bayer Leverkusen y Piero Hincapié golean en estreno de Champions](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-feyenoord.html "Bayer Leverkusen y Piero Hincapié golean en estreno de Champions")
+
+El encuentro, correspondiente a la Bundesliga, se jugó en e**l BayArena**, y los dirigidos por Xabi Alonso dominaron gran parte del juego, aunque **no lograron mantener la ventaja en la segunda mitad**.
+
+Inicio fulminante del Bayer Leverkusen
+--------------------------------------
+
+En los primeros 10 minutos del partido, **Bayer Leverkusen** ya se imponía con autoridad. Victor Boniface abrió el marcador al minuto 6, tras una **gran jugada colectiva**, mientras que Jonas Hofmann amplió la ventaja al minuto 10, capitalizando un **error defensivo del Holstein Kiel**.
+
+La superioridad del Leverkusen fue evidente en los **primeros 45 minuto**s, con un control casi absoluto del balón y numerosas llegadas al área rival.
+
+Sin embargo, el equipo visitante encontró una oportunidad antes de irse al descanso. Max Geschwill descontó en el marcador al minuto 43, **poniendo el 2-1 momentáneo** en una jugada de contraataque que sorprendió a la defensa local.
+
+> Direkt im Anschluss an den Ausgleich erfolgen drei Wechsel beim Bayer:  
+>   
+> Es kommen rein:[#Hincapie](https://twitter.com/hashtag/Hincapie?src=hash&ref_src=twsrc%5Etfw), [#Schick](https://twitter.com/hashtag/Schick?src=hash&ref_src=twsrc%5Etfw) & [@97\_aleix](https://twitter.com/97_aleix?ref_src=twsrc%5Etfw)  
+> Es gehen raus:[#Andrich](https://twitter.com/hashtag/Andrich?src=hash&ref_src=twsrc%5Etfw), [@boniface\_jrn](https://twitter.com/boniface_jrn?ref_src=twsrc%5Etfw) & [#Palacios](https://twitter.com/hashtag/Palacios?src=hash&ref_src=twsrc%5Etfw).[#B04KSV](https://twitter.com/hashtag/B04KSV?src=hash&ref_src=twsrc%5Etfw) 2:2 [pic.twitter.com/UvWdJsVWh9](https://t.co/UvWdJsVWh9)
+> 
+> — Bayer 04 Leverkusen (@bayer04fussball) [October 5, 2024](https://twitter.com/bayer04fussball/status/1842581269156360435?ref_src=twsrc%5Etfw)
+
+El defensor ecuatoriano Piero Hincapié no fue titular en este encuentro, una decisión habitual de Xabi Alonso, quien ha implementado un sistema de rotación en la defensa para dar descanso y alternabilidad a sus jugadores.
+
+Holstein Kiel remonta en la segunda mitad
+-----------------------------------------
+
+A pesar de que el Leverkusen mantuvo el dominio durante el segundo tiempo, no fue capaz de aumentar su ventaja. **Holstein Kiel**, que había mostrado pocas opciones ofensivas hasta ese momento, se encontró con una oportunidad dorada al **minuto 70**.
+
+Un penal a favor de los visitantes fue ejecutado con éxito, lo que permitió a Holstein Kiel igualar el marcador 2-2. Este gol cambió la dinámica del partido, y Xabi Alonso decidió entonces dar ingreso a **Piero Hincapié en los últimos 20 minutos**, buscando reorganizar su defensa para evitar una posible remontada.
+
+> Direkt im Anschluss an den Ausgleich erfolgen drei Wechsel beim Bayer:  
+>   
+> Es kommen rein:[#Hincapie](https://twitter.com/hashtag/Hincapie?src=hash&ref_src=twsrc%5Etfw), [#Schick](https://twitter.com/hashtag/Schick?src=hash&ref_src=twsrc%5Etfw) & [@97\_aleix](https://twitter.com/97_aleix?ref_src=twsrc%5Etfw)  
+> Es gehen raus:[#Andrich](https://twitter.com/hashtag/Andrich?src=hash&ref_src=twsrc%5Etfw), [@boniface\_jrn](https://twitter.com/boniface_jrn?ref_src=twsrc%5Etfw) & [#Palacios](https://twitter.com/hashtag/Palacios?src=hash&ref_src=twsrc%5Etfw).[#B04KSV](https://twitter.com/hashtag/B04KSV?src=hash&ref_src=twsrc%5Etfw) 2:2 [pic.twitter.com/UvWdJsVWh9](https://t.co/UvWdJsVWh9)
+> 
+> — Bayer 04 Leverkusen (@bayer04fussball) [October 5, 2024](https://twitter.com/bayer04fussball/status/1842581269156360435?ref_src=twsrc%5Etfw)
+
+Pese a los intentos en los **últimos minutos del Bayer**, no pudo ganar el encuentro frente a uno de los últimos de la Bundesliga.
+
+Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio
+======================================================================================
+
+Hernán Mendoza desapareció el 26 de enero tras subirse a un taxi en el norte de Quito; luego de 32 días fue encontrado sin vida.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El quiteño Hernán Mendoza desapareció cuando tenía 30 años](https://www.elcomercio.com/wp-content/uploads/2024/10/mendoza.jpg)
+
+Un juez decidió llamar a **juicio** a los tres presuntos implicados en la desaparición y muerte de **Hernán Mendoza**.
+
+La decisión se tomó este viernes 4 de octubre de 2024, tras conocer el dictamen acusatorio por parte del fiscal de la Unidad de Personas Desaparecidas que lleva el caso; y luego de rechazar una petición de la defensa de **anular el proceso** por falta de documentación.
+
+### Más noticias
+
+* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
+* [Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad](https://www.elcomercio.com/actualidad/quito/acuerdo-quito-2034-busca-erradicar-la-pobreza-y-mejorar-la-seguridad.html "Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad")
+* [Ministro de Gobierno, Félix Wong, aclaró límites del estado de excepción en Quito](https://www.elcomercio.com/actualidad/politica/ministro-gobierno-felix-wong-hablo-estado-excepcion-quito.html "Ministro de Gobierno, Félix Wong, aclaró límites del estado de excepción en Quito")
+
+Desaparición de Hernán Mendoza
+------------------------------
+
+El caso de Hernán Mendoza **conmocionó a la capital** a inicios de este año. El ciudadano de **30 años** tomó un taxi, junto a un amigo, en la intersección de las avenidas República y Pradera, en el norte de Quito, la noche del 26 de enero de 2024.
+
+Esa fue la **última vez** que se lo vio con vida.
+
+Según las investigaciones y testimonios, dos hombres, **Félix Rolando F. S.** y **Stalin René A. C.**, habrían pagado al conductor del vehículo, **Franklin Geovanny Á. Q.**, para que este trasladara a las víctimas a otros lugares.
+
+De acuerdo con la versión del taxista, a los pocos minutos que se subieron al automotor, Mendoza habría ingerido una **bebida preparada** que le hizo perder el conocimiento.
+
+Luego los abandonó a ambos en el sector del **puente de Guápulo**, asegura el involucrado.
+
+De Hernán no se supo más, hasta 32 días después de su búsqueda. El joven fue encontrado **sin vida** en Mandariacu, a orillas del río **Guayllabamba**, en el límite entre Pichincha e Imbabura, la tarde del 27 de febrero.
+
+Las cámaras de seguridad fueron claves para la investigación. En ellas se observó a los presuntos responsables llevando a Mendoza a un cajero para retirar **260 dólares**. En las imágenes aparecería el rostro de uno de los sospechosos.
+
+Procesados podrían enfrentar hasta 26 años de prisión
+-----------------------------------------------------
+
+El dictamen acusatorio del Fiscal estableció que existieron suficientes elementos para señalar a los tres procesados como presuntos autores y que deben ser juzgados por un Tribunal de Garantías Penales.
+
+Félix Rolando F. S. y Stalin René A. C. fueron vinculados a la causa en marzo de 2024. Ellos actuaron presuntamente como los **acompañantes** del taxista.
+
+En los próximos días se conocerá el día y la hora para el juzgamiento de Félix Rolando F. S. y Franklin Geovanny Á. Q.
+
+Esto debido a que Stalin René A. C., el otro presunto involucrado, mantiene suspendido el proceso en su contra por estar **prófugo**.
+
+Félix Ronaldo F. también lo estaba. pero fue capturado por la Interpol en **México** y trasladado a Quito el 9 de abril.
+
+El Código Orgánico Integral Penal (**COIP**) sanciona este el delito de desaparición involuntaria con resultado de muerte con el artículo 163.
+
+El apartado establece una pena privativa de libertad de **22 a 26 años**.
+
+La familia y los cercanos de Hernán Mendoza esperan que su desaparición no quede en la impunidad; ellos claman **justicia**.
+
+Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador
+====================================================================
+
+Sebastián Beccacece fue anunciado como nuevo entrenador de la Selección de Ecuador el 1 de agosto.
+--------------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/invitados_becca_1.jpg)
+
+Sebastián Beccacece presentó este viernes 4 de octubre de 2024 la **lista de 25 convocados de la Selección de Ecuador** para afrontar la nueva doble fecha de eliminatorias al Mundial 2026.
+
+Para Sebastián Beccacece ante **Paraguay (10 de octubre) y Uruguay (15 de octubre)** sumará dos nuevos partidos como entrenador, luego de su debut con derrota ante Brasil en Curitiba y la victoria en Quito ante Paraguay.
+
+### Más noticias:
+
+* [Chelsea vuelve a la carga en Conference League](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo-cuando-juega.html "Chelsea vuelve a la carga en Conference League")
+* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
+* [El primer gol olímpico en Ecuador cerca del centenario](https://www.elcomercio.com/deportes/futbol/goles-olimpicos-ecuador-historia-centenario.html "El primer gol olímpico en Ecuador cerca del centenario")
+
+Tal como lo hizo en su primera convocatoria de septiembre, Beccacece incluyó en su lista de convocados a **cinco jugadores jóvenes que tienen la categoría de ‘invitados’** que estarán concentrados en la Casa de la Selección en Quito.
+
+“**Vamos a tener cinco invitados**” confirmó el entrenador en rueda del prensa realizada el jueves 3, en donde detalló el plan de trabajo que tendrán los seleccionados para afrontar este nueva doble fecha de eliminatorias.
+
+Los cuatro primeros ‘invitados’ fueron el portero de Independiente Juniors, Alexis Villa; **el lateral izquierdo de Independiente del Valle, Yaimar Medina**; el mediocampista del Macará, Mateo Viera; y al delantero del Barcelona Sporting Club, Allen Obando.
+
+Mateo Viera no se integró con el equipo por una lesión, al igual que **Cristian Ramírez del Ferencváros de Hungría** y Alan Minda del Círculo de Brujas de Bélgica, que se quedaron al margen por dolencias físicas.
+
+Beccacece habló de Alfaro
+-------------------------
+
+El seleccionador de Ecuador, el argentino Sebastián Beccacece, manifestó este jueves respeto y admiración por su compatriota **Gustavo Alfaro, exseleccionador de la Tri y actual técnico de Paraguay**, próximo rival en las eliminatorias sudamericanas del Mundial de 2026.
+
+Beccacece expuso la cercana relación que tiene con Alfaro, que es su vecino en Buenos Aires e incluso su esposa ha sido maestra de una de las hijas del entrenador de la selección ecuatoriana.
+
+“Ha tenido un recorrido muy grande en el fútbol y ha empezado muy de abajo como yo. Ha tenido que hacerse el espacio y el **camino para llegar a estos lugares de privilegio**“, recordó Beccacece, que reiteró “el respeto y admiración a su trayectoria”.
+
+Sobre la Albirroja, Beccacece dijo que “es un rival que ha encontrado en su entrenador la posibilidad de tener cuatro puntos de seis, **no le han convertido goles, viene en alza y a lo largo de la historia** el jugador paraguayo ha sido muy aguerrido y agresivo, muy determinante en balones parados”.
+
+“Esto es un camino largo y ojalá en marzo veamos que esta semilla sea un fruto ya contundente. **Seguimos en esa línea de mantener muchos futbolistas** de los que han venido jugando”, indicó Beccacece.
+
+Reconoció que la conformación de esta nómina ha sido más sencilla que la anterior, pues ya iniciaron **todas las ligas de los clubes donde hay ecuatorianos militando en el extranjero**, por lo que fue más sencillo evaluar su nivel competitivo. EFE
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/invitados_becca_2-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+Los invitados de Beccacece
+--------------------------
+
+Invitados:
+----------
+
+Yaimar Medina – Independiente del Valle.  
+Keny Arroyo – Independiente del Valle  
+Denil Castillo – Midtjylland (DEN)  
+Allen Obando – Barcelona SC.  
+Alexis Villa – Independiente del Valle
+
+Sparrings:
+----------
+
+Darwin Guagua – Independiente del Valle  
+Gipson Preciado – Independiente Juniors  
+Maykel Caicedo – Liga de Quito
+
+No te pierdas – El Confesionario
+--------------------------------
+
+¿Cómo será el clima de Quito este fin de semana?
+================================================
+
+Para el fin de semana en Quito, el Instituto Nacional de Meteorología e Hidrología dio sus pronósticos sobre cómo será el clima.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Las lluvias del 2 de octubre afectaron a varias zonas del sur de Quito. ¿Pasará lo mismo el fin de semana?](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-2.jpg)
+
+LLegó el **fin de semana** y siempre es bueno armar planes. Pero para ello, al menos en estos días de **lluvias**, vale la pena preguntarse **¿cómo será el clima de Quito para esete fin de semana del 5 y 6 de octubre del 2024?**
+
+### Más noticias
+
+* [Un tronco conservado miles de años aporta claves de solución climática](https://www.elcomercio.com/tendencias/ambiente/tronco-conservado-miles-anos-aporta-claves-solucion-climatica.html "Un tronco conservado miles de años aporta claves de solución climática")
+* [Fuertes lluvias con granizo cayeron en Quito y sus alrededores](https://www.elcomercio.com/actualidad/quito/lluvias-granizo-valle-quito-octubre.html "Fuertes lluvias con granizo cayeron en Quito y sus alrededores")
+* [¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?](https://www.elcomercio.com/actualidad/negocios/ecuador-crecimiento-economico-pobreza-politicas-cambio-climatico.html "¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?")
+
+El fin de semana según el Inamhi
+--------------------------------
+
+El **Instituto Nacional de Meteorología e Hidrología** (**Inhami**) indicó que las **lluvias** se presentarán en toda la ciudad sobre todo por las tardes de este **fin de semana**. Por las **mañanas**, en cambio habrá sol, que, incluso, se lo podría calificar como **“sol de aguas”**, como se dice en Quito.
+
+“Eso es exactamente lo que vamos a tener”, dice **Madelyn Enríquez**, analista de pronósticos del **Inamhi**.
+
+Las **precipitaciones** vespertinas serán en **toda la ciudad**, según los pronósticos de Enríquez.
+
+¿Y si todo se complica?
+-----------------------
+
+No habría razones para **preocuparse** en principio, pero todo dependerá del **calentamiento** atmosférico que se tenga y se podrían generar **tormentas** o **granizo**.
+
+Para ello, es necesario tomar las **precauciones** necesarias, como, por ejemplo, no escampar bajo árboles y postes, preferentemente detener el automóvil si están manejando o, por lo menos, manejar con el cuidado necesario ante la poca visibilidad que se podría tener.
+
+Sin embargo, para **Enríquez**, en principio **no serán tan fuertes** como las recientes lluvias que causaron inundaciones en los **barrios del sur de Quito[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")**
+
+Enríquez añade que es posible que el clima de Quito para este fin de semana las lluvias en el **norte de Quito** no sean tan intensas como en el sur. Tampoco, afirma, se puede pronosticar las horas en que caerán las **aguas** porque, “**dependiendo del comportamiento puede adelantarse o atrasarse”**.
+
+Así que, al menos por la mañana, en Quito podrá disfrutar de la mañana soleada y resguardarse de la lluvia por las tardes. Pero, como dicen por ahí, con el clima de Quito nunca se sabe.
+
+Condiciones del clima en Ecuador para este sábado 5 de octubre
+==============================================================
+
+El Inamhi dio las previsiones del clima en todas las regiones del país. ¿En qué sectores se prevén lluvias? Te lo contamos.
+---------------------------------------------------------------------------------------------------------------------------
+
+![En algunos sectores de la Sierra y Amazonía se seperan lluvias con tormentas](https://www.elcomercio.com/wp-content/uploads/2024/10/inamhi.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) dio las previsiones del **clima** para la mañana, tarde y noche de este sábado 5 de octubre de 2024.
+
+De forma general, se esperan mañanas con **sol** y cielos pocos nublados; mientras que para la tarde y noche, **lluvias y tormentas** en algunas provincias de la Sierra y Amazonía.
+
+### Más noticias
+
+* [Otra tarde de fuertes lluvias en varios sectores de Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-fuertes-tarde.html "Otra tarde de fuertes lluvias en varios sectores de Quito")
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+
+En la región **Interandina**, las temperaturas oscilarán entre una mínima de **9 °C** y una máxima de **22 °C**. Las lluvias en horas de la tarde acompañadas de tormentas son probables, especialmente en Imbabura, **Pichincha**, Tungurahua, Cañar y Azuay.
+
+En la **Amazonía** la situación será similar. En la mañana se esperan cielos nublados, mientras que en la tarde y noche, la llegada de **fuertes lluvias** con tormentas.
+
+En esta región las temperaturas variarán entre los **16 °C** y **30 grados °C**.
+
+Según el Inamhi, en la **Costa**, si bien habrá la presencia de nubes, **no se prevé la presencia de lluvias**.
+
+Por su ubicación, la temperatura será considerablemente más elevada, con mínimos de **20 °C** y máximos **32 °C**.
+
+**Guayaquil** será la ciudad más calurosa este sábado.
+
+¿Cómo estará el clima en Quito?
+-------------------------------
+
+Según el reporte del clima del Instituto, los cielos serán poco nubosos en la mañana en **Quito**, lo que generará una radiación entre ‘muy alta’ y ‘extremadamente alta’ en algunos sectores.
+
+Conforme avance la tarde, las nubes cubrirán la capital provocando **lluvias débiles**.
+
+Desde las **07:00** hasta las **19:00** la temperatura máxima que tendrá la capital es de **21 °C a 24 °C**.
+
+Para la noche y madrugada la situación cambiará. Se prevé que las lluvias aumenten a fuertes, y que en algunos sectores haya **tormentas** dispersas.
+
+Entre las 19:00 del sábado hasta las 07:00 del domingo se registrará una temperatura mínima **8 °C** a 11 °C.
+
+> [#PronosticoPichinchaEc](https://twitter.com/hashtag/PronosticoPichinchaEc?src=hash&ref_src=twsrc%5Etfw) l Sábado, 05 de octubre: Cielo poco nuboso a nublado, lluvias con tormentas en horas de la tarde y parte de la noche en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). 🌧️⛈️☔️  
+>   
+> Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre Muy Alta y Extremadamente Alta. [#soldeaguas](https://twitter.com/hashtag/soldeaguas?src=hash&ref_src=twsrc%5Etfw). 🌤️🌡️ [pic.twitter.com/7SDnS0rBTW](https://t.co/7SDnS0rBTW)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842542946505166851?ref_src=twsrc%5Etfw)
+
+Radiación ultravioleta
+----------------------
+
+Los niveles más altos de radiación este sábado se registrarán en el Litoral, la Amazonía y Loja, con niveles ‘**muy altos**‘ (8).
+
+En el centro del país, los rayos ultravioleta (UV) serán menores, con índices entre **6 y 7**, considerados como ‘altos’.
+
+Mientras que en el interior del Litoral y el occidente de la Sierra, la radiación será **moderada**.
+
+En aquellas provincias donde la radiación tenga niveles ‘altos’ o superiores, se recomienda no exponerse prolongadamente al sol, entre las **10:00 y 15:00**.
+
+> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el sábado, 05 de octubre de 2024. [pic.twitter.com/S3pJtjhYs6](https://t.co/S3pJtjhYs6)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 4, 2024](https://twitter.com/inamhi_ec/status/1842344728743793115?ref_src=twsrc%5Etfw)
 
 Ecuador en zona de descenso en la liga junior de la Inteligencia Artificial
 ===========================================================================
@@ -74,32 +729,6 @@ En **investigación**, necesitamos ampliar el número, la calidad e **impacto** 
 En la tercera dimensión **gobernanza** se analiza el grado de madurez del **entorno institucional** encargado de impulsar **políticas públicas**, regulaciones y una **ética sostenible** respecto de la IA. El país que lidera esta dimensión es **Chile**, con un índice de 83.62. Por su parte, Ecuador tiene un índice de 17.00, que está muy por debajo del promedio regional que es de 37.46. Esto se debe a que, según el informe de ILIA, Ecuador tiene una escasa **visión** e **institucionalidad** para gestionar una **estrategia**, instrumentos y políticas necesarias para [no quedarse al margen de la cuarta revolución industrial](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html "Enla cuarta revolución industrial"). Otro punto crítico es el bajo índice de **ciberseguridad** del Ecuador, que es de 27.23, frente a un promedio regional de 49.85. Adicionalmente, **Ecuador** debe mejorar su gestión en **materia** de **protección** de **datos personales**, pues aquí tenemos un índice de 13.39, frente a un **promedio regional** de 30.72. También necesitamos mejorar nuestro **marco regulatorio**, que según el índice ILIA es incipiente, para reducir los **riesgos** de **impactos** **negativos**, y promover la **legitimidad**, los **derechos humanos**, **ética**, y la **sustentabilidad** en el desarrollo de IA. Adicionalmente, nuestra **regulación** debe incluir aspectos sobre **seguridad**, **precisión** y confiabilidad, donde tenemos un índice de 0 con respecto a un promedio regional de 20.20.
 
 En conclusión, el índice ILIA 2024 ofrece un **análisis** amplio, detallado y **actual** sobre el desarrollo de IA en Latinoamérica y el Caribe. Sin embargo, es importante mencionar que los países de esta región competimos en la liga junior de la IA, mientras que, por ejemplo, Estados Unidos de América, China, Reino Unido, Emiratos Árabes Unidos y Canadá juegan en la liga mayor. En la liga junior de la IA**,** Ecuador está muy cerca de la zona de descenso. Para avanzar a **posiciones** estelares en el **desarrollo** de **IA** dentro de nuestra región, en **Ecuador** necesitamos una **mejora significativa** en **infraestructura energética**, **tecnológica** y **humana**, **alfabetización** y **educación básica** y avanzada en IA, **inversión** en I+D+i, y **desarrollo** de una **gobernanza estable** y **segura**.
-
-Binomios presidenciales entran a un escrutinio múltiple
-=======================================================
-
-El calendario para las elecciones 2025 se agota, con evaluaciones, dudas y expectativas.
-----------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: candidatos a la Presidencia de Ecuador, hombres y mujeres bajo una lupa.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-editorial.jpg)
-
-Las inscripciones para las **elecciones 2025** en **Ecuador** culminaron. 16 binomios fueron el resultado de un proceso definido entre primarias realizadas por cumplir un requisito, con candidatos predispuestos, y apenas una sola alianza entre organizaciones políticas.
-
-Ahora, viene una nueva fase: la evaluación para definir candidaturas en firme. Esta es una lupa desde lo oficial, el **Consejo Nacional Electoral (CNE)**, y la sociedad. En el primer frente, el análisis corresponde a los requisitos, que incluyen una radiografía a la historia legal.
-
-La paridad es una de las bases fundamentales. Aunque la normativa de un equipo conformado por **mujer-hombre o, a su vez, hombre-mujer** se cumple en todos los casos, hay una deuda visible: apenas hay dos féminas encabezando las duplas.
-
-Sin duda, la participación política de las **mujeres** en **Ecuador** aún es insuficiente. Queda claro que la paridad no se logrará exclusivamente con cuotas de **género**. Se requiere una cultura política que deje de ponerlas en segundo plano.
-
-> Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso del binomio presidencial, tener paridad de género: hombre-mujer o mujer-hombre.
-
-Las impugnaciones pueden llegar de cualquier actor político. Claro que, los candidatos tienen la opción de responder y defender su postulación. El 30 de diciembre de 2024, finalmente, se conocerán los contendientes que disputarán la **Presidencia y Vicepresidencia**.
-
-Pero, sin duda, el mayor escrutinio es la mirada ciudadana, la incertidumbre y la búsqueda de respuestas ante la **inseguridad**, el **desempleo** y **emergencias** que agravan el panorama.
-
-El filtro final está conformado por **13 736 314 electores**. De estos, 456 485 se encuentran en el exterior. Así que, si bien diciembre es una fecha clave, será el 9 de febrero de 2025, cuando se desarrollen las elecciones generales. De haber segunda vuela, será el 13 de abril.
-
-Los ecuatorianos elegirán entre la continuidad de **Daniel Noboa**, no así Verónica Abad, la dupla con la que llegó al Palacio de Carondelet en 2023, y 15 opciones que apuntalan el discurso de la salvación del país. Sin contar que, además, se elegirán a 151 cabezas del poder legislativo.
 
 Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada
 ==================================================================
@@ -195,6 +824,32 @@ Consejo para preparar la receta del caldo de patas
     Haz que tus comidas sean inolvidables con estos bolones crujientes y llenos de sabor. ¡Comparte esta receta con tus amigos!
     
 
+Binomios presidenciales entran a un escrutinio múltiple
+=======================================================
+
+El calendario para las elecciones 2025 se agota, con evaluaciones, dudas y expectativas.
+----------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: candidatos a la Presidencia de Ecuador, hombres y mujeres bajo una lupa.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-editorial.jpg)
+
+Las inscripciones para las **elecciones 2025** en **Ecuador** culminaron. 16 binomios fueron el resultado de un proceso definido entre primarias realizadas por cumplir un requisito, con candidatos predispuestos, y apenas una sola alianza entre organizaciones políticas.
+
+Ahora, viene una nueva fase: la evaluación para definir candidaturas en firme. Esta es una lupa desde lo oficial, el **Consejo Nacional Electoral (CNE)**, y la sociedad. En el primer frente, el análisis corresponde a los requisitos, que incluyen una radiografía a la historia legal.
+
+La paridad es una de las bases fundamentales. Aunque la normativa de un equipo conformado por **mujer-hombre o, a su vez, hombre-mujer** se cumple en todos los casos, hay una deuda visible: apenas hay dos féminas encabezando las duplas.
+
+Sin duda, la participación política de las **mujeres** en **Ecuador** aún es insuficiente. Queda claro que la paridad no se logrará exclusivamente con cuotas de **género**. Se requiere una cultura política que deje de ponerlas en segundo plano.
+
+> Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso del binomio presidencial, tener paridad de género: hombre-mujer o mujer-hombre.
+
+Las impugnaciones pueden llegar de cualquier actor político. Claro que, los candidatos tienen la opción de responder y defender su postulación. El 30 de diciembre de 2024, finalmente, se conocerán los contendientes que disputarán la **Presidencia y Vicepresidencia**.
+
+Pero, sin duda, el mayor escrutinio es la mirada ciudadana, la incertidumbre y la búsqueda de respuestas ante la **inseguridad**, el **desempleo** y **emergencias** que agravan el panorama.
+
+El filtro final está conformado por **13 736 314 electores**. De estos, 456 485 se encuentran en el exterior. Así que, si bien diciembre es una fecha clave, será el 9 de febrero de 2025, cuando se desarrollen las elecciones generales. De haber segunda vuela, será el 13 de abril.
+
+Los ecuatorianos elegirán entre la continuidad de **Daniel Noboa**, no así Verónica Abad, la dupla con la que llegó al Palacio de Carondelet en 2023, y 15 opciones que apuntalan el discurso de la salvación del país. Sin contar que, además, se elegirán a 151 cabezas del poder legislativo.
+
 Cartas a Quito / 5 de octubre de 2024
 =====================================
 
@@ -230,6 +885,26 @@ Para lograr el éxito planteado en el proyecto “Biocorredor Ruta del Choclo”
 El proyecto Biocorredor Ruta del Choclo se presenta como una oportunidad única para impulsar el desarrollo sostenible en las comunidades, preservando la biodiversidad y fortaleciendo la economía local. A través de la participación activa de las comunidades, el proyecto no solo contribuye al desarrollo económico, sino que también fortalece el tejido social y promueve la conservación del medio ambiente. La implementación de tecnologías innovadoras y la capacitación de los productores son elementos clave para garantizar la sostenibilidad a largo plazo del proyecto. El Biocorredor Ruta del Choclo será un modelo de inspiración para otras regiones. 
 
 Anthony Jordán Macías Sornoza 
+
+Campaña farandulera
+===================
+
+¿Quién será el candidato que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los mercachifles de la política?
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Los **ciudadanos** interesados en la suerte del **país** sostienen que ninguno de los **candidatos** ha expuesto un **proyecto** de **país**, un diagnóstico de los **problemas** y las **soluciones** que implementaría en caso de ser elegido **presidente**. El mensaje electoral es frívolo, la campaña tiene un **carácter farandulero**.
+
+Andy Borowitz, en su libro _Profiles in Ignorance,_ sostiene que los últimos presidentes de Estados Unidos han pasado por tres etapas: en la primera, **políticos** tontos pretendían que eran **inteligentes**; en la segunda, **políticos** tontos se sentían autorizados a parecer tontos; en la tercera, **políticos inteligentes** fingían que eran tontos.
+
+En nuestra **campaña electoral** tenemos **candidatos** pertenecientes a las tres etapas. Todos ocultan la verdad, no saben o no quieren reconocer la **gravedad** de los **problemas**, y prefieren parecer tontos o nos toman por tontos y pretenden hacernos creer que son **taumaturgos**, magos, sabios o tocados por la suerte. Los **candidatos** se mienten y nos mienten.
+
+El país no necesita falsos **optimistas** que nos ofrezcan la pócima para todos los males como vendedores de feria; necesita **líderes** que nos digan que avanzamos como mula ciega hacia el **abismo**, alguien que nos asuste, para que dejemos de ver la **campaña** como **programa** de **entretenimiento**.
+
+Los **presidentes** empujan la **crisis** al que viene. Estamos acumulando **problemas** y tornándolos insolubles: **inseguridad**, **desempleo**, **migración**, deuda, **crisis energética**, **seguridad social**, corrupción; todo dejamos que vaya a peor para entregarlo al que viene, pero lo que viene es la **tragedia nacional** si continuamos por el mismo camino.
+
+Dos **personajes tenebrosos** de la era correísta se presentaron en la **comisión** de **fiscalización**, uno para atacar y otro para defender a la ministra de gobierno; como si fuera un país abandonado que carece de líderes, condenado a repetir lo peor de nuestro pasado. ¿Quién será el **candidato** que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los **mercachifles** de la **política**?
 
 El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios
 ====================================================================================
@@ -413,709 +1088,3 @@ El líder opositor pidió a la comunidad internacional que tome la decisión de 
 No obstante, recalcó que “para nada” se siente abandonado por la comunidad internacional.
 
 Explicó que más de 30 países, entre ellos España, firmaron la pasada semana una declaración tras una reunión auspiciada por Estados Unidos y Argentina “reconociéndome -ha explicado- como presidente electo”.
-
-Nueva cárcel El Encuentro tiene un avance del 30 %
-==================================================
-
-El presidente Daniel Noboa visitó la obra ubicada en Santa Elena, este viernes 4 de octubre de 2024.
-----------------------------------------------------------------------------------------------------
-
-![La prisión se construye en el sector Juntas del Pacífico, en la provincia de Santa Elena](https://www.elcomercio.com/wp-content/uploads/2024/10/carcel.jpg)
-
-El presidente **Daniel Noboa** visitó la construcción de la nueva cárcel **El Encuentro** en Santa Elena, donde supervisó los avances de la obra que, según prometió, mejorará el sistema penitenciario del país.
-
-Durante el recorrido, Noboa destacó que el objetivo es crear un centro de máxima seguridad que garantice el aislamiento de cerca de **800** personas privadas de la libertad (**PPL**).
-
-### Más noticias
-
-* [El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-fase-final.html "El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización")
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
-* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
-
-“Buscamos tener un sistema penitenciario más avanzado; con el aislamiento necesario en máxima seguridad para las personas privadas de la libertad”, manifestó el primer mandatario.
-
-La futura prisión se levantará sobre **37 hectáreas** y tendrá 14 000 metros cuadrados de construcción.
-
-De acuerdo con el Gobierno, estará equipada con **tecnología** avanzada, incluyendo sistemas de videovigilancia e inteligencia artificial para monitorear en tiempo real a los internos.
-
-La cárcel de máxima seguridad contará con una infraestructura exterior e interior con **seis torres de vigilancia** (9,5 metros de altura cada una); una muralla de nueve metros; seis metros de concreto y tres metros de malla inescalable.
-
-Además de módulos de máxima seguridad, área de estacionamientos, cocina, lavandería, armería, entre otros centros.
-
-La infraestructura se edificará bajo los **estándares internacionales** utilizados en otras cárceles, indicó el Gobierno.
-
-Prisión lleva un avance del 30 %
---------------------------------
-
-Según el director del Servicio Nacional de Atención Integral a Personas Privadas de la Libertad (SNAI), **Luis Zaldumbide**, la construcción se completará en menos de un año (300) días, “un récord”, dijo.
-
-La prisión ubicada al sur de la comuna **Juntas del Pacífico**, en la parroquia Simón Bolívar comenzó su construcción en junio de 2024.
-
-Hasta la visita de Daniel Noboa, este viernes, la obra registra un avance físico del **30 %** y uno económico del 12 %.
-
-Los actuales trabajos en El Encuentro, luego de cuatro meses, incluyen la construcción de pabellones, torres de control y murallas.
-
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realizó un sobrevuelo y recorrido para verificar el avance de la construcción de la “Cárcel El Encuentro" que se edifica en la provincia de Santa Elena. Con cerca de 37 hectáreas y 14.000 metros cuadrados de construcción, cuenta con un avance físico… [pic.twitter.com/S9WICqXps2](https://t.co/S9WICqXps2)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 4, 2024](https://twitter.com/Presidencia_Ec/status/1842313299498512544?ref_src=twsrc%5Etfw)
-
-La obra cuenta con una inversión que supera los **52 millones de dólares**.
-
-Según Noboa, este centro de rehabilitación “favorecerá una verdadera rehabilitación.
-
-“Estamos mejorando la seguridad y los centros de reclusión, ya no serán centros de crimen, si no servirán para que se cumplan las sentencias y exista una verdadera rehabilitación”, añadió.
-
-En la comunidad Puntas del Pacífico, en la parroquia Simón Bolívar, además, se reforzará el centro médico, los parques multiuso y una unidad educativa.
-
-Este es el estado de salud de Mónica Palencia
-=============================================
-
-El estado de salud de Mónica Palencia fue revisado, tras asistir a la sesión de Fiscalización, por el juicio político en su contra.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Ambulancia en la que fue revisado el estado de salud de la ministra del Interior, Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-16.jpg)
-
-La ministra del Interior, **Mónica Palencia**, sufrió una descompensación médica que afectó a su **estado de salud,** la tarde de este viernes 4 de octubre de 2024.
-
-Hoy, Palencia asistió, de forma virtual, a una sesión de la Comisión de Fiscalización por el juicio político en su contra, que tuvo una duración de cerca de diez horas.
-
-### Más noticias:
-
-* [El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-fase-final.html "El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización")
-* [Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?](https://www.elcomercio.com/actualidad/politica/monica-palencia-descompensacion-ambulancia.html "Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?")
-
-La sesión de la Comisión de Fiscalización fue convocada a las 08:00 y concluyó a las 18:18.
-
-Cerca de las 18:00, la ministra Mónica Palencia pidió un receso para ir al baño y solicitó que ya se concluya.
-
-Esta sesión estaba convocada para que, las partes, tanto los interpelantes como la funcionaria, emitan sus últimos alegatos dentro del proceso.
-
-Estado de salud de Mónica Palencia
-----------------------------------
-
-Al reinstalar la sesión y tras constatar los asambleístas presentes, Pamela Aguirre (RC), presidenta de la mesa, dio la palabra a Palencia.
-
-El viceministro de Seguridad, Lyonel Calderón, intervino para decir que la Ministra había sufrido una descompensación.
-
-Palencia recibió atención en una ambulancia y trasladada a una casa de salud.
-
-Desde el **Ministerio del Interior** se informó que Palencia está con **reposo médico**.
-
-La Ministra recibió **atención ambulatoria**, **descansó por un momento** y la prescripción de reposo médico la hace en **su domicilio**.
-
-Se indicó que la descompensación fue producto del cansancio y el estrés.
-
-Situación del juicio político contra Mónica Palencia, tras sufrir una afectación a su estado de salud
------------------------------------------------------------------------------------------------------
-
-**Leonardo Berrezueta y Paola Cabezas**, asambleístas correístas, enjuician políticamente a Mónica Palencia por supuesto incumplimiento de funciones.
-
-Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
-
-Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
-
-La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
-
-A partir de este sábado 5 de octubre, transcurre el plazo de cinco días para que la mesa legislativa emita el informe motivado.
-
-En este informe, los asambleístas de la Comisión pueden sugerir el juicio político o su archivo.
-
-Finalmente, el Pleno de la Asamblea tiene la última decisión sobre este proceso.
-
-Para la censura de la Ministra se requieren de 92 votos afirmativos en la Asamblea.
-
-El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización
-======================================================================================
-
-La Comisión de Fiscalización debe elaborar un informe para votación en la fase final del juicio político en contra de Mónica Palencia.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Mónica Palencia en la Comisión de Fiscalización que tramita el juicio político en su contra y que ahora está en fase final.](https://www.elcomercio.com/wp-content/uploads/2024/10/monica-juicio.jpg)
-
-El juicio político en contra de la ministra del Interior, Mónica Palencia, está en su fase final en la Comisión de Fiscalización de la Asamblea Nacional[.](https://es.wikipedia.org/wiki/M%C3%B3nica_Palencia)
-
-La Comisión de Fiscalización cerró, la noche de este viernes 4 de octubre, el período de prueba.
-
-### Más noticias:
-
-* [Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?](https://www.elcomercio.com/actualidad/politica/monica-palencia-descompensacion-ambulancia.html "Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?")
-* [Juicio político a Mónica Palencia se instaló en línea, otra vez](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-se-instalo-linea-otra-vez.html "Juicio político a Mónica Palencia se instaló en línea, otra vez")
-* [Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/felix-wong-se-refirio-juicio-politico-monica-palencia.html "Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia")
-
-El período de prueba transcurrió por 10 días, incluido la presentación de alegatos de las partes este viernes, en una sesión que inició a las 08:00 y concluyó pasadas las 18:00.
-
-Minutos antes de clausurar la sesión virtual, Palencia pidió ir al baño, se dio un receso de cinco minutos; pero la Ministra ya no regresó.
-
-El viceministro de Seguridad, Lyonel Calderón, informó de la descompensación médica.
-
-La Ministra fue ingresada a una ambulancia, trasladada a una casa de salud, donde se le estabilizó y se le prescribió reposo médico en su domicilio.
-
-La fase final del juicio político contra Mónica Palencia, sus interpelantes y motivaciones
-------------------------------------------------------------------------------------------
-
-Mónica Palencia, ministra del Interior, es enjuiciada políticamente por los correístas Leonardo Berrezueta y Paola Cabezas por supuesto incumplimiento de funciones.
-
-Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
-
-Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
-
-La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
-
-Fase final del juicio político contra Mónica Palencia en Fiscalización
-----------------------------------------------------------------------
-
-Tras días de sesiones presenciales y virtuales con gritos, altercados y enfrentamientos, la Comisión de Fiscalización entra en la fase final del juicio contra Mónica Palencia.
-
-La Comisión se apresta a votar por la aprobación o no del informe final que autorice un juicio político en contra de la Ministra del Interior.
-
-A partir de este sábado 5 de octubre, transcurre el plazo de cinco días para que la mesa legislativa emita el informe motivado.
-
-En este informe, los asambleístas de la Comisión pueden sugerir el juicio político o su archivo.
-
-Finalmente, el Pleno de la Asamblea tiene la última decisión sobre este proceso.
-
-Para la censura de la Ministra se requieren de 92 votos afirmativos en la Asamblea.
-
-Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre
-====================================================================================
-
-La entidad ajustó los horarios habituales de clases por los cortes de luz programados que tiene el país.
---------------------------------------------------------------------------------------------------------
-
-![Dos de tres jornadas escolares sufrirán cambios en sus horarios normales](https://www.elcomercio.com/wp-content/uploads/2024/10/clases.jpg)
-
-El **Ministerio de Educación** dio las directrices que deberán cumplir todas las unidades públicas del país la próxima semana.
-
-La entidad dispuso que se extiendan los cambios en los horarios de clases, desde el **lunes 7** de octubre hasta el **jueves 10** de octubre.
-
-### Más noticias
-
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
-
-La disposición fue oficializada mediante un comunicado, que detalla que el ajuste de las jornadas educativas afectará a **dos de las tres jornadas**.
-
-Esta medida se aplica debido a los cortes de energía programados, que si bien se han reducido, aún continúan en Ecuador, como consecuencia de la **crisis hídrica** que afecta a varias provincias.
-
-El **viernes 11 de octubre** no se tomó en cuenta en el ajuste debido al **feriado** que tendrán los ecuatorianos por la **Independencia de Guayaquil**.
-
-Esta fecha se celebra el 9 de octubre, sin embargo, según la **Ley de Feriados**, cuando coincide entre semana se traslada al viernes próximo.
-
-Cambios en los horarios de clases
----------------------------------
-
-Los horarios habituales de clases en el sistema fiscal variarán durante otros cinco días adicionales.
-
-* **Jornada matutina**: Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
-* **Jornada vespertina**: Este horario sí tendrá importantes cambios. Los estudiantes verpertinos ingresarán a la hora acostumbrada, sin embargo, saldrán a las **17:00**.
-* **Jornada nocturna**: Este horario se mantendrá bajo la **modalidad no presencial**, con el uso de recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
-
-Este ajuste ya se aplicó la semana anterior, del lunes 30 de septiembre al viernes 4 de octubre.
-
-El objetivo, según el Ministerio, es “garantizar tanto la continuidad del proceso educativo como la seguridad de los estudiantes, docentes y personal administrativo” de las escuelas y colegios públicos.
-
-Las **instituciones particulares, fiscomisionales y municipales** tiene la posibilidad de sumarse a estos cambios o definir sus propias directrices.
-
-> \[COMUNICADO\] Emitimos disposiciones para garantizar la continuidad educativa en el periodo correspondiente del lunes 07 al jueves 10 de octubre. 👇 [pic.twitter.com/JQ1ZqBYfah](https://t.co/JQ1ZqBYfah)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 4, 2024](https://twitter.com/Educacion_Ec/status/1842329816944586953?ref_src=twsrc%5Etfw)
-
-Antonela Roccuzzo sorprende como portada de una icónica revista de moda
-=======================================================================
-
-Antonela Roccuzzo, pareja de Lionel Messi, deslumbra en la revista Harper’s Bazaar Brasil
------------------------------------------------------------------------------------------
-
-![Antonela Roccuzzo como portada de la revista Harper’s Bazaar Brasil](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T210607.729.jpg)
-
-**Antonela** **Roccuzzo** captó la atención del mundo de la moda al protagonizar la edición de octubre de Harper’s Bazaar Brasil. La imagen de la esposa de Lionel Messi generó gran expectativa y entusiasmo en redes sociales, atrayendo las miradas tanto de admiradores como de críticos de moda.
-
-Roccuzzo l**uce un elegante vestido negro** de alta costura, diseñado por Marc Jacobs, que combina audacia y sofisticación. El traje presenta un escote corazón voluminoso que aporta un toque romántico, y una silueta marcada por líneas limpias que resaltan su figura.
-
-### Más noticias:
-
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-* [Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami](https://www.elcomercio.com/deportes/futbol/lionel-messi-y-leonardo-campana-conquistan-un-nuevo-titulo-con-el-inter-miami.html "Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami")
-* [Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad](https://www.elcomercio.com/deportes/futbol/lionel-messi-modo-superheroe-ayudo-fan-a-escapar-de-la-seguridad.html "Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad")
-
-Para complementar su look, **Roccuzzo lleva joyas de la reconocida marca Tiffany**, con la cual mantiene una relación de embajadora. Entre las piezas destacan una gargantilla, pulseras y aros de oro con incrustaciones de piedras preciosas, añadiendo un brillo sofisticado a su estilismo.
-
-Mientras Antonela sigue abriéndose camino en el mundo de la moda como uno de los rostros más destacados, su esposo, **Lionel Messi,** continúa haciendo historia día tras día en el fútbol de Estados Unidos, con su impresionante desempeño en el Inter Miami de la **MLS**.
-
-Lionel Messi y sus números con el Inter Miami
----------------------------------------------
-
-La llegada de **Lionel Messi** a la MLS fue un fenómeno mediático y deportivo, ya que, a pesar de seguir en gran forma, eligió jugar en el **Inter Miami** sobre muchas ofertas que tuvo en 2023, tras su paso por el París Saint-Germain y su triunfo en el Mundial de Qatar 2022 con la selección argentina.
-
-Su arribo causó un impacto masivo en la MLS, con ventas récord de camisetas, entradas y una creciente influencia en la sociedad estadounidense. Bajo esa presión, Messi no decepcionó a nadie.
-
-En su primera temporada, Messi jugó 14 partidos, anotó 11 goles y dio cinco asistencias, además de lograr el título de la **Leagues Cup**, el primero en la historia del club.
-
-Un año después, en la temporada 2024, sumó un nuevo título con el **Supporters’ Shield**. Hasta el momento, Messi ha disputado 20 partidos, anotando 19 goles y repartiendo 12 asistencias.
-
-En total, en 34 partidos con Inter Miami, ha acumulado **30 goles y 17 asistencias**.
-
-Horarios de cortes de luz en Santo Domingo de los Tsáchilas del sábado 5 de octubre
-===================================================================================
-
-La Corporación Nacional de Electricidad (CNEL) estableció el cronograma de los cortes de luz para el cantón Santo Domingo y la provincia de Santo Domingo de los Tsáchilas. Más noticias Los racionamientos del servicio de electricidad se redujeron en la provincia Tsáchila, desde el viernes 4 de octubre. Esa fue la nueva disposición del Ministerio \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este cronograma de cortes de luz se aplicará en Santo Domingo.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-santo-domingo.jpg)
-
-La **Corporación Nacional de Electricidad (CNEL)** estableció el cronograma de los **cortes de luz** para el **cantón Santo Domingo y la provincia de Santo Domingo de los Tsáchilas.**
-
-Más noticias
-------------
-
-* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
-* [Horarios de cortes de luz en Cuenca contemplan entre ocho y 10 horas sin servicio](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-contemplan-entre-ocho-y-10-horas-sin-servicio-lunes.html "Horarios de cortes de luz en Cuenca contemplan entre ocho y 10 horas sin servicio")
-* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
-
-Los racionamientos del servicio de electricidad se redujeron en la provincia Tsáchila, desde el viernes 4 de octubre. Esa fue la nueva disposición del Ministerio de Energía.
-
-En tal virtud, los **cortes de luz en Santo Domingo** **de los Tsáchilas** se efectuarán de acuerdo con las franjas horarias reducidas, que se aplican a escala nacional.
-
-Según el cronograma establecido por la **CNEL para su Unidad de Negocios Santo Domingo**, la suspensión de la energía eléctrica será de entre dos y cuatro horas en los diferentes sectores.
-
-La CNEL dispuso que los **cortes de luz en Santo Domingo** **de los Tsáchilas** comiencen desde las 00:00 hasta las 19:00 del sábado 5 de octubre de 2024.
-
-Los periodos largos de racionamientos eléctricos serán entre las 00:00 y las 10:00. Mientras que en la tarde y noche habrá cortes de luz entre las 17:00 y las 19:00 del mismo día.
-
-En total, los **cortes de luz en Santo Domingo de los Tsáchilas** serán de 22 horas, repartidas entre nueve horarios.
-
-Los horarios de cortes de luz reducidos
----------------------------------------
-
-El **Ministerio de Energía** cambió el esquema de los cortes de luz, que se aplicarán desde el 4 al 6 de octubre de 2024 en todo el territorio nacional[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
-
-El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo. Ese esquema se aplicará hasta el 20 de octubre, luego de lo cual se informará si se mantiene o se cambia de modalidad.
-
-**De lunes a jueves**:
-
-Dos horas seguidas entre las 18h00 a 22h00.
-
-Cuatro horas seguidas entre las 00h00 y las 08h00.
-
-**De viernes a domingo:**
-
-Dos horas seguidas entre las 16h00 y 19h00.
-
-Cuatro horas seguidas entre las 00h00 y 10h00.
-
-Puede consultar los cortes de luz en su ciudad y sector en el siguiente enlace [https://acortar.link/7reWpc](https://acortar.link/7reWpc)
-
-Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?
-=========================================================================================
-
-Mónica Palencia sufrió una descompensación y fue trasladada en ambulancia, tras asistir a una sesión virtual del juicio político en su contra.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Mónica Palencia en la ambulancia para ser trasladada por una descompensación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-15.jpg)
-
-La ministra del Interior, **Mónica Palencia**, sufrió una **descompensación** y fue trasladada en **ambulancia** a una casa de salud, la noche de este viernes 4 de octubre de 2024.
-
-Esto ocurrió tras asistir a una sesión virtual de la **Comisión de Fiscalización** por el **juicio político** en su contra que empezó a las 08:00 y concluyó pasadas las 18:00.
-
-### Más noticias:
-
-* [Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/felix-wong-se-refirio-juicio-politico-monica-palencia.html "Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia")
-* [Juicio político a Mónica Palencia se instaló en línea, otra vez](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-se-instalo-linea-otra-vez.html "Juicio político a Mónica Palencia se instaló en línea, otra vez")
-
-La tarde de este viernes, la Ministra pidió cinco minutos para ir al **baño**; pero, cuando se reinstaló la sesión, ella no estaba.
-
-En su lugar, intervino el viceministro de Seguridad Ciudadana, **Lyonel Calderón**, explicó la situación de Palencia.
-
-“La doctora ha tenido un bajón, producto de esta larga jornada, una descompensación, entonces, está acudiendo al médico, no se va a poder conectar”, señaló.
-
-El estado de Mónica Palencia, tras la descompensación y el traslado en ambulancia
----------------------------------------------------------------------------------
-
-Tras la espera, **Pamela Aguirre (RC)** señaló que, por motivos médicos, la ministra Palencia se ha ausentado.
-
-Posteriormente, Aguirre señaló que se ha concluido los 10 días el período de presentación de pruebas, incluidos los alegatos de las partes que se presentaron este día.
-
-Tras cerca de **10 horas,** el Secretario de la Comisión clausuró la sesión a las **18:18**.
-
-Mientras qué, desde el **Ministerio del Interior** se informó que Palencia está con **reposo médico**.
-
-Se agregó que Palencia tuvo una **atención ambulatoria**, **descansó un momento** y la prescripción de reposo médico la hace en **su domicilio**.
-
-La Comisión debe volver a sesionar para conocer el informe y votar sobre si aprueba o no el trámite del juicio político en contra de Palencia.
-
-Mónica Palencia y el juicio político en su contra
--------------------------------------------------
-
-Mónica Palencia, ministra del Interior, es enjuiciada políticamente por los correístas Leonardo Berrezueta y Paola Cabezas por supuesto incumplimiento de funciones.
-
-Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
-
-Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
-
-La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
-
-El Monumental de River Plate acogerá la final de la Copa Libertadores
-=====================================================================
-
-¡Se acabó la incertidumbre! Conmebol confirma la sede de la final de la Copa Libertadores 2024
-----------------------------------------------------------------------------------------------
-
-![Imagen referencial del Trofeo de la Copa Conmebol Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T202804.295.jpg)
-
-Finalmente, la **Conmebol** reveló el estadio que albergará la final de la **Copa Libertadores** 2024\. El partido por el título más prestigioso de Sudamérica se disputará en el **Estadio Monumental** de River Plate, en Buenos Aires, Argentina.
-
-El anuncio lo realizó la propia **Confederación Sudamericana** de Fútbol este viernes 4 de octubre, a través de una serie de publicaciones en sus redes sociales. Hasta hoy, solo se sabía que la final se jugaría en la capital argentina, pero no se había confirmado el estadio.
-
-### Más noticias:
-
-* [Dragonas IDV debuta con un valioso empate en la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-idv-debuta-valioso-empate-libertadores-femenina.html "Dragonas IDV debuta con un valioso empate en la Libertadores Femenina")
-* [Alan Franco, el único ecuatoriano en carrera por Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-copa-libertadores-atletico-mineiro.html "Alan Franco, el único ecuatoriano en carrera por Copa Libertadores")
-* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
-
-“El encuentro decisivo por la **Gloria Eterna se disputará el sábado 30 de noviembre de 2024**, en uno de los escenarios más emblemáticos del fútbol sudamericano”, anunció en un comunicado la Conmebol, que tiene su sede en la ciudad paraguaya de Luque.
-
-> 🏟️ 🏆 ¡La final de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) 2024 se jugará en el estadio Monumental de Buenos Aires! 🇦🇷  
->   
-> 🔜 Será el 30/11 por la [#GloriaEterna](https://twitter.com/hashtag/GloriaEterna?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/BwqxScBI0Q](https://t.co/BwqxScBI0Q)
-> 
-> — CONMEBOL Libertadores (@Libertadores) [October 5, 2024](https://twitter.com/Libertadores/status/1842359489032229192?ref_src=twsrc%5Etfw)
-
-El Monumental agregó la nota, “ha sido seleccionado por su moderna infraestructura, su vasta historia deportiva y su capacidad para recibir a la gran cantidad de hinchas que acompañan a los actuales clubes semifinalistas”.
-
-El recinto bonaerense **tiene capacidad para más de 84.000 espectadores.**
-
-> 🏟️ 🏆 ¡El estadio Monumental, la casa de la final de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) 2024![#GloriaEterna](https://twitter.com/hashtag/GloriaEterna?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YM5uZi5dIW](https://t.co/YM5uZi5dIW)
-> 
-> — CONMEBOL Libertadores (@Libertadores) [October 5, 2024](https://twitter.com/Libertadores/status/1842365336047235084?ref_src=twsrc%5Etfw)
-
-La Libertadores vuelve a Argentina
-----------------------------------
-
-En febrero pasado se anunció que la **capital argentina albergará la final** del torneo sudamericano, que tuvo su primera edición en 1960, bajo el nombre Copa de Campeones de América.
-
-Entre los posibles escenarios se barajaban, además del Monumental, el Estadio Libertadores de América del Club Atlético Independiente y el Estadio Único **Diego Armando Maradona**.
-
-Desde 2019, año en que el título de la máxima competición de clubes en **Sudamérica** se juega a partido único, Argentina no ha albergado ninguna final.
-
-La última definición de la Libertadores a la que hay que remontarse en suelo porteño es la fallida de 2018 que protagonizaron los rivales eternos, **River Plate y Boca Juniors,** y cuya vuelta debió resolverse en Madrid.
-
-La ida debió jugarse un día después de lo previsto por una inundación en las instalaciones de La Bombonera, la cancha de Boca Juniors, y l**a vuelta se trasladó a Europa** después de que hinchas de River atacaron el vehículo de los auriazules en los aledaños del estadio de Núñez.
-
-Desde entonces, la **Conmebol** otorgó la organización de la final de la Libertadores a Lima, Río de Janeiro (en dos ocasiones), Montevideo y **Guayaquil** (Ecuador).
-
-Con 25 títulos, Argentina es el país que más veces ha ganado la Copa, seguido por Brasil (23) y Uruguay (8).
-
-Cortes de luz en Machala para este sábado 5 de octubre
-======================================================
-
-La Corporación Nacional de Electricidad (CNEL) detalló los horarios de los apagones programados para la capital de El Oro.
---------------------------------------------------------------------------------------------------------------------------
-
-![La CNEL es la empresa eléctrica que opera en El Oro](https://www.elcomercio.com/wp-content/uploads/2024/10/luz-cortes-machala.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló los sectores de Machala que tendrán **cortes de luz** este sábado 5 de octubre de 2024.
-
-La medida se aplica en la capital de **El Oro**, al igual que en el resto de ciudades, debido a la **crisis hídrica** que enfrenta Ecuador.
-
-### Más noticias
-
-* [Cortes de luz en Portoviejo el sábado 5 de octubre del 2024](https://www.elcomercio.com/actualidad/cortes-luz-portoviejo-sabado-4-octubre.html "Cortes de luz en Portoviejo el sábado 5 de octubre del 2024")
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-* [Horarios de cortes de luz en Santa Elena del sábado 5 de octubre](https://www.elcomercio.com/actualidad/cortes-luz-santa-elena-ecuador.html "Horarios de cortes de luz en Santa Elena del sábado 5 de octubre ")
-
-Esta emergencia, en gran parte causada por la falta de lluvias, llevó a que el Comité de Operaciones de Emergencias Nacional (COE) mantenga la declaratoria de **alerta roja** en la provincia este viernes, junto a Manabí, Santa Elena y Galápagos.
-
-Cortes de luz en Machala
-------------------------
-
-Los apagones programados en Machala se aplicarán durante **cuatro horas** a través de cinco franjas horarias.
-
-Los cortes de luz se realizarán entre la **madrugada** y la **mañana** de este sábado.
-
-### De 00:00 a 04:00
-
-* La vía a Machala desde La Iberia hasta la entrada a El Cambio, Cartonera Andina.
-* Vía La Primavera hasta la entrada a Machala.
-
-### De 01:00 a 05:00
-
-**Barrios**: La Aurora, Santa Elena, Fernando Daquilema, Alborada 1 y 2, Machala Occidental, Manuela  
-Cañizares, Urbanización La Carolina; las calles 10 de Agosto, Napoleón Mera desde la Boyacá hasta la  
-Circunvalación Norte, calle Buenavista desde la Marcel Laniado hasta la Circunvalación Norte, calle  
-Marcel Laniado desde la circunvalación Norte hasta la calle Guayas. La Garzota, Bellavista, Otto Álvarez,  
-Los Rosales, El Triunfo, Reina del Cisne.
-
-Centro Comercial La Piazza, embotelladora Ingaoro, ex Discount  
-Center, Concesionaria Oro Auto, Hyundai. San Gregorio, Vergeles, Urseza 2 y 3, Rayito de Luz, Los Andes,  
-Asociación de Empleados del Consejo Provincial; Colegio El Oro, Mercado Mayorista, Predio La Katya.  
-Bellos Horizontes, Los Laureles, Buena Fe, Siete de Marzo, La Primavera, Lotización El Sol, 24 de  
-Septiembre, 16 de Marzo, Rosanelli, Urbanización Unioro. Urbanizaciones San Patricio, Las Acacias,  
-Ciudad del Sol y el Centro de Salud Velasco Ibarra.
-
-### De 02:00 a 06:00
-
-**Barrios**: 10 de Septiembre, Los Sauces 2, Federico Páez y Washington García, Camaroneras del sector de  
-Puerto grande y Chalacal. Barrios Los Sauces, 18 de Octubre, Fanny Estela, Buenos Aires, Miraflores,  
-Venecia, 19 de Noviembre, Independiente, Hospital Esperanza, Urseza 3, circunvalación Norte desde el  
-Monumento El Aguador hasta la Av. Madero Vargas, lado derecho de la Av. Madero Vargas hasta la  
-circunvalación Norte y entrada al Balneario El Coco.
-
-### De 04:00 a 07:00
-
-**Barrios**: Cdla. del Seguro, Patria Nueva, Las Tinas sectores 1, 2 y 3, Martha Bucaram, Alcides Pesantez, Las  
-Gaviota, Periodista, 6 de Diciembre, Abdón Calderón, MIES; Calle 9 de mayo de la 12va Sur hasta la Circunvalación Sur.
-
-Desde el Redondel del Cambio, hasta la entrada a Machala, del lado derecho hasta Produbanco, Incarpalm, Universidad de Machala, Emproro, Expoceánica, Reybanpac, E. Maulme Camiones. Vía a Santa Rosa desde la Y del Cambio hasta la Y de Balosa, incluido el Colegio  
-Militar Héroes de 41.
-
-Correccional de menores, los sitios Corralitos, Motuche, La María, Ceibales; la  
-Parroquia El Retiro. Toda la Av. Circunvalación Sur. Barrios: Los Ceibos, 1 de Enero, Jaime Roldós, Los  
-Girasoles, Nuevo Pilo, Venezuela, San Francisco, 12 de Mayo, Luz de América, Pampas de Pilo, Las  
-Carretas, Florida sectores 2-3. Urbanizaciones: Santa Inés, Ciudad Verde, Ciudad Palmeras, Porto  
-Verdella; Centro Comercial Oro Plaza, Macarsa, Facultad de Ciencias Agropecuarias de la  
-Universidad de Machala, oficinas del S.R.I, Ecuaquímica.
-
-**Sectores** de la Parroquia Puerto Bolívar: Barrios 22 de Mayo, 12 de Noviembre, Estero Huaylá, 4 de  
-Abril, Simón Bolívar, Amazonas, Barrio Autoridad Portuaria, la izquierdo de la Av. Madero Vargas,  
-González Rubio. Salinas, Urseza 3, Abdalá Bucaram, El Pacífico, Harry Álvarez, La Unión, Liceo Naval  
-Jambelí, Corporación Aduanera del Ecuador, Autoridad Portuaria, Mercado Municipal, Malecón de  
-Puerto Bolívar y Parque de la Madre.
-
-### De 05:00 a 09:00
-
-**Barrios**: Cdla. Las Brisas, Las Crucitas, Celessia, Universidad Metropolitana, Asilo de Ancianos. El Bosque 1 y 2, Lilian María, Machalilla, Cdla. Esteban Quirola, Colegio Marcel Laniado, San Ramón, Voluntad de  
-Dios, Costa Azul, sitios La Puentecita, Km 1 al km 17 de la vía a Balosa sector camaronero, Los  
-Ángeles, La Patera, Lindo Ecuador, Florida 4-5-6, El Cóndor. Vía a Pajonal, sitio Ceibales, Colegios  
-Santa María y Pacífico y Cdla. Portal del Río.
-
-Cortes de luz en otros cantones de El Oro
------------------------------------------
-
-En este documento puedes revisar los apagones programados para los barrios de **otros cantones** de El Oro:
-
-Moisés Caicedo y el Chelsea pelearán por clasificar a la Champions League
-=========================================================================
-
-El Chelsea, con Moisés Caicedo como uno de sus líderes, tiene claro su objetivo principal para la temporada 2024/25.
---------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en un partido con el Chelsea en la temporada 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T200306.667.jpg)
-
-El **Chelsea** comenzó la campaña 2024/25 en la Premier League de manera destacada, superando el mal inicio de las temporadas anteriores. **Moisés Caicedo**, uno de los capitanes, afirmó que este rendimiento es fruto del trabajo realizado en la pretemporada, y que buscan mantener este nivel a lo largo del torneo.
-
-Los ‘Blues’ **acumulan cinco partidos consecutivos sin conocer la derrota** en la liga, con cuatro victorias en los últimos encuentros. Su única caída fue en la jornada inaugural ante el vigente campeón, Manchester City.
-
-### Más noticias:
-
-* [Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-inicia-con-contundente-victoria-en-conference-sin-moises-caicedo.html "Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo")
-* [Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/chelsea-kendry-paez-mundial-clubes.html "Chelsea abre la puerta a Kendry Páez y al Mundial de Clubes")
-* [Moisés Caicedo, el consentido del DT del Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-consentido-del-dt-del-chelsea.html "Moisés Caicedo, el consentido del DT del Chelsea")
-
-Actualmente, el Chelsea ocupa la cuarta posición en la Premier League, con 13 puntos en seis jornadas, a solo dos puntos del líder, Liverpool. Además, es el equipo más goleador del campeonato con 15 goles.
-
-El objetivo es clasificar a Champions League
---------------------------------------------
-
-Este viernes 4 de octubre, **Moisés Caicedo** brindó varias entrevistas a medios internacionales y locales, donde resaltó el objetivo principal del **Chelsea** para esta temporada y habló sobre el positivo inicio que han tenido.
-
-En una entrevista con Sky Sports, el ‘Niño Moi’ afirmó que **no está sorprendido por el buen arranque** del equipo, ya que trabajaron intensamente para ello desde la llegada del técnico **Enzo Maresca.**
-
-“Esperábamos este comienzo. **Durante la pretemporada nos propusimos esto, y lo estamos logrando**“, dijo Caicedo sobre la posición actual del Chelsea en la Premier League.
-
-Respecto a la clasificación a la Champions League, el ecuatoriano fue claro: “**Es nuestro principal objetivo. Vamos a trabajar duro para conseguirlo**“, aseguró.
-
-> "Yeah, that's the target." 🎯  
->   
-> Moises Caicedo says that Chelsea are 'working hard' for a Champions League spot this season under Enzo Maresca 🔵 [pic.twitter.com/inJ5UJng5s](https://t.co/inJ5UJng5s)
-> 
-> — Sky Sports Premier League (@SkySportsPL) [October 4, 2024](https://twitter.com/SkySportsPL/status/1842140633537904831?ref_src=twsrc%5Etfw)
-
-El Chelsea no va por la Premier League
---------------------------------------
-
-A pesar del buen inicio de campaña, el entrenador del Chelsea, **Enzo Maresca**, descartó la posibilidad de competir por el título de la Premier League, reconociendo que **Manchester City y Arsenal** están en un nivel superior.
-
-“**No creo que podamos competir con City o Arsenal**. No estamos preparados para eso. La diferencia es que el City lleva nueve años con el mismo entrenador y el Arsenal, cinco. Para competir al más alto nivel necesitas tiempo”, añadió el técnico italiano.
-
-**Maresca**, quien llegó este verano tras ascender al Leicester City y ser asistente de Pep Guardiola en el Manchester City, es el cuarto entrenador que pasa por el banquillo del Chelsea en poco más de dos años.
-
-Leonardo Campana y otras sorpresas de la Selección de Ecuador
-=============================================================
-
-Leonardo Campana, delantero de la Selección de Ecuador, encabeza la lista de sorpresas en la convocatoria de Sebastián Beccacece.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana, delantero del Inter de Miami, en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T162521.644.jpg)
-
-La segunda convocatoria de **Sebastián Beccacece** trajo consigo la ausencia de nombres que estuvieron presentes en el primer llamado y, con ello, la inclusión de nuevas figuras. Más de una sorpresa se metió en la lista de convocados de la **Selección de Ecuador** para enfrentar a Paraguay y Uruguay.
-
-Antes de anunciar los nombres que formarían parte del combinado nacional durante este viernes 4 de octubre del 2024, **Beccacece** dio una rueda de prensa un día antes. En la charla con los medios de comunicación, este se refirió a la **nueva convocatoria** y a eventuales cambios.
-
-### Más noticias:
-
-* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
-* [¿Cómo jugará la Selección de Ecuador ante Paraguay y Uruguay?](https://www.elcomercio.com/deportes/como-jugara-seleccion-ecuador-uruguay-paraguay.html "¿Cómo jugará la Selección de Ecuador ante Paraguay y Uruguay?")
-* [Pool Gavilánez respalda convocatoria de Gonzalo Valle a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pool-gavilanez-respalda-convocatoria-de-gonzalo-valle-seleccion-de-ecuador.html "Pool Gavilánez respalda convocatoria de Gonzalo Valle a la Selección de Ecuador")
-
-Con respecto al llamado para los jugadores que disputarán las eliminatorias sudamericanas, este señaló que la lista previa de **30 jugadores y cinco invitados** se reduciría a 25 y el número de acompañantes se mantendría. Asimismo, aseguró que, de darse modificaciones, estas responderían a dos o tres jugadores.
-
-Al momento de entregar la lista final, **Beccacece** cumplió con lo mencionado. Si bien salieron jugadores del total de llamados debido a su reducción, solo tres de los futbolistas que no estuvieron en la **convocatoria** previa fueron incluidos.
-
-Un arquero, una promesa y Leonardo Campana para la Selección de Ecuador
------------------------------------------------------------------------
-
-Entre los primeros nombres que llamaron la atención al figurar entre los convocados estuvo el de **Gonzalo Valle.** El arquero suplente de **Alexander Domínguez** en Liga de Quito fue citado y estará por segunda vez con la Selección de Ecuador, pues antes había estado presente en un amistoso con Gustavo Alfaro.
-
-Valle se impuso a nombres de otros goleros en mejor momento y con regularidad como **Alexander Domínguez y Pedro Ortiz**. Asimismo, el nombre de **David Cabezas**, figura de El Nacional y la Liga Pro, se volvió tendencia debido a su ausencia.
-
-Al portero albo se le sumó **Óscar Zambrano**, jugador de 20 años del Hull City de Inglaterra. Este ya había sido llamado en la etapa de **Félix Sánchez** para una fecha de eliminatorias y es la primera vez que Beccacece lo tiene en cuenta.
-
-**Leonardo Campana** es el último de los nuevos incluidos y tendrá su revancha con la Tri. Tras un buen momento con el Inter de Miami y consolidarse como el máximo goleador histórico del equipo, este retorna al combinado.
-
-Lista de convocados de la Selección de Ecuador
-----------------------------------------------
-
-**Arqueros**  
-Hernán Galíndez  
-Gonzalo Valle  
-Moisés Ramírez
-
-**Defensas**  
-Xavier Arreaga  
-Piero Hincapié  
-William Pacho  
-Félix Torres  
-Joel Ordóñez  
-Pervis Estupiñán  
-Jhoanner Chávez  
-Ángelo Preciado  
-Cristian Ramírez
-
-**Mediocampistas**  
-Alan Minda  
-Moisés Caicedo  
-Alan Franco  
-Óscar Zambrano  
-Kendry Páez  
-Jeremy Sarmiento  
-Pedro Vite  
-Jhon Yeboah  
-Gonzalo Plata  
-Jhon Mercado
-
-**Delanteros**  
-Enner Valencia  
-Kevin Rodríguez  
-Leonardo Campana  
-
-COE Nacional elimina alerta roja en 15 provincias
-=================================================
-
-El Comité de Operaciones de Emergencia se reunió este viernes 4 de octubre en el ECU 911 de Samborondón.
---------------------------------------------------------------------------------------------------------
-
-![La ministra Inés Manzano durante la sesión del COE Nacional](https://www.elcomercio.com/wp-content/uploads/2024/10/coe-nacional.jpg)
-
-El Comité de Operaciones de Emergencia Nacional (**COE**) se reunió la tarde de este viernes 4 de octubre de 2024, para analizar el déficit hídrico, sequía e incendios forestales que afectan a **Ecuador**.
-
-En la sesión realizada en el **ECU 911** de Samborondón, en la provincia de Guayas, las autoridades del Gobierno tomaron algunas **decisiones** sobre estas problemáticas.
-
-### Más noticias
-
-* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-
-Alerta roja se reduce en 15 provincias
---------------------------------------
-
-**Inés Manzano**, ministra del Ambiente y quien preside el COE, informó que se reduce la **alerta roja** por emergencias de 19 a cuatro provincias.
-
-Así, **Manabí, Santa Elena, El Oro y Galápagos** permanecerán con esta advertencia, hasta nuevo aviso.
-
-Además, se analizará la situación en **seguridad alimentaria** en estos lugares.
-
-### Provincias sin alerta roja:
-
-Estas son las provincias sin declaratoria de **alerta roja**:
-
-1. Azuay
-2. Bolívar
-3. Cañar
-4. Carchi
-5. Cotopaxi
-6. Imbabura
-7. Loja
-8. Morona Santiago
-9. Napo
-10. Orellana
-11. Pastaza
-12. Pichincha
-13. Sucumbíos
-14. Tungurahua
-15. Zamora Chinchipe
-
-Monitoreo permanente a hidroeléctricas
---------------------------------------
-
-La Ministra señaló que el Comité se mantendrá en sesiones permanentes.
-
-Los funcionarios monitorearán las condiciones de todas las **centrales hidroeléctricas** del país, especialmente de las más importantes: **Mazar**, **Coca Codo Sinclair**, Minas de San Francisco y Agoyán.
-
-Finalmente, en su corta intervención, Manzano reiteró el pedido a la ciudadanía y empresas privadas de utilizar **generadores eléctricos** y de evitar el uso del suelo en **zonas de riesgo**.
-
-Crisis hídrica e incendios forestales
--------------------------------------
-
-El sábado 21 de septiembre, el COE Nacional, a través de la Secretaría de Gestión de Riesgos declaró la emergencia (alerta roja) en **19 provincias** del Ecuador por los múltiples incendios forestales y sequía.
-
-Quito fue una de las ciudades más afectadas por esta primera problemática. El **incendio forestal** registrado en **Guápulo**, entre el martes 24 y jueves 26 de septiembre, destruyó viviendas y causó el daño de más de 146 hectáreas.
-
-Esta emergencia causó la pérdida de más **20 millones de dólares**.
-
-Mientras que en la capital, al igual que el resto del país, la sequía, causada en gran parte por la falta de lluvias, generó que el Gobierno racionalice el servicio eléctrico con **cortes de luz** de hasta **12 horas**.
-
-En algunos sectores, las empresas de **agua potable** suspendieron temporalmente el servicio.
-
-Proyecto económico urgente de energía ya tiene asignada comisión para trámite en Asamblea
-=========================================================================================
-
-La Asamblea tiene 30 días para tramitar el proyecto económico urgente de energía.
----------------------------------------------------------------------------------
-
-![El proyecto económico urgente de energía fue calificado y ya tiene comisión para el trámite en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-13.jpg)
-
-Con la calificación del **Consejo de Administración Legislativa (CAL)**, la **Asamblea** inició el trámite del **proyecto de ley económico urgente de energía**, este viernes 4 de octubre de 2024.
-
-El CAL definió la comisión que tratará el proyecto económico urgente enviado por presidente **Daniel Noboa**, a finales de septiembre.
-
-### Más noticias:
-
-* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
-
-El Ejecutivo denominó al proyecto como Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables.
-
-El objetivo de la iniciativa legal es subir la capacidad de generación de energía del sector privado de 10 megavatios (MW) a 100 MW.
-
-Noboa recordó que, en enero, presentó el proyecto de **Ley de Competitividad Energética** y la Asamblea no vio mejor opción que ponerle un techo de 10 MW a la generación de energía en el sector privado.
-
-“Si necesitan que les recordemos quiénes pusieron ese techo, con mucho gusto los ayudamos”, señaló Presidente en sus redes sociales.
-
-La Asamblea tiene 30 días para pronunciarse sobre la propuesta del Gobierno, si no lo hace, el texto entrará en vigencia por el Ministerio de la Ley.
-
-Comisión de la Asamblea que tramitará proyecto económico urgente de energía
----------------------------------------------------------------------------
-
-El **Consejo de Administración Legislativa (CAL)** calificaron a trámite el proyecto de ley económico urgente de energía por **unanimidad**.
-
-El CAL dispuso que el proyecto de ley sea **tramitado por la Comisión de Desarrollo Económico**.
-
-Esta comisión legislativa está dirigida por la asambleísta oficialista **Valentina Centeno** (ADN).
-
-La Comisión de Desarrollo Económico también tramitó la “Ley No Más Apagones” promocionada por el Ejecutivo, en enero.
-
-El nuevo proyecto también propone dar **incentivos** al sector privado por generación eléctrica.
-
-Esto, con fuentes de energía renovable no convencional, e implementar **acuerdos de compra de energía.**
