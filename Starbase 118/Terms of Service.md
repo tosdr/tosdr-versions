@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
+
+### [Award winner – Robin Hopper, Amity Outpost (Northern Star)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
+
+srichardsciencenerd118 October 5, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/september-2024-post-counts/)
 
 ### [September 2024 Post Counts](https://www.starbase118.net/2024/september-2024-post-counts/)
@@ -377,18 +389,6 @@ Genkos Adea October 3, 2024
 Now we’re on the other side of the Frontier Day blockbuster (well done to everyone who participated, it was a nail-biter!) we thought we’d throw
 
 [Read More »](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/09/halloween_avatar_contest_community_news-768x768.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/grab-your-tricks-and-treats-for-the-14th-anniversary-halloween-avatar-contest/)
-
-### [Grab your tricks and treats for the 14th Anniversary Halloween Avatar Contest!](https://www.starbase118.net/2024/grab-your-tricks-and-treats-for-the-14th-anniversary-halloween-avatar-contest/)
-
-Jo Marshall October 1, 2024
-
-Our annual Halloween Avatar Contest is run each year to see who can design the best forum avatars, featuring themes like “Nightmare Before Christmas,” “Sesame
-
-[Read More »](https://www.starbase118.net/2024/grab-your-tricks-and-treats-for-the-14th-anniversary-halloween-avatar-contest/)
 
 Ready to get started?
 ---------------------
