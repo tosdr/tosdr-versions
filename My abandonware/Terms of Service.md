@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [The Gigglebone Gang: Pantsylvania](https://www.myabandonware.com/game/the-gigglebone-gang-pantsylvania-s55)
+* [The Gigglebone Gang: World Tour](https://www.myabandonware.com/game/the-gigglebone-gang-world-tour-s54)
 * [Microsoft Train Simulator: Canadian Pacific Steam Locomotive Heritage Collection](https://www.myabandonware.com/game/microsoft-train-simulator-canadian-pacific-steam-locomotive-heritage-collection-s53)
 * [Photo Play 2000](https://www.myabandonware.com/game/photo-play-2000-som)
 * [Panic Road](https://www.myabandonware.com/game/panic-road-sol)
-* [Panic Park](https://www.myabandonware.com/game/panic-park-sok)
-* [Over Drive](https://www.myabandonware.com/game/over-drive-soj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
