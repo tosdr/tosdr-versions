@@ -20,16 +20,16 @@ Saturday, October 5 2024
 
 Latest
 
-* [Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
-* [Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
-* [PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
-* [Wrapping up the case for the defense – Computerworld](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
-* [Google Is Testing Out Verification Badges for Search](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
-* [Step-by-Step Guide to Wall-Mounting Your TV](https://digitpatrox.com/step-by-step-guide-to-wall-mounting-your-tv/)
-* [How to Get Organized With Ease Thanks to Microsoft Loop](https://digitpatrox.com/how-to-get-organized-with-ease-thanks-to-microsoft-loop/)
-* [Salesforce Dreamforce 2024: Delivering on AI hype](https://digitpatrox.com/salesforce-dreamforce-2024-delivering-on-ai-hype/)
-* [Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns](https://digitpatrox.com/over-5000-fake-microsoft-notifications-fueling-email-compromise-campaigns/)
-* [Zapperbox A1 Indoor/Outdoor HDTV Antenna](https://digitpatrox.com/zapperbox-a1-indoor-outdoor-hdtv-antenna/)
+* [Top 10 SEO Project Management Templates (Free & Paid)](https://digitpatrox.com/top-10-seo-project-management-templates-free-paid/)
+* [7 new to Netflix movies with 90% or higher on Rotten Tomatoes](https://digitpatrox.com/7-new-to-netflix-movies-with-90-or-higher-on-rotten-tomatoes/)
+* [Google removes Kaspersky’s antivirus software from Play Store](https://digitpatrox.com/google-removes-kasperskys-antivirus-software-from-play-store/)
+* [Intel says its Raptor Lake crashing chip nightmare is over](https://digitpatrox.com/intel-says-its-raptor-lake-crashing-chip-nightmare-is-over/)
+* [How to Get and Use Creaking Heart in Minecraft](https://digitpatrox.com/how-to-get-and-use-creaking-heart-in-minecraft/)
+* [Regulatory fines could be the tip of the iceberg for enterprises as data breach lawsuits expected to surge in 2025](https://digitpatrox.com/regulatory-fines-could-be-the-tip-of-the-iceberg-for-enterprises-as-data-breach-lawsuits-expected-to-surge-in-2025/)
+* [Open AI is testing a new interface for ChatGPT — ‘Canvas’ – Computerworld](https://digitpatrox.com/open-ai-is-testing-a-new-interface-for-chatgpt-canvas-computerworld/)
+* [The Status of Student Loan Forgiveness Just Changed Again (Again)](https://digitpatrox.com/the-status-of-student-loan-forgiveness-just-changed-again-again/)
+* [How to Find the Best Home Charger for Your Electric Vehicle](https://digitpatrox.com/how-to-find-the-best-home-charger-for-your-electric-vehicle/)
+* [Meta’s Movie Gen Can Create Eerie Videos and Audio](https://digitpatrox.com/metas-movie-gen-can-create-eerie-videos-and-audio/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/azqRjwrNt-ZFcwZoWbrYk7M5KAk=/0x0:2678x3600/1200x628/filters:focal(1431x515:1432x516)/cdn.vox-cdn.com/uploads/chorus_asset/file/25659288/1147538703.jpg)](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/seo-project-management-templates-featured-10042024-min.png)](https://digitpatrox.com/top-10-seo-project-management-templates-free-paid/)
     
-    [Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
+    [Top 10 SEO Project Management Templates (Free & Paid)](https://digitpatrox.com/top-10-seo-project-management-templates-free-paid/)
     
-    8 mins ago
+    6 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Roblox-Paradox-Release-Time-and-Date-Countdown-Timer-cover.jpg)](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
+* [![](https://cdn.mos.cms.futurecdn.net/mDNSZm5ah4asJu6kEVFqh7-1200-80.jpg)](https://digitpatrox.com/7-new-to-netflix-movies-with-90-or-higher-on-rotten-tomatoes/)
     
-    [Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
+    [7 new to Netflix movies with 90% or higher on Rotten Tomatoes](https://digitpatrox.com/7-new-to-netflix-movies-with-90-or-higher-on-rotten-tomatoes/)
     
-    23 mins ago
+    22 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/ZmqGrti9ws6mj3o2qMv5JA-1200-80.jpg)](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/04/kaspersky-headpic.jpg)](https://digitpatrox.com/google-removes-kasperskys-antivirus-software-from-play-store/)
     
-    [PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
+    [Google removes Kaspersky’s antivirus software from Play Store](https://digitpatrox.com/google-removes-kasperskys-antivirus-software-from-play-store/)
     
-    2 hours ago
+    50 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3547282-0-85573400-1728071154-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/8uUGwW15AqQoFzGOw_1hMXYqcVg=/0x0:2560x1696/1200x628/filters:focal(897x948:898x949)/cdn.vox-cdn.com/uploads/chorus_asset/file/25007267/intel14900k_3.jpg)](https://digitpatrox.com/intel-says-its-raptor-lake-crashing-chip-nightmare-is-over/)
     
-    [Wrapping up the case for the defense – Computerworld](https://digitpatrox.com/wrapping-up-the-case-for-the-defense-computerworld/)
+    [Intel says its Raptor Lake crashing chip nightmare is over](https://digitpatrox.com/intel-says-its-raptor-lake-crashing-chip-nightmare-is-over/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01J9CG4DR8EKJHPQ4J4QC2RRAD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Creaking-heart-Creaking-heart-blocks-and-the-Creaking-mobs-in-Minecraft.jpg)](https://digitpatrox.com/how-to-get-and-use-creaking-heart-in-minecraft/)
     
-    [Google Is Testing Out Verification Badges for Search](https://digitpatrox.com/google-is-testing-out-verification-badges-for-search/)
+    [How to Get and Use Creaking Heart in Minecraft](https://digitpatrox.com/how-to-get-and-use-creaking-heart-in-minecraft/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [6 mins ago
     
-    ### Ben Horowitz says he’ll donate to Kamala Harris after all](https://digitpatrox.com/ben-horowitz-says-hell-donate-to-kamala-harris-after-all/)
-* [23 mins ago
+    ### Top 10 SEO Project Management Templates (Free & Paid)](https://digitpatrox.com/top-10-seo-project-management-templates-free-paid/)
+* [22 mins ago
     
-    ### Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
-* [2 hours ago
+    ### 7 new to Netflix movies with 90% or higher on Rotten Tomatoes](https://digitpatrox.com/7-new-to-netflix-movies-with-90-or-higher-on-rotten-tomatoes/)
+* [50 mins ago
     
-    ### PagerDuty looks to growth with double leadership appointment](https://digitpatrox.com/pagerduty-looks-to-growth-with-double-leadership-appointment/)
+    ### Google removes Kaspersky’s antivirus software from Play Store](https://digitpatrox.com/google-removes-kasperskys-antivirus-software-from-play-store/)
 
 Most Popular Topics
 
+* [August 25, 2024
+    
+    ### Poll: Who Should Be the Next Member of the Straw Hat Pirates?](https://digitpatrox.com/poll-who-should-be-the-next-member-of-the-straw-hat-pirates/)
+* [August 18, 2024
+    
+    ### 8 Tricks That’ll Give Your Old Android Phone Another Year of Life (Or More)](https://digitpatrox.com/8-tricks-thatll-give-your-old-android-phone-another-year-of-life-or-more/)
 * [September 2, 2024
     
-    ### Download the AI-infused enterprise applications Spotlight](https://digitpatrox.com/download-the-ai-infused-enterprise-applications-spotlight/)
-* [4 weeks ago
-    
-    ### Startup accuses Nvidia and Microsoft of infringing on patents and forming a cartel](https://digitpatrox.com/startup-accuses-nvidia-and-microsoft-of-infringing-on-patents-and-forming-a-cartel/)
-* [4 weeks ago
-    
-    ### How I Use Windows 11’s Snap Layouts to Streamline Multitasking](https://digitpatrox.com/how-i-use-windows-11s-snap-layouts-to-streamline-multitasking/)
+    ### AWS CEO Matt Garman thinks AI coding tools could herald the end of the developer as we know it – but there’s light on the horizon for worried devs](https://digitpatrox.com/aws-ceo-matt-garman-thinks-ai-coding-tools-could-herald-the-end-of-the-developer-as-we-know-it-but-theres-light-on-the-horizon-for-worried-devs/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to Get Organized With Ease Thanks to Microsoft Loop](https://digitpatrox.com/how-to-get-organized-with-ease-thanks-to-microsoft-loop/)
+    ### Open AI is testing a new interface for ChatGPT — ‘Canvas’ – Computerworld](https://digitpatrox.com/open-ai-is-testing-a-new-interface-for-chatgpt-canvas-computerworld/)
 * [4 hours ago
     
-    ### Salesforce Dreamforce 2024: Delivering on AI hype](https://digitpatrox.com/salesforce-dreamforce-2024-delivering-on-ai-hype/)
+    ### The Status of Student Loan Forgiveness Just Changed Again (Again)](https://digitpatrox.com/the-status-of-student-loan-forgiveness-just-changed-again-again/)
 * [4 hours ago
     
-    ### Over 5,000 Fake Microsoft Notifications Fueling Email Compromise Campaigns](https://digitpatrox.com/over-5000-fake-microsoft-notifications-fueling-email-compromise-campaigns/)
+    ### How to Find the Best Home Charger for Your Electric Vehicle](https://digitpatrox.com/how-to-find-the-best-home-charger-for-your-electric-vehicle/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
