@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[86°
+[79°
 
-![Partly Cloudy](/pf/resources/images/weather/status-icons/30.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Mostly Cloudy](/pf/resources/images/weather/status-icons/27.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -421,6 +421,8 @@ We may share personal information about you that we collect or receive with the 
     If you have any questions or comments about this Privacy Statement, or if you would like us to exercise your privacy rights, update information we have about you or your preferences, please contact us by email at [privacy@cmg.com](mailto:privacy@cmg.com).
 
 [](https://www.actionnewsjax.com/mobile-apps/)
+
+[](https://www.ticketmaster.com/artist/2348410?home_away=home)
 
 [](https://www.actionnewsjax.com/getapet/)
 
