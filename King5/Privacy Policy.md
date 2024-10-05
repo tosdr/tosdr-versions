@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_360x203.jpg)](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+        
+        #### [16th annual Seattle Latino Film Festival highlights cinema, art and culture](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+        
     *  [![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
         
         #### [Man's kidney transplant at Swedish was delayed due to racially biased equation, lawsuit alleges](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
-        
-    *  [![](https://media.king5.com/assets/KING/images/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56/20241005T061510/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56/20241005T061510/1a07e1ea-d4f6-4317-bde3-2d07fa7c1e56_360x203.jpg)](https://www.king5.com/article/news/local/skyes-close-call-dog-falls-onto-moving-car-i-5/281-47a79701-a6b2-4eba-a1b3-21bf78fdf386)
-        
-        #### [Skye's close call: Dog falls onto moving car on I-5](https://www.king5.com/article/news/local/skyes-close-call-dog-falls-onto-moving-car-i-5/281-47a79701-a6b2-4eba-a1b3-21bf78fdf386)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_360x203.jpg)](https://www.king5.com/article/news/local/earthquake-near-vancouver/281-951608ad-9c5c-4027-bd14-ba2953f3128d)
+    *  [![](https://media.king5.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.king5.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
-        #### [Here's how strong this morning's earthquake near Vancouver was](https://www.king5.com/article/news/local/earthquake-near-vancouver/281-951608ad-9c5c-4027-bd14-ba2953f3128d)
+        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.king5.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+61°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
