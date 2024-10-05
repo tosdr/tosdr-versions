@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/gebruik-allemaal-mark-zuckerberg-als-fb-profielfoto/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/ziekten-en-vaccins-nader-bekeken/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
