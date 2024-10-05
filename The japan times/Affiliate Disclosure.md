@@ -130,66 +130,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Early Ishiba missteps add to anticipation over key policy speech](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-  [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-[Further BOJ rate hike this year in doubt after Ishiba's surprise warning](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
+[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-  [![Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425665.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.")](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
+  [![The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425981.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius")](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-[Consumer consultations by foreign visitors to Japan on the rise](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-  [![The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425678.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.")](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-[How climate change affects Japan's typhoons](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-  [![A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425780.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.")](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+[The Russian war economy’s days are numbered](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
 
-  [![Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.")](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+  [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Early Ishiba missteps add to anticipation over key policy speech](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
+[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Sam Roberts](https://www.japantimes.co.jp/author/6088/sam-roberts/ "Sam Roberts")  
 
-  [![Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425639.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/03/japan/politics/ishiba-early-challenges/ "Early Ishiba missteps add to anticipation over key policy speech")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Further BOJ rate hike this year in doubt after Ishiba's surprise warning](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
-
-By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
-
-  [![Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425665.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba meets with Bank of Japan Gov. Kazuo Ueda at the Prime Minister's Office on Wednesday.")](https://www.japantimes.co.jp/business/2024/10/03/ishiba-boj-rate-hike/ "Further BOJ rate hike this year in doubt after Ishiba's surprise warning")
+  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Consumer consultations by foreign visitors to Japan on the rise](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
+[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-  [![The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425678.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The number of consultations from foreign visitors to Japan about problems related to accommodations and shopping is increasing.")](https://www.japantimes.co.jp/news/2024/10/03/japan/society/foreign-visitor-consultations/ "Consumer consultations by foreign visitors to Japan on the rise")
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
+  [![The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425981.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius")](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
 
-[How climate change affects Japan's typhoons](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-  [![A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425780.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A bus is seen submerged in floodwaters in Yufu, Oita Prefecture, on Aug. 29 as Typhoon Shanshan dumps torrential rain across southern regions of Japan.")](https://www.japantimes.co.jp/environment/2024/10/03/climate-change/climate-change-typhoons/ "How climate change affects Japan's typhoons")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
 
-[Buffett may target Japan banks or insurers for next purchase, analysts say](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-By [Momoka Yokoyama](https://www.japantimes.co.jp/author/4573/momoka-yokoyama/ "Momoka Yokoyama")  
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-  [![Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Analysts say Warren Buffett may be looking to buy Japanese financial firms and shipping companies.")](https://www.japantimes.co.jp/business/2024/10/03/economy/buffett-targets-japan-banks/ "Buffett may target Japan banks or insurers for next purchase, analysts say")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[The Russian war economy’s days are numbered](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
+
+By [Anders Aslund](https://www.japantimes.co.jp/author/1556/anders-aslund/ "Anders Aslund")  
+
+  [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
 
 Podcast
 -------
@@ -210,9 +212,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Stepped-up global easing risks making it harder for BOJ to hike](https://www.japantimes.co.jp/business/2024/10/05/markets/boj-hike-global-easing-hurdle/ "Stepped-up global easing risks making it harder for BOJ to hike")
+[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
 
-46 mins ago
+47 mins ago
 
-[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
-
-1 hours ago
-
-[Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday](https://www.japantimes.co.jp/news/2024/10/05/japan/megumi-yokota-60th-birthday/ "Sakie Yokota expresses hopes for a reunion on daughter's 60th birthday")
+[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
 
 1 hours ago
 
-[These are boom times for ‘degrowth’](https://www.japantimes.co.jp/business/2024/10/05/economy/degrowth-kohei-saito/ "These are boom times for ‘degrowth’")
+[Government looks to improve safety at Japan's dangerous railway crossings](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-railway-crossing-safety/ "Government looks to improve safety at Japan's dangerous railway crossings")
 
-1 hours ago
+3 hours ago
 
-[One job by day, another by night as U.S. voters make ends meet](https://www.japantimes.co.jp/news/2024/10/05/world/society/us-voters-make-ends-meet/ "One job by day, another by night as U.S. voters make ends meet")
+[11 Japanese nationals flee Lebanon on SDF plane](https://www.japantimes.co.jp/news/2024/10/05/japan/japan-nationals-sdf-flee-lebanon/ "11 Japanese nationals flee Lebanon on SDF plane")
 
-1 hours ago
+4 hours ago
+
+[Chagos diaspora angry at lack of input on islands' fate](https://www.japantimes.co.jp/news/2024/10/05/world/society/chagos-diaspora-angry/ "Chagos diaspora angry at lack of input on islands' fate")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
