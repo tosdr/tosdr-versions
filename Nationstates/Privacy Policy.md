@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: The Last Month (10,342)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,342 posts)")
-* [is the above nation gem or coal (190)](https://forum.nationstates.net/viewtopic.php?t=556466&f=25&view=unread#unread ""is the above nation gem or coal" (190 posts)")
-* [YL finds AL sleeping next to them in bed (21)](https://forum.nationstates.net/viewtopic.php?t=556064&f=25&view=unread#unread ""YL finds AL sleeping next to them in bed" (21 posts)")
-* [Should Gender be looked at materially… (1,148)](https://forum.nationstates.net/viewtopic.php?t=556413&f=20&view=unread#unread ""Should Gender be looked at materially or ideally?" (1,148 posts)")
-* [\[DRAFT\] Personal Identity Act (22)](https://forum.nationstates.net/viewtopic.php?t=553751&f=9&view=unread#unread ""[DRAFT] Personal Identity Act" (22 posts)")
+* [What would the AN get if trading card… (161)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (161 posts)")
+* [\[Ω\] Invade AN, Nuke BN, or Dissolve YN? (21)](https://forum.nationstates.net/viewtopic.php?t=556396&f=25&view=unread#unread ""[Ω] Invade AN, Nuke BN, or Dissolve YN?" (21 posts)")
+* [F7 Clickbait (67)](https://forum.nationstates.net/viewtopic.php?t=556479&f=25&view=unread#unread ""F7 Clickbait" (67 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (8,838)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (8,838 posts)")
+* [The Solitary Throne \[OOC | Closed\] (619)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (619 posts)")
 
 Advertisement
 
