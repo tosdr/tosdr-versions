@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (57) \- 85% of the 57 user reviews in the last 30 days are positive.
+Very Positive (58) \- 84% of the 58 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,7 +202,7 @@ Very Positive (86% of 18,117) All Time
 
 Recent Reviews:
 
-Very Positive (85% of 57) Recent
+Very Positive (84% of 58) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -462,13 +462,13 @@ Very Positive (18,117 reviews) ![](https://store.akamai.steamstatic.com/public/s
 
 Recent Reviews:
 
-Very Positive (57 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (58 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
  All (19,251)  
- Positive (16,567)  
- Negative (2,684)
+ Positive (16,566)  
+ Negative (2,685)
 
 Purchase Type
 
