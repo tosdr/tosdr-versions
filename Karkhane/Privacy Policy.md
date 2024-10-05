@@ -49,12 +49,12 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
-* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
-* [![آموزش اقتصاد برای کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
+* [![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![آموزش اقتصاد برای کارگران](https://karkhane.org/app/uploads/2021/11/amuzesh-e-eqtesad-bara-ye-kargaran-95x65.jpg)](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)[آموزش اقتصاد برای کارگران، بخش یک: «مزد چیست؟»](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)
+    ![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](https://karkhane.org/app/uploads/2021/11/be-zaban-e-saade-ettehad-chist-95x65.jpg)](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)[«اتحاد» چیست؟ کارگران پاسخ می‌دهند](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
