@@ -115,4 +115,4 @@ Support
 
 [FAQ](https://anonaddy.com/faq/ "FAQ") [Help Centre](https://anonaddy.com/help/ "Help Centre") [Contact](https://anonaddy.com/contact/ "contact")
 
-[](https://github.com/anonaddy "addy.io GitHub")[](https://twitter.com/addy_io "addy.io Twitter")[](https://anonaddy.com/blog/feed.atom "addy.io Blog Feed")
+[](https://github.com/anonaddy "addy.io GitHub")[](https://x.com/addy_io "addy.io X")[](https://anonaddy.com/blog/feed.atom "addy.io Blog Feed")
