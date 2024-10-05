@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/halloween-24-roundup-feature.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/the-best-halloween-graphics-for-your-spooky-projects/)
+
+### The Best Halloween Graphics for Your Spooky Projects
+
 ![](https://inspgr.id/app/uploads/2024/09/retro-fonts-roundup-feature.jpg)
 
 [Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/gaomon-pd1320-pen-display-tablet-review/)
 
 ### Gaomon PD1320 Pen Display Tablet Review
-
-![](https://inspgr.id/app/uploads/2024/09/book-michael-doret-cover.jpg)
-
-[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/growing-up-in-alphabet-city-michael-dorets-incredible-visual-autobiography/)
-
-### Growing Up in Alphabet City: Michael Doret’s Incredible Visual Autobiography
 
 #want
 -----
