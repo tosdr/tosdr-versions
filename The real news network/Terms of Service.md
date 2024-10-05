@@ -1,15 +1,3 @@
-### **URGENT: [TRNN NEEDS YOUR SUPPORT TODAY!](https://support.therealnews.com/-/XDQGUTWM)**
-
-As we approach the end of the year, **_TRNN_** is facing significant challenges. Without your immediate support, we may not be able to maintain the level of production or in-depth reporting that you depend on.
-
-We urgently need to raise **[$25K this fall](https://support.therealnews.com/-/XKQDKWQC)** to strengthen our newsroom, support our dedicated staff, and continue producing the impactful stories that drive change and amplify voices too often ignored by mainstream media.
-
-At _TRNN_, we believe in the power of independent journalism to inform, inspire, and fuel movements. As a nonprofit, reader-supported network, we rely on your generosity to keep essential stories alive.
-
-**[Don’t wait—your support is crucial. Donate today and help us keep independent media strong!](https://support.therealnews.com/-/XZMQDPUZ)**
-
-[![](https://therealnews.com/wp-content/uploads/2023/04/TRNN-Newsletter-Donate-Button.png)](https://support.therealnews.com/-/XCHXGBDH)
-
 You're missing out.
 ===================
 
