@@ -118,61 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Johan Botha - Brand Xplosion
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=111019405)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=125890509)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=114034417)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=28933401)  
+Henry's Home Renovations
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=108451064)  
-Nogana Events and Decor
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=195175076)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=200772322)  
-Lindani Protection Services & Projects
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=124842401)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=187839671)  
-Kara Medical (Pty) Ltd
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=201617545)  
+Myfinance-Online
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=88531328)  
-LEONARD
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=104140535)  
+Mtunzini Group
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=138354918)  
-Network Grey (Pty) Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=114716135)  
+webb it services
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=46753490)  
-Itroniq (Pty) Ltd
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=158633015)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=174617085)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=170011001)  
-Know Informatics
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=190012894)  
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=204270259)  
 Westside Car Audio CC
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=81165103)  
-Dombieterfontein (PTY) LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=1140042)  
+BD Maintenance
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=192203775)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=59697806)  
+Import Maaw
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=12c445f64f75c04edd1510625741a8c6908069ffb4b6b7580e9d7835c8a06861&c=80895073)  
-Quad Biking Cape Town
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=114269952)  
+Gemini-IT Group
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=5586275)  
+Website Café (PTY) LTD
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=98632086)  
+VIR Electrical (PTY) LTD
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=79377107)  
+Nilbet T/A Waterman
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=40ce48569cda5a89708e4cb0e6d49cea854fcecfd0bc435c666591cc68e7fae9&c=136674823)  
+Enhle Oarabile Kea
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
