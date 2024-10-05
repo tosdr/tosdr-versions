@@ -36,6 +36,9 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![MoneyGram: No evidence ransomware is behind recent cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        MoneyGram: No evidence ransomware is behind recent cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-no-evidence-ransomware-is-behind-recent-cyberattack/)
     * [![Prepare for your CompTIA exams with this $30 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Prepare for your CompTIA exams with this $30 course bundle deal](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-comptia-exams-with-this-30-course-bundle-deal/)
@@ -45,9 +48,6 @@
     * [![Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](https://www.bleepingcomputer.com/news/security/russia-arrests-us-sanctioned-cryptex-founder-95-other-linked-suspects/)
-    * [![Google removes Kaspersky's antivirus software from Play Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google removes Kaspersky's antivirus software from Play Store](https://www.bleepingcomputer.com/news/security/google-removes-kasperskys-antivirus-software-from-play-store-disables-developer-accounts/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
