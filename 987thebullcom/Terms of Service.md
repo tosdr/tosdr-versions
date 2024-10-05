@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Aint Nothing Bout YouBrooks And Dunn<br><br>4:57am |
-| Drunk On YouLuke Bryan<br><br>4:53am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>4:50am |
-| AustinDasha<br><br>4:47am |
-| Everything I NeedChayce Beckham<br><br>4:44am |
+| AustinDasha<br><br>11:39am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:36am |
+| What My World Spins AroundJordan Davis<br><br>11:33am |
+| Starting OverChris Stapleton<br><br>11:29am |
+| Where It EndsBailey Zimmerman<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
