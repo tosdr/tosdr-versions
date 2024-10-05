@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [!['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tom-selleck-blue-bloods.jpg?ve=1&tl=1)
+ [![Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-komen-complete-kdfweme002_08_57_20_1_mpg_00.13.41.26.jpg?ve=1&tl=1)
 
- !['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tom-selleck-blue-bloods.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-bloods-cancelled-tom-selleck-frustrated)
+ ![Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-komen-complete-kdfweme002_08_57_20_1_mpg_00.13.41.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-more-than-pink-sunday-2024)
 
-### ['Blue Bloods' star Tom Selleck 'frustrated' over cancelation of hit show: ‘Taken for granted’](https://www.fox4news.com/news/blue-bloods-cancelled-tom-selleck-frustrated)
+### [Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://www.fox4news.com/news/fort-worth-more-than-pink-sunday-2024)
 
- [![Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-sh-ftwpd-shooting-las-vegas-trail-_kdfw89fc_00.12.06.24.jpg?ve=1&tl=1)
+ [![AMBER Alert Update: Hurst teen returns home safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/amber-alert-found-1.jpg?ve=1&tl=1)
 
- ![Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-sh-ftwpd-shooting-las-vegas-trail-_kdfw89fc_00.12.06.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-las-vegas-trail-apartment-shooting)
+ ![AMBER Alert Update: Hurst teen returns home safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/amber-alert-found-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-hurst-safe-oct-5)
 
-### [Fort Worth shooting: 1 dead, 1 injured at apartment complex](https://www.fox4news.com/news/fort-worth-shooting-las-vegas-trail-apartment-shooting)
+### [AMBER Alert Update: Hurst teen returns home safe](https://www.fox4news.com/news/amber-alert-hurst-safe-oct-5)
 
- [![Officers fatally shoot woman who threatened people with gun, Plano police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-sh-plano-pd-ois-14th-st-_kdfw89e7_186_mp4_00.09.23.32.jpg?ve=1&tl=1)
+ [![Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ssss.jpg?ve=1&tl=1)
 
- ![Officers fatally shoot woman who threatened people with gun, Plano police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-sh-plano-pd-ois-14th-st-_kdfw89e7_186_mp4_00.09.23.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-police-shooting-14th-street)
+ ![Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ssss.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-gulf-florida)
 
-### [Officers fatally shoot woman who threatened people with gun, Plano police say](https://www.fox4news.com/news/plano-police-shooting-14th-street)
+### [Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://www.fox4news.com/news/milton-gulf-florida)
 
- [![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1)
+ [![Keanu Reeves makes professional car racing debut](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2160428934-scaled.jpg?ve=1&tl=1)
 
- ![Dallas County makes one last push for voter registration before Monday's deadline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-dallas-co-voter-registration-drive-9p_00.00.55.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-makes-one-last-push-voter-registration-before-mondays-deadline)
+ ![Keanu Reeves makes professional car racing debut](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2160428934-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keanu-reeves-race-indianapolis-motor-speedway)
 
-### [Dallas County makes one last push for voter registration before Monday's deadline](https://www.fox4news.com/news/dallas-county-makes-one-last-push-voter-registration-before-mondays-deadline)
+### [Keanu Reeves makes professional car racing debut](https://www.fox4news.com/news/keanu-reeves-race-indianapolis-motor-speedway)
 
- [![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-2-copy.jpg?ve=1&tl=1)
+ [![Yellow jackets swarm in Helene-ravaged towns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1242669207-scaled.jpg?ve=1&tl=1)
 
- ![Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-2-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
+ ![Yellow jackets swarm in Helene-ravaged towns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1242669207-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-yellow-jackets-north-carolina)
 
-### [Off-duty Atlanta police officer shot, killed while breaking into Douglas County home, deputies say](https://www.fox4news.com/news/off-duty-atlanta-detective-shot-killed-while-breaking-douglas-county-home-deputies-say)
+### [Yellow jackets swarm in Helene-ravaged towns](https://www.fox4news.com/news/helene-yellow-jackets-north-carolina)
 
 ###### [News](https://www.fox4news.com/news)
 
