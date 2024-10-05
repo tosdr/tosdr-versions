@@ -5,7 +5,7 @@
 * [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
 * [India](https://www.thehindu.com/news/national/)
 * [World](https://www.thehindu.com/news/international/)
-* [Movies](https://www.thehindu.com/entertainment/movies/)
+* [Elections](https://www.thehindu.com/elections/)
 * [Technology](https://www.thehindu.com/sci-tech/technology/)
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
@@ -38,7 +38,7 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 * [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
 * [India](https://www.thehindu.com/news/national/)
 * [World](https://www.thehindu.com/news/international/)
-* [Movies](https://www.thehindu.com/entertainment/movies/)
+* [Elections](https://www.thehindu.com/elections/)
 * [Technology](https://www.thehindu.com/sci-tech/technology/)
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
@@ -521,7 +521,7 @@ Read in App
 
 ##### Trending on The Hindu
 
-[India News](https://www.thehindu.com/news/national/) [Israel Hezbollah war LIVE (Oct 2)](https://www.thehindu.com/news/international/israel-iran-hezbollah-war-live-updates-october-2-2024/article68708349.ece) [Nai Talim: Gandhi’s vision for education](https://www.thehindu.com/education/gandhis-education-policy-and-nep-2020-where-they-meet-and-where-they-diverge/article68709304.ece) [Jammu and Kashmir elections Phase 3 LIVE](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jk-assembly-polls-jammu-and-kashmir-elections-phase-3-live-updates/article68701462.ece) [Pune helicopter crash (Oct 2)](https://www.thehindu.com/news/national/maharashtra/3-persons-killed-as-helicopter-crashes-in-pune/article68708474.ece) [NIA seizes one live explosive device in Assam](https://www.thehindu.com/news/national/assam/nia-seizes-one-live-explosive-device-in-assams-lakhimpur/article68706433.ece) [Congress alleges ’reign of crime against women’ in MP](https://www.thehindu.com/news/national/madhya-pradesh/congress-alleges-reign-of-crime-against-women-in-madhya-pradesh/article68706555.ece) [MUDA scam: ED summons Snehamayi Krishna](https://www.thehindu.com/news/national/karnataka/muda-case-ed-summons-snehamayi-krishna/article68708403.ece) [Sonam Wangchuk detained](https://www.thehindu.com/news/national/sonam-wangchuk-detained-again-after-release-indefinite-fast-continues/article68708520.ece) [News](https://www.thehindu.com/news/)
+[India News](https://www.thehindu.com/news/national/) [News](https://www.thehindu.com/news/) [Haryana assembly elections LIVE](https://www.thehindu.com/elections/haryana-assembly/haryana-assembly-elections-live-updates-october-5-2024/article68717803.ece) [No remorse in Naidu despite SC observations, says Jagan](https://www.thehindu.com/news/national/andhra-pradesh/no-remorse-in-naidu-despite-sc-observations-says-jagan/article68718900.ece) [Indian men’s team wins rapid fire pistol gold](https://www.thehindu.com/sport/indian-mens-team-wins-rapid-fire-pistol-gold/article68718416.ece) [Himachal CM says no toilet tax in State](https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-says-no-toilet-tax-in-state-bjp-making-false-claim-for-political-gains/article68718012.ece) [Google says it will stop linking to New Zealand news if a law passes forcing it to pay for content](https://www.thehindu.com/sci-tech/technology/google-says-it-will-stop-linking-to-new-zealand-news-if-a-law-passes-forcing-it-to-pay-for-content/article68720604.ece) [West Bengal junior doctors continue sit-in](https://www.thehindu.com/news/cities/kolkata/west-bengal-junior-doctors-continue-sit-in-wait-for-state-to-fulfill-their-demands/article68720629.ece) [Google tests verified check marks in search results](https://www.thehindu.com/sci-tech/technology/google-tests-verified-check-marks-in-search-results/article68720607.ece) [Jugaad vs sustainable education](https://www.thehindu.com/education/time-to-unlearn-jugaad-and-embrace-sustainable-innovation/article68716821.ece)
 
 ##### Trending on Group sites
 
