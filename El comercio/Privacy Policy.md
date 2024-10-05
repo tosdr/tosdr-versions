@@ -31,6 +31,730 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Campaña farandulera
+===================
+
+¿Quién será el candidato que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los mercachifles de la política?
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Los **ciudadanos** interesados en la suerte del **país** sostienen que ninguno de los **candidatos** ha expuesto un **proyecto** de **país**, un diagnóstico de los **problemas** y las **soluciones** que implementaría en caso de ser elegido **presidente**. El mensaje electoral es frívolo, la campaña tiene un **carácter farandulero**.
+
+Andy Borowitz, en su libro _Profiles in Ignorance,_ sostiene que los últimos presidentes de Estados Unidos han pasado por tres etapas: en la primera, **políticos** tontos pretendían que eran **inteligentes**; en la segunda, **políticos** tontos se sentían autorizados a parecer tontos; en la tercera, **políticos inteligentes** fingían que eran tontos.
+
+En nuestra **campaña electoral** tenemos **candidatos** pertenecientes a las tres etapas. Todos ocultan la verdad, no saben o no quieren reconocer la **gravedad** de los **problemas**, y prefieren parecer tontos o nos toman por tontos y pretenden hacernos creer que son **taumaturgos**, magos, sabios o tocados por la suerte. Los **candidatos** se mienten y nos mienten.
+
+El país no necesita falsos **optimistas** que nos ofrezcan la pócima para todos los males como vendedores de feria; necesita **líderes** que nos digan que avanzamos como mula ciega hacia el **abismo**, alguien que nos asuste, para que dejemos de ver la **campaña** como **programa** de **entretenimiento**.
+
+Los **presidentes** empujan la **crisis** al que viene. Estamos acumulando **problemas** y tornándolos insolubles: **inseguridad**, **desempleo**, **migración**, deuda, **crisis energética**, **seguridad social**, corrupción; todo dejamos que vaya a peor para entregarlo al que viene, pero lo que viene es la **tragedia nacional** si continuamos por el mismo camino.
+
+Dos **personajes tenebrosos** de la era correísta se presentaron en la **comisión** de **fiscalización**, uno para atacar y otro para defender a la ministra de gobierno; como si fuera un país abandonado que carece de líderes, condenado a repetir lo peor de nuestro pasado. ¿Quién será el **candidato** que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los **mercachifles** de la **política**?
+
+Ecuador en zona de descenso en la liga junior de la Inteligencia Artificial
+===========================================================================
+
+En Ecuador necesitamos una mejora significativa en infraestructura energética, tecnológica y humana.
+----------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+El 24 de septiembre de 2024, el **Centro Nacional** de **Inteligencia Artificial** (CENIA) de Chile y la **Comisión Económica** para **América Latina** y el Caribe (CEPAL) dieron a conocer los **resultados** de la segunda edición del [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/). En este índice, usando una escala de 0 a 100, se evaluó la preparación en **Inteligencia Artificial** (IA) de 19 países de **Latinoamérica** y el Caribe. Por cada país se analizaron 3 dimensiones: **(1) factores habilitantes**, con un peso de 40%, **(2)** **investigación, desarrollo y adopción**, con un peso de 35%, y **(3) gobernanza**, con un peso de 25%. Con base en el índice obtenido, de mayor a menor, los países fueron categorizados entre **pioneros**, **adoptantes** o **exploradores** de IA.
+
+Según la documentación del índice ILIA, los países **pioneros** en Latinoamérica y el Caribe en IA se caracterizan por tener una “fuerte infraestructura tecnológica, desarrollo de talento e innovación en IA, y han integrado la misma en sus **estrategias nacionales** para consolidar y expandir su uso en los **diversos sectores**.” Los países **adoptantes** “están comenzando a integrar la IA en sectores productivos y públicos de manera incipiente, con **avances moderados** en **investigación** y **políticas emergentes** de fomento.” Los países **exploradores** están “en etapas iniciales de IA, con capacidades básicas y políticas públicas preliminares, dando los primeros pasos hacia la **integración** de esta **tecnología**.” Es importante señalar que, a pesar de que la primera categoría de países analizados en el índice ILIA se llama “pioneros”, todos los países de **Latinoamérica** y el **Caribe** están muy lejos del [desarrollo en IA que se ha alcanzado en el Norte Global](https://aiindex.stanford.edu/report/). Por ejemplo, ningún país de nuestra región ha participado, ni participa, en el **desarrollo** de **conocimiento** o **tecnología** que haya aportado al reciente boom de la [inteligencia artificial generativa](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html "Enlace de inteligencia artificial generativa"). Por lo tanto, el índice ILIA, aunque es muy importante, ofrece un **análisis** únicamente de países que jugamos en la liga junior de la IA.
+
+Según el índice ILIA 2024, los países categorizados como **pioneros** en IA en Latinoamérica y el Caribe son **Chile (73.07)**, **Brasil (69.30)** y **Uruguay (64.98)**. Por su parte, la lista de países **adoptantes** la encabeza **Argentina (55.77)**, que ocupa la cuarta posición en el ranking general del ILIA, y la cierra **Ecuador (34.59)** que ocupa el puesto 11. Finalmente, **Jamaica (32.38)**, que en el tablero general ocupa el puesto 12, encabeza la lista de países **exploradores**, la misma que cierra con **Honduras (23.73)**, que ocupa el último puesto (puesto 19) en el ranking general. Nuestros vecinos, **Colombia (52.64)** y **Perú (45.52)**, al igual que Ecuador, también han sido categorizados como **países adoptantes** y ocupan las posiciones 5 y 8, respectivamente. En el año 2023, [Ecuador ocupó el puesto 10 de un total de 12 países analizados](https://www.cenia.cl/2023/08/16/latinoamerica-que-tan-preparados-estamos-para-la-inteligencia-artificial-estudio-liderado-por-cenia-revela-importantes-hallazgos/), donde nuevamente Chile estuvo a la cabeza. Hablando en términos futbolísticos, según el índice ILIA, Ecuador está muy cerca de la zona de descenso en la liga junior de la **Inteligencia Artificial**.
+
+La primera dimensión sobre **factores habilitantes** evalúa el nivel de desarrollo de **infraestructura**, datos, y talento humano. En esta **dimensión Chile** tiene el mayor índice, con 64.60, Ecuador tiene un índice de 34.63, y el promedio de la región es 40.26. Como se puede notar, en esta **dimensión Ecuador** está por debajo del promedio regional, lo cual demanda realizar mejoras considerables de forma urgente. Por ejemplo, en el **indicador infraestructura**, necesitamos mejorar nuestra **conectividad** a **internet**, aumentar la **capacidad** y número de grandes **centros** de **cómputo**, tanto físicos como en la nube, y aumentar la **penetración** de **dispositivos** de **cómputo** en los **hogares ecuatorianos**. A nivel de datos, en **Ecuador** necesitamos mejorar la **disponibilidad** y el acceso a datos abiertos y fiables, resguardando la **privacidad** de datos personales. En talento humano necesitamos desarrollar [programas de alfabetización en IA para el público general](https://www.elcomercio.com/opinion/no-tenga-miedo-inteligencia-artificial-marco-benalcazar-columnista.html "Enlace programa de alfabetización"). En **talento humano profesional** y avanzado necesitamos mejorar nuestra **formación** en Ciencia, Tecnología, Ingeniería, y Matemáticas (STEM), y aumentar significativamente el nivel y número de **programas** de **maestría** y doctorado en IA, logrando su **acreditación** por **organismos internacionales** de prestigio y que las **universidades ecuatorianas** que los oferten estén, al menos, dentro de las 1000 [universidades top según el ranking QS](https://www.elcomercio.com/actualidad/universidades-de-ecuador-suben-posiciones-en-ranking-qs-2025.html "Enlace ranking universidades").
+
+En la segunda dimensión **investigación, innovación, desarrollo y adopción (I+i+D+A)** se analiza el estado de estos **factores** en los **sectores público**, **privado** y académico, así como el grado de **integración** de los **sistemas** de IA en cada uno de estos sectores. En esta dimensión, Brasil está a la cabeza con un índice de 79.17, mientras que **Ecuador** tiene un índice de 47.10, y el **promedio** regional es de 47.46. En esta **dimensión**, el factor más crítico donde **Ecuador** debe realizar un **avance significativo** es en **innovación** y **desarrollo** (i+D). En este indicador, **Ecuador** tiene un índice de 24.48, el cual es menor que el promedio regional de 31.57. Aquí necesitamos crear las **condiciones necesarias** para lograr que **empresas** **nacionales**, y sobre todo **empresas internacionales**, pongan **capital** de **riesgo** para desarrollar y llevar al **mercado productos** y servicios basados en IA.
+
+En **investigación**, necesitamos ampliar el número, la calidad e **impacto** de nuestro trabajo, de tal forma que nuestra **producción científica** compita en las grandes ligas del **conocimiento** de la IA. Para alcanzar este **objetivo**, Ecuador debe invertir para potenciar y desarrollar nuestros **laboratorios** de **investigación** y centros de **innovación** y **desarrollo** en **IA**, por ejemplo, el [Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”](https://laboratorio-ia.epn.edu.ec/es/ "Enlace de Laboratorio de Investigación en Inteligencia y Visión Artificial").  En cuanto a la **adopción** de **sistemas** de IA, en **Ecuador** hay una importante oportunidad para que estos sistemas ayuden para agregar más valor a nuestros productos y servicios.
+
+En la tercera dimensión **gobernanza** se analiza el grado de madurez del **entorno institucional** encargado de impulsar **políticas públicas**, regulaciones y una **ética sostenible** respecto de la IA. El país que lidera esta dimensión es **Chile**, con un índice de 83.62. Por su parte, Ecuador tiene un índice de 17.00, que está muy por debajo del promedio regional que es de 37.46. Esto se debe a que, según el informe de ILIA, Ecuador tiene una escasa **visión** e **institucionalidad** para gestionar una **estrategia**, instrumentos y políticas necesarias para [no quedarse al margen de la cuarta revolución industrial](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html "Enla cuarta revolución industrial"). Otro punto crítico es el bajo índice de **ciberseguridad** del Ecuador, que es de 27.23, frente a un promedio regional de 49.85. Adicionalmente, **Ecuador** debe mejorar su gestión en **materia** de **protección** de **datos personales**, pues aquí tenemos un índice de 13.39, frente a un **promedio regional** de 30.72. También necesitamos mejorar nuestro **marco regulatorio**, que según el índice ILIA es incipiente, para reducir los **riesgos** de **impactos** **negativos**, y promover la **legitimidad**, los **derechos humanos**, **ética**, y la **sustentabilidad** en el desarrollo de IA. Adicionalmente, nuestra **regulación** debe incluir aspectos sobre **seguridad**, **precisión** y confiabilidad, donde tenemos un índice de 0 con respecto a un promedio regional de 20.20.
+
+En conclusión, el índice ILIA 2024 ofrece un **análisis** amplio, detallado y **actual** sobre el desarrollo de IA en Latinoamérica y el Caribe. Sin embargo, es importante mencionar que los países de esta región competimos en la liga junior de la IA, mientras que, por ejemplo, Estados Unidos de América, China, Reino Unido, Emiratos Árabes Unidos y Canadá juegan en la liga mayor. En la liga junior de la IA**,** Ecuador está muy cerca de la zona de descenso. Para avanzar a **posiciones** estelares en el **desarrollo** de **IA** dentro de nuestra región, en **Ecuador** necesitamos una **mejora significativa** en **infraestructura energética**, **tecnológica** y **humana**, **alfabetización** y **educación básica** y avanzada en IA, **inversión** en I+D+i, y **desarrollo** de una **gobernanza estable** y **segura**.
+
+Binomios presidenciales entran a un escrutinio múltiple
+=======================================================
+
+El calendario para las elecciones 2025 se agota, con evaluaciones, dudas y expectativas.
+----------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: candidatos a la Presidencia de Ecuador, hombres y mujeres bajo una lupa.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-editorial.jpg)
+
+Las inscripciones para las **elecciones 2025** en **Ecuador** culminaron. 16 binomios fueron el resultado de un proceso definido entre primarias realizadas por cumplir un requisito, con candidatos predispuestos, y apenas una sola alianza entre organizaciones políticas.
+
+Ahora, viene una nueva fase: la evaluación para definir candidaturas en firme. Esta es una lupa desde lo oficial, el **Consejo Nacional Electoral (CNE)**, y la sociedad. En el primer frente, el análisis corresponde a los requisitos, que incluyen una radiografía a la historia legal.
+
+La paridad es una de las bases fundamentales. Aunque la normativa de un equipo conformado por **mujer-hombre o, a su vez, hombre-mujer** se cumple en todos los casos, hay una deuda visible: apenas hay dos féminas encabezando las duplas.
+
+Sin duda, la participación política de las **mujeres** en **Ecuador** aún es insuficiente. Queda claro que la paridad no se logrará exclusivamente con cuotas de **género**. Se requiere una cultura política que deje de ponerlas en segundo plano.
+
+> Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso del binomio presidencial, tener paridad de género: hombre-mujer o mujer-hombre.
+
+Las impugnaciones pueden llegar de cualquier actor político. Claro que, los candidatos tienen la opción de responder y defender su postulación. El 30 de diciembre de 2024, finalmente, se conocerán los contendientes que disputarán la **Presidencia y Vicepresidencia**.
+
+Pero, sin duda, el mayor escrutinio es la mirada ciudadana, la incertidumbre y la búsqueda de respuestas ante la **inseguridad**, el **desempleo** y **emergencias** que agravan el panorama.
+
+El filtro final está conformado por **13 736 314 electores**. De estos, 456 485 se encuentran en el exterior. Así que, si bien diciembre es una fecha clave, será el 9 de febrero de 2025, cuando se desarrollen las elecciones generales. De haber segunda vuela, será el 13 de abril.
+
+Los ecuatorianos elegirán entre la continuidad de **Daniel Noboa**, no así Verónica Abad, la dupla con la que llegó al Palacio de Carondelet en 2023, y 15 opciones que apuntalan el discurso de la salvación del país. Sin contar que, además, se elegirán a 151 cabezas del poder legislativo.
+
+Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada
+==================================================================
+
+Deliciosa receta reconfortante y llena de sabor, perfecto para compartir en buena compañía. ¡Comparte esta receta con tus amigos!
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La receta del caldo de patas, fácil de preparar, llena de sabor y tradición.](https://www.elcomercio.com/wp-content/uploads/2024/10/image-5.png)
+
+El **caldo de patas ecuatoriano** es un **platillo** emblemático de la **gastronomía** de la **Sierra**, conocido por su sabor reconfortante y nutritivo. Este **delicioso caldo** se prepara a base de patas de res, que aportan un sabor y una textura únicos, convirtiéndolo en un favorito en muchas mesas ecuatorianas. Tradicionalmente, se cocina a fuego lento, permitiendo que los **ingredientes** se integren y desarrollen sus sabores, creando un caldo sustancioso y lleno de **nutrientes**. Ideal para compartir en familia o disfrutar en días fríos. Con su rica **herencia cultural** y su carácter sustancioso, este plato no solo alimenta el cuerpo, sino que también evoca la calidez y el espíritu de la **cocina ecuatoriana**. ¡Atrévete a disfrutarlo y descubrir todo lo que puede ofrecer!
+
+Ingredientes
+------------
+
+1 pata de res bien lavada
+
+3 tazas Mote cocido
+
+2 litros agua
+
+1 cucharada achiote en pasta
+
+1 cucharada ajo en pasta
+
+1 cebolla blanca picada finamente
+
+1 cebolla blanca partida en dos pedazos
+
+2 cucharadas de pasta de maní
+
+1/2 cucharada orégano seco
+
+1/2 taza culantro picado
+
+1 rama perejil
+
+1 taza leche
+
+1 cubo caldo de costilla o de carne (opcional)
+
+Al gusto sal, comino y pimienta negra
+
+* * *
+
+> La pata de res, mote y papas se combinan en un caldo reconfortante que te hará sentir en casa. 
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-2-1.png)
+
+El caldo de patas, ideal para un almuerzo completo que revive las raíces de nuestra cocina ecuatoriana.
+
+Preparación de la receta de caldo de patas
+------------------------------------------
+
+* **Lavar** bien las patas de res. Si prefieres, puedes hervirlas en agua durante unos minutos y luego escurrir para eliminar impurezas.
+* **Colocar** en una olla grande las patas junto con los dos pedazos de cebolla blanca, la rama de perejil, 1/2 cucharada de pasta de ajo, sal, pimienta y comino. Tapar y dejar cocinar hasta que se ablande, esto tarda aproximadamente 3 horas, si cocinas en olla de presión durará unos 45 minutos aproximadamente.
+* **Preparar** en otra olla un refrito. **Colocar** un poco de aceite y cuando esté bien caliente **agregar** el achiote en pasta, **mezclar** bien hasta que diluya, luego añadir la cebolla blanca, el culantro finamente picados y el orégano en hojas secas triturando las mismas con las palmas de la mano, 1/2 cucharadita de pasta de ajo, sal, comino y pimienta al gusto, revolver bien hasta que la cebolla cristalice.
+* En la misma preparación **colocar** la taza de leche y la pasta de maní, revolver bien hasta y añadir el mote cocido. **Mezclar** bien los ingredientes.
+* Una vez que la pata ya esté cocida, **retirar** del fuego, cernir el caldo que queda de la cocción y agregar al refrito. **Añadir** el cubo de caldo de costilla para que dé más sabor.
+* **Cortar** las patas en trocitos y **añadir** a la preparación.
+* **Tapar** la olla y dejar que se cocine por unos 10 minutos más, **retirar** del fuego y servir con un poquito de culantro y cebolla blanca finamente picados, esto le dará un toque especial al momento de probarla. ¡Buen provecho!
+
+Consejo para preparar la receta del caldo de patas
+--------------------------------------------------
+
+* Selecciona bien las patas y asegúrate que estén frescas y de buena calidad.
+* Enjuagar bien bajo agua fría. Algunas recetas sugieren hervirlas brevemente en agua con un poco de sal para quitar impurezas antes de cocinarlas a fuego lento.
+* Durante la cocción, es normal que se forme espuma en la superficie. Retírala con una cuchara para obtener un caldo más claro y limpio.
+* A medida que se cocina, prueba el caldo y ajusta la sal y las especias según tu gusto.
+
+¡Disfruta de tu caldo de patas! Es un platillo reconfortante y nutritivo, ideal para compartir.
+
+### Más recetas
+
+* [![Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada](https://www.elcomercio.com/wp-content/uploads/2024/10/image-5.png)](https://www.elcomercio.com/sabores/caldo-patas-ecuatoriano-sabor-tradicion-cucharada.html)
+    
+    [Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada](https://www.elcomercio.com/sabores/caldo-patas-ecuatoriano-sabor-tradicion-cucharada.html)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Deliciosa receta reconfortante y llena de sabor, perfecto para compartir en buena compañía. ¡Comparte esta receta con tus amigos!
+    
+* [![Arroz con camarones, un plato sabroso y rápido para disfrutar en casa](https://www.elcomercio.com/wp-content/uploads/2024/09/1.jpg)](https://www.elcomercio.com/sabores/arroz-camarones-plato-sabroso.html)
+    
+    [Arroz con camarones, un plato sabroso y rápido para disfrutar en casa](https://www.elcomercio.com/sabores/arroz-camarones-plato-sabroso.html)
+    ----------------------------------------------------------------------------------------------------------------------------------------------
+    
+    El sabor del mar en tu mesa con este plato lleno de tradición y frescura. ¡Comparte esta receta con tus amigos!
+    
+* [![Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida](https://www.elcomercio.com/wp-content/uploads/2024/09/image-1-1.png)](https://www.elcomercio.com/sabores/bolones-rellenos-queso-chicharron-delicia-ecuatoriana-cada-mordida-sabores.html)
+    
+    [Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida](https://www.elcomercio.com/sabores/bolones-rellenos-queso-chicharron-delicia-ecuatoriana-cada-mordida-sabores.html)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Haz que tus comidas sean inolvidables con estos bolones crujientes y llenos de sabor. ¡Comparte esta receta con tus amigos!
+    
+
+Cartas a Quito / 5 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este sábado 5 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Lección que nos deja Venezuela 
+-------------------------------
+
+A la pregunta que nos hacemos la gran mayoría de ecuatorianos de por qué existen todavía simpatizantes del correísmo, las respuestas surgen invariables: son los beneficiarios del atraco y despilfarro de los fondos públicos, son los cientos de miles de “pipones” que fueron ingresados al aparato burocrático, son los fanáticos que aspiran a tener igual suerte, o son sencillamente los incautos irresponsables vencidos por la ignorancia, que no alcanzan a reconocer y tampoco les importa la gravísima situación que vive el Ecuador.  
+
+Cómo es posible que los fanáticos de la narco dictadura de las “mentes lúcidas”, no hayan podido registrar en su memoria todas las atrocidades cometidas, más las de última data que se  van sumando, perpetradas por sus operadores: la escasez de energía eléctrica con todos sus daños colaterales, a causa de hidroeléctricas mal construidas y con sobreprecio, y por el saqueo feroz de los fondos públicos que impide construir nuevas; las aproximadamente cincuenta mil muertes que recién se descubre que constan en las estadísticas del Estado con una explicación nada creíble, producto de la barbarie de la narco política y terrorismo durante la década perdida; la inseguridad que deviene de la narco delincuencia que se inicia con la salida de la Base de Manta; los recientes incendios evidentemente provocados por sectores interesados en el caos, etcétera.  
+
+Cambiar a tiempo el panorama político y elegir un presidente que responda a la realidad actual está en manos de los ecuatorianos honestos, y evitar así el retorno de los enemigos del país, cuyo único afán es reeditar las mismas circunstancias que vive Venezuela, desde hace más o menos tres décadas, para que luego, las víctimas, tengamos que huir masivamente a otros países en calidad de mendigos y ser humillados y abusados. Entonces, luego de sufrir el desprecio humano, retornar casi vencidos a intentar renacer, robustecidos por la razón y el deseo de justicia, a emprender el derrocamiento de la sinrazón y la barbarie que encarnan los candidatos que se deben al Socialismo del siglo XXI.  
+
+La presión a través de las redes sociales y los medios de comunicación, debería ser la que conmine a los candidatos especialmente presidenciales, a exponer sus planes de gobierno con su respectivo financiamiento, que sería el filtro para el descarte de la mayoría de ellos, sumisos “prestanombres”, que hacen el juego a sus mentores. 
+
+Leonardo Cueva Piedra 
+
+Agricultura con cultura 
+------------------------
+
+La combinación de agricultura y cultura es una sinergia poderosa que puede revitalizar comunidades, preservar tradiciones y promover la sostenibilidad. Es una forma de entender y practicar la agricultura que reconoce y celebra la riqueza cultural asociada a las prácticas agrícolas tradicionales. Dentro de sus elementos clave constan el uso de variedades locales, con el fin de preservar y promover el uso de cultivos adaptadas a las condiciones agroecológicas y culturales de cada región. Conocimientos tradicionales sobre agricultura, manejo de plagas, conservación del suelo y otros aspectos relacionados. Prácticas agroecológicas, que respeten el medio ambiente y promuevan la salud de los suelos, como la rotación de cultivos, el uso de abonos orgánicos y el control biológico de plagas. Gastronomía local, promover productos agrícolas frescos y de temporada, fortaleciendo la identidad cultural y generando valor agregado a la producción agrícola. Fomentar el ecoturismo como una forma de dar a conocer las buenas prácticas ambientales como la creación de miradores ecoturísticos y puntos verdes que puedan generar ingresos adicionales para los agricultores y promover la conservación del patrimonio cultural. 
+
+Con lo antes expuesto se data con un ejemplo inspirador el proyecto en mente “Biocorredor Ruta del Choclo” en el cual se pretende realizar la siembra de más de 400 árboles nativos de la zona con la excusa perfecta de adquirir compromiso socioambiental con las comunidades aledañas que practican agricultura tradicional. 
+
+También fortalecer la identidad cultural: vinculando el choclo con tradiciones, festividades y platos típicos de la región. Impulsar el desarrollo local, generando oportunidades de empleo en la producción, procesamiento y comercialización del choclo, así como en el ecoturismo local. Conservar la biodiversidad, creando corredores biológicos que conecten diferentes ecosistemas y protejan la fauna local. 
+
+Para lograr el éxito planteado en el proyecto “Biocorredor Ruta del Choclo” se plantean 2 aristas importantes. Crear rutas gastronómicas ecoturísticas que permitan a los visitantes degustar platos tradicionales a base de choclo y conocer a los productores locales que son parte de la recuperación de la zona y así mismo fomentar el apadrinaje de árboles, mediante el uso de la tecnología Blockchain. Así mismo, la creación de puntos verdes, la cual es una iniciativa cada vez más popular en todo el mundo, ya que representa un paso fundamental hacia la sostenibilidad y el cuidado del medio ambiente. 
+
+El proyecto Biocorredor Ruta del Choclo se presenta como una oportunidad única para impulsar el desarrollo sostenible en las comunidades, preservando la biodiversidad y fortaleciendo la economía local. A través de la participación activa de las comunidades, el proyecto no solo contribuye al desarrollo económico, sino que también fortalece el tejido social y promueve la conservación del medio ambiente. La implementación de tecnologías innovadoras y la capacitación de los productores son elementos clave para garantizar la sostenibilidad a largo plazo del proyecto. El Biocorredor Ruta del Choclo será un modelo de inspiración para otras regiones. 
+
+Anthony Jordán Macías Sornoza 
+
+El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios
+====================================================================================
+
+En Ecuador, la mala educación nutricional, el sedentarismo y los alimentos procesados agravan el sobrepeso y obesidad.
+----------------------------------------------------------------------------------------------------------------------
+
+![La expresentadora de TV, Dayana Morán, optó por la manga gástrica para reducir su peso y mejorar su salud y calidad de vida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dayana-vale.jpg)
+
+El aumento descontrolado de pacientes con **sobrepeso y obesidad** presiona cada día más al sistema sanitario ecuatoriano. **Seis de cada diez personas** lidian con la acumulación anormal de grasa o un Índice de Masa Corporal (**IMC**) **mayor a 25**. Este problema comienza en la niñez y es es más prevalente en adultos de **40 a 50 años**, en **mujeres** y se ha convertido en un desafío por las **enfermedades asociadas**.
+
+Más noticias
+------------
+
+* [Una dieta de colores tiene claves para una alimentación saludable](https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html "Una dieta de colores tiene claves para una alimentación saludable")
+* [Cuida tu alimentación, ejercicios y emociones para preservar tu corazón](https://www.elcomercio.com/empresariales/cuida-alimentacion-ejercicios-emociones-preservar-corazon.html "Cuida tu alimentación, ejercicios y emociones para preservar tu corazón")
+
+El **Programa Mundial de Alimentos (PMA)** alertó que los pacientes con sobrepeso y obesidad aumentaron en todas las provincias. Estos pacientes tienen un impacto económico al Estado equivalente al 2,08% del PIB, al 2023, según el **Ministerio de Salud**. Esto se debe al alto consumo de alimentos procesados, azúcares y grasas, además de un estilo de vida sedentario. **La falta de ejercicio** se ve agravada por el tiempo que se dedica a actividades en redes sociales y videojuegos.
+
+**Miguel Lamota,** cirujano **bariátrico y metabólico** con 12 años de experiencia, señala que este fenómeno se debe a la mala educación nutricional que se recibe desde niños. Los pacientes asocian la comida con recompensa desde pequeños. “Te portaste bien toma un chupete, un caramelo, un chocolate…”, explica Lamota, quien resalta que esto se extiende a la adultez.
+
+> “Los pacientes con sobrepeso y obesidad que llegan a mi consulta me dicen: doctor yo no como en todo el día, solo me como tres panes y dos o tres coca-colas”.
+> 
+> Los niños varones aumentan más de peso
+> --------------------------------------
+> 
+> Un estudio de la [Universidad Católica de Quito](https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1 "https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1") reveló que el **36%** de los niños ecuatorianos de **5 a 11** años sufren de sobrepeso u obesidad, siendo los **varones** un **26%** más propensos que las niñas. El riesgo de sobrepeso u obesidad aumenta un **10%** **por cada año adicional de edad.**
+> 
+> La última encuesta nacional del INEC reveló también que el **5%** de los menores de cinco años afrontan sobrepeso y obesidad. En Imbabura y Loja, supera el **7%**
+> 
+> El estudio de la PUCE señala que el **etiquetado nutricional tipo semáforo** ha perdido efectividad, ya que las familias con más niños con sobrepeso u obesidad tienden a consumir más productos procesados y ultraprocesados. Adicionalmente, el consumo de comidas escolares no tuvo un impacto significativo.
+> 
+> La actividad física regular se identificó como un factor protector, reduciendo las probabilidades de sobrepeso u obesidad en aproximadamente un 21%.
+> 
+> Las mujeres son más proclives a subir de peso
+> ---------------------------------------------
+> 
+> Las mujeres, después de los 35 o 40 años, tienden a ganar más peso, pues su metabolismo empieza a disminuir, hay factores hormonales, menopausia, mayor retención de líquidos, hipotiroidismo. Y si a esto se añade una vida poco saludable y sin actividad física, la situación empeora.
+> 
+> Pero las mujeres también son las que más buscan ayuda para mejorar su salud y calidad de vida. En la consulta del doctor Lamota, el 65% son féminas. Un dato curioso: “Cuando la mujer quiere operarse, el marido no puede decir que no. Si el hombre desea operarse y la mujer no quiere, no se opera”.
+
+Estrategias de tratamiento para obesidad
+----------------------------------------
+
+Para pacientes con un IMC de entre 30 y 35, Lamota recomienda la **manga gástrica**, que implica resecar entre 75% y el 80% del estómago. Aquellos con un IMC de 35 o más, especialmente si son diabéticos o hipertensos, pueden optar por un **bypass gástrico**. Esto reduce la capacidad del estómago a 100-120 cm3 y excluye hasta dos metros y medio del intestino delgado para limitar la absorción de alimentos.
+
+El **balón gástrico** es adecuado para quienes necesitan perder hasta 30 libras y se retira después de cuatro, seis o doce meses. Lamota sugiere cuatro meses para evitar complicaciones como gastritis y reflujo.
+
+Minimizar los riesgos con especialistas en cirugía bariátrica
+-------------------------------------------------------------
+
+Si los pacientes con sobrepeso y obesidad se deciden por una cirugía deben ser evaluados por cardiólogo, gastroenterólogo, realizarse una endoscopia digestiva alta, seguir dieta preoperatoria y someterse a diversas valoraciones médicas y, aún más si tienen otras enfermedades asociadas.
+
+Es crucial que las operaciones sean realizadas por un especialista en cirugía bariátrica con equipo multidisciplinario para minimizar riesgos. Una manga gástrica puede costar seis mil dólares; un bypass gástrico, entre siete mil y siete mil quinientos. Los balones gástricos varían de 2 500 a 4 000 dólares.
+
+Las soluciones inyectables como ozempic (semaglutida) o saxenda (liraglutida) deben ser administradas por un médico y el acompañamiento de un nutricionista. Antes de su colocación es esencial evaluar la función pancreática y tiroidea. Se deben ajustar las dosis para evitar [efectos adversos](https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html "https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html") como diarrea o gastroparesia. Se recomienda en tratamientos cortos de seis semanas a dos meses.
+
+Tres testimonios
+----------------
+
+### Dayana Morán: ‘Me siento sana y con energía’
+
+_La expresentadora de TV cuenta qué le llevó a decidirse por una manga gástrica para mejorar su salud._
+
+![Luego de un año de su cirugía, Dayana mejoró sus hábitos alimenticios, prioriza la proteína y toma suplementos. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Dayana2-1024x683.jpg)
+
+Luego de un año de su cirugía, Dayana tiene más energía para estar con sus niños, mejoró sus hábitos alimenticios, prioriza la proteína y toma suplementos. Foto: Diego Pallero
+
+“Nunca he estado inconforme con mi peso hasta cuando me empecé a sentir mal. Gracias a Dios tener un carácter y una personalidad fuerte me sirvió. Lo que me animo a bajar de peso es mi salud. Ser ama de casa y mamá 24/7 requiere de energía y el exceso de peso me complicaba. Después de mi segundo embarazo pesaba 195 libras y bajé a 188. Con 1,72 m de estatura tenía 18 kilos de sobrepeso.
+
+En redes sociales recibía un montón insultos: Estás ballena, obesa, mofe…y ahora que estoy delgada me dicen cadavérica, escuálida…, que también me dan lo mismo. Sin embargo, veo que la salud mental de otras mujeres que no tienen esa fortaleza sí les perjudica. Esto lleva a hombres y mujeres a tomar decisiones equivocadas. También me equivoqué tomando pastillas, medicamentos y dietas rigurosas de piña y agua por tres días seguidos. Pero, cuando uno es mamá y pasa de los 30, el cuerpo no responde igual. Y, al tener a cargo vidas que dependen de ti uno piensa muchísimo.
+
+### ‘Las inyecciones para diabéticos no me convencieron’
+
+Me dieron opciones como las inyecciones para personas con diabetes, pero no me convencieron. Si es una [medicina para un diabético](https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html "https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html") y no tengo esa enfermedad ¿por qué voy a enfermar o intoxicar a mi cuerpo con una medicina que no necesita?
+
+> **El 80% de personas hacen dietas, toman pastillas, toman tés, que también lo hice, pero solo es por vanidad y sin pensar en el daño**.
+
+Yo tuve problemas de vesícula, hígado graso, colesterol y triglicéridos altos y una hernia. Con estos antecedentes decidí hacerme la **manga gástrica** hace un año y ha sido una de las mejores decisiones. Ya no me alimento como antes, tomo suplementos alimenticios y priorizo la proteína.
+
+Me siento sana y con energía. Me mantengo activa con mis niños todo el día. Creo que cualquier tratamiento debe ser por salud, de la mano de un médico y con conciencia. Lo más factible es aprender buenos hábitos alimenticios, porque no todas las personas están aptas para una cirugía bariátrica y los suplementos son costosos”.
+
+### José Luis Fuentes: ‘No puedo estar ni cerca del glaucoma y la diabetes’
+
+_El docente universitario cambió su estilo de vida y alimentación para vencer la obesidad._
+
+![El docente de relaciones internacionales de la UDLA no se ha dejado vencer ni por el albinismo ocular ni por la obesidad. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Jose-Luis-Fuentes.jpg)
+
+José Luis, de 46 años, no se dejó vencer ni por la obesidad ni por el albinismo ocular. Foto: Diego Pallero
+
+“Siempre fui gordito y nunca tuve problemas de bullying. Durante mis estudios universitarios bajé un poco de peso, pero no le di importancia. Al comenzar a trabajar empecé a ganar peso, pero caminaba bastante. Fue entonces cuando me diagnosticaron vitiligo y obviamente evitaba la exposición al sol. Para 2002 llevaba una vida sedentaria; me sumergí en mi maestría y luego en un doctorado.
+
+Alcancé 100 kilos con una altura de 1,765 metros, que representaba obesidad leve. Mi disminución visual complicaba las cosas; al concentrarme más en la lectura y caminar poco. Además, mi alimentación era de pizzas, alitas, hamburguesas y pastas. Una forma de cubrir el estrés es con carbohidratos y azúcar.
+
+Era un gordito feliz y no me hice exámenes de 2012 a 2018, que sufrí una contractura en la espalda, por el peso. La fisioterapeuta dijo: aquí la gente maldice cuando pongo las agujas (20), y yo como si nada.
+
+> **No tenía conciencia, quizás porque había vivido un proceso complicado y estresante del doctorado y la manera de expresarlo fue con la insensibilidad al dolor.** 
+
+### ‘No tenía opción: tenía que cambiar mi estilo de vida’
+
+Empecé a caminar a diario tres o cuatro km durante seis meses. Aunque seguía comiendo como antes logré perder entre 10 y 15 kilos. Sin embargo, en los primeros controles médicos, los niveles de colesterol y triglicéridos estaban altos. El médico me advirtió sobre los riesgos asociados a mi discapacidad visual del 80%. No podía acercarme ni a la diabetes ni al glaucoma. Me mandó a un médico internista. Él fue directo conmigo: tenía que cambiar mi estilo de vida.
+
+Mi visión es limitada; no conduzco y tengo una adaptación excelente a mi condición: albinismo ocular. No existen medicamentos ni cirugías para ello; solo control permanente.
+
+Decidí cambiar mis hábitos alimenticios con una nutricionista. Al principio fue extraño, pero hoy peso 69 kilos y tengo 15% de grasa corporal. Es crucial prestar atención a no perder músculo en lugar de grasa.
+
+El mayor desafío ha sido lidiar con el entorno social: familia y amigos se sienten incómodos porque no me alimento como ellos. Comprendí que los ecuatorianos consumimos demasiados carbohidratos.
+
+### Sofía Molina: ‘Mis ganas de vivir son más profundas’
+
+_A sus 40 años se ha reconciliado consigo misma y su proceso de bajar de peso está dando resultado._
+
+![Sofía está dejando atrás las crisis de ansiedad y depresión.  Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-38-1024x683.jpg)
+
+Sofía está dejando atrás las crisis de ansiedad y depresión. Ahora se ejercita a diario. Foto: Diego Pallero
+
+“Desde que tenía 13 años he lidiado con el sobrepeso. Crecí en una familia numerosa, con 26 primos, todos delgados, guapos y altos. Yo también era simpática, pero el sobrepeso me jugaba en contra. He pasado por etapas en las que he perdido peso rápidamente. Intenté todo lo que el mercado ofrece: pastillas que suprimen el apetito, pero que uno de sus componentes es el racumín y eso te seca hasta dietas extremas, como la de diabéticos. Pero el rebote es mucho más grave. 
+
+El sobrepeso me generaba ansiedad y depresión. Me sentía sola y que no encajaba en el estándar de belleza y eso alimentaba mi inseguridad, haciéndome perder la ilusión de vivir. Con esto aprendí sobre el uso y abuso del maquillaje para esconderse y tener el cabello largo para que no se me vea la cara.  En 2020 sentí un descontrol por completo y no tenía ganas de vivir, a raíz de mi primer contagio de covid. Tenía fatiga, no podía respirar, dormir y podía pasar tres días sin comer, pero luego sucumbía a atracones de comida. Sin una rutina alimenticia saludable, mi cuerpo parecía asimilar comida para tres o cuatro.
+
+En mis cuadros de ansiedad y depresión me calmaba con la comida chatarra: Coca-Cola, hamburguesas, papas fritas, pizzas y barras de chocolate. Después venía la culpa. 
+
+> **El problema principal del sobrepeso era que no me aceptaba y me sentía sola. Era muy dura conmigo misma, y nada parecía suficiente.** 
+
+Con 1,61 m de estatura llegué a pesar 210 libras. Cuatro meses después de haber estado hospitalizada por covid y, en medio de la depresión, intenté hacerme daño. Aunque tomaba antidepresivos, eso solo aumentaba mi peso y mi dependencia de la medicación.
+
+### ‘Me reconcilié conmigo y con la comida’
+
+La psiquiatra me insistía en poner de parte, pero seguía atrapada en el ciclo del sobrepeso. No me gustaba mirarme en el espejo; solo me tomaba fotos de mi rostro. Usaba ropa de hombre. Finalmente, la terapia psicológica y la medicina ancestral andina me han ayudado. Creo que todo en la vida es un acto de fe. No quería seguir siendo farmacodependiente, aunque mi psiquiatra me dijo que tendría que tomar medicación de por vida y me diagnosticó bipolaridad tipo 2.
+
+Tras muchos intentos con médicos, nutricionistas y psicólogos, desde diciembre ya no tomo pastillas y he dejado atrás las crisis de ansiedad y depresión. He logrado reconciliarme conmigo mismo y con la comida. 
+
+Trabajo en mis emociones, permitiendo sentir sin culpa. Ahora tengo horarios para mis comidas y agradezco cada bocado. Pongo alarmas que me recuerdan cuándo es momento de comer. A medida que voy sanando mi cuerpo está sanando. 
+
+Hoy peso 180 libras y he comenzado a amar el deporte. Cada mañana a las 6:00 me levanto con ganas de hacer ejercicio. Estoy dejando atrás el desorden alimenticio, creciendo paso a paso. Nunca más me haré daño porque mis ganas de vivir son más profundas” 
+
+Edmundo González fijó fecha para tomar posesión como presidente de Venezuela
+============================================================================
+
+Edmundo González dijo que volverá a Venezuela y dio la fecha para tomar posesión como presidente.
+-------------------------------------------------------------------------------------------------
+
+![Edmundo González dio una fecha para tomar posesión del cargo de presidente en Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-17.jpg)
+
+**Edmundo González** fijó **fecha** para tomar **posesión** como presidente de **Venezuela**.
+
+El líder de la oposición venezolana hizo estas declaraciones en **España**, país al que llegó en septiembre para pedir asilo.
+
+### Más noticias:
+
+* [Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-extiende-navidad-mas-tres-meses.html "Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela")
+* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
+* [Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-firmo-documento-bajo-coaccion-tanto-nulo.html "Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo")
+
+Fecha de Edmundo González para tomar posesión como Presidente de Venezuela
+--------------------------------------------------------------------------
+
+El líder opositor venezolano, Edmundo González, afirmó este viernes que el próximo 10 de enero estará de regreso en su país para tomar posesión como presidente.  
+  
+González manifestó esa intención en rueda de prensa tras participar en el **Foro La Toja-Vínculo Atlántico**, donde se reivindicó como presidente electo y dijo que su estancia en España es temporal.  
+  
+Al preguntarle cuándo prevé regresar a su país señaló que lo más pronto posible, cuando se pueda recuperar la democracia.  
+  
+Poco después, recordó que el 10 de enero es la fecha constituyente prevista para la toma de posesión del presidente tras las elecciones del 28 de julio y espera que ese día él pueda asumir la voluntad popular expresada en las urnas por ocho millones de venezolanos.  
+  
+“Yo voy a ir el 10 de enero a tomar posesión de mi cargo como presidente electo de Venezuela”, recalcó.
+
+Respecto al futuro que puede tener Nicolás Maduro, comentó que “él que él desee”.  
+  
+“Yo ahí no me meto”, agregó para apuntar posteriormente, ante la hipótesis de que Maduro pueda permanecer libremente en Venezuela, que “lo que él desee si acepta las condiciones y respeta la Constitución”.
+
+Comparaciones con el candidato Juan Guaidó
+------------------------------------------
+
+Ante las comparaciones con lo vivido en su día por el candidato presidencial Juan Guaidó, González señaló que las situaciones son distintas, ya que este fue elegido por la Asamblea y él tiene el respaldo de las urnas.  
+  
+El líder opositor pidió a la comunidad internacional que tome la decisión de reconocer el resultado de las elecciones presidenciales después de que también se hayan hecho públicas las actas de esos comicios por parte del Centro Carter.
+
+“Lo que hace falta es la voluntad política para respetar los resultados y reconocer la voluntad de ocho millones de venezolanos que votaron por mi candidatura”, ha añadido.
+
+No obstante, recalcó que “para nada” se siente abandonado por la comunidad internacional.
+
+Explicó que más de 30 países, entre ellos España, firmaron la pasada semana una declaración tras una reunión auspiciada por Estados Unidos y Argentina “reconociéndome -ha explicado- como presidente electo”.
+
+Nueva cárcel El Encuentro tiene un avance del 30 %
+==================================================
+
+El presidente Daniel Noboa visitó la obra ubicada en Santa Elena, este viernes 4 de octubre de 2024.
+----------------------------------------------------------------------------------------------------
+
+![La prisión se construye en el sector Juntas del Pacífico, en la provincia de Santa Elena](https://www.elcomercio.com/wp-content/uploads/2024/10/carcel.jpg)
+
+El presidente **Daniel Noboa** visitó la construcción de la nueva cárcel **El Encuentro** en Santa Elena, donde supervisó los avances de la obra que, según prometió, mejorará el sistema penitenciario del país.
+
+Durante el recorrido, Noboa destacó que el objetivo es crear un centro de máxima seguridad que garantice el aislamiento de cerca de **800** personas privadas de la libertad (**PPL**).
+
+### Más noticias
+
+* [El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-fase-final.html "El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización")
+* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
+* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
+
+“Buscamos tener un sistema penitenciario más avanzado; con el aislamiento necesario en máxima seguridad para las personas privadas de la libertad”, manifestó el primer mandatario.
+
+La futura prisión se levantará sobre **37 hectáreas** y tendrá 14 000 metros cuadrados de construcción.
+
+De acuerdo con el Gobierno, estará equipada con **tecnología** avanzada, incluyendo sistemas de videovigilancia e inteligencia artificial para monitorear en tiempo real a los internos.
+
+La cárcel de máxima seguridad contará con una infraestructura exterior e interior con **seis torres de vigilancia** (9,5 metros de altura cada una); una muralla de nueve metros; seis metros de concreto y tres metros de malla inescalable.
+
+Además de módulos de máxima seguridad, área de estacionamientos, cocina, lavandería, armería, entre otros centros.
+
+La infraestructura se edificará bajo los **estándares internacionales** utilizados en otras cárceles, indicó el Gobierno.
+
+Prisión lleva un avance del 30 %
+--------------------------------
+
+Según el director del Servicio Nacional de Atención Integral a Personas Privadas de la Libertad (SNAI), **Luis Zaldumbide**, la construcción se completará en menos de un año (300) días, “un récord”, dijo.
+
+La prisión ubicada al sur de la comuna **Juntas del Pacífico**, en la parroquia Simón Bolívar comenzó su construcción en junio de 2024.
+
+Hasta la visita de Daniel Noboa, este viernes, la obra registra un avance físico del **30 %** y uno económico del 12 %.
+
+Los actuales trabajos en El Encuentro, luego de cuatro meses, incluyen la construcción de pabellones, torres de control y murallas.
+
+> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realizó un sobrevuelo y recorrido para verificar el avance de la construcción de la “Cárcel El Encuentro" que se edifica en la provincia de Santa Elena. Con cerca de 37 hectáreas y 14.000 metros cuadrados de construcción, cuenta con un avance físico… [pic.twitter.com/S9WICqXps2](https://t.co/S9WICqXps2)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 4, 2024](https://twitter.com/Presidencia_Ec/status/1842313299498512544?ref_src=twsrc%5Etfw)
+
+La obra cuenta con una inversión que supera los **52 millones de dólares**.
+
+Según Noboa, este centro de rehabilitación “favorecerá una verdadera rehabilitación.
+
+“Estamos mejorando la seguridad y los centros de reclusión, ya no serán centros de crimen, si no servirán para que se cumplan las sentencias y exista una verdadera rehabilitación”, añadió.
+
+En la comunidad Puntas del Pacífico, en la parroquia Simón Bolívar, además, se reforzará el centro médico, los parques multiuso y una unidad educativa.
+
+Este es el estado de salud de Mónica Palencia
+=============================================
+
+El estado de salud de Mónica Palencia fue revisado, tras asistir a la sesión de Fiscalización, por el juicio político en su contra.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Ambulancia en la que fue revisado el estado de salud de la ministra del Interior, Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-16.jpg)
+
+La ministra del Interior, **Mónica Palencia**, sufrió una descompensación médica que afectó a su **estado de salud,** la tarde de este viernes 4 de octubre de 2024.
+
+Hoy, Palencia asistió, de forma virtual, a una sesión de la Comisión de Fiscalización por el juicio político en su contra, que tuvo una duración de cerca de diez horas.
+
+### Más noticias:
+
+* [El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-fase-final.html "El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización")
+* [Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?](https://www.elcomercio.com/actualidad/politica/monica-palencia-descompensacion-ambulancia.html "Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?")
+
+La sesión de la Comisión de Fiscalización fue convocada a las 08:00 y concluyó a las 18:18.
+
+Cerca de las 18:00, la ministra Mónica Palencia pidió un receso para ir al baño y solicitó que ya se concluya.
+
+Esta sesión estaba convocada para que, las partes, tanto los interpelantes como la funcionaria, emitan sus últimos alegatos dentro del proceso.
+
+Estado de salud de Mónica Palencia
+----------------------------------
+
+Al reinstalar la sesión y tras constatar los asambleístas presentes, Pamela Aguirre (RC), presidenta de la mesa, dio la palabra a Palencia.
+
+El viceministro de Seguridad, Lyonel Calderón, intervino para decir que la Ministra había sufrido una descompensación.
+
+Palencia recibió atención en una ambulancia y trasladada a una casa de salud.
+
+Desde el **Ministerio del Interior** se informó que Palencia está con **reposo médico**.
+
+La Ministra recibió **atención ambulatoria**, **descansó por un momento** y la prescripción de reposo médico la hace en **su domicilio**.
+
+Se indicó que la descompensación fue producto del cansancio y el estrés.
+
+Situación del juicio político contra Mónica Palencia, tras sufrir una afectación a su estado de salud
+-----------------------------------------------------------------------------------------------------
+
+**Leonardo Berrezueta y Paola Cabezas**, asambleístas correístas, enjuician políticamente a Mónica Palencia por supuesto incumplimiento de funciones.
+
+Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
+
+Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
+
+La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
+
+A partir de este sábado 5 de octubre, transcurre el plazo de cinco días para que la mesa legislativa emita el informe motivado.
+
+En este informe, los asambleístas de la Comisión pueden sugerir el juicio político o su archivo.
+
+Finalmente, el Pleno de la Asamblea tiene la última decisión sobre este proceso.
+
+Para la censura de la Ministra se requieren de 92 votos afirmativos en la Asamblea.
+
+El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización
+======================================================================================
+
+La Comisión de Fiscalización debe elaborar un informe para votación en la fase final del juicio político en contra de Mónica Palencia.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Mónica Palencia en la Comisión de Fiscalización que tramita el juicio político en su contra y que ahora está en fase final.](https://www.elcomercio.com/wp-content/uploads/2024/10/monica-juicio.jpg)
+
+El juicio político en contra de la ministra del Interior, Mónica Palencia, está en su fase final en la Comisión de Fiscalización de la Asamblea Nacional[.](https://es.wikipedia.org/wiki/M%C3%B3nica_Palencia)
+
+La Comisión de Fiscalización cerró, la noche de este viernes 4 de octubre, el período de prueba.
+
+### Más noticias:
+
+* [Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?](https://www.elcomercio.com/actualidad/politica/monica-palencia-descompensacion-ambulancia.html "Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?")
+* [Juicio político a Mónica Palencia se instaló en línea, otra vez](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-se-instalo-linea-otra-vez.html "Juicio político a Mónica Palencia se instaló en línea, otra vez")
+* [Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/felix-wong-se-refirio-juicio-politico-monica-palencia.html "Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia")
+
+El período de prueba transcurrió por 10 días, incluido la presentación de alegatos de las partes este viernes, en una sesión que inició a las 08:00 y concluyó pasadas las 18:00.
+
+Minutos antes de clausurar la sesión virtual, Palencia pidió ir al baño, se dio un receso de cinco minutos; pero la Ministra ya no regresó.
+
+El viceministro de Seguridad, Lyonel Calderón, informó de la descompensación médica.
+
+La Ministra fue ingresada a una ambulancia, trasladada a una casa de salud, donde se le estabilizó y se le prescribió reposo médico en su domicilio.
+
+La fase final del juicio político contra Mónica Palencia, sus interpelantes y motivaciones
+------------------------------------------------------------------------------------------
+
+Mónica Palencia, ministra del Interior, es enjuiciada políticamente por los correístas Leonardo Berrezueta y Paola Cabezas por supuesto incumplimiento de funciones.
+
+Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
+
+Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
+
+La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
+
+Fase final del juicio político contra Mónica Palencia en Fiscalización
+----------------------------------------------------------------------
+
+Tras días de sesiones presenciales y virtuales con gritos, altercados y enfrentamientos, la Comisión de Fiscalización entra en la fase final del juicio contra Mónica Palencia.
+
+La Comisión se apresta a votar por la aprobación o no del informe final que autorice un juicio político en contra de la Ministra del Interior.
+
+A partir de este sábado 5 de octubre, transcurre el plazo de cinco días para que la mesa legislativa emita el informe motivado.
+
+En este informe, los asambleístas de la Comisión pueden sugerir el juicio político o su archivo.
+
+Finalmente, el Pleno de la Asamblea tiene la última decisión sobre este proceso.
+
+Para la censura de la Ministra se requieren de 92 votos afirmativos en la Asamblea.
+
+Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre
+====================================================================================
+
+La entidad ajustó los horarios habituales de clases por los cortes de luz programados que tiene el país.
+--------------------------------------------------------------------------------------------------------
+
+![Dos de tres jornadas escolares sufrirán cambios en sus horarios normales](https://www.elcomercio.com/wp-content/uploads/2024/10/clases.jpg)
+
+El **Ministerio de Educación** dio las directrices que deberán cumplir todas las unidades públicas del país la próxima semana.
+
+La entidad dispuso que se extiendan los cambios en los horarios de clases, desde el **lunes 7** de octubre hasta el **jueves 10** de octubre.
+
+### Más noticias
+
+* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
+* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
+* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
+
+La disposición fue oficializada mediante un comunicado, que detalla que el ajuste de las jornadas educativas afectará a **dos de las tres jornadas**.
+
+Esta medida se aplica debido a los cortes de energía programados, que si bien se han reducido, aún continúan en Ecuador, como consecuencia de la **crisis hídrica** que afecta a varias provincias.
+
+El **viernes 11 de octubre** no se tomó en cuenta en el ajuste debido al **feriado** que tendrán los ecuatorianos por la **Independencia de Guayaquil**.
+
+Esta fecha se celebra el 9 de octubre, sin embargo, según la **Ley de Feriados**, cuando coincide entre semana se traslada al viernes próximo.
+
+Cambios en los horarios de clases
+---------------------------------
+
+Los horarios habituales de clases en el sistema fiscal variarán durante otros cinco días adicionales.
+
+* **Jornada matutina**: Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
+* **Jornada vespertina**: Este horario sí tendrá importantes cambios. Los estudiantes verpertinos ingresarán a la hora acostumbrada, sin embargo, saldrán a las **17:00**.
+* **Jornada nocturna**: Este horario se mantendrá bajo la **modalidad no presencial**, con el uso de recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
+
+Este ajuste ya se aplicó la semana anterior, del lunes 30 de septiembre al viernes 4 de octubre.
+
+El objetivo, según el Ministerio, es “garantizar tanto la continuidad del proceso educativo como la seguridad de los estudiantes, docentes y personal administrativo” de las escuelas y colegios públicos.
+
+Las **instituciones particulares, fiscomisionales y municipales** tiene la posibilidad de sumarse a estos cambios o definir sus propias directrices.
+
+> \[COMUNICADO\] Emitimos disposiciones para garantizar la continuidad educativa en el periodo correspondiente del lunes 07 al jueves 10 de octubre. 👇 [pic.twitter.com/JQ1ZqBYfah](https://t.co/JQ1ZqBYfah)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 4, 2024](https://twitter.com/Educacion_Ec/status/1842329816944586953?ref_src=twsrc%5Etfw)
+
+Antonela Roccuzzo sorprende como portada de una icónica revista de moda
+=======================================================================
+
+Antonela Roccuzzo, pareja de Lionel Messi, deslumbra en la revista Harper’s Bazaar Brasil
+-----------------------------------------------------------------------------------------
+
+![Antonela Roccuzzo como portada de la revista Harper’s Bazaar Brasil](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T210607.729.jpg)
+
+**Antonela** **Roccuzzo** captó la atención del mundo de la moda al protagonizar la edición de octubre de Harper’s Bazaar Brasil. La imagen de la esposa de Lionel Messi generó gran expectativa y entusiasmo en redes sociales, atrayendo las miradas tanto de admiradores como de críticos de moda.
+
+Roccuzzo l**uce un elegante vestido negro** de alta costura, diseñado por Marc Jacobs, que combina audacia y sofisticación. El traje presenta un escote corazón voluminoso que aporta un toque romántico, y una silueta marcada por líneas limpias que resaltan su figura.
+
+### Más noticias:
+
+* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
+* [Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami](https://www.elcomercio.com/deportes/futbol/lionel-messi-y-leonardo-campana-conquistan-un-nuevo-titulo-con-el-inter-miami.html "Lionel Messi y Leonardo Campana conquistan un nuevo título con el Inter Miami")
+* [Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad](https://www.elcomercio.com/deportes/futbol/lionel-messi-modo-superheroe-ayudo-fan-a-escapar-de-la-seguridad.html "Lionel Messi, en modo superhéroe, ayudó a un fan a escapar de la seguridad")
+
+Para complementar su look, **Roccuzzo lleva joyas de la reconocida marca Tiffany**, con la cual mantiene una relación de embajadora. Entre las piezas destacan una gargantilla, pulseras y aros de oro con incrustaciones de piedras preciosas, añadiendo un brillo sofisticado a su estilismo.
+
+Mientras Antonela sigue abriéndose camino en el mundo de la moda como uno de los rostros más destacados, su esposo, **Lionel Messi,** continúa haciendo historia día tras día en el fútbol de Estados Unidos, con su impresionante desempeño en el Inter Miami de la **MLS**.
+
+Lionel Messi y sus números con el Inter Miami
+---------------------------------------------
+
+La llegada de **Lionel Messi** a la MLS fue un fenómeno mediático y deportivo, ya que, a pesar de seguir en gran forma, eligió jugar en el **Inter Miami** sobre muchas ofertas que tuvo en 2023, tras su paso por el París Saint-Germain y su triunfo en el Mundial de Qatar 2022 con la selección argentina.
+
+Su arribo causó un impacto masivo en la MLS, con ventas récord de camisetas, entradas y una creciente influencia en la sociedad estadounidense. Bajo esa presión, Messi no decepcionó a nadie.
+
+En su primera temporada, Messi jugó 14 partidos, anotó 11 goles y dio cinco asistencias, además de lograr el título de la **Leagues Cup**, el primero en la historia del club.
+
+Un año después, en la temporada 2024, sumó un nuevo título con el **Supporters’ Shield**. Hasta el momento, Messi ha disputado 20 partidos, anotando 19 goles y repartiendo 12 asistencias.
+
+En total, en 34 partidos con Inter Miami, ha acumulado **30 goles y 17 asistencias**.
+
+Horarios de cortes de luz en Santo Domingo de los Tsáchilas del sábado 5 de octubre
+===================================================================================
+
+La Corporación Nacional de Electricidad (CNEL) estableció el cronograma de los cortes de luz para el cantón Santo Domingo y la provincia de Santo Domingo de los Tsáchilas. Más noticias Los racionamientos del servicio de electricidad se redujeron en la provincia Tsáchila, desde el viernes 4 de octubre. Esa fue la nueva disposición del Ministerio \[…\]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este cronograma de cortes de luz se aplicará en Santo Domingo.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-santo-domingo.jpg)
+
+La **Corporación Nacional de Electricidad (CNEL)** estableció el cronograma de los **cortes de luz** para el **cantón Santo Domingo y la provincia de Santo Domingo de los Tsáchilas.**
+
+Más noticias
+------------
+
+* [Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-4-octubre.html "Horarios de cortes de luz reducidos para Quito este viernes 4 de octubre")
+* [Horarios de cortes de luz en Cuenca contemplan entre ocho y 10 horas sin servicio](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-contemplan-entre-ocho-y-10-horas-sin-servicio-lunes.html "Horarios de cortes de luz en Cuenca contemplan entre ocho y 10 horas sin servicio")
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+
+Los racionamientos del servicio de electricidad se redujeron en la provincia Tsáchila, desde el viernes 4 de octubre. Esa fue la nueva disposición del Ministerio de Energía.
+
+En tal virtud, los **cortes de luz en Santo Domingo** **de los Tsáchilas** se efectuarán de acuerdo con las franjas horarias reducidas, que se aplican a escala nacional.
+
+Según el cronograma establecido por la **CNEL para su Unidad de Negocios Santo Domingo**, la suspensión de la energía eléctrica será de entre dos y cuatro horas en los diferentes sectores.
+
+La CNEL dispuso que los **cortes de luz en Santo Domingo** **de los Tsáchilas** comiencen desde las 00:00 hasta las 19:00 del sábado 5 de octubre de 2024.
+
+Los periodos largos de racionamientos eléctricos serán entre las 00:00 y las 10:00. Mientras que en la tarde y noche habrá cortes de luz entre las 17:00 y las 19:00 del mismo día.
+
+En total, los **cortes de luz en Santo Domingo de los Tsáchilas** serán de 22 horas, repartidas entre nueve horarios.
+
+Los horarios de cortes de luz reducidos
+---------------------------------------
+
+El **Ministerio de Energía** cambió el esquema de los cortes de luz, que se aplicarán desde el 4 al 6 de octubre de 2024 en todo el territorio nacional[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
+
+El 1 de octubre, el Gobierno señaló que se efectuarán en dos horarios, de lunes a jueves y de viernes a domingo. Ese esquema se aplicará hasta el 20 de octubre, luego de lo cual se informará si se mantiene o se cambia de modalidad.
+
+**De lunes a jueves**:
+
+Dos horas seguidas entre las 18h00 a 22h00.
+
+Cuatro horas seguidas entre las 00h00 y las 08h00.
+
+**De viernes a domingo:**
+
+Dos horas seguidas entre las 16h00 y 19h00.
+
+Cuatro horas seguidas entre las 00h00 y 10h00.
+
+Puede consultar los cortes de luz en su ciudad y sector en el siguiente enlace [https://acortar.link/7reWpc](https://acortar.link/7reWpc)
+
+Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?
+=========================================================================================
+
+Mónica Palencia sufrió una descompensación y fue trasladada en ambulancia, tras asistir a una sesión virtual del juicio político en su contra.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Mónica Palencia en la ambulancia para ser trasladada por una descompensación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-15.jpg)
+
+La ministra del Interior, **Mónica Palencia**, sufrió una **descompensación** y fue trasladada en **ambulancia** a una casa de salud, la noche de este viernes 4 de octubre de 2024.
+
+Esto ocurrió tras asistir a una sesión virtual de la **Comisión de Fiscalización** por el **juicio político** en su contra que empezó a las 08:00 y concluyó pasadas las 18:00.
+
+### Más noticias:
+
+* [Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/felix-wong-se-refirio-juicio-politico-monica-palencia.html "Félix Wong dijo que no se debería perder el tiempo con juicio político a Mónica Palencia")
+* [Juicio político a Mónica Palencia se instaló en línea, otra vez](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-se-instalo-linea-otra-vez.html "Juicio político a Mónica Palencia se instaló en línea, otra vez")
+
+La tarde de este viernes, la Ministra pidió cinco minutos para ir al **baño**; pero, cuando se reinstaló la sesión, ella no estaba.
+
+En su lugar, intervino el viceministro de Seguridad Ciudadana, **Lyonel Calderón**, explicó la situación de Palencia.
+
+“La doctora ha tenido un bajón, producto de esta larga jornada, una descompensación, entonces, está acudiendo al médico, no se va a poder conectar”, señaló.
+
+El estado de Mónica Palencia, tras la descompensación y el traslado en ambulancia
+---------------------------------------------------------------------------------
+
+Tras la espera, **Pamela Aguirre (RC)** señaló que, por motivos médicos, la ministra Palencia se ha ausentado.
+
+Posteriormente, Aguirre señaló que se ha concluido los 10 días el período de presentación de pruebas, incluidos los alegatos de las partes que se presentaron este día.
+
+Tras cerca de **10 horas,** el Secretario de la Comisión clausuró la sesión a las **18:18**.
+
+Mientras qué, desde el **Ministerio del Interior** se informó que Palencia está con **reposo médico**.
+
+Se agregó que Palencia tuvo una **atención ambulatoria**, **descansó un momento** y la prescripción de reposo médico la hace en **su domicilio**.
+
+La Comisión debe volver a sesionar para conocer el informe y votar sobre si aprueba o no el trámite del juicio político en contra de Palencia.
+
+Mónica Palencia y el juicio político en su contra
+-------------------------------------------------
+
+Mónica Palencia, ministra del Interior, es enjuiciada políticamente por los correístas Leonardo Berrezueta y Paola Cabezas por supuesto incumplimiento de funciones.
+
+Los cargos están relacionados con la incursión policial en la Embajada de México en abril pasado.
+
+Esta incursión resultó en la captura del exvicepresidente y líder correísta, Jorge Glas.
+
+La existencia del Plan Fénix, las cifras de homicidios en Ecuador, la ubicación de alias ‘Fito’ y la falta de ejecución del presupuesto para seguridad.
+
 El Monumental de River Plate acogerá la final de la Copa Libertadores
 =====================================================================
 
@@ -395,657 +1119,3 @@ La Comisión de Desarrollo Económico también tramitó la “Ley No Más Apagon
 El nuevo proyecto también propone dar **incentivos** al sector privado por generación eléctrica.
 
 Esto, con fuentes de energía renovable no convencional, e implementar **acuerdos de compra de energía.**
-
-Dragonas IDV debuta con un valioso empate en la Libertadores Femenina
-=====================================================================
-
-Dragonas IDV consiguió un punto crucial en su debut en la Copa Libertadores Femenina.
--------------------------------------------------------------------------------------
-
-![Nayely Bolaños (i) y Analiz Zambrano festejan el primer gol de Dragonas IDV en la Copa Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T184026.797.jpg)
-
-En su primer partido de **Copa Libertadores Femenina, Dragonas IDV** sorprendió al lograr un empate 1-1 frente a Ferroviaria de Brasil, bicampeonas del torneo (2015 y 2020). El encuentro se disputó en Asunción, Paraguay, en el marco de la primera jornada de la fase de grupos.
-
-A pesar de ser novatas en este escenario, el **equipo ecuatoriano mostró gran personalidad** y no se dejó intimidar por las experimentadas brasileñas.
-
-### Más noticias:
-
-* [Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina](https://www.elcomercio.com/deportes/final-dragonas-barcelona-superliga-campeonas.html "Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina")
-* [Dragonas Independiente debuta en la Copa Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/independiente-dragonas-copa-libertadores-femenina.html "Dragonas Independiente debuta en la Copa Libertadores Femenina")
-* [Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/ecuador-conoce-rivales-para-copa-libertadores-femenina.html "Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina")
-
-Con este empate, **Dragonas IDV inicia con buen pie su camino en el Grupo C**, sumando su primer punto y colocándose momentáneamente en la cima, a la espera del resultado entre Peñarol de Uruguay y Santa Fe de Colombia.
-
-> 🚂💨 A luta das [@guerreirasgrena](https://twitter.com/guerreirasgrena?ref_src=twsrc%5Etfw) pelo tri começou com um empate!  
->   
-> 🟰💥 ¡Todo igual para [@guerreirasgrena](https://twitter.com/guerreirasgrena?ref_src=twsrc%5Etfw) y [@DragonasIDV](https://twitter.com/DragonasIDV?ref_src=twsrc%5Etfw) en el estreno de la CONMEBOL [#LibertadoresFEM](https://twitter.com/hashtag/LibertadoresFEM?src=hash&ref_src=twsrc%5Etfw)![#LaGloriaEsDeEllas](https://twitter.com/hashtag/LaGloriaEsDeEllas?src=hash&ref_src=twsrc%5Etfw) | [#AGlóriaÉDelas](https://twitter.com/hashtag/AGl%C3%B3ria%C3%89Delas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/hlEE4OTVv9](https://t.co/hlEE4OTVv9)
-> 
-> — CONMEBOL Libertadores Femenina (@LibertadoresFEM) [October 4, 2024](https://twitter.com/LibertadoresFEM/status/1842349349315002393?ref_src=twsrc%5Etfw)
-
-Analiz Zambrano, de villana a héroe
------------------------------------
-
-El primer tiempo fue equilibrado, con ambos equipos buscando abrir el marcador, pero sin generar ocasiones de verdadero peligro.
-
-La intensidad creció en la segunda mitad, cuando Ferroviaria se adelantó en el minuto 54, en una jugada desafortunada para **Dragonas IDV**.
-
-**Analiz Zambrano**, en su intento de despejar un centro bajo presión, desvió el balón accidentalmente hacia su propio arco, sorprendiendo a su compañera, la guardameta Andrea Vera, quien no pudo evitar el gol.
-
-A pesar de este autogol, Zambrano no se dejó abatir. Al minuto 77, la misma jugadora se reivindicó al marcar el **gol del empate**. Tras un tiro de esquina, conectó de cabeza y envió el balón al fondo de las redes, lo que la **llevó a golpear su pecho en señal de determinación**.
-
-> Analiz 🔥 [pic.twitter.com/poWcpNR03I](https://t.co/poWcpNR03I)
-> 
-> — DragonasIDV (@DragonasIDV) [October 4, 2024](https://twitter.com/DragonasIDV/status/1842346986680234116?ref_src=twsrc%5Etfw)
-
-Momento polémico y cierre del partido
--------------------------------------
-
-En los últimos minutos, Ferroviaria presionó buscando llevarse la victoria, y una jugada al borde del área ecuatoriana generó polémica.
-
-Hubo dudas sobre si el balón había cruzado completamente la línea de gol en un disparo, pero la arquera **Andrea Vera, con una gran reacción, aseguró que no**. La revisión de las cámaras tampoco fue concluyente, lo que permitió que Dragonas IDV mantuviera el empate.
-
-Este resultado es histórico para el conjunto ecuatoriano, que demostró estar a la altura del desafío. A lo largo del partido, **Dragonas IDV** tuvo más control del balón y realizó más remates que su rival, lo que sorprendió a las brasileñas, una de las múltiples campeonas del certamen.
-
-Próximo partido de Dragonas IDV
--------------------------------
-
-Su siguiente partido por la Copa Libertadores Femenina será el próximo lunes 7 de octubre. Dragonas IDV se medirán ante Santa Fe de Colombia, a las 18:00 (hora Ecuador) por la segunda fecha del torneo.
-
-Cortes de luz en Portoviejo el sábado 5 de octubre del 2024
-===========================================================
-
-Los cortes de luz se llevarán a cabo en dos franjas en Portoviejo, capital de Manabí, durante este sábado 5 de octubre del 2024.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. Los cortes de luz afectan a Portoviejo y al país durante el sábado 05 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/2030407-scaled.jpg)
-
-Los cortes de luz en Ecuador continúan y este **sábado 5 de octubre del 2024** hay horarios determinados en Manabí. En el caso de **Portoviejo**, capital de la provincia, estos se llevarán a cabo en dos franjas distintas.
-
-La **Corporación Nacional de Electricidad** (CNEL EP) dio a conocer las ciudades y las horas en las cuales habrá la suspensión de suministro eléctrico durante el fin de semana en el país. La agenda, sin embargo, será variable en función de los días y va a partir del **4 al 6 de octubre.**
-
-### Más noticias:
-
-* [Horarios de cortes de luz en Bolívar para el sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-de-cortes-de-luz-en-bolivar-para-el-sabado-5-de-octubre.html "Horarios de cortes de luz en Bolívar para el sábado 5 de octubre")
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-* [Horarios de cortes de luz en Tulcán del sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-tulcan-sabado-5-octubre.html "Horarios de cortes de luz en Tulcán del sábado 5 de octubre")
-
-Los cortes en Portoviejo se llevarán a cabo por tan solo **dos horas** dentro de los dos espacios mencionados. Pueden ser tanto en la mañana como en la noche o la madrugada. Asimismo, es posible que estos se extiendan por **cuatro horas** durante un solo intervalo[.](https://en.wikipedia.org/wiki/Portoviejo "https://en.wikipedia.org/wiki/Portoviejo")
-
-En el caso de la capital manabita, la primera franja en la cual se producirán los cortes de luz durante el sábado 5 de octubre será entre las **00:00 y 04:00**. La segunda, entre las **16:00 y 18:00.**
-
-Sectores a los que afectarán los cortes de luz en Portoviejo
-------------------------------------------------------------
-
-* Avenida 5 De Junio
-* Avenida de El Ejército
-* Avenida Pablo Zamora
-* Avenida Reales Tamarindos
-* Avenida Urbina
-* Autopista Manabí Guillén (paso lateral)
-* Banco del Pacífico
-* Bloques de la Policía
-* Calle 9 de Octubre
-* Calle Alhajuela
-* Calle América
-* Calle América (Parque de la Madre)
-* Calle Atanasio Santos
-* Calle Che Guevara
-* Calle Pedro Guala
-* Calle Quito
-* Calle Vicente Macías
-* Cementerio Picoazá
-* Cevichería Laurita
-* Centro Comercial CC1
-* Ciudadela Bellavista
-* Ciudadela Briones
-* Ciudadela Fabián Palacios
-* Ciudadela Las Orquídeas
-* Ciudadela La Paz
-* Ciudadela La Catedral
-* Ciudadela Los Cerezos
-* Ciudadela Los Jazmines
-* Ciudadela Los Olivos
-* Ciudadela Los Tamarindos
-* Ciudadela Nueva California
-* Ciudadela San Alejo
-* Ciudadela San Cristóbal
-* Ciudadela San Jorge
-* Ciudadela Universitaria
-* Estadio Picoazá
-* Hospital del IESS
-* Iglesia La Catedral
-* Mercado Central # 1
-* Museo Jaboncillo
-* Paseo Shopping
-* Terminal Terrestre
-* Colegio Teniente Hugo Ortiz
-* Urbanización Jardines del Norte
-* Urbanización Los Álamos
-* Urbanización Santa Gema
-* Universidad Católica
-* Universidad Técnica de Manabí
-* Vía Manta.
-
-Cortes de luz del 4 al 6 de octubre del 2024 en Manabí
-------------------------------------------------------
-
-Estos son los horarios de los cortes de luz en Latacunga, este 5 de octubre de 2024
-===================================================================================
-
-Los cortes de luz continuarán este sábado 5 de octubre de 2024 en todo el país, en medio de la crisis energética por la que atraviesa. En los siete cantones de la provincia de Cotopaxi los racionamientos eléctricos serán de cuatro y cinco horas al día. Más noticias En Latacunga, capital de la provincia, los \[…\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz se retomaron debido a la escasa generación en las principales centrales hidroeléctricas del país. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-24-sep.jpg)
-
-Los **cortes de luz** continuarán este sábado 5 de octubre de 2024 en todo el país, en medio de la crisis energética por la que atraviesa. En los siete cantones de la provincia de **Cotopaxi** los racionamientos eléctricos serán de cuatro y cinco horas al día.
-
-### Más noticias
-
-* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
-* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
-* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
-
-En **Latacunga**, capital de la provincia, los apagones empezarán a las 00:00 y terminarán a las 19:00, en períodos de cuatro a cinco horas, dependiendo del sector.
-
-**Revise aquí el cronograma de su zona**:
-
-Los cortes de luz en Ecuador
-----------------------------
-
-El Gobierno de **Daniel Noboa** retomó los cortes de luz programados el pasado 22 de septiembre. Esto debido a la grave sequía, que impide el funcionamiento normal de las hidroeléctricas del país.
-
-Inicialmente, los apagones fueron de 12 horas al día. Actualmente tienen un promedio de 6 horas de racionamiento. La reducción en los períodos de los cortes responde a un mejoramientos de la situación hídrica. Además, para que haya mayor actividad y movilización de la población, señalaron las autoridades.
-
-Asimismo, el Gobierno informó que Ecuador enfrenta la peor sequía de los últimas seis décadas. A este factor climático hay que sumarle los años de “abandono y de corrupción en la contratación de obras del sector eléctrico”. Todo esto genera problemas en el normal suministro de electricidad a los hogares.
-
-Mientras dure la crisis energética, todos los jueves se anunciará los horarios de los cortes de luz para la siguiente semana. La programación estará a cargo de cada una de las nueve empresas distribuidoras de energía del Ecuador. [Revise aquí los horarios de todo el país](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/").
-
-Horarios de cortes de luz en Bolívar para el sábado 5 de octubre
-================================================================
-
-Los cortes de luz programados en Ecuador afectarán a la provincia de Bolívar con interrupciones de hasta cuatro horas.
-----------------------------------------------------------------------------------------------------------------------
-
-![Bolívar tendrá cortes de luz este sábado 5 de octubre hasta un máximo de cuatro horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T181549.479.jpg)
-
-La **Corporación Nacional de Electricidad** (CNEL EP) ha anunciado los cortes de luz que afectarán a la **provincia de Bolívar** este sábado 5 de octubre, como parte de los cortes energéticos programados a nivel nacional que han tenido lugar en las últimas semanas.
-
-El **horario de los cortes** se extiende desde el 4 de octubre hasta el domingo 6 de octubre, con variaciones dependiendo de los sectores. El tiempo máximo sin luz por día **será de cuatro horas**.
-
-### Más noticias:
-
-* [Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-azogues-canar-sabado-de-octubre.html "Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre")
-* [Horarios de cortes de luz en Santa Elena del sábado 5 de octubre](https://www.elcomercio.com/actualidad/cortes-luz-santa-elena-ecuador.html "Horarios de cortes de luz en Santa Elena del sábado 5 de octubre ")
-* [Horarios de cortes de luz en Loja para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-loja-sbado-5-octubre.html "Horarios de cortes de luz en Loja para este sábado 5 de octubre")
-
-En Bolívar, los cortes de energía se organizarán en **dos franjas horarias o una sola interrupción de cuatro horas**, distribuidas en los siete cantones de la provincia.
-
-Zonas afectadas por los cortes de luz en Bolívar
-------------------------------------------------
-
-Los c**antones que se verán afectados**, según la Unidad de Negocio Bolívar del CNEL EP, son: Caluma, Chillanes, Chimbo, Echeandía, Guaranda, Las Naves y San Miguel.
-
-Es importante señalar que **cada cantón no tendrá un horario fijo** y podría experimentar múltiples interrupciones según el sector. Por ello, se recomienda revisar cuidadosamente el documento de programación de cortes compartido por la Corporación Nacional de Electricidad (CNEL EP).
-
-[CNEL BOLÍVAR 04 – 06 OCT](https://www.elcomercio.com/wp-content/uploads/2024/10/CNEL-BOLIVAR-04-06-OCT.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/10/CNEL-BOLIVAR-04-06-OCT.pdf)
-
-Impacto de los cortes eléctricos en el contexto nacional
---------------------------------------------------------
-
-Estos cortes de luz forman parte de una serie de **apagones programados** que han afectado a todo el país desde mediados de 2024, como consecuencia de la disminución en los niveles de las centrales hidroeléctricas. Esto ha obligado a las autoridades a implementar medidas de ahorro energético en varias provincias.
-
-Sin embargo, los cortes de este fin de semana se han reducido en comparación con las semanas anteriores, debido a la **mejora en los niveles de agua** en las principales hidroeléctricas del país.
-
-Horarios de cortes de luz en Tulcán del sábado 5 de octubre
-===========================================================
-
-Los cortes de luz en Tulcán están definidos para el sábado 5 de octubre del 2024. Hay varios horarios.
-------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz se mantendrán en Tulcán este sábado 5 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/tulcan.jpg)
-
-**Emelnorte** estableció los horarios de **cortes de luz** en **Tulcán**, capital de la provincia de **Carchi**, para el sábado 5 de octubre de 2024.
-
-Esta medida es parte de un cronograma que abarca desde el viernes 4 hasta el domingo 6 de octubre.
-
-### Más noticias:
-
-* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
-* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-
-Los cortes programados para este sábado 5 de octubre serán de hasta **cuatro horas**, distribuidos en dos franjas horarias.
-
-En algunos sectores de Tulcán, los cortes se llevarán a cabo de **02:00 a 04:00** y de **16:00 a 18:00**.
-
-Esta estrategia busca minimizar el impacto en la población durante los horarios de mayor actividad y movilización.
-
-Cortes de luz en Tulcán este sábado 5 de octubre del 2024
----------------------------------------------------------
-
-Los horarios establecidos por Emelnorte para la capital carchense establece cortes hasta de cuatro horas.
-
-Esas horas están en una sola franja o dividida en dos.
-
-A continuación, los horarios por franjas y sectores:
-
-El anuncio del Ministerio de Energía y Minas, realizado el jueves 3 de octubre, subraya que estos nuevos horarios se implementan para facilitar una mejor gestión del servicio eléctrico en un periodo crítico.
-
-El Gobierno había anticipado esta reducción desde el 1 de octubre, destacando que es posible gracias a las recientes lluvias que han mejorado los caudales en las hidroeléctricas.
-
-Los residentes de Tulcán deben estar preparados para estos cortes y tomar las precauciones necesarias, como asegurar que sus dispositivos electrónicos estén cargados y planificar sus actividades diarias en consecuencia.
-
-Tulcán
-------
-
-Tulcán es una ciudad fronteriza ubicada al norte del Ecuador, a una altitud de **2980 m** sobre el nivel del mar.
-
-Su ubicación estratégica cerca de la frontera con Colombia ha convertido a Tulcán en un importante centro comercial y administrativo, además de ser parte integral en las relaciones entre Tulcán e Ipiales.
-
-La ciudad es conocida por su clima frío andino. Entre sus principales actividades económicas se destacan el comercio, la agricultura y la ganadería.
-
-Horarios de cortes de luz en Ambato del sábado 5 de octubre
-===========================================================
-
-Los cortes de luz en Ambato tiene diferentes franjas horarias.
---------------------------------------------------------------
-
-![Cortes de luz en la ciudad de Ambato.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175938.389.jpg)
-
-La **Empresa Eléctrica Ambato** estableció los horarios de [cortes de luz](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html") en la capital para este sábado 5 de octubre de 2024.
-
-### Más noticias
-
-* [Estos son los cortes de luz para Esmeraldas, este 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-esmeraldas-este-5-octubre.html "Estos son los cortes de luz para Esmeraldas, este 5 de octubre")
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-
-Los ciudadanos en Ambato podrán consultar los horarios de cortes de luz, de acuerdo a su sector en este sitio web **https://www.eeasa.com.ec/suspensiones-programadas/**
-
-Alternativas
-------------
-
-Los cronograma de cortes de luz está programado desde el viernes 4 al domingo 6 de octubre de 2024. En este contexto los ciudadanos personas optan por alternativas como usar **generadores eléctricos**, en los hogares también hacen uso de las velas.
-
-Condiciones hidrológicas
-------------------------
-
-La **Empresa Eléctrica Ambato** recuerda que “debido a la mejora de las condiciones hidrológicas, los cortes de energía pueden reducirse dentro del periódo de corte programado”.
-
-Ambato y horarios
------------------
-
-Los cortes de luz en Ambato, serán por ejemplo, entre las 00:00 – 04:00, 01:00 -05:00 o de 06:00 – 10:00, 16:18. Otras franjas horarias se contemplan desde las 16:00 – 18:00, 17:00 – 19:00.
-
-A continuación podrá establecer los cortes de luz en la ciudad de Ambato, de acuerdo a su sector.
-
-  
-
-  
-
-  
-
-Horarios de cortes de luz en Azogues y Cañar para este sábado 5 de octubre
-==========================================================================
-
-Las empresas eléctricas Centro Sur y Azogues difundieron los horarios para los cantones Azogues, Déleg, Suscal, El Tambo, La Troncal y Cañar.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cantones de Cañar son atendidos por las empresas eléctricas Centro Sur y Azogues..](https://www.elcomercio.com/wp-content/uploads/2024/10/luz-guayaquil.jpg)
-
-La **Empresa Eléctrica Regional Centro Sur** anunció los cortes de luz que realizará este sábado 5 de octubre de 2024 en los cantones **Cañar, El Tambo, Suscal y La Troncal**, ubicados en la provincia de **Cañar**.
-
-Esta distribuidora atiente estos cantones. En cambio, la **Empresa Eléctrica Azogues** opera en **Azogues**, que es la capital provincial y el cantón **Déleg**.
-
-La **Centro Sur** recordó que los horarios pueden reducirse en función de las condiciones hidrometereológicas en las centrales eléctricas.
-
-### Más noticias
-
-* [Cortes de luz en Cuenca este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-cuenca-sabado-5-octubre.html "Cortes de luz en Cuenca este sábado 5 de octubre")
-* [Cortes de luz en Riobamba para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-riobamba-para-este-sabado-5-de-octubre.html "Cortes de luz en Riobamba para este sábado 5 de octubre")
-* [Horarios de cortes de luz en Loja para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-loja-sbado-5-octubre.html "Horarios de cortes de luz en Loja para este sábado 5 de octubre")
-
-Los cortes en La **Troncal** se dividieron en cinco horarios. Van de 01:00 a 04:00, de 03:00 a 07:00 y entre las 04:00 y las 08:00. También, desde las 06:00 10:00.
-
-En los cantones **Suscal** y **Cañar** será de 06:00 a 10:00. En El Tambo desde las 03:00 a 07:00 
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/IMG_7255-586x1024.jpg)
-
-Los cortes en Azogues y Déleg
------------------------------
-
-Los cortes en la capital provincia empezarán a las 00:00 y finalizarán a las 19:00. Azogues fue dividida en nueve sectores y en cada uno se irá la luz durante dos horas. Esa información la difundió la Empresa Eléctrica Azogues.
-
-Los sectores se pueden conocer mediante este link: [https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/](https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/ "https://www.eea.gob.ec/noticias/detalle/494/cronograma-de-suspension-del-viernes-4-al-domingo-6-de-octubre/")
-
-En el cantón **Déleg**, ubicado en el sur de **Cañar** y en el límite con **Azuay**, los cortes serán de 00:00 a 02:00 y entre las 02:00 y las 04:00.
-
-Cuarta más buscada de Pichincha fue detenida en Santa Elena
-===========================================================
-
-La mujer se encontraba prófuga de la justicia por el presunto delito de abuso sexual de una estudiante de 13 años.
-------------------------------------------------------------------------------------------------------------------
-
-![La mujer fue capturada durante un operativo realizado en Santa Elena](https://www.elcomercio.com/wp-content/uploads/2024/10/mas-buscada.jpg)
-
-La Policía Nacional detuvo a **Flor del Rocío L. A.**, considerada como la cuarta **más buscada** de la provincia de Pichincha.
-
-La captura se realizó durante el operativo **Fénix 341**, realizado en el cantón La Libertad, en Santa Elena, este viernes 4 de octubre de 2024.
-
-### Más noticias
-
-* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-* [Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024](https://www.elcomercio.com/actualidad/quito/obras-viales-cerraran-calles-quito-15-diciembre-2024.html "Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024")
-
-Los uniformados identificaron a la **fugitiva** tras varias diligencias de investigación, y finalmente la aprehendieron en el sector de la **Virgen del Carmen**.
-
-La justicia requería a la mujer de 34 años por el presunto delito de **abuso sexual** en contra de una menor de edad.
-
-La ciudadana aprovechó su trabajo como docente de una unidad educativa en Quito para presuntamente abusar de una estudiante de **13 años**.
-
-Tras emitida la orden de captura, la policía incluyó a Flor del Rocío en el programa de los Más Buscados en junio de **2023**.
-
-Los gendarmes trasladaron a la detenida a **Quito**, donde fue puesta a órdenes de las autoridades competentes.
-
-> DETENCIÓN DE LA CUARTA MÁS BUSCADA DE PICHINCHA POR DELITOS DE VIOLENCIA DE GÉNERO  
->   
-> Mediante técnicas y diligencias investigativas, en el cantón Salinas, [#SantaElena](https://twitter.com/hashtag/SantaElena?src=hash&ref_src=twsrc%5Etfw), fue capturada Flor L., requerida por la justicia, quien figura dentro del programa [#LosMásBuscados](https://twitter.com/hashtag/LosM%C3%A1sBuscados?src=hash&ref_src=twsrc%5Etfw), procesada por… [pic.twitter.com/3rO3QYifrU](https://t.co/3rO3QYifrU)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 4, 2024](https://twitter.com/PoliciaEcuador/status/1842297678178157031?ref_src=twsrc%5Etfw)
-
-Extorsionador sexual, detenido en Quito
----------------------------------------
-
-En otro operativo realizado en Quito este viernes, la Policía capturó a un hombre que **extorsionaba sexualmente** a través de **redes sociales**.
-
-El individuo exigía dinero a cambio de no difundir **fotos y videos** privados.
-
-Los uniformados recuperaron varios indicios que servirán para la investigación, entre ellos:
-
-* 1 motocicleta
-* 2 celulares
-* Dinero en efectivo
-
-El individuo fue entregado a las autoridades, quienes resolverán su situación legal.
-
-> LABORES OPERATIVAS  
-> Se aprehendió a un ciudadano por presunta extorsión sexual mediante redes sociales, se exigía dinero.  
->   
-> Indicios:  
-> 1 motocicleta retenida  
-> 2 chips de celulares  
-> 2 terminales móviles  
-> Dinero en efectivo[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EO2EyjksY0](https://t.co/EO2EyjksY0)
-> 
-> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 4, 2024](https://twitter.com/PoliciaDMQZona9/status/1842218453127528460?ref_src=twsrc%5Etfw)
-
-Horarios de cortes de luz en Santa Elena del sábado 5 de octubre 
-=================================================================
-
-Los cortes de luz en Santa Elena para el sábado 5 de octubre serán intercalados.
---------------------------------------------------------------------------------
-
-![La provincia de Santa Elena enfrentará cortes de luz programados debido a la crisis energética en Ecuador. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-1.jpg)
-
-El **sábado 5 de octubre** de 2024, la **provincia de Santa Elena** en Ecuador experimentará **cortes de luz** programados debido a la **crisis energética** que afecta al país. Estos cortes son parte de un plan implementado por el **Gobierno** para gestionar la **demanda eléctrica**. 
-
-### Más noticias
-
-* [Cortes de luz en Quito tienen varios horarios, del 30 de septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-en-quito-tienen-varios-horarios.html "https://www.elcomercio.com/actualidad/quito/cortes-luz-en-quito-tienen-varios-horarios.html")
-* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html")
-
-**Detalles de los cortes de luz en Santa Elena**  
---------------------------------------------------
-
-Los **cortes de luz** se llevarán a cabo en **bloques horarios** **según el sector**, de acuerdo con información proporcionada por la **Corporación Nacional de Electricidad [CNEL EP](https://www.cnelep.gob.ec/tag/corte-de-energia/ "https://www.cnelep.gob.ec/tag/corte-de-energia/")**: 
-
-> 🚨 IMPORTANTE  
->   
-> Consulta los horarios y sectores de las 11 Unidades de Negocio de [#CNELEP](https://twitter.com/hashtag/CNELEP?src=hash&ref_src=twsrc%5Etfw) que tendrán interrupción del servicio eléctrico del 04 al 06 de octubre de 2024.  
->   
-> Horarios por Unidades de Negocio aquí:  
->   
-> Bolívar: [https://t.co/X6QFhGD8mu](https://t.co/X6QFhGD8mu)  
-> El Oro: [https://t.co/vLhKjnipGU](https://t.co/vLhKjnipGU)… [pic.twitter.com/XDXNcJtcce](https://t.co/XDXNcJtcce)
-> 
-> — CNEL EP (@CNEL\_EP) [October 3, 2024](https://twitter.com/CNEL_EP/status/1841951406745383410?ref_src=twsrc%5Etfw)
-
-Estos horarios son parte de un esfuerzo por **reducir la duración total de los apagones**, priorizando los **cortes en la madrugada y la noche** para minimizar el impacto en las actividades diarias. 
-
-**Sectores de Santa Elena** 
-----------------------------
-
-Sábado 5 de octubre de 2024 / 00:00 a 04:00 / 18:00 a 19:00 
-
-![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-2-1024x683.jpg)
-
-Foto: CNEL.
-
-![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-3-1024x683.jpg)
-
-Foto: CNEL.
-
-Sábado 5 de octubre de 2024 / 04:00 a 08:00 
-
-![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-4-1024x683.jpg)
-
-Foto: CNEL.
-
-![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-5-1024x683.jpg)
-
-Foto: CNEL.
-
-Sábado 5 de octubre de 2024 / 08:00 a 10:00 / 16:00 a 18:00 
-
-![Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Santa-Elena-6-1024x683.jpg)
-
-Foto: CNEL.
-
-**Contexto de los cortes de luz** 
-----------------------------------
-
-La situación actual se deriva de una **crisis energética** **que han afectado la generación y distribución de energía en Ecuador**. A pesar de las **mejoras en las condiciones hidrológicas**, los cortes seguirán siendo necesarios para **equilibrar la oferta y la demanda eléctrica**. 
-
-Se recomienda a los ciudadanos **consultar los canales oficiales del Gobierno Nacional**. 
-
-Los cortes programados para el sábado 5 de octubre son parte del esfuerzo continuo del Gobierno para **manejar la crisis energética en Ecuador**. Es fundamental que los ciudadanos estén informados sobre estos cambios para poder **planificar sus actividades diarias adecuadamente**. 
-
-Cortes de luz en Pastaza este sábado 5 de octubre
-=================================================
-
-El inicio de los cortes de luz en Ecuador fueron anunciados por el Gobierno central el lunes 16 de septiembre de 2024.
-----------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de los cortes de luz en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes_luz_1.jpg)
-
-La **Empresa Eléctrica Ambato Regional Centro Norte S.A.** anunció el cronograma de cortes de luz que se aplicarán en esta parte del país del viernes 4 al domingo 6 de octubre de 2024.
-
-El cronograma establece que los **cortes de luz serán de cuatro horas durante este primer fin de semana** de octubre, con lo que se espera que el malestar generado en los ciudadanos se reduzca.
-
-### Más noticias:
-
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
-
-Las cuatro hora de cortes de luz serán continuos en la mayoría de los cantones de Pastaza, salvo en el cantón Palora, parroquia Palora, alimentador Palora; **cantón Pastaza, parroquias Simón Bolívar, Canelos, alimentador Simón Bolívar**; cantón Pastaza, parroquias Simón Bolívar, Huamboya, alimentador Consuelo, que serán divididos en dos horas en dos horarios distintos.
-
-La reducción de **cuatro horas fue anunciado el jueves 3 en un comunicado oficial** del Ministerio de Energía y Minas, que fue difundido en sus redes sociales.
-
-Además, esta cartera de Estadio mencionó que los ciudadanos pueden hacer alguna consulta o **presentar una inquietud sobre los horarios planificados de cortes de luz**, enviando un correo electrónico a la dirección reporteshorarios@energiayminas.gob.ec.
-
-Horarios de cortes de luz en Pastaza del sábado 5 de octubre
-------------------------------------------------------------
-
-Bajo el argumento que **Ecuador atraviesa el peor estiaje de los últimos 61 años**, el Gobierno central anunció el lunes 16 de septiembre el inicio de una serie de cortes de luz desde el lunes 23.
-
-En un **principio se indicó que sería desde las 22:00 hasta las 06:00**, pero los mismos han ido variando conforme la intensidad de las lluvias se han ido presentando en Ecuador diariamente, en especial en las zonas donde se encuentran la hidroeléctricas.
-
-Una de las medidas que se tomó fue la del teletrabajo para el sector público en días determinados.
-
-“El horario de corte establecido ha sido escogido con la finalidad de **generar el menor impacto posible en las actividades productivas** y el desarrollo del jornadas laborales”, aseguró el Gobierno en el comunicado publicado en sus cuentas oficiales de redes sociales.
-
-Horarios de cortes de luz en Loja para este sábado 5 de octubre
-===============================================================
-
-Los cortes de luz continúan en el país. Estos serán los horarios en Loja.
--------------------------------------------------------------------------
-
-![Los cortes de luz en Loja para este 5 de octubre de 2024. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175339.108.jpg)
-
-Los cortes de luz continúan en el país. Te compartimos los horarios del **razonamiento** del suministro eléctrico en **Loja**.
-
-### Más noticias: 
-
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html")
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html?source=Internal&ref=Single+Content+Link")
-* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html?source=Internal&ref=Single+Content+Link")
-
-La Empresa Eléctrica Regional del Sur compartió la siguiente programación. El sábado 5 de octubre los cortes de luz serán de una, dos y tres horas.
-
-El primer corte de luz será de 00:00 a 03:00, de 01:00 a 03:00 y 18:00 a 19:00, de 01:00 a 04:00, de 02:00 a 05:00 y de 18:00 a 19:00.
-
-Los cortes de luz continuarán el sábado 5 de octubre de 2024: de 04:00 a 06:00 y de 17:00 a 19:00, de 03:00 a 06:00, de 05:00 a 08:00, de 04:00 a 07:00, de 04:00 a 06:00 y de 17:00 a 19:00, de 07:00 a 10:00, de 08:00 a 10:00 y de 16:00 a 18:00.
-
-El horario de los cortes de luz dependerá de los sectores de cada cantón.
-
-**Cortes de luz en Loja**
--------------------------
-
-El Gobierno de Daniel Noboa anunció una reducción en las horas de cortes de luz a escala nacional, debido a la mejora en la situación hídrica y energética del país.
-
-Esta decisión busca aliviar las molestias causadas por los cortes programados, que afectaron a la población en los últimos meses. Con el nuevo enfoque, se pretende optimizar el uso de energía y garantizar un servicio más estable.
-
-La Presidencia indicó que la reducción de cortes se llevará a cabo principalmente en los horarios de mayor actividad y movilización de los ciudadanos.
-
-Esto significa que se priorizarán las franjas horarias en las que la demanda energética es más alta, permitiendo a las familias y empresas continuar con sus actividades cotidianas sin interrupciones significativas.
-
-El Ministerio de Energía y Minas comunicó que los nuevos horarios de cortes de luz estarán vigentes desde este viernes 4 hasta el domingo 6 de octubre. Esta medida busca proporcionar un respiro a los usuarios, quienes han enfrentado desafíos por la falta de suministro eléctrico.
-
-Cortes de luz en Cuenca este sábado 5 de octubre
-================================================
-
-Hasta cinco horas de cortes de luz por sector tendrá Cuenca este sábado 5 de octubre.
--------------------------------------------------------------------------------------
-
-![Los cortes de luz Cuenca para este sábado 5 de octubre tienen hasta cinco horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/velas.jpg)
-
-**Centrosur** estableció los horarios de cortes de luz en **Cuenca** y otras ciudades del Austro este **sábado 5 de octubre** de 2024[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
-
-El cronograma prevé cortes de **hasta cinco horas** en esta ciudad, para mañana.
-
-### Más noticias:
-
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
-* [Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-reduccion-cortes-luz-nacional.html "Gobierno de Daniel Noboa anuncia reducción de horas de cortes de luz ¿Cuál es el nuevo cronograma?")
-
-El Gobierno de **Daniel Noboa** anunció la reducción de las horas de cortes de luz desde el viernes 4 al domingo 20 de octubre.
-
-Desde este viernes, las **empresas eléctricas** del país cambiaron los cronogramas que habían establecido para cumplir con la disposición.
-
-En tanto, desde este jueves, Daniel Noboa tomó otra medida respecto a la crisis energética que atraviesa el país.
-
-Hasta el 31 de diciembre, Noboa dispuso la reducción a tarifa 0% del Impuesto al Valor Agregado (IVA) en la importación y venta local de **generadores eléctricos.**
-
-Horarios de cortes de luz en Cuenca este sábado 5 de octubre
-------------------------------------------------------------
-
-Los cortes de luz en Cuenca para este sábado son de hasta cinco horas.
-
-Estas horas están divididas en una franja de dos horas o en un solo corte.
-
-El Gobierno señaló que la reducción se realizará, sobre todo, en los horarios de mayor actividad y movilización de la población.
-
-A continuación, los cortes de luz en Cuenca y otras ciudades del austro por horarios y sectores:
-
-La reducción o incremento de horas de los cortes de luz dependerá de la situación hídrica y energética del país.
-
-Leonardo Campana, el delantero en mejor forma de la Selección de Ecuador
-========================================================================
-
-La Selección de Ecuador vuelve a la acción en octubre para disputar nuevas jornadas de las Eliminatorias Sudamericanas.
------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana es el delantero que más goles marcó en el último mes de los convocados a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T173146.621.jpg)
-
-La lista de convocados de la **Selección** **de** **Ecuador** se dio a conocer este viernes 4 de octubre. Hubo algunos cambios con respecto a la última convocatoria de Sebastián Beccacece, y uno de los nombres destacados fue el del delantero del **Inter Miami, Leonardo Campana**.
-
-El joven atacante de 24 años se ganó el llamado gracias a su buen rendimiento en el último mes con las ‘Garzas’ en la Major League Soccer (MLS) de Estados Unidos. Junto a Campana, **Beccacece** convocó a otros dos delanteros: Enner Valencia y Kevin Rodríguez.
-
-### Más noticias:
-
-* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
-* [Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses](https://www.elcomercio.com/deportes/futbol/leonardo-campana-convocado-sebastian-beccacece.html "Leonardo Campana vuelve a la Selección de Ecuador tras 11 meses")
-* [Leonardo Campana es una leyenda del Inter Miami](https://www.elcomercio.com/deportes/futbol/leonardo-campana-es-una-leyenda-del-inter-miami.html "Leonardo Campana es una leyenda del Inter Miami")
-
-Aunque Campana ha tenido buenos números, no son extraordinarios, lo que genera cierta preocupación para la Selección de Ecuador. Sin embargo, el exjugador de **Barcelona SC** es actualmente el delantero más en forma de los tres convocados, con mejor rendimiento de cara al gol.
-
-Leonardo Campana, el delantero más goleador
--------------------------------------------
-
-Desde el 11 de septiembre, un día después del último partido de la Selección, hasta el 4 de octubre, **Leonardo** **Campana** ha sido el delantero que menos partidos ha jugado, con tres apariciones, frente a las cuatro de Valencia y Rodríguez.
-
-Por este motivo, es el que menos minutos ha disputado, con 105, en comparación con los 108 de Enner Valencia y los 249 de Kevin Rodríguez.
-
-A pesar de tener menos tiempo en el campo, ‘**Leo’ Campana es el delantero con mejor rendimiento goleador en ese periodo**. El ecuatoriano anotó dos goles, con un promedio de un tanto cada 52 minutos, frente a rivales como Atlanta United y New York City FC, ambos en la MLS.
-
-En segundo lugar, aparece **Enner Valencia**, quien ha marcado un solo gol ante RB Bragantino en el Campeonato Brasileño. Por su parte, Kevin Rodríguez no ha podido anotar en ese lapso.
-
-Campana y su relación con la ‘Tri’
-----------------------------------
-
-A sus 24 años, **Leonardo Campana** ha tenido una relación intermitente con la Selección de Ecuador, con apariciones esporádicas y sin consolidarse. En 15 partidos disputados con la ‘Tri’, aún no ha logrado anotar.
-
-Su **debut con la selección** fue bajo el mando de Hernán Darío Gómez, cuando tenía 18 años, 7 meses y 26 días. Jugó 45 minutos en una derrota 1-0 ante Estados Unidos. En esa misma gira, sumó otros 45 minutos en un empate 0-0 frente a Honduras.
-
-Su primer partido oficial en Eliminatorias fue el 12 de octubre de 2020, en la victoria 4-2 ante Uruguay en el estadio Rodrigo Paz Delgado. Gustavo Alfaro lo mandó al camp**o** para disputar los últimos cinco minutos.
-
-**Campana también jugó en la Copa América Brasil 2021**, donde debutó como titular en el empate 2-2 contra Venezuela, completando los 90 minutos.
-
-Estos son los cortes de luz para Esmeraldas, este 5 de octubre
-==============================================================
-
-Cortes de luz en Esmeraldas tienen varias franjas horarias.
------------------------------------------------------------
-
-![Cortes de luz se aplicarán en Esmeraldas y otros puntos de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/corte-de-luz-2.jpg)
-
-Este 5 de octubre de 2024, la provincia de **Esmeraldas** enfrentará **cortes de luz**. Hay varios horarios y sectores afectados por los racionamientos[.](https://es.wikipedia.org/wiki/Esmeraldas_(Ecuador))[](https://es.wikipedia.org/wiki/Esmeraldas_(Ecuador))
-
-La comunidad, que vive mayoritariamente del sector turístico, podrá consultar las zonas y franjas horarias en línea, a través de un [enlace definido](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/).
-
-### Más noticias
-
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-* [Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma](https://www.elcomercio.com/actualidad/negocios/12-provincias-tendran-cortes-de-luz-domingo-22-de-septiembre-del-2024.html "Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma")
-* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
-
-Cortes de luz en Esmeraldas
----------------------------
-
-Los ciudadanos de la **Provincia Verde** han expresado su frustración por los cortes, debido a las pérdidas en los negocios.
-
-Algunas personas han optado por buscar alternativas, utilizando **generadores eléctricos** o ajustando las jornadas de producción, como en la elaboración de comidas.
-
-Los cortes de luz programados empezaron el 22 de septiembre de 2024, debido a la **crisis energética** en Ecuador, agravada por la sequía.
-
-En principio, los **apagones** se extendieron hasta por 12 horas y, actualmente, en promedio duran seis.
-
-Recomendaciones por cortes de luz
----------------------------------
-
-Las medidas de seguridad, como mantenerse en los domicilios, son parte fundamental con los cortes de luz. El **Ecu 911** sí atiende las emergencias que se reporten.
-
-A la par, la comunidad debe contar con planes de seguridad familiar y, de ser el caso, en urbanizaciones, edificios y condominios.
-
-Sobre los **electrodomésticos** es importante tener precauciones. En el caso del refrigerador, se puede abastecer de hielo o bolsas térmicas que mantienen los productos fríos.
-
-Es recomendable desconectar los equipos antes de los **cortes de luz**, con base en los horarios.
-
-Esmeraldas y los horarios
--------------------------
-
-Los cortes en Esmeraldas serán, por ejemplo, entre las 00:00 a 05:00 y de 10:00 a 15:00. Esto según la información oficial. Este es el caso de cantones como **Eloy Alfaro y San Lorenzo**.
-
-Otras **franjas horarias** que se contempla son de 10:00 a 15:00 y de 20:00 a 00:00.
