@@ -75,31 +75,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 852 1
+0 868 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff-gif/louis-created-by-pandear/)
+[](https://yiff-party.com/yiff/frostfur-blizzard-entertainment-and-etc-created-by-ksenik/)
 
-[louis created by pandear](https://yiff-party.com/yiff-gif/louis-created-by-pandear/)
+[frostfur (blizzard entertainment and etc) created by ksenik](https://yiff-party.com/yiff/frostfur-blizzard-entertainment-and-etc-created-by-ksenik/)
 
-0 3 0
+0 2 0
 
 October 5, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-knuthulhu/)
+[](https://yiff-party.com/yiff-gif/created-by-bluevanilla-artist/)
 
-[directed by knuthulhu](https://yiff-party.com/yiff-ai-premium/directed-by-knuthulhu/)
+[created by bluevanilla (artist)](https://yiff-party.com/yiff-gif/created-by-bluevanilla-artist/)
 
-0 45 0
+0 131 0
 
 September 5, 2024
 
-[](https://yiff-party.com/yiff/mara-created-by-alcorart/)
+[](https://yiff-party.com/yiff/falco-lombardi-and-fox-mccloud-nintendo-and-etc-created-by-jumpy-jackal/)
 
-[mara created by alcorart](https://yiff-party.com/yiff/mara-created-by-alcorart/)
+[falco lombardi and fox mccloud (nintendo and etc) created by jumpy jackal](https://yiff-party.com/yiff/falco-lombardi-and-fox-mccloud-nintendo-and-etc-created-by-jumpy-jackal/)
 
-0 108 0
+0 92 0
 
 September 5, 2024
 
