@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans](https://i.kym-cdn.com/featured_items/icons/wide/000/026/130/1.jpg "Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans")
+* [!['Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/144/maitake_guru_guru.jpg "'Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media")
     
-    Yuki Suou, A Chaos Gremlin Of A Sister In 'Alya Sometimes Hides Her Feelings In Russian,' Is A Hit Among 'Those' Sorts Of Anime Fans](https://knowyourmeme.com/memes/yuki-suou)
+    'Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media](https://knowyourmeme.com/memes/maitake-guru-guru)
     
-* [![Warning: Everyone Is 100 Km From Your House And Approaching Rapidly](https://i.kym-cdn.com/featured_items/icons/wide/000/026/129/cover1.jpg "Warning: Everyone Is 100 Km From Your House And Approaching Rapidly")
+* [![fake 'brat' billboard meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/026/143/brat_billoard_memes_cover.jpg "Charli XCX's 'Brat' Remix Album Promotion Sparks Fake Billboards Memes On Social Media")
     
-    Warning: Everyone Is 100 Km From Your House And Approaching Rapidly](https://knowyourmeme.com/memes/this-person-is-100-km-near-your-house)
+    Charli XCX's 'Brat' Remix Album Promotion Sparks Fake Billboards Memes On Social Media](https://knowyourmeme.com/memes/brat-billboard-parodies)
     
-* [![Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade](https://i.kym-cdn.com/featured_items/icons/wide/000/026/128/drilpic.jpg "Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade")
+* [![Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey](https://i.kym-cdn.com/featured_items/icons/wide/000/026/142/Screenshot_2024-10-03_at_2.22.08_PM.jpg "Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey")
     
-    Dril's Tweet About 'Good and Bad Things' Has Been An Internet Staple For A Decade](https://knowyourmeme.com/memes/there-is-zero-difference-between-good-and-bad-things)
+    Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey](https://knowyourmeme.com/memes/if-you-actually-like-when-movies-do-this)
     
-* [![America's Hitler meme example and Vance's leaked text message. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/127/America's_Hitler_cover_V2.jpg "J.D. Vance Called Trump 'America's Hitler' Before VP Pick And Now The Internet Is Posting Memes Using His Leaked Quote")
+* [![What You Imagine vs. What I Imagine is an art trend that grew popular on TikTok in September 2024. The trend shows two characters each with their own thought bubbles, with the person wearing glasses visualizing a wholesome scene while the person with a less excited expression visualizes something more explicit. The original comic inspired several redraws where people inserted fanart of their favourite ships](https://i.kym-cdn.com/featured_items/icons/wide/000/026/141/what_I_think.jpg "This Ship Dynamic Redraw Trend Is Pitting The Romantic One Against The Lewd One")
     
-    J.D. Vance Called Trump 'America's Hitler' Before VP Pick And Now The Internet Is Posting Memes Using His Leaked Quote](https://knowyourmeme.com/memes/americas-hitler)
+    This Ship Dynamic Redraw Trend Is Pitting The Romantic One Against The Lewd One](https://knowyourmeme.com/memes/what-you-imagine-vs-what-i-imagine)
     
-* [![Jimmy Carter 100th Birthday Photo](https://i.kym-cdn.com/featured_items/icons/wide/000/026/126/jimmy_carter_birthday_photo.jpg "Jimmy Carter Turned 100 Years Old Yesterday And Photos From His Celebration Have The Internet Concerned")
+* [![A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions](https://i.kym-cdn.com/featured_items/icons/wide/000/026/140/cover4.jpg "A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions")
     
-    Jimmy Carter Turned 100 Years Old Yesterday And Photos From His Celebration Have The Internet Concerned](https://knowyourmeme.com/memes/jimmy-carter-100th-birthday-photo)
+    A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right)
     
 
 ##### Also Trending:
 
-[#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot")
+[Bait Used to Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable "Bait Used to Be Believable") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [Jimmy Carter 100th Birthday Photo](https://knowyourmeme.com/memes/jimmy-carter-100th-birthday-photo "Jimmy Carter 100th Birthday Photo") [The Amazing Digital Circus](https://knowyourmeme.com/memes/subcultures/the-amazing-digital-circus "The Amazing Digital Circus")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
