@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 03, 2024
+October 04, 2024
 
-Changing how we see the world
+Your passport to adventure, without a visa
 
-Our stories today about the future of the Middle East, Ivy League presidents, and elections in Brazil have absolutely nothing to do with one another. But when I finished reading them, I couldn’t help but feel my view of the world shift in some important way.The stories are at turns bracing, honest, and hopeful. But each is fundamentally constructive, looking directly into difficulty or darkness and seeking some wisdom or humanity. Sometimes, journalism changes the world. Sometimes, it just changes how we think about it. Sometimes, one can be the beginning of the other.    
+As a child, my great love was National Geographic. On long car trips I’d sit, crammed amid the luggage, but really exploring the Amazon rainforests or the steppes of Asia through the remarkable photography.Today, Melanie Stetson Freeman takes us to the streets of Old Dhaka. It’s a place I didn’t visit even during my three years as a reporter in South Asia. (Bangladesh refused my visa request.) But thanks to Mel, we all get to visit, no visa required.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
