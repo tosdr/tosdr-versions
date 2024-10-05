@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BR vs GAW - Live](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-caribbean-premier-league-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - Live")[NZW vs INDW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94561/nzw-vs-indw-4th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v India Women, 4th Match, Group A - NZW Won")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 2nd ODI - RSA Won")[WIW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94559/wiw-vs-rsaw-3rd-match-group-b-icc-womens-t20-world-cup-2024 "West Indies Women v South Africa Women, 3rd Match, Group B - RSAW Won")[MUM vs ROI - Stumps](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUSW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94577/ausw-vs-slw-5th-match-group-a-icc-womens-t20-world-cup-2024 "Australia Women v Sri Lanka Women, 5th Match, Group A - Preview")[BR vs GAW - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-caribbean-premier-league-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - GAW Won")[MUM vs ROI - Live](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")[RSA vs IRE - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-ireland-v-south-africa-in-uae-2024 "South Africa v Ireland, 2nd ODI - RSA Won")[NZW vs INDW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94561/nzw-vs-indw-4th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v India Women, 4th Match, Group A - NZW Won")
 
 AllLive NowToday
 
@@ -66,6 +66,12 @@ AllLive NowToday
     
     2nd ODI
     
+* Pakistan v England, 2024
+    
+    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Upcoming")
+    
+    1st Test
+    
 * ICC Mens East Asia-Pacific T20WCQB
     
     [Indonesia vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102801/idn-vs-phi-9th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Philippines, 9th Match - IDN Won")
@@ -76,11 +82,11 @@ AllLive NowToday
     
     10th Match
     
-* [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/102817/idn-vs-jpn-11th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Japan, 11th Match - Preview")
+* [Philippines vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102826/phi-vs-skr-11th-match-icc-mens-east-asia-pacific-t20wcqb "Philippines v South Korea, 11th Match - Complete")
     
     11th Match
     
-* [South Korea vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102826/skr-vs-phi-12th-match-icc-mens-east-asia-pacific-t20wcqb "South Korea v Philippines, 12th Match - Preview")
+* [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/102817/idn-vs-jpn-12th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Japan, 12th Match - Preview")
     
     12th Match
     
@@ -104,15 +110,11 @@ AllLive NowToday
     
     CPL 2024
     
-    [Saint Lucia Kings vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92950/slk-vs-gaw-qualifier-1-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Qualifier 1 - SLK Won")
-    
-    Qualifier 1
-    
-* [Barbados Royals vs Guyana Amazon Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - Live")
+    [Barbados Royals vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - GAW Won")
     
     Qualifier 2
     
-* [Saint Lucia Kings vs TBC](https://www.cricbuzz.com/live-cricket-scores/92964/slk-vs-tbc-final-cpl-2024 "Saint Lucia Kings v TBC, Final - Upcoming")
+* [Saint Lucia Kings vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92964/slk-vs-gaw-final-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Final - Upcoming")
     
     Final
     
@@ -122,6 +124,10 @@ AllLive NowToday
     
     5th Match
     
+* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
+    
+    6th Match
+    
 * [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103440/wpr-vs-nwest-8th-match-csa-t20-challenge "Western Province v North West, 8th Match - NWEST Won")
     
     8th Match
@@ -129,10 +135,6 @@ AllLive NowToday
 * [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - LIONS Won")
     
     7th Match
-    
-* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
-    
-    6th Match
     
 * [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - Upcoming")
     
@@ -190,7 +192,7 @@ AllLive NowToday
     
     Irani Cup 2024
     
-    [Mumbai vs Rest of India](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Stumps")
+    [Mumbai vs Rest of India  LIVE](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Live")
     
     Irani Cup
     
@@ -200,15 +202,19 @@ AllLive NowToday
     
     1st Youth Test
     
+* [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Upcoming")
+    
+    2nd Youth Test
+    
 * ICC CWC Challenge League A, 2024-26
     
-    [Kuwait vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108137/kuw-vs-png-13th-match-icc-cwc-challenge-league-a-2024-26 "Kuwait v Papua New Guinea, 13th Match - PNG Won")
-    
-    13th Match
-    
-* [Qatar vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108129/qat-vs-ken-12th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Kenya, 12th Match - KEN Won")
+    [Qatar vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108129/qat-vs-ken-12th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Kenya, 12th Match - KEN Won")
     
     12th Match
+    
+* [Kuwait vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108137/kuw-vs-png-13th-match-icc-cwc-challenge-league-a-2024-26 "Kuwait v Papua New Guinea, 13th Match - PNG Won")
+    
+    13th Match
     
 * [Denmark vs Jersey](https://www.cricbuzz.com/live-cricket-scores/108145/den-vs-jer-15th-match-icc-cwc-challenge-league-a-2024-26 "Denmark v Jersey, 15th Match - Preview")
     
@@ -260,7 +266,7 @@ AllLive NowToday
     
     3rd T20I
     
-* [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107755/jpnw-vs-sinw-4th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 4th T20I - Preview")
+* [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107755/jpnw-vs-sinw-4th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 4th T20I - Complete")
     
     4th T20I
     
@@ -575,41 +581,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131867/kerrs-controversial-non-run-out-decision-leaves-india-incensed "Kerr's controversial non run-out decision leaves India incensed")
+  [](https://www.cricbuzz.com/cricket-news/131873/pooran-russell-among-seniors-to-skip-sri-lanka-tour "Pooran, Russell among seniors to skip Sri Lanka tour")
 
-[Kerr's controversial non run-out decision leaves India incensed](https://www.cricbuzz.com/cricket-news/131867/kerrs-controversial-non-run-out-decision-leaves-india-incensed "Kerr's controversial non run-out decision leaves India incensed")
+[Pooran, Russell among seniors to skip Sri Lanka tour](https://www.cricbuzz.com/cricket-news/131873/pooran-russell-among-seniors-to-skip-sri-lanka-tour "Pooran, Russell among seniors to skip Sri Lanka tour")
 
-35m ago
+57m ago
 
-  [](https://www.cricbuzz.com/cricket-news/131866/devine-inspires-new-zealand-to-a-commanding-win-over-india "Devine inspires New Zealand to a commanding win over India")
+  [](https://www.cricbuzz.com/cricket-news/131872/the-devine-rescue-sophie-showcases-her-value-at-no-4 "The Devine Rescue: Sophie showcases her value at No 4")
 
-[Devine inspires New Zealand to a commanding win over India](https://www.cricbuzz.com/cricket-news/131866/devine-inspires-new-zealand-to-a-commanding-win-over-india "Devine inspires New Zealand to a commanding win over India")
+[The Devine Rescue: Sophie showcases her value at No 4](https://www.cricbuzz.com/cricket-news/131872/the-devine-rescue-sophie-showcases-her-value-at-no-4 "The Devine Rescue: Sophie showcases her value at No 4")
 
-7h ago
+2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131865/franchises-write-to-bcci-questioning-new-rtm-clause "Franchises write to BCCI questioning new RTM clause")
+  [](https://www.cricbuzz.com/cricket-news/131871/devine-hails-new-zealands-strategic-win-over-india "Devine hails New Zealand's strategic win over India")
 
-[Franchises write to BCCI questioning new RTM clause](https://www.cricbuzz.com/cricket-news/131865/franchises-write-to-bcci-questioning-new-rtm-clause "Franchises write to BCCI questioning new RTM clause")
+[Devine hails New Zealand's strategic win over India](https://www.cricbuzz.com/cricket-news/131871/devine-hails-new-zealands-strategic-win-over-india "Devine hails New Zealand's strategic win over India")
 
-7h ago
+2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131864/rutherford-abrupt-exit-from-patriots-team-shrouded-in-controversy "Rutherford's abrupt exit from Patriots team shrouded in controversy")
+  [](https://www.cricbuzz.com/cricket-news/131870/amazon-warriors-enter-cpl-2024-final-with-clinical-win "Amazon Warriors enter CPL 2024 final with clinical win")
 
-[Rutherford's abrupt exit from Patriots team shrouded in controversy](https://www.cricbuzz.com/cricket-news/131864/rutherford-abrupt-exit-from-patriots-team-shrouded-in-controversy "Rutherford's abrupt exit from Patriots team shrouded in controversy")
+[Amazon Warriors enter CPL 2024 final with clinical win](https://www.cricbuzz.com/cricket-news/131870/amazon-warriors-enter-cpl-2024-final-with-clinical-win "Amazon Warriors enter CPL 2024 final with clinical win")
 
-8h ago
+4h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131863/future-forward-can-india-find-answers-to-key-questions "Future Forward - Can India find answers to key questions?")
+  [](https://www.cricbuzz.com/cricket-news/131869/south-africa-sweat-over-bavumas-fitness-after-ruthless-win "South Africa sweat over Bavuma's fitness after ruthless win")
 
-[Future Forward - Can India find answers to key questions?](https://www.cricbuzz.com/cricket-news/131863/future-forward-can-india-find-answers-to-key-questions "Future Forward - Can India find answers to key questions?")
+[South Africa sweat over Bavuma's fitness after ruthless win](https://www.cricbuzz.com/cricket-news/131869/south-africa-sweat-over-bavumas-fitness-after-ruthless-win "South Africa sweat over Bavuma's fitness after ruthless win")
 
-10h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131862/mahmudullah-in-focus-as-bangladesh-set-out-on-road-to-2026-t20-world-cup "Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup")
+  [](https://www.cricbuzz.com/cricket-news/131868/stubbs-maiden-odi-ton-helps-south-africa-clinch-series "Stubbs maiden ODI ton helps South Africa clinch series")
 
-[Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup](https://www.cricbuzz.com/cricket-news/131862/mahmudullah-in-focus-as-bangladesh-set-out-on-road-to-2026-t20-world-cup "Mahmudullah in focus as Bangladesh set out on road to 2026 T20 World Cup")
+[Stubbs maiden ODI ton helps South Africa clinch series](https://www.cricbuzz.com/cricket-news/131868/stubbs-maiden-odi-ton-helps-south-africa-clinch-series "Stubbs maiden ODI ton helps South Africa clinch series")
 
-11h ago
+5h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
