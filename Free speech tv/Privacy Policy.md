@@ -296,6 +296,7 @@ This Privacy Policy is effective as of March 1, 2024.
 
 * [How to Watch](https://freespeech.org/how-to-watch/)
 * [Schedule](https://freespeech.org/schedule/)
+* [Content Submissions](https://freespeech.org/content-submissions/)
 
 ### Help
 
