@@ -18,6 +18,6 @@ Beyond this, it's important that you trust whoever runs **Rant.li**. Software ca
 
 * * *
 
-[Rant.li](https://rant.li/) [about](https://rant.li/about) [reader](https://rant.li/read) [contact](https://rant.li/contact) [privacy](https://rant.li/privacy)
+[Rant.li](https://rant.li/) [about](https://rant.li/about) [reader](https://rant.li/read) [contact](https://rant.li/contact) [privacy](https://rant.li/privacy) [donate](https://rant.li/blog/donate)
 
 powered by [writefreely](https://writefreely.org/)
