@@ -270,6 +270,7 @@ Mon-Saturday 8am-5pm MST
 ##### Company
 
 * [Reviews](https://pilotinstitute.com/reviews/)
+* [Community](https://pilotinstitute.com/community/)
 * [About Us](https://pilotinstitute.com/about-us/)
 * [Contact Us](https://pilotinstitute.com/contact-us/)
 * [Affiliate Program](https://pilotinstitute.com/affiliates/)
