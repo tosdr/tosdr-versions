@@ -205,27 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Historical Inaccuracies (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part-2/1/)
-* [Before and After Movies](https://www.somethingawful.com/photoshop-phriday/before-after-movies/1/)
-* [More Classic Literature Autosummarized](https://www.somethingawful.com/news/classic-books-autosummarized/)
-* [Classy Games (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classy-video-games/1/)
-* [soFeminine.co.uk, Teen Pregnancy, and BYOB](https://www.somethingawful.com/weekend-web/teen-pregnancy-woman/1/)
+* [Freeballing Forums and Low Hanging Support Group](https://www.somethingawful.com/weekend-web/balls-forums/1/)
+* [Da-Blocc and Boylove Online Community](https://www.somethingawful.com/weekend-web/weekend-web-gang/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Mark of the Beast is MONEY](https://www.somethingawful.com/awful-links/awful-link-2562/)
+* [Gulf War II: The Reckoning!](https://www.somethingawful.com/comedy-goldmine/gulf-war-ii/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD](http://forums.somethingawful.com/showthread.php?threadid=4071947 "ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [How the hell do you avoid being scammed from buying concert tickets?](http://forums.somethingawful.com/showthread.php?threadid=4071963 "How the hell do you avoid being scammed from buying concert tickets?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD](http://forums.somethingawful.com/showthread.php?threadid=4071947 "ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD")
 
 ### Random Articles
 
-* [I HELD A GUN ON A TATTOO ARTIST TO PUT A "COOL S" ON ALEX JONES](https://www.somethingawful.com/news/alex-jones-rnc/)
-* [Gaming Guyz 4](https://www.somethingawful.com/flash-tub/gaming-guyz-4/)
-* [I Hate You Page 227](https://www.somethingawful.com/cliff-yablonski/i-hate-you-227/)
-* [Intervention Superstars: Jeff VanVonderen](https://www.somethingawful.com/news/intervention-superstars-jeff/1/)
-* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
+* [Careers After Politics!](https://www.somethingawful.com/comedy-goldmine/careers-after-politics/1/)
+* [McMurder](https://www.somethingawful.com/awful-links/awful-link-3822/)
+* [IncrediDolls (Thanks, Testikles!) (NWS!)](https://www.somethingawful.com/awful-links/incredidoll-photography/)
+* [Memos from Bear Cave: The '79 Houston Soup & Broth Expo](https://www.somethingawful.com/news/bear-cave-expo/)
+* [The Ultimate Christmas Site](https://www.somethingawful.com/awful-links/awful-link-1195/)
 
 [Random!](https://www.somethingawful.com/random/)
 
