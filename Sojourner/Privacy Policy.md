@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-31aef66edebaeea5f6adecc9f940132e
+e9fb56e342a3b71d8a1f1cb56bd67893
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Hand-made copper bell, 2 inch](https://www.sojourner.biz/images/cache/TT0008nmb3.200.jpg)](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
+[![Jais scarabe clasp](https://www.sojourner.biz/images/cache/SKU0519front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/jais-scarabe-clasp.html "Jais scarabe clasp")
 
-#### [Hand-made copper bell, 2 inch](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
+#### [Jais scarabe clasp](https://www.sojourner.biz/clasps/swarovski/jais-scarabe-clasp.html "Jais scarabe clasp")
 
-$5.00
+$19.00
 
 ### Best Sellers
 
