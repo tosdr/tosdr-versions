@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Peace
+
+### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
+
 [Joy
 
 ### Vibrant times for children’s rhymes](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1004/Vibrant-times-for-children-s-rhymes "Vibrant times for children’s rhymes")
@@ -99,10 +103,6 @@ Recent Stories
 [Prosperity
 
 ### Harris and Trump spar over economic impact of taxes and tariffs](https://www.csmonitor.com/Business/2024/1004/harris-trump-taxes-tariffs-economy "Harris and Trump spar over economic impact of taxes and tariffs")
-
-[Trust
-
-### Neighbors, eye to eye? Where a politics writer found America’s new comfort zone.](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2434 "Neighbors, eye to eye? Where a politics writer found America’s new comfort zone.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
+
 [### Misinformation from Trump, far-right hampers Helene recovery efforts](https://www.csmonitor.com/USA/2024/1005/hurricane-helene-north-carolina-trump-disinformation-government-conspiracy "Misinformation from Trump, far-right hampers Helene recovery efforts")
 
 [### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
-
-[### Big development in Jan. 6 case against Trump. Why now?](https://www.csmonitor.com/USA/Justice/2024/1003/donald-trump-jan6-trial-jack-smith-indictment "Big development in Jan. 6 case against Trump. Why now?")
 
 * * *
 
