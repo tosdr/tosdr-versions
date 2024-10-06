@@ -174,6 +174,16 @@ our latest posts, news, and updates ([read more…](https://mstechglobal.com/blo
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
 
+![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_11.png)](https://mstechglobal.com/mg-pdf-split-merge-changelog/)
+
+### [MG PDF Split Merge Changelog 2024](https://mstechglobal.com/mg-pdf-split-merge-changelog/)
+
+October 6, 2024 No Comments
+
+[Read More »](https://mstechglobal.com/mg-pdf-split-merge-changelog/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+
 ![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_06.png)](https://mstechglobal.com/mg-easy-desktop-organizer-pro-plus-changelog/)
 
 ### [MG Easy Desktop Organizer Pro Plus Changelog](https://mstechglobal.com/mg-easy-desktop-organizer-pro-plus-changelog/)
@@ -191,16 +201,6 @@ July 21, 2024 No Comments
 July 14, 2024 No Comments
 
 [Read More »](https://mstechglobal.com/mq-qr-code-generator-changelog/)
-
-[![Customizing folder colors and icons - Enhanced Organization](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20427'%3E%3C/svg%3E)
-
-![Customizing folder colors and icons - Enhanced Organization](https://mstechglobal.com/wp-content/uploads/2024/07/pic01.jpg)](https://mstechglobal.com/customizing-folder-colors-and-icons/)
-
-### [Customizing Folder Colors and Icons: 5 Keys You Should be Aware to Boost Your Productivity](https://mstechglobal.com/customizing-folder-colors-and-icons/)
-
-July 13, 2024 No Comments
-
-[Read More »](https://mstechglobal.com/customizing-folder-colors-and-icons/)
 
 Copyright © 2024 MSTECH GLOBAL | Powered by [Astra WordPress Theme](https://wpastra.com/)
 
