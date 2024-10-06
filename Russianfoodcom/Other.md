@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Рис с мясом (в микроволновке)](https://www.russianfood.com/recipes/recipe.php?rid=169273)
 * [Салат с нежным сыром буррата и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174416)
 * [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281)
-* [Мясное суфле](https://www.russianfood.com/recipes/recipe.php?rid=43596)
 * [Закуска "Глаз дракона" из колбасы с сыром и оливками](https://www.russianfood.com/recipes/recipe.php?rid=172153)
 * [Сосиски на хлебных подушках с сырной корочкой](https://www.russianfood.com/recipes/recipe.php?rid=172578)
 * [Щавелевый суп с охотничьими колбасками](https://www.russianfood.com/recipes/recipe.php?rid=173379)
 * [Окрошка на белом квасе с хреном](https://www.russianfood.com/recipes/recipe.php?rid=173835)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=24081)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
-* [Мусс из ржаной муки](https://www.russianfood.com/recipes/recipe.php?rid=41633)
+* [Хлеб картофельный](https://www.russianfood.com/recipes/recipe.php?rid=42200)
 
 |     |
 | --- |
@@ -248,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22683#comments) | 04.10.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22683#comments) | 04.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173271#comments) | 03.10.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173271#comments) | 03.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
-| [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
+| [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -478,5 +478,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(108)
