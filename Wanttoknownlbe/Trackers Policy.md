@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/het-wef-vraagt-jonge-blonde-meisjes-in-davos/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/bp-indirecte-oproep-tot-evacuatie-jane-burgermeisters-reactie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
