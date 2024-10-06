@@ -53,14 +53,12 @@ Follow us
 
 © 2024 Circle Media Labs, Inc. All rights reserved
 
-  
-
 Privacy
 =======
 
 ### Circle Privacy Policy
 
-Last Updated: July 20, 2023
+Last Updated: October 5, 2024
 
 Welcome to Circle, provided and maintained by Circle Media Labs, Inc., (“Circle,” “Company,” “We,” “Us,” or “Our”), a subsidiary of Aura Sub, LLC (“Aura”). Circle enables Our customers to manage the internet activity on devices connected to their home network (“Network” or “Circle Network”) through Our website located at [https://meetcircle.com](https:// https://meetcircle.com) (“Site”), Our Circle mobile application (“App”), and related devices and products (“Products” or “Device”) (collectively referred to as “Circle Services”). This Privacy Policy (“Policy”) applies to the Circle Services and describes how We collect, use, and disclose your information.
 
@@ -193,7 +191,7 @@ Circle collects certain information by automated means when You interact with ou
 
 When You visit Our Site, Circle may view and/or store the IP address of the device You are using. Circle uses this information to determine the general physical location of the device and understand from what regions of the world Our Site’s visitors come from. Circle also may use this information to enhance the Site.
 
-More information about Our use of cookies and other technologies, and your choices with these cookies, is set out [here](https://meetcircle.com/pages/legal-cookies).
+More information about Our use of cookies and other technologies, and your choices with these cookies, is set out in our [Cookie Policy](https://meetcircle.com/pages/legal-cookies).  
 
 Some browsers offer a “Do Not Track” (“DNT”) signal whereby You may indicate Your preference regarding tracking and cross-site tracking. Circle does not currently recognize or respond to DNT signals.
 
