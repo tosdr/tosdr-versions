@@ -50,3 +50,5 @@ OUR FAMILY
 • The DQ, Dairy Queen, ellipse shaped logo, Happy Tastes Good, Blizzard, MooLatte, Peanut Buster, Buster Bar, Dilly, Royal Treat, Royal Treats, Misty, Orange Julius, Julius, Tripleberry, Flamethrower and other related trademarks are owned by Am. D.Q. Corp. © 2024. Products and menus may vary by location; not all products listed are available in all locations.
 
 Do Not Sell or Share My Personal Information
+
+\>
