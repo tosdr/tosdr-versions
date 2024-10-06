@@ -31,6 +31,54 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Los embalses de las centrales Mazar y Paute bajaron
+===================================================
+
+Las dos hidroeléctricas aumentaron su producción para cubrir la demanda de energía en Ecuador.
+----------------------------------------------------------------------------------------------
+
+![El embalse de Mazar tiene una capacidad para 410 millones de metros cúbicos. Archivo/ EFE](https://www.elcomercio.com/wp-content/uploads/2024/04/mazar-electricidad-Ecuador-.jpg)
+
+El embalse de la **hidroeléctrica Mazar** perdió dos metros desde el jueves 3 de octubre. Este domingo 6 de octubre de 2024 se ubica en los 2 117,8 metros sobre el nivel de mar.
+
+El descenso se debe a dos factores. El primero es que las lluvias de intensidad en el Austro se ausentaron otra vez. Eso ocasionó que el caudal de los ríos **Tomebamba, Yanuncay, Machángara y Tarqui** regresen a niveles considerados como bajos.
+
+Los ríos **Santa Barbará, San Francisco, Burgay y Paute** no tienen grandes cantidades de caudal. 
+
+En los últimos tres días, el caudal promedio, que recibe el embalse de Mazar, se redujo de 26,26 a 14,79 en los últimos tres días. Cuando se registraron las lluvias de intensidad en Cuenca (fin de semana anterior) promedió los 43,08, según datos de **Celec Sur.**
+
+Este embalse puede almacenar hasta 410 millones de metros cúbicos de agua.
+
+### Más noticias
+
+* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
+* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
+
+Mazar reanudó sus operaciones
+-----------------------------
+
+El segundo factor para la reducción del **embalse de Mazar** fue la reanudación de las operaciones en la casa de máquinas. El 28 y 29 de septiembre, las dos turbinas estuvieron apagadas. El lunes 30, la producción fue mínima y dejó de generar hasta el 4 de octubre.
+
+Desde entonces genera entre 1 754,68 a 1 922,92 megavatios/hora. Además, el embalse de Mazar es la principal fuente de alimentación de agua para la represa de **Amaluza** de la **central Paute**, que está ubicada aguas abajo.
+
+Las condiciones en el central Paute
+-----------------------------------
+
+La cota de la presa de **Amaluza** también se redujo de los 1 985,82 a 1 983,79, entre el 1 de octubre y este domingo 6. El nivel mínimo es de 1 975 y el máximo de 1 991. Este embalse es más pequeño que el de **Mazar** porque solo tiene capacidad para almacenar 120 millones de metros cúbicos de agua.
+
+Pero es importante mantener esta reserva porque **Paute** tiene instalada la segunda mayor capacidad de generación de **Ecuador**, luego de **Coca Codo Sinclair**.
+
+**Paute** subió su producción para cubrir la demanda nacional. El 4 y 5 de octubre generó 16 489 y 12 786 megavatios/hora. En los días previos aportaba entre 2 729 y 3 346.
+
+La generación prevista en Ecuador 
+----------------------------------
+
+**Coca Codo Sinclair** aportará con el 29% de la generación hidroeléctrica que demandará **Ecuador** este domingo 6 de octubre.
+
+**Paute** entregará con el 17%, **Sopladora** con el 11% y **Mazar** con el 4% de la producción hidroeléctrica, según el informe publicado por el **Operador Nacional de Electricidad (Cenace).** 
+
+Este ente programó que el 61% de la demanda de energía sea cubierta por hidroeléctrica y el porcentaje restante por las térmicas, eólicas, a gas, entre otras.
+
 Un juicio político de cabeza
 ============================
 
@@ -838,71 +886,3 @@ Además de su carrera jurídica, Zavala Egas fue un apasionado educador. Desempe
 > — Procuraduría Ecuador (@PGEcuador) [October 5, 2024](https://twitter.com/PGEcuador/status/1842602552598352229?ref_src=twsrc%5Etfw)
 
 Jorge Zavala Egas fue hijo del exvicepresidente Jorge Zavala Baquerizo y hermano del también prestigioso abogado Xavier Zavala Egas.
-
-Banda dedicada al robo de vehículos y autopartes fue desarticulada en Quito
-===========================================================================
-
-La Policía detuvo a los desconocidos tras una persecución. Los delincuentes fueron atrapados en flagrancia.
------------------------------------------------------------------------------------------------------------
-
-![Las autopartes robadas fueron encontradas en la cajuela del vehículo en el que los sospechosos huían](https://www.elcomercio.com/wp-content/uploads/2024/10/quito-partes.jpg)
-
-La **Policía Nacional** desarticuló una organización delictiva que **robaba vehículos** y autopartes en Quito.
-
-Luego de recibir varias denuncias de afectados, los uniformados investigaron cómo y dónde operaba la agrupación.
-
-### Más noticias
-
-* [Incendio en una vivienda dejó dos adultos mayores heridos en Quito](https://www.elcomercio.com/actualidad/quito/incendio-vivienda-sur-quito-adultos-mayores.html "Incendio en una vivienda dejó dos adultos mayores heridos en Quito")
-* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-
-Es así que este viernes 4 de octubre de 2024, los delincuentes fueron detectados mientras cometían el delito en **flagrancia** en el sector de Calderón, en el nororiente de la capital.
-
-Según detalló **Eduardo Serrano**, jefe de la Unidad Nacional de Investigación de Delitos Contra la Propiedad (Un-Bac) de la Policía, las cámaras de seguridad y videos de redes sociales, en los que se observaban otros robos, ayudaron a la investigación.
-
-Policía capturó a los delincuentes tras una persecución
--------------------------------------------------------
-
-**Cuatro sospechosos** desmantelaron las piezas de un vehículo en este barrio y huyeron sin percatarse que eran vigilados por la Policía.
-
-Al pedirles que se detengan, los desconocidos trataron de escapar.
-
-A la altura del redondel de **Carapungo**, en la av. Simón Bolívar, los uniformados interceptaron al automotor en los que intentaban fugarse y sometieron a los delincuentes.
-
-Al abrir la puerta trasera del vehículo se encontraron las **autopartes** recién robadas.
-
-Los gendarmes recuperaron varios indicios, entre ellos, instrumentos y herramientas con los que forzaban las piezas vehiculares.
-
-Los **tres hombres y una mujer** fueron puestos a órdenes de la autoridad competente.
-
-> CUATRO CIUDADANOS DETENIDOS EN [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Desarticulamos una organización dedicada presuntamente al delito de robo de vehículos y autopartes.  
->   
-> Fueron aprehendidos en flagrancia y puestos a órdenes de la autoridad competente. [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ywezhvTqDX](https://t.co/ywezhvTqDX)
-> 
-> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 5, 2024](https://twitter.com/PoliciaDMQZona9/status/1842400650828636537?ref_src=twsrc%5Etfw)
-
-Operativos de seguridad en el norte de Quito
---------------------------------------------
-
-En otros operativos de seguridad realizados por la Policía Nacional en el **norte de Quito** se capturó a tres personas.
-
-Durante el operativo Intervención 3, realizado en el Comité del Pueblo, se encontró a un ciudadano que tenía una boleta de captura pendiente por el delito de **robo**.
-
-Mientras que en un control policial en los sectores **Iñaquito** y **La Kennedy** se aprehendió a un sospechoso que tenía en su posesión un **arma de fuego** y cinco cartuchos de bala.
-
-Otro ciudadano también fue sorprendido con droga en su poder.
-
-Los tres ciudadanos fueron puestos a órdenes de los jueces, para que resuelvan su situación legal.
-
-> APREHENSIÓN DE DOS CIUDADANOS EN [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Operativos policiales realizados en Iñaquito y La Kennedy, dejaron como resultados:  
->   
-> ▪︎ Un sujeto aprehendido por tenencia de sustancias sujetas a fiscalización.  
->   
-> ▪︎ Un ciudadano aprehendido por porte de arma de fuego.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LeUijWbCe8](https://t.co/LeUijWbCe8)
-> 
-> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 5, 2024](https://twitter.com/PoliciaDMQZona9/status/1842407577369378967?ref_src=twsrc%5Etfw)
