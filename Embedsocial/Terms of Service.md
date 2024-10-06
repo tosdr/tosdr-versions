@@ -159,6 +159,11 @@ Search
          ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)
         
         Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
+    *   [![Trustpilot icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
+        
+         ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)
+        
+        Trustpilot Reviews Widget](https://embedsocial.com/blog/embed-trustpilot-reviews/ "Trustpilot Reviews Widget")
     
     New: Widgets Templates Library
     
