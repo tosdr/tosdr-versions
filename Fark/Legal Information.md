@@ -234,7 +234,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["Oakland is better in person" for \_\_\_\_\_\_\_](https://www.fark.com/goto/13417804) ( [nbcbayarea.com](https://www.fark.com/goto/13417804) ) » [(16 comments)](https://www.fark.com/comments/13417804/Oakland-is-better-in-person-for-_______) |
-| [Discussion](https://www.fark.com/discussion/) | [Sports records, geography, the UK nanny state, and redneck food are all on the Fark Weird News Quiz, Sept 27-Oct 3 Is Your Refrigerator Running Edition](https://www.fark.com/goto/13417964) ( [fark.com](https://www.fark.com/goto/13417964) ) » [(10 comments)](https://www.fark.com/comments/13417964/Sports-records-geography-UK-nanny-state-redneck-food-are-all-on-Fark-Weird-News-Quiz-Sept-27-Oct-3-Is-Your-Refrigerator-Running-Edition) |
-| [Sports](https://www.fark.com/sports/) | [35 years after wrecking his brothers' dragster, Tod Higgins returns to auto racing and... spins out](https://www.fark.com/goto/13417800) ( [espn.com](https://www.fark.com/goto/13417800) ) » [(1 comment)](https://www.fark.com/comments/13417800/-35-years-after-wrecking-his-brothers-dragster-Tod-Higgins-returns-to-auto-racing-spins-out) |
-| [Business](https://www.fark.com/business/) | [It all comes down to nuts and bolts. The same nuts and bolts](https://www.fark.com/goto/13417806) ( [arstechnica.com](https://www.fark.com/goto/13417806) ) » [(7 comments)](https://www.fark.com/comments/13417806/It-all-comes-down-to-nuts-bolts-The-same-nuts-bolts) |
-| [STEM](https://www.fark.com/stem/) | [Phase 2 begins with online rule arguments about the finer details of "Finders v. Keepers"](https://www.fark.com/goto/13417862) ( [npr.org](https://www.fark.com/goto/13417862) ) » [(0 comments)](https://www.fark.com/comments/13417862/Phase-2-begins-with-online-rule-arguments-about-finer-details-of-Finders-v-Keepers) |
-| [Entertainment](https://www.fark.com/entertainment/) | [If it's October, it's time to start putting up the Christmas decorations](https://www.fark.com/goto/13417784) ( [independent.co.uk](https://www.fark.com/goto/13417784) ) » [(13 comments)](https://www.fark.com/comments/13417784/If-its-October-its-time-to-start-putting-up-Christmas-decorations) |
-| [Fandom](https://www.fark.com/fandom/) | [It's time for you to touch grass](https://www.fark.com/goto/13417836) ( [npr.org](https://www.fark.com/goto/13417836) ) » [(11 comments)](https://www.fark.com/comments/13417836/Its-time-for-you-to-touch-grass) |
-| [D'awww](https://www.fark.com/dawww/) | [A good boy is always there to help](https://www.fark.com/goto/13417906) ( [imgur.com](https://www.fark.com/goto/13417906) ) » [(0 comments)](https://www.fark.com/comments/13417906/A-good-boy-is-always-there-to-help) |
-| [Food](https://www.fark.com/food/) | [Japan's replica food made of resin and wax is now fine art](https://www.fark.com/goto/13417782) ( [mainichi.jp](https://www.fark.com/goto/13417782) ) » [(2 comments)](https://www.fark.com/comments/13417782/Japans-replica-food-made-of-resin-wax-is-now-fine-art) |
-| [Politics](https://www.fark.com/politics/) | [Of course, a traitor would rename an American military base for another traitor](https://www.fark.com/goto/13417888) ( [stripes.com](https://www.fark.com/goto/13417888) ) » [(6 comments)](https://www.fark.com/comments/13417888/Of-course-a-traitor-would-rename-an-American-military-base-for-another-traitor) |
+| [Main](https://www.fark.com/) | [Some people pay extra for that](https://www.fark.com/goto/13418026) ( [yahoo.com](https://www.fark.com/goto/13418026) ) » [(3 comments)](https://www.fark.com/comments/13418026/Some-people-pay-extra-for-that) |
+| [Discussion](https://www.fark.com/discussion/) | [Does a Walz-Vance debate cold open await? Or Jack Smith? Can Jost and Che save the show again? Will we be treated to some Please Don't Destroy? Nate Bargatze hosts, Coldplay will be the musical guest you're too cool to watch. SNL, 11:30PM ET on NBC](https://www.fark.com/goto/13417278) ( [deadline.com](https://www.fark.com/goto/13417278) ) » [(166 comments)](https://www.fark.com/comments/13417278/Does-a-Walz-Vance-debate-cold-open-await-Or-Jack-Smith-Can-Jost-Che-save-show-again-Will-we-be-treated-to-some-Please-Dont-Destroy-Nate-Bargatze-hosts-Coldplay-will-be-musical-guest-youre-too-cool-to-watch-SNL-1130PM-ET-on-NBC) |
+| [Sports](https://www.fark.com/sports/) | [LOL Tide](https://www.fark.com/goto/13417984) ( [espn.com](https://www.fark.com/goto/13417984) ) » [(22 comments)](https://www.fark.com/comments/13417984/LOL-Tide) |
+| [Business](https://www.fark.com/business/) | [Covid didn't kill indie bookstores](https://www.fark.com/goto/13418080) ( [salon.com](https://www.fark.com/goto/13418080) ) » [(1 comment)](https://www.fark.com/comments/13418080/Covid-didnt-kill-indie-bookstores) |
+| [STEM](https://www.fark.com/stem/) | [That's a win-win](https://www.fark.com/goto/13418044) ( [mashable.com](https://www.fark.com/goto/13418044) ) » [(9 comments)](https://www.fark.com/comments/13418044/Thats-a-win-win) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Assassin's Greed](https://www.fark.com/goto/13418024) ( [thegamer.com](https://www.fark.com/goto/13418024) ) » [(2 comments)](https://www.fark.com/comments/13418024/Assassins-Greed) |
+| [Fandom](https://www.fark.com/fandom/) | ["The most fun I had going to see the new Joker movie was in the car ride to and from it, because I was listening to Warhammer 40K lore on the Horus Heresy. And just listening to that was better than seeing Joker Folie a Deux"](https://www.fark.com/goto/13417898) ( [youtube.com](https://www.fark.com/goto/13417898) ) » [(24 comments)](https://www.fark.com/comments/13417898/The-most-fun-I-had-going-to-see-new-Joker-movie-was-in-car-ride-to-from-it-because-I-was-listening-to-Warhammer-40K-lore-on-Horus-Heresy-And-just-listening-to-that-was-better-than-seeing-Joker-Folie-a-Deux) |
+| [D'awww](https://www.fark.com/dawww/) | [A good boy is always there to help](https://www.fark.com/goto/13417906) ( [imgur.com](https://www.fark.com/goto/13417906) ) » [(1 comment)](https://www.fark.com/comments/13417906/A-good-boy-is-always-there-to-help) |
+| [Food](https://www.fark.com/food/) | [Food is "best before" it gets moldy and should be "sold by" people who know the difference](https://www.fark.com/goto/13417914) ( [the-sun.com](https://www.fark.com/goto/13417914) ) » [(31 comments)](https://www.fark.com/comments/13417914/Food-is-best-before-it-gets-moldy-should-be-sold-by-people-who-know-difference) |
+| [Politics](https://www.fark.com/politics/) | [It's a cult](https://www.fark.com/goto/13418076) ( [newsweek.com](https://www.fark.com/goto/13418076) ) » [(7 comments)](https://www.fark.com/comments/13418076/Its-a-cult) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 05 2024 21:43:58  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 06 2024 03:43:23  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
