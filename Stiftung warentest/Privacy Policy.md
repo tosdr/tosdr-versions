@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Service Stiftung Warentest
 
