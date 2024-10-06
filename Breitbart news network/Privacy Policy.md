@@ -54,10 +54,9 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Trump Butler Rally](https://www.breitbart.com/tag/butler-county/)
+* [Helene Devastation](https://www.breitbart.com/tag/hurricane/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
-* [Vance-Walz Debate](https://www.breitbart.com/tag/tim-walz/)
-* [Helene Destruction](https://www.breitbart.com/tag/hurricane/)
-* [Port Worker Strike](https://www.breitbart.com/tag/port-workers/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
 
