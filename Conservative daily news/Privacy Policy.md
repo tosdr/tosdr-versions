@@ -177,6 +177,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Whitetail Forge Knife Goes to Africa](https://www.thegunpage.com/the-whitetail-forge-knife-goes-to-africa/10611034)
+* [15 Great Photos From The 2024 NRA National High Power Rifle Championships](https://www.thegunpage.com/15-great-photos-from-the-2024-nra-national-high-power-rifle-championships/10611032)
 * [(00)7 James Bond Guns You Didn’t Know About](https://www.thegunpage.com/007-james-bond-guns-you-didnt-know-about/10611024)
 * [Silencer Saturday #349: Angstadt Arms Prophet Integral Silencer](https://www.thegunpage.com/silencer-saturday-349-angstadt-arms-prophet-integral-silencer/10611023)
 * [Best New Deer Loads for Fall](https://www.thegunpage.com/best-new-deer-loads-for-fall/10611018)
@@ -185,8 +187,6 @@ Recent Posts
 * [SCOTUS Takes Case Concerning Mexico’s Lawsuit Against U.S. Gunmakers](https://www.thegunpage.com/scotus-takes-case-concerning-mexicos-lawsuit-against-u-s-gunmakers/10611012)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 3](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-3/10611015)
 * [POTD: The Sako TRG M10](https://www.thegunpage.com/potd-the-sako-trg-m10/10611009)
-* [TFB Podcast Roundup 149: The October 4th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-149-the-october-4th-roundup/10611010)
-* [The New Monolith Bufferless DI Rifle From Global Ordnance](https://www.thegunpage.com/the-new-monolith-bufferless-di-rifle-from-global-ordnance/10611011)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
