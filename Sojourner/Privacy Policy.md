@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-174375d90f1e9237e2809e3cfc8742ef
+39358f53643c724c94f81017fa5816a5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm by 12 mm gray green jasper oval beads](https://www.sojourner.biz/images/cache/stone/STN066.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-12-mm-gray-green-jasper-oval-beads.html "20 mm by 12 mm gray green jasper oval beads")
+[![Peridot stone chips](https://www.sojourner.biz/images/cache/peridot_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-#### [20 mm by 12 mm gray green jasper oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-12-mm-gray-green-jasper-oval-beads.html "20 mm by 12 mm gray green jasper oval beads")
+#### [Peridot stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-$13.00
+$10.00
 
 ### Best Sellers
 
@@ -193,10 +193,10 @@ $13.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 10. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
 
