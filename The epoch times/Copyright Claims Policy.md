@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Day in Photos: Butler Rally, Detained Activist, and Human Tower](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
+* [Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Day in Photos: Butler Rally, Detained Activist, and Human Tower](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Butler Rally, Detained Activist, and Human Tower](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736094-GettyImages-2176947987-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
+    ![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730439-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
+* [Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
+    
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
+* [Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
+    
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736094-GettyImages-2176947987-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
 * [New Mexico’s Nuclear Town Has Big Housing Problem](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
     
-    6hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    12hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736035-Nuclear-Los-Alamos-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
 * [Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
     
-    6hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
+    12hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
     
     [![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735964-AP24279547206707-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
 * [Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
 * [Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
     
-    8hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684554-New-York-home-for-sale-GettyImages-1310155972-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
 * [Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
     
-    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/uploads/2024/05/19/id5653135-Amazon-logo-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
 * [Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
     
-    9hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    15hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
     [![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/uploads/2019/12/19/installs-the-front-doors-on-a-2018-Ford-F-150-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
 * [Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
     
-    9hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    15hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/uploads/2024/07/17/id5688266-Ruben-Gutierrez-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
-* [Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://www.theepochtimes.com/us/tropical-storm-milton-forms-threatens-florida-gulf-coast-5735969)
-    
-    9hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Milton Expected to Become a Major Hurricane, DeSantis Declares State of Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736097-tsmilton2-205x123.png.webp)](https://www.theepochtimes.com/us/tropical-storm-milton-forms-threatens-florida-gulf-coast-5735969)
-* [Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://www.theepochtimes.com/us/trump-chastises-federal-response-to-hurricane-helene-vows-to-restore-fort-bragg-name-5735805)
-    
-    10hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
-    
-    [![Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Chastises Federal Response to Hurricane Helene, Vows to Restore ‘Fort Bragg’ Name](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735880-GettyImages-2176787168-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chastises-federal-response-to-hurricane-helene-vows-to-restore-fort-bragg-name-5735805)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
