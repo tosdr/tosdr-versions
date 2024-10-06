@@ -138,17 +138,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
 
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
   [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[The Russian war economy’s days are numbered](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
+[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
-  [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
-
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
-
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
 Editors' Picks
 --------------
@@ -171,27 +171,25 @@ By [Sam Roberts](https://www.japantimes.co.jp/author/6088/sam-roberts/ "Sam Robe
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
-[The Russian war economy’s days are numbered](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
+[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
-By [Anders Aslund](https://www.japantimes.co.jp/author/1556/anders-aslund/ "Anders Aslund")  
+By [Rory Carroll](https://www.japantimes.co.jp/author/1769/rory-carroll/ "Rory Carroll")  
 
-  [![A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425285.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A funeral is held for Russian military personnel and civilians killed in the war with Ukraine, at a cemetery in Luhansk, in Russian-controlled Ukraine, in May 2023. The U.S. estimates that 120,000 Russian soldiers have been killed and another 180,000 injured, further worsening the nation's manpower shortages and economic output.")](https://www.japantimes.co.jp/commentary/2024/10/04/world/the-russian-war-economy/ "The Russian war economy’s days are numbered")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba omits divisive proposals in first policy speech as PM](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
-
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
-
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425933.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/04/japan/politics/ishiba-policy-speech/ "Ishiba omits divisive proposals in first policy speech as PM")
+  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
 Podcast
 -------
@@ -254,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Florida faces new storm threat as region reels from Helene](https://www.japantimes.co.jp/news/2024/10/06/world/florida-new-storm/ "Florida faces new storm threat as region reels from Helene")
 
 1 hours ago
 
-[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
+[Intense Israeli bombing rocks Beirut ahead of war anniversary](https://www.japantimes.co.jp/news/2024/10/06/world/intense-israel-bombing/ "Intense Israeli bombing rocks Beirut ahead of war anniversary")
 
 1 hours ago
 
-[Ministry reports issues facing bookstores](https://www.japantimes.co.jp/business/2024/10/06/japan-ministry-bookstores/ "Ministry reports issues facing bookstores")
-
-1 hours ago
-
-[Japanese government to survey stockpiles at designated shelters](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-government-stockpile-shelters/ "Japanese government to survey stockpiles at designated shelters")
-
-1 hours ago
-
-['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
 
 2 hours ago
+
+[Rise of 'spot work' schemes leading to scams in Japan](https://www.japantimes.co.jp/news/2024/10/06/japan/crime-legal/spot-work-scams/ "Rise of 'spot work' schemes leading to scams in Japan")
+
+4 hours ago
+
+[Italy's Eni in talks with Japan on supplying LNG, executive says](https://www.japantimes.co.jp/business/2024/10/06/companies/italy-eni-japan-lng-deal/ "Italy's Eni in talks with Japan on supplying LNG, executive says")
+
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
