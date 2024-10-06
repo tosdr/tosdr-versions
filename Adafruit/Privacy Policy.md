@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The mind is not a vessel that needs filling, but wood that needs igniting”
+“ In the beginner’s mind there are many possibilities, in the expert’s mind there are few”
 
-[Plutarch](https://en.wikipedia.org/wiki/Plutarch)
+[Shunryu Suzuki](http://en.wikipedia.org/wiki/Shunryu_Suzuki)
 
 [](https://www.adafruit.com/about)
 
