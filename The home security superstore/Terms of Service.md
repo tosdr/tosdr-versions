@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off All Voice Recoders | Code: VOICE15](https://www.thehomesecuritysuperstore.com/collections/voice-recorders?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Voice+Recoders)
+[15% Off SpyWfi™ Driveway Alarm | Code: DRIVE15](https://www.thehomesecuritysuperstore.com/collections/driveway-alarms?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SpyWfi%E2%84%A2+Driveway+Alarm)
 
-Today’s offer: :: | 15% Off All Voice Recoders | Code: VOICE15
+Today’s offer: :: | 15% Off SpyWfi™ Driveway Alarm | Code: DRIVE15
 
 Today’s offer: : :
 
- 15% Off All Voice Recoders Code: VOICE15
+ 15% Off SpyWfi™ Driveway Alarm Code: DRIVE15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
