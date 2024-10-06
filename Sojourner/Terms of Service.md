@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-546df27b77c353d047e65a643208edc0
+4ed6f54f72ad6f1ebff06f478dccd461
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm side-drilled oval pink pearls](https://sojourner.biz/images/cache/pearls/PE0038.200.jpg)](https://sojourner.biz/beads/pearls/6-mm-side-drilled-oval-pink-pearls.html "6 mm side-drilled oval pink pearls")
+[![Moss Pearl necklace and earrings](https://sojourner.biz/images/cache/N0063.200.jpg)](https://sojourner.biz/jewelry/necklaces/moss-pearl-necklace-and-earrings.html "Moss Pearl necklace and earrings")
 
-#### [6 mm side-drilled oval pink pearls](https://sojourner.biz/beads/pearls/6-mm-side-drilled-oval-pink-pearls.html "6 mm side-drilled oval pink pearls")
+#### [Moss Pearl necklace and earrings](https://sojourner.biz/jewelry/necklaces/moss-pearl-necklace-and-earrings.html "Moss Pearl necklace and earrings")
 
-$9.00
+$80.00
 
 ### Best Sellers
 
