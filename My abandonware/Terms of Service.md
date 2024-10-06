@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Mario Roulette](https://www.myabandonware.com/game/mario-roulette-sov)
-* [NeoGeo Battle Coliseum](https://www.myabandonware.com/game/neogeo-battle-coliseum-sou)
-* [NASCAR Arcade](https://www.myabandonware.com/game/nascar-arcade-sot)
-* [Mushihimesama](https://www.myabandonware.com/game/mushihimesama-sos)
-* [Mr. Driller G](https://www.myabandonware.com/game/mr-driller-g-sor)
+* [Chiki Chiki Boys](https://www.myabandonware.com/game/chiki-chiki-boys-787)
+* [Moto-Cross](https://www.myabandonware.com/game/moto-cross-sp5)
+* [Monaco GP](https://www.myabandonware.com/game/monaco-gp-sp4)
+* [Mobile Suit Gundam: Federation vs. Zeon](https://www.myabandonware.com/game/mobile-suit-gundam-federation-vs-zeon-sp3)
+* [Missile-X](https://www.myabandonware.com/game/missile-x-sp2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
